@@ -1735,7 +1735,7 @@ Static Function VerifProc()
 	//Caso necessário, exibe mensagem informando a necessidade de atualização do diferencial de dicionário
 	If __lPFIN002 == Nil
 		cProcedure	:= IIf(FindFunction("GetSPName"), GetSPName("FIN002", "10"), "FIN002")
-		__lPFIN002	:= ExistProc(cProcedure, StaticCall(FinXFin, VerIdProc))
+		__lPFIN002	:= ExistProc(cProcedure, &("StaticCall(FinXFin, VerIdProc)"))
 	EndIf
 
 	If !(IsBlind())

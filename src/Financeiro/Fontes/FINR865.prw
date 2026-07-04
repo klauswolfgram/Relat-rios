@@ -1200,7 +1200,7 @@ If !IsBlind()
 	EndDo
 Else
 	If FunName() == "RPC"
-		aCodRet := STATICCALL(FINR865TestCase,GetCodRet)
+		aCodRet := &("STATICCALL(FINR865TestCase,GetCodRet)")
 	Endif
 Endif
 

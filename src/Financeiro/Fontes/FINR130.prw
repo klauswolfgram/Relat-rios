@@ -171,7 +171,7 @@ Static Function ReportDef()
 
     __cDBType		:= Alltrim(Upper(TCGetDB()))
     __lBQ10925		:= SuperGetMV("MV_BQ10925",,"2") == "1"
-    __lProcSaldoTit	:= ExistProc( IIf( FindFunction( "GetSPName" ), GetSPName( "FIN002", "10" ), "FIN002" ), STATICCALL(FINXFIN,VERIDPROC) )
+    __lProcSaldoTit	:= ExistProc( IIf( FindFunction( "GetSPName" ), GetSPName( "FIN002", "10" ), "FIN002" ), &("STATICCALL(FINXFIN,VERIDPROC)") )
 
     oReport := TReport():New("FINR130",STR0005,"FIN130",{|oReport| ReportPrint(oReport)},STR0001+STR0002)
 
