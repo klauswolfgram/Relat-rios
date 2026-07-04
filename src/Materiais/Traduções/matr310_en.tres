@@ -1,0 +1,42 @@
+0001#STR0001#ALL#Report of Sold Products   
+0002#STR0002#ALL#This report presents the value of sales of each product,           
+0003#STR0003#ALL#calculating its participation in the total of sales. It also shows 
+0004#STR0004#ALL#the cost of each sale and the product's replacement cost           
+0005#STR0005#ALL#Z.Form 
+0006#STR0006#ALL#Management   
+0007#STR0007#ALL#RECORD(S)       Margin Formula    
+0008#STR0008#ALL#TP CODE                           DESCRIPTION                     QUANTITY            (A)COST        COST  BY       INV. VALUE       (B)VALUE    TAXES    NO     INVOICED VAL     MAR    MIX     MIX        VARIABLE COST
+0009#STR0009#ALL#                                                                                         TOTAL         UNIT             GROSS        INVOICED      INVOICED     IMP. NOT INV.     GEM   *MAR               REPOSITION   CAO
+0010#STR0010#ALL#Selecting Records...     
+0011#STR0011#ALL#CANCELLED BY THE OPERATOR
+0012#STR0012#ALL#Subtotal : 
+0013#STR0013#ALL#T O T A L ---> 
+0014#STR0014#ALL#Deduct Tax Not Bill.?
+0015#STR0015#ALL#No
+0016#STR0016#ALL#Yes
+0017#STR0017#ALL#Perc. to deduct
+0018#STR0018#ALL#Selecting Records...
+0019#STR0019#ALL#PT
+0020#STR0020#ALL#Code  
+0021#STR0021#ALL#Quantity  
+0022#STR0022#ALL#(A)Cost 
+0023#STR0023#ALL#Total
+0024#STR0024#ALL#Cost by  
+0025#STR0025#ALL#Unit   
+0026#STR0026#ALL#Billed Value
+0027#STR0027#ALL#Gross
+0028#STR0028#ALL#(B)Value
+0029#STR0029#ALL#Billed  
+0030#STR0030#ALL#Taxes not   
+0031#STR0031#ALL#Billed   
+0032#STR0032#ALL#Tax Not Bill.
+0033#STR0033#ALL#Margin
+0034#STR0034#ALL#Mix
+0035#STR0035#ALL#*Mar
+0036#STR0036#ALL#Cost of 
+0037#STR0037#ALL#Replacem.
+0038#STR0038#ALL#Variat. 
+0039#STR0039#ALL#Products
+0040#STR0040#ALL#TP CODE                           DESCRIPTION                QUANTITY        ONE      (A)COST        COST BY        INV VALUE       (B)VALUE    TAXES    NO     INVOICED VAL     MAR    MIX     MIX        VARIABLE COST
+0041#STR0041#ALL#Qty.
+0042#STR0042#ALL#Trans

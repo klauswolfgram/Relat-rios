@@ -1,0 +1,30 @@
+0001#STR0001#ALL#Este programa ira imprimir a relacao dos bens adquiridos como
+0002#STR0002#ALL#adiantamentos. Podera ser listado por Codigo, Conta, C.Custo,
+0003#STR0003#ALL#Projeto ou Data de Aquisicao.
+0004#STR0004#ALL#Relacao dos Adiantamentos
+0005#STR0005#ALL#Por Codigo
+0006#STR0006#ALL#Por Conta
+0007#STR0007#ALL#Por C.Custo
+0008#STR0008#ALL#Projeto
+0009#STR0009#ALL#Data
+0010#STR0010#ALL#Valores em 
+0011#STR0011#ALL#Codigo      Item   Conta Contabil         C. Custo                Projeto                  Data            Valor Adiantam.     Cta Deprec.            Conta Depr Acum        Conta Correcäo    Item Contabil   Classe Valor
+0012#STR0012#ALL#CANCELADO PELO OPERADOR
+0013#STR0013#ALL#TOTAL GERAL: 
+0014#STR0014#ALL#Zebrado
+0015#STR0015#ALL#Administracao
+0016#STR0016#ALL#TOTAL : 
+0017#STR0017#ALL#Item Contabil
+0018#STR0018#ALL#Classe de Valor
+0019#STR0019#ALL#Codigo      Item   Conta Contabil         C. Custo                Projeto                  Data            Valor Adiantam.     Cta Deprec.            Conta Depr Acum        Conta Correcäo       Classe Valor
+0020#STR0020#ALL#Codigo      Item   Conta Contabil         C. Custo                Projeto                  Data            Valor Adiantam.     Cta Deprec.            Conta Depr Acum        Conta Correcäo    Item Contabil
+0021#STR0021#ALL# DO CODIGO BASE 
+0022#STR0022#ALL# DA CONTA CONTABIL 
+0023#STR0023#ALL# DO ITEM CONTABIL 
+0024#STR0024#ALL# DA CLASSE DE VALOR 
+0025#STR0025#ALL# DO CENTRO DE CUSTO 
+0026#STR0026#ALL#Valor Adiatamento
+0027#STR0027#ALL#Item
+0028#STR0028#ALL#Código
+0029#STR0029#ALL#Ordem dos Adiantamentos
+0030#STR0030#ALL#Movimentos de Adiantamentos

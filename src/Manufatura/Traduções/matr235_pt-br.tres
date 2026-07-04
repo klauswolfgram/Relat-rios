@@ -1,0 +1,25 @@
+0001#STR0001#ALL#Relatorio de Perda
+0002#STR0002#ALL#Emite a relacao das perdas em producao no sistema, de acordo com a
+0003#STR0003#ALL#ordem selecionada pelo usuario. Relaciona as perdas de Scrap e Refugo
+0004#STR0004#ALL#que foram classificadas.
+0005#STR0005#ALL#Por OP
+0006#STR0006#ALL#Por Recurso
+0007#STR0007#ALL#Por Motivo
+0008#STR0008#ALL#Por Produto
+0009#STR0009#ALL#Por Data
+0010#STR0010#ALL#Por Operador
+0011#STR0011#ALL#Zebrado
+0012#STR0012#ALL#Administracao
+0013#STR0013#ALL#REGISTRO(S)
+0014#STR0014#ALL#da OP:
+0015#STR0015#ALL#do Recurso:
+0016#STR0016#ALL#do Motivo:
+0017#STR0017#ALL#do Produto:
+0018#STR0018#ALL#da Data:
+0019#STR0019#ALL#do Operador:
+0020#STR0020#ALL#Selecionando Registros...
+0021#STR0021#ALL#TP  ORDEM DE   ____________ORIGEM____________   MOTIVO                ___________DESTINO___________  DATA       RECUR. OP   OPERADOR 
+0022#STR0022#ALL#    PRODUCAO      PRODUTO         QUANTIDADE                            PRODUTO         QUANTIDADE                                   
+0023#STR0023#ALL#Total 
+0024#STR0024#ALL#TP  ORDEM DE   ____________ORIGEM____________   MOTIVO                ___________DESTINO___________  DATA                   OPERADOR 
+0025#STR0025#ALL#Descrição

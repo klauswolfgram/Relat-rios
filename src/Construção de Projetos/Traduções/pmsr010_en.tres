@@ -1,0 +1,22 @@
+0001#STR0001#ALL#Compositions File 
+0002#STR0002#ALL# This report will show a list of compositions and 
+0003#STR0003#ALL#its details(Items,Expenses,Subcompositions) according 
+0004#STR0004#ALL#to the selected parameters
+0005#STR0005#ALL#Z.Form
+0006#STR0006#ALL#Management
+0007#STR0007#ALL#CANCELLED BY THE OPERATOR
+0008#STR0008#ALL#REFERENCE      DESCRIPTION                                                                               UND  LAST UPDAT. USE
+0009#STR0009#ALL#ITEM PRODUCT             DESCRIPTION                                  TYPE     QUANTITY   UND     STD COST                     VALUE
+0010#STR0010#ALL#ITEM DESCRICPTION                                                     TYPE                                                     VALUE
+0011#STR0011#ALL#ITEM REFERENCE           DESCRIPTION                                           QUANTITY   UND     STD COST                     VALUE
+0012#STR0012#ALL#TOTAL....................:
+0013#STR0013#ALL#ITEMS
+0014#STR0014#ALL#EXPENSES
+0015#STR0015#ALL#SUB-COMPOSITION
+0016#STR0016#ALL#Items
+0017#STR0017#ALL#Expenses
+0018#STR0018#ALL#Subcomposition
+0019#STR0019#ALL#Amnt.
+0020#STR0020#ALL#Totallizer 
+0021#STR0021#ALL#**  COMPOSITION TOTAL  **
+0022#STR0022#ALL#Selecting records ...    

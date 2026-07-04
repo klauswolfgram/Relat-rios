@@ -1,0 +1,32 @@
+0001#STR0001#ALL#Imprime A Relação Dos Títulos A Pagar Que Sofreram Retenção De Impostos
+0002#STR0002#ALL#Código de barras
+0003#STR0003#ALL#Administração
+0004#STR0004#ALL#Por Código Fornecedor
+0006#STR0006#ALL#Os campos necessários para impressão do relatório não existem !
+0007#STR0007#ALL#Relação De Títulos A Pagar Com Retenção De Impostos
+0008#STR0008#ALL#Código         Nome Do Fornecedor             Nr. Contribuinte
+0009#STR0009#ALL#     Prf Número      Pc  Tipo  Dt Emissão Dt.vencto   Valor Original      Valor Sest      Valor IRS       Valor S.S.      Valor Seg. Social       Valor NISS    Valor Cofins      Valor Csll   Valor Líquido
+0010#STR0010#ALL#     Gnr Número      Pc  Tipo  Dt Emissão Dt.vencto   Valor Original                      Valor IRS       Valor Imposto Fiscal     Valor SS       Valor PIS    Valor COFINS      Valor CSLL   Valor Líquido
+0011#STR0011#ALL#A Seleccionar Registos...
+0012#STR0012#ALL#Cancelado Pelo Operador
+0013#STR0013#ALL#Total fornecedor  - 
+0014#STR0014#ALL#Títulos
+0015#STR0015#ALL#Título
+0016#STR0016#ALL#Total geral      ----> 
+0017#STR0017#ALL#A = Os valores de PIS,COFINS e CSLL deste tÍtulo foram retidos em outro tÍtulo.
+0019#STR0019#ALL#C = os registos referentes à factura não são incluídos nos totalizadores.
+0020#STR0020#ALL#Código
+0023#STR0023#ALL#Cgc
+0025#STR0025#ALL#Número
+0028#STR0028#ALL#Emissão
+0032#STR0032#ALL#Sest
+0033#STR0033#ALL#IRS
+0034#STR0034#ALL#Segurança social
+0035#STR0035#ALL#Irs
+0036#STR0036#ALL#Pis
+0037#STR0037#ALL#Cofins
+0038#STR0038#ALL#Csll
+0039#STR0039#ALL#Líquido
+0041#STR0041#ALL# Esses valores não são considerados na totalização desse relatório.
+0043#STR0043#ALL#Quando for informado "Sim" na pergunta "Filtra Códigos de Retenção?", deve ser seleccionado ao menos um código de retenção.
+0044#STR0044#ALL#Códigos de Retenção Seleccionados: 

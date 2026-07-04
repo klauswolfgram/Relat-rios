@@ -1,0 +1,25 @@
+0001#STR0001#ALL#Este programa tem como objectivo imprimir a posição de 
+0002#STR0002#ALL#Garantia (débitos/créditos) (scania)
+0003#STR0003#ALL#Posição Débitos/créditos - Scania
+0004#STR0004#ALL# [nro.os] [dt.abe] [ch.i] [chassis do veículo------] [modelo----------------------] [cliente------------------------------]
+0005#STR0005#ALL#Código de barras
+0006#STR0006#ALL#Administração
+0007#STR0007#ALL#          [ano]  [nr.rr] [dt.ret] [dt.tra] [dt.cre] [dt.est] [pec.tran] [pec.paga] [pec.est.] [srv.tran] [srv.pago] [srv.est.]
+0008#STR0008#ALL#Aguarde A Seleccionar Registo Para Impressão
+0009#STR0009#ALL#Peças.....................: 
+0010#STR0010#ALL#Despesa indirecta..........: 
+0011#STR0011#ALL#Tempo de permanência......: 
+0012#STR0012#ALL#Diferença de IC.........: 
+0013#STR0013#ALL#Serviços (mão-de-obra)....: 
+0014#STR0014#ALL#Custo especial............: 
+0015#STR0015#ALL#Deslocação..............: 
+0016#STR0016#ALL# Analítico
+0017#STR0017#ALL# Sintético
+0018#STR0018#ALL#*** cancelado pelo operador ***
+0019#STR0019#ALL#[posição analista---------] [transmitido] [pago-------]
+0020#STR0020#ALL#Totais da os..: 
+0021#STR0021#ALL#Data inicial      ?
+0022#STR0022#ALL#Data final        ?
+0023#STR0023#ALL#Tipo relatório    ?
+0024#STR0024#ALL#Analítico
+0025#STR0025#ALL#Sintético

@@ -1,0 +1,38 @@
+0001#STR0001#ALL#Extracto de tarefas                
+0002#STR0002#ALL#Sera impresso de acordo com os parâmetro s solicitados pelo
+0003#STR0003#ALL#Utilizador.
+0004#STR0004#ALL#Registo
+0005#STR0005#ALL#Centro De Custo
+0006#STR0006#ALL#Código de barras
+0007#STR0007#ALL#Administração
+0008#STR0008#ALL#E x t r a t o   d a   t a r e f a 
+0009#STR0009#ALL# filial  registo    nome empregado                c. custo -            descrição            código  - função                      
+0010#STR0010#ALL#  ( data )  
+0011#STR0011#ALL#  ( ACTIVID. )  
+0012#STR0012#ALL#|   data    |  código  |    descrição            |        valor        |    quantidade    |        valor           |
+0013#STR0013#ALL#| dd/mm/aa  |  ACTIV.  |     ACTIV.              |       unitário      |                  |        total           |
+0014#STR0014#ALL#Total da data --> 
+0015#STR0015#ALL#Total da activ. --> 
+0016#STR0016#ALL#|   data    |  código  |    descrição            |        valor        |    quantidade    |        valor           |
+0017#STR0017#ALL#| dd/mm/aa  |  activ.  |     activ.              |       unitário      |                  |        total           |
+0018#STR0018#ALL#Total da data --> 
+0019#STR0019#ALL#Total empregado --> 
+0020#STR0020#ALL#Total da activ. --> 
+0021#STR0021#ALL#Total empregado --> 
+0022#STR0022#ALL#                                                 |        valor        |    quantidade    |        valor           |
+0023#STR0023#ALL#                                                 |       unitário      |                  |        total           |
+0025#STR0025#ALL#                                                 |        valor        |    quantidade    |        valor           |
+0026#STR0026#ALL#                                                 |       unitário      |                  |        total           |
+0028#STR0028#ALL#Filial
+0029#STR0029#ALL#Nome Do Emprego
+0030#STR0030#ALL#Descrição
+0031#STR0031#ALL#Código - 
+0032#STR0032#ALL#Função
+0033#STR0033#ALL#Data
+0034#STR0034#ALL#Activ.
+0035#STR0035#ALL#Desc. Actividade
+0036#STR0036#ALL#Valor Unitário
+0037#STR0037#ALL#Quantidade
+0038#STR0038#ALL#Valor Total
+0039#STR0039#ALL#Total
+0040#STR0040#ALL#Este relatório lista o extrato de actividades conforme configuração de parâmetros

@@ -1,0 +1,59 @@
+0001#STR0001#ALL#Emissão de metas de campanha. 
+0002#STR0002#ALL#Este programa irá emitir uma relação das metas relacionan-
+0003#STR0003#ALL#Do-as às suas respectivas campanhas, guiões e eventos se 
+0004#STR0004#ALL#Desejado. 
+0005#STR0005#ALL#Código de barras
+0007#STR0007#ALL#Cancelado Pelo Operador.
+0008#STR0008#ALL#Facturação prevista : 
+0011#STR0011#ALL#Objectivo          : 
+0012#STR0012#ALL#Data inicial      : 
+0013#STR0013#ALL#Data final        : 
+0016#STR0016#ALL#Objectivo          : 
+0017#STR0017#ALL#Data inicial      : 
+0018#STR0018#ALL#Data final        : 
+0020#STR0020#ALL#Activo
+0023#STR0023#ALL#Telemarketing
+0024#STR0024#ALL#Televendas
+0025#STR0025#ALL#Telecobrança
+0027#STR0027#ALL#Público-alvo      : 
+0032#STR0032#ALL#Meta de contacto   : 
+0033#STR0033#ALL#Meta por operador : 
+0035#STR0035#ALL#Roi               : 
+0036#STR0036#ALL#%Roi              : 
+0037#STR0037#ALL#Novos leads prev. : 
+0040#STR0040#ALL#Guião            : 
+0042#STR0042#ALL#Tipo de atend.     : 
+0046#STR0046#ALL#Guardar resposta : 
+0047#STR0047#ALL#Sim
+0048#STR0048#ALL#Não
+0049#STR0049#ALL#Resultado mínimo      : 
+0050#STR0050#ALL#Acção mínima       : 
+0051#STR0051#ALL#Resultado máximo      : 
+0052#STR0052#ALL#Acção máxima       : 
+0053#STR0053#ALL#Media             : 
+0056#STR0056#ALL#Activa
+0058#STR0058#ALL#Artigo           : 
+0066#STR0066#ALL#Workshop
+0068#STR0068#ALL#Fórum
+0072#STR0072#ALL#Morada          : 
+0073#STR0073#ALL#Concelho         : 
+0074#STR0074#ALL#Distrito          : 
+0077#STR0077#ALL#Homepage         : 
+0078#STR0078#ALL#Email            : 
+0079#STR0079#ALL#Data  início      : 
+0080#STR0080#ALL#Data fim      : 
+0081#STR0081#ALL#Hora início       : 
+0082#STR0082#ALL#Hora fim      : 
+0085#STR0085#ALL# No local/pago
+0086#STR0086#ALL# Convénio
+0088#STR0088#ALL# Convénio/manobrista
+0089#STR0089#ALL# Gratuito C/ Manobrista
+0090#STR0090#ALL#Grelha                      Tema                                      Hr.iní. Hr.fim  Data       Sala       Palestrador                      Empresa
+0091#STR0091#ALL#Não existem dados a serem impressos para este relatório com os parâmetros escolhidos
+0092#STR0092#ALL#Metas Vendas/marketing
+0093#STR0093#ALL#Campanhas X Metas
+0095#STR0095#ALL#Documento Original Dinâmico X Campanha
+0096#STR0096#ALL#Documento Original Dinâmico
+0097#STR0097#ALL#Média relacionada com os itens da campanha
+0098#STR0098#ALL#Artigos
+0100#STR0100#ALL#Grelha De Eventos

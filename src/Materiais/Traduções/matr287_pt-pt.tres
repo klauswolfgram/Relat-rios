@@ -1,0 +1,12 @@
+0001#STR0001#ALL#Divergencias Em Multiplas Contagens
+0002#STR0002#ALL#Emite uma relação  que mostra os artigos que tem contagens 
+0003#STR0003#ALL#Divergentes, em quantidade, efectuadas no inventario numa 
+0004#STR0004#ALL#Data.
+0005#STR0005#ALL# por código    
+0006#STR0006#ALL# por tipo      
+0007#STR0007#ALL# por grupo     
+0008#STR0008#ALL# por descrição 
+0009#STR0009#ALL# por armazém   
+0010#STR0010#ALL#Lançamentos Para Inventario - Artigos
+0011#STR0011#ALL#Lançamentos Para Inventario - Contagens
+0014#STR0014#ALL#TP

@@ -1,0 +1,27 @@
+0001#STR0001#ALL#Listagem para Inventario
+0002#STR0002#ALL#Este programa emite um relatorio que facilita a digitacao
+0003#STR0003#ALL#das quantidades inventariadas.
+0004#STR0004#ALL#Ele e' emitido de acordo com os parametros informados.
+0005#STR0005#ALL# Por Codigo       
+0006#STR0006#ALL# Por Tipo         
+0007#STR0007#ALL# Por Descricao    
+0008#STR0008#ALL# Por Grupo        
+0009#STR0009#ALL#Zebrado
+0010#STR0010#ALL#Administracao
+0011#STR0011#ALL#PRODUTO(S)
+0012#STR0012#ALL#CODIGO          TP GRUPO DESCRICAO                      UM AMZ DESCRICAO       ENDERECO        LOTE       SUB    NUMERO           ______1a. CONTAGEM______       ______2a. CONTAGEM______       ______3a. CONTAGEM______
+0013#STR0013#ALL#                                                               ARMAZEM                                    LOTE   SERIE            QUANTIDADE      ETIQUETA       QUANTIDADE      ETIQUETA       QUANTIDADE      ETIQUETA
+0014#STR0014#ALL#CANCELADO PELO OPERADOR
+0015#STR0015#ALL#CODIGO          TP GRUP DESCRICAO                      UM AMZ ENDERECO         __1a. CONTAGEM__  __2a. CONTAGEM__  __3a. CONTAGEM__ 
+0016#STR0016#ALL#                                                                               QUANTIDADE ETIQU. QUANTIDADE ETIQU. QUANTIDADE ETIQU.
+0017#STR0017#ALL# Por Endereco     
+0018#STR0018#ALL# _______1a.
+0019#STR0019#ALL#Quantidade
+0020#STR0020#ALL#Contagem
+0021#STR0021#ALL#Etiqueta
+0022#STR0022#ALL# _______2a.
+0023#STR0023#ALL# _______3a.
+0024#STR0024#ALL#Produtos
+0025#STR0025#ALL#Saldos por Endereço
+0026#STR0026#ALL#CODIGO          TP GRUP DESCRICAO                      UM AMZ                  __1a. CONTAGEM__  __2a. CONTAGEM__  __3a. CONTAGEM__ 
+0027#STR0027#ALL#***********Fim do Relatório************

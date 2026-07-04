@@ -1,0 +1,59 @@
+0001#STR0001#ALL#Vda Amostras Iniciais
+0002#STR0002#ALL#A Criar Relatório, Aguarde...
+0003#STR0003#ALL#Relatório Vda De Inspecção De Amostras Iniciais
+0004#STR0004#ALL#Material De Peças Compradas(folha De Dados De Material)
+0005#STR0005#ALL#1. Denominação Da Empresa E Do Artigo
+0006#STR0006#ALL#1.1 dados do fabricante/fornecedor
+0008#STR0008#ALL#Rua/caixa Postal
+0009#STR0009#ALL#Código postal/concelho
+0010#STR0010#ALL#Responsável
+0011#STR0011#ALL#Telefone/fax
+0012#STR0012#ALL#Assinatura De Responsáveis:
+0013#STR0013#ALL#1.2 dados do artigo
+0014#STR0014#ALL#Peça:
+0015#STR0015#ALL#Nº Do Relatório De Amostra:
+0016#STR0016#ALL#Núm. De Zsb:
+0017#STR0017#ALL#Núm. De Pedido:
+0018#STR0018#ALL#Núm. De Artigo:
+0019#STR0019#ALL#Núm. De Factura:
+0020#STR0020#ALL#Alteração:
+0022#STR0022#ALL#2. Segurança E Meio-ambiente
+0023#STR0023#ALL#Materiais que, de acordo com a lei, estão sujeitos a uma proibição de utilização não podem
+0024#STR0024#ALL#Ser utilizados!
+0025#STR0025#ALL#Veja: lista vda sobre materiais com obrigatoriedade de declaração.
+0027#STR0027#ALL#As pecças contêm material com características de periculosidade de acordo com
+0028#STR0028#ALL#Chemg/gefstoffv (controlo de substâncias perigosas, tóxicos ou químicos) ?
+0029#STR0029#ALL#Não
+0030#STR0030#ALL#sIm   (caracteristicas de acordo com gefstoffv e concentrações devem ser declaradas em "componentes")
+0031#STR0031#ALL#Com manuseio adequado da peça podem ocorrer ou serem libertadas substâncias perigosas ?
+0032#STR0032#ALL#(veja lista vda para substâncias com obrigatoriedade de declaração)
+0033#STR0033#ALL#Sim   (preencher Item 10 Da Folha De Segurança De Dados Eg)
+0034#STR0034#ALL#A peça é um bem perigoso de acordo com a legislação de trânsito ?
+0035#STR0035#ALL#(legislação de transporte)
+0037#STR0037#ALL#A peça contém substâncias perigosas para a água, de acordo com a legislação da água ?
+0038#STR0038#ALL#Sim   (indicar quantidade e classe de perigo de contaminação das águas)
+0039#STR0039#ALL#A peça foi tratada com biocidas ?
+0040#STR0040#ALL#Sim   (teores > 0,1% devem ser indicados)
+0041#STR0041#ALL#Após a utilização da peça podem surgir documentos aos quais são relacionados código eak-code ?
+0043#STR0043#ALL#Relatório Vda De Amostra Inicial
+0044#STR0044#ALL#Material Das Peças
+0045#STR0045#ALL#Página :
+0046#STR0046#ALL#Materiais ou substâncias que estão submetidas a uma proibição de utilização não podem estar contidas
+0047#STR0047#ALL#Devem ser também declaradas substâncias que ocorram ou sejam libertadas na utilização
+0048#STR0048#ALL#Veja: lista vda para substâncias com obrigatoriedade de declaração!
+0049#STR0049#ALL#3. características das peças:
+0050#STR0050#ALL#Nº Zsb:
+0051#STR0051#ALL#Relatório De Amostras No:
+0052#STR0052#ALL#Denominação:
+0053#STR0053#ALL#Núm. De Peça/
+0054#STR0054#ALL#Núm. De Material
+0056#STR0056#ALL#Peça
+0058#STR0058#ALL#De Zsb
+0060#STR0060#ALL#Material/especific.
+0061#STR0061#ALL#Do artigo pelo
+0062#STR0062#ALL#Fabricante
+0063#STR0063#ALL#Substâncias
+0064#STR0064#ALL#Contidas
+0065#STR0065#ALL#Núm. Cas
+0066#STR0066#ALL#Denominação
+0067#STR0067#ALL#Do material

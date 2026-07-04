@@ -1,0 +1,54 @@
+0001#STR0001#BRA#Imposto de valor acrescentado (iva)
+0003#STR0003#BRA#Do Iva - Imposto De Valor Acrescentado 
+0004#STR0004#BRA#Código de barras
+0005#STR0005#BRA#Administração
+0007#STR0007#BRA#Preencher correctamente as informações solicitadas.
+0008#STR0008#BRA#Este procedimento irá permitir a configuração das informações 
+0009#STR0009#BRA#Necessárias       à criação do relatório auxiliar para o preenchimento do                    
+0011#STR0011#BRA#Informações criais:
+0014#STR0014#BRA#Criar informações de stock?
+0015#STR0015#BRA#1- Sim
+0017#STR0017#BRA#Damef - Cfops Utilizados Nas Entradas Do Distrito:
+0021#STR0021#BRA#Energia elétrica:
+0025#STR0025#BRA#Produtos agropecuários:
+0026#STR0026#BRA#Damef - Cfops Utilizados Nas Entradas De Outros Distritos:
+0027#STR0027#BRA#Damef - Cfops Utilizados Nas Entradas Do Exterior:
+0028#STR0028#BRA#Damef - Cfops Utilizados Nas Saídas Para O Distrito:
+0030#STR0030#BRA#Damef - Cfops Utilizados Nas Saídas Para Outros Distritos:
+0031#STR0031#BRA#Damef - Cfops Utilizados Nas Saídas Para O Exterior:
+0033#STR0033#BRA#Damef - declaração do movimento económico e fiscal
+0034#STR0034#BRA#Entrega Futura (simples Facturação):
+0035#STR0035#BRA#Activo Imobilizado:
+0036#STR0036#BRA#Material De Uso E Consumo:
+0037#STR0037#BRA#Mercadoria com suspensão de icms:
+0039#STR0039#BRA#Energia eléctrica/comunicação:
+0042#STR0042#BRA#Subcontratação de serv. De transporte:
+0043#STR0043#BRA#Remessa/ret.armazenamento/depósito:
+0044#STR0044#BRA#Informações referentes ao iva
+0045#STR0045#BRA#Gi - cfops para entradas com subst. tributária e saídas para não contribuintes:
+0046#STR0046#BRA#Entradas com subst. tributária - petróleo:
+0047#STR0047#BRA#Entradas com subst. tributaria - outros:
+0049#STR0049#BRA#O parâmetro MV_VAFA1 não está definido no dicionário de dados ou o seu conteúdo é inválido.
+0050#STR0050#BRA#Para que o procedimento  continue correctamente, 
+0051#STR0051#BRA#Será necessário respeitar a solução proposta abaixo.
+0052#STR0052#BRA#Incluir o parâmetro mv_vafa1 na tabela sx6 com a seguinte estrutura: 
+0053#STR0053#BRA#Campo da tabela sa1 que indica o código do concelho mineiro do cliente. 
+0054#STR0054#BRA#Para maiores referências, consultar a documentação que acompanha o procedimento .
+0055#STR0055#BRA#O parâmetro MV_VAFA2 não está definido no dicionário de dados ou o seu conteúdo é inválido.
+0056#STR0056#BRA#Incluir o parâmetro mv_vafa2 na tabela sx6 com a seguinte estrutura: 
+0057#STR0057#BRA#Campo da tabela sa2 que indica o código do concelho mineiro do fornecedor. 
+0058#STR0058#BRA#Iva - exclusões nas saídas:
+0059#STR0059#BRA#Parcela do icms retido por subst. tributária:
+0060#STR0060#BRA#Parcela IPI (não integra a base de cálculo):
+0062#STR0062#BRA#Saídas para não contribuintes:
+0063#STR0063#BRA#Gi - guia de informação interestadual
+0064#STR0064#BRA#Tributados:
+0065#STR0065#BRA#Sujeitos a subst. tributaria:
+0068#STR0068#BRA#A preparar base 2/5 – a processar movimentação de ipi
+0069#STR0069#BRA#A preparar base 1/5 – a processar movimentações de entrada/saída
+0100#STR0100#BRA#A Preparar Base 3/5 – A Processar Movimentação Com Suspensão Icms - Entradas
+0101#STR0101#BRA#A Preparar Base 4/5 – A Processar Movimentação Com Suspensão Icms - Saídas
+0102#STR0102#BRA#Transporte Contratado:
+0103#STR0103#BRA#Remessa/retorno da consignação:
+0104#STR0104#BRA#|                                    DETALHAMENTO DO VAF (OUTRAS ENTRADAS) POR CONCELHO                                    |
+0105#STR0105#BRA#|   Código  |         Nome do Concelho          |    Outras Entr.(80%)    |    Créd. Pres.(20%)   |         TOTAL          |

@@ -1,0 +1,15 @@
+0001#STR0001#ALL#List of financial expenses
+0002#STR0002#ALL#This report will show the list of financial expenses 
+0003#STR0003#ALL#SO executed services according to the parameters selected
+0004#STR0004#ALL#Z.Form
+0005#STR0005#ALL#Management
+0006#STR0006#ALL#SO-ITEM/SEQUENCE   ARRIVAL     PRODUCT          DESCRIPTION                     SERVICE      QUANTITY          UNIT VL.           VALUE  STATUS        
+0007#STR0007#ALL#Technician : 
+0008#STR0008#ALL#Supplier   : 
+0009#STR0009#ALL#Technic.: 
+0010#STR0010#ALL#PENDING
+0011#STR0011#ALL#GENERATED
+0012#STR0012#ALL#Break value : 
+0013#STR0013#ALL#Total valor : 
+0014#STR0014#ALL#Status  
+0015#STR0015#ALL#Pending technical annotation     

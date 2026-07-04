@@ -1,0 +1,26 @@
+0002#STR0002#ALL#Conforme O Quadro Vi Da Nr4.
+0003#STR0003#ALL#Código de barras
+0004#STR0004#ALL#Administração
+0005#STR0005#ALL#Quadro De Acidentes Sem Vitima
+0006#STR0006#ALL#Cancelado Pelo Operador
+0007#STR0007#ALL#|ACIDENTES SEM VÍTIMA___________________________________ PERÍODO DE
+0008#STR0008#ALL#|RESPONSÁVEL:________________________________________________________________  ASS:___________________________________ |
+0009#STR0009#ALL#|          Setor                          |   Número  |  Perda Material   |  Acid. S/Vítima  |      Observações        |
+0011#STR0011#ALL#|                                         |           |                   |  Acid. C/Vítima  |                         |
+0012#STR0012#ALL#Total Do Estabelecimento
+0013#STR0013#ALL#De data ?
+0014#STR0014#ALL#Até data?
+0015#STR0015#ALL#De cliente ?
+0017#STR0017#ALL#Até cliente ?
+0022#STR0022#ALL#|ACIDENTES SEM VÍTIMA_____________________________________________________________________    DATA DO MAPA:
+0023#STR0023#ALL#|RESPONSÁVEL:
+0025#STR0025#ALL#Código  do cliente. o campo pode permanecer vazio para considerar desde o primeiro código.
+0026#STR0026#ALL#Código  da loja do cliente. o campo pode permanecer vazio para considerar desde o primeiro código.
+0027#STR0027#ALL#Código  do cliente. o campo pode ser preenchido com a letra z até  o final para considerar o último código.
+0028#STR0028#ALL#Código  da loja do cliente. o campo pode ser preenchido com a letra z até  o final para considerar o último código.
+0031#STR0031#ALL#CONCELHO..: 
+0032#STR0032#ALL#MORADA: 
+0034#STR0034#ALL#Até Data ?
+0035#STR0035#ALL#De filial ?
+0036#STR0036#ALL#Até filial ?
+0037#STR0037#ALL#ATÉ

@@ -1,0 +1,28 @@
+0001#STR0001#ALL#Relaçäo de Contratos Emitidos
+0002#STR0002#ALL#Emissao da Relaçäo de Contratos Emitidos
+0003#STR0003#ALL#Ira imprimir os dados de Contratos Emitidos
+0004#STR0004#ALL#de acordo com a configuracao do usuario.
+0005#STR0005#ALL#Zebrado
+0006#STR0006#ALL#Administracao
+0007#STR0007#ALL#Criando Indice...
+0008#STR0008#ALL#*** CANCELADO PELO OPERADOR ***
+0009#STR0009#ALL#T O T A L ------------------------------------------------------------> 
+0010#STR0010#ALL# Fil. Orig. No. Contr. Data     Proprietario         Motorista                     Frete        Pedagio    Adto. Frete  Adto. Pedagio Qtde.CTRC Qtde.Volumes         Peso           IRRF     SEST/SENAT           INSS
+0011#STR0011#ALL#Relacao de Contratos Emitidos
+0012#STR0012#ALL#Emissao da Relacao de Contratos Emitidos
+0013#STR0013#ALL#Contratos
+0014#STR0014#ALL#Fil.Orig.
+0015#STR0015#ALL#No.Contr.
+0016#STR0016#ALL#Data
+0017#STR0017#ALL#Proprietario
+0018#STR0018#ALL#Motorista
+0019#STR0019#ALL#Frete
+0020#STR0020#ALL#Pedagio
+0021#STR0021#ALL#Adto.Frete
+0022#STR0022#ALL#Qtde.CTRC
+0023#STR0023#ALL#Qtde.Volumes
+0024#STR0024#ALL#Peso
+0025#STR0025#ALL#IRRF
+0026#STR0026#ALL#SEST/SENAT
+0027#STR0027#ALL#INSS
+0028#STR0028#ALL#Viagem

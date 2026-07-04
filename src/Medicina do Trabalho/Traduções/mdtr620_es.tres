@@ -1,0 +1,16 @@
+0001#STR0001#ALL#Informe de accidentes por tipo de accidentes.
+0002#STR0002#ALL#Por medio de los parametros el usuario puede seleccionar el periodo,
+0003#STR0003#ALL#C.Costo entre otras opciones disponibles para un mejor aprovechamiento.
+0004#STR0004#ALL#A rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#Accidentes por Tipo
+0007#STR0007#ALL#    Accid.  Fch. Accid. Mat.     Nomb Empleado                 Fch. Alta   Centro costo             Funcion        Obj.  Fch. CAT    Lic.  
+0008#STR0008#ALL#        Descripcion detallada del accidente
+0009#STR0009#ALL#ANULADO POR EL OPERADOR
+0010#STR0010#ALL#Tipo de accidente: 
+0011#STR0011#ALL#No hubo
+0012#STR0012#ALL# Dias
+0013#STR0013#ALL#Total de dias de licencia............: 
+0014#STR0014#ALL#Total general de dias de licencia......: 
+0015#STR0015#ALL#Cliente
+0016#STR0016#ALL#Tienda

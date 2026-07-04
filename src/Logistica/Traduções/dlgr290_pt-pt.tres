@@ -1,0 +1,19 @@
+0001#STR0001#ALL#Serviços Pendentes / Executados
+0002#STR0002#ALL#Relação de serviços x actividades x actividades pendentes
+0003#STR0003#ALL#E /ou executados. Os artigos serão filtrados de acordo
+0004#STR0004#ALL#Com os parâmetros utilizados pelo utilizador.
+0005#STR0005#ALL#Código de barras
+0006#STR0006#ALL#Administração
+0007#STR0007#ALL#Documento    ser artigo         ar quantidade    um lote       sub    serviço                     actividade                      atividade                   rec    rec    estrut mor             estrut mor           
+0008#STR0008#ALL#          lote                             humano físico origem origem          destino destino       
+0009#STR0009#ALL#A Seleccionar Registos...
+0010#STR0010#ALL#Cancelado Pelo Operador
+0011#STR0011#ALL#Movimentos por morada
+0013#STR0013#ALL#Arm.
+0014#STR0014#ALL#Um
+0015#STR0015#ALL#Serv.
+0017#STR0017#ALL#Activ
+0018#STR0018#ALL#Rec.hum.
+0019#STR0019#ALL#Rec.fís.
+0020#STR0020#ALL#Est.fís.
+0021#STR0021#ALL#Est.des.

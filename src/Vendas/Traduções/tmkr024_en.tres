@@ -1,0 +1,48 @@
+0001#STR0001#ALL#Services accomplished - Telesales   
+0002#STR0002#ALL#This program will issue a list of calls accomplished by the operator during Telesales servicing.
+0003#STR0003#ALL#The data will be issued according to the parameters informed.
+0004#STR0004#ALL#OBS: BUDGETS and ORDERS will only be considered.
+0005#STR0005#ALL#Z-Form
+0006#STR0006#ALL#Administration
+0007#STR0007#ALL#CANCELLED BY OPERATOR
+0008#STR0008#ALL#Item Product         Descript.                      St   Quant.    Unit Value         Item Vl  %Disc    Disc. Value  %Incr.   Increase Vl. TIO CFOP      Table       ICMS Base LP UM Deliv.     Lot        Sublot Validity
+0009#STR0009#ALL#No data to be printed for this report with the parameters informed.                 
+0010#STR0010#ALL#TOTAL
+0011#STR0011#ALL#Total of servicings registered for the period from 
+0012#STR0012#ALL# to 
+0013#STR0013#ALL#OPERATION                                         SERVICINGS     NEGOTIATED VALUE
+0014#STR0014#ALL#OPERATOR                                          SERVICINGS          BUDGETS              VALUE           INVOICED             VALUE
+0015#STR0015#ALL#INVOICED PRODUCT                                    QUANTITY                   %           VALUE
+0016#STR0016#ALL#MEDIA                                             SERVICINGS                   %
+0017#STR0017#ALL#INVOICED PRODUCT                                  MEDIA                                                   QUANTITY              VALUE
+0018#STR0018#ALL#CAMPAIGN                                          SERVICINGS                   %
+0019#STR0019#ALL#INVOICED PRODUCT                                  CAMPAIGN                                                QUANTITY              VALUE
+0020#STR0020#ALL#DATE      OPERATOR                                           SERVICINGS          BUDGETS              VALUE           INVOICED             VALUE
+0021#STR0021#ALL#DATE      MEDIA                                              SERVICINGS          BUDGETS              VALUE           INVOICED             VALUE
+0022#STR0022#ALL#DATE      CAMPAIGN                                           SERVICINGS          BUDGETS              VALUE           INVOICED             VALUE
+0023#STR0023#ALL#Descript.
+0024#STR0024#ALL#Operation type  
+0025#STR0025#ALL#Total services       
+0026#STR0026#ALL#Total by operation
+0027#STR0027#ALL#Operator
+0028#STR0028#ALL#Services    
+0029#STR0029#ALL#Quotations
+0030#STR0030#ALL#Amnt.
+0031#STR0031#ALL#Billed   
+0032#STR0032#ALL#Product billed  
+0033#STR0033#ALL#Media
+0034#STR0034#ALL#Quantity  
+0035#STR0035#ALL#Campaign
+0036#STR0036#ALL#Date
+0037#STR0037#ALL#Telesales quotation 
+0038#STR0038#ALL#Telesales quotation items    
+0039#STR0039#ALL#Service total    
+0040#STR0040#ALL#Quotation operator
+0041#STR0041#ALL#Quotation products
+0042#STR0042#ALL#Media
+0043#STR0043#ALL#Media x product values
+0044#STR0044#ALL#Service    
+0045#STR0045#ALL#Campaign
+0046#STR0046#ALL#DateVs.Operator
+0047#STR0047#ALL#DateVs.Avrge
+0048#STR0048#ALL#DateVs.Campaign

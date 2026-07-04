@@ -1,0 +1,24 @@
+0001#STR0001#ALL#Relatório das consultas marcadas classificadas por motivo. Baseado nas
+0002#STR0002#ALL#agendas dos médicos atendentes. Através dos parâmetros poderá ser     
+0003#STR0003#ALL#seleccionado o motivo, o médico e o período desejado.                       
+0004#STR0004#ALL#Código de barras
+0007#STR0007#ALL#Motivo         Descrição do motivo
+0008#STR0008#ALL#   Médico      Data           Hora                Paciente                                           Data atendimento
+0009#STR0009#ALL#Cancelado Pelo Operador
+0010#STR0010#ALL#Total de consultas do motivo 
+0011#STR0011#ALL#De cliente ?
+0013#STR0013#ALL#Até cliente ?
+0014#STR0014#ALL#Código  do cliente. o campo pode permanecer vazio para considerar desde o primeiro código.
+0015#STR0015#ALL#Código  da loja do cliente. o campo pode permanecer vazio para considerar desde o primeiro código.
+0016#STR0016#ALL#Código  do cliente. o campo pode ser preenchido com a letra z até  o final para considerar o último código.
+0017#STR0017#ALL#Código  da loja do cliente. o campo pode ser preenchido com a letra z até  o final para considerar o último código.
+0021#STR0021#ALL#Descrição  do motivo
+0026#STR0026#ALL#Data atendimento
+0028#STR0028#ALL#Total De Consultas
+0031#STR0031#ALL#Não existe informação para imprimir no relatório.
+0033#STR0033#ALL#Até data diagnost.?
+0034#STR0034#ALL#De  Data Diagnóst. ?
+0035#STR0035#ALL#Até médico?
+0036#STR0036#ALL#De  médico?
+0037#STR0037#ALL#Até motivo?
+0039#STR0039#ALL#A Processar Ficheiro...

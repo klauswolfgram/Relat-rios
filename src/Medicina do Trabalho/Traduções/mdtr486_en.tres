@@ -1,0 +1,50 @@
+0001#STR0001#ALL#Report of exams results per Exposure to Chemical Agents           
+0002#STR0002#ALL#Show exams executed in a detrmined period, allowing               
+0003#STR0003#ALL#the selection of Agents, Exams and Cost center.                   
+0004#STR0004#ALL#Z. Form
+0005#STR0005#ALL#Mangement
+0006#STR0006#ALL#Exams results per Exposure to Chemical Agents
+0007#STR0007#ALL#Cost Center               Cost Center Name
+0008#STR0008#ALL#Employee Reg. Number                    Performed   Agent   Agent Name            Exam.       Exam. Name           Amount           IBMP  U.M.     Res.
+0009#STR0009#ALL#CANCELED BY OPERATOR   
+0010#STR0010#ALL#Processing file ...   
+0011#STR0011#ALL#Cost C.
+0012#STR0012#ALL#Descript.
+0013#STR0013#ALL#Registr. 
+0014#STR0014#ALL#Employee   
+0015#STR0015#ALL#Performed
+0016#STR0016#ALL#Agent 
+0017#STR0017#ALL#Agent name    
+0018#STR0018#ALL#Exam 
+0019#STR0019#ALL#Exam name    
+0020#STR0020#ALL#Quantity  
+0021#STR0021#ALL#IBMP
+0022#STR0022#ALL#M.U.
+0023#STR0023#ALL#Res.
+0024#STR0024#ALL#Agent
+0025#STR0025#ALL#Exams
+0026#STR0026#ALL#Risk Group
+0027#STR0027#ALL#1=Physical;2=Chemical;3=Biologic;4=Ergonomic;5=Accident 
+0028#STR0028#ALL#Active subst.
+0029#STR0029#ALL#From Customer ?
+0030#STR0030#ALL#Unit
+0031#STR0031#ALL#To Customer ?
+0032#STR0032#ALL#Customer code. Leave the field blank to consider since the first code.
+0033#STR0033#ALL#Customer unit code. Leave the field blank to consider since the first code.
+0034#STR0034#ALL#Customer code. Fill in the field with Z up to its limit to consider the last code.
+0035#STR0035#ALL#Customer unit code. Fill in the field with Z up to its limit to consider the last code.
+0036#STR0036#ALL#Customer/Unit: 
+0037#STR0037#ALL#Customer
+0038#STR0038#ALL#Name
+0039#STR0039#ALL#No data to print in the report.
+0040#STR0040#ALL#Cost Center
+0041#STR0041#ALL#Cost Center Name
+0042#STR0042#ALL#To Result Date?
+0043#STR0043#ALL#From Result Date?
+0044#STR0044#ALL#To Exam?
+0045#STR0045#ALL#From Exam?
+0046#STR0046#ALL#To Agent?
+0047#STR0047#ALL#From Agent?
+0048#STR0048#ALL#To Cost Center?
+0049#STR0049#ALL#From Cost Center?
+0050#STR0050#ALL#IBMP

@@ -1,0 +1,35 @@
+0001#STR0001#ALL#Plan de Movimiento
+0002#STR0002#ALL#Este programa emite movimientos de los instrumentos para ajuste  
+0003#STR0003#ALL#segun los parametros solicitados.  
+0004#STR0004#ALL#
+0005#STR0005#ALL#Familia/Instrumento
+0006#STR0006#ALL#Familia/Dpto.
+0007#STR0007#ALL#Depto/Instrumento
+0008#STR0008#ALL#A Rayas
+0009#STR0009#ALL#Administracion
+0010#STR0010#ALL#Instrumento                                        			        Frec                         
+0011#STR0011#ALL#Tipo             Instrumento          Dpto.         Resp.      Dias Fabricante       SG | Prevision R. Retir Devolucion| Prevision R. Retir Devolucion| Prevision R. Retir Devolucion| Prevision R. Retir  Devolucion
+0012#STR0012#ALL#ANULADO POR EL OPERADOR
+0013#STR0013#ALL#Seleccionando registros. . .
+0014#STR0014#ALL#No es permitido fecha superior a 4 meses del periodo inicial.
+0015#STR0015#ALL#El sistema sugerira el periodo limite
+0016#STR0016#ALL#Rev.
+0017#STR0017#ALL#Depart.
+0018#STR0018#ALL#Frec.
+0019#STR0019#ALL#Dias
+0020#STR0020#ALL#Organo
+0021#STR0021#ALL#Calibrador
+0022#STR0022#ALL#SG
+0023#STR0023#ALL#Enero
+0024#STR0024#ALL#Febrero
+0025#STR0025#ALL#Marzo
+0026#STR0026#ALL#Abril
+0027#STR0027#ALL#Mayo
+0028#STR0028#ALL#Junio
+0029#STR0029#ALL#Julio
+0030#STR0030#ALL#Agosto
+0031#STR0031#ALL#Septiembre
+0032#STR0032#ALL#Octubre
+0033#STR0033#ALL#Noviembre
+0034#STR0034#ALL#Diciembre
+0035#STR0035#ALL#Prevision  R. Retir Devol

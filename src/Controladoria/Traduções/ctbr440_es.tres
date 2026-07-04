@@ -1,0 +1,60 @@
+0001#STR0001#ALL#Este programa imprimira el mayor por
+0002#STR0002#ALL#  de acuerdo con los parametros sugeridos
+0003#STR0003#ALL#  por el usuario.
+0004#STR0004#ALL#A Rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#Emision del mayor contable por 
+0007#STR0007#ALL#MAYOR POR 
+0008#STR0008#ALL# ANALITICO EN 
+0009#STR0009#ALL#DE
+0010#STR0010#ALL#A 
+0011#STR0011#ALL#(PRESUP)
+0012#STR0012#ALL#(DE GEST. )
+0013#STR0013#ALL#LOTE/SUB/DOC/LINEA HJ H I S T O R I A L                     C/PARTIDA
+0013#STR0013#ANG#LOTE/SUB/DOC/LINEA FL H I S T O R I A L                        C/PARTIDA
+0013#STR0013#EQU#LOTE/SUB/DOC/LINEA FL H I S T O R I A L                        C/PARTIDA
+0013#STR0013#HAI#LOTE/SUB/DOC/LINEA FL H I S T O R I A L                        C/PARTIDA
+0013#STR0013#MEX#LOTE/SUB/DOC/LINEA FL H I S T O R I A L                        C/PARTIDA
+0013#STR0013#PTG#LOTE/SUB/DOC/LINEA FL H I S T O R I A L                        C/PARTIDA
+0014#STR0014#ALL#	SINTETICO EN 
+0015#STR0015#ALL#***** ANULADO POR EL OPERADOR *****
+0016#STR0016#ALL#CENTRO DE COSTO - 
+0017#STR0017#ALL#Totales
+0018#STR0018#ALL#Creando archivo temporal...
+0019#STR0019#ALL#FECHA
+0020#STR0020#ALL#Totales cuenta =>
+0021#STR0021#ALL#DEBITO          CREDITO      SALDO ACTUAL
+0021#STR0021#ANG#DÉBITO          CRÉDITO      SALDO ACTUAL
+0021#STR0021#EQU#DÉBITO          CRÉDITO      SALDO ACTUAL
+0021#STR0021#HAI#DÉBITO          CRÉDITO      SALDO ACTUAL
+0021#STR0021#MEX#DÉBITO          CRÉDITO      SALDO ACTUAL
+0021#STR0021#PTG#DÉBITO          CRÉDITO      SALDO ACTUAL
+0022#STR0022#ALL#A TRANSPORTAR : 
+0023#STR0023#ALL#DE TRANSPORTE : 
+0024#STR0024#ALL#CTA. - 
+0025#STR0025#ALL#FECHA                                                                           DEBITO               CREDITO            SALDO ACT. 
+0025#STR0025#ANG#FECHA                                                                           DEBITO               CREDITO            SALDO ACT. 
+0025#STR0025#EQU#FECHA                                                                           DEBITO               CREDITO            SALDO ACT. 
+0025#STR0025#HAI#FECHA                                                                           DEBITO               CREDITO            SALDO ACT. 
+0025#STR0025#MEX#FECHA                                                                           CARGO                ABONO              SALDO ACT. 
+0025#STR0025#PTG#FECHA                                                                           DEBITO               CREDITO            SALDO ACT. 
+0026#STR0026#ALL#SALDO ANTERIOR:
+0027#STR0027#ALL#Cta.
+0028#STR0028#ALL#Costo
+0029#STR0029#ALL#LOTE/SUB/DOC/LINEA
+0030#STR0030#ALL#HISTORIAL
+0031#STR0031#ALL#XPARTIDA
+0032#STR0032#ALL#DEBITO
+0033#STR0033#ALL#CREDITO
+0034#STR0034#ALL#SALDO ACT. 
+0035#STR0035#ALL#Total
+0036#STR0036#ALL#Complemento
+0037#STR0037#ALL#Sucursal
+0038#STR0038#ALL#LOTE/SUB/DOC/LINEA HJ H I S T O R I A L                     C/PARTIDA
+0038#STR0038#ANG#LOTE/SUB/DOC/LINEA H I S T O R I A L                        C/PARTIDA
+0038#STR0038#EQU#LOTE/SUB/DOC/LINEA H I S T O R I A L                        C/PARTIDA
+0038#STR0038#HAI#LOTE/SUB/DOC/LINEA H I S T O R I A L                        C/PARTIDA
+0038#STR0038#MEX#LOTE/SUB/DOC/LINEA H I S T O R I A L                        C/PARTIDA
+0038#STR0038#PTG#LOTE/SUB/DOC/LINEA H I S T O R I A L                        C/PARTIDA
+0039#STR0039#ALL#CUENTA
+0040#STR0040#ALL#DESCCON

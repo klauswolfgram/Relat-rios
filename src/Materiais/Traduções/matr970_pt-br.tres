@@ -1,0 +1,30 @@
+0001#STR0001#ALL#Emissäo da relaçäo trimestral das vendas interestaduais
+0002#STR0002#ALL#totalizada por estado.
+0003#STR0003#ALL#Rel.Trimestral das Operacoes Interestaduais
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#NOTA      SR.  EMISSAO    DESTINATARIO                                                                                                                           VALOR            VALOR              VALOR             TOTAL
+0007#STR0007#ALL#FISCAL                    RAZAO SOCIAL                     ENDERECO                                 CEP       INSCR. ESTADUAL    C.N.P.J.                   MERCADORIA              IPI                ICM
+0008#STR0008#ALL#Selecionando Registros...
+0009#STR0009#ALL#TOTAL GERAL --->
+0010#STR0010#ALL#TOTAL Estado -> 
+0011#STR0011#ALL#Estado
+0012#STR0012#ALL#Descricao
+0013#STR0013#ALL#N.F
+0014#STR0014#ALL#SR.
+0015#STR0015#ALL#EMISSAO
+0016#STR0016#BRA#RAZAO SOCIAL
+0017#STR0017#BRA#ENDERECO
+0018#STR0018#BRA#CEP
+0019#STR0019#BRA#INSC.ESTADUAL
+0020#STR0020#BRA#C.N.P.J
+0021#STR0021#BRA#VALOR MERCADORIA
+0022#STR0022#BRA#VALOR DO IPI
+0023#STR0023#BRA#VALOR DO ICMS
+0024#STR0024#BRA#VALOR TOTAL
+0025#STR0025#BRA#Total do Estado 
+0026#STR0026#BRA#FILIAL 
+0027#STR0027#BRA#Unidade Federativa
+0028#STR0028#BRA#Estado + Emissão + Documento
+0029#STR0029#BRA#Documentos de Saída
+0030#STR0030#BRA#Total da Filial

@@ -1,0 +1,11 @@
+0001#STR0001#ALL#Agenda Do Técnico
+0002#STR0002#ALL#    este programa emite a agenda dos técnicos, cofacturaorme
+0003#STR0003#ALL#Os parâmetros solicitados.
+0005#STR0005#ALL#Código de barras
+0006#STR0006#ALL#Administração
+0007#STR0007#ALL#Técnico                               Cliente                                            Horário
+0008#STR0008#ALL#Código Nome                           Código    Nome                                     Dt.inicial  Hora   Dt.final  Hora     Total
+0009#STR0009#ALL#Cancelado Pelo Operador
+0010#STR0010#ALL#Total do técnico: 
+0011#STR0011#ALL#Total geral 
+0013#STR0013#ALL#Nome Do Cliente

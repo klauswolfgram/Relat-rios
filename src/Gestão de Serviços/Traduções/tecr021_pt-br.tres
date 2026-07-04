@@ -1,0 +1,22 @@
+0001#STR0001#ALL#Relatorio de Check-In / Check-Out - Gestão de Serviços
+0002#STR0002#ALL#Matricula RH
+0003#STR0003#ALL#Código Atendente
+0004#STR0004#ALL#Nome Atendente
+0005#STR0005#ALL#Cód. Local Atendimento
+0006#STR0006#ALL#Descrição Local Atendimento
+0007#STR0007#ALL#Data Inicial Posto
+0008#STR0008#ALL#Hora Inicial Posto
+0009#STR0009#ALL#Data Final Posto
+0010#STR0010#ALL#Hora Final Posto
+0011#STR0011#ALL#Total Horas Posto
+0012#STR0012#ALL#Observações
+0013#STR0013#ALL#Check-Ins Registrados
+0014#STR0014#ALL#Latitude Check-In
+0015#STR0015#ALL#Longitude Check-In
+0016#STR0016#ALL#Latitude Check-Out
+0017#STR0017#ALL#Longitude Check-Out
+0018#STR0018#ALL#Hora Check-In
+0019#STR0019#ALL#Hora Check-Out
+0020#STR0020#ALL#Latitude do Posto
+0021#STR0021#ALL#Longitude do Posto
+0022#STR0022#ALL#Dia Normal de Trabalho

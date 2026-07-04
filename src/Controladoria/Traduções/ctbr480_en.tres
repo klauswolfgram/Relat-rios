@@ -1,0 +1,69 @@
+0001#STR0001#ALL#This program will print the Ledger by 
+0002#STR0002#ALL# according to the parameters selected by the user. 
+0003#STR0004#ALL#Z.Form
+0004#STR0005#ALL#Management
+0005#STR0006#ALL#Print Accounting Ledger by 
+0006#STR0007#ALL# LEDGER BY 
+0007#STR0008#ALL# DETAILED IN 
+0008#STR0009#ALL#FROM
+0009#STR0010#ALL#TO
+0010#STR0011#ALL#(BUDGETED)
+0011#STR0012#ALL#(MANAGERIAL)
+0012#STR0013#ALL#LOT/SUB/DOC/ROW H I S T O R Y                                XENTRY
+0012#STR0013#ANG#LOT/SUB/DOC/ROW H I S T O R Y                         XENTRY
+0012#STR0013#EQU#LOT/SUB/DOC/ROW H I S T O R Y                         XENTRY
+0012#STR0013#HAI#LOT/SUB/DOC/ROW H I S T O R Y                         XENTRY
+0012#STR0013#MEX#LOT/SUB/DOC/ROW H I S T O R Y                         XENTRY
+0012#STR0013#PTG#LOT/SUB/DOC/ROW H I S T O R Y                         XENTRY
+0013#STR0014#ALL#LOT/SUB/DOC/ROW H I S T O R Y                                XENTRY                        DEBIT           CREDIT         CURRENT BALANCE
+0013#STR0014#ANG#LOT/SUB/DOC/ROW H I S T O R Y                         XENTRY                      DEBIT          CREDIT    CURRENT BALANCE
+0013#STR0014#EQU#LOT/SUB/DOC/ROW H I S T O R Y                         XENTRY                DEBIT          CREDIT       CURRENT BALANCE
+0013#STR0014#HAI#LOT/SUB/DOC/ROW H I S T O R Y                         XENTRY                      DEBIT          CREDIT     CURRENT BALANCE
+0013#STR0014#MEX#LOT/SUB/DOC/ROW H I S T O R Y                                XENTRY                        DEBIT           CREDIT        CURRENT BALANCE
+0013#STR0014#PTG#LOT/SUB/DOC/ROW H I S T O R Y                         XENTRY                      DEBIT          CREDIT                  CURRENT BALANCE
+0014#STR0015#ALL#***** CANCELLED BY OPERATOR   *****
+0015#STR0016#ALL#ITEM -
+0016#STR0017#ALL# T o t a l s  
+0017#STR0018#ALL#Creating Temporary File...
+0018#STR0019#ALL#DATE
+0019#STR0020#ALL#A c c o u n t    T o t a l   ==> 
+0020#STR0021#ALL# SUMMARIZED IN 
+0021#STR0022#ALL#TO TRANSPORT : 
+0022#STR0023#ALL#FROM TRANSPORT : 
+0023#STR0024#ALL#ACCOUNT - 
+0024#STR0025#ALL#DATE                                                                             DEBIT                CREDIT           CURR.BALANCE
+0024#STR0025#ANG#DATE                                                                             DEBIT                CREDIT           CURR.BALANCE
+0024#STR0025#EQU#DATE                                                                             DEBIT                CREDIT           CURR.BALANCE
+0024#STR0025#HAI#DATE                                                                             DEBIT                CREDIT           CURR.BALANCE
+0024#STR0025#MEX#DATE                                                                             DEBIT                CREDIT           CURR.BALANCE
+0024#STR0025#PTG#DATE                                                                             DEBIT                CREDIT           CURR.BALANCE
+0025#STR0026#ALL#DEBIT          CREDIT       CURR.BALAC.
+0025#STR0026#ANG#DEBIT          CREDIT       CURR.BALAC.
+0025#STR0026#EQU#DEBIT          CREDIT       CURR.BALAC.
+0025#STR0026#HAI#DEBIT          CREDIT       CURR.BALAC.
+0025#STR0026#MEX#DEBIT          CREDIT       CURR.BALAC.
+0025#STR0026#PTG#DEBIT          CREDIT       CURR.BALAC.
+0026#STR0027#ALL#PREVIOUS BALANCE:
+0027#STR0028#ALL#Item
+0028#STR0029#ALL#Accounting entries   
+0029#STR0030#ALL#DATE		
+0030#STR0031#ALL#LOT/SUB/DOC/LINE  
+0031#STR0032#ALL#HISTORY  
+0032#STR0033#ALL#X ENTRY 
+0033#STR0034#ALL#DEBIT 
+0033#STR0034#ANG#DEBIT 
+0033#STR0034#EQU#DEBIT 
+0033#STR0034#HAI#DEBIT 
+0033#STR0034#MEX#DEBIT 
+0033#STR0034#PTG#DEBIT 
+0034#STR0035#ALL#CREDIT 
+0034#STR0035#ANG#CREDIT 
+0034#STR0035#EQU#CREDIT 
+0034#STR0035#HAI#CREDIT 
+0034#STR0035#MEX#CREDIT 
+0034#STR0035#PTG#CREDIT 
+0035#STR0036#ALL#CURRENT BLN
+0036#STR0037#ALL#Totals
+0037#STR0038#ALL#Complement 
+0038#STR0039#ALL#DESCRIPT.
+0039#STR0040#ALL#There is no data to display, Item from - Item to blank

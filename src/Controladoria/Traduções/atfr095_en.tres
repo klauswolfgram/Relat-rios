@@ -1,0 +1,29 @@
+0001#STR0001#ALL#No more than 5 currencies must be selected
+0002#STR0002#ALL#Function available only to environments TopConnect.
+0003#STR0003#ALL#Function available only in TReport
+0004#STR0004#ALL#Statement of Reevaluated Assets
+0005#STR0005#ALL#Type Desc.
+0006#STR0006#ALL#Class. Type
+0007#STR0007#ALL#Depr. Type
+0008#STR0008#ALL#Write-off
+0009#STR0009#ALL#Currency
+0010#STR0010#ALL#Useful Life
+0011#STR0011#ALL#Original Value
+0012#STR0012#ALL#Reevaluation Value
+0013#STR0013#ALL#Accum. Depr. Value
+0014#STR0014#ALL#Max. Depr. Value
+0015#STR0015#ALL#Residual Value
+0016#STR0016#ALL#Total 
+0017#STR0017#ALL#Creating temporary file...
+0018#STR0018#ALL#Statement of Reevaluated Assets
+0019#STR0019#ALL#Per Asset: 
+0020#STR0020#ALL#Per Base Code: 
+0021#STR0021#ALL#Per Accounting Entity: 
+0022#STR0022#ALL#By Branch
+0023#STR0023#ALL#Grand Total
+0024#STR0024#ALL#Branch: 
+0025#STR0025#ALL#Value Increase
+0026#STR0026#ALL#Write-Off Value
+0027#STR0027#ALL#Asset Form Data
+0028#STR0028#ALL#Accounting Data and Statement
+0029#STR0029#ALL#Acquisition Date

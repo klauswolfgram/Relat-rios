@@ -1,0 +1,22 @@
+0001#STR0001#ALL#Detalle de OS/Producto
+0002#STR0002#ALL#   Este programa imprime el Detalle de OS por Producto, 
+0003#STR0003#ALL#de acuerdo con los parametros solicitados.
+0004#STR0004#ALL#
+0005#STR0005#ALL#Producto
+0006#STR0006#ALL#Evento/Problema
+0007#STR0007#ALL#A Rayas
+0008#STR0008#ALL#Administracion
+0009#STR0009#ALL#O.SERVICO   TIPO     CLIENTE   EMISION    CPG PRODUTO         NR.SERIE             PROBLEMA                                O.S.       MONEDA                                                                              
+0010#STR0010#ALL#          IT PRODUCTO        DESCRIPCION                                                                           PEDIDO      CANTIDAD   VALOR UNITARIO      VALOR CLIENTE   VALOR FABRICANTE        VALOR TOTAL GARANTIA
+0011#STR0011#ALL# [ PRODUCTO] 
+0012#STR0012#ALL# [ EVENTO/PROBLEMA ] 
+0013#STR0013#ALL#ANULADO POR EL OPERADOR
+0014#STR0014#ALL#TOTAL DE PRODUCTO 
+0015#STR0015#ALL#TOTAL DE EVENTO/PROBLEMA
+0016#STR0016#ALL#TOTAL GRAL.
+0017#STR0017#ALL#Ocurrencia
+0018#STR0018#ALL#Valor Cliente
+0019#STR0019#ALL#Valor Fabricante
+0020#STR0020#ALL#Valor Total
+0021#STR0021#ALL#Items de orden de servic.
+0022#STR0022#ALL#Subitems de orden de servic.

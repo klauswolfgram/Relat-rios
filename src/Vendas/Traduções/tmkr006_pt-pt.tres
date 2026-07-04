@@ -1,0 +1,9 @@
+0001#STR0001#ALL#Características Dos Artigos
+0002#STR0002#ALL#Este programa irá emitir uma relação dos artigos e suas respectivas
+0003#STR0003#ALL#Características e artigos alternativos.
+0005#STR0005#ALL#Código de barras
+0007#STR0007#ALL#Artigo         Descrição                      Tp Um        Preço        Custo    últ. Preço últ. Compra Situação   Similariedade
+0008#STR0008#ALL#Cancelado Pelo Operador
+0010#STR0010#ALL#Artigo
+0016#STR0016#ALL#Últ.Preço
+0017#STR0017#ALL#Últ.Compra

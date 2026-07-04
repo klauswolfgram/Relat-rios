@@ -1,0 +1,25 @@
+0001#STR0001#ALL#ESte programa emitirá uma relação com a posição de
+0002#STR0002#ALL#Stock Por Lote/sub-lote.
+0003#STR0003#ALL#Posição De Stock Por Lote/sub-lote
+0005#STR0005#ALL# Por Lote/sub-lote
+0006#STR0006#ALL#Código de barras
+0007#STR0007#ALL#Administração
+0008#STR0008#ALL#Posição De Stock Por Lote/sublote (por Produto)
+0009#STR0009#ALL#Produto         Descrição                      Sub-lote Lote       Armz              Saldo             Alocação    Data      Data
+0010#STR0010#ALL#Posição De Stock Por Lote/sub-lote (por Lote)
+0011#STR0011#ALL#Sub-lote   Lote   Produto         Descrição                        Armz              Saldo             Alocação    Data      Data
+0012#STR0012#ALL#Cancelado Pelo Operador
+0013#STR0013#ALL#Total do produto ->
+0014#STR0014#ALL#                                                                                                                          validade 
+0015#STR0015#ALL#Total do lote ->
+0016#STR0016#ALL#Total do lote/sublote ->
+0017#STR0017#ALL#A Seleccionar Registos...
+0018#STR0018#ALL# Por Armazém
+0019#STR0019#ALL#Posição De Stock Por Lote/sub-lote (por Armazém)
+0020#STR0020#ALL#Artigo         Descrição                      Sub-lote Lote       Armz              Saldo             Alocação               Saldo             Alocação    Data      Data
+0021#STR0021#ALL#                                                                                   1ª.u.m.             1ª.u.m.             2ª.u.m.             2ª.u.m.            validade 
+0022#STR0022#ALL#Sub-lote   Lote   Artigo         Descrição                        Armz              Saldo             Alocação               Saldo             Alocação    Data      Data
+0023#STR0023#ALL#    Descr. Armaz.
+0026#STR0026#ALL#1a.u.m.
+0027#STR0027#ALL#2a.u.m.
+0028#STR0028#ALL#Saldos Por Lote

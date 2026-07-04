@@ -1,0 +1,53 @@
+0001#STR0001#ALL#Certificado Medico
+0002#STR0002#ALL#De Ficha Medica    ?
+0003#STR0003#ALL#A Ficha Medica     ?
+0004#STR0004#ALL#¿De Fecha          ?
+0005#STR0005#ALL#¿A  Fecha          ?
+0006#STR0006#ALL#¿De CID            ?
+0007#STR0007#ALL#¿A  CID            ?
+0008#STR0008#ALL#PROGRAMA DE CONTROL MEDICO DE SALUD OCUPACIONAL
+0009#STR0009#ALL#COMUNICACION INTERNA DE CERTIFICADOS POR FALTA AL TRABAJO
+0010#STR0010#ALL#Unidad:
+0011#STR0011#ALL#Fecha:
+0012#STR0012#ALL#Doc.Id.
+0013#STR0013#ALL#NOMBRE
+0014#STR0014#ALL#PERIODO DE LICENCIA
+0015#STR0015#ALL#OBSERVACIONES
+0016#STR0016#ALL#MEDICO
+0017#STR0017#ALL#AUXILIAR DE ENFERMERIA
+0018#STR0018#ALL#MATRICULA
+0019#STR0019#ALL#¿De Cliente?
+0020#STR0020#ALL#Codigo del cliente. El campo puede permanecer vacio para considerar desde el primer codigo.	
+0021#STR0021#ALL#Tienda
+0022#STR0022#ALL#Codigo de la tienda del cliente. El campo puede permanecer vacio para considerar desde el primer codigo.	
+0023#STR0023#ALL#¿A Cliente?
+0024#STR0024#ALL#Codigo del cliente. El campo puede rellenarse con la letra Z hasta el final para considerar el ultimo codigo.	
+0025#STR0025#ALL#Codigo de la tienda del cliente. El campo puede rellenarse con la letra Z hasta el final para considerar el ultimo codigo.
+0026#STR0026#ALL#¿A CID ?
+0027#STR0027#ALL#¿De  CID ?
+0028#STR0028#ALL#¿A Fecha    ?
+0029#STR0029#ALL#¿De Fecha ?
+0030#STR0030#ALL#¿A Ficha Medica?
+0031#STR0031#ALL#¿De Ficha Medica ?
+0032#STR0032#ALL#COMUNICACION  INTERNA  DE CERTIFICADOS  POR  FALTA  AL  TRABAJO
+0033#STR0033#ALL#Informe de que centro de costo desea filtrar. El campo puede permanecer vacio para que se tenga en cuenta desde el primer código.
+0034#STR0034#ALL#Informe hasta cual centro de costo desea filtrar. El campo puede rellenarse con la letra Z hasta el final para considerar el ultimo codigo.
+0035#STR0035#ALL#¿De Centro de Costo?
+0036#STR0036#ALL#¿A Centro de Costo?
+0037#STR0037#ALL#¿De Funcion?
+0038#STR0038#ALL#¿A Funcion?
+0039#STR0039#ALL#Informe de que funcion desea filtrar. El campo puede permanecer vacio para que se tenga en cuenta desde el primer código.
+0040#STR0040#ALL#Informe hasta que funcion desea filtrar. El campo puede rellenarse con la letra Z hasta el final para considerar el ultimo codigo.
+0041#STR0041#ALL#Considera Cert. o Lic.
+0042#STR0042#ALL#Certificado
+0043#STR0043#ALL#Licencia
+0044#STR0044#ALL#Determina si se considerara la fecha del Certificado Medico o la fecha de las Licencias.
+0045#STR0045#ALL#CENTRO DE COSTO
+0046#STR0046#ALL#PERÍODO DE LICEN.
+0047#STR0047#ALL#HORAS PERD.
+0048#STR0048#ALL#DÍAS PERD.
+0049#STR0049#ALL#No existe certificado para realizar la impresión.
+0050#STR0050#ALL#                                         MÉDICO                                                                                   RESPONSABLE DE SALUD         
+0051#STR0051#ALL# a 
+0052#STR0052#ALL#GRUPO CIE
+0053#STR0053#ALL#CIE

@@ -1,0 +1,16 @@
+0001#STR0001#ALL#Este programa emitirá la lista de Registros por 
+0002#STR0002#ALL#Centro de costo.
+0003#STR0003#ALL#Registros por centro de costo
+0004#STR0004#ALL#C.Costo    Cta.Contab                        Valor actual     Deprec Acumul      Depr en el mes  Corr Depr Acumul  Corr Monet Acumul
+0005#STR0005#ALL#ANULADO POR EL OPERADOR
+0006#STR0006#ALL#Tot C.Costo: 
+0007#STR0007#ALL#TOTAL GENERAL     : 
+0008#STR0008#ALL#Valor en 
+0009#STR0009#ALL#Símbolo de la moneda
+0010#STR0010#ALL#Espacio
+0011#STR0011#ALL#Código
+0012#STR0012#ALL#Empresa
+0013#STR0013#ALL#Unidad de negocio
+0014#STR0014#ALL#Sucursal
+0015#STR0015#ALL#Sucursales seleccionadas para el informe
+0016#STR0016#ALL#Por favor, espere...

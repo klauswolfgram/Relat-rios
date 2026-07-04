@@ -1,0 +1,32 @@
+0001#STR0001#ALL# registo - detalhado 
+0002#STR0002#ALL# registo - totalizado 
+0003#STR0003#ALL#Facturação Por Prazo De Pagamento
+0004#STR0004#ALL#Este relatório irá emitir a relação de facturação por
+0005#STR0005#ALL#Ordem de prazo de pagamento. poderão ser escolhidos os inter-
+0006#STR0006#ALL#Valos Através Da Opção Parâmetros.
+0007#STR0007#ALL#Código de barras
+0008#STR0008#ALL#Administração
+0009#STR0009#ALL#   à Vista
+0010#STR0010#ALL#** estatistica do facturação por prazo de pagamento **     
+0011#STR0011#ALL#EMISSAO     FACT             
+0012#STR0012#ALL# dias       
+0013#STR0013#ALL# Ou + Dias       Total
+0015#STR0015#ALL#A Seleccionar Registos...
+0016#STR0016#ALL#Cancelado Pelo Operador
+0017#STR0017#ALL# total do dia --> 
+0018#STR0018#ALL# total ->
+0019#STR0019#ALL#TOTAL CRIAL ---> 
+0021#STR0021#ALL#** estatística da facturação por prazo de pagamento **
+0022#STR0022#ALL#Este relatório irá emitir a relação de facturação por
+0023#STR0023#ALL#Ordem de prazo de pagamento. poderão ser escolhidos os inter-
+0024#STR0024#ALL#Valos Através Da Opção Parâmetros.
+0025#STR0025#ALL#Diário - Detalhado
+0026#STR0026#ALL#Diário - Totalizado
+0027#STR0027#ALL#Emissão
+0028#STR0028#ALL#Factura
+0031#STR0031#ALL# Dias
+0032#STR0032#ALL# Ou + Dias
+0033#STR0033#ALL#A Seleccionar Registos
+0034#STR0034#ALL#Títulos/Notas de Saída
+0035#STR0035#ALL#Percentagens
+0036#STR0036#ALL#Total do dia ---> 

@@ -1,0 +1,59 @@
+0001#STR0001#ALL#Relatorio de Refeicoes
+0002#STR0002#ALL#Será impresso de acordo com os parametros solicitados pelo
+0003#STR0003#ALL#usuario.
+0004#STR0004#ALL#Matricula
+0005#STR0005#ALL#Centro de Custo
+0006#STR0006#ALL#Nome
+0007#STR0007#ALL#Turno
+0008#STR0008#ALL#Zebrado
+0009#STR0009#ALL#Administracao
+0010#STR0011#ALL#Relatorio de Controle de Refeicoes
+0011#STR0012#ALL#Chapa: 
+0012#STR0013#ALL#Matr.: 
+0013#STR0014#ALL#Funcionario: 
+0014#STR0015#ALL#  Total 
+0015#STR0016#ALL#Filial: 
+0016#STR0017#ALL# Turno: 
+0017#STR0018#ALL# C.C: 
+0018#STR0020#ALL#Empresa: 
+0019#STR0021#ALL#C.Custo+Nome
+0020#STR0022#ALL#Data        Hora  Tipo          Valor     Desc.Func.   Desc.Empresa
+0021#STR0023#ALL#Tipo Descricao                Qtde          Valor    Desc. Func.   Desc.Empresa
+0022#STR0024#ALL#  Qtde: 
+0023#STR0025#ALL#  Valor: 
+0024#STR0026#ALL#** Nao Cadastrado **
+0025#STR0027#ALL#Selecione a oção de impressão: 
+0026#STR0028#ALL#Por Período
+0027#STR0029#ALL#Por Datas
+0028#STR0030#ALL#Processo: 
+0029#STR0031#ALL#Período: 
+0030#STR0032#ALL#Roteiro: 
+0031#STR0033#ALL#Num. Pagto: 
+0032#STR0034#ALL#Departamento
+0033#STR0035#ALL#Depto: 
+0034#STR0036#ALL#Este programa emite Relatorio para Controle de Refeicoes
+0035#STR0037#ALL#Funcionarios
+0036#STR0038#ALL#Desc.Filial		
+0037#STR0039#ALL#C.Custo
+0038#STR0040#ALL#Descricao
+0039#STR0041#ALL#Tno
+0040#STR0042#ALL#Refeicoes
+0041#STR0043#ALL#Data
+0042#STR0044#ALL#Hora
+0043#STR0045#ALL#Tipo
+0044#STR0046#ALL#Valor Ref
+0045#STR0047#ALL#Desc.Func.
+0046#STR0048#ALL#Desc.Empresa
+0047#STR0049#ALL#Total Funcionario
+0048#STR0050#ALL#Qtde
+0049#STR0051#ALL#Total Filial
+0050#STR0052#ALL#Total C.Custo
+0051#STR0053#ALL#Total Turno
+0052#STR0054#ALL#Total Empresa
+0053#STR0055#ALL#Chapa
+0054#STR0056#ALL#Matric.
+0055#STR0057#ALL#Depto
+0056#STR0058#ALL#Processo
+0057#STR0059#ALL#Periodo
+0058#STR0060#ALL#Rot
+0059#STR0061#ALL#NP

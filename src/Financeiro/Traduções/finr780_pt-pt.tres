@@ -1,0 +1,27 @@
+0001#STR0001#ALL#Este programa tem como objectivo imprimir a movim. 
+0002#STR0002#ALL#Histórica do caixa.                               
+0003#STR0003#ALL#Movimentações Históricas
+0004#STR0004#ALL#Data          Entrada          Saída              Documento
+0005#STR0005#ALL#Código de barras
+0006#STR0006#ALL#Administração
+0007#STR0007#ALL#A Seleccionar Registos
+0008#STR0008#ALL#Movimento De Caixa
+0009#STR0009#ALL#Saldo Anterior...............:
+0010#STR0010#ALL#Entradas.....................:
+0011#STR0011#ALL#Sub-total....................:
+0012#STR0012#ALL#Saídas.......................:
+0013#STR0013#ALL#Saldo........................:
+0014#STR0014#ALL#Composição Do Saldo                            Pagar                 Receber
+0015#STR0015#ALL#Espécie.......................:
+0016#STR0016#ALL#Cheque Depósito...............:
+0017#STR0017#ALL#Adiantamentos.................:
+0018#STR0018#ALL#Recibos Provisórios...........:
+0019#STR0019#ALL#Cheques P/ Pagamento..........:
+0020#STR0020#ALL#Facturação...................:
+0021#STR0021#ALL#Outros........................:
+0022#STR0023#ALL#Emissão: 
+0023#STR0024#ALL#   hora: 
+0024#STR0025#ALL#  folha: 
+0025#STR0026#ALL#Movimentações Históricas
+0026#STR0027#ALL#Sequencial do caixa nr. 
+0028#STR0029#ALL#Movimento do dia 

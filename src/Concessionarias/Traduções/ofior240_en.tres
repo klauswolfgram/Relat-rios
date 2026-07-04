@@ -1,0 +1,19 @@
+0001#STR0001#ALL#Balance on Inventory
+0002#STR0002#ALL#This program will print a summary of balances, by quantity, 
+0003#STR0003#ALL#referring to products on Inventory.
+0004#STR0004#ALL# By Code            
+0005#STR0005#ALL# By Type            
+0006#STR0006#ALL# By Description   
+0007#STR0007#ALL# By Group         
+0008#STR0008#ALL#Z.Form
+0009#STR0009#ALL#Management
+0010#STR0010#ALL#GROUP CODE ITEM                  CODE            TYPE DESCRIPTION     UM BR        WAREH     AMOUNT    
+0011#STR0011#ALL#Type..........
+0012#STR0012#ALL#Group.........
+0013#STR0013#ALL#CANCELLED BY THE OPERATOR
+0014#STR0014#ALL#Total of Product
+0015#STR0015#ALL#Stock Balance
+0016#STR0016#ALL#Section 1
+0017#STR0017#ALL#Selecting Files...
+0018#STR0018#ALL#Total 
+0019#STR0019#ALL#Item

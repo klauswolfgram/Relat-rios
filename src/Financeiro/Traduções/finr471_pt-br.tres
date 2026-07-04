@@ -1,0 +1,13 @@
+0001#STR0001#ALL#CONCILIAÇÃO BANCÁRIA
+0002#STR0002#ALL#Este programa irá imprimir a Conciliação Bancária 
+0003#STR0003#ALL#de acordo com as preferências informadas pelo usuário.
+0004#STR0004#ALL#Estado
+0005#STR0005#ALL#Sequência
+0006#STR0006#ALL#Data Movimento
+0007#STR0007#ALL#Valor Movimento
+0008#STR0008#ALL#Código Documento
+0009#STR0009#ALL#Tipo Movimento
+0010#STR000A#ALL#Descrição
+0011#STR000B#ALL#D/C
+0012#STR000C#ALL#Histórico
+0013#STR000D#ALL#Conciliação Bancária

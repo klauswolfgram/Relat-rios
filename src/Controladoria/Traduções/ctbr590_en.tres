@@ -1,0 +1,42 @@
+0001#STR0001#ALL#Accounting Statements Multiple Managerial Visions
+0002#STR0002#ALL#Presentation
+0003#STR0003#ALL#Welcome 
+0004#STR0004#ALL#This tool will help to complete the data needed to check the issuing of accounting statements using multiple managerial visions
+0005#STR0005#ALL#Initial Parameters
+0006#STR0006#ALL#Definition of initial parameters of report
+0007#STR0007#ALL#Selection of Branches
+0008#STR0008#ALL#Filter by Branch/Business Unit/Company
+0009#STR0009#ALL#Accounting Schedule X Periodicity
+0010#STR0010#ALL#Managerial Visions
+0011#STR0011#ALL#Yes
+0012#STR0012#ALL#No
+0013#STR0013#ALL#Amt. Managerial Visions:
+0014#STR0014#ALL#Currency: 
+0015#STR0015#ALL#Currency Rate: 
+0016#STR0016#ALL#Consider Branches ?
+0017#STR0017#ALL#Calendar
+0018#STR0018#ALL#Periodicity
+0019#STR0019#ALL#Fortnightly
+0020#STR0020#ALL#Monthly
+0021#STR0021#ALL#Quarterly
+0022#STR0022#ALL#Semiannual
+0023#STR0023#ALL#Annual
+0024#STR0024#ALL#&Mark/Unmark All
+0025#STR0025#ALL#Conf. Journal
+0026#STR0026#ALL#Description
+0027#STR0027#ALL#Balance Type
+0028#STR0028#ALL#Enter configuration of accounting journal of line 
+0029#STR0029#ALL#Enter the type of accounting balance of line 
+0030#STR0030#ALL#Define whether the Branches/Business Unit/Company will be considered in report
+0031#STR0031#ALL#You must define a number of managerial visions for use in report. At least one must be defined
+0032#STR0032#ALL#You must define the currency of accounting statement report balances.
+0033#STR0033#ALL#Specified currency not valid.
+0034#STR0034#ALL#Fortnight
+0035#STR0035#ALL#Quarter
+0036#STR0036#ALL#Semester
+0037#STR0037#ALL#Quantity of periods has exceeded the limit of #1[Column Limit]# columns. Modify desired schedules and periods.
+0038#STR0038#ALL#Define at least one schedule and periodicity.
+0039#STR0039#ALL#Total
+0040#STR0040#ALL#Pict. Tot.
+0041#STR0041#ALL#Tot. Val. Tp.
+0042#STR0042#ALL#Report not available to use additional entities.

@@ -1,0 +1,30 @@
+0001#STR0001#ALL#Comparativo Atencion vs. Orden de Servicio
+0002#STR0002#ALL#    Este programa emite un comparativo de itemes utilizados en la atencion de una
+0003#STR0003#ALL#orden de servicio con los itemes efectivamente cobrados, segun los parametros  
+0004#STR0004#ALL#Solicitados
+0005#STR0005#ALL#OS
+0006#STR0006#ALL#Cliente
+0007#STR0007#ALL#Producto/Equ.
+0008#STR0008#ALL#A Rayas
+0009#STR0009#ALL#Administracion
+0010#STR0010#ALL#NR.OS     CLIENTE   PRODUC./EQUIP   OCURRENCIA/PROBLEMA                             PRODUCTO        MONEDA  <                 UTILIZADO                > <                  COBRADO                 > <          DIFERENCIA        >
+0011#STR0011#ALL#                                                                                                               CANTIDAD           VALOR          TOTAL     QUANTIDADE          VALOR          TOTAL       CANTIDAD           VALOR
+0012#STR0012#ALL#[ OS ]
+0013#STR0013#ALL#[ CLIENTE ]
+0014#STR0014#ALL#[ PRODUCTO ]
+0015#STR0015#ALL#ANULADO POR EL OPERADOR
+0016#STR0016#ALL#CLIENTE: 
+0017#STR0017#ALL#PRODUCTO/EQU.: 
+0018#STR0018#ALL#TOTAL DE CLIENTE: 
+0019#STR0019#ALL#TOTAL DE PRODUCTO: 
+0020#STR0020#ALL#TOTAL GRAL.: 
+0021#STR0021#ALL#Produc.
+0022#STR0022#ALL#Ctd. Utiliz
+0023#STR0023#ALL#Valor Utiliz
+0024#STR0024#ALL#Total Utiliz
+0025#STR0025#ALL#Ctd. Cobrada
+0026#STR0026#ALL#Valor Cobrado
+0027#STR0027#ALL#Total Cobrado
+0028#STR0028#ALL#Ctd. (Difer.)
+0029#STR0029#ALL#Valor (Difer.)
+0030#STR0030#ALL#Items de orden de seric.

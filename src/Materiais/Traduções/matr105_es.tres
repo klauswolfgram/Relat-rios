@@ -1,0 +1,13 @@
+0001#STR0001#ALL#Situacion de las solicitudes al deposito
+0002#STR0002#ALL#  Este informe lista la situacion de las SD's segun los 
+0003#STR0003#ALL#parametros seleccionados.
+0004#STR0005#ALL#A Rayas
+0005#STR0006#ALL#Administracion
+0006#STR0007#ALL#ANULADO POR EL OPERADOR
+0007#STR0008#ALL#Numero  Item  Codigo             Descripcion                      Emision            Cantidad                Saldo        Ctd.Entregada  Requerimiento      Centro de Costo    Solicitante
+0008#STR0009#ALL#Saldo
+0009#STR0010#ALL#Ctd.Entregada
+0010#STR0011#ALL#Solicitud
+0011#STR0012#ALL#Items de solicitudes al almacen
+0012#STR0013#ALL#Solicitudes al almacen 
+0013#STR0014#ALL#Item

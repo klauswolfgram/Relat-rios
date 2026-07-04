@@ -1,0 +1,36 @@
+0001#STR0001#ALL#Liquidaciones Financieras
+0002#STR0002#ALL#Este informe imprimira el extrato de Liquidaciones 
+0003#STR0003#ALL#Financieras.
+0004#STR0004#ALL#LIQUIDACION: 
+0005#STR0005#ALL#Nº de la Liquidacion
+0006#STR0006#ALL#Titulos Liquidados
+0007#STR0007#ALL#PRF
+0008#STR0008#ALL#NUMERO
+0009#STR0009#ALL#CUOTA
+0010#STR0010#ALL#TIPO
+0011#STR0011#ALL#EMISION
+0012#STR0012#ALL#EMITENTE
+0013#STR0013#ALL#VALOR
+0014#STR0014#ALL#INTERESES
+0015#STR0015#ALL#DESCUENTOS
+0016#STR0016#ALL#BANCO
+0017#STR0017#ALL#AGENCIA
+0018#STR0018#ALL#CUENTA
+0019#STR0019#ALL#Seleccionando Registros...
+0020#STR0020#ALL#Por Pagar
+0021#STR0021#ALL#Baja Parc. 
+0022#STR0022#ALL#Dado de baja
+0023#STR0023#ALL#Generado
+0024#STR0024#ALL#Total Liq. 
+0025#STR0025#ALL#Totales 
+0026#STR0026#ALL#Observaciones: 
+0027#STR0027#ALL#- Los titulos dados de baja se imprimen con el valor original, independientemente de la forma de la baja. 
+0028#STR0028#ALL#- Los totalizadores consideran el valor total de la liquidcion o de los titulos generados/dados de baja.
+0029#STR0029#ALL#ESTATUS
+0030#STR0030#ALL#Codigo
+0031#STR0031#ALL#Empresa
+0032#STR0032#ALL#Unidad de negocio
+0033#STR0033#ALL#Sucursal
+0034#STR0034#ALL#Sucursales seleccionadas para el informe
+0035#STR0035#ALL#Sucursal : 
+0036#STR0036#ALL#Val. Accesorio

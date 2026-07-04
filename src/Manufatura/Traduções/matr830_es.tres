@@ -1,0 +1,26 @@
+0001#STR0001#ALL#Detalle del Archivo de Recursos 
+0002#STR0002#ALL#Este programa imprime el detalle del Archivo de Recursos 
+0003#STR0003#ALL#A Rayas
+0004#STR0004#ALL#Administracion
+0005#STR0006#ALL#REC.   DENOMINACION                    CENTRO   SAB/DOM RECURSOS ALTERNATIVOS / SECUNDARIOS
+0006#STR0007#ALL#                                       COSTO   
+0007#STR0008#ALL#Lun
+0008#STR0009#ALL#Mar
+0009#STR0010#ALL#Mie
+0010#STR0011#ALL#Jue
+0011#STR0012#ALL#Vie
+0012#STR0013#ALL#Sab
+0013#STR0014#ALL#Dom
+0014#STR0015#ALL#ANULADO POR EL OPERADOR
+0015#STR0016#ALL#N
+0016#STR0017#ALL#S
+0017#STR0018#ALL#Alternativos:
+0018#STR0019#ALL#Secundarios:
+0019#STR0020#ALL#Bloqueo(s)
+0020#STR0021#ALL#Fecha Inicio  Hora Inicio  Fecha Final  Hora Final
+0021#STR0022#ALL#Recursos
+0022#STR0023#ALL#Recursos alternativos y secundarios
+0023#STR0024#ALL#Bloq. y excepciones de Calendario
+0024#STR0025#ALL#No es posible generar el informe personalizable debido a la limitación de caracteres por página.
+0025#STR0026#ALL#¡Atención!
+0026#STR0027#ALL#Utilice el informe tipo texto o ajuste los parámetros con intervalo menor para los recursos de...a

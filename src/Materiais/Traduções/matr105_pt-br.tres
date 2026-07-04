@@ -1,0 +1,13 @@
+0001#STR0001#ALL#Posicao das Solicitacoes ao Armazem
+0002#STR0002#ALL#  Este relatorio lista a posicao das SA's de acordo com os para-
+0003#STR0003#ALL#metros selecionados.
+0004#STR0005#ALL#Zebrado
+0005#STR0006#ALL#Administracao
+0006#STR0007#ALL#CANCELADO PELO OPERADOR
+0007#STR0008#ALL#Numero  Item  Codigo             Descricao                        Emissao            Quantidade              Saldo        Qtd.Entregue   Requisicao         Centro de Custo    Solicitante
+0008#STR0009#ALL#Saldo
+0009#STR0010#ALL#Qtd.Entregue
+0010#STR0011#ALL#Requisicao
+0011#STR0012#ALL#Itens das solicitações ao armazem
+0012#STR0013#ALL#Solicitações ao armazem
+0013#STR0014#ALL#Item

@@ -1,0 +1,17 @@
+0001#STR0001#ALL#Relação de despesas financeiras
+0002#STR0002#ALL#Este relatório vai imprimir a relação de despesas financeiras 
+0003#STR0003#ALL#Dos registos de visitas conforme os parâmetros seleccionados
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#Sequência/elemento  data        artigo          descrição                           quantidade        valor unit           valor  situação      
+0010#STR0010#ALL#Pendente
+0011#STR0011#ALL#Criado
+0014#STR0014#ALL#Relação de despesas financeiras
+0015#STR0015#ALL#Este relatório vai imprimir a relação de despesas financeiras 
+0016#STR0016#ALL#Dos registos de visitas conforme os parâmetros seleccionados
+0017#STR0017#ALL#Pendente
+0018#STR0018#ALL#Criado
+0019#STR0019#ALL#Total Do Vendedor
+0020#STR0020#ALL#Situação
+0021#STR0021#ALL#Cabeçalho-contacto/visita
+0022#STR0022#ALL#Detalhes-registo Dos Custos

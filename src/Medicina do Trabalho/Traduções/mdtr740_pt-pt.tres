@@ -1,0 +1,23 @@
+0001#STR0001#ALL#Atestado médico
+0002#STR0002#ALL#Atestado Médico
+0004#STR0004#ALL#Atesto Para Os Devidos Fins Que O Empregado
+0006#STR0006#ALL#Nº Registo
+0008#STR0008#ALL#Local E Data
+0009#STR0009#ALL#Médico responsável
+0010#STR0010#ALL#A imprimir atestados médicos...
+0011#STR0011#ALL#Atestado Médico
+0012#STR0012#ALL#Totalizando _____________ Hora(s) De Afastamento.
+0013#STR0013#ALL#Cancelado Pelo Operador.
+0014#STR0014#ALL#De cliente ?
+0015#STR0015#ALL#Código  do cliente. o campo pode permanecer vazio para considerar desde o primeiro código.
+0017#STR0017#ALL#Código  da loja do cliente. o campo pode permanecer vazio para considerar desde o primeiro código.
+0018#STR0018#ALL#Até cliente ?
+0019#STR0019#ALL#Código  do cliente. o campo pode ser preenchido com a letra z até  o final para considerar o último código.
+0020#STR0020#ALL#Código  da loja do cliente. o campo pode ser preenchido com a letra z até  o final para considerar o último código.
+0023#STR0023#ALL#A TOTALIZAR
+0027#STR0027#ALL#Até Data ?
+0029#STR0029#ALL#Até Ficha Médica ?
+0030#STR0030#ALL#De Ficha Médica ?
+0031#STR0031#ALL#Tipo Impressão ?
+0037#STR0037#ALL#ENCONTRA-SE SOB CUIDADOS MÉDICOS, NECESSITANDO DE LICENÇA POR
+0046#STR0046#ALL#CID complementar ?

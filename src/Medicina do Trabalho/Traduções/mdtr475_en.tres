@@ -1,0 +1,88 @@
+0001#STR0001#ALL#Relatório Anual do Programa de Saúde Ocupacional
+0002#STR0002#ALL#Demonstrative per sector and class of the amount of exams done       
+0003#STR0003#ALL#with normal and abnornal results.                                    
+0004#STR0004#ALL#Z. Form
+0005#STR0005#ALL#Management
+0006#STR0006#ALL#PCMSO Annual Report
+0007#STR0007#ALL#PCMSO Annual Report        Period :
+0008#STR0008#ALL#|Responsible.....:
+0009#STR0009#ALL#CRM.:
+0010#STR0010#ALL#|Signature.......: _____________________________           Date:
+0011#STR0011#ALL#|Sector/Exam     |Class     | Exams    |Results   |Abnormal x 100 |Exams  p/Yr.|
+0012#STR0012#ALL#CANCELED BY OPERATOR
+0013#STR0013#ALL#|
+0014#STR0014#ALL#Periodical
+0015#STR0015#ALL#Change 
+0016#STR0016#ALL#Return 
+0017#STR0017#ALL#Dismis.
+0018#STR0018#ALL#PCMSO
+0019#STR0019#ALL#Period:
+0020#STR0020#ALL#Issuance:
+0021#STR0021#ALL#Date:
+0022#STR0022#ALL#|Sect./Exam                                           |    Class        |   Exams    | Results    | Abnorm.  x 100 | Exams p/Year  |
+0023#STR0023#ALL#Customer?
+0024#STR0024#ALL#Customer code.
+0025#STR0025#ALL#Unit
+0026#STR0026#ALL#Customer's unit
+0027#STR0027#ALL#|Signature......: _________________________________________________
+0028#STR0028#ALL#BRANCH
+0029#STR0029#ALL#There is nothing to print on the report.
+0030#STR0030#ALL#|                                                     |                 | Performed |  Abnormal  |  /Performed   |   Following    |
+0031#STR0031#ALL#This company is registered as Service Provider; therefore, the 6 first 
+0032#STR0032#ALL#positions of parameters 'From Cost Center' and  'To Cost Center' refer to 
+0033#STR0033#ALL#the customer code and must be filled in with the same amount.
+0034#STR0034#ALL#List Exams of Next Year?
+0035#STR0035#ALL#All
+0036#STR0036#ALL#None
+0037#STR0037#ALL#Periodical Exam
+0038#STR0038#ALL#Indicates if number of exams estimated for the 
+0039#STR0039#ALL#next year will be listed in the report in all natures, 
+0040#STR0040#ALL#only in periodical exams or in no situation.
+0041#STR0041#ALL#Print Exams NR7?
+0042#STR0042#ALL#Classify by?
+0043#STR0043#ALL#Exams of Next Year?
+0044#STR0044#ALL#To Cost Center?
+0045#STR0045#ALL#From Cost Center?
+0046#STR0046#ALL#To PCMSO?
+0047#STR0047#ALL#From PCMSO?
+0048#STR0048#ALL#From Branch?
+0049#STR0049#ALL#To Branch?
+0050#STR0050#ALL#Print totalizer?
+0051#STR0051#ALL#Examination Class
+0052#STR0052#ALL#Type of Examination
+0053#STR0053#ALL#Indicate whether to print a totalizer at the end of the report.
+0054#STR0054#ALL#PRE EMPLOYMENT
+0055#STR0055#ALL#PERIODIC
+0056#STR0056#ALL#ROLE CHANGE
+0057#STR0057#ALL#RETURN TO WORK
+0058#STR0058#ALL#DISMISSAL
+0059#STR0059#ALL#GRAND TOTAL
+0060#STR0060#ALL#|     Nature of Examination         |     Type of Examination          |   Examination   | Results | Results |  Percentage   |  Estimated  |
+0061#STR0061#ALL#|                               |                              | Executed |   Regular  |  Changed |   Changed   |            |
+0062#STR0062#ALL#|     Type of Examination                                               |   Examination   | Results | Results |  Percentage   |  Estimated  |
+0063#STR0063#ALL#|                                                              | Executed |   Regular  |  Changed |   Changed   |            |
+0064#STR0064#ALL#NATURE TOTAL
+0065#STR0065#ALL#Consider by?
+0066#STR0066#ALL#Cost Center
+0067#STR0067#ALL#Department
+0068#STR0068#ALL#Indicates whether in Report printing, grouping per Cost Center or Department is considered.
+0069#STR0069#ALL#From Department?
+0070#STR0070#ALL#Enter from which Department the report must consider.
+0071#STR0071#ALL#To Department?
+0072#STR0072#ALL#Indicates to which Department, the report must consider.
+0073#STR0073#ALL#Result NR7?
+0074#STR0074#ALL#OHC
+0075#STR0075#ALL#Examination
+0076#STR0076#ALL#When option OHC is used, it indicates the Annual PCMSO uses the field Parec INd of the OHC routine. If the selected option is Examination, the report uses the field Res Ind of the routine of Empl Exams to print the abnormality of the NR7 exams.
+0077#STR0077#ALL#OCCASIONAL MONITORING
+0078#STR0078#ALL#Exames
+0079#STR0079#ALL#Setor
+0080#STR0080#ALL#Exame
+0081#STR0081#ALL#Exames realizados
+0082#STR0082#ALL#Resultados anormais
+0083#STR0083#ALL#Percentual anormais
+0084#STR0084#ALL#Totais da empresa
+0085#STR0085#ALL#Grupo de empresa
+0086#STR0086#ALL#Filial
+0087#STR0087#ALL#Data de emissão
+0088#STR0088#ALL#Natureza

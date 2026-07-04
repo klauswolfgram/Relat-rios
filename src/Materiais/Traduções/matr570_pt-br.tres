@@ -1,0 +1,32 @@
+0001#STR0001#ALL#Faturamento Real/Previsto
+0002#STR0002#ALL#Este relatorio ira emitir a relacao de Faturamento,
+0003#STR0003#ALL#emitindo o Faturamento Previsto e o Real.
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#FATURAMENTO REAL x PREVISTO
+0007#STR0007#ALL# (Deduz.ICM)
+0008#STR0008#ALL#FIL CODIGO              DENOMINACAO    REAL         QUANT           PRECO     T O T A L                   V A R I A C A O
+0009#STR0009#ALL#                                      PREVISTO                                                QUANT          PRECO          VALOR
+0010#STR0010#ALL#CANCELADO PELO OPERADOR
+0011#STR0011#ALL#T O T A L  G E R A L ---> 
+0012#STR0012#ALL#FRETE : 
+0013#STR0013#ALL#SEGURO : 
+0014#STR0014#ALL#Selecionando registros ...
+0015#STR0015#ALL#TOTAL DA FILIAL
+0016#STR0016#ALL#Faturamento Real/Previsto
+0017#STR0017#ALL#Este relatorio ira emitir a relacao de Faturamento,
+0018#STR0018#ALL#emitindo o Faturamento Previsto e o Real.
+0019#STR0019#ALL#Quant.Real
+0020#STR0020#ALL#Preco Real
+0021#STR0021#ALL#ToTal Real
+0022#STR0022#ALL#Quant.Prev.
+0023#STR0023#ALL#Preco Prev.
+0024#STR0024#ALL#ToTal Prev.
+0025#STR0025#ALL#Quant.Var.
+0026#STR0026#ALL#Preco Var.
+0027#STR0027#ALL#Valor Var.
+0028#STR0028#ALL#Total da Filial 
+0029#STR0029#ALL#Frete
+0030#STR0030#ALL#Seguro
+0031#STR0031#ALL#Selecionando Registros...
+0032#STR0032#ALL#Dados dos Produtos

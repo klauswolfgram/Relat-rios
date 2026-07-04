@@ -1,0 +1,41 @@
+0001#STR0001#ALL#Concluded Calls x Communication Type
+0002#STR0002#ALL#This program will issue a list of concluded
+0003#STR0003#ALL# concluded ordered by date.
+0004#STR0004#ALL#According to the parameters established
+0005#STR0005#ALL#Z-Form
+0006#STR0006#ALL#Administration
+0007#STR0007#ALL#CANCELLED BY OPERATOR
+0008#STR0008#ALL#**Not Informed  **
+0009#STR0009#ALL#Not found in file...         
+0010#STR0010#ALL#Total of servicings registered for the period from 
+0011#STR0011#ALL#COMMUNICATION TYPE                                           ACTIV.      %
+0012#STR0012#ALL#COMMUNICATION TYPE                                       RECEPTIVE       %
+0013#STR0013#ALL#COMMUNICATION TYPE                                           ACTIV.      %  RECEPTIVE       %    TOTAL       %
+0014#STR0014#ALL#CONCLUSION REASON                                            ACTIV.      %
+0015#STR0015#ALL#CONCLUSION REASON                                        RECEPTIVE       %
+0016#STR0016#ALL#CONCLUSION REASON                                            ACTIV.      %  RECEPTIVE       %    TOTAL       %
+0017#STR0017#ALL#DATE      OPERATOR                                           ACTIV
+0018#STR0018#ALL#DATE      OPERATOR                                       RECEPTIVE
+0019#STR0019#ALL#DATE      OPERATOR                                           ACTIV          RECEPTIVE            TOTAL
+0020#STR0020#ALL#OPERATOR                                                     ACTIV
+0021#STR0021#ALL#OPERATOR                                                 RECEPTIVE
+0022#STR0022#ALL#OPERATOR                                                     ACTIV.         RECEPTIVE            TOTAL
+0023#STR0023#ALL#CONCLUSION REASON                                            COMMUNICATION TYPE                                        ACTIV.      %
+0024#STR0024#ALL#CONCLUSION REASON                                        COMMUNICATION TYPE                                    RECEPTIVE       %
+0025#STR0025#ALL#CONCLUSION REASON                                            COMMUNICATION TYPE                                        ACTIV.      %  RECEPTIVE       %    TOTAL       %
+0026#STR0026#ALL#There are no data to be printed for this report holding the informed parameters.    
+0027#STR0027#ALL#TOTAL
+0028#STR0028#ALL# to 
+0029#STR0029#ALL#Communication type 
+0030#STR0030#ALL#ACTIVE
+0031#STR0031#ALL#RECEPTIVE
+0032#STR0032#ALL#Date
+0033#STR0033#ALL#Reason for finishing  
+0034#STR0034#ALL#Operator
+0035#STR0035#ALL#Telemarketing header      
+0036#STR0036#ALL#Telemarketing items   
+0037#STR0037#ALL#Total of calls by type
+0038#STR0038#ALL#Service total per reason
+0039#STR0039#ALL#Total of calls by date and operator
+0040#STR0040#ALL#Total of calls by operator
+0041#STR0041#ALL#Total of calls by reason and type

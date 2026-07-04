@@ -1,0 +1,32 @@
+0001#STR0001#CHI#Generation of Sales Tax Record   
+0002#STR0002#CHI#The initial and the final date will be requested for generation
+0003#STR0003#CHI#of the Sales Tax Record  
+0004#STR0004#CHI#Special 
+0005#STR0005#CHI#Management   
+0006#STR0006#CHI#Type in Reg.
+0007#STR0007#CHI#Filtering records ... 
+0008#STR0008#CHI#*CANCELLED BY THE OPERATOR*
+0009#STR0009#CHI#V. A. T. RECORD 
+0010#STR0010#CHI#TAX RECORD 
+0011#STR0011#CHI#Company: 
+0012#STR0012#CHI#Page number: 
+0013#STR0013#CHI#Type  Ser.  Voucher       Company Name         R.U.T.                   Net Register.               IVA R.G                IVA INCL.              IVA C/WITHH.                EXEMPT                   TOTAL
+0014#STR0014#CHI#Grand totals: 
+0015#STR0015#CHI#Totals by Tax Status:       
+0016#STR0016#CHI#Invoice Totals         : 
+0017#STR0017#CHI#Credit Note Totals:      
+0018#STR0018#CHI#Debit Note Totals:       
+0019#STR0019#CHI#Totals by Document Type:     
+0020#STR0020#CHI# Form       
+0021#STR0021#CHI#Is the form in position?     
+0022#STR0022#CHI#Yes
+0023#STR0023#CHI#No 
+0024#STR0024#CHI#Void printing    
+0025#STR0025#CHI#Try again?        
+0026#STR0026#CHI# - From  : 
+0027#STR0027#CHI#   To    : 
+0028#STR0028#CHI#Sub 
+0029#STR0029#CHI#Grand Total:
+0030#STR0030#CHI#Totals by Tax Zone:     
+0031#STR0031#CHI#Totals by Product Type:     
+0032#STR0032#CHI#C A N C E L L E D 

@@ -1,0 +1,99 @@
+0001#STR0001#ALL#ALÍQUOTA 
+0002#STR0002#ALL#ENTRADAS
+0003#STR0003#ALL#1.000 DO ESTADO
+0004#STR0004#ALL#2.000 DE OUTROS ESTADOS
+0005#STR0005#ALL#3.000 DO EXTERIOR
+0006#STR0006#ALL#TOTAIS
+0007#STR0007#ALL#SEM MOVIMENTO
+0008#STR0008#ALL#DEBITADO
+0009#STR0009#ALL#SAÍDAS
+0010#STR0010#ALL#5.000 PARA O ESTADO
+0011#STR0011#ALL#6.000 PARA OUTROS ESTADOS
+0012#STR0012#ALL#7.000 PARA O EXTERIOR
+0013#STR0013#ALL#VALORES DA  APURACÃO CONVERTIDOS EM 
+0014#STR0014#ALL#, VALOR DA 
+0015#STR0015#ALL#DÉBITO
+0016#STR0016#ALL#CRÉDITO
+0017#STR0017#ALL#SALDO
+0018#STR0018#ALL#|                                                    REGISTRO DE APURAÇÃO DO ICMS                                                  |
+0019#STR0019#ALL#| FIRMA: #########################################################                                                                 |
+0020#STR0020#ALL#| INSC.EST.: ######################## C.N.P.J.: #################                                                                  |
+0021#STR0021#ALL#| FOLHA: ####     MÊS OU PERÍODO/ANO: #########                                                                                    |
+0022#STR0022#ALL#|                                                         E N T R A D A S                                                          |
+0023#STR0023#ALL#|                                                           S A Í D A S                                                            |
+0024#STR0024#ALL#|               |                   |                                  ICMS - VALORES FISCAIS                                      |
+0025#STR0025#ALL#|  CODIFICAÇÃO  |                   |       OPERAÇÕES COM CRÉDITO DO IMPOSTO      |        OPERAÇÕES SEM CRÉDITO DO IMPOSTO        |
+0026#STR0026#ALL#|  CODIFICAÇÃO  |                   |       OPERAÇÕES COM DÉBITO DO IMPOSTO       |        OPERAÇÕES SEM DÉBITO DO IMPOSTO         |
+0027#STR0027#ALL#|---------------|      VALORES      |---------------------------------------------+------------------------------------------------|
+0028#STR0028#ALL#|CONTÁBIL|FISCAL|     CONTABEIS     |   BASE DE CÁLCULO    |  IMPOSTO #########   |ISENTAS OU NÃO TRIBUTADAS|        OUTRAS        |
+0029#STR0029#ALL#|SUBTOTAIS ########                 |                      |                      |                         |                      |
+0030#STR0030#ALL#|                                                    RESUMO DA APURACÃO DO IMPOSTO                                                 |
+0031#STR0031#ALL#|   | DÉBITO DO IMPOSTO                                                                  |                 VALORES                 |
+0032#STR0032#ALL#| # |                                                                                    |   COLUNA AUXILIAR  |        SOMA        |
+0033#STR0033#ALL#| # | 001 - POR SAÍDAS / PRESTAÇÕES COM DÉBITO DO IMPOSTO                                |                    | ################## |
+0034#STR0034#ALL#| # | 002 - OUTROS DÉBITOS (DISCRIMINAR ABAIXO)                                          |                    |                    |
+0035#STR0035#ALL#| # | 003 - ESTORNO DE CRÉDITOS (DISCRIMINAR ABAIX0)                                     |                    |                    |
+0036#STR0036#ALL#| # | 004 - SUB-TOTAL                                                                    |                    | ################## |
+0037#STR0037#ALL#|   | CRÉDITO DO IMPOSTO                                                                 |                    |                    |
+0038#STR0038#ALL#| # | 005 - POR ENTRADAS / AQUISIÇÕES COM CRÉDITO DO IMPOSTO                             |                    | ################## |
+0039#STR0039#ALL#| # | 006 - OUTROS CRÉDITOS (DISCRIMINAR ABAIXO)                                         |                    |                    |
+0040#STR0040#ALL#| # | 007 - ESTORNO DE DÉBITOS (DISCRIMINAR ABAIXO)                                      |                    |                    |
+0041#STR0041#ALL#| # | 008 - SUB-TOTAL                                                                    |                    | ################## |
+0042#STR0042#ALL#| # | 009 - SALDO CREDOR DO PERÍODO ANTERIOR                                             |                    | ################## |
+0043#STR0043#ALL#| # | 010 - TOTAL                                                                        |                    | ################## |
+0044#STR0044#ALL#|   | APURAÇÃO DO SALDO                                                                  |                    |                    |
+0045#STR0045#ALL#| # | 011 - SALDO DEVEDOR (DÉBITO MENOS CRÉDITO)                                         |                    | ################## |
+0046#STR0046#ALL#| # | 012 - DEDUÇÕES (DISCRIMINAR ABAIXO)                                                |                    |                    |
+0047#STR0047#ALL#| # | 013 - IMPOSTO A RECOLHER                                                           |                    | ################## |
+0048#STR0048#ALL#| # | 014 - SALDO CREDOR (CRÉDITO MENOS DÉBITO) A TRANSPORTAR P/O PERÍODO SEGUINTE       |                    | ################## |
+0049#STR0049#ALL#|                                                   INFORMAÇÕES COMPLEMENTARES                                                     |
+0050#STR0050#ALL#|                          GUIAS DE RECOLHIMENTO                                              GUIA DE INFORMAÇÃO                   |
+0051#STR0051#ALL#| NÚMERO           DATA              VALOR   ORGÃO ARRECADADOR                DATA ENTREGA       LOCAL DE ENTREGA(BANCO/REPARTIÇÃO)|
+0052#STR0052#ALL#| OBSERVAÇÕES: ##################################################################################                                  |
+0053#STR0053#ALL#|                                     RESUMO DA APURAÇÃO DO IMPOSTO - SUBSTITUIÇÃO TRIBUTÁRIA                                      |
+0054#STR0054#ALL# A 
+0055#STR0055#ALL#CREDITADO
+0056#STR0056#ALL#
+0057#STR0057#ALL#| FIRMA: #########################################################                                                                 |
+0058#STR0058#ALL#| INSC.EST.: ######################## C.N.P.J.: #################                                                                  |
+0059#STR0059#ALL#| FOLHA: ####     MÊS OU PERÍODO/ANO: #########                                                                                    |
+0060#STR0060#ALL#|   | DÉBITO DO IMPOSTO                                                                  |                 VALORES                 |
+0061#STR0061#ALL#| # |                                                                                    |   COLUNA AUXILIAR  |        SOMA        |
+0062#STR0062#ALL#| # | 001 - POR SAÍDAS / PRESTAÇÕES COM DÉBITO DO IMPOSTO                                |                    | ################## |
+0063#STR0063#ALL#| # | 002 - OUTROS DÉBITOS (DISCRIMINAR ABAIXO)                                          |                    |                    |
+0064#STR0064#ALL#| # | 003 - ESTORNO DE CRÉDITOS (DISCRIMINAR ABAIX0)                                     |                    |                    |
+0065#STR0065#ALL#| # | 004 - SUB-TOTAL(001+002+003)                                                       |                    | ################## |
+0066#STR0066#ALL#|   | CRÉDITO DO IMPOSTO                                                                 |                    |                    |
+0067#STR0067#ALL#| # | 005 - POR ENTRADAS COM CRÉDITO DO IMPOSTO                                          |                    | ################## |
+0068#STR0068#ALL#| # | 006 - OUTROS CRÉDITOS (DISCRIMINAR ABAIXO)                                         |                    |                    |
+0069#STR0069#ALL#| # | 007 - ESTORNO DE DÉBITOS (DISCRIMINAR ABAIXO)                                      |                    |                    |
+0070#STR0070#ALL#| # | 008 - SUB-TOTAL( 005+006+007)                                                      |                    | ################## |
+0071#STR0071#ALL#| # | 009 - SALDO CREDOR DO PERÍODO ANTERIOR                                             |                    | ################## |
+0072#STR0072#ALL#| # | 010 - TOTAL( 008+009 )                                                             |                    | ################## |
+0073#STR0073#ALL#|   | APURAÇÃO DO SALDO( ST )                                                            |                    |                    |
+0074#STR0074#ALL#| # | 011 - SALDO DEVEDOR ( 004-010 )                                                    |                    | ################## |
+0075#STR0075#ALL#| # | 012 - DEDUÇÕES (DISCRIMINAR ABAIXO)                                                |                    |                    |
+0076#STR0076#ALL#| # | 013 - IMPOSTO A RECOLHER ( 011-012)                                                |                    | ################## |
+0077#STR0077#ALL#| # | 014 - SALDO CREDOR A TRANSPORTAR ( 010-004 )                                       |                    | ################## |
+0078#STR0078#ALL#|                                       REGISTRO DE APURAÇÃO DO ICMS - SUBSTITUIÇÃO TRIBUTÁRIA                                     |
+0079#STR0079#ALL#TÍTULO: 
+0080#STR0080#ALL#|                           REGISTRO DE APURAÇÃO DO ICMS - SUBSTITUIÇÃO TRIBUTÁRIA - OPERAÇÕES INTERESTADUAIS                      |
+0081#STR0081#ALL#|                           RESUMO DA APURAÇÃO DO IMPOSTO - SUBSTITUIÇÃO TRIBUTÁRIA - OPERAÇÕES INTERNAS                           |
+0082#STR0082#ALL#RESUMO DA APURAÇÃO DO ICMS RESTITUIVEL - CRÉDITO ESTIMULO
+0083#STR0083#ALL#+-------------+-------------+-------------+-------+-------------+-------------+-----------+-----------+-----------+-----------+
+0084#STR0084#ALL#|   Entradas  |    Saídas   |Saldo Devedor|% Rest.|Crd Estimulo |Crd N Estimul|   FMPE    |   U.E.A   |FTI-NAC    |FTI-FAT    |
+0085#STR0085#ALL#+-------------+-------------+-------------+-------+-------------+-------------+-----------+-----------+-----------+-----------+
+0086#STR0086#ALL#|#############|#############|#############|#######|#############|#############|###########|###########|###########|###########|
+0087#STR0087#ALL#+-------------+-------------+-------------+-------+-------------+-------------+-----------+-----------+-----------+-----------+
+0088#STR0088#ALL#
+0089#STR0089#ALL#DEMONSTRATIVO DE OPERAÇÕES NÃO INCENTIVADAS
+0090#STR0090#ALL# Base Cálculo - Entradas         ICMS Entradas  Base Cálculo - Saídas         ICMS Saídas   D/C Não Incentivada  
+0091#STR0091#ALL#           ##############        ##############         ##############      ##############        ############## 
+0092#STR0092#ALL#DATA: 
+0093#STR0093#ALL#VALOR: 
+0094#STR0094#ALL#|                                                    REGISTRO DE APURAÇÃO DO ICMS  - P9                                                  |
+0095#STR0095#ALL#|                           REGISTRO DE APURAÇÃO DO ICMS - SUBSTITUIÇÃO TRIBUTARIA - OPERAÇÕES INTERNAS                            |
+0096#STR0096#ALL#| PAGINA: ####     MÊS OU PERÍODO/ANO: #########                                                                                   |
+0097#STR0097#ALL#| OBSERVAÇÕES: CRÉDITO ACUMULADO - EXPORTAÇÕES                                                                                     |
+0098#STR0098#ALL#| OBSERVAÇÕES: CRÉDITO ACUMULADO - OUTRAS HIPÓTESES                                                                                |
+0099#STR0099#ALL#ICMS/ST Apurado no Momento da Entrada no Estabelecimento: 

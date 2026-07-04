@@ -1,0 +1,102 @@
+0001#STR0001#ALL#Relatorio de atestados clinicos emitidos
+0002#STR0002#ALL#Zebrado
+0003#STR0003#ALL#Administracao
+0004#STR0004#ALL#Atestados Clínicos
+0005#STR0005#ALL#Nome                        Matrícula   Ficha Médica   Dt.Afast.Ini.   Dt.Afast.Fim   Médico Emitente        Total de Dias
+0006#STR0006#ALL#Nome                        Matrícula   Ficha Médica   Dt.Afast.Ini.   Dt.Afast.Fim   Médico Emitente      Total Dias   Total Horas
+0007#STR0007#ALL#        Centro de Custo
+0008#STR0008#ALL#Total Centro de Custo:
+0009#STR0009#ALL#Total Geral:
+0010#STR0010#ALL#CANCELADO PELO OPERADOR
+0011#STR0011#ALL#Totalizar por ?
+0012#STR0012#ALL#Total:
+0013#STR0013#ALL#Nome
+0014#STR0014#ALL#Matríc.
+0015#STR0015#ALL#Ficha Med.
+0016#STR0016#ALL#Data Afast.
+0017#STR0017#ALL#Data Fim
+0018#STR0018#ALL#Médico Emitente
+0019#STR0019#ALL#Total Dias
+0020#STR0020#ALL#Centro de Custo
+0021#STR0021#ALL#Descrição
+0022#STR0022#ALL#Total Horas
+0023#STR0023#ALL#Total da Filial
+0024#STR0024#ALL#Total do Centro de Custo
+0025#STR0025#ALL#Aguarde
+0026#STR0026#ALL#Processando os Atestados Médicos...
+0027#STR0027#ALL#Não há nada para imprimir no relatório.
+0028#STR0028#ALL#De Cliente ?
+0029#STR0029#ALL#Código do cliente. O campo pode permanecer vazio para considerar desde o primeiro código.
+0030#STR0030#ALL#Loja
+0031#STR0031#ALL#Código da loja do cliente. O campo pode permanecer vazio para considerar desde o primeiro código.
+0032#STR0032#ALL#Até Cliente ?
+0033#STR0033#ALL#Código do cliente. O campo pode ser preenchido com a letra Z até o final para considerar o último código.
+0034#STR0034#ALL#Código da loja do cliente. O campo pode ser preenchido com a letra Z até o final para considerar o último código.
+0035#STR0035#ALL#CID
+0036#STR0036#ALL#Descrição
+0037#STR0037#ALL#Totalizar por: ?
+0038#STR0038#ALL#Até Médico ?
+0039#STR0039#ALL#De Médico ?
+0040#STR0040#ALL#Até Centro de Custo ?
+0041#STR0041#ALL#De Centro de Custo ?
+0042#STR0042#ALL#Até Data ?
+0043#STR0043#ALL#De Data ?
+0044#STR0044#ALL#Até Ficha Médica ?
+0045#STR0045#ALL#De Ficha Médica ?
+0046#STR0046#ALL#Cliente
+0047#STR0047#ALL#Médico
+0048#STR0048#ALL#Data inicial do período no qual será verificado a existência de afastamentos.
+0049#STR0049#ALL#Data final do período no qual será verificado a existência de afastamentos.
+0050#STR0050#ALL#Filial
+0051#STR0051#ALL#Nome                            Matric.   Ficha Méd. Data Afast. Data Fim  Médico Emitente       Ind. Médico  Total Dias   Total Horas    CID      Descrição                                  CID Complementar
+0052#STR0052#ALL#Nome                            Matric.   Ficha Méd. Data Afast. Data Fim  Médico Emitente       Total Dias   Total Horas    CID       Descrição                                  CID Complementar
+0053#STR0053#ALL#Cliente/Loja: 
+0054#STR0054#ALL#Total de Dias...................:  
+0055#STR0055#ALL#Total de Atestados - Empresa....:  
+0056#STR0056#ALL#Total de Atestados - SUS........:  
+0057#STR0057#ALL#Total do Centro de Custo........:  
+0058#STR0058#ALL#Total Geral................:  
+0059#STR0059#ALL#        Médico
+0060#STR0060#ALL#Nome                                      Matrícula   Ficha Médica   Data Afast. Data Fim  Ind. Médico        Total Dias  Total Horas    CID       Descrição                                  CID Complementar
+0061#STR0061#ALL#Nome                                      Matrícula   Ficha Médica   Data Afast. Data Fim  Total Dias  Total Horas    CID       Descrição                                   CID Complementar
+0062#STR0062#ALL#Total por Médico................:  
+0063#STR0063#ALL#Total por Médico:    
+0064#STR0064#ALL#Total Geral:    
+0065#STR0065#ALL#Ind. Médico
+0066#STR0066#ALL#Resumo
+0067#STR0067#ALL#Resumo do Cliente:
+0068#STR0068#ALL#Total de Atestados - Particular.:  
+0069#STR0069#ALL#Total de Atestados - Convênio...:  
+0070#STR0070#ALL#Resumo do C. Custo:
+0071#STR0071#ALL#Resumo do Médico:
+0072#STR0072#ALL#Resumo da Filial:
+0073#STR0073#ALL#Empresa
+0074#STR0074#ALL#SUS
+0075#STR0075#ALL#Nome                            Matric.   Ficha Méd. Data Afast. Data Fim  Médico Emitente       Ind. Médico  Total Dias   CID      Descrição                                 CID Complementar
+0076#STR0076#ALL#Nome                            Matric.   Ficha Méd. Data Afast. Data Fim  Médico Emitente       Total Dias   CID       Descrição                                 CID Complementar
+0077#STR0077#ALL#Nome                                      Matricula   Ficha Médica   Data Afast. Data Fim  Ind. Médico        Total Dias  CID       Descrição                                  CID Complementar
+0078#STR0078#ALL#Nome                                      Matricula   Ficha Médica   Data Afast. Data Fim  Total Dias  CID       Descrição                                  CID Complementar
+0079#STR0079#ALL#Sim
+0080#STR0080#ALL#Não
+0081#STR0081#ALL#CID Complementar
+0082#STR0082#ALL#Nome                            Matric.   Ficha Méd. Data Afast. Data Fim  Médico Emitente       Ind. Médico  Total Dias   Total Horas    CID      Descrição
+0083#STR0083#ALL#Nome                            Matric.   Ficha Méd. Data Afast. Data Fim  Médico Emitente       Total Dias   Total Horas    CID       Descrição
+0084#STR0084#ALL#Nome                            Matric.   Ficha Méd. Data Afast. Data Fim  Médico Emitente       Ind. Médico  Total Dias   CID      Descrição
+0085#STR0085#ALL#Nome                            Matric.   Ficha Méd. Data Afast. Data Fim  Médico Emitente       Total Dias   CID       Descrição
+0086#STR0086#ALL#Nome                                      Matricula   Ficha Médica   Data Afast. Data Fim  Ind. Médico        Total Dias  CID       Descrição
+0087#STR0087#ALL#Nome                                      Matricula   Ficha Médica   Data Afast. Data Fim  Total Dias  CID       Descrição
+0088#STR0088#ALL#Nome                                      Matricula   Ficha Médica   Data Afast. Data Fim  Ind. Médico        Total Dias  Total Horas    CID       Descrição
+0089#STR0089#ALL#Nome                                      Matricula   Ficha Médica   Data Afast. Data Fim  Total Dias  Total Horas    CID       Descrição
+0090#STR0090#ALL#Particular
+0091#STR0091#ALL#Convênio
+0092#STR0092#ALL#Atestados Empresa
+0093#STR0093#ALL#Atestados SUS
+0094#STR0094#ALL#Atestados Particular
+0095#STR0095#ALL#Atestados Convênio
+0096#STR0096#ALL#Total de Atestados - Interno....:  
+0097#STR0097#ALL#Total de Atestados - Externo....:  
+0098#STR0098#ALL#Interno
+0099#STR0099#ALL#Externo
+0100#STR0100#ALL#Atestados Interno
+0101#STR0101#ALL#Atestados Externo
+0102#STR0102#ALL#Indica se deve mostrar os CID complementares.

@@ -1,0 +1,19 @@
+0001#STR0001#ALL#This program will issue the Comparative of Balances Type       
+0002#STR0002#ALL#according to the parameters required by the user.    
+0003#STR0003#ALL#Account
+0004#STR0004#ALL#Z. Form
+0005#STR0005#ALL#Management
+0006#STR0006#ALL#Comparative of Balances Type 
+0007#STR0007#ALL# VARIATION 
+0008#STR0008#ALL#|ACCOUNT                        |DESCRIPT.                                  
+0009#STR0009#ALL#***** CANCELLED BY THE OPERATOR****
+0010#STR0010#ALL#Creating Temporary File...
+0011#STR0011#ALL# T O T A L S  O F 
+0012#STR0012#ALL#T O T A L S  O F  P E R I O D   : 
+0013#STR0013#ALL# Comparative 
+0014#STR0014#ALL# IN 
+0015#STR0015#ALL# FROM 
+0016#STR0016#ALL# TO  
+0017#STR0017#ALL#DIV.
+0018#STR0018#ALL#ACCOUNT
+0019#STR0019#ALL#DESCRIPTION

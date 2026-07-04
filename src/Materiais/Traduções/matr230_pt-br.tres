@@ -1,0 +1,27 @@
+0001#STR0001#ALL#Requisicoes para Consumo
+0002#STR0002#ALL#Emite a relacao das requisicoes feitas para consumo , dividindo por
+0003#STR0003#ALL#Centro de Custo requisitante ou Conta Contabil.Este relatorio e' um
+0004#STR0004#ALL#pouco demorado porque ele cria o arquivo de indice na hora.
+0005#STR0005#ALL# Centro Custo 
+0006#STR0006#ALL# Cta.Contabil 
+0007#STR0007#ALL#Zebrado
+0008#STR0008#ALL#Administracao
+0009#STR0009#ALL#REGISTRO(S)
+0010#STR0010#ALL#Selecionando Registros...
+0011#STR0011#ALL#C.C       DESCRICAO                 CODIGO PRODUTO  DESCRICAO                 UM     QUANTIDADE            CUSTO        C U S T O
+0012#STR0012#ALL#                                                                                                        UNITARIO        T O T A L
+0013#STR0013#ALL#CANCELADO PELO OPERADOR
+0014#STR0014#ALL#Total do Grupo 
+0015#STR0015#ALL#Total C. Custo   
+0016#STR0016#ALL#TOTAL GERAL...........................
+0017#STR0017#ALL# D A T A    CENTRO     DESCRICAO                  CONTA CONTABIL        DESCRICAO                           V A L O R
+0018#STR0018#ALL#Total da Conta --> 
+0019#STR0019#ALL#T O T A L --->
+0020#STR0020#ALL#            DE CUSTO                                                                                                 
+0021#STR0021#ALL#Descricao
+0022#STR0022#ALL#Valor
+0023#STR0023#ALL#Custo
+0024#STR0024#ALL#Unitario
+0025#STR0025#ALL#Total
+0026#STR0026#ALL#Itens de Movimentação Interna
+0027#STR0027#ALL#O Grupo de Pergunta MATR230 está incorreto.

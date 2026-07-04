@@ -1,0 +1,25 @@
+0001#STR0001#ALL#Search Address
+0002#STR0002#ALL#Unitizer Information
+0003#STR0003#ALL#Weight
+0004#STR0004#ALL#Cubage
+0005#STR0005#ALL#Mixed
+0006#STR0006#ALL#Qty Address
+0007#STR0007#ALL#Yes
+0008#STR0008#ALL#No
+0009#STR0009#ALL#Addresses
+0010#STR0010#ALL#Max Weight
+0011#STR0011#ALL#Occup Weight
+0012#STR0012#ALL#Max Cubing
+0013#STR0013#ALL#Occup Cubing
+0014#STR0014#ALL#Max Unit
+0015#STR0015#ALL#Occup Unit
+0016#STR0016#ALL#Message
+0017#STR0017#ALL#Storage Zone Order, in which: 00-Product zone, 01...99-Alternative zone
+0018#STR0018#ALL#Supply Sequence Order: 
+0019#STR0019#ALL#Supply Sequence Structure Order
+0020#STR0020#ALL#Product Order, in which: 01-Exclusive product, 02-Any product
+0021#STR0021#ALL#Balance Order, in which: 01-Product balance, 02-Mixed balance, 03-Other product balance, 99-No balance
+0022#STR0022#ALL#Transaction Order, in which: 01-Product pending transaction, 99-No pending transaction
+0023#STR0023#ALL#Addressing type, where: 
+0024#STR0024#ALL#Classification Information
+0025#STR0025#ALL#Classification

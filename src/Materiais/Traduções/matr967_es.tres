@@ -1,0 +1,43 @@
+0001#STR0001#BRA#Lista de Creditos - Factura Electronica
+0002#STR0002#BRA#Este programa imprimira una lista con todos los documentos de entrada  
+0003#STR0003#BRA#que generan el credito de la Factura Electronica de Sao Paulo -SP
+0004#STR0004#BRA#Credito -Fact-e
+0005#STR0005#BRA#Total del proveedor
+0006#STR0006#BRA#Informe la fecha de entrada inicial 
+0007#STR0007#BRA#para seleccionar los documentos por imprimir.
+0008#STR0008#BRA#Fecha inicial
+0009#STR0009#BRA#Informe la fecha de entrada final
+0010#STR0010#BRA#Fecha final
+0011#STR0011#BRA#Informe el proveedor inicial 
+0012#STR0012#BRA#Deje esta pregunta en blanco, para que 
+0013#STR0013#BRA#se puedan procesar todos los proveedores.
+0014#STR0014#BRA#Proveedor inicial
+0015#STR0015#BRA#Informe el proveedor final 
+0016#STR0016#BRA#Informe ZZZZZZ, para que 
+0017#STR0017#BRA#Proveedor final
+0018#STR0018#BRA#Proveedor
+0019#STR0019#BRA#Factura Electronica
+0020#STR0020#BRA#RPS
+0021#STR0021#BRA#Val. Credito
+0022#STR0022#BRA#Cod. Verif.
+0023#STR0023#BRA#Lista de Creditos - Factura Electronica
+0024#STR0024#BRA#Este informe imprimira los movimientos de entrada que 
+0025#STR0025#BRA#generaron credito por la factura electronica
+0026#STR0026#BRA#A Rayas
+0027#STR0027#BRA#Administracion
+0028#STR0028#BRA#Fact-e     Serie   Proveedor  Tda.  Razon Social                               Numero RPS     Cod. Verif.       Valor Credito
+0029#STR0029#BRA#Seleccionando Registros...
+0030#STR0030#BRA#Total del Proveedor
+0031#STR0031#BRA#Total General
+0032#STR0032#BRA#Proveedor
+0033#STR0033#BRA#Factura Electronica
+0034#STR0034#BRA#Implementacion no efectuada
+0035#STR0035#BRA#La implementacion del proceso de la Factura
+0036#STR0036#BRA#Electronica no se hizo correctamente, 
+0037#STR0037#BRA#puesto que existen tablas y campos que 
+0038#STR0038#BRA#no estan disponibles en el diccionario de datos. 
+0039#STR0039#BRA#Compruebe los documentos que acompaña la rutina y 
+0040#STR0040#BRA#ejecute todos los procedimientos indicados y procese 
+0041#STR0041#BRA#esta rutina nuevamente.
+0042#STR0042#BRA#Tabla SFT - 
+0043#STR0043#BRA# Campos: 

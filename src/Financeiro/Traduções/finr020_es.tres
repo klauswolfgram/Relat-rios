@@ -1,0 +1,30 @@
+0001#STR0001#ALL#A rayas
+0002#STR0002#ALL#Administrac.
+0003#STR0003#ALL#Este programa imprimirá el Libro Registro de titulos
+0004#STR0004#ALL#Libro del registro de titulos
+0005#STR0005#ALL#Deben crearse los parametros MV_LDUPABE y MV_LDUPENC.
+0006#STR0006#ALL#Utilice como base el param. MV_LDIARAB.
+0007#STR0007#ALL#Libro de titulos
+0008#STR0008#ALL#R E G I S T R O   D E   T I T U L O S 
+0009#STR0009#ALL#                           PLANILLA: ####### |
+0010#STR0010#ALL#| EMPRESA:#############################################################################################################################                                                                          |
+0011#STR0011#ALL#| INSC.EST.: ################   C.N.P.J: ################################                                                                                                                                        |
+0012#STR0012#ALL#|Nº de Orde n |Fecha de|Fecha de  |           Valor|Nombre del Comprador                    | Domicilio         |Fecha de  |Fecha de|                  Anotaciones de las reformas    |
+0013#STR0013#ALL#|             |Emision |Expedicion|                |                                        |                   |Vencimient|Pago    |Prorrogas y otras circunstancias necesarias      |
+0014#STR0014#ALL#Nº de Orden
+0015#STR0015#ALL#Fecha de
+0016#STR0016#ALL#Emision
+0017#STR0017#ALL#Expedic.
+0018#STR0018#ALL#Valor
+0019#STR0019#ALL#Nombre del Compr.
+0020#STR0020#ALL#Domicilio
+0021#STR0021#ALL#Fch. de
+0022#STR0022#ALL#Vencimien.
+0023#STR0023#ALL#Pago.
+0024#STR0024#ALL#Apunte de las reformas
+0025#STR0025#ALL#Prorrogas y otras circunstancias necesarias
+0026#STR0026#ALL#EMPRESA:
+0027#STR0027#ALL#INSC EST.:
+0028#STR0028#ALL#CNPJ:
+0029#STR0029#ALL#Plan.
+0030#STR0030#ALL#Registros de titulos

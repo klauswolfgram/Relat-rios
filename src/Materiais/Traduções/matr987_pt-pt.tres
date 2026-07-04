@@ -1,0 +1,20 @@
+0001#STR0001#BRA#Resumo de Créditos de Movimentos de Artigos Incentivados - PRODEPE
+0002#STR0002#BRA#Este relatório imprimirá os créditos dos movimentos de saída de
+0003#STR0003#BRA#artigos incentivados pelo PRODEPE.
+0004#STR0004#BRA#Código de Barras
+0013#STR0013#BRA#Percentagem
+0015#STR0015#BRA#Tabela de Percentagens Aplicáveis
+0016#STR0016#BRA#Para visualizar o relatório correctamente, verifique a Tabela de 
+0017#STR0017#BRA#Percentagens Aplicáveis no botão Incluir.
+0019#STR0019#BRA#|                                RESUMO DE CRÉDITOS DE MOVIMENTOS DE ARTIGOS INCENTIVADOS - PRODEPE                               |
+0020#STR0020#BRA#|                                                                                                                 PÁGINA: ######   |
+0023#STR0023#BRA#| ENDEREÇO: ######################################     CIDADE:   #############################     DISTRITO: ##                      |
+0024#STR0024#BRA#|                                  MOVIMENTOS DE SAIDA COM ARTIGOS INCENTIVADOS - POR NCM + FAIXA                                 |
+0025#STR0025#BRA#| NÃO MOVIMENTOS DE(SAIDA COM)ARTIGOS INCENTIVADOS POR FAIXA                                                                                                                                                            |
+0026#STR0026#BRA#|        NCM        |    FAIXA INI    |    FAIXA FIM    |   PERCENTAGEM  |      QTDE      |       ICMS        |     CRÉDITO      |
+0029#STR0029#BRA#|        FAIXA INI      |      FAIXA FIM      |   PERCENTAGEM   |        QTDE        |         ICMS          |      CRÉDITO       |
+0032#STR0032#BRA#|-----------------------+---------------------+----------------+----------------------+-----------------------+--------------------|
+0033#STR0033#BRA#|                                                   *** NÃO HOUVE MOVIMENTO ***                                                    |
+0034#STR0034#BRA#|                                                             TOTALIZAÇÃO  ################   #################   ################ |
+0035#STR0035#BRA#|                                                   TOTALIZAÇÃO  ####################   #####################   ################## |
+0036#STR0036#BRA#|                                             EMISSÃO: DE  ##########  ATÉ  ##########                                             |

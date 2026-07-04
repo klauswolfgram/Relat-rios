@@ -1,0 +1,308 @@
+0001#STR0001#ALL#Comunicacion de Accidente de Trabajo ( CAT ) .                            
+0002#STR0002#ALL#Emite la CAT con todas las informaciones referente al accidente seleccionado   
+0003#STR0003#ALL#Despues de la emision de la fecha corriente, sera actualizada en el registro de la CAT.       
+0004#STR0004#ALL#A Rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#Comunicacion de Accidente de Trabajo - CAT
+0007#STR0007#ALL#ANULADO POR EL OPERADOR
+0008#STR0008#ALL#PREVIDENCIA SOCIAL
+0009#STR0009#ALL#Comunicacion de Acciden de Trabajo 
+0010#STR0010#ALL#EMPLEADOR 
+0011#STR0011#ALL#SINDICATO
+0012#STR0012#ALL#MEDICO
+0013#STR0013#ALL#ASEGURADO
+0014#STR0014#ALL#AUT. PUBLICA
+0015#STR0015#ALL#INICIAL
+0016#STR0016#ALL#REAPERTURA
+0017#STR0017#ALL#OBITO
+0018#STR0018#ALL#EMPLEADO
+0019#STR0019#ALL#TRABAJADOR POR HORAS
+0020#STR0020#ALL#SEG. ESPECIAL
+0021#STR0021#ALL#MEDICO RESIDENCIAL
+0022#STR0022#ALL#MASCULINO
+0023#STR0023#ALL#FEMENINO
+0024#STR0024#ALL#CASADO(A)
+0025#STR0025#ALL#DIVORCIADO(A)
+0026#STR0026#ALL#MARITAL
+0027#STR0027#ALL#SEPARADO(A)
+0028#STR0028#ALL#SOLTERO(A)
+0029#STR0029#ALL#VIUDO(A)
+0030#STR0030#ALL#SI
+0031#STR0031#ALL#NO
+0032#STR0032#ALL#URBANA
+0033#STR0033#ALL#RURAL
+0034#STR0034#ALL#ACCIDENTE TIPICO
+0035#STR0035#ALL#ACCIDENTE DE TRAYECTO
+0036#STR0036#ALL#ENFERMEDAD DE TRABAJO
+0037#STR0037#ALL#INCIDENTE
+0038#STR0038#ALL#CEI
+0039#STR0039#ALL#CNPJ
+0040#STR0040#ALL#CPF
+0041#STR0041#ALL#INCRA
+0042#STR0042#ALL#Informaciones del Emitente
+0043#STR0043#ALL#Emitente
+0044#STR0044#ALL#Fecha emision
+0045#STR0045#ALL#Tipo de CAT
+0046#STR0046#ALL#Comunicacion Obito
+0047#STR0047#ALL#Filiacion
+0048#STR0048#ALL#E-mail
+0049#STR0049#ALL#Informaciones del Empleador
+0050#STR0050#ALL#Razon Social/Nombre
+0051#STR0051#ALL#Tipo/Num. Documento
+0052#STR0052#ALL#CNAE
+0053#STR0053#ALL#CEP
+0054#STR0054#ALL#Direccion
+0055#STR0055#ALL#Barrio
+0056#STR0056#ALL#Estado
+0057#STR0057#ALL#Municipio
+0058#STR0058#ALL#Telefono
+0059#STR0059#ALL#Informaciones del Accidentado
+0060#STR0060#ALL#Nombre
+0061#STR0061#ALL#Fecha de Nacimiento
+0062#STR0062#ALL#Nom. Madre
+0063#STR0063#ALL#Sexo
+0064#STR0064#ALL#Estado Civil
+0065#STR0065#ALL#Remuneracion
+0066#STR0066#ALL#R$
+0067#STR0067#ALL#CTPS
+0068#STR0068#ALL#Identidad
+0069#STR0069#ALL#PIS/PASEP/NIT
+0070#STR0070#ALL#CBO
+0071#STR0071#ALL#Jubilado
+0072#STR0072#ALL#Area
+0073#STR0073#ALL#Informaciones del Accidente
+0074#STR0074#ALL#Fecha del Accidente
+0075#STR0075#ALL#Hora del Accidente
+0076#STR0076#ALL#Horas Trabajadas
+0077#STR0077#ALL#Tipo
+0078#STR0078#ALL#Licencia
+0079#STR0079#ALL#Registro Policial
+0080#STR0080#ALL#Local del Accidente
+0081#STR0081#ALL#Especificacion Local
+0082#STR0082#ALL#CGC de Prestadora
+0083#STR0083#ALL#Prov. del Accidente
+0084#STR0084#ALL#Municipio del
+0085#STR0085#ALL#Ultimo dia
+0086#STR0086#ALL#Accidente
+0087#STR0087#ALL#Trabajado/Fch Obito
+0088#STR0088#ALL#Parte del Cuerpo
+0089#STR0089#ALL#Agente Causador
+0090#STR0090#ALL#Situacion Generadora
+0091#STR0091#ALL#Muerte
+0092#STR0092#ALL#Fecha Obito
+0093#STR0093#ALL#Descrip. del
+0094#STR0094#ALL#Nombre Testigo
+0095#STR0095#ALL#Municipio/Prov.
+0096#STR0096#ALL#Informaciones del Atestado Medico
+0097#STR0097#ALL#Unidad
+0098#STR0098#ALL#Fecha Atencion
+0099#STR0099#ALL#Hora Atencion
+0100#STR0100#ALL#Internacion
+0101#STR0101#ALL#Duracion Tratamiento
+0102#STR0102#ALL#DIA(S)
+0103#STR0103#ALL#Naturaleza Lesion
+0104#STR0104#ALL#CID
+0105#STR0105#ALL#Observaciones
+0106#STR0106#ALL#CRM
+0107#STR0107#ALL#¿Rellenar campos 57, 58 y 59?
+0108#STR0108#ALL#No
+0109#STR0109#ALL#Si
+0110#STR0110#ALL#¿Cantidad de Copias?
+0111#STR0111#ALL#Una
+0112#STR0112#ALL#Dos
+0113#STR0113#ALL#Tres
+0114#STR0114#ALL#¿Imp. cuestionario respon.?
+0115#STR0115#ALL#¿De Cliente?
+0116#STR0116#ALL#Tda.
+0117#STR0117#ALL#¿A Cliente  ?
+0118#STR0118#ALL#Rellenar campos 57, 58 y 59 ?
+0119#STR0119#ALL#¿Modelo del Informe       ?
+0120#STR0120#ALL#¿A Accidente ?
+0121#STR0121#ALL#¿De  Accidente ?
+0122#STR0122#ALL#1-Emisor 
+0123#STR0123#ALL#INSTITUTO NACIONAL DEL SEGURO (SOCIAL)
+0124#STR0124#ALL#COMUNICACION DE ACCIDENTE DE TRABAJO - CAT
+0125#STR0125#ALL#2-Tipo CAT
+0126#STR0126#ALL#COMUNICACION DE OBITO EL :
+0127#STR0127#ALL#| |E|3-Razon Social/Nombre
+0128#STR0128#ALL#| |r|4-Tipo
+0129#STR0129#ALL#|5-CNAE
+0130#STR0130#ALL#|6-Direccion 
+0131#STR0131#ALL#| |s|Barrio
+0132#STR0132#ALL#CP:
+0133#STR0133#ALL#|7-Municipio
+0134#STR0134#ALL#|8-Estado
+0135#STR0135#ALL#|9-Telefono
+0136#STR0136#ALL#| |a|
+0137#STR0137#ALL#| |A|10-Nombre
+0138#STR0138#ALL#| |i|11-Nombre de la Madre
+0139#STR0139#ALL#| |e|12-Fecha de nac.
+0140#STR0140#ALL#|13-Sexo
+0141#STR0141#ALL#|14-Estado Civil
+0142#STR0142#ALL#|15-CTPS Serie  Fecha en.
+0143#STR0143#ALL#|16-UF
+0144#STR0144#ALL#|17-Remuneracion mensual
+0145#STR0145#ALL#|SOLTERO
+0146#STR0146#ALL#|CASADO
+0147#STR0147#ALL#|VIUDO
+0148#STR0148#ALL#|SEP |JUD
+0149#STR0149#ALL#|IGNORADO
+0150#STR0150#ALL#| |t|18-Cartera de Identidad
+0151#STR0151#ALL#Fecha de Emision
+0152#STR0152#ALL#|Organo Exp.
+0153#STR0153#ALL#|19-Estado
+0154#STR0154#ALL#|20-PIS/PASEP
+0155#STR0155#ALL#|21-Direccion
+0156#STR0156#ALL#|m|d|Direccion (compl.)
+0157#STR0157#ALL#BARRIO:
+0158#STR0158#ALL#|22-Municipio
+0159#STR0159#ALL#|23-Estado
+0160#STR0160#ALL#|24-Telefono
+0161#STR0161#ALL#26-Nombre de la ocupación
+0162#STR0162#ALL#|27-CBO
+0163#STR0163#ALL#|28-Filiación Seguridad Privada
+0164#STR0164#ALL#|29-¿Jubilado?
+0165#STR0165#ALL#|30-Área
+0166#STR0166#ALL#Trab. Suelto
+0167#STR0167#ALL#Medico Resid.
+0168#STR0168#ALL#NO
+0169#STR0169#ALL#|t|A|31-Fecha del accidente
+0170#STR0170#ALL#|32-Hora del accidente
+0171#STR0171#ALL#|33-¿Después de cuántas horas de trabajo?
+0172#STR0172#ALL#|34-Tipo
+0173#STR0173#ALL#|35-¿Hubo licencia?
+0174#STR0174#ALL#| |i|36-Último día
+0175#STR0175#ALL#|37-Local del accidente
+0176#STR0176#ALL#|38-Especif. del local de trabajo
+0177#STR0177#ALL#|39-RCPJ
+0178#STR0178#ALL#|40-Est/Prov/Reg
+0179#STR0179#ALL#ESTABLECIMIENTO DE LA EMPRESA
+0180#STR0180#ALL#DONDE PRESTA SERVICIO
+0181#STR0181#ALL#VIA PUBLICA
+0182#STR0182#ALL#AREA RURAL
+0183#STR0183#ALL#| |e|41-Municipio del accidente
+0184#STR0184#ALL#|42-Partes del cuerpo afectadas
+0185#STR0185#ALL#|43-Agente causador
+0186#STR0186#ALL#| |t|44-Descripción de la situación generadora del accidente o enfermedad
+0187#STR0187#ALL#|45-¿Hubo registro policial?
+0188#STR0188#ALL#|46-¿Hubo muerte?
+0189#STR0189#ALL#| |T|47-Nombre:
+0190#STR0190#ALL#| |e|48-Dirección
+0191#STR0191#ALL#|49-Municipio
+0192#STR0192#ALL#|50-Est/Prov/Reg
+0193#STR0193#ALL#Telefono
+0194#STR0194#ALL#| |t|51-Nombre:
+0195#STR0195#ALL#| |m|52-Dirección
+0196#STR0196#ALL#|53-Municipio
+0197#STR0197#ALL#|54-Est/Prov/Reg
+0198#STR0198#ALL#Local y fecha
+0199#STR0199#ALL#Firma y Sello del emisor
+0200#STR0200#ALL#|A|A|55-Unidad de atención médica
+0201#STR0201#ALL#|56-Fecha
+0202#STR0202#ALL#|57-Hora
+0203#STR0203#ALL#|e|e|58-¿Hubo internación?
+0204#STR0204#ALL#|59-Duración probable del tratamiento
+0205#STR0205#ALL#|60-¿Debe licenciarse del trabajo?
+0206#STR0206#ALL# Dias
+0207#STR0207#ALL#|t|d|61-Descripción y modalidad de la lesión
+0208#STR0208#ALL#|d|m|62-Diagnóstico probable
+0209#STR0209#ALL#| |n|63-Obs.
+0210#STR0210#ALL#Firma y Sello del medico con CRM
+0211#STR0211#ALL#|I|64-Recibido el
+0212#STR0212#ALL#|65-Codigo de la Unidad
+0213#STR0213#ALL#66-Numero CAT
+0214#STR0214#ALL#|S|68-Matricula del servidor
+0215#STR0215#ALL#Matricula
+0216#STR0216#ALL#Firma del Servidor
+0217#STR0217#ALL#{62} - {10}
+0218#STR0218#ALL#|ACCIDENTADO
+0219#STR0219#ALL#ACCIDENTE O ENFERMEDAD
+0220#STR0220#ALL#|TESTIGOS
+0221#STR0221#ALL#|ATENCION 
+0222#STR0222#ALL#CERTIFICADO MEDICO
+0223#STR0223#ALL#LESION
+0224#STR0224#ALL#DIAGNOST.
+0225#STR0225#ALL#INSS
+0226#STR0226#ALL#|ESTAB EMPRESA
+0227#STR0227#ALL#La no exactitud de las declaraciones de esta comunicacion implicará en las sanciones previstas en los arts. 
+0228#STR0228#ALL#171 y 299 del Codigo Penal.
+0229#STR0229#ALL#La comunicacion de accidente de trabajo debera hacerse hasta el 1º dia util despues del accidente, 
+0230#STR0230#ALL#bajo pena de multa.
+0231#STR0231#ALL#La comunicacion de accidente de trabajo se regira por el art. 134 del Decreto nº 2.172/97.
+0232#STR0232#ALL#Los conceptos de accidente de trabajo y enfermedad ocupacional estan definidos en los arts. 131 a 133 
+0233#STR0233#ALL#del Decreto nº 2.172/97.
+0234#STR0234#ALL#La caracterizacion del accidente se regira por el art. 135 del Decreto nº 2.172/97.
+0235#STR0235#ALL# SEGURIDAD  SOCIAL 
+0236#STR0236#ALL#COMUNICACION DE ACCIDENTE DE TRABAJO - CAT
+0237#STR0237#ALL#1 - Emisor
+0238#STR0238#ALL#1 - Empleador   2 - Sindicato   3 - Medico   4 - Asegurado o Dependiente   5 - Autoridad Publica
+0239#STR0239#ALL#2-Tipo CAT
+0240#STR0240#ALL#1 - Inicio   2 - Reapertura   3 - Comunicacion de Obito en 
+0241#STR0241#ALL#Razon Social / Nombre
+0242#STR0242#ALL#1 - CEI       2 - CNPJ      3 - CPF      4 - NT
+0243#STR0243#ALL#Direccion Calle/Av./Nº/Comp.
+0244#STR0244#ALL#Provincia/Departamento
+0245#STR0245#ALL#Fecha de Nac.:
+0246#STR0246#ALL#1 - Masc. 2 - Fem.
+0247#STR0247#ALL#1-Soltero 2-Casado 3-Viudo 4-Sep. Jud. 5-Otros 6-IGN
+0248#STR0248#ALL#CTPS  Serie
+0249#STR0249#ALL#Fecha de Emision.
+0250#STR0250#ALL#Documento Nacional de Identidad
+0251#STR0251#ALL#Organo Exp.
+0252#STR0252#ALL#PIS/PASEP
+0253#STR0253#ALL#Remuneracion Mensual
+0254#STR0254#ALL#Nombre de la Ocupacion
+0255#STR0255#ALL#Asociacion a la Seguridad Social
+0256#STR0256#ALL#1-Empleado 2-Trab. Autonomo 7-Aseg. Especial 8-Medico Resid.
+0257#STR0257#ALL#¿Jubilado ?
+0258#STR0258#ALL#1 - Si  2 - No
+0259#STR0259#ALL#1 - Urbano  2 - Rural
+0260#STR0260#ALL#Fecha del  Accidente
+0261#STR0261#ALL#Hora del  Accidente
+0262#STR0262#ALL#¿Despues de cuantas horas de trab.?
+0263#STR0263#ALL#1 - Tipico  2 - Enfermedad  3 - Trayecto
+0264#STR0264#ALL#¿Hubo Licencia temporal?
+0265#STR0265#ALL#PRES. SERVICIO
+0266#STR0266#ALL#VIA PUBLICA
+0267#STR0267#ALL#AREA RURAL
+0268#STR0268#ALL#Ultimo dia trabajado
+0269#STR0269#ALL#Local Accidente
+0270#STR0270#ALL#Especificacion del Local del Accidente
+0271#STR0271#ALL#CGC/CNPJ
+0272#STR0272#ALL#Municipio del Accidente
+0273#STR0273#ALL#Parte(s) del Cuerpo Afectada(s)
+0274#STR0274#ALL#Descripcion de la situacion generadora del Accidente o Enfermedad
+0275#STR0275#ALL#¿Hubo registro policial?
+0276#STR0276#ALL#¿Hubo muerte?
+0277#STR0277#ALL#Firma y Sello del medico con CRM
+0278#STR0278#ALL#Unidad de Atencion Medica
+0279#STR0279#ALL#Fecha
+0280#STR0280#ALL#Hora
+0281#STR0281#ALL#¿Hubo internacion?
+0282#STR0282#ALL#Duracion probable del tratam.
+0283#STR0283#ALL#¿El accidentado debera licenciarse del trab. durante el trat.?
+0284#STR0284#ALL#Descripcion y naturaleza de la lesion
+0285#STR0285#ALL#Diagnostico probable
+0286#STR0286#ALL#Recibida el
+0287#STR0287#ALL#Codigo de la Unidad
+0288#STR0288#ALL#Numero del Accidente
+0289#STR0289#ALL#¿Se reconoce el derecho del asegurado a la habilitacion de beneficio por
+0290#STR0290#ALL#accidente?
+0291#STR0291#ALL#Matricula del servidor
+0292#STR0292#ALL#Matricula
+0293#STR0293#ALL#Firma del Servidor 
+0294#STR0294#ALL#Notas:
+0295#STR0295#ALL#LA COMUNICACION DEL ACCIDENTE ES OBLIGATORIA, INCLUSO EN CASOS EN QUE NO HAYA LICENCIA DEL TABAJO.
+0296#STR0296#ALL#DONDE PRESTA SERVICIO
+0297#STR0297#ALL#Medico
+0298#STR0298#ALL#Numero de la CAT: 
+0299#STR0299#ALL#Grado de instrucción
+0300#STR0300#ALL# (continuación)
+0301#STR0301#ALL#1-Soltero                3-Viudo                      5-Otro
+0302#STR0302#ALL#2-Casado                 4-Sep.judic.                 6-Ignorado
+0303#STR0303#ALL#Grado de instrucción
+0304#STR0304#ALL#|25-Grado de instrucción
+0305#STR0305#ALL#EMBARCACIÓN
+0306#STR0306#ALL#EXTERIOR
+0307#STR0307#ALL#EMBARCACIÓN
+0308#STR0308#ALL#OTROS

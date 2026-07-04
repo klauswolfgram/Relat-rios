@@ -1,0 +1,44 @@
+0001#STR0001#ALL#Report for Overtime Payment Authorization
+0002#STR0002#ALL#It will be printed according to parameters requested by the
+0003#STR0003#ALL#User. 
+0004#STR0004#ALL#Registr.
+0005#STR0005#ALL#Cost Center
+0006#STR0006#ALL#Name
+0007#STR0007#ALL#Shift
+0008#STR0008#ALL#Z.Form 
+0009#STR0009#ALL#Management
+0010#STR0011#ALL#Overtime Payment Authorization          
+0011#STR0012#ALL#Registration Number       Employee                Date   Description Cod            Hours              Checked
+0012#STR0013#ALL#
+0013#STR0014#ALL#
+0014#STR0015#ALL#C.A.: 
+0015#STR0016#ALL#    C.A.: 
+0016#STR0017#ALL#Branch: 
+0017#STR0018#ALL# Shift: 
+0018#STR0019#ALL#   C.C.: 
+0019#STR0020#ALL#C.Center+Name
+0020#STR0021#ALL#Select the printing option: 
+0021#STR0022#ALL#By Period
+0022#STR0023#ALL#By Dates
+0023#STR0024#ALL#Process: 
+0024#STR0025#ALL#Period:
+0025#STR0026#ALL#Procedure: 
+0026#STR0027#ALL#Paym. Nbr.: 
+0027#STR0028#ALL#Department
+0028#STR0029#ALL#Dep.: 
+0029#STR0030#ALL#Employees
+0030#STR0031#ALL#Branch Desc.
+0031#STR0032#ALL#C.Center
+0032#STR0033#ALL#Sht
+0033#STR0034#ALL#Annotations
+0034#STR0035#ALL#Description
+0035#STR0036#ALL#Hours
+0036#STR0037#ALL#Sig
+0037#STR0038#ALL#This program issues the report authorizing the payment of overtime.
+0038#STR0039#ALL#Code
+0039#STR0040#ALL#Date
+0040#STR0041#ALL#Dept
+0041#STR0042#ALL#Process
+0042#STR0043#ALL#Period
+0043#STR0044#ALL#Rot
+0044#STR0045#ALL#NP

@@ -1,0 +1,21 @@
+0001#STR0001#ALL#Este programa imprimira el diario general modelo 1, de acuerdo
+0002#STR0002#ALL#con los parametros sugeridos por el usuario. Este modelo es ideal
+0003#STR0003#ALL#para plan de cuentas que posean codigos no muy extensos.
+0004#STR0004#ALL#A Rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#Emision del Diario Contable Modelo 2
+0007#STR0007#ALL#Totalizadores Doc / General
+0008#STR0008#ALL#Asientos Contables
+0009#STR0009#ALL#Totalizador de Transporte de la Pagina
+0010#STR0010#ALL#Vlr.Debito
+0010#STR0010#MEX#Val.Cargo
+0011#STR0011#ALL#Vlr.Credito
+0011#STR0011#MEX#Val.Abono
+0012#STR0012#ALL#De Transporte=======>
+0013#STR0013#ALL#DIARIO GENERAL DE 
+0014#STR0014#ALL# A 
+0015#STR0015#ALL# EN 
+0016#STR0016#ALL#Total General============>
+0017#STR0017#ALL#Documento: 
+0018#STR0018#ALL#Total del Documento: 
+0019#STR0019#ALL#Por Tranportar=======>

@@ -1,0 +1,39 @@
+0001#STR0001#ALL#Emitir el resumen de accidentes sin victima 
+0002#STR0002#ALL#segun el Cuadro VI de la NR4.
+0003#STR0003#ALL#A rayas
+0004#STR0004#ALL#Administracion
+0005#STR0005#ALL#Cuadro de accidentes sin victima
+0006#STR0006#ALL#ANULADO POR EL OPERADOR
+0007#STR0007#ALL#|ACCIDENTES SIN VICTIMA___________________________________ DE PERIODO
+0008#STR0008#ALL#|RESPONSABLE:________________________________________________________________  FIRMA:_________________________________ |
+0009#STR0009#ALL#|          Sector                         |   Numero  |  Perdida Material |  Accid. S/Victima|      Observaciones      |
+0010#STR0010#ALL#|                                         | Accidentes| Evaluada en Reales| ________________ |                         |
+0011#STR0011#ALL#|                                         |           |                   |  Accid. C/Victima|                         |
+0012#STR0012#ALL#Total del establecimiento
+0013#STR0013#ALL#De Data ?
+0014#STR0014#ALL#Ate Data?
+0015#STR0015#ALL#¿De Cliente?
+0016#STR0016#ALL#Tda.
+0017#STR0017#ALL#¿A Cliente ?
+0018#STR0018#ALL#¿Fecha del mapa?
+0019#STR0019#ALL#Fecha del mapa. Esta pregunta puede permanecer vacia si opta por informar manualmente la fecha del mapa.
+0020#STR0020#ALL#¿Responsable?
+0021#STR0021#ALL#Codigo del responsable. Esta pregunta puede permanecer vacia si opta por informar manualmente el nombre del responsable.
+0022#STR0022#ALL#|ACCIDENTES SIN VICTIMA___________________________________________________________________  FECHA DEL MAPA:
+0023#STR0023#ALL#|RESPONSABLE:
+0024#STR0024#ALL#FIR:___________________________________ |
+0025#STR0025#ALL#Codigo del cliente. El campo puede permanecer vacio para considerar desde el primer código.
+0026#STR0026#ALL#Codigo de la tienda del cliente. El campo puede permanecer vacio para considerar desde el primer codigo.
+0027#STR0027#ALL#Codigo del cliente. El campo puede rellenarse con la letra Z hasta el final para considerar el ultimo codigo.
+0028#STR0028#ALL#Codigo de la tienda del cliente. El campo puede rellenarse con la letra Z hasta el final para considerar el ultimo codigo.
+0029#STR0029#ALL#DATOS DE LA EMPRESA
+0030#STR0030#ALL#EMPRESA.: 
+0031#STR0031#ALL#CIUDAD..: 
+0032#STR0032#ALL#DIRECCION: 
+0033#STR0033#ALL#TELEFONO: 
+0034#STR0034#ALL#¿A Fecha?
+0035#STR0035#ALL#¿De Sucursal ?
+0036#STR0036#ALL#A Sucursal ?
+0037#STR0037#ALL#A
+0038#STR0038#ALL#FECHA DEL MAPA: ___/__/___ |
+0039#STR0039#ALL#FECHA DEL MAPA:

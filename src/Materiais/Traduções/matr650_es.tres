@@ -1,0 +1,24 @@
+0001#STR0001#ALL#Este programa emitira el detalle de Facturas por
+0002#STR0002#ALL#orden de Transportadora.
+0003#STR0003#ALL#A Rayas
+0004#STR0004#ALL#Administracion
+0005#STR0005#ALL#Detalle de Facturas para las Transportadoras
+0006#STR0006#ALL#DETALLE DE FACTURAS PARA LAS TRANSPORTADORAS
+0007#STR0007#ALL#REC.DEP  |EMPRESA FACTURA          VOLUMEN     NOMBRE DEL CLIENTE         CANTIDAD           VALOR  MUNICIPIO        PV  PESO BRUTO 
+0008#STR0008#ALL#FECHA HORA|
+0009#STR0009#ALL#Seleccionando Registros...
+0010#STR0010#ALL#ANULADO POR EL OPERADOR
+0011#STR0011#ALL#TOTAL ------->
+0012#STR0012#ALL#REC.DEP  |EMPRESA FACTURA            BULTO  NOMBRE DEL CLIENTE\FORNEC.    CANTIDAD           VALOR  MUNICIPIO        UF  PESO BRUTO
+0013#STR0013#ALL#Lista con las Facturas para las Transportadoras	
+0014#STR0014#ALL#Este programa emitira la lista con las facturas por 
+0015#STR0015#ALL#orden de Transportadora.
+0016#STR0016#ALL#Fecha Hora
+0017#STR0017#ALL#    |    | 
+0018#STR0018#ALL#N o m . del  C l i e n t e
+0019#STR0019#ALL#Cantidad
+0020#STR0020#ALL#Municipio
+0021#STR0021#ALL#Total de la Transportadora
+0022#STR0022#ALL#Transportadora
+0023#STR0023#ALL#Volumen
+0024#STR0024#ALL#Facturas     

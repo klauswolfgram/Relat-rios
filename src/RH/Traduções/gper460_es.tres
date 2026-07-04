@@ -1,0 +1,159 @@
+0001#STR0001#ALL#Se imprimira de acuerdo con los parametros solicitados por el usuario
+0002#STR0002#ALL#El area [Datos de registro] utilizara los campos seleccionados en la opcion [Definiciones]
+0003#STR0003#ALL#El area [Datos de registro] utilizara lista de campos fijados previamente
+0004#STR0004#ALL#Matricula
+0005#STR0005#ALL#Centro de costo
+0006#STR0006#ALL#Nomb
+0007#STR0007#ALL#A rayas
+0008#STR0008#ALL#Administrac.
+0009#STR0009#ALL#FICHA DE REGISTRO
+0010#STR0010#ALL#Empresa  : 
+0011#STR0011#ALL# Sucursal: 
+0012#STR0012#ALL#Direccion: 
+0013#STR0013#ALL#Fch.
+0014#STR0014#ALL#Desc aumento
+0015#STR0015#ALL#Modificaciones sueldos
+0016#STR0016#ALL#Cat.
+0017#STR0017#ALL#No Reg.  Tabla(41) 
+0018#STR0018#ALL#Licencias   
+0019#STR0019#ALL#Tipo 
+0020#STR0020#ALL#Fch Inic
+0021#STR0021#ALL#Vacac.
+0022#STR0022#ALL#Fch Fin
+0023#STR0023#ALL#Periodo adquisit.
+0024#STR0024#ALL#Modific. de registro
+0025#STR0025#ALL#Campo modif.
+0026#STR0026#ALL#Dependient
+0027#STR0027#ALL#Cod 
+0028#STR0028#ALL#Barrio.: 
+0029#STR0029#ALL#Municipio.:
+0030#STR0030#ALL#  PV.:
+0031#STR0031#ALL#CP.: 
+0032#STR0032#ALL#CGC.: 
+0033#STR0033#ALL#CNAE:
+0034#STR0034#ALL#Cod Munic.:
+0035#STR0035#ALL#Cargo    
+0036#STR0036#ALL#Aporte gremiales
+0037#STR0037#ALL#Fch Nacto.
+0038#STR0038#ALL#Sexo
+0039#STR0039#ALL#Mes
+0040#STR0040#ALL#Parent
+0041#STR0041#ALL#Transferencias
+0042#STR0042#ALL#Sindicato 
+0043#STR0043#ALL#Empresa de origen
+0044#STR0044#ALL#Sucur.
+0045#STR0045#ALL#Empresa de destino
+0046#STR0046#ALL#¡Atencion! 
+0047#STR0047#ALL#CEI: 
+0048#STR0048#ALL#Dep IR
+0049#STR0049#ALL#Dir.: 
+0050#STR0050#ALL#Dep S Fam
+0051#STR0051#ALL#Ciudad: 
+0052#STR0053#ALL#Pago
+0053#STR0054#ALL#Conce
+0054#STR0055#ALL#Valor
+0055#STR0056#ALL#Periodo de vacac.
+0056#STR0057#ALL#Fch. de aviso
+0057#STR0058#ALL#Fecha Pago
+0058#STR0059#ALL#Descripc.
+0059#STR0060#ALL#Beneficiario
+0060#STR0061#ALL#Tipo no registrado en la tabla 30
+0061#STR0062#ALL#Impresora no esta lista o no esta configurada. 
+0062#STR0063#ALL#Cargo
+0063#STR0064#ALL#Masculino
+0064#STR0065#ALL#Femenino
+0065#STR0066#ALL#Indeterminado
+0066#STR0067#ALL#Determinado
+0067#STR0068#ALL#Indigena
+0068#STR0069#ALL#Blanca
+0069#STR0070#ALL#Negra
+0070#STR0071#ALL#Amaril.
+0071#STR0072#ALL#Parda
+0072#STR0073#ALL#No Informado
+0073#STR0074#ALL#Si
+0074#STR0075#ALL#No
+0075#STR0076#ALL#Hijo
+0076#STR0077#ALL#Conyuge
+0077#STR0078#ALL#Otros
+0078#STR0079#ALL#D Vacac.
+0079#STR0080#ALL#F Abono
+0080#STR0081#ALL#Periodo utilizado para impresion de datos   :  
+0081#STR0082#ALL#Firmas
+0082#STR0083#ALL#Firma del empleado
+0083#STR0084#ALL#Responsable Legal
+0084#STR0085#ALL#Pulgar  
+0085#STR0086#ALL#Tp. Tarea
+0086#STR0087#ALL#De Fch.
+0087#STR0088#ALL#A Fch.
+0088#STR0089#ALL#Tarea
+0089#STR0090#ALL#Clases/Semana
+0090#STR0091#ALL#Ctd. Tarea
+0091#STR0092#ALL#Valor Unitario
+0092#STR0093#ALL#Valor Total
+0093#STR0094#ALL#C Costo
+0094#STR0095#ALL#Conc. Tarea
+0095#STR0096#ALL#Cla/ Sem
+0096#STR0097#ALL#C Tar.
+0097#STR0098#ALL#Vl. Unitario
+0098#STR0099#ALL# - Tareas
+0099#STR0100#ALL#FICHA DE ANOTACIONES Y ACTUALIZACIONES CTPS  
+0100#STR0101#ALL#0 = Ninguna
+0101#STR0102#ALL#1 = Física
+0102#STR0103#ALL#2 = Auditiva
+0103#STR0104#ALL#3 = Visual
+0104#STR0105#ALL#4 = Intelectual (Mental)
+0105#STR0106#ALL#5 = Multiple
+0106#STR0107#ALL#6 = Rehabilitado
+0107#STR0108#ALL# Fecha     
+0108#STR0109#ALL#Descripcion Categoria                                       
+0109#STR0110#ALL#La resolucion n. 628 del 10/08/2000 del Ministerio de Trabajo, autoriza la emision del extracto electronico con anotaciones de Vacaciones, 
+0110#STR0111#ALL#Aportes Sindicales, transferencias, modificaciones de Sueldo y Funcion.  Recomendamos mantenerlo junto con el Registro Profesional, 
+0111#STR0112#ALL#en funcion de su validez prevista en la Legislacion Laboral.
+0112#STR0113#ALL#NIF: 
+0113#STR0114#ALL#Fija
+0114#STR0115#ALL#Variable
+0115#STR0116#ALL#Adit. Fijo
+0116#STR0117#ALL#Adit. Var.
+0117#STR0118#ALL#Tipos de Tareas
+0118#STR0119#ALL#MOTIVO: 
+0119#STR0120#ALL#Hoja..:
+0120#STR0121#ALL#Hora...:
+0121#STR0122#ALL#Fch.Ref.:
+0122#STR0123#ALL#Hora Finalizacion:
+0123#STR0124#ALL#Emision:
+0124#STR0125#ALL#Contribuciones asistenciales
+0125#STR0126#ALL#Pai/Mae
+0126#STR0127#ALL#Enteado
+0127#STR0128#ALL#Matricula: 
+0128#STR0129#ALL#Centro de Costo : 
+0129#STR0130#ALL#La resolucion n. 41 de 28/03/2007 del Ministerio de Trabajo autoriza la emision del extracto electronico con anotaciones de Vacaciones, 
+0130#STR0131#ALL#Capacitaciones internas
+0131#STR0132#ALL#Curso
+0132#STR0133#ALL#Validez
+0133#STR0134#ALL#Cursos externos
+0134#STR0135#ALL#Atencion
+0135#STR0136#ALL#Para la impresion de datos de Capacitacion, es necesario ejecutar los 
+0136#STR0137#ALL#OK
+0137#STR0138#ALL#La Ficha de registro se imprimira sin estos datos.
+0138#STR0139#ALL#procedimientos del boletin tecnico: Impresion_Capacitaciones_Ficha_Registro.
+0139#STR0140#ALL#D.Lic.Rem.
+0140#STR0141#ALL#Tipo no registrado en la tabla de tipos de ausencia.
+0141#STR0142#ALL#Fch.Acuerdo Lab
+0142#STR0143#ALL#Fch.Acuerdo laboral
+0143#STR0144#ALL#RCPF: 
+0144#STR0145#ALL#No tiene
+0145#STR0146#ALL#Insalub. Mínima
+0146#STR0147#ALL#Insalub. Media
+0147#STR0148#ALL#Insalub. Máxima
+0148#STR0149#ALL#Intermitente
+0149#STR0150#ALL#Datos de registro
+0150#STR0151#ALL#Fch. Convoc
+0151#STR0152#ALL#Inic. Activ.
+0152#STR0153#ALL#Final Activ.
+0153#STR0154#ALL#Código e-Social
+0154#STR0155#ALL#Sueldo
+0155#STR0156#ALL#Función
+0156#STR0157#ALL#Convocaciones
+0157#STR0158#ALL#¿Desea utilizar la Fecha Inicia/Final informada para filtrar los empleados de acuerdo con la Fecha de ingreso?
+0158#STR0159#ALL#Si no lo desea, la ficha seguirá el comportamiento estándar de utilizar la Fecha Inicia/Final solamente para filtro de los movimientos.
+0159#STR0160#ALL#El informe Ficha de registro(GPER460) no debe incluirse directamente en el menú y debe activarse exclusivamente a partir de la rutina Ficha de registro(GPEA260).

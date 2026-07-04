@@ -1,0 +1,28 @@
+0001#STR0001#ALL#Lista de operadores por puesto de atencion
+0002#STR0002#ALL#Este programa emitira una lista de todos los operadores
+0003#STR0003#ALL#agupados por puesto de atencion
+0004#STR0004#ALL#A rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#Seleccionando registros...
+0007#STR0007#ALL#ANULADO POR EL OPERADOR
+0008#STR0008#ALL#Puesto
+0009#STR0009#ALL#Descripcion
+0010#STR0010#ALL#T.M.Atencion
+0011#STR0011#ALL#Llamadas
+0012#STR0012#ALL#Hardware
+0013#STR0013#ALL#Linea externa
+0014#STR0014#ALL#Operadora de la Prov.
+0015#STR0015#ALL#Operad. fuera Prov.
+0016#STR0016#ALL#Envia e-mail
+0017#STR0017#ALL#Envia tarea
+0018#STR0018#ALL#Config. TMK
+0019#STR0019#ALL#Estacion
+0020#STR0020#ALL#Descuento
+0021#STR0021#ALL#Aumentos
+0022#STR0022#ALL#Evalua credito
+0023#STR0023#ALL#Evalua stock
+0024#STR0024#ALL#Codigo   Nombre                           Nombre reducido        Direccion                        Barrio            Ciudad            Prov  CP          Atencion          Vendedor          Reg  Habilidad              Pend
+0025#STR0025#ALL#De acuerdo con los parametros suministrados, no hay datos para imprimir este informe
+0026#STR0026#ALL#Habilidad
+0027#STR0027#ALL#Campanas
+0028#STR0028#ALL#Operadores

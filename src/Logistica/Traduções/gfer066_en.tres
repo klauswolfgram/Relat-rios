@@ -1,0 +1,28 @@
+0001#STR0001#ALL#GFE - Freight Balance
+0002#STR0002#ALL#Issue the list of Freight Awareness Balance according to the parameters entered.
+0003#STR0003#ALL#Transportation Issuers
+0004#STR0004#ALL#Issuer
+0005#STR0005#ALL#Name
+0006#STR0006#ALL#Phone Number
+0007#STR0007#ALL#E-mail
+0008#STR0008#ALL#Freight Documents
+0009#STR0009#ALL#Branch
+0010#STR0010#ALL#Species
+0011#STR0011#ALL#Issuer
+0012#STR0012#ALL#Series
+0013#STR0013#ALL#Freight Doc No.
+0014#STR0014#ALL#Issue Dt.
+0015#STR0015#ALL#Inflow Dt.
+0016#STR0016#ALL#Sender
+0017#STR0017#ALL#Sender Name
+0018#STR0018#ALL#Recipient
+0019#STR0019#ALL#Recipient Name
+0020#STR0020#ALL#Branch Invoice
+0021#STR0021#ALL#Invoice Issuer
+0022#STR0022#ALL#Invoice Issuer Name
+0023#STR0023#ALL#Invoice Series
+0024#STR0024#ALL#Invoice No.
+0025#STR0025#ALL#Dt Integr Fin
+0026#STR0026#ALL#Value
+0027#STR0027#ALL#Total Issuer
+0028#STR0028#ALL#Grand Total

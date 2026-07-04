@@ -1,0 +1,17 @@
+0001#STR0001#ALL#Destinatario(s) de Documentos
+0002#STR0002#ALL#Este programa imprimira los usuarios que recibiran los Documentos
+0003#STR0003#ALL#A Rayas
+0004#STR0004#ALL#Administracionn
+0005#STR0005#ALL#Seleccionando Registros..
+0006#STR0006#ALL#DOCUMENTO              TITULO                                                                DEPARTAMENTO
+0007#STR0007#ALL#ANULADO POR EL OPERADOR
+0008#STR0008#ALL#Departamento: 
+0009#STR0009#ALL# Eletronicas 
+0010#STR0010#ALL# En Papel 
+0011#STR0011#ALL# Eletronica/Papel 
+0012#STR0012#ALL# No Recibe 
+0013#STR0013#ALL#Documento: 
+0014#STR0014#ALL#Titulo :
+0015#STR0015#ALL#Usuario:
+0016#STR0016#ALL#Carpeta:
+0017#STR0017#ALL#RESPONSABLE               TIPO                     COPIA

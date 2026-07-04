@@ -1,0 +1,63 @@
+0001#STR0001#ALL#Comparativo de Rentabilidade de Viagem
+0002#STR0002#ALL#Emite a relacao de Comparativo de Rentabilidade de Viagem
+0003#STR0003#ALL#conforme os parametros informados
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#CANCELADO PELO OPERADOR
+0007#STR0007#ALL#Viagem    Dt.Viagem  Status           Documento         Tipo Docto      CTRC/NF       Dt.Emis.   Status                   Frete a Rec.     Frete Comp. Servico                          Peso Total  Rota
+0008#STR0008#ALL#          Transportador               Veiculo           Placa              Frete Pago                  Pedagio           Contrato         Data          Rentabilidade       %
+0009#STR0009#ALL#Regiao Origem         Regiao Destino           Frete a Receber  Frete Complementar         Frete Pago            Pedagio      Rentabilidade       %
+0010#STR0010#ALL#Total do Periodo
+0011#STR0011#ALL#Cliente
+0012#STR0012#ALL#Selecionando Registros...
+0013#STR0013#ALL#Total Proprios
+0014#STR0014#ALL#Total Terceiros
+0015#STR0015#ALL#Total Agregados
+0016#STR0016#ALL#                                                                           Frete Pago                  Pedagio            Frete a Rec.     Frete Comp.  Rentabilidade       %           Peso Total
+0017#STR0017#ALL#Cliente: 
+0018#STR0018#ALL#Origem.: 
+0019#STR0019#ALL#Destino: 
+0020#STR0020#ALL#Comparativo de Rentabilidade de Viagem
+0021#STR0021#ALL#Emite a relacao de Comparativo de Rentabilidade de Viagem conforme os parametros informados
+0022#STR0022#ALL#Devedor + Origem + Destino + Viagem
+0023#STR0023#ALL#Origem
+0024#STR0024#ALL#Destino
+0025#STR0025#ALL#Cliente
+0026#STR0026#ALL#Viagem
+0027#STR0027#ALL#Descrição
+0028#STR0028#ALL#Fil.Orig.
+0029#STR0029#ALL#Dt.Viagem
+0030#STR0030#ALL#Status
+0031#STR0031#ALL#Veículo
+0032#STR0032#ALL#Placa
+0033#STR0033#ALL#Fornec.
+0034#STR0034#ALL#Loja
+0035#STR0035#ALL#Nome
+0036#STR0036#ALL#Frete Rec.
+0037#STR0037#ALL#Pedagio
+0038#STR0038#ALL#Contrato
+0039#STR0039#ALL#Dt.Contr
+0040#STR0040#ALL#Serv.
+0041#STR0041#ALL#Rota
+0042#STR0042#ALL#Contrato
+0043#STR0043#ALL#Dt.Contr.
+0044#STR0044#ALL#Documento
+0045#STR0045#ALL#Fil.Docto
+0046#STR0046#ALL#Docto
+0047#STR0047#ALL#Serie
+0048#STR0048#ALL#Tipo
+0049#STR0049#ALL#Filial
+0050#STR0050#ALL#CTRC/NF
+0051#STR0051#ALL#Emissão
+0052#STR0052#ALL#Frete a Rec.
+0053#STR0053#ALL#Frete Comp.
+0054#STR0054#ALL#Peso Total
+0055#STR0055#ALL#Frete Pago
+0056#STR0056#ALL#Pedagio
+0057#STR0057#ALL#Rentabilidade
+0058#STR0058#ALL#%
+0059#STR0059#ALL#Total
+0060#STR0060#ALL#Total Geral
+0061#STR0061#ALL#Total Proprios
+0062#STR0062#ALL#Total Terceiros
+0063#STR0063#ALL#Total Agregados

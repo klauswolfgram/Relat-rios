@@ -1,0 +1,37 @@
+0001#STR0001#ALL#Petty Cash Closing Report
+0002#STR0002#ALL#Code
+0003#STR0003#ALL#Z.Form
+0004#STR0004#ALL#Management
+0005#STR0005#ALL#Status: Open
+0006#STR0006#ALL#Status: Closed
+0007#STR0007#ALL#Status: All
+0008#STR0008#ALL#Description       Typing     Replenishm. Value   Posted Value    Returned Vl.   Nr.of Posted    Tot.Expenses         Advances
+0009#STR0009#ALL#                  Date                                                              Vouchers                      Total Value
+0010#STR0010#ALL#CANCELLED BY THE OPERATOR
+0011#STR0011#ALL#Replenishment 
+0012#STR0012#ALL#PETTY CASH: 
+0013#STR0013#ALL#(Open - Balance: 
+0014#STR0014#ALL#(Closed)
+0015#STR0015#ALL#Replenishment/Closing
+0016#STR0016#ALL#Open   -
+0017#STR0017#ALL#Balance: 
+0018#STR0018#ALL#Closed 
+0019#STR0019#ALL#Descript.
+0020#STR0020#ALL#From Dt
+0021#STR0021#ALL#Typing   
+0022#STR0022#ALL#Rest. amount   
+0023#STR0023#ALL#Posted amount
+0024#STR0024#ALL#Amnt.Returned
+0025#STR0025#ALL#Voucher Nbr.
+0026#STR0026#ALL#Posted  
+0027#STR0027#ALL#Expense tot.
+0028#STR0028#ALL#Total amnt. of
+0029#STR0029#ALL#Advances     
+0030#STR0030#ALL#Petty Cash info  
+0031#STR0031#ALL#Petty Cash amounts 
+0032#STR0032#ALL#Code
+0033#STR0033#ALL#Company
+0034#STR0034#ALL#Business Unit
+0035#STR0035#ALL#Branch
+0036#STR0036#ALL#Branches selected for the report
+0037#STR0037#ALL#BRANCH: 

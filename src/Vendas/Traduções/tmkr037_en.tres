@@ -1,0 +1,18 @@
+0001#STR0001#ALL#Bills under Collection Status
+0002#STR0002#ALL#This program will issue a list of bills under collection executed by the Telecollection servicing.
+0003#STR0003#ALL#It will only be considered the Bills receivable which were serviced by the Telecollection servicing.
+0004#STR0004#ALL#The report issuance will be based on the parameters informed.
+0005#STR0005#ALL#Z-Form
+0006#STR0006#ALL#Administration
+0007#STR0007#ALL#CANCELLED BY OPERATOR
+0008#STR0008#ALL#Customer: 
+0009#STR0009#ALL#Contact: 
+0010#STR0010#ALL#Serv.   Serv.Dt.  Servic. Return              Prf  Título  Inst Typ  Class       Due Date  Fact.Vl.           Value       Addition       Decrease    No.  Bank       Ints.Value      % Ints. Status
+0011#STR0011#ALL# at 
+0012#STR0012#ALL#TOTAL PAID: 
+0013#STR0013#ALL#TOTAL NEGOCIATED: 
+0014#STR0014#ALL#NOTARY´S TOTAL: 
+0015#STR0015#ALL#There are no data to be printed for this report with the parameters informed
+0016#STR0016#ALL#Not Informed
+0017#STR0017#ALL#Customer Info
+0018#STR0018#ALL#Items of Bills in Collection 

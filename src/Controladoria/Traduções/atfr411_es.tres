@@ -1,0 +1,25 @@
+0001#STR0001#ALL#Funcion disponible solamente en TReport
+0002#STR0002#ALL#Movimiento del valor recuperable de activos
+0003#STR0003#ALL#Encabezado
+0004#STR0004#ALL#Ítems
+0005#STR0005#ALL#Parámetros
+0006#STR0006#ALL#Parámetros - Proceso: 
+0007#STR0007#ALL#De Bien
+0008#STR0008#ALL#A Bien
+0009#STR0009#ALL#De Grupo
+0010#STR0010#ALL#A Grupo
+0011#STR0011#ALL#De C. Costo
+0012#STR0012#ALL#A C. Custo
+0013#STR0013#ALL#De Cuenta
+0014#STR0014#ALL#A Cuenta
+0015#STR0015#ALL#De Fecha
+0016#STR0016#ALL#A Fecha
+0017#STR0017#ALL#De Ítem
+0018#STR0018#ALL#A Ítem
+0019#STR0019#ALL#Manual
+0020#STR0020#ALL#Si
+0021#STR0021#ALL#No
+0022#STR0022#ALL#Contabilizado
+0023#STR0023#ALL#Generado vía importación, archivo
+0024#STR0024#ALL#¡Moneda no se encontró!
+0025#STR0025#ALL#¡La función que permite seleccionar monedas solamente está disponible en la versión 11.80!

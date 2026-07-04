@@ -1,0 +1,25 @@
+0001#STR0001#ALL#Dynamic Scripts issue.  
+0002#STR0002#ALL#This program will issue a list of Dynamic Scripts 
+0003#STR0003#ALL#Cancelled by the Operator.
+0004#STR0004#ALL#Script       : 
+0005#STR0005#ALL#Bill         : 
+0006#STR0006#ALL#Time         : 
+0007#STR0007#ALL#Type         : 
+0008#STR0008#ALL#Receptive
+0009#STR0009#ALL#Active
+0010#STR0010#ALL#Both
+0011#STR0011#ALL#Format       : 
+0012#STR0012#ALL#Servicing
+0013#STR0013#ALL#Search
+0014#STR0014#ALL#Maximum Score: 
+0015#STR0015#ALL#Minimum Score: 
+0016#STR0016#ALL#Minimum Action: 
+0017#STR0017#ALL#Maximum Action: 
+0018#STR0018#ALL#There is no data to be printed for this report with the informed parameters
+0019#STR0019#ALL#Note: 
+0020#STR0020#ALL#Format 
+0021#STR0021#ALL#Max. action
+0022#STR0022#ALL#Max. action
+0023#STR0023#ALL#Dymamic script header       
+0024#STR0024#ALL#Descript. of question
+0025#STR0025#ALL#Description of answer

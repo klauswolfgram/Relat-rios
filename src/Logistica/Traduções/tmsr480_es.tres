@@ -1,0 +1,29 @@
+0001#STR0001#ALL#Sub-total 
+0002#STR0002#ALL#Administração
+0003#STR0003#ALL#Este programa tiene el objeto de imprimir los clientes con ajuste
+0004#STR0004#ALL#Clientes con ajuste
+0005#STR0005#ALL#Leyendas
+0006#STR0006#ALL#Sucursal Negociacion:
+0007#STR0007#ALL#Total de Tabla  Cif:  
+0008#STR0008#ALL#Fob:  
+0009#STR0009#ALL#Total de Sucursal  Cif:  
+0010#STR0010#ALL#Total General    ]  Cif:  
+0011#STR0011#ALL#Tab.Flete:  
+0012#STR0012#ALL#Sub-total 
+0013#STR0013#ALL#|Cliente                                         |C/F|Ciudad                            |UF|Vendedor            |Numero         |Ini.Vig.  |Servic|Aut|Fac.Cub|
+0014#STR0014#ALL#Cobr|Peso|
+0015#STR0015#ALL#Cobr|
+0016#STR0016#ALL#Elija los componentes a ser impresos
+0017#STR0017#ALL#Componente
+0018#STR0018#ALL#Descripcion
+0019#STR0019#ALL#Componentes Frete
+0020#STR0020#ALL#El objetivo de este programa, es imprimir lista de clientes con ajuste
+0021#STR0021#ALL#Clientes con ajuste
+0022#STR0022#ALL#Cliente
+0023#STR0023#ALL#Region
+0024#STR0024#ALL#Vendedor
+0025#STR0025#ALL#CIF
+0026#STR0026#ALL#FOB
+0027#STR0027#ALL#Cobrado
+0028#STR0028#ALL#Si
+0029#STR0029#ALL#No

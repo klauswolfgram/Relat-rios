@@ -1,0 +1,31 @@
+0001#STR0001#ALL#This report will show the transfer transactions
+0002#STR0002#ALL#of the goods during a certain period.
+0003#STR0003#ALL#TRANSFERS
+0004#STR0004#ALL#Base Code  Item Ty Summarized Description                   Aquisic.   Transf.  Posting                                 Transfer Val
+0005#STR0005#ALL#          Good`s Account       Monet.Restatem.      Depr.Expense         Accumul.Depr.        Depr.Mon.Rest.       C.Center Location
+0006#STR0006#ALL# Between 
+0007#STR0007#ALL#CANCELLED BY THE OPERATOR
+0008#STR0008#ALL#Transf. from
+0009#STR0009#ALL#Transf. to
+0010#STR0010#ALL#Z.Form
+0011#STR0011#ALL#Management
+0012#STR0012#ALL#TOTAL TRANSFERED   ---->
+0013#STR0013#ALL# to 
+0014#STR0014#ALL# and Values in 
+0015#STR0015#ALL#<INEXISTENT>
+0016#STR0016#ALL#From Cost Center
+0017#STR0017#ALL#To Cost Center
+0018#STR0018#ALL#From Acct.Item
+0019#STR0019#ALL#To Acct.Item
+0020#STR0020#ALL#From Value Cat.
+0021#STR0021#ALL#To Value Cat.
+0022#STR0022#ALL#Item
+0023#STR0023#ALL#Tp
+0024#STR0024#ALL#Transfer amount       
+0025#STR0025#ALL#Asset info  
+0026#STR0026#ALL#Acct.
+0027#STR0027#ALL#Asset Account
+0028#STR0028#ALL#Cost center    
+0029#STR0029#ALL#Acctg. item  
+0030#STR0030#ALL#Value class    
+0031#STR0031#ALL#Report only available for Treport

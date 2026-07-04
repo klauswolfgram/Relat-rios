@@ -1,0 +1,69 @@
+0001#STR0001#ALL#Este programa tem como objetivo imprimir as garantias
+0002#STR0002#ALL#solicitadas a Montadora              
+0003#STR0003#ALL#Garantias Solicitadas             
+0004#STR0004#ALL# Nro.Os-- Dat.Aber ChaInt Chassi do Veiculo-------- Modelo do Veiculo------------- Proprietario do Veiculo--------------------------
+0005#STR0005#ALL#          T.Gar Dt Repar Dt Trans Dt Venda KmVeiculo Segmento-- DN Rsp AutFab-- NF Peca--- Total Pecas TpoPad- Total Srvcs Esp Gar--
+0006#STR0006#ALL#Zebrado
+0007#STR0007#ALL#Administracao
+0008#STR0008#ALL# de 
+0009#STR0009#ALL# a 
+0010#STR0010#ALL# Tp Gar: 
+0011#STR0011#ALL#Solicitadas 
+0012#STR0012#ALL#Cupons Rev. 
+0013#STR0013#ALL#Ambas 
+0014#STR0014#ALL#*** CANCELADO PELO OPERADOR ***
+0015#STR0015#ALL#Motivo: 
+0016#STR0016#ALL#Valor de Pecas.: 
+0017#STR0017#ALL#      Valor de Servicos.: 
+0018#STR0018#ALL#Valor Geral de Pecas.: 
+0019#STR0019#ALL# Valor Geral de Servicos.: 
+0020#STR0020#ALL#Data Inicial      ?
+0021#STR0021#ALL#Dt Ref.: Fechamento 
+0022#STR0022#ALL#Dt Ref.: Transmissao 
+0023#STR0023#ALL#          Endereco-------------------------------- Cidade--------- UF CEP----- Telefone------- CR-- GR--
+0024#STR0024#ALL#Aguarde Selecionando Registro para Impressao
+0025#STR0025#ALL#Seq Grp  Codigo da Peca------------- Descr Peca----- Def For Qtdade ------Valor -GS Codigo Servico- Descr Servico- Tpo Gar.
+0026#STR0026#ALL#ITENS NORMAIS
+0027#STR0027#ALL#ITENS ADICIONAIS
+0028#STR0028#ALL#Total de solicitacoes com erro
+0029#STR0029#ALL#Total de solicitacoes pagas   
+0030#STR0030#ALL#Total de solicitacoes nao Proc
+0031#STR0031#ALL#Total horas creditadas        
+0032#STR0032#ALL#Total horas por SG            
+0033#STR0033#ALL#Total horas por reparo        
+0034#STR0034#ALL#Total mao Obra creditada      
+0035#STR0035#ALL#Total pecas creditadas        
+0036#STR0036#ALL#Credito total                 
+0037#STR0037#ALL#Taxa de mao de obra           
+0038#STR0038#ALL#Quantidade de solicitacoes    
+0039#STR0039#ALL#% sobre o credito             
+0040#STR0040#ALL#Debito de mao de obra         
+0041#STR0041#ALL#R$
+0042#STR0042#ALL#Debito total de pecas         
+0043#STR0043#ALL#ACUMULADO ULTIMO 12 MESES
+0044#STR0044#ALL#Debito total                  
+0045#STR0045#ALL#% debito / credito            
+0046#STR0046#ALL#Credito - Debito              
+0047#STR0047#ALL#Quantidade cupons creditados  
+0048#STR0048#ALL#Quantidade cupons debitados   
+0049#STR0049#ALL#Quantidade veiculos proprios  
+0050#STR0050#ALL#Valor total creditado         
+0051#STR0051#ALL#Valor total debitado          
+0052#STR0052#ALL#Valor liquido                 
+0053#STR0053#ALL#Valor total creditado         
+0054#STR0054#ALL#Valor total debitado          
+0055#STR0055#ALL#MES ANTERIOR  *
+0056#STR0056#ALL#NAO PROCESSADO
+0057#STR0057#ALL#MES   ATUAL  *
+0058#STR0058#ALL#CREDITOS DE SOLIC. GARANTIA    *
+0059#STR0059#ALL#DEBITO DE SOLIC. GARANTIA      *
+0060#STR0060#ALL#CREDITOS/DEBITOS CUPOM REVISAO *
+0061#STR0061#ALL#VALORES DE GARANTIA + REVISAO  *
+0062#STR0062#ALL#VALORES DOS STATUS             *
+0063#STR0063#ALL#Imprime Resumo    ?
+0064#STR0064#ALL#Marca             ?
+0065#STR0065#ALL#Não
+0066#STR0066#ALL#Sim
+0067#STR0067#ALL#Causa: 
+0068#STR0068#ALL#Reparo: 
+0069#STR0069#ALL#Outros: 

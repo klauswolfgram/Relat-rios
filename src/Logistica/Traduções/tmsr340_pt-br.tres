@@ -1,0 +1,33 @@
+0001#STR0001#ALL#Relacao de Entregas sem Ocorrecnia
+0002#STR0002#ALL#Emite Relacao de Entregas sem Ocorrecnia
+0003#STR0003#ALL#conforme os parametros informados
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#SelecionAndo Registros...
+0007#STR0007#ALL#Selecionando Registro no DUV...
+0008#STR0008#ALL#Selecionando Registro no DTQ...
+0009#STR0009#ALL#FIL.ORIGEM DOCTO  SERIE         PESO    VALOR FRETE VOLUME VEICULO                            1.REBOQUE                          2.REBOQUE                          CHEG.    MOTORISTA 
+0010#STR0010#ALL#CANCELADO PELO OPERADOR
+0011#STR0011#ALL#TOTAL POR CHEG. ===> 
+0012#STR0012#ALL#TOTAL GERAL ===> 
+0013#STR0013#ALL#Relacao de Entregas sem Ocorrência
+0014#STR0014#ALL#Emite Relacao de Entregas sem Ocorrência conforme os parametros informados
+0015#STR0015#ALL#Fil.Origem + Viagem + Previsão
+0016#STR0016#ALL#Descrição
+0017#STR0017#ALL#Nome
+0018#STR0018#ALL#Fil.Origem
+0019#STR0019#ALL#Viagem
+0020#STR0020#ALL#Fil.Doc
+0021#STR0021#ALL#Documento
+0022#STR0022#ALL#Serie
+0023#STR0023#ALL#Peso
+0024#STR0024#ALL#Frete
+0025#STR0025#ALL#Volume
+0026#STR0026#ALL#Previsão
+0027#STR0027#ALL#Veículo
+0028#STR0028#ALL#1o Reboque
+0029#STR0029#ALL#2o Reboque
+0030#STR0030#ALL#Motorista
+0031#STR0031#ALL#Chegada
+0032#STR0032#ALL#Total Por Chegada
+0033#STR0033#ALL#3o Reboque

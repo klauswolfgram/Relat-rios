@@ -1,0 +1,65 @@
+0001#STR0001#ALL#Computo de marcaciones
+0002#STR0002#ALL#Se imprimira de acuerdo con los parametros solicitados por el
+0003#STR0003#ALL#usuario.
+0004#STR0004#ALL#Matricula
+0005#STR0005#ALL#Centro de costo
+0006#STR0006#ALL#Nombre
+0007#STR0007#ALL#Turno
+0008#STR0008#ALL#A Rayas
+0009#STR0009#ALL#Administracion
+0010#STR0011#ALL#Fecha     |                Horas Programadas                |                            Horas Realizadas                             |              Computo de Horas               |
+0011#STR0012#ALL#          | Ent.1 Sal.1 Ent.2 Sal.2 Ent.3 Sal.3 Ent.4 Sal.4 | Ent.1 Sal.1 Ent.2 Sal.2 Ent.3 Sal.3 Ent.4 Sal.4 Ent.5 Sal.5 Ent.6 Sal.6 | Tot.Hr Interv H.Trab H.Abon Hr.Dif.  % Dif. |
+0012#STR0013#ALL#Dom
+0013#STR0014#ALL#Lun
+0014#STR0015#ALL#Mar
+0015#STR0016#ALL#Mie
+0016#STR0017#ALL#Jue
+0017#STR0018#ALL#Vie
+0018#STR0019#ALL#Sab
+0019#STR0020#ALL#Total de centro de costo
+0020#STR0022#ALL#     ** MARC.IMPAR **
+0021#STR0024#ALL#                   ** FECHA ANTERIOR A LA DE INGRESO **                 | 
+0022#STR0025#ALL#                         ** SIN MARCACIONES **                          | 
+0023#STR0027#ALL#Matricula: 
+0024#STR0028#ALL# Nombre:
+0025#STR0029#ALL#Total de periodo
+0026#STR0030#ALL#Sucurs: 
+0027#STR0031#ALL#  C.C.:
+0028#STR0032#ALL#  Periodo: 
+0029#STR0033#ALL#C.Costo+Nombre
+0030#STR0034#ALL#Seleccione la opcion de impresion: 
+0031#STR0035#ALL#Por Periodo
+0032#STR0036#ALL#Por Fechas
+0033#STR0037#ALL#Proceso: 
+0034#STR0038#ALL#Periodo: 
+0035#STR0039#ALL#Procedim.: 
+0036#STR0040#ALL#Num. Pago: 
+0037#STR0041#ALL#Departamento
+0038#STR0042#ALL#Depto: 
+0039#STR0043#ALL#Este programa emite Relacion Calculo de las Marcaciones
+0040#STR0044#ALL#Descripcion
+0041#STR0045#ALL#Empleados
+0042#STR0046#ALL#Desc.Sucursal
+0043#STR0047#ALL#Tno
+0044#STR0048#ALL#Tot.Hr
+0045#STR0049#ALL#Interv
+0046#STR0050#ALL#H.Trab
+0047#STR0051#ALL#H.Abon
+0048#STR0052#ALL#Hr.Dif.
+0049#STR0053#ALL#% Dif.
+0050#STR0054#ALL#Fecha
+0051#STR0055#ALL#Ent.1 Sal.1 Ent.2 Sal.2 Ent.3 Sal.3 Ent.4 Sal.4
+0052#STR0056#ALL#Ent.1 Sal.1 Ent.2 Sal.2 Ent.3 Sal.3 Ent.4 Sal.4 Ent.5 Sal.5 Ent.6 Sal.6
+0053#STR0057#ALL#Marcaciones
+0054#STR0058#ALL#Horas Programadas
+0055#STR0059#ALL#Horas Realizadas
+0056#STR0060#ALL#Calculo de las Horas
+0057#STR0061#ALL#Totalizadores
+0058#STR0062#ALL#Total del Turno de Trabajo
+0059#STR0063#ALL#Total Sucursal
+0060#STR0064#ALL#Total Empresa
+0061#STR0065#ALL#Depto
+0062#STR0066#ALL#Proceso
+0063#STR0067#ALL#Periodo
+0064#STR0068#ALL#Rot
+0065#STR0069#ALL#NP

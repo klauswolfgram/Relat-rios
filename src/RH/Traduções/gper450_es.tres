@@ -1,0 +1,34 @@
+0001#STR0001#ALL#Matricula
+0002#STR0002#ALL#Centro de costo
+0003#STR0003#ALL#Nomb
+0004#STR0004#ALL#Informe de sueldos de contribucion
+0005#STR0005#ALL#Se imprimira de acuerdo con los param. solicitados por el
+0006#STR0006#ALL#usuario.
+0007#STR0007#ALL#A Rayas
+0008#STR0008#ALL#Administrac.
+0009#STR0009#ALL#LISTA DE SUELDOS DE APORTE
+0010#STR0011#ALL#| 1-MES/ANO | VALOR SUELDO APORTE         | FCH. PAGO         | 1-MES/ANO | VALOR SUELDO APORTE         | FECHA PAGO        |
+0011#STR0012#ALL#TOTAL DE LA PAG. |
+0012#STR0014#ALL#Nº Arch Tab  41
+0013#STR0015#ALL#AUMENTOS  SUELDOS
+0014#STR0016#ALL#|   2-MES/ANO   |                                        MOTIVO                                        |     PORCENTAJE     |
+0015#STR0017#ALL#LUGAR Y FECHA 
+0016#STR0018#ALL#FIRMA DEL RESPONSABLE Y SELLO DE LA EMPRESA
+0017#STR0019#ALL#DOC. EMITIDO CONFORME AUTORIZACION DE LA DIV. DE CONCESION DE BENEFICIOS DE ACUERDO CON EL PT
+0018#STR0020#ALL#INEXACTITUDES EN LAS DECLARACIONES DE ESTE DOCUMENTO ES CRIMEN PREVISTO EN LOS ARTICULOS 171 Y 299 DEL CODIGO PENAL.   
+0019#STR0021#ALL#|    EMPRESA                                                                                           |    Nº CNPJ        |
+0020#STR0023#ALL#|    DIRECCION                                                                                         |    MAT. INSS       |
+0021#STR0024#ALL#|    NOMBRE DEL ASEGURADO                                                                              |    Nº CPF         |
+0022#STR0025#ALL#SUC: 
+0023#STR0026#ALL# - MAT: 
+0024#STR0027#ALL# - CC: 
+0025#STR0028#ALL#|    DOC INSCRIPCION Nº. y SERIE |    FECHA INGRESO / INICIO APORTE          | FECHA DESVINCULACION    |    Nº  PIS/PASEP   |
+0026#STR0029#ALL#|   2-MES/ANO   |                                       DESCRIPCION                                    |       VALOR        |
+0027#STR0030#ALL#LISTA DE SUELDOS   
+0028#STR0031#ALL#SUELDO DEL MES
+0029#STR0032#ALL#TOTAL GENER.|
+0030#STR0033#ALL#Continua en la Proxima Pagina
+0031#STR0034#ALL#|    NOMBRE DEL ASEGURADO                         |
+0032#STR0035#ALL#|    Nº CPF          |
+0033#STR0036#ALL#|    EMPRESA                                                                                           |    No CEI          |
+0034#STR0037#ALL#| 1-MES/AÑO | V.SUEL.APORTE  | V.APORTE.REC.  | FECHA RECAUD. | 1-MES/AÑO | V.SUEL.APORTE  | V.APORTE.REC.  | FECHA RECAUD.

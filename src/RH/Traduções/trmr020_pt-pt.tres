@@ -1,0 +1,51 @@
+0001#STR0001#ALL#Relatório de Empregados.
+0002#STR0002#ALL#Será impresso de acordo com os parâmetros solicitados pelo
+0003#STR0003#ALL#Utilizador.
+0004#STR0004#ALL#Registo
+0006#STR0006#ALL#Centro De Custo
+0008#STR0008#ALL#Código de barras
+0009#STR0009#ALL#Administração
+0010#STR0010#ALL#Relatório de Empregados
+0015#STR0015#ALL#Centro de custo: 
+0017#STR0017#ALL#Graduação do Empregado  
+0018#STR0018#ALL#Factor avaliação                   graduação necessária              graduação empregado              
+0019#STR0019#ALL# *** não existe graduação para este empregado   *** 
+0020#STR0020#ALL#Cursos do Empregado
+0021#STR0021#ALL#Curso                                Período         Duração Validade  Neces. Entidade                   Nota Presença Realiz
+0022#STR0022#ALL# *** não existe curso para este empregado ***
+0023#STR0023#ALL#Histórico De Carreira
+0024#STR0024#ALL#Admissão   demissão   empresa                        categoria                         
+0025#STR0025#ALL# *** não existe histórico de carreira para este empregado *** 
+0026#STR0026#ALL#Histórico De Carreira Na Empresa
+0027#STR0027#ALL#Dt de aumento  tp de aumento               função                   
+0028#STR0028#ALL# *** não existe histórico de carreira na empresa para este empregado *** 
+0029#STR0030#ALL#Cursos Extracurriculares
+0030#STR0031#ALL#Data       Descrição                                Entidade                       Escolaridade
+0031#STR0032#ALL# *** não existe curso extracurricular para este empregado *** 
+0032#STR0033#ALL#Solicitação De Cursos
+0033#STR0034#ALL#Curso                               turma calendário                tp. reserva    vz. adiado dt.solic.         período       
+0034#STR0035#ALL#*** não existe solicitação de curso feita por este empregado ***
+0035#STR0037#ALL#Factor Avaliação                   Graduação Necessária               Pontos           Graduação Empregado             Pontos
+0036#STR0038#ALL#T o t a l :
+0037#STR0039#ALL#Pontos
+0038#STR0040#ALL#Avaliações De Formação
+0039#STR0041#ALL#Calendário                Curso                     Turma Tipo Avaliação       Avaliação                 Data       Result.
+0040#STR0042#ALL#*** não existe avaliação deste empregado ***
+0041#STR0043#ALL#Descrição Detalhada Do Factor
+0042#STR0044#ALL# *** não existe descrição detalhada do factor *** 
+0043#STR0045#ALL#Observação Do Factor Do Empregado
+0044#STR0046#ALL# *** não tem nenhuma observação para este factor *** 
+0045#STR0047#ALL#Sinónimo: 
+0046#STR0048#ALL#Competências
+0047#STR0049#ALL#Habil. Desc.Competência                 Esc. Desc.escala            Elem Desc.Elem Escala Empr  Elem Desc.Elem Escala Cargo
+0048#STR0050#ALL#*** não existe habilitação para este empregado ***
+0049#STR0051#ALL#Empregado
+0050#STR0052#ALL#Grau Categoria
+0052#STR0054#ALL#Grau Empr.
+0054#STR0056#ALL#Sinónimo
+0059#STR0061#ALL#Calend.
+0060#STR0062#ALL#Pedido Reserva
+0061#STR0063#ALL#Dt. da req.
+0063#STR0065#ALL#Este relatório apresenta os dados do registo de empregados.
+0066#STR0068#ALL#Elem.Esc.Empr.
+0067#STR0069#ALL#Elem.Esc.Cargo

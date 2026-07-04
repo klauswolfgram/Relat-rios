@@ -1,0 +1,32 @@
+0001#STR0001#ALL#Detail of pending delivery dates  
+0002#STR0002#ALL#Issue the detail of pending delivery dates
+0003#STR0003#ALL#according to parameters input
+0004#STR0004#ALL#Z.form
+0005#STR0005#ALL#Management
+0006#STR0006#ALL#ORI.BRA. DOC.    SERIES ISSUE     TIME  SENDER                                   ADDRESSEE                                DESTINATION AREA                 ST  ESTIMATE    DELAY  DES.BRA.
+0007#STR0007#ALL#Selecting record in DT6...
+0008#STR0008#ALL#CANCELED BY OPERATOR
+0009#STR0009#ALL#Note(s): 
+0010#STR0010#ALL#Report Delivery Dates Pending
+0011#STR0011#ALL#Issues Report Delivery Dates Pending according to the parameters entered
+0012#STR0012#ALL#Doct. Bra. + Document + Series
+0013#STR0013#ALL#Document
+0014#STR0014#ALL#Orig.Bra.
+0015#STR0015#ALL#Series
+0016#STR0016#ALL#Issue
+0017#STR0017#ALL#Time
+0018#STR0018#ALL#Send.
+0019#STR0019#ALL#Store
+0020#STR0020#ALL#Name
+0021#STR0021#ALL#Dest.
+0022#STR0022#ALL#Dest.Reg.
+0023#STR0023#ALL#Description
+0024#STR0024#ALL#State
+0025#STR0025#ALL#Forecast
+0026#STR0026#ALL#Delay
+0027#STR0027#ALL#Dest.Bra.
+0028#STR0028#ALL#Occur.Date
+0029#STR0029#ALL#Occur.Seq.
+0030#STR0030#ALL#Occur.Cod.
+0031#STR0031#ALL#Invoice
+0032#STR0032#ALL#      OCCURR.DT.   SEQ.  OCCURRENCE   

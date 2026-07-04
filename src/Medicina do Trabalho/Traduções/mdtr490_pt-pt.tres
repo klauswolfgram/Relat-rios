@@ -1,0 +1,19 @@
+0001#STR0001#ALL#Relatório de custos do pcmso. 
+0002#STR0002#ALL#O programa demonstra o custo dos exames criados pelo pcmso 
+0003#STR0003#ALL#Escolhido.
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#Custos Do PCMSO
+0007#STR0007#ALL#Código                  centro de custo 
+0008#STR0008#ALL#Exame     Nome Do Exame                      Quantidade                 Custo
+0009#STR0009#ALL#Cancelado Pelo Operador
+0010#STR0010#ALL#Total Da Filial
+0011#STR0011#ALL#Total Do Centro De Custo
+0013#STR0013#ALL#Total Do Cliente
+0014#STR0014#ALL#Centro De Custo
+0017#STR0017#ALL#Nome Do Exame
+0020#STR0020#ALL#A Processar Os Exames...
+0022#STR0022#ALL#Nome Do Cliente
+0025#STR0025#ALL#O PCMSO introduzido não está registado.
+0028#STR0028#ALL#De centros de custo do PCMSO seleccionado.
+0033#STR0033#ALL#Até Filial ?

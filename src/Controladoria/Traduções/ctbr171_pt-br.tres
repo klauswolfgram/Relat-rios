@@ -1,0 +1,17 @@
+0001#STR0001#ALL#Este programa ira imprimir o Livro de Inventario e Balancos.
+0002#STR0002#ALL#Livro de Inventario e Balancete
+0003#STR0003#ALL#Zebrado
+0004#STR0004#ALL#Administracao
+0005#STR0005#ALL#|   CODIGO DA CONTA                                   |   D  E  S  C  R  I  C  A  O               |   SALDO ANTERIOR   |   DEBITO PERIODO  |  CREDITO PERIODO  |   SALDO DEVEDOR   |   SALDO CREDOR    |  SALDO ACUMULADO   |
+0006#STR0006#ALL#Livro de Inventario e Balanco 
+0007#STR0007#ALL# ATE 
+0008#STR0008#ALL# EM 
+0009#STR0009#ALL#Criando Arquivo Temporário...
+0010#STR0010#ALL#***** CANCELADO PELO OPERADOR *****
+0011#STR0011#ALL#Razao Social: 
+0012#STR0012#ALL#RUT: 
+0013#STR0013#ALL#Ramo: 
+0014#STR0014#ALL#Direcao:
+0015#STR0015#ALL#T O T A I S  D O  P E R I O D O:
+0016#STR0016#ALL#El informe libro de inventario y balanceo (CTBR171) fue convertido a Rdmake.
+0017#STR0017#ALL#Para utilizar este informe debe solicitar el fuente para su compilación como User Function.

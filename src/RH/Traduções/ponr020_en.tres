@@ -1,0 +1,36 @@
+0001#STR0001#ALL#Totals of T.A.R. Codes
+0002#STR0002#ALL#It will be printed according to parameters selected 
+0003#STR0003#ALL#by the User.
+0004#STR0004#ALL#Registr.
+0005#STR0005#ALL#Cost Center
+0006#STR0006#ALL#Name
+0007#STR0007#ALL#Shift
+0008#STR0008#ALL#Z.Form
+0009#STR0009#ALL#Management
+0010#STR0011#ALL#Time Acc.Rep. Codes
+0011#STR0012#ALL#Period from 
+0012#STR0013#ALL#Employee: 
+0013#STR0014#ALL# Reg.Number: 
+0014#STR0015#ALL#C.C. 
+0015#STR0016#ALL#Role: 
+0016#STR0017#ALL#Month Tm: 
+0017#STR0018#ALL# Categ.: 
+0018#STR0019#ALL#Shif: 
+0019#STR0020#ALL#Branch: 
+0020#STR0021#ALL#C.Center: 
+0021#STR0022#ALL# Shift: 
+0022#STR0023#ALL#Company: 
+0023#STR0024#ALL#A U T H O R I Z E D 
+0024#STR0025#ALL#N O T   A U T H O R I Z E D
+0025#STR0026#ALL# Descript.Code        Calc.    Infor.|
+0026#STR0027#ALL# Descript.Code        Calc.    Infor.
+0027#STR0028#ALL#C.Center+Name
+0028#STR0029#ALL#Select the printing option: 
+0029#STR0030#ALL#By Period
+0030#STR0031#ALL#By Dates: 
+0031#STR0032#ALL#Process: 
+0032#STR0033#ALL#Period: 
+0033#STR0034#ALL#Procedure: 
+0034#STR0035#ALL#Paym. Nbr.: 
+0035#STR0036#ALL#Department 
+0036#STR0037#ALL#Dep.: 

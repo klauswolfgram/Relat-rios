@@ -1,0 +1,81 @@
+0001#STR0001#ALL#Este programa ira imprimir o Relatorio para Conferencia
+0002#STR0002#ALL#de Digitacao.Podera ser impresso por Documento Fiscal ou
+0003#STR0003#ALL#por Conta/Documento Fiscal.
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#Emissao do Relat. Conf. Dig. 
+0007#STR0007#ALL# de 
+0008#STR0008#ALL# ate 
+0009#STR0009#ALL#DOC. FISCAL                                           VALOR DEB               VALOR CRED    HP   HIST
+0009#STR0009#ANG#DOC. FISCAL                                           VALOR DEB               VALOR CRED    HP   HIST
+0009#STR0009#EQU#DOC. FISCAL                                           VALOR DEB               VALOR CRED    HP   HIST
+0009#STR0009#HAI#DOC. FISCAL                                           VALOR DEB               VALOR CRED    HP   HIST
+0009#STR0009#MEX#DOC. FISCAL                                           VALOR DEB               VALOR CRED    HP   HIST
+0009#STR0009#PTG#DOC. FISCAL                                           VALOR DEB               VALOR CRED    HP   HIST
+0010#STR0010#ALL#***** CANCELADO PELO OPERADOR *****
+0011#STR0011#ALL# em 
+0012#STR0012#ALL#Criando Arquivo Temporário...
+0013#STR0013#ALL#T O T A L  G E R A L ==> 
+0014#STR0014#ALL#CONTA                                      DOC. FISCAL                                           VALOR DEB               VALOR CRED    HP  HIST
+0014#STR0014#ANG#CONTA                                      DOC. FISCAL                                           VALOR DEB               VALOR CRED    HP  HIST
+0014#STR0014#EQU#CONTA                                      DOC. FISCAL                                           VALOR DEB               VALOR CRED    HP  HIST
+0014#STR0014#HAI#CONTA                                      DOC. FISCAL                                           VALOR DEB               VALOR CRED    HP  HIST
+0014#STR0014#MEX#CONTA                                      DOC. FISCAL                                           VALOR DEB               VALOR CRED    HP  HIST
+0014#STR0014#PTG#CONTA                                      DOC. FISCAL                                           VALOR DEB               VALOR CRED    HP  HIST
+0015#STR0015#ALL#Conferencia de Digitacao
+0016#STR0016#ALL# por Conta/Doc.Fiscal
+0017#STR0017#ALL# por Doc. Fiscal
+0018#STR0018#ALL#DATA: 
+0019#STR0019#ALL#LOTE: 
+0020#STR0020#ALL#DOC: 
+0020#STR0020#ANG#DOC: 
+0020#STR0020#EQU#DOC: 
+0020#STR0020#HAI#DOC: 
+0020#STR0020#MEX#DOC: 
+0020#STR0020#PTG#DOC: 
+0021#STR0021#ALL#SUB-LOTE:
+0022#STR0022#ALL#DIF A DEBITO
+0022#STR0022#ANG#DIF A DEBITO
+0022#STR0022#EQU#DIF A DEBITO
+0022#STR0022#HAI#DIF A DEBITO
+0022#STR0022#MEX#DIF A DEBITO
+0022#STR0022#PTG#DIF A DEBITO
+0023#STR0023#ALL#DIF A CREDITO
+0023#STR0023#ANG#DIF A CREDITO
+0023#STR0023#EQU#DIF A CREDITO
+0023#STR0023#HAI#DIF A CREDITO
+0023#STR0023#MEX#DIF A CREDITO
+0023#STR0023#PTG#DIF A CREDITO
+0024#STR0024#ALL#INFORMADO
+0025#STR0025#ALL#DIGITADO 
+0026#STR0026#ALL#DIFERENCA
+0027#STR0027#ALL#TOTAL DOCUMENTO
+0027#STR0027#ANG#TOTAL DOCUMENTO
+0027#STR0027#EQU#TOTAL DOCUMENTO
+0027#STR0027#HAI#TOTAL DOCUMENTO
+0027#STR0027#MEX#TOTAL DOCUMENTO
+0027#STR0027#PTG#TOTAL DOCUMENTO
+0028#STR0028#ALL#TOTAL LOTE
+0029#STR0029#ALL#Esse relatorio necessita do campo CT2_KEY. Favor criá-lo com tipo caracter de 100
+0030#STR0030#ALL#Lote
+0031#STR0031#ALL#Data
+0032#STR0032#ALL#Sublote
+0033#STR0033#ALL#Documento
+0034#STR0034#ALL#Conta
+0035#STR0035#ALL#Doc. Fiscal
+0036#STR0036#ALL#Valor débito
+0036#STR0036#ANG#Valor débito
+0036#STR0036#EQU#Valor débito
+0036#STR0036#HAI#Valor débito
+0036#STR0036#MEX#Valor débito
+0036#STR0036#PTG#Valor débito
+0037#STR0037#ALL#Valor crédito
+0037#STR0037#ANG#Valor crédito
+0037#STR0037#EQU#Valor crédito
+0037#STR0037#HAI#Valor crédito
+0037#STR0037#MEX#Valor crédito
+0037#STR0037#PTG#Valor crédito
+0038#STR0038#ALL#HP
+0039#STR0039#ALL#Historico
+0040#STR0040#ALL#Lancamento
+0041#STR0041#ALL#Histórico do Documento Contábil

@@ -1,0 +1,20 @@
+0001#STR0001#ALL#Ranking de Vendas
+0002#STR0002#ALL#Este programa irá emitir uma listagem contendo os vendedores e os totais
+0003#STR0003#ALL#das vendas realizadas por eles e também podendo ser analisado por operador
+0004#STR0004#ALL#A emissão ocorrerá baseada nos parametros do relatório
+0005#STR0005#ALL#Zebrado
+0006#STR0006#ALL#Administração
+0007#STR0007#ALL#Codigo Nome do Vendedor                         Valor Faturado     Raking
+0008#STR0008#ALL#Selecionando Registros...
+0009#STR0009#ALL#CANCELADO PELO OPERADOR
+0010#STR0010#ALL#Faturamento no período de 
+0011#STR0011#ALL#Vendedor
+0012#STR0012#ALL#Não há informações para imprimir este relatório, Verifique os parametros informados
+0013#STR0013#ALL#Não Localizado
+0014#STR0014#ALL# Operador: 
+0015#STR0015#ALL#Código
+0016#STR0016#ALL#Nome do vendedor
+0017#STR0017#ALL#Valor faturado
+0018#STR0018#ALL#Ranking
+0019#STR0019#ALL#Total faturado
+0020#STR0020#ALL#Descrição

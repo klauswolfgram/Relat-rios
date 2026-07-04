@@ -1,0 +1,23 @@
+0001#STR0001#ALL#Sub-Totais
+0002#STR0002#ALL#Relação de Adiantamentos
+0003#STR0003#ALL#Emissão do relatório de Adiantamentos
+0004#STR0004#ALL#Fornecedores
+0005#STR0005#ALL#Fornecedor + Loja + Produto
+0006#STR0006#ALL#Fornecedor
+0007#STR0007#ALL#Nome do Fornecedor
+0008#STR0008#ALL#Adiantamento Quantidade
+0009#STR0009#ALL#Adiantamento Valor
+0010#STR0010#ALL#Produtos
+0011#STR0011#ALL#Produto
+0012#STR0012#ALL#Desc Prod
+0013#STR0013#ALL#Md
+0014#STR0014#ALL#Data
+0015#STR0015#ALL#Qtd Ven
+0016#STR0016#ALL#Preço Produto
+0017#STR0017#ALL#Valor do D.A.
+0018#STR0018#ALL#Valor Adian.
+0019#STR0019#ALL#Sald Qt
+0020#STR0020#ALL#Saldo Valor
+0021#STR0021#ALL#Total do Fornecedor 
+0022#STR0022#ALL#C
+0023#STR0023#ALL#Função disponível apenas em TReport

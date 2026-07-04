@@ -1,0 +1,17 @@
+0001#STR0001#ALL#Este programa tem como objectivo imprimir o relatório 
+0002#STR0002#ALL#De acordo com os parâmetro s informados pelo utilizador.
+0003#STR0003#ALL#Relatório de diferenças de câmbio 
+0004#STR0004#ALL#Relatório de diferenças de câmbio de contas a pagar 
+0005#STR0005#ALL#Forn./Fil      Venc.    Emissão    Registo      Modal.     Prefixo/Número/Parc.   Tipo      Valor 
+0007#STR0007#ALL#Prefixo+número
+0009#STR0009#ALL#Emissão
+0011#STR0011#ALL#Registo
+0013#STR0013#ALL#Administração
+0014#STR0014#ALL#     Valor Orig. Moeda   Taxa
+0015#STR0015#ALL#   Aj. Anterior         Acordo
+0016#STR0016#ALL#*** cancelado pelo operador ***
+0017#STR0017#ALL#Diferença de câmbio->
+0019#STR0019#ALL#Não Disp.
+0020#STR0020#ALL#Valor acordado : 
+0024#STR0024#ALL#Registo
+0029#STR0029#ALL#Valor Orig.

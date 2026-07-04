@@ -1,0 +1,27 @@
+0001#STR0001#ALL#Este progr. imprim. comparat. de movimtos. de ultimos seis meses
+0002#STR0002#ALL#de los clientes. Los vlres se refier a movimientos de titulos
+0003#STR0003#ALL#en el periodo solicit.
+0004#STR0004#ALL#Comparativo de movimientos de clientes de 6 meses
+0005#STR0005#ALL#A Rayas
+0006#STR0006#ALL#Administrac.
+0007#STR0007#ALL#El periodo solicitado difiere del calendario contable. Por Favor rehaga el calendario contable.
+0008#STR0008#ALL#El periodo solicitado supera el limite de 6 meses. Se imprimiran solo los 6 meses a partir de la fecha inicial.
+0009#STR0009#ALL# de 
+0010#STR0010#ALL# a 
+0011#STR0011#ALL#CODIGO
+0012#STR0012#ALL#N O M B R
+0013#STR0013#ALL#   MOV. PERIODO 01   |   MOV. PERIODO 02   |   MOV. PERIODO 03   |   MOV. PERIODO 04   |   MOV. PERIODO 05   |   MOV. PERIODO 06   |    TOTAL  GENERAL |
+0014#STR0014#ALL#      TOTAL  GRAL  |
+0015#STR0015#ALL#Previsto ->
+0016#STR0016#ALL#Realizado->
+0017#STR0017#ALL#En orden de codigo
+0018#STR0018#ALL#En orden de Previsto
+0019#STR0019#ALL#En orden de Realizado
+0020#STR0020#ALL#En orden de Previsto+Realizado
+0021#STR0021#ALL#Previsto
+0022#STR0022#ALL#Realizado
+0023#STR0023#ALL#Codigo
+0024#STR0024#ALL#Empresa
+0025#STR0025#ALL#Unidad de negocio
+0026#STR0026#ALL#Sucursal
+0027#STR0027#ALL#Sucursales seleccionadas para el informe

@@ -1,0 +1,96 @@
+0001#STR0001#ALL#C O N T A C T  D A T A
+0002#STR0002#ALL#Contact Code
+0003#STR0003#ALL#Contact name
+0004#STR0004#ALL#Contact Address
+0005#STR0005#ALL#Contact neighbourhood
+0006#STR0006#ALL#Contact City
+0007#STR0007#ALL#Contact Zip Code
+0008#STR0008#ALL#Contact UF
+0009#STR0009#ALL#Contact DDD
+0010#STR0010#ALL#Home Telephone
+0011#STR0011#ALL#Mobile Telephone
+0012#STR0012#ALL#Contact Fax
+0013#STR0013#ALL#Business Telephone
+0014#STR0014#ALL#Contact e-mail
+0015#STR0015#ALL#Contact Home Page
+0016#STR0016#ALL#Entity  Code Name                                 Address                         City             UF  Zip Code         Phone Cial        e-mail                          Home Page                       DDD
+0017#STR0017#ALL#C O N T A C T  A T T E N D A N C E
+0018#STR0018#ALL#Attendance Code
+0019#STR0019#ALL#Attendance Date
+0020#STR0020#ALL#Not found in the file...
+0021#STR0021#ALL#Not informed in attendance...
+0022#STR0022#ALL#Entity Description
+0023#STR0023#ALL#Company Name
+0024#STR0024#ALL#Operator Code
+0025#STR0025#ALL#Operator Name
+0026#STR0026#ALL#Media Code
+0027#STR0027#ALL#Media Description
+0028#STR0028#ALL#Call Type
+0029#STR0029#ALL#Attendance Status
+0030#STR0030#ALL#Communication Code
+0031#STR0031#ALL#Communication Description
+0032#STR0032#ALL#Campaign Code
+0033#STR0033#ALL#Campaign Description
+0034#STR0034#ALL#Returning Date
+0035#STR0035#ALL#Returning Time
+0036#STR0036#ALL#Note
+0037#STR0037#ALL#Item  Subject                              Product                         Occurrence                      Action                                              Responsible      Action Dt   Status        Execution
+0038#STR0038#ALL#Attendance Note
+0039#STR0039#ALL#Execution Complement
+0040#STR0040#ALL#C O N T A C T  C A M P A I G N
+0041#STR0041#ALL#Campaign               : 
+0042#STR0042#ALL#Title                 : 
+0043#STR0043#ALL#Objective               : 
+0044#STR0044#ALL#Initial Date           : 
+0045#STR0045#ALL#Final Date             : 
+0046#STR0046#ALL#Type                   : 
+0047#STR0047#ALL#Active
+0048#STR0048#ALL#Receptive
+0049#STR0049#ALL#Attendance            : 
+0050#STR0050#ALL#Audience           : 
+0051#STR0051#ALL#Description              : 
+0052#STR0052#ALL#Responsible            : 
+0053#STR0053#ALL#Coordinator            : 
+0054#STR0054#ALL#Department           : 
+0055#STR0055#ALL#Contact Goal        : 
+0056#STR0056#ALL#Goal by Operator      : 
+0057#STR0057#ALL#Cost                  : 
+0058#STR0058#ALL#ROI                    : 
+0059#STR0059#ALL#%ROI                   : 
+0060#STR0060#ALL#New Leads Estimated  : 
+0061#STR0061#ALL#% Success              : 
+0062#STR0062#ALL#% Fail             : 
+0063#STR0063#ALL#Script                 : 
+0064#STR0064#ALL#Attendance Average Time: 
+0065#STR0065#ALL#Attendance Type    : 
+0066#STR0066#ALL#Format                : 
+0067#STR0067#ALL#Store Answer      : 
+0068#STR0068#ALL#Minimum Score           : 
+0069#STR0069#ALL#Action for Minimum score : 
+0070#STR0070#ALL#Maximum Score           : 
+0071#STR0071#ALL#Action for Maximum score : 
+0072#STR0072#ALL#Media                  : 
+0073#STR0073#ALL#Call Type        : 
+0074#STR0074#ALL#Product                : 
+0075#STR0075#ALL#Unit                : 
+0076#STR0076#ALL#Event                 : 
+0077#STR0077#ALL#Theme                   : 
+0078#STR0078#ALL#Exposure              : 
+0079#STR0079#ALL#Free               : 
+0080#STR0080#ALL#Yes
+0081#STR0081#ALL#No
+0082#STR0082#ALL#Price                  : 
+0083#STR0083#ALL#Location                  : 
+0084#STR0084#ALL#Address               : 
+0085#STR0085#ALL#City              : 
+0086#STR0086#ALL#State                 : 
+0087#STR0087#ALL#Country                   : 
+0088#STR0088#ALL#Telephone               : 
+0089#STR0089#ALL#Home Page              : 
+0090#STR0090#ALL#E-mail                 : 
+0091#STR0091#ALL#Initial Date            : 
+0092#STR0092#ALL#Final Date           : 
+0093#STR0093#ALL#Initial Time            : 
+0094#STR0094#ALL#Final Time           : 
+0095#STR0095#ALL#Parking lot         : 
+0096#STR0096#ALL#Grid                Theme                                       Init. Tm. Fin. Tm. Date  Room        Speaker  Company   

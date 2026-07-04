@@ -1,0 +1,17 @@
+0001#STR0001#ALL#Este relatório irá imprimir a relação de bens expedidos
+0002#STR0002#ALL#Entre um determinado período. poderá  ser impresso por
+0003#STR0003#ALL#Conta Ou Centro De Custo.
+0004#STR0004#ALL#Relação Dos Bens Liquidados
+0011#STR0013#ALL#Cancelado Pelo Operador
+0012#STR0014#ALL#Fornecedor 
+0014#STR0017#ALL#Código de barras
+0015#STR0018#ALL#Administração
+0016#STR0020#ALL#Dados Do Bem
+0017#STR0021#ALL#Data Da Liquidação
+0018#STR0022#ALL#Valor Actual
+0020#STR0024#ALL#Lucro/prejuízo
+0021#STR0025#ALL#Motivo não registado
+0022#STR0026#ALL#Total Sucursal 
+0029#STR0033#ALL#Conta                          C.C                Base       Item TP  Descrição                    Aquisic.    Dt.Baixa   Factura     Motivo
+0030#STR0034#ALL#Qtd.Baixad                 Valor Actual Deprec. Acumulada Corr.Depr Acumul    Valor Residual       Valor Baixa    Lucro/Prejuizo Vl Ampliacao
+0031#STR0035#ALL#Conta                          C.C                Base       Item TP  Descrição             Aquisic.    Dt.Baixa   Factura            Motivo

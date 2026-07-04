@@ -1,0 +1,11 @@
+0001#STR0001#ALL#Report of Co-relation
+0002#STR0002#ALL#This report prints the co-relation Report
+0003#STR0003#ALL#in chronological order, according to NSU.     
+0004#STR0004#ALL#Gross Inc. (Outflow)
+0005#STR0005#ALL#Gross Vl. (Inflow)
+0006#STR0006#ALL#Balance R$
+0007#STR0007#ALL#Z.form
+0008#STR0008#ALL#Administration
+0009#STR0009#ALL#NSU        Series Document Date  Use Hr Use Reason                                  Gross Inc. (Outflow) Gross Inc. (Inflow)
+0010#STR0010#ALL#Code            Description                                                                                        Bal.   $
+0011#STR0011#ALL#Selecting Records...

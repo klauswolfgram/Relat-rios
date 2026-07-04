@@ -1,0 +1,62 @@
+0001#STR0001#ALL#This program will print the vehicles inflow 
+0002#STR0002#ALL#movements carried out in the selected period.    
+0003#STR0003#ALL#Vehicles Inflow in the Period
+0004#STR0004#ALL# [NF.No/Ser---] [Status  ] [CPS Dt] [Operation Type-----------]  [Supplier  -----------------------------------] [City  ------------------ST] [Buyer    -------------------------------] [Inf.Tran]
+0005#STR0005#ALL# [C.In] [Brand------] [Man/Mod] [Chassis Number---------] [Model Code------------------] [Model Description-----------] [Model Complement  ] [Vehicle`s Color-----------------------]
+0006#STR0006#ALL#Z.Form
+0007#STR0007#ALL#Management
+0008#STR0008#ALL# from 
+0009#STR0009#ALL# to 
+0010#STR0010#ALL# Operation: 
+0011#STR0011#ALL#Regular
+0012#STR0012#ALL#Fact.Order
+0013#STR0013#ALL#Remittance
+0014#STR0014#ALL#Transfer
+0015#STR0015#ALL#Consignation
+0016#STR0016#ALL#Return
+0017#STR0017#ALL#Freight
+0018#STR0018#ALL#All
+0019#STR0019#ALL#*** CANCELLED BY THE OPERATOR ***
+0020#STR0020#ALL#Valid
+0021#STR0021#ALL#Cancelled
+0022#STR0022#ALL#Inflow by Regular Order
+0023#STR0023#ALL#Inflow by Factory Order
+0024#STR0024#ALL#Inflow by Remittance
+0025#STR0025#ALL#Inflow by Transfer
+0026#STR0026#ALL#Inflow by Consignation
+0027#STR0027#ALL#Inflow by Return
+0028#STR0028#ALL#Inflow by Freight
+0029#STR0029#ALL#Movement Value:
+0030#STR0030#ALL#ICMS Amount:
+0031#STR0031#ALL#Tax Rate:
+0032#STR0032#ALL#IPI Amount:
+0033#STR0033#ALL#IPI Tax Rate:
+0034#STR0034#ALL#Payment Terms:
+0035#STR0035#ALL#Number
+0036#STR0036#ALL#Installm.
+0037#STR0037#ALL#Due Date
+0038#STR0038#ALL#Value
+0039#STR0039#ALL#Initial Date      ?
+0040#STR0040#ALL#Final Date        ?
+0041#STR0041#ALL#Operation Type    ?
+0042#STR0042#ALL#Cons.   Status    ?
+0043#STR0043#ALL#[-Inflows Summary -]
+0044#STR0044#ALL#[-Inflows Total --]
+0045#STR0045#ALL#[---ICMS Total----]
+0046#STR0046#ALL#[----IPI Total----]
+0047#STR0047#ALL#Normal.........
+0048#STR0048#ALL#Cancellations..
+0049#STR0049#ALL#Vehicle type    
+0050#STR0050#ALL#New  
+0051#STR0051#ALL#Used  
+0052#STR0052#ALL#All  
+0053#STR0053#ALL#Entry of vehicles per Period
+0054#STR0054#ALL#[NFNr./Ser---] [Status] [Sale Dt] [Operation Type------------] Supplier------------------------] [City------------------State] [Buyer------------------------] [Receip. Tran.]
+0055#STR0055#ALL#[InC.] [Brand------] [Man/Mod] [Vehicle Chassis----] [Model Code----------] [Model Description-------] [Model Complement] [Vehicle Color]
+0056#STR0056#ALL#Motor Tp.:
+0057#STR0057#ALL#Motor No.:
+0058#STR0058#ALL#Motor Pow.:
+0059#STR0059#ALL#Cmt:
+0060#STR0060#ALL#Fuel Tank:
+0061#STR0061#ALL#Differ. Rel.:
+0062#STR0062#ALL#Differ. Tp.:

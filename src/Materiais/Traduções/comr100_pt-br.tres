@@ -1,0 +1,28 @@
+0001#STR0001#ALL#Relação dos documentos de cobertura
+0002#STR0002#ALL#Este relatório demonstra os documentos de cobertura recebidos e pendentes
+0003#STR0003#ALL#com o objetivo de auxiliar no follow-up destes documentos.
+0004#STR0004#ALL#Documento
+0005#STR0005#ALL#Cliente/Fornecedor+Documento
+0006#STR0006#ALL#Zebrado
+0007#STR0007#ALL#Administracao
+0008#STR0008#ALL#<--------- Documento de Entrada ----------> <------- Documento de Vinculo -------> <--------- Documento de Cobertura ---------> <------------- Documento de Saida --------------->                                          
+0009#STR0009#ALL#Serie Numero      Item Cliente/Forn.   Loja Serie Numero      Cliente/Forn.   Loja Serie Numero      Cliente/Forn.   Loja Prazo Serie Numero      Cliente/Forn.   Loja  Quantidade Produto          Quantidade         Saldo
+0010#STR0010#ALL#CANCELADO PELO OPERADOR
+0011#STR0011#ALL#Cliente
+0012#STR0012#ALL#Fornecedor
+0013#STR0013#ALL#Não há documentos relacionados
+0014#STR0014#ALL#Total Geral 
+0015#STR0015#ALL#Serie
+0016#STR0016#ALL#Numero
+0017#STR0017#ALL#Item
+0018#STR0018#ALL#Cliente/Forn
+0019#STR0019#ALL#Loja
+0020#STR0020#ALL#<--Doc.Entrada-->
+0021#STR0021#ALL#<--Doc.Vinc.->
+0022#STR0022#ALL#<--Doc.Cob -->
+0023#STR0023#ALL#<--Doc.Saida-->
+0024#STR0024#ALL#Prazo
+0025#STR0025#ALL#Produto
+0026#STR0026#ALL#Saldo
+0027#STR0027#ALL#Documentos de Cobertura
+0028#STR0028#ALL#Documentos de Entrada / Saldos em poder de Terceiros

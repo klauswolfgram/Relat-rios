@@ -1,0 +1,13 @@
+0001#STR0001#ALL#O objectivo deste programa é imprimir relatório 
+0002#STR0002#ALL#de acordo com os parâmetros informados pelo utilizador.
+0003#STR0003#ALL#Conferência de Rateio Financeiro
+0004#STR0004#ALL#Conferência de Rateio Financeiro
+0005#STR0005#ALL# Título              Situação   Entidade  Nome Entidade                             Emissão    Vencimento             Valor 
+0006#STR0006#ALL#Código de barras
+0007#STR0007#ALL#Administração
+0009#STR0009#ALL#Resultado:
+0011#STR0011#ALL#Título de origem
+0012#STR0012#ALL#Liquidado
+0013#STR0013#ALL#Em aberto
+0015#STR0015#ALL#Abatimentos rateio
+0017#STR0017#ALL#Título(s) distribuído(s)

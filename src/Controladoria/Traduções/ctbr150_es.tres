@@ -1,0 +1,53 @@
+0001#STR0001#ALL#Este programa imprimira el balance general modelo 1 (132) Columnas
+0002#STR0002#ALL#La cuenta se imprime y se limita a 30 caracteres y su descripcion, a 40,
+0003#STR0003#ALL#tambien se imprimen columnas del saldo a debito y a credito del periodo.
+0004#STR0004#ALL#Balance general
+0005#STR0005#ALL#A Rayas
+0006#STR0006#ALL#Administracion
+0007#STR0007#ALL#|       C U E N T A             |       D E N O M I N A C I O N                    |              S  A  L  D  O  S                 |
+0008#STR0008#ALL#|                               |                                                  |      D E B I T O      |    C R E D I T O      |
+0008#STR0008#ANG#|                               |                                                  |      D E B I T O      |    C R E D I T O      |
+0008#STR0008#EQU#|                               |                                                  |      D E B I T O      |    C R E D I T O      |
+0008#STR0008#HAI#|                               |                                                  |      D E B I T O      |    C R E D I T O      |
+0008#STR0008#MEX#|                               |                                                  |      C A R G O        |    A B O N O          |
+0008#STR0008#PTG#|                               |                                                  |      D E B I T O      |    C R E D I T O      |
+0009#STR0009#ALL#DE BALANCE GRAL. SINTETICO 
+0010#STR0010#ALL#DE BALANCE GRAL. ANALITICO 
+0011#STR0011#ALL#DE BALANCE GRAL. 
+0012#STR0012#ALL# A 
+0013#STR0013#ALL# EN 
+0014#STR0014#ALL# (PRESUP.)
+0015#STR0015#ALL# (DE GEST. )
+0016#STR0016#ALL#...Creando archivo temporal...
+0017#STR0017#ALL#*** Anulado por el operador ***
+0018#STR0019#ALL#DEBITO A MAYOR: 
+0018#STR0019#ANG#DEBITO A MAYOR: 
+0018#STR0019#EQU#DEBITO A MAYOR: 
+0018#STR0019#HAI#DEBITO A MAYOR: 
+0018#STR0019#MEX#CARGO A MAYOR: 
+0018#STR0019#PTG#DEBITO A MAYOR: 
+0019#STR0020#ALL#CREDITO A MAYOR: 
+0019#STR0020#ANG#CREDITO A MAYOR: 
+0019#STR0020#EQU#CREDITO A MAYOR: 
+0019#STR0020#HAI#CREDITO A MAYOR: 
+0019#STR0020#MEX#ABONO A MAYOR: 
+0019#STR0020#PTG#CREDITO A MAYOR: 
+0020#STR0021#ALL#T O T A L  D E L  G R U P O (
+0021#STR0022#ALL#T O T A L E S : 
+0022#STR0023#ALL#CTA.
+0023#STR0024#ALL#CODIGO REDUCIDO
+0024#STR0025#ALL#DESCRIP. DE CUENTA
+0025#STR0026#ALL#D E B I T O
+0025#STR0026#ANG#D E B I T O
+0025#STR0026#EQU#D E B I T O
+0025#STR0026#HAI#D E B I T O
+0025#STR0026#MEX#C A R G O  
+0025#STR0026#PTG#D E B I T O
+0026#STR0027#ALL#C R E D I T O
+0026#STR0027#ANG#C R E D I T O
+0026#STR0027#EQU#C R E D I T O
+0026#STR0027#HAI#C R E D I T O
+0026#STR0027#MEX#A B O N O    
+0026#STR0027#PTG#C R E D I T O
+0027#STR0028#ALL#Balance Modelo I
+0028#STR0029#ALL#Total

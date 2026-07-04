@@ -1,0 +1,34 @@
+0001#STR0001#ALL#Emissão de Respostas de Scripts 
+0002#STR0002#ALL#Este programa ira emitir uma relacao dos Atendimentos 
+0003#STR0003#ALL#Call Center relacionados aos Scripts trabalhados e suas
+0004#STR0004#ALL#respectivas respostas.
+0005#STR0005#ALL#Zebrado
+0006#STR0006#ALL#Administração
+0007#STR0007#ALL#Cancelado pelo Operador.
+0008#STR0008#ALL#Formato
+0009#STR0009#ALL#Atendimento
+0010#STR0010#ALL#Pesquisa
+0011#STR0011#ALL#Score Total
+0012#STR0012#ALL#Contato 
+0013#STR0013#ALL#Entidade
+0014#STR0014#ALL#Nome 
+0015#STR0015#ALL#Data da execucäo 
+0016#STR0016#ALL# - TeleMarketing
+0017#STR0017#ALL# - TeleVendas
+0018#STR0018#ALL#Executado pela agenda do operador...
+0019#STR0019#ALL#Atendimento 
+0020#STR0020#ALL#Data 
+0021#STR0021#ALL#Cliente
+0022#STR0022#ALL#Campanha
+0023#STR0023#ALL#Script
+0024#STR0024#ALL#Perguntas/Respostas                                                                                                                                                                               Score
+0025#STR0025#ALL#Nao Existem dados a serem impressos para este relatorio com os parametros informados
+0026#STR0026#ALL# - TeleCobrança
+0027#STR0027#ALL#Fone Com.1
+0028#STR0028#ALL#E-mail
+0029#STR0029#ALL#Telefone
+0030#STR0030#ALL#Municipio
+0031#STR0031#ALL#Perguntas/Respostas
+0032#STR0032#ALL#Score
+0033#STR0033#ALL#Dados do Atendimento
+0034#STR0034#ALL#Itens do Script Dinamico

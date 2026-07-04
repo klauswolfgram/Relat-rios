@@ -1,0 +1,61 @@
+0001#STR0001#ALL#Statement of Family Charges for Income Tax purposes
+0002#STR0002#ALL#Will be printed according to parameters requested by the  
+0003#STR0003#ALL#user.   
+0004#STR0004#ALL#Registration
+0005#STR0005#ALL#Cost Center    
+0006#STR0006#ALL#Z.Form 
+0007#STR0007#ALL#Management   
+0008#STR0008#ALL# STATEMENT OF FAMILY CHARGES FOR INCOME TAX PURPSOSES 
+0009#STR0009#ALL#STATEMENT OF FAMILY CHARGES FOR INCOME TAX PURPOSES
+0010#STR0010#ALL#Spouse    
+0011#STR0011#ALL#Child     
+0012#STR0012#ALL#Others    
+0013#STR0013#ALL#Married   
+0014#STR0014#ALL#Divorced  
+0015#STR0015#ALL#Marital   
+0016#STR0016#ALL#Judic Separ
+0017#STR0017#ALL#Single  
+0018#STR0018#ALL#Widow   
+0019#STR0019#ALL#                 STATEMENT OF FAMILY CHARGES FOR INCOME TAX                     
+0020#STR0020#ALL#                                   PURPOSES                                     
+0021#STR0021#ALL#| Company: 
+0022#STR0023#ALL#| Address : 
+0023#STR0024#ALL#| City  : 
+0024#STR0025#ALL#| ST: 
+0025#STR0026#ALL#    | ZIP:  
+0026#STR0027#ALL#| C.G.C.: 
+0027#STR0028#ALL#             | State Registration: 
+0028#STR0029#ALL#| Pursuant to Income Tax legislation, \I hereby inform that I have as         |
+0029#STR0030#ALL#| family charges the members listed below:                                    |
+0030#STR0031#ALL#|              DEPENDENTS CONSIDERED AS FAMILY CHARGES                        |
+0031#STR0032#ALL#|  No. |     COMPLETE NAME OF DEPENDENTS       | LIST  DEPEND.  |  BIRTH DATE |
+0032#STR0033#ALL#|I Declare under penalties of the law that information herein provided is real|
+0033#STR0034#ALL#| under my sole responsibility, not being incumbent upon you (paying source)  |
+0034#STR0035#ALL#| any responsibility before fiscalization.                                    |
+0035#STR0036#ALL#|                      ____________________,____of___________________ ______. |
+0036#STR0037#ALL#|                                           (  DECLARANT'S SIGNATURE  )       |
+0037#STR0038#ALL#| Name of Declarant : 
+0038#STR0039#ALL#| Registrat.:
+0039#STR0040#ALL#| Add.: 
+0040#STR0041#ALL# | Branch: 
+0041#STR0042#ALL#| Zone  : 
+0042#STR0043#ALL#| City  : 
+0043#STR0044#ALL#| ST: 
+0044#STR0045#ALL#| ZIP: 
+0045#STR0046#ALL#| Marital Status: 
+0046#STR0047#ALL#    | CTPS: 
+0047#STR0048#ALL#| Series: 
+0048#STR0049#ALL#| C.P.F. ( C.I.C. ): 
+0049#STR0050#ALL#| R.G.: 
+0050#STR0051#ALL#|     RENEW THIS STATEMENT EACH TIME THERE IS A CHANGE IN THE DATA ABOVE.      |
+0051#STR0052#ALL#  continued... __|
+0052#STR0053#ALL#|     IN CASE OF COMMON DEPENDANTS (CHILDREN), THIS STATEMENT MUST BE SIGNED   |
+0053#STR0054#ALL#|     BY BOTH SPOUSES.                                                         |
+0054#STR0055#ALL#| Aware of the prohibition to deduct the same dependant for both spouses,      |
+0055#STR0056#ALL#                              INCOME TAX                                        
+0056#STR0057#ALL#| C.A.: 
+0057#STR0058#ALL#| C.E.I.: 
+0058#STR0059#ALL#Stepson   
+0059#STR0060#ALL#Father/Mother   
+0060#STR0061#ALL#Comm Law Rel
+0061#STR0062#ALL#Others

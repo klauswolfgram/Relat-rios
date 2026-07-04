@@ -1,0 +1,49 @@
+0001#STR0001#ALL#Fornecedor - Total
+0002#STR0002#ALL#Emissao dos Indices Acumulados por Mes
+0003#STR0003#ALL#Ira imprimir os Indices Acumulados por Fornecedor, de acordo
+0004#STR0004#ALL#com a configuracao do usuario.
+0005#STR0005#ALL#Zebrado
+0006#STR0006#ALL#Administracao
+0007#STR0007#ALL#Entradas no Periodo                
+0008#STR0008#ALL#No. Entradas demeritadas no Periodo
+0009#STR0009#ALL#No. Entradas Inspecionadas         
+0010#STR0010#ALL#No. Entradas em Skip-Lote          
+0011#STR0011#ALL#Qtde. Inspecionada                 
+0012#STR0012#ALL#Qtde. em Skip-Lote                 
+0013#STR0013#ALL#Qtde. Rejeitada                    
+0014#STR0014#ALL#Resultados das Entradas (IQP)      
+0015#STR0015#ALL#Fator de Criticidade               
+0016#STR0016#ALL#Sistema da Qualidade (IQS)         
+0017#STR0017#ALL#Indice de Qualidade do Item (IQI)  
+0018#STR0018#ALL#Pontualidade (IPO)                 
+0019#STR0019#ALL#PPM                                
+0020#STR0020#ALL#Selecionando os Indices no Periodo...
+0021#STR0021#ALL#Selecionando os Laudos no Periodo...
+0022#STR0022#ALL#TOTAL/MEDIA
+0023#STR0023#ALL#IQI :
+0024#STR0024#ALL#Mes/Ano
+0025#STR0025#ALL#Do Fornecedor       
+0026#STR0026#ALL#Informe o Fornecedor Inicial que sera 
+0027#STR0027#ALL#utilizado  para  filtro na emissao do 
+0028#STR0028#ALL#relatorio.                            
+0029#STR0029#ALL#Ate Fornecedor      
+0030#STR0030#ALL#Informe o Fornecedor Final que sera 
+0031#STR0031#ALL#utilizado para filtro na emissao do 
+0032#STR0032#ALL#relatorio.                          
+0033#STR0033#ALL#Do Ano              
+0034#STR0034#ALL#Informe o Ano que sera utilizado no 
+0035#STR0035#ALL#filtro na emissao do relatorio.     
+0036#STR0036#ALL#Do Mes              
+0037#STR0037#ALL#Informe o Mes que sera utilizado no 
+0038#STR0038#ALL#filtro na emissao do relatorio.     
+0039#STR0039#ALL#Idioma              
+0040#STR0040#ALL#Portugues
+0041#STR0041#ALL#Ingles
+0042#STR0042#ALL#Espanhol
+0043#STR0043#ALL#Informe o Idioma que sera utilizado na 
+0044#STR0044#ALL#impressao do Relatorio.               
+0045#STR0045#ALL#Imprime Grafico     
+0046#STR0046#ALL#Sim
+0047#STR0047#ALL#Nao
+0048#STR0048#ALL#Informe se o grafico sera impresso quando 
+0049#STR0049#ALL#o dispositivo selecionado for a Impressora.

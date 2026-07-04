@@ -1,0 +1,69 @@
+0001#STR0001#ALL#Filial+Mat
+0002#STR0002#ALL#Filial+Cc+Mat
+0003#STR0003#ALL#Filial+Nome
+0004#STR0004#ALL#Filial+Cc+Nome
+0005#STR0005#ALL#GFIP - Guia de Recolhimento do FGTS e Informaçäes a Previdencia Social
+0006#STR0006#ALL#Será impresso de acordo com os parametros solicitados pelo usuário.
+0007#STR0007#ALL#Deverá ser impresso em impressora MATRICIAL.
+0008#STR0008#ALL#Zebrado
+0009#STR0009#ALL#Administraçäo
+0010#STR0010#ALL#Carimbo CIEF
+0011#STR0011#ALL#Para uso da CAIXA
+0012#STR0012#ALL#G F I P - Guia de Recolhimento do FGTS e
+0013#STR0013#ALL#CAIXA ECONOMICA FEDERAL - CAIXA
+0014#STR0014#ALL#INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS
+0015#STR0015#ALL#Informacoes a Previdencia Social
+0016#STR0016#ALL#Competencia mes/ano
+0017#STR0017#ALL#Codigo recolhimento
+0018#STR0018#ALL#Razao Social/Nome
+0019#STR0019#ALL#Pessoa para contato/DDD/telefone
+0020#STR0020#ALL#CGC/CNPJ/CEI
+0021#STR0021#ALL# OUTRAS INFORMACOES
+0022#STR0022#ALL#Endereco (logradouro,No.,andar,apartamento)
+0023#STR0023#ALL#Bairro/distrito
+0024#STR0024#ALL#CEP
+0025#STR0025#ALL#Municipio
+0026#STR0026#ALL#UF 
+0027#STR0027#ALL#No.Processo Judicial
+0028#STR0028#ALL#FPAS
+0029#STR0029#ALL#Codigo terceiros
+0030#STR0030#ALL#SIMPLES
+0031#STR0031#ALL#Aliquota SAT
+0032#STR0032#ALL#CNAE
+0033#STR0033#ALL#Tomador de servico(CGC/CNPJ/CEI)
+0034#STR0034#ALL#Tomador de servico (razao social)
+0035#STR0035#ALL#Vara/JCJ
+0036#STR0036#ALL#Valor devido Prev. Social
+0037#STR0037#ALL#Contrib. desc. empregado
+0038#STR0038#ALL#Valor salario-familia
+0039#STR0039#ALL#Comerc.de producao rural
+0040#STR0040#ALL#Receira evento desp./patroc.
+0041#STR0041#ALL#Compensacao Prev.Social
+0042#STR0042#ALL#Somatorio
+0043#STR0043#ALL#Periodo (de-ate)
+0044#STR0044#ALL#No.PIS-PASEP/Inscricao
+0045#STR0045#ALL#Admissao 
+0046#STR0046#ALL#Carteira de trabalho
+0047#STR0047#ALL#Cat
+0048#STR0048#ALL#Remuneracao
+0049#STR0049#ALL#Remuneracao 13o.salario
+0050#STR0050#ALL#Ocor.
+0051#STR0051#ALL#Nome do trabalhador
+0052#STR0052#ALL#Movimentacao
+0053#STR0053#ALL#Nascimento
+0054#STR0054#ALL#do contrib. individual
+0055#STR0055#ALL#(data)
+0056#STR0056#ALL#(No./serie)
+0057#STR0057#ALL#(sem parcela do 13o.salario)
+0058#STR0058#ALL#(somente parcela do 13o.sal.)
+0059#STR0059#ALL#(data)
+0060#STR0060#ALL#Cod.
+0061#STR0061#ALL#(data)
+0062#STR0062#ALL#Somatorio
+0063#STR0063#ALL#Soma
+0064#STR0064#ALL#Rem + 13o.(Cat.1,2,3 e 5)
+0065#STR0065#ALL#Rem + 13o.(Cat. 4)
+0066#STR0066#ALL#Total a recolher FGTS
+0067#STR0067#ALL#Autenticacao
+0068#STR0068#ALL#Local e data
+0069#STR0069#ALL#Assinatura

@@ -1,0 +1,53 @@
+0001#STR0001#ALL#This program will print the Book Ledger of the acc.
+0002#STR0002#ALL#entries grouped per accounts/fiscal documents according   
+0003#STR0003#ALL#to the parameters set by the user
+0004#STR0004#ALL#Z. Form
+0005#STR0005#ALL#Management
+0006#STR0006#ALL#Issue of the Ledger Grouped per accounts/fiscal doc.
+0007#STR0007#ALL#LEDGER IN 
+0008#STR0008#ALL# FROM 
+0009#STR0009#ALL# TO 
+0010#STR0010#ALL#LOT/SUB/DOC/LINE      H I S T O R Y                          FISCAL DOC.                              	                          DEBIT                                 CREDIT                             CURRENT BALANCE
+0010#STR0010#ANG#LOT/SUB/DOC/LINE      H I S T O R Y                          FISCAL DOC.                              	                          DEBIT                                 CREDIT                             CURRENT BALANCE
+0010#STR0010#EQU#LOT/SUB/DOC/LINE      H I S T O R Y                          FISCAL DOC.                              	                          DEBIT                                 CREDIT                             CURRENT BALANCE
+0010#STR0010#HAI#LOT/SUB/DOC/LINE      H I S T O R Y                          FISCAL DOC.                              	                          DEBIT                                 CREDIT                             CURRENT BALANCE
+0010#STR0010#MEX#LOT/SUB/DOC/LINE      H I S T O R Y                          FISCAL DOC.                              	                          DEBIT                                 CREDIT                             CURRENT BALANCE
+0010#STR0010#PTG#LOT/SUB/DOC/LINE      H I S T O R Y                          FISCAL DOC.                              	                          DEBIT                                 CREDIT                             CURRENT BALANCE
+0011#STR0011#ALL#***** CANCELLED BY OPERATOR *****
+0012#STR0012#ALL#ACCOUNT - 
+0013#STR0013#ALL#Selecting Records...
+0014#STR0014#ALL#Creating Temporary File...
+0015#STR0015#ALL#DATE
+0016#STR0016#ALL#A c c o u n t  T o t a l s  ==> 
+0017#STR0017#ALL#TO TRANSPORT   :
+0018#STR0018#ALL#FROM TRANSPORT :
+0019#STR0019#ALL#G R A N D  T O T A L ==> 
+0020#STR0020#ALL#The management plan is not available for this report. 
+0021#STR0021#ALL#This report needs the field CT2_KEY. Please, create it with character type 100
+0022#STR0022#ALL#Acct.
+0023#STR0023#ALL#DESCRIPT.
+0024#STR0024#ALL#Accounting entries   
+0025#STR0025#ALL#DATE
+0026#STR0026#ALL#LOT/SUB/DOC/LINE  
+0027#STR0027#ALL#HISTORY  
+0028#STR0028#ALL#TAX DOCUM.
+0028#STR0028#ANG#TAX DOCUM.
+0028#STR0028#EQU#TAX DOCUM.
+0028#STR0028#HAI#TAX DOCUM.
+0028#STR0028#MEX#TAX DOCUM.
+0028#STR0028#PTG#TAX DOCUM.
+0029#STR0029#ALL#DEBIT 
+0029#STR0029#ANG#DEBIT 
+0029#STR0029#EQU#DEBIT 
+0029#STR0029#HAI#DEBIT 
+0029#STR0029#MEX#DEBIT 
+0029#STR0029#PTG#DEBIT 
+0030#STR0030#ALL#CREDIT 
+0030#STR0030#ANG#CREDIT 
+0030#STR0030#EQU#CREDIT 
+0030#STR0030#HAI#CREDIT 
+0030#STR0030#MEX#CREDIT 
+0030#STR0030#PTG#CREDIT 
+0031#STR0031#ALL#CURRENT BLN
+0032#STR0032#ALL#Totals
+0033#STR0033#ALL#Complement 

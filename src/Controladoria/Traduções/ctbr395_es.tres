@@ -1,0 +1,28 @@
+0001#STR0001#ALL#Este programa emitira la Comparacion de Revisiones de Presupuestos. 
+0002#STR0002#ALL#Deben informarse las revisiones que deberan compararse para  
+0003#STR0003#ALL#un mismo presupuesto.
+0004#STR0004#ALL#Comparacion de Revisiones de Presupuestos
+0005#STR0005#ALL#|Presupuet|Descripcion                                       |Calendario|Moned|Revis. |Linea|   Cuenta Inicial   |     Cuenta Final   |                    |                    |Per|Fech Inicio|Fech Final|   Valor Presup|
+0006#STR0006#ALL#ANULADO POR EL OPERADOR
+0007#STR0007#ALL#A rayas
+0008#STR0008#ALL#Administracion
+0009#STR0009#ALL# Inicial
+0010#STR0010#ALL# Final
+0011#STR0011#ALL#Cuenta Contable
+0012#STR0012#ALL#Presupuestado 
+0013#STR0013#ALL#Total Presupuesto - 
+0014#STR0014#ALL# REVISION
+0015#STR0015#ALL#|        |   PERIODO 01  |   PERIODO 02  |   PERIODO 03  |   PERIODO 04  |   PERIODO 05  |   PERIODO 06  |   PERIODO 07  |   PERIODO 08  |   PERIODO 09  |   PERIODO 10  |   PERIODO 11  |   PERIODO 12  |      TOTAL      |
+0016#STR0016#ALL# Revision 2: 
+0017#STR0017#ALL#Cuenta:
+0018#STR0018#ALL# a 
+0019#STR0019#ALL#Creando Archivo Temporal...
+0020#STR0020#ALL#El plan de gestion no esta disponible en este informe.
+0021#STR0021#ALL#Seleccionando Archivos...
+0022#STR0022#ALL#VARIACION
+0023#STR0023#ALL#Codigo del presupuesto: 
+0024#STR0024#ALL#Si el calendario contable tiene mas de 12 periodos,
+0025#STR0025#ALL#los periodos superiores a 12 se ignoraran.   
+0026#STR0026#ALL#El codigo de la revision 1 no podra ser superior al codigo 
+0027#STR0027#ALL#de la revision 2.
+0028#STR0028#ALL#Por favor, complete el parámetro de la moneda

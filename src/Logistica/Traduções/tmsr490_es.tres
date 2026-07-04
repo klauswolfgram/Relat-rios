@@ -1,0 +1,27 @@
+0001#STR0001#ALL#Documentos Embarcados
+0002#STR0002#ALL#Emite Relacion de Documentos Embarcados,
+0003#STR0003#ALL#conforme parametros informados
+0004#STR0004#ALL#A Rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#CANCELADO POR EL OPERADOR
+0007#STR0007#ALL#                                                                                                          ----------------[ VEhICULO ]--------- -----------[ 1º REMOLQUE ]----------- ------------[ 2º REMOLQUE ]----------
+0008#STR0008#ALL#DOCUMENTO    EMISION    REMITENTE          DESTINO                UF FC SALIDA  EMBARQUE   VAL.MERCADERIA PLACA     CODIGO   MODELO               PLACA     CODIGO   MODELO               PLACA     CODIGO   MODELO        
+0009#STR0009#ALL#Documentos Embarcados
+0010#STR0010#ALL#Emite lista de documentos embarcados, segun los parametros informados
+0011#STR0011#ALL#Emision + Suc.Docto + Documento + Serie
+0012#STR0012#ALL#Documento
+0013#STR0013#ALL#Total Documento
+0014#STR0014#ALL#Remitente
+0015#STR0015#ALL#Destino
+0016#STR0016#ALL#Matricula
+0017#STR0017#ALL#Modelo
+0018#STR0018#ALL#Suc.Doc
+0019#STR0019#ALL#Documento
+0020#STR0020#ALL#Serie
+0021#STR0021#ALL#Emision
+0022#STR0022#ALL#Salida
+0023#STR0023#ALL#Embarque
+0024#STR0024#ALL#Vehiculo
+0025#STR0025#ALL#1o Remolque
+0026#STR0026#ALL#2o Remolque
+0027#STR0027#ALL#3º Remolque

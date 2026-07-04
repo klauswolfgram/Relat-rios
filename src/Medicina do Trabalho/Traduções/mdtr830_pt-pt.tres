@@ -1,0 +1,132 @@
+0001#STR0001#ALL#Comunicação de acidente de trabalho ( cat ) .                            
+0002#STR0002#ALL#Emite a cat com todas as informações referente ao acidente selecionado   
+0003#STR0003#ALL#Apos a emissæo a data corrente será actualizada no registo da cat.       
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#Comunicação De Acidente De Trabalho - Cat
+0007#STR0007#ALL#Cancelado Pelo Operador
+0008#STR0008#ALL#Previdencia Social
+0009#STR0009#ALL#Comunicação de acidente de trabalho
+0010#STR0010#ALL#Empregador
+0011#STR0011#ALL#Sindicato
+0012#STR0012#ALL#Médico
+0013#STR0013#ALL#Segurado
+0014#STR0014#ALL#Aut. Publica
+0015#STR0015#ALL#Inicial
+0016#STR0016#ALL#Reabertura
+0017#STR0017#ALL#óbito
+0018#STR0018#ALL#Empregado
+0019#STR0019#ALL#Trabalhador Avulso
+0020#STR0020#ALL#Seg. Especial
+0021#STR0021#ALL#Medico residencial
+0022#STR0022#ALL#Masculino
+0023#STR0023#ALL#Feminino
+0024#STR0024#ALL#Casado(a)
+0025#STR0025#ALL#Divorciado(a)
+0026#STR0026#ALL#Marital
+0027#STR0027#ALL#Divorciado(a)
+0028#STR0028#ALL#Solteiro(a)
+0029#STR0029#ALL#Viúvo(a)
+0030#STR0030#ALL#Sim
+0031#STR0031#ALL#Não
+0032#STR0032#ALL#Urbana
+0033#STR0033#ALL#Rural
+0034#STR0034#ALL#Acidente Tipico
+0035#STR0035#ALL#Acidente De Trajeto
+0036#STR0036#ALL#Doenca do trabalho
+0037#STR0037#ALL#Incidente
+0038#STR0038#ALL#Nr. de contribuinte
+0039#STR0039#ALL#Cnpj
+0040#STR0040#ALL#Cpf
+0041#STR0041#ALL#Incra
+0042#STR0042#ALL#Informações do emitente
+0043#STR0043#ALL#Emissor
+0044#STR0044#ALL#Data De Emissão
+0045#STR0045#ALL#Tipo De Cat
+0046#STR0046#ALL#Comunicação obito
+0049#STR0049#ALL#Informações do empregador
+0050#STR0050#ALL#Razao social/nome
+0051#STR0051#ALL#Tipo/num. Documento
+0052#STR0052#ALL#Cae
+0053#STR0053#ALL#Código postal
+0054#STR0054#ALL#Morada
+0055#STR0055#ALL#Localidade
+0056#STR0056#ALL#Distrito
+0057#STR0057#ALL#Concelho
+0059#STR0059#ALL#Informações do acidentado
+0061#STR0061#ALL#Data De Nascimento
+0062#STR0062#ALL#Nome Da Moeda
+0066#STR0066#ALL#€
+0067#STR0067#ALL#Ctps
+0069#STR0069#ALL#Pis/pasep/nit
+0070#STR0070#ALL#CAE
+0071#STR0071#ALL#Reformado
+0072#STR0072#ALL#área
+0073#STR0073#ALL#Informações do acidente
+0074#STR0074#ALL#Data Do Acidente
+0075#STR0075#ALL#Hora Do Acidente
+0078#STR0078#ALL#Ausência
+0079#STR0079#ALL#Registo Policial
+0080#STR0080#ALL#Local Do Acidente
+0081#STR0081#ALL#Especificação local
+0082#STR0082#ALL#Cgc Da Prestadora
+0083#STR0083#ALL#Distrito Do Acidente
+0084#STR0084#ALL#Concelho do
+0085#STR0085#ALL#último dia
+0087#STR0087#ALL#Trabalhado/dt obito
+0088#STR0088#ALL#Parte Do Corpo
+0090#STR0090#ALL#Situação criadora
+0092#STR0092#ALL#Data óbito
+0095#STR0095#ALL#Concelho/uf
+0096#STR0096#ALL#Informações do atestado medico
+0098#STR0098#ALL#Data De Atendimento
+0100#STR0100#ALL#Internamento
+0101#STR0101#ALL#Duração tratamento
+0102#STR0102#ALL#Dia(s)
+0103#STR0103#ALL#Natureza lesão
+0104#STR0104#ALL#Cid
+0106#STR0106#ALL#Crm
+0115#STR0115#ALL#De cliente ?
+0117#STR0117#ALL#Até cliente ?
+0119#STR0119#ALL#Modelo do Relatório ?
+0120#STR0120#ALL#Até Acidente ?
+0126#STR0126#ALL#COMUNICACAO DE ÓBITO EM :
+0127#STR0127#ALL#| |E|3-Razão Social/Nome
+0130#STR0130#ALL#|6-Morada
+0131#STR0131#ALL#| |s|Freguesia
+0132#STR0132#ALL#|CP
+0133#STR0133#ALL#|7-Concelho
+0134#STR0134#ALL#|8-Distrito
+0138#STR0138#ALL#| |i|11-Nome da Mãe
+0142#STR0142#ALL#|15-CTPS Série  Data em.
+0143#STR0143#ALL#|16-Distrito
+0144#STR0144#ALL#|17-Remuneração mensal
+0147#STR0147#ALL#VIÚVO
+0150#STR0150#ALL#| |t|18-Documento de Identidade
+0151#STR0151#ALL#|Data de Emissão
+0152#STR0152#ALL#|Orgão Exp.
+0153#STR0153#ALL#|19-Distrito
+0155#STR0155#ALL#|21-Morada
+0156#STR0156#ALL#|m|d|Morada (compl.)
+0157#STR0157#ALL#|Freguesia
+0158#STR0158#ALL#|22-Concelho
+0159#STR0159#ALL#|23-Distrito
+0167#STR0167#ALL#Médico Resid.
+0168#STR0168#ALL#NÃO
+0180#STR0180#ALL#ONDE PRESTA SERVIÇO
+0181#STR0181#ALL#VIA PÚBLICA
+0182#STR0182#ALL#ÁREA RURAL
+0210#STR0210#ALL#Assinatura e carimbo do médico com CRM
+0212#STR0212#ALL#|65-Código da Unidade
+0213#STR0213#ALL#|66-Número da CAT
+0214#STR0214#ALL#|S|68-Matrícula do servidor
+0215#STR0215#ALL#Matrícula
+0216#STR0216#ALL#Ass . do Servidor
+0242#STR0242#ALL#1 - CEI       2 - Nr.Contrib.P.Col.      3 - Nr.Contrib.P.Sing.     4 - NT
+0243#STR0243#ALL#Morada Rua/Av./Nº/Comp.
+0244#STR0244#ALL#Distrito
+0250#STR0250#ALL#Documento de Identidade
+0263#STR0263#ALL#1 - Típico  2 - Doença  3 - Trajecto
+0271#STR0271#ALL#Nr.Contribuinte
+0272#STR0272#ALL#Concelho do Acidente
+0275#STR0275#ALL#Houve registo policial?

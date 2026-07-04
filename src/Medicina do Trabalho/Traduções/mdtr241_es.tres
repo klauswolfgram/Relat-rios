@@ -1,0 +1,48 @@
+0001#STR0001#ALL#Informe de las ocurrencias por empleado. Por medio de los parametros 
+0002#STR0002#ALL#el usuario podra filtrar las ocurrencias que desea imprimir.
+0003#STR0003#ALL#A Rayas
+0004#STR0004#ALL#Administracion
+0005#STR0005#ALL#Ocurrencias por Empleado
+0006#STR0006#ALL#¿De Sucursal?
+0007#STR0007#ALL#¿De Centro de Costo?
+0008#STR0008#ALL#¿A Centro de Costo?
+0009#STR0009#ALL#De Empleado
+0010#STR0010#ALL#A Empleado
+0011#STR0011#ALL#¿De Fecha ?
+0012#STR0012#ALL#¿A Fecha ?
+0013#STR0013#ALL#Orden de ocurrrncias por:
+0014#STR0014#ALL#Matricula
+0015#STR0015#ALL#C.C. y Matr.
+0016#STR0016#ALL#N° ocurrencia
+0017#STR0017#ALL#Sucursal        Nombre                             Matricula   Empleado                      C. Costo             Descripcion C. Costo
+0018#STR0018#ALL#       Ocurrencia  Fecha      Gravedad              Descripc. Ocurrencia
+0019#STR0019#ALL#Sucursal        Nombre                       C. Costo             Descripcion C. costo
+0020#STR0020#ALL#Matricula:
+0021#STR0021#ALL#      Ocurrencia  Fecha      Gravedad             Descripc. Ocurrencia
+0022#STR0022#ALL#Ocurrencia   Descripc. Ocurrencia
+0023#STR0023#ALL#         Matricula   Empleado                      C. Costo            Descripcion C. Costo         Fecha       Gravedad
+0024#STR0024#ALL#No hay nada para imprimir en el informe.
+0025#STR0025#ALL#Advertencia Verbal
+0026#STR0026#ALL#Advertencia Escrita
+0027#STR0027#ALL#Suspension
+0028#STR0028#ALL#Despido
+0029#STR0029#ALL#Nombre Empleado: 
+0030#STR0030#ALL#¿A Sucursal?
+0031#STR0031#ALL#Sucursal:
+0032#STR0032#ALL#Nombre Sucursal:
+0033#STR0033#ALL#Nombre
+0034#STR0034#ALL#C.C. y Nombre
+0035#STR0035#ALL#Matricula   Empleado                      C. Costo            Descripcion C. Costo 
+0036#STR0036#ALL#       Ocurrencia  Fecha      Gravedad              Descripc. Ocurrencia
+0037#STR0037#ALL#C. Costo              Descripc. C. Costo
+0038#STR0038#ALL#      Ocurrencia  Fecha      Gravedad             Descripc. Ocurrencia
+0039#STR0039#ALL#Ocurrencia   Descripc. Ocurrencia
+0040#STR0040#ALL#         Matricula   Empleado                      C. Costo            Descripcion C. Costo         Fecha       Gravedad
+0041#STR0041#ALL#Cliente/Tda.: 
+0042#STR0042#ALL#¿Ordenar ocurrencias por: ?
+0043#STR0043#ALL#¿A Fecha          ?
+0044#STR0044#ALL#¿A Empleado ?
+0045#STR0045#ALL#De Empleado.
+0046#STR0046#ALL#Tienda
+0047#STR0047#ALL#¿De Cliente ?
+0048#STR0048#ALL#¿A Cliente ?

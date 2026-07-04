@@ -1,0 +1,19 @@
+0001#STR0001#ALL#Este programa emitira la lista de precios
+0002#STR0002#ALL#seleccionados por el usuario. 
+0003#STR0003#ALL#Codigo         
+0004#STR0004#ALL#Grupo        
+0005#STR0005#ALL#Alfabetico
+0006#STR0006#ALL#Lista de Precios
+0007#STR0007#ALL#A Rayas
+0008#STR0008#ALL#Administracion
+0009#STR0009#ALL#TABLA DE PRECIOS
+0010#STR0010#ALL#CODIGO          DESCRIPCION DEL PRODUCTO       GRUP UM
+0011#STR0011#ALL#ANULADO POR EL OPERADOR
+0012#STR0012#ALL#MONEDA
+0013#STR0013#ALL#La tabla numero '0', informada por el usuario es invalida. Digite un codigo de tabla valido y repita el proceso
+0014#STR0014#ALL#Precio
+0015#STR0015#ALL#Sucursal + Codigo
+0016#STR0016#ALL#Sucursal + Descripcion + Codigo
+0017#STR0017#ALL#Sucursal + Grupo + Codigo
+0018#STR0018#ALL#Detalles de Productos
+0019#STR0019#ALL#CODIGO          				DESCRIPCION DEL PRODUCTO           GRUP UM

@@ -1,0 +1,58 @@
+0001#STR0001#ALL#Quality Certificate     
+0002#STR0002#ALL#In this report, the Quality Certificate will be printed 
+0003#STR0004#ALL# Higher text    
+0004#STR0005#ALL# Lower text     
+0005#STR0006#ALL# Printing  
+0006#STR0007#ALL#Quality Certificate     
+0007#STR0008#ALL#Configuration Items  
+0008#STR0009#ALL#In this report, Certificates will be printed 
+0009#STR0010#ALL#Quality Certificate  
+0010#STR0011#ALL#Z.form 
+0011#STR0012#ALL#Management   
+0012#STR0013#ALL#Selecting Records ...    
+0013#STR0014#ALL# from 
+0014#STR0015#ALL#LABORATORY:   
+0015#STR0016#ALL#Specified   
+0016#STR0017#ALL#Found      
+0017#STR0018#ALL#Minim.
+0018#STR0019#ALL#Maxim.
+0019#STR0020#ALL#Found     
+0020#STR0021#ALL#January
+0021#STR0022#ALL#February 
+0022#STR0023#ALL#March
+0023#STR0024#ALL#April
+0024#STR0025#ALL#May 
+0025#STR0026#ALL#June 
+0026#STR0027#ALL#July 
+0027#STR0028#ALL#August
+0028#STR0029#ALL#Septemb.
+0029#STR0030#ALL#October
+0030#STR0031#ALL#November
+0031#STR0032#ALL#December
+0032#STR0033#ALL#OPERATION: 
+0033#STR0034#ALL# Additional Information     
+0034#STR0035#ALL#As the report has an Urgent Release, the Quality Certificate cannot be printed.                 
+0035#STR0036#ALL#Warning
+0036#STR0037#ALL#Print text trial?   
+0037#STR0038#ALL#One measur.
+0038#STR0039#ALL#All measurings
+0039#STR0040#ALL#Invoice    
+0040#STR0041#ALL#Series
+0041#STR0042#ALL#Aver.
+0042#STR0043#ALL#Custom.
+0043#STR0044#ALL#Customer store 
+0044#STR0045#ALL#InitialProd.
+0045#STR0046#ALL#FinalProd.
+0046#STR0047#ALL#Initial prod.date
+0047#STR0048#ALL#Final prod.date
+0048#STR0049#ALL#Lot 
+0049#STR0050#ALL#Series number  
+0050#STR0051#ALL#Number of copies  
+0051#STR0052#ALL#Review 
+0052#STR0053#ALL#Print text trial  
+0053#STR0054#ALL#Invoice    
+0054#STR0055#ALL#Series
+0055#STR0056#ALL#Initial prod. order
+0056#STR0057#ALL#Final prod. order
+0057#STR0058#ALL#First   
+0058#STR0059#ALL#All  

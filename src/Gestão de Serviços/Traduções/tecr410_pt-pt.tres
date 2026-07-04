@@ -1,0 +1,19 @@
+0001#STR0001#ALL#Relação De Orçamentos
+0002#STR0002#ALL#   este programa irá imprimir a relação de orçamentos conforme
+0003#STR0003#ALL#Os parâmetros solicitados.
+0005#STR0005#ALL#Número
+0007#STR0007#ALL#Emissão
+0008#STR0008#ALL#Código de barras
+0009#STR0009#ALL#Administração
+0010#STR0010#ALL#Orçamento   tipo     cliente   emissão    moeda cpg artigo         nr. série             problema                                o.s.       ocorrência                                                                            
+0011#STR0011#ALL#                     It Artigo         Descrição                                                                             Serviço     Quantidade Valor Unitário      Valor Cliente   Valor Fabricante        Valor Total
+0012#STR0012#ALL# [ nº orçamento ] 
+0013#STR0013#ALL# [ cliente ] 
+0014#STR0014#ALL# [ emissão ] 
+0015#STR0015#ALL#Cancelado Pelo Operador
+0016#STR0016#ALL#Total Do Orçamento
+0017#STR0017#ALL#Total cliente 
+0019#STR0019#ALL#Total Crial
+0020#STR0020#ALL#Ocorrência
+0024#STR0024#ALL#Orçamento Técnico
+0025#STR0025#ALL#Itens Orçamento Técnico

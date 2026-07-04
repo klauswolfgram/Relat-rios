@@ -1,0 +1,19 @@
+0001#STR0001#BRA#PIX Report
+0002#STR0002#BRA#Below is a list of bills generated for your company using payment method PIX, for your
+0003#STR0003#BRA#monitoring and payment.
+0004#STR0004#BRA#Customer:
+0005#STR0005#BRA#Store:
+0006#STR0006#BRA#Name:
+0007#STR0007#BRA#Page:
+0008#STR0008#BRA#Invoice/Bill
+0009#STR0009#BRA#Installment
+0010#STR0010#BRA#Invoice Series
+0011#STR0011#BRA#Bill value
+0012#STR0012#BRA#Issue
+0013#STR0013#BRA#Due Date
+0014#STR0014#BRA#e-Invoice key
+0015#STR0015#BRA#No records to display.
+0016#STR0016#BRA#Attention!
+0017#STR0017#BRA#Below is a list of bills cancelled for your company using payment method PIX, for your
+0018#STR0018#BRA#monitoring.
+0019#STR0019#BRA#Pix Copy and Paste

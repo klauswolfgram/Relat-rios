@@ -1,0 +1,22 @@
+0001#STR0001#ALL#Relacao dos Movimentos - Cubo Gerencial
+0002#STR0002#ALL#   - Cubo Gerencial: 
+0003#STR0003#ALL#* Total da Conta Orcamentaria *
+0004#STR0004#ALL#* Total da Data *
+0005#STR0005#ALL#* Total da Classe *
+0006#STR0006#ALL#* Total Operacao *
+0007#STR0007#ALL#* Total da Classe Orcamentaria *
+0008#STR0008#ALL#Conta Orcamentaria
+0009#STR0009#ALL# - Periodo de: 
+0010#STR0010#ALL# a 
+0011#STR0011#ALL#Dt.Movim.
+0012#STR0012#ALL#Classe
+0013#STR0013#ALL#Operacao
+0014#STR0014#ALL#Historico
+0015#STR0015#ALL#Processo
+0016#STR0016#ALL#Debito
+0017#STR0017#ALL#Credito
+0018#STR0018#ALL#Informe um cubo gerencial existente para proseguir!
+0019#STR0019#ALL#Total <Geral>
+0020#STR0020#ALL#Total 
+0021#STR0021#ALL#Movimentos
+0022#STR0022#ALL#Este relatorio ira imprimir a Relação de Movimentos de acordo com os parâmetros solicitados pelo usuário. Para mais informações sobre este relatorio consulte o Help do Programa ( F1 ).

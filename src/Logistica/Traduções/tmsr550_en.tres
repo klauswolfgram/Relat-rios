@@ -1,0 +1,46 @@
+0001#STR0001#ALL#Customer w/o movement 
+0002#STR0002#ALL#This program will print the report of customers   
+0003#STR0003#ALL#w/o movement. 
+0004#STR0004#ALL#Z. Form
+0005#STR0005#ALL#Management   
+0006#STR0006#ALL#Complement 
+0007#STR0007#ALL#                                           -Type -            --------Calculation Type------ -----------------------Weight--------------- Freight- --Qty.--- -Freight--   --Weight-- ----Amount---- Amount-- -Perc--
+0008#STR0008#ALL#-Seq- ----Customer name--- -Code / Unit -- -Freight Eff. date  --- Billing --- --Month Av.--- ----Actual---- ----Cubic----- ---Charged---- -Aver.-- --Docs--- Av./Doc. -   Av./Doc. - --- Goods ---- Goods/Kg- Incid. -Serv-
+0009#STR0009#ALL#Period  :
+0010#STR0010#ALL#To 
+0011#STR0011#ALL#Branch   :
+0012#STR0012#ALL#Grand Total
+0013#STR0013#ALL#Sub Total:
+0014#STR0014#ALL#Customers without movement
+0015#STR0015#ALL#This program prints report of customers without movement.
+0016#STR0016#ALL#Branch
+0017#STR0017#ALL#City
+0018#STR0018#ALL#State
+0019#STR0019#ALL#Customer
+0020#STR0020#ALL#Seq
+0021#STR0021#ALL#Customer Name
+0022#STR0022#ALL#Custom./Shop
+0023#STR0023#ALL#Billing
+0024#STR0024#ALL#Avg. Month
+0025#STR0025#ALL#Act.Weight
+0026#STR0026#ALL#Cubed Weight
+0027#STR0027#ALL#Weight Charged
+0028#STR0028#ALL#Avg.Freight
+0029#STR0029#ALL#Qty Docs
+0030#STR0030#ALL#Avg Freight/Doc
+0031#STR0031#ALL#Avg Freight/Doc
+0032#STR0032#ALL#Value of Goods
+0033#STR0033#ALL#Value Goods/Kg
+0034#STR0034#ALL#Perc.Levied
+0035#STR0035#ALL#Total
+0036#STR0036#ALL#Sub-total
+0037#STR0037#ALL#Qty.Customers
+0038#STR0038#ALL#Ini.Valid.
+0039#STR0039#ALL#Negotiation
+0040#STR0040#ALL#Origin
+0041#STR0041#ALL#Destin.
+0042#STR0042#ALL#From transportation type
+0043#STR0043#ALL#To transportation type
+0044#STR0044#ALL#Fr. Tp.
+0045#STR0045#ALL#Serv
+0046#STR0046#ALL#Neg

@@ -1,0 +1,71 @@
+0001#STR0001#ALL#Aviso de Iniciação/Cessação de Serviços
+0002#STR0002#ALL#Se imprimirá de acordo com os parâmetros solicitados pelo usuário.
+0003#STR0003#ALL#Aviso de Iniciação de Serviços
+0004#STR0004#ALL#Aviso de Cessação de Serviços
+0005#STR0005#ALL#AVISO DE INICIAÇÃO DE SERVIÇOS
+0006#STR0006#ALL#(Art. 5º Lei Nº19.728)
+0007#STR0007#ALL#DATA
+0008#STR0008#ALL#Dia
+0009#STR0009#ALL#Mes
+0010#STR0010#ALL#Ano
+0011#STR0011#ALL#ANTECEDENTES DO AFILIADO
+0012#STR0012#ALL#Sobrenome Paterno
+0013#STR0013#ALL#Sobrenome Materno
+0014#STR0014#ALL#Nomes
+0015#STR0015#ALL#Cédula Nacional de Identidade
+0016#STR0016#ALL#Data de
+0017#STR0017#ALL#Nascimento
+0018#STR0018#ALL#Sexo
+0019#STR0019#ALL#Masculino = 1
+0020#STR0020#ALL#Feminino = 2
+0021#STR0021#ALL#Domicílio - Rua
+0022#STR0022#ALL#Número
+0023#STR0023#ALL#Bairro
+0024#STR0024#ALL#Província
+0025#STR0025#ALL#Região
+0026#STR0026#ALL#Instituição
+0027#STR0027#ALL#de Previsão
+0028#STR0028#ALL#
+0029#STR0029#ALL#
+0030#STR0030#ALL#
+0031#STR0031#ALL#
+0032#STR0032#ALL#
+0033#STR0033#ALL#
+0034#STR0034#ALL#
+0035#STR0035#ALL#IDENTIFICAÇÃO EMPREGADOR
+0036#STR0036#ALL#DATA DE INÍCIO
+0037#STR0037#ALL#SERVIÇOS
+0038#STR0038#ALL#Nome ou Razão Social
+0039#STR0039#ALL#RUT
+0040#STR0040#ALL#Tipo de Contrato
+0041#STR0041#ALL#1. Duração Indefinida
+0042#STR0042#ALL#2. A Prazo Fixo
+0043#STR0043#ALL#3. Obra, Trabalho ou Serviço Determinado
+0044#STR0044#ALL#Nº Trabalhadores
+0045#STR0045#ALL#Nº de Horas de Trabalho
+0046#STR0046#ALL#Dependentes da Empresa
+0047#STR0047#ALL#Semanal
+0048#STR0048#ALL#USO EXCLUSIVO DA AFC
+0049#STR0049#ALL#Nome do Funcionário
+0050#STR0050#ALL#Nome da Filial
+0051#STR0051#ALL#Data, Assinatura e Carimbo
+0052#STR0052#ALL#AFP Receptora
+0053#STR0053#ALL#DECLARAÇÃO DO EMPREGADOR
+0054#STR0054#ALL#Declaro que os dados consignados neste
+0055#STR0055#ALL#documento são verdadeiros.
+0056#STR0056#ALL#Assinatura Representante Legal
+0057#STR0057#ALL#Distribuição: 
+0058#STR0058#ALL#Original: A.F.C.
+0059#STR0059#ALL#Cópia: Empregador
+0060#STR0060#ALL#AVISO DE CESSAÇÃO DE SERVIÇOS
+0061#STR0061#ALL#AVISO
+0062#STR0062#ALL#Tipo de contrato: (1)Indefinido; (2)A prazo; (3)Por obra, trabalho ou serviço determ.
+0063#STR0063#ALL#Data de cessação de serviços
+0064#STR0064#ALL#Causal
+0065#STR0065#ALL#(*) (1)Art. 159-1 (mutuo acordo); (2)Art. 159-2 (renuncia); (3)Art. 159-4 (vencimento prazo); (4)Art. 159-5 (término obra, trabalho ou serviço);
+0066#STR0066#ALL#(5)Art. 159-6 (caso fortuito ou força maior); (6)Art. 160 (imputavel ao trabalhador); (7)Art. 161 (necessidades empresa); (8)Art. 171, inciso 1.
+0067#STR0067#ALL#Cédula Nacional
+0068#STR0068#ALL#de Identidade
+0069#STR0069#ALL#Tipo de
+0070#STR0070#ALL#Contrato
+0071#STR0071#ALL#Cessação (*)

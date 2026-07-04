@@ -1,0 +1,41 @@
+0001#STR0001#ALL#Inventory Availability for Sale 
+0002#STR0002#ALL#This program will print a list of Products available in the  
+0003#STR0003#ALL#Inventory for Sale.            
+0004#STR0004#ALL#Z.Form 
+0005#STR0005#ALL#Management   
+0006#STR0006#ALL#CODE            D  E  S  C  R  I  P  T.        UM       BALANCE ON       BLNCE       ORDERS      ORDERS       RESERV.     AVAILABLE 
+0007#STR0007#ALL#                                                          STOCK      RESERVED     PENDING      LOCKED                      F/ SALES 
+0008#STR0008#ALL#CANCELLED BY THE OPERATOR  
+0009#STR0009#ALL#T O T A L ---> 
+0010#STR0010#ALL# By Code      
+0011#STR0011#ALL# By Type      
+0012#STR0012#ALL# By Descript. 
+0013#STR0013#ALL# By Warehouse 
+0014#STR0014#ALL#Selecting Records...    
+0015#STR0015#ALL#SubTotal of Type : 
+0016#STR0016#ALL#SubTotal of Warehouse: 
+0017#STR0017#ALL#Unit total ------> 
+0018#STR0018#ALL#Availability of stock for sales       
+0019#STR0019#ALL#This program will list the products available                
+0020#STR0020#ALL#in stock for sales.            
+0021#STR0021#ALL#MU
+0022#STR0022#ALL#Balance in stock
+0023#STR0023#ALL#Balance alloc. 
+0024#STR0024#ALL#Pending orders   
+0025#STR0025#ALL#Blocked orders    
+0026#STR0026#ALL#Reserve
+0027#STR0027#ALL#Available for sale 
+0028#STR0028#ALL#By code   
+0029#STR0029#ALL#By type 
+0030#STR0030#ALL#ByDescription
+0031#STR0031#ALL#ByWarehouse
+0032#STR0032#ALL#Selecting records ...    	
+0033#STR0033#ALL#Type sub-total:   
+0034#STR0034#ALL#Warehouse sub-total: 
+0035#STR0035#ALL#Unit total    ---> 
+0036#STR0036#ALL#Total by unit of measurement
+0037#STR0037#ALL#Grand total
+0038#STR0038#ALL#Products
+0039#STR0039#ALL#Physical and Financial Bln
+0040#STR0040#ALL#Sales Order Items
+0041#STR0041#ALL#Orders Released

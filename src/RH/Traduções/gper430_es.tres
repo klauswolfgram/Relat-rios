@@ -1,0 +1,61 @@
+0001#STR0001#ALL#Declaracion de cargas familiares para fines de IR
+0002#STR0002#ALL#Se imprimira de acuerdo con los param. solicitados por el
+0003#STR0003#ALL#usuario.
+0004#STR0004#ALL#Matricula
+0005#STR0005#ALL#Centro de costo
+0006#STR0006#ALL#A rayas
+0007#STR0007#ALL#Administrac.
+0008#STR0008#ALL# DECLARAC. DE CARGAS FAMILIARES CON FINALIDAD DE IR  
+0009#STR0009#ALL#DECLARAC. DE CARGAS FAMILIARES CON FINALIDAD DE IR
+0010#STR0010#ALL#Conyuge   
+0011#STR0011#ALL#Hijo(a)   
+0012#STR0012#ALL#Otros     
+0013#STR0013#ALL#Casado(a) 
+0014#STR0014#ALL#Divorciado
+0015#STR0015#ALL#Concubinat
+0016#STR0016#ALL#Separado
+0017#STR0017#ALL#Soltero 
+0018#STR0018#ALL#Viudo(a)
+0019#STR0019#ALL#                 DECLARACION DE CARGAS FAMILIARES CON FINALIDAD DE              
+0020#STR0020#ALL#                            IMPUESTO A LAS RENTAS                               
+0021#STR0021#ALL#| Empresa: 
+0022#STR0023#ALL#| Direccion:
+0023#STR0024#ALL#| Ciudad: 
+0024#STR0025#ALL#| PV: 
+0025#STR0026#ALL#    | CP:   
+0026#STR0027#ALL#|Nº Contr:
+0027#STR0028#ALL#            | Inscrip. Provincial: 
+0028#STR0029#ALL#| Obedeciendo la legislacion del impuesto a la renta, por la presente les    |
+0029#STR0030#ALL#| informo que tengo como cargas familiares a las siguientes personas:          |
+0030#STR0031#ALL#|             BENEFICIARIOS CONSIDERADOS COMO CARGAS FAMILIARES                |
+0031#STR0032#ALL#|  Nº  | NOMBRE COMPLETO DE LOS DEPENDIENTES   |  LIS. DEPEND.  |  FECHA NAC.  |
+0032#STR0033#ALL#| declaro bajo pena de ley, que las informaciones aqui mostradas son           |
+0033#STR0034#ALL#| verdaderas y de mi total responsabilidad, no cabiendo a usted(s)(fuente paga-|
+0034#STR0035#ALL#| dora), cualquier responsabilidad ante la fiscalizacion.                      |
+0035#STR0036#ALL#|                      ____________________,____de___________________de ______ |
+0036#STR0037#ALL#|(CONYUGE, EN CASO DE DEPENDIENTES COMUNES)          (DECLARANTE)              |
+0037#STR0038#ALL#| Nombre del Declar.: 
+0038#STR0039#ALL#| Matricula: 
+0039#STR0040#ALL#| Dir.: 
+0040#STR0041#ALL# | Suc.: 
+0041#STR0042#ALL#| Barrio: 
+0042#STR0043#ALL# | Ciudad: 
+0043#STR0044#ALL# | PV: 
+0044#STR0045#ALL#| CP: 
+0045#STR0046#ALL#| Estado Civil: 
+0046#STR0047#ALL#    | CTPS: 
+0047#STR0048#ALL#| Serie: 
+0048#STR0049#ALL#|Nº Contr. Jur/ Fis.:
+0049#STR0050#ALL#| D I: 
+0050#STR0051#ALL#| RENOVAR ESTA DECLARACION SIEMPRE QUE HAYA MODIFICACIONES DE LOS DATOS ARRIBA |
+0051#STR0052#ALL#  continua...  __|
+0052#STR0053#ALL#| EN CASO DE BENEFICIARIOS COMUNES (HIJOS), ESTA DECLARACION DEBERA FIRMARSE   |
+0053#STR0054#ALL#| POR AMBOS CONYUGES.                                                          |
+0054#STR0055#ALL#| Sabedor de la prohib. de deduccion del mismo dependiente por ambos conyuges  |
+0055#STR0056#ALL#                            IMPUESTO SOBRE LA RENTA                             
+0056#STR0057#ALL#| C.C.: 
+0057#STR0058#ALL#| C.E.I.: 
+0058#STR0059#ALL#Entenado   
+0059#STR0060#ALL#Padre/Madre   
+0060#STR0061#ALL#Un. Estable
+0061#STR0062#ALL#Otros

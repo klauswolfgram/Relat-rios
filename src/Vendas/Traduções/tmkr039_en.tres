@@ -1,0 +1,51 @@
+0001#STR0001#ALL#Accomplished Servicings - Telesales
+0002#STR0002#ALL#This program will issue a list of calls accomplished by the operator during the Telesales servicing.
+0003#STR0003#ALL#This report will only issue the calls registered as SERVICING.
+0004#STR0004#ALL#The data will be issued according to the parameters infomed.
+0005#STR0005#ALL#Z-Form
+0006#STR0006#ALL#Administration
+0007#STR0007#ALL#CANCELLED BY OPERATOR
+0008#STR0008#ALL#Item Product         Descript.                      St   Quant.    Unit Value         Item Vl  %Disc    Discount Vl  %Incr.   Increase Val TIO CFOP      Table       ICMS Base LP UM Deliv.     Lot        Sub-Lt Validity
+0009#STR0009#ALL#No data with the parameters entered for this report                                 
+0010#STR0010#ALL#TOTAL
+0011#STR0011#ALL#Servicing total computed for the period            
+0012#STR0012#ALL# to 
+0013#STR0013#ALL#OPERATION                                         SERVICINGS     NEGOTIATED VALUE
+0014#STR0014#ALL#OPERATOR                                          SERVICINGS  
+0015#STR0015#ALL#MEDIA                                             SERVICINGS                   %
+0016#STR0016#ALL#CAMPAIGN                                          SERVICINGS                   %
+0017#STR0017#ALL#DATE      OPERATOR                                           SERVICINGS  
+0018#STR0018#ALL#DATE      MEDIA                                              SERVICINGS  
+0019#STR0019#ALL#DATE      CAMPAIGN                                           SERVICINGS  
+0020#STR0020#ALL#OPERAT. 
+0021#STR0021#ALL#OPERATOR
+0022#STR0022#ALL#MEDIA
+0023#STR0023#ALL#CAMPAIGN
+0024#STR0024#ALL#It
+0025#STR0025#ALL#Quant.
+0026#STR0026#ALL#Disc%
+0027#STR0027#ALL#Incr%
+0028#STR0028#ALL#TIO
+0029#STR0029#ALL#CFOP
+0030#STR0030#ALL#LP
+0031#STR0031#ALL#MU
+0032#STR0032#ALL#Deliv. 
+0033#STR0033#ALL#Validity
+0034#STR0034#ALL#Telesales quotations 
+0035#STR0035#ALL#Telesales Budget Items
+0036#STR0036#ALL#Item
+0037#STR0037#ALL#Product
+0038#STR0038#ALL#Description
+0039#STR0039#ALL#St
+0040#STR0040#ALL#Unit Value
+0041#STR0041#ALL#Item Value
+0042#STR0042#ALL#Discount Value
+0043#STR0043#ALL#%Add
+0044#STR0044#ALL#Increase Value
+0045#STR0045#ALL#Table
+0046#STR0046#ALL#ICMS  Base
+0047#STR0047#ALL#Lot
+0048#STR0048#ALL#Sub-Lt
+0049#STR0049#ALL#Entity
+0050#STR0050#ALL#PROSPECT
+0051#STR0051#ALL#CUSTOMER

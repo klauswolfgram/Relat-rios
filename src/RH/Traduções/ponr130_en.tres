@@ -1,0 +1,33 @@
+0001#STR0001#ALL#Visists Report      
+0002#STR0002#ALL#It will be printed according to the parameters requested by
+0003#STR0003#ALL#the user.
+0004#STR0006#ALL#Please, wait...
+0005#STR0007#ALL#Selecting Guests..........
+0006#STR0008#ALL#Z.Form 
+0007#STR0009#ALL#Administration
+0008#STR0011#ALL#Visits Control Report           
+0009#STR0012#ALL#Badge:  
+0010#STR0013#ALL#Code: 
+0011#STR0014#ALL#Guest:     
+0012#STR0015#ALL#  Visitations Total
+0013#STR0016#ALL#Branch : 
+0014#STR0017#ALL#Guests:     
+0015#STR0020#ALL#Company: 
+0016#STR0022#ALL#Guest                             |Badge      |  Date     |  Inflow          |  Outfl           |  Post     | Contact              | C.Center                          
+0017#STR0023#ALL#                                                           * Access  *       |  Clock  
+0018#STR0024#ALL#Visitor  
+0019#STR0025#ALL#Badge 
+0020#STR0026#ALL#Date
+0021#STR0027#ALL#Entry  
+0022#STR0028#ALL#Exit 
+0023#STR0029#ALL#Posting
+0024#STR0030#ALL#Contact
+0025#STR0031#ALL#Cost C.
+0026#STR0032#ALL#Visit date 
+0027#STR0033#ALL#Posting date 
+0028#STR0104#ALL#Visitor Code + Call Date
+0029#STR0105#ALL#Badge + Call Date
+0030#STR0106#ALL#Call Date + Badge
+0031#STR0107#ALL#Posting + Badge
+0032#STR0108#ALL#Company + Date
+0033#STR0109#ALL#This report lists the visits received in a given period.                           

@@ -1,0 +1,32 @@
+0001#STR0001#ALL#Monthly fleet utilization report
+0002#STR0002#ALL#Issues Monthly fleet utilization report
+0003#STR0003#ALL#according to parameters input
+0004#STR0004#ALL#Z-form 
+0005#STR0005#ALL#Management   
+0006#STR0006#ALL#Selecting records...
+0007#STR0007#ALL#Selecting records in DTQ...
+0008#STR0008#ALL#                                                        *------------------WEIGHT----------------*  MARGIN OF    UTILIZAT.    KM
+0009#STR0009#ALL#VEHICLE   PLATE       CAPAC. TRIP   QTY. DOC. QTY. VOL.         ACT.       CUBIC           COLLECT  BENEFIT.      OF WGHT   ROUND 
+0010#STR0010#ALL#VEHICLE TYPE: 
+0011#STR0011#ALL#FLEET: 
+0012#STR0012#ALL#CANCELED BY OPERATOR
+0013#STR0013#ALL#FLEET TOTAL ===> 
+0014#STR0014#ALL#TOTAL VEHICLE TYPE ===> 
+0015#STR0015#ALL#GROSS TOTAL ===> 
+0016#STR0016#ALL# * = Vehicles with auxiliary tow 
+0017#STR0017#ALL#FLEET: 
+0018#STR0018#ALL#Report of monthly fleet usage
+0019#STR0019#ALL#Print report of monthly fleet usage according to the parameters entered
+0020#STR0020#ALL#Fleet + Vehicle Type + Vehicle
+0021#STR0021#ALL#Fleet
+0022#STR0022#ALL#Vehicle Type
+0023#STR0023#ALL#Vehicle
+0024#STR0024#ALL#Num. Trip.
+0025#STR0025#ALL#Num. Doct.
+0026#STR0026#ALL#Margin Used
+0027#STR0027#ALL#Weight used
+0028#STR0028#ALL#KM run
+0029#STR0029#ALL#Total Fleet
+0030#STR0030#ALL#Total Vehicle Type
+0031#STR0031#ALL#Caption
+0032#STR0032#ALL#* = Vehicles with auxiliary tow

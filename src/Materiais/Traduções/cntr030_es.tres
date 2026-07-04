@@ -1,0 +1,26 @@
+0001#STR0001#ALL#Mediciones
+0002#STR0002#ALL#Este informe emitira una lista de mediciones, exhibiendo sus respectivas 
+0003#STR0003#ALL#multas/bonificaciones, descuentos y garantias retenidas. Por favor, verifique los  
+0004#STR0004#ALL#parametros del informe.
+0005#STR0005#ALL#Procesando
+0006#STR0006#ALL#Mediciones
+0007#STR0007#ALL#Multas/Bonificaciones
+0008#STR0008#ALL#Descuentos
+0009#STR0009#ALL#Retencion-Garantias
+0010#STR0010#ALL#Multas
+0011#STR0011#ALL#Bonificaciones
+0012#STR0012#ALL#Total de Multas:
+0013#STR0013#ALL#Total de Bonificaciones:
+0014#STR0014#ALL#Total:
+0015#STR0015#ALL#Nº Medicion:
+0016#STR0016#ALL# - (Valores en 
+0017#STR0017#ALL#Medicion
+0018#STR0018#ALL#Items de la Medicion
+0019#STR0019#ALL#Multas y Bonificaciones
+0020#STR0020#ALL#Descuentos
+0021#STR0021#ALL#Garantias Retenidas
+0022#STR0022#ALL#Prov./Cliente
+0023#STR0023#ALL#Total Retenido
+0024#STR0024#ALL#Total Bajado
+0025#STR0025#ALL#Total de Descuentos
+0026#STR0026#ALL#Planilla Med. de Contratos

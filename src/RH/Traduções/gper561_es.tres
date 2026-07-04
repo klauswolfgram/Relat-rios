@@ -1,0 +1,25 @@
+0001#STR0001#ALL#Archivo Texto|*.TXT
+0002#STR0002#ALL#Grabar Búsqueda...
+0003#STR0003#ALL#         DGII              | SECRETARÍA DE ESTADO DE FINANZAS                                                                                                  # PAGINA   
+0004#STR0004#ALL#         IR-13             | DIRECCIÓN GENERAL DE IMPUESTOS INTERNOS                                                                                           AÑO FISCAL 
+0005#STR0005#ALL#Aprobado por el Contralor  | DECLARACIÓN JURADA ANUAL DEL AGENTE DE RETENCIÓN
+0006#STR0006#ALL# General de la República   | DE ASALARIADOS
+0007#STR0007#ALL#DATOS GENERALES DEL AGENTE DE RETENCIÓN
+0008#STR0008#ALL#  APELLIDOS Y NOMBRES    |     CÉDULA O      |TOTAL DE SUELDOS |     OTRAS       | TOTAL PAGADO     |  OTROS PAGOS    |   IMPUESTO     |   IMPUESTO      |   SALDO A FAV.  |   DIFERENCIA   
+0009#STR0009#ALL#                         |    PASAPORTE      |PAGADOS EN EL AÑO| REMUNERACIONES  |   EN EL AÑO      | SUJ. A RETENCIÓN|   LIQUIDADO    |  RET. Y PAGADO  |  DEL EMPLEADO   |     POR PAGAR    
+0010#STR0010#ALL#           A             |        B          |        C        |       D         |        E         |         F       |        G       |       H         |        I        |        J       
+0011#STR0011#ALL#Número asalariados
+0012#STR0012#ALL#Sujetos a Retención
+0013#STR0013#ALL#YO
+0014#STR0014#ALL#EN MI CALIDAD DE AGENTE DE RETENCIÓN, POR LA PRESENTE DECLARO BAJO JURAMENTO QUE LOS DATOS
+0015#STR0015#ALL#CONSIGNADOS EN LA PRESENTE DECLARACIóN SON CORRECTOS Y COMPLETOS Y QUE NO HE OMITIDO DATO
+0016#STR0016#ALL#ALGUNO QUE LA MISMA DEBA DE CONTENER, CONSECUENTEMENTE TODO SU CONTENIDO ES LA FIEL
+0017#STR0017#ALL#EXPRESIóN DE LA VERDAD.
+0018#STR0018#ALL#FIRMA DEL DECLARANTE
+0019#STR0019#ALL#CEDULA-SERIE
+0020#STR0020#ALL#IMPUESTO POR PAGAR
+0021#STR0021#ALL#REGARGOS ART. 252 (   )%
+0022#STR0022#ALL#INTERÉS INDEMNIZATORIO ART. 27(  )%
+0023#STR0023#ALL#TOTAL POR PAGAR RD$
+0024#STR0024#ALL#                         |                   |                 |                 |                  |   SUELDOS Y     |                |                 |                 |                
+0025#STR0025#ALL#RESUMEN PARA EL PAGO

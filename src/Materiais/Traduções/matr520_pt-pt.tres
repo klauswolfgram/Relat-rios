@@ -1,0 +1,11 @@
+0001#STR0001#ALL#Lista De Preços
+0002#STR0002#ALL#Este programa irá emitir a relação dos preços
+0003#STR0003#ALL#Seleccionados pelo utilizador.
+0004#STR0004#ALL# por tipo           
+0005#STR0005#ALL# por grupo        
+0006#STR0006#ALL#Código de barras
+0007#STR0007#ALL#Administração
+0008#STR0008#ALL#Tabela De Preços
+0009#STR0009#ALL# Código           Descrição  Do  Produto         Um       Qtd P/
+0010#STR0010#ALL#                                                          Embal.
+0011#STR0011#ALL#Cancelado Pelo Operador

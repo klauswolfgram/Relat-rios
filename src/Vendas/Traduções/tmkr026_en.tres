@@ -1,0 +1,100 @@
+0001#STR0001#ALL#Campaign Goals Issue. 
+0002#STR0002#ALL#This program will issue a list of Goals related to the 
+0003#STR0003#ALL#respective Campaigns, Scripts and Events if 
+0004#STR0004#ALL#required. 
+0005#STR0005#ALL#Z.Form
+0006#STR0006#ALL#Administration
+0007#STR0007#ALL#Cancelled by the operator.
+0008#STR0008#ALL#Estimated Invoicing : 
+0009#STR0009#ALL#Goal              : 
+0010#STR0010#ALL#Bill              : 
+0011#STR0011#ALL#Aim               : 
+0012#STR0012#ALL#Initial Date      : 
+0013#STR0013#ALL#Final Date        : 
+0014#STR0014#ALL#Campaign          : 
+0015#STR0015#ALL#Bill              : 
+0016#STR0016#ALL#Aim               : 
+0017#STR0017#ALL#Initial Date      : 
+0018#STR0018#ALL#Final Date        : 
+0019#STR0019#ALL#Type              : 
+0020#STR0020#ALL#Active
+0021#STR0021#ALL#Receptive
+0022#STR0022#ALL#Servicing         : 
+0023#STR0023#ALL#Telemarketing
+0024#STR0024#ALL#TeleSales
+0025#STR0025#ALL#TeleCharge
+0026#STR0026#ALL#All
+0027#STR0027#ALL#Public Target     : 
+0028#STR0028#ALL#Description       : 
+0029#STR0029#ALL#Responsible       : 
+0030#STR0030#ALL#Coordinator       : 
+0031#STR0031#ALL#Department       : 
+0032#STR0032#ALL#Contract Goal     : 
+0033#STR0033#ALL#Goal per Operator : 
+0034#STR0034#ALL#Cost              : 
+0035#STR0035#ALL#ROI               : 
+0036#STR0036#ALL#%ROI              : 
+0037#STR0037#ALL#New Estm. Leads   : 
+0038#STR0038#ALL#% Success         : 
+0039#STR0039#ALL#% Failure         : 
+0040#STR0040#ALL#Script            : 
+0041#STR0041#ALL#T.M.A             : 
+0042#STR0042#ALL#Servicing Type    : 
+0043#STR0043#ALL#Format            : 
+0044#STR0044#ALL#Servicing
+0045#STR0045#ALL#Search
+0046#STR0046#ALL#Store answer      : 
+0047#STR0047#ALL#YES
+0048#STR0048#ALL#NO
+0049#STR0049#ALL#Minimum Score     : 
+0050#STR0050#ALL#Minimum Action    : 
+0051#STR0051#ALL#Maximum Score     : 
+0052#STR0052#ALL#Maximum Action    : 
+0053#STR0053#ALL#Media             : 
+0054#STR0054#ALL#Call              : 
+0055#STR0055#ALL#Receptive
+0056#STR0056#ALL#Active
+0057#STR0057#ALL#Both
+0058#STR0058#ALL#Product           : 
+0059#STR0059#ALL#Unit              : 
+0060#STR0060#ALL#Event             : 
+0061#STR0061#ALL#Subject           : 
+0062#STR0062#ALL#Exposition        : 
+0063#STR0063#ALL#Market 
+0064#STR0064#ALL#Lecture
+0065#STR0065#ALL#Seminary
+0066#STR0066#ALL#WorkShop
+0067#STR0067#ALL#Road Show
+0068#STR0068#ALL#Forum
+0069#STR0069#ALL#Free              : 
+0070#STR0070#ALL#Price             : 
+0071#STR0071#ALL#Place             : 
+0072#STR0072#ALL#Address           : 
+0073#STR0073#ALL#District          : 
+0074#STR0074#ALL#State             : 
+0075#STR0075#ALL#Country           : 
+0076#STR0076#ALL#Telephone Number  : 
+0077#STR0077#ALL#Home Page         : 
+0078#STR0078#ALL#E-mail            : 
+0079#STR0079#ALL#Inicial Date      : 
+0080#STR0080#ALL#Final Date        : 
+0081#STR0081#ALL#Initial Time      : 
+0082#STR0082#ALL#Final Time        : 
+0083#STR0083#ALL#Parking Lot       : 
+0084#STR0084#ALL#At Place
+0085#STR0085#ALL#At Place/Paid
+0086#STR0086#ALL#Accord
+0087#STR0087#ALL#Free
+0088#STR0088#ALL#Accord/Maneuver
+0089#STR0089#ALL#Free with Maneuver
+0090#STR0090#ALL#Grid                       Subject                                   Sta.Tm End.Tm  Date       Room       Lecturers                        Company
+0091#STR0091#ALL#There is no data to be printed for this report with the informed parameters
+0092#STR0092#ALL#Sales/Marketing Targets
+0093#STR0093#ALL#Camp. vs. Targets
+0094#STR0094#ALL#Campaigns
+0095#STR0095#ALL#Dynamical script vs. Camp.
+0096#STR0096#ALL#Dynamic script 
+0097#STR0097#ALL#Media related to the campaign items    
+0098#STR0098#ALL#Products
+0099#STR0099#ALL#Events 
+0100#STR0100#ALL#Event grid      

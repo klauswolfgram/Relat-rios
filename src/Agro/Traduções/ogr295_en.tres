@@ -1,0 +1,97 @@
+0001#STR0001#ALL#List of Packing List per Entity, store and product
+0002#STR0002#ALL#Packing Lists
+0003#STR0003#ALL#Branch
+0004#STR0004#ALL#Issue
+0005#STR0005#ALL#TP
+0006#STR0006#ALL#Packing List
+0007#STR0007#ALL#Contract
+0008#STR0008#ALL#License Plate
+0009#STR0009#ALL#1stWeight
+0010#STR0010#ALL#2ndWeight
+0011#STR0011#ALL#Net Without Disc
+0012#STR0012#ALL#Discounts
+0013#STR0013#ALL#Net Wght
+0014#STR0014#ALL#Doc.
+0015#STR0015#ALL#Transgenics
+0016#STR0016#ALL#Vl.
+0017#STR0017#ALL#Desc.
+0018#STR0018#ALL#Product Total
+0019#STR0019#ALL#Store Total
+0020#STR0020#ALL#Total Entity 
+0021#STR0021#ALL#Registration:
+0022#STR0022#ALL# in the selection of printing data.
+0023#STR0023#ALL#Enter the initial branch.
+0024#STR0024#ALL#Branch from?
+0025#STR0025#ALL#Enter the final branch. 
+0026#STR0026#ALL#Branch to
+0027#STR0027#ALL#Enter initial entity
+0028#STR0028#ALL#Entity from?
+0029#STR0029#ALL#Enter initial store 
+0030#STR0030#ALL#Store from?
+0031#STR0031#ALL#Enter final entity
+0032#STR0032#ALL#Entity to?
+0033#STR0033#ALL#Enter final store
+0034#STR0034#ALL#Store to?
+0035#STR0035#ALL#Enter initial Contract
+0036#STR0036#ALL#Contract from?
+0037#STR0037#ALL#Enter final Contract 
+0038#STR0038#ALL#Contract to?
+0039#STR0039#ALL#Enter initial crop 
+0040#STR0040#ALL#Crop from?
+0041#STR0041#ALL#Enter final crop
+0042#STR0042#ALL#Crop to?
+0043#STR0043#ALL#Enter initial date
+0044#STR0044#ALL#Date from?
+0045#STR0045#ALL#Enter final date
+0046#STR0046#ALL#Date to?
+0047#STR0047#ALL#Enter the Initial product group 
+0048#STR0048#ALL#Group from?
+0049#STR0049#ALL#Enter the Final product group
+0050#STR0050#ALL#Group to?
+0051#STR0051#ALL#Enter initial product
+0052#STR0052#ALL#Product from?
+0053#STR0053#ALL#Enter final product
+0054#STR0054#ALL#Product to?
+0055#STR0055#ALL#Enter classification item that
+0056#STR0056#ALL#Transgenics code?
+0057#STR0057#ALL#Enter 6 items of separated discounts
+0058#STR0058#ALL#Discount to list?
+0059#STR0059#ALL#Enter which types of transactions must
+0060#STR0060#ALL#Packing List with Trans from?
+0061#STR0061#ALL#Enter packing list type
+0062#STR0062#ALL#Types of Packing List?
+0063#STR0063#ALL#All
+0064#STR0064#ALL#Inflow
+0065#STR0065#ALL#Outflow
+0066#STR0066#ALL#Physical
+0067#STR0067#ALL#Managerial
+0068#STR0068#ALL#Symbolic
+0069#STR0069#ALL#Doc (Invoice)
+0070#STR0070#ALL#Res
+0071#STR0071#ALL#Disc
+0072#STR0072#ALL#Select 6 types of valid discounts to list. Separate them with (;) Ex: UMI;TRA;ARD
+0073#STR0073#ALL#that will be considered
+0074#STR0074#ALL#that will be considered
+0075#STR0075#ALL#identifies transgenics result
+0076#STR0076#ALL#by (;) to be listed.n Ex:01;02
+0077#STR0077#ALL#to be considered in printing.
+0078#STR0078#ALL#Enter the start transaction date
+0079#STR0079#ALL#St Trans Dt
+0080#STR0080#ALL#Enter the end transaction date
+0081#STR0081#ALL#End Trans Dt
+0082#STR0082#ALL#Enter the separated statuses
+0083#STR0083#ALL#Status
+0084#STR0084#ALL#Select valid statuses to list. Separate it with (;) Ex: 0;1;2 
+0085#STR0085#ALL#Enter the date
+0086#STR0086#ALL#Date to be considered
+0087#STR0087#ALL#Man. Date
+0088#STR0088#ALL#Date Weight 1
+0089#STR0089#ALL#Date Weight 2
+0090#STR0090#ALL#Invoice Issue
+0091#STR0091#ALL#Transf. Date
+0092#STR0092#ALL#Enter type of quality report
+0093#STR0093#ALL#Quality Report
+0094#STR0094#ALL#Enter authorization codes
+0095#STR0095#ALL#Query Quality Report
+0096#STR0096#ALL#Product Trans Total
+0097#STR0097#ALL#Entity Trans Total

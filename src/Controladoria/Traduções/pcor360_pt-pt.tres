@@ -1,0 +1,14 @@
+0001#STR0001#ALL#Demonstrativo De Saldos Por Período
+0002#STR0002#ALL#Código
+0003#STR0003#ALL#Descrição
+0005#STR0005#ALL#Saldo inicial: 
+0006#STR0006#ALL#Mov.crédito (c):
+0007#STR0007#ALL#Mov.debito (d)
+0008#STR0008#ALL#Saldo Final (c - D):
+0009#STR0009#ALL#Impressão cancelada pelo operador...
+0011#STR0011#ALL#Utilizador sem acesso a esta configuração de visão analítica. 
+0019#STR0019#ALL#Diário
+0021#STR0021#ALL#Visão
+0030#STR0030#ALL#Tipo Período
+0034#STR0034#ALL#Configuração do Cubo
+0035#STR0035#ALL#Editar Configurações Cubo

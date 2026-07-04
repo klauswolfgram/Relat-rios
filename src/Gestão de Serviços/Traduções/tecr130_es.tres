@@ -1,0 +1,12 @@
+0001#STR0001#ALL#Presupuestado
+0002#STR0002#ALL#Realizado
+0003#STR0003#ALL#Relacion de Presupuestado/Realizado
+0004#STR0004#ALL#   Este programa imprimira la Relacion de Presupuestado vs. Realizado,
+0005#STR0005#ALL#de acuerdo con los parametros solicitados.
+0006#STR0006#ALL#
+0007#STR0007#ALL#Encabezado de la Propuesta
+0008#STR0008#ALL#Items de la propuesta
+0009#STR0009#ALL#Items del Pedido de Venta
+0010#STR0010#ALL#   Total General
+0011#STR0011#ALL#Contrato de Servicio
+0012#STR0012#ALL#Orden de Servicio

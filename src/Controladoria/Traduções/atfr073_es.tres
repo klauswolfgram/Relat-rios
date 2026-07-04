@@ -1,0 +1,49 @@
+0001#STR0001#ALL#Función disponible solamente para entornos TopConnect
+0002#STR0002#ALL#Función disponible solamente para TREPORT
+0003#STR0003#ALL#Moneda no registrada en el sistema
+0004#STR0004#ALL#Saldo no registrado en el sistema
+0005#STR0005#ALL#La fecha inicial debe ser el primer día de un mes y la fecha final debe ser el último dia de un mes
+0006#STR0006#ALL#El intervalo mínimo de fechas son 2 meses y el periodo máximo 12 meses 
+0007#STR0007#ALL#Situación valorizada de los bienes - 12 Meses
+0008#STR0008#ALL#Este programa emitirá la situación valorizada de los 
+0009#STR0009#ALL#bienes hasta en 12 períodos
+0010#STR0010#ALL# Período 
+0011#STR0011#ALL# a 
+0012#STR0012#ALL# en la moneda 
+0013#STR0013#ALL# Analítico
+0014#STR0014#ALL# Sintético
+0015#STR0015#ALL#Datos del bien
+0016#STR0016#ALL#Períodos
+0017#STR0017#ALL#Cuenta contable
+0018#STR0018#ALL#Centro de costo
+0019#STR0019#ALL#Ítem contable
+0020#STR0020#ALL#Valores
+0021#STR0021#ALL#Total general ítem
+0022#STR0022#ALL#Total general CodBase
+0023#STR0023#ALL#Total general sucursal
+0024#STR0024#ALL#Total general informe
+0025#STR0025#ALL#Leyenda
+0026#STR0026#ALL#Creando archivo temporal...
+0027#STR0027#ALL#Situación valorizada de los bienes 12 meses
+0028#STR0028#ALL#No existen datos, verifique parámetros del informe
+0029#STR0029#ALL#Total residual del ítem del bien 
+0030#STR0030#ALL#Total residual del código base
+0031#STR0031#ALL#Total residual de la sucursal 
+0032#STR0032#ALL#Total residual del informe 
+0033#STR0033#ALL#Abreviaturas del informe:
+0034#STR0034#ALL#Leyenda de la seccion de valores:
+0035#STR0035#ALL#1 - Valor original 
+0036#STR0036#ALL#2 - Depreciación mensual 
+0037#STR0037#ALL#3 - Baja 
+0038#STR0038#ALL#4 - Ampliación 
+0039#STR0039#ALL#5 - Depreciación acumulada 
+0040#STR0040#ALL#Valor residual del bien
+0041#STR0041#ALL#Leyenda de la sección de totales:
+0042#STR0042#ALL#F - Valor residual fiscal 
+0043#STR0043#ALL#G - Valor residual de gestión 
+0044#STR0044#ALL#I - Valor residual incentivado
+0045#STR0045#ALL#Clase de valor
+0046#STR0046#ALL#6 - Corrección mensual
+0047#STR0047#ALL#7 - Corrección acumulada
+0048#STR0048#ALL#8 - Corrección mensual de depreciación
+0049#STR0049#ALL#9 - Corrección acumulada de depreciación

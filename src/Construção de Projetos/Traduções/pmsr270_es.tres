@@ -1,0 +1,16 @@
+0001#STR0001#ALL#Este informe imprimira una lista con los proyectos, su estructura y el calendario financiero previsto vs. realizado para la ejecucion del proyecto.
+0002#STR0002#ALL#Cronograma Financiero Previsto vs. Realizado
+0003#STR0003#ALL#A Rayas
+0004#STR0004#ALL#Administracion
+0005#STR0005#ALL#                  EDT/TAREA                       |
+0006#STR0006#ALL#                                                  |       Valor        |%Porc.|       Valor        |%Porc.|       Valor        |%Porc.|       Valor        |%Porc.|       Valor        |%Porc.|       Valor        |%Porc.|
+0007#STR0007#ALL#Proyecto: 
+0008#STR0008#ALL#Cliente : 
+0009#STR0009#ALL#Version:
+0010#STR0010#ALL#Fecha: 
+0011#STR0011#ALL#Periodo
+0012#STR0012#ALL#Valor
+0013#STR0013#ALL#Porc.
+0014#STR0014#ALL#Proy. 
+0015#STR0015#ALL#EDT/Tarea
+0016#STR0016#ALL#*** ANULADO POR EL USUARIO ***

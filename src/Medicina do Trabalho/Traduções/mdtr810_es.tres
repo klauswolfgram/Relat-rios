@@ -1,0 +1,49 @@
+0001#STR0001#ALL#Informe de presentacion de los empleados que recibiran PI      
+0002#STR0002#ALL#A traves de los parametros, el usuario puede seleccionar       
+0003#STR0003#ALL#Empleados que recibiran EPI en un determinado Periodo.         
+0004#STR0004#ALL#A Rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#EPI por Empleado
+0007#STR0007#ALL#Matricula  Nomb Empleado                             Sexo       Ingreso  Edad  C.Costo              Func.  Descripcion 
+0008#STR0008#ALL#           EPI             Nombre del EPI                           Fch. Entrega Provee. Descripc.  
+0009#STR0009#ALL#ANULADO POR EL OPERADOR
+0010#STR0010#ALL#¿De Cliente?
+0011#STR0011#ALL#Tda.
+0012#STR0012#ALL#¿A Cliente  ?
+0013#STR0013#ALL#Cliente: 
+0014#STR0014#ALL#No existe nada para imprimir en el informe.	
+0015#STR0015#ALL#¿Enumerar Empleados Despedidos?
+0016#STR0016#ALL#¿A Fecha entrega?
+0017#STR0017#ALL#¿De Fecha Entrega ?
+0018#STR0018#ALL#¿A  EPI?
+0019#STR0019#ALL#¿De EPI?
+0020#STR0020#ALL#¿A Empleado ?
+0021#STR0021#ALL#¿De Empleado?
+0022#STR0022#ALL#Si
+0023#STR0023#ALL#No
+0024#STR0024#ALL#Matricula  Nomb Empleado                                                  Sexo  Ingreso     Despido     Edad   C.Costo                Descripc.
+0025#STR0025#ALL#      EPI                            Nomb del EPI                   Fch. Entrega Cant.  Provee.- Descripcion               C.A.
+0026#STR0026#ALL#      EPI                              Nombre del EPI                                                 Fch. Entrega Cant.   Proveedor             Descripcion                        C.A.
+0027#STR0027#ALL#FUNCION: 
+0028#STR0028#ALL#¿De Sucursal?
+0029#STR0029#ALL#¿A Sucursal?
+0030#STR0030#ALL#Sucursal
+0031#STR0031#ALL#Determina se será listado os funcionário demitidos.
+0032#STR0032#ALL#Nombre
+0033#STR0033#ALL#Descripción
+0034#STR0034#ALL#Sexo
+0035#STR0035#ALL#Ingreso
+0036#STR0036#ALL#Despido
+0037#STR0037#ALL#Edad
+0038#STR0038#ALL#C. Costo
+0039#STR0039#ALL#Nombre del EPI
+0040#STR0040#ALL#Fecha Entr.
+0041#STR0041#ALL#Cant.
+0042#STR0042#ALL#Proveedor
+0043#STR0043#ALL#C.A.
+0044#STR0044#ALL#Cliente
+0045#STR0045#ALL#Sucursal
+0046#STR0046#ALL#Función
+0047#STR0047#ALL#Empleados
+0048#STR0048#ALL#Matrícula
+0049#STR0049#ALL#EPI

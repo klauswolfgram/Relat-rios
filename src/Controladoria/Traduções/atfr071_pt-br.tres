@@ -1,0 +1,27 @@
+0001#STR0001#ALL#Este programa irá emitir a posiçäo valorizada dos
+0002#STR0002#ALL#bens em ate 5 (cinco) moedas.
+0003#STR0003#ALL#Posicao Valorizada dos Bens
+0004#STR0004#ALL#C. Custo             Cod. Base  Item Tp Descricao sintetica              Aquisic. Dt.Baixa  Quant.  Chapa        Vlr Ampliacao   Valor Original  Vlr Atualizado  Deprec. no Mes Deprec. no Exerc. Deprec. Acumulada Tx Depr. 
+0005#STR0005#ALL#Conta                Cod. Base  Item Tp Descricao sintetica              Aquisic. Dt.Baixa  Quant.  Chapa        Vlr Ampliacao   Valor Original  Vlr Atualizado  Deprec. no Mes Deprec. no Exerc. Deprec. Acumulada Tx Depr. 
+0006#STR0006#ALL#      VLR AMPLIACAO      VALOR ORIGINAL    VALOR ATUALIZADO  DEPREC. NO MES DEPREC. NO EXERC.   DEPREC. ACUMULADA   CORR.MON. MES  CORR. MON.EXERC.  CORR. MONET. ACUM.  CORR.DEPR. MES  CORR.DEPR.EXERC.  CORR. DEPR.  ACUM.
+0007#STR0007#ALL#Conta   : 
+0008#STR0008#ALL#C.Custo : 
+0009#STR0009#ALL#CANCELADO PELO OPERADOR
+0010#STR0010#ALL#TOTAL 
+0011#STR0011#ALL#QUANTIDADE
+0012#STR0012#ALL#* * *   T O T A L   G E R A L   * * *
+0013#STR0013#ALL#QUANTIDADE
+0014#STR0014#ALL#Zebrado
+0015#STR0015#ALL#Administracao
+0016#STR0016#ALL#Conta
+0017#STR0017#ALL#C Custo
+0018#STR0018#ALL# por 
+0019#STR0019#ALL# - TIPO 
+0020#STR0020#ALL#Para utilizacao criar indice SN4 - Chave N4_FILIAL + N4_CBASE + N4_ITEM + N4_TIPO + N4_OCORR + DTOS(N4_DATA).
+0021#STR0021#ALL#Item Contabil
+0022#STR0022#ALL#Classe de Valor
+0023#STR0023#ALL#Conta                Cod. Base  Item Tp Descricao sintetica                 Aquisic.   Dt.Baixa    Quantidade  Chapa  C.Custo   Cl.Valor.   
+0024#STR0024#ALL#Conta                Cod. Base  Item Tp Descricao sintetica                 Aquisic.   Dt.Baixa    Quantidade  Chapa  Item Ctb  C.Custo     
+0025#STR0025#ALL# - Data de Referência: 
+0026#STR0026#ALL#Processando...
+0027#STR0027#ALL#Imprimindo...

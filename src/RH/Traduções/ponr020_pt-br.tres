@@ -1,0 +1,36 @@
+0001#STR0001#ALL#Totais dos Codigos do Ponto
+0002#STR0002#ALL#Será impresso de acordo com os parametros solicitados pelo
+0003#STR0003#ALL#usuario.
+0004#STR0004#ALL#Matricula
+0005#STR0005#ALL#Centro de Custo
+0006#STR0006#ALL#Nome
+0007#STR0007#ALL#Turno
+0008#STR0008#ALL#Zebrado
+0009#STR0009#ALL#Administraçäo
+0010#STR0011#ALL#Codigos do Ponto
+0011#STR0012#ALL#Periodo de: 
+0012#STR0013#ALL#Func..: 
+0013#STR0014#ALL#  Chapa: 
+0014#STR0015#ALL#C.C.: 
+0015#STR0016#ALL#Funcao: 
+0016#STR0017#ALL#Hr.Mes: 
+0017#STR0018#ALL# Categ.: 
+0018#STR0019#ALL#Tur.: 
+0019#STR0020#ALL#Filial: 
+0020#STR0021#ALL# C.Custo: 
+0021#STR0022#ALL# Turno: 
+0022#STR0023#ALL#Empresa: 
+0023#STR0024#ALL#A U T O R I Z A D O
+0024#STR0025#ALL#N A O   A U T O R I Z A D O
+0025#STR0026#ALL# Cod Descricao        Calc.    Infor.|
+0026#STR0027#ALL# Cod Descricao        Calc.    Infor.
+0027#STR0028#ALL#C.Custo+Nome
+0028#STR0029#ALL#Selecione a oção de impressão: 
+0029#STR0030#ALL#Por Período
+0030#STR0031#ALL#Por Datas: 
+0031#STR0032#ALL#Processo: 
+0032#STR0033#ALL#Período: 
+0033#STR0034#ALL#Roteiro: 
+0034#STR0035#ALL#Num. Pagto: 
+0035#STR0036#ALL#Departamento 
+0036#STR0037#ALL#Depto.: 

@@ -1,0 +1,21 @@
+0001#STR0001#ALL#Relacao de Enderecos para Embarque
+0002#STR0002#ALL#Emite Relacao de Enderecos para Embarque
+0003#STR0003#ALL#conforme os parametros informados
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#SelecionAndo Registros...
+0007#STR0007#ALL#Selecionando Registro no DUH...
+0008#STR0008#ALL#REGIAO DE ORIGEM               ARMAZEM ENDERECO        NOTAS DOCUMENTOS VOLUME DATA     HORA          PESO VALOR DA MERCADORIA 
+0009#STR0009#ALL#FILIAL DE DESTINO: 
+0010#STR0010#ALL# - 
+0011#STR0011#ALL#CANCELADO PELO OPERADOR
+0012#STR0012#ALL#TOTAL POR FILIAL DE DESTINO ===> 
+0013#STR0013#ALL#TOTAL GERAL DO RELATORIO ===> 
+0014#STR0014#ALL#Relacao de Enderecos para Embarque
+0015#STR0015#ALL#Emite Relacao de Enderecos para Embarque conforme os parametros informados
+0016#STR0016#ALL#Filial Destino + Região Origem
+0017#STR0017#ALL#Filial Destino
+0018#STR0018#ALL#Região Origem
+0019#STR0019#ALL#Endereços
+0020#STR0020#ALL#Notas
+0021#STR0021#ALL#Documentos

@@ -1,0 +1,25 @@
+0001#STR0001#ALL#Este relatório ira imprimir a relaçäo de cheques emitidos,
+0002#STR0002#ALL#Por Ordem Numérica/emissão
+0003#STR0003#ALL#Relação de Cheques emitidos.
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#Relação De Cheques
+0007#STR0007#ALL#Número                   Valor  Emissão     Beneficiário                              Histórico                                St.ch
+0009#STR0009#ALL#Por Emissão
+0010#STR0010#ALL#Cancelado Pelo Operador
+0013#STR0013#ALL#Sub-total ----> 
+0014#STR0014#ALL#Total geral --> 
+0015#STR0015#ALL#Total cheques-> 
+0016#STR0016#ALL#Número                   Valor  Emissão     Vencto.  Beneficiário                              Historico
+0017#STR0017#ALL#Número                   Valor  Emissão   Vencto.  Cliente Emissor                             Histórico
+0018#STR0018#ALL#Número                   Valor  Emissão   Vencto.  Cliente Beneficiário/emitente                Histórico                      St.ch
+0019#STR0019#ALL#Número                   Valor  Emissão  Vencto.  Beneficiário/emitente                     Histórico                          St.ch
+0021#STR0021#ALL#Est.ch - Estado Do Cheque
+0022#STR0022#ALL#B - bloqueado 
+0023#STR0023#ALL#L - autorizado 
+0024#STR0024#ALL#Número
+0026#STR0026#ALL#Emissão
+0028#STR0028#ALL#Cliente Beneficiário/emissor
+0029#STR0029#ALL#Histórico
+0030#STR0030#ALL#St.ch
+0031#STR0031#ALL#Descrição Do Cheque

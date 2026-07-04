@@ -1,0 +1,42 @@
+0001#STR0001#ALL#PreImpreso
+0002#STR0002#ALL#Administracion
+0003#STR0003#ALL#Estado de CTAS por COBRAR
+0004#STR0004#ALL#No se encontraron datos segun los parametros ingresados
+0005#STR0005#ALL#Codigo     Nom. / Razon Social               Tipo Documento         Fcha        Fcha               Debitos       Creditos          Saldo
+0006#STR0006#ALL#                                             Doc.                   Emision     Vto.                                           Acumulado
+0007#STR0007#ALL#Codigo     Nom. / Razon Social                                                                     Debitos       Creditos          Saldo
+0008#STR0008#ALL#                                                                                                                               Acumulado
+0009#STR0009#ALL#Saldos al: 
+0010#STR0010#ALL#SUBTOTALES DEL CLIENTE 
+0011#STR0011#ALL#TOTALES GENERALES:
+0012#STR0012#ALL#De Cliente     
+0013#STR0013#ALL#A Cliente     
+0014#STR0014#ALL#De Fecha       
+0015#STR0015#ALL#A Fecha       
+0016#STR0016#ALL#Analitico         
+0017#STR0017#ALL#Imprime Saldo Cero
+0018#STR0018#ALL#Ordenado Por      
+0019#STR0019#ALL#Pagina por Cliente
+0020#STR0020#ALL#Formato           
+0021#STR0021#ALL#Fecha Referencia  
+0022#STR0022#ALL#Analitico
+0023#STR0023#ALL#Si
+0024#STR0024#ALL#Codigo
+0025#STR0025#ALL#No
+0026#STR0026#ALL#Normal
+0027#STR0027#ALL#Emision
+0028#STR0028#ALL#Resumen
+0029#STR0029#ALL#R. Social
+0030#STR0030#ALL#Archivo
+0031#STR0031#ALL#Vencimiento
+0032#STR0032#ALL#Saldo Inicial
+0033#STR0033#ALL#Fch. de 
+0034#STR0034#ALL#Vencimien.
+0035#STR0035#ALL#Debitos
+0036#STR0036#ALL# Creditos
+0037#STR0037#ALL#Acumulados
+0038#STR0038#ALL#Saldo
+0039#STR0039#ALL#Clientes
+0040#STR0040#ALL#Movimient.
+0041#STR0041#ALL# - En 
+0042#STR0042#ALL#Diario CTB

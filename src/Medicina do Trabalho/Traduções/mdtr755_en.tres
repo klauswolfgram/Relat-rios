@@ -1,0 +1,33 @@
+0001#STR0001#ALL#Display the Data According to the Information Related to the Medical Agenda
+0002#STR0002#ALL#Z-Form
+0003#STR0003#ALL#Administration
+0004#STR0004#ALL#Medical Schedule Report
+0005#STR0005#ALL#User   : 
+0006#STR0006#ALL#Period From?
+0007#STR0007#ALL#Period to?
+0008#STR0008#ALL#Consider:
+0009#STR0009#ALL#All
+0010#STR0010#ALL#Attended
+0011#STR0011#ALL#Not-Attended
+0012#STR0012#ALL#Form        Name                            Query Date  Query Time Exam                       Reason                    Note                                      Performed?
+0013#STR0013#ALL#     Observat. 
+0014#STR0014#ALL#User   :  
+0015#STR0015#ALL#User
+0016#STR0016#ALL#Medical rec.
+0017#STR0017#ALL#Name
+0018#STR0018#ALL#Query Date
+0019#STR0019#ALL#Query Time
+0020#STR0020#ALL#Exam 
+0021#STR0021#ALL#Reason
+0022#STR0022#ALL#Note:       
+0023#STR0023#ALL#Print?
+0024#STR0024#ALL#Medical rec.
+0025#STR0025#ALL#Registr. 
+0026#STR0026#ALL#Both 
+0027#STR0027#ALL#Registration    Name                             Query Date Query Time  Exam                       Reason                    Note                                      Performed?
+0028#STR0028#ALL#Form      Regist  Name                            Query Date Query Time Exam                       Reason                    Note                                      Performed?
+0029#STR0029#ALL#Reg. 
+0030#STR0030#ALL#Performed?
+0031#STR0031#ALL#Form        Name                            Query Date  Query Time Exam                       Reason                    Note                                      
+0032#STR0032#ALL#Registration        Name                            Query Date  Query Time Exam                       Reason                    Note
+0033#STR0033#ALL#Form      Regist  Name                            Query Date  Query Time Exam                       Reason                    Note

@@ -1,0 +1,17 @@
+0001#STR0001#ALL#Este programa emite diariamente un Kardex con todos los 
+0002#STR0002#ALL#movimientos del stock por Localizacion y Numero de Serie.
+0003#STR0003#ALL#Kardex por Ubicacion (por producto)
+0004#STR0004#ALL#A Rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#PRODUCTO         DESCRIPCION                   DEPOS DIRECCION       NUMERO DE SERIE      LOTE       SUBLOTE FECHA MOVIM   DOCUMENTO  SERIE STO SALDO INICIAL          ENTRADA        SALIDA         SALDO
+0007#STR0007#ALL#ANULADO POR EL OPERADOR
+0008#STR0008#ALL#Selecionando Registros...
+0009#STR0009#ALL#Documento
+0010#STR0010#ALL#Serie
+0011#STR0011#ALL#Est
+0012#STR0012#ALL#Saldo Inicial
+0013#STR0013#ALL#Entrada
+0014#STR0014#ALL#Salida
+0015#STR0015#ALL#Saldo
+0016#STR0016#ALL#Movim. por Ubicacion
+0017#STR0017#ALL#No hubo movimiento para este producto

@@ -1,0 +1,13 @@
+0001#STR0001#ALL#Este programa tem como objectivo
+0002#STR0002#ALL#Imprimir a qtd. de recibos pendentes
+0003#STR0003#ALL#Rel. De Recibos Pendentes Por Credor
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#Talão      Data       Tipo          Número Inicial   Número Final      Qtd.pend
+0007#STR0007#ALL#A Seleccionar Registos...
+0008#STR0008#ALL#Oficial
+0009#STR0009#ALL#Provisório
+0010#STR0010#ALL#Qtd. de talões 
+0011#STR0011#ALL#Qtd de recibos pendentes 
+0013#STR0013#ALL#Talões
+0015#STR0015#ALL#Este relatório está disponível só para outros países.

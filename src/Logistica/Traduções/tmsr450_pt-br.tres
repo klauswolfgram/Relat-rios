@@ -1,0 +1,27 @@
+0001#STR0001#ALL#Rentabilidade x km rodado
+0002#STR0002#ALL#Emite a relacao de Rentabilidade x km rodado
+0003#STR0003#ALL#conforme os parametros informados
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#CANCELADO PELO OPERADOR
+0007#STR0007#ALL#Viagem    Tipo        Km Inicial Inicio        Km Final Fim          Total Km       Vlr.Frete    R$ / KM Rota
+0008#STR0008#ALL#Veiculo: 
+0009#STR0009#ALL#Placa: 
+0010#STR0010#ALL#Descricao: 
+0011#STR0011#ALL#Frota: 
+0012#STR0012#ALL#Proprietario: 
+0013#STR0013#ALL#                                                                     Total Km       Vlr.Frete    R$ / KM
+0014#STR0014#ALL#Total do Veiculo: 
+0015#STR0015#ALL#Placa: 
+0016#STR0016#ALL#Media R$ / dia: 
+0017#STR0017#ALL#Total do Periodo: 
+0018#STR0018#ALL#Rentabilidade x km rodado
+0019#STR0019#ALL#Emite a relacao de Rentabilidade x km rodado conforme os parametros informados
+0020#STR0020#ALL#Veículo + Fil. Origem + Viagem
+0021#STR0021#ALL#Veículo
+0022#STR0022#ALL#Total KM
+0023#STR0023#ALL#Vlr.Frete
+0024#STR0024#ALL#R$ / KM
+0025#STR0025#ALL#Total Veículo
+0026#STR0026#ALL#Total Frete
+0027#STR0027#ALL#Viagem

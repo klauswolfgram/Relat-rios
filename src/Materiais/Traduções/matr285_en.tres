@@ -1,0 +1,50 @@
+0001#STR0001#ALL#Inventoried Items Report
+0002#STR0002#ALL#It prints a list that shows the Inventory Balance and all the 
+0003#STR0003#ALL#accounts carried out in inventory. Based on these two 
+0004#STR0004#ALL#informations, it calculates the difference between them.
+0005#STR0005#ALL# By Code      
+0006#STR0006#ALL# By Type      
+0007#STR0007#ALL# By Group     
+0008#STR0008#ALL# By Descript. 
+0009#STR0009#ALL# By Warehouse 
+0010#STR0010#ALL#Z.Form
+0011#STR0011#ALL#Management
+0012#STR0012#ALL#PRODUCT(S)
+0013#STR0013#ALL#CODE            DESCRIPTION                    LOT        SUB    TP GRP MU STO DOCUMENT          QUANTITY           QTY ON DATE       _____________DIFFEREN.______________
+0014#STR0014#ALL#                                                          LOT                                   INVENTORIED        OF INVENTORY          QUANTITY                VALUE
+0015#STR0015#ALL#Selecting Records...     
+0016#STR0016#ALL#CANCELLED BY THE OPERATOR  
+0017#STR0017#ALL#TOTAL ............
+0018#STR0018#ALL#TOTAL OF TYPE 
+0019#STR0019#ALL#TOTAL OF GROUP 
+0020#STR0020#ALL#TOTAL OF DIFFERENCES IN VALUE.........
+0021#STR0021#ALL#CODE            DESCRIPTION                    TP GRP MU STO DOCUMENT          QUANTITY           QTY ON DATE       _______________DIFFEREN._____________
+0022#STR0022#ALL#                                                                              INVENTORIED        OF INVENTORY          QUANTITY                VALUE
+0023#STR0023#ALL#CODE            DESCRIPTION                    LOT        SUB    ADDRESS         SERIAL NUMBER        TP GRP MU STO DOCUMENT          QUANTITY           QTY ON DATE       _____________DIFFEREN.______________
+0024#STR0024#ALL#                                                          LOT                                                                       INVENTORIED         OF INVENTORY          QUANTITY                VALUE
+0025#STR0025#ALL#CODE            DESCRIPTON                     ADDRESS         SERIAL NUMBER        TP GRP MU STO DOCUMENT          QUANTITY           QTY ON DATE       _______________DIFFEREN._____________
+0026#STR0026#ALL#                                                                                                                   INVENTORIED        OF INVENTORY           QUANTITY                VALUE
+0027#STR0027#ALL#CODE
+0028#STR0028#ALL#DESCRIPT.
+0029#STR0029#ALL#LOT
+0030#STR0030#ALL#SUB
+0031#STR0031#ALL#LOCALIZATION
+0032#STR0032#ALL#SERIAL NUMBER  
+0033#STR0033#ALL#TP
+0034#STR0034#ALL#GROUP
+0035#STR0035#ALL#MU
+0036#STR0036#ALL#WRH
+0037#STR0037#ALL#DOCUMENT
+0038#STR0038#ALL#QUANTITY
+0039#STR0039#ALL#INVENTORIED 
+0040#STR0040#ALL#QTY IN DATE
+0041#STR0041#ALL#OF INVENTORY 
+0042#STR0042#ALL#DIFFEREN.
+0043#STR0043#ALL#QUANTITY  
+0044#STR0044#ALL#VALUE
+0045#STR0045#ALL#T o t a l :
+0046#STR0046#ALL#SubTotal of Type : 
+0047#STR0047#ALL#SubTotal of Group : 
+0048#STR0048#ALL#Warehouse Sub Total : 
+0049#STR0049#ALL#G r a n d  t o t a l :
+0050#STR0050#ALL#Inventory entries        

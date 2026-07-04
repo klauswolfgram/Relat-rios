@@ -1,0 +1,20 @@
+0001#STR0001#ALL#Protocol Report
+0002#STR0002#ALL#Prot. No.
+0003#STR0003#ALL#Type
+0004#STR0004#ALL#Customer
+0005#STR0005#ALL#Contact
+0006#STR0006#ALL#Address
+0007#STR0007#ALL#Invoices
+0008#STR0008#ALL#Notes
+0009#STR0009#ALL#Copy
+0010#STR0010#ALL#Dispatch Date
+0011#STR0011#ALL#Receipt Date
+0012#STR0012#ALL#Recipient
+0013#STR0013#ALL#Note
+0014#STR0014#ALL#Pré-Faturamento Serviços
+0015#STR0015#ALL#Relatório de Listagem de Protocolos
+0016#STR0016#ALL#Objeto de Negócio para gerar o relatório de listagem de protocolos
+0017#STR0017#ALL#Acesso Restrito
+0018#STR0018#ALL#Usuário com restrição de acesso a dados pessoais/sensíveis.
+0019#STR0019#ALL#Dicionário de dados desatualizado!
+0020#STR0020#ALL#Grupo de perguntas JURR074B não encontrado.

@@ -1,0 +1,43 @@
+0001#STR0001#ALL#Emis del inf comparat entre Presupuestados vs. Reales.
+0002#STR0002#ALL#Se analizara el ANO de refer. de la fecha base
+0003#STR0003#ALL#A Rayas
+0004#STR0004#ALL#Administrac.
+0005#STR0005#ALL#Mapa Compar.-Valores Prsptados vs. Reales en 
+0006#STR0006#ALL#Cod Modalidad   Descripcion                         Enero       Febrero           Marzo         Abril          Mayo         Junio         Julio        Agosto      Septiembre     Octubre      Noviembre    Diciembre
+0007#STR0007#ALL#Seleccionando registros..
+0008#STR0008#ALL#   PRESUP.
+0009#STR0009#ALL# REALIZADO
+0010#STR0010#ALL#A REALIZAR
+0011#STR0011#ALL#      Real
+0012#STR0012#ALL#% VARIAC.
+0013#STR0013#ALL#T O T A L 
+0014#STR0014#ALL#RESUM.
+0015#STR0015#ALL#Entradas
+0016#STR0016#ALL#Sdas.
+0017#STR0017#ALL#Saldos
+0018#STR0018#ALL#Situac. de cobranza
+0019#STR0019#ALL#Mapa
+0020#STR0020#ALL#Cod Modalid
+0021#STR0021#ALL#Descripc.
+0022#STR0022#ALL#Enero
+0023#STR0023#ALL#Febrero
+0024#STR0024#ALL#Marzo
+0025#STR0025#ALL#Abril
+0026#STR0026#ALL#Mayo
+0027#STR0027#ALL#Junio
+0028#STR0028#ALL#Julio
+0029#STR0029#ALL#Agosto
+0030#STR0030#ALL#Septiemb
+0031#STR0031#ALL#Octubre
+0032#STR0032#ALL#Noviemb.
+0033#STR0033#ALL#Diciemb.
+0034#STR0034#ALL#Resum.
+0035#STR0035#ALL# de 
+0036#STR0036#ALL#Creando archivo temporal de trabajo
+0037#STR0037#ALL#Sucursal : 
+0038#STR0038#ALL#Codigo
+0039#STR0039#ALL#Empresa
+0040#STR0040#ALL#Unidad de negocio
+0041#STR0041#ALL#Sucursal
+0042#STR0042#ALL#Sucursales seleccionadas para el informe
+0043#STR0043#ALL#RESERVADO

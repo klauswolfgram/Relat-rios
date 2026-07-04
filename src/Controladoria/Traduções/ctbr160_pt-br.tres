@@ -1,0 +1,52 @@
+0001#STR0001#ALL#Este programa ira imprimir o Balanco Geral Modelo 2 (220) Colunas.
+0002#STR0002#ALL#A conta eh impressa limitando-se a 70 caracteres e sua descricao 70 caracteres,
+0003#STR0003#ALL#sao tambem impressos colunas do saldo a debito e a credito do periodo.
+0004#STR0004#ALL#Balanco Geral
+0005#STR0005#ALL#Zebrado
+0006#STR0006#ALL#Administracao
+0007#STR0007#ALL#|                             C O N T A                                 |                  D E N O M I N A C A O                               |                              S  A  L  D  O  S                             |
+0008#STR0008#ALL#|                                                                       |                                                                      |            D E B I T O              |          C R E D I T O              |
+0008#STR0008#ANG#|                                                                       |                                                                      |            D E B I T O              |          C R E D I T O              |
+0008#STR0008#EQU#|                                                                       |                                                                      |            D E B I T O              |          C R E D I T O              |
+0008#STR0008#HAI#|                                                                       |                                                                      |            D E B I T O              |          C R E D I T O              |
+0008#STR0008#MEX#|                                                                       |                                                                      |            D E B I T O              |          C R E D I T O              |
+0008#STR0008#PTG#|                                                                       |                                                                      |            D E B I T O              |          C R E D I T O              |
+0009#STR0009#ALL#BALANCO GERAL SINTETICO DE 
+0010#STR0010#ALL#BALANCO GERAL ANALITICO DE 
+0011#STR0011#ALL#BALANCO GERAL DE 
+0012#STR0012#ALL# ATE 
+0013#STR0013#ALL# EM 
+0014#STR0014#ALL# (ORCADO)
+0015#STR0015#ALL# (GERENCIAL)
+0016#STR0016#ALL#...Criando arquivo temporario...
+0017#STR0017#ALL#*** Cancelado pelo Operador ***
+0018#STR0019#ALL#DEBITO A MAIOR: 
+0018#STR0019#ANG#DEBITO A MAIOR: 
+0018#STR0019#EQU#DEBITO A MAIOR: 
+0018#STR0019#HAI#DEBITO A MAIOR: 
+0018#STR0019#MEX#DEBITO A MAIOR: 
+0018#STR0019#PTG#DEBITO A MAIOR: 
+0019#STR0020#ALL#CREDITO A MAIOR: 
+0019#STR0020#ANG#CREDITO A MAIOR: 
+0019#STR0020#EQU#CREDITO A MAIOR: 
+0019#STR0020#HAI#CREDITO A MAIOR: 
+0019#STR0020#MEX#CREDITO A MAIOR: 
+0019#STR0020#PTG#CREDITO A MAIOR: 
+0020#STR0021#ALL#T O T A I S  D O  G R U P O (
+0021#STR0022#ALL#T O T A I S : 
+0022#STR0023#ALL#C O N T A
+0023#STR0024#ALL#D E N O M I N A C A O
+0024#STR0026#ALL#D E B I T O
+0024#STR0026#ANG#D E B I T O
+0024#STR0026#EQU#D E B I T O
+0024#STR0026#HAI#D E B I T O
+0024#STR0026#MEX#D E B I T O
+0024#STR0026#PTG#D E B I T O
+0025#STR0027#ALL#C R E D I T O
+0025#STR0027#ANG#C R E D I T O
+0025#STR0027#EQU#C R E D I T O
+0025#STR0027#HAI#C R E D I T O
+0025#STR0027#MEX#C R E D I T O
+0025#STR0027#PTG#C R E D I T O
+0026#STR0028#ALL#Totais
+0027#STR0029#ALL#S A L D O

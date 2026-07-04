@@ -1,0 +1,17 @@
+0001#STR0001#ALL#The aim of this program is to print the project expenses report according to the parameters informed by the user.
+0002#STR0002#ALL#Project Expenses Report
+0003#STR0003#ALL#Z.Form
+0004#STR0004#ALL#Administration
+0005#STR0005#ALL#DATE              PC Prev Value       Expenses Value    Day Expenses    Accrued Expenses   
+0006#STR0006#ALL#Project : 
+0007#STR0007#ALL#DATE
+0008#STR0008#ALL#Amt. Fore. PC
+0009#STR0009#ALL#Amt. Expenses
+0010#STR0010#ALL#Expenses on
+0011#STR0011#ALL#Accrued Expenses
+0012#STR0012#ALL#Project
+0013#STR0013#ALL#Project expenses   
+0014#STR0014#ALL#Advance Expenses
+0015#STR0015#ALL#Warning
+0016#STR0016#ALL#The question "Reference date?" or "Number of days" is not dully filled!                       
+0017#STR0017#ALL#*** CANCELLED BY THE USER  ***

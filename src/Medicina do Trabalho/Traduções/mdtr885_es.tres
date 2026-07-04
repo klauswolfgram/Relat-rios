@@ -1,0 +1,45 @@
+0001#STR0001#ALL#Informe el cronograma del Plan de Accion. A traves de parametros el usuario podra
+0002#STR0002#ALL#filtrar los responsables de planes(empleado o integrante de la  SESMT), y podra 
+0003#STR0003#ALL#seleccionar un intervalo de ano(s) para visualizar el periodo en que cada plan operara
+0004#STR0004#ALL#A rayas
+0005#STR0005#ALL#Administrac. 
+0006#STR0006#ALL#Cronograma Plan de Accion  
+0007#STR0007#ALL#Responsable.: 
+0008#STR0008#ALL#Plan     Nombre del Plan                 Ini.Prev   Fin Prev  Ano  
+0009#STR0009#ALL#Fecha  'a' debe ser mayor que  'de'
+0010#STR0010#ALL#ATENC. 
+0011#STR0011#ALL#Seleccione intervalo de un ano como maximo
+0012#STR0012#ALL#¿De Cliente?
+0013#STR0013#ALL#Tda.
+0014#STR0014#ALL#¿A Cliente ?
+0015#STR0015#ALL#¿Clasificar Por?
+0016#STR0016#ALL#¿Considerar?
+0017#STR0017#ALL#¿A Fch. Inic. Prevista ?
+0018#STR0018#ALL#¿De Fch. Inic. Prevista?
+0019#STR0019#ALL#¿A Empl. Responsable?
+0020#STR0020#ALL#¿De Empl. Responsable?
+0021#STR0021#ALL#¿A Responsable Sesmt ?
+0022#STR0022#ALL#¿De Responsable Sesmt?
+0023#STR0023#ALL#       Responsable: 
+0024#STR0024#ALL#Cliente/Tda: 
+0025#STR0025#ALL#      Nomb Cliente: 
+0026#STR0026#ALL#Ene
+0027#STR0027#ALL#Feb
+0028#STR0028#ALL#Mar
+0029#STR0029#ALL#Abr
+0030#STR0030#ALL#May
+0031#STR0031#ALL#Jun
+0032#STR0032#ALL#Jul
+0033#STR0033#ALL#Ago
+0034#STR0034#ALL#Sept
+0035#STR0035#ALL#Oct
+0036#STR0036#ALL#Nov
+0037#STR0037#ALL#Dic
+0038#STR0038#ALL#Empleado
+0039#STR0039#ALL#Usuario
+0040#STR0040#ALL#¿De Usuario ?
+0041#STR0041#ALL#¿A Usuario?
+0042#STR0042#ALL#¿De  Empleado ?
+0043#STR0043#ALL#¿A Empleado?
+0044#STR0044#ALL#Codigo del usuario responsable del plan de accion. El campo puede permanecer vacio para que se tenga en cuenta desde el primer código.
+0045#STR0045#ALL#Codigo del usuario responsable del plan de accion. El campo puede rellenarse con la letra Z hasta el final para considerar el ultimo codigo.

@@ -1,0 +1,16 @@
+0001#STR0001#ALL#Report of accidents by type of accident.
+0002#STR0002#ALL#Through the parameters, the user can select the period,
+0003#STR0003#ALL#Cost Center among other options available for better utilization.
+0004#STR0004#ALL#Z-form
+0005#STR0005#ALL#Management
+0006#STR0006#ALL#Accidents by Type
+0007#STR0007#ALL#    Accid.   Date Accid. Mat.      Employee Name               High Date   Cost Center             Role         Obj.  CAT    Leave Date
+0008#STR0008#ALL#       Detailed description of accident
+0009#STR0009#ALL#CANCELED BY OPERATOR
+0010#STR0010#ALL#Type of Accident: 
+0011#STR0011#ALL#None
+0012#STR0012#ALL# Days
+0013#STR0013#ALL#Total of days on leave............: 
+0014#STR0014#ALL#Gross total of days on leave......: 
+0015#STR0015#ALL#Customer
+0016#STR0016#ALL#Store

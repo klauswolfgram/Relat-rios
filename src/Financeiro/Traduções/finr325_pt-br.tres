@@ -1,0 +1,14 @@
+0001#STR0001#ALL#Relatório com relacão de clientes, ordenados
+0002#STR0002#ALL#pela sequência de atendimento, na qual o 
+0003#STR0003#ALL#cobrador utilizara em visita a campo.
+0004#STR0004#ALL#Clientes X Cobrador
+0005#STR0005#ALL#    (Código) Cobrador
+0006#STR0006#ALL#             Sequência  CodCli-Fil. Cliente
+0007#STR0007#ALL#Selecionando Registros...
+0008#STR0008#ALL#Código do cobrador
+0009#STR0009#ALL#Nome do cobrador
+0010#STR0010#ALL#Cobradores
+0011#STR0011#ALL#Quantidade
+0012#STR0012#ALL#Zebrado
+0013#STR0013#ALL#Administração
+0014#STR0014#ALL#*** CANCELADO PELO OPERADOR***

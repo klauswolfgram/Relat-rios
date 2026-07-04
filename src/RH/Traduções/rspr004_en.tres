@@ -1,0 +1,29 @@
+0001#STR0001#ALL#List of vacancies
+0002#STR0002#ALL#It will be printed according to the parameters selected by   
+0003#STR0003#ALL#the User.
+0004#STR0004#ALL#Positions Available
+0005#STR0005#ALL#Area
+0006#STR0006#ALL#Customer
+0007#STR0007#ALL#Z.Form 
+0008#STR0008#ALL#Management
+0009#STR0009#ALL#List of Positions Available
+0010#STR0010#ALL#Position Available                                           Applicant                        Pos.  Deadl Open.Dt.   Closing Dt.Clos. Value           Area                       Customer Selective process
+0011#STR0011#ALL#Including Breaks of Cost Center...
+0012#STR0012#ALL#COST CENTER: 
+0013#STR0013#ALL#** Not Registered **
+0014#STR0014#ALL#Vacancies
+0015#STR0015#ALL#Op. date 
+0016#STR0016#ALL#Clsng date
+0017#STR0017#ALL#Close
+0018#STR0018#ALL#Value
+0019#STR0019#ALL#Selection Process
+0020#STR0020#ALL#Role
+0021#STR0021#ALL#No. of positions
+0022#STR0022#ALL#Responsible party
+0023#STR0023#ALL#Term
+0024#STR0024#ALL#Cost of position
+0025#STR0025#ALL#Requester
+0026#STR0026#ALL#Process
+0027#STR0027#ALL#Station
+0028#STR0028#ALL#Type of position
+0029#STR0029#ALL#Closed positions

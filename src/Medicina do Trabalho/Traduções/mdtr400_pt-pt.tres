@@ -1,0 +1,48 @@
+0004#STR0004#ALL#Código de barras
+0007#STR0007#ALL#Cancelado Pelo Operador
+0011#STR0011#ALL#Dep.: 
+0020#STR0020#ALL#Não
+0025#STR0025#ALL#Cig/dia...: 
+0028#STR0028#ALL#Ficha.ant.: 
+0041#STR0041#ALL#Mudanca função
+0043#STR0043#ALL#Demissional ® De demissão
+0045#STR0045#ALL#Atend. Clínico
+0046#STR0046#ALL#Doenca do trabalho
+0047#STR0047#ALL#Acidente tipico
+0050#STR0050#ALL#Avaliação nr7
+0054#STR0054#ALL#Ficha Médica:
+0055#STR0055#ALL#Implantação:
+0056#STR0056#ALL#Registo:
+0061#STR0061#ALL#Ul.doação:
+0064#STR0064#ALL#Fumador:
+0065#STR0065#ALL#Cigarro/dia:
+0068#STR0068#ALL#Programas De Saúde
+0069#STR0069#ALL#Início
+0070#STR0070#ALL#Término
+0073#STR0073#ALL#Descrição Do Resultado
+0077#STR0077#ALL#Restrições
+0078#STR0078#ALL#Doenças
+0079#STR0079#ALL#Diagnósticos
+0081#STR0081#ALL#Diagnóstico Médico
+0082#STR0082#ALL#Atend. Médico
+0084#STR0084#ALL#Data Da Consulta
+0086#STR0086#ALL#Localidade....:
+0087#STR0087#ALL#Complemento da morada:
+0088#STR0088#ALL#Morada:
+0089#STR0089#ALL#Localidade:
+0090#STR0090#ALL#Cliente/loja: 
+0091#STR0091#ALL#De cliente ?
+0093#STR0093#ALL#Até cliente ?
+0094#STR0094#ALL#Código  do cliente. o campo pode permanecer vazio para considerar desde o primeiro código.
+0095#STR0095#ALL#Código  da loja do cliente. o campo pode permanecer vazio para considerar desde o primeiro código.
+0096#STR0096#ALL#Código  do cliente. o campo pode ser preenchido com a letra z até  o final para considerar o último código.
+0097#STR0097#ALL#Código  da loja do cliente. o campo pode ser preenchido com a letra z até  o final para considerar o último código.
+0098#STR0098#ALL#Não existe informação para imprimir no relatório.
+0099#STR0099#ALL#Nr de Vias ?
+0100#STR0100#ALL#Modelo Impressão ?
+0108#STR0108#ALL#Programas de Saúde ?
+0110#STR0110#ALL#De  Período ?
+0114#STR0114#ALL#Imprimir vacinas ?
+0117#STR0117#ALL#Informe 'Sim' caso queira imprimir a(s) vacinas(s). Caso não seja(m) impressa(s), será devido a falta de registo(s) gravado(s).
+0118#STR0118#ALL#Vacinas aplicadas                                     Data                   Dose
+0119#STR0119#ALL#Vacinas aplicadas

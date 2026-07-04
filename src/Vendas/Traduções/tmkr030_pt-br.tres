@@ -1,0 +1,28 @@
+0001#STR0001#ALL#Listagem de Operadores por Grupo de Atendimento
+0002#STR0002#ALL#Este Programa irá emitir uma listagem de todos os Operadores
+0003#STR0003#ALL#agupados por Grupo de Atendimento
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#Selecionando Registros...
+0007#STR0007#ALL#CANCELADO PELO OPERADOR
+0008#STR0008#ALL#Grupo
+0009#STR0009#ALL#Descrição
+0010#STR0010#ALL#T.M.Atendimento
+0011#STR0011#ALL#Ligações
+0012#STR0012#ALL#Hardware
+0013#STR0013#ALL#Linha Externa
+0014#STR0014#ALL#Operadora do UF
+0015#STR0015#ALL#Operad. Fora UF
+0016#STR0016#ALL#Envia e-mail
+0017#STR0017#ALL#Envia Tarefa
+0018#STR0018#ALL#Config. TMK
+0019#STR0019#ALL#Estação
+0020#STR0020#ALL#Desconto
+0021#STR0021#ALL#Acréscimo
+0022#STR0022#ALL#Avalia Crédito
+0023#STR0023#ALL#Avalia Estoque
+0024#STR0024#ALL#Código   Nome                             Nome Reduzido          Endereço                         Bairro            Cidade            UF   CEP          Atendimento       Vendedor          Reg  Habilidade             Pend
+0025#STR0025#ALL#Não há informações para imprimir este relatório de acordo com os parâmetros informados
+0026#STR0026#ALL#Habilidade
+0027#STR0027#ALL#Campanhas
+0028#STR0028#ALL#Operadores

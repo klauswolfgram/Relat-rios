@@ -1,0 +1,17 @@
+0001#STR0001#ALL#Este informe imprimira las cantidades previstas para la ejecucion del Presup. de acuerdo con los parametros solicitados. 
+0002#STR0002#ALL#Cuantitativos previstos
+0003#STR0003#ALL#PRESUPUESTO+PRODUCTO+GASTO
+0004#STR0004#ALL#TAREA+PRODUCTO+GASTO
+0005#STR0005#ALL#A rayas
+0006#STR0006#ALL#Administracion
+0007#STR0007#ALL#Tp.  Codigo            Descripcion                               UM          Cantidad                    Valor   %Proy.     %Acum.
+0008#STR0008#ALL#Tarea        Descripcion          Tp. Codigo           Descripcion          UM        Cantidad           Valor      %Proy.  %Acum.
+0009#STR0009#ALL#Presup.  : 
+0010#STR0010#ALL#Total.....
+0011#STR0011#ALL#Codigo de la Tarea                Tp. Codigo           Descripcion          UM      Cantidad             Valor      %Proy.  %Acum.
+0012#STR0012#ALL#Descripcion de la Tarea           Tp. Codigo           Descripcion          UM      Cantidad             Valor      %Proy.  %Acum.
+0013#STR0013#ALL#Presup. 
+0014#STR0014#ALL#Presup. + Producto + Gasto
+0015#STR0015#ALL#Tarea + Producto + Gasto
+0016#STR0016#ALL#Orden: 
+0017#STR0017#ALL#*** ANULADO POR EL USUARIO ***

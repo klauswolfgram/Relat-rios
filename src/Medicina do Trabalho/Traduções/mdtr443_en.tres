@@ -1,0 +1,43 @@
+0001#STR0001#ALL#Report to be printed displaying the audiometry exam results.
+0002#STR0002#ALL#Through the parameters the user can select: Required Period
+0003#STR0003#ALL#and the cost centers that will be printed
+0004#STR0004#ALL#Z.Form
+0005#STR0005#ALL#Administration
+0006#STR0006#ALL#Audiometry Exam Results
+0007#STR0007#ALL#Reg.    Name                            Dt.Birth  Admission  Exam Dt. Right Ear                        Left Ear       
+0008#STR0008#ALL#Cost Center: 
+0009#STR0009#ALL#Acceptable Limits
+0010#STR0010#ALL#PAIR Suggestive
+0011#STR0011#ALL#Not PAIR Suggestive
+0012#STR0012#ALL#Unchaining Suggestive
+0013#STR0013#ALL#Aggravation Suggestive
+0014#STR0014#ALL#Total of Exams at the Sector........: 
+0015#STR0015#ALL#Acceptable Limits.........: 
+0016#STR0016#ALL#PAIR Suggestive.........: 
+0017#STR0017#ALL#Not PAIR Suggestive.....: 
+0018#STR0018#ALL#Unchaining Suggestive....: 
+0019#STR0019#ALL#Aggravation Suggestive...: 
+0020#STR0020#ALL#Total of Exams at the Branch.........: 
+0021#STR0021#ALL#Total of Exams for the Customer........: 
+0022#STR0022#ALL#No information to print in the report.
+0023#STR0023#ALL#Customer/Unit: 
+0024#STR0024#ALL#Requires Interpretation
+0025#STR0025#ALL#Acceptable Thresholds
+0026#STR0026#ALL#PAIR Suggestive
+0027#STR0027#ALL#Not PAIR Suggestive
+0028#STR0028#ALL#Unchaining Suggestive
+0029#STR0029#ALL#Hearing Loss
+0030#STR0030#ALL#Requires Interpretation......: 
+0031#STR0031#ALL#Acceptable Thresholds.......: 
+0032#STR0032#ALL#PAIR Suggestive.........: 
+0033#STR0033#ALL#Not PAIR Suggestive.....: 
+0034#STR0034#ALL#Unchaining Suggestive: 
+0035#STR0035#ALL#Aggravation Suggestive..: 
+0036#STR0036#ALL#Hearing Loss..........: 
+0037#STR0037#ALL#To Date?
+0038#STR0038#ALL#From Date?
+0039#STR0039#ALL#To Cost Center?
+0040#STR0040#ALL#From Cost Center?
+0041#STR0041#ALL#From Customer?
+0042#STR0042#ALL#Unit
+0043#STR0043#ALL#To Customer?

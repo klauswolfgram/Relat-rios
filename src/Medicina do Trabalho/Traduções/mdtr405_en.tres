@@ -1,0 +1,13 @@
+0001#STR0001#ALL#Medication presentation report, the user may list all of them            
+0002#STR0002#ALL#or only those with the current stock quantity lower than the             
+0003#STR0003#ALL#minimum quantity.    Option available through the parameters button.     
+0004#STR0004#ALL#Management
+0005#STR0005#ALL#Medication
+0006#STR0006#ALL#Code           Medication Name                        Current Qty.   Minimum Qty.     Un.Meas.
+0007#STR0007#ALL#CANCELED BY OPERATOR 
+0008#STR0008#ALL#Z-form
+0009#STR0009#ALL#Code           Medication Name                      Amount Current  Amount Minimal     Difference   Avg.Un
+0010#STR0010#ALL#Only below minimum stock?
+0011#STR0011#ALL#No
+0012#STR0012#ALL#Yes
+0013#STR0013#ALL#Indicates whether all medications must be listed (No) or only the ones whose current balance is lower than the minimum balance allowed in stock (Yes).

@@ -1,0 +1,48 @@
+0001#STR0001#ALL#Impressão de Produção
+0002#STR0002#ALL#Zebrado
+0003#STR0003#ALL#Administracao
+0004#STR0004#ALL#Produção
+0005#STR0005#ALL#Copia da Nota Fiscal
+0006#STR0006#ALL#Relatório de Produção
+0007#STR0007#ALL#Centro de Custo/Funcao
+0008#STR0008#ALL#Pecas R$ ---- Pecas MF ----- Srvs R$ ----- Srvs MF ----- Veics R$ --- Veics MF
+0009#STR0009#ALL#Total Geral 
+0010#STR0010#ALL#Total de 
+0011#STR0011#ALL#Pecas   
+0012#STR0012#ALL#Servicos
+0013#STR0013#ALL#Veiculos
+0014#STR0014#ALL#Total do Dia 
+0015#STR0015#ALL#Total Nf 
+0016#STR0016#ALL#Valores de Serviços sem Produtivos Apontados
+0017#STR0017#ALL# ......................
+0018#STR0018#ALL#Continua na página posterior...
+0019#STR0019#ALL#Total dos Serviços não Apontados                 
+0020#STR0020#ALL#Data Inicial ?
+0021#STR0021#ALL#Data Final ?
+0022#STR0022#ALL#Centro Custo Inicia ?
+0023#STR0023#ALL#Centro Custo Final ?
+0024#STR0024#ALL#Função Inicial ?
+0025#STR0025#ALL#Função Final ?
+0026#STR0026#ALL#Funcionário Inicial ?
+0027#STR0027#ALL#Funcionário Final ?
+0028#STR0028#ALL#Valores ?
+0029#STR0029#ALL#Moeda Corrent
+0030#STR0030#ALL#Moeda Forte
+0031#STR0031#ALL#Terceira Moeda
+0032#STR0032#ALL#Quarta Moeda
+0033#STR0033#ALL#Quinta Moeda
+0034#STR0034#ALL#Tipo de Relatório ?
+0035#STR0035#ALL#Resumido
+0036#STR0036#ALL#Sintético
+0037#STR0037#ALL#Analítico
+0038#STR0038#ALL#Tipo de Venda ?
+0039#STR0039#ALL#Peças
+0040#STR0040#ALL#Serviços
+0041#STR0041#ALL#Veículos
+0042#STR0042#ALL#Lancto Comissão
+0043#STR0043#ALL#Tot Forma Pagamento ?
+0044#STR0044#ALL#Sim
+0045#STR0045#ALL#Não
+0046#STR0046#ALL# de 
+0047#STR0047#ALL# até 
+0048#STR0048#ALL#Todos

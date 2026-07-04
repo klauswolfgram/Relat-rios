@@ -1,0 +1,23 @@
+0001#STR0001#ALL#Text File|*.TXT
+0002#STR0002#ALL#Save Search...
+0003#STR0003#ALL#         DGII              | FEDERAL REVENUE                                   
+0004#STR0004#ALL#         IR-4              | GENERAL DIRECTION OF INTERNAL TAXES                             
+0005#STR0005#ALL#                           | FORMAT FOR CALCULATION OF MONTHLY WITHHOLDING OF THE WAGE EARNER
+0006#STR0006#ALL#Withholding Agent
+0007#STR0007#ALL#Period
+0008#STR0008#ALL#Payroll
+0009#STR0009#ALL#Month: 
+0010#STR0010#ALL#Year: 
+0011#STR0011#ALL#From: 
+0012#STR0012#ALL#No.: 
+0013#STR0013#ALL#       IDENTIFICATION OF WAGE EARNER          |                                 COMPENSATION RECEIVED                           |                   SETTLEMENT OF TAX (LAW 11-92)
+0014#STR0014#ALL#                              |              | SALARIES PAID   |COMPENSATIONS |OTHER COMPENSATION PAID |               |SALARIES AND OTHERS |             |                |BALANCE IN FAVOR OF|SAL. IN FAVOR OF
+0015#STR0015#ALL#SURNAMES AND NAMES            |   ID OR      | BY AGENT    |PAID OTHERS  |BY   AGENT   | TOTAL PAID   |PAID SUBJECT TO |  SETTLEMENT  |  BALANCE IN FAVOR  |WAGE EARNER COMP.FUT.WITHH|GENERAL DIRECTION
+0016#STR0016#ALL#      FULL               |  PASSPORT  | OF WITHHOLDING  | EMPLOYERS   |OF WITHHOLDING    |  IN MONTH    |   WITHHOLDING    |    PERIOD    | FROM THE WAGE EARNER |(If H-1 is neg.) |(If H-1 is pos.)
+0017#STR0017#ALL#           A                  |      B       |        C       |       D       |        E       |        F      |        G       |       H       |       I        |        J        |        K       
+0018#STR0018#ALL#(L)Wage earner number      
+0019#STR0019#ALL#(M)Subject to Withholding     
+0020#STR0020#ALL#TOTAL(RD$)
+0021#STR0021#ALL#Fill out cell with the letter (A) in Form.IR-13 
+0022#STR0022#ALL#Take to cashier with letter (B) of Form Income Tax 13
+0023#STR0023#ALL#Period must be entered under the format YYYYMM

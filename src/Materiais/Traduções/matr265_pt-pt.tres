@@ -1,0 +1,34 @@
+0001#STR0001#ALL#Este relatório tem o objectivo de facilitar a retirada de materiais
+0002#STR0002#ALL#Após a facturação de uma factura ou a criação de uma op caso consumam
+0003#STR0003#ALL#Materiais Que Utilizem O Controle De Endereçamento
+0004#STR0004#ALL#Código de barras
+0006#STR0006#ALL#Pick-list Endereçamento
+0007#STR0007#ALL#ARTIGO                                      DESCRIÇÃO                                  UM LOTE       SUB-LOTE LOCALIZAÇÃO   NÚMERO DE SÉRIE      QUANTIDADE     DT VALIDADE   POTÊNCIA
+0008#STR0008#ALL# (factura De Venda)
+0009#STR0009#ALL# (ordem De Produção)
+0010#STR0010#ALL#A selecionar registos ...
+0011#STR0011#ALL#Cancelado Pelo Operador
+0012#STR0012#ALL#Valor da factura: 
+0013#STR0013#ALL#Observação: 
+0014#STR0014#ALL#Cliente/forn.: 
+0015#STR0015#ALL#CONCELHO....: 
+0016#STR0016#ALL#Factura..: 
+0017#STR0017#ALL#Pedido.......: 
+0018#STR0018#ALL#Transporte...: 
+0019#STR0019#ALL#Volume.......: 
+0020#STR0020#ALL#Espécie....: 
+0021#STR0021#ALL#Peso líq.....: 
+0022#STR0022#ALL#Peso bruto.: 
+0023#STR0023#ALL#Ordem de produção: 
+0024#STR0024#ALL#ARTIGO..........: 
+0025#STR0025#ALL#Data prev. início: 
+0026#STR0026#ALL#Data prev. entreg: 
+0027#STR0027#ALL#Quantidade.......: 
+0028#STR0028#ALL#Observação.......: 
+0029#STR0029#ALL#Guia de remessa
+0030#STR0030#ALL#Guia De Despacho
+0031#STR0031#ALL#Remissão
+0032#STR0032#ALL#Conduce
+0033#STR0033#ALL#Cabeçalhos de Facturas de saída
+0034#STR0034#ALL#Ordens de produção
+0036#STR0036#ALL#Alocações

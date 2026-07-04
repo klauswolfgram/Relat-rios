@@ -1,0 +1,70 @@
+0001#STR0001#ALL#Informe que lista las atenciones en enfermeria realizadas, de acuerdo con los parametros elegidos. 
+0002#STR0002#ALL#Es posible elegir el periodo de atencion, los motivos y las atenciones. 
+0003#STR0003#ALL#selecionar el Motivo, Medico y Periodo deseado
+0004#STR0004#ALL#A Rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#Atencion en Enfermeria
+0007#STR0007#ALL#Operador      Medicamento                      Cant.     Unid.
+0008#STR0008#ALL#    Ficha médica    Nombre                                      Motivo                                    Indicación                Hora    Observación
+0009#STR0009#ALL#ANULADO POR EL OPERADOR
+0010#STR0010#ALL#Total Consultas al Motivo 
+0011#STR0011#ALL#Aux. Enf.
+0012#STR0012#ALL#Cod Aux. Enf.
+0013#STR0013#ALL#Atenciones
+0014#STR0014#ALL#Ficha Med.
+0015#STR0015#ALL#Nomb
+0016#STR0016#ALL#Motivo
+0017#STR0017#ALL#Indicac.
+0018#STR0018#ALL#1=Inhalacion;2=Accidente;3=Medicamento;4=Verif. P.A.;5=Verificar Temperatura;6=Medicamento Inyect.;7=Aposito
+0019#STR0019#ALL#Medicamento
+0020#STR0020#ALL#Cant.
+0021#STR0021#ALL#Unid.
+0022#STR0022#ALL#Hora
+0023#STR0023#ALL#Observac.
+0024#STR0024#ALL#Cod Motivo
+0025#STR0025#ALL#Espere
+0026#STR0026#ALL#Procesando las atenciones...
+0027#STR0027#ALL#Fecha:
+0028#STR0028#ALL#Total de Atenciones de 
+0029#STR0029#ALL#Total de Atenc. en la Fecha 
+0030#STR0030#ALL#Total de Atenc. por el motivo 
+0031#STR0031#ALL#Filtrando los registros, espere...
+0032#STR0032#ALL#¿De Fecha de Atencion ?
+0033#STR0033#ALL#¿A Fecha de Atencion ?
+0034#STR0034#ALL#¿De Motivo?
+0035#STR0035#ALL#¿A Motivo ?
+0036#STR0036#ALL#¿De Aux. Enf.?
+0037#STR0037#ALL#¿A Aux. Enf. ?
+0038#STR0038#ALL#¿Totalizar por ?
+0039#STR0039#ALL#1-Aux. Enf.
+0040#STR0040#ALL#2-Motivo Atenc.
+0041#STR0041#ALL#1=Inhalac.
+0042#STR0042#ALL#2=Accident
+0043#STR0043#ALL#3=Medicamento
+0044#STR0044#ALL#4=Verificar P.A.
+0045#STR0045#ALL#5=Verificar Temperatura
+0046#STR0046#ALL#6=Medicam. Inyectable
+0047#STR0047#ALL#7=Aposito
+0048#STR0048#ALL#    Ficha médica    Nombre                                      Operador                                 Indicación                Hora    Observación
+0049#STR0049#ALL#¿De Cliente ?
+0050#STR0050#ALL#Codigo del Cliente: El campo puede permanecer vacio para que se tenga en cuenta desde la primera sucursal.
+0051#STR0051#ALL#Tienda:
+0052#STR0052#ALL#Codigo de la Tienda del cliente. El campo puede permanecer vacio para que se tenga en cuenta desde el primer código.
+0053#STR0053#ALL#¿A Cliente ?
+0054#STR0054#ALL#Codigo del Cliente: El campo puede rellenarse con la letra Z hasta el final para considerar el ultimo codigo.
+0055#STR0055#ALL#Codigo de la Tienda del cliente. El campo puede rellenarse con la letra Z hasta el final para considerar el ultimo codigo.
+0056#STR0056#ALL#Cliente/Tienda: 
+0057#STR0057#ALL#Total de atenciones sin motivo: 
+0058#STR0058#ALL#No existen nada para imprimir en el informe
+0059#STR0059#ALL#3-Indicacion
+0060#STR0060#ALL#Total de atenciones por la Indicacion 
+0061#STR0061#ALL#Total de atenciones sin Indicacion 
+0062#STR0062#ALL#Define si la totalizacion sera por: 1-Fecha+Recepcionista; 2-Fecha+Motivo Atenc.; 3-Indicacion; 4- Recepcionista. ; 5-Motivo Atenc.
+0063#STR0063#ALL#Total de Atenciones en el periodo de 
+0064#STR0064#ALL# a la 
+0065#STR0065#ALL#1-Fecha+Atenc.
+0066#STR0066#ALL#2-Fecha+Mot. At.
+0067#STR0067#ALL#4-Recepcionista
+0068#STR0068#ALL#5-Motivo Atenc.
+0069#STR0069#ALL#Motivo         Medicamento                      Cant.     Unid.
+0070#STR0070#ALL#Indicación      Medicamento                      Cant.     Unid.

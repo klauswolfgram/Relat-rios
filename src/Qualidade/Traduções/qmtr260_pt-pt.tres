@@ -1,0 +1,11 @@
+0001#STR0001#ALL#Este Programa Irá Emitir A Folha De Cálculo De Entrada - Ordem De Serviço
+0002#STR0002#ALL#Planilha De Entrada
+0003#STR0003#ALL#Código de barras
+0004#STR0004#ALL#Administração
+0005#STR0005#ALL#Ordem De Serviço
+0007#STR0007#ALL#Planilha De Entrada
+0008#STR0008#ALL#|           ordem de serviço   | data de entrada | data de saida | c o d i g o / n o m e  d o  c l i e n t e | i n s t r u m e n t o(s)/ m a t e r i a l(is) / o b s e r v a c o e s              |item |inspeção 
+0009#STR0009#ALL#Cancelado Pelo Operador
+0010#STR0010#ALL#Instrumento/material
+0011#STR0011#ALL#Observação
+0012#STR0012#ALL#Inspecção

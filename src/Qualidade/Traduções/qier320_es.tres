@@ -1,0 +1,38 @@
+0001#STR0001#ALL#Plan de Inspeccion
+0002#STR0002#ALL#En este informe se listan los ensayos a realizarse en 
+0003#STR0003#ALL#cada laboratorio para validar la Entrada.   
+0004#STR0004#ALL#A rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#Si
+0007#STR0007#ALL#No
+0008#STR0008#ALL#LABORATORIO ==> 
+0009#STR0009#ALL#Un. Med.
+0010#STR0010#ALL#Nominal
+0011#STR0011#ALL#L.I.E.
+0012#STR0012#ALL#L.S.E.
+0013#STR0013#ALL#Pl 
+0014#STR0014#ALL#A/I
+0015#STR0015#ALL#ST
+0016#STR0016#ALL#Seleccionando registros...
+0017#STR0017#ALL#Ultimas entradas:
+0018#STR0018#ALL#Fecha entrada
+0019#STR0019#ALL#Lote
+0020#STR0020#ALL#Skip Lote
+0021#STR0021#ALL#Informe
+0022#STR0022#ALL#Doc.Entrada
+0023#STR0023#ALL#Lote Muestreo..........: 
+0024#STR0024#ALL#     Ensayador     
+0025#STR0025#ALL#                                     M E D I C I O N E S                       
+0026#STR0026#ALL#Informe: 
+0027#STR0027#ALL#¿Proveedor         ?
+0028#STR0028#ALL#¿Tienda proveedor  ?
+0029#STR0029#ALL#¿Producto          ?
+0030#STR0030#ALL#¿De Laboratorio    ?
+0031#STR0031#ALL#¿A  Laboratorio    ?
+0032#STR0032#ALL#¿Considera entradas?
+0033#STR0033#ALL#¿Lineas p/Medicion.?
+0034#STR0034#ALL#Normal
+0035#STR0035#ALL#Beneficiacion
+0036#STR0036#ALL#Devolucion
+0037#STR0037#ALL#Encabez.
+0038#STR0038#ALL#Ultimas Entradas

@@ -1,0 +1,34 @@
+0001#STR0001#ALL#Partnership agreement
+0002#STR0002#ALL#Print Partnership Agreement      
+0003#STR0003#ALL#Z. form
+0004#STR0004#ALL#Management   
+0005#STR0005#ALL#| #################################################### |   PARTNERSHIP AGREEMENT                             | ########## | ###### |
+0006#STR0006#ALL#| ZIP: ######### ##################################### | ######################################################################### |
+0007#STR0007#ALL#| TEL: ############### FAX: ###############            | ######################### ZIP: ########## #########: #################### |
+0008#STR0008#ALL#| #########: #################### #################### | PHONE: ###############                                 FAX: ############### |
+0009#STR0009#ALL#|Item|    Product    |          Description         |UM|  Quantity    |    Total Value   |              Observations               |
+0010#STR0010#ALL#| Place of delivery: ############################################################################################## ZIP :######### |
+0011#STR0011#ALL#| Place of collection: ############################################################################################ CEP :######### |
+0012#STR0012#ALL#| Payment terms:     ### ################################### | Merchandise total:                                ##################|
+0013#STR0013#ALL#|                                                            | Disbursements        :                            ##################|
+0014#STR0014#ALL#|                                                            | Grand Total          :                            ##################|
+0015#STR0015#ALL#|     Buyer             |     Management        |      Board            |                                                          |
+0016#STR0016#ALL#| Note: Please, enter the agreement number on your invoice                                                                         |
+0017#STR0017#ALL#|                                                                                                                      CONTINUED...|
+0018#STR0018#ALL#CANCELLED BY OPERATOR  
+0019#STR0019#ALL#InitialAgreement?
+0020#STR0020#ALL#Final agreement? 
+0021#STR0021#ALL#|Item|    Product    |          Description         |UM|  Quantity    |    Total Value   | Observations        | Cost Center       |
+0022#STR0022#ALL#SR
+0023#STR0023#ALL#|Item| Product                      | Description   |MU|  Quantity    |    Total Value   | Remarks             | Cost Centers      |
+0024#STR0024#ALL#|Item| Product                      | Description   |MU|  Quantity    |    Total Value   |              Remarks                    |
+0025#STR0025#ALL#Contractor Data
+0026#STR0027#ALL#Contractor Data
+0027#STR0028#ALL#Contract Items
+0028#STR0029#ALL#Delivery Location
+0029#STR0030#ALL#Collection Location
+0030#STR0031#ALL#Contract Summary
+0031#STR0032#ALL#Grand Total
+0032#STR0033#ALL#Goods Total
+0033#STR0034#ALL#Expenses
+0034#STR0035#ALL#General Comments

@@ -1,0 +1,24 @@
+0001#STR0001#ALL#Report only available in TReport
+0002#STR0002#ALL#Issue of Ref.Plan.Report 
+0003#STR0003#ALL#This program will print a trial balance based on the chart of accounts and reference chart of accounts binding.
+0004#STR0004#ALL#Reference chart of accounts
+0005#STR0005#ALL#Account
+0006#STR0006#ALL#Description
+0007#STR0007#ALL#Previous Balance
+0008#STR0008#ALL#Debit
+0009#STR0009#ALL#Credit
+0010#STR0010#ALL#Period Mov.
+0011#STR0011#ALL#Current Balance
+0012#STR0012#ALL#REFERENCE PLAN TRIAL BALANCE: 
+0013#STR0013#ALL# OF 
+0014#STR0014#ALL# TO 
+0015#STR0015#ALL# IN 
+0016#STR0016#ALL# AND 
+0017#STR0017#ALL# - BRANCHES: 
+0018#STR0018#ALL# _ BRANCHES: 
+0019#STR0019#ALL#Creating temporary file...
+0020#STR0020#ALL#Trial Balance Cehck
+0021#STR0021#ALL# T O T A L 
+0022#STR0022#ALL#Selecting Records...
+0023#STR0023#ALL#Referential Plan and/or Version not completed. 
+0024#STR0024#ALL#Ref Plan and Version not registered in Referential Plan Register.

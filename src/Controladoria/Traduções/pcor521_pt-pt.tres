@@ -1,0 +1,19 @@
+0001#STR0001#ALL#Cubos Comparativos - Demonstrativo de Saldos por Período Mod-2
+0002#STR0002#ALL#Código
+0003#STR0003#ALL#Descrição
+0004#STR0004#ALL#Período
+0005#STR0005#ALL#Orçado (S1)
+0011#STR0011#ALL#Impressão cancelada pelo operador...
+0012#STR0012#ALL#Este relatório irá imprimir os Cubos Comparativos - Demonstrativo de Saldos por Período Modelo 2 de acordo com os parâmetros solicitados pelo utilizador. Para mais informações sobre este relatório consulte o Help do Programa ( F1 ).
+0021#STR0021#ALL#Diário
+0023#STR0023#ALL#Código Cubo Analítico
+0024#STR0024#ALL#Período de
+0031#STR0031#ALL#Tipo Período
+0035#STR0035#ALL#Configuração do Cubo-1
+0036#STR0036#ALL#Editar Configurações Cubo-1
+0037#STR0037#ALL#Configuração do Cubo-2
+0038#STR0038#ALL#Editar Configurações Cubo-2
+0039#STR0039#ALL#Considera Nulos
+0043#STR0043#ALL#Período Até
+0044#STR0044#ALL#Atenção
+0045#STR0045#ALL#Utilizador sem acesso ao relatório. Verifique as configurações.

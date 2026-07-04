@@ -1,0 +1,28 @@
+0001#STR0001#ALL#The purpose of this report is to print a report    
+0002#STR0002#ALL#according to the parameters entered by the user.    
+0003#STR0003#ALL#Report of accounts receivable exchange rate difference
+0004#STR0004#ALL#Custom.     Expir.Store      Issue            Nature     Prefix/Number/Instal.      Type      Value 
+0005#STR0005#ALL#Custom.
+0006#STR0006#ALL#Prefix+Number 
+0007#STR0007#ALL#Class    
+0008#STR0008#ALL#Issue  
+0009#STR0009#ALL#Due date   
+0010#STR0010#ALL#Lines 
+0011#STR0011#ALL#Administrat. 
+0012#STR0012#ALL#     Orig Amount Currency Rate
+0013#STR0013#ALL#Adjustm.
+0014#STR0014#ALL#Exchange difference ->
+0015#STR0015#ALL#Document adjusted ->
+0016#STR0016#ALL#Amount adjusted: 
+0017#STR0017#ALL#***CANCELLED BY THE OPERATOR***
+0018#STR0018#ALL#Customer
+0019#STR0019#ALL#Unit
+0020#STR0020#ALL#Due Date
+0021#STR0021#ALL#Issue
+0022#STR0022#ALL#Class
+0023#STR0023#ALL#Prefix/Number/Part.
+0024#STR0024#ALL#Type
+0025#STR0025#ALL#Value
+0026#STR0026#ALL#Original Value
+0027#STR0027#ALL#Rate
+0028#STR0028#ALL#Mon.

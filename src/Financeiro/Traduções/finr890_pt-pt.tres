@@ -1,0 +1,17 @@
+0001#STR0001#ALL#Este programa tem como objectivo imprimir comprovativo
+0002#STR0002#ALL#De acordo com os parâmetros indicados pelo utilizador
+0003#STR0003#ALL#Comprovativo De Receb.
+0004#STR0004#ALL#Comprovativo De Peceb.
+0005#STR0005#ALL#Código de barras
+0006#STR0006#ALL#Administração
+0007#STR0007#ALL#A Ler Impostos......
+0008#STR0008#ALL#Comprov. receb. ?
+0010#STR0010#ALL#Pagamento De Factura
+0012#STR0012#ALL#Anulação Factura
+0015#STR0015#ALL#*** cancelado pelo operador ***
+0016#STR0016#ALL#Emissão   :
+0021#STR0021#ALL#Documento                 Valor     Val.iva  Val.ret.fte     Comissão
+0022#STR0022#ALL#Pgt.                    Valor
+0023#STR0023#ALL#Pgt. Adiantado          Valor
+0025#STR0025#ALL#Total........
+0027#STR0027#ALL#Firma Recibo / Identificação

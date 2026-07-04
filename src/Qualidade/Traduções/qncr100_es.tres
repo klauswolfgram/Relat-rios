@@ -1,0 +1,16 @@
+0001#STR0001#ALL#Informe de pendientes por usuario.
+0002#STR0002#ALL#Seáimprimira de acuerdo con los parametros solicitados por el usuario.
+0003#STR0003#ALL#Matricula
+0004#STR0004#ALL#Nombre
+0005#STR0005#ALL#A Rayas
+0006#STR0006#ALL#Administracion
+0007#STR0007#ALL#PENDIENTES POR USUARIO
+0008#STR0008#ALL#Seleccionando registros...
+0009#STR0009#ALL#Usuario:
+0010#STR0010#ALL#Plan de Accion      Fc.Apertura Fc.Cie.Prev. Estatus         Tipo
+0011#STR0011#ALL#Ficha N.Conf.       Fc.Apertura Fc.Conc.Prev. Estatus         Tipo
+0012#STR0034#ALL#ANULADO POR EL OPERADOR
+0013#STR0035#ALL#Planes/Etapas  Tipo Acccion                        % Acc.  Previs. 
+0014#STR0036#ALL#Planes/Etapas
+0015#STR0037#ALL#Plan Accion
+0016#STR0038#ALL#Ficha N.Conf.

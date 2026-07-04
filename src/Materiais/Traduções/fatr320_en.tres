@@ -1,0 +1,25 @@
+0001#STR0001#ALL#The purpose of this program is to print the report 
+0002#STR0002#ALL#according to the parameters entered by the user.     
+0003#STR0003#ALL#Work area
+0004#STR0004#ALL#Z. form
+0005#STR0005#ALL#Management   
+0006#STR0006#ALL#SCHEDULE - SALES REPRESENTIVE NAME
+0007#STR0007#ALL#SUBJECT                        DATE       H.START  H.END COMMENTS                                 OPPORTUNITY  CLIENT  SHOP NAME                 PROSPECT SHOP NAME                 CONTACT NAME
+0008#STR0008#ALL#Not Started 
+0009#STR0009#ALL#In progress 
+0010#STR0010#ALL#Completed
+0011#STR0011#ALL#Suspended
+0012#STR0012#ALL#Win
+0013#STR0013#ALL#Low
+0014#STR0014#ALL#Regular
+0015#STR0015#ALL#High
+0016#STR0016#ALL#*** CANCELLED BY OPERATOR  ***
+0017#STR0017#ALL#TASK - SALES REPRESENTIVE NAME
+0018#STR0018#ALL#SUBJECT                        DT.START   DT.END     STATUS       PRIORITY   %COMPLETE COMMENT                                  CLIENT  SHOP NAME
+0019#STR0019#ALL#Work area
+0020#STR0020#ALL#The purpose of this program is to print the report 
+0021#STR0021#ALL#according to the parameters entered by the user.     
+0022#STR0022#ALL#Comment   
+0023#STR0023#ALL#Sales Rep.
+0024#STR0024#ALL#Schedule(CRM)
+0025#STR0025#ALL#Tasks (CRM)  

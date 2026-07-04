@@ -1,0 +1,30 @@
+0001#STR0001#ALL#Orders per Repres./Customer
+0002#STR0002#ALL#This report will show the Orders list ordered by
+0003#STR0003#ALL#Representative/Customer.
+0004#STR0004#ALL#Z. Form
+0005#STR0005#ALL#Management
+0006#STR0006#ALL#SALES ORDERS BY REPRES./CUSTOMER
+0007#STR0007#ALL#CODE   COMPANY NAME             PLACE                  ORDER             TOTAL
+0008#STR0008#ALL#Selecting Records...
+0009#STR0009#ALL#CANCELLED BY THE OPERATOR
+0010#STR0010#ALL#REPRESENTATIVE : 
+0011#STR0011#ALL#TOTAL CUSTOMER  ---> 
+0012#STR0012#ALL#TOTAL REPRES.   ---> 
+0013#STR0013#ALL#GRAND TOTAL: 
+0014#STR0014#ALL#CODE                 COMPANY NAME         PLACE           ORDER            TOTAL
+0015#STR0015#ALL#Orders by sales repr./custom
+0016#STR0016#ALL#This report will list orders by                   
+0017#STR0017#ALL#order of sales repr./cust.
+0018#STR0018#ALL#Selecting records ...    
+0019#STR0019#ALL#Total
+0020#STR0020#ALL#Sales Rep.: 
+0021#STR0021#ALL#Customer total---> 
+0022#STR0022#ALL#Sales repr. total-> 
+0023#STR0023#ALL#Sales Order f/ Sales rep/Customer in 
+0024#STR0024#ALL#Sales rep.
+0025#STR0025#ALL#Customers/Orders
+0026#STR0026#ALL#Sales order header           
+0027#STR0027#ALL#Sales order items        
+0028#STR0028#ALL#SalesRep
+0029#STR0029#ALL#Customer
+0030#STR0030#ALL#Grand T.

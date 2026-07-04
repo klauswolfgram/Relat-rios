@@ -1,0 +1,56 @@
+0001#STR0001#ALL#Este programa irá emitir a ficha dos activos
+0002#STR0002#ALL#Imobilizados, a apresentar todas as ocorrências
+0003#STR0003#ALL#Desde a sua aquisição.
+0004#STR0004#ALL#Ficha Do Activo Imobilizado
+0005#STR0005#ALL#Código      elemento  descrição sintética                       núm. cartão    grupo   endereçamento aquis      liquidação       projecto          fornecedor               n.f.-ser.   quantidade     registo 1:     
+0006#STR0006#ALL#                  cia seguro                      apólice seg.       vencto       tipo                                                                                              
+0007#STR0007#ALL#Cancelado Pelo Operador
+0008#STR0008#ALL#Fornecedor 
+0009#STR0009#ALL#Aquisição
+0010#STR0010#ALL#Reavaliação
+0013#STR0013#ALL#Tipo              Histórico                      Conta do Bem         
+0014#STR0014#ALL#*---------------------- no mês --------------------*
+0015#STR0015#ALL#*-------------------------- no exercício ------------------*
+0016#STR0016#ALL#*-------------------------- acumulado ------------------------*
+0017#STR0017#ALL#Moeda
+0018#STR0018#ALL#V.ORIG+V.AMPLIAÇÃO 
+0019#STR0019#ALL#Tx. Depr.
+0020#STR0020#ALL#índice
+0021#STR0021#ALL#         Correcção
+0022#STR0022#ALL#      Depreciação
+0023#STR0023#ALL#   Corr. Deprec.
+0024#STR0024#ALL#            Correcção
+0025#STR0025#ALL#         DESVALORIZ.
+0026#STR0026#ALL#CORR. DESVALORIZ.
+0027#STR0027#ALL#             Correcção
+0028#STR0028#ALL#          DESVALORIZ.
+0029#STR0029#ALL# Corr. Depreciação
+0030#STR0030#ALL#Descrição:
+0034#STR0034#ALL# Por C.custo
+0035#STR0035#ALL#Código de barras
+0036#STR0036#ALL#Administração
+0038#STR0038#ALL#Total do código base - 
+0039#STR0039#ALL#Resumo Geral
+0040#STR0040#ALL#Conta Correcção     
+0042#STR0042#ALL#Conta depr. acum.      
+0043#STR0043#ALL#Conta corr. depr.      
+0044#STR0044#ALL#C. Custo             In. Depr.  Dt.Liq.   Quant. Liq.  Índ.Cálc.
+0045#STR0045#ALL#Item Contabilístico  
+0046#STR0046#ALL#Classe de valor      
+0047#STR0047#ALL# P/Item Contabilístico
+0048#STR0048#ALL# Por Classe De Valor
+0049#STR0049#ALL#Movimento
+0050#STR0050#ALL#Qtd. Liquidação
+0052#STR0052#ALL#Val. Orig.+ampliação
+0053#STR0053#ALL#Tx. Depr.
+0054#STR0054#ALL#índice
+0055#STR0055#ALL#Correcção
+0056#STR0056#ALL#No mês
+0058#STR0058#ALL#Correcção da 
+0060#STR0060#ALL#Correcção no 
+0061#STR0061#ALL#No Exercício
+0062#STR0062#ALL#Correcção da 
+0063#STR0063#ALL#Deprecia. No Exerc.
+0066#STR0066#ALL#Só é possível sub-totalizar na ordem de código base.
+0067#STR0067#ALL#As colunas para item contabilístico e classe de valor não podem ser iguais !
+0068#STR0068#ALL#Dados Do Activo

@@ -1,0 +1,27 @@
+0001#STR0001#ALL#Employees Report per Cost Center and Position
+0002#STR0002#ALL#Z. Form
+0003#STR0003#ALL#Management
+0004#STR0004#ALL#Employees per Cost Center and Position
+0005#STR0005#ALL#From Cost Center   ?
+0006#STR0006#ALL#To Cost Center     ?
+0007#STR0007#ALL#     Posit. Code  Posit. Name                 Enrollment  Employee큦 Name                                 Admissio.Date
+0008#STR0008#ALL#Cost Center    .:
+0009#STR0009#ALL#Employee큦 total per Cost Center        .:
+0010#STR0010#ALL#Employee큦 Total     .:
+0011#STR0011#ALL#Customer큦 employees total.......:
+0012#STR0012#ALL#Customer.: 
+0013#STR0013#ALL#     Code/Role Name                         Registration  Employee Name                   Category        Admission Date
+0014#STR0014#ALL#     Function Code/Name                Registration Employee Name             Category         Date Hiring Dismissal
+0015#STR0015#ALL#From Customer?
+0016#STR0016#ALL#Unit
+0017#STR0017#ALL#To Customer ?
+0018#STR0018#ALL#No information to print in the report.	  	  	  	  	
+0019#STR0019#ALL#To Category?
+0020#STR0020#ALL#From Category?
+0021#STR0021#ALL#Consider Employee?
+0022#STR0022#ALL#Employees on Leave
+0023#STR0023#ALL#To Cost Center?
+0024#STR0024#ALL#From Cost Center?
+0025#STR0025#ALL#All
+0026#STR0026#ALL#Active
+0027#STR0027#ALL#Dismissed

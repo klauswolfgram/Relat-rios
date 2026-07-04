@@ -1,0 +1,34 @@
+0001#STR0001#ALL#Matrícula
+0002#STR0002#ALL#C.custo
+0004#STR0004#ALL#C. Custo+ Nome
+0005#STR0005#ALL#Recibo de vale de transporte      
+0006#STR0006#ALL#Sera impresso de acordo com os parâmetro s solicitados pelo
+0007#STR0007#ALL#Utilizador.
+0008#STR0008#ALL#Código de barras
+0009#STR0009#ALL#Administração
+0010#STR0010#ALL#Recibo De Vale Transporte
+0011#STR0011#ALL#| Recibo Do Vale Transporte
+0012#STR0012#ALL#  -  ref. 
+0013#STR0013#ALL#|     recibo do vale de transporte ( + diferença )    
+0014#STR0014#ALL#|fil: 
+0015#STR0015#ALL# |matr: 
+0016#STR0016#ALL# |cc: 
+0017#STR0017#ALL# |nome: 
+0018#STR0018#ALL#| recebi da 
+0019#STR0019#ALL# passes 
+0021#STR0021#ALL#|valor total  
+0022#STR0022#ALL#   |   valor do empregado  
+0023#STR0023#ALL#|salário base 
+0024#STR0024#ALL#   |   valor empresa         
+0025#STR0025#ALL#___/___/___  Assinatura:____________________________
+0026#STR0026#ALL#|     recibo do vale transporte - diferença        
+0027#STR0027#ALL#Emitir recibo do vale de transporte por empregado.
+0028#STR0028#ALL#Recebi de 
+0029#STR0029#ALL#Valor total  
+0030#STR0030#ALL#Salário base 
+0031#STR0031#ALL#Empregado
+0032#STR0032#ALL#Meio De Transporte
+0034#STR0034#ALL#Total filial 
+0035#STR0035#ALL#(diferença)
+0036#STR0036#ALL#(normal + diferença)
+0037#STR0037#ALL#(normal

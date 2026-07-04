@@ -1,0 +1,17 @@
+0001#STR0001#ALL#Function available for TopConnect environments only
+0002#STR0002#ALL#Function available for TReport only, please update environment and check MV_TREPORT parameter
+0003#STR0003#ALL#Rendering of Accounts Status
+0004#STR0004#ALL#Report to displays the rendering of accounts with more relevant data.
+0005#STR0005#ALL#Employee
+0006#STR0006#ALL#Rendering of accounts
+0007#STR0007#ALL#Pending
+0008#STR0008#ALL#In Conference
+0009#STR0009#ALL#Blocked
+0010#STR0010#ALL#In evaluation
+0011#STR0011#ALL#Rejected
+0012#STR0012#ALL#Approved
+0013#STR0013#ALL#Payment approved
+0014#STR0014#ALL#Finished
+0015#STR0015#ALL#Invoiced
+0016#STR0016#ALL#Confirm
+0017#STR0017#ALL#Rendering of Accounts Status Selection

@@ -1,0 +1,42 @@
+0001#STR0001#ALL#Não existe r&r para essas informações !
+0002#STR0002#ALL#A Visualizar, Aguarde...
+0003#STR0003#ALL#Estudo De R&r
+0005#STR0005#ALL#Nº. peça (cliente)
+0006#STR0006#ALL#Revisão/data Desenho
+0007#STR0007#ALL#Página
+0009#STR0009#ALL#No. da peca (fornecedor)
+0010#STR0010#ALL#Revisão da peca (fornecedor)
+0011#STR0011#ALL#Data Do Estudo
+0012#STR0012#ALL#Nome Da Peça
+0013#STR0013#ALL#Lie
+0014#STR0014#ALL#Lse
+0016#STR0016#ALL#Um
+0017#STR0017#ALL#Carac. Nº.
+0018#STR0018#ALL#Característica
+0021#STR0021#ALL#Tipo De Ensaio
+0022#STR0022#ALL#é
+0023#STR0023#ALL#Tolerancia De Especificação
+0024#STR0024#ALL#Tolerancia De Processo
+0028#STR0028#ALL#Quem efectua o ensaio
+0033#STR0033#ALL#Não Passa
+0034#STR0034#ALL#Medias Da Peca
+0036#STR0036#ALL#Resultados Do Estudo
+0038#STR0038#ALL#Total De Leitura.:
+0040#STR0040#ALL#Leitura(s) Não Capaz(es).:
+0041#STR0041#ALL#Gr. Rr.:
+0042#STR0042#ALL#Variação Do Processo/tolerância.:
+0043#STR0043#ALL#Variação total (vt)
+0051#STR0051#ALL#ANÁLISE NA UNIDADE DE MEDIÇÃO
+0052#STR0052#ALL#% SOBRE A VARIAÇÃO TOTAL (VT)
+0053#STR0053#ALL#ANÁLISE DA GRANDEZA DE MEDIÇÃO
+0054#STR0054#ALL#% VARIAÇÃO DO PROCESSO
+0055#STR0055#ALL#Med.Repetidas
+0056#STR0056#ALL#Repetitividade - Variação do Equipamento (VE)
+0060#STR0060#ALL#VE
+0063#STR0063#ALL#Reprodutibilidade - Variação do Avaliador (VA)
+0070#STR0070#ALL#Peças
+0075#STR0075#ALL#Variação Peça a Peça (VP)
+0081#STR0081#ALL#Variação Total (VT)
+0084#STR0084#ALL#Para informações sobre a teoria e valores das constantes utilizadas neste formulário, veja o Manual de Referência Análise dos Sistemas de Medição (MSA).
+0085#STR0085#ALL#Terceira Edição
+0086#STR0086#ALL#Quarta edição

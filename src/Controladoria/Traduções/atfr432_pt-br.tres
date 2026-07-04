@@ -1,0 +1,18 @@
+0001#STR0001#ALL#Função disponível apenas para ambientes TopConnect
+0002#STR0002#ALL#Função disponível apenas para TReport, por favor atualizar ambiente e verificar parametro MV_TREPORT
+0003#STR0003#ALL#Este relatório tem o objetivo de demonstrar o valor de aquisição e depreciação dos ativos relacionados aos projetos do imobilizado 
+0004#STR0004#ALL#Demonstrativo de depreciação de Projeto de Imobilizado
+0005#STR0005#ALL#Projeto do Imobilizado
+0006#STR0006#ALL#Etapa do Projeto
+0007#STR0007#ALL#Saldo
+0008#STR0008#ALL#Total Por Filial
+0009#STR0009#ALL#Total Projeto
+0010#STR0010#ALL#Mês/Ano
+0011#STR0011#ALL#Vlr Ori AVP
+0012#STR0012#ALL#Dep Acm AVP
+0013#STR0013#ALL#Saldo AVP Dep
+0014#STR0014#ALL#Vlr Orig
+0015#STR0015#ALL#Dep Acm
+0016#STR0016#ALL#Total Orig
+0017#STR0017#ALL#Total Dep
+0018#STR0018#ALL#Saldo Total

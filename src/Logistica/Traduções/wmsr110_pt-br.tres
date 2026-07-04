@@ -1,0 +1,30 @@
+0001#STR0001#ALL#Busca Saldo
+0002#STR0002#ALL#Lote
+0003#STR0003#ALL#Serie
+0004#STR0004#ALL#Seq./Data
+0005#STR0005#ALL#Data
+0006#STR0006#ALL#Ordem de Serviço
+0007#STR0007#ALL#Tipo Busca
+0008#STR0008#ALL#Endereços
+0009#STR0009#ALL#Saldo SBF
+0010#STR0010#ALL#Solicitado
+0011#STR0011#ALL#Utilizado
+0012#STR0012#ALL#Mensagem
+0013#STR0013#ALL#*** Produto [VAR01] não foi totalmente atendido. Saldo restante: [VAR02]. Atenção! As movimentações desta OS foram estornadas.
+0014#STR0014#ALL#Saldo RF
+0015#STR0015#ALL#Parâmetros Gerais Separação
+0016#STR0016#ALL#Reabastecimento único (MV_WMSMABP)?
+0017#STR0017#ALL#Múltiplos pickings (MV_WMSMULP)?
+0018#STR0018#ALL#Novo WMS (MV_WMSNEW)?
+0019#STR0019#ALL#Reinicia busca unitária (MV_WMSQTAP)?
+0020#STR0020#ALL#Considera lotes vencidos (MV_LOTVENC)?
+0021#STR0021#ALL#Limite pickings (MV_WMSNRPO)?
+0022#STR0022#ALL#Habilitado
+0023#STR0023#ALL#Desabilitado
+0024#STR0024#ALL#Dados do Produto
+0025#STR0025#ALL#Sequência de Abastecimento
+0026#STR0026#ALL#Sim
+0027#STR0027#ALL#Não
+0028#STR0028#ALL#1a UM
+0029#STR0029#ALL#2a UM
+0030#STR0030#ALL#Endereços Fixos

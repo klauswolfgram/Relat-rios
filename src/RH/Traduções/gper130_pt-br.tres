@@ -1,0 +1,16 @@
+0001#STR0001#ALL# Matricula 
+0002#STR0002#ALL# C.Custo + Matric 
+0003#STR0003#ALL#Aviso / Recibo de Férias 
+0004#STR0004#ALL#Será impresso de acordo com os parametros solicitados pelo
+0005#STR0005#ALL#usuário.
+0006#STR0006#ALL#Zebrado
+0007#STR0007#ALL#Administraçäo
+0008#STR0008#ALL#RECIBO E AVISO DE FERIAS
+0009#STR0009#ALL# Nome 
+0010#STR0010#ALL# C.Custo + Nome 
+0011#STR0011#ALL#RECIBO DE FERIAS
+0012#STR0012#ALL#O conteúdo deve ser maior ou igual a 15 dias
+0013#STR0013#ALL#A Data Inicial não pode ser superior a Data Final
+0014#STR0014#ALL#Data SoLic. 13o. não pode ser vazio quando campo SoLic. 1o. Parc. 13o. for igual a SIM.
+0015#STR0015#ALL#Ok
+0016#STR0016#ALL#Atenção

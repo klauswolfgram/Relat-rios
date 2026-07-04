@@ -1,0 +1,45 @@
+0001#STR0001#ALL#Este programa irá emitir a relaçäo da movimentaçäo bancária
+0002#STR0002#ALL#de acordo com os parametros definidos pelo usuario. Poderá ser
+0003#STR0003#ALL#impresso em ordem de data disponivel,banco,natureza ou dt.digitaçäo.
+0004#STR0004#ALL#Por Dt.Dispo 
+0005#STR0005#ALL#Por Banco 
+0006#STR0006#ALL#Por Natureza 
+0007#STR0007#ALL#Dt.Digitacao 
+0008#STR0008#ALL#Relacao da Movimentacao Bancaria em 
+0009#STR0009#ALL#DATA       BCO AGENCIA  CONTA      NATUREZA    DOCUMENTO                                                    VALOR                  HISTORICO
+0010#STR0010#ALL#                                                                                               ENTRADA                     SAIDA
+0011#STR0011#ALL# por data
+0012#STR0012#ALL#Selecionando Registros...
+0013#STR0013#ALL# por Banco
+0014#STR0014#ALL# por Natureza
+0015#STR0015#ALL#  Por Data de Digitacao
+0016#STR0016#ALL#CANCELADO PELO OPERADOR
+0017#STR0017#ALL#Total Geral : 
+0018#STR0018#ALL#Nao existem lancamentos neste periodo
+0019#STR0019#ALL#Zebrado
+0020#STR0020#ALL#Administracao
+0021#STR0021#ALL#Relacao da Movimentacao Bancaria
+0022#STR0022#ALL# Analitico
+0023#STR0023#ALL# Sintetico
+0024#STR0024#ALL#DATA       BCO AGENCIA  CONTA      NATUREZA   DOCUMENTO NUM. CHEQUE                                        VALOR                                           HISTORICO
+0025#STR0025#ALL#                                                                                             ENTRADA                     SAIDA              SALDO ATUAL
+0026#STR0026#ALL#Movimentacäo Bancaria em 
+0027#STR0027#ALL#                                                                  ENTRADA         SAIDA         SALDO ATUAL
+0028#STR0028#ALL# - 
+0029#STR0029#ALL#Analitico
+0030#STR0030#ALL#Sintetico
+0031#STR0031#ALL#Saldo anterior a 
+0032#STR0032#ALL# (Todos os bancos): 
+0033#STR0033#ALL#Total : 
+0034#STR0034#ALL#Por Dt. Movimentacao 
+0035#STR0035#ALL#Saldo anterior dos bancos
+0036#STR0036#ALL#Movimentacao Bancaria
+0037#STR0037#ALL#Totais
+0038#STR0038#ALL#Entrada
+0039#STR0039#ALL#Saida 
+0040#STR0040#ALL#Saldo atual
+0041#STR0041#ALL#Saldo anterior
+0042#STR0042#ALL#Data
+0043#STR0043#ALL#Optou-se pela seleção de filiais. Deve selecionar-se ao menos uma para a geração do relatório; se nenhuma for selecionada, será considerada somente a filial corrente.
+0044#STR0044#ALL#Importante: Algumas entidades, como fornecedores, bancos etc, podem possuir um código na filial A, porém na filial B, esse mesmo código não necessariamente representa a mesma entidade.
+0045#STR0045#ALL#Deseja voltar à seleção de filiais?

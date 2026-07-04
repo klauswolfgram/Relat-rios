@@ -1,0 +1,26 @@
+0001#STR0001#COL#WITHHOLDING CERTIFICATE
+0002#STR0002#COL#Date of Issue
+0003#STR0003#COL#DAY MONTH YEAR
+0004#STR0004#COL#FISCAL YEAR
+0005#STR0005#COL#City where withholding is registered
+0006#STR0006#COL#Name or company name object of withholding
+0007#STR0007#COL#C.C or NIT
+0008#STR0008#COL#Full company name or names of the Withholding Agent
+0009#STR0009#COL#Address of Withholding Agent
+0010#STR0010#COL#City
+0011#STR0011#COL#Department
+0012#STR0012#COL#Concept
+0013#STR0013#COL#No. Invoice
+0014#STR0014#COL#Period
+0015#STR0015#COL#Total Value
+0016#STR0016#COL#Withholding Value
+0017#STR0017#COL#Withholding Certificate issued printed continuously, not requiring 
+0018#STR0018#COL#registered signature (Art.10 D.R. 836/91).
+0019#STR0019#COL#CERTIFICATE NUMBER:
+0020#STR0020#COL#Total value subject to withholding
+0021#STR0021#COL#Withheld value
+0022#STR0022#COL#This document does not required for its validity the signature according to article 10 of
+0023#STR0023#COL#Decree 836 from 1991, compiled in the article 1.6.1.12.12 of DUT 1625 from October 11 2016,
+0024#STR0024#COL#regulating the content of the certificate of withholding as a matter of revenue.
+0025#STR0025#COL#Certificate issued to comply with the article 381
+0026#STR0026#COL#of the Taxation Statute.

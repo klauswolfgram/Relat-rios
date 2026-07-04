@@ -1,0 +1,33 @@
+0001#STR0001#ALL#Variação No Consumo De Matérias De Apropriação Indirecta
+0002#STR0002#ALL#Este relatório irá imprimir as movimentações dos produtos,
+0003#STR0003#ALL#Tendo As Seguintes Opções: Mat.aprop.indirecta, Por Produto,
+0004#STR0004#ALL#Por Produto Produzido E Por Matéria Prima.
+0005#STR0005#ALL#Mat.aprop.indirecta.
+0007#STR0007#ALL#Por Prod.produzido.
+0008#STR0008#ALL#Por Matéria Prima
+0009#STR0009#ALL#Código de barras
+0010#STR0010#ALL#Administração
+0011#STR0011#ALL#Variação no consumo de materiais de apropriação indirecta da filial : 
+0012#STR0012#ALL# armazém: 
+0013#STR0013#ALL#Código           M  A  T  E  R  I  A  L          Ordem     R/d Documento     Data       Quantidade    Um     Custo    V A L O R
+0014#STR0014#ALL#                                                produção                                                  unitário             
+0015#STR0015#ALL#Cancelado Pelo Operador
+0016#STR0016#ALL#Consumo real ---> 
+0017#STR0017#ALL#Consumo pdr --->
+0018#STR0018#ALL#Variação --->
+0019#STR0019#ALL#T o t a l   p d r --->
+0020#STR0020#ALL#T o t a l   r e a l --->
+0021#STR0021#ALL#T o t a l   v a r i a ç ã o --->
+0022#STR0022#ALL#A Seleccionar Registos...
+0023#STR0023#ALL#** consumo real x padrão por ordem de produção **
+0024#STR0024#ALL# filial : 
+0025#STR0025#ALL#Código           descrição do material         um    c  o  n  s  u  m  o   r  e  a  l          c  o  n  s  u  m  o         p d r          variação quant.           variação   variação    
+0026#STR0026#ALL#                                                   quantidade   custo unitário  t o t a l    quantidade  custo unitário  t o t a l    quantidade  valor        %    p/ custo   t o t a l  %
+0027#STR0027#ALL#Op:
+0029#STR0029#ALL#Total crial : 
+0030#STR0030#ALL#Código          m  a  t  e  r  i  a  l         um     c o n s u m o  r e a l      c o n s u m o  p a d r ã o              v a r i a ç ã o       
+0031#STR0031#ALL#                                                     quantidade   custo unitário     t o t a l   quantidade   custo unitário    t o t a l   quantidade    v a l o r  %
+0032#STR0032#ALL#** consumo real x padrão por produto **
+0033#STR0033#ALL#** variação no consumo de matéria prima ** 
+0034#STR0034#ALL#Código      matéria prima / componente      um       c o n s u m o  r e a l         c o n s u m o  p a d r ã o       v a r i a ç ã o   
+0035#STR0035#ALL#                                                       quantidade custo unitário        t o t a l   quantidade custo unitário      t o t a l  quantidade    v a l o r    %

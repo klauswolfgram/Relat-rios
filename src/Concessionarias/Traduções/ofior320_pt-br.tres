@@ -1,0 +1,31 @@
+0001#STR0001#ALL#Itens X Locação
+0002#STR0002#ALL#Zebrado
+0003#STR0003#ALL#Administracao
+0004#STR0004#ALL#Itens com Locacao
+0005#STR0005#ALL#Locação    Grup Código                      Descrição                    Qtd.
+0006#STR0006#ALL#Itens com Estoque e sem Locacao
+0007#STR0007#ALL#Locacao    Grup Codigo                     Descricao               Quantidade
+0008#STR0008#ALL#S/COMPLMTO 
+0009#STR0009#ALL#Controle de Vendas Perdidas
+0010#STR0010#ALL#Secao 1
+0011#STR0011#ALL#Localizacao
+0012#STR0012#ALL#Grupo
+0013#STR0013#ALL#Cod Item
+0014#STR0014#ALL#Descricao
+0015#STR0015#ALL#Secao 2
+0016#STR0016#ALL#Saldo
+0017#STR0017#ALL#Gerando Aquivo de Trabalho
+0018#STR0018#ALL#Endereço De
+0019#STR0019#ALL#Endereço Ate
+0020#STR0020#ALL#Item
+0021#STR0021#ALL#Locação
+0022#STR0022#ALL#Grupo
+0023#STR0023#ALL#Código do Item
+0024#STR0024#ALL#Descrição
+0025#STR0025#ALL#Quantidade
+0026#STR0026#ALL#------------------------------------------------------------------------------
+0027#STR0027#ALL#Ordernar por: 
+0028#STR0028#ALL#Item	
+0029#STR0029#ALL#Locacao
+0030#STR0030#ALL#Este programa tem como objetivo imprimir os itens com locação ou com estoque e sem locação
+0031#STR0031#ALL#Itens (Todos)

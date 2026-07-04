@@ -1,0 +1,14 @@
+0001#STR0001#ALL#Mapa De Recuo E Avanco
+0002#STR0002#ALL#Este programa irá emitir um mapa com as operações que necessi-
+0003#STR0003#ALL#Taram ser deslocadas no tempo. este deslocamento  normalmente
+0005#STR0005#ALL# por ordem produção 
+0006#STR0006#ALL# por recurso        
+0007#STR0007#ALL#Código de barras
+0008#STR0008#ALL#Administração
+0009#STR0009#ALL#Registo(s)
+0010#STR0010#ALL#Ordem       Código  Do       Descrição Do Produto             Op   Recurso                             Ferramenta                    Fim          Ideal     Fim       Alocado     Dife-
+0011#STR0011#ALL#Ordem       Código  Do       Descrição Do Produto             Op   Recurso                             Ferramenta                   Inicio        Ideal    Inicio     Alocado     Dife-
+0012#STR0012#ALL#Produção    Produto                                                                                                                 Data          Hora     Data       Hora       Renca
+0013#STR0013#ALL#Cancelado Pelo Operador
+0014#STR0014#ALL#Diferença
+0015#STR0015#ALL#Operações Alocadas Carga Equipamento

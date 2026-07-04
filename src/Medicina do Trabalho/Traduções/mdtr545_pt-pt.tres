@@ -1,0 +1,22 @@
+0001#STR0001#ALL#Relatório de estatísticas dos diagnosticos médicos.
+0002#STR0002#ALL#Código de barras
+0003#STR0003#ALL#Administração
+0004#STR0004#ALL#Estatísticas dos diagnósticos médicos
+0005#STR0005#ALL#De  cliente ?
+0007#STR0007#ALL#Até cliente?
+0008#STR0008#ALL#De data consulta ?
+0009#STR0009#ALL#Até data consulta ?
+0010#STR0010#ALL#Variável estatística                                                       diagnosticos     média(%)     mulheres     homens
+0011#STR0011#ALL#Não existe informação para imprimir no relatório.
+0012#STR0012#ALL#Cliente/unidade: 
+0032#STR0032#ALL#Temperaturas inferiores a 36ºc
+0033#STR0033#ALL#Temperaturas superiores a 36ºc
+0035#STR0035#ALL#Atendimento clínico
+0036#STR0036#ALL#Doenca do trabalho
+0037#STR0037#ALL#Acidente tipico
+0038#STR0038#ALL#Acidente De Trajeto
+0040#STR0040#ALL#Avaliação nr7
+0042#STR0042#ALL#Ausências
+0043#STR0043#ALL#Número de diagnósticos que relatam ausências:
+0044#STR0044#ALL#Maior período de ausência: 
+0046#STR0046#ALL#A seleccionar registos...

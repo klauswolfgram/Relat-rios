@@ -1,0 +1,34 @@
+0001#STR0001#ALL#Registo Da Chsst Na Drt
+0002#STR0002#ALL#Atenção
+0003#STR0003#ALL#O servidor de smtp não foi configurado.
+0004#STR0004#ALL#Verifique o parâmetro   (mv_relserv).
+0005#STR0005#ALL#A conta do email não foi configurado.
+0006#STR0006#ALL#Verifique o parâmetro   (mv_relacnt).
+0007#STR0007#ALL#A senha do email não foi configurado.
+0008#STR0008#ALL#Verifique o parâmetro   (mv_relpsw).
+0009#STR0009#ALL#Acta De Eleição
+0010#STR0010#ALL#Acta De Instalação E Posse Da Chsst
+0014#STR0014#ALL#Copia
+0016#STR0016#ALL#&enviar
+0017#STR0017#ALL#&imprimir
+0018#STR0018#ALL#&cancelar
+0020#STR0020#ALL#Acta De Eleição
+0021#STR0021#ALL#Acta de posse
+0022#STR0022#ALL#Agenda de reuniões
+0023#STR0023#ALL#Falha na autenticação do utilizador no provedor de e-mail
+0024#STR0024#ALL#Erro No Envio De Email
+0026#STR0026#ALL#Erro Na Ligação Com O Servidor Smtp 
+0028#STR0028#ALL#Não foi informado o email do destinatario.
+0032#STR0032#ALL#Assunto: Registo Da Chsst
+0035#STR0035#ALL#, situada em 
+0036#STR0036#ALL#, telefone 
+0037#STR0037#ALL#, com actividade de 
+0040#STR0040#ALL#Respeitosamente, requerer a V. Exa. o protocolo para arquivamento 
+0041#STR0041#ALL#De documentos da comissão interna de prevenção de acidentes - chsst, de conformidade 
+0042#STR0042#ALL#Com o artigo 163 da clt e o nº 5 da portaria nº 3.214 de 08/06/78 e portaria nº 08 de 23/02/1999.
+0044#STR0044#ALL#- cópia da acta de eleição;
+0045#STR0045#ALL#- cópia da acta de instalação de posse;
+0049#STR0049#ALL#Cliente?
+0051#STR0051#ALL#Concelho / Dist. do DRT ?
+0055#STR0055#ALL#C.P. 
+0057#STR0057#ALL# Nr.Contrib.: 

@@ -1,0 +1,14 @@
+0001#STR0001#ALL#Equipment x Locations
+0002#STR0002#ALL#Issue of report listing equipment transactions
+0003#STR0003#ALL#by stations.
+0004#STR0004#ALL#Summary
+0005#STR0005#ALL#Equipment
+0006#STR0006#ALL#Location
+0007#STR0007#ALL#Location Code
+0008#STR0008#ALL#Location Description
+0009#STR0009#ALL#Allocation Start
+0010#STR0010#ALL#Allocation End
+0011#STR0011#ALL#Product Code
+0012#STR0012#ALL#Product Description
+0013#STR0013#ALL#Serial Number
+0014#STR0014#ALL#Report cannot be executed.

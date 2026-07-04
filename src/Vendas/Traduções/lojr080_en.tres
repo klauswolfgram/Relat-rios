@@ -1,0 +1,24 @@
+0001#STR0001#ALL#Z.Form 
+0002#STR0002#ALL#Management   
+0003#STR0003#ALL#Mailing Labels            
+0004#STR0004#ALL#Supplier  
+0005#STR0005#ALL#Customer  
+0006#STR0006#ALL#Product   
+0007#STR0007#ALL#Files   
+0008#STR0008#ALL#Supplier Labels         
+0009#STR0009#ALL#Print Supplier Labels for Mailing                 
+0010#STR0010#ALL#Customer Labels      
+0011#STR0011#ALL#Print Client Labels for Mailing                
+0012#STR0012#ALL#Product Labels       
+0013#STR0013#ALL#Print Product labels for Mailing               
+0014#STR0014#ALL#Per Code  
+0015#STR0015#ALL#Per Name
+0016#STR0016#ALL#Test the beginning of the form for Printing ?
+0017#STR0017#ALL#Attention
+0018#STR0019#ALL#ZIP - 
+0019#STR0020#ALL#Code  ....
+0020#STR0021#ALL#Descript..
+0021#STR0022#ALL#Type......
+0022#STR0023#ALL#Group.....
+0023#STR0024#ALL#Sto.Unit..
+0024#STR0025#ALL#Weight....

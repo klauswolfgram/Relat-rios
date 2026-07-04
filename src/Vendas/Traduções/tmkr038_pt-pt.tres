@@ -1,0 +1,31 @@
+0001#STR0001#ALL#Atendimentos Da Telecobrança
+0002#STR0002#ALL#Este Programa Irá Emitir A Relação Dos Atendimentos Efectuados Pelo Atendimento De Telecobrança
+0004#STR0004#ALL#Serão Considerados Os Atendimentos Activos E Receptivos.
+0005#STR0005#ALL#Código de barras
+0007#STR0007#ALL#Cancelado Pelo Operador
+0008#STR0008#ALL#Data Do Atendimento
+0009#STR0009#ALL#Código Do Atendimento
+0010#STR0010#ALL#Tipo De Ligação
+0011#STR0011#ALL#Não indicado
+0013#STR0013#ALL#Os
+0014#STR0014#ALL#Não localizado no registo...
+0015#STR0015#ALL#Não indicado no atendimento...
+0016#STR0016#ALL#Código Cliente/loja
+0017#STR0017#ALL#Razão social
+0018#STR0018#ALL#Código Do Contacto
+0019#STR0019#ALL#Nome Do Contacto
+0020#STR0020#ALL#Código Do Operador
+0021#STR0021#ALL#Nome Do Operador
+0022#STR0022#ALL#Código Da Ocorrência
+0023#STR0023#ALL#Descrição Da Ocorrência
+0025#STR0025#ALL#Prf Título-p Tip Natureza   Venct.   V. Real         Valor   Acresc.  Decresc. Numa Base       Histórico                  %per.  Val Jur     Irs      Iss     Csll   Cofins      Pis Estado          Resp.  Nome Do Resp.
+0026#STR0026#ALL#Totais Do Atendimento
+0027#STR0027#ALL#Totais Por Distrito
+0028#STR0028#ALL#Pagamento: 
+0029#STR0029#ALL#Negociado: 
+0030#STR0030#ALL#Notário: 
+0031#STR0031#ALL#Não existem dados a serem impressos para este relatório com os parâmetros escolhidos
+0034#STR0034#ALL#Tp.
+0041#STR0041#ALL#%per
+0043#STR0043#ALL#Cabeçalho Do Atendimento
+0044#STR0044#ALL#Itens Do Atendimento

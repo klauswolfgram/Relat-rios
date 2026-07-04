@@ -1,0 +1,73 @@
+0001#STR0001#ALL#This program will print the Entries Report
+0002#STR0002#ALL#per Sublot/Fiscal Doc.
+0003#STR0003#ALL#Entries Classified per Sublot/Fiscal Doc.
+0004#STR0004#ALL#Z. Form
+0005#STR0005#ALL#Management
+0006#STR0006#ALL#DOC      ACCOUNT                                    FISCAL DOC.                                  DEB VALUE             CRED VALUE   HP   HIST
+0006#STR0006#ANG#DOC      ACCOUNT                                    FISCAL DOC.                                  DEB VALUE             CRED VALUE   HP   HIST
+0006#STR0006#EQU#DOC      ACCOUNT                                    FISCAL DOC.                                  DEB VALUE             CRED VALUE   HP   HIST
+0006#STR0006#HAI#DOC      ACCOUNT                                    FISCAL DOC.                                  DEB VALUE             CRED VALUE   HP   HIST
+0006#STR0006#MEX#DOC      ACCOUNT                                    FISCAL DOC.                                  DEB VALUE             CRED VALUE   HP   HIST
+0006#STR0006#PTG#DOC      ACCOUNT                                    FISCAL DOC.                                  DEB VALUE             CRED VALUE   HP   HIST
+0007#STR0007#ALL#SubLot/Fiscal Doc. Rep. Issue
+0008#STR0008#ALL#Creating Temporary File...
+0009#STR0009#ALL#***** CANCELLED BY OPERATOR *****
+0010#STR0010#ALL#DIFFERENCE
+0011#STR0011#ALL#LOT TOTAL: 
+0012#STR0012#ALL#INFORMED
+0013#STR0013#ALL#ENTERED
+0014#STR0014#ALL#G R A N D  T O T A L ==> 
+0015#STR0015#ALL#SUB-LOT: 
+0016#STR0016#ALL#Selecting Records...
+0017#STR0017#ALL#DATE: 
+0018#STR0018#ALL#LOT: 
+0019#STR0019#ALL#DOCUMENT TOTAL: 
+0019#STR0019#ANG#DOCUMENT TOTAL: 
+0019#STR0019#EQU#DOCUMENT TOTAL: 
+0019#STR0019#HAI#DOCUMENT TOTAL: 
+0019#STR0019#MEX#DOCUMENT TOTAL: 
+0019#STR0019#PTG#DOCUMENT TOTAL: 
+0020#STR0020#ALL#SUB-LOT TOTAL: 
+0021#STR0021#ALL# in 
+0022#STR0022#ALL# from 
+0023#STR0023#ALL# to 
+0024#STR0024#ALL#This report needs the field CT2_KEY. Create it with character type 100
+0025#STR0025#ALL#Lot 
+0026#STR0026#ALL#Entry     
+0027#STR0027#ALL#Date
+0028#STR0028#ALL#Sub-lot 
+0029#STR0029#ALL#Document 
+0030#STR0030#ALL#Acct.
+0031#STR0031#ALL#Tax document
+0032#STR0032#ALL#Debit amount
+0032#STR0032#ANG#Debit amount
+0032#STR0032#EQU#Debit amount
+0032#STR0032#HAI#Debit amount
+0032#STR0032#MEX#Debit amount
+0032#STR0032#PTG#Debit amount
+0033#STR0033#ALL#Credit amount
+0033#STR0033#ANG#Credit amount
+0033#STR0033#EQU#Credit amount
+0033#STR0033#HAI#Credit amount
+0033#STR0033#MEX#Credit amount
+0033#STR0033#PTG#Credit amount
+0034#STR0034#ALL#HP
+0035#STR0035#ALL#History  
+0036#STR0036#ALL#Total
+0037#STR0037#ALL#Deb. amnt. total
+0037#STR0037#ANG#Deb. amnt. total
+0037#STR0037#EQU#Deb. amnt. total
+0037#STR0037#HAI#Deb. amnt. total
+0037#STR0037#MEX#Deb. amnt. total
+0037#STR0037#PTG#Deb. amnt. total
+0038#STR0038#ALL#Cred. amn. total
+0038#STR0038#ANG#Cred. amn. total
+0038#STR0038#EQU#Cred. amn. total
+0038#STR0038#HAI#Cred. amn. total
+0038#STR0038#MEX#Cred. amn. total
+0038#STR0038#PTG#Cred. amn. total
+0039#STR0039#ALL#Document total:  
+0040#STR0040#ALL#Lot total:  
+0041#STR0041#ALL#Sub-lot total:  
+0042#STR0042#ALL#Grand total =>
+0043#STR0043#ALL#Accounting Document History

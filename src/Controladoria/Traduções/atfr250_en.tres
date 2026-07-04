@@ -1,0 +1,39 @@
+0001#STR0001#ALL#This report lists the Acquisitions by Transfer       
+0002#STR0002#ALL#within the parameters specified    
+0003#STR0003#ALL#Acquisitions by Transfer
+0004#STR0004#ALL#Acquis by Transfer
+0005#STR0005#ALL# Date 
+0006#STR0006#ALL#CODE BASE  ITEM  DESCRIPTION                         ACQUIS.DT   PLATE   C.CENTER   ACCOUNT             DESCRIPTION ACCOUNT        
+0007#STR0007#ALL#                                             *** CURR. 1 ***   *** CURR. 2 ***   *** CURR. 3 ***   *** CURR. 4 ***   *** CURR. 5 ***
+0008#STR0009#ALL#Ordering File
+0009#STR0010#ALL#Origin items   
+0010#STR0011#ALL#  -  Movement Nbr. 
+0011#STR0012#ALL#  -  Date: 
+0012#STR0013#ALL#Destination items
+0013#STR0014#ALL#Original Value         --->
+0014#STR0015#ALL#Accumulated Depreciat. --->
+0015#STR0016#ALL#Correction             --->
+0016#STR0017#ALL#Residue                --->
+0017#STR0018#ALL#TOTAL MOVED IN THE DAY 
+0018#STR0019#ALL#TOTAL (Source Items) Original Value   --->
+0019#STR0020#ALL#TOTAL (Source Items) Accumul. Deprec. --->
+0020#STR0021#ALL#TOTAL (Source Items) Correction       --->
+0021#STR0022#ALL#TOTAL (Source Items) Residual         --->
+0022#STR0023#ALL#TOTAL (Destin. Items) Original Value  --->
+0023#STR0024#ALL#TOTAL (Destin. Items) Accumul. Deprec.--->
+0024#STR0025#ALL#TOTAL (Destin. Items) Correction      --->
+0025#STR0026#ALL#TOTAL (Destin. Items) Residual        --->
+0026#STR0027#ALL#DISC. AMNT.
+0027#STR0028#ALL#Total movements on      
+0028#STR0029#ALL#Origin/Destin.
+0029#STR0030#ALL#Info text    
+0030#STR0031#ALL#Asset info    
+0031#STR0032#ALL#***Currency 1**
+0032#STR0033#ALL#***Currency 2**
+0033#STR0034#ALL#***Currency 3**
+0034#STR0035#ALL#***Currency 4**
+0035#STR0036#ALL#***Currency 5**
+0036#STR0037#ALL#A - Original amnt.
+0037#STR0038#ALL#B - Accrued depreciation 
+0038#STR0039#ALL#C - Indexat.
+0039#STR0040#ALL#D - Residue 

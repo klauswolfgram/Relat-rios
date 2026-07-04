@@ -1,0 +1,11 @@
+0001#STR0001#ALL#Mapa de contratos de parceria demonstrado 
+0002#STR0002#ALL#Emite um mapa para rastreio dos contratos 
+0003#STR0003#ALL#De Parceria Até Aos Títulos Emitidos No Se2.
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#Cancelado Pelo Operador
+0007#STR0007#ALL#Por Número
+0011#STR0011#ALL#Contrato de parceria                                                                                 autorização de entrega                                   facturas       títulos                                           
+0012#STR0012#ALL#Número Emissão    Fornecedor/Loja              Nome Reduzido        Elem.  Quantidade      Vlr.Total Número Fornecedor             Quantidade    Valor Total  Ser.Número  Prx   Número Parc.Tipo Vencimento            Saldo
+0013#STR0013#ALL#Totais
+0017#STR0017#ALL#Contrato De Parceria

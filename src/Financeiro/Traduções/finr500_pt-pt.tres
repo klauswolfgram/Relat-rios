@@ -1,0 +1,116 @@
+0001#STR0001#ANG#Este relatório irá imprimir o extrato de Letras
+0001#STR0001#ARG#Este relatório irá imprimir o extracto de liquidações 
+0001#STR0001#BOL#Este relatório irá imprimir o extracto de liquidações 
+0001#STR0001#BRA#Este relatório irá imprimir o extracto de liquidações 
+0001#STR0001#CHI#Este relatório irá imprimir o extracto de liquidações 
+0001#STR0001#COL#Este relatório irá imprimir o extracto de liquidações 
+0001#STR0001#COS#Este relatório irá imprimir o extracto de liquidações 
+0001#STR0001#DOM#Este relatório irá imprimir o extracto de liquidações 
+0001#STR0001#EQU#Este relatório irá imprimir o extrato de Letras
+0001#STR0001#EUA#Este relatório irá imprimir o extracto de liquidações 
+0001#STR0001#HAI#Este relatório irá imprimir o extrato de Letras
+0001#STR0001#MEX#Este relatório irá imprimir o extracto de liquidações 
+0001#STR0001#PAN#Este relatório irá imprimir o extracto de liquidações 
+0001#STR0001#PAR#Este relatório irá imprimir o extracto de liquidações 
+0001#STR0001#PER#Este relatório irá imprimir o extracto de liquidações 
+0001#STR0001#POR#Este relatório irá imprimir o extracto de liquidações 
+0001#STR0001#PTG#Este listagem  ira imprimir o extracto de letras
+0001#STR0001#SAL#Este relatório irá imprimir o extracto de liquidações 
+0001#STR0001#URU#Este relatório irá imprimir o extracto de liquidações 
+0001#STR0001#VEN#Este relatório irá imprimir o extracto de liquidações 
+0003#STR0003#ARG#Liquidações Financeiras
+0003#STR0003#BOL#Liquidações Financeiras
+0003#STR0003#BRA#Liquidações Financeiras
+0003#STR0003#CHI#Liquidações Financeiras
+0003#STR0003#COL#Liquidações Financeiras
+0003#STR0003#COS#Liquidações Financeiras
+0003#STR0003#DOM#Liquidações Financeiras
+0003#STR0003#EUA#Liquidações Financeiras
+0003#STR0003#MEX#Liquidações Financeiras
+0003#STR0003#PAN#Liquidações Financeiras
+0003#STR0003#PAR#Liquidações Financeiras
+0003#STR0003#PER#Liquidações Financeiras
+0003#STR0003#POR#Liquidações Financeiras
+0003#STR0003#SAL#Liquidações Financeiras
+0003#STR0003#URU#Liquidações Financeiras
+0003#STR0003#VEN#Liquidações Financeiras
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#A Seleccionar Registos...
+0007#STR0007#ARG#Liquidação : 
+0007#STR0007#BOL#Liquidação : 
+0007#STR0007#BRA#Liquidação : 
+0007#STR0007#CHI#Liquidação : 
+0007#STR0007#COL#Liquidação : 
+0007#STR0007#COS#Liquidação : 
+0007#STR0007#DOM#Liquidação : 
+0007#STR0007#EUA#Liquidação : 
+0007#STR0007#MEX#Liquidação : 
+0007#STR0007#PAN#Liquidação : 
+0007#STR0007#PAR#Liquidação : 
+0007#STR0007#PER#Liquidação : 
+0007#STR0007#POR#Liquidação : 
+0007#STR0007#PTG#Letra:
+0007#STR0007#SAL#Liquidação : 
+0007#STR0007#URU#Liquidação : 
+0007#STR0007#VEN#Liquidação : 
+0008#STR0008#ALL#Liquidado
+0009#STR0009#ALL#Criado
+0011#STR0011#ALL#Prf Número                 Prc Tipo Emissão     Emissor                                            Valor        Juros    Descontos Banco-agência-conta                Estado
+0012#STR0012#ALL#Prf
+0013#STR0013#ALL#Número
+0014#STR0014#ALL#Prc
+0015#STR0015#ALL#Tipo
+0016#STR0016#ALL#Emissão
+0017#STR0017#ALL#Emissor
+0018#STR0018#ALL#Valor
+0019#STR0019#ALL#Juros
+0020#STR0020#ALL#Descontos
+0021#STR0021#ALL#Banco
+0022#STR0022#ALL#Agência
+0023#STR0023#ALL#Conta
+0024#STR0024#ALL#Estado
+0025#STR0025#ANG#Nr. da Letra
+0025#STR0025#ARG#Nº Da Liquidação
+0025#STR0025#BOL#Nº Da Liquidação
+0025#STR0025#BRA#Nº Da Liquidação
+0025#STR0025#CHI#Nº Da Liquidação
+0025#STR0025#COL#Nº Da Liquidação
+0025#STR0025#COS#Nº Da Liquidação
+0025#STR0025#DOM#Nº Da Liquidação
+0025#STR0025#EQU#Nr. da Letra
+0025#STR0025#EUA#Nº Da Liquidação
+0025#STR0025#HAI#Nr. da Letra
+0025#STR0025#MEX#Nº Da Liquidação
+0025#STR0025#PAN#Nº Da Liquidação
+0025#STR0025#PAR#Nº Da Liquidação
+0025#STR0025#PER#Nº Da Liquidação
+0025#STR0025#POR#Nº Da Liquidação
+0025#STR0025#PTG#Nr Da Letra
+0025#STR0025#SAL#Nº Da Liquidação
+0025#STR0025#URU#Nº Da Liquidação
+0025#STR0025#VEN#Nº Da Liquidação
+0026#STR0026#ALL#Título
+0027#STR0027#ANG#Letras p/ Título
+0027#STR0027#ARG#Títulos Liquidados
+0027#STR0027#BOL#Títulos Liquidados
+0027#STR0027#BRA#Títulos Liquidados
+0027#STR0027#CHI#Títulos Liquidados
+0027#STR0027#COL#Títulos Liquidados
+0027#STR0027#COS#Títulos Liquidados
+0027#STR0027#DOM#Títulos Liquidados
+0027#STR0027#EQU#Letras p/ Título
+0027#STR0027#EUA#Títulos Liquidados
+0027#STR0027#HAI#Letras p/ Título
+0027#STR0027#MEX#Títulos Liquidados
+0027#STR0027#PAN#Títulos Liquidados
+0027#STR0027#PAR#Títulos Liquidados
+0027#STR0027#PER#Títulos Liquidados
+0027#STR0027#POR#Títulos Liquidados
+0027#STR0027#PTG#Letras P/ Título
+0027#STR0027#SAL#Títulos Liquidados
+0027#STR0027#URU#Títulos Liquidados
+0027#STR0027#VEN#Títulos Liquidados
+0030#STR0030#ALL#Liq. Parc. 
+0033#STR0033#ALL#- Os títulos liquidados são impressos com o valor original, independente da forma da liquidação. 
+0034#STR0034#ALL#- Os totalizadores consideram o valor total da liquidação ou dos títulos gerados/liquidados.

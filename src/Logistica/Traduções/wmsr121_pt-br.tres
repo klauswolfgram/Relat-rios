@@ -1,0 +1,23 @@
+0001#STR0001#ALL#Busca Endereço
+0002#STR0002#ALL#End Vazio
+0003#STR0003#ALL#Parcial Ocup
+0004#STR0004#ALL#Parcial/Lote
+0005#STR0005#ALL#Compartilha
+0006#STR0006#ALL#Ordem de Serviço
+0007#STR0007#ALL#Tipo Busca
+0008#STR0008#ALL#Endereços
+0009#STR0009#ALL#Capacidade
+0010#STR0010#ALL#Saldo D14
+0011#STR0011#ALL#Saldo RF
+0012#STR0012#ALL#Solicitado
+0013#STR0013#ALL#Endereçado
+0014#STR0014#ALL#Mensagem
+0015#STR0015#ALL#Tipo End
+0016#STR0016#ALL#*** Produto [VAR01] não foi totalmente enderecado. Saldo restante: [VAR02].
+0017#STR0017#ALL#Comp End
+0018#STR0018#ALL#Sim
+0019#STR0019#ALL#Não
+0020#STR0020#ALL#Ordem Zona Armazenagem, onde: 00-Zona do produto, 01...99-Zona alternativa
+0021#STR0021#ALL#Ordem Produto, onde: 01-Exclusivo produto, 02-Qualquer produto
+0022#STR0022#ALL#Ordem Saldo, onde: 01-Saldo produto, 02-Saldo misto, 03-Saldo outro produto, 99-Sem saldo
+0023#STR0023#ALL#Ordem Movimento, onde: 01-Movimento pendente produto, 99-Sem movimento pendente

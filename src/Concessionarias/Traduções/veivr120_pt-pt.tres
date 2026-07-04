@@ -1,0 +1,39 @@
+0001#STR0001#ALL#Stock De Veiculos
+0002#STR0002#ALL#Código de barras
+0003#STR0003#ALL#Administração
+0004#STR0004#ALL#Total novos 
+0006#STR0006#ALL#Até 
+0009#STR0009#ALL#=============================== novos === usados ===
+0010#STR0010#ALL#Disponiveis Para Venda....:
+0011#STR0011#ALL#Em Stock Na Empresa.....:
+0012#STR0012#ALL#Em Poder De Terceiros.....:
+0013#STR0013#ALL#Reservados................:
+0014#STR0014#ALL#Consignados...............:
+0015#STR0015#ALL#Stock Fiscal............:
+0017#STR0017#ALL#***   Novos Disponiveis Para Venda   ***                  Total:
+0018#STR0018#ALL#***   Novos Disponiveis Para Venda   ***                Continuação...
+0019#STR0019#ALL#***   Usados Disponiveis Para Venda   ***                 Total:
+0020#STR0020#ALL#***   Usados Disponiveis Para Venda   ***               Continuação...
+0021#STR0021#ALL#            Total Do Modelo:
+0023#STR0023#ALL#***   Veiculos  Novos  Em  Stock  Na  Empresa   ***     Total:
+0024#STR0024#ALL#***   Veiculos  Novos  Em  Stock  Na  Empresa   ***   Continuação...
+0025#STR0025#ALL#***   Veiculos  Usados  Em  Stock  Na  Empresa   ***    Total:
+0026#STR0026#ALL#***   Veiculos  Usados  Em  Stock  Na  Empresa   ***  Continuação...
+0027#STR0027#ALL#***   Veiculos  Novos  Em  Poder  De  Terceiros   ***     Total:
+0028#STR0028#ALL#***   Veiculos  Novos  Em  Poder  De  Terceiros   ***   Continuação...
+0029#STR0029#ALL#***   Veiculos  Usados  Em  Poder  De  Terceiros   ***    Total:
+0030#STR0030#ALL#***   Veiculos  Usados  Em  Poder  De  Terceiros   ***  Continuação...
+0031#STR0031#ALL#***   Veiculos  Novos  Reservados   ***                   Total:
+0032#STR0032#ALL#***   Veiculos  Novos  Reservados   ***                 Continuação...
+0033#STR0033#ALL#***   Veiculos  Usados  Reservados   ***                  Total:
+0034#STR0034#ALL#***   Veiculos  Usados  Reservados   ***                Continuação...
+0035#STR0035#ALL#***   Veiculos  Novos  Consignados   ***                  Total:
+0036#STR0036#ALL#***   Veiculos  Novos  Consignados   ***                Continuação...
+0037#STR0037#ALL#***   Veiculos  Usados  Consignados   ***                 Total:
+0038#STR0038#ALL#***   Veiculos  Usados  Consignados   ***               Continuação...
+0039#STR0039#ALL#***   Novos Stock Fiscal   ***                          Total:
+0040#STR0040#ALL#***   Novos Stock Fiscal   ***                        Continuação...
+0041#STR0041#ALL#***   Usados Stock Fiscal   ***                         Total:
+0042#STR0042#ALL#***   Usados Stock Fiscal   ***                       Continuação...
+0043#STR0043#ALL#Stock crial de veículos
+0044#STR0044#ALL#Secção 1

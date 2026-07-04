@@ -1,0 +1,13 @@
+0001#STR0001#ALL#Este programa irá emitir a relação de movimentos por
+0002#STR0002#ALL#Item Contabilístico
+0003#STR0003#ALL#Movimentos Por Elemento Contabilístico
+0004#STR0004#ALL#item Contabilístico            C.custo              Cta Contab.                        Valor Actual      Deprec Acumul      Deprec No Mês   Corr Depr Acumul  Corr Monet Acumul
+0005#STR0005#ALL#Cancelado Pelo Operador
+0006#STR0006#ALL#Tot. It.Contab.: 
+0007#STR0007#ALL#Total geral       : 
+0009#STR0009#ALL#Símbolo Da Moeda
+0010#STR0010#ALL#Valor actual
+0011#STR0011#ALL#Deprec.Acumul.
+0012#STR0012#ALL#Deprec.no mês
+0013#STR0013#ALL#Corr.Depr.Acumul.
+0014#STR0014#ALL#Corr.Monet.Acumul.

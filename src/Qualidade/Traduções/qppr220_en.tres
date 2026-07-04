@@ -1,0 +1,98 @@
+0001#STR0001#ALL#Submission Warrant
+0002#STR0002#ALL#Generating view. Please, wait...
+0003#STR0003#ALL#Production Part Submission Warrant
+0004#STR0004#ALL#Part Name
+0005#STR0005#ALL#Part Number
+0006#STR0006#ALL#Segurity item and/or
+0007#STR0007#ALL#Government Regulation
+0008#STR0008#ALL#YES
+0009#STR0009#ALL#NO
+0010#STR0010#ALL#Engineering Changes
+0011#STR0011#ALL#Dated
+0012#STR0012#ALL#Additional Engineering Changes
+0013#STR0013#ALL#Shown on Drawing No.
+0014#STR0014#ALL#Purchase Order No.
+0015#STR0015#ALL#Wgt.
+0016#STR0016#ALL#Checking Aid Number
+0017#STR0017#ALL#SUPPLIER INFORMATION
+0018#STR0018#ALL#Supplier Name
+0019#STR0019#ALL#Supplier Code
+0020#STR0020#ALL#Street Address
+0021#STR0021#ALL#City/State/P.Code
+0022#STR0022#ALL#SUBMITTAL INFORMATION
+0023#STR0023#ALL#Dimensional
+0024#STR0024#ALL#Material/Functional
+0025#STR0025#ALL#Appearan.
+0026#STR0026#ALL#Customer Name/Division
+0027#STR0027#ALL#Buyer/Buyer Code
+0028#STR0028#ALL#Applicat.
+0029#STR0029#ALL#Note:
+0030#STR0030#ALL#Does this part have a substance of restricted or reportable use?
+0031#STR0031#ALL#Are plastic parts identified with appropriate ISO marking codes?
+0032#STR0032#ALL#REASON FOR SUBMIS.
+0033#STR0033#ALL#Init. Submission
+0034#STR0034#ALL#Change of Optional Construction or Material
+0035#STR0035#ALL#Engineering Change(s)
+0036#STR0036#ALL#Sub-supplier or Material Source Change
+0037#STR0037#ALL#Tools: Transfer, Replacement, Refurbishment or Additional
+0038#STR0038#ALL#Change in Part Manufacturing Process
+0039#STR0039#ALL#Correct. of Discrepancy
+0040#STR0040#ALL#Parts Produc. at Additional Locat.
+0041#STR0041#ALL#Tooling Inactive > than 1 year
+0042#STR0042#ALL#Other - Specify:
+0043#STR0043#ALL#SUBMISSION LEVEL (Check one)
+0044#STR0044#ALL#Level 1 - Warrant only (and for designated appearance items, an Appearance Approval Report) submitted to customer.
+0045#STR0045#ALL#Level 2 - Warrant with product samples and limited supporting data submitted to customer
+0046#STR0046#ALL#Level 3 - Warrant with product samples and all supporting data submitted to customer
+0047#STR0047#ALL#Level 4 - Warrant and other requirements as defined by customer
+0048#STR0048#ALL#Level 5 - Warrant with product samples and all supporting data reviewed at organization's manufacturing location
+0049#STR0049#ALL#SUBMISSION RESULTS
+0050#STR0050#ALL#The resulsts of 
+0051#STR0051#ALL# dimens. measurements 
+0052#STR0052#ALL# material and functional tests 
+0053#STR0053#ALL# appearance criteria 
+0054#STR0054#ALL# statist. package 
+0055#STR0055#ALL#These results meet all design and specification requirements:   
+0056#STR0056#ALL# YES 
+0057#STR0057#ALL# NO 
+0058#STR0058#ALL#Mould / Cavity / Production Process:
+0059#STR0059#ALL#DECLARAT.
+0060#STR0060#ALL#I affirm that the samples represented by this warrant are representative of our parts, which were manufactured according to
+0061#STR0061#ALL#all Production Part Approval Manual (3rd edition). I further affirm that these samples
+0062#STR0062#ALL#were produced at production rate of 
+0063#STR0063#ALL# hours. I noted any deviations of this declaration below:
+0064#STR0064#ALL#Explanation/Comments
+0065#STR0065#ALL#Name
+0066#STR0066#ALL#Title
+0067#STR0067#ALL#PhoneNo.
+0068#STR0068#ALL#Supplier Authorized Signature
+0069#STR0069#ALL#FOR CUSTOMER USE ONLY (IF APPLICABLE)  
+0070#STR0070#ALL#Part Warrant Disposition:
+0071#STR0071#ALL#Approv.
+0072#STR0072#ALL#Rejected
+0073#STR0073#ALL#Other
+0074#STR0074#ALL#Part Functional Approval:
+0075#STR0075#ALL#Dismissed
+0076#STR0076#ALL#Custom. Repres.
+0077#STR0077#ALL#Customer Signature
+0078#STR0078#ALL#July
+0079#STR0079#ALL#CFG-1001
+0080#STR0080#ALL#Original copy of this document must be kept in supplier's
+0081#STR0081#ALL#facilities for as long as the part is active (see Glossary)
+0082#STR0082#ALL#Customer Tracking No. (optional)
+0083#STR0083#ALL#Number:
+0084#STR0084#ALL#  (If "NO" - Explain below)
+0085#STR0085#ALL#Cust. Part No.
+0086#STR0086#ALL#Org. Part Number
+0087#STR0087#ALL#City/St./P.Cd./Country
+0088#STR0088#ALL#MATERIALS REPORTING
+0089#STR0089#ALL#Submitted by IMDS or other customer format 
+0090#STR0090#ALL#all Production Part Approval Manual (4th edition). I further affirm that these samples
+0091#STR0091#ALL#Is each Customer Tool properly tagged and numbered?
+0092#STR0092#ALL#Fax
+0093#STR0093#ALL#E-mail
+0094#STR0094#ALL#March
+0095#STR0095#ALL#of Cust.:
+0096#STR0096#ALL#ATTENT.
+0097#STR0097#ALL#You must implement 4th Ed. of Technical Newsletter of PPAP Environment Adjustment to execute this routine properly.
+0098#STR0098#ALL#N/A

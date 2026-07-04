@@ -1,0 +1,33 @@
+0001#STR0001#ALL#Mapa de separacion empaquetado
+0002#STR0002#ALL#A rayas
+0003#STR0003#ALL#Administrac. 
+0004#STR0004#ALL# Cliente   Producto                                             Ctd              Ctd Emb Almac    ALM 
+0005#STR0005#ALL#ANULADO POR EL OPERADOR
+0006#STR0006#ALL#Nr.Mapa         :
+0007#STR0007#ALL#Nro. de Separador: _______________              Nro. de Errores  : __________
+0008#STR0008#ALL#Nro. Verificador : _______________              Nro. de Errores  : __________
+0009#STR0009#ALL#Nro. de Embalador: _______________              Nro. de Errores  : __________
+0010#STR0010#ALL#c/
+0011#STR0011#ALL#Carga           :
+0012#STR0012#ALL#Ubicacion Destino :
+0013#STR0013#ALL#Nro. de Items    :
+0014#STR0014#ALL#Peso Total (KG) :
+0015#STR0015#ALL#Cubo             :
+0016#STR0016#ALL#Nro. de Volumenes:
+0017#STR0017#ALL#Placa del Vehiculo :
+0018#STR0018#ALL#Movimientos por ubicacion
+0019#STR0019#ALL#Cliente
+0020#STR0020#ALL#Ctd
+0021#STR0021#ALL#Ctd. Emb
+0022#STR0022#ALL#C/
+0023#STR0023#ALL#Nº de Items 
+0024#STR0024#ALL#Peso Total (KG)
+0025#STR0025#ALL#Cubic. 
+0026#STR0026#ALL#Cargas
+0027#STR0027#ALL#Nº de Volumen.
+0028#STR0028#ALL#Matricula Vehic.
+0029#STR0029#ALL#Total.
+0030#STR0030#ALL#Este informe tiene como objetivo Generar e Imprimir o solo Imprimir un mapa de separacion para cantidades en unidades agrupadoras (cajas, por ejemplo), de acuerdo con los parametros informados.
+0031#STR0031#ALL#Encabezado de mapa de separacion
+0032#STR0032#ALL#Pedido
+0033#STR0033#ALL#Items del mapa de separacion

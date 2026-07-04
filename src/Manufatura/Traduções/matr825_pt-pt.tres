@@ -1,0 +1,19 @@
+0001#STR0001#ALL#Relatório De Horas Improdutivas / Produtivas
+0002#STR0002#ALL#Relação  de horas improdutivas / produtivas apontadas, de acordo
+0003#STR0003#ALL#Com a ordem selecionada pelo utilizador.
+0004#STR0004#ALL#Por Op
+0009#STR0009#ALL#Código de barras
+0010#STR0010#ALL#Administração
+0011#STR0011#ALL#Registo(s)
+0012#STR0012#ALL#Da Op:
+0013#STR0013#ALL#Do Recurso:
+0014#STR0014#ALL#Do Motivo:
+0015#STR0015#ALL#Da Data:
+0016#STR0016#ALL#Do Operador:
+0017#STR0017#ALL#A Seleccionar Registos...
+0018#STR0018#ALL#Tipo Ordem De    Número   Recurso                                   Ferramenta                    Motivo                                 Data        Operador      Data        Data    Hora   Hora
+0019#STR0019#ALL#     Produção    De Horas                                                                                                                Apontamento              Inicio        Fim  Inicio    Fim
+0021#STR0021#ALL#Horas produtivas - 
+0022#STR0022#ALL#Horas improdutivas - 
+0023#STR0023#ALL#Motivos que criaram horas improdutivas
+0025#STR0025#ALL#Registo De Produção Pcp

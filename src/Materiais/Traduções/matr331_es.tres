@@ -1,0 +1,12 @@
+0001#STR0001#ALL#Recursividad por movimiento
+0002#STR0002#ALL#Este informe tiene como objetivo listar los movimientos
+0003#STR0003#ALL#que generan recursividad en el procesam. del recalc. del
+0004#STR0004#ALL#costo medio.
+0005#STR0005#ALL#A Rayas
+0006#STR0006#ALL#Administrac. 
+0007#STR0007#ALL#PRODUCTO        ALMACEN MOV DOCUMENTO  FCH. DE     ORDEN DE     PROD DE LA ORDEN
+0008#STR0008#ALL#                                       EMISION     PRODUCCION     DE PRODUC. 
+0009#STR0009#ALL#ANULADO POR EL OPERADOR
+0010#STR0010#ALL#Producto de la
+0011#STR0011#ALL#Orden de Produccion
+0012#STR0012#ALL#Items de Movimiento Interno

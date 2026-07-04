@@ -1,0 +1,78 @@
+0001#STR0001#ALL#Imprimir relação de ordens de compra,
+0002#STR0002#ALL#Guia De Remessa E Facturas
+0003#STR0003#ALL#Data de emissão
+0006#STR0006#ALL#Código de barras
+0007#STR0007#ALL#Administração
+0008#STR0008#ALL#Relação de ordens de compra/guias de remessa/facturas
+0009#STR0009#ALL#Relação de guias de remessa/ordens de compra/facturas
+0010#STR0010#ALL#Relação de facturas/guias de remessa/ordens de compra
+0011#STR0011#ALL#Fornecedor produto        
+0012#STR0012#ALL#Data       produto         
+0014#STR0014#ALL#Dados da ordem de compra                               
+0015#STR0015#ALL#Núm.oc/item     preço unit.     quantidade  data ent. 
+0016#STR0016#ALL#Dados da guia de remessa                           
+0017#STR0017#ALL#N.ºguia de remessa/item     quantidade  data ent. 
+0018#STR0018#ALL#Dados da factura                                     
+0019#STR0019#ALL#N.ºfactura/item          preço unit.     quantidade 
+0020#STR0020#ALL#Div.preço/data Entr?
+0021#STR0021#ALL#Filtrando registos...
+0022#STR0022#ALL#Cancelado Pelo Operador
+0023#STR0023#ALL#Total data  -> 
+0024#STR0024#ALL#Total forneced. -> 
+0025#STR0025#ALL#Total produto  -> 
+0029#STR0029#ALL#Não existe factura 
+0030#STR0030#ALL#Não existe guia de remessa 
+0031#STR0031#ALL#Não Existe Ordem De Compra
+0033#STR0033#ALL#Do    fornecedor ?
+0034#STR0034#ALL#Até   fornecedor ?
+0035#STR0035#ALL#Do    produto    ?
+0036#STR0036#ALL#Até   produto    ?
+0037#STR0037#ALL#Do    grupo      ?
+0038#STR0038#ALL#Até   grupo      ?
+0039#STR0039#ALL#De    emissão    ?
+0040#STR0040#ALL#Até   emissão    ?
+0041#STR0041#ALL#Ordem De Compra
+0042#STR0042#ALL#Guia de remessa
+0044#STR0044#ALL#Total crial   -> 
+0045#STR0045#ALL#Guias de despacho e facturas
+0046#STR0046#ALL#Remissões e facturas
+0047#STR0047#ALL#Facturas de entrega e facturas
+0048#STR0048#ALL#Relação de ordens de compra/guias de despacho/facturas
+0049#STR0049#ALL#Relação de guias de despacho/ordens de compra/facturas
+0050#STR0050#ALL#Relação de facturas/guias de despacho/ordens de compra
+0051#STR0051#ALL#Relação de ordens de compra/remissões/facturas
+0052#STR0052#ALL#Relação de remissões/ordens de compra/facturas
+0053#STR0053#ALL#Relação de facturas/remissões/ordens de compra
+0054#STR0054#ALL#Relação de ordens de compra/facturas de entrega/facturas
+0055#STR0055#ALL#Relação de facturas de entrega/ordens de compra/facturas
+0056#STR0056#ALL#Relação de facturas/facturas de entrega/ordens de compra
+0057#STR0057#ALL#Dados da guia de despacho                 
+0058#STR0058#ALL#Dados da remissão                         
+0059#STR0059#ALL#Dados da factura de entrega               
+0060#STR0060#ALL#N.guia dsp/item     quantidade  data ent. 
+0061#STR0061#ALL#N.remissão/item     quantidade  data ent. 
+0062#STR0062#ALL#N.fct.entr/item     quantidade  data ent. 
+0063#STR0063#ALL#Não há guia de despacho 
+0064#STR0064#ALL#Não há remissão 
+0065#STR0065#ALL#Não há factura de entrega 
+0066#STR0066#ALL#Guia de despacho
+0067#STR0067#ALL#Remissão
+0068#STR0068#ALL#Factura De Entrega
+0070#STR0070#ALL#Não
+0071#STR0071#ALL# E Facturas
+0072#STR0072#ALL#Relação De Ordens De Compra/
+0073#STR0073#ALL#S(es)/
+0075#STR0075#ALL#Relação de 
+0076#STR0076#ALL#/ordens De Compras
+0078#STR0078#ALL#/item               quantidade data ent.  
+0079#STR0079#ALL#Guia de remessa
+0080#STR0080#ALL#It.rem
+0081#STR0081#ALL#Qtd.rem
+0082#STR0082#ALL#Dt.entrega
+0083#STR0083#ALL#Div Preço
+0085#STR0085#ALL#Pedido De Compras (baseado Em Pedido De Compras)
+0086#STR0086#ALL#Pedido De Compras X Guia De Remessa X Documento De Entrada (baseado Em Pedido De Compras)
+0087#STR0087#ALL#Guia De Remessa (baseada Em Guia De Remessa)
+0088#STR0088#ALL#Guia De Remessa X Pedido De Compras X Documento De Entrada (baseado Em Guia De Remessa)
+0089#STR0089#ALL#Documento De Entrada (baseado Em Documento De Entrada)
+0090#STR0090#ALL#Documento De Entrada X Guia De Remessa X Pedido De Compras (baseado Em Documento De Entrada)

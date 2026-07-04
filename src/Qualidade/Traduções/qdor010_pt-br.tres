@@ -1,0 +1,31 @@
+0001#STR0001#ALL#LISTA DE TREINAMENTOS POR DEPARTAMENTO
+0002#STR0002#ALL#Este programa irá imprimir uma relaçäo de treinamentos  
+0003#STR0003#ALL#por departamento, separando-os por documentos e usuários
+0004#STR0004#ALL#listando a data de inclusäo e baixa
+0005#STR0005#ALL#Zebrado
+0006#STR0006#ALL#Administraçäo
+0007#STR0007#ALL#Selecionando Registros..
+0008#STR0008#ALL#TREINANDO                       FUNÇÃO             NUMERO/ANO  DT.SOLICITACAO DT.REALIZACAO  PARTICIPANTE JUSTIFICATIVA
+0009#STR0009#ALL#                                                                                                                           
+0010#STR0010#ALL#CANCELADO PELO OPERADOR
+0011#STR0011#ALL#Departamento: 
+0012#STR0012#ALL#Documento: 
+0013#STR0013#ALL#Realizados/Pendentes
+0014#STR0014#ALL#Treinamento:
+0015#STR0015#ALL#Realizado
+0016#STR0016#ALL#Pendente
+0017#STR0017#ALL#Sim
+0018#STR0018#ALL#Nao
+0019#STR0019#ALL#TREINANDO                       FUNÇÃO             NUMERO/ANO  DT.SOLICITACAO DT.REALIZACAO  
+0020#STR0020#ALL#                                                                                             
+0021#STR0021#ALL#De Filial Depto  ?
+0022#STR0022#ALL#Ate Filial Depto ?
+0023#STR0023#ALL#Treinando
+0024#STR0024#ALL#Função
+0025#STR0025#ALL#Numero/Ano
+0026#STR0026#ALL#Dt. Solicitacao
+0027#STR0027#ALL#Dt. Realizacao
+0028#STR0028#ALL#Participante
+0029#STR0029#ALL#Justificativa
+0030#STR0030#ALL#Departamento
+0031#STR0031#ALL#Treinando

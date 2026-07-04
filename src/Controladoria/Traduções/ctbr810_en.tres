@@ -1,0 +1,15 @@
+0001#STR0001#ALL#Journal
+0002#STR0002#ALL#Enter Start Entry Smaller than the End!
+0003#STR0003#ALL#Start Data Smaller than End Date!
+0004#STR0004#ALL#This program prints the Journal.
+0005#STR0005#ALL#Header
+0006#STR0006#ALL#Details
+0007#STR0007#ALL#Totals
+0008#STR0008#ALL#Grand Total
+0009#STR0009#ALL#Entry
+0010#STR0010#ALL#Date
+0011#STR0011#ALL#Description
+0012#STR0012#ALL#Account
+0013#STR0013#ALL#Value Debit
+0014#STR0014#ALL#Value Credit
+0015#STR0015#ALL#Report available for customized version only.

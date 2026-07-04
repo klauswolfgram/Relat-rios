@@ -1,0 +1,109 @@
+0001#STR0001#ALL#De Data Referência?
+0002#STR0002#ALL#Ate Data Referência?
+0003#STR0003#ALL#Responsável?
+0004#STR0004#ALL#Tipo de Impressão?
+0005#STR0005#ALL#Tela
+0006#STR0006#ALL#Impressora
+0007#STR0007#ALL#Enviar Email
+0008#STR0008#ALL#Inventario Nacional de Residuos
+0009#STR0009#ALL#INVENTÁRIO NACIONAL DE RESÍDUOS
+0010#STR0010#ALL#Período de Referência
+0011#STR0011#ALL#Início
+0012#STR0012#ALL#Término
+0013#STR0013#ALL#INFORMAÇÕES GERAIS
+0014#STR0014#ALL#Razão Social
+0015#STR0015#ALL#ENDEREÇO DA UNIDADE
+0016#STR0016#ALL#Logradouro/nº
+0017#STR0017#ALL#Bairro/Distrito
+0018#STR0018#ALL#CEP
+0019#STR0019#ALL#Município
+0020#STR0020#ALL#Telefone
+0021#STR0021#ALL#CGC/TE
+0022#STR0022#ALL#CNPJ
+0023#STR0023#ALL#ENDEREÇO PARA CORRESPONDÊNCIA
+0024#STR0024#ALL#CONTATO TÉCNICO
+0025#STR0025#ALL#Nome
+0026#STR0026#ALL#Cargo
+0027#STR0027#ALL#Telefone de Contato
+0028#STR0028#ALL#Fax
+0029#STR0029#ALL#e-mail
+0030#STR0030#ALL#CARACTERÍSTICAS DA ATIVIDADE
+0031#STR0031#ALL#Atividade principal
+0032#STR0032#ALL#Código CNAE
+0033#STR0033#ALL#Período de produção
+0034#STR0034#ALL#Horas por dia:
+0035#STR0035#ALL#Dias por mês:
+0036#STR0036#ALL#Meses por ano:
+0037#STR0037#ALL#Número total de funcionários nas seguintes áreas da indústria
+0038#STR0038#ALL#Produção:
+0039#STR0039#ALL#Administração:
+0040#STR0040#ALL#Outras áreas:
+0041#STR0041#ALL#Área útil total (m2)
+0042#STR0042#ALL#Coordenadas Geográficas da unidade
+0043#STR0043#ALL#Latitude
+0044#STR0044#ALL#Longitude
+0045#STR0045#ALL#Graus:
+0046#STR0046#ALL#Minutos:
+0047#STR0047#ALL#RESPONSÁVEL
+0048#STR0048#ALL#Nome:
+0049#STR0049#ALL#Cargo:
+0050#STR0050#ALL#Declaro, sob as penas da Lei, a veracidade das informações prestadas no presente formulário.
+0051#STR0051#ALL#Em:
+0052#STR0052#ALL#Assinatura:
+0053#STR0053#ALL#MATÉRIA PRIMA
+0054#STR0054#ALL#MP
+0055#STR0055#ALL#Matérias-primas e Insumos
+0056#STR0056#ALL#Quantidade Atual (por ano)
+0057#STR0057#ALL#Capacidade Máxima (por ano)
+0058#STR0058#ALL#Unidade de Medida
+0059#STR0059#ALL#PRODUÇÃO ANUAL
+0060#STR0060#ALL#PA
+0061#STR0061#ALL#Produtos
+0062#STR0062#ALL#IX
+0063#STR0063#ALL#ETAPAS DO PROCESSO DE PRODUÇÃO
+0064#STR0064#ALL#Nome da Etapa
+0065#STR0065#ALL#Descrição
+0066#STR0066#ALL#INFORMAÇÃO SOBRE OS RESÍDUOS SÓLIDOS GERADOS
+0067#STR0067#ALL#Código do Resíduo
+0068#STR0068#ALL#Descrição do Resíduo
+0069#STR0069#ALL#Quantidade (ton/ano)
+0070#STR0070#ALL#Estado Físico
+0071#STR0071#ALL#Código do
+0072#STR0072#ALL#Resíduo
+0073#STR0073#ALL#Armazenamento
+0074#STR0074#ALL#Código do Destino
+0075#STR0075#ALL#ou Tratamento
+0076#STR0076#ALL#Descrição do Destino
+0077#STR0077#ALL#Quantidade Destinada
+0078#STR0078#ALL#(ton/ano)
+0079#STR0079#ALL#Código do Destino ou Tratamento
+0080#STR0080#ALL#Razão Social ou Nome do Destino
+0081#STR0081#ALL#Estado
+0082#STR0082#ALL#INFORMAÇÃO SOBRE OS RESÍDUOS SÓLIDOS GERADOS NOS ANOS ANTERIORES
+0083#STR0083#ALL#Quantidade (t)
+0084#STR0084#ALL#Estado Fisico
+0085#STR0085#ALL#Código do Armazenamento
+0086#STR0086#ALL#Endereço de Estocagem
+0087#STR0087#ALL#O Servidor de SMTP não foi configurado !!!
+0088#STR0088#ALL#Atenção
+0089#STR0089#ALL#A Conta do email não foi configurada !!!
+0090#STR0090#ALL#A Senha do email não foi configurada !!!
+0091#STR0091#ALL#Dados do E-mail
+0092#STR0092#ALL#De: 
+0093#STR0093#ALL#Para:
+0094#STR0094#ALL#CC:
+0095#STR0095#ALL#Assunto:
+0096#STR0096#ALL#Não foi possível gravar o relatório
+0097#STR0097#ALL#AVISO
+0098#STR0098#ALL#Segue em anexo relatório de 
+0099#STR0099#ALL#Email enviado com sucesso
+0100#STR0100#ALL#Não foi possível enviar o Email.
+0101#STR0101#ALL#Erro na conexão com o SMTP Server.
+0102#STR0102#ALL#Deseja visualizar o relatório?
+0103#STR0103#ALL#Grupo
+0104#STR0104#ALL#Descrição do Grupo
+0105#STR0105#ALL#Etapa
+0106#STR0106#ALL#Solido
+0107#STR0107#ALL#Liquido
+0108#STR0108#ALL#Gasoso
+0109#STR0109#ALL#(Indústria)

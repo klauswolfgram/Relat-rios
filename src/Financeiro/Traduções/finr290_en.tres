@@ -1,0 +1,31 @@
+0001#STR0001#ALL#This program will print a List of Receivable Bills, 
+0002#STR0002#ALL#referring to Interests which have not been received yet.  
+0003#STR0003#ALL#Issue bills pending or written-off.                        
+0004#STR0004#ALL#List of Interest Due and not paid in 
+0005#STR0005#ALL#Z.Form
+0006#STR0006#ALL#Management
+0007#STR0007#ALL# (To mature)
+0008#STR0008#ALL#BANK   CODE      CUSTOMER                     BILL NUMBER        DUE DATE     DELAY      VALUE BILL /  BILL BALANCE/   INTEREST DUE      
+0009#STR0009#ALL# (Post)
+0010#STR0010#ALL#BNK CODE      CUSTOMER             BILL NUMB         DUE DATE    DEL. PAYM.DATE           VALUE/ INTERES DUE/INTER. PAID/ DIFFERENCE
+0011#STR0011#ALL#CANCELLED BY THE OPERATOR
+0012#STR0012#ALL#No entries in this period
+0013#STR0013#ALL#SUB - TOTAL ---->
+0014#STR0014#ALL#T O T A L  --------> 
+0015#STR0015#ALL#BANK   CODE                      CUSTOMER                     BILL NUMBER        DUE DATE    ARREARS   BILL VALUE   / BILL BALANCE /      INTERESTS
+0016#STR0016#ALL#BNK CODE                      CUSTOMER            BILL NUMBER        DUE DATE    ARREARS                  VALUE/INTER.TO PAY/ INTER.PAID/ DIFFERENCE
+0017#STR0017#ALL#Bnk
+0018#STR0018#ALL#Code  
+0019#STR0019#ALL#Custom.
+0020#STR0020#ALL#Bill nbr.
+0021#STR0021#ALL#Due Dt
+0022#STR0022#ALL#Arrear
+0023#STR0023#ALL#Pymn.Dt.
+0024#STR0024#ALL#Amnt.
+0025#STR0025#ALL#Bill  
+0026#STR0026#ALL#Blnce
+0027#STR0027#ALL#Int. 
+0028#STR0028#ALL#Due    
+0029#STR0029#ALL#Pymnt
+0030#STR0030#ALL#Difference
+0031#STR0031#ALL#Bills  

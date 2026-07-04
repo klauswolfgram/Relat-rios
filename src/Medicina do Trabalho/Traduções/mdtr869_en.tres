@@ -1,0 +1,70 @@
+0001#STR0001#ALL#Accident monthly rate   
+0002#STR0002#ALL#Year?
+0003#STR0003#ALL#Cost center?     
+0004#STR0004#ALL#Print type?        
+0005#STR0005#ALL#Scrn
+0006#STR0006#ALL#Printer   
+0007#STR0007#ALL#JANUARY
+0008#STR0008#ALL#FEBRUARY 
+0009#STR0009#ALL#MARCH
+0010#STR0010#ALL#APRIL
+0011#STR0011#ALL#MAY 
+0012#STR0012#ALL#JUNE 
+0013#STR0013#ALL#JULY 
+0014#STR0014#ALL#AUGUST
+0015#STR0015#ALL#SEPTEMBER
+0016#STR0016#ALL#OCTOBER
+0017#STR0017#ALL#NOVEMBER
+0018#STR0018#ALL#DECEMBER
+0019#STR0019#ALL#TOTAL
+0020#STR0020#ALL#COMPANY:
+0021#STR0021#ALL#YEAR
+0022#STR0022#ALL#VESSEL
+0023#STR0023#ALL#MAN HOURS EXPOSED TO RISK        
+0024#STR0024#ALL#NUMBER OF ACCIDENTS HAPPENED 
+0025#STR0025#ALL#RATE OF ACCIDENTED 
+0026#STR0026#ALL#MON
+0027#STR0027#ALL#QUANTITY  
+0028#STR0028#ALL#WITHOUT LEAVE  
+0029#STR0029#ALL#WITH LEAVE     
+0030#STR0030#ALL#TFSA
+0031#STR0031#ALL#TFCA
+0032#STR0032#ALL#MAN HOURS OF RISK EXPOSURE - Total of hours available to employer.
+0033#STR0033#ALL#NUMBER OF ACCIDENTS WITHOUT LEAVE - One where the employee returns to their daily tasks in the same                  
+0034#STR0034#ALL#day of the accident or the next day at the beginning of the work shift.     
+0035#STR0035#ALL#NUMBER OF ACCIDENTS WITH LEAVE - One where the employee does not return to their daily tasks in the same           
+0036#STR0036#ALL#day of the accident or the next day at the beginning of the work shift.     
+0037#STR0037#ALL#TFSA - Number of accidents without leave x 1,000,000 / number of man hours of exposal.      
+0038#STR0038#ALL#TFCA - Number of accidents with leave x 1,000,000 / number of man hours of exposal.         
+0039#STR0039#ALL#The year entered must contain 4 digits
+0040#STR0040#ALL#Print according to NR-30?
+0041#STR0041#ALL#Yes
+0042#STR0042#ALL#No
+0043#STR0043#ALL#Defines if the report will be printed according to NR-30.
+0044#STR0044#ALL#MAN HOURS OF RISK EXPOSURE - Total of hours available to employer.
+0045#STR0045#ALL#COST CENTER:
+0046#STR0046#ALL#SEVERITY
+0047#STR0047#ALL#TG - Time Computed x 1.000.000 / number of man hours of exposure.
+0048#STR0048#ALL#From Cost Center?
+0049#STR0049#ALL#To Cost Center?
+0050#STR0050#ALL#From Branch?
+0051#STR0051#ALL#To Branch?
+0052#STR0052#ALL#List accidents?
+0053#STR0053#ALL#Typical
+0054#STR0054#ALL#Path
+0055#STR0055#ALL#Work
+0056#STR0056#ALL#Incident
+0057#STR0057#ALL#All
+0058#STR0058#ALL#Defines which type of Accident will be printed in the report.
+0059#STR0059#ALL#Advanced Filter - Cost Center?
+0060#STR0060#ALL#Advanced Filter - Cost Center
+0061#STR0061#ALL#Indicates whether to use advanced filter from Cost Center.
+0062#STR0062#ALL#Print Cost Center w/out Accid. ?
+0063#STR0063#ALL#Indicate if you want to print cost center without accidents.
+0064#STR0064#ALL#Print Total by Branch?
+0065#STR0065#ALL#Enter whether you wish to print the totalizer by branch.
+0066#STR0066#ALL#BRANCH:
+0067#STR0067#ALL#Select the End Branch Code to filter employees. The field can be completed with the letter Z until the end to consider the last code.
+0068#STR0068#ALL#Select the Start Branch Code to filter employees. The field may remain empty to consider from the first code.
+0069#STR0069#ALL#Defines if the report will be printed directly on the Printer or displayed on Screen.
+0070#STR0070#ALL#There are no data to print the report.

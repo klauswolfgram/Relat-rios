@@ -1,0 +1,70 @@
+0001#STR0001#ALL#Geração do relatório PPA (Performance de Peças e Acessórios)
+0002#STR0002#ALL#para Caminhões e Ônibus VW/MAN
+0003#STR0003#ALL#Versão 04/2013
+0004#STR0004#ALL#Performance de Peças e Acessórios
+0005#STR0005#ALL#Data Inicial
+0006#STR0006#ALL#Data Final
+0007#STR0007#ALL#Governo
+0008#STR0008#ALL#Seguradora
+0009#STR0009#ALL#Loja de Peças
+0010#STR0010#ALL#Oficina Indep.
+0011#STR0011#ALL#Rede
+0012#STR0012#ALL#Frotista
+0013#STR0013#ALL#Acessórios
+0014#STR0014#ALL#Área Estoque (m2)
+0015#STR0015#ALL#Atacado/Balcão/Telev.
+0016#STR0016#ALL#Autônomos
+0017#STR0017#ALL#Bonific. Mês(%)
+0018#STR0018#ALL#C.Vendas
+0019#STR0019#ALL#CFOPs Trf.Ent.
+0020#STR0020#ALL#CFOPs Trf.Sai.
+0021#STR0021#ALL#Cliente não encontrado:
+0022#STR0022#ALL#Compras
+0023#STR0023#ALL#Consumo Interno
+0024#STR0024#ALL#Dados
+0025#STR0025#ALL#Versão 04/2013
+0026#STR0026#ALL#VW
+0027#STR0027#ALL#Demais Clientes
+0028#STR0028#ALL#Desconsidera Tip.Grup.
+0029#STR0029#ALL#DSH
+0030#STR0030#ALL#Estoque Outros
+0031#STR0031#ALL#Estoque P&A Não Ori.
+0032#STR0032#ALL#Estoque P&A Ori MAN
+0033#STR0033#ALL#Estoque P&A Ori VW
+0034#STR0034#ALL#Fabricante
+0035#STR0035#ALL#Frotista
+0036#STR0036#ALL#Garantia
+0037#STR0037#ALL#Transf-Saídas P&A
+0038#STR0038#ALL#V.Líq.
+0039#STR0039#ALL#Valor
+0040#STR0040#ALL#Grupo Lub/Comb.
+0041#STR0041#ALL#Grupo Outras Merc.
+0042#STR0042#ALL#Loja de Peças
+0043#STR0043#ALL#Lojas Peças / Dist.
+0044#STR0044#ALL#Marcas MAN
+0045#STR0045#ALL#Marcas VW
+0046#STR0046#ALL#Modalidade
+0047#STR0047#ALL#Oficina
+0048#STR0048#ALL#Oficina Indep.
+0049#STR0049#ALL#Outras Compras
+0050#STR0050#ALL#Outras Vendas
+0051#STR0051#ALL#Outros
+0052#STR0052#ALL#para Caminhões e Ônibus VW/MAN
+0053#STR0053#ALL#Performance de Peças e Acessórios
+0054#STR0054#ALL#PPA - Performance de Peças e Acessórios
+0055#STR0055#ALL#Recompra(Bon.Ano $)
+0056#STR0056#ALL#Rede
+0057#STR0057#ALL#Seguradora
+0058#STR0058#ALL#Tipo de tempo não encontrado:
+0059#STR0059#ALL#Transf-Entradas Outros
+0060#STR0060#ALL#Transf-Entradas P&A
+0061#STR0061#ALL#Transf-Saída Outros
+0062#STR0062#ALL#Vendas Pendentes
+0063#STR0063#ALL#Grupo Acessórios
+0064#STR0064#ALL#Estoque
+0065#STR0065#ALL#Deseja visualizar informações de estoque? (O levantamento pode demorar alguns minutos.)
+0066#STR0066#ALL#Atenção
+0067#STR0067#ALL#Considera:
+0068#STR0068#ALL#1-Exceto Pneus
+0069#STR0069#ALL#2-Somente Pneus
+0070#STR0070#ALL#3-Tudo

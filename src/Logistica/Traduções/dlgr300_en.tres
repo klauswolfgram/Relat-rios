@@ -1,0 +1,41 @@
+0001#STR0001#ALL#Packing list of Separation per Load
+0002#STR0002#ALL#Issues Separation Packing list Report ordered  by    
+0003#STR0003#ALL#Load+Load sequence. In each load, the items are              
+0004#STR0004#ALL#ordered by Order+Customer/Supplier+Unit+Item         
+0005#STR0005#ALL#Z.form 
+0006#STR0006#ALL#Management   
+0007#STR0007#ALL#Item Product         Lot        Sub-Lot  Origin Address                         1stUM
+0008#STR0008#ALL#     Description                                                                
+0009#STR0009#ALL#Item Product         Lot        Sub-Lot  Origin Address                         2ndUM
+0010#STR0010#ALL#Item Product         Lot        Sub-Lot  Address  Origin  Unitiz.   1.UM    2.UM
+0011#STR0011#ALL#Item Product         Lot        Sub-Lot  Address  Origin              Quantity  
+0012#STR0012#ALL#Load.....: 
+0013#STR0013#ALL#Arrival....: [______] Outflow[______]
+0014#STR0014#ALL#Vehicle..: 
+0015#STR0015#ALL#Driver.....: 
+0016#STR0016#ALL#Weight...: 
+0017#STR0017#ALL#Date.....: 
+0018#STR0018#ALL# Hour: 
+0019#STR0019#ALL#Targ.Addre.: 
+0020#STR0020#ALL#Order....: 
+0021#STR0021#ALL#Client.....: 
+0022#STR0022#ALL#Supplier...: 
+0023#STR0023#ALL#Selecting records........
+0024#STR0024#ALL#Please, wait ... Preparing records to be printed.
+0025#STR0025#ALL#Sorting cargo             
+0026#STR0026#ALL#Wait......
+0027#STR0027#ALL#Sorting orders      
+0028#STR0028#ALL#Wait... Arranging Files to be Printed...        
+0029#STR0029#ALL#Arrival
+0030#STR0030#ALL#Exit 
+0031#STR0031#ALL#Unitized 
+0032#STR0032#ALL#1ºUM
+0033#STR0033#ALL#2ºUM
+0034#STR0034#ALL#Cargoes
+0035#STR0035#ALL#Cargo Items   
+0036#STR0036#ALL#Movements by address   
+0037#STR0037#ALL#Seq
+0038#STR0038#ALL#Vehicle
+0039#STR0039#ALL#Amnt.
+0040#STR0040#ALL#Order 
+0041#STR0041#ALL#Item

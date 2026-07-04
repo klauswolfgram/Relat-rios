@@ -1,0 +1,21 @@
+0001#STR0001#ALL#RASTREAMENTO DE PRODUTO
+0002#STR0002#ALL#Zebrado
+0003#STR0003#ALL#Administracao
+0004#STR0004#ALL# DOCTO.  CARGA   PRODUTO            DATA    HR IN  HR FI  SERVICO               TAREFA                ATIVIDADE             RECURSO HUMANO        ENDERECO ORIGEM  ENDERECO DESTINO LOTE       SUB-LOTE         TIPO MOVTO
+0005#STR0005#ALL#                                                                                                                                                  QTDE.MOVIMENTOS  SALDO NO ENDERECO            EMPENHO
+0006#STR0006#ALL#Selecionando enderecos...
+0007#STR0007#ALL#CANCELADO PELO OPERADOR
+0008#STR0008#ALL#Relatorio de rastreamento da movimentacäo de produtos
+0009#STR0009#ALL#Docto.
+0010#STR0010#ALL#Hr In
+0011#STR0011#ALL#Hr Fi
+0012#STR0012#ALL#Servico
+0013#STR0013#ALL#Tarefa
+0014#STR0014#ALL#Atividade
+0015#STR0015#ALL#RecHum
+0016#STR0016#ALL#End. Origem
+0017#STR0017#ALL#TP Movto
+0018#STR0018#ALL#Qtde.Movtos
+0019#STR0019#ALL#Saldo Endereco
+0020#STR0020#ALL#Empenho
+0021#STR0021#ALL#Movimentos por endereco

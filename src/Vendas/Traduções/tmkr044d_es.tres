@@ -1,0 +1,15 @@
+0001#STR0001#ALL#C H A M A D O S   N A   A S S I S T Ê N C I A   T É C N I C A
+0002#STR0002#ALL#Número do Chamado
+0003#STR0003#ALL#Data do Chamado
+0004#STR0004#ALL#Código / Loja Cliente
+0005#STR0005#ALL#Nome do Cliente
+0006#STR0006#ALL#Hora Inicial
+0007#STR0007#ALL#Hora Final
+0008#STR0008#ALL#Telefone
+0009#STR0009#ALL#Contato
+0010#STR0010#ALL#Atendente
+0011#STR0011#ALL#Status
+0012#STR0012#ALL#Situação
+0013#STR0013#ALL#Região
+0014#STR0014#ALL#Chamado TELEMARKETING
+0015#STR0015#ALL#Item  Situação      Class  Produto/Eqto     Nr.Série              Ocorr.  O.S.      Orçam.    Fabric  Lj  Chamado   Client  Lj  Emissão   Baixa     Baixa  H.Desk  Histórico

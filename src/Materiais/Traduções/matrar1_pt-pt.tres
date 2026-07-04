@@ -1,0 +1,113 @@
+0001#STR0001#ARG#Emissão Do Livro Fiscal De Compras
+0001#STR0001#BOL#Emissão Do Livro Fiscal De Compras
+0002#STR0002#ARG#Sera solicitada a data inicial e a data final para a emissão
+0002#STR0002#BOL#Sera solicitada a data inicial e a data final para a emissão
+0003#STR0003#ARG#Do Livro Fiscal De Compras
+0003#STR0003#BOL#Do Livro Fiscal De Compras
+0005#STR0005#ARG#Administração
+0005#STR0005#BOL#Administração
+0006#STR0006#ARG#Tipo No Reg.
+0006#STR0006#BOL#Tipo No Reg.
+0007#STR0007#ARG#Filtrando registos...
+0007#STR0007#BOL#Filtrando registos...
+0008#STR0008#ARG#** anulado pelo operador **
+0008#STR0008#BOL#** anulado pelo operador **
+0009#STR0009#ARG#Livro de i. V. A. 
+0009#STR0009#BOL#Livro de i. V. A. 
+0012#STR0012#ARG#Página num.: 
+0012#STR0012#BOL#Página num.: 
+0013#STR0013#ARG#Tipo  Serie  Comprovante     Razão Social          C.u.i.t.       Liq. Gravado   Iva R.g.   Iva. Rni  Iva Serv. Iva Bs.cap.  Iva R.e.   Perc.iva  Perc.iibb  Perc.gan.  Ret. Iva.  Ret. Iibb          Isento            Total
+0013#STR0013#BOL#Tipo  Serie  Comprovante     Razão Social          C.u.i.t.       Liq. Gravado   Iva R.g.   Iva. Rni  Iva Serv. Iva Bs.cap.  Iva R.e.   Perc.iva  Perc.iibb  Perc.gan.  Ret. Iva.  Ret. Iibb          Isento            Total
+0014#STR0014#ARG#Totais criais :
+0014#STR0014#BOL#Totais criais :
+0015#STR0015#ARG#Totais por condição fiscal : 
+0015#STR0015#BOL#Totais por condição fiscal : 
+0016#STR0016#ARG#Totais facturas              : 
+0016#STR0016#BOL#Totais facturas              : 
+0017#STR0017#ARG#Totais das notas de crédito     : 
+0017#STR0017#BOL#Totais das notas de crédito     : 
+0018#STR0018#ARG#Totais das notas de débito       : 
+0018#STR0018#BOL#Totais das notas de débito       : 
+0019#STR0019#ARG#Totais por tipo de documento :
+0019#STR0019#BOL#Totais por tipo de documento :
+0020#STR0020#ARG# fórmulário 
+0020#STR0020#BOL# fórmulário 
+0021#STR0021#ARG#Fórmulario está posicionado?
+0021#STR0021#BOL#Fórmulario está posicionado?
+0022#STR0022#ARG#Sim
+0022#STR0022#BOL#Sim
+0023#STR0023#ARG#Não
+0023#STR0023#BOL#Não
+0024#STR0024#ARG#Anula a impressão
+0024#STR0024#BOL#Anula a impressão
+0025#STR0025#ARG#Tentar novamente? 
+0025#STR0025#BOL#Tentar novamente? 
+0026#STR0026#ARG# - de    : 
+0026#STR0026#BOL# - de    : 
+0027#STR0027#ARG#   até   : 
+0027#STR0027#BOL#   até   : 
+0029#STR0029#ARG#Total crial   :
+0029#STR0029#BOL#Total crial   :
+0030#STR0030#ARG#Totais por zona fiscal : 
+0030#STR0030#BOL#Totais por zona fiscal : 
+0031#STR0031#ARG#Totais por tipo de artigo : 
+0031#STR0031#BOL#Totais por tipo de artigo : 
+0032#STR0032#ARG#C a n c e l a d a 
+0032#STR0032#BOL#C a n c e l a d a 
+0033#STR0033#ARG#Emissão do livro fiscal de compras
+0033#STR0033#BOL#Emissão do livro fiscal de compras
+0034#STR0034#ARG#Este Programa Tem Como Objectivo Imprimir O Livro Fiscal De Compras.
+0034#STR0034#BOL#Este Programa Tem Como Objectivo Imprimir O Livro Fiscal De Compras.
+0035#STR0035#ARG#Livro De I.v.a. Compras
+0035#STR0035#BOL#Livro De I.v.a. Compras
+0039#STR0039#ARG#Razão social
+0039#STR0039#BOL#Razão social
+0040#STR0040#ARG#Líquido Gravado
+0040#STR0040#BOL#Líquido Gravado
+0041#STR0041#ARG#Iva R.g.
+0041#STR0041#BOL#Iva R.g.
+0042#STR0042#ARG#Iva R.n.i.
+0042#STR0042#BOL#Iva R.n.i.
+0043#STR0043#ARG#Iva Serv.
+0043#STR0043#BOL#Iva Serv.
+0044#STR0044#ARG#Iva Bs. Cap.
+0044#STR0044#BOL#Iva Bs. Cap.
+0045#STR0045#ARG#Iva R.e.
+0045#STR0045#BOL#Iva R.e.
+0046#STR0046#ARG#Perc. Iva
+0046#STR0046#BOL#Perc. Iva
+0047#STR0047#ARG#Perc. Iibb
+0047#STR0047#BOL#Perc. Iibb
+0048#STR0048#ARG#Perc. Gan.
+0048#STR0048#BOL#Perc. Gan.
+0049#STR0049#ARG#Ret. Iva
+0049#STR0049#BOL#Ret. Iva
+0050#STR0050#ARG#Ret. Iibb
+0050#STR0050#BOL#Ret. Iibb
+0051#STR0051#ARG#Isento
+0051#STR0051#BOL#Isento
+0052#STR0052#ARG#Total
+0052#STR0052#BOL#Total
+0053#STR0053#ARG#Totais Por Tipo De Documento
+0053#STR0053#BOL#Totais Por Tipo De Documento
+0054#STR0054#ARG#Total facturas            :
+0054#STR0054#BOL#Total facturas            :
+0055#STR0055#ARG#Total notas de debito    :
+0055#STR0055#BOL#Total notas de debito    :
+0056#STR0056#ARG#Total de notas de crédito   :
+0056#STR0056#BOL#Total de notas de crédito   :
+0057#STR0057#ARG#Totais Criais
+0057#STR0057#BOL#Totais Criais
+0058#STR0058#ARG#Total Crial:
+0058#STR0058#BOL#Total Crial:
+0061#STR0061#ARG#Totais por condição fiscal
+0061#STR0061#BOL#Totais por condição fiscal
+0062#STR0062#ARG#Totais Por Zona Fiscal
+0062#STR0062#BOL#Totais Por Zona Fiscal
+0063#STR0063#ARG#Totais Por Tipo De Produto
+0063#STR0063#BOL#Totais Por Tipo De Produto
+0066#STR0066#BOL#Série
+0067#STR0067#ARG#Série
+0067#STR0067#BOL#Série
+0068#STR0068#ARG#Sucursales Procesadas
+0069#STR0069#BOL#Sucursales Procesadas

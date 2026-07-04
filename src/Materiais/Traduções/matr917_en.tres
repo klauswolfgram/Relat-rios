@@ -1,0 +1,28 @@
+0001#STR0001#BRA#Summary of Movements of Incentivated / Unincentivated Products - PRODEPE
+0002#STR0002#BRA#This report will print the inflow and outflow movement         
+0003#STR0003#BRA#encouraged products or not by PRODEPE.    
+0004#STR0004#BRA#Z-Form 
+0005#STR0005#BRA#Management   
+0006#STR0006#BRA#Selecting records     ...
+0007#STR0007#BRA#|     ISSUE       |    NUMBER    |    SERIE    |     CFOP     |         CODE           |                    DESCRIPT.                     |      ACCOUNT.VALUE       |     CALCUL.BASIS         |        ICMS VALUE        |
+0008#STR0008#BRA#|                                                      *** NO MOVEMENT         ***                                                        |                          |                          |                          |
+0009#STR0009#BRA#|                                                              TOTAL                                                                      |     ################     |     ################     |     ################     |
+0010#STR0010#BRA#|                                                                                    MOVEMENTS OF OUTFLOW WITH NON-INCENTIVATED PRODUCTS                                                                                   |
+0011#STR0011#BRA#|                                                                                      MOVEMENTS OF OUTFLOW WITH INCENTIVATED PRODUCTS                                                                                     |
+0012#STR0012#BRA#|                                                                                   MOVEMENTS OF INFLOW WITH NON-INCENTIVATED PRODUCTS                                                                                     |
+0013#STR0013#BRA#|                                                                                     MOVEMENTS OF INFLOW WITH INCENTIVATED PRODUCTS                                                                                       |
+0014#STR0014#BRA#|                                                                                              SUMMARY BY INCENTIVATED PRODUCT                                                                                             |
+0015#STR0015#BRA#|                                                                                            SUMMARY OF NON-INCENTIVATED PRODUCT                                                                                           |
+0016#STR0016#BRA#|                             PRODUCT                              |                          INFLOW MOVEMENT                                 |                            OUTFLOW MOVEMENT                                |
+0017#STR0017#BRA#|        CODE         |                 DESCRIPTION                |     ACCOUNT.VALUE      |    CALCUL.BASIS        |      ICMS VALUE        |     ACCOUNT.VALUE      |    CALCUL.BASIS        |      ICMS VALUE          |
+0018#STR0018#BRA#|                           TOTAL                                  |    ################    |    ################    |    ################    |    ################    |    ################    |     ################     |
+0019#STR0019#BRA#|                                                                       SUMMARY OF MOVEMENTS OF INCENTIVATED / NON-INCENTIVATED PRODUCTS - PRODEPE                                                         PAGE:  ######   |
+0020#STR0020#BRA#|  COMPANY:    ########################################                         C.N.P.J.:   ##################                                    I.E.:     #####################                                          |
+0021#STR0021#BRA#|  ADDRESS :   ######################################                           CITY  :     #############################                         STATE :   ##                                                             |
+0022#STR0022#BRA#Parameter MV_SEF03 (field in table SB5 that determines incent.) not registered.
+0023#STR0023#BRA#Check the file to enable the report correct generation.               
+0024#STR0024#BRA#Parameter MV_SEF03
+0025#STR0025#BRA#SB5 table field that determines the inexisting incent. 
+0026#STR0026#BRA#Check the content of parameter MV_SEF03 to enable the correct report generation.            
+0027#STR0027#BRA#Content  MV_SEF03
+0028#STR0028#BRA#|   INFLOW DT    |    NUMBER    |    SERIEF    |     CFOP     |         CODES         |                    DESCRIPTION                     |      ACCOUNTING VALUE      |     CALCULATION BASE      |        ICMS VALUE        |

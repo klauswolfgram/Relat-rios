@@ -1,0 +1,44 @@
+0001#STR0001#ALL#Zebrado
+0002#STR0002#ALL#Administracao
+0003#STR0003#ALL#Por Data
+0004#STR0004#ALL#Por Numerario
+0005#STR0005#ALL#Por Banco
+0006#STR0006#ALL#Por Natureza
+0007#STR0007#ALL#Movimentaçäo diária do caixa, de forma analítica ( detalhada ) ou sin-
+0008#STR0008#ALL#tética  ( apenas os totais ). Informa os valores pagos e/ou  recebidos
+0009#STR0009#ALL#no intervalo definido.
+0010#STR0010#ALL#Movimento diario do caixa
+0011#STR0011#ALL#Data       Numerario Natureza   Banco Agencia Conta                 Cheque          Documento           Vencimento  Beneficiario                Historico                       Pagamentos      Recebimentos
+0012#STR0012#ALL#Analitico
+0013#STR0013#ALL#Sintetico
+0014#STR0014#ALL#Selecionando Registros...
+0015#STR0015#ALL#CANCELADO PELO OPERADOR
+0016#STR0016#ALL#Total - 
+0017#STR0017#ALL#Total geral :
+0018#STR0018#ALL#BANCO NAO DEFINIDO ( 
+0019#STR0019#ALL#NATUREZA NAO DEFINIDA ( 
+0020#STR0020#ALL#Saldos iniciais :
+0021#STR0021#ALL#Data       Numerario Natureza   Banco Agencia Conta                Cheque          Documento              OP/Rec   Vencimento  Beneficiario           Historico                Pagamentos      Recebimentos
+0022#STR0022#ALL#Data       Numerario Natureza   Banco Agencia Conta                Cheque          Documento              OP/Plan  Vencimento  Beneficiario           Historico                Pagamentos      Recebimentos
+0023#STR0023#ALL#Data
+0024#STR0024#ALL#Banco
+0025#STR0025#ALL#Agencia
+0026#STR0026#ALL#Conta
+0027#STR0027#ALL#Saldo
+0028#STR0028#ALL#Ordem
+0029#STR0029#ALL#Movimentos
+0030#STR0030#ALL#Numerario
+0031#STR0031#ALL#Natureza
+0032#STR0032#ALL#Cheque
+0033#STR0033#ALL#Documento
+0034#STR0034#ALL#OP/Rec
+0035#STR0035#ALL#OP/Plan
+0036#STR0036#ALL#Vencimento
+0037#STR0037#ALL#Beneficiario
+0038#STR0038#ALL#Historico
+0039#STR0039#ALL#Pagamentos(A)
+0040#STR0040#ALL#Recebimentos(B)
+0041#STR0041#ALL#B - A
+0042#STR0042#ALL#Total
+0043#STR0043#ALL#em 
+0044#STR0044#ALL#Moeda

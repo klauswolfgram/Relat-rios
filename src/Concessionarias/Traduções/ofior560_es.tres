@@ -1,0 +1,37 @@
+0001#STR0001#ALL#Ventas por Cliente
+0002#STR0002#ALL#A rayas
+0003#STR0003#ALL#Administracion
+0004#STR0004#ALL#Mostrador
+0005#STR0005#ALL#Taller Piezas
+0006#STR0006#ALL#Taller Servicios
+0007#STR0007#ALL#Vehiculos
+0008#STR0008#ALL#Piezas General ( Mostrador + Taller )
+0009#STR0009#ALL#Taller Gral. ( Piezas + Servicios )
+0010#STR0010#ALL#Todos Departamentos
+0011#STR0011#ALL#Filtrar:
+0012#STR0012#ALL#Departamento
+0013#STR0013#ALL#Filtrar Ventas por Ctd. de Clientes
+0014#STR0014#ALL#Ctd. de Clientes:
+0015#STR0015#ALL#Filtrar Ventas por Valor Total
+0016#STR0016#ALL#Vlr. Total de las Ventas:
+0017#STR0017#ALL#Filtrar Ventas por % Total
+0018#STR0018#ALL#% Total de las Ventas:
+0019#STR0019#ALL#Filtrar Ventas por Valor Total del Cliente
+0020#STR0020#ALL#Vlr. Total Inicial:
+0021#STR0021#ALL#Vlr. Total Final:
+0022#STR0022#ALL#de 
+0023#STR0023#ALL#Todos
+0024#STR0024#ALL#Mostrador Piezas    
+0025#STR0025#ALL# Piezas    
+0026#STR0026#ALL#Taller Piezas  
+0027#STR0027#ALL# Servicios 
+0028#STR0028#ALL#Taller Servicios
+0029#STR0029#ALL#Vehiculos        
+0030#STR0030#ALL#Piezas(Mostr.+Taller)
+0031#STR0031#ALL#Taller(Pza+Srv)
+0032#STR0032#ALL#Vehiculos      
+0033#STR0033#ALL# Periodo: 
+0034#STR0034#ALL# a 
+0035#STR0035#ALL# de 
+0036#STR0036#ALL#         Region  Ctd.   Vlr.Ventas Vl.Impuestos  Vlr.Costos GanancBruta %GnBru
+0037#STR0037#ALL#T O T A L     G E N E R A L   

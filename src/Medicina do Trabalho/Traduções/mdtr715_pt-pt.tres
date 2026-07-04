@@ -1,0 +1,29 @@
+0002#STR0002#ALL#Ordem de serviço
+0003#STR0003#ALL#Por actividade (o.s.)
+0004#STR0004#ALL#Segurança Do Trabalho
+0005#STR0005#ALL#Data De Elaboração:
+0006#STR0006#ALL#última Revisão:
+0007#STR0007#ALL#Dados Da Empresa
+0008#STR0008#ALL#Razão Social/nome:
+0009#STR0009#ALL#Morada:
+0011#STR0011#ALL#Nif:
+0012#STR0012#ALL#Cae:
+0013#STR0013#ALL#Localidade:
+0014#STR0014#ALL#Dados Do Empregado
+0016#STR0016#ALL#Centro De Custo:
+0018#STR0018#ALL#Ctps (só Brasil):
+0019#STR0019#ALL#Registo:
+0021#STR0021#ALL#Data De Nascimento:
+0022#STR0022#ALL#Rg:
+0023#STR0023#ALL#Descrição De Função:
+0024#STR0024#ALL#Agentes Associados às Actividades:
+0025#STR0025#ALL#Epi`s de utilização obrigatório: 
+0027#STR0027#ALL#Termo de responsabilidade: 
+0030#STR0030#ALL#Responsável empresa: 
+0031#STR0031#ALL#Função
+0050#STR0050#ALL#Buscar info. da função ?
+0051#STR0051#ALL#Actual
+0053#STR0053#ALL#Indica se o relatório deve imprimir as informações de riscos, EPI's relacionadas à função actual do colaborador,
+0054#STR0054#ALL# ou imprimir as informações relacionadas à função da própria O.S.
+0055#STR0055#ALL#Qtd. do agente ?
+0058#STR0058#ALL#Indica se o relatório deve imprimir ou não a informação referente à quantidade encontrada para o agente de risco.

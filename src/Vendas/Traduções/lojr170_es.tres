@@ -1,0 +1,22 @@
+0001#STR0001#ALL#La funcion de este programa es emitir los borderos de cobros
+0002#STR0002#ALL#generados por el usuario.
+0003#STR0003#ALL#Emision de borderos
+0004#STR0004#ALL#A Rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#ANULADO POR EL OPERADOR
+0007#STR0007#ALL#|   TOTAL DEl DETALLE A CREDITO DE NUESTRA CUENTA CORRIENTE    |
+0008#STR0008#ALL#|   CANTIDAD DE TITULOS IMPRESOS                               |
+0009#STR0009#ALL#Fecha:
+0010#STR0010#ALL#Atentamente
+0011#STR0011#ALL#A 
+0012#STR0012#ALL#AGENCIA 
+0013#STR0013#ALL# C/C 
+0014#STR0014#ALL#BORDERO NUM.
+0015#STR0015#ALL#Solicitamos que efectuen la cobranza de los siguientes titulos listados
+0016#STR0016#ALL#ACREDITANDO los valores correspondientes.
+0017#STR0017#ALL#NUM.TITULO |P|CODIGO|R A Z O N   S O C I A L        |  VENCTO  |         VALOR   |
+0018#STR0018#ALL#NUM CHEQUE|P|CODIGO|R A Z O N   S O C I A L        |  VENCTO  |         VALOR   |
+0019#STR0019#ALL#Total de la lista a credito de nuestra cuenta corriente 
+0020#STR0020#ALL#Cantidad de titulos impresos 
+0021#STR0021#ALL#Bancos - Emision de boletas 
+0022#STR0022#ALL#Titulos - Emision de boletas 

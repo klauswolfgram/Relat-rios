@@ -1,0 +1,66 @@
+0001#STR0001#ALL#Copia da Nota Fiscal
+0002#STR0002#ALL#Nota Fiscal
+0003#STR0003#ALL#Pesquisar
+0004#STR0004#ALL#Imprimir
+0005#STR0005#ALL#Pecas
+0006#STR0006#ALL#Oficina
+0007#STR0007#ALL#Veiculo
+0008#STR0008#ALL#Todas
+0009#STR0009#ALL#Tipo de Nota Fiscal
+0010#STR0010#ALL#Consulta Pedido
+0011#STR0011#ALL#Avaliacao do Resultado
+0012#STR0012#ALL#Consulta Nota Fiscal
+0013#STR0013#ALL#Venda
+0014#STR0014#ALL#Pagamento
+0015#STR0015#ALL#Cliente: 
+0016#STR0016#ALL#Condicao: 
+0017#STR0017#ALL#Itens
+0018#STR0018#ALL#Desconto
+0019#STR0019#ALL#Total
+0020#STR0020#ALL#Descricao  
+0021#STR0021#ALL#Valor      
+0022#STR0022#ALL#Data
+0023#STR0023#ALL#Valor
+0024#STR0024#ALL#Pedidos
+0025#STR0025#ALL#N.Fiscal
+0026#STR0026#ALL#Opcao nao disponivel
+0027#STR0027#ALL#Total da Venda
+0028#STR0028#ALL#Consultar
+0029#STR0029#ALL#Consulta Nota Fiscal
+0030#STR0030#ALL#Venda
+0031#STR0031#ALL#Pagamento
+0032#STR0032#ALL#Consulta Pedido
+0033#STR0033#ALL#Consulta Observacao
+0034#STR0034#ALL#Avaliacao do Resultado
+0035#STR0035#ALL#Cliente: 
+0036#STR0036#ALL#Condicao: 
+0037#STR0037#ALL#Itens
+0038#STR0038#ALL#Desconto
+0039#STR0039#ALL#Total
+0040#STR0040#ALL#Descricao  
+0041#STR0041#ALL#Valor      
+0042#STR0042#ALL#Data
+0043#STR0043#ALL#Valor
+0044#STR0044#ALL#Pedidos
+0045#STR0045#ALL#N.Fiscal
+0046#STR0046#ALL#Opcao nao disponivel
+0047#STR0047#ALL#Total da Venda
+0048#STR0048#ALL#Observação
+0049#STR0049#ALL#Resultado da Peça 
+0050#STR0050#ALL#Resultado do Total das Peças 
+0051#STR0051#ALL#Resultado do Serviço 
+0052#STR0052#ALL#Resultado do Total dos Serviços 
+0053#STR0053#ALL#Resultado do Total da Nota Fiscal 
+0054#STR0054#ALL# Serie 
+0055#STR0055#ALL# - O.S. 
+0056#STR0056#ALL#Resultado do Total da OS Agrupada 
+0057#STR0057#ALL#Nota Fiscal 
+0058#STR0058#ALL# - O.S.'s Agrupadas 
+0059#STR0059#ALL#Mapa de Resultado por Item
+0060#STR0060#ALL#Resultado do Item
+0061#STR0061#ALL#ZEBRADO
+0062#STR0062#ALL#ADMINISTRAÇÂO
+0063#STR0063#ALL#Resultado da Avaliação
+0064#STR0064#ALL#Grp. Código do Item  Descrição           
+0065#STR0065#ALL#RESULTADO FINAL
+0066#STR0066#ALL#Cod. Serviço    Descrição           

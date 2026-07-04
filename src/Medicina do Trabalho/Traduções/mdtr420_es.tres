@@ -1,0 +1,43 @@
+0001#STR0001#ALL#Informe de presentación de enfermedades por función. Basado en los 
+0002#STR0002#ALL#diagnósticos emitidos por los médicos, para los empleados.                              
+0003#STR0003#ALL#A traves de los parámetros se puede seleccionar tanto la función como el CIE.
+0004#STR0004#ALL#A Rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#CIE vs. Función
+0007#STR0007#ALL#Función Descripción                             
+0008#STR0008#ALL#ANULADO POR EL OPERADOR
+0009#STR0009#ALL#Cliente..:
+0010#STR0010#ALL#        C.I.E.     Descripción                   Grupo C.I.D.   Masc.       Fem.
+0011#STR0011#ALL#Total de atenciones: 
+0012#STR0012#ALL#Total de atenciones...: 
+0013#STR0013#ALL#TOTAL GRAL. : 
+0014#STR0014#ALL#Func.
+0015#STR0015#ALL#Descripc.
+0016#STR0016#ALL#C.I.E.
+0017#STR0017#ALL#Masculino
+0018#STR0018#ALL#Femenino
+0019#STR0019#ALL#Espere
+0020#STR0020#ALL#Procesando diagnósticos...
+0021#STR0021#ALL#Total Gral.: 
+0022#STR0022#ALL#Total de atenciones: 
+0023#STR0023#ALL#C.I.E.: 
+0024#STR0024#ALL#Cliente
+0025#STR0025#ALL#Nom.
+0026#STR0026#ALL#¿De Cliente?
+0027#STR0027#ALL#Tienda
+0028#STR0028#ALL#¿A Cliente?
+0029#STR0029#ALL#Código del cliente. El campo puede permanecer vacío para considerar desde el primer código.
+0030#STR0030#ALL#Código de la tienda del cliente. El campo puede permanecer vacío para considerar desde el primer código.
+0031#STR0031#ALL#Código del cliente. El campo puede completarse con la letra Z hasta el final para considerar el último código.
+0032#STR0032#ALL#Código de la tienda del cliente. El campo puede completarse con la letra Z hasta el final para considerar el último código.
+0033#STR0033#ALL#No hay nada para imprimir en el informe.
+0034#STR0034#ALL#Cliente/Tienda: 
+0035#STR0035#ALL#¿A Cliente ?
+0036#STR0036#ALL#¿A Fecha Diagnóst. ?
+0037#STR0037#ALL#¿De Fecha Diagnóst. ?
+0038#STR0038#ALL#¿A CIE ?
+0039#STR0039#ALL#¿De  CIE ?
+0040#STR0040#ALL#¿A Función ?
+0041#STR0041#ALL#¿De  Función ?
+0042#STR0042#ALL#Grupo C.I.E.
+0043#STR0043#ALL#Total atenciones

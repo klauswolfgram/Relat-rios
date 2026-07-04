@@ -1,0 +1,38 @@
+0001#STR0001#ALL#Função disponível apenas para ambientes TopConnect
+0002#STR0002#ALL#Função disponível apenas para TReport
+0003#STR0003#ALL#Demonstrativo de Bens em Terceiros
+0004#STR0004#ALL#Codigo
+0005#STR0005#ALL#Grupo
+0006#STR0006#ALL#Data Aquisicao
+0007#STR0007#ALL#Dados da Entidade
+0008#STR0008#ALL#Descrição Tipo
+0009#STR0009#ALL#Valores
+0010#STR0010#ALL#Moeda
+0011#STR0011#ALL#Valor Original
+0012#STR0012#ALL#Valor Ampliação
+0013#STR0013#ALL#Valor Atualizado
+0014#STR0014#ALL#Deprec. Acumulada
+0015#STR0015#ALL#Valor Residual
+0016#STR0016#ALL#Dados
+0017#STR0017#ALL#Texto Total por Entidade Contábil
+0018#STR0018#ALL#Total Geral
+0019#STR0019#ALL#QUANTIDADE
+0020#STR0020#ALL#Valores do Total por Entidade Contábil
+0021#STR0021#ALL#Texto Total por Filial
+0022#STR0022#ALL#Valores do Total por Filial
+0023#STR0023#ALL#Texto Total Geral
+0024#STR0024#ALL#Valores do Total Geral
+0025#STR0025#ALL#Criando Arquivo Temporário...
+0026#STR0026#ALL#Posicao Valorizada dos Bens na Data
+0027#STR0027#ALL#* * *   T O T A L   P O R   E N T I D A D E   * * *
+0028#STR0028#ALL#* * *   T O T A L   P O R   F I L I A L   * * *
+0029#STR0029#ALL#* * *   T O T A L   G E R A L   * * *
+0030#STR0128#ALL#Digite Código do Bem válido
+0031#STR0129#ALL#Digite Item do Bem válido
+0032#STR0130#ALL#Digite Grupo do Bem válido
+0033#STR0131#ALL#Digite Fornecedor válido
+0034#STR0132#ALL#Digite Data de Aquisição do Bem válida
+0035#STR0133#ALL#Deve ser selecionado no mínimo 1 Filial
+0036#STR0134#ALL#Digite Número da Folha válida
+0037#STR0135#ALL#Deve ser selecionado no mínimo 1 Moeda
+0038#STR0136#ALL#Deve ser selecionado no máximo 5 Moedas

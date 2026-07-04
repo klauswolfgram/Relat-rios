@@ -1,0 +1,55 @@
+0001#STR0001#ALL#Registration
+0002#STR0002#ALL#Cost Center
+0003#STR0003#ALL#Name
+0004#STR0004#ALL#Cost Center + Name
+0005#STR0005#ALL#Shift
+0006#STR0006#ALL#Generation of Severance Amounts.
+0007#STR0007#ALL#Must be generatd after Calculating Severances. 
+0008#STR0008#ALL#It will be printed according to the parameters selected by the User.
+0009#STR0009#ALL#Z.Form
+0010#STR0010#ALL#Management
+0011#STR0011#ALL#Termination Values
+0012#STR0012#ALL#Branch: 
+0013#STR0013#ALL#Registration: 
+0014#STR0014#ALL#Name: 
+0015#STR0015#ALL#Dismissal Date:
+0016#STR0016#ALL#Homologation Date:
+0017#STR0017#ALL#Notific.Date:
+0018#STR0018#ALL#Generation Date:
+0019#STR0019#ALL#Notific.Days: 
+0020#STR0020#ALL#Terminat.Type: 
+0021#STR0021#ALL#Month For Prom.: 
+0022#STR0022#ALL#Yes
+0023#STR0023#ALL#No
+0024#STR0024#ALL#Overdue Vacations: 
+0025#STR0025#ALL#Proportional Vacations: 
+0026#STR0026#ALL#Salary Month: 
+0027#STR0027#ALL#Salary Day: 
+0028#STR0028#ALL#Salary Time: 
+0029#STR0029#ALL#Total Employee:   
+0030#STR0030#ALL#Cod Description         Qtty      Reven.    Cod Description         Qtty      Discounts Cod Description         Qtty           Bases
+0031#STR0031#ALL#Order: 
+0032#STR0032#ALL#Cost Center: 
+0033#STR0033#ALL#Shift: 
+0034#STR0034#ALL#Total -  Branch:     
+0035#STR0035#ALL#Total - C.Center:    
+0036#STR0036#ALL#Total -  Shift:      
+0037#STR0037#ALL#Total -  Company:    
+0038#STR0038#ALL#Detailed 
+0039#STR0039#ALL#Summarized 
+0040#STR0050#ALL#IT Dep. Nr.: 
+0041#STR0051#ALL#Net:
+0042#STR0052#ALL#FC Dep. Nr.: 
+0043#STR0053#ALL#Simulated: 
+0044#STR0054#ALL#Employees   
+0045#STR0055#ALL#Reciss.
+0046#STR0056#ALL#Earnings 
+0047#STR0057#ALL#Deduction
+0048#STR0058#ALL#Basis
+0049#STR0059#ALL#Branch
+0050#STR0060#ALL#Description
+0051#STR0061#ALL#CPF/CNPJ
+0052#STR0062#ALL#Descr
+0053#STR0063#ALL#Warning
+0054#STR0064#ALL#Printing for the Summarized Report Type for the Table Spreadsheet Type is not supported.
+0055#STR0065#ALL#Deseja imprimir Relatório de Valores de Rescisões pelo Smart View?

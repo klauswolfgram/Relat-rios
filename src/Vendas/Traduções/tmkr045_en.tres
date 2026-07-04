@@ -1,0 +1,21 @@
+0001#STR0001#ALL#General Status of Telecollection
+0002#STR0002#ALL#This report shows, in a summarized way, updated numbers from bills under collection.
+0003#STR0003#ALL#The report cannot be extracted by retroactive dates.
+0004#STR0004#ALL#Z.Form
+0005#STR0005#ALL#Administration
+0006#STR0006#ALL#Protheus Accounts Receivable (Valid for Telecollection) 
+0007#STR0007#ALL#Bills imported to Telecollection      
+0008#STR0008#ALL#Bills not activated
+0009#STR0009#ALL#Total of bills that are not in the Collection queue
+0010#STR0010#ALL#CANCELED BY OPERATOR
+0011#STR0011#ALL#Current status by Selection Rule
+0012#STR0012#ALL#(Bill totals in Telecollection grouped by Selection Rule)       
+0013#STR0013#ALL#Rule Name
+0014#STR0014#ALL#Total of Bills
+0015#STR0015#ALL#Total of Customers
+0016#STR0016#ALL#Amount (R$)
+0017#STR0017#ALL#Total of bills not activated by Selection Rule
+0018#STR0018#ALL#(Telecollection new bills. These bills can be new or migrated from another Selection range)          
+0019#STR0019#ALL#Indicators
+0020#STR0020#ALL#Days in arrears for the oldest bill in arrears outside the collection queue=>   
+0021#STR0021#ALL#Date when the selection routine was last executed             => 

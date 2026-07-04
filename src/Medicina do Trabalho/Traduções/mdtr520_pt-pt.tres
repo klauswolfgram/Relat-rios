@@ -1,0 +1,20 @@
+0001#STR0001#ALL#Mostrar todos os riscos a que o empregado esta exposto atualmente,
+0002#STR0002#ALL#Bem como os riscos que existem no novo ambiente em que o empregado
+0003#STR0003#ALL#Ira trabalhar
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#Riscos Atual Do Empregado E Existentes No Novo Ambiente
+0007#STR0007#ALL#Sim
+0008#STR0008#ALL#Não
+0009#STR0009#ALL#Funcionário.......:
+0010#STR0010#ALL#Data De Nascimento:
+0011#STR0011#ALL#Data De Admissão..:
+0013#STR0013#ALL#Centro De Custo.:
+0014#STR0014#ALL#A partir de: 
+0015#STR0015#ALL#Função..........:
+0018#STR0018#ALL#Num. Risco Agente               Fonte Criadora       Avaliação   Intensidade U.m.   C.custo              Função Tarefa
+0021#STR0021#ALL#Num. Risco Agente               Fonte Criadora       Avaliação   Intensidade U.m.   C.custo              Função Tarefa Novo
+0027#STR0027#ALL#A função seleccionada não pertence ao cliente onde o empregado está localizado.
+0028#STR0028#ALL#A tarefa seleccionada não pertence ao cliente onde o empregado está localizado.
+0031#STR0031#ALL#Código
+0033#STR0033#ALL#Seleccione o novo ambiente para o colaborador

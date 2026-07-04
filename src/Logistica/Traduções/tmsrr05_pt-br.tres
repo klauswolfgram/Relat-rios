@@ -1,0 +1,23 @@
+0001#STR0001#BRA#Romaneio de entrega por redespachante
+0002#STR0002#BRA#Documentos em poder do redespachante
+0003#STR0003#BRA#Documentos selecionados
+0004#STR0004#BRA#Atenção
+0005#STR0005#BRA#Não existe informação para os parametro indicados !
+0006#STR0006#BRA#*** CANCELADO PELO OPERADOR ***
+0007#STR0007#BRA#Redespachante:
+0008#STR0008#BRA#Código 
+0009#STR0009#BRA#Loja 
+0010#STR0010#BRA#Nome 
+0011#STR0011#BRA#Filial
+0012#STR0012#BRA#Doc.
+0013#STR0013#BRA#Série
+0014#STR0014#BRA#Destinatário
+0015#STR0015#BRA#Endereço
+0016#STR0016#BRA#Bairro
+0017#STR0017#BRA#Quantidade
+0018#STR0018#BRA#Valor Mercadoria
+0019#STR0019#BRA#Data _______________________________                _____________________________________________
+0020#STR0020#BRA#Obs: Documentos entregue ao redespachante
+0021#STR0021#BRA#Informe o código do redespacho
+0022#STR0022#BRA#Informe o código do redespacho
+0023#STR0023#BRA#Dados Protegidos - Acesso Restrito: Este usuário não possui permissão de acesso aos dados dessa rotina. Para mais informações contate o Administrador do sistema !!

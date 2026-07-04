@@ -1,0 +1,28 @@
+0001#STR0001#ALL#Este programa irá imprimir o comparativo de contas contabilísticas de 2 até 
+0002#STR0002#ALL# 6 filiais. Os valores são ref. ao movimento do período pedido. 
+0003#STR0003#ALL#Comparativo De Contas Contabilísticas Com Filiais
+0004#STR0004#ALL#|  código                     |   descrição    |    mov filial 01    |    mov filial 02    |    mov filial 03    |    mov filial 04    |    mov filial 05    |    mov filial 06    |     total  crial      |
+0005#STR0005#ALL#Comparativo de filiais analítico de 
+0006#STR0006#ALL# até 
+0007#STR0007#ALL# em 
+0008#STR0008#ALL#Comparativo de filiais sintético de 
+0009#STR0009#ALL# atenção 
+0010#STR0010#ALL#***** cancelado pelo operador *****
+0011#STR0011#ALL#Totais do período: 
+0012#STR0012#ALL#Comparativo de 
+0013#STR0013#ALL#Código de barras
+0014#STR0014#ALL#Administração
+0015#STR0015#ALL#A Criar Ficheiro Temporário...
+0016#STR0016#ALL#T o t a i s  d o  g r u p o (
+0017#STR0017#ALL#Caso não actualize os saldos  básicos  na
+0018#STR0018#ALL#Digitação dos movimentos (mv_atusal='n'),
+0019#STR0019#ALL#Correr o procedimento  de actualização de saldos 
+0020#STR0020#ALL#Para todas as filiais requeridas nesse 
+0021#STR0021#ALL#Relatório.
+0022#STR0022#ALL#Código
+0023#STR0023#ALL#Descrição
+0024#STR0024#ALL#Mov. Filial
+0025#STR0025#ALL#Total Crial
+0027#STR0027#ALL#Plano De Contas
+0028#STR0028#ALL#O relatório apenas pode ser executado com plano de contas compartilhado. Por favor, verifique.
+0029#STR0029#ALL#O relatório apenas pode ser executado com os lançamentos contabilísticos exclusivos. Por favor, verifique.

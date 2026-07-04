@@ -1,0 +1,15 @@
+0001#STR0001#ALL#Pendentes Agendadas Para O Operador
+0003#STR0003#ALL#Cobranças pendentes que estão na carteira 
+0004#STR0004#ALL#De Cobrança De Um Operador.
+0005#STR0005#ALL#Código de barras
+0007#STR0007#ALL#Cancelado Pelo Operador
+0010#STR0010#ALL#Cliente  Loja  Razão Social                              Contr.              Total Dívida  Enviado   Retorno   Hora  Nome Completo                        Atendimento  Data      Operação
+0011#STR0011#ALL#Total da filial: 
+0012#STR0013#ALL#Total do operador: 
+0014#STR0015#ALL#Activo
+0015#STR0016#ALL#Total Crial:
+0016#STR0017#ALL#Não há informações para imprimir este relatório
+0017#STR0018#ALL#Total da filial 
+0020#STR0021#ALL#A classificar
+0021#STR0022#ALL#Quebra Por Filial
+0023#STR0024#ALL#Itens X Pendente

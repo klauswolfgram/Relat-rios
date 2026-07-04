@@ -1,0 +1,11 @@
+0001#STR0001#ALL#Este programa emitirá um kardex com todas as movimentações
+0002#STR0002#ALL#do stock por Endereço e Número de Série, diariamente.
+0003#STR0003#ALL#Kardex por Endereço (por artigo)
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#ARTIGO         DESCRICAO                      ARMAZ ENDEREÇO      NUMERO DE SERIE      LOTE       SUBLOTE DATA MOVIM    DOCUMENTO  SERIE EST SALDO INICIAL          ENTRADA        SAIDA          SALDO
+0007#STR0007#ALL#Cancelado Pelo Operador
+0008#STR0008#ALL#A Seleccionar Registos...
+0010#STR0010#ALL#Série
+0014#STR0014#ALL#Saída
+0017#STR0017#ALL#Nao houve movimentacao para este art.

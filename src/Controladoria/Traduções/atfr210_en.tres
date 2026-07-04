@@ -1,0 +1,20 @@
+0001#STR0001#ALL#This routine will print a list of Assets to be inventoried,   
+0002#STR0002#ALL#according to the selected parameters. The Account Adjust of   
+0003#STR0003#ALL#those Assets must be done before next Calc. 
+0004#STR0004#ALL#Z.Form 
+0005#STR0005#ALL#Management   
+0006#STR0006#ALL#Report on Inventoried Assets 
+0007#STR0007#ALL#Code  
+0008#STR0008#ALL#CCenter
+0009#STR0009#ALL#C Base     Item Ti Sheet  Description                     Warehouse CCenter    Grp    Curr. Amt.      Resid Value    Inv.Amt.   Visa Invent Value
+0010#STR0010#ALL#C Base     Item Ti Plate  Description                    Warehouse CostCenter    Group Current Amt     Inv. Amt   Invent Amt Checked 
+0011#STR0011#ALL# per 
+0012#STR0012#ALL# in 
+0013#STR0013#ALL#CANCELLED BY THE OPERATOR  
+0014#STR0014#ALL#Resid.Amnt.
+0015#STR0015#ALL#Qty. Invent.
+0016#STR0016#ALL#ValueInvent.
+0017#STR0017#ALL#Check
+0018#STR0018#ALL#Goods/Blnces
+0019#STR0019#ALL#Plate
+0020#STR0020#ALL#Selecting Records...     

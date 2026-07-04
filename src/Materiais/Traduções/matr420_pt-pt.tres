@@ -1,0 +1,31 @@
+0001#STR0001#ALL#Resumo Diário Do Kardex
+0002#STR0002#ALL#Este programa emite uma relação, resumida por dia, das movimentações
+0003#STR0003#ALL#Dos produtos e materiais de stock. ele aglutina as entradas e
+0004#STR0004#ALL#Saídas numa única linha para cada dia.
+0005#STR0005#ALL# código produto 
+0006#STR0006#ALL# Tipo Do Produto
+0007#STR0007#ALL#Código de barras
+0008#STR0008#ALL#Administração
+0009#STR0009#ALL#Data do    |         e  n  t  r  a  d  a  s        |            s  a  í  d  a  s           |            s   a   l   d   o           
+0010#STR0010#ALL#Movimento  |       Quantidade          Custo Total |       Quantidade          Custo Total |        Quantidade           Valor Total
+0011#STR0011#ALL# (por 
+0013#STR0013#ALL#Cancelado Pelo Operador
+0014#STR0014#ALL#T o t a i s :
+0015#STR0015#ALL#Qtd. na segunda um: 
+0016#STR0016#ALL#Não Houve Movimentação Para Este Artigo
+0017#STR0017#ALL#Cód: 
+0018#STR0018#ALL#Um: 
+0019#STR0019#ALL#Tipo: 
+0020#STR0020#ALL#Grupo: 
+0021#STR0021#ALL#Armazém : 
+0024#STR0024#ALL#Data Do Movimento
+0025#STR0025#ALL#Quantidade De Entrada
+0026#STR0026#ALL#Custo Total De Entrada
+0027#STR0027#ALL#Quantidade De Saída
+0028#STR0028#ALL#Custo Total De Saída
+0029#STR0029#ALL#Saldo Da Quantidade
+0031#STR0031#ALL#Artigos
+0032#STR0032#ALL#Movimentação Dos Artigos
+0033#STR0033#ALL#Atenção
+0034#STR0034#ALL#Ao alterar o armazém o custo medio unificado será desconsiderado.
+0036#STR0036#ALL#Abandonar

@@ -1,0 +1,45 @@
+0001#STR0001#ALL#Este programa emitira la lista de
+0002#STR0002#ALL#Fichas de calibracion de acuerdo 
+0003#STR0003#ALL#con los parametros seleccionados.
+0004#STR0004#ALL#FICHA DE CALIBRACION
+0005#STR0005#ALL#A Rayas
+0006#STR0006#ALL#Administracion
+0007#STR0007#ALL#INSTRUMENTO..: 
+0008#STR0008#ALL#DEPARTAMENTO.: 
+0009#STR0009#ALL#FREC.COTEJO..: 
+0010#STR0010#ALL#VALIDEZ:
+0011#STR0011#ALL#PROCEDIMIENTO: 
+0012#STR0012#ALL#LOCALIZACION.: 
+0013#STR0013#ALL#NUM.DE SERIE.:
+0014#STR0014#ALL#ESCALA.: 
+0015#STR0015#ALL#UNIDAD DE MEDIDA: 
+0016#STR0016#ALL#ESTAND. SECUNDARIO:
+0017#STR0017#ALL#INSTRUMENTO UTILIZADO: 
+0018#STR0018#ALL#Estandar
+0019#STR0019#ALL#Revision
+0020#STR0020#ALL#| Especificado | Tol.Minima | Tol.Maxima |Tp.Calc.Tol| Valor       | Obs.                                   |
+0021#STR0021#ALL#| Especificado | Tol.Minima | Tol.Maxima |Tp.Calc.Tol| Vlr Inicial | Vlr Final  | Obs.                      |
+0022#STR0022#ALL#|                |     |              |            |            |           |  Valor Inicial   |   Valor Final    |                |
+0023#STR0023#ALL#|Estandar        | Rev | Especificado | Tol.Minima | Tol.Maxima |Tp.Calc.Tol| Subida |  Bajada | Subida |  Bajada |Obs.          |
+0024#STR0024#ALL#|Punto           | Especificado | LIE        | LSE        |Tp.Calc.Tol| Unid.Med. | Valor       | Obs.:                            |
+0025#STR0025#ALL#|Punto           | Especificado | LIE        | LSE        |Tp.Calc.Tol| Vlr Final   | Vlr Final  | Obs.:                           |
+0026#STR0026#ALL#|[ ] APROBADO |
+0027#STR0027#ALL#|[ ] REPROBADO|
+0028#STR0028#ALL#|[ ] APROBADO [ ] REPROBADO|
+0029#STR0029#ALL#|[ ] APROBADO [ ] REPROBADO|
+0030#STR0030#ALL#|[ ] APROBADO [ ] REPROBADO|
+0031#STR0031#ALL#* * * * * *   M E D I C I O N E S  R E A L I Z A D A S  P O R  L A B O R A T O R I O  E X T E R N O   * * * * * *
+0032#STR0032#ALL#| Fecha :   /    /
+0033#STR0033#ALL#| Hora Inicial:      :
+0034#STR0034#ALL#| Hora Final  :      :
+0035#STR0035#ALL#| Metrologista : 
+0036#STR0036#ALL#EMISOR......: 
+0037#STR0037#ALL# Dias     
+0038#STR0038#ALL#Elija la opcion que se Imprimira
+0039#STR0039#ALL#Datos del Responsable
+0040#STR0040#ALL#N.Reduc
+0041#STR0041#ALL#Codigo
+0042#STR0042#ALL#Nombre Completo
+0043#STR0043#ALL#DESC.FAMILIA.: 
+0044#STR0044#ALL#TEMPERATURA..: 
+0045#STR0045#ALL#REV.: 

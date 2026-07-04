@@ -1,0 +1,23 @@
+0001#STR0001#ALL#Relatório De Visitas
+0002#STR0002#ALL#Sera impresso de acordo com os parâmetro s solicitados pelo
+0003#STR0003#ALL#Utilizador.
+0005#STR0007#ALL#A Seleccionar Visitantes...
+0006#STR0008#ALL#Código de barras
+0007#STR0009#ALL#Administração
+0008#STR0011#ALL#Relatório De Controlo De Visitas
+0009#STR0012#ALL#Cartão: 
+0010#STR0013#ALL#Código: 
+0012#STR0015#ALL#  Total De Visitas
+0016#STR0022#ALL#Visitante                         |cartão     |  data     |  entrada         |  saída           |  liquidação    | contacto              | c.custo                           
+0017#STR0023#ALL#                                                           * Acessos *       |  Relógio
+0019#STR0025#ALL#Cartão
+0022#STR0028#ALL#Saída
+0023#STR0029#ALL#Liquidação
+0024#STR0030#ALL#Contacto
+0025#STR0031#ALL#C.custo
+0027#STR0033#ALL#Data De Liquidação
+0028#STR0104#ALL#Código Do Visitante + Data Da Visita
+0029#STR0105#ALL#Cartão + Data Da Visita
+0030#STR0106#ALL#Data Da Visita + Cartão
+0031#STR0107#ALL#Liquidação + Cartão
+0033#STR0109#ALL#Este relatório apresenta a relação das visitas recebidas num determinado período.

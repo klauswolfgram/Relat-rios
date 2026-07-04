@@ -1,0 +1,25 @@
+0001#STR0001#ALL#Prazo de Vida dos chamados
+0002#STR0002#ALL#Este relatório exibe a média do prazo decorrido dos chamados atendidos 
+0003#STR0003#ALL#no mês desde a sua abertura até a última interação.
+0004#STR0004#ALL#Equipes
+0005#STR0005#ALL#Chamados
+0006#STR0006#ALL#Totalizado Sintético
+0007#STR0007#ALL#Cliente
+0008#STR0008#ALL#Descrição
+0009#STR0009#ALL#Equipe que transferiu
+0010#STR0010#ALL#Dt transferência
+0011#STR0011#ALL#Dt ult interação
+0012#STR0012#ALL#Prazo médio
+0013#STR0013#ALL#Cod FNC
+0014#STR0014#ALL#Analista
+0015#STR0015#ALL#Equipe
+0016#STR0016#ALL#Nome
+0017#STR0017#ALL#Qtde total de chamados
+0018#STR0018#ALL#Chamados solucionados(%)
+0019#STR0019#ALL#Ch solucionados em ate 24h(%)
+0020#STR0020#ALL#Ch solucionados em ate 48h(%)
+0021#STR0021#ALL#Ch solucionados em ate 72h(%)
+0022#STR0022#ALL#Ch solucionados com mais de 72h(%)
+0023#STR0023#ALL#Resultados por equipes
+0024#STR0024#ALL#Entidade Resp.
+0025#STR0025#ALL#Contato Resp.

@@ -1,0 +1,32 @@
+0001#STR0001#ALL#This program has the purpose of printing the updated value of   
+0002#STR0002#ALL#financial investments, according to the requested parameters. 
+0003#STR0003#ALL#Statement of Investments
+0004#STR0005#ALL#Z.Form
+0005#STR0006#ALL#Management
+0006#STR0007#ALL#CANCELLED BY THE OPERATOR
+0007#STR0008#ALL#                                                Investment Data                                                                             Values
+0008#STR0009#ALL#Number    Institution          Aplic.Dt.Mod.   Redemp.Dt.         Main Quota Util. Apl     Current Quota    Gross Income       IOF Tax Perc.    IOF Value   IR Tax        IR Value     Net Redemption
+0009#STR0010#ALL#Grand Total
+0010#STR0011#ALL#Inform the values of the daily quotas
+0011#STR0012#ALL#Contract
+0012#STR0013#ALL#Bank
+0013#STR0014#ALL#Bank Branch
+0014#STR0015#ALL#Balance
+0015#STR0016#ALL#Current Quota Vlr.
+0016#STR0017#ALL#Day Quota Vlr.
+0017#STR0018#ALL#Qota Util. Apl
+0018#STR0019#ALL#Crrn.Quota
+0019#STR0020#ALL#Gross yield     
+0020#STR0021#ALL#Perc.
+0021#STR0022#ALL#IOF rate   
+0022#STR0023#ALL#IOF amount  
+0023#STR0024#ALL#Net redemption 
+0024#STR0025#ALL#Investment info   
+0025#STR0026#ALL#Branch: 
+0026#STR0027#ALL#Code
+0027#STR0028#ALL#Company
+0028#STR0029#ALL#Business Unit
+0029#STR0030#ALL#Branch
+0030#STR0031#ALL#Branches selected for the report
+0031#STR0032#ALL#Branch: 
+0032#STR0033#ALL#Branch Total: 

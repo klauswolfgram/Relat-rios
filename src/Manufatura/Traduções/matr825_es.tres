@@ -1,0 +1,25 @@
+0001#STR0001#ALL#Informe de Horas Improductivas / Productivas
+0002#STR0002#ALL#Detalle de Horas Improductivas / Productivas anotadas, de acuerdo
+0003#STR0003#ALL#con el orden seleccionado por el usuario.
+0004#STR0004#ALL#Por OP
+0005#STR0005#ALL#Por Recurso
+0006#STR0006#ALL#Por Motivo
+0007#STR0007#ALL#Por Fecha
+0008#STR0008#ALL#Por Operador
+0009#STR0009#ALL#A Rayas
+0010#STR0010#ALL#Administracion
+0011#STR0011#ALL#REGISTRO(S)
+0012#STR0012#ALL#de la OP:
+0013#STR0013#ALL#del recurso:
+0014#STR0014#ALL#del motivo:
+0015#STR0015#ALL#de la fecha:
+0016#STR0016#ALL#del operador:
+0017#STR0017#ALL#Seleccionando registros...
+0018#STR0018#ALL#TIPO ORDEN DE    NUMERO   RECURSO                                   HERRAMIENTA                    MOTIVO                                FECHA        OPERADOR     FECHA      FECHA     HORA   HORA
+0019#STR0019#ALL#     PRODUCCION  DE HORAS                                                                                                                ANOTACION                 INICIO    FINAL   INICIO  FINAL
+0020#STR0020#ALL#Total 
+0021#STR0021#ALL#Horas productivas - 
+0022#STR0022#ALL#Horas improductivas - 
+0023#STR0023#ALL#Motivos que generaron horas improductivas
+0024#STR0024#ALL#Motivo
+0025#STR0025#ALL#Apuntes de produccion PCP

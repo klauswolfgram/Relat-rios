@@ -1,0 +1,31 @@
+0001#STR0001#ALL#Resumo De Vendas
+0002#STR0002#ALL#Emissão do relatório de resumo de vendas, podendo o mesmo
+0003#STR0003#ALL#Ser Emitido Por Ordem De Tipo De Entrada/saida, Grupo, Tipo
+0004#STR0004#ALL#De material ou conta contabil.
+0005#STR0005#ALL#Código de barras
+0006#STR0006#ALL#Administração
+0007#STR0007#ALL#Por Tp/saida + Produto
+0008#STR0008#ALL#Por tipo    
+0009#STR0009#ALL#Por grupo  
+0010#STR0010#ALL#P/ct.contab.
+0011#STR0011#ALL#Por produto 
+0012#STR0012#ALL#Tipo De Saída
+0013#STR0013#ALL#Factura  /serie
+0014#STR0014#ALL#Ordem
+0015#STR0015#ALL#Tipo De Saída
+0016#STR0016#ALL#Tipo Produto
+0020#STR0021#ALL#A Seleccionar Registos...
+0023#STR0024#ALL#Cancelado Pelo Operador
+0024#STR0025#ALL#Tes: 
+0025#STR0026#ALL#Grupo: 
+0026#STR0027#ALL#Conta: 
+0027#STR0028#ALL#Tipo de produto: 
+0028#STR0029#ALL#Artigo: 
+0029#STR0030#ALL#Total da tes --->
+0030#STR0031#ALL#Total do grupo ->
+0031#STR0032#ALL#Total da conta ->
+0032#STR0033#ALL#Total do tipo -->
+0033#STR0034#ALL#Total do produto -->
+0034#STR0035#ALL#T o t a l  -->
+0035#STR0036#ALL#Por tp/salida + serie + nota 
+0036#STR0038#ALL#Quant.              Val. Unit.             Val. Mercad.             Valor Imp

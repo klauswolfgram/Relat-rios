@@ -1,0 +1,44 @@
+0001#STR0001#ALL#Impressao da Ordem de Pago.
+0002#STR0002#ALL#Impressao das Ordens de Pago  
+0003#STR0003#ALL#Serao solicitados os parametros de 
+0004#STR0004#ALL#Data e intervalo de Ordens.
+0005#STR0005#ALL#Especial
+0006#STR0006#ALL#Administracao
+0007#STR0007#ALL#** CANCELADO PELO OPERADOR **
+0008#STR0008#ALL#Responsable Inscripto
+0009#STR0009#ALL#Responsable No Inscripto
+0010#STR0010#ALL#Isento
+0011#STR0011#ALL#Consumidor Final
+0012#STR0012#ALL#Exportacao
+0013#STR0013#ALL#Monotributista
+0014#STR0014#ALL#Ordem de Pago dos seguintes Documentos.
+0015#STR0015#ALL#|-Serie-Numero-----------Valor Pago-----Moeda----Vencto------Valor em 
+0016#STR0016#ALL#Lucro
+0017#STR0017#ALL#Ing. Br.
+0018#STR0018#ALL#I.V.A.
+0019#STR0019#ALL#Emitido certificado de retencao de 
+0020#STR0020#ALL# Nro 
+0021#STR0021#ALL#Descontados os seguintes Pagos anticipados : 
+0022#STR0022#ALL#|-Numero------------------------Valor---Moeda----Emitido--------Valor em 
+0023#STR0023#ALL#| Descontados os seguintes Pagos anticipados   : 
+0024#STR0024#ALL#|-Numero------------------------Valor---Moeda----Emitido--------Valor 
+0025#STR0025#ALL#No seguinte detalhe (Cheques-Efetivo-Transferencias)
+0026#STR0026#ALL#|-VL-Numero-----------------Valor-Moeda----Bco--Fil.--Conta--------Data  Dep-|
+0027#STR0027#ALL#| Cheques de Terceiros entregues : 
+0028#STR0028#ALL#|-VL-Numero-----------------Valor-Moeda----Bco--Fil.--Conta--------Cliente-Sc|
+0029#STR0029#ALL#| Por verba de Pago Anticipado de Titulos 
+0030#STR0030#ALL#|-Numero--------------------Valor-Moeda--------------------------------------|
+0031#STR0031#ALL#|                             Total em 
+0032#STR0032#ALL#Fomulario esta posicionado?
+0033#STR0033#ALL#Tenta Novamente  ?
+0034#STR0034#ALL#Da Ordem         ?
+0035#STR0035#ALL#A  Ordem         ?
+0036#STR0036#ALL#Da Data          ?
+0037#STR0037#ALL#A  Data          ?
+0038#STR0038#ALL#ORDEM DE PAGO NRO: 
+0039#STR0039#ALL#Data: 
+0040#STR0040#ALL#| Beneficiario/a: 
+0041#STR0041#ALL#| Conta Nro: 
+0042#STR0042#ALL#|                                                Continua....................|
+0043#STR0043#ALL#|Tasas ao 
+0044#STR0044#ALL#Pgto.cancelado

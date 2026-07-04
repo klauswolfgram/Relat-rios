@@ -1,0 +1,21 @@
+0001#STR0001#ALL#Ficha De Helpdesk
+0002#STR0002#ALL#Este programa irá emitir as fichas de helpdesk cofacturaorme os 
+0003#STR0003#ALL#Parâmetros solicitados.
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#Encerrado
+0007#STR0007#ALL#Em Aberto
+0008#STR0008#ALL#Ligação
+0009#STR0009#ALL#Redireccionamento
+0010#STR0010#ALL#Lembrete
+0011#STR0011#ALL#Agrega Conhecimento
+0012#STR0012#ALL#Cancelado Pelo Operador
+0013#STR0013#ALL#|                                  ficha de help desk                        | nr.ligação: ########## sequência: ## | folha: ######|
+0014#STR0014#ALL#|cliente: ######/## - ########################################                                                        estado:   ## |
+0015#STR0015#ALL#|end.   : ######################################## cidade: ############### localidade: ######################### tel.: ############### |
+0016#STR0016#ALL#|técnico: ###### - ############################## ocorrência/problema: ###### - ##############################                     |
+0017#STR0017#ALL#|origem : ################### tempo de atendimento: ####:## situação: #########                                                    |
+0018#STR0018#ALL#|relatório: ###########################################################################################################################|
+0019#STR0019#ALL#Relatório
+0021#STR0021#ALL#Ficha De Registo
+0022#STR0022#ALL#Registo De Cliente

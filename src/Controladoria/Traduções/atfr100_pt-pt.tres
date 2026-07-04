@@ -1,0 +1,21 @@
+0001#STR0001#ALL#Este relatório irá imprimir a movimentação de transferência
+0002#STR0002#ALL#Dos bens num período.
+0003#STR0003#ALL#Transferências
+0004#STR0004#ALL#Cód. Base  Elemento Tp Descrição Sintética                      Aquisic.   Transf.  Levantamento                                   Valor Transf
+0005#STR0005#ALL#          Conta Do Artigo         Correcção Monet.      Despesa Depr.        Depr. Acumulada      Corr.mon.depr.       C. Custo Morada
+0007#STR0007#ALL#Cancelado Pelo Operador
+0010#STR0010#ALL#Código de barras
+0011#STR0011#ALL#Administração
+0012#STR0012#ALL#Total transferido  ---->
+0014#STR0014#ALL# e valores em 
+0015#STR0015#ALL#<inexistente>
+0016#STR0016#ALL#C.custo de
+0018#STR0018#ALL#It.ctb. de
+0019#STR0019#ALL#It.ctb. p/
+0020#STR0020#ALL#Cl.vlr. de
+0021#STR0021#ALL#Cl.vlr. p/
+0024#STR0024#ALL#Valor Da Transferência
+0025#STR0025#ALL#Dados Do Bem
+0027#STR0027#ALL#Conta Do Artigo
+0028#STR0028#ALL#Centro De Custo
+0029#STR0029#ALL#Item Contab.

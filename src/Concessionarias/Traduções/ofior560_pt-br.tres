@@ -1,0 +1,37 @@
+0001#STR0001#ALL#Vendas por Clientes
+0002#STR0002#ALL#Zebrado
+0003#STR0003#ALL#Administracao
+0004#STR0004#ALL#Balcao
+0005#STR0005#ALL#Oficina Pecas
+0006#STR0006#ALL#Oficina Servicos
+0007#STR0007#ALL#Veiculos
+0008#STR0008#ALL#Pecas Geral ( Balcao + Oficina )
+0009#STR0009#ALL#Oficina Geral ( Pecas + Servicos )
+0010#STR0010#ALL#Todos Departamentos
+0011#STR0011#ALL#Filtrar:
+0012#STR0012#ALL#Departamento
+0013#STR0013#ALL#Filtrar Vendas por Qtd. de Clientes
+0014#STR0014#ALL#Qtd. de Clientes:
+0015#STR0015#ALL#Filtrar Vendas por Valor Total
+0016#STR0016#ALL#Vlr. Total das Vendas:
+0017#STR0017#ALL#Filtrar Vendas por % Total
+0018#STR0018#ALL#% Total das Vendas:
+0019#STR0019#ALL#Filtrar Vendas por Valor Total do Cliente
+0020#STR0020#ALL#Vlr. Total Inicial:
+0021#STR0021#ALL#Vlr. Total Final:
+0022#STR0022#ALL#de 
+0023#STR0023#ALL#Todos
+0024#STR0024#ALL#Balcao Pecas    
+0025#STR0025#ALL# Pecas    
+0026#STR0026#ALL#Oficina Pecas   
+0027#STR0027#ALL# Servicos 
+0028#STR0028#ALL#Oficina Servicos
+0029#STR0029#ALL#Veiculos        
+0030#STR0030#ALL#Pecas(Balc+Ofic)
+0031#STR0031#ALL#Oficina(Pec+Srv)
+0032#STR0032#ALL#Clientes
+0033#STR0033#ALL# Periodo: 
+0034#STR0034#ALL# a 
+0035#STR0035#ALL# de 
+0036#STR0036#ALL#         Regiao  Qtde   Vlr.Vendas Vl.Impostos   Vlr.Custos Lucro Bruto %LcBru
+0037#STR0037#ALL#T O T A L     G E R A L   

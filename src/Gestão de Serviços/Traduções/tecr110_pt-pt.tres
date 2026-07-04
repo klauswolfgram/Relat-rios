@@ -1,0 +1,14 @@
+0001#STR0001#ALL#Movimentação de planos de manutenção
+0002#STR0002#ALL#Este relatório vai imprimir a relação de movimentos
+0003#STR0003#ALL#Do plano de manutenção cofacturaorme os parâmetros solicitados
+0005#STR0005#ALL#Código de barras
+0006#STR0006#ALL#Administração
+0007#STR0007#ALL#Cancelado Pelo Operador
+0008#STR0008#ALL#                    Plano     Item    Data      Dtorigin   Sequência  S.O.
+0009#STR0009#ALL#                    Plano     Item    Data      Dt.origin   Sequência    Cód.cliente      Nome Cliente                   S.O.
+0010#STR0010#ALL#         Cód.equip       Nome Equipamento              Fabricante    Número De Série       Plano   Item Dt.origin    Sequên  S.O.
+0012#STR0012#ALL#Cliente E Equipamento
+0013#STR0013#ALL#Cliente E Data
+0014#STR0014#ALL#Data E Cliente
+0015#STR0015#ALL#Data E Equipamento
+0016#STR0016#ALL#Movimentação de planos - quebra por 

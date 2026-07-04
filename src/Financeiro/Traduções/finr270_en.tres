@@ -1,0 +1,13 @@
+0001#STR0001#ALL#This program will print information about the 
+0002#STR0002#ALL#Customers' History, in numerical or 
+0003#STR0003#ALL#alphabetical order.
+0004#STR0004#ALL#Z.Form
+0005#STR0005#ALL#Management
+0006#STR0006#ALL#Customers History
+0007#STR0007#ALL#CODE                 SH   CUSTOMER'S NAME                  PURCHASE FIRST     LAST                MAIN           MAIN   MED  MAI      LIMIT OF   RISK LEVEL   
+0008#STR0008#ALL#                                                       ACCUMULAT. PURCHASE   PURCHASE            PURCH.          BALAN. DEL. DEL.       CREDIT   
+0009#STR0009#ALL#Code
+0010#STR0010#ALL#Alphabetic
+0011#STR0011#ALL#CANCELLED BY THE OPERATOR
+0012#STR0012#ALL#TOTAL CUSTOMERS SELECTED---> 
+0013#STR0013#ALL#Customer info     

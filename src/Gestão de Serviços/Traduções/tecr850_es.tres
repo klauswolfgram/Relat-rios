@@ -1,0 +1,40 @@
+0001#STR0001#ALL#Informe de ingresados
+0002#STR0002#ALL#Informe de todos los empleados ingresados de acuerdo con los parametros para controlar el organo reglamentador del area de seguridad (Policia Federal).
+0003#STR0003#ALL#Codigo
+0004#STR0004#ALL#Empleado
+0005#STR0005#ALL#Region
+0006#STR0006#ALL#Funcion
+0007#STR0007#ALL#Puesto
+0008#STR0008#ALL#Cliente
+0009#STR0009#ALL#Admision
+0010#STR0010#ALL#Turno
+0011#STR0011#ALL#Inicio del turno
+0012#STR0012#ALL#Fin del turno
+0013#STR0013#ALL#DI
+0014#STR0014#ALL#Órgano emisor
+0015#STR0015#ALL#Cartera
+0016#STR0016#ALL#Serie
+0017#STR0017#ALL#Estado
+0018#STR0018#ALL#PIS
+0019#STR0019#ALL#RCPF
+0020#STR0020#ALL#Título de elector
+0021#STR0021#ALL#Zona electoral
+0022#STR0022#ALL#Seccion
+0023#STR0023#ALL#Nombre del padre
+0024#STR0024#ALL#Nombre de la madre
+0025#STR0025#ALL#Direccion
+0026#STR0026#ALL#Numero
+0027#STR0027#ALL#Complemento
+0028#STR0028#ALL#Barrio
+0029#STR0029#ALL#Ciudad
+0030#STR0030#ALL#Estado
+0031#STR0031#ALL#CP:
+0032#STR0032#ALL#DDD
+0033#STR0033#ALL#Telefono
+0034#STR0034#ALL#Nacimiento
+0035#STR0035#ALL#Estado
+0036#STR0036#ALL#Sexo
+0037#STR0037#ALL#Estado civil
+0038#STR0038#ALL#No se permite informar solamente el Periodo Final.
+0039#STR0039#ALL#Admitidos
+0040#STR0040#ALL#Asignación

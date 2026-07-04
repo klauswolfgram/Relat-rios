@@ -1,0 +1,17 @@
+0001#STR0001#ALL#Relatorio de Produtos a Distribuir
+0002#STR0002#ALL#Emite a relacao dos produtos que aguardam distribuicao
+0003#STR0003#ALL#para seus enderecamentos específicos.
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#REGISTRO(S)
+0007#STR0007#ALL#Selecionando Registros...
+0008#STR0008#ALL#PRODUTO         DESCRICAO           AMZ   QUANTIDADE   SALDO A    ORI LOTE      SUB-LOTE VALIDADE    DOC       SER NUMERO  DATA   
+0009#STR0009#ALL#                                            ORIGINAL   DISTRIBUIR                                                    SEQ.         
+0010#STR0013#ALL#Quantidade
+0011#STR0014#ALL#Original
+0012#STR0015#ALL#Saldo a
+0013#STR0016#ALL#Distribuir
+0014#STR0017#ALL#Orig.
+0015#STR0021#ALL#Sequencia
+0016#STR0023#ALL#Numero
+0017#STR0025#ALL#Saldos a Endereçar

@@ -1,0 +1,31 @@
+0001#STR0001#ALL#Zebrado
+0002#STR0002#ALL#Administração
+0003#STR0003#ALL#CANCELADO PELO OPERADOR
+0004#STR0004#ALL#Telemarketing - Tipo de Comunicação
+0005#STR0005#ALL#Este programa irá emitir uma relação dos tipos de comunicações utilizadas pelo operador
+0006#STR0006#ALL#As totalizações serão apresentadas por dia e um total geral na ultima página do relatório
+0007#STR0007#ALL#Näo ha informacöes para imprimir este relatorio - Verifique se os parametros foram preenchidos corretamente
+0008#STR0008#ALL#Total de atendimentos computados para o periodo de 
+0009#STR0009#ALL# a 
+0010#STR0010#ALL#**Näo Informado.**
+0011#STR0011#ALL#Näo localizado no cadastro...
+0012#STR0012#ALL#Näo informado no atendimento...
+0013#STR0013#ALL#TIPO DE COMUNICACÄO                                          ATIVO       %  RECEPTIVO       %    TOTAL       %
+0014#STR0014#ALL#DATA      OPERADOR                                           ATIVO          RECEPTIVO            TOTAL
+0015#STR0015#ALL#OPERADOR                                                     ATIVO          RECEPTIVO            TOTAL
+0016#STR0016#ALL#TOTAL
+0017#STR0017#ALL#TIPO DE COMUNICACÄO                                          ATIVO       %
+0018#STR0018#ALL#TIPO DE COMUNICACÄO                                      RECEPTIVO       %
+0019#STR0019#ALL#DATA      OPERADOR                                           ATIVO
+0020#STR0020#ALL#DATA      OPERADOR                                       RECEPTIVO
+0021#STR0021#ALL#OPERADOR                                                     ATIVO
+0022#STR0022#ALL#OPERADOR                                                 RECEPTIVO
+0023#STR0023#ALL#Tipo de comunicação
+0024#STR0024#ALL#Ativo
+0025#STR0025#ALL#Receptivo
+0026#STR0026#ALL#Operador
+0027#STR0027#ALL#Data
+0028#STR0028#ALL#Telemarketing
+0029#STR0029#ALL#Itens do telemarketing
+0030#STR0030#ALL#Operadores Ativos / Passivos
+0031#STR0031#ALL#periodo

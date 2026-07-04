@@ -1,0 +1,48 @@
+0001#STR0001#ALL#Plano de Controle
+0002#STR0002#ALL#Gerando Visualizacao, Aguarde...
+0003#STR0003#ALL#Numero da Peca(Cliente)
+0004#STR0004#ALL#Cliente
+0005#STR0005#ALL#Rev/Data Desenho
+0006#STR0006#ALL#Prototipo
+0007#STR0007#ALL#Pre-Lancamento
+0008#STR0008#ALL#Producao
+0009#STR0009#ALL#Pagina
+0010#STR0010#ALL#Nome da Peca
+0011#STR0011#ALL#No. Plano
+0012#STR0012#ALL#Equipe Principal
+0013#STR0013#ALL#Aprovacao do Fornecedor/Data
+0014#STR0014#ALL#Data Inicial
+0015#STR0015#ALL#Fornecedor
+0016#STR0016#ALL#No. Peca/Revisao (Fornecedor)
+0017#STR0017#ALL#Data Rev.
+0018#STR0018#ALL#Aprovacao da Engenharia do Cliente/Data (Se requerido)
+0019#STR0019#ALL#Aprovacao da Qualidade do Cliente/Data (Se requerido)
+0020#STR0020#ALL#Contato Chave / Fone
+0021#STR0021#ALL#Outra Aprovacao/Data (Se requerido)
+0022#STR0022#ALL#No.
+0023#STR0023#ALL#Pc/
+0024#STR0024#ALL#Pro
+0025#STR0025#ALL#Nome do Processo
+0026#STR0026#ALL#ou
+0027#STR0027#ALL#Descricao da Operacao
+0028#STR0028#ALL#Maquina, Dispositivo
+0029#STR0029#ALL#Padrao, Ferramenta p/
+0030#STR0030#ALL#Manufatura
+0031#STR0031#ALL#Caracteristicas
+0032#STR0032#ALL#Produto
+0033#STR0033#ALL#Processo
+0034#STR0034#ALL#Car
+0035#STR0035#ALL#Tecnica de
+0036#STR0036#ALL#Aval./Medicao
+0037#STR0037#ALL#Prod./Espec.
+0038#STR0038#ALL#Proc./Toler.
+0039#STR0039#ALL#Metodo
+0040#STR0040#ALL#Amostra
+0041#STR0041#ALL#Tam.
+0042#STR0042#ALL#Freq.
+0043#STR0043#ALL#Metodo de
+0044#STR0044#ALL#Controle
+0045#STR0045#ALL#Plano
+0046#STR0046#ALL#de
+0047#STR0047#ALL#Reacao
+0048#STR0048#ALL#Cod. do Fornecedor

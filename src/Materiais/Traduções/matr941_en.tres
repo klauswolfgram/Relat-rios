@@ -1,0 +1,99 @@
+0001#STR0001#ALL#RATE 
+0002#STR0002#ALL#INFLOWS
+0003#STR0003#ALL#1.000 FROM PROPER STATE
+0004#STR0004#ALL#2.000 FROM OTHER STATES
+0005#STR0005#ALL#3.000 FOREIG
+0006#STR0006#ALL#TOTALS
+0007#STR0007#ALL#NO TRANSACTIONS
+0008#STR0008#ALL#DEBITED
+0009#STR0009#ALL#OUTFLOWS
+0010#STR0010#ALL#5.000 TO PROPER STATE
+0011#STR0011#ALL#6.000 TO OTHER STATES
+0012#STR0012#ALL#7.000 FOREIGN
+0013#STR0013#ALL#CALCULATION VALUES CONVERTED IN 
+0014#STR0014#ALL#, VALUE OF 
+0015#STR0015#ALL#DEBIT
+0016#STR0016#ALL#CREDIT
+0017#STR0017#ALL#BALANCE
+0018#STR0018#ALL#|                                                    ICMS CALCULATION RECORD                                                       |
+0019#STR0019#ALL#| COMP.: #########################################################                                                                 |
+0020#STR0020#ALL#| STA.REGT.: ######################## C.N.P.J.: #################                                                                  |
+0021#STR0021#ALL#| SHEET: ####     MÊS OU PERÍODO/ANO: #########                                                                                    |
+0022#STR0022#ALL#|                                                          I N F L O W S                                                           |
+0023#STR0023#ALL#|                                                           O U T P U T                                                            |
+0024#STR0024#ALL#|               |                   |                                  ICMS - FISCAL VALUES                                        |
+0025#STR0025#ALL#|  CODIFICATION |                   |       OPERATIONS WITH TAX CREDIT            |        OPERATION WITHOUT TAX CREDIT            |
+0026#STR0026#ALL#|  CODIFICATION |                   |       OPERATION WITH TAX DEBIT              |        OPERATIONS WITHOUT TAX DEBIT            |
+0027#STR0027#ALL#|---------------|    ACCOUNTING     |---------------------------------------------+------------------------------------------------|
+0028#STR0028#ALL#|ACCONTING|  TAX |     ACCOUNTING    |   CALCULATION BASE   |  TAX     #########   |EXEMPTS OR NOT TAXED     |        OTHERS        |
+0029#STR0029#ALL#|SUBTOTALS ########                 |                      |                      |                         |                      |
+0030#STR0030#ALL#|                                                    SUMMARY OF TAX CALCULATION                                                    |
+0031#STR0031#ALL#|   | TAX DEBIT                                                                          |                 VALUES                  |
+0032#STR0032#ALL#| # |                                                                                    |  AUXILIAR COLUMN   |        SUM         |
+0033#STR0033#ALL#| # | 001 - BY OUTFLOWS/ RENDERING WITH TAX DEBIT                                        |                    | ################## |
+0034#STR0034#ALL#| # | 002 - OTHER DEBITS   (SPECIFY BELOW)                                               |                    |                    |
+0035#STR0035#ALL#| # | 003 - REVERSAL OF CREDITS (SPECIFY BELOW)                                          |                    |                    |
+0036#STR0036#ALL#| # | 004 - SUBTOTAL                                                                    |                    | ################## |
+0037#STR0037#ALL#|   | TAX CREDIT                                                                         |                    |                    |
+0038#STR0038#ALL#| # | 005 - PER INFLOWS  / ACQUISITIONS WITH TAX CREDIT                                  |                    | ################## |
+0039#STR0039#ALL#| # | 006 - OTHER CREDITS (SPECIFY BELOW)                                         |                    |                    |
+0040#STR0040#ALL#| # | 007 - REVERSAL OF DEBITS (DESCRIBE BELOW)                                      |                    |                    |
+0041#STR0041#ALL#| # | 008 - SUBTOTAL                                                                    |                    | ################## |
+0042#STR0042#ALL#| # | 009 - CREDIT BALANCE OF PREVIOUS PERIOD                                            |                    | ################## |
+0043#STR0043#ALL#| # | 010 - TOTAL                                                                        |                    | ################## |
+0044#STR0044#ALL#|   | BALANCE CALCULATION                                                                |                    |                    |
+0045#STR0045#ALL#| # | 011 - DEBIT BALANCE (DEBIT MINUS CREDIT)                                           |                    | ################## |
+0046#STR0046#ALL#| # | 012 - DEDUCTIONS (DESCRIBE BELOW)                                                |                    |                    |
+0047#STR0047#ALL#| # | 013 - TAX TO COLLECT                                                               |                    | ################## |
+0048#STR0048#ALL#| # | 014 - CREDIT BALANCE (CREDIT MINUS DEBIT) TO CARRY TO THE NEXT PERIOD              |                    | ################## |
+0049#STR0049#ALL#|                                                   ADDITIONAL INFORMATION                                                         |
+0050#STR0050#ALL#|                          COLLECTION FORM                                                    INFORMATION FORM                     |
+0051#STR0051#ALL#| NUMBER           DATE              VALUE   COLLECTING AGENCY                DELIVERY DATE      DELIVERY PLACE (BANK/AGENCY)      |
+0052#STR0052#ALL#| NOTES: ##################################################################################                                  |
+0053#STR0053#ALL#|                                     TAX CALCULATION SUMMARY - TAX REPLACEMENT                                                    |
+0054#STR0054#ALL# TO 
+0055#STR0055#ALL#CREDITED
+0056#STR0056#ALL#
+0057#STR0057#ALL#| FIRM : #########################################################                                                                 |
+0058#STR0058#ALL#| STAT.REG.: ######################## C.N.P.J.: #################                                                                  |
+0059#STR0059#ALL#| SHEET: ####     MONTH OR PERIOD/YEAR: #########                                                                                    |
+0060#STR0060#ALL#|   | TAX DEBIT                                                                          |                 VALUES                  |
+0061#STR0061#ALL#| # |                                                                                    |   AUXILIARY COLUNM |        SUM         |
+0062#STR0062#ALL#| # | 001 - BY OUTFLOWS/ RENDERING WITH TAX DEBIT                                        |                    | ################## |
+0063#STR0063#ALL#| # | 002 - OTHER DEBITS   (SPECIFY BELOW)                                               |                    |                    |
+0064#STR0064#ALL#| # | 003 - REVERSAL OF CREDITS (SPECIFY BELOW)                                          |                    |                    |
+0065#STR0065#ALL#| # | 004 - SUB-TOTAL(001+002+003)                                                       |                    | ################## |
+0066#STR0066#ALL#|   | TAX CREDIT                                                                         |                    |                    |
+0067#STR0067#ALL#| # | 005 - FOR INFLOWS WITH TAX CREDIT                                          |                    | ################## |
+0068#STR0068#ALL#| # | 006 - OTHER CREDITS (SPECIFY BELOW)                                         |                    |                    |
+0069#STR0069#ALL#| # | 007 - REVERSAL OF DEBITS (DESCRIBE BELOW)                                      |                    |                    |
+0070#STR0070#ALL#| # | 008 - SUB-TOTAL(006+007+008)                                                       |                    | ################## |
+0071#STR0071#ALL#| # | 009 - CREDIT BALANCE OF PREVIOUS PERIOD                                            |                    | ################## |
+0072#STR0072#ALL#| # | 010 - TOTAL( 010+011 )                                                             |                    | ################## |
+0073#STR0073#ALL#|   | BALANCE CALCULATION (ST)                                                           |                    |                    |
+0074#STR0074#ALL#| # | 011 - DEBIT BALANCE ( 005-012 )                                                    |                    | ################## |
+0075#STR0075#ALL#| # | 012 - DEDUCTIONS (DESCRIBE BELOW)                                                |                    |                    |
+0076#STR0076#ALL#| # | 013 - TAX PAYABLE ( 013-014)                                                |                    | ################## |
+0077#STR0077#ALL#| # | 014 - CREDIT BALANCE CARRIED FORWARD ( 010-004 )                                       |                    | ################## |
+0078#STR0078#ALL#|                                       ICMS CALCULATION TAX RECORD - TAX REPLACEMENT                                              |
+0079#STR0079#ALL#BILL: 
+0080#STR0080#ALL#|                           ICMS CALCULATION TAX RECORD - TAX REPLACEMENT - INTERSTATE OPERATION                                   |
+0081#STR0081#ALL#|                           TAX CALCULATION SUMMARY - TAX REPLACEMENT - INTERNAL OPERATIONS                                        |
+0082#STR0082#ALL#SUMMARY OF CALCULATION OF REFUNDABLE ICMS INCENTIVE CREDIT
+0083#STR0083#ALL#+-------------+-------------+-------------+-------+-------------+-------------+-----------+-----------+-----------+-----------+
+0084#STR0084#ALL#|   Inflows   |    Outflows |Debit Balance|% Refu.|Incentive Crd|N Incent Cred|   FMPE    |   U.E.A   |FTI-NAC    |FTI-FAT    |
+0085#STR0085#ALL#+-------------+-------------+-------------+-------+-------------+-------------+-----------+-----------+-----------+-----------+
+0086#STR0086#ALL#|#############|#############|#############|#######|#############|#############|###########|###########|###########|###########|
+0087#STR0087#ALL#+-------------+-------------+-------------+-------+-------------+-------------+-----------+-----------+-----------+-----------+
+0088#STR0088#ALL#
+0089#STR0089#ALL#STATEMENT OF OPERATIONS NOT INCENTIVE
+0090#STR0090#ALL# Calculation Base  - Inflows          Inflows ICMM   Calculation Base  - Outflows       Outflows ICMS D/C Not Incentive  
+0091#STR0091#ALL#           ##############        ##############         ##############      ##############        ############## 
+0092#STR0092#ALL#DATE: 
+0093#STR0093#ALL#AMOUNT 
+0094#STR0094#ALL#|                                                    ICMS CALCULATION TAX RECORD   - P9                                                  |
+0095#STR0095#ALL#|                           ICMS CALCULATION TAX RECORD - TAX REPLACEMENT - INTERNAL OPERATIONS                           |
+0096#STR0096#ALL#| PAGE: ####     MONTH OR PERIOD/YEAR: #########                                                                                   |
+0097#STR0097#ALL#| NOTES: RETAINED CREDIT - EXPORTS                                                                                     |
+0098#STR0098#ALL#| NOTES: RETAINED CREDIT - OTHER HYPOTHESIS                                                                               |
+0099#STR0099#ALL#ICMS/ST Calculated when Entering the Establishment: 

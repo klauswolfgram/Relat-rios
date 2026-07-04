@@ -1,0 +1,97 @@
+0001#STR0001#ALL#Listagem de Romaneios Por Entidade,loja e produto
+0002#STR0002#ALL#Romaneios
+0003#STR0003#ALL#Filial
+0004#STR0004#ALL#Emissão
+0005#STR0005#ALL#TP
+0006#STR0006#ALL#Romaneio
+0007#STR0007#ALL#Contrato
+0008#STR0008#ALL#Placa
+0009#STR0009#ALL#1aPesagem
+0010#STR0010#ALL#2aPesagem
+0011#STR0011#ALL#Liq S/Desc
+0012#STR0012#ALL#Descontos
+0013#STR0013#ALL#P.Liquido
+0014#STR0014#ALL#Docto
+0015#STR0015#ALL#Transgenia
+0016#STR0016#ALL#Vr.
+0017#STR0017#ALL#Desc.
+0018#STR0018#ALL#Total do Produto
+0019#STR0019#ALL#Total da Loja
+0020#STR0020#ALL#Total da Entidade
+0021#STR0021#ALL#Inscrição :
+0022#STR0022#ALL# na seleção dos dados impressos.
+0023#STR0023#ALL#Informe a filial inicial
+0024#STR0024#ALL#Filial  de?
+0025#STR0025#ALL#Informe a filial final 
+0026#STR0026#ALL#Filial até?
+0027#STR0027#ALL#Informe a entidade inicial
+0028#STR0028#ALL#Entidade  de?
+0029#STR0029#ALL#Informe a loja inicial 
+0030#STR0030#ALL#Loja de?
+0031#STR0031#ALL#Informe a entidade final
+0032#STR0032#ALL#Entidade  até?
+0033#STR0033#ALL#Informe a loja final
+0034#STR0034#ALL#Loja  até?
+0035#STR0035#ALL#Informe o contrato inicial
+0036#STR0036#ALL#Contrato de?
+0037#STR0037#ALL#Informe o contrato final 
+0038#STR0038#ALL#Contrato até?
+0039#STR0039#ALL#Informe a safra inicial 
+0040#STR0040#ALL#Safra de?
+0041#STR0041#ALL#Informe a safra final
+0042#STR0042#ALL#Safra até?
+0043#STR0043#ALL#Informe a data inicial
+0044#STR0044#ALL#Data de?
+0045#STR0045#ALL#Informe a data final
+0046#STR0046#ALL#Data até?
+0047#STR0047#ALL#Informe o grupo de produtos inicial 
+0048#STR0048#ALL#Grupo de?
+0049#STR0049#ALL#Informe o grupo de produtos final
+0050#STR0050#ALL#Grupo até?
+0051#STR0051#ALL#Informe o produto inicial
+0052#STR0052#ALL#Produto de?
+0053#STR0053#ALL#Informe o produto final
+0054#STR0054#ALL#Produto até?
+0055#STR0055#ALL#Informe o item de classificação que
+0056#STR0056#ALL#Cod.da Transgenia?
+0057#STR0057#ALL#Informe 6 itens de descontos separados
+0058#STR0058#ALL#Descontos a listar?
+0059#STR0059#ALL#Informe  que tipos  de movimentos devem
+0060#STR0060#ALL#Romaneio C/Movtos de?
+0061#STR0061#ALL#Informe o tipo de romaneio
+0062#STR0062#ALL#Tipos de Romaneio?
+0063#STR0063#ALL#Todos
+0064#STR0064#ALL#Entrada
+0065#STR0065#ALL#Saída
+0066#STR0066#ALL#Físico
+0067#STR0067#ALL#Gerêncial
+0068#STR0068#ALL#Simbólico
+0069#STR0069#ALL#Docto(NF)
+0070#STR0070#ALL#Resul
+0071#STR0071#ALL#Descto
+0072#STR0072#ALL#Selecione 6 tipos de decontos válidos para listar. Separe-os com (;) Ex: UMI;TRA;ARD
+0073#STR0073#ALL#que será considerada
+0074#STR0074#ALL#que será considerado
+0075#STR0075#ALL#identifica o resultado de transgenia
+0076#STR0076#ALL#por (;) para serem listados.n Ex:01;02
+0077#STR0077#ALL#ser considerados na impressão.
+0078#STR0078#ALL#Informe a data de transação inicial
+0079#STR0079#ALL#Dt Trans Ini
+0080#STR0080#ALL#Informe a data de transação final
+0081#STR0081#ALL#Dt Trans Fim
+0082#STR0082#ALL#Informe os status separados
+0083#STR0083#ALL#Status
+0084#STR0084#ALL#Selecione status válidos para listar. Separe-os com (;) Ex: 0;1;2 
+0085#STR0085#ALL#Informe a data
+0086#STR0086#ALL#Data a ser considerada
+0087#STR0087#ALL#Data Rom.
+0088#STR0088#ALL#Data Peso 1
+0089#STR0089#ALL#Data Peso 2
+0090#STR0090#ALL#Emissao NF
+0091#STR0091#ALL#Data Transac
+0092#STR0092#ALL#Informe o tipo de parecer da qualidade
+0093#STR0093#ALL#Parecer Qualidade
+0094#STR0094#ALL#Informe os códigos das autorizações
+0095#STR0095#ALL#Cons. Parecer Qualid.
+0096#STR0096#ALL#Total de Movtos do Produto
+0097#STR0097#ALL#Total de Movtos da Entidade

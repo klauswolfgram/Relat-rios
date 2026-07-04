@@ -1,0 +1,27 @@
+0001#STR0001#ALL#OCURRENCIAS DE ENTREGA POR SUCURSAL
+0002#STR0002#ALL#Emite ocorrencias de entrega por filial,
+0003#STR0003#ALL#de acuerdo con los parámetros informados
+0004#STR0004#ALL#a rayas
+0005#STR0005#ALL#Administración
+0006#STR0006#ALL#Seleccionando Registros...
+0007#STR0007#ALL#Seleccionando archivos DT6...
+0008#STR0008#ALL#Seleccionando registros DUA...
+0009#STR0009#ALL#SUCURSAL OCURRENCIA DESCRIPCIÓN                               CANT       CANT      CANT    PERC(%)
+0010#STR0010#ALL#TOTAL MES ANTER
+0011#STR0011#ALL#Total Sucursal 
+0012#STR0012#ALL#Cant. emitida mes p/esta sucursal y total ocurr/emitidos
+0013#STR0013#ALL#CANCELADO POR EL OPERADOR
+0014#STR0014#ALL#100
+0015#STR0015#ALL#General
+0016#STR0016#ALL#Ocurrencias de entrega por sucursal
+0017#STR0017#ALL#Emite ocurrencias de entrega por sucursal
+0018#STR0018#ALL#Cant.Total
+0019#STR0019#ALL#Cant.Mes
+0020#STR0020#ALL#Cant.Anter
+0021#STR0021#ALL#Porc(%)
+0022#STR0022#ALL#Ocurrencia
+0023#STR0023#ALL#Total general
+0024#STR0024#ALL#Sucursal
+0025#STR0025#ALL#Sigla
+0026#STR0026#ALL#Descripción
+0027#STR0027#ALL#Resumen general por ocurrencia

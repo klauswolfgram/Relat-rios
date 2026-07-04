@@ -1,0 +1,28 @@
+0001#STR0001#ALL#Customer Corpor Name     Receipt              Issue      Due Dt          Original Val      Debit          Credit         Balance
+0002#STR0002#ALL#This program will print the report according to the  
+0003#STR0003#ALL#parameters entered by the user.
+0004#STR0004#ALL#Name of the report
+0005#STR0005#ALL#Z. Form
+0006#STR0006#ALL#Management
+0007#STR0007#ALL#Clearance Statement
+0008#STR0008#ALL#***CANCELLED BY THE OPERATOR***
+0009#STR0009#ALL#Discount 
+0010#STR0010#ALL#Interes.
+0011#STR0011#ALL# Fine 
+0012#STR0012#ALL#Suppl. Company Name          Receipt              Issue      D.Dt  Original Val                   Debit     Credit            Balan.
+0013#STR0013#ALL#Totals of Customer:
+0014#STR0014#ALL#Totals Supplier   :
+0015#STR0015#ALL#Totals : 
+0016#STR0016#ALL#Cart. Paymt
+0017#STR0017#ALL#RC St.
+0018#STR0018#ALL#Custom.
+0019#STR0019#ALL#Company name
+0020#STR0020#ALL#Voucher    
+0021#STR0021#ALL#Issue  
+0022#STR0022#ALL#DueD
+0023#STR0023#ALL#OriginalAmnt
+0024#STR0024#ALL#Debit 
+0025#STR0025#ALL#Credit 
+0026#STR0026#ALL#Blnce
+0027#STR0027#ALL#Bills receivable
+0028#STR0028#ALL#Bills payable

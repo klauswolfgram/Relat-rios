@@ -1,0 +1,23 @@
+0001#STR0001#ALL#Informe de Visitantes
+0002#STR0002#ALL#Se imprimira de acuerdo con los parametros solicitador por
+0003#STR0003#ALL#usuario.
+0004#STR0004#ALL#Visitante
+0005#STR0005#ALL#Nombre +Apellidos
+0006#STR0006#ALL#Espere... 
+0007#STR0007#ALL#Seleccionando Visitantes..
+0008#STR0008#ALL#A Rayas
+0009#STR0009#ALL#Administracion
+0010#STR0011#ALL#Informe de Control de Visitantes   
+0011#STR0012#ALL#Credencial
+0012#STR0013#ALL#Codigo: 
+0013#STR0014#ALL#Visitante: 
+0014#STR0015#ALL#  Total 
+0015#STR0016#ALL#Sucursal: 
+0016#STR0017#ALL#Visitantes: 
+0017#STR0020#ALL#Empresa: 
+0018#STR0022#ALL#Credencial |  Fecha    |  Entrada         |  Salida          |   Baja    |  Contacto            | C. Costo                          
+0019#STR0023#ALL#                        * Accesos *       |  Reloj  
+0020#STR0024#ALL#Visitas
+0021#STR0025#ALL#Accesos
+0022#STR0026#ALL#Reloj
+0023#STR0027#ALL#T. Id. y Fcha

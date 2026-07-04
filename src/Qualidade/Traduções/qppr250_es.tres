@@ -1,0 +1,50 @@
+0001#STR0001#ALL#Checklist APQP A1
+0002#STR0002#ALL#Generando visualizacion, espere...
+0003#STR0003#ALL#¿Se preparo el SFMEA o DFMEA utilizando el manual
+0004#STR0004#ALL#de referencia Analisis de Modo y Efectos de Falla
+0005#STR0005#ALL#Potencial(FMEA) de Chrysler, Ford y General Motors?
+0006#STR0006#ALL#¿Se analizaron criticamente datos historiales de
+0007#STR0007#ALL#campañas y garantia?
+0008#STR0008#ALL#¿Se consideraron otros DFMEA de piezas similares?
+0009#STR0009#ALL#¿El SFMEA y/o DFMEA identifica las caracteristicas
+0010#STR0010#ALL#Especiales?
+0011#STR0011#ALL#¿Las caracteristicas de proyecto que afectan los modos de
+0012#STR0012#ALL#falla de alta prioridad de riesgo fueron identicas?
+0013#STR0013#ALL#¿Se designaron acciones correctivas apropiadas para
+0014#STR0014#ALL#los numeros de prioridad de riesgo elevado?
+0015#STR0015#ALL#los numeros de severidad elevada?
+0016#STR0016#ALL#¿Se revisaron las prioridades de riesgo elevado despues que
+0017#STR0017#ALL#se completaron y verificaron las acciones correctivas?
+0018#STR0018#ALL#Preparado por
+0019#STR0019#ALL# A-1 LISTA DE VERIFICACION DE FMEA DE PROYECTO
+0020#STR0020#ALL#Numero de la pieza interna o del cliente
+0021#STR0021#ALL#Pregunta
+0022#STR0022#ALL#Si
+0023#STR0023#ALL#No
+0024#STR0024#ALL#Comentarios / Accion requerida
+0025#STR0025#ALL#Persona responsable
+0026#STR0026#ALL#Fecha prevista
+0027#STR0027#ALL#Fecha de revision
+0028#STR0028#ALL#Pagina 
+0029#STR0029#ALL# de 
+0030#STR0030#ALL#¿Las prioridades de riesgo se revisaron despues de que las
+0031#STR0031#ALL#acciones correctivas se concluyeron y verificaron?
+0032#STR0032#ALL#Se designaron acciones correctivas apropiadas para
+0033#STR0033#ALL#N/a
+0034#STR0034#ALL#¿La DFMEA se preparo utilizandose el manual de referencia de
+0035#STR0035#ALL#Analisis de Modo y Efectos de Falla Potencial (FMEA) de la 
+0036#STR0036#ALL#Chrysler, Ford,  General Motors y los requisitos del Cliente aplicable ?
+0037#STR0037#ALL#¿los numeros de severidad elevada?
+0038#STR0038#ALL#¿Las Mejores Practicas y lecciones aprendidas de DFMEA's
+0039#STR0039#ALL#similares se consideraron?
+0040#STR0040#ALL#¿La DFMEA identifica las Caracteristicas Especiales?
+0041#STR0041#ALL#¿Las Caracteristicas de repase (glosario) se identificaron y
+0042#STR0042#ALL#analizaron criticamente con los proveedores afectados en cuanto al
+0043#STR0043#ALL#alineamiento de la FMEA y controles apropiados en la base de suministro ?
+0044#STR0044#ALL#¿Los numeros de prioridad de riesgo elevado?
+0045#STR0045#ALL#¿Las Caracteristicas especiales designadas por el cliente o 
+0046#STR0046#ALL#la organizacion se analizaron criticamente con los 
+0047#STR0047#ALL#proveedores afectados para asegurar el Alineamiento de la FMEA ? 
+0048#STR0048#ALL#Se designaron acciones correctivas apropiadas para
+0049#STR0049#ALL#Las caracteristicas de proyecto que afectan los modos de
+0050#STR0050#ALL#¿Se identifico falla de prioridad de riesgo elevado?

@@ -1,0 +1,25 @@
+0001#STR0001#ALL#Relatorio de Efetivos
+0002#STR0002#ALL#Clientes
+0003#STR0003#ALL#Cod. Local
+0004#STR0004#ALL#Descrição
+0005#STR0005#ALL#Participantes
+0006#STR0006#ALL#Função
+0007#STR0007#ALL#Descrição Função
+0008#STR0008#ALL#Matricula
+0009#STR0009#ALL#Nome do Funcionario
+0010#STR0010#ALL#Turno
+0011#STR0011#ALL#Descrição Turno
+0012#STR0012#ALL#Admissão
+0013#STR0013#ALL#Total de Participantes
+0014#STR0014#ALL#Informe a Data Inicial para           
+0015#STR0015#ALL#seleção de Efetivos					   
+0016#STR0016#ALL#Informe a Data Final para           
+0017#STR0017#ALL#seleção de Efetivos					   
+0018#STR0018#ALL#Selecione o local de atendimento que  
+0019#STR0019#ALL#será feito a busca dos efetivos       
+0020#STR0020#ALL#Selecione a função que 				  
+0021#STR0021#ALL#será feito a busca dos efetivos       
+0022#STR0022#ALL#CNV
+0023#STR0023#ALL#Cliente
+0024#STR0024#ALL#Filial Orig.
+0025#STR0025#ALL#Filial Dest.

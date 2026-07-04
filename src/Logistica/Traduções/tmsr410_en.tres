@@ -1,0 +1,42 @@
+0001#STR0001#ALL#Daily Programming
+0002#STR0002#ALL#Issue a list of trips scheduled according to the parameters informed.    
+0003#STR0003#ALL#Z.form
+0004#STR0004#ALL#Management   
+0005#STR0005#ALL#CANCELED BY OPERATOR  
+0006#STR0006#ALL#TRIP      INIT.DATE  DELIV.TERM DOC. No.  SERIE CLIENT /PETITIONER   ADDRESSEE            ORIGIN                    DESTIN.                   VEHICLE            1st. TOW            2nd. TOW           MOTORISTA
+0007#STR0007#ALL#                                                                                          PRODUCT                   PACKAGE                   VOLUME             UNITIZERS         WEIGHT              CUBED WEIGHT
+0008#STR0008#ALL#Document Total..........: 
+0009#STR0009#ALL#Document Grand Total....: 
+0010#STR0010#ALL#Total of Trips...........: 
+0011#STR0011#ALL#Transport Service: 
+0012#STR0012#ALL#Daily Scheduling
+0013#STR0013#ALL#Issue report of trips scheduled according to the parameters entered
+0014#STR0014#ALL#Transp.Serv. + Origin Bra. + Trip
+0015#STR0015#ALL#Transp.Serv.
+0016#STR0016#ALL#Description
+0017#STR0017#ALL#Trip
+0018#STR0018#ALL#Orig.Bra.
+0019#STR0019#ALL#Initial Dt
+0020#STR0020#ALL#Delivery Pd
+0021#STR0021#ALL#Brn.
+0022#STR0022#ALL#Doct
+0023#STR0023#ALL#Series
+0024#STR0024#ALL#Customer/Requester
+0025#STR0025#ALL#Recipient
+0026#STR0026#ALL#Origin
+0027#STR0027#ALL#Destin.
+0028#STR0028#ALL#Vehicle
+0029#STR0029#ALL#1st Tow
+0030#STR0030#ALL#2nd Tow
+0031#STR0031#ALL#Driver
+0032#STR0032#ALL#Product
+0033#STR0033#ALL#Package  
+0034#STR0034#ALL#Volume
+0035#STR0035#ALL#Unitiz.
+0036#STR0036#ALL#Weight
+0037#STR0037#ALL#Cubed Weight
+0038#STR0038#ALL#Total of Trips
+0039#STR0039#ALL#Total of Documents
+0040#STR0040#ALL#Documents grand total    
+0041#STR0041#ALL#Trips total     
+0042#STR0042#ALL#3rd Tow

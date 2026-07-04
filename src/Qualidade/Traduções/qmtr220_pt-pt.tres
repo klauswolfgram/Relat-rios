@@ -1,0 +1,34 @@
+0001#STR0001#ALL#Este programa irá emitir o
+0002#STR0002#ALL#Resultado Individual De Repe/repro.
+0003#STR0003#ALL#Código de barras
+0004#STR0004#ALL#Administração
+0005#STR0005#ALL#Cancelado Pelo Operador
+0006#STR0006#ALL#Médias
+0008#STR0008#ALL#Médias
+0009#STR0009#ALL#Da Peça
+0010#STR0010#ALL#Media de todas as amplitudes (rba+rbb+...)/# de avaliadores
+0011#STR0011#ALL#Analise Da Grandeza De Medição
+0012#STR0012#ALL#% Variação Do Processo
+0013#STR0013#ALL#Repetitividade - variação do equipamento (ve)
+0014#STR0014#ALL#Reprodutibilidade-variação Do Avaliador(va)
+0015#STR0015#ALL#N = número de pecas
+0016#STR0016#ALL#R = número de ciclos
+0017#STR0017#ALL#Repetitividade e reprodutibilidade (r&r)
+0018#STR0018#ALL#Variação peca a peca (vp)
+0019#STR0019#ALL#Variação total (vt)
+0022#STR0022#ALL#Amplitude media
+0024#STR0024#ALL#G R&r
+0025#STR0025#ALL#% R&r
+0030#STR0030#ALL#Tolerância
+0032#STR0032#ALL#Método
+0033#STR0033#ALL#Tolerancia De Especificação
+0034#STR0034#ALL#Tolerancia De Processo
+0035#STR0035#ALL#Quem efectua o ensaio
+0036#STR0036#ALL#Artigos
+0037#STR0037#ALL#Médias
+0040#STR0040#ALL#Data de validade: 
+0041#STR0041#ALL#Repetitividade / Reprodutibilidade
+0043#STR0043#ALL#Total de leitura(s): 
+0044#STR0044#ALL#Leitura(s) capaz(es): 
+0045#STR0045#ALL#Leitura(s) não capaz(es): 
+0048#STR0048#ALL#N.passa

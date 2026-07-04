@@ -1,0 +1,44 @@
+0001#STR0001#ALL#Livro Sub-Diário
+0002#STR0002#ALL#Digite- Lançamento Inicial Menor que o Final !
+0003#STR0003#ALL#Digite- Grupo Inicial Menor que Final !
+0004#STR0004#ALL#Digite- Data Inicial Menor que a Data Final !
+0005#STR0005#ALL#Este programa imprime o livro sub-diario
+0006#STR0006#ALL#Seção1
+0007#STR0007#ALL#Seção2
+0008#STR0008#ALL#Seção3
+0009#STR0009#ALL#Seção4
+0010#STR0010#ALL#Conta
+0011#STR0011#ALL#Lote
+0012#STR0012#ALL#SLot
+0013#STR0013#ALL#Doc.  
+0014#STR0014#ALL#Dt. Ctb.
+0015#STR0015#ALL#Lançamento
+0016#STR0016#ALL#Dt.Lanc.
+0017#STR0017#ALL#Tip
+0018#STR0018#ALL#Ser.
+0019#STR0019#ALL#Comprovante 
+0020#STR0020#ALL#Codigo Base
+0021#STR0021#ALL#Item.
+0022#STR0022#ALL#Tipo
+0023#STR0023#ALL#Tm
+0024#STR0024#ALL#Documento
+0025#STR0025#ALL#Quantid.
+0026#STR0026#ALL#Ocorrencia
+0027#STR0027#ALL#Tipo Ocorr.
+0028#STR0028#ALL#Emissão 
+0029#STR0029#ALL#For/Cli
+0030#STR0030#ALL#Razão Social
+0031#STR0031#ALL#Vlr. Debito
+0032#STR0032#ALL#Vlr. Credito
+0033#STR0033#ALL#Tot.Lancto:
+0034#STR0034#ALL#Tot.Modulo:
+0035#STR0035#ALL#Tot.Geral
+0036#STR0036#ALL#Livro SUB-DIARIO - Módulo-
+0037#STR0037#ALL#Não pode Carregar dados de Lançamento quando o Agrupamento está informado.
+0038#STR0038#ALL#Não pode Carregar dados de Agrupador quando o Lançamento está informado.
+0039#STR0039#ALL#Ativo Fixo
+0040#STR0040#ALL#Compras e faturamento
+0041#STR0041#ALL#Financeiro
+0042#STR0042#ALL#Gestão de Pessoas
+0043#STR0043#ALL#Estoque/Custos
+0044#STR0044#ALL#Selecione os Módulos

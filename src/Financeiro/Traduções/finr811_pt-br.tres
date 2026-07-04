@@ -1,0 +1,23 @@
+0001#STR0001#ALL#Carta de Cobrança
+0002#STR0002#ALL#Cabecalho
+0003#STR0003#ALL#Titulos Vencidos
+0004#STR0004#ALL#Titulo à Vencer
+0005#STR0005#ALL#Dias p/ vencto
+0006#STR0006#ALL#Formato de impressão Tabela não suportado neste relatório
+0007#STR0007#ALL#Dias de Atraso
+0008#STR0008#ALL#TOTAL
+0009#STR0009#ALL#Seguem os titulos vencidos:
+0010#STR0010#ALL#Seguem os vencimentos proximos:
+0011#STR0011#ALL#Título em atraso
+0012#STR0012#ALL#Título no prazo
+0013#STR0013#ALL#1=Enviada
+0014#STR0014#ALL#2=E-mail em branco/inexistente
+0015#STR0015#ALL#3=Falha de conexao
+0016#STR0016#ALL#4=Falha de envio
+0017#STR0017#ALL#5=Falha na autenticação
+0018#STR0018#ALL#Sit. do Título
+0019#STR0019#ALL#A Vencer
+0020#STR0020#ALL#Vencido
+0021#STR0021#ALL#Modelo Carta
+0022#STR0022#ALL#Carta Impressa
+0023#STR0023#ALL# de 

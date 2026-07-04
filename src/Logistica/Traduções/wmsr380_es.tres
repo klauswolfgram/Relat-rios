@@ -1,0 +1,31 @@
+0001#STR0001#ALL#Mapa de separacion fraccionado
+0002#STR0002#ALL#A Rayas
+0003#STR0003#ALL#Administracion
+0004#STR0004#ALL# Cliente   Producto                                             Ctd.    ALM 
+0005#STR0005#ALL#ANULADO POR EL OPERADOR
+0006#STR0006#ALL#Nº Mapa         :
+0007#STR0007#ALL#Nº Separador     : _______________
+0008#STR0008#ALL#Nº Conferente    : _______________
+0009#STR0009#ALL#Nº Empaquetador  : _______________
+0010#STR0010#ALL#Carga           :
+0011#STR0011#ALL#Ubicación Destino:
+0012#STR0012#ALL#Nº  de Itens     :
+0013#STR0013#ALL#Peso Total (KG) :
+0014#STR0014#ALL#Cubicacion       :
+0015#STR0015#ALL#Nº  de Volumenes :
+0016#STR0016#ALL#Placa del Vehic. :
+0017#STR0017#ALL#Movimientos por ubica. 
+0018#STR0018#ALL#Cliente
+0019#STR0019#ALL#Ctd.
+0020#STR0020#ALL#Nº  de Items
+0021#STR0021#ALL#Peso Total (KG)
+0022#STR0022#ALL#Cubicac
+0023#STR0023#ALL#Cargas
+0024#STR0024#ALL#Nº  de Volum. 
+0025#STR0025#ALL#Placa del Vehic.
+0026#STR0026#ALL#Tot.  
+0027#STR0027#ALL#Cubicacion      :
+0028#STR0028#ALL#Este informe tiene como objetivo Generar e Imprimir o solo Imprimir un mapa de separacion para cantidades fraccionadas, de acuerdo con los parametros informados.
+0029#STR0029#ALL#Encabezado de mapa de separacion
+0030#STR0030#ALL#Items del mapa de separacion
+0031#STR0031#ALL#Pedido

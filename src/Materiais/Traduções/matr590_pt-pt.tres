@@ -1,0 +1,29 @@
+0001#STR0001#ALL#Facturação Por Cliente
+0002#STR0002#ALL#Este relatório emite a relação de facturação. poderá ser
+0003#STR0003#ALL#Emitido por ordem de cliente ou por valor (ranking).     
+0004#STR0004#ALL#Se no tes estiver cria duplicata (n), não será computado.
+0005#STR0005#ALL#Código de barras
+0006#STR0006#ALL#Administração
+0007#STR0007#ALL#Facturação por cliente  (código ) - 
+0008#STR0008#ALL#Facturação por cliente  (ranking) - 
+0009#STR0009#ALL#Facturação por cliente  (Distrito) - 
+0010#STR0010#ALL#Código/loja               Razão Social                                   Valor             Valor Da                Valor Ranking
+0011#STR0011#ALL#                                                                         s/impostos        mercadoria              total        
+0012#STR0012#ALL#A Seleccionar Registos...
+0013#STR0013#ALL#Cancelado Pelo Operador
+0014#STR0014#ALL#Total do distrito de 
+0015#STR0015#ALL#Distrito: 
+0016#STR0016#ALL#T o t a l --->
+0017#STR0017#ALL#Facturação Por Cliente
+0018#STR0018#ALL#Este relatório emite a relação de facturação. poderá ser
+0019#STR0019#ALL#Emitido por ordem de cliente ou por valor (ranking).     
+0020#STR0020#ALL#Se no tes estiver cria duplicata (n), não será computado.
+0025#STR0025#ALL#T o t a l --->
+0026#STR0026#ALL#(código)
+0027#STR0027#ALL#(classificassão)
+0028#STR0028#ALL#(Distrito)
+0030#STR0030#ALL#Total do distrito de 
+0032#STR0032#ALL#Secção Totalizadora Do Facturação
+0033#STR0033#ALL#Secção Totalizadora Das Devoluções
+0034#STR0034#ALL#Secção Totalizadora Fact. – Dev.
+0035#STR0035#ALL#Total Do Cliente

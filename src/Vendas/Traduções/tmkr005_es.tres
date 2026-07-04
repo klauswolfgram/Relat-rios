@@ -1,0 +1,69 @@
+0001#STR0001#ALL#Analisis de las ventas por periodo y vendedor
+0002#STR0002#ALL#Este programa emitira una lista de analisis de las ventas
+0003#STR0003#ALL#realizadas por los vendedores en la atencion Televentas
+0004#STR0004#ALL#de acuerdo con los parametros previamente definidos
+0005#STR0005#ALL#A rayas
+0006#STR0006#ALL#Administracion
+0007#STR0007#ALL#ANULADO POR EL OPERADOR
+0008#STR0008#ALL#Item Produc.         Descripc.                      Es   Cant.     Vl.Unitario        Vl.Item  %Desc    Vl.Descuen.  %Incr.   Vl.Incremen. TES CFOP      Tabla       Base ICMS LP UM Entrega    Lote       SubloteValidez 
+0009#STR0009#ALL#No existen datos por imprimir para este informe con los parametros determinados     
+0010#STR0010#ALL#TOTAL
+0011#STR0011#ALL#Total de atenciones computadas para el periodo de  
+0012#STR0012#ALL# a 
+0013#STR0013#ALL#OPERAC.                                           ATENCIONES     VALOR NEGOCIADO
+0014#STR0014#ALL#VENDEDOR                                          ATENCIONES          PRESUPUES.           VALOR           FACTURAD.            VALOR
+0015#STR0015#ALL#PRODUC. FACTUR.                                     CANTIDAD                   %           VALOR
+0016#STR0016#ALL#MED.                                              ATENCIONES                   %
+0017#STR0017#ALL#PRODUC. FACTUR.                                   MED.                                                    CANTIDAD              VALOR
+0018#STR0018#ALL#CAMPANA                                           ATENCIONES                   %
+0019#STR0019#ALL#PRODUC. FACTUR.                                   CAMPANA                                                 CANTIDAD              VALOR
+0020#STR0020#ALL#FCHA      VENDEDOR                                           ATENCIONES          PRESUPUES.           VALOR           FACTUR.              VALOR
+0021#STR0021#ALL#FCHA      MED.                                               ATENCIONES          PRESUPUES.           VALOR           FACTURAD.            VALOR
+0022#STR0022#ALL#FCHA      CAMPANA                                            ATENCIONES          PRESUPUES            VALOR           FACTUAR.             VALOR
+0023#STR0023#ALL#T.M.A. por operacion de Atendimiento
+0024#STR0024#ALL#T.M.A. por operacion de Atendimiento vs. Vendedor
+0025#STR0025#ALL#T.M.A. por operacion de Presupuesto
+0026#STR0026#ALL#T.M.A. por operacion de Presupuesto vs. Vendedor
+0027#STR0027#ALL#T.M.A. por operacion de Facturacion 
+0028#STR0028#ALL#T.M.A. por operacion de Facturacion vs. Vendedor
+0029#STR0029#ALL#T.M.A. Gral.
+0030#STR0030#ALL#T.M.A. Gral.vs.Vendedor
+0031#STR0031#ALL#Valor de Presup. vs. Atencion (Promedio)
+0032#STR0032#ALL#Valor Facturacion vs. Atencion (Promedio) 
+0033#STR0033#ALL#Valor de Facturacion vs. Atencion (Promed)
+0034#STR0034#ALL#VENDEDOR                                                PRESUPUES        DESVIO                  FACTURACION        DESVIO
+0035#STR0035#ALL#VENDEDOR
+0036#STR0036#ALL#PRESUPUESTO
+0037#STR0037#ALL#DESVIO
+0038#STR0038#ALL#FACTURACION
+0039#STR0039#ALL#OPERACION
+0040#STR0040#ALL#ATENCIONES
+0041#STR0041#ALL#VALOR NEGOCIADO
+0042#STR0042#ALL#VALOR
+0043#STR0043#ALL#FACTURADOS
+0044#STR0044#ALL#VALOR TOTAL
+0045#STR0045#ALL#PRODUCTO FACTUR.
+0046#STR0046#ALL#CANTIDAD
+0047#STR0047#ALL#MEDIO
+0048#STR0048#ALL#CAMPANA
+0049#STR0049#ALL#FCH.
+0050#STR0050#ALL#PRESUP.
+0051#STR0051#ALL#Total de Atenciones del Periodo
+0052#STR0052#ALL#Totalizacion de Tiempos de Atencion (T.M.A)
+0053#STR0053#ALL#Valor de Presup. vs. Promedio de Atencion
+0054#STR0054#ALL#Valor de Facturacion vs. Prom. de Atencion
+0055#STR0055#ALL#Valor de Facturacion por Vendedor
+0056#STR0056#ALL#Valor Negociado y Numeros de Atencion por Operacion
+0057#STR0057#ALL#Numero de Atenciones, Presupuestos y Facturaciones por Vendedor
+0058#STR0058#ALL#Cantidad y Valor por Producto Facturado
+0059#STR0059#ALL#Total de aten. por Med. de Com.
+0060#STR0060#ALL#Cantidad y Valor de Prod. Fact. por Med. de Comun.
+0061#STR0061#ALL#Total de Atenciones por Campana
+0062#STR0062#ALL#Cantidad y Valor de Productos Facturados por Campana
+0063#STR0063#ALL#Numero de Atenciones, Presupuestos y Facturacion por Vendedor
+0064#STR0064#ALL#Numero de Atenciones, Presup. y Facturac. por Med. de Com.
+0065#STR0065#ALL#Numero de Atenciones, Presupuestos y Facturacion por Campana
+0066#STR0066#ALL#Cantidad valor de productos facturados por campaña
+0067#STR0067#ALL#Vendedor - Atenciones, Presupuestos y Facturación
+0068#STR0068#ALL#Medios - Atenciones, Presupuestos y Facturación
+0069#STR0069#ALL#Campaña - Atenciones, Presupuestos y Facturación

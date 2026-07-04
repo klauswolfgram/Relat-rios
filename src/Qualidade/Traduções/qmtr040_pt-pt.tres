@@ -1,0 +1,22 @@
+0002#STR0002#ALL#Familia          instrumento      rev. depart.       responsavel     dias  fabricante     orgao calibrador sg  |p.  r.  |p.  r.  |p.  r.  |p.  r.  |p.  r.  |p.  r.  |p.  r.  |p.  r.  |p.  r.  |p.  r.  |p.  r.  |p.  r.  |
+0003#STR0003#ALL#Código de barras
+0004#STR0004#ALL#Administração
+0005#STR0005#ALL#Plano De Calibragem
+0006#STR0006#ALL#Familia+instr.+depto.
+0007#STR0007#ALL#Familia+depto.+instr.
+0008#STR0008#ALL#Depto.+instr.+familia
+0009#STR0009#ALL#Cancelado Pelo Operador
+0010#STR0010#ALL#                                                                     freq.                                     |
+0020#STR0020#ALL#Nov
+0023#STR0023#ALL#Legenda Responsável(eis)/departamento(s)
+0024#STR0024#ALL#          Código              Nome                                         N.reduz
+0025#STR0025#ALL#          Código              Departamento
+0026#STR0026#ALL#Total   previsto:
+0028#STR0028#ALL#Familia+instr.+depto.
+0029#STR0029#ALL#Familia+depto.+instr.
+0030#STR0030#ALL#Depto.+instr.+familia
+0035#STR0035#ALL#Orgão
+0037#STR0037#ALL#Sg
+0038#STR0038#ALL#Código
+0042#STR0042#ALL#Utilizador não existe e/ou foi eliminado
+0044#STR0044#ALL#Utilizadores

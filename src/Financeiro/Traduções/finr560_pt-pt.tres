@@ -1,0 +1,31 @@
+0001#STR0001#ALL#Este programa tem como objectivo imprimir um 
+0002#STR0002#ALL#Relatório de movimentos de caixa, de acordo com 
+0003#STR0003#ALL#Os parâmetros introduzidos pelo utilizador.
+0004#STR0004#ALL#Movimento Do Utilizador
+0005#STR0005#ALL#Código de barras
+0006#STR0006#ALL#Administração
+0007#STR0007#ALL#Descrição                       Utilizador          Comprovativo  Nro. Interno  Número De   Data De              Valor
+0009#STR0009#ALL#                                                              do movimento  adiant.     digitação                      
+0010#STR0010#ALL#*** cancelado pelo operador ***
+0011#STR0011#ALL#Utilizador   
+0012#STR0012#ALL#Detalhes Do Adiantamento
+0013#STR0013#ALL#Saldo Dos Movimentos Do Utilizador->
+0014#STR0014#ALL#Total despesas -->
+0015#STR0015#ALL#Total crial despesas -->
+0020#STR0020#ALL#Reposição
+0021#STR0021#ALL#Transf. p/fechamen
+0022#STR0022#ALL#Dev.p/fecho Cx Menor
+0024#STR0024#ALL#Reposição cancelada
+0025#STR0025#ALL#Reposição – à espera de autorização
+0026#STR0026#ALL#Reposição – à espera de liquidação de título
+0027#STR0027#ALL#Estorno De Despesa
+0028#STR0028#ALL#Descrição
+0030#STR0030#ALL#Comprovativo
+0031#STR0031#ALL#Nr. Interno
+0032#STR0032#ALL#Do Movimento
+0033#STR0033#ALL#Número de
+0035#STR0035#ALL#Da data
+0036#STR0036#ALL#Digitação
+0038#STR0038#ALL#Liquidado
+0039#STR0039#ALL#Saldo Anterior do Caixa
+0040#STR0040#ALL#Saldo do Caixa no Dia

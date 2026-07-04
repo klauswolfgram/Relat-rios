@@ -1,0 +1,15 @@
+0001#STR0001#ALL#Demonstrativos Contabilísticos Múltiplas Visões de Gestão
+0003#STR0003#ALL#Bem-vindo 
+0004#STR0004#ALL#Esta ferramenta auxiliará a preencher as informações necessárias para configuração da emissão de demonstrativos contabilísticos utilizando múltiplas visões de gestão
+0005#STR0005#ALL#Parâmetros iniciais
+0007#STR0007#ALL#Selecção de filiais
+0009#STR0009#ALL#Calendário Contabilístico X Periodicidade
+0010#STR0010#ALL#Visões de Gestão
+0013#STR0013#ALL#Qtd. Visões de Gestão:
+0016#STR0016#ALL#Considera filiais ?
+0028#STR0028#ALL#Informe a configuração do livro contabilístico da linha 
+0029#STR0029#ALL#Informe o tipo de saldo contabilístico da linha 
+0031#STR0031#ALL#Deve ser definida a quantidade de visões de gestão que será utilizada no relatório; pelo menos uma deve ser definida
+0032#STR0032#ALL#Deve ser definida a moeda dos saldos do relatório de demonstrativos contabilísticos.
+0037#STR0037#ALL#A quantidade de períodos superou o limite de #1[Limite Colunas]# colunas. Altere os calendários e períodos desejados.
+0041#STR0041#ALL#Tp. Vlr. Tot.

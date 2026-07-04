@@ -1,0 +1,15 @@
+0001#STR0001#ALL#Matricula
+0002#STR0002#ALL#Centro de Custo
+0003#STR0003#ALL#Relaçäo de Férias Vencidas no Mes.
+0004#STR0004#ALL#Será impresso de acordo com os parametros solicitados pelo
+0005#STR0005#ALL#usuário.
+0006#STR0006#ALL#Zebrado
+0007#STR0007#ALL#Administraçäo
+0008#STR0008#ALL#RELAÇÄO DE FÉRIAS VENCIDAS NO MES
+0009#STR0009#ALL# FILIAL       C. CUSTO             MATRICULA       NOME                             DT. BASE   DIAS FERIAS    DIAS      FERIAS
+0010#STR0010#ALL#RELACAO DE FERIAS VENCIDAS NO MES
+0011#STR0011#ALL#  DATA REFERENCIA: 
+0012#STR0012#ALL#Dias Faltas
+0013#STR0013#ALL#Valor Deduzido
+0014#STR0014#ALL#Emissao do Relatorio de Ferias Vencidas no mes
+0015#STR0015#ALL#                                                                                     FERIAS      VENCIDAS    FALTAS   ANTECIPADAS

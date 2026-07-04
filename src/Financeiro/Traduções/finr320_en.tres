@@ -1,0 +1,69 @@
+0001#STR0001#ALL#This program will print the general Collection Situation in
+0002#STR0002#ALL#the month of the System's base date.
+0003#STR0003#ALL#Z.Form
+0004#STR0004#ALL#Management
+0005#STR0005#ALL#Accounts Receivable General Status
+0006#STR0006#ALL#                                             Values (
+0007#STR0007#ALL#)            Quantity
+0008#STR0008#ALL#CANCELLED BY THE OPERATOR
+0009#STR0009#ALL#Selecting Records..
+0010#STR0010#ALL#Invoicing(Monthly)
+0011#STR0011#ALL#Cash
+0012#STR0012#ALL#By Installm.
+0013#STR0013#ALL#Received
+0014#STR0014#ALL#Permanence Rate
+0015#STR0015#ALL#Fine
+0016#STR0016#ALL#Adjustm.
+0017#STR0017#ALL#Discounts
+0018#STR0018#ALL#Original
+0019#STR0019#ALL#BILLS TO MATURE
+0020#STR0020#ALL#Advanced Receipt
+0021#STR0021#ALL#Credit Notes
+0022#STR0022#ALL#Up to 30 days
+0023#STR0023#ALL#Fr 31 to 60 dys
+0024#STR0024#ALL#Fr 61 to 90 dys
+0025#STR0025#ALL#Over 90 Days
+0026#STR0026#ALL#DUE BILLS
+0027#STR0027#ALL#COLLECTION DISTRIBUTION
+0028#STR0028#ALL#Portfolio
+0029#STR0029#ALL#Simple Collection
+0030#STR0030#ALL#Discounted Collect.
+0031#STR0031#ALL#Guaranteed Collect.
+0032#STR0032#ALL#Bonded Collection
+0033#STR0033#ALL#Court Dept.Collection
+0034#STR0034#ALL#Notary Public Collect.
+0035#STR0035#ALL#Disc.Guar.Collect.
+0036#STR0036#ALL#PER TYPE OF BILL
+0037#STR0037#ALL#Trade Notes
+0038#STR0038#ALL#Invoices
+0039#STR0039#ALL#Pre-dated Cheques
+0040#STR0040#ALL#Payment Booklet
+0041#STR0041#ALL#Taxes
+0042#STR0042#ALL#Allowances
+0043#STR0043#ALL#Others
+0044#STR0044#ALL#ORDERS TO DELIVER PORTFOLIO
+0045#STR0045#ALL#Items of Due Orders
+0046#STR0046#ALL#INDEXES
+0047#STR0047#ALL#Absolute Average Term
+0048#STR0048#ALL#Estimated Average Term
+0049#STR0049#ALL#Delay Quocient
+0050#STR0050#ALL#Collection Efficiency
+0051#STR0051#ALL#POSTED AMOUNTS
+0052#STR0052#ALL#Up to 15 days
+0053#STR0053#ALL#Fr 16 to 30 days
+0054#STR0054#ALL#Amounts 
+0055#STR0055#ALL#Quantity  
+0056#STR0056#ALL#COLLECTION AND CREDIT NOTES   
+0057#STR0057#ALL#AVERAGE TERMS AND ARREARS QUOTIENT 
+0058#STR0058#ALL#Descript.
+0059#STR0059#ALL#Customer info   
+0060#STR0060#ALL#Billing (in month)  
+0061#STR0061#ALL#Amounts posted  
+0062#STR0062#ALL#Bills to fall due
+0063#STR0063#ALL#Due bills       
+0064#STR0064#ALL#Collection and credit notes   
+0065#STR0065#ALL#Distrib. of collection  
+0066#STR0066#ALL#By bill type      
+0067#STR0067#ALL#Portfolio of orders to deliver
+0068#STR0068#ALL#Average terms and arrears quotient 
+0069#STR0069#ALL#Accessory Values

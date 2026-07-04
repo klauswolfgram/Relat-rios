@@ -1,0 +1,11 @@
+0001#STR0001#ALL#Follow-up of the SO. Attendance 
+0002#STR0002#ALL#    This program will print a report of Follow-up of the Attendance of SO., 
+0003#STR0003#ALL#based on the selected parameters.   
+0004#STR0004#ALL#
+0005#STR0005#ALL#Z.Form 
+0006#STR0006#ALL#Management   
+0007#STR0007#ALL#SO.NR. IT CUSTOMER                                 CALL NR.    CALL DATE  HOUR  CONTACT              FORECAST OF ATTENDANCE   TIME  
+0008#STR0008#ALL#          CODE      NAME                                                                             TEC.   DATE        HOUR  IN HRS
+0009#STR0009#ALL#CANCELLED BY OPERATOR  
+0010#STR0010#ALL#Service order   
+0011#STR0011#ALL#Technician's schedule

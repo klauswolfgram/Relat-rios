@@ -1,0 +1,17 @@
+0001#STR0001#ALL#Este  programa  tem como objectivo imprimir os
+0002#STR0002#ALL#Recibos do banco seleccionado, conforme visualização
+0003#STR0003#ALL#Previamente configurado.
+0004#STR0004#ALL#Impressão do recibo em 
+0005#STR0005#ALL#Código de barras
+0006#STR0006#ALL#Administração
+0007#STR0007#ALL#Cancelado Pelo Operador
+0011#STR0011#ALL#Formulário posicionado correctamente ?
+0012#STR0012#ALL#Antes de iniciar a impressão, verifique se o formulário contínuo 
+0013#STR0013#ALL#Está ajustado. o teste será impresso na coluna de local de paga- 
+0014#STR0014#ALL#Mento. formulário posicionado correctamente ?
+0017#STR0017#ALL#Abandonar
+0018#STR0018#ALL#Facturas A Receber
+0023#STR0023#ALL#Quanto à gravação ? 
+0024#STR0024#ALL#Quanto a Gravação ?
+0025#STR0025#ALL#Borderaux genérico ?
+0026#STR0026#ALL#Existem outras mensagens configuradas para o recibo, confirma substituição ?

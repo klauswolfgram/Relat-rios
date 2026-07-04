@@ -1,0 +1,32 @@
+0002#STR0002#ALL#Este Programa Irá Emitir Uma Relação Das Ligações Realizadas Pelo Operador No Atendimento Televendas.
+0003#STR0003#ALL#Apenas as ligações registadas como atendimento serão emitidas neste relatório.
+0005#STR0005#ALL#Código de barras
+0007#STR0007#ALL#Cancelado Pelo Operador
+0008#STR0008#ALL#Item Artigo         Descricão                      St   Qtdade.    Vl. Unitário        Vl. Item  %Desc    Vl. Desconto  %acrés   Vl. Acréscimo Tes Cfop      Tabela      Base Icms Lp Um Entrega    Lote       Sub-lt Validade
+0009#STR0009#ALL#Não existem dados a serem impressos para este relatório com os parâmetros escolhidos
+0010#STR0010#ALL#Total
+0011#STR0011#ALL#Total de atendimentos estimados para o período de 
+0014#STR0014#ALL#Operador                                          Atendimentos
+0015#STR0015#ALL#Media                                             Atendimentos                 %
+0016#STR0016#ALL#Campanha                                          Atendimentos                 %
+0017#STR0017#ALL#Data      Operador                                           Atendimentos
+0018#STR0018#ALL#Data      Media                                              Atendimentos
+0019#STR0019#ALL#Data      Campanha                                           Atendimentos
+0020#STR0020#ALL#Operação
+0021#STR0021#ALL#Operador
+0022#STR0022#ALL#Media
+0023#STR0023#ALL#Campanha
+0025#STR0025#ALL#Quantidade
+0026#STR0026#ALL#%desc
+0027#STR0027#ALL#%acre
+0028#STR0028#ALL#Tes
+0029#STR0029#ALL#Cfop
+0030#STR0030#ALL#Lp
+0031#STR0031#ALL#Um
+0034#STR0034#ALL#Orçamentos Televendas
+0035#STR0035#ALL#Itens Do Orçamento Televendas
+0036#STR0036#ALL#Elem.
+0037#STR0037#ALL#Artigo
+0041#STR0041#ALL#Vl.Elem.
+0043#STR0043#ALL#%Acres.
+0044#STR0044#ALL#Vl.Acréscimo

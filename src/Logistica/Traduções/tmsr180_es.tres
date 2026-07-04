@@ -1,0 +1,26 @@
+0001#STR0001#ALL#Analisis Diario de Fletes
+0002#STR0002#ALL#Este programa emitira el analisis diario de los fletes
+0003#STR0003#ALL#de acuerdo con los parametros seleccionados por el usuario
+0004#STR0004#ALL#A rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#ANULADO POR EL OPERADOR
+0007#STR0007#ALL#SUCURS   NUMERO    -------- PESO --------   -------------- FLETE PAGADO ------------   -------------- FRETE PAGAR --------------
+0008#STR0008#ALL#DESTINO   MANIF      PAGO   PAGAR   TOTAL           FLETE       IMPUESTO       TOTAL          FLETE        IMPUESTO        TOTAL
+0009#STR0009#ALL#TOTAL DESTINO
+0010#STR0010#ALL#TOTAL GENERAL
+0011#STR0011#ALL#Analisis Diaria de los Fletes
+0012#STR0012#ALL#Este programa emitira el analisis diaria de los fletes segun los parametros elegidos por el usuario
+0013#STR0013#ALL#Suc. Manif.+ Manifiesto
+0014#STR0014#ALL#Suc.Destino
+0015#STR0015#ALL#Peso Pagado
+0016#STR0016#ALL#Peso por Pagar
+0017#STR0017#ALL#Peso Total
+0018#STR0018#ALL#Flete Pagado
+0019#STR0019#ALL#Impuesto Pagado
+0020#STR0020#ALL#Total Pagado
+0021#STR0021#ALL#Flete por Pagar
+0022#STR0022#ALL#Impuesto por Pagar
+0023#STR0023#ALL#Total por Pagar
+0024#STR0024#ALL#Suc.Manifiesto
+0025#STR0025#ALL#Manifiesto
+0026#STR0026#ALL#Descripcion

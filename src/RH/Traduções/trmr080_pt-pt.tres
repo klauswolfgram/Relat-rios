@@ -1,0 +1,17 @@
+0001#STR0001#ALL#Planeamento De Cursos
+0002#STR0002#ALL#Sera impresso de acordo com os parâmetro s solicitados pelo
+0003#STR0003#ALL#Utilizador.
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#Filial / planeamento: 
+0007#STR0007#ALL#Curso                                  n.func.        valor   horas ed dt.plan.   dt.inic.   dt. final  responsável 
+0008#STR0008#ALL#Total do planeamento: 
+0009#STR0009#ALL#Total crial: 
+0011#STR0011#ALL#Planeamento
+0013#STR0013#ALL#Núm.func.
+0015#STR0015#ALL#Dt.plan.
+0016#STR0016#ALL#Dt.inic.
+0017#STR0017#ALL#Dt.final
+0018#STR0018#ALL#Reg.
+0021#STR0021#ALL#Formação
+0022#STR0022#ALL#Este Programa Emite O Relatório De Planeamento De Cursos

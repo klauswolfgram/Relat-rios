@@ -1,0 +1,34 @@
+0001#STR0001#ALL#Lista de oportunidades
+0002#STR0002#ALL#Este informe imprimira la lista de oportunidades
+0003#STR0003#ALL#de venta segun los parametros solicitados
+0004#STR0004#ALL#Oportunidades
+0005#STR0005#ALL#Prospects
+0006#STR0006#ALL#Product.
+0007#STR0007#ALL#Vendedores
+0008#STR0008#ALL#Proceso de Venta
+0009#STR0009#ALL#A Rayas
+0010#STR0010#ALL#Administrac.
+0011#STR0011#ALL#Codigo  Rev  Descripcion                      Vendedores                  Prospect                  Proceso de Venta           Etapa          Conc       Con Md.Base Producto       Situacion  
+0012#STR0012#ALL#Notas:
+0013#STR0013#ALL#Competencia:
+0014#STR0014#ALL#Socios:
+0015#STR0015#ALL#Vendedores
+0016#STR0016#ALL#Contact.:
+0017#STR0017#ALL#Total / Oportunidades : 
+0018#STR0018#ALL#Total / Fondos( moneda
+0019#STR0019#ALL#Totales p/moneda:
+0020#STR0020#ALL#Este informe imprimira la lista de oportunidades de venta, segun los parametros solicitados
+0021#STR0021#ALL#Oportunidad de Venta
+0022#STR0022#ALL#Codigo
+0023#STR0023#ALL#Rev
+0024#STR0024#ALL#Total / Recurso
+0025#STR0025#ALL#Total / Oportunidad
+0026#STR0026#ALL#Competidores
+0027#STR0027#ALL#Socios
+0028#STR0028#ALL#Equipo de Ventas
+0029#STR0029#ALL#Contactos
+0030#STR0030#ALL#Moneda
+0031#STR0031#ALL#Evolucion de la Venta
+0032#STR0032#ALL#En alerta
+0033#STR0033#ALL#En atraso
+0034#STR0034#ALL#En dia

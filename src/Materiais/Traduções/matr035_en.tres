@@ -1,0 +1,14 @@
+0001#STR0001#ALL#Print a list of payment terms available
+0002#STR0002#ALL#in file.
+0003#STR0003#ALL#Payment Terms
+0004#STR0004#ALL#Z.Form
+0005#STR0005#ALL#Management
+0006#STR0006#ALL#Code  Type Description    Terms                                      IPI      Days       %Financ.    Days to   %Financ.   ICM Solid.
+0007#STR0007#ALL#                                                                   (N/J/S) (D/L/S/Q/M)   Discount    Discount  Increase     (N/J/S) 
+0008#STR0008#ALL#Example
+0009#STR0009#ALL#Code  Type Description    Terms                                               Days       %Financ.    Days to   %Financ.             
+0010#STR0010#ALL#                                                                           (D/L/S/Q/M)   Discount    Discount  Increase             
+0011#STR0011#ALL#Lists the payment terms                     
+0012#STR0012#ALL#available in file.      
+0013#STR0013#ALL#Payment terms        
+0014#STR0014#ALL#Example

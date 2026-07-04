@@ -1,0 +1,31 @@
+0001#STR0001#ALL#This program will print the Comparative of Types of Account Balances 
+0002#STR0002#ALL#according to the parameters requested by the user.   
+0003#STR0003#ALL#Account
+0004#STR0004#ALL#Z. Form
+0005#STR0005#ALL#Management
+0006#STR0006#ALL#Comparative of Balances Type 
+0007#STR0007#ALL#   VARIATION  
+0008#STR0008#ALL#|ACCT.                                                                       |DESCRIPT.                                 
+0009#STR0009#ALL#***** CANCELLED BY THE OPERATOR****
+0010#STR0010#ALL#Creating temporary file ...  
+0011#STR0011#ALL# T O T A L S  O F 
+0012#STR0012#ALL#T O T A L S  O F  P E R I O D   : 
+0013#STR0013#ALL# Comparative 
+0014#STR0014#ALL# IN 
+0015#STR0015#ALL# FROM 
+0016#STR0016#ALL# TO  
+0017#STR0017#ALL# DIV. 
+0018#STR0018#ALL#   VARIATION    
+0019#STR0019#ALL#Variatio
+0020#STR0020#ALL#On
+0021#STR0021#ALL#Blnce
+0022#STR0022#ALL#Acct.
+0023#STR0023#ALL#Descript.
+0024#STR0024#ALL#Chart of Accts.
+0025#STR0025#ALL#After accomplishments of the period, run 'Balance Reprocessing' for the period/date to issue reports.
+0026#STR0026#ALL#ATTENTION! Balance upd. disabled, MV_CT350SL (L) = F 
+0027#STR0027#ALL#Actual Value
+0028#STR0028#ALL#Value
+0029#STR0029#ALL#(02/01)
+0030#STR0030#ALL#%
+0031#STR0031#ALL#(01/02)

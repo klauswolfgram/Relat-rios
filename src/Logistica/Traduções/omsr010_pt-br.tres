@@ -1,0 +1,32 @@
+0001#STR0001#ALL#Listagem de Precos
+0002#STR0002#ALL#Zebrado
+0003#STR0003#ALL#Administracao
+0004#STR0004#ALL#CODIGO         DESCRICAO                      UM  FAIXA ATE          PRECO      PRECO     MO-      DESCONTO FATOR  ESTADO TP.OPERACAO
+0005#STR0005#ALL#                                                                     BASE       TABELA    EDA
+0006#STR0006#ALL#CANCELADO PELO OPERADOR
+0007#STR0007#ALL#TABELA :
+0008#STR0008#ALL#VALIDADE :
+0009#STR0009#ALL#Estadual
+0010#STR0010#ALL#Inter-Esta
+0011#STR0011#ALL#Norte/Nord
+0012#STR0012#ALL#Todos
+0013#STR0013#ALL#   CODIGO                         DESCRICAO  DO  PRODUTO           UM           QTD P/   PRECO
+0014#STR0014#ALL#                                                                                EMBAL.    BASE
+0015#STR0015#ALL#Por Tipo
+0016#STR0016#ALL#Por Grupo
+0017#STR0017#ALL#Este relatorio ira imprimir as tabelas de precos de acordo
+0018#STR0018#ALL#com os parametros informados pelo usuario
+0019#STR0019#ALL#Por Descricao do Produto
+0020#STR0020#ALL#Selecionando Registros
+0021#STR0021#ALL#TIPO 
+0022#STR0022#ALL#GRUPO
+0023#STR0023#ALL#Por produto
+0024#STR0024#ALL#Listagem de Precos
+0025#STR0025#ALL#Este relatório irá imprimir as tabelas de preços de acordo com os parâmetros informados pelo usuário
+0026#STR0026#ALL#Tabela de Preço
+0027#STR0027#ALL#Tipo
+0028#STR0028#ALL#Grupo
+0029#STR0029#ALL#Descrição de produto
+0030#STR0030#ALL#Código de produto
+0031#STR0031#ALL#Produtos da tabela de preço
+0032#STR0032#ALL#Lista de Preços ( Base )

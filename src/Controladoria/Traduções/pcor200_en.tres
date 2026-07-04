@@ -1,0 +1,44 @@
+0001#STR0001#ALL#Report of Budget Simulation
+0002#STR0002#ALL#Budget Simulation View Report.
+0003#STR0003#ALL#The report presents required information of the budget simulation process in order to allow comparing the analysis of simulated infomation with the one performed in other periods and fiscal year.
+0004#STR0004#ALL#Budget Account
+0005#STR0005#ALL#C.O.
+0006#STR0006#ALL#Level
+0007#STR0007#ALL#Description
+0008#STR0008#ALL#C. Cost Total
+0009#STR0009#ALL#TOTAL_CO
+0010#STR0010#ALL#Code
+0011#STR0011#ALL#Version
+0012#STR0012#ALL#Start Periods
+0013#STR0013#ALL#End Periods
+0014#STR0014#ALL#Budget Class
+0015#STR0015#ALL#Class Description
+0016#STR0016#ALL#Identifier
+0017#STR0017#ALL#Cost Center
+0018#STR0018#ALL#Description Currency 1
+0019#STR0019#ALL#Accounting Item 
+0020#STR0020#ALL#Currency Description 1
+0021#STR0021#ALL#Value Class
+0022#STR0022#ALL#Operation
+0023#STR0023#ALL#Detailed
+0024#STR0024#ALL#1=Weekly
+0025#STR0025#ALL#2=Fortnightly
+0026#STR0026#ALL#3=Monthly
+0027#STR0027#ALL#4=Bimonthly
+0028#STR0028#ALL#5=Biannually
+0029#STR0029#ALL#6=Annually
+0030#STR0030#ALL#Summarized
+0031#STR0031#ALL#All
+0032#STR0032#ALL#Acquisition
+0033#STR0033#ALL#Deletion
+0034#STR0034#ALL#All Simulation
+0035#STR0035#ALL#Reais Simulated
+0036#STR0036#ALL#Change Simulated
+0037#STR0037#ALL#AKR table is not in the dictionary.
+0038#STR0038#ALL#To access this functionality, run the compatibility program U_UPDPCO.
+0039#STR0039#ALL#Data of Budget Account
+0040#STR0040#ALL#Budget Account Total
+0041#STR0041#ALL#Report Total
+0042#STR0042#ALL#Report printed only in chart mode
+0043#STR0043#ALL#Budget Unit
+0044#STR0044#ALL#Simulation Total 

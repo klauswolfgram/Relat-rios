@@ -1,0 +1,41 @@
+0001#STR0001#ALL#C. Costo + Matricula
+0002#STR0002#ALL#C Costo + Nomb
+0003#STR0003#ALL#C Costo + Cargo
+0004#STR0004#ALL#Lista de Cargos y Sueldos.
+0005#STR0005#ALL#Se imprimira de acuerdo con los param. solicitados por el
+0006#STR0006#ALL#usuario.
+0007#STR0007#ALL#A rayas
+0008#STR0008#ALL#Administrac.
+0009#STR0009#ALL#LISTA DE CARGOS Y SUELDOS
+0010#STR0010#ALL#FI  MATRIC NOMBRE                           ADMISION   FUNCION                       MANO DE     SALARIO   PERC.   PERC.   PERC.
+0011#STR0011#ALL#                                                                                      OBRA      NOMINAL  C.COSTO  SUCURSAL  EMPRESA
+0012#STR0012#ALL#LISTA DE CARGOS Y SUELDOS 
+0013#STR0013#ALL#(C COSTO + MATRICULA)
+0014#STR0014#ALL#(C COSTO + NOMB)
+0015#STR0015#ALL#(C COSTO + CARGO)
+0016#STR0016#ALL#Seleccionando Registros..
+0017#STR0017#ALL#TOTAL CENTRO DE COSTO: 
+0018#STR0018#ALL#  CTD.: 
+0019#STR0019#ALL#TOTAL DE LA SUCURSAL: 
+0020#STR0020#ALL# CTD.:
+0021#STR0021#ALL#TOTAL DEL CENTRO DE COSTO 
+0022#STR0025#ALL#TOTAL EMPRESA     
+0023#STR0026#ALL# CTD.: 
+0024#STR0027#ALL#DIR
+0025#STR0028#ALL#IND
+0026#STR0029#ALL#Nomb
+0027#STR0030#ALL#Matricula
+0028#STR0031#ALL#Cargo
+0029#STR0034#ALL#(NOMB)
+0030#STR0035#ALL#(MATRICULA)
+0031#STR0036#ALL#(CARGO)
+0032#STR0037#ALL#Este programa emite la Lista de Cargos y Sueldos.
+0033#STR0038#ALL#Salario Nominal
+0034#STR0039#ALL#% C.Costo
+0035#STR0040#ALL#% Sucursal
+0036#STR0041#ALL#% Empresa
+0037#STR0042#ALL#Empleados
+0038#STR0043#ALL#MATRÍCULA       NOMBRE                           ADMISIÓN   FUNCIÓN                     MANO DE     SUELDO   PORC.   PORC.   PORC.
+0039#STR0044#ALL#SUCURSAL: 
+0040#STR0045#ALL#Sucursal
+0041#STR0046#ALL#Devido ao seu modelo, para o Tipo de Planilha em Formato de Tabela, o Relatório de Cargos e Salários no modo Sintético é apresentado em branco! Favor escolher outro formato de Impressão.

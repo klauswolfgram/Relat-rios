@@ -1,0 +1,21 @@
+0001#STR0001#ALL#Relatório de Log de Contabilização
+0002#STR0002#ALL#Fil+DtLcto+NumLote+SubLote+NumDoc
+0003#STR0003#ALL#Cta Debito+Data Lcto
+0004#STR0004#ALL#Cta Credito+Data Lcto
+0005#STR0005#ALL#Este programa emite a Impressão de Relatório de Log de Contabização.
+0006#STR0006#ALL#Tipo Saldo
+0007#STR0007#ALL#Tipo
+0008#STR0008#ALL#Usuário
+0009#STR0009#ALL#Data
+0010#STR0010#ALL#Função disponível apenas TReport, verificar parâmetro MV_TREPORT
+0011#STR0011#ALL#Manual
+0012#STR0012#ALL#Sistema
+0013#STR0013#ALL#Lote
+0014#STR0014#ALL#Documento
+0015#STR0015#ALL#Linha
+0016#STR0016#ALL#Tp Saldo
+0017#STR0017#ALL#Tp Lcto
+0018#STR0018#ALL#Ciclo de vida de Software
+0019#STR0019#ALL#Esta rotina será descontinuada no release 12.1.2410
+0020#STR0020#ALL#Para substituir esta funcionalidade, utilize a nova rotina de Conciliação (CTBA940)
+0021#STR0021#ALL#Esta rotina foi descontinuada no release 12.1.2410

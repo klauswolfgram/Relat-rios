@@ -1,0 +1,26 @@
+0001#STR0001#ALL#Este programa imprimira copias de los cheques emitidos.
+0002#STR0002#ALL#Se imprimira(n) 1 o 2 cheques por pag.
+0003#STR0003#ALL#Copia de cheques
+0004#STR0004#ALL#A Rayas
+0005#STR0005#ALL#Administrac.
+0006#STR0006#ALL#Anulado por el operador
+0007#STR0007#ALL#  -  COPIA DE CHEQUE
+0008#STR0008#ALL#|  Numero cheque 
+0009#STR0009#ALL#Fch. de Emision 
+0010#STR0010#ALL#|  Banco 
+0011#STR0011#ALL#Agencia
+0012#STR0012#ALL#   Cuenta
+0013#STR0013#ALL#|  Valor Cheque 
+0014#STR0014#ALL#Fecha del Cheque
+0015#STR0015#ALL#|  Favorecido 
+0016#STR0016#ALL#|  Historial  
+0017#STR0017#ALL#|  Copia de Cheque Nº  
+0018#STR0018#ALL#|  Vistos
+0019#STR0019#ALL#|Observaciones    |Ctas a Pagar  |Gerente Financ|Contabilidad  |Firmado por    |
+0020#STR0020#ALL#COPIA DEL CHEQUE: 
+0021#STR0021#ALL# - Continuac.
+0022#STR0022#ALL#|- Composicion del Cheq.
+0023#STR0023#ALL#|Provee    Nombre Proveedor                Modalidad                           |
+0024#STR0024#ALL#|       Prf Numero        P   Vencto                  Valor del Titulo         |
+0025#STR0025#ALL#|Provee                  Nom. Proveedor                  Modalidad             |
+0026#STR0026#ALL#|Proveed Nombre Proveedor   Modalidad  Prf Numero    Pc Vencto    Valor del Titulo|

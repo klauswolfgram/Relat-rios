@@ -1,0 +1,15 @@
+0001#STR0001#ALL#Lista de Cobradores
+0002#STR0002#ALL#Emision del Registro de Cobradores
+0003#STR0003#ALL#Imprimira los datos de los Cobradores, 
+0004#STR0004#ALL#segun la configuracion del usuario.
+0005#STR0005#ALL#A Rayas
+0006#STR0006#ALL#Administracion
+0007#STR0007#ALL#DETALLE COMPLETO DEL ARCHIVO DE COBRADORES 
+0008#STR0008#ALL# Por Codigo         
+0009#STR0009#ALL# Alfabetico         
+0010#STR0010#ALL# Por CGC            
+0011#STR0011#ALL# Por RUT            
+0012#STR0012#ALL# Por RUC            
+0013#STR0013#ALL# Por RFC            
+0014#STR0014#ALL# Por NIT/C.C        
+0015#STR0015#ALL# Por 

@@ -1,0 +1,25 @@
+0001#STR0001#ALL#Proof of Delivery     
+0002#STR0002#ALL#This program will print the letter of delivery     
+0003#STR0003#ALL#delivery according to the parameters chosen by the
+0004#STR0004#ALL#user.
+0005#STR0005#ALL#Z.form
+0006#STR0006#ALL#Management   
+0007#STR0007#ALL#To
+0008#STR0008#ALL#Mr(s) : 
+0009#STR0009#ALL#Ref.: DELIVERY SLIP         
+0010#STR0010#ALL#Please find attached your invoices's slips duly dated and signed by         
+0011#STR0011#ALL#your customers.                 
+0012#STR0012#ALL#Sincerely yours,        
+0013#STR0013#ALL#Sincerely,    
+0014#STR0014#ALL#CANCELLED BY OPERATOR  
+0015#STR0015#ALL#Proof of Delivery
+0016#STR0016#ALL#This program prints the proofs of delivery according to the parameters selected by the user
+0017#STR0017#ALL#Invoice
+0018#STR0018#ALL#Proof
+0019#STR0019#ALL#To
+0020#STR0020#ALL#Mr/Ms: 
+0021#STR0021#ALL#Re.: PROOF OF DELIVERY
+0022#STR0022#ALL#We are sending you counterfoils of your invoices, dated
+0023#STR0023#ALL#and signed by your customers.
+0024#STR0024#ALL#Thank you.
+0025#STR0025#ALL#Sincerely

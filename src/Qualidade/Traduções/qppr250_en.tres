@@ -1,0 +1,50 @@
+0001#STR0001#ALL#Checklist APQP A1
+0002#STR0002#ALL#Generating visualization. Wait..
+0003#STR0003#ALL#Were the SFMEA and/or DFMEA prepared by using the reference
+0004#STR0004#ALL#manual `Mode Analisys and Potential Failure Effect
+0005#STR0005#ALL#(FMEA) by Chrysler, Ford and General Motors ?
+0006#STR0006#ALL#Were the history data of campaigns and warranty
+0007#STR0007#ALL#critically analysed?
+0008#STR0008#ALL#Were others DFMEAs of similar parts considered ?
+0009#STR0009#ALL#Do the SFMEA and/or DFMEA identify the Special
+0010#STR0010#ALL#Characteristics ?
+0011#STR0011#ALL#Were the project´s characteristics that affect the failure
+0012#STR0012#ALL#mode of risk high priority identified ?
+0013#STR0013#ALL#Did you or anybody else designate proper corrective actions for:
+0014#STR0014#ALL#numbers of high risk priority ?
+0015#STR0015#ALL#numbers of high severity ?
+0016#STR0016#ALL#After having the corrective actions completed and checked, were the priorities
+0017#STR0017#ALL#of high risk re-analysed ?
+0018#STR0018#ALL#Prepared by
+0019#STR0019#ALL# A-1 CHECKING LIST OF PROJECT´S FMEA
+0020#STR0020#ALL#Internal part or Customer´s Number
+0021#STR0021#ALL#Question
+0022#STR0022#ALL#Yes
+0023#STR0023#ALL#No
+0024#STR0024#ALL#Comments / Required Action
+0025#STR0025#ALL#Responsible Person
+0026#STR0026#ALL#Estimated Date
+0027#STR0027#ALL#Revision Date
+0028#STR0028#ALL#Page 
+0029#STR0029#ALL# of 
+0030#STR0030#ALL#Were risk priorities reviewed after 
+0031#STR0031#ALL#corrective actions were finished and confirmed?
+0032#STR0032#ALL#Were appropriate corrective actions assigned for 
+0033#STR0033#ALL#N/a
+0034#STR0034#ALL#Was DFMEA prepared using reference manual 
+0035#STR0035#ALL#Potencial Failure Mode and Effect Analysis (FMEA) of the 
+0036#STR0036#ALL#Chrysler, Ford and General Motors, and applicable customer requirements?
+0037#STR0037#ALL#numbers of high severity?
+0038#STR0038#ALL#Were Best Practices and Lessons Learned of 
+0039#STR0039#ALL#similar DFMEAs considered?
+0040#STR0040#ALL#Does the DFMEA identify Special Features?
+0041#STR0041#ALL#Were repass features (glossary) identified 
+0042#STR0042#ALL#and critically analyzed  with suppliers affected by 
+0043#STR0043#ALL#FMEA alignment and proper controls in supply base?
+0044#STR0044#ALL#numbers of high-risk priority?
+0045#STR0045#ALL#Were special features pointed out by the customer or  
+0046#STR0046#ALL#organization critically analyzed with suppliers  
+0047#STR0047#ALL#affected, in order to assure FMEA alignment? 
+0048#STR0048#ALL#Were appropriate corrective actions assigned for 
+0049#STR0049#ALL#Were project features that affect failure 
+0050#STR0050#ALL#modes of high-risk priority identified?

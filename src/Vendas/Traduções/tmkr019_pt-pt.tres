@@ -1,0 +1,20 @@
+0001#STR0001#ALL#Código de barras
+0003#STR0003#ALL#Cancelado Pelo Operador
+0004#STR0004#ALL#Telemarketing - Tipo De Comunicação
+0005#STR0005#ALL#Este programa irá emitir uma relação dos tipos de comunicação utilizadas pelo operador
+0006#STR0006#ALL#As totalizações serão apresentadas por dia e um total geral na última página do relatório
+0007#STR0007#ALL#Não há informações para imprimir este relatorio - Verifique se os parâmetros foram preenchidos corretamente
+0008#STR0008#ALL#Total de atendimentos estimados para o período de 
+0010#STR0010#ALL#**Não Indicado.**
+0011#STR0011#ALL#Não localizado no registo...
+0012#STR0012#ALL#Não indicado no atendimento...
+0014#STR0014#ALL#Data      Operador                                           Activo          Receptivo            Total
+0015#STR0015#ALL#Operador                                                     Activo          Receptivo            Total
+0016#STR0016#ALL#Total
+0019#STR0019#ALL#Data      Operador                                           Activo
+0020#STR0020#ALL#Data      Operador                                       Receptivo
+0021#STR0021#ALL#Operador                                                     Activo
+0022#STR0022#ALL#Operador                                                 Receptivo
+0024#STR0024#ALL#Activo
+0030#STR0030#ALL#Operadores Activos / Passivos
+0031#STR0031#ALL#Período

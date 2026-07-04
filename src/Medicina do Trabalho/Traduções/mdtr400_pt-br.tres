@@ -1,0 +1,132 @@
+0001#STR0001#ALL#Ficha médica com prontuário médico.
+0002#STR0002#ALL#Através dos parâmetros o usuario podera selecionar: Periodo Desejado
+0003#STR0003#ALL#programas de saúde, exames, medicamentos, diagnósticos restrições e questionario
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#Ficha Médica e Prontuário 
+0007#STR0007#ALL#CANCELADO PELO OPERADOR
+0008#STR0008#ALL#Ficha Médica..: 
+0009#STR0009#ALL#Implant...: 
+0010#STR0010#ALL#Matrícula.....: 
+0011#STR0011#ALL#Dependente...: 
+0012#STR0012#ALL#Candidato.....: 
+0013#STR0013#ALL#Nascimento: 
+0014#STR0014#ALL#Sexo..........: 
+0015#STR0015#ALL#Masculino
+0016#STR0016#ALL#Feminino
+0017#STR0017#ALL#Sangue....: 
+0018#STR0018#ALL#Doador........: 
+0019#STR0019#ALL#Sim
+0020#STR0020#ALL#Nao
+0021#STR0021#ALL#Ul.Doação.: 
+0022#STR0022#ALL#Peso..........: 
+0023#STR0023#ALL#Altura....: 
+0024#STR0024#ALL#Fumante.......: 
+0025#STR0025#ALL#Cig/Dia...: 
+0026#STR0026#ALL#Tempo que fuma: 
+0027#STR0027#ALL#Anos
+0028#STR0028#ALL#Ficha.Ant.: 
+0029#STR0029#ALL#Antecedentes.: 
+0030#STR0030#ALL#Programas de Saúde                                        Inicio     Término
+0031#STR0031#ALL#Exames Realizados                                       	  Realiz.    Termino
+0032#STR0032#ALL#Restrições                                           	     Realiz.    Término
+0033#STR0033#ALL#Doenças                                                   Realiz.    Término
+0034#STR0034#ALL#Diagnósticos                                              Realiz.    Término
+0035#STR0035#ALL#Exames Realizados                      Realiz.    Término    Cod. Resultado  Descrição             Ind. Res.        Natureza
+0036#STR0036#ALL#Exames Realizados                                         Realiz.    Término
+0037#STR0037#ALL#Normal
+0038#STR0038#ALL#Alterado
+0039#STR0039#ALL#Admissional
+0040#STR0040#ALL#Periódico
+0041#STR0041#ALL#Mudança Função
+0042#STR0042#ALL#Retorno Trabalho
+0043#STR0043#ALL#Demissional
+0044#STR0044#ALL#Diagnósticos                     Realiz.     Término     Ind. Atend.         Diagnóstico        Atend. Médico      Queixa Principal
+0045#STR0045#ALL#Atend. Clinico
+0046#STR0046#ALL#Doença do Trabalho
+0047#STR0047#ALL#Acidente Típico
+0048#STR0048#ALL#Acidente Trajeto
+0049#STR0049#ALL#Outros Atend.
+0050#STR0050#ALL#Avaliação NR7
+0051#STR0051#ALL#Positivo
+0052#STR0052#ALL#Negativo
+0053#STR0053#ALL#FICHA MEDICA E PRONTUÁRIO
+0054#STR0054#ALL#Ficha Medica:
+0055#STR0055#ALL#Implantacao:
+0056#STR0056#ALL#Matricula:
+0057#STR0057#ALL#Candidato:
+0058#STR0058#ALL#Sexo: 
+0059#STR0059#ALL#Sangue:
+0060#STR0060#ALL#Doador: 
+0061#STR0061#ALL#Ul.Doacao:
+0062#STR0062#ALL#Peso: 
+0063#STR0063#ALL#Altura:
+0064#STR0064#ALL#Fumante:
+0065#STR0065#ALL#Cigarro/Dia:
+0066#STR0066#ALL#Tempo que fuma:
+0067#STR0067#ALL#Ficha Anterior:
+0068#STR0068#ALL#Programas de Saude
+0069#STR0069#ALL#Inicio
+0070#STR0070#ALL#Termino
+0071#STR0071#ALL#Exames Realizados
+0072#STR0072#ALL#Data
+0073#STR0073#ALL#Descricao do Resultado
+0074#STR0074#ALL#Ind. Res.
+0075#STR0075#ALL#Natureza
+0076#STR0076#ALL#Data Exame
+0077#STR0077#ALL#Restricoes
+0078#STR0078#ALL#Doencas
+0079#STR0079#ALL#Diagnosticos
+0080#STR0080#ALL#Ind. Atend.
+0081#STR0081#ALL#Diagnostico Medico
+0082#STR0082#ALL#Atend. Medico
+0083#STR0083#ALL#Queixa Principal
+0084#STR0084#ALL#Data Consulta
+0085#STR0085#ALL#Endereço......:
+0086#STR0086#ALL#Bairro....:
+0087#STR0087#ALL#Complemento do Endereço:
+0088#STR0088#ALL#Endereço:
+0089#STR0089#ALL#Bairro:
+0090#STR0090#ALL#Cliente/Loja: 
+0091#STR0091#ALL#De Cliente ?
+0092#STR0092#ALL#Loja
+0093#STR0093#ALL#Até Cliente ?
+0094#STR0094#ALL#Código do cliente. O campo pode permanecer vazio para considerar desde o primeiro código.
+0095#STR0095#ALL#Código da loja do cliente. O campo pode permanecer vazio para considerar desde o primeiro código.
+0096#STR0096#ALL#Código do cliente. O campo pode ser preenchido com a letra Z até o final para considerar o último código.
+0097#STR0097#ALL#Código da loja do cliente. O campo pode ser preenchido com a letra Z até o final para considerar o último código.
+0098#STR0098#ALL#Não há nada para imprimir no relatório.
+0099#STR0099#ALL#No. de Vias ?
+0100#STR0100#ALL#Modelo Impressao ?
+0101#STR0101#ALL#Detalhes Diagnósticos ? 
+0102#STR0102#ALL#Resultado de Exame ?
+0103#STR0103#ALL#Tipo Atendimento ?
+0104#STR0104#ALL#Diagnósticos ?
+0105#STR0105#ALL#Doenças ?
+0106#STR0106#ALL#Restrições ?
+0107#STR0107#ALL#Exames Realizados ?
+0108#STR0108#ALL#Programas de Saude ?
+0109#STR0109#ALL#Até Periodo ?
+0110#STR0110#ALL#De  Periodo ?
+0111#STR0111#ALL#Até Ficha ?
+0112#STR0112#ALL#De  Ficha ?
+0113#STR0113#ALL#Assinatura Do Médico
+0114#STR0114#ALL#Imprimir Vacinas ?
+0115#STR0115#ALL#Sim
+0116#STR0116#ALL#Não
+0117#STR0117#ALL#Informe 'Sim' caso queira imprimir a(s) vacinas(s). Caso não seja(m) impressa(s), será devido a falta de registro(s) cadastrado(s).
+0118#STR0118#ALL#Vacinas Aplicadas                                     Data                   Dose
+0119#STR0119#ALL#Vacinas Aplicadas
+0120#STR0120#ALL#Data
+0121#STR0121#ALL#Dose
+0122#STR0122#ALL#Atend. Enfermagem ?
+0123#STR0123#ALL#Informe 'Sim' caso queira imprimir o(s) atendimento(s) de enfermagem e seu(s) medicamento(s).
+0124#STR0124#ALL#Med. Diagnóstico?
+0125#STR0125#ALL#Informe 'Sim' caso queira imprimir o(s) medicamento(s) relacionados ao diagnóstico médico.
+0126#STR0126#ALL#Medicamentos                                              Unidade        Quantidade
+0127#STR0127#ALL#Atend. Enfermagem     Motivo                              Medicamentos                    Unid. Med.     Quantidade
+0128#STR0128#ALL#Medicamentos
+0129#STR0129#ALL#Unid. Med.
+0130#STR0130#ALL#Quantidade
+0131#STR0131#ALL#Motivo
+0132#STR0132#ALL#Atend. Enfermagem

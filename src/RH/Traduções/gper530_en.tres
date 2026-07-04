@@ -1,0 +1,20 @@
+0001#STR0001#ALL#Deduction Report Maternity Salary Year-end Bonus
+0002#STR0002#ALL#Will be printed according to the parameters requested by the 
+0003#STR0003#ALL#user.   
+0004#STR0004#ALL#Registrat
+0005#STR0005#ALL#Cost Center    
+0006#STR0006#ALL#Name
+0007#STR0007#ALL#Cost Center + Name    
+0008#STR0008#ALL#Z.Form 
+0009#STR0009#ALL#Management   
+0010#STR0010#ALL#DEDUCTION REPORT MATERNITY SALARY YEAR-END BONUS
+0011#STR0011#ALL#BRCH   C.CENTER             REG.    NAME                               AVOS 13th     LEAVE DAYS      DEDUCTED VALUE
+0012#STR0012#ALL# CCENT: 
+0013#STR0013#ALL# BRANCH: 
+0014#STR0014#ALL# COMPANY: 
+0015#STR0015#ALL#TOTAL
+0016#STR0016#ALL#Bonus  
+0017#STR0017#ALL#Leave days     
+0018#STR0018#ALL#Amount deductd
+0019#STR0019#ALL#Employees   
+0020#STR0020#ALL#Branch total    

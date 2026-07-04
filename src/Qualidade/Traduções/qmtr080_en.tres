@@ -1,0 +1,21 @@
+0001#STR0001#ALL#This program will print the cross reference report 
+0002#STR0002#ALL#between standards and instruments
+0003#STR0003#ALL#Cross Reference StandardxInstrument
+0004#STR0004#ALL#Standard         Rev Descript.                      Range            Instrument       Rev Family           Dept.           User
+0005#STR0005#ALL#Z.Form 
+0006#STR0006#ALL#Management   
+0007#STR0007#ALL#CANCELLED BY OPERATOR  
+0008#STR0008#ALL#Selecting Records. . .
+0009#STR0009#ALL#RESPONSIBLE/DEPARTMENT CAPTION
+0010#STR0010#ALL#Code              Name                                     Shrt.Nm
+0011#STR0011#ALL#Code              Department  
+0012#STR0012#ALL#Code  
+0013#STR0013#ALL#Name
+0014#STR0014#ALL#RdcdName
+0015#STR0015#ALL#Department 
+0016#STR0016#ALL#Rev
+0017#STR0017#ALL#Range
+0018#STR0018#ALL#Standard vs. Instr. 
+0019#STR0019#ALL#Caption
+0020#STR0020#ALL#Caption - Users   
+0021#STR0021#ALL#Caption - Departments  

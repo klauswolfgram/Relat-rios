@@ -1,0 +1,12 @@
+0001#STR0001#ALL#Este relatório irá imprimir uma relação de despesas da consulta analítica solicitada considerando todas as despesas (pedido de compra,planeamento de entrega,factura de entrada,títulos a pagar e movimentos bancários) vinculadas aos projectos.
+0002#STR0002#ALL#Consultas Analíticas - Relação De Despesas
+0003#STR0003#ALL#Código de barras
+0004#STR0004#ALL#Administração
+0005#STR0005#ALL#Diário
+0010#STR0010#ALL#Período 
+0011#STR0011#ALL#       Vld.prev.pc           Despesas        Despesas Acum.
+0012#STR0012#ALL#Código Do Plano
+0013#STR0013#ALL#Saldo inicial : 
+0014#STR0014#ALL#Total a pagar : 
+0015#STR0015#ALL#Vld.prev.pc
+0018#STR0018#ALL#Plano Analítico

@@ -1,0 +1,33 @@
+0001#STR0001#ALL#Relatório das empregados afastados do trabalho.          
+0002#STR0002#ALL#Através dos parâmetro s poderá ser selecionado o código  do  
+0003#STR0003#ALL#Afastamento, e o período desejado.                         
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#Empregados Afastados
+0007#STR0007#ALL#Cód.  Descrição do Afastamento
+0009#STR0009#ALL#Cancelado Pelo Operador
+0011#STR0011#ALL#Situação do funcionário ?
+0014#STR0014#ALL#De cliente ?
+0015#STR0015#ALL#Código  do cliente. o campo pode permanecer vazio para considerar desde o primeiro código.
+0017#STR0017#ALL#Código  da loja do cliente. o campo pode permanecer vazio para considerar desde o primeiro código.
+0018#STR0018#ALL#Até cliente ?
+0019#STR0019#ALL#Código  do cliente. o campo pode ser preenchido com a letra z até  o final para considerar o último código.
+0020#STR0020#ALL#Código  da loja do cliente. o campo pode ser preenchido com a letra z até  o final para considerar o último código.
+0021#STR0021#ALL#Empregados afastados
+0024#STR0024#ALL#Tipo De Ausência
+0025#STR0025#ALL#Ausência
+0027#STR0027#ALL#Empregados
+0029#STR0029#ALL#Empregado
+0030#STR0030#ALL#Cid
+0036#STR0036#ALL#Cliente/loja: 
+0037#STR0037#ALL#Não existe informação para imprimir no relatório.
+0039#STR0039#ALL#Activos
+0043#STR0043#ALL#Total Empregados
+0046#STR0046#ALL#Total Geral Empregados
+0047#STR0047#ALL#Indica se deve considerar apenas os funcionários afastados, demitidos, em férias, activos ou todos.
+0048#STR0048#ALL#Imprimir?
+0052#STR0052#ALL#Até Data Afast. ?
+0054#STR0054#ALL#Até Cód.Afastamento ?
+0055#STR0055#ALL#De  Cód.Afastamento ?
+0060#STR0060#ALL#Até Cód.Afastamento ?
+0061#STR0061#ALL#De Cód.Afastamento ?

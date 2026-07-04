@@ -1,0 +1,40 @@
+0001#STR0001#ALL#Mat.     Nomb Empleado                 Funcion                             Centro de Costo
+0002#STR0002#ALL#Fecha Examen  Via   Resultado Port. 19 - OD                                                                Referencial?  Resultado Port. 19 - OE                                                                Referencial?
+0003#STR0003#ALL#El Examen seleccionado no es de Audiometria
+0004#STR0004#ALL#¿Cliente?
+0005#STR0005#ALL#Cod. del cliente.
+0006#STR0006#ALL#¿Tda.?
+0007#STR0007#ALL#Tda. del clie.
+0008#STR0008#ALL#¿Exam.?
+0009#STR0009#ALL#¿De Matric. ?
+0010#STR0010#ALL#¿A Matricula ?
+0011#STR0011#ALL#¿De C. Costo?
+0012#STR0012#ALL#¿A C. Costo ?
+0013#STR0013#ALL#¿De Func. ?
+0014#STR0014#ALL#¿A Funcion ?
+0015#STR0015#ALL#¿De Fch.?
+0016#STR0016#ALL#¿A Fch. ?
+0017#STR0017#ALL#No hay nada para imprimir en el inf.
+0018#STR0018#ALL#Cod. del cliente. El campo puede permanecer vacio para considerar desde el primer codigo.
+0019#STR0019#ALL#Cod. de la tda. del cliente. El campo puede permanecer vacio para considerar desde el primer cod.
+0020#STR0020#ALL#Cod. del cliente. El campo puede rellenarse con la letra Z hasta el final para considerar el ultimo cod.
+0021#STR0021#ALL#Cod. de la tda. del cliente. El campo puede rellenarse con la letra Z hasta el final para considerar el ult. cod.
+0022#STR0022#ALL#Inf. de la evolucion audiometrica.
+0023#STR0023#ALL#Frecuencias - Oido Derecho (KHz)
+0024#STR0024#ALL#Frecuencias - Oido Izquierdo (KHz)
+0025#STR0025#ALL#Aerea
+0026#STR0026#ALL#Osea
+0027#STR0027#ALL#Requiere Interpret.
+0028#STR0028#ALL#Umbrales Aceptables
+0029#STR0029#ALL#Sugerenc. de PAIR
+0030#STR0030#ALL#No Sugerencia de PAIR
+0031#STR0031#ALL#Sugerencia de Desencadenam.
+0032#STR0032#ALL#Suger. de Agravamiento
+0033#STR0033#ALL#Perd. de Audic.
+0034#STR0034#ALL#Umbrales(dB):
+0035#STR0035#ALL#Si
+0036#STR0036#ALL#No
+0037#STR0037#ALL#Cliente/Tda.:
+0038#STR0038#ALL#A Rayas
+0039#STR0039#ALL#Administrac.
+0040#STR0040#ALL#Promedios

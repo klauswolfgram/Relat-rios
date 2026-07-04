@@ -1,0 +1,47 @@
+0001#STR0001#ALL#GFE - Load Manifest Report
+0002#STR0002#ALL#Issues Load Packing List for verification of goods shipped based on entered parameters.
+0003#STR0003#ALL#Bordereau Data
+0004#STR0004#ALL#Branch
+0005#STR0005#ALL#Packing List No
+0006#STR0006#ALL#Packing List Issue Dt
+0007#STR0007#ALL#Carrier Code
+0008#STR0008#ALL#Carrier Name
+0009#STR0009#ALL#Plate
+0010#STR0010#ALL#Driver
+0011#STR0011#ALL#Driver Name
+0012#STR0012#ALL#Outflow Invoice
+0013#STR0013#ALL#Seal
+0014#STR0014#ALL#Delivery Sequence
+0015#STR0015#ALL#Seq
+0016#STR0016#ALL#Doc No.
+0017#STR0017#ALL#Series
+0018#STR0018#ALL#Issue Date
+0019#STR0019#ALL#Gross Weight
+0020#STR0020#ALL#Net Weight
+0021#STR0021#ALL#Valor Tot. Invoice
+0022#STR0022#ALL#Volumes
+0023#STR0023#ALL#Customer Code
+0024#STR0024#ALL#Customer Name
+0025#STR0025#ALL#City
+0026#STR0026#ALL#State
+0027#STR0027#ALL#Freight Type
+0028#STR0028#ALL#TOTALS
+0029#STR0029#ALL#Signature
+0030#STR0030#ALL#I state having receipt from company 
+0031#STR0031#ALL# the goods and invoices listed in this cargo manifest.
+0032#STR0032#ALL#INVOICE(S)
+0033#STR0033#ALL#Carrier Verifier
+0034#STR0034#ALL#Checking clerk 
+0035#STR0035#ALL#Driver Verifier
+0036#STR0036#ALL#To print Cargo Manifest report, parameterize model as Manifest. 
+0037#STR0037#ALL#Driver CPF
+0038#STR0038#ALL#Driver 02
+0039#STR0039#ALL#Driver Name 02
+0040#STR0040#ALL#Driver CPF 02
+0041#STR0041#ALL#Trip No.
+0042#STR0042#ALL#CIF
+0043#STR0043#ALL#Redispatch CIF
+0044#STR0044#ALL#FOB
+0045#STR0045#ALL#Redispatch FOB
+0046#STR0046#ALL#Consigned
+0047#STR0047#ALL#Consig. Redispatch

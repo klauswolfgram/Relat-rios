@@ -1,0 +1,21 @@
+0001#STR0001#ALL#RASTREO DEL PRODUCTO
+0002#STR0002#ALL#A Rayas
+0003#STR0003#ALL#Administracion
+0004#STR0004#ALL# DOCTO.  CARGA   PRODUCTO          FECHA    HR IN  HR FI  SERVICIO              TAREA                 ACTIVIDAD             RECURSO HUMANO       DIRECCION ORIGEN  DIRECCION DESTINO LOTE      SUBLOTE          TIPO MOVTO
+0005#STR0005#ALL#                                                                                                                                                  CTD. MOVIMIENTOS SALDO EN LA DIRECCION        RESERVA
+0006#STR0006#ALL#Seleccionando direcciones...
+0007#STR0007#ALL#ANULADO POR EL OPERADOR
+0008#STR0008#ALL#Informe de rastreo da movimiento de productos
+0009#STR0009#ALL#Docto.
+0010#STR0010#ALL#Hr In
+0011#STR0011#ALL#Hr Fi
+0012#STR0012#ALL#Servicio
+0013#STR0013#ALL#Tarea
+0014#STR0014#ALL#Actividad
+0015#STR0015#ALL#RecHum
+0016#STR0016#ALL#Dir. Origen
+0017#STR0017#ALL#TP Movto
+0018#STR0018#ALL#Ctd.Movtos
+0019#STR0019#ALL#Saldo Direccion
+0020#STR0020#ALL#Reserva
+0021#STR0021#ALL#Movim. por ubicacion

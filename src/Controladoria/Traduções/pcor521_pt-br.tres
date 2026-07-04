@@ -1,0 +1,47 @@
+0001#STR0001#ALL#Cubos Comparativos - Demonstrativo de Saldos por Periodo Mod-2
+0002#STR0002#ALL#Codigo
+0003#STR0003#ALL#Descricao
+0004#STR0004#ALL#Periodo
+0005#STR0005#ALL#Orcado (S1)
+0006#STR0006#ALL#Realizado(S2)
+0007#STR0007#ALL#Dif. (S1-S2)
+0008#STR0008#ALL#Dif. (S1/S2%)
+0009#STR0009#ALL#COMPARATIVO ENTRE A CONFIGURAÇÃO: 
+0010#STR0010#ALL# E A CONFIGURAÇÃO: 
+0011#STR0011#ALL#Impressao cancelada pelo operador...
+0012#STR0012#ALL#Este relatorio ira imprimir o Cubos Comparativos - Demonstrativo de Saldos por Periodo Modelo 2 de acordo com os parâmetros solicitados pelo usuário. Para mais informações sobre este relatorio consulte o Help do Programa ( F1 ).
+0013#STR0013#ALL#Comparativo entre configurações
+0014#STR0014#ALL#Movimentos
+0015#STR0015#ALL#Semanal
+0016#STR0016#ALL#Quinzenal
+0017#STR0017#ALL#Mensal
+0018#STR0018#ALL#Bimestral
+0019#STR0019#ALL#Semestral
+0020#STR0020#ALL#Anual
+0021#STR0021#ALL#Diario
+0022#STR0022#ALL#Trimestral
+0023#STR0023#ALL#Codigo Cubo Gerencial
+0024#STR0024#ALL#Periodo de
+0025#STR0025#ALL#Qual Moeda
+0026#STR0026#ALL#Moeda 1
+0027#STR0027#ALL#Moeda 2
+0028#STR0028#ALL#Moeda 3
+0029#STR0029#ALL#Moeda 4
+0030#STR0030#ALL#Moeda 5
+0031#STR0031#ALL#Tipo Periodo
+0032#STR0032#ALL#Acumulado 
+0033#STR0033#ALL#Sim
+0034#STR0034#ALL#Não
+0035#STR0035#ALL#Configuracao do Cubo-1
+0036#STR0036#ALL#Editar Configuracoes Cubo-1
+0037#STR0037#ALL#Configuracao do Cubo-2
+0038#STR0038#ALL#Editar Configuracoes Cubo-2
+0039#STR0039#ALL#Considera Zerados
+0040#STR0040#ALL#Total Geral no Resumo
+0041#STR0041#ALL#Considerar Cfg. 1 Cubo
+0042#STR0042#ALL#Parâmetros...
+0043#STR0043#ALL#Periodo Ate
+0044#STR0044#ALL#Atencao
+0045#STR0045#ALL#Usuario sem acesso ao relatorio. Verifique as configuracoes.
+0046#STR0046#ALL#Atencao
+0047#STR0047#ALL#Consulta limitada a 100 periodos no maximo. Verifique a periodicidade.

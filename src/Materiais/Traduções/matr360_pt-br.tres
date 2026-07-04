@@ -1,0 +1,35 @@
+0001#STR0001#ALL#Variacao no consumo de materias de Apropriacao Indireta
+0002#STR0002#ALL#Este relatorio ira imprimir as movimentacoes dos produtos,
+0003#STR0003#ALL#tendo as seguintes opcoes: Mat.Aprop.Indireta, Por Produto,
+0004#STR0004#ALL#Por Produto Produzido e Por Materia Prima.
+0005#STR0005#ALL#Mat.Aprop.Indireta.
+0006#STR0006#ALL#Por Ordem Produto.
+0007#STR0007#ALL#Por Prod.Produzido.
+0008#STR0008#ALL#Por Materia Prima
+0009#STR0009#ALL#Zebrado
+0010#STR0010#ALL#Administracao
+0011#STR0011#ALL#VARIACAO NO CONSUMO DE MATERIAIS DE APROPRIACAO INDIRETA DA FILIAL : 
+0012#STR0012#ALL# ARMAZEM: 
+0013#STR0013#ALL#CODIGO           M  A  T  E  R  I  A  L          ORDEM     R/D DOCUMENTO     DATA       QUANTIDADE    UM     CUSTO    V A L O R
+0014#STR0014#ALL#                                                PRODUCAO                                                  UNITARIO             
+0015#STR0015#ALL#CANCELADO PELO OPERADOR
+0016#STR0016#ALL#Consumo Real ---> 
+0017#STR0017#ALL#Consumo std --->
+0018#STR0018#ALL#Variacao --->
+0019#STR0019#ALL#T o t a l   S t d --->
+0020#STR0020#ALL#T o t a l   R e a l --->
+0021#STR0021#ALL#T o t a l   V a r i a c a o --->
+0022#STR0022#ALL#Selecionando Registros...
+0023#STR0023#ALL#** CONSUMO REAL x STANDARD POR ORDEM DE PRODUCAO **
+0024#STR0024#ALL# FILIAL : 
+0025#STR0025#ALL#CODIGO           DESCRICAO DO MATERIAL         UM    C  O  N  S  U  M  O   R  E  A  L          C  O  N  S  U  M  O         S T D          VARIACAO QUANT.           VARIACAO   VARIACAO    
+0026#STR0026#ALL#                                                   QUANTIDADE   CUSTO UNITARIO  T O T A L    QUANTIDADE  CUSTO UNITARIO  T O T A L    QUANTIDADE  VALOR        %    P/ CUSTO   T O T A L  %
+0027#STR0027#ALL#OP : 
+0028#STR0028#ALL#Total : 
+0029#STR0029#ALL#Total Geral : 
+0030#STR0030#ALL#CODIGO          M  A  T  E  R  I  A  L         UM     C O N S U M O  R E A L      C O N S U M O  S T A N D A R D              V A R I A C A O       
+0031#STR0031#ALL#                                                     QUANTIDADE   CUSTO UNITARIO     T O T A L   QUANTIDADE   CUSTO UNITARIO    T O T A L   QUANTIDADE    V A L O R  %
+0032#STR0032#ALL#** CONSUMO REAL x STANDARD POR PRODUTO **
+0033#STR0033#ALL#** VARIACAO NO CONSUMO DE MATERIA PRIMA ** 
+0034#STR0034#ALL#CODIGO      MATERIA PRIMA / COMPONENTE      UM       C O N S U M O  R E A L         C O N S U M O  S T A N D A R D       V A R I A C A O   
+0035#STR0035#ALL#                                                       QUANTIDADE CUSTO UNITARIO        T O T A L   QUANTIDADE CUSTO UNITARIO      T O T A L  QUANTIDADE    V A L O R    %

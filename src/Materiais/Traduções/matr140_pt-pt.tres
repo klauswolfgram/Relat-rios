@@ -1,0 +1,57 @@
+0001#STR0001#ALL#Emissão das solicitações de compras registadas
+0002#STR0002#ALL#Solicitação De Compra
+0003#STR0003#ALL#Código de barras
+0004#STR0004#ALL#Administração
+0014#STR0014#ALL#Nov
+0017#STR0017#ALL#Cancelado Pelo Operador
+0018#STR0018#ALL#  c.custo : 
+0019#STR0019#ALL#Observações:
+0020#STR0020#ALL#Requisições Empenhadas:
+0021#STR0021#ALL#Não existem requisições empenhadas deste item.
+0022#STR0022#ALL#Ordem de        produto a ser          início          quantidade    |     ordem de        produto a ser          início          quantidade    |     ordem de        produto a ser          início          quantidade    |
+0023#STR0023#ALL#Produção        produzido              previsto        necessária    |     produção        produzido              previsto        necessária    |     produção        produzido              previsto        necessária    |
+0024#STR0024#ALL#Consumo Dos últimos 12 Meses:
+0025#STR0025#ALL#Não existe registo de consumo anterior deste item.
+0026#STR0026#ALL#    Média C
+0027#STR0027#ALL#últimos Pedidos:
+0028#STR0028#ALL#Não existem pedidos registados para este item.
+0029#STR0029#ALL#Número item código do fornecedor loja  nome                                   quantidade   und.medida   vlr.unitário    valor total    emissão       necessidade    prazo  condição    qtd entregue    saldo res.   eli.  |
+0030#STR0030#ALL#Fornecedores:
+0031#STR0031#ALL#Não existem fornecedores registados para este item.
+0032#STR0032#ALL#Código Lj Nome                         Telefone        Contacto    Fax             úl.compr   Município       Distrito Ris  Cód. No Fornec.
+0033#STR0033#ALL#Código Lj Nome                         Telefone        Contacto    Fax             úl.compr   Município       Distrito Ris  Cód. No Fornec.
+0034#STR0034#ALL#Código alternativo : 
+0035#STR0035#ALL#Saldo do alternativo :
+0036#STR0036#ALL#Não há
+0037#STR0037#ALL#| c o n c o r r ê n c i a s                   | entrega         | observações                        | cond.pgt        | contacto          | quantidade     | preço unitário              | iva     | valor                |
+0038#STR0038#ALL#|                 requisitante                                                                               |                    autorizante                                                                              |
+0039#STR0039#ALL#ITEM CÓDIGO ARTIGO                  DESCRIÇÃO                                SALDO       PONTO DE       SALDO DA   UNIDADE     ARMAZ         QUANT.POR        ULTIMO PREÇO        LEAD        DATA DA         DATA PARA 
+0040#STR0040#ALL#                                                                              ACTUAL         PEDIDO    SOLICITAÇÃO    MEDIDA                   EMBALAGEM           DE COMPRA        TIME        NECESSIDADE      COMPRAR  
+0041#STR0041#ALL#Código               Lj.  Razão Social Telefone        Contacto    Fax             últ.compr.  Município      Distrito Ris Cód. No Fornec.
+0042#STR0042#ALL#Código Lj Nome       Loja Razão Social   Telefone        Contacto    Fax             úl.compr Município       Distrito Ris Cód. No Fornec.
+0043#STR0043#ALL#Número 
+0044#STR0044#ALL#Número item código do fornecedor loja  nome                                   quantidade   und.medida     vlr.unitário    valor total  emissão       necessidade    prazo  condição    qtd entregue    saldo res.   eli.  |
+0045#STR0045#ALL#A.emissão 
+0046#STR0046#ALL#Actualizar sigacus.prw !!!
+0047#STR0047#ALL#Actualizar sigacusa.prx !!!
+0048#STR0048#ALL#Actualizar sigacusb.prx !!!
+0049#STR0049#ALL#Descrição
+0051#STR0051#ALL#Saldo Da Sc
+0052#STR0052#ALL#Tempo Total
+0054#STR0054#ALL#Data Para Comprar
+0055#STR0055#ALL#Ordem De Producao
+0056#STR0056#ALL#Artigo A Ser Produzido
+0057#STR0057#ALL#Início Previsto
+0058#STR0058#ALL#Quantidade Necessária
+0059#STR0059#ALL#Prz.dias
+0062#STR0062#ALL#Não
+0064#STR0064#ALL#Solicitação De Compras
+0065#STR0065#ALL#Alocações
+0066#STR0066#ALL#Procuras
+0067#STR0067#ALL#Pedido De Compras
+0068#STR0068#ALL#Restrição produto X fornecedor
+0070#STR0070#ALL#O campo 'reemissao' (c1_qtdreem) atingiu o valor 
+0071#STR0071#ALL# para os pedidos: 
+0072#STR0072#ALL#Pedir ao administrador a alteração  no tamanho do campo.
+0073#STR0073#ALL#Aviso reemissao
+0078#STR0078#ALL#C.Pgt.

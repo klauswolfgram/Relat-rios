@@ -1,0 +1,29 @@
+0001#STR0001#ALL#This program will print the Comparative Accounting Accounts.
+0002#STR0002#ALL# The values are ref. to accrued balance. 
+0003#STR0003#ALL#Comparative Accounting Balances
+0004#STR0004#ALL#|CODE              |DESCRIPTION        |  PERIOD  01  |  PERIOD  02  |  PERIOD  03  |  PERIOD  04  |  PERIOD  05  |  PERIOD  06  |  PERIOD  07  |  PERIOD  08  |  PERIOD  09  |  PERIOD  10  |  PERIOD  11  |  PERIOD  12  |
+0005#STR0005#ALL#COMPARATIVE DETAILED BALANCES OF 
+0006#STR0006#ALL# TO 
+0007#STR0007#ALL# IN 
+0008#STR0008#ALL#COMPARATIVE SUMMARIZED BALANCES OF 
+0009#STR0009#ALL# WARNING 
+0010#STR0010#ALL#***** CANCELLED BY THE OPERATOR *****
+0011#STR0011#ALL#P E R I O D    T O T A L       : 
+0012#STR0012#ALL#COMPARATIVE BALANCES OF 
+0013#STR0013#ALL#Z.Form
+0014#STR0014#ALL#Administration
+0015#STR0015#ALL#Creating Temporary File...
+0016#STR0016#ALL#G R O U P    T O T A L     (
+0017#STR0017#ALL#If you do not update the basic balances 
+0018#STR0018#ALL#during entering typing (MV_ATUSAL='N'),
+0019#STR0019#ALL#run the balances updating routine 
+0020#STR0020#ALL#for all periods requested in this 
+0021#STR0021#ALL#report.
+0022#STR0022#ALL#Please check the accounting calendar and currency/calendar binding 
+0023#STR0023#ALL#and see if they were registered correctly...
+0024#STR0024#ALL#PERIOD TOTAL    : 
+0025#STR0025#ALL#GROUP TOTAL    (
+0026#STR0026#ALL#CODE  
+0027#STR0027#ALL#DESCRIPT.
+0028#STR0028#ALL#PERIOD 
+0029#STR0029#ALL#Movements/Balances  

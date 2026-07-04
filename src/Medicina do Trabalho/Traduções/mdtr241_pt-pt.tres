@@ -1,0 +1,32 @@
+0002#STR0002#ALL#O utilizador poderá filtrar quais ocorrencias deseja imprimir.
+0003#STR0003#ALL#Código de barras
+0004#STR0004#ALL#Administração
+0005#STR0005#ALL#Ocorrencias por empregado
+0006#STR0006#ALL#De filial ?    					
+0007#STR0007#ALL#De centro de custo ?
+0008#STR0008#ALL#Até centro de custo ?
+0009#STR0009#ALL#De empregado
+0010#STR0010#ALL#Até funcionário
+0011#STR0011#ALL#De data ?
+0012#STR0012#ALL#Até data ?
+0013#STR0013#ALL#Ordenar ocorrências por:
+0015#STR0015#ALL#C.c. E Matr.
+0016#STR0016#ALL#N.° de ocorrência
+0018#STR0018#ALL#       ocorrencia  data       gravidade             descrição ocorrencia
+0020#STR0020#ALL#Registo:
+0021#STR0021#ALL#      ocorrência  data       gravidade            descrição ocorrência
+0022#STR0022#ALL#Ocorrência   descrição ocorrência
+0024#STR0024#ALL#Não existe informação para imprimir no relatório.
+0025#STR0025#ALL#Advertência verbal
+0026#STR0026#ALL#Adverteência escrita
+0029#STR0029#ALL#Nome empregado:
+0030#STR0030#ALL#Ate filial ?
+0034#STR0034#ALL#C.c. E Nome
+0036#STR0036#ALL#       ocorrencia  data       gravidade             descrição ocorrencia
+0037#STR0037#ALL#C. Custo      Descrição  C. Custo
+0038#STR0038#ALL#      ocorrência  data       gravidade            descrição ocorrência
+0039#STR0039#ALL#Ocorrência   descrição ocorrência
+0041#STR0041#ALL#Cliente/loja: 
+0043#STR0043#ALL#Até Data ?
+0044#STR0044#ALL#Até Empregado ?
+0045#STR0045#ALL#De Empregado ?

@@ -1,0 +1,31 @@
+0001#STR0001#ALL#Balance in Stock
+0002#STR0002#ALL#This program will print a summary of balances, by quantity,
+0003#STR0003#ALL#referring to products in Stock.
+0004#STR0004#ALL# By Code            
+0005#STR0005#ALL# By Type            
+0006#STR0006#ALL# By Description   
+0007#STR0007#ALL# By Group         
+0008#STR0008#ALL#Z.Form
+0009#STR0009#ALL#Management
+0010#STR0010#ALL#CODE                         GROUP TP DESCRIPTION                      MU FL WRH   QUANTITY
+0011#STR0011#ALL#Type..........
+0012#STR0012#ALL#Group.........
+0013#STR0013#ALL#CANCELLED BY THE OPERATOR
+0014#STR0014#ALL#Total of Product
+0015#STR0015#ALL#Selecting Records...
+0016#STR0016#ALL#Total of 
+0017#STR0017#ALL#Qty. 
+0018#STR0018#ALL#Available   
+0019#STR0019#ALL#Unavailable  
+0020#STR0020#ALL#CODE            TP GRUP DESCRIPTION                    UM FL AMZ QTY.1st.U.M.   UM  QTy 2nd.U.M.
+0021#STR0021#ALL#    DESC WAREH.
+0022#STR0022#ALL#Qty.1st.U.M.
+0023#STR0023#ALL#Qty.2nd.U.M.
+0024#STR0024#ALL#REG(S)
+0025#STR0025#ALL#CODE                           TP GRUP DESCRIPTION                    UM FL
+0026#STR0026#ALL#WR QUANTITY                  
+0027#STR0027#ALL#CODE                         GROUP TP DESCRIPTION                     UM FL
+0028#STR0028#ALL#WR QTY.  1st. U.M.  UM   QTY. 2nd.U.M.
+0029#STR0029#ALL#Avail Qty
+0030#STR0030#ALL#Unavail Qty
+0031#STR0031#ALL#Grand Total

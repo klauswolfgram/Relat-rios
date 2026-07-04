@@ -1,0 +1,60 @@
+0001#STR0001#ALL#Este programa imprimira el Informe de Asientos por 
+0002#STR0002#ALL# de acuerdo con los parametros sugeridos  
+0003#STR0003#ALL#  por el usuario.
+0004#STR0004#ALL#A rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#Emision del Informe de Asientos por 
+0007#STR0007#ALL#Informe de Asientos por  
+0008#STR0008#ALL# ANALITICO EN 
+0009#STR0009#ALL#DE
+0010#STR0010#ALL#A
+0011#STR0011#ALL#(PRESUPUESTADO)
+0012#STR0012#ALL#(DE GESTION)
+0013#STR0013#ALL#CUENTA                    D E S C R I PCION                           C/PARTIDA               TIPO    NUMERO              FECHA      HISTORIAL                               VALOR DEL ASIENTO                      SALDO ACTUAL
+0014#STR0014#ALL# SINTETICO EN 
+0015#STR0015#ALL#***** ANULADO POR EL OPERADOR *****
+0016#STR0016#ALL#CENTRO DE COSTO - 
+0017#STR0017#ALL#T O T A L  
+0018#STR0018#ALL#Creando Archivo Temporal...
+0019#STR0019#ALL#FECHA
+0020#STR0020#ALL#T o t a l  d e  l a   C u e n t a  => 
+0021#STR0021#ALL#S a l d o  a n t e r i o r  d e  l a  C u e n t a  => 
+0022#STR0022#ALL#T O T A L   G E N E R A L  
+0023#STR0023#ALL#DE TRANSPORTE : 
+0024#STR0024#ALL#CUENTA - 
+0025#STR0025#ALL#FECHA                                                                           DEBITO               CREDITO            SALDO ACTUAL
+0026#STR0026#ALL#SALDO ANTERIOR:
+0027#STR0027#ALL#LOTE/SUB/DOC/LINEA H I S T O R I A L                        C/PARTIDA                                                              
+0028#STR0028#ALL#DEBITO         CREDITO      SALDO ACTUAL
+0029#STR0029#ALL#FECHA                                                                          DEBITO               CREDITO            SALDO ACTUAL
+0030#STR0030#ALL#El plan de gestion no esta disponible en este informe.
+0031#STR0031#ALL#DESCRIPC.
+0032#STR0032#ALL#Centro de Costo
+0033#STR0033#ALL#Saldo Anterior
+0034#STR0034#ALL#Asientos
+0035#STR0035#ALL#Total
+0036#STR0036#ALL#Cta.
+0037#STR0037#ALL#Fch.
+0038#STR0038#ALL#Descripc.
+0039#STR0039#ALL#Contrapartida
+0040#STR0040#ALL#Tipo
+0041#STR0041#ALL#Numero
+0042#STR0042#ALL#Historial
+0043#STR0043#ALL#Valor del asiento
+0044#STR0044#ALL#Saldo act.
+0045#STR0045#ALL#Lote
+0046#STR0046#ALL#Sublote
+0047#STR0047#ALL#Documento
+0048#STR0048#ALL#Linea
+0049#STR0049#ALL#Secuencia del Asiento
+0050#STR0050#ALL#Sec de Historial
+0051#STR0051#ALL#Empresa Original
+0052#STR0052#ALL#Sucur. Original
+0053#STR0053#ALL#Atencion
+0054#STR0054#ALL#Este infoirme debe emitirse en horizontal. ¿Confirma impresion?
+0055#STR0055#ALL#Confirma
+0056#STR0056#ALL#Salir
+0057#STR0057#ALL#Se borraran las columnas de descripcion e historial del informe. ¿Confirma Borrado?
+0058#STR0058#ALL#Si
+0059#STR0059#ALL#No
+0060#STR0060#ALL#Este informe solamente se emite en modo horizontal.

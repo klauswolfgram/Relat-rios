@@ -1,0 +1,24 @@
+0002#STR0002#ALL#Matrícula:
+0003#STR0003#ALL#Matrícula + PD
+0004#STR0004#ALL#Cód.  Descrição Verba       Vlr. Principal     Parc.      Vlr. Parcela    Jrs. ano    Jrs. Mês      Valor c/Juros         Valor Pago     Parc.Pg.     Vlr.Resíduo      Dt.Vct.      Dt.Mv.
+0004#STR0004#ANG#Cod.  Descrição  Verba       Vlr. Principal     Parc.      Vlr. Prestação    Jrs. Ano    Jrs. Mês      Valor C/juros         Valor Pago     Parc.pg.     Vlr.Resíduo      Dt.vcto      Dt.mvto
+0004#STR0004#EQU#Cod.  Descrição  Verba       Vlr. Principal     Parc.      Vlr. Prestação    Jrs. Ano    Jrs. Mês      Valor C/juros         Valor Pago     Parc.pg.     Vlr.Resíduo      Dt.vcto      Dt.mvto
+0004#STR0004#HAI#Cod.  Descrição  Verba       Vlr. Principal     Parc.      Vlr. Prestação    Jrs. Ano    Jrs. Mês      Valor C/juros         Valor Pago     Parc.pg.     Vlr.Resíduo      Dt.vcto      Dt.mvto
+0004#STR0004#PTG#Cód.  Descrição  Verba       Vlr. Principal     Parc.      Vlr. Prestação    Jrs. Ano    Jrs. Mês      Valor c/Juros         Valor Pago     Parc.pg.     Vlr.resíduo      Dt.vct.      Dt.mv.
+0005#STR0005#ANG#Total da Filial
+0005#STR0005#EQU#Total da Filial
+0005#STR0005#HAI#Total da Filial
+0006#STR0006#ALL#Total geral    ...
+0008#STR0008#ALL#Empregados
+0009#STR0009#ALL#Vlr. c/ Jrs.
+0009#STR0009#ANG#Vlr. C/ Jrs
+0009#STR0009#EQU#Vlr. C/ Jrs
+0009#STR0009#HAI#Vlr. C/ Jrs
+0009#STR0009#PTG#Vlr. c/ Jrs.
+0010#STR0010#ALL#Vlr. Parc.
+0011#STR0011#ALL#Vlr. Pago
+0013#STR0013#ALL#Este procedimento cria um extracto dos valores futuros lançados, e que serão gerados em  folha de pagamento, conforme  a data de vencimento. 
+0013#STR0013#ANG#Este procedimento cria um extracto dos valores futuros lançados e que serão criados em  vencimento de pagamento, conforme  a data de vencimento. 
+0013#STR0013#EQU#Este procedimento cria um extracto dos valores futuros lançados e que serão criados em  vencimento de pagamento, conforme  a data de vencimento. 
+0013#STR0013#HAI#Este procedimento cria um extracto dos valores futuros lançados e que serão criados em  vencimento de pagamento, conforme  a data de vencimento. 
+0013#STR0013#PTG#Este procedimento cria um extracto dos valores futuros lançados, e que serão criados em  vencimento de pagamento, conforme  a data de vencimento. 

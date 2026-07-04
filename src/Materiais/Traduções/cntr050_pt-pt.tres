@@ -1,0 +1,18 @@
+0001#STR0001#ALL#Medição X Facturas 
+0002#STR0002#ALL#Este relatório emite uma relação de medições por facturas criadas
+0003#STR0003#ALL#Medição x facturas de entrada (detalhe)
+0004#STR0004#ALL#Número Do
+0005#STR0005#ALL#Contrato
+0006#STR0006#ALL#Número Da
+0007#STR0007#ALL#Medição
+0008#STR0008#ALL#Valor
+0009#STR0009#ALL#Número
+0010#STR0010#ALL#Factura
+0011#STR0011#ALL#Série
+0012#STR0012#ALL#Pago
+0013#STR0013#ALL#Retenção
+0014#STR0014#ALL#Data
+0015#STR0015#ALL#Vencimento
+0016#STR0016#ALL#Total geral :
+0017#STR0017#ALL#Sub-total por contrato :
+0018#STR0018#ALL#Medição x notas fiscais de saída (detalhe)

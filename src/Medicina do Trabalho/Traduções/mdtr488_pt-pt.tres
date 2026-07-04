@@ -1,0 +1,55 @@
+0004#STR0004#ALL#Ficha médica
+0007#STR0007#ALL#Relatório de resultado dos exames de audiometria.          
+0008#STR0008#ALL#Demonstra a situação da audição do empregado submetido ao
+0009#STR0009#ALL#Exame de audiometria.                                      
+0010#STR0010#ALL#Código de barras
+0011#STR0011#ALL#Administração
+0014#STR0014#ALL#Emissão:
+0015#STR0015#ALL#|nome.......:
+0016#STR0016#ALL#|admissão....:
+0017#STR0017#ALL#Função.:
+0019#STR0019#ALL#|c. Custo....:
+0020#STR0020#ALL#Repoutilização  Auditivo.:
+0021#STR0021#ALL#|responsavel.:
+0022#STR0022#ALL#Crm.:
+0023#STR0023#ALL#|assinatura..:_______________________________________
+0024#STR0024#ALL#|equipamento.:
+0025#STR0025#ALL#Aferição.:
+0026#STR0026#ALL#|fabricante..:
+0027#STR0027#ALL#Calibração.:
+0029#STR0029#ALL#Indice de reconhecimento da fala     | | indice de reconhecimento da fala     |
+0030#STR0030#ALL#|intensidade.:
+0032#STR0032#ALL#|monossilaba.:
+0034#STR0034#ALL#|dissilaba...:
+0036#STR0036#ALL#|meatoscopia:
+0038#STR0038#ALL#|result.:
+0040#STR0040#ALL#Não foi possível imprimir a listagem.
+0041#STR0041#ALL#Atenção
+0042#STR0042#ALL#Seleccione no maximo 2(dois) exames.
+0043#STR0043#ALL#Seleccione pelo menos 1(um) exame.
+0044#STR0044#ALL#Seleccione 1(um) exame via aerea e 1(um) exame via ossea.
+0045#STR0045#ALL#Seleccionar ficheiro 
+0046#STR0046#ALL#Alternar para o programa do ms-word para visualizar o documento ou clicar no botão para fechar.
+0049#STR0049#ALL#Via condução
+0050#STR0050#ALL#Refer. O.d.
+0051#STR0051#ALL#Result. O.d.
+0054#STR0054#ALL#Condições Aceitáveis
+0061#STR0061#ALL#óssea
+0064#STR0064#ALL#Audiograma De Admissão
+0066#STR0066#ALL#Audiograma Para Mudança De Função
+0067#STR0067#ALL#Audiograma Para Retorno De Trabalho
+0081#STR0081#ALL#Deficit não devido ao ruído
+0082#STR0082#ALL#Redução em grau mínimo
+0083#STR0083#ALL#Redução em grau médio
+0084#STR0084#ALL#Redução em grau máximo
+0085#STR0085#ALL#Perda de audição
+0088#STR0088#ALL#Resultados Dos Exames De Audiometria
+0091#STR0091#ALL#Fichas médicas
+0094#STR0094#ALL#Limiares Aceitáveis
+0095#STR0095#ALL#Perda auditiva Não Sugestivo de PAIR
+0098#STR0098#ALL#No Cópias
+0099#STR0099#ALL#Se contém mascaramento:
+0105#STR0105#ALL#Imprimir médias?
+0106#STR0106#ALL#Imprimir parecer (Resultado)?
+0110#STR0110#ALL#Até Word 2003
+0113#STR0113#ALL#Audiograma assistencial

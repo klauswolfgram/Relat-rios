@@ -1,0 +1,27 @@
+0001#STR0001#ALL#Tipo de tempo ?
+0002#STR0002#ALL#Estado do tp.tempo ?
+0003#STR0003#ALL#Tipo de relatório ?
+0004#STR0004#ALL#Data ser considerad ?
+0005#STR0005#ALL#Data inicial ?
+0006#STR0006#ALL#Data final ?
+0009#STR0009#ALL#Facturar p/ ?
+0013#STR0013#ALL#Identif. veículo ?
+0014#STR0014#ALL#Consultor abertura ?
+0015#STR0015#ALL#Consultor fechamento?
+0017#STR0017#ALL#Valor interno ?
+0018#STR0018#ALL#De Tp.Serviço?
+0019#STR0019#ALL#Até Tp.Serviço?
+0020#STR0020#ALL#Lista Os s/ requisição ?
+0022#STR0022#ALL#Departamento garantia ?
+0023#STR0023#ALL#Segmento do cliente ?
+0024#STR0024#ALL#Filial inicial ?
+0025#STR0025#ALL#Filial final ?
+0026#STR0026#ALL#Gera folha de cálculo?
+0027#STR0027#ALL#Este programa tem como objectivo imprimir relatório 
+0028#STR0028#ALL#de acordo com os parâmetros informados pelo utilizador.
+0043#STR0043#ALL#Tp.Ser   Descrição                          Padrão   Vendido   Trabal.   Cobrado    Valor Serviço    Qtd.OS
+0044#STR0044#ALL#Folha de cálculo gerada com sucesso.
+0054#STR0054#ALL#Dt.Abertura
+0055#STR0055#ALL#Dt.Liberação
+0056#STR0056#ALL#Dt.Fechamento
+0057#STR0057#ALL#Dt.Cancelam

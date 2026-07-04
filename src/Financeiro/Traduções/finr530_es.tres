@@ -1,0 +1,47 @@
+0001#STR0001#ALL#Este programa emitira el resumen del movimiento
+0002#STR0002#ALL#bancario de un determinado dia.
+0003#STR0003#ALL#Movimiento Financiero Diario
+0004#STR0004#ALL#A Rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL# de 
+0007#STR0007#ANG#Cod Agencia Cuenta        Nombre                 Saldo Inicial      Entradas          Salidas        Inversiones    Saldo Disponible
+0007#STR0007#ARG#Cod Agencia Cuenta     Nombre                 Saldo Inicial         Entradas           Salidas         Inversiones  Saldo Disponible
+0007#STR0007#BOL#Cod Agencia Cuenta     Nombre                 Saldo Inicial         Entradas           Salidas         Inversiones  Saldo Disponible
+0007#STR0007#BRA#Cod Agencia Cuenta     Nombre                 Saldo Inicial         Entradas           Salidas         Inversiones  Saldo Disponible
+0007#STR0007#CHI#Cod Agencia Cuenta     Nombre                 Saldo Inicial         Entradas           Salidas         Inversiones  Saldo Disponible
+0007#STR0007#COL#Cod Agencia Cuenta     Nombre                 Saldo Inicial         Entradas           Salidas         Inversiones  Saldo Disponible
+0007#STR0007#COS#Cod Agencia Cuenta     Nombre                 Saldo Inicial         Entradas           Salidas         Inversiones  Saldo Disponible
+0007#STR0007#DOM#Cod Agencia Cuenta     Nombre                 Saldo Inicial         Entradas           Salidas         Inversiones  Saldo Disponible
+0007#STR0007#EQU#Cod Agencia Cuenta        Nombre                 Saldo Inicial      Entradas          Salidas        Inversiones    Saldo Disponible
+0007#STR0007#EUA#Cod Agencia Cuenta     Nombre                 Saldo Inicial         Entradas           Salidas         Inversiones  Saldo Disponible
+0007#STR0007#HAI#Cod Agencia Cuenta        Nombre                 Saldo Inicial      Entradas          Salidas        Inversiones    Saldo Disponible
+0007#STR0007#MEX#Cod Agencia Cuenta     Nombre                 Saldo Inicial         Entradas           Salidas         Inversiones  Saldo Disponible
+0007#STR0007#PAN#Cod Agencia Cuenta     Nombre                 Saldo Inicial         Entradas           Salidas         Inversiones  Saldo Disponible
+0007#STR0007#PAR#Cod Agencia Cuenta     Nombre                 Saldo Inicial         Entradas           Salidas         Inversiones  Saldo Disponible
+0007#STR0007#PER#Cod Agencia Cuenta     Nombre                 Saldo Inicial         Entradas           Salidas         Inversiones  Saldo Disponible
+0007#STR0007#POR#Cod Agencia Cuenta        Nombre                 Saldo Inicial      Entradas          Salidas        Inversiones    Saldo Disponible
+0007#STR0007#PTG#Cod Agencia Cuenta        Nombre                 Saldo Inicial      Entradas          Salidas        Inversiones    Saldo Disponible
+0007#STR0007#SAL#Cod Agencia Cuenta     Nombre                 Saldo Inicial         Entradas           Salidas         Inversiones  Saldo Disponible
+0007#STR0007#URU#Cod Agencia Cuenta     Nombre                 Saldo Inicial         Entradas           Salidas         Inversiones  Saldo Disponible
+0007#STR0007#VEN#Cod Agencia Cuenta     Nombre                 Saldo Inicial         Entradas           Salidas         Inversiones  Saldo Disponible
+0008#STR0008#ALL#Seleccionando registros...
+0009#STR0009#ALL#ANULADO POR EL OPERADOR
+0010#STR0010#ALL#Anulado por el operador
+0011#STR0011#ALL#TOTAL GENERAL ----->
+0012#STR0012#ALL#La Tabla SA6 (SALDOS BANCARIOS) está compartida, la pregunta 05 no tendrá efecto.
+0013#STR0013#ALL# de la Sucursal 
+0014#STR0014#ALL#Cod.
+0015#STR0015#ALL#Agencia
+0016#STR0016#ALL#Cuenta
+0017#STR0017#ALL#Nombre
+0018#STR0018#ALL#Saldo Inicial
+0019#STR0019#ALL#Entradas
+0020#STR0020#ALL#Salidas
+0021#STR0021#ALL#Aplicaciones
+0022#STR0022#ALL#Saldo Disponible
+0023#STR0023#ALL#Total
+0024#STR0024#ALL#Total de la sucursal 
+0025#STR0025#ALL#Empresa
+0026#STR0026#ALL#Unidad de negocio
+0027#STR0027#ALL#Sucursal
+0028#STR0028#ALL#Sucursales seleccionadas para el informe

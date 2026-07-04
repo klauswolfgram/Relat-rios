@@ -1,0 +1,16 @@
+0001#STR0001#ALL#Relacao de Viagens Efetivadas
+0002#STR0002#ALL#Emite as Viagens Efetivadas
+0003#STR0003#ALL#conforme os parametros informados
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#Viagens Efetivadas
+0007#STR0007#ALL#VEICULO  VIAGEM    ORIG DEST DAT.ENTRADA    TONELAGEM KMS.PERC KM.INICIAL KM.FINAL
+0008#STR0008#ALL#Selecionando Registro no DUV...
+0009#STR0009#ALL#CANCELADO PELO OPERADOR
+0010#STR0010#ALL#TOTAL FROTA ===> 
+0011#STR0011#ALL# VIAGEM(S) EFETUADA(S)
+0012#STR0012#ALL#Relacao de Viagens Efetivadas
+0013#STR0013#ALL#Emite as Viagens Efetivadas conforme os parametros informados
+0014#STR0014#ALL#Veículo
+0015#STR0015#ALL#Total Viagens
+0016#STR0016#ALL#KM Perc.

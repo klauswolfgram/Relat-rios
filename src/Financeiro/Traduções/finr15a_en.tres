@@ -1,0 +1,81 @@
+0001#STR0001#ALL#This program will print the accounting statement of Suppliers.
+0002#STR0002#ALL#It can show all the transaction or the original values only. 
+0003#STR0003#ALL#Original Values.                                        
+0004#STR0004#ALL#Position of Bills Payable
+0005#STR0005#ALL#Code      Supplier Name        Prx-Number          TP  Modality   Issue      Bill       Matur.     Original Bank Value |         Overdue Bills         |  Bills to Due  | Bank       Permanence    Arrears           Final
+0006#STR0006#ALL#                               Quota                              Date       Date       Date                           | Nominal Value  Corrected Value|  Nominal Value | Number     Inter.Value   Days            Balance
+0007#STR0007#ALL#Special
+0008#STR0008#ALL#Management   
+0009#STR0009#ALL#Form Supplier       
+0010#STR0010#ALL#To Supplier         
+0011#STR0011#ALL#From Branch         
+0012#STR0012#ALL#To Branch           
+0013#STR0013#ALL#From Issue Date     
+0014#STR0014#ALL#To Issue Date       
+0015#STR0015#ALL#Report              
+0016#STR0016#ALL#Consider NC,ND & PA 
+0017#STR0017#ALL#Import in           
+0018#STR0018#ALL#Detailed
+0019#STR0019#ALL#Summary
+0020#STR0020#ALL#Yes
+0021#STR0021#ALL#No
+0022#STR0022#ALL#Currency 1
+0023#STR0023#ALL#Currency 2
+0024#STR0024#ALL#Currency 3
+0025#STR0025#ALL#Currency 4
+0026#STR0026#ALL#Currency 5
+0027#STR0027#ALL#By Code
+0028#STR0028#ALL#By Name
+0029#STR0029#ALL#By Modality
+0030#STR0030#ALL#Position of Suppliers
+0031#STR0031#ALL#Printing...
+0032#STR0032#ALL#Selecting Records...
+0033#STR0033#ALL#Preparing Transitory...
+0034#STR0034#ALL#Matur. Today
+0035#STR0035#ALL#T O T A L  B Y  M O D A L I T Y  ----> 
+0036#STR0036#ALL#T O T A L  B Y  S U P P L I E R  ----> 
+0037#STR0037#ALL#Bills
+0038#STR0038#ALL#G R A N D    T O T A L       ----> 
+0039#STR0039#ALL#CREDIT NOTE NUMBER 
+0040#STR0040#ALL#DEBIT NOTE NUMBER 
+0041#STR0041#ALL#INVOICE NUM. 
+0042#STR0042#ALL#ANTEC.PAYM.
+0043#STR0043#ALL#EXTERNAL CREDIT NOTE
+0044#STR0044#ALL#EXTERNAL DEBIT NOTE
+0045#STR0045#ALL#NO CLASSIFIED...
+0046#STR0046#ALL#RECEIPT NUM. 
+0047#STR0047#ALL#TAXES WITHH.
+0048#STR0048#ALL#Pref-Number
+0049#STR0049#ALL#Inst.  
+0050#STR0050#ALL#Qty.
+0051#STR0051#ALL#Bill
+0052#STR0052#ALL#Date 
+0053#STR0053#ALL#Issue  
+0054#STR0054#ALL#Due Dt
+0055#STR0055#ALL#Act.
+0056#STR0056#ALL#Amount 
+0057#STR0057#ALL#Original
+0058#STR0058#ALL#|      Bills  
+0059#STR0059#ALL#|NominalAmount
+0060#STR0060#ALL#Due             |
+0061#STR0061#ALL#Indexed amount  |
+0062#STR0062#ALL#| Bills to fall due| 
+0063#STR0063#ALL#|   Nominal Amount |
+0064#STR0064#ALL#Int. amnt. /
+0065#STR0065#ALL#Stay       
+0066#STR0066#ALL#Days 
+0067#STR0067#ALL#Arrear
+0068#STR0068#ALL#Blnce
+0069#STR0069#ALL#End
+0070#STR0070#ALL#Supplier x Bills payable
+0071#STR0071#ALL#Rel.
+0072#STR0072#ALL#QC
+0073#STR0073#ALL#  Value  |   Overdue Bills        | Bills to be Due | Interest Value/     Original
+0074#STR0074#ALL#Balance |  Nominal Vl  Adjusted Vl | Nominal Value    |Permanence        Final
+0075#STR0075#ALL#  Value |    Overdue Bills               |     Bills to be Due |     Interest Value/       Original
+0076#STR0076#ALL#Balance|   Nominal Vl       Adjusted Vl |     Nominal Value    |    Permanence         Final
+0077#STR0077#ALL#QC Vl
+0078#STR0078#ALL#QC Vl    Value | Overdue Bills        |Bills to be Due| Interest Value/  Original
+0079#STR0079#ALL#          Balance|Nominal Vl  Adjusted Vl|Nominal Value   |Permanence   Final
+0080#STR0080#ALL#QC Vl     Value |    Overdue Bills               | Bills to be Due |Interest Value/         Original
+0081#STR0081#ALL#           Balance|   Nominal Vl       Adjusted Vl | Nominal Value    |Permanence          Final

@@ -1,0 +1,45 @@
+0001#STR0001#ALL#Action Plan Schedule Report. Through the parameters the user can filter          
+0002#STR0002#ALL#the responsible for the plans (SESMT employee or the participants), and also    
+0003#STR0003#ALL#select an interval of years to view the period each plan is to operate in
+0004#STR0004#ALL#Z-Form 
+0005#STR0005#ALL#Management   
+0006#STR0006#ALL#Action Plan Schedule       
+0007#STR0007#ALL#Responsib.  : 
+0008#STR0008#ALL#Plan      Plan Name                     Est.Start  Est. End   Year  
+0009#STR0009#ALL#Date 'to' must be greater than 'from''
+0010#STR0010#ALL#WARNING
+0011#STR0011#ALL#Select an interval which lasts a year.    
+0012#STR0012#ALL#From Customer ?
+0013#STR0013#ALL#Unit
+0014#STR0014#ALL#To Customer ?
+0015#STR0015#ALL#Classify by?
+0016#STR0016#ALL#Consider?
+0017#STR0017#ALL#To Estimated Initial Date?
+0018#STR0018#ALL#From Estimated Initial Date?
+0019#STR0019#ALL#To Employee in Charge?
+0020#STR0020#ALL#From Employee in Charge?
+0021#STR0021#ALL#To SESMT Employee in Charge?
+0022#STR0022#ALL#From SESMT Employee in Charge?
+0023#STR0023#ALL#       Person in Charge: 
+0024#STR0024#ALL#Customer/Store: 
+0025#STR0025#ALL#      Customer Name: 
+0026#STR0026#ALL#Jan
+0027#STR0027#ALL#Feb
+0028#STR0028#ALL#Mar
+0029#STR0029#ALL#Apr
+0030#STR0030#ALL#May
+0031#STR0031#ALL#Jun
+0032#STR0032#ALL#Jul
+0033#STR0033#ALL#Aug
+0034#STR0034#ALL#Sep
+0035#STR0035#ALL#Oct
+0036#STR0036#ALL#Nov
+0037#STR0037#ALL#Dec
+0038#STR0038#ALL#Employee
+0039#STR0039#ALL#User
+0040#STR0040#ALL#From User ?
+0041#STR0041#ALL#To User ?
+0042#STR0042#ALL#From Employee?
+0043#STR0043#ALL#To Employee?
+0044#STR0044#ALL#Code of the user responsible for the action plan. The field can remain blank to consider since the first code.
+0045#STR0045#ALL#Code of the user responsible for the action plan. The field can be completed with the letter Z until the end to consider the last code.

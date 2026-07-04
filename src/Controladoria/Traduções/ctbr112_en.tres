@@ -1,0 +1,33 @@
+0001#STR0001#ALL#This program will print the General Journal per Fiscal Document,
+0002#STR0002#ALL#according to the parameters suggested by the user.
+0003#STR0003#ALL#.
+0004#STR0004#ALL#Z-Form
+0005#STR0005#ALL#Administration
+0006#STR0006#ALL#Issue the General Journal per Fiscal Document 
+0007#STR0007#ALL#            A C C O U N T                 H I S T O R Y                            NUMBER                         V  A  L  U  E
+0007#STR0007#ANG#            A C C O U N T                 H I S T O R Y                            NUMBER                         V  A  L  U  E
+0007#STR0007#EQU#            A C C O U N T                 H I S T O R Y                            NUMBER                         V  A  L  U  E
+0007#STR0007#HAI#            A C C O U N T                 H I S T O R Y                            NUMBER                         V  A  L  U  E
+0007#STR0007#MEX#            A C C O U N T                 H I S T O R Y                            NUMBER                         V  A  L  U  E
+0007#STR0007#PTG#            A C C O U N T                 H I S T O R Y                            NUMBER                         V  A  L  U  E
+0008#STR0008#ALL#D E B I T            C R E D I T                                                   DATA ENTRY                  DEBIT         CREDIT 
+0008#STR0008#ANG#D E B I T            C R E D I T                                                   DATA ENTRY                  DEBIT         CREDIT 
+0008#STR0008#EQU#D E B I T            C R E D I T                                                   DATA ENTRY                  DEBIT         CREDIT 
+0008#STR0008#HAI#D E B I T            C R E D I T                                                   DATA ENTRY                  DEBIT         CREDIT 
+0008#STR0008#MEX#D E B I T            C R E D I T                                                   DATA ENTRY                  DEBIT         CREDIT 
+0008#STR0008#PTG#D E B I T            C R E D I T                                                   DATA ENTRY                  DEBIT         CREDIT 
+0009#STR0009#ALL#GENERAL JOURNAL OF FISCAL DOC.OF 
+0010#STR0010#ALL# TO 
+0011#STR0011#ALL# IN 
+0012#STR0012#ALL#***** CANCELLED BY OPERATOR   *****
+0013#STR0013#ALL#To be Tranf.  =======>
+0014#STR0014#ALL#From Transf.  =======>
+0015#STR0015#ALL#Today´s total    =======>
+0016#STR0016#ALL#This month total =======>
+0017#STR0017#ALL#Grand Total ============>
+0018#STR0018#ALL#Entry number 
+0019#STR0019#ALL#Debit amount
+0020#STR0020#ALL#Credit amnt.
+0021#STR0021#ALL#Accounting entries   
+0022#STR0022#ALL#This report version allows the maximum of 
+0023#STR0023#ALL# rows

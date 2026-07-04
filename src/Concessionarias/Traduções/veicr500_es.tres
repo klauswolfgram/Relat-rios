@@ -1,0 +1,96 @@
+0001#STR0001#ALL#Espere... Seleccionando Agendas para Impresion...
+0002#STR0002#ALL#F I C H A    D E    C O N T A C T O    C E V
+0003#STR0003#ALL#Visita dia
+0004#STR0004#ALL#Contacto: 
+0005#STR0005#ALL# Periodicidad: 
+0006#STR0006#ALL#Cliente
+0007#STR0007#ALL#Nombre: 
+0008#STR0008#ALL#Calle
+0009#STR0009#ALL#IE/Doc. Id.
+0010#STR0010#ALL#Dir.: 
+0011#STR0011#ALL# CP: 
+0012#STR0012#ALL#Fax
+0013#STR0013#ALL#Tel.: 
+0014#STR0014#ALL#Persona de Contato
+0015#STR0015#ALL#Cargo
+0016#STR0016#ALL#Contacto
+0017#STR0017#ALL#Flota
+0018#STR0018#ALL#  Piezas......: 
+0019#STR0019#ALL#  Vehíc.Nuevos.: 
+0020#STR0020#ALL#  Servicios...: 
+0021#STR0021#ALL#CONTACTOS                       GI  Cargo            Perfil  Asunto               DDN   Celular        Fch.Cump.
+0022#STR0022#ALL#CUADRO SOCIAL
+0023#STR0023#ALL#ING BRUTO  Med.Mes/Mil  Media Ano/Mil           
+0024#STR0024#ALL#Interes
+0025#STR0025#ALL#Proveed: 
+0026#STR0026#ALL#SUCURSALES
+0027#STR0027#ALL#Pref Pago
+0028#STR0028#ALL#BANCOS que trabaja
+0029#STR0029#ALL#    Ag: 
+0030#STR0030#ALL#FLOTA VEHICULOS Marca/Mod Categoria       Operacion        Fab./Mod.  Fch.Adq.  Final.Pg      Km/Mes    Km/L
+0031#STR0031#ALL#EQUIPAMIENTOS  Marca/Mod  Categoria                       Fab./Mod. Fch.Adq  Fin.Pg      Km/Mes    Km/L
+0032#STR0032#ALL# Ctd.
+0033#STR0033#ALL#Edad Promedio:
+0034#STR0034#ALL# anos
+0035#STR0035#ALL#Ctd. Total:
+0036#STR0036#ALL#FLOTA DE TERCEROS
+0037#STR0037#ALL#Ctd. de Vehiculos: 
+0038#STR0038#ALL#Participacion Facturacion: 
+0039#STR0039#ALL#Participacion Volumen Carga: 
+0040#STR0040#ALL#ADM CONSORCIO         Marca/Modelo                Grupo   Cuota   Adjudic.             Credito   Finalizacion
+0041#STR0041#ALL#SEGUROS  Marca/Modelo     Fab./Mod.  Aseguradora            Corredora             Fch.Venct  Tipo Seguro
+0042#STR0042#ALL#POST VENTA
+0043#STR0043#ALL# OS: 
+0044#STR0044#ALL#Vlr Piezas
+0045#STR0045#ALL#Vlr Servicios
+0046#STR0046#ALL#Acuerdo Mantenimiento
+0047#STR0047#ALL#Contrato Mantenimiento
+0048#STR0048#ALL# Vehiculos
+0049#STR0049#ALL#Facturacion:     
+0050#STR0050#ALL#MOSTRADOR Piezas 
+0051#STR0051#ALL#TALLER Piezas 
+0052#STR0052#ALL#TALLER Srvcs 
+0053#STR0053#ALL# (Ult.30dias) 
+0054#STR0054#ALL# (Ult.365dias)
+0055#STR0055#ALL#FINANCIERO     Validez             Limite               Saldo Pendiente            Valor Vencido           Valor Por Vencer
+0056#STR0056#ALL#OTRAS INFORMACIONES
+0057#STR0057#ALL#Taller Proprio 
+0058#STR0058#ALL#Ctd. Mecanico 
+0059#STR0059#ALL#Servicio Tercero 
+0060#STR0060#ALL#Vlr Promedio/Mes
+0061#STR0061#ALL#Principales Proveedores    SRVCS    Promedio/Mes                                Principales Proveedores   PIEZAS    Promedio/Mes
+0062#STR0062#ALL#ESTRATEGIA: 
+0063#STR0063#ALL#ULTIMOS CONTACTOS realizados con el Cliente: 
+0064#STR0064#ALL#ABORDAJE: 
+0065#STR0065#ALL#( )Visita al Cliente    
+0066#STR0066#ALL#( )Telemarketing    
+0067#STR0067#ALL#( )Concesionario    
+0068#STR0068#ALL#( )No realizada    
+0069#STR0069#ALL#Interes: 
+0070#STR0070#ALL#Pref. de Pago: 
+0071#STR0071#ALL#   Proxima visita prevista para 
+0072#STR0072#ALL#Atencion...
+0073#STR0073#ALL#¡Impresion realizada con exito!
+0074#STR0074#ALL#¡Ninguna ficha se imprimio !
+0075#STR0075#ALL#Espere... Seleccionando datos de los Clientes...
+0076#STR0076#ALL#Desvinculacion de Procesos
+0077#STR0077#ALL#(1) Satisfaccion / (2) Insatisfaccion
+0078#STR0078#ALL#Resp. 
+0079#STR0079#ALL#Dpto: 
+0080#STR0080#ALL#Tp. 
+0081#STR0081#ALL#Prorr: 
+0082#STR0082#ALL#Plazo: 
+0083#STR0083#ALL#Finalizado:
+0084#STR0084#ALL#I.E.: 
+0085#STR0085#ALL# I.M.: 
+0086#STR0086#ALL# I.R.: 
+0087#STR0087#ALL#Impresion generada en el directorio : 
+0088#STR0088#ALL#Ficha Modular - Impresion de Contactos CEV referente a agenda de los vendedores.
+0089#STR0089#ALL#A rayas
+0090#STR0090#ALL#Administracion
+0091#STR0091#ALL#CLIENTE:
+0092#STR0092#ALL#Fch.Actualiz
+0093#STR0093#ALL# Grup Econ: 
+0094#STR0094#ALL#  Vehíc.Usados: 
+0095#STR0095#ALL#  Neumáticos......: 
+0096#STR0096#ALL#  Otros.....: 

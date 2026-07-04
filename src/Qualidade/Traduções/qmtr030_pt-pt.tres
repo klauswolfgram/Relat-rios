@@ -1,0 +1,93 @@
+0001#STR0001#ALL#Certificado De Calibração
+0002#STR0002#ALL#Neste Relatório Será Impresso O Certificado De Calibração
+0003#STR0003#ALL# texto final do certificado 
+0004#STR0004#ALL# impressão 
+0005#STR0006#ALL#Itens De Configuração
+0006#STR0007#ALL#Este programa irá emitir a relação de
+0007#STR0008#ALL#Itens De Configuração
+0008#STR0009#ALL#Parâmetros seleccionados.
+0009#STR0010#ALL#Certificado de calibração 
+0010#STR0011#ALL#Código de barras
+0011#STR0012#ALL#Administração
+0012#STR0013#ALL# informações complementares 
+0013#STR0014#ALL#Nº.
+0014#STR0015#ALL#Padrão Para Calibração
+0018#STR0019#ALL#Informações Complementares Do Instrumento
+0019#STR0020#ALL#Certificados de calibração de acordo com os
+0023#STR0024#ALL#Imprimir
+0024#STR0025#ALL#Configurar
+0025#STR0026#ALL#Abandonar
+0028#STR0029#ALL#Medições
+0030#STR0031#ALL#Tot.horas: 
+0038#STR0039#ALL#Observação
+0039#STR0040#ALL#Medição com estado diferente de activo
+0040#STR0041#ALL#Medição excluída
+0043#STR0044#ALL#Não gravar
+0045#STR0046#ALL#Condição de recebimento 
+0046#STR0047#ALL#Avaria
+0047#STR0048#ALL#Conforme
+0048#STR0049#ALL#Não Conforme
+0049#STR0050#ALL#Instrumentos Utilizados
+0050#STR0051#ALL#Padrão Secundário
+0051#STR0052#ALL#Intervalo
+0054#STR0055#ALL#Padrão Secundário
+0058#STR0059#ALL#Laboratório
+0059#STR0060#ALL#Não Conformidades
+0060#STR0061#ALL#N/c
+0061#STR0062#ALL#Descrição
+0062#STR0063#ALL#Classificação
+0063#STR0064#ALL#Confirmação Metrologica
+0064#STR0065#ALL#Erro Sistemático
+0065#STR0066#ALL#Exactidão
+0066#STR0067#ALL#Adequação
+0068#STR0069#ALL#Análise Das últimas Peças Produzidas
+0069#STR0070#ALL#Aceite
+0071#STR0072#ALL#Conf. Instrumento
+0074#STR0075#ALL#Lse
+0075#STR0076#ALL#Lie
+0076#STR0077#ALL#Unid.med
+0077#STR0078#ALL#Intervalo
+0078#STR0079#ALL#A
+0079#STR0080#ALL#Intervalo
+0081#STR0082#ALL#Tolerância
+0082#STR0083#ALL#Unid.med
+0084#STR0085#ALL#Dt.calib.
+0085#STR0086#ALL#Média
+0089#STR0090#ALL#Padrão
+0092#STR0093#ALL#Médio
+0093#STR0095#ALL#Medição
+0095#STR0097#ALL#Estado
+0096#STR0098#ALL#Família
+0098#STR0100#ALL#Incerteza Tipo B
+0099#STR0101#ALL#| Cod. Incertid. |simbolo   |fonte                         |valor Incert.|distr.| Divisor  |coef.sensib.| Incer.calc. |graus Liber.|
+0100#STR0102#ALL#|                |uc        |inc. padrão combinada         |             |nor   |          |
+0101#STR0103#ALL#|                |u         |inc. expandida                |             |nor k |          |
+0102#STR0104#ALL#|                |ui        |inc. expandida                |             |nor kp|          |            |             |
+0103#STR0105#ALL#Intervalo
+0104#STR0106#ALL#Rev.
+0105#STR0107#ALL#Padrão
+0108#STR0110#ALL#V.final
+0110#STR0112#ALL#Valor Mínimo
+0111#STR0113#ALL#Valor Máximo
+0112#STR0114#ALL#Unidade De Medida
+0117#STR0119#ALL#Parâmetro S De Analise
+0118#STR0120#ALL#Fe
+0119#STR0121#ALL#Desvio maximo no sentido crescente
+0120#STR0122#ALL#Fges
+0121#STR0123#ALL#Desvio total ( crescente / decrescente )
+0122#STR0124#ALL#F.u.
+0123#STR0125#ALL#Erro De Retorno
+0127#STR0129#ALL#Justificativa / Medição
+0130#STR0132#ALL#Tp.tol.
+0131#STR0133#ALL#Morada............: 
+0134#STR0136#ALL#Estado na medição: 
+0135#STR0137#ALL#Imprimir Resumo De Valores?
+0137#STR0139#ALL#Não
+0138#STR0140#ALL#Incerteza Do Instrumento
+0139#STR0141#ALL#Erro Máximo/total
+0140#STR0142#ALL#Resumo De Valores
+0141#STR0143#ALL#Legenda Incerteza Do Tipo B
+0142#STR0144#ALL#*=infinito ou >100
+0143#STR0145#ALL#Sequência : 
+0144#STR0146#ALL#Análise Das últimas Peças Produzidas
+0145#STR0147#ALL#Informações Complementares Do Histórico De Instrumento

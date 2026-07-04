@@ -1,0 +1,50 @@
+0002#STR0002#ALL#Das Entradas.
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#Cancelado Pelo Operador
+0007#STR0007#ALL#Período
+0008#STR0008#ALL#Laboratório 
+0010#STR0010#ALL#Medições
+0011#STR0011#ALL#Amostra / Não-conformidades P/ Unid.
+0012#STR0012#ALL#Não Conformes
+0013#STR0013#ALL#Não-conformidades
+0014#STR0014#ALL#Amostra/unid. Não Conforme/Proc. Não Conforme
+0015#STR0015#ALL#Crónica:
+0016#STR0016#ALL#A Seleccionar Registos...
+0017#STR0017#ALL#Laudo entrada 
+0018#STR0018#ALL#Data/hora : 
+0020#STR0020#ALL#Relatório laboratório:
+0021#STR0021#ALL#A/r
+0022#STR0022#ALL#Não Conf.
+0023#STR0023#ALL#Nr. Ncs 
+0026#STR0026#ALL#Dem.iqi
+0027#STR0027#ALL#Observações Entrada
+0028#STR0028#ALL#                 Primeira                   Segunda                   Número                  Desvio
+0029#STR0029#ALL#Norma        Tp  Amostra   Aceite  Rejeitada  Amostra  Aceite  Rejeitada  Medições  Média      Padrão          Pi     Ps  Resultado
+0030#STR0030#ALL#Observações Da Autorização Urgente:
+0032#STR0032#ALL#              Normal                     Severo                    Número              Desvio
+0033#STR0033#ALL#Norma     Seq Amostra   Aceite  Rejeite  Amostra  Aceite  Rejeite  Médicoes  Média     Padrão              Pi     Ps  Resultado
+0035#STR0035#ALL#Especificação
+0036#STR0036#ALL#Documento Laboratório
+0037#STR0037#ALL#Documento Entrada
+0039#STR0039#ALL#Não Conformidade
+0041#STR0041#ALL#Plano De Amostra
+0042#STR0042#ALL#Norma
+0043#STR0043#ALL#Tp./seq.
+0044#STR0044#ALL#Primeira Amostra
+0045#STR0045#ALL#Aceite
+0046#STR0046#ALL#Rejeitar
+0047#STR0047#ALL#Segunda Amostra
+0048#STR0048#ALL#No.medicoes
+0049#STR0049#ALL#Média
+0050#STR0050#ALL#Desvio Padrão
+0051#STR0051#ALL#Pi
+0052#STR0052#ALL#Ps
+0053#STR0053#ALL#Resultado
+0054#STR0054#ALL#Dimensão Lote
+0055#STR0055#ALL#Qtd. Rejeitada
+0056#STR0056#ALL#A/r
+0057#STR0057#ALL#Não Conf.
+0058#STR0058#ALL#Nr. Ncs 
+0060#STR0060#ALL#Dem.iqi
+0062#STR0062#ALL#Crónica

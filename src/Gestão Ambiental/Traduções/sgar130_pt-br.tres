@@ -1,0 +1,46 @@
+0001#STR0001#ALL#De Local           ?
+0002#STR0002#ALL#Ate Local          ?
+0003#STR0003#ALL#De Data            ?
+0004#STR0004#ALL#Ate Data           ?
+0005#STR0005#ALL#Histórico de Eventos da Estrutura Organizacional
+0006#STR0006#ALL#Relatório de Histórico dos eventos ocorridos na Estrutura Organizacional
+0007#STR0007#ALL#O usuario podera utilizar a opcao Parametros para a obtencao 
+0008#STR0008#ALL#dos Itens da Estrutura Organizacional de seu interesse.
+0009#STR0009#ALL#Item: 
+0010#STR0010#ALL#Item
+0011#STR0011#ALL#Descrição
+0012#STR0012#ALL#Ordem
+0013#STR0013#ALL#Niv. Sup.
+0014#STR0014#ALL#Data
+0015#STR0015#ALL#Hora
+0016#STR0016#ALL#Tipo Evento
+0017#STR0017#ALL#Zebrado
+0018#STR0018#ALL#Administracao
+0019#STR0019#ALL#             Nível Superior                                  Data         Hora   Tipo Evento
+0020#STR0020#ALL#CANCELADO PELO OPERADOR
+0021#STR0021#ALL#*** Primeiro Nível ***
+0022#STR0022#ALL#Efetuado Alteração da Ordem
+0023#STR0023#ALL#Efetuado Exclusão do Item
+0024#STR0024#ALL#Efetuado Inclusão do Item
+0025#STR0025#ALL#Efetuado Alteração do Bem para Ativo
+0026#STR0026#ALL#Efetuado Alteração do Bem para Inativo
+0027#STR0027#ALL#Efetuada Transferência de Filial do Bem
+0028#STR0028#ALL#Situação Atual do Item
+0029#STR0029#ALL#De Local/Bem       ?
+0030#STR0030#ALL#Ate Local/Bem      ?
+0031#STR0031#ALL#Lista Modulo       ?
+0032#STR0032#ALL#Todos
+0033#STR0033#ALL#Nível
+0034#STR0034#ALL#Util. SGA
+0035#STR0035#ALL#Util. MDT
+0036#STR0036#ALL#Util. MNT
+0037#STR0037#ALL#Sim
+0038#STR0038#ALL#Não
+0039#STR0039#ALL#Efetuado Alteração dos Módulos
+0040#STR0040#ALL#                               Nível      Util. SGA   Util. MDT   Util. MNT
+0041#STR0041#ALL#Informe a partir de qual Local/Bem deseja visualizar as Informações. Pressione a tecla [F3] para selecionar uma Local/Bem.
+0042#STR0042#ALL#Informe até qual Local/Bem deseja visualizar as Informações. Pressione a tecla [F3] para selecionar uma Local/Bem ou digite ZZ neste campo para considerar todos os Locais/Bens.
+0043#STR0043#ALL#Informe a partir de qual Data deseja visualizar as Informações.
+0044#STR0044#ALL#Informe até qual Data deseja visualizar as Informações.
+0045#STR0045#ALL#Indica os Locais/Bens de qual Módulo deve imprimir. Opções: SGA, MDT, MNT ou Todos.
+0046#STR0046#ALL#Processo Pai

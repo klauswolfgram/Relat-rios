@@ -1,0 +1,19 @@
+0001#STR0001#ALL#Características dos Produtos
+0002#STR0002#ALL#Este programa irá emitir uma relação dos produtos e suas respectivas
+0003#STR0003#ALL#características e produtos alternativos.
+0004#STR0004#ALL#Infomre os parâmetros para emissão dos produtos.
+0005#STR0005#ALL#Zebrado
+0006#STR0006#ALL#Administração
+0007#STR0007#ALL#Produto         Descrição                      Tp UM        Preço        Custo    Ult Preço Ult Compra Situação   Similaridade
+0008#STR0008#ALL#CANCELADO PELO OPERADOR
+0009#STR0009#ALL#Não há informações para imprimir este relatório. Verifique os parâmetros informados
+0010#STR0010#ALL#Produto
+0011#STR0011#ALL#Descrição
+0012#STR0012#ALL#Tp
+0013#STR0013#ALL#UM
+0014#STR0014#ALL#Preço
+0015#STR0015#ALL#Custo
+0016#STR0016#ALL#Ult Preço
+0017#STR0017#ALL#Ult Compra
+0018#STR0018#ALL#Situação
+0019#STR0019#ALL#Similaridade

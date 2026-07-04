@@ -1,0 +1,27 @@
+0001#STR0001#ALL#Comparativo De Rentabilidade De Viagem
+0002#STR0002#ALL#Emite A Relação De Comparativo De Rentabilidade De Viagem
+0003#STR0003#ALL#Cofacturaorme os parâmetros escolhidos
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#Cancelado Pelo Operador
+0007#STR0007#ALL#Viagem    Dt.viagem  Estado           Documento         Tipo Docto      Ctrc/fact       Dt.emis.   Estado                   Frete A Rec.     Frete Comp. Serviço                            Peso Total  Rota
+0008#STR0008#ALL#          transportador               veiculo           placa              frete pago                  pedagio           contrato         data          rentabilidade       %
+0009#STR0009#ALL#Região origem         região destino           frete a receber  frete complementar         frete pago            pedagio      rentabilidade       %
+0010#STR0010#ALL#Total Do Periodo 
+0012#STR0012#ALL#A Seleccionar Registos...
+0016#STR0016#ALL#                                                                           Frete Pago                  Pedagio            Frete A Rec.     Frete Comp.  Rentabilidade       %           Peso Total
+0020#STR0020#ALL#Comparativo De Rentabilidade De Viagem
+0021#STR0021#ALL#Emite a relação de comparativo de rentabilidade de viagem de acordo com os parâmetros indicados
+0028#STR0028#ALL#Fil.orig.
+0029#STR0029#ALL#Dt.viagem
+0030#STR0030#ALL#Estado
+0032#STR0032#ALL#Matrícula
+0037#STR0037#ALL#Portagem
+0039#STR0039#ALL#Dt.contr
+0043#STR0043#ALL#Dt.contr.
+0045#STR0045#ALL#Fil.docto
+0047#STR0047#ALL#Série
+0050#STR0050#ALL#Ctrc/nf
+0052#STR0052#ALL#Frete A Rec.
+0056#STR0056#ALL#Portagem
+0060#STR0060#ALL#Total Crial

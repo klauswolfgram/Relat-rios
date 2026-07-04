@@ -1,0 +1,59 @@
+0001#STR0001#ALL#Emissão de campanhas. 
+0002#STR0002#ALL#Este programa irá emitir uma relação das campanhas 
+0003#STR0003#ALL#De Marketing.
+0004#STR0004#ALL#Código de barras
+0006#STR0006#ALL#Cancelado Pelo Operador.
+0009#STR0009#ALL#Objectivo          : 
+0010#STR0010#ALL#Data inicial      : 
+0011#STR0011#ALL#Data final        : 
+0014#STR0014#ALL#Público-alvo      : 
+0019#STR0019#ALL#Meta de contacto   : 
+0020#STR0020#ALL#Meta por operador : 
+0022#STR0022#ALL#Roi               : 
+0023#STR0023#ALL#%Roi              : 
+0024#STR0024#ALL#Novos leads prev. : 
+0027#STR0027#ALL#Guião            : 
+0030#STR0030#ALL#Tipo de atend.     : 
+0031#STR0031#ALL#Telemarketing
+0032#STR0032#ALL#Televendas
+0033#STR0033#ALL#Telecobrança
+0038#STR0038#ALL#Guardar resposta : 
+0039#STR0039#ALL#Sim
+0040#STR0040#ALL#Não
+0041#STR0041#ALL#Resultado mínimo      : 
+0042#STR0042#ALL#Acção mínima       : 
+0043#STR0043#ALL#Resultado máximo      : 
+0044#STR0044#ALL#Acção máxima       : 
+0045#STR0045#ALL#Media             : 
+0048#STR0048#ALL#Activa
+0050#STR0050#ALL#Artigo           : 
+0059#STR0059#ALL#Workshop
+0061#STR0061#ALL#Fórum
+0065#STR0065#ALL#Morada          : 
+0066#STR0066#ALL#Concelho         : 
+0067#STR0067#ALL#Distrito          : 
+0070#STR0070#ALL#Homepage         : 
+0071#STR0071#ALL#Email            : 
+0072#STR0072#ALL#Data  início      : 
+0073#STR0073#ALL#Data fim      : 
+0074#STR0074#ALL#Hora início       : 
+0075#STR0075#ALL#Hora fim      : 
+0078#STR0078#ALL# No local/pago
+0079#STR0079#ALL# Convénio
+0081#STR0081#ALL# Convénio/manobrista
+0082#STR0082#ALL# Gratuito C/ Manobrista
+0083#STR0083#ALL#Grelha                      Tema                                      Hr.iní. Hr.fim  Data       Sala       Palestrador                      Empresa
+0084#STR0084#ALL#Não existem dados a serem impressos para este relatório com os parâmetros escolhidos
+0085#STR0085#ALL#Activo
+0087#STR0087#ALL#Tipo De Atend.
+0088#STR0088#ALL#Ambos
+0089#STR0089#ALL#Escolha o tipo de atendimento para selec-
+0091#STR0091#ALL#Público-alvo
+0092#STR0092#ALL#Público-alvo 
+0093#STR0093#ALL#Seleccione um público para restrição dos 
+0094#STR0094#ALL#Dados de impressão.
+0096#STR0096#ALL#Documento Original Dinâmico X Campanha
+0097#STR0097#ALL#Documento Original Dinâmico
+0098#STR0098#ALL#Média relacionada com os itens da campanha
+0099#STR0099#ALL#Artigos
+0101#STR0101#ALL#Grelha De Eventos

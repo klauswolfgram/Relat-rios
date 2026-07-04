@@ -1,0 +1,76 @@
+0001#STR0001#ALL#Listagem de Cheques a Creditar
+0002#STR0002#ALL#Este programa emite um informe dos cheques 
+0003#STR0003#ALL#a ser creditados.
+0004#STR0004#ALL#Zebrado 80/132
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#Vencimento
+0007#STR0007#ALL#Cliente
+0008#STR0008#ALL#Recibo
+0009#STR0009#ALL#Numero de Cheque
+0010#STR0010#ALL#Emissao
+0011#STR0011#ALL#JANEIRO
+0012#STR0012#ALL#FEVEREIRO
+0013#STR0013#ALL#MARCO
+0014#STR0014#ALL#ABRIL
+0015#STR0015#ALL#MAIO
+0016#STR0016#ALL#JUNHO
+0017#STR0017#ALL#JULHO
+0018#STR0018#ALL#AGOSTO
+0019#STR0019#ALL#SETEMBRO
+0020#STR0020#ALL#OUTUBRO
+0021#STR0021#ALL#NOVEMBRO
+0022#STR0022#ALL#DEZEMBRO
+0023#STR0023#ALL#Selecionando Cheques...
+0024#STR0024#ALL#* Codigo    Nome                        Numero         Data      Estado    Dt. Vcto./    Importe   Banco Dep.(Nome)         Moeda  *
+0025#STR0025#ALL#* Codigo    Nome                        Numero         Data      Estado    Dt. Vcto./    Importe   Banco Dep.(Bco/Age/Cta)  Moeda  *
+0026#STR0026#ALL#* Codigo    Nome                        Numero         Data      Estado    Dt. Vcto./    Importe   Banco Ori.(Bco/Age/Cta)  Moeda  *
+0027#STR0027#ALL#*                                      (RCBO/CHQ)      Emissao             Clearing                                        Original*
+0028#STR0028#ALL#*** Listagem de Cheques a ser creditados entre 
+0029#STR0029#ALL# a 
+0030#STR0030#ALL#Totales Mes de 
+0031#STR0031#ALL# (em PESOS) 
+0032#STR0032#ALL#Total do cliente a creditar  
+0033#STR0033#ALL#Rejeitado
+0034#STR0034#ALL#Clearing
+0035#STR0035#ALL#Vencido
+0036#STR0036#ALL#Na Data
+0037#STR0037#ALL#Nao archivado
+0038#STR0038#ALL#Em Carteira
+0039#STR0039#ALL#Caixa 
+0040#STR0040#ALL#+++ CANCELADO PELO OPERADOR +++
+0041#STR0041#ALL#Totais Mes de 
+0042#STR0042#ALL# (em PESOS) 
+0043#STR0043#ALL#Total do cliente a creditar (EM PESOS)...
+0044#STR0044#ALL#TOTAL GENERAL.....(EM PESOS) : 
+0045#STR0045#ALL#Do  Cliente      ?
+0046#STR0046#ALL#A   Cliente      ?
+0047#STR0047#ALL#De Emissao       ?
+0048#STR0048#ALL#A  Emissao       ?
+0049#STR0049#ALL#De Vencimento    ?
+0050#STR0050#ALL#A  Vencimento    ?
+0051#STR0051#ALL#Situacao         ?
+0052#STR0052#ALL#Imp. Banco       ?
+0053#STR0053#ALL#Em Carteira
+0054#STR0054#ALL#Em Banco
+0055#STR0055#ALL#Todos
+0056#STR0056#ALL#Bco Dep(Nome)
+0057#STR0057#ALL#Bco Dep(Cod)
+0058#STR0058#ALL#Bco. Orig.
+0059#STR0059#ALL#Nao se geraram dados para este relatorio. Comprove os parametros do relatorio
+0060#STR0060#ALL#Sem Dados
+0061#STR0061#ALL# em 
+0062#STR0062#ALL#Numero
+0063#STR0063#ALL#RCBO/CHQ
+0064#STR0064#ALL#ESTADO
+0065#STR0065#ALL#Dt.Vcto.
+0066#STR0066#ALL#Clearing
+0067#STR0067#ALL#Moeda
+0068#STR0068#ALL#Original 
+0069#STR0069#ALL#Banco Dep.(Nom.) 
+0070#STR0070#ALL#Banco Dep.(Bco/Age/Cta)
+0071#STR0071#ALL#Banco Ori.(Bco/Age/Cta
+0072#STR0072#ALL#Total geral em 
+0073#STR0073#ALL#Titulos
+0074#STR0074#ALL#Contas a Receber
+0075#STR0075#ALL#Bco. Cheque (Bco/Age/Cod. Postal)
+0076#STR0076#ALL#Bco. Cheque (Nome)

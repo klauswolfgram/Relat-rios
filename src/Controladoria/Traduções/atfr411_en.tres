@@ -1,0 +1,25 @@
+0001#STR0001#ALL#Function available only in TReport
+0002#STR0002#ALL#Recoverable value transaction of assets
+0003#STR0003#ALL#Header
+0004#STR0004#ALL#Items
+0005#STR0005#ALL#Parameters
+0006#STR0006#ALL#Parameters - Process: 
+0007#STR0007#ALL#Asset from 
+0008#STR0008#ALL#Asset to:
+0009#STR0009#ALL#Group from
+0010#STR0010#ALL#Group to
+0011#STR0011#ALL#Cost Center from
+0012#STR0012#ALL#Cost Center to
+0013#STR0013#ALL#Account from
+0014#STR0014#ALL#Account to
+0015#STR0015#ALL#Date from
+0016#STR0016#ALL#Date to
+0017#STR0017#ALL#Item from
+0018#STR0018#ALL#Item to
+0019#STR0019#ALL#Manual
+0020#STR0020#ALL#Yes
+0021#STR0021#ALL#No
+0022#STR0022#ALL#Booked
+0023#STR0023#ALL#Issued via import, file
+0024#STR0024#ALL#Currency not found!
+0025#STR0025#ALL#The currency choice feature is only available in version 11.80!

@@ -1,0 +1,17 @@
+0001#STR0001#ALL#Este programa tem como objetivo imprimir relatorio de despesas do projeto de acordo com os parametros informados pelo usuario.
+0002#STR0002#ALL#Relacao de Despesas do Projeto
+0003#STR0003#ALL#Zebrado
+0004#STR0004#ALL#Administracao
+0005#STR0005#ALL#DATA              Vlr. Prev. PC       Vlr. Despesas     Despesas do Dia Despesas Acumuladas
+0006#STR0006#ALL#Projeto : 
+0007#STR0007#ALL#DATA
+0008#STR0008#ALL#Vlr. Prev. PC
+0009#STR0009#ALL#Vlr. Despesas
+0010#STR0010#ALL#Despesas do Dia
+0011#STR0011#ALL#Despesas Acumuladas
+0012#STR0012#ALL#Projeto
+0013#STR0013#ALL#Despesas do Projeto
+0014#STR0014#ALL#Despesas Antecipadas
+0015#STR0015#ALL#Aviso!
+0016#STR0016#ALL#As perguntas "Data de Referencia ?" ou o "Número de dias" não estão preenchidas corretamente!
+0017#STR0017#ALL#*** CANCELADO PELO USUARIO ***

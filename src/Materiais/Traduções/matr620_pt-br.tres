@@ -1,0 +1,23 @@
+0001#STR0001#ALL#Relacao de Pedidos por Produto
+0002#STR0002#ALL#Este relatorio ira emitir a relacao de Vendas por
+0003#STR0003#ALL#ordem de Produto.
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#RELACAO DE VENDAS POR PRODUTO
+0007#STR0007#ALL#CODIGO          DENOMINACAO                             QUANTIDADE          QUANTIDADE UN             DESCONTO                 VALOR
+0008#STR0008#ALL#PRODUTO                                                   VENDIDA            FATURADA                                          TOTAL
+0009#STR0009#ALL#Selecionando Registros 
+0010#STR0010#ALL#CANCELADO PELO OPERADOR
+0011#STR0011#ALL#T O T A L  G E R A L : 
+0012#STR0012#ALL#Relacao de Pedidos por Produto
+0013#STR0013#ALL#Este relatorio ira emitir a relacao de Vendas por
+0014#STR0014#ALL#ordem de Produto.
+0015#STR0015#ALL#Produto
+0016#STR0016#ALL#Denominacao
+0017#STR0017#ALL#Qtd.Vendida
+0018#STR0018#ALL#Qtd.Faturada
+0019#STR0019#ALL#UM
+0020#STR0020#ALL#Desconto
+0021#STR0021#ALL#Valor Total
+0022#STR0022#ALL#Selecionando Registros 	
+0023#STR0023#ALL#Pedidos por Produto

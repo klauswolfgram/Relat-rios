@@ -1,0 +1,57 @@
+0001#STR0001#ALL#Informe de la Agenda de Reuniones 
+0002#STR0002#ALL#A rayas
+0003#STR0003#ALL#Administracion
+0004#STR0004#ALL#Agenda de reuniones
+0005#STR0005#ALL#Mandato    Nombre Mandato
+0006#STR0006#ALL#  Fcha Prev.  Fcha Real   Hora    Tipo
+0007#STR0007#ALL#ANULADO POR EL OPERADOR
+0008#STR0008#ALL#Ordinaria
+0009#STR0009#ALL#Extraordinaria
+0010#STR0010#ALL#Asunto.:
+0011#STR0011#ALL#Participantes....:
+0012#STR0012#ALL#Acta de reunion
+0013#STR0013#ALL#Fecha prev.
+0014#STR0014#ALL#Hora prev.
+0015#STR0015#ALL#Fecha real
+0016#STR0016#ALL#Hora real
+0017#STR0017#ALL#Tipo
+0018#STR0018#ALL#Firma.:______________________
+0019#STR0019#ALL#Participantes
+0020#STR0020#ALL#Reunion de CIPA
+0021#STR0021#ALL#Agenda de Reunion.
+0022#STR0022#ALL#Mandato: 
+0023#STR0023#ALL#Fch. de Reunion:
+0024#STR0024#ALL#Horario:
+0025#STR0025#ALL#Reunion:
+0026#STR0026#ALL#Ordinaria
+0027#STR0027#ALL#Extraordinaria
+0028#STR0028#ALL#Asunto:
+0029#STR0029#ALL#Acta de Reun.
+0030#STR0030#ALL#Fir.:_____________________________________
+0031#STR0031#ALL#Cliente/Tda.: 
+0032#STR0032#ALL#¿De Cliente?
+0033#STR0033#ALL#Tda.
+0034#STR0034#ALL#¿A Cliente ?
+0035#STR0035#ALL#No existe nada para imprimir en el informe.
+0036#STR0036#ALL#¿Modelo de informes?
+0037#STR0037#ALL#¿Acta de reunion?
+0038#STR0038#ALL#¿A Fecha?
+0039#STR0039#ALL#¿De Fecha?
+0040#STR0040#ALL#A Mandato CIPA
+0041#STR0041#ALL#De  Mandato CIPA
+0042#STR0042#ALL#Seleccionando Registros ...
+0043#STR0043#ALL#¿Listar Ausentes ?
+0044#STR0044#ALL#¿Ausencia Justificada ?
+0045#STR0045#ALL#Define si se debe imprimir las ausencias de las reuniones.
+0046#STR0046#ALL#Define si se debe imprimir la situacion de la ausencia, donde es Justificada o No Justificada
+0047#STR0047#ALL#Falta Justificada
+0048#STR0048#ALL#Falta No Justificada
+0049#STR0049#ALL#No Comparecio
+0050#STR0050#ALL#Externo
+0051#STR0051#ALL#Reunión de CIPATR
+0052#STR0052#ALL#A Mandato CIPATR
+0053#STR0053#ALL#De Mandato CIPATR
+0054#STR0054#ALL#Código del mandato de la CIPATR. El campo puede permanecer vacío para considerar desde el primer código.
+0055#STR0055#ALL#Código del mandato de la CIPATR. El campo puede completarse con la letra Z hasta el final para considerar el último código.
+0056#STR0056#ALL#Código del mandato de la CIPA. El campo puede permanecer vacío para considerar desde el primer código.
+0057#STR0057#ALL#Código del mandato de la CIPA. El campo puede completarse con la letra Z hasta el final para considerar el último código.

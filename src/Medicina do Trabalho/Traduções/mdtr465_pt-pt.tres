@@ -1,0 +1,104 @@
+0001#STR0001#ALL#Atestado de saude ocupacional ( aso ). relaciona as informações referentes aos
+0002#STR0002#ALL#Exames realizados e os riscos a que o empregado esta exposto. através dos parâmetro s
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0007#STR0007#ALL#Termo de respons. ?
+0008#STR0008#ALL#Imprimir logomarca ?
+0011#STR0011#ALL#Listar exames nr7 ?
+0012#STR0012#ALL#Tipo de impressão ?
+0013#STR0013#ALL#Padrão
+0014#STR0014#ALL#Gráfico
+0015#STR0015#ALL#Cancelado Pelo Operador
+0016#STR0016#ALL#Atestado De Saude Ocupacional           Num.:
+0017#STR0017#ALL#|siga/mdtr465                                        Emissão:
+0018#STR0018#ALL#|empresa.: 
+0019#STR0019#ALL#Geração:
+0020#STR0020#ALL#|morada: 
+0022#STR0022#ALL#|candidato.......:
+0027#STR0027#ALL#Admissão.:
+0030#STR0030#ALL#Cpf.:
+0031#STR0031#ALL#|---------------------------------  riscos  -----------------------------------|
+0032#STR0032#ALL#Riscos analisados na fase de reconhecimento do ppra não caracterizando a necessidade de controle.
+0033#STR0033#ALL#|---------------------------------  exames  -----------------------------------|
+0034#STR0034#ALL#Não existe necessidade de exame médico complementar, apenas consulta clínica ocupacional.
+0035#STR0035#ALL#|------------------------------- coordenador pcmso ----------------------------|
+0036#STR0036#ALL#|médico...:
+0037#STR0037#ALL#Tel. Contacto.:
+0038#STR0038#ALL#|morada.:
+0039#STR0039#ALL#|crm.:
+0040#STR0040#ALL#|------------------------------- realização -----------------------------------|
+0042#STR0042#ALL#|empregado:
+0044#STR0044#ALL#|data.......:
+0045#STR0045#ALL#Crm.:
+0046#STR0046#ALL#Morada:
+0048#STR0048#ALL#|parecer.:
+0050#STR0050#ALL#|procedimento
+0051#STR0051#ALL#|------------------------- termo de responsabilidade --------------------------|
+0052#STR0052#ALL#Atestado De Saude Ocupacional
+0053#STR0053#ALL#Nr.    :
+0057#STR0057#ALL#Morada . :
+0061#STR0061#ALL#CT  . . . :
+0063#STR0063#ALL#B.I. . . . . . . :
+0065#STR0065#ALL#Admissão . :
+0068#STR0068#ALL#Nr. contribuinte . . . . . :
+0071#STR0071#ALL#Coordenador Medicina Do Trabalho
+0072#STR0072#ALL#Médico . . . :
+0073#STR0073#ALL#Tel. contacto . :
+0074#STR0074#ALL#Crm . :
+0075#STR0075#ALL#Realização
+0078#STR0078#ALL#Funcionário. :
+0081#STR0081#ALL#Crm . :
+0087#STR0087#ALL#Termo De Responsabilidade
+0088#STR0088#ALL#Siga\mdtr465
+0089#STR0089#ALL#Atestado De Saude Ocupacional
+0090#STR0090#ALL#Modelo impressão?
+0094#STR0094#ALL#Nº. de vias ?
+0097#STR0097#ALL#Três
+0098#STR0098#ALL#Aso – Atestado De Saúde Ocupacional
+0099#STR0099#ALL#De Saúde
+0100#STR0100#ALL#Ocupacional
+0101#STR0101#ALL#Atesto Que O Empregado Sr.(a):
+0102#STR0102#ALL#DI: 
+0106#STR0106#ALL#Foi clinicamente examinado(a), dia 
+0107#STR0107#ALL#,  Estando Expostos Aos:
+0108#STR0108#ALL#Riscos Ocupacionais
+0110#STR0110#ALL#Outros agentes: 
+0111#STR0111#ALL#Não há risco ocupacional específico para a actividade.
+0112#STR0112#ALL#Realizou Os Seguintes Exames Complementares
+0113#STR0113#ALL#Tipo
+0114#STR0114#ALL#Data
+0115#STR0115#ALL#Não existe necessidade de exame médico complementar, apenas consulta clínica ocupacional.
+0116#STR0116#ALL#Observações:
+0120#STR0120#ALL#Declaro Que Recebi A 3ª Via Do Aso,
+0121#STR0121#ALL#Médico çãordenador: 
+0124#STR0124#ALL#Crm: 
+0125#STR0125#ALL#Médico examinador: 
+0126#STR0126#ALL#Portador De Deficiência Física:
+0127#STR0127#ALL#Não existe informação para imprimir no relatório.
+0128#STR0128#ALL#De cliente ?
+0130#STR0130#ALL#Até cliente ?
+0131#STR0131#ALL#Código  do cliente. o campo pode permanecer vazio para considerar desde o primeiro código.
+0132#STR0132#ALL#Código  da loja do cliente. o campo pode permanecer vazio para considerar desde o primeiro código.
+0133#STR0133#ALL#Código  do cliente. o campo pode ser preenchido com a letra z até  o final para considerar o último código.
+0134#STR0134#ALL#Código  da loja do cliente. o campo pode ser preenchido com a letra z até  o final para considerar o último código.
+0135#STR0135#ALL#Via entregue ao empregado ?
+0136#STR0136#ALL#Modelo Impressão ?
+0138#STR0138#ALL#ASOs por Página ?
+0139#STR0139#ALL#Até Dt. Programação ?
+0140#STR0140#ALL#De  Dt. Programação ?
+0141#STR0141#ALL#Até Ficha ?
+0143#STR0143#ALL#Imprimir apto c/ restricções ?
+0146#STR0146#ALL#A alínea "e" do item 7.4.4.3. da NR7 (Programa de Controlo Médico de Saúde Ocupacional), define que o ASO deve 
+0150#STR0150#ALL#Para ela, ou o empregado é apto ou não é, ou ele pode trabalhar ou não pode, não existe o "meio termo". 
+0152#STR0152#ALL#A pergunta 10 aplica-se quando o empregado for "Apto com Restrição". 
+0160#STR0160#ALL#Apto Com Restricções
+0163#STR0163#ALL#Telefone 
+0164#STR0164#ALL#Nr. : 
+0165#STR0165#ALL#Nr.Contrib.
+0169#STR0169#ALL#O Número Total de Vias não pode ser menor que o número da via enviada ao empregado
+0175#STR0175#ALL#Indica o nome de actividade que será impresso no ASO.(Função ou Cargo)
+0180#STR0180#ALL#Imprimir restricções ?
+0190#STR0190#ALL#Indica se agrupará os exames por data na impressão do Atestado (ASO). 1=Sim;2=Não
+0194#STR0194#ALL#Ergonómico(s)
+0197#STR0197#ALL#Imp. portador deficiência?
+0198#STR0198#ALL#Indica se imprimirá tipo de Portador de deficiência. S=Sim;N=Não

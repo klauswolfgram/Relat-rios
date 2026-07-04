@@ -1,0 +1,43 @@
+0001#STR0001#ALL#Consumo Real X Padrão
+0002#STR0002#ALL#Este programa irá imprimir a relação de 
+0003#STR0003#ALL#Consumo real x padrão.                
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#A Seleccionar Registos...
+0007#STR0007#ALL#Código           m a t e r i a l                  |              c o n s u m o  r e a l              |           c o n s u m o  p a d r ã o         |                          v a r i a ç ã o                        
+0008#STR0008#ALL#                 descrição                     um |      quantidade      custo un.       valor total |      quantidade      custo un.       valor total |     quantidade   valor total          €qtd.    €valor         % 
+0009#STR0009#ALL# ( por ordem de produção )
+0010#STR0010#ALL# ( por produto )
+0011#STR0011#ALL#Cancelado Pelo Operador
+0013#STR0013#ALL#Da Op:
+0014#STR0014#ALL#Do Produto:
+0015#STR0015#ALL#V A R I A ç ã O   De   U S O   E   C O N S U M O
+0016#STR0016#ALL#Total Do Produto:
+0017#STR0017#ALL#|                                                       |        c o n s u m o  r e a l         |    c o n s u m o  p a d r ã o     |            v a r i a ç ã o                                 |
+0018#STR0018#ALL#|  código            descrição                          |---------------------------------------|---------------------------------------|------------------------------------------------------------|
+0019#STR0019#ALL#|                                                       |      quantidade  |             valor  |      quantidade  |             valor  |      quantidade  |             valor  |                 %  |
+0022#STR0022#ALL#|    Quantidade
+0023#STR0023#ALL#R e a l 
+0024#STR0024#ALL#Custo Un
+0025#STR0025#ALL#Valor Total
+0026#STR0026#ALL#P A D R ã O
+0027#STR0027#ALL#| V A R I A ç ã O
+0028#STR0028#ALL#€qtde
+0029#STR0029#ALL#€valor
+0030#STR0030#ALL#| c o n s u m o  r e a l 
+0031#STR0031#ALL#Valor
+0032#STR0032#ALL#| C O N S U M O  P A D R ã O.
+0034#STR0034#ALL#Actualizar patch do programa
+0035#STR0035#ALL#Produto:
+0036#STR0036#ALL#Op: 
+0037#STR0037#ALL#Código
+0038#STR0038#ALL#Descrição
+0039#STR0039#ALL#Um
+0040#STR0040#ALL#|      Quantidade
+0041#STR0041#ALL#|             Quantidade
+0042#STR0042#ALL#|            Quantidade
+0043#STR0043#ALL#|      Quantidade
+0044#STR0044#ALL#Itens De Movimentação Interna
+0045#STR0045#ALL#Saldo Inicial Op / Artigo
+0046#STR0046#ALL#Totais Por Op / Artigo
+0047#STR0047#ALL#Resumo Agrupado Por Artigo

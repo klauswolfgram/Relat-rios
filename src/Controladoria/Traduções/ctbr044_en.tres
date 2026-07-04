@@ -1,0 +1,26 @@
+0001#STR0001#ALL#This program will print the Trial Balance Model 5, the  
+0002#STR0002#ALL#account is printed with up to 20 characters and its description with up to 40 characters. 
+0003#STR0003#ALL#TRIAL BALANCE MODEL 5
+0004#STR0004#ALL#Report printed in chart mode only
+0005#STR0005#ALL# FROM 
+0006#STR0006#ALL# TO 
+0007#STR0007#ALL#Account
+0008#STR0008#ALL#Account Description
+0009#STR0009#ALL#Month Mov.
+0010#STR0010#ALL#Previous Mov.
+0011#STR0011#ALL#General Mov.
+0012#STR0012#ALL#Balance
+0013#STR0013#ALL#Debit
+0013#STR0013#MEX#Debit
+0014#STR0014#ALL#Credit
+0014#STR0014#MEX#Credit
+0015#STR0015#ALL#P E R I O D   T O T A L S: 
+0016#STR0016#ALL#G R O U P   T O T A L S (
+0017#STR0017#ALL#Fill out parameters Incomes/Expenses Groups and  Prev. Balance Date of Income/Expenses or 
+0018#STR0018#ALL# leave parameter Ignore Prev. Bal. Inc/Exp = No 
+0019#STR0019#ALL#Selecting records...
+0020#STR0020#ALL#Creating temporary file...
+0021#STR0021#ALL#Totalizers
+0022#STR0022#ALL#T O T A L S =====================>
+0023#STR0023#ALL#in
+0024#STR0024#RUS#in

@@ -1,0 +1,55 @@
+0001#STR0001#ALL#Nofifying the Union about CIPA Elections
+0002#STR0002#ALL#Communication of electoral process
+0003#STR0003#ALL#NOTE
+0004#STR0004#ALL#The SMTP Server was not configured.
+0005#STR0005#ALL#Check the parameter (MV_RELSERV).
+0006#STR0006#ALL#The e-mail account was not configured.
+0007#STR0007#ALL#Check the parameter (MV_RELACNT).
+0008#STR0008#ALL#The e-mail password was not configured.
+0009#STR0009#ALL#Check the parameter (MV_RELPSW).
+0010#STR0010#ALL#Warning to Union on the start of electoral process
+0011#STR0011#ALL#Chairman
+0012#STR0012#ALL#To
+0013#STR0013#ALL#Copy
+0014#STR0014#ALL#Subject
+0015#STR0015#ALL#User Authentication in the E-mail Provider failed
+0016#STR0016#ALL#Error sending E-mail
+0017#STR0017#ALL#E-mail sent successfully
+0018#STR0018#ALL#Error connecting with SMTP Server
+0019#STR0019#ALL#Note
+0020#STR0020#ALL#Recipient e-mail not entered.
+0021#STR0021#ALL#Subject not entered. Wish to send it now?
+0022#STR0022#ALL#To His/Her Excellency
+0023#STR0023#ALL#Subject: 
+0024#STR0024#ALL#President,
+0025#STR0025#ALL#We inform this Union that on 
+0026#STR0026#ALL#, election will be held for representatives of employees in the Internal Commission of 
+0027#STR0027#ALL#Prevention of Accidents - CIPA, of the company 
+0028#STR0028#ALL# at the address 
+0029#STR0029#ALL#Sincerely,
+0030#STR0030#ALL#Responsible for the Company
+0031#STR0031#ALL#Customer ?
+0032#STR0032#ALL#Unit
+0033#STR0033#ALL#Union City?
+0034#STR0034#ALL#Union Name?
+0035#STR0035#ALL#Union Leader Name?
+0036#STR0036#ALL#Union E-mail?
+0037#STR0037#ALL#Term of Office?
+0038#STR0038#ALL#&Send
+0039#STR0039#ALL#&Print
+0040#STR0040#ALL#&Cancel
+0041#STR0041#ALL# of 
+0042#STR0042#ALL#Header
+0043#STR0043#ALL#Text
+0044#STR0044#ALL#Warning to Union on CIPATR Elections
+0045#STR0045#ALL#Prevention of Accidents in the Rural Work - CIPATR of company 
+0046#STR0046#ALL#Term of Office?
+0047#STR0047#ALL#Indicate CIPATR Term of Office considered for printing report.
+0048#STR0048#ALL#Indicate CIPA Term of Office considered for printing report.
+0049#STR0049#ALL#Union Coordinate Name?
+0050#STR0050#ALL#Name of union coordinator.
+0051#STR0051#ALL#Name of union chairman.
+0052#STR0052#ALL#Coordinator
+0053#STR0053#ALL#Mr. Coordinator,
+0054#STR0054#ALL#Notice to Labor Union regarding Mining Company CIPA Elections
+0055#STR0055#ALL#Prevention of Accidents - Mining Company CIPA, of company

@@ -1,0 +1,65 @@
+0001#STR0001#ALL#Aprovacao Interina GM
+0002#STR0002#ALL#Gerando Visualizacao, Aguarde...
+0003#STR0003#ALL#PPAP:
+0004#STR0004#ALL#Nome do Fornecedor:
+0005#STR0005#ALL#Codigo do Fornecedor:
+0006#STR0006#ALL#Nivel de Submissao:
+0007#STR0007#ALL#Grupo:
+0008#STR0008#ALL#Data:
+0009#STR0009#ALL#Data Expiracao:
+0010#STR0010#ALL#EWO#:
+0011#STR0011#ALL#Numero da Peca:
+0012#STR0012#ALL#Nome da Peca:
+0013#STR0013#ALL#Numero do Desenho:
+0014#STR0014#ALL#Alteracao de Engenharia:
+0015#STR0015#ALL#Peso(Kg):
+0016#STR0016#ALL#No. Amostras:
+0017#STR0017#ALL#Amostras Adicionais:
+0018#STR0018#ALL#(     ) Classe A - Pecas foram produzidas usando 100% ferramental , 
+0019#STR0019#ALL#porem nem todos os requisitos foram satisfeitos
+0020#STR0020#ALL#(     ) Classe B - Pecas foram produzidas usando 100% ferramental , 
+0021#STR0021#ALL#e requerem retrabalho para satisfazer os requisitos
+0022#STR0022#ALL#(     ) Classe C - Pecas nao sao produzidas usando 100% ferramental 
+0023#STR0023#ALL#de producao, porem satisfaz as especificacoes
+0024#STR0024#ALL#(     ) Classe D - Pecas nao satisfazem especificacoes de registro de projeto
+0025#STR0025#ALL#(     ) Classe E - Pecas nao satisfazem especificacoes de registro de projeto, 
+0026#STR0026#ALL#Pecas Classe E exigem substituicao para venda
+0027#STR0027#ALL#CLASSE INTERINA
+0028#STR0028#ALL#STATUS:
+0029#STR0029#ALL#A = Aprovado
+0030#STR0030#ALL#I = Interina
+0031#STR0031#ALL#N = Nao Realizado
+0032#STR0032#ALL#DIM
+0033#STR0033#ALL#APAR
+0034#STR0034#ALL#LAB
+0035#STR0035#ALL#PROC
+0036#STR0036#ALL#ENG
+0037#STR0037#ALL#RESUMO DAS RAZOES
+0038#STR0038#ALL#ASSUNTOS(Relacione DIM, APP, Questoes de Lancamento)
+0039#STR0039#ALL#PLANO DE ACAO(Fornecer com prazos)
+0040#STR0040#ALL#ESTAO OS ASSUNTOS REFERENTES A INTERINA MENCIONADAS NO PLANO GP-12 (Explique)
+0041#STR0041#ALL#Representante GMB:
+0042#STR0042#ALL#Assinatura:
+0043#STR0043#ALL#FORNECEDOR:
+0044#STR0044#ALL#Assinatura Autorizada
+0045#STR0045#ALL#Função
+0046#STR0046#ALL#Data
+0047#STR0047#ALL#Nome Legivel
+0048#STR0048#ALL#Telefone
+0049#STR0049#ALL#Fax
+0050#STR0050#ALL#Aprovacoes do Cliente:     Assinatura
+0051#STR0051#ALL#Nome
+0052#STR0052#ALL#Engenheiro de Qualidade do Fornecedor
+0053#STR0053#ALL#Engenheiro de Produto (DRE)
+0054#STR0054#ALL#Engenheiro de Materiais/Lab
+0055#STR0055#ALL#Engenheiro de Aparencia/Pintura
+0056#STR0056#ALL#OUTROS(Comprador, Unidade de Montagem)
+0057#STR0057#ALL#Processo de Aprovacao de Peca de Producao
+0058#STR0058#ALL#Formulario de Aprovacao Interina (GM 1411)
+0059#STR0059#ALL#GENERAL MOTORS DO BRASIL LTDA
+0060#STR0060#ALL#Data Ressubmissao:
+0061#STR0061#ALL#Aplicacao
+0062#STR0062#ALL#ECL:
+0063#STR0063#ALL#Insp/EQF :
+0064#STR0064#ALL#PKG:
+0065#STR0065#ALL#Interim#:

@@ -1,0 +1,16 @@
+0001#STR0001#ALL#Comprovativo De Entrega
+0002#STR0002#ALL#Este programa irá emitir a carta de comprovantes de
+0003#STR0003#ALL#Entrega de acordo com os parâmetro s escolhidos pelo
+0004#STR0004#ALL#Utilizador.
+0005#STR0005#ALL#Código de barras
+0006#STR0006#ALL#Administração
+0009#STR0009#ALL#Ref.: Comprovante De Entrega
+0011#STR0011#ALL#E assinados por vossos clientes.
+0014#STR0014#ALL#Cancelado Pelo Operador
+0015#STR0015#ALL#Comprovativo De Entrega
+0016#STR0016#ALL#Este programa irá emitir a carta de comprovativos de entrega de acordo com os parâmetros escolhidos pelo utilizador
+0017#STR0017#ALL#Factura
+0018#STR0018#ALL#Comprovativo
+0021#STR0021#ALL#Ref.: Comprovante De Entrega
+0022#STR0022#ALL#Anexo a esta, enviamos-lhe cópias datadas das suas notas fiscais
+0023#STR0023#ALL#E assinados por vossos clientes.

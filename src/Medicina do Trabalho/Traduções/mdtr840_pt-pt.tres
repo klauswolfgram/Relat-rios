@@ -1,0 +1,19 @@
+0001#STR0001#ALL#Relatório do plano de acção  por risco.                              
+0002#STR0002#ALL#O relatório mostra as ações definidas para eliminar ou minimizar os   
+0003#STR0003#ALL#Riscos existentes na empresa.                                         
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#Plano de acção  por risco 
+0007#STR0007#ALL#Risco       Agente      Dt.recon  Dt.aval   Dt.elim    Fonte Criad      Qtde U.med. C.custo               Função Tarefa  Ambiente
+0008#STR0008#ALL#    plano     nome do plano de acção                     dt.implant inic.prev  fim prev   inic.real   fim real   responsavel  
+0009#STR0009#ALL#Cancelado Pelo Operador
+0010#STR0010#ALL#Todos
+0011#STR0011#ALL#Todas
+0016#STR0016#ALL#Quando: inic.previsto.: 
+0018#STR0018#ALL#Fim previsto.: 
+0019#STR0019#ALL#Quanto: valor previsto.: 
+0020#STR0020#ALL#Qtde atual...: 
+0029#STR0029#ALL#Até Resp. Sesmt ?
+0031#STR0031#ALL#Acções ?
+0032#STR0032#ALL#Até Dt.Implan.Plano ?
+0034#STR0034#ALL#Até Risco ?

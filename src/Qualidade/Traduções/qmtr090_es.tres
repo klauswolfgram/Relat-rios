@@ -1,0 +1,17 @@
+0001#STR0001#ALL#Este programa emite el informe de referencia
+0002#STR0002#ALL#cruzada entre instrumentos y estandares secundarios.
+0003#STR0003#ALL#Ref. cruzada: Instrumento vs. Estand.Secundario
+0004#STR0004#ALL#Instrumento      Rev Familia          Dpto.          Resp.      Escala Est.Sec.  Punto Est. Sec.  Estand.Secundario Familia Est. Sec.
+0005#STR0005#ALL#A Rayas
+0006#STR0006#ALL#Administracion
+0007#STR0007#ALL#ANULADO POR EL OPERADOR
+0008#STR0008#ALL#Instrumento
+0009#STR0009#ALL#Rev
+0010#STR0010#ALL#Familia
+0011#STR0011#ALL#Depto.
+0012#STR0012#ALL#Resp.
+0013#STR0013#ALL#Escala Est.Sec.
+0014#STR0014#ALL#Punto Est. Sec.
+0015#STR0015#ALL#Estan. Secundario
+0016#STR0016#ALL#Famila Est. Sec.
+0017#STR0017#ALL#Secuencia..:

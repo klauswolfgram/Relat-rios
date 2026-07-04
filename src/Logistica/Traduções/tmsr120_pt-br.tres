@@ -1,0 +1,27 @@
+0001#STR0001#ALL#COLETAS NAO EFETUADAS POR OCORRENCIA
+0002#STR0002#ALL#Emite a relacao das coletas nao efetuadas por ocorrencia,
+0003#STR0003#ALL#conforme os parametros informados
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#Selecionando Registros...
+0007#STR0007#ALL#Selecionando registros DUA...
+0008#STR0008#ALL#DATA       HORA  FILIAL DOC    SERIE SOLICITANTE                              TIP COLETA           VOLS                  PESO
+0009#STR0009#ALL#Ocorrencia: 
+0010#STR0010#ALL#Total: 
+0011#STR0011#ALL#Total Geral: 
+0012#STR0012#ALL#CANCELADO PELO OPERADOR
+0013#STR0013#ALL#Digitada
+0014#STR0014#ALL#Automatica
+0015#STR0015#ALL#Coletas nao Efetuadas por Ocorrencia
+0016#STR0016#ALL#Emite a relacao das coletas nao efetuadas por ocorrencia
+0017#STR0017#ALL#Ocorrencia
+0018#STR0018#ALL#Desc.Ocorrencia
+0019#STR0019#ALL#Documento
+0020#STR0020#ALL#Data
+0021#STR0021#ALL#Hora
+0022#STR0022#ALL#Fil.Doc
+0023#STR0023#ALL#Serie
+0024#STR0024#ALL#Solicitante
+0025#STR0025#ALL#Tip.Col.
+0026#STR0026#ALL#Vols.
+0027#STR0027#ALL#Peso

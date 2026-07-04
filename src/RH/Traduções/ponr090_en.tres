@@ -1,0 +1,60 @@
+0001#STR0001#ALL#Report of Results
+0002#STR0002#ALL#It will be printed according to parameters selected 
+0003#STR0003#ALL#by the User.
+0004#STR0004#ALL#Registr.
+0005#STR0005#ALL#Cost Center
+0006#STR0006#ALL#Name
+0007#STR0007#ALL#Z.Form
+0008#STR0008#ALL#Management
+0009#STR0010#ALL#Quit
+0010#STR0011#ALL#OK
+0011#STR0012#ALL#RESULTS PER CODE
+0012#STR0013#ALL#RESULTS OF TIME ACCOUNTING
+0013#STR0016#ALL#Necessary to Compact the Printer for 18 CPI ?
+0014#STR0017#ALL#Necessary to Compact the Printer for 18 CPI ?
+0015#STR0018#ALL#                                                                          |-      FUNDS        -|
+0016#STR0019#ALL#FI C.CENT.              REGIS. NAME                                 DESCRIP. CODE           HOURS                  
+0017#STR0020#ALL#FI C.CENT.              REGIS. NAME
+0018#STR0021#ALL#    HOURS
+0019#STR0022#ALL#T O T A L
+0020#STR0023#ALL#Company: 
+0021#STR0024#ALL#O F     E M P L O Y E E            
+0022#STR0025#ALL#O F     C O S T   C E N T E R      
+0023#STR0026#ALL#O F     B R A N C H                
+0024#STR0027#ALL#O F     C O M P A N Y              
+0025#STR0028#ALL#C.Center+Name
+0026#STR0029#ALL#Employees
+0027#STR0030#ALL#TOTAL 
+0028#STR0031#ALL#HOURS
+0029#STR0032#ALL#Code
+0030#STR0033#ALL#Hours
+0031#STR0034#ALL#COD 01
+0032#STR0035#ALL#COD 02
+0033#STR0036#ALL#COD 03
+0034#STR0037#ALL#COD 04
+0035#STR0038#ALL#COD 05
+0036#STR0039#ALL#COD 06
+0037#STR0040#ALL#COD 07
+0038#STR0041#ALL#COD 08
+0039#STR0042#ALL#COD 09
+0040#STR0043#ALL#COD 10
+0041#STR0044#ALL#Processing...
+0042#STR0045#ALL#T O T A L     
+0043#STR0046#ALL#Print a result list of Time Attendance Terminal.
+0044#STR0047#ALL#Portrait Format - Employee's information 
+0045#STR0048#ALL#Portrait Format - Results by code        
+0046#STR0049#ALL#Landscape Format - Employee's information and Results  
+0047#STR0050#ALL#EMPLOYEE TOTAL:       
+0048#STR0051#ALL#COST CENTER TOTAL:        
+0049#STR0052#ALL#BRANCH TOTAL:    
+0050#STR0053#ALL#Select print option:
+0051#STR0054#ALL#Per Period
+0052#STR0055#ALL#Per Dates
+0053#STR0056#ALL#Department
+0054#STR0057#ALL#Attention!
+0055#STR0058#ALL#Start date is later than end date.
+0056#STR0059#ALL#The current date is later than the pending appointment period.
+0057#STR0060#ALL#Days
+0058#STR0061#ALL#Value
+0059#STR0062#ALL#OF DAYS
+0060#STR0063#ALL#OF VALUE

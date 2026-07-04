@@ -1,0 +1,29 @@
+0001#STR0001#ALL#Productividade por analista e equipe
+0002#STR0002#ALL#Exibe as informações de productividade do analista e equipe no período consultado
+0007#STR0007#ALL#Interacções
+0014#STR0014#ALL#Crítico
+0016#STR0016#ALL#Média
+0023#STR0023#ALL#Productivas
+0024#STR0024#ALL#Não Productivas
+0025#STR0025#ALL#Chamados registados
+0030#STR0030#ALL#Total de pedidos solucionados da Equipe
+0034#STR0034#ALL#Total de pedidos solucionados em até 24 horas
+0035#STR0035#ALL#Total de pedidos solucionados em até 48 horas
+0036#STR0036#ALL#Total de pedidos solucionados acima de 48 horas
+0037#STR0037#ALL#A classificar
+0040#STR0040#ALL#Até?
+0043#STR0043#ALL#Até Grupo ?
+0046#STR0046#ALL#Até o Analista ?
+0048#STR0048#ALL#Tipo de relatório ?
+0049#STR0049#ALL#Analítico
+0050#STR0050#ALL#Informe o tipo de relatório. Analítico exibe um relatório detalhado e sintético exibe um relatório apenas com os totais apurados.
+0051#STR0051#ALL#Indicador (Ch.Solucionado)
+0053#STR0053#ALL#Indicador (Iter.Productivas)
+0054#STR0054#ALL#Informe o indicador utilizado para identificar as interações productivas no atendimento.
+0055#STR0055#ALL#Indicador (Iter. não productivas)
+0056#STR0056#ALL#Informe o indicador utilizado para identificar as interações não productivas no atendimento.
+0060#STR0060#ALL#Informe o indicador utilizado para identificar a rejeição de uma FNC.
+0064#STR0064#ALL#Chamados solucionados no prazo do SLA
+0066#STR0066#ALL#Chamados solucionados no prazo do SLA com FNC
+0069#STR0069#ALL#Interações Não Produtivas
+0076#STR0076#ALL#Chamados Solucionados pela equipa sem FNC

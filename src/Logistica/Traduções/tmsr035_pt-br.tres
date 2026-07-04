@@ -1,0 +1,23 @@
+0001#STR0001#ALL#Relaçäo de Prazos de Regioes de Clientes
+0002#STR0002#ALL#Emissao de Prazos de Regioes de Clientes
+0003#STR0003#ALL#Ira imprimir os dados de Prazos e Regioes de Clientes
+0004#STR0004#ALL#de acordo com a configuracao do usuario.
+0005#STR0005#ALL#Relacao de Prazos de Regioes de Clientes
+0006#STR0006#ALL#Zebrado
+0007#STR0007#ALL#Administracao
+0008#STR0008#ALL# Reg.Ori. Desc.Origem     Reg.Des. Desc.Destino    Desc.Tp.Tran        Cliente Loja Nome Cliente    Tempo.De  Tempo.Ate
+0009#STR0009#ALL#*** CANCELADO PELO OPERADOR ***
+0010#STR0010#ALL#Relacao de Prazos de Regioes de Clientes
+0011#STR0011#ALL#Emissao de Prazos de Regioes de Clientes
+0012#STR0012#ALL#Itens
+0013#STR0013#ALL#Reg.Ori.
+0014#STR0014#ALL#Desc.Origem
+0015#STR0015#ALL#Reg.Des.
+0016#STR0016#ALL#Desc.Destino
+0017#STR0017#ALL#Tp.Tran.
+0018#STR0018#ALL#Desc.Tp.Tran.
+0019#STR0019#ALL#Cliente
+0020#STR0020#ALL#Loja
+0021#STR0021#ALL#Nome Cliente
+0022#STR0022#ALL#Tempo De
+0023#STR0023#ALL#Tempo Ate

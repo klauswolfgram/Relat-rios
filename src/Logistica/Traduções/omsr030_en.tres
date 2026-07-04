@@ -1,0 +1,34 @@
+0001#STR0001#ALL#Delivery Map
+0002#STR0002#ALL#This report will present the delivery map according
+0003#STR0003#ALL#to the parameters selected by the user
+0004#STR0004#ALL#DELIVERY  INVOICE    SER.   ORDER   CUSTOMER  NAME                 LOCATION                                  
+0005#STR0005#ALL#SEQUENCE
+0006#STR0006#ALL#LOAD    : 
+0007#STR0007#ALL#VEHICLE : 
+0008#STR0008#ALL#DRIVER  : 
+0009#STR0009#ALL#WEIGHT  :
+0010#STR0010#ALL#VOLUME M3 : 
+0011#STR0011#ALL#DELIVERY PTS : 
+0012#STR0012#ALL#VALUE : 
+0013#STR0013#ALL#DATE    :
+0014#STR0014#ALL# AT 
+0015#STR0015#ALL#PAYMENT MODE
+0016#STR0016#ALL#CUSTOMER:
+0017#STR0017#ALL#TOTAL =>
+0018#STR0018#ALL#SEQUENCE  INVOICE(1)    SER.  ORDER   CUSTOMER  NAME                 LOCATION                                 
+0019#STR0019#ALL#DELIVERY  
+0020#STR0020#ALL#PRODUCT                        DESCRIPTION                                 AMT             VALUE
+0021#STR0021#ALL#Not typed
+0022#STR0022#ALL# PAYMENT
+0023#STR0023#ALL#This report prints the delivery map according to the parameters entered by the user. The delivery map displays the delivery route of the outflow documents, as well as the amounts to be collected by the person responsible for the delivery. 
+0024#STR0024#ALL#Cargo
+0025#STR0025#ALL#Seq.
+0026#STR0026#ALL#Customer
+0027#STR0027#ALL#Payment mode      
+0028#STR0028#ALL#Not entered  
+0029#STR0029#ALL#Outflow document  
+0030#STR0030#ALL#Series
+0031#STR0031#ALL#St
+0032#STR0032#ALL#PymntTerm
+0033#STR0033#ALL#Item of outflow document  
+0034#STR0034#ALL#Delivery Docum.

@@ -1,0 +1,46 @@
+0001#STR0001#ALL#Relatorio de apresentacao dos fornecedores de EPI's 
+0002#STR0002#ALL#e numero do certificado de aprovacao do fornecedor. 
+0003#STR0003#ALL# Fornecedor/EPI
+0004#STR0004#ALL# EPI/Fornecedor 
+0005#STR0005#ALL#Zebrado
+0006#STR0006#ALL#Administracao
+0007#STR0007#ALL#Fornecedores de EPI's
+0008#STR0008#ALL#Fornecedor            Loja  Nome Do Fornecedor
+0009#STR0009#ALL#CANCELADO PELO OPERADOR
+0010#STR0010#ALL#SIM
+0011#STR0011#ALL#NAO
+0012#STR0012#ALL#EPI                                   Nome Do EPI                            C.A.            Avaliação    Validade   Dias Durabil.    Devolver
+0013#STR0013#ALL#EPI
+0014#STR0014#ALL#Nome do EPI
+0015#STR0015#ALL#C.A.
+0016#STR0016#ALL#Avaliação
+0017#STR0017#ALL#Validade
+0018#STR0018#ALL#Dias Durabil.
+0019#STR0019#ALL#Devolver
+0020#STR0020#ALL#Fornecedor
+0021#STR0021#ALL#Loja
+0022#STR0022#ALL#Nome do Fornecedor
+0023#STR0023#ALL#Quantidade
+0024#STR0024#ALL#Tamanho
+0025#STR0025#ALL#Aguarde
+0026#STR0026#ALL#Processando os Fornecedores de EPI...
+0027#STR0027#ALL#De Cliente ?
+0028#STR0028#ALL#Loja
+0029#STR0029#ALL#Até Cliente ?
+0030#STR0030#ALL#Cliente
+0031#STR0031#ALL#Nome
+0032#STR0032#ALL#Cliente: 
+0033#STR0033#ALL#Observação
+0034#STR0034#ALL#Uso
+0035#STR0035#ALL#Geral
+0036#STR0036#ALL#Tipo Durabil.
+0037#STR0037#ALL#De  Fornecedor ?
+0038#STR0038#ALL#Ate Fornecedor ?
+0039#STR0039#ALL#De  EPI ?
+0040#STR0040#ALL#Ate EPI ?
+0041#STR0041#ALL#Classificar Por ?
+0042#STR0042#ALL#Listar Especificação EPI ?
+0043#STR0043#ALL#Não
+0044#STR0044#ALL#Quant. Tam.    
+0045#STR0045#ALL#Fornecedor            Loja  Nome Do Fornecedor                         C.A.            Avaliação    Validade   Dias Durabil.    Devolver
+0046#STR0046#ALL#EPI                                   Nome Do EPI

@@ -1,0 +1,57 @@
+0001#STR0001#ALL#Relaçäo Liquidos ITAU    
+0002#STR0002#ALL#Será impresso de acordo com os parâmetros solicitados pelo
+0003#STR0003#ALL#usuário.
+0004#STR0004#ALL#Filial+Bco+Mat
+0005#STR0005#ALL#Filial+Bco+Cc+Mat
+0006#STR0006#ALL#Filial+Bco+Nome
+0007#STR0007#ALL#Filial+Bco+Cta
+0008#STR0008#ALL#Filial+Bco+Cc+Nome
+0009#STR0009#ALL#Bco+Mat
+0010#STR0010#ALL#Bco+Cc+Mat
+0011#STR0011#ALL#Bco+Nome
+0012#STR0012#ALL#Bco+Cta
+0013#STR0013#ALL#Bco+Cc+Nome
+0014#STR0014#ALL#Zebrado
+0015#STR0015#ALL#Administraçäo
+0016#STR0016#ALL#EMISSÄO RELAÇÄO DE LIQUIDO ITAU
+0017#STR0017#ALL#Selecionando Registros...
+0018#STR0018#ALL#Total de Pagamentos      
+0019#STR0019#ALL#Data          Assinatura do Emitente      Data           Assinatura do Respons.
+0020#STR0020#ALL#                    (Empresa)                            (Autorizada da Empresa)
+0021#STR0021#ALL#Sub-Total de Pagamentos  
+0022#STR0022#ALL#Data          Assinatura do Emitente      Data           Assinatura do Respons.
+0023#STR0023#ALL#                    (Empresa)                            (Autorizada da Empresa)
+0024#STR0024#ALL#BANCO ITAU S/A 
+0025#STR0025#ALL#Emissao de Cheques Pagamento
+0026#STR0026#ALL#Credito em Conta Corrente
+0027#STR0027#ALL#Sistema de Pagamentos Itau
+0028#STR0028#ALL#Forma Pagto| Empresa                       |Ag/Conta/Dac  | C.G.C.        |Folha
+0029#STR0029#ALL#No de Ordem | Data Pgto | Tipo Pgto | Finalidade do Pagamento
+0030#STR0030#ALL# PAGAMENTO DE SALARIOS
+0031#STR0031#ALL#Nome do favorecido                                                      Valor
+0032#STR0032#ALL#Agencia/Conta/Dac                     Valor       Nome do favorecido
+0033#STR0033#ALL#Adiantamento
+0034#STR0034#ALL#Folha
+0035#STR0035#ALL#1a.parc 13º
+0036#STR0036#ALL#2a.parc 13º
+0037#STR0037#ALL#Ferias
+0038#STR0038#ALL#Extras
+0039#STR0039#ALL#Rescisao
+0040#STR0040#ALL#___/___/___   ________________________    ___/___/___    _______________________
+0041#STR0041#ALL#Dados da Empresa/Filial
+0042#STR0042#ALL#Dados do Pagamento
+0043#STR0043#ALL#Dados e valores dos funcionarios
+0044#STR0044#ALL#No de Ordem
+0045#STR0045#ALL#Data Pgto 
+0046#STR0046#ALL#Tipo Pgto 
+0047#STR0047#ALL#Finalidade do Pagamento
+0048#STR0048#ALL#Forma Pagto
+0049#STR0049#ALL#Empresa
+0050#STR0050#ALL#Ag/Conta/Dac
+0051#STR0051#ALL#CNPJ
+0052#STR0052#ALL#Valor
+0053#STR0053#ALL#Esta rotina efetua a impressao dos valores liquidos que serao pagos atraves do Banco Itau
+0054#STR0054#ALL#Atenção
+0055#STR0055#ALL#Data de Pagamento De/Até está fora do Período De/Até informado, verificar as configurações informadas.
+0056#STR0056#ALL#Data de Pagamento está fora da Data de Pagamento De/Até informado, verificar as configurações informadas.
+0057#STR0057#ALL#Periodos ou Numeros de Pagamento invalidos, verifique as configurações informadas. Selecione os periodos através da consulta padrão

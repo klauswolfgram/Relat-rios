@@ -1,0 +1,46 @@
+0001#STR0001#ALL#Resultados dos Ensaios de Desempenho
+0002#STR0002#ALL#Gerando Visualizacao, Aguarde...
+0003#STR0003#ALL#      Aprovacao de Peca de Producao
+0004#STR0005#ALL#PPAP No.
+0005#STR0006#ALL#Pagina :
+0006#STR0007#ALL#Fornecedor
+0007#STR0008#ALL#Numero da Peca(Cliente)
+0008#STR0009#ALL#Revisao/Data Desenho
+0009#STR0010#ALL#Laboratorio
+0010#STR0011#ALL#Numero/Rev Peca(Fornecedor)
+0011#STR0012#ALL#Nome da Peca
+0012#STR0013#ALL#No. Car.
+0013#STR0014#ALL#No. Ref.
+0014#STR0015#ALL#Requisitos
+0015#STR0016#ALL#Freq
+0016#STR0017#ALL#Teste
+0017#STR0018#ALL#Qtde
+0018#STR0019#ALL#Ens
+0019#STR0020#ALL#Resultados dos Ensaios
+0020#STR0021#ALL#Ok
+0021#STR0022#ALL#Nao
+0022#STR0023#ALL#Assinatura do Fornecedor
+0023#STR0024#ALL#Data
+0024#STR0025#ALL#Cliente
+0025#STR0026#ALL#Assinatura do Cliente
+0026#STR0027#ALL#Sequencia :
+0027#STR0028#ALL#Deseja Imprimir Descricao da Caracteristica ?
+0028#STR0029#ALL#Confirma
+0029#STR0030#ALL#Descricao Caracteristica
+0030#STR0031#ALL#Codigo Vendedor
+0031#STR0032#ALL#Nivel de Alteracao do Projeto
+0032#STR0033#ALL#Alto
+0033#STR0034#ALL#Medio
+0034#STR0035#ALL#Baixo
+0035#STR0036#ALL#Documentos Alterados pela Engenharia
+0036#STR0037#ALL#Data Desenho
+0037#STR0038#ALL#Especificao
+0038#STR0039#ALL#    Limites  
+0039#STR0040#ALL#Condicoes de Teste
+0040#STR0041#ALL#Declarações de conformidade em branco são inaceitáveis para quaisquer resultado de ensaio.
+0041#STR0042#ALL#Marco
+0042#STR0043#ALL#Assinatura
+0043#STR0044#ALL#Função
+0044#STR0045#ALL#Ensaio
+0045#STR0046#ALL#Atenção !
+0046#STR0047#ALL#Não há dados a serem impressos. Verifique os parâmetros !

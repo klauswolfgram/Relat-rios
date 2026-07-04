@@ -1,0 +1,49 @@
+0001#STR0001#ALL#FORM OF WORK ENVIRONMENT RECOGNITION
+0002#STR0002#ALL#Through parameters, select the items to be considered 
+0003#STR0003#ALL#in the report.
+0004#STR0004#ALL#Z-form
+0005#STR0005#ALL#Management
+0006#STR0006#ALL#Customer?
+0007#STR0007#ALL#Store
+0008#STR0008#ALL#Report?
+0009#STR0009#ALL#Notes?
+0010#STR0010#ALL#Print Luminosity?
+0011#STR0011#ALL#Yes
+0012#STR0012#ALL#No
+0013#STR0013#ALL#Print Noise?
+0014#STR0014#ALL#Enter customer code to print Form of Work Environment Recognition.
+0015#STR0015#ALL#Enter store concerning customer to print Form of Work Environment Recognition.
+0016#STR0016#ALL#Enter report to be considered in print.
+0017#STR0017#ALL#Enter the code of descriptive term to be used as note in print.
+0018#STR0018#ALL#Indicate if you want to print the amount of agent for luminosity risks.
+0019#STR0019#ALL#Indicate if you want to print the amount of agent for noise risks.
+0020#STR0020#ALL#Luminosity
+0021#STR0021#ALL#Noise
+0022#STR0022#ALL#Cost Center
+0023#STR0023#ALL#Surv. Date
+0024#STR0024#ALL#Noise
+0025#STR0025#ALL#Notes
+0026#STR0026#ALL#Detected Risks
+0027#STR0027#ALL#Physical
+0028#STR0028#ALL#Ecological
+0029#STR0029#ALL#Biological
+0030#STR0030#ALL#Ergonomic
+0031#STR0031#ALL#Accident
+0032#STR0032#ALL#Risk Description
+0033#STR0033#ALL#Generating Sources
+0034#STR0034#ALL#CHEMICAL
+0035#STR0035#ALL#BIOLOGICAL
+0036#STR0036#ALL#ERGONOMIC
+0037#STR0037#ALL#Existing Functions
+0038#STR0038#ALL#Workers
+0039#STR0039#ALL#Male
+0040#STR0040#ALL#Female
+0041#STR0041#ALL#Measurements of Control in Work Place
+0042#STR0042#ALL#Agent
+0043#STR0043#ALL#Description
+0044#STR0044#ALL#Selecting Records...
+0045#STR0045#ALL#Luminosity/Noise -
+0046#STR0046#ALL#Select valid Agents as 
+0047#STR0047#ALL#Luminosity/Noise
+0048#STR0048#ALL#ATTENTION
+0049#STR0049#ALL#At least one agent must be selected

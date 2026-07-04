@@ -1,0 +1,44 @@
+0001#STR0001#ALL#Conclusion Term       - Telemarketing
+0002#STR0002#ALL#This program will issue a list of Calls
+0003#STR0003#ALL#accomplished by the operator during Telemarketing
+0004#STR0004#ALL#according to the parameters established
+0005#STR0005#ALL#Z-Form
+0006#STR0006#ALL#Administration
+0007#STR0007#ALL#CANCELLED BY OPERATOR
+0008#STR0008#ALL#Not found in file...         
+0009#STR0009#ALL#Not informed during servicing..
+0010#STR0010#ALL#No data to be printed on this report with the parameters entered.                   
+0011#STR0011#ALL#Total of servicings registered for the period from  
+0012#STR0012#ALL# to 
+0013#STR0013#ALL#EVALUATION OF PERIOD TIMES (DAYS)    
+0014#STR0014#ALL#Conclusion maximum term     
+0015#STR0015#ALL#Conclusion minimum term     
+0016#STR0016#ALL#Conclusion average time    
+0017#STR0017#ALL#CONCLUSION REASON                                                               ACTIV.      %
+0018#STR0018#ALL#CONCLUSION REASON                                                           RECEPTIVE       %
+0019#STR0019#ALL#CONCLUSION REASON                                                               ACTIV.      %          RECEPTIVE       %            TOTAL       %
+0020#STR0020#ALL#DATE      CONCLUSION REASON                                                     ACTIV
+0021#STR0021#ALL#DATE      CONCLUSION REASON                                                 RECEPTIVE
+0022#STR0022#ALL#DATE      CONCLUSION REASON                                                     ACTIV.                 RECEPTIVE                    TOTAL
+0023#STR0023#ALL#OPERATOR                                                                        AVER.  DEVIA.             MAXIM.                   MINIM.
+0024#STR0024#ALL#                                                                               (DAYS)  (DAYS)             (DAYS)                   (DAYS)
+0025#STR0025#ALL#OPERATOR                                                                        CONCLUSION REASON                                                               ACTIV.      %
+0026#STR0026#ALL#OPERATOR                                                                        CONCLUSION REASON                                                           RECEPTIVE       %
+0027#STR0027#ALL#OPERATOR                                                                        CONCLUSION REASON                                                  ACTIV.      %          RECEPTIVE       %            TOTAL       %
+0028#STR0028#ALL#TOTAL
+0029#STR0029#ALL#REASON FOR FINISHING  
+0030#STR0030#ALL#ACTIVE
+0031#STR0031#ALL#RECEPTIVE
+0032#STR0032#ALL#DATE
+0033#STR0033#ALL#OPERATOR
+0034#STR0034#ALL#AVERAG(DAYS)
+0035#STR0035#ALL#DEVIAT.(DAYS)
+0036#STR0036#ALL#MAXIMUM(DAYS)
+0037#STR0037#ALL#MINIMUM(DAYS)
+0038#STR0038#ALL#GEN.AVERAGE
+0039#STR0039#ALL#Telemarketing header      
+0040#STR0040#ALL#Telemarketing items   
+0041#STR0041#ALL#Reason
+0042#STR0042#ALL#Date vs.Reas.
+0043#STR0043#ALL#Operator x Maximum x Minimum
+0044#STR0044#ALL#Reason vs. Active

@@ -1,0 +1,31 @@
+0001#STR0001#ALL#LIST OF TRAININGS BY DEPARTMENT       
+0002#STR0002#ALL#This program will print a list of trainings             
+0003#STR0003#ALL#department, separating them by documents and users      
+0004#STR0004#ALL#listing entry and processing dates 
+0005#STR0005#ALL#Z.Form 
+0006#STR0006#ALL#Management   
+0007#STR0007#ALL#Selecting Records...    
+0008#STR0008#ALL#TRAINNING                       FUNCTION             NUMBER/YEAR DT.REQUEST      DT.ACCOMPLISHMENT  PARTICIPANT JUSTIFICATION
+0009#STR0009#ALL#                                                                                                                           
+0010#STR0010#ALL#CANCELLED BY OPERATOR  
+0011#STR0011#ALL#Department:   
+0012#STR0012#ALL#Document:  
+0013#STR0013#ALL#Accomplish./Pending 
+0014#STR0014#ALL#Training:    
+0015#STR0015#ALL#Accompl. 
+0016#STR0016#ALL#Pending  
+0017#STR0017#ALL#Yes
+0018#STR0018#ALL#No
+0019#STR0019#ALL#TRAINNING                       FUNCTION             NUMBER/YEAR DT.REQUEST      DT.ACCOMPLISHMENT  
+0020#STR0020#ALL#                                                                                             
+0021#STR0021#ALL#From dept. branch?
+0022#STR0022#ALL#To dept. branch?  
+0023#STR0023#ALL#Training 
+0024#STR0024#ALL#Function
+0025#STR0025#ALL#Number/Yr.
+0026#STR0026#ALL#Request date   
+0027#STR0027#ALL#Perform. date 
+0028#STR0028#ALL#Participant 
+0029#STR0029#ALL#Justification
+0030#STR0030#ALL#Department  
+0031#STR0031#ALL#Trainee  

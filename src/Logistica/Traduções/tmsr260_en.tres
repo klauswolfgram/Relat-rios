@@ -1,0 +1,23 @@
+0001#STR0001#ALL#LIST OF DRIVERS (TELERISCO)
+0002#STR0002#ALL#Issue the list of drivers (Telerisco),
+0003#STR0003#ALL#according to parameters input
+0004#STR0004#ALL#Z-form 
+0005#STR0005#ALL#Management   
+0006#STR0006#ALL#Selecting records...
+0007#STR0007#ALL#Selecting records DUP...
+0008#STR0008#ALL#Selecting records DTQ...
+0009#STR0009#ALL#DRIVER                                     I D               C.P.F.                ST  COD   BRC                      GOODS VALUE  /
+0010#STR0010#ALL#                                                                                  DES  SEC  DEST   MANISFEST          FOLLOW-UP     
+0011#STR0011#ALL#Trip Branch : 
+0012#STR0012#ALL#Vehicle total
+0013#STR0013#ALL#Origin total 
+0014#STR0014#ALL#CANCELED BY OPERATOR
+0015#STR0015#ALL#List of Drivers (Telerisco)
+0016#STR0016#ALL#Issues list of drivers (Telerisco) according to parameters entered
+0017#STR0017#ALL#Drivers
+0018#STR0018#ALL#Trip Bran.
+0019#STR0019#ALL#Description
+0020#STR0020#ALL#Driver
+0021#STR0021#ALL#Dest.State
+0022#STR0022#ALL#Seg.Cod.
+0023#STR0023#ALL#Total Driver

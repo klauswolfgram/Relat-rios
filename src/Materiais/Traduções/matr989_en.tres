@@ -1,0 +1,20 @@
+0001#STR0001#ALL#Processing Balance (Detailed)
+0002#STR0002#ALL#Generation of detailed Process Balance. Total values will be printed according 
+0003#STR0003#ALL#to the requisitions and returns to the production order with pending balance.
+0004#STR0004#ALL#Note: Only processing balances in manual requisitions.
+0005#STR0005#ALL#CODE
+0006#STR0006#ALL#MU
+0007#STR0007#ALL#LOCATION
+0008#STR0008#ALL#ORDER
+0009#STR0009#ALL#PRODUCTION
+0010#STR0010#ALL#QTY IN
+0011#STR0011#ALL#VALUE IN
+0012#STR0012#ALL#PROCESS
+0013#STR0013#ALL#DESCRIPTION
+0014#STR0014#ALL#GRAND TOTAL
+0015#STR0015#ALL#ATTENTION
+0016#STR0016#ALL#When changing the warehouse, the unified average cost will not be considered.
+0017#STR0017#ALL#Confirm
+0018#STR0018#ALL#Quit
+0019#STR0019#ALL#TYPE
+0020#STR0020#ALL#REC/RET

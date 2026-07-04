@@ -1,0 +1,33 @@
+0001#STR0001#ALL#Este programa imprimira el Diario General por Documento Fiscal
+0002#STR0002#ALL#de acuerdo con los parametros sugeridos por el usuario.
+0003#STR0003#ALL#.
+0004#STR0004#ALL#A Rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#Emision Diario Gral. por Documento Fiscal 
+0007#STR0007#ALL#            C U E N T A                   H I S T O R I A L                        NUMERO                         V  A  L  O  R
+0007#STR0007#ANG#            C U E N T  A                  H I S T O R I A L                        NUMERO                         V  A  L  O  R
+0007#STR0007#EQU#            C U E N T  A                  H I S T O R I A L                        NUMERO                         V  A  L  O  R
+0007#STR0007#HAI#            C U E N T  A                  H I S T O R I A L                        NUMERO                         V  A  L  O  R
+0007#STR0007#MEX#            C U E N T  A                  H I S T O R I A L                        NUMERO                         V  A  L  O  R
+0007#STR0007#PTG#            C U E N T  A                  H I S T O R I A L                        NUMERO                         V  A  L  O  R
+0008#STR0008#ALL#D E B I T O          C R E D I T O                                                 ASIENTO                     DEBITO        CREDITO
+0008#STR0008#ANG#D E B I T O          C R E D I T O                                                 ASIENTO                     DEBITO        CREDITO
+0008#STR0008#EQU#D E B I T O          C R E D I T O                                                 ASIENTO                     DEBITO        CREDITO
+0008#STR0008#HAI#D E B I T O          C R E D I T O                                                 ASIENTO                     DEBITO        CREDITO
+0008#STR0008#MEX#C A R G O            A B O N O                                                     ASIENTO                     CARGO         ABONO  
+0008#STR0008#PTG#D E B I T O          C R E D I T O                                                 ASIENTO                     DEBITO        CREDITO
+0009#STR0009#ALL#DE DIARIO GRAL. DOC. FISCAL 
+0010#STR0010#ALL# A 
+0011#STR0011#ALL# EN 
+0012#STR0012#ALL#***** ANULADO POR EL OPERADOR *****
+0013#STR0013#ALL#A Transportar =======>
+0014#STR0014#ALL#De Transporte =======>
+0015#STR0015#ALL#Totales del dia =======>
+0016#STR0016#ALL#Totales del mes =======>
+0017#STR0017#ALL#Total Gral. ===========>
+0018#STR0018#ALL#Numero Asto. 
+0019#STR0019#ALL#Vlr. Debito
+0020#STR0020#ALL#Vlr. Credito
+0021#STR0021#ALL#Asientos Contables   
+0022#STR0022#ALL#Para esta version del informe la cantidad de lineas no puede ser mayor a 
+0023#STR0023#ALL# lineas

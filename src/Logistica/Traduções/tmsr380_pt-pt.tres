@@ -1,0 +1,21 @@
+0001#STR0001#ALL#Relação De Veiculos A Autorizar Por Escala
+0002#STR0002#ALL#Emite A Relação De Veiculos A Autorizar Por Escala
+0003#STR0003#ALL#Cofacturaorme os parâmetros escolhidos
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#                            ** chegada **        * autorização *       *** veiculo ***      ** reboque 1 **      ** reboque 2 **  
+0007#STR0007#ALL#Origem viagem    filial    data        hora     data        hora     código    placa       código    placa       código    placa       condutor  
+0008#STR0008#ALL#A Seleccionar Registo No Dtw...
+0009#STR0009#ALL#Cancelado Pelo Operador
+0010#STR0010#ALL#Escala: 
+0011#STR0011#ALL#Total de viagem(s) ===> 
+0012#STR0012#ALL#Total geral de viagem(s) ===> 
+0013#STR0013#ALL#Relação De Veiculos A Autorizar Por Escala
+0014#STR0014#ALL#Emitir a relação de veículos a autorizar por escala, conforme os parâmetros digitados
+0015#STR0015#ALL#Fil.actividade + Fil.origem
+0016#STR0016#ALL#Fil. Actividade
+0019#STR0019#ALL#Fil.origem
+0023#STR0023#ALL#Data Aprov.
+0024#STR0024#ALL#Hora Aprov.
+0026#STR0026#ALL#Matrícula
+0030#STR0030#ALL#Total Da Viagem

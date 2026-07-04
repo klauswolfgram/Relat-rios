@@ -1,0 +1,22 @@
+0001#STR0001#ALL#Detalle de gastos financieros
+0002#STR0002#ALL#Este informe imprimira el detalle de gtos financieros de los
+0003#STR0003#ALL#apuntes de visitas de acuerdo con los parametros seleccionados
+0004#STR0004#ALL#A Rayas
+0005#STR0005#ALL#Administrac.
+0006#STR0006#ALL#SECUENC / ITEM  FECHA       PRODUCTO         DESCRIPCION                         CANTIDAD          VLR. UNIT          VALOR  SITUAC.       
+0007#STR0007#ALL#Vendedor   : 
+0008#STR0008#ALL#Proveedor  : 
+0009#STR0009#ALL#Vendedor: 
+0010#STR0010#ALL#PENDIEN.
+0011#STR0011#ALL#GENER.
+0012#STR0012#ALL#Valor falencia : 
+0013#STR0013#ALL#Valor total : 
+0014#STR0014#ALL#Lista de gastos financieros
+0015#STR0015#ALL#Este informe imprimira la lista de gastos financieros 
+0016#STR0016#ALL#de apuntes de visitas conforme los parametros selecionados
+0017#STR0017#ALL#PENDIEN.
+0018#STR0018#ALL#GENER.
+0019#STR0019#ALL#Tot. del Vendedor
+0020#STR0020#ALL#Situac.
+0021#STR0021#ALL#Encabez.-Contacto/Visita
+0022#STR0022#ALL#Detalles-Apunte de Costos

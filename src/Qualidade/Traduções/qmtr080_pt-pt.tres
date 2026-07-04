@@ -1,0 +1,16 @@
+0001#STR0001#ALL#Este programa irá emitir o relatório de referencia 
+0002#STR0002#ALL#Cruzada entre padrões e instrumentos
+0003#STR0003#ALL#Ref. Cruzada: Padrão X Instrumento
+0004#STR0004#ALL#Padrão           Ver. Descrição                      Faixa            Instrumento      Ver. Família          Dept.         Utilizador
+0005#STR0005#ALL#Código de barras
+0006#STR0006#ALL#Administração
+0007#STR0007#ALL#Cancelado Pelo Operador
+0008#STR0008#ALL#A seleccionar registos. . .
+0009#STR0009#ALL#Legenda Responsável/departamento
+0010#STR0010#ALL#Código            Nome                                     N.reduz
+0011#STR0011#ALL#Código            Departamento
+0012#STR0012#ALL#Código
+0016#STR0016#ALL#Rev.
+0017#STR0017#ALL#Intervalo
+0018#STR0018#ALL#Padrão X Instrumento
+0020#STR0020#ALL#Legenda - Utilizadores

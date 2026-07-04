@@ -1,0 +1,38 @@
+0001#STR0001#ALL#This report will print the ABC budget curves according to the requested parameters
+0002#STR0002#ALL#Budget ABC Curves
+0003#STR0003#ALL#BUDGET+PRODUCT+EXPENSE
+0004#STR0004#ALL#TASK+PRODUCT+EXPENSE
+0005#STR0005#ALL#TASK
+0006#STR0006#ALL#COMPOSITION
+0007#STR0007#ALL#SUB-COMPOSITION
+0008#STR0008#ALL#Z.Form
+0009#STR0009#ALL#Administration
+0010#STR0010#ALL#CODE AND DESCRIPTION                                          UM       QUANTITY   UNIT VALUE     VALUE    TOTAL PERCENTAG%   ACCRUED
+0011#STR0011#ALL#Typ.     Code                    Description                     UM         Quantity               Value         %Proj.     %Accr.
+0012#STR0012#ALL#Budget Resources ABC Curve
+0013#STR0013#ALL#Tarsk        Description          Code Type            Description          UM      Quantity             Value      %Proj.  %Accr.
+0014#STR0014#ALL#Task           Description                                                    UM    Quantity             Cost       %Proj.  %Accr.
+0015#STR0015#ALL#Budget Task ABC Curve
+0016#STR0016#ALL#Composition    Description                                                    UM    Quantity             Cost       %Proj.  %Accr.
+0017#STR0017#ALL#Budget Composition ABC Curve
+0018#STR0018#ALL#Sub-Compos.    Description                                                    UM                         Cost       %Proj.  %Accr.
+0019#STR0019#ALL#Budget Sub-Composition ABC Curve
+0020#STR0020#ALL#Budget
+0021#STR0021#ALL#Total.....
+0022#STR0022#ALL#OTHERS
+0023#STR0023#ALL#Task Code                         Tp. Code             Descript.            UM      Quantity             Value      %Proj.  %Accr.
+0024#STR0024#ALL#Task Description                  Tp. Code             Description          UM      Quantity             Value      %Proj.  %Accr.
+0025#STR0025#ALL#Task Code                                                                     UM    Quantity             Cost       %Proj.  %Accr.
+0026#STR0026#ALL#Task Description                                                              UM    Quantity             Cost       %Proj.  %Accr.
+0027#STR0027#ALL#Order
+0028#STR0028#ALL#Type
+0029#STR0029#ALL#Value
+0030#STR0030#ALL#Proj.
+0031#STR0031#ALL#Accr.
+0032#STR0032#ALL#Quotation + Product + Expense
+0033#STR0033#ALL#Task + Product + Expense  
+0034#STR0034#ALL#Task  
+0035#STR0035#ALL#Composition
+0036#STR0036#ALL#Sub-composition
+0037#STR0037#ALL#Order: 
+0038#STR0038#ALL#*** CANCELLED BY THE USER  ***

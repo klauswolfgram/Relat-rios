@@ -1,0 +1,38 @@
+0001#STR0001#ALL#Inspection Plan
+0002#STR0002#ALL#On This report tests to be performed will be listed in each             
+0003#STR0003#ALL#laboratory to validate the Inflow.          
+0004#STR0004#ALL#Z-Form
+0005#STR0005#ALL#Administration
+0006#STR0006#ALL#Yes
+0007#STR0007#ALL#No
+0008#STR0008#ALL#LABORATORY ==> 
+0009#STR0009#ALL#Meas. Un.
+0010#STR0010#ALL#Nominal
+0011#STR0011#ALL#L.I.E.
+0012#STR0012#ALL#L.S.E.
+0013#STR0013#ALL#PL. 
+0014#STR0014#ALL#A/I
+0015#STR0015#ALL#ST
+0016#STR0016#ALL#Selecting Records...
+0017#STR0017#ALL#Last Inflows:    
+0018#STR0018#ALL#Inflow Date 
+0019#STR0019#ALL#Lot
+0020#STR0020#ALL#SkipLot
+0021#STR0021#ALL#Certificate
+0022#STR0022#ALL#Inflow Doc.
+0023#STR0023#ALL#Sample Lot........: 
+0024#STR0024#ALL#     Tester     
+0025#STR0025#ALL#                                     M E A S U R E M E N T S                   
+0026#STR0026#ALL#Certificate : 
+0027#STR0027#ALL#Vendor?             
+0028#STR0028#ALL#Vendor store?       
+0029#STR0029#ALL#Product?            
+0030#STR0030#ALL#From Laboratory?    
+0031#STR0031#ALL#To Laboratory?      
+0032#STR0032#ALL#Consider Inflows?   
+0033#STR0033#ALL#Lines for Measurem.?
+0034#STR0034#ALL#Regular
+0035#STR0035#ALL#Processing    
+0036#STR0036#ALL#Return   
+0037#STR0037#ALL#Header   
+0038#STR0038#ALL#Last inflows    

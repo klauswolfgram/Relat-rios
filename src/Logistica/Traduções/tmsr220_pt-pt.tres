@@ -1,0 +1,25 @@
+0001#STR0001#ALL#Relação Da Utilização    Mensal Da Frota
+0002#STR0002#ALL#Emite Relação Da Utilização    Mensal Da Frota
+0003#STR0003#ALL#Cofacturaorme os parâmetros escolhidos
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#A Seleccionar Registos...
+0007#STR0007#ALL#A Seleccionar Registo No Dtq...
+0008#STR0008#ALL#                                                        *-------------------peso-----------------*  Margem De     Aproveit.   Km
+0009#STR0009#ALL#Veiculo   Placa       Capac. Viagem Qtde.doc. Qtde.vol.         Real       Cubado          Cobrado  Aproveit.     De Peso   Rodada
+0010#STR0010#ALL#Tipo de veiculo: 
+0011#STR0011#ALL#Frota: 
+0012#STR0012#ALL#Cancelado Pelo Operador
+0013#STR0013#ALL#Total da frota ===> 
+0014#STR0014#ALL#Total tipo veiculo ===> 
+0015#STR0015#ALL#Total geral ===> 
+0016#STR0016#ALL# * = veiculos com reboque auxiliar 
+0017#STR0017#ALL#Frota: 
+0018#STR0018#ALL#Relação Da Utilização    Mensal Da Frota
+0019#STR0019#ALL#Emitir relação de utilização mensal da frota conforme os parâmetros indicados
+0020#STR0020#ALL#Frota + Tipo De Veículo + Veículo
+0022#STR0022#ALL#Tipo De Veículo
+0028#STR0028#ALL#Km Rodados
+0029#STR0029#ALL#Total Da Frota
+0030#STR0030#ALL#Total Tipo De Veículo
+0032#STR0032#ALL#* = Veículos Com Reboque Auxiliar

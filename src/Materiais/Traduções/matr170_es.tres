@@ -1,0 +1,114 @@
+0001#STR0001#ALL#Este programa emitira el Boletin de Entrada.  
+0002#STR0002#ALL#Boletin de Entrada
+0003#STR0003#ALL#A Rayas
+0004#STR0004#ALL#Administrac. 
+0005#STR0005#ALL#ANULADO POR EL OPERADOR
+0006#STR0006#ALL#------------------------------------------------------- DATOS DE LA FACTURA  -------------------------------------------------------
+0007#STR0007#ALL#Codigo Material|UN|Descr.de Mercaderia | Cantidad  |Vlr.Unitario|Valor Total |IPI  |ICMS |
+0008#STR0009#ALL#Cta. Contable 
+0009#STR0010#ALL#Centro Costo 
+0010#STR0011#ALL#TES|CFOP |
+0011#STR0012#ALL#Costo Unit. 
+0012#STR0013#ALL#Costo Total 
+0013#STR0014#ALL#Sin Pedido de Compra
+0014#STR0015#ALL#------------------------------------------- PRODUCTO(S) ENVIADOS(S) AL CONTROL DE CALIDAD  -----------------------------------------
+0015#STR0016#ALL#Produc.              |        Depos. Origen          |       Depos. Destino       |   Fecha Transferencia     |     Numero del CC.  
+0016#STR0019#ALL#--------------------------------------------- DIVERGENCIAS CON EL PEDIDO DE COMPRA -------------------------------------------------
+0017#STR0020#ALL#Div|Numero     |Descrip. del Prod.|Cantidad   |Prec. Unitar.| Emision  | Entrega  |   S.C.  |Solicitante    | C.Costo |Cond.Pago    
+0018#STR0023#ALL#------------------------------------------------------- TOTALES DE FACTURA ---------------------------------------------------------
+0019#STR0024#ALL# BASE DE CALCULO ICMS|  VALOR DE ICMS      |BASE CALC.ICMS SUST. |  VALOR ICMS SUST.    |VALOR TOTAL DE PRODUCTOS|    DESCUENTOS    
+0020#STR0025#ALL#  VALOR DEL FLETE       |      VALOR DEL SEGURO   | OTROS GASTOS SUPLEMENT.|   VALOR TOTAL DE IPI    |   VALOR TOTAL DE FACTURA     
+0021#STR0026#ALL#--------------------------------------------------- DESGLOS. FACT. DE CREDITO  -----------------------------------------------------
+0022#STR0027#ALL#Ser|Titulo/Cuot. | Vencto   |Valor de Titulo  | Modalid.          ||Ser|Titulo/Cuot. | Vencto   |Valor de Titulo  | Modalid.        
+0023#STR0030#ALL#----------------------------------------------- ESTADO DE LIBROS FISCALES ----------------------------------------------------------
+0024#STR0031#ALL#|                                |   Operac. c/credito de Impuesto     |            Operaciones s/credito de Impues.                |
+0025#STR0032#ALL#|    |CFOP |Alic| Valor Contable | Base de Calculo  |     Impuesto     |     Exentas      |      Otras       |     Observacion      |
+0026#STR0033#ALL#------------------------------------------------------------------- VISTOS ---------------------------------------------------------
+0027#STR0034#ALL#| Cobranza Fiscal               | Contable/Costos                | Departamento Fiscal              | Administracion               |
+0028#STR0035#ALL#Usuario: 
+0029#STR0036#ALL#Fecha Base: 
+0030#STR0037#ALL#BOLETIN DE ENTRADA      Material recibido en: 
+0031#STR0038#ALL# - (Devoluc.)
+0032#STR0039#ALL#Datos del Cliente                                                |Factura           | Espec| Tipo de Factura   | Emision  | Vencto
+0033#STR0040#ALL#Diversos
+0034#STR0041#ALL#| Valor Total   
+0035#STR0042#ALL#-------------------------------------------------- LISTA DE IMPUESTOS POR ITEM  ----------------------------------------------------
+0036#STR0043#ALL#Dados del Proveedor                                                  |Factura       | Espec| Tipo de Factura | Emision  | Vencto
+0037#STR0044#ALL#Codigo Material|UN|Descr.de Mercaderia |Cantidad   |Vlr.Unitario| Valor Total            | 
+0038#STR0045#ALL#  VALOR DE FLETE        |      VALOR DE SEGURO    | OTROS GASTOS SUPLEMENT.|    VALOR TOTAL FACTURA  |                              
+0039#STR0046#ALL# BASE DE CAL. IMPUES.|  VALOR DE IMPUESTOS |                                            |VL. TOTAL DE LOS PRODUC.|    DESCUENTOS    
+0040#STR0047#ALL#N. 
+0041#STR0048#ALL#Fecha Impresion
+0042#STR0049#ALL#Hora Ref. 
+0043#STR0050#ALL#|     PRODUCTO     |               DESCRIPCION                | IMP |  ALIQ  |     BASE DE CALCULO     |      VALOR DO IMPOSTO      
+0044#STR0051#ALL#Normal            
+0045#STR0052#ALL#Devoluc.          
+0046#STR0053#ALL#Beneficio         
+0047#STR0054#ALL#Complemento ICMS  
+0048#STR0055#ALL#Complemento IPI   
+0049#STR0056#ALL#Compl.Precio/Flete
+0050#STR0057#ALL#Datos del Proveedor                                                  | Factura          | Espec| Tipo de Factura  | Emision  | Vencto
+0051#STR0058#ALL#Div|Numero     |Descripc.de Producto| Cantidad  |Prec. Unitar.| Emision  | Entrega  |   S.C.     |Solicitante    | C.Costo |Cond.Pago    
+0052#STR0059#ALL#----------------------------------------------- ESTADO DE LOS DEMAS IMPUESTOS ------------------------------------------------------
+0053#STR0060#ALL#|                   | Base de Calculo  |     Impuesto      |                                                                          
+0054#STR0061#ALL#------------------------------------------------------- ENTES CONTABLES --------------------------------------------------------------
+0055#STR0062#ALL#Item Fac| Item | %Prorr| Centro de Costo | Cuenta Contable      | Item Cuenta| Clase Valor  
+0056#STR0063#ALL#Codigo Material|UN|Descr. Mercaderia|Ac|Cantidad   |Vlr.Unitario|Valor Total |IPI  |ICMS |	
+0057#STR0064#ALL#Codigo Material|UN|Descr. Mercaderia|Ac|Cantidad   |Vlr.Unitario| Valor Total            | 
+0058#STR0065#ALL#Material Recibido en: 
+0059#STR0066#ALL#Datos del Proveedor
+0060#STR0067#ALL#Base de Calculo Imp.
+0061#STR0068#ALL#Valor de Impuestos
+0062#STR0069#ALL#Base de Calculo
+0063#STR0070#ALL#Impues.
+0064#STR0071#ALL#Exentas
+0065#STR0072#ALL#Otras 
+0066#STR0073#ALL#Observac. 
+0067#STR0074#ALL#Descripc.
+0068#STR0075#ALL#Imp
+0069#STR0076#ALL#Alic
+0070#STR0077#ALL#Valor de impues.
+0071#STR0078#ALL#Datos del Cliente
+0072#STR0079#ALL#Err
+0073#STR0080#ALL#RET  
+0074#STR0081#ALL#Compl
+0075#STR0082#ALL#OBS. 
+0076#STR0083#ALL#PIS CALCULO 
+0077#STR0084#ALL#COFINS CALCULO 
+0078#STR0085#ALL#------------------------------------------------------- ITEMS DE LA FACTURA --------------------------------------------------------
+0079#STR0086#ALL#IPI
+0080#STR0087#ALL#ISS
+0081#STR0088#ALL#ICMS
+0082#STR0089#ALL#Encabez. de Boletin (Parte 2)
+0083#STR0090#ALL#Encabez. de Boletin (Parte 1)
+0084#STR0091#ALL#Datos Empresa/Sucursal
+0085#STR0092#ALL#Proveedor (Parte 1)
+0086#STR0093#ALL#Proveedor (Parte 2)
+0087#STR0094#ALL#Cliente (Parte 1)
+0088#STR0095#ALL#Cliente (Parte 2)
+0089#STR0096#ALL#Encabezam. de documentos de entrada
+0090#STR0097#ALL#Items de documentos de entrada
+0091#STR0098#ALL#Entes Contables
+0092#STR0099#ALL#Prod. enviados al CC
+0093#STR0100#ALL#Divergencia con Pedido de Compra
+0094#STR0101#ALL#Totales de Factura (Parte 1)
+0095#STR0102#ALL#Totales de Factura (Parte 2)
+0096#STR0103#ALL#Ctas. p. Pagar
+0097#STR0104#ALL#Lib. Fiscales
+0098#STR0105#ALL#Otros Impuestos
+0099#STR0106#ALL#Libros Fiscales (Localiz.)
+0100#STR0107#ALL#Datos del Cliente                                        |Factura                   | Espec| Tipo de Factura   | Emision  | Vencto
+0101#STR0108#ALL#Datos del Proveedor                                          | Factura                  | Espec| Tipo de Factura  | Emision  | Vencto
+0102#STR0109#ALL#Ser|Titulo/Cuot.         | Vencto   |Valor de Titulo  | Modalid.  ||Ser|Titulo/Cuot.         | Vencto   |Valor de Titulo  | Modalid.
+0103#STR0110#ALL#TES
+0104#STR0111#ALL#UM
+0105#STR0112#ALL#%IPI
+0106#STR0113#ALL#%ICMS
+0107#STR0114#ALL#CFO
+0108#STR0115#ALL#No hay
+0109#STR0116#ALL#Cant.
+0110#STR0117#ALL#Atencion
+0111#STR0118#ALL#Funcionalidad no disponible para el informe.
+0112#STR0119#ALL#Compl. Precio
+0113#STR0120#ALL#Compl. Cantidad
+0114#STR0121#ALL#Compl. Flete

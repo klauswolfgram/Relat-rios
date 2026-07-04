@@ -1,0 +1,15 @@
+0001#STR0001#ALL#Relatório de projecção para substituir os EPIs. Através dos parâmetros, o    
+0002#STR0002#ALL#Utilizador deve informar o período desejado e se desejar o epi, o programa mostrara
+0003#STR0003#ALL#uma relação com os EPIs por Colaborador e a data da próxima substituição.      
+0004#STR0004#ALL#Código de barras
+0006#STR0006#ALL#Projecção para substituir os EPIs
+0012#STR0012#ALL#Cancelado Pelo Operador
+0013#STR0013#ALL#Função Entrega - 
+0014#STR0014#ALL#De cliente ?
+0016#STR0016#ALL#Até cliente ?
+0017#STR0017#ALL#Cliente/loja: 
+0019#STR0019#ALL#Classificação ?
+0032#STR0032#ALL#Ordenar funç.?
+0035#STR0035#ALL#Informe se deseja ordenar os empregados pelo Número da Matrícula ou pelo Nome.
+0036#STR0036#ALL#De Filial? 
+0044#STR0044#ALL#Informe se deseja listar apenas os epi's a serem devolvidos, os que devem ser substituídos, ou ambos.

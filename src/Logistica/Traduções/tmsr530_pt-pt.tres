@@ -1,0 +1,29 @@
+0001#STR0001#ALL#Movimento De Custo De Transporte
+0002#STR0002#ALL#Emitir Relação De Movimento De Custo De Transporte
+0003#STR0003#ALL#Conforme os parâmetros indicados.
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#Docto   Emissão     Despesa                               Veículo                         Viagem      Conta Contabilística        It Contabilístico  C. Custo   Estado                    Total             Saldo Proprietário
+0007#STR0007#ALL#Total da despesa 
+0008#STR0008#ALL#Total do veículo 
+0009#STR0009#ALL#Total da viagem 
+0010#STR0010#ALL#Total da conta contabilística 
+0011#STR0011#ALL#Total do proprietário 
+0012#STR0012#ALL#Cancelado Pelo Operador
+0013#STR0013#ALL#Total geral 
+0014#STR0014#ALL#Movimento De Custo De Transporte
+0015#STR0015#ALL#Emite relação de movimento de custo de transporte de acordo com os parâmetros indicados.
+0016#STR0016#ALL#Fil.origem + Despesa + Emissão + Documento
+0017#STR0017#ALL#Fil.origem + Veículo + Emissão + Documento
+0018#STR0018#ALL#Fil.origem + Viagem + Emissão + Documento
+0019#STR0019#ALL#Fil.origem + Conta Contabilística + Emissão + Documento
+0020#STR0020#ALL#Fil.origem + Proprietário + Emissão + Documento
+0021#STR0021#ALL#Custo De Transporte
+0022#STR0022#ALL#Total Da Despesa
+0023#STR0023#ALL#Total Do Veículo
+0024#STR0024#ALL#Total Da Viagem
+0025#STR0025#ALL#Total Da Conta Contabilística
+0026#STR0026#ALL#Total Do Proprietário
+0032#STR0032#ALL#Elemento
+0033#STR0033#ALL#Cc.
+0034#STR0034#ALL#Fil.ori

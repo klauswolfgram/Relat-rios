@@ -1,0 +1,50 @@
+0001#STR0001#ALL#Informe de resultado de examenes por exposicion a agentes quimicos
+0002#STR0002#ALL#Lista examenes realizados en un determinado periodo, permitiendo  
+0003#STR0003#ALL#seleccionar Agentes, Examenes y Centro de Costo.                  
+0004#STR0004#ALL#A Rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#Resultado de examenes por exposicion a agentes quimicos
+0007#STR0007#ALL#Centro de Costo       Nombre del Centro de Costo
+0008#STR0008#ALL#Matrícula  Empleado                  Realizado   Agente     Nombre del agente      Examen       Nombre del examen       Cantidad       IBMP  U.M.     Res.
+0009#STR0009#ALL#ANULADO POR EL OPERADOR
+0010#STR0010#ALL#Procesando Archivo...
+0011#STR0011#ALL#C.Costo
+0012#STR0012#ALL#Descripc.
+0013#STR0013#ALL#Matricula
+0014#STR0014#ALL#Empleado
+0015#STR0015#ALL#Realizado
+0016#STR0016#ALL#Agente
+0017#STR0017#ALL#Nombre del Ag.
+0018#STR0018#ALL#Exam.
+0019#STR0019#ALL#Nom. del Exa.
+0020#STR0020#ALL#Cantidad
+0021#STR0021#ALL#IBMP
+0022#STR0022#ALL#U.M.
+0023#STR0023#ALL#Res.
+0024#STR0024#ALL#Agente
+0025#STR0025#ALL#Exam. 
+0026#STR0026#ALL#Grupo Riesgo  
+0027#STR0027#ALL#1=Fisico;2=Quimico;3=Biologicos;4=Ergonomicos;5=Accidentes
+0028#STR0028#ALL#Sust. Activa
+0029#STR0029#ALL#¿De Cliente?
+0030#STR0030#ALL#Tienda
+0031#STR0031#ALL#¿A Cliente ?
+0032#STR0032#ALL#Codigo del cliente. El campo puede permanecer vacio para considerar desde el primer codigo.
+0033#STR0033#ALL#Codigo da loja do cliente. O campo pode permanecer vazio para considerar desde o primeiro código.
+0034#STR0034#ALL#Codigo del cliente. El campo puede rellenarse con la letra Z hasta el final para considerar el ultimo codigo.
+0035#STR0035#ALL#Codigo de la tienda del cliente. El campo puede rellenarse con la letra Z hasta el final para considerar el ultimo codigo.
+0036#STR0036#ALL#Cliente/Tienda: 
+0037#STR0037#ALL#Cliente
+0038#STR0038#ALL#Nombre
+0039#STR0039#ALL#No hay nada para imprimir en el informe.
+0040#STR0040#ALL#Centro de Costo
+0041#STR0041#ALL#Nombre del Centro de Costo
+0042#STR0042#ALL#¿A Fecha Resultado     ?
+0043#STR0043#ALL#¿De Fecha Resultado ?
+0044#STR0044#ALL#¿A Examen ?
+0045#STR0045#ALL#¿De Examen ?
+0046#STR0046#ALL#¿A  Agente ?
+0047#STR0047#ALL#¿De  Agente ?
+0048#STR0048#ALL#¿A Centro de Costo ?
+0049#STR0049#ALL#¿De Centro de Costo ?
+0050#STR0050#ALL#IBMP

@@ -1,0 +1,11 @@
+0001#STR0001#ALL#Este programa irá emitir um ranking de produtos por
+0002#STR0002#ALL#Preço Ou Quantidade Em Moeda Corrente.
+0003#STR0003#ALL#Código de barras
+0004#STR0004#ALL#Administração
+0005#STR0005#ALL#Ranking De Produtos
+0006#STR0006#ALL#Classe  Código Do Produto  Descrição Do Produto                                      Quantidade    Un                 Valor
+0009#STR0009#ALL#Cancelado Pelo Operador
+0011#STR0011#ALL#A classificar...
+0012#STR0012#ALL#Código  
+0013#STR0013#ALL#Detalhes Dos Artigos
+0014#STR0014#ALL#Clas  Código do Artigo        Descrição do Artigo                                      Quantidade    Un                 Valor

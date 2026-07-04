@@ -1,0 +1,31 @@
+0001#STR0001#ALL#Billing by sales repres.
+0002#STR0002#ALL#This report shows the Invoicing list. It can be
+0003#STR0003#ALL#ordered by Customer ou by Value (Ranking). It is not 
+0004#STR0004#ALL#considered if 'Generate Trade Note' = '(N)' (in TIO)
+0005#STR0005#ALL#Z.Form
+0006#STR0006#ALL#Management
+0007#STR0007#ALL#BILLING BY SALES REPRESENTATIVE (DESCENDING ORDER BY CODE) - 
+0008#STR0008#ALL#BILLING BY SALES REPRESENTATIVE (RANKING) - 
+0009#STR0009#ALL#CODE     REPRESENTAT.NAME                                 INVOICING          GOODS                     TOTAL  RANKING
+0010#STR0010#ALL#                                                         W/O ICM/IPI         VALUE                     VALUE         
+0011#STR0011#ALL#Selecting Records...
+0012#STR0012#ALL#CANCELLED BY THE OPERATOR
+0013#STR0013#ALL#Sale w/o Represent.
+0014#STR0014#ALL#T O T A L --->
+0015#STR0015#ALL#Billing by sales repres.
+0016#STR0016#ALL#This report lists billing. It can be                     
+0017#STR0017#ALL#issued by Customer or Amount (Ranking) order.            
+0018#STR0018#ALL#If in TIO is generate trade note (N),will not be computed.
+0019#STR0019#ALL#Billing withoutICM/IPI
+0020#STR0020#ALL#Merchandise Value  
+0021#STR0021#ALL#TotalAmount
+0022#STR0022#ALL#Ranking
+0023#STR0023#ALL#(Sales repr. descending order) 
+0024#STR0024#ALL#(ranking ascending order)   
+0025#STR0025#ALL#Sales s/o sales rep
+0026#STR0026#ALL#Sales Rep.
+0027#STR0027#ALL#Outflow inv.  
+0028#STR0028#ALL#Returns   
+0029#STR0029#ALL#Invoicing w/o taxes
+0030#STR0030#ALL#Field L2_VEND not found in Base
+0031#STR0031#ALL#Notice

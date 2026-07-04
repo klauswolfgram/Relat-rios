@@ -1,0 +1,46 @@
+0001#STR0001#ALL#Ese programa tiene como objetivo imprimir informe 
+0002#STR0002#ALL#de acuerdo con los parametros informados por el usuario.
+0003#STR0003#ALL#Informe de movimientos por Lay-Away
+0004#STR0004#EUA#Lay-Away
+0004#STR0004#MEX#Manejo de Apartados
+0004#STR0004#POR#Lay-Away
+0005#STR0005#ALL#Cliente
+0006#STR0006#ALL#Fecha de Emision
+0007#STR0007#ALL#Fecha de Entrega
+0008#STR0008#ALL#Fecha de Movimiento
+0009#STR0009#ALL#A Rayas
+0010#STR0010#ALL#Administracion
+0011#STR0011#ALL#LAY-AWAY  CLIENTE                                   EMISION    ENTREGA    ULT. MOV    ESTATUS            VALOR              SALDO
+0012#STR0012#ALL#SERIE  DOCUMENTO    CUOTA    FECHA MOVMTO                              VALOR
+0013#STR0013#ALL#*** ANULADO POR EL OPERADOR ***
+0014#STR0014#ALL#TOTAL DEL CLIENTE 
+0015#STR0015#ALL#TOTAL DE LA FECHA DE EMISION 
+0016#STR0016#ALL#TOTAL DE LA FECHA DE ENTREGA 
+0017#STR0017#ALL#TOTAL DE LA FECHA DE MOVIMIENTO 
+0018#STR0018#ALL#Abierto
+0019#STR0019#ALL#Cerrado
+0020#STR0020#ALL#TOTAL GENERAL => 
+0021#STR0021#ALL#Complete los parametros 
+0022#STR0022#ALL#De Emision y A Emision 
+0023#STR0023#ALL#De Entrega y  Entrega 
+0024#STR0024#ALL#De Movimiento y A Movimiento 
+0025#STR0025#ALL#No hay registros para ese informe - Verifique los parametros 
+0026#STR0026#ALL#Seleccionando registros
+0027#STR0027#ALL#Anulado
+0028#STR0028#ALL#Vencido
+0029#STR0029#EUA#Informe de Movimentos por Lay-Away
+0029#STR0029#MEX#Informe de Movimentos por Manejo de Apartados
+0029#STR0029#POR#Informe de Movimientos por Lay-Away
+0030#STR0030#EUA#Cod.Lay-Away
+0030#STR0030#MEX#Cod. Manejo de Apartados
+0030#STR0030#POR#Cod.Lay-Away
+0031#STR0031#ALL#Valor Total
+0032#STR0032#ALL#Movimiento de 
+0033#STR0033#ALL#Saldo
+0034#STR0034#ALL#Producto
+0035#STR0035#ALL#Descripción
+0036#STR0036#ALL#Total del cliente
+0037#STR0037#ALL#Saldo Total
+0038#STR0038#ALL#Cantidad de Productos
+0039#STR0039#ALL#Total
+0040#STR0040#ALL#Valor Doc

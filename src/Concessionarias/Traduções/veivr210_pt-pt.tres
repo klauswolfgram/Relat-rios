@@ -1,0 +1,13 @@
+0001#STR0001#ALL#Despesas do Veículo
+0002#STR0002#ALL#Código de Barras
+0003#STR0003#ALL#Administração
+0004#STR0004#ALL#Veículos do stock
+0006#STR0006#ALL#Tp.Operação          Descrição                       Data          Valor
+0011#STR0011#ALL#Ano Modelo  
+0012#STR0012#ALL#Combustível
+0013#STR0013#ALL#Total das Despesas ..................... 
+0015#STR0015#ALL#Álcool     
+0017#STR0017#ALL#Gás Natural
+0019#STR0019#ALL#Placa em branco ou não informada, informe uma placa registada!
+0020#STR0020#ALL#Placa não encontrada, informe uma placa registada!
+0022#STR0022#ALL#Placa do veículo ?

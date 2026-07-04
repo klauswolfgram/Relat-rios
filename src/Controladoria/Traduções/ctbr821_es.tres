@@ -1,0 +1,50 @@
+0001#STR0001#COL#CTBR821
+0002#STR0002#COL#Valor informado inválido 
+0003#STR0003#COL#'Número de líneas p/ Motivo '
+0004#STR0004#COL#Por favor, Introduzca una cantidad 
+0005#STR0005#COL# mínimo 10 líneas
+0006#STR0006#COL#Este programa ira imprimir el libro Mayor,
+0007#STR0007#COL# de acuerdo con los parámetros solicitados por
+0008#STR0008#COL# el usuario.
+0009#STR0009#COL#Emision del Libro Mayor
+0010#STR0010#COL#Cuenta
+0011#STR0011#COL#CUENTA
+0012#STR0012#COL#DESCRIPCION
+0013#STR0013#COL#Costo
+0014#STR0014#COL#FECHA
+0015#STR0015#COL#LOTE/SUB/DOC/LINEA
+0016#STR0016#COL#HISTORIAL
+0017#STR0017#COL#XPARTIDA
+0018#STR0018#COL#DÉBITO
+0019#STR0019#COL#CRÉDITO
+0020#STR0020#COL#SALDO ACTUAL
+0021#STR0021#COL#Total  
+0022#STR0022#COL#Total transporte
+0023#STR0023#COL#Atención, las columnas de entidades Valor CI, C. Costo e Ítem Contable no serán impresas en modo Vertical u opción Resumido
+0024#STR0024#COL#LIBRO MAYOR ANALÍTICO EN 
+0025#STR0025#COL#LIBRO MAYOR SINTÉTICO EN 
+0026#STR0026#COL# DE 
+0027#STR0027#COL# A 
+0028#STR0028#COL#Creando archivo temporal...
+0029#STR0029#COL#Emisión del motivo
+0030#STR0030#COL#Total NIT
+0031#STR0031#COL#Total cuenta
+0032#STR0032#COL#T O T A L  G E N E R A L  ==> 
+0033#STR0033#COL#SALDO ANTERIOR: 
+0034#STR0034#COL#Atención
+0035#STR0035#COL#No existen datos para los parámetros especificados.
+0036#STR0036#COL#Ok
+0037#STR0037#COL#Transporte
+0038#STR0038#COL#CUENTA - 
+0039#STR0039#COL#Deben crearse los parámetros MV_LRAZABE y MV_LRAZEN. 
+0040#STR0040#COL#Utilice como base el parámetro MV_LDIARAB.
+0041#STR0041#COL#Libro Mayor
+0042#STR0042#COL#El plan de gestión no está disponible en este informe.
+0043#STR0043#COL#Seleccionando registros...
+0044#STR0044#COL#CUENTA SIN MOVIMIENTO EN EL PERÍODO
+0045#STR0045#COL#SIN MOVIMIENTO EN EL PERÍODO
+0046#STR0046#COL#Ocurrió un error al crear el archivo
+0047#STR0047#COL#Cl.VaLor
+0048#STR0048#COL#N.I.T.
+0049#STR0049#COL#Sld. Ini 
+0050#STR0050#COL#Cuenta

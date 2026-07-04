@@ -1,0 +1,20 @@
+0001#STR0001#ALL#Lista de Contratos de Derechos de Autor.
+0002#STR0002#ALL#Imprimira los datos de los Contratos de Derechos de Autor de 
+0003#STR0003#ALL#acuerdo con la configuracion del usuario. 
+0004#STR0004#ALL#Relacion derechos de Autor (Gerencial)
+0005#STR0005#ALL#Por Codigo de Provee.
+0006#STR0006#ALL#Por Codigo del Prod.
+0007#STR0007#ALL#A Rayas
+0008#STR0008#ALL#Administrac.
+0009#STR0009#ALL#Proveedor
+0010#STR0010#ALL#Contrato
+0011#STR0011#ALL#Cod. Proveedor
+0012#STR0012#ALL#Fc Vigencia
+0013#STR0013#ALL#Fc Vencto
+0014#STR0014#ALL#Cod Producto
+0015#STR0015#ALL#Product
+0016#STR0016#ALL#Periodo
+0017#STR0017#ALL#Dias Aviso
+0018#STR0018#ALL#Total de Contratos
+0019#STR0019#ALL#Secuencia
+0020#STR0020#ALL#Funcion disponible solo en TReport

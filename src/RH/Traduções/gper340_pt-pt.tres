@@ -1,0 +1,29 @@
+0001#STR0001#ALL#C.custo + registo 
+0002#STR0002#ALL#C.custo + Nome
+0003#STR0003#ALL#C.Custo + Função
+0004#STR0004#ALL#Relação de Cargos e Remunerações
+0005#STR0005#ALL#Sera impresso de acordo com os parâmetro s solicitados pelo
+0006#STR0006#ALL#Utilizador.
+0007#STR0007#ALL#Código de barras
+0008#STR0008#ALL#Administração
+0009#STR0009#ALL#Relação de Cargos e Remunerações
+0010#STR0010#ALL#FL  MATRÍC NOME                           ADMISSÃO   FUNÇÃO                         MÃO DE     SALÁRIO   PERC.   PERC.   PERC.
+0012#STR0012#ALL#Relação de Cargos e Remunerações 
+0013#STR0013#ALL#(c.custo + Registo)
+0014#STR0014#ALL#(c.custo + Nome)
+0015#STR0015#ALL#(c.custo + Função)
+0016#STR0016#ALL#A Seleccionar Registos...
+0018#STR0018#ALL#Qtd.:
+0020#STR0020#ALL#Qtd.:
+0021#STR0021#ALL#Total do centro de custo  
+0022#STR0025#ALL#Total da empresa  
+0023#STR0026#ALL#Qtd.:
+0024#STR0027#ALL#Dir.
+0025#STR0028#ALL#Ind
+0027#STR0030#ALL#Registo
+0028#STR0031#ALL#Função
+0029#STR0034#ALL#(nome)
+0030#STR0035#ALL#(registo)
+0031#STR0036#ALL#(função)
+0032#STR0037#ALL#Este programa emite a relação de cargos e remunerações.
+0037#STR0042#ALL#Empregados

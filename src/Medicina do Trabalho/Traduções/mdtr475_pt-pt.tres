@@ -1,0 +1,25 @@
+0003#STR0003#ALL#Com resultados normais e anormais.                                   
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#Relatório Anual Do Pcmso
+0007#STR0007#ALL#Relatório Anual Do Pcmso   Período:
+0008#STR0008#ALL#|responsavel.....:
+0009#STR0009#ALL#Crm.:
+0010#STR0010#ALL#|assinatura......: _____________________________           Data:
+0011#STR0011#ALL#|setor/função/exame                                   |    natureza     |   exames   | resultados | anormais x 100 | exames p/ano  |
+0012#STR0012#ALL#Cancelado Pelo Operador
+0014#STR0014#ALL#Periódico
+0019#STR0019#ALL#Período:
+0020#STR0020#ALL#Emissão:
+0022#STR0022#ALL#|sector/exame                                          |    natureza     |   exames   | resultados | anormais x 100 | exames p/ano  |
+0023#STR0023#ALL#Cliente?
+0031#STR0031#ALL#Essa empresa esta registada como Prestadora de Serviço, portanto as 6 primeiras 
+0032#STR0032#ALL#posições dos parâmetros: 'De Centro de Custo' e 'Até Centro de Custo' referem-se 
+0033#STR0033#ALL#ao código do cliente e devem ser preenchidas com o mesmo valor.
+0034#STR0034#ALL#Listar Exames Próximo Ano?
+0037#STR0037#ALL#Exame Periódico
+0043#STR0043#ALL#Exames Próximo Ano ?
+0044#STR0044#ALL#Até Centro de Custo?
+0045#STR0045#ALL#De Centro de Custo?
+0046#STR0046#ALL#Até PCMSO ?
+0049#STR0049#ALL#Até Filial ?

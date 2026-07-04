@@ -1,0 +1,38 @@
+0001#STR0001#ALL#O campo TFF_TABXML não existe no seu dicionário de dados, não será possível extrair dados deste relatório
+0002#STR0002#ALL#Alerta
+0003#STR0003#ALL#Demonstrativo de formação de preço
+0004#STR0004#ALL#Produto
+0005#STR0005#ALL#Local de atendimento
+0006#STR0006#ALL#Descrição
+0007#STR0007#ALL#Quantidade
+0008#STR0008#ALL#Per Início
+0009#STR0009#ALL#Per Fim
+0010#STR0010#ALL#Preço
+0011#STR0011#ALL#Campo
+0012#STR0012#ALL#Valor
+0013#STR0013#ALL#Formula
+0014#STR0014#ALL#Demonstrativo
+0015#STR0015#ALL#Arquivo XML|*.xml
+0016#STR0016#ALL#Salvar Planilha
+0017#STR0017#ALL#Deseja visualizar o arquivo gerado?
+0018#STR0018#ALL#Abrindo arquivo gerado
+0019#STR0019#ALL#Aguarde...
+0020#STR0020#ALL#Não foi possível gerar o arquivo no diretório informado
+0021#STR0021#ALL#Não há dados a serem exibidos para os parâmetros informados
+0022#STR0022#ALL#Local de atendimento
+0023#STR0023#ALL#Local
+0024#STR0024#ALL#Confirmar
+0025#STR0025#ALL#Cancelar
+0026#STR0026#ALL#Filial
+0027#STR0027#ALL#Código
+0028#STR0028#ALL#Local
+0029#STR0029#ALL#Descrição
+0030#STR0030#ALL#Dt Ini
+0031#STR0031#ALL#Dt Fim
+0032#STR0032#ALL#Total RH
+0033#STR0033#ALL#Total MI
+0034#STR0034#ALL#Total MC
+0035#STR0035#ALL#Total LE
+0036#STR0036#ALL#Produtos
+0037#STR0037#ALL#Produto
+0038#STR0038#ALL#Quantidade

@@ -1,0 +1,22 @@
+0001#STR0001#ALL#Where is used
+0002#STR0002#ALL#Prints an informing list of certain selected material that are 
+0003#STR0003#ALL#used in the product structure.    
+0004#STR0004#ALL#Z.Form 
+0005#STR0005#ALL#Management  
+0006#STR0006#ALL#COMPONENT          DESCRIPT.                      TP GROUP UM LEV QUANTITY  
+0007#STR0007#ALL#  PRODUCT                                                          USED    
+0008#STR0008#ALL#CANCELLED BY THE OPERATOR  
+0009#STR0009#ALL#Products
+0010#STR0010#ALL#Structures
+0011#STR0011#ALL#Structures (recursivness) 
+0012#STR0012#ALL#COMPONENT 
+0013#STR0013#ALL#   PRODUCT
+0014#STR0014#ALL#DESCRIPT.
+0015#STR0015#ALL#TP
+0016#STR0016#ALL#GROUP
+0017#STR0017#ALL#MU
+0018#STR0018#ALL#LEV
+0019#STR0019#ALL#QUANTITY  
+0020#STR0020#ALL#USED     
+0021#STR0021#ALL#COMPONENT                        DESCRIPT.                      TP GROUP UM LEV QUANTITY
+0022#STR0022#ALL#   PRODUCT                                                                        USED

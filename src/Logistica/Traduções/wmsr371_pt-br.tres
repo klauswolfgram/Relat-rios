@@ -1,0 +1,17 @@
+0001#STR0001#ALL#Mapa de Separação Embalado
+0002#STR0007#ALL#Nr.Separador     : _______________              Nr. Erros        : __________
+0003#STR0008#ALL#Nr.Conferente    : _______________              Nr. Erros        : __________
+0004#STR0009#ALL#Nr.Embalador     : _______________              Nr. Erros        : __________
+0005#STR0019#ALL#Cliente
+0006#STR0020#ALL#Qtde
+0007#STR0021#ALL#Qtde Emb
+0008#STR0022#ALL#C/
+0009#STR0023#ALL#Nr. de Itens
+0010#STR0024#ALL#Peso Total (KG)
+0011#STR0025#ALL#Cubagem
+0012#STR0028#ALL#Placa do Veiculo
+0013#STR0029#ALL#Totais
+0014#STR0030#ALL#Este relatório tem por objetivo Gerar e Imprimir ou apenas Imprimir um Mapa de Separação para quantidades em unidades agrupadoras (caixas, por exemplo), de acordo com os parâmetros informados.
+0015#STR0031#ALL#Cabeçalho Mapa de Separação
+0016#STR0032#ALL#Pedido
+0017#STR0033#ALL#Itens do Mapa de Separação

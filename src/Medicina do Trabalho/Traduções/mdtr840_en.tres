@@ -1,0 +1,48 @@
+0001#STR0001#ALL#Report of Action Plan per Risk.                                    
+0002#STR0002#ALL#The Report displays the actions defined to eliminate or minimize the     
+0003#STR0003#ALL#existing risks in company.                                            
+0004#STR0004#ALL#Z. Form
+0005#STR0005#ALL#Management
+0006#STR0006#ALL#Action Plan per Risk    
+0007#STR0007#ALL#Risk        Agent       Dt.Recoun Dt.Eval   Dt.Elim    Gener.Source     Qtt. M.U.   C.Center              Posit. Task    Class   
+0008#STR0008#ALL#    Plan      Action Plan Name                         Implem.Dt. Esti.Beg.  Esti.End   Real Beg.   Real End   Responsible  
+0009#STR0009#ALL#CANCELLED BY OPERATOR  
+0010#STR0010#ALL#ALL  
+0011#STR0011#ALL#ALL  
+0012#STR0012#ALL#What..: 
+0013#STR0013#ALL#Where.: 
+0014#STR0014#ALL#Why...: 
+0015#STR0015#ALL#How...: 
+0016#STR0016#ALL#When..: Estimat.Begin.: 
+0017#STR0017#ALL#Actual: 
+0018#STR0018#ALL#Estimated End: 
+0019#STR0019#ALL#H.Much: Estimated Value: 
+0020#STR0020#ALL#Current Qty...: 
+0021#STR0021#ALL#Goal.: 
+0022#STR0022#ALL#From Customer?
+0023#STR0023#ALL#Unit
+0024#STR0024#ALL#To Customer?
+0025#STR0025#ALL#Customer: 
+0026#STR0026#ALL#Group?
+0027#STR0027#ALL#To Empl. in Charge?
+0028#STR0028#ALL#From Empl. in Charge?
+0029#STR0029#ALL#To SESMT Employee in Charge?
+0030#STR0030#ALL#From SESMT Employee in Charge?
+0031#STR0031#ALL#Actions?
+0032#STR0032#ALL#To Plan Deploym.Dt.?
+0033#STR0033#ALL#From Plan Deploym.Dt.?
+0034#STR0034#ALL#To Risk?
+0035#STR0035#ALL#From Risk?
+0036#STR0036#ALL#Risk Agent  Name Agent Qty Meas.U.  Rec.Dt     Eval.Dt Del.Dt Generating Source C.Center Role Task  Environment Department
+0037#STR0037#ALL#    Plan     Action Plan Name                   Imp. Date    St.Fcst.  End. Fcst.   Real St.    Real End    Responsible Party
+0038#STR0038#ALL#Plan     Action Plan Name                   Imp. Date    St.Fcst.  End. Fcst.  Real St.    Real End    Responsible Party
+0039#STR0039#ALL#Risk Agent  Name Agent Qty Meas.U.  Rec.Dt     Eval.Dt Del.Dt Generating Source C.Center Role Task  Environment Department
+0040#STR0040#ALL#Unit of Measurement:
+0041#STR0041#ALL#Related Risks:
+0042#STR0042#ALL#ATEINVALID
+0043#STR0043#ALL#Enter value valid for the field.
+0044#STR0044#ALL#The ´To Risk´ parameters has invalid value. 
+0045#STR0045#ALL#The ´To SESMT Resp.?´ has invalid value. 
+0046#STR0046#ALL#The ´To Resp. Empl.?´ has invalid value. 
+0047#STR0047#ALL#Risk      Agent  Name Agent                     Qty        Meas.U.  Rec.Dt.    Eval.Dt.     Del.Dt     Generating Source                  C.Center               Function          Task  Environment
+0048#STR0048#ALL#   Risk      Agent  Name Agent                     Qty        Meas.U.  Rec.Dt.    Eval.Dt.     Del.Dt     Generating Source                  C.Center               Function          Task  Environment

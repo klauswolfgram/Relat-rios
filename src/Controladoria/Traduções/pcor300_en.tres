@@ -1,0 +1,13 @@
+0001#STR0001#ALL#TrBlnSheet
+0002#STR0002#ALL#Code  
+0003#STR0003#ALL#Descript.
+0004#STR0004#ALL#Prior balance 
+0005#STR0005#ALL#Credit movement  
+0006#STR0006#ALL#Debit movement  
+0007#STR0007#ALL#Final blnce
+0008#STR0008#ALL#Printing cancelled by the operator..
+0009#STR0009#ALL#Credit-Debit  
+0010#STR0010#ALL#This report will print the trial balance according to the parameters requested by the user. For more information about this report, query the Program Help (f1).            
+0011#STR0011#ALL#Attention
+0012#STR0012#ALL#Cube structure not found. Please, check it. 
+0013#STR0013#ALL#User without access to the report. Check configurations.

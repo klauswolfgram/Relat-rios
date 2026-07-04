@@ -1,0 +1,16 @@
+0001#STR0001#ALL#This program has the purpose of printing data to
+0002#STR0002#ALL#be used in the Delivery of Bank Communication
+0003#STR0003#ALL#Bancária".
+0004#STR0004#ALL#Printing of the Delivery of Bank Communication
+0005#STR0005#ALL#Z.Form 
+0006#STR0006#ALL#Management
+0007#STR0007#ALL#  BorderoNo.  Bord.Dt.    Own  Inst. No.    Type   Nature      Bank Name       Branch  History                    CNAB Occurrence             Bill Currency       Bill Status      Our Number  
+0008#STR0008#ALL#  Customer Code             Customer Name         Bill History            CNAB Occurrence                Bill Currency  Bill Status         Our Number  
+0009#STR0009#ALL#OCCURRENCE NOT FOUND
+0010#STR0010#ALL#STATUS NOT FOUND
+0011#STR0011#ALL#Total of Bills : 
+0012#STR0012#ALL#Cons.Zeroed Balan.?
+0013#STR0013#ALL#Yes
+0014#STR0014#ALL#No
+0015#STR0015#ALL#Accts.Receivable Bills
+0016#STR0016#ALL#Bill Status

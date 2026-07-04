@@ -1,0 +1,25 @@
+0001#STR0001#ALL#Position/Employee Points List
+0002#STR0002#ALL#It will be printed according to the parameters selected
+0003#STR0003#ALL#by the user.
+0004#STR0004#ALL#Branch + Registration
+0005#STR0005#ALL#Name
+0006#STR0006#ALL#C.Center+Name
+0007#STR0007#ALL#Function + Name
+0008#STR0008#ALL#Points
+0009#STR0009#ALL#Z.Form
+0010#STR0010#ALL#Management
+0011#STR0011#ALL#                                             Grading      No.   
+0012#STR0012#ALL#Bch. Reg.   Employee`s Name                Posit.  Func.  Years  %Func.
+0013#STR0013#ALL# EMPLOYEES GRADING 
+0014#STR0014#ALL#Total No. of Employees          : 
+0015#STR0015#ALL#Total of Points/Position        : 
+0016#STR0016#ALL#Selecting Records...
+0017#STR0017#ALL#Total of Points/Employee        : 
+0018#STR0018#ALL#Relecting Records...
+0019#STR0019#ALL#Employee
+0020#STR0020#ALL#Cargo Points
+0021#STR0021#ALL#Func.Points
+0022#STR0022#ALL#Year No.
+0023#STR0023#ALL#Empl.%
+0024#STR0024#ALL#Employee Total
+0025#STR0025#ALL#This report issues a list of employee and position points.

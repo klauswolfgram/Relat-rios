@@ -1,0 +1,17 @@
+0001#STR0001#ALL#Este programa ira imprimir o Diario Geral aglutinado por conta,
+0002#STR0002#ALL#de acordo com os parametros sugeridos pelo usuario.
+0003#STR0003#ALL#
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracäo
+0006#STR0006#ALL#Emissao do Diario Geral aglutinado por conta
+0007#STR0007#ALL#            C O N T A                     H I S T O R I C O                        NUMERO                         V  A  L  O  R
+0008#STR0008#ALL#D E B I T O          C R E D I T O                                                 LANCTO                      DEBITO        CREDITO
+0009#STR0009#ALL#DIARIO GERAL AGLUT. POR CONTA DE 
+0010#STR0010#ALL# ATE 
+0011#STR0011#ALL# EM 
+0012#STR0012#ALL#***** CANCELADO PELO OPERADOR *****
+0013#STR0013#ALL#A Transportar =======>
+0014#STR0014#ALL#De Transporte =======>
+0015#STR0015#ALL#Totais deste dia =======>
+0016#STR0016#ALL#Totais deste mes =======>
+0017#STR0017#ALL#Total Geral ============>

@@ -1,0 +1,17 @@
+0001#STR0001#ALL#Romaneio de Separacao
+0002#STR0002#ALL#Emite Relatorio de Romaneio de Separacao ordenado por
+0003#STR0003#ALL#Carga+Sequencia de Carga. Em cada Carga os itens sao 
+0004#STR0004#ALL#ordenados por Pedido+Cliente/Fornecedor+Loja+Item    
+0005#STR0029#ALL#Chegada
+0006#STR0030#ALL#Saida
+0007#STR0031#ALL#Unitizada
+0008#STR0032#ALL#1aUM
+0009#STR0033#ALL#2aUM
+0010#STR0034#ALL#Cargas
+0011#STR0035#ALL#Itens da Carga
+0012#STR0036#ALL#Movimentos por endereco
+0013#STR0037#ALL#Seq
+0014#STR0038#ALL#Veiculo
+0015#STR0039#ALL#Valor
+0016#STR0040#ALL#Pedido
+0017#STR0041#ALL#Item

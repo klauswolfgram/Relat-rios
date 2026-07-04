@@ -1,0 +1,29 @@
+0001#STR0001#ALL#Informe de presentación de los EPI por función. Con base en los
+0002#STR0002#ALL#Parámetros, el usuario podrá seleccionar una determinada función
+0003#STR0003#ALL#u obtener una lista detallada de todos los EPI por Función.
+0004#STR0004#ALL#A Rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#EPI vs. Función
+0007#STR0007#ALL#Función descripción
+0008#STR0008#ALL#ANULADO POR EL OPERADOR
+0009#STR0009#ALL#Func.
+0010#STR0010#ALL#Descripc.
+0011#STR0011#ALL#EPI
+0012#STR0012#ALL#Obligatorio
+0013#STR0013#ALL#Si
+0014#STR0014#ALL#No
+0015#STR0015#ALL#¿De Cliente?
+0016#STR0016#ALL#Tda.
+0017#STR0017#ALL#¿A Cliente  ?
+0018#STR0018#ALL#Cliente
+0019#STR0019#ALL#Tda.
+0020#STR0020#ALL#Nomb
+0021#STR0021#ALL#        EPI                               Descripc.                                 Obligatorio
+0022#STR0022#ALL#        EPI                               Descripc.
+0023#STR0023#ALL#Cliente: 
+0024#STR0024#ALL#No existe nada para imprimir en el informe.
+0025#STR0025#ALL#¿A Función ?
+0026#STR0026#ALL#¿De Función ?
+0027#STR0027#ALL#¿De Sucursal?
+0028#STR0028#ALL#¿A Sucursal?
+0029#STR0029#ALL#Sucursal

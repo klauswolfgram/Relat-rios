@@ -1,0 +1,36 @@
+0001#STR0001#ALL#Relatório De Funcionários Por Centro De Custo E Função
+0002#STR0002#ALL#Código de barras
+0003#STR0003#ALL#Administração
+0004#STR0004#ALL#Funcionários Por Centro De Custo E Função
+0006#STR0006#ALL#De matrícula ?
+0007#STR0007#ALL#Até matrícula ?
+0008#STR0008#ALL#De c. custo ?
+0009#STR0009#ALL#Até c. custo ?
+0010#STR0010#ALL#De função ?
+0011#STR0011#ALL#Até função ?
+0012#STR0012#ALL#De data ?
+0013#STR0013#ALL#Até data?
+0014#STR0014#ALL#Mat.     Nome Colaborador              Função                Data Exame  Resultado Or.Direita           Resultado Or.Esquerda
+0015#STR0015#ALL#Audição normal
+0016#STR0016#ALL#Redução em grau mínimo
+0017#STR0017#ALL#Redução em grau médio
+0018#STR0018#ALL#Redução em grau máximo
+0019#STR0019#ALL#Perda de audição
+0020#STR0020#ALL#O exame seleccionado não é de audiometria
+0021#STR0021#ALL#Relatório de análise do resultado de audiometria
+0022#STR0022#ALL#Relatório de análise do resultado de audiometria
+0023#STR0023#ALL#De cliente ?
+0025#STR0025#ALL#Até cliente ?
+0026#STR0026#ALL#Código  do cliente. o campo pode permanecer vazio para considerar desde o primeiro código.
+0027#STR0027#ALL#Código  da loja do cliente. o campo pode permanecer vazio para considerar desde o primeiro código.
+0028#STR0028#ALL#Código  do cliente. o campo pode ser preenchido com a letra z até  o final para considerar o último código.
+0029#STR0029#ALL#Código  da loja do cliente. o campo pode ser preenchido com a letra z até  o final para considerar o último código.
+0030#STR0030#ALL#Centro de custo: 
+0031#STR0031#ALL#Total De Exames No Sector..........:
+0032#STR0032#ALL#Total De Exames No Cliente........:
+0033#STR0033#ALL#Total De Exames Na Filial.........:
+0034#STR0034#ALL#Cliente/loja: 
+0035#STR0035#ALL#Não existe informação para imprimir no relatório.
+0036#STR0036#ALL#Até Data ?
+0037#STR0037#ALL#De Centro de Custo?
+0038#STR0038#ALL#Até Centro de Custo?

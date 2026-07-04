@@ -1,0 +1,13 @@
+0001#STR0001#ALL#Este programa irá emitir a relação de
+0002#STR0002#ALL#Sugestão De Bloqueio
+0003#STR0003#ALL#Código de barras
+0004#STR0004#ALL#Administração
+0005#STR0005#ALL#Total clientes ----> 
+0006#STR0006#ALL#Sugestão De Bloqueio
+0007#STR0007#ALL#Código nome do cliente                          venc.l.crédito  sdo.recibo      saldo pedidos        limite crédito 
+0008#STR0008#ALL#Cancelado Pelo Operador
+0009#STR0009#ALL#Código                nome do cliente                          venc.l.crédito  sdo.recibo      saldo pedidos        limite crédito 
+0011#STR0011#ALL#Venc.l.crédito
+0012#STR0012#ALL#Sdo.duplicata
+0014#STR0014#ALL#Limite Crédito
+0015#STR0015#ALL#Total de clientes 

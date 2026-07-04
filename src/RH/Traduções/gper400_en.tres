@@ -1,0 +1,81 @@
+0001#STR0001#ALL#Cost Center     
+0002#STR0002#ALL#Registration
+0003#STR0003#ALL#Report on Vacation Schedule     
+0004#STR0004#ALL#It will be printed according to parameters selected by the  
+0005#STR0005#ALL#User.   
+0006#STR0006#ALL#Z.Form 
+0007#STR0007#ALL#Management   
+0008#STR0008#ALL#REPORT ON VACATION SCHEDULE    
+0009#STR0009#ALL#                                                                           HIRING      VACATION    A C Q U I S I T I V E    IDEAL     MAXIMUM        EXPIRED   EXPIRED   PROPORT.  PROPORT. TOTAL   13thSAL.      EMPLOYEE`S
+0010#STR0010#ALL#BCH   COST CENTER                MAT.     EMPLOYEE`S NAME                  DATE         BASE DT.       P E R I O D          LIMIT DT.   LIMIT DT.   VACATI.   ABSENCES  PERIOD    ABSENC.   VACAT.   PERC.         SIGNATURE
+0011#STR0011#ALL#REPORT ON VACATION SCHEDULE     
+0012#STR0012#ALL#( C.CENTER)
+0013#STR0013#ALL#( REGISTRAT )
+0014#STR0014#ALL# TO 
+0015#STR0015#ALL#  ___/___/___    A  ___/___/___
+0016#STR0016#ALL#Name
+0017#STR0017#ALL#C.Center + Name
+0018#STR0018#ALL#Branch + Base Dt.
+0019#STR0019#ALL#Branch + Beggin.Dt
+0020#STR0020#ALL#( NAME )
+0021#STR0021#ALL#( COST C. + NAME )
+0022#STR0022#ALL#( BASE DATE )
+0023#STR0023#ALL#( INITIAL DATE )
+0024#STR0024#ALL#Selecting Records...     
+0025#STR0025#ALL#        1st -  V A C A T I O N   S C H E D U L E     
+0026#STR0026#ALL#        2nd -  V A C A T I O N   S C H E D U L E     
+0027#STR0027#ALL#        3rd -  V A C A T I O N   S C H E D U L E     
+0028#STR0028#ALL#D.VAC.
+0029#STR0029#ALL#D.OP.
+0030#STR0030#ALL#YES
+0031#STR0031#ALL#Date            
+0032#STR0032#ALL#Admission  
+0033#STR0033#ALL#Base Date 
+0034#STR0034#ALL#P e r i o d 
+0035#STR0035#ALL#A c q u i s i t i v e 
+0036#STR0036#ALL#Dt.Limit 
+0037#STR0037#ALL#  Best    
+0038#STR0038#ALL#Maximum 
+0039#STR0039#ALL#  Vacation 
+0040#STR0040#ALL#Overdue  
+0041#STR0041#ALL#Proport. 
+0042#STR0042#ALL#Absences 
+0043#STR0043#ALL#    TOTAL
+0044#STR0044#ALL#Bonus   
+0045#STR0045#ALL#Percent. 
+0046#STR0046#ALL#Employee
+0047#STR0047#ALL#Employee    
+0048#STR0048#ALL#Signature 
+0049#STR0049#ALL#Vacations header   
+0050#STR0050#ALL#Issues a list of the employees who have scheduled vacations               
+0051#STR0051#ALL#List of Recess Schedule
+0052#STR0052#ALL#Issues list of interns that have estimated recess schedule.
+0053#STR0053#ALL#                                                                            DATE       BASE DT.        P E R I O D           LIMIT DT.   LIMIT DT.    VACATION  ABSENCE   VACATION  ABSENCE  TOTAL   SIGNATURE OF
+0054#STR0054#ALL#BR   COST CENTER               MAT.     NAME                             ADMISSION     RECESS     E N T I T L E D      IDEAL       MAXIMUM      EXPIRED   PROPORT.  VACATION   INTERN
+0055#STR0055#ALL#  Recess 
+0056#STR0056#ALL#Past due
+0057#STR0057#ALL#         R E C E S S  S C H E D U L E
+0058#STR0058#ALL#Intern
+0059#STR0059#ALL#REC.D.
+0060#STR0060#ALL#E n t i t l e d 
+0061#STR0061#ALL# From: ______/______/______  To:  ______/______/______
+0062#STR0062#ALL# BRANCH: 
+0063#STR0063#ALL# CCTO: 
+0064#STR0064#ALL# TOTAL 
+0065#STR0065#ALL#Start Date
+0066#STR0066#ALL#End Date
+0067#STR0067#ALL#Ref. Qty.
+0068#STR0068#ALL#Due Dt.
+0069#STR0069#ALL#Prop.
+0070#STR0070#ALL#Paid
+0071#STR0071#ALL#The configuration of the periods is incorrect. Check the period file.
+0072#STR0072#ALL#o f   W i t h d r a w a l 
+0073#STR0073#ALL#No script of vacation registered for the following periods: 
+0074#STR0074#ALL#No script of vacation registered for the following branches and periods: 
+0075#STR0075#ALL#Branch
+0076#STR0076#ALL#Period
+0077#STR0077#ALL#Log of periods not registered
+0078#STR0078#ALL#Settl. D.
+0079#STR0079#ALL#Adva.
+0080#STR0080#ALL#Registrations without vacation scheduled period in the date informed in parameter 10 - Scheduled To?
+0081#STR0081#ALL#Branch | Registration | Date

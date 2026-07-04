@@ -1,0 +1,28 @@
+0001#STR0001#ALL#Este programa ira imprimir a relacao de Movimentos 
+0002#STR0002#ALL#Acumulados por 
+0003#STR0003#ALL#tas determinadas pelo usuario.
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#Relacao de Movimentos Acumulados para CC Extra, Exercicio - 
+0007#STR0007#ALL#Codigo 
+0008#STR0008#ALL#Codigo da Conta     Descricao                 
+0009#STR0009#ALL#***** CANCELADO PELO OPERADOR *****
+0010#STR0010#ALL# Extra Contabil das con-
+0011#STR0011#ALL# Descricao             
+0012#STR0012#ALL#Total do 
+0013#STR0013#ALL#Total Geral: 
+0014#STR0014#ALL#Codigo Cod Custo     Descricao                                       
+0015#STR0015#ALL#Codigo da Conta      Descricao                                       
+0016#STR0016#ALL#E necesario informar nos parametros, qual moeda a ser utilizada pelo relatorio
+0017#STR0017#ALL#Por favor, verifique se o calend.contabil e a amarracao moeda/calendario 
+0018#STR0018#ALL#foram cadastrados corretamente...
+0019#STR0019#ALL#ACUMULADO
+0020#STR0020#ALL#Desc
+0021#STR0021#ALL#Valores
+0022#STR0022#ALL#Ate
+0023#STR0023#ALL#O plano gerencial ainda não está disponível para este relatório.
+0024#STR0024#ALL#Altere a configuração de livros...
+0025#STR0025#ALL#Config. de Livros...
+0026#STR0026#ALL#Montando consulta...
+0027#STR0027#ALL#Executando consulta...
+0028#STR0028#ALL#Plano referencial não disponível nesse relatório. O relatório será processado desconsiderando a configuração de livros.

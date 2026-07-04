@@ -1,0 +1,47 @@
+0001#STR0001#PER#DETAILS OF EXCHANGE DIFFERENCE
+0002#STR0002#PER#PERIOD: 
+0003#STR0003#PER#RUC: 
+0004#STR0004#PER#last names and names, denominations or company name: 
+0005#STR0005#PER#Date of
+0006#STR0006#PER#Period
+0007#STR0007#PER#Date
+0008#STR0008#PER#of
+0009#STR0009#PER#acquisition
+0010#STR0010#PER#Value from
+0011#STR0011#PER#acquisition in
+0012#STR0012#PER#foreign currency
+0013#STR0013#PER#Tp of exchange
+0014#STR0014#PER#in date 
+0015#STR0015#PER#of acquisition
+0016#STR0016#PER#Value from
+0017#STR0017#PER#acquisition in
+0018#STR0018#PER#national currency
+0019#STR0019#PER#Type
+0020#STR0020#PER#of exchange
+0021#STR0021#PER#on 12/31
+0022#STR0022#PER#Adjust by
+0023#STR0023#PER#diferenc. from
+0024#STR0024#PER#exchange
+0025#STR0025#PER#Value in
+0026#STR0026#PER#national currency
+0027#STR0027#PER#on 12/31
+0028#STR0028#PER#Of
+0029#STR0029#PER#period
+0030#STR0030#PER#from outflow
+0031#STR0031#PER#and/or write-offs
+0032#STR0032#PER#from
+0033#STR0033#PER#others
+0034#STR0034#PER#adjustments
+0035#STR0035#PER#Accrued
+0036#STR0036#PER#History
+0037#STR0037#PER#Code
+0038#STR0038#PER#Fixed Asset
+0039#STR0039#PER#Depreciation
+0040#STR0040#PER#Totals
+0041#STR0041#PER#Related to
+0042#STR0042#PER#The fixed asset
+0043#STR0043#PER#Confirm generation of Txt file?
+0044#STR0044#PER#Generating Txt file
+0045#STR0045#PER#Error generating Txt file
+0046#STR0046#PER#To print TXT, the period must be equal to or later than 2010
+0047#STR0047#PER#Txt file successfully generated

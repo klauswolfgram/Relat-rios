@@ -1,0 +1,24 @@
+0001#STR0001#CHI#Emissão do livro fiscal de compras
+0002#STR0002#CHI#Sera solicitada a data inicial e a data final para a emissão
+0003#STR0003#CHI#Do Livro Fiscal De Compras
+0006#STR0006#CHI#Tipo No Reg.
+0007#STR0007#CHI#Filtrando registos...
+0008#STR0008#CHI#** anulado pelo operador **
+0009#STR0009#CHI#Livro de i. V. A. 
+0012#STR0012#CHI#Página num.: 
+0013#STR0013#CHI#Tipo  Série  Comprovativo     Segurança Social          Nº De Contribuinte                Líq. Gravado                Iva R.g.               Iva Incl.              Iva C/ret.                  Isento                   Total
+0014#STR0014#CHI#Totais criais :
+0015#STR0015#CHI#Totais por condição fiscal : 
+0016#STR0016#CHI#Totais das facturas         : 
+0017#STR0017#CHI#Totais das facturas de crédito: 
+0018#STR0018#CHI#Totais das facturas de débito : 
+0019#STR0019#CHI#Totais por tipo de documento :
+0020#STR0020#CHI# fórmulário 
+0021#STR0021#CHI#Fórmulario está posicionado?
+0025#STR0025#CHI#Tentar novamente? 
+0026#STR0026#CHI# - de    : 
+0027#STR0027#CHI#   até   : 
+0029#STR0029#CHI#Total crial   :
+0030#STR0030#CHI#Totais por zona fiscal : 
+0031#STR0031#CHI#Totais por tipo de artigo : 
+0032#STR0032#CHI#C a n c e l a d a 

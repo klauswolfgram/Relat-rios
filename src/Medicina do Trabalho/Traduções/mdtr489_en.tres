@@ -1,0 +1,40 @@
+0001#STR0001#ALL#Mat.     Name Employee              Function                            Cost Center
+0002#STR0002#ALL#Exam.Dt    Mean    Port.Result 19 - RE                                                                        Referential?  Port.Result 19 - LE                                                        Referential?
+0003#STR0003#ALL#Examination selected is not Audiometry
+0004#STR0004#ALL#Customer?
+0005#STR0005#ALL#Customer code.
+0006#STR0006#ALL#Store?
+0007#STR0007#ALL#Customer store
+0008#STR0008#ALL#Exam.?
+0009#STR0009#ALL#From Registr.?
+0010#STR0010#ALL#To Registrat.?
+0011#STR0011#ALL#From C. Center
+0012#STR0012#ALL#To C. Center
+0013#STR0013#ALL#From Funct.?
+0014#STR0014#ALL#To Function?
+0015#STR0015#ALL#From Dt.?
+0016#STR0016#ALL#To Date?
+0017#STR0017#ALL#There is nothing to print on the report.
+0018#STR0018#ALL#Customer code. The field may remain blank to consider since the first code.
+0019#STR0019#ALL#Code of customer store. The field may remain blank to consider since the first code.
+0020#STR0020#ALL#Customer code. The field may be filled with Z up to the end to consider the last code.
+0021#STR0021#ALL#Code of customer store. The field may be filled with Z up to the end to consider the last code.
+0022#STR0022#ALL#Report of audiometric progress.
+0023#STR0023#ALL#Frequency - Right Ear (KHz)
+0024#STR0024#ALL#Frequency - Right Ear (KHz)
+0025#STR0025#ALL#Aerial
+0026#STR0026#ALL#Osseous
+0027#STR0027#ALL#Understanding is required
+0028#STR0028#ALL#Acceptable threshold
+0029#STR0029#ALL#PAIR Significant
+0030#STR0030#ALL#PAIR Non-Significant
+0031#STR0031#ALL#Result Significant
+0032#STR0032#ALL#Worsening Significant
+0033#STR0033#ALL#Hearing Loss
+0034#STR0034#ALL#Threshold (dB):
+0035#STR0035#ALL#Yes
+0036#STR0036#ALL#No
+0037#STR0037#ALL#Custom./Store:
+0038#STR0038#ALL#Z-form
+0039#STR0039#ALL#Management
+0040#STR0040#ALL#Averages

@@ -1,0 +1,21 @@
+0001#STR0001#ALL#Detallado
+0002#STR0002#ALL#Analitico
+0003#STR0003#ALL#Sintetico
+0004#STR0004#ALL#Resumido 
+0005#STR0005#ALL#Lista de precios por clientes
+0006#STR0006#ALL#Este informe se destina a los usuarios que utilizan precio de venta
+0007#STR0007#ALL#en el vinculo producto vs. cliente, mostrandose solo el ultimo
+0008#STR0008#ALL#precio.
+0009#STR0009#ALL#A Rayas
+0010#STR0010#ALL#Administracion
+0011#STR0011#ALL#ANULADO POR EL OPERADOR
+0012#STR0012#ALL#Cliente : 
+0013#STR0013#ALL#Producto                       Descripcion del Producto       Cod en el Cliente  Peso Unitario  UM                           Ult. Reaj        Precio de Venta
+0013#STR0013#BRA#Producto                       Descrição do Producto          Cod en el Cliente  Peso Unitario  UM   IVA     Inciso IVA  Ult. Reaj        Precio de Venta
+0014#STR0014#ALL#Lista de Precios por Clientes
+0015#STR0015#ALL#Este informe se destina a los usuarios que utilizan precio de venta
+0016#STR0016#ALL#en el vincula Producto vs. Cliente, en el que se presentara solo el ultimo
+0017#STR0017#ALL#Ult.Reaj.
+0018#STR0018#ALL#Precio de Venta
+0019#STR0019#ALL#Clientes
+0020#STR0020#ALL#Prod. 

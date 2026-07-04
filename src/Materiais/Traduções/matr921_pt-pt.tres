@@ -1,0 +1,27 @@
+0001#STR0001#ALL#Cta.
+0002#STR0002#ALL#Factura
+0003#STR0003#ALL#Entradas
+0004#STR0004#ALL#Saídas
+0005#STR0005#ALL##################################################################                                    registo de ########                                                                                      pagina ######
+0006#STR0006#ALL#Mes ou período/ano: #######                                                                                                                                                               ----------- operações ------------
+0007#STR0007#ALL#                                                                                                                                                                                          (1)tributadas (2)isentas (3)outras
+0008#STR0008#ALL#  Dt       Espe  Se                        Dt                                                                                                  Icms Operações
+0009#STR0009#ALL#Entrada    cie   rie        número         emissão                     emissor                   uf     valor contabilístico conta contabilística       cfo  ipi (*)    base de cálculo alíq.    valor do imposto           observações 
+0010#STR0010#ALL#Mes ou período/ano: #######                                                                                                                                                               ----------- operações ------------
+0011#STR0011#ALL#                                                                                                                                                                                          (1)tributadas (2)isentas (3)outras
+0012#STR0012#ALL#  Dt       Espe  Se                                                                                                                 Icms Operações
+0013#STR0013#ALL#Emissão    cie   rie     número                                 emitente                   uf     valor contabil conta contabil       cfo  ipi (*)    base de cálculo aliq    valor do imposto                  observações 
+0014#STR0014#ALL#A Transportar
+0015#STR0015#ALL#Total do dia 
+0016#STR0016#ALL#Total Do Mês
+0017#STR0017#ALL#Total Do Periodo 
+0018#STR0018#ALL#1.00 Entradas Do Distrito
+0019#STR0019#ALL#2.00 Entradas De Fora Do Distrito
+0020#STR0020#ALL#3.00 Entradas Do Exterior
+0021#STR0021#ALL#5.00 Saidas Para O Distrito
+0022#STR0022#ALL#6.00 Saidas Para Fora Do Distrito
+0023#STR0023#ALL#7.00 Saidas Para O Exterior
+0024#STR0024#ALL#Total Crial
+0025#STR0025#ALL#Total
+0026#STR0026#ALL#Demonstrativo Por Distrito De Origem Da Mercadoria Ou De Inicio Da Prestação De Serviço  
+0027#STR0027#ALL#Icms retido...: 

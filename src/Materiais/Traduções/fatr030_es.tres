@@ -1,0 +1,33 @@
+0001#STR0001#ALL#Lista de contratos
+0002#STR0002#ALL#El objetivo de este prog. es mostrar el detalle de los contratos de
+0003#STR0003#ALL#sociedad, segun los parametros definidos por el usuario.
+0004#STR0004#ALL#Numero
+0005#STR0005#ALL#Clien / Tda.
+0006#STR0006#ALL#Emision
+0007#STR0007#ALL#Administrac.
+0008#STR0008#ALL#CONTRATO                                                           ESTATUS         PRODUCTOS CONTRATOS
+0009#STR0009#ALL#NUMERO EMISION    CLIENTE                                                           ITEM PRODUC.                                        UN CTD. CONTRAT.    SLD. CONTRAT.     PREC. VENTA               VALOR       DESCTO. 
+0010#STR0010#ALL#ANULADO POR EL OPERADOR
+0011#STR0011#ALL#Tot. del contr. num. : 
+0012#STR0012#ALL#Total del client.: 
+0013#STR0013#ALL#Tot. de la emis.: 
+0014#STR0014#ALL#Total gral.: 
+0015#STR0015#ALL#Lista de contratos
+0016#STR0016#ALL#El objetivo de este programa es demonstrar la lista de contatos de 
+0017#STR0017#ALL#sociedad, segun los parametros definidos por el usuario.
+0018#STR0018#ALL#Numero
+0019#STR0019#ALL#Clien / Tda
+0020#STR0020#ALL#Emision
+0021#STR0021#ALL#Sld.Contrato
+0022#STR0022#ALL#Total del Contr.
+0023#STR0023#ALL#Total del Clien.
+0024#STR0024#ALL#Total dia
+0025#STR0025#ALL#Encabez. de Contrato
+0026#STR0026#ALL#Items de Contrato
+0027#STR0027#ALL#     Cliente   Pedido   Emision   Ctd. Pedido       Fac./ Serie  Emision          Ctd Factura    
+0028#STR0028#ALL#Analitico-Detalles de Contrato
+0029#STR0029#ALL#Finalizado Manualm.
+0030#STR0030#ALL#Parcialmente entregado
+0031#STR0031#ALL#Contrato pendiente
+0032#STR0032#ALL#Contrato entregado
+0033#STR0033#ALL#Contrato aprobado

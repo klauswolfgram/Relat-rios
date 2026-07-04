@@ -1,0 +1,49 @@
+0001#STR0001#ALL#Proveedor - Total
+0002#STR0002#ALL#Emision de los Indices Acumulados por mes
+0003#STR0003#ALL#Imprimira los Indices Acumulados por proveedor de acuerdo
+0004#STR0004#ALL#con la configuracion del usuario.
+0005#STR0005#ALL#A rayas
+0006#STR0006#ALL#Administracion
+0007#STR0007#ALL#Entregas en el Periodo             
+0008#STR0008#ALL#Num.Entreg. con demerito en Periodo
+0009#STR0009#ALL#Nro. Entregas Inspeccionadas      
+0010#STR0010#ALL#Nro. Entregas en Skip-Lote         
+0011#STR0011#ALL#Cant. Inspeccionada                
+0012#STR0012#ALL#Cant. en Skip-Lote                 
+0013#STR0013#ALL#Cant. Rechazada                    
+0014#STR0014#ALL#Resultados de las entregas (IQP)   
+0015#STR0015#ALL#Factor de criticidad               
+0016#STR0016#ALL#Sistema de Calidad (IQS)           
+0017#STR0017#ALL#Indice de Calidad del Item (IQI)   
+0018#STR0018#ALL#Puntualidad (IPO)                  
+0019#STR0019#ALL#PPM                                
+0020#STR0020#ALL#Seleccionando indices en el periodo...
+0021#STR0021#ALL#Seleccionando laudos en el periodo...
+0022#STR0022#ALL#TOTAL/PROM.
+0023#STR0023#ALL#IQI :
+0024#STR0024#ALL#Mes/Año
+0025#STR0025#ALL#De Proveedor       
+0026#STR0026#ALL#Informe el proveedor inicial que se 
+0027#STR0027#ALL#usara como filtro en la emision del 
+0028#STR0028#ALL#informe                             
+0029#STR0029#ALL#A  Proveedor       
+0030#STR0030#ALL#Informe el proveedor final que se   
+0031#STR0031#ALL#usara como filtro en la emision del 
+0032#STR0032#ALL#informe.                            
+0033#STR0033#ALL#De Año              
+0034#STR0034#ALL#Informe el año que se usara como    
+0035#STR0035#ALL#filtro en la emision del informe.   
+0036#STR0036#ALL#De Mes              
+0037#STR0037#ALL#Informe el mes que se usara como    
+0038#STR0038#ALL#filtro en la emision del informe.   
+0039#STR0039#ALL#Idioma              
+0040#STR0040#ALL#Portugues
+0041#STR0041#ALL#Ingles
+0042#STR0042#ALL#Español
+0043#STR0043#ALL#Informe el idioma que se usara en la  
+0044#STR0044#ALL#impresion del informe.                
+0045#STR0045#ALL#Imprime grafico     
+0046#STR0046#ALL#Si
+0047#STR0047#ALL#No
+0048#STR0048#ALL#Informe si el grafico se imprimira cuando 
+0049#STR0049#ALL#el dispositivo seleccionado sea la impresora.

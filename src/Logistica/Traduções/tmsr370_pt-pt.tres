@@ -1,0 +1,21 @@
+0001#STR0001#ALL#Relação Datas De Entrega Em Aberto
+0002#STR0002#ALL#Emite A Relação Datas De Entrega Em Aberto
+0003#STR0003#ALL#Cofacturaorme os parâmetros escolhidos
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#Fil.ori. Docto   Serie Emissão    Hora  Remetente                                Destinatario                             Região Destino                   Uf  Previsão    Atraso Fil.des.
+0007#STR0007#ALL#A Seleccionar Registo No Dt6...
+0008#STR0008#ALL#Cancelado Pelo Operador
+0010#STR0010#ALL#Relação Datas De Entrega Em Aberto
+0011#STR0011#ALL#Emitir a relação de datas de entrega em aberto, conforme os parâmetros digitados
+0012#STR0012#ALL#Fil. Docto + Documento + Série
+0014#STR0014#ALL#Fil.orig.
+0015#STR0015#ALL#Série
+0022#STR0022#ALL#Reg.dest.
+0024#STR0024#ALL#Uf
+0027#STR0027#ALL#Fil.dest.
+0028#STR0028#ALL#Dat.ocorr.
+0029#STR0029#ALL#Seq.ocorr.
+0030#STR0030#ALL#Cód.ocorr.
+0031#STR0031#ALL#Factura
+0032#STR0032#ALL#      dat.ocorr.   seq.  ocorrência.  

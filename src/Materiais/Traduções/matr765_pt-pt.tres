@@ -1,0 +1,28 @@
+0002#STR0002#ALL#Artigos no stock por região e por cliente.
+0003#STR0003#ALL#Este relatório devera ser impresso no formulario de 132 colunas.
+0004#STR0004#ALL#Curva abc de stock - ordem de 
+0005#STR0005#ALL# / % De Participação
+0006#STR0006#ALL#Código de barras
+0007#STR0007#ALL#Administração
+0008#STR0008#ALL#A Seleccionar Registos...
+0009#STR0009#ALL#Número Da Peca  C Denominação                      Valor Unitario % Part % Acum
+0010#STR0010#ALL#Cancelado Pelo Operador
+0011#STR0011#ALL#Região : 
+0021#STR0021#ALL#Nov
+0024#STR0024#ALL#    C.m.m.  Tot.cons.
+0026#STR0026#ALL#Total Crial:
+0027#STR0027#ALL#Curva abc de stock - ordem de 
+0029#STR0029#ALL#Artigos no stock por região e por cliente.
+0030#STR0030#ALL#Este relatório devera ser impresso no formulario de 132 colunas.
+0031#STR0031#ALL# / % De Participação
+0032#STR0032#ALL#Região: 
+0033#STR0033#ALL#Participação: 
+0034#STR0034#ALL#Valor Unitário
+0038#STR0038#ALL#C.m.m.
+0039#STR0039#ALL#Tot.cons.
+0040#STR0040#ALL#Total Crial:
+0041#STR0041#ALL#A seleccionar registos...	
+0051#STR0051#ALL#Nov
+0054#STR0054#ALL#(c.m.m * Vl.unit.)
+0055#STR0055#ALL#%participação
+0058#STR0058#ALL#Artigo

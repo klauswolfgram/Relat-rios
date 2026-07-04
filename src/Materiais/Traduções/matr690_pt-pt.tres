@@ -1,0 +1,37 @@
+0001#STR0001#ALL#Disponibilidade De Stock Para Vendas
+0002#STR0002#ALL#Este programa irá emitir a relação dos artigos em disponibi-
+0003#STR0003#ALL#Lidades De Stock Para Vendas.
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#Código           D  E  S  C  R  I  C  A  O      Um       Saldo Em         Saldo      Pedidos      Pedidos      Reserva     Disponivel
+0007#STR0007#ALL#                                                         Stock     Empenhado    Pendentes   Bloqueados                   P/ Vendas
+0008#STR0008#ALL#Cancelado Pelo Operador
+0009#STR0009#ALL#T o t a l ---> 
+0010#STR0010#ALL# por código    
+0011#STR0011#ALL# por tipo      
+0012#STR0012#ALL# por descrição 
+0013#STR0013#ALL# por armazém   
+0014#STR0014#ALL#A Seleccionar Registos...
+0015#STR0015#ALL#Sub-total do tipo : 
+0016#STR0016#ALL#Sub-total do armazém: 
+0017#STR0017#ALL#Total unidade ---> 
+0018#STR0018#ALL#Disponibilidade De Stock Para Vendas
+0019#STR0019#ALL#Este programa irá emitir a relação dos artigos em disponibi-
+0020#STR0020#ALL#Lidades De Stock Para Vendas.
+0021#STR0021#ALL#Um
+0022#STR0022#ALL#Saldo Em Stock
+0023#STR0023#ALL#Saldo Alocado
+0027#STR0027#ALL#Disponível P/ Venda
+0028#STR0028#ALL#Por Código
+0030#STR0030#ALL#Por Descrição
+0031#STR0031#ALL#Por Armazém
+0032#STR0032#ALL#A seleccionar registos...	
+0033#STR0033#ALL#Sub-total Do Tipo:
+0034#STR0034#ALL#Sub-total Do Armazém:
+0035#STR0035#ALL#Total unidade ---> 
+0036#STR0036#ALL#Total Por Unidade De Medida
+0037#STR0037#ALL#Total Crial
+0038#STR0038#ALL#Artigos
+0039#STR0039#ALL#Saldos Físico E Financeiro
+0040#STR0040#ALL#Elem. Dos Pedidos De Venda
+0041#STR0041#ALL#Pedidos Autorizados

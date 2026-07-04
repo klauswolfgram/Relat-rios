@@ -1,0 +1,16 @@
+0001#STR0001#ALL#Este programa tem como objetivo imprimir os dados
+0002#STR0002#ALL#que seräo utilizados para o Envio da Comunicaçäo
+0003#STR0003#ALL#Bancária".
+0004#STR0004#ALL#Impressao do Envio da Comunicacao Bancaria
+0005#STR0005#ALL#Zebrado
+0006#STR0006#ALL#Administracao
+0007#STR0007#ALL#  No.Bordero  Dt.Bordero  Prf-Numero-Parc.       Tipo  Natureza   Nome do Banco   Agen. Historico                Ocorrencia CNAB                Moeda do Titulo  Situacao do Titulo   Nosso Numero  
+0008#STR0008#ALL#  Codigo do Cliente         Nome do Cliente         Emissao    Vencto.    Saldo Titulo   Valor IRRF          Valor ISS     Valor INSS      Valor PIS   Valor COFINS     Valor CSLL  Juros Vlr.Moeda Nacional
+0009#STR0009#ALL#OCORRENCIA NAO ENCONTRADA
+0010#STR0010#ALL#SIT. NAO ENCONTRADA
+0011#STR0011#ALL#Total dos Titulos : 
+0012#STR0012#ALL#Cons.Saldos Zerados?
+0013#STR0013#ALL#Sim
+0014#STR0014#ALL#Nao
+0015#STR0015#ALL#Tits. Contas a Receber
+0016#STR0016#ALL#Situação Título

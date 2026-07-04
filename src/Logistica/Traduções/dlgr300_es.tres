@@ -1,0 +1,41 @@
+0001#STR0001#ALL#List de Embarq. Separ. por Carg
+0002#STR0002#ALL#Emite Inf. de Lista de Embarq. Separac.  ordenado por
+0003#STR0003#ALL#Carga+Secuencia de Carga. Em cada Carga los items son
+0004#STR0004#ALL#ordenados por Pedido+Cliente / Proveedor+Tienda+Item  
+0005#STR0005#ALL#A Rayas
+0006#STR0006#ALL#Administrac. 
+0007#STR0007#ALL#Item Producto        Lote       Sublote Ubicacion Origen                    1ªUM
+0008#STR0008#ALL#     Descripcion                                                                
+0009#STR0009#ALL#Item Producto        Lote       Sublote Ubicacion Origen                    2ªUM
+0010#STR0010#ALL#Item Producto        Lote       Sublote Ubicacion Origen  Unitiz.   1ªUM    2ªUM
+0011#STR0011#ALL#Item Producto        Lote       Sublote Ubicacion Origen              Cantidad  
+0012#STR0012#ALL#Carga....: 
+0013#STR0013#ALL#Llegada....: [______] Salid: [______]
+0014#STR0014#ALL#Vehiculo.: 
+0015#STR0015#ALL#Conductor..: 
+0016#STR0016#ALL#Peso.....: 
+0017#STR0017#ALL#Fecha....: 
+0018#STR0018#ALL# Hora: 
+0019#STR0019#ALL#Ubic. Dest.: 
+0020#STR0020#ALL#Pedido...: 
+0021#STR0021#ALL#Cliente....: 
+0022#STR0022#ALL#Proveedor..: 
+0023#STR0023#ALL#Seleccionando Registros..
+0024#STR0024#ALL#Aguarde... Preparando Registros para Impresion...
+0025#STR0025#ALL#Ordenan. las Cargas
+0026#STR0026#ALL#Espere....
+0027#STR0027#ALL#Ordenan. los Pedidos
+0028#STR0028#ALL#Espere.... Ordenando Registros para Impresion...
+0029#STR0029#ALL#Llegada
+0030#STR0030#ALL#Salid
+0031#STR0031#ALL#Unitizada
+0032#STR0032#ALL#1ªUM
+0033#STR0033#ALL#2ªUM
+0034#STR0034#ALL#Cargas
+0035#STR0035#ALL#Items da Carga
+0036#STR0036#ALL#Movimientos por ubicacion
+0037#STR0037#ALL#Sec
+0038#STR0038#ALL#Vehiculo
+0039#STR0039#ALL#Valor
+0040#STR0040#ALL#Pedido
+0041#STR0041#ALL#Item

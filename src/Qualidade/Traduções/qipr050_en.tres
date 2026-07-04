@@ -1,0 +1,43 @@
+0001#STR0001#ALL#Quality Certificate
+0002#STR0002#ALL#This report will print the Quality Certificate
+0003#STR0004#ALL# Superior Text 
+0004#STR0005#ALL# Inferior Text 
+0005#STR0006#ALL# Printing 
+0006#STR0007#ALL#Quality Certificate
+0007#STR0008#ALL#Configuration Items  
+0008#STR0009#ALL#This report will print the Certificates
+0009#STR0010#ALL#Quality Certificate
+0010#STR0011#ALL#Z.Form
+0011#STR0012#ALL#Management
+0012#STR0013#ALL#Selecting Records...
+0013#STR0014#ALL# from 
+0014#STR0015#ALL#LABORATORY : 
+0015#STR0016#ALL#Specified
+0016#STR0017#ALL#Found
+0017#STR0018#ALL#Minimum
+0018#STR0019#ALL#Maximum
+0019#STR0020#ALL#Found
+0020#STR0021#ALL#January
+0021#STR0022#ALL#February
+0022#STR0023#ALL#March
+0023#STR0024#ALL#April
+0024#STR0025#ALL#May
+0025#STR0026#ALL#June
+0026#STR0027#ALL#July
+0027#STR0028#ALL#August
+0028#STR0029#ALL#September
+0029#STR0030#ALL#October
+0030#STR0031#ALL#November
+0031#STR0032#ALL#December
+0032#STR0033#ALL#OPERAT.: 
+0033#STR0034#ALL# Complementary Information 
+0034#STR0035#ALL#Due to the urgency in approving the Report, it is not possible to print the Quality Certificate.
+0035#STR0036#ALL#Attention
+0036#STR0037#ALL#Do you want to print the Text Analysis ?
+0037#STR0038#ALL#One Measurement
+0038#STR0039#ALL#All Measurements
+0039#STR0040#ALL#Invoice
+0040#STR0041#ALL#Series
+0041#STR0042#ALL#Average
+0042#STR0043#ALL#Inconsistence identified. Please check (Product order + Lot + Series number + Product + Revision)
+0043#STR0044#ALL#Inconsistence identified. Please check key (Product + Production date)

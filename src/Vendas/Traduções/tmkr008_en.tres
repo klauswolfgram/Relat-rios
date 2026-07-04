@@ -1,0 +1,13 @@
+0001#STR0001#ALL#Acessories File and KIT
+0002#STR0002#ALL#This program will issue a list of acessories of products
+0003#STR0003#ALL#and present the products which are part of the KIT.
+0004#STR0004#ALL#The issue will be based on the report parameters
+0005#STR0005#ALL#Z-Form
+0006#STR0006#ALL#Administration
+0007#STR0007#ALL#CANCELLED BY THE OPERATOR
+0008#STR0008#ALL#Product Code
+0009#STR0009#ALL#Product Description
+0010#STR0010#ALL#Product          Description                     Loc      Qtt.    Kit    Observat. 
+0011#STR0011#ALL#There is no information to print this report
+0012#STR0012#ALL#Accessories
+0013#STR0013#ALL#Accessory items   

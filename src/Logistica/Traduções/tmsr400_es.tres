@@ -1,0 +1,41 @@
+0001#STR0001#ALL#Cuentas Corr. de Transportista
+0002#STR0002#ALL#Emite Cuentas Corr. de Transportista,   
+0003#STR0003#ALL#segun los parametros informados  
+0004#STR0004#ALL#A rayas
+0005#STR0005#ALL#Administrac. 
+0006#STR0006#ALL#Seleccionando Documentos...
+0007#STR0007#ALL#VIAJE       FC.GEN.    FC.ENC.    No.CONTRATO   ITINERARIO                       FLETE PREVISTO           PEAJE        ANTICIPO        DESC. ANTICIPO                    SALDO POR COBRAR
+0008#STR0008#ALL#Seleccion. Registros...  
+0009#STR0009#ALL#Propietario:  
+0010#STR0010#ALL#Cod. Vehiculo: 
+0011#STR0011#ALL#Placa Vehiculo:
+0012#STR0012#ALL#Desc. Vehiculo:
+0013#STR0013#ALL#TOTAL VIAGEM 
+0014#STR0014#ALL#TOTAL PREVISTO PARA EL VEHICULO
+0015#STR0015#ALL#GASTOS PENDIENTES PARA EL VEHICULO
+0016#STR0016#ALL#EMISION   VENCIMIENTO GASTO                                       VALOR
+0017#STR0017#ALL#TOTAL DE GASTOS   PENDIENT. PARA EL VEHICULO
+0018#STR0018#ALL#ANULADO POR EL OPERADOR
+0019#STR0019#ALL#Cuentas Corrientes del Transportista
+0020#STR0020#ALL#Emite las Cuentas Corrientes del Transportista segun los parametros informados
+0021#STR0021#ALL#Dueño + Vehiculo
+0022#STR0022#ALL#Dueño
+0023#STR0023#ALL#Vehiculo
+0024#STR0024#ALL#Total Previsto para el vehiculo
+0025#STR0025#ALL#Suc.Origen
+0026#STR0026#ALL#Viaje
+0027#STR0027#ALL#Fch.Genera
+0028#STR0028#ALL#Fch.Enc.
+0029#STR0029#ALL#Contrato
+0030#STR0030#ALL#Trayecto
+0031#STR0031#ALL#Descripción
+0032#STR0032#ALL#Flete Previsto
+0033#STR0033#ALL#Peaje
+0034#STR0034#ALL#Adicional
+0035#STR0035#ALL#Saldo por Cobrar
+0036#STR0036#ALL#Total del Viaje
+0037#STR0037#ALL#Gastos
+0038#STR0038#ALL#Total de Gastos Pendientes
+0039#STR0039#ALL#Emision
+0040#STR0040#ALL#Vencimiento
+0041#STR0041#ALL#Valor

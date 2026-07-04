@@ -1,0 +1,45 @@
+0001#STR0001#ALL#Este programa emite la lista del movimiento bancario, segun
+0002#STR0002#ALL#los parametros definidos por el usuario. Se puede imprimir en 
+0003#STR0003#ALL#orden de fecha disponible, banco, modalidad o fecha de registro.
+0004#STR0004#ALL#Por Fch Disp
+0005#STR0005#ALL#Por Banco
+0006#STR0006#ALL#Por Modalid.
+0007#STR0007#ALL#Fch de Reg.
+0008#STR0008#ALL#Lista del Movimiento Bancario en 
+0009#STR0009#ALL#FECHA       BCO AGENCIA  CUENTA      MODALIDAD    DOCUMENTO                                                    VALOR                  HISTORIAL
+0010#STR0010#ALL#                                                                                               ENTRADA                     SALIDA
+0011#STR0011#ALL#por fecha
+0012#STR0012#ALL#Seleccionando Registros..
+0013#STR0013#ALL# por Banco
+0014#STR0014#ALL#por Modalidad
+0015#STR0015#ALL#  Por Fecha de Registro
+0016#STR0016#ALL#ANULADO POR EL OPERADOR
+0017#STR0017#ALL#Total General:
+0018#STR0018#ALL#No hay registros en este periodo
+0019#STR0019#ALL#A Rayas
+0020#STR0020#ALL#Administrac.
+0021#STR0021#ALL#Lista del movimiento bancario
+0022#STR0022#ALL# Analitico
+0023#STR0023#ALL# Sintetico
+0024#STR0024#ALL#FECHA       BCO AGENCIA  CUENTA      MODALIDAD   DOCUMENTO NUM. CHEQUE                                      VALOR                                          HISTORIAL
+0025#STR0025#ALL#                                                                                             ENTRADA                SALIDA              SALDO ACTUAL
+0026#STR0026#ALL#Movimiento bancario en   
+0027#STR0027#ALL#                                                                  ENTRADA         SALIDA       SALDO ACTUAL
+0028#STR0028#ALL# - 
+0029#STR0029#ALL#Analitico
+0030#STR0030#ALL#Sintetico
+0031#STR0031#ALL#Saldo anterior a 
+0032#STR0032#ALL# (Todos los bancos):
+0033#STR0033#ALL#Total : 
+0034#STR0034#ALL#Por Fch. Movimiento
+0035#STR0035#ALL#Saldo anterior de bancos
+0036#STR0036#ALL#Movimiento Bancario
+0037#STR0037#ALL#Tot.
+0038#STR0038#ALL#Entrada
+0039#STR0039#ALL#Salida
+0040#STR0040#ALL#Sdo. actual
+0041#STR0041#ALL#Saldo anterior
+0042#STR0042#ALL#Fch.
+0043#STR0043#ALL#Se opto por seleccionar sucursales. Se debe seleccionar por lo menos una, para generar el informe, si no se selecciona, se considerara solamente la sucursal corriente.
+0044#STR0044#ALL#¡Importante! Algunos entes, como proveedores, bancos etc, pueden tener un codigo en la sucursal A, pero en la sucursal B, este mismo codigo no necesariamente representa al mismo ente.
+0045#STR0045#ALL#¿Desea volver a la seleccion de sucursales?

@@ -1,0 +1,16 @@
+0001#STR0001#BRA#Escala vs. Cliente y Contrato
+0002#STR0002#BRA#Si
+0003#STR0003#BRA#No
+0004#STR0004#BRA#Cod. del Cliente
+0005#STR0005#BRA#Nombre del Cliente
+0006#STR0006#BRA#Desc. del Motivo
+0007#STR0007#BRA#Hrs. Planificadas
+0008#STR0008#BRA#Hrs. Realizadas
+0009#STR0009#BRA#Total de Atendimientos realizados
+0010#STR0010#BRA#Total de Atendimientos planificados
+0011#STR0011#BRA#Total de Atendimientos realizados
+0012#STR0012#BRA#Total de atendimientos realizados vs. Planeados
+0013#STR0013#BRA#Este informe solo esta disponible para Topconnect.
+0014#STR0014#BRA#Valor del contrato
+0015#STR0015#BRA#Valor total de los contratos
+0016#STR0016#ALL#Tiempo mantenimiento

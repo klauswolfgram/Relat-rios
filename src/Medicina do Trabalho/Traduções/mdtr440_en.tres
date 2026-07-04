@@ -1,0 +1,67 @@
+0001#STR0001#ALL#Presentation Report of Occupational Health Certificate issued
+0002#STR0002#ALL#Through the parameters the user may select: Desired Period
+0003#STR0003#ALL#Z. Form
+0004#STR0004#ALL#Management
+0005#STR0005#ALL#Occupational Health Certificate
+0006#STR0006#ALL#ASO    Form     Employee Employee Name                     Program.   Issuance    Cancel.    Report              Nature
+0007#STR0007#ALL#CANCELLED BY OPERATOR
+0008#STR0008#ALL#Admission
+0009#STR0009#ALL#Periodical
+0010#STR0010#ALL#Function Change
+0011#STR0011#ALL#Return to Work
+0012#STR0012#ALL#Dismissal
+0013#STR0013#ALL#Cancelled
+0014#STR0014#ALL#Apt
+0015#STR0015#ALL#Inapt
+0016#STR0016#ALL#Apt With Restrictions
+0017#STR0017#ALL#Report Summary
+0018#STR0018#ALL#Apt...................:
+0019#STR0019#ALL#Inapt.................:
+0020#STR0020#ALL#Apt with Retrictions.:
+0021#STR0021#ALL#Cancelled..............:
+0022#STR0022#ALL#Customer..:
+0023#STR0023#ALL#Customer´s Summary
+0024#STR0024#ALL#From Customer ?
+0025#STR0025#ALL#Unit
+0026#STR0026#ALL#To Customer ?
+0027#STR0027#ALL#Customer code. The field can be blank to consider the first code.
+0028#STR0028#ALL#Customer unit code. The field can be blank to consider the first code.
+0029#STR0029#ALL#Customer code. You can fill in this field with Z up to its limit to consider the last code.
+0030#STR0030#ALL#Customer unit code. You can fill in this field with Z up to its limit to consider the last code.
+0031#STR0031#ALL#Occupational Health Certificate
+0032#STR0032#ALL#Customer
+0033#STR0033#ALL#Name
+0034#STR0034#ALL#OHC
+0035#STR0035#ALL#Form
+0036#STR0036#ALL#Registration
+0037#STR0037#ALL#Employee Name
+0038#STR0038#ALL#Sched.
+0039#STR0039#ALL#Issue
+0040#STR0040#ALL#Cancel.
+0041#STR0041#ALL#Opinion
+0042#STR0042#ALL#Class
+0043#STR0043#ALL#Certificate (OHC)
+0044#STR0044#ALL#Summary by Customer
+0045#STR0045#ALL#Report Summary:
+0046#STR0046#ALL#Able
+0047#STR0047#ALL#Unable
+0048#STR0048#ALL#Able with Restrictions
+0049#STR0049#ALL#Cancelled
+0050#STR0050#ALL#Summary
+0051#STR0051#ALL#Processing File...
+0052#STR0052#ALL#Customer/Unit:
+0053#STR0053#ALL#No data to print in the report.
+0054#STR0054#ALL#To Customer?
+0055#STR0055#ALL#To Issue Date?
+0056#STR0056#ALL#From Issue Date?
+0057#STR0057#ALL#To ASO?
+0058#STR0058#ALL#To ASO?
+0059#STR0059#ALL#Function
+0060#STR0060#ALL#WARNING
+0061#STR0061#ALL#Parameter 'From ASO' cannot be greater than 'To ASO'!
+0062#STR0062#ALL#Please enter a value greater than the parameter 'From ASO'.
+0063#STR0063#ALL#Function               Cost Center                          Task
+0064#STR0064#ALL#Role Change
+0065#STR0065#ALL#Cost Center
+0066#STR0066#ALL#Task
+0067#STR0067#ALL#Social Name

@@ -1,0 +1,76 @@
+0001#STR0001#ALL#Report of Checks to Credit
+0002#STR0002#ALL#This program prints a report on all checks 
+0003#STR0003#ALL#to credit.
+0004#STR0004#ALL#Z.Form 80/132
+0005#STR0005#ALL#Management
+0006#STR0006#ALL#Due Date
+0007#STR0007#ALL#Customer
+0008#STR0008#ALL#Receipt
+0009#STR0009#ALL#Check Number
+0010#STR0010#ALL#Issue Dt
+0011#STR0011#ALL#JANUARY
+0012#STR0012#ALL#FEBRUARY
+0013#STR0013#ALL#MARCH
+0014#STR0014#ALL#APRIL
+0015#STR0015#ALL#MAY
+0016#STR0016#ALL#JUNE
+0017#STR0017#ALL#JULY
+0018#STR0018#ALL#AUGUST
+0019#STR0019#ALL#SEPTEMBER
+0020#STR0020#ALL#OCTOBER
+0021#STR0021#ALL#NOVEMBER
+0022#STR0022#ALL#DECEMBER
+0023#STR0023#ALL#Selecting Checks...
+0024#STR0024#ALL#* Code      Name                        Number         Date      State     Due Date./    Import    Bank Dep. (Name)         Curren.*
+0025#STR0025#ALL#* Code      Name                        Number         Date      State     Due Date /    Import    Bank  Dep.(Bnk/Age/Acc)  Curren.*
+0026#STR0026#ALL#* Code      Name                        Number         Date      State     Due Date /    Import    Bank  Ori.(Bnk/Age/Acc)  Curren.*
+0027#STR0027#ALL#*                                      (RCPT/CHK)      Issue               Clearing                                        Original*
+0028#STR0028#ALL#*** Report on Checks to credit in 
+0029#STR0029#ALL# to 
+0030#STR0030#ALL#Monthly Total of 
+0031#STR0031#ALL# (in PESOS) 
+0032#STR0032#ALL#Total to credit ref.Customer  
+0033#STR0033#ALL#Rejected
+0034#STR0034#ALL#Clearing
+0035#STR0035#ALL#Overdue
+0036#STR0036#ALL#In Date
+0037#STR0037#ALL#Not registered
+0038#STR0038#ALL#In Protfolio
+0039#STR0039#ALL#Cash 
+0040#STR0040#ALL#+++ CANCELLED BY THE OPERATOR +++
+0041#STR0041#ALL#Monthly Total of 
+0042#STR0042#ALL# (in PESOS) 
+0043#STR0043#ALL#Total to credit ref.Customer (IN PESOS)...
+0044#STR0044#ALL#GRAND TOTAL.....(IN PESOS) : 
+0045#STR0045#ALL#From Customer?    
+0046#STR0046#ALL#To Customer?      
+0047#STR0047#ALL#From Issue Date?  
+0048#STR0048#ALL#To Issue Date?    
+0049#STR0049#ALL#From Due Date?    
+0050#STR0050#ALL#To Due Date?      
+0051#STR0051#ALL#Status?           
+0052#STR0052#ALL#Print Bank?       
+0053#STR0053#ALL#In Portfolio
+0054#STR0054#ALL#In Bank
+0055#STR0055#ALL#All
+0056#STR0056#ALL#Bnk Dep(Name)
+0057#STR0057#ALL#Bnk Dep(Code)
+0058#STR0058#ALL#Orig.Bank
+0059#STR0059#ALL#No data will be generated for this report. Justify the report parameters.    
+0060#STR0060#ALL#No Data  
+0061#STR0061#ALL# in 
+0062#STR0062#ALL#Number
+0063#STR0063#ALL#RCPT/CHK
+0064#STR0064#ALL#STATE 
+0065#STR0065#ALL#Due date
+0066#STR0066#ALL#Clearing
+0067#STR0067#ALL#Curr.
+0068#STR0068#ALL#Original
+0069#STR0069#ALL#Dep. bank (Nom.) 
+0070#STR0070#ALL#Dep bank (Bnk/Brnc/Acc)
+0071#STR0071#ALL#Or. bank (Bnk/Brnc/Acc)
+0072#STR0072#ALL#Grand total on 
+0073#STR0073#ALL#Bills
+0074#STR0074#ALL#Accounts Receivable
+0075#STR0075#ALL#Bk. Check (Bk/Bran/Zip Code)
+0076#STR0076#ALL#Check Bank (Name)

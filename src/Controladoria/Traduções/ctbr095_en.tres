@@ -1,0 +1,60 @@
+0001#STR0001#ALL#This program will print the Report of Entries by          
+0002#STR0002#ALL# according to the suggested parameters  
+0003#STR0003#ALL#  by the user. 
+0004#STR0004#ALL#Z.Form 
+0005#STR0005#ALL#Management   
+0006#STR0006#ALL#Issue of Report of Entries by           
+0007#STR0007#ALL#Report of Entries by          
+0008#STR0008#ALL# DETAILED IN  
+0009#STR0009#ALL#FR
+0010#STR0010#ALL#TO 
+0011#STR0011#ALL#(BUDGET)
+0012#STR0012#ALL#(MANAGER. )
+0013#STR0013#ALL#ACCOUNT                    D E S C R I P T I O N                         C/PARTY                 TYPO    NUMBER              DATE        HISTORY                                 ENTRY VALUE                     CURR.BALANC
+0014#STR0014#ALL# SUMMARIZ. IN 
+0015#STR0015#ALL#***** CANCELLED BY OPERATOR   *****
+0016#STR0016#ALL#COST CENTER     - 
+0017#STR0017#ALL#T O T A L
+0018#STR0018#ALL#Creating Temporary File......
+0019#STR0019#ALL#DATE
+0020#STR0020#ALL#A c c o u n t  T o t a l    => 
+0021#STR0021#ALL#A c c o u n t  p r i o r  B a l a n c e     => 
+0022#STR0022#ALL#G R A N D  T O T A L   
+0023#STR0023#ALL#OF TRANSFER   : 
+0024#STR0024#ALL#ACCT. - 
+0025#STR0025#ALL#DATE                                                                            DEBIT                CREDIT             CURR.BALANC
+0026#STR0026#ALL#PRIOR BALANCE: 
+0027#STR0027#ALL#LOT /SUB/DOC/LINE  H I S T O R Y                            C/PARTY                                                                
+0028#STR0028#ALL#DEBIT          CREDIT       CURR.BALANC
+0029#STR0029#ALL#DATE                                                                            DEBIT                CREDIT             CURR.BALANC
+0030#STR0030#ALL#The managerial plan is not available in this report.  
+0031#STR0031#ALL#DESCRIPT.
+0032#STR0032#ALL#Cost Center    
+0033#STR0033#ALL#Prev. balance 
+0034#STR0034#ALL#Entries    
+0035#STR0035#ALL#Total
+0036#STR0036#ALL#Acct.
+0037#STR0037#ALL#Date
+0038#STR0038#ALL#Descript.
+0039#STR0039#ALL#Counter entry 
+0040#STR0040#ALL#Type
+0041#STR0041#ALL#Number
+0042#STR0042#ALL#History  
+0043#STR0043#ALL#Entry amount       
+0044#STR0044#ALL#Current bln
+0045#STR0045#ALL#Lot 
+0046#STR0046#ALL#Sub-lot 
+0047#STR0047#ALL#Document 
+0048#STR0048#ALL#Row  
+0049#STR0049#ALL#Entry sequence         
+0050#STR0050#ALL#History sequence
+0051#STR0051#ALL#Original company
+0052#STR0052#ALL#Original branch
+0053#STR0053#ALL#Attention
+0054#STR0054#ALL#This report must be issued in landscape layout. Confirm print?
+0055#STR0055#ALL#Confirm
+0056#STR0056#ALL#Quit
+0057#STR0057#ALL#Columns Description and History will be excluded from the report. Confirm exclusion?
+0058#STR0058#ALL#Yes
+0059#STR0059#ALL#No
+0060#STR0060#ALL#This report is printed only in landscape layout.

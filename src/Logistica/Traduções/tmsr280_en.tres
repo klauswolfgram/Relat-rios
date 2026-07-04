@@ -1,0 +1,24 @@
+0001#STR0001#ALL#Report of trips
+0002#STR0002#ALL#Issue Trip Report
+0003#STR0003#ALL#according to parameters input
+0004#STR0004#ALL#Z.form
+0005#STR0005#ALL#Management
+0006#STR0006#ALL#                                             *---VEHICLE---* *---TOWING 1---* *---TOWING 2---*
+0007#STR0007#ALL#DATE      HOUR BRC.ORI TRIP   BRC.DES EMPTY CODE     PLATE   CODE     PLATE   CODE     PLATE   DRIVER   
+0008#STR0008#ALL#Selecting record in DTQ...
+0009#STR0009#ALL#CANCELED BY OPERATOR
+0010#STR0010#ALL#Trips 
+0011#STR0011#ALL# ===> 
+0012#STR0012#ALL#TOTAL OF 
+0013#STR0013#ALL#(
+0014#STR0014#ALL# Trip(s))
+0015#STR0015#ALL#No
+0016#STR0016#ALL#Yes
+0017#STR0017#ALL#Report of Trips
+0018#STR0018#ALL#Issues report of trips according to parameters entered
+0019#STR0019#ALL#Status + Origin Bra.+ Trip
+0020#STR0020#ALL#Status
+0021#STR0021#ALL#Total of Status
+0022#STR0022#ALL#Trip
+0023#STR0023#ALL#Plate
+0024#STR0024#ALL#Driver

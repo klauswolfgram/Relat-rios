@@ -1,0 +1,86 @@
+0001#STR0001#ALL#Este Programa Irá Emitir O Boletim De Entrada.
+0002#STR0002#ALL#Boletim De Entrada
+0003#STR0003#ALL#Código de barras
+0004#STR0004#ALL#Administração
+0005#STR0005#ALL#Cancelado Pelo Operador
+0006#STR0006#ALL#------------------------------------------------------- dados da factura -------------------------------------------------------
+0007#STR0007#ALL#Código material|un|descr.da mercadoria |quantidade |vlr.unitário|valor total |iva  |iuc |
+0008#STR0009#ALL#Conta Contabilística
+0010#STR0011#ALL#Tes|código fiscal |
+0011#STR0012#ALL#Custo unit. 
+0012#STR0013#ALL#Custo total 
+0013#STR0014#ALL#Sem Pedido De Compra
+0014#STR0015#ALL#------------------------------------------- produto(s) enviado(s) ao controle de qualidade -----------------------------------------
+0015#STR0016#ALL#Produto              |         local origem          |        local destino       |    data transferência     |     número do cq.   
+0016#STR0019#ALL#--------------------------------------------- divergências com o pedido de compra --------------------------------------------------
+0017#STR0020#ALL#Div|Número     |Descrição do Prod.|Quantidade |Preço Unitár.| Emissão  | Entrega  |   S.C.  |Solicitante    | C.Custo |Cond.Pagto   
+0018#STR0023#ALL#------------------------------------------------------- totais da factura ------------------------------------------------------
+0019#STR0024#ALL# base de cálculo icms|  valor do icms      |base calc.icms subst.|  valor icms subst.   |valor total dos artigos|    descontos     
+0020#STR0025#ALL#  valor do frete        |      valor do seguro    | outras despesas acesso.|   valor total do ipi    |   valor total da nota       
+0021#STR0026#ALL#--------------------------------------------------- desdobramento de duplicatas ----------------------------------------------------
+0022#STR0027#ALL#Ser|título/parc. | vencto   |valor do título  | natureza          ||ser|título/parc. | vencto   |valor do título  | natureza        
+0023#STR0030#ALL#----------------------------------------------- recibo dos livros fiscais ---------------------------------------------------
+0024#STR0031#ALL#|                                |   operações c/ crédito de imposto   |            operações s/ crédito de imposto                 |
+0025#STR0032#ALL#|    |código fiscal |quot| valor contabilístico | base de cálculo  |     imposto      |     isentas      |      outras      |     observação       |
+0026#STR0033#ALL#------------------------------------------------------------------- vistos ---------------------------------------------------------
+0027#STR0034#ALL#| recebimento  fiscal           | contabilístico/custos                | departamento fiscal              | administração                |
+0028#STR0035#ALL#Utilizador: 
+0029#STR0036#ALL# data base: 
+0030#STR0037#ALL#Boletim de entrada      material recebido em: 
+0031#STR0038#ALL# - (devolulção)
+0032#STR0039#ALL#Dados Do Cliente                                                     |factura   | Espec| Tipo Da Nota      | Emissão  | Vencto
+0034#STR0041#ALL#| valor total   
+0035#STR0042#ALL#-----------------------------------------------   relação de impostos por elemento   ------------------------------------------------
+0036#STR0043#ALL#Dados Do Fornecedor                                                  |factura   | Espec| Tipo Da Factura       | Emissão  | Vencto
+0037#STR0044#ALL#Código  material|un|descr.da mercadoria |quantidade |vlr.unitário| valor total            | 
+0038#STR0045#ALL#  valor do frete        |      valor do seguro    | outras despesas acesso.|   valor total da factura   |                              
+0039#STR0046#ALL# base de cálculo imp.|  valor dos impost. |                                             |valor total dos produtos|    descontos     
+0041#STR0048#ALL#Data impressão 
+0042#STR0049#ALL#Hora ref. 
+0043#STR0050#ALL#|     produto      |               descrição                  | imp |  quot  |     base de cálculo     |      valor do imposto      
+0045#STR0052#ALL#Devolução         
+0047#STR0054#ALL#Complemento icms  
+0048#STR0055#ALL#Complemento ipi   
+0049#STR0056#ALL#Compl.preço/frete 
+0050#STR0057#ALL#Dados Do Fornecedor                                                  |factura       | Espec| Tipo Da Factura     | Emissão  | Vencto
+0051#STR0058#ALL#Div|número     |descrição do produto|quantidade |preço unitar.| emissão  | entrega  |   s.c.     |solicitante    | c.custo |cond.pgt   
+0052#STR0059#ALL#----------------------------------------------- comprovativo dos demais impostos --------------------------------------------------
+0053#STR0060#ALL#|                   | base de cálculo  |     imposto      |                                                                          
+0054#STR0061#ALL#------------------------------------------------------- entidades contabilísticas --------------------------------------------------------
+0055#STR0062#ALL#Item factura | item | % rat | centro de custo | conta contabilística       | item conta | classe valor 
+0056#STR0063#ALL#Código  material|un|descr. mercadoria|az|quantidade |vlr.unitario|valor total |ipi  |icms |	
+0057#STR0064#ALL#Código material|un|descr. mercadoria|az|quantidade |vlr.unitário| valor total            | 
+0058#STR0065#ALL#Material recebido em: 
+0059#STR0066#ALL#Dados Do Fornecedor
+0060#STR0067#ALL#Base De Cálculo Imp.
+0061#STR0068#ALL#Valor Dos Impostos
+0062#STR0069#ALL#Base De Cálculo
+0066#STR0073#ALL#Observação
+0067#STR0074#ALL#Descrição
+0071#STR0078#ALL#Dados Do Cliente
+0073#STR0080#ALL#Ret  
+0075#STR0082#ALL#Obs. 
+0076#STR0083#ALL#Pis Apuramento
+0077#STR0084#ALL#Cofins Apuramento
+0078#STR0085#ALL#------------------------------------------------------- elementos da factura -------------------------------------------------------
+0079#STR0086#ALL#IVA
+0080#STR0087#ALL#Segurança social
+0081#STR0088#ALL#Icms  
+0082#STR0089#ALL#Cabeçalho do boletim (parte 2)
+0083#STR0090#ALL#Cabeçalho do boletim (parte 1)
+0084#STR0091#ALL#Dados Da Empresa/filial
+0085#STR0092#ALL#Fornecedor (parte 1)
+0086#STR0093#ALL#Fornecedor (parte 2)
+0087#STR0094#ALL#Cliente (parte 1)
+0088#STR0095#ALL#Cliente (parte 2)
+0091#STR0098#ALL#Entidades Contabilísticas
+0092#STR0099#ALL#Artigos Enviados Ao Cq
+0093#STR0100#ALL#Divergência Com Pedido De Compra
+0094#STR0101#ALL#Totais da factura (parte 1)
+0095#STR0102#ALL#Totais da factura (parte 2)
+0096#STR0103#ALL#Contas A Pagar
+0098#STR0105#ALL#Outros Impostos
+0099#STR0106#ALL#Livros fiscais (localizado)
+0100#STR0107#ALL#Dados Do Cliente                                         |factura               | Espec| Tipo Da Nota      | Emissão  | Vencto
+0101#STR0108#ALL#Dados Do Fornecedor                                          |factura               | Espec| Tipo Da Nota     | Emissão  | Vencto
+0102#STR0109#ALL#Ser|título/parc.         | Vencto   |valor Do Título  | Natureza  ||ser|título/parc.         | Vencto   |valor Do Título  | Natureza

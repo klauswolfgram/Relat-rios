@@ -1,0 +1,22 @@
+0001#STR0001#ALL#Llamad. vs. Interacc.
+0002#STR0002#ALL#Este programa emitira una lista de llamadas que no se solucionaron en el numero maximo de interacciones con el cliente.
+0003#STR0003#ALL#Grupo
+0004#STR0004#ALL#Llamadas
+0005#STR0005#ALL#Anal. Sintetica
+0006#STR0006#ALL#Equipo
+0007#STR0007#ALL#Analista
+0008#STR0008#ALL#Cliente
+0009#STR0009#ALL#Descrip.
+0010#STR0010#ALL#Prod.
+0011#STR0011#ALL#Analista
+0012#STR0012#ALL#Cant. de interacc.
+0013#STR0013#ALL#Total de llamadas 
+0014#STR0014#ALL#Codigo
+0015#STR0015#ALL#Cant. total llamadas
+0016#STR0016#ALL#Cant. llamadas con mas de X interacc.
+0017#STR0017#ALL#(%) de llamadas con mas de X interacc.
+0018#STR0018#ALL#Cant. de llamad. en el per.: 
+0019#STR0019#ALL#Cant. de llamadas con mas de 
+0020#STR0020#ALL# interacc.: 
+0021#STR0021#ALL#Porcentaje de llamadas con mas de 
+0022#STR0022#ALL#Resultados por equipo

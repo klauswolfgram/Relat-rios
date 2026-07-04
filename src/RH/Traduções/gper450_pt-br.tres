@@ -1,0 +1,34 @@
+0001#STR0001#ALL#Matrícula
+0002#STR0002#ALL#Centro de Custo
+0003#STR0003#ALL#Nome
+0004#STR0004#ALL#Relatório dos Salários de Contribuiçäo
+0005#STR0005#ALL#Será impresso de acordo com os parâmetros solicitados pelo
+0006#STR0006#ALL#usuário.
+0007#STR0007#ALL#Zebrado
+0008#STR0008#ALL#Administraçäo
+0009#STR0009#ALL#RELAÇÄO DOS SALÁRIOS DE CONTRIBUIÇÄO
+0010#STR0011#ALL#| 1-MÊS/ANO | VALOR SALÁRIO CONTRIBUIÇÃO  | DATA RECOLHIMENTO | 1-MÊS/ANO | VALOR SALÁRIO CONTRIBUIÇÃO  | DATA RECOLHIMENTO |
+0011#STR0012#ALL#TOTAL DA PÁGINA  |
+0012#STR0014#ALL#Não Cad.Tab. 41
+0013#STR0015#ALL#AUMENTOS  SALARIAIS
+0014#STR0016#ALL#|   2-MÊS/ANO   |                                        MOTIVO                                        |     PERCENTUAL     |
+0015#STR0017#ALL#LOCALIDADE E DATA 
+0016#STR0018#ALL#ASSINATURA DO RESPONSÁVEL E CARIMBO DA EMPRESA
+0017#STR0019#ALL#DOCUMENTO EMITIDO CONFORME AUTORIZAÇÃO DA DIVISÃO DE CONCESSÃO DE BENEFÍCIOS DE ACORDO COM O PT 
+0018#STR0020#ALL#A INEXATIDÃO DAS DECLARAÇÕES QUE CONSTAM NESTE DOCUMENTO CONSTITUEM CRIME PREVISTO NOS ARTIGOS 171 E 299 DO CÓDIGO PENAL.
+0019#STR0021#ALL#|    EMPRESA                                                                                           |    Nº CNPJ         |
+0020#STR0023#ALL#|    ENDEREÇO                                                                                          |    MATR. INSS      |
+0021#STR0024#ALL#|    NOME DO SEGURADO                                                                                  |    Nº CPF          |
+0022#STR0025#ALL#FIL: 
+0023#STR0026#ALL# - MAT: 
+0024#STR0027#ALL# - CC: 
+0025#STR0028#ALL#|    DOC.INSCRIÇÃO Nº de SÉRIE   |    DATA ADMISSÃO / INÍCIO CONTRIBUIÇÃO    |    DATA DESLIGAMENTO    |    Nº PIS/PASEP    |
+0026#STR0029#ALL#|   2-MÊS/ANO   |                                       DESCRIÇÃO                                      |       VALOR        |
+0027#STR0030#ALL#RELAÇÃO DOS SALÁRIOS
+0028#STR0031#ALL#SALÁRIO DO MÊS
+0029#STR0032#ALL#TOTAL GERAL |
+0030#STR0033#ALL#Continua na Próxima Página...
+0031#STR0034#ALL#|    NOME DO SEGURADO                             |
+0032#STR0035#ALL#|    Nº CPF          |
+0033#STR0036#ALL#|    EMPRESA                                                                                           |    No CEI          |
+0034#STR0037#ALL#| 1-MÊS/ANO | V.SAL.CONTRIB. | V.CONTRIB.REC. | DATA RECOLHI. | 1-MÊS/ANO | V.SAL.CONTRIB. | V.CONTRIB.REC. | DATA RECOLHI.

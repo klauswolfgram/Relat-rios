@@ -1,0 +1,13 @@
+0001#STR0001#ALL#El objetivo de este programa es imprimir informes  
+0002#STR0002#ALL#de acuerdo con los parametros informados por el usuario.
+0003#STR0003#ALL#Informe de transferencia entre Tiendas
+0004#STR0004#ALL#A Rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#Cod.Produc.                  Desc.Produc.                              Cantidad              Costo de Salida     Costo de Entrada
+0007#STR0007#ALL#Sucursal Origen: 
+0008#STR0008#ALL#Sucursal Destino: 
+0009#STR0009#ALL#Serie Doc:  
+0010#STR0010#ALL#Numero Doc: 
+0011#STR0011#ALL#Fecha de Salida: 
+0012#STR0012#ALL#Fecha de Entrada: 
+0013#STR0013#ALL#*** ANULADO POR EL OPERADOR ***

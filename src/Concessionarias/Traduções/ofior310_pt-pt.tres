@@ -1,0 +1,14 @@
+0001#STR0001#ALL#Este programa tem como objetivo imprimir relatório 
+0002#STR0002#ALL#De acordo com os parâmetro s informados pelo utilizador.
+0003#STR0003#ALL#Relatório de vendas perdidas
+0004#STR0004#ALL#Doc.-----vendedor---------------------------grupo-peca--------------------------qtd---------valor-motivo
+0005#STR0005#ALL#Código de barras
+0006#STR0006#ALL#Administração
+0007#STR0007#ALL#*** cancelado pelo operador ***
+0008#STR0008#ALL#Controlo de Vendas Perdidas
+0009#STR0009#ALL#Doc.
+0012#STR0012#ALL#Cód.Elemento
+0013#STR0013#ALL#Qtd.
+0014#STR0014#ALL#Vlr.
+0015#STR0015#ALL#Mot.
+0016#STR0016#ALL#Descrição

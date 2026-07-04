@@ -1,0 +1,48 @@
+0001#STR0001#ALL#Show all the risks to which the employee is exposed currently, as
+0002#STR0002#ALL#well as the risks that exist in the new environment where the
+0003#STR0003#ALL#employee will work.
+0004#STR0004#ALL#Z. Form
+0005#STR0005#ALL#Management
+0006#STR0006#ALL#Employee´s Current Risks and Existing Ones in the New Environment
+0007#STR0007#ALL#YES
+0008#STR0008#ALL#NO
+0009#STR0009#ALL#Employee..........:
+0010#STR0010#ALL#Date of Birth.....:
+0011#STR0011#ALL#Admittance Date ..:
+0012#STR0012#ALL#Current Environment
+0013#STR0013#ALL#Cost Center.....:
+0014#STR0014#ALL#From.......: 
+0015#STR0015#ALL#Role............:
+0016#STR0016#ALL#Tasks...........:
+0017#STR0017#ALL#Risks
+0018#STR0018#ALL#Num. Risk  Agent                Generator Source     Evaluation  Intensity   U.M.   C.Center             Funct. Task  
+0019#STR0019#ALL#All
+0020#STR0020#ALL#New Environment
+0021#STR0021#ALL#Num. Risk  Agent                Generator Source     Evaluation  Intensity   U.M.   C.Center             Funct. New Task   
+0022#STR0022#ALL#Necessary Epi's.:
+0023#STR0023#ALL#Cost center must belong to the same customer where the employee is placed.
+0024#STR0024#ALL#Customer/Unit...:
+0025#STR0025#ALL#Risk No.  Agent Generating Source Intensity Evaluation M.U. C.Center Role Task Department
+0026#STR0026#ALL#Risk No.  Agent Generating Source Intensity Evaluation M.U. C.Center Role Task  Department  New
+0027#STR0027#ALL#The selected function does not belong to customer where employee is allocated.
+0028#STR0028#ALL#The selected task does not belong to customer where employee is allocated.
+0029#STR0029#ALL#Code
+0030#STR0030#ALL#Name
+0031#STR0031#ALL#Code
+0032#STR0032#ALL#Checked
+0033#STR0033#ALL#Select a new module for the employee
+0034#STR0034#ALL#Registration
+0035#STR0035#ALL#New Cost Center
+0036#STR0036#ALL#New Function
+0037#STR0037#ALL#New Tasks
+0038#STR0038#ALL#Order by
+0039#STR0039#ALL#Find Task
+0040#STR0040#ALL#This task could not be found.
+0041#STR0041#ALL#Attention
+0042#STR0042#ALL#Department....:
+0043#STR0043#ALL#New Department
+0044#STR0044#ALL#New Department ?
+0045#STR0045#ALL#Department code of new employee environment.
+0046#STR0046#ALL#Agent Risk Number               Generating Source       Evaluation Intensid.  U.M.    C.Center               Function          Task
+0047#STR0047#ALL#Agent Risk Number               Generating Source       Evaluation Intensid.  U.M.    C.Center               Function          Task  New
+0048#STR0048#ALL#All

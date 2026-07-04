@@ -1,0 +1,46 @@
+0001#STR0001#ALL#The purpose of this program is to print report 
+0002#STR0002#ALL# the list of the Main Bill X Taxes, according 
+0003#STR0003#ALL#to the parameters informed by the user.          
+0004#STR0004#ALL#Relation - Main Bill X Taxes         
+0005#STR0005#ALL# Code/Unit      Supplier Name                                  CNPJ                 Pref    Number      Installment    Type   Class              Issue Date  Due Date            Gross Value        Taxes          Net Value
+0006#STR0006#ALL#Z.Form 
+0007#STR0007#ALL#Management   
+0008#STR0008#ALL#Selecting Records........
+0009#STR0009#ALL#*** CANCELLED BY OPERATOR *****
+0010#STR0010#ALL#Taxes ------->
+0011#STR0011#ALL#Total ------->
+0012#STR0013#ALL#Per Supplier Code    
+0013#STR0014#ALL#Per Supplier Name  
+0014#STR0015#ALL#Code/Store 
+0015#STR0016#ALL#Supplier name  
+0016#STR0017#ALL#CNPJ
+0017#STR0018#ALL#Pref.
+0018#STR0019#ALL#Number
+0019#STR0020#ALL#Inst
+0020#STR0021#ALL#Type
+0021#STR0022#ALL#Class   
+0022#STR0023#ALL#Issue  
+0023#STR0024#ALL#Due date  
+0024#STR0025#ALL#GrossAmount
+0025#STR0026#ALL#Taxes   
+0026#STR0027#ALL#Net amnt
+0027#STR0028#ALL#Main bill       
+0028#STR0029#ALL#Vendor    
+0029#STR0030#ALL#Store
+0030#STR0031#ALL#Totals: 
+0031#STR0032#ALL#Total Taxes
+0032#STR0033#ALL#SEST
+0033#STR0034#ALL#IRRF
+0034#STR0035#ALL#ISS
+0035#STR0036#ALL#INSS
+0036#STR0037#ALL#PIS
+0037#STR0038#ALL#COFINS
+0038#STR0039#ALL#CSLL
+0039#STR0040#ALL#Total Taxes......
+0040#STR0041#ALL#Branch: 
+0041#STR0042#ALL#Code
+0042#STR0043#ALL#Company
+0043#STR0044#ALL#Business Unit
+0044#STR0045#ALL#Branch
+0045#STR0046#ALL#Branches selected for the report
+0046#STR0047#ALL#Taxes Grand Total......

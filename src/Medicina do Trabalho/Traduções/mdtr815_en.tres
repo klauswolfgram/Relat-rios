@@ -1,0 +1,80 @@
+0001#STR0001#ALL#Report of projection for replacement of the EPI's. Through parameters the    
+0002#STR0002#ALL#must enter the desired period and if he wants the EPI, the program will display 
+0003#STR0003#ALL#a relationship with the EPI's per Employee and the date of the next Replacement.      
+0004#STR0004#ALL#Z. Form
+0005#STR0005#ALL#Administration
+0006#STR0006#ALL#Projection for replacement of the EPI's.
+0007#STR0007#ALL#Registration  Employee Name                          Gender       Admission    Age C.Center              Del. Role			   Current Role
+0008#STR0008#ALL#     EPI                            EPI Name                    Delivery Date  Infl Time Infl Qty Subst Date Un. Subst Time Supplier
+0009#STR0009#ALL#IPE                          IPE Name                           Supplier                                                
+0010#STR0010#ALL#     Registration  Employee Name      Gender  Delivery  Qty.   Un.Replac.Date Admission  Age  C.Center             Role
+0011#STR0011#ALL#     Registration Name  Employee Gender                          Infl Date  Infl Time Infl Qty Subst Date Un. Subst Time Admission Age  Cost Center Current Function
+0012#STR0012#ALL#CANCELLED BY OPERATOR   
+0013#STR0013#ALL#Delivery Function - 
+0014#STR0014#ALL#From Customer ?
+0015#STR0015#ALL#Unit
+0016#STR0016#ALL#To Customer ?
+0017#STR0017#ALL#Customer/Unit: 
+0018#STR0018#ALL#Registration  Employee Name                          Gender       Admission    Age C.Center              Del. Role			   Current Role
+0019#STR0019#ALL#Classification?
+0020#STR0020#ALL#To Role?
+0021#STR0021#ALL#From Role?
+0022#STR0022#ALL#To Date?
+0023#STR0023#ALL#From Date?
+0024#STR0024#ALL#To PPE?
+0025#STR0025#ALL#From IPE?
+0026#STR0026#ALL#    Registration  Employee Name           Gender  Delivery  Qty.   Un  Replac.Date Admission  Age  C.Center       Position
+0027#STR0027#ALL#    Registration  Employee Name           Gender  Delivery  Qty.   Un  Replac.Date Admission  Age  C.Center       Role
+0028#STR0028#ALL#    Registration  Employee Name           Gender  Delivery  Qty.   Un  Replac.Date Admission  Age  C.Center       Role
+0029#STR0029#ALL#    Registration  Employee Name           Gender  Delivery  Qty.   Un  Replac.Date Admission  Age  C.Center       Role
+0030#STR0030#ALL#    Registration  Employee Name           Gender  Delivery  Qty.   Un  Replac.Date Admission  Age  C.Center       Role
+0031#STR0031#ALL#     Registration Name  Employee Gender                          Infl Date  Infl Time Infl Qty Subst Date Un. Subst Time Admission Age  Cost Center Function Delivery   Current Function
+0032#STR0032#ALL#Order Function?
+0033#STR0033#ALL#Registration
+0034#STR0034#ALL#Name
+0035#STR0035#ALL#Inform if you wish to order Employees per Registration No. or Name.
+0036#STR0036#ALL#From Branch?
+0037#STR0037#ALL#To Branch  ?
+0038#STR0038#ALL#There are no data to generate the report.
+0039#STR0039#ALL#Branch
+0040#STR0040#ALL#List PPEs, where: 
+0041#STR0041#ALL#Replaced
+0042#STR0042#ALL#Returned
+0043#STR0043#ALL#Both
+0044#STR0044#ALL#Indicate whether you want to list only PPEs to be returned, replaced, or both.
+0045#STR0045#ALL#REPLACED
+0046#STR0046#ALL#RETURNED
+0047#STR0047#ALL#PPE not found
+0048#STR0048#ALL#     EPI                            EPI Name                    Delivery Date  Infl Time Infl Qty Subst Date Un. Subst Time Supplier                                   Status
+0049#STR0049#ALL#     Registration Name  Employee Gender                          Infl Date  Infl Time Infl Qty Subst Date Un. Subst Time Admission Age  Cost C.         Delivery Function     Current Function    Status
+0050#STR0050#ALL#     Registration Name  Employee Gender                          Infl Date  Infl Time Infl Qty Subst Date Un. Subst Time Admission Age                         C. Center     Current Function    Status
+0051#STR0051#ALL#REPLACE
+0052#STR0052#ALL#REPLACE
+0053#STR0053#ALL#TO RETURN
+0054#STR0054#ALL#TO REPLACE
+0055#STR0055#ALL#IPE Status?
+0056#STR0056#ALL#Replace
+0057#STR0057#ALL#Return
+0058#STR0058#ALL#Employee Name
+0059#STR0059#ALL#Gender
+0060#STR0060#ALL#Admission
+0061#STR0061#ALL#Age
+0062#STR0062#ALL#Cost Center
+0063#STR0063#ALL#Delivery Function
+0064#STR0064#ALL#Current Position
+0065#STR0065#ALL#PPE
+0066#STR0066#ALL#PPE Name
+0067#STR0067#ALL#Inflow Date
+0068#STR0068#ALL#Inflow Time
+0069#STR0069#ALL#Delivered Qty
+0070#STR0070#ALL#Un.
+0071#STR0071#ALL#Subst Date
+0072#STR0072#ALL#Subst Time
+0073#STR0073#ALL#Status
+0074#STR0074#ALL#Supplier
+0075#STR0075#ALL#Description
+0076#STR0076#ALL#Branch
+0077#STR0077#ALL#Employees
+0078#STR0078#ALL#PPE
+0079#STR0079#ALL#Function
+0080#STR0080#ALL#Description

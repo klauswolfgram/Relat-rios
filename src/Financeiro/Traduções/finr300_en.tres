@@ -1,0 +1,23 @@
+0001#STR0001#ALL#This program will issue the list of the largest
+0002#STR0002#ALL#debtors/arrears
+0003#STR0003#ALL#Z.Form
+0004#STR0004#ALL#Management
+0005#STR0005#ALL#List of Largest Debtors
+0006#STR0006#ALL#list of the Largest Debtor
+0007#STR0007#ALL#List of 
+0008#STR0008#ALL#Costumer Code         Customer Name                  Late Value Total Value Due N. Tit   %Tot  Late Days
+0009#STR0009#ALL#Selecting Records...
+0010#STR0010#ALL#CANCELLED BY THE OPERATOR
+0011#STR0011#ALL#List of Largest Arrears
+0012#STR0012#ALL#Total of 
+0013#STR0013#ALL#Largest Delays
+0014#STR0014#ALL#Largest Debtors
+0015#STR0015#ALL# major debtors
+0016#STR0016#ALL# major arrears
+0017#STR0017#ALL#Customer Code
+0018#STR0018#ALL#Amnt.in arrears
+0019#STR0019#ALL#Total amount due  
+0020#STR0020#ALL#BillN
+0021#STR0021#ALL#% Tot
+0022#STR0022#ALL#Days in arrear
+0023#STR0023#ALL#Items of arrears

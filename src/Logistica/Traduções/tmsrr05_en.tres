@@ -1,0 +1,23 @@
+0001#STR0001#BRA#Delivery manifest by rebroker
+0002#STR0002#BRA#Documents with rebroker
+0003#STR0003#BRA#Selected Documents
+0004#STR0004#BRA#Attention
+0005#STR0005#BRA#There is no information for indicated parameters!
+0006#STR0006#BRA#*** CANCELLED BY OPERATOR ***
+0007#STR0007#BRA#Rebroker:
+0008#STR0008#BRA#Code 
+0009#STR0009#BRA#Unit 
+0010#STR0010#BRA#Name 
+0011#STR0011#BRA#Branch
+0012#STR0012#BRA#Doc.
+0013#STR0013#BRA#Series
+0014#STR0014#BRA#Recipient
+0015#STR0015#BRA#Address
+0016#STR0016#BRA#District
+0017#STR0017#BRA#Amount
+0018#STR0018#BRA#Value of Good
+0019#STR0019#BRA#Date _______________________________                _____________________________________________
+0020#STR0020#BRA#Obs: Documents delivered to rebroker
+0021#STR0021#BRA#Enter redispatch code
+0022#STR0022#BRA#Enter redispatch code
+0023#STR0023#BRA#Protected Data - Restrict Access: This user does not have permission to access the data of this routine. For further details, contact the system administrator.

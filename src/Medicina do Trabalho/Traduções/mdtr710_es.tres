@@ -1,0 +1,102 @@
+0001#STR0001#ALL#Informe de atestados clinicos emitidos
+0002#STR0002#ALL#A Rayas
+0003#STR0003#ALL#Administracion
+0004#STR0004#ALL#Certificados clinicos
+0005#STR0005#ALL#Nombre                      Matricula   Ficha medica   Fc.Licen.Ini.   Fc.Licen.Fin   Medico emisor          Total de dias
+0006#STR0006#ALL#Nombre                      Matricula   Ficha medica   Fc.Licen.Ini.   Fc.Licen.Fin   Medico emisor        Total dias   Total horas
+0007#STR0007#ALL#        Centro de Costo
+0008#STR0008#ALL#Total Centro de Costo:
+0009#STR0009#ALL#Total General:
+0010#STR0010#ALL#ANULADO POR EL OPERADOR
+0011#STR0011#ALL#¿Totalizar por ?
+0012#STR0012#ALL#Total:
+0013#STR0013#ALL#Nomb
+0014#STR0014#ALL#Matric.
+0015#STR0015#ALL#Ficha Med.
+0016#STR0016#ALL#Fecha Licen.
+0017#STR0017#ALL#Fecha final
+0018#STR0018#ALL#Médico emitente
+0019#STR0019#ALL#Total Dias
+0020#STR0020#ALL#Centro de Costo
+0021#STR0021#ALL#Descripc.
+0022#STR0022#ALL#Total horas
+0023#STR0023#ALL#Total Sucursal
+0024#STR0024#ALL#Total de Centro de Costo
+0025#STR0025#ALL#Espere
+0026#STR0026#ALL#Procesando Certificados Medicos...
+0027#STR0027#ALL#No hay nada para imprimir en el informe.
+0028#STR0028#ALL#¿De Cliente?
+0029#STR0029#ALL#Cod. del cliente. El campo puede permanecer vacio para considerar desde el primer codigo.
+0030#STR0030#ALL#Tda.
+0031#STR0031#ALL#Cod. tienda del cliente. El campo puede permanecer vacio para considerar desde el primer codigo.
+0032#STR0032#ALL#¿A Cliente ?
+0033#STR0033#ALL#Cod. cliente. El campo puede rellenarse con la letra Z hasta el final para considerar el ultimo codigo.
+0034#STR0034#ALL#Codigo tienda del cliente. El campo puede rellenarse con la letra Z hasta el final para considerar el ultimo cod.
+0035#STR0035#ALL#CID
+0036#STR0036#ALL#Descripcion
+0037#STR0037#ALL#¿Totalizar por: ?
+0038#STR0038#ALL#¿A Medico ?
+0039#STR0039#ALL#¿De  Medico ?
+0040#STR0040#ALL#¿A Centro de costo?
+0041#STR0041#ALL#¿De Centro de Costo ?
+0042#STR0042#ALL#¿A Fecha ?
+0043#STR0043#ALL#¿De Fecha ?
+0044#STR0044#ALL#¿A Ficha medica?
+0045#STR0045#ALL#¿De Ficha medica ?
+0046#STR0046#ALL#Cliente
+0047#STR0047#ALL#Medico
+0048#STR0048#ALL#Fecha inicial del periodo en el cual se verificara la existencia de licencias.
+0049#STR0049#ALL#Fecha final del periodo en el cual se verificara la existencia de licencias.
+0050#STR0050#ALL#Sucursal
+0051#STR0051#ALL#Nombre                          Matric.   Ficha Med. Fch. Licen. Fch. Fin  Medico emisor         Ind. Medico  Total dias   Total horas    CIE      Descripcion                                CIE Complement. 
+0052#STR0052#ALL#Nome                            Matric.   Ficha Med. Fch. Licen. Fch. Fin  Medico emisor         Total dias   Total horas    CIE       Descripcion                                CIE Complement. 
+0053#STR0053#ALL#Cliente/Tienda: 
+0054#STR0054#ALL#Total de Dias.............:  
+0055#STR0055#ALL#Total de certificados - Empresa....:  
+0056#STR0056#ALL#Total de certificados - SUS....:  
+0057#STR0057#ALL#Total del Centro de costo........:  
+0058#STR0058#ALL#Total General................:  
+0059#STR0059#ALL#        Medico
+0060#STR0060#ALL#Nombre                                    Matricula   Ficha medica   Fch. Licen. Fch. Fin. Ind. Medico        Total dias  Total horas    CIE       Descripcion                                CIE Complement. 
+0061#STR0061#ALL#Nombre                                    Matricula   Ficha medica   Fch. Licen. Fch. Fin. Total dias  Total horas    CIE       Descripcion                                 CIE Complement. 
+0062#STR0062#ALL#Total por medico........:  
+0063#STR0063#ALL#Total por medico:    
+0064#STR0064#ALL#Total general:    
+0065#STR0065#ALL#Ind. Medico
+0066#STR0066#ALL#Resumen
+0067#STR0067#ALL#Resumen del Cliente:
+0068#STR0068#ALL#Total de certificados - Privado....:  
+0069#STR0069#ALL#Total de certificados - Convenio....:  
+0070#STR0070#ALL#Resumen del C. Costo:
+0071#STR0071#ALL#Resumen del medico:
+0072#STR0072#ALL#Resumen de la Sucursal:
+0073#STR0073#ALL#Empresa
+0074#STR0074#ALL#SUS
+0075#STR0075#ALL#Nombre                          Matric.   Ficha Med. Fch. Licen. Fch. Fin. Medico emisor         Ind. Medico  Total dias   CIE      Descripcion                               CIE Complement. 
+0076#STR0076#ALL#Nombre                          Matric.   Ficha Med. Fch. Licen. Fch. Fin. Medico emisor         Total dias   CIE       Descripcion                               CIE Complement. 
+0077#STR0077#ALL#Nombre                                    Matricula   Ficha medica   Fch. Licen. Fch. Fin. Ind. Medico        Total dias  CIE       Descripcion                                CIE Complement. 
+0078#STR0078#ALL#Nombre                                    Matricula   Ficha medica   Fch. Licen. Fch. Fin. Total dias  CIE       Descripcion                                CIE Complement. 
+0079#STR0079#ALL#Si
+0080#STR0080#ALL#No
+0081#STR0081#ALL#CIE Suplementar.
+0082#STR0082#ALL#Nombre                          Matric.   Ficha Med. Fch. Licen. Fch. Fin. Medico emisor         Ind. Medico  Total dias   Total horas    CIE      Descrip. 
+0083#STR0083#ALL#Nombre                          Matric.   Ficha Med. Fch. Licen. Fch. Fin. Medico emisor         Total dias   Total horas    CIE       Descrip. 
+0084#STR0084#ALL#Nombre                          Matric.   Ficha Med. Fch. Licen. Fch. Fin. Medico emisor         Ind. Medico  Total dias   CIE      Descrip. 
+0085#STR0085#ALL#Nombre                          Matric.   Ficha Med. Fch. Licen. Fch. Fin. Medico emisor         Total dias   CIE       Descrip. 
+0086#STR0086#ALL#Nombre                                    Matricula   Ficha medica   Fch. Licen. Fch. Fin. Ind. Medico        Total dias  CIE       Descrip. 
+0087#STR0087#ALL#Nombre                                    Matricula   Ficha medica   Fch. Licen. Fch. Fin. Total dias  CIE       Descrip. 
+0088#STR0088#ALL#Nombre                                    Matricula   Ficha medica   Fch. Licen. Fch. Fin. Ind. Medico        Total dias  Total horas    CIE       Descrip. 
+0089#STR0089#ALL#Nombre                                    Matricula   Ficha medica   Fch. Licen. Fch. Fin. Total dias  Total horas    CIE       Descrip. 
+0090#STR0090#ALL#Privado
+0091#STR0091#ALL#Convenio
+0092#STR0092#ALL#Certificados empresa
+0093#STR0093#ALL#Certificados SUS
+0094#STR0094#ALL#Certificados privado
+0095#STR0095#ALL#Certificados convenio
+0096#STR0096#ALL#Total de certificados - Interno....:  
+0097#STR0097#ALL#Total de certificados - Externo....:  
+0098#STR0098#ALL#Interno
+0099#STR0099#ALL#Externo
+0100#STR0100#ALL#Certificados interno
+0101#STR0101#ALL#Certificados externo
+0102#STR0102#ALL#Indica si deben mostrarse los CIE complementarios.

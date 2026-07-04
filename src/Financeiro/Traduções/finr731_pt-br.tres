@@ -1,0 +1,43 @@
+0001#STR0001#ALL#Emissäo do relatório comparativo entre Orçados x Reais.
+0002#STR0002#ALL#Será analisado o ANO de referência da data base
+0003#STR0003#ALL#Zebrado
+0004#STR0004#ALL#Administracao
+0005#STR0005#ALL#Mapa Comparativo - Valores Orcados x Reais em 
+0006#STR0006#ALL#Cod Natureza    Descricao                           Janeiro     Fevereiro         Marco         Abril          Maio         Junho         Julho        Agosto      Setembro       Outubro      Novembro      Dezembro
+0007#STR0007#ALL#Selecionando Registros...
+0008#STR0008#ALL#    ORCADO
+0009#STR0009#ALL# REALIZADO
+0010#STR0010#ALL#A REALIZAR
+0011#STR0011#ALL#      Real
+0012#STR0012#ALL#% VARIACAO
+0013#STR0013#ALL#T O T A L 
+0014#STR0014#ALL#RESUMO
+0015#STR0015#ALL#Entradas
+0016#STR0016#ALL#Saidas
+0017#STR0017#ALL#Saldos
+0018#STR0018#ALL#Situacao de Cobranca
+0019#STR0019#ALL#Mapa
+0020#STR0020#ALL#Cod Natureza
+0021#STR0021#ALL#Descricao
+0022#STR0022#ALL#Janeiro
+0023#STR0023#ALL#Fevereiro
+0024#STR0024#ALL#Marco
+0025#STR0025#ALL#Abril
+0026#STR0026#ALL#Maio
+0027#STR0027#ALL#Junho
+0028#STR0028#ALL#Julho
+0029#STR0029#ALL#Agosto
+0030#STR0030#ALL#Setembro
+0031#STR0031#ALL#Outubro
+0032#STR0032#ALL#Novembro
+0033#STR0033#ALL#Dezembro
+0034#STR0034#ALL#Resumo
+0035#STR0035#ALL# de 
+0036#STR0036#ALL#Criando arquivo temporário de trabalho
+0037#STR0037#ALL#Filial : 
+0038#STR0038#ALL#Código
+0039#STR0039#ALL#Empresa
+0040#STR0040#ALL#Unidade de negócio
+0041#STR0041#ALL#Filial
+0042#STR0042#ALL#Filiais selecionadas para o relatorio
+0043#STR0043#ALL#RESERVADO

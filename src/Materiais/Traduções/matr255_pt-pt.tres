@@ -1,0 +1,25 @@
+0001#STR0001#ALL#Posição Detalhada De Existências Por Morada
+0002#STR0002#ALL#Neste relatório é possível obter uma posição de quantidade por
+0003#STR0003#ALL#Artigo/lote/morada/estado, o que permite o mapeamento perfeito
+0004#STR0004#ALL#De Cada Morada.
+0005#STR0005#ALL# armazém + grupo + produto 
+0006#STR0006#ALL# produto + armazém 
+0007#STR0007#ALL#Código de barras
+0008#STR0008#ALL#Administração
+0009#STR0009#ALL#A criar índice ...
+0010#STR0010#ALL#A selecionar registos ...
+0011#STR0011#ALL#Lote        Sub-lote    Expiração   Endereço         Número De Série       Do    Endereço             Observação                     Um      Quantidade       Alocado       Bloqueado      Disponível   Amz  Grupo
+0012#STR0012#ALL#Lote        sub-lote    expiração   endereço         número de série       do    endereço             observação                     um      quantidade       alocado       bloqueado      disponível   
+0013#STR0013#ALL#Cancelado Pelo Operador
+0014#STR0014#ALL#Armazém:
+0015#STR0015#ALL#Não classificados
+0016#STR0016#ALL#Total do produto :
+0017#STR0017#ALL#                         Data Da                                                 Situação
+0019#STR0019#ALL#Descrição:
+0020#STR0020#ALL#Lotes bloqueados 
+0021#STR0021#ALL#Descrição
+0023#STR0023#ALL#Disponível
+0025#STR0025#ALL#Detalhes Do Artigo
+0026#STR0026#ALL#Saldos Por Morada
+0027#STR0027#ALL#Bloqueio De Lotes
+0028#STR0028#ALL#Total Do Artigo

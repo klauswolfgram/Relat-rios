@@ -1,0 +1,23 @@
+0001#STR0001#ALL#Este relatório tem o objectivo de imprimir uma ou mais auditorias
+0002#STR0002#ALL#Com a descrição das perguntas e espaço para digitação de notas e provas.
+0003#STR0003#ALL#Listagem De Auditorias
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#Cancelado Pelo Operador
+0007#STR0007#ALL#Conclusão:
+0008#STR0008#ALL#Auditor
+0009#STR0009#ALL#Questão   descrição                                                                 faixa              nota     
+0011#STR0011#ALL#Não conformidade
+0012#STR0012#ALL# - auditor = 
+0013#STR0013#ALL#Evidência:
+0014#STR0014#ALL#Observação Da Questão:
+0015#STR0015#ALL#Sugestão/observação Da Auditoria
+0016#STR0016#ALL#Descrição
+0017#STR0017#ALL#Lista De Verificação
+0018#STR0018#ALL#Tópico
+0019#STR0019#ALL#Questões
+0020#STR0020#ALL#Observação Da Questao
+0021#STR0021#ALL#Evidência
+0022#STR0022#ALL#Não-conformidades
+0023#STR0023#ALL#Sugestão/observação Da Auditoria
+0024#STR0024#ALL#Conclusão Da Auditoria

@@ -1,0 +1,77 @@
+0001#STR0001#ALL#Este programa tiene el objetivo de imprimir informe 
+0002#STR0002#ALL#de acuerdo con los parametros informados por el usuario.
+0003#STR0003#ALL# -Lista de empaque- 
+0004#STR0004#ALL#Lista de empaque
+0005#STR0005#ALL#A rayas
+0006#STR0006#ALL#Administracion
+0007#STR0007#ALL#[ Datos de la empresa ]
+0008#STR0008#ALL#RFC: 
+0009#STR0009#ALL#   IE.: 
+0010#STR0010#ALL#Telefono: 
+0011#STR0011#ALL#[ Datos de la operacion y producto ]
+0012#STR0012#ALL#Lista de Empaque.: 
+0013#STR0013#ALL#Tipo: 
+0014#STR0014#ALL#Cosecha...: 
+0015#STR0015#ALL#Producto..: 
+0016#STR0016#ALL#UM.: 
+0017#STR0017#ALL#[ Datos de pesaje y Clasificacion ]
+0018#STR0018#ALL#Primera pesaje..: 
+0019#STR0019#ALL#Fecha:
+0020#STR0020#ALL#Hora:
+0021#STR0021#ALL#Segundo pesaje...: 
+0022#STR0022#ALL#Subtotal.........: 
+0023#STR0023#ALL#Base..............: 
+0024#STR0024#ALL#Especie.: 
+0025#STR0025#ALL#(-) Extras........: 
+0026#STR0026#ALL#Neto...........: 
+0027#STR0027#ALL#Ticket Clasificacion.: 
+0028#STR0028#ALL#[ Datos del ente / Contrato ]
+0029#STR0029#ALL#Ente.: 
+0030#STR0030#ALL#Direccion.: 
+0031#STR0031#ALL#Municipio: 
+0032#STR0032#ALL# Cp.: 
+0033#STR0033#ALL#Contrato.: 
+0034#STR0034#ALL# Descripcion.: 
+0035#STR0035#ALL#Cant. Neta: 
+0036#STR0036#ALL#[ Datos fiscales ]
+0037#STR0037#ALL#No./S.: 
+0038#STR0038#ALL#Cant. Fiscal: 
+0039#STR0039#ALL#V.Uni.: 
+0040#STR0040#ALL#V.Tot.: 
+0041#STR0041#ALL#Factura del productor (No./S.).: 
+0042#STR0042#ALL#[ Datos complementarios ]
+0043#STR0043#ALL#Matricula.: 
+0044#STR0044#ALL#Conductor.: 
+0045#STR0045#ALL#Observ.: 
+0046#STR0046#ALL#[ Responsable...: 
+0047#STR0047#ALL#Lista de embarque
+0048#STR0048#ALL#Modelo
+0049#STR0049#ALL#Lista de embarque previa
+0050#STR0050#ALL#Transport.: 
+0051#STR0051#ALL#RCPF......: 
+0052#STR0052#ALL#RCPJ.....: 
+0053#STR0053#ALL# I.E.: 
+0054#STR0054#ALL#Total de descuentos: 
+0055#STR0055#ALL#% de prorrateo: 
+0056#STR0056#ALL#Cant. Fisica: 
+0057#STR0057#ALL#Total de descuentos: 
+0058#STR0058#ALL#¡A T E N C I O  N! 
+0059#STR0059#ALL#--- LISTA DE EMBARQUE SIN PESAJE ---
+0060#STR0060#ALL#¿Confirma la impresion de la lista de embarque?
+0061#STR0061#ALL#Clas....: 
+0062#STR0062#ALL#Cant Física........:
+0063#STR0063#ALL#Física
+0064#STR0064#ALL#Fiscal
+0065#STR0065#ALL#OP:
+0066#STR0066#ALL#Variedad:
+0067#STR0067#ALL#Orden cosecha:
+0068#STR0068#ALL#Instrucción:
+0069#STR0069#ALL#Aut. Carga:
+0070#STR0070#ALL#Pedido:
+0071#STR0071#ALL#[ Datos de programación de agenda ]
+0072#STR0072#ALL#Licencia de conducir:
+0073#STR0073#ALL#RCPF/RCPJ:
+0074#STR0074#ALL#Oper. Balanza:
+0075#STR0075#ALL#Oper. Resolución:
+0076#STR0076#ALL#Lugar:
+0077#STR0077#ALL#Ent. Resolución

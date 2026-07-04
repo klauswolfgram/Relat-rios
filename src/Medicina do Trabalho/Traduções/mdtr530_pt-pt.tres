@@ -1,0 +1,15 @@
+0001#STR0001#ALL#Este relatório apresentará um histórico de todas as funções já desenvolvidas
+0002#STR0002#ALL#pelo colaborador desde sua admissão até a data corrente, considerando também
+0004#STR0004#ALL#Código de barras
+0006#STR0006#ALL#Evolução funcional dos colaboradores.
+0007#STR0007#ALL#Cancelado Pelo Operador
+0009#STR0009#ALL#Período                  C.Custo               Nome Centro de Custo             Função  Nome Função
+0010#STR0010#ALL#De cliente ?
+0012#STR0012#ALL#Até cliente ?
+0016#STR0016#ALL#Modelo de impressão?
+0018#STR0018#ALL#Até a função?
+0019#STR0019#ALL#De  Função ?
+0020#STR0020#ALL#Até o centro de custo?
+0021#STR0021#ALL#De Centro de Custo?
+0022#STR0022#ALL#Até colaborador?
+0023#STR0023#ALL#De  colaborador?

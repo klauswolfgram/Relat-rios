@@ -1,0 +1,26 @@
+0001#STR0001#ALL#Related calls
+0002#STR0002#ALL#Telemarketing
+0003#STR0003#ALL#Items - Service
+0004#STR0004#ALL#Shared Items
+0005#STR0005#ALL#Enter initial call               
+0006#STR0006#ALL#From call
+0007#STR0007#ALL#Enter final call                 
+0008#STR0008#ALL#To call
+0009#STR0009#ALL#Initial date for query            
+0010#STR0010#ALL#From date
+0011#STR0011#ALL#Final date for query              
+0012#STR0012#ALL#To date
+0013#STR0013#ALL#List of operators to consider      
+0014#STR0014#ALL#Operators
+0015#STR0015#ALL#Code of initial customer to consider
+0016#STR0016#ALL#in the report.                      
+0017#STR0017#ALL#Initial customer
+0018#STR0018#ALL#Initial customer unit to consider
+0019#STR0019#ALL#in the report.                        
+0020#STR0020#ALL#Initial unit
+0021#STR0021#ALL#Code of final customer to consider
+0022#STR0022#ALL#Final customer
+0023#STR0023#ALL#Final customer unit to consider 
+0024#STR0024#ALL# in the report.                          
+0025#STR0025#ALL#Final unit
+0026#STR0026#ALL#Run compatibility program U_UPDTMK45 before using this report

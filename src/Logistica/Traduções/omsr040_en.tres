@@ -1,0 +1,44 @@
+0001#STR0001#ALL#Accounts Settlement (Checking)
+0002#STR0002#ALL#This report will print the Checking carried out in the 
+0003#STR0003#ALL#loads according to the parameters selected by the user.
+0004#STR0004#ALL#MODE   DESCRIPT.                         TOTAL              RETURN             TOTAL               ACCOMPLI.       DIFFEREN.
+0005#STR0005#ALL#PAYMT.                                                                         RECEIVABLE
+0006#STR0006#ALL#LOAD    : 
+0007#STR0007#ALL#VEHICLE : 
+0008#STR0008#ALL#DRIVER    : 
+0009#STR0009#ALL#WEIGHT  :
+0010#STR0010#ALL#VOLUME M3 : 
+0011#STR0011#ALL#DELIVERY LOC : 
+0012#STR0012#ALL#VALUE : 
+0013#STR0013#ALL#DATE    :
+0014#STR0014#ALL# AS 
+0015#STR0015#ALL#ISSUE   : 
+0016#STR0016#ALL#USER    :
+0017#STR0017#ALL#DRIVER    :
+0018#STR0018#ALL#TOTAL => 
+0019#STR0019#ALL#Per Load 
+0020#STR0020#ALL#Per Issue  
+0021#STR0021#ALL#Per Driver   
+0022#STR0022#ALL#Returns not defined:
+0023#STR0023#ALL#CANCELLED BY THE OPERATOR
+0024#STR0024#ALL#-TREASURY
+0025#STR0025#ALL#Rendering of Accts. (Checking)   	
+0026#STR0026#ALL#This print will print the checking made to 
+0027#STR0027#ALL#cargos according to the parameters entered by the user 
+0028#STR0028#ALL#User   
+0029#STR0029#ALL#Descript.
+0030#STR0030#ALL#Return   
+0031#STR0031#ALL#Total Receivable
+0032#STR0032#ALL#Difference
+0033#STR0033#ALL#Per Cargo
+0034#STR0034#ALL#Per Issue  
+0035#STR0035#ALL#Per Driver   
+0036#STR0036#ALL#T O T A L =>
+0037#STR0037#ALL#Payment method
+0038#STR0038#ALL#-TRESAURY  
+0039#STR0039#ALL#Indefinite returns:     
+0040#STR0040#ALL#Cargo
+0041#STR0041#ALL#Cargo details    
+0042#STR0042#ALL#Checking   
+0043#STR0043#ALL#Details 
+0044#STR0044#ALL#Driver   

@@ -1,0 +1,36 @@
+0001#STR0001#BRA#Resumen de Creditos de Movimientos de Productos Incentivados - PRODEPE
+0002#STR0002#BRA#Este informe imprimira los creditos de los movimientos de salida de
+0003#STR0003#BRA#productos incentivados por el PRODEPE.
+0004#STR0004#BRA#A rayas
+0005#STR0005#BRA#Administracion
+0006#STR0006#BRA#Buscar
+0007#STR0007#BRA#Visualizar
+0008#STR0008#BRA#Incluir
+0009#STR0009#BRA#Modificar
+0010#STR0010#BRA#Borrar
+0011#STR0011#BRA#Valor Inicial
+0012#STR0012#BRA#Valor Final
+0013#STR0013#BRA#Porcentaje
+0014#STR0014#BRA#Tipo
+0015#STR0015#BRA#Tabla de Porcentajes Aplicables
+0016#STR0016#BRA#Para visualizar el informe correctamente, verificar la Tabla de 
+0017#STR0017#BRA#Porcentajes Aplicables en el boton Incluir.
+0018#STR0018#BRA#+----------------------------------------------------------------------------------------------------------------------------------+
+0019#STR0019#BRA#|                                RESUMEN DE CREDITOS DE MOVIMIENTOS DE PRODUCTOS INCENTIVADOS - PRODEPE                               |
+0020#STR0020#BRA#|                                                                                                                 PAGINA: ######   |
+0021#STR0021#BRA#|                                                                                                                                  |
+0022#STR0022#BRA#| EMPRESA:  ######################################     C.N.P.J.: ##################                I.E.:   #####################   |
+0023#STR0023#BRA#| DIRECCION: #####################################     CIUDAD:   #############################     ESTADO: ##                      |
+0024#STR0024#BRA#|                                  MOVIMIENTOS DE SALIDA CON PRODUCTOS INCENTIVADOS - POR NCM + RANGO                              |
+0025#STR0025#BRA#|                                     MOVIMIENTOS DE SALIDA CON PRODUCTOS INCENTIVADOS - POR RANGO                                 |
+0026#STR0026#BRA#|        NCM        |    RANGO INI    |    RANGO FINAL  |   PORCENTAJE   |      CANTIDAD    |       ICMS        |     CREDITO      |	
+0027#STR0027#BRA#|-------------------+-----------------+-----------------+----------------+------------------+-------------------+------------------|
+0028#STR0028#BRA#| ################# | ############### | ############### | ############## | ################ | ################# | ################ |
+0029#STR0029#BRA#|        RANGO INI      |      RANGO FINAL    |   PORCENTAJE   |        CANTIDAD      |         ICMS          |      CREDITO       |
+0030#STR0030#BRA#|-----------------------+---------------------+----------------+----------------------+-----------------------+--------------------|
+0031#STR0031#BRA#| ##################### | ################### | ############## | #################### | ##################### | ################## |
+0032#STR0032#BRA#|-----------------------+---------------------+----------------+----------------------+-----------------------+--------------------| 	
+0033#STR0033#BRA#|                                                   *** NO HUBO MOVIMIENTO ***                                                     |
+0034#STR0034#BRA#|                                                             TOTALIZACION ################   #################   ################ |
+0035#STR0035#BRA#|                                                   TOTALIZACION ####################   #####################   ################## |
+0036#STR0036#BRA#|                                             EMISION: DE  ##########  A  ##########                                               |	

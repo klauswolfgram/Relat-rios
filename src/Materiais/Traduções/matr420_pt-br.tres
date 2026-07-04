@@ -1,0 +1,36 @@
+0001#STR0001#ALL#Resumo Diario do Kardex
+0002#STR0002#ALL#Este programa emite uma relaçäo ,resumida por dia ,das movimentaçöes
+0003#STR0003#ALL#dos produtos e materiais de estoque. Ele aglutina as entradas e
+0004#STR0004#ALL#saidas em uma única linha para cada dia.
+0005#STR0005#ALL# Codigo Produto 
+0006#STR0006#ALL# Tipo do Produto
+0007#STR0007#ALL#Zebrado
+0008#STR0008#ALL#Administracao
+0009#STR0009#ALL#DATA DO    |         E  N  T  R  A  D  A  S        |            S  A  I  D  A  S           |            S   A   L   D   O           
+0010#STR0010#ALL#MOVIMENTO  |       QUANTIDADE          CUSTO TOTAL |       QUANTIDADE          CUSTO TOTAL |        QUANTIDADE           VALOR TOTAL
+0011#STR0011#ALL# (Por 
+0012#STR0012#ALL# ,em 
+0013#STR0013#ALL#CANCELADO PELO OPERADOR
+0014#STR0014#ALL#T O T A I S :
+0015#STR0015#ALL#QTD. NA SEGUNDA UM: 
+0016#STR0016#ALL#NAO HOUVE MOVIMENTACAO PARA ESTE PRODUTO
+0017#STR0017#ALL#Cod: 
+0018#STR0018#ALL#UM: 
+0019#STR0019#ALL#TIPO: 
+0020#STR0020#ALL#GRUPO: 
+0021#STR0021#ALL#Armazem : 
+0022#STR0022#ALL#Saldo Quantidade
+0023#STR0023#ALL#Saldo Valor Total
+0024#STR0024#ALL#Data do Movimento
+0025#STR0025#ALL#Quantidade de Entrada
+0026#STR0026#ALL#Custo Total de Entrada
+0027#STR0027#ALL#Quantidade de Saida
+0028#STR0028#ALL#Custo Total de Saida
+0029#STR0029#ALL#Saldo da Quantidade
+0030#STR0030#ALL#Saldo Valor Total
+0031#STR0031#ALL#Produtos
+0032#STR0032#ALL#Movimentação dos Produtos
+0033#STR0033#ALL#Atencao
+0034#STR0034#ALL#Ao alterar o armazem o custo medio unificado sera desconsiderado.
+0035#STR0035#ALL#Confirma
+0036#STR0036#ALL#Abandona

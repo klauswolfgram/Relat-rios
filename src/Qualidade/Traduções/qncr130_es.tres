@@ -1,0 +1,30 @@
+0001#STR0001#ALL#Lista de No Conformidades por Proyecto
+0002#STR0002#ALL#Emite las No Conformidades por Proyecto
+0003#STR0003#ALL#de acuerdo con los parametros informados
+0004#STR0004#ALL#A Rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#No Conformidades por Proyecto
+0007#STR0007#ALL#Codigo FNC Rev Audit. FchOcurren. Clasif. NC                 Responsable FNC       Estatus    Cod.Causa      Descripc. Causa
+0008#STR0008#ALL#Codigo FNC Rev Audit. FchRegistro Clasif. NC                 Responsable FNC       Estatus    Cod.Causa      Descripc. Causa
+0009#STR0009#ALL#TOTAL ===>    Proyecto                               Dada de baja Pendiente   Total
+0010#STR0010#ALL#Seleccionando Archivo en el QI2...
+0011#STR0011#ALL#TOTAL DE LA CAUSA ===> 
+0012#STR0012#ALL# FICHA(S)
+0013#STR0013#ALL#Proyecto: 
+0014#STR0014#ALL#ANULADO POR EL OPERADOR
+0015#STR0015#ALL#Pendiente
+0016#STR0016#ALL#Dada de baja
+0017#STR0017#ALL#TOTAL POR PROYECTO ===> 
+0018#STR0018#ALL#TOTAL GENERAL  ==> 
+0019#STR0019#ALL#TOTAL GENERAL DE LA(S) CAUSA(S)
+0020#STR0020#ALL#TOTAL GEN.:
+0021#STR0021#ALL#Proyec.
+0022#STR0022#ALL#D. Baja
+0023#STR0023#ALL#Pendien.
+0024#STR0024#ALL#Total
+0025#STR0025#ALL#Rev
+0026#STR0026#ALL#Audit
+0027#STR0027#ALL#Estat.
+0028#STR0028#ALL#Descripc. Causa
+0029#STR0029#ALL#Responsable FNC
+0030#STR0030#ALL#Encabez. FNC

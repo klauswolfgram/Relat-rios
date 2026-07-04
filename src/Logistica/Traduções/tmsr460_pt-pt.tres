@@ -1,0 +1,21 @@
+0001#STR0001#ALL#Resumo De Transporte
+0002#STR0002#ALL#Emite O Resumo De Frete
+0003#STR0003#ALL#Cofacturaorme os parâmetros escolhidos
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#Cancelado Pelo Operador
+0007#STR0007#ALL#                   -------------------- p e s o ---------------------   ------------------- f r e t e  p a g o -------------------------------  ------------------------ f r e t e  a  p a g a r ------------------------
+0008#STR0008#ALL#Fil.ori.  Transp.         Pago          A Pagar            Total           Frete     Pedagio    Imposto   Icms Ret.   Icms Dif.        Total           Frete      Pedagio    Imposto    Icms Ret.  Icms Dif.        Total
+0009#STR0009#ALL#Filial destino: 
+0011#STR0011#ALL#Filial origem: 
+0016#STR0016#ALL#Fil.dest. Transp.         Pago          A Pagar            Total           Frete     Pedagio    Imposto   Icms Ret.   Icms Dif.        Total           Frete      Pedagio    Imposto    Icms Ret.  Icms Dif.        Total
+0017#STR0017#ALL#Código do componente de portagem
+0018#STR0018#ALL#Resumo De Transporte
+0019#STR0019#ALL#Emite o resumo de frete de acordo com os parâmetros indicados
+0021#STR0021#ALL#Fil.ori.
+0023#STR0023#ALL#Uf
+0030#STR0030#ALL#Portagem
+0033#STR0033#ALL#Filial De Destino
+0034#STR0034#ALL#Icms Ret.
+0035#STR0035#ALL#Icms Dif.
+0038#STR0038#ALL#Fil.des.

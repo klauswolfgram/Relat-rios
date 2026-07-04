@@ -1,0 +1,61 @@
+0001#STR0001#ALL#Estan.
+0002#STR0002#ALL#Ascenden.
+0003#STR0003#ALL#Descendente
+0004#STR0004#ALL#INFORME DE GESTION MODELO 2
+0005#STR0005#ALL#Este programa imprimira el Informe de Gestion Modelo 2
+0006#STR0006#ALL#Se imprimira de acuerdo con los Param. solicitados por el usuario.
+0007#STR0007#ALL#TOTAL POR LINEA
+0008#STR0008#ALL#TOT. 
+0009#STR0009#ALL#No hay datos por mostrarse
+0010#STR0010#ALL#0 (cero) parametro periodo
+0011#STR0011#ALL#La consulta Est. SX5SL esta ausente y
+0012#STR0012#ALL#La fecha de Refer. esta vacia y
+0013#STR0013#ALL#La Fch. Gananc/Perd. esta en blanco y
+0014#STR0014#ALL#anterior L/P se vuelve obligatoria.
+0015#STR0015#ALL#conforme definicion del Param. consolidar
+0016#STR0016#ALL#conforme definicion del Param. detalle
+0017#STR0017#ALL#conforme definicion del Param. posicion
+0018#STR0018#ALL#consulta estandar referida.
+0019#STR0019#ALL#Fch. de referencia.
+0020#STR0020#ALL#Fch. Gananc./Perd.
+0021#STR0021#ALL#del periodo se vuelve obligatoria.
+0022#STR0022#ALL#esta es necesaria en este informe.
+0023#STR0023#ALL#Selec. otro calendario pero que sea
+0024#STR0024#ALL#Selec. uno u otro calendario pero que
+0025#STR0025#ALL#Ejec. la rutina UPDCTB con fecha igual
+0026#STR0026#ALL#existe en el registro o no se relleno
+0027#STR0027#ALL#existe en el Arch.
+0028#STR0028#ALL#Por f. rellene con algun tipo de saldo el
+0029#STR0029#ALL#Por favor rellenar con un numero sup. a
+0030#STR0030#ALL#Por favor rellenar el Param. con una Fch
+0031#STR0031#ALL#Por favor verificar su archivo o
+0032#STR0032#ALL#INCOMPATIBLE
+0033#STR0033#ALL#El ejercicio Cont. selecionado no
+0034#STR0034#ALL#El periodo Infom. esta como 0 (cero) y
+0035#STR0035#ALL#El saldo por Consol. esta en blanco y
+0036#STR0036#ALL#El Tp. de saldo esta vacio/en blanco y
+0037#STR0037#ALL#o superior al 25/12/2008 para crear la
+0038#STR0038#ALL#Param. saldo por consolidar.
+0039#STR0039#ALL#Param. tipo de saldo.
+0040#STR0040#ALL#saldo se vuelve obligatoria
+0041#STR0041#ALL#sea valido.
+0042#STR0042#ALL#valido.
+0043#STR0043#ALL#Enero
+0044#STR0044#ALL#Febrero
+0045#STR0045#ALL#Marzo
+0046#STR0046#ALL#Abril
+0047#STR0047#ALL#Mayo
+0048#STR0048#ALL#Junio
+0049#STR0049#ALL#Julio
+0050#STR0050#ALL#Agosto
+0051#STR0051#ALL#Septiembre
+0052#STR0052#ALL#Octubre
+0053#STR0053#ALL#Noviembre
+0054#STR0054#ALL#Diciembre
+0055#STR0055#ALL#CONSUMO EN LA PRODUCCION
+0056#STR0056#PER#¿Generar archivo TXT?
+0057#STR0057#PER#Archivo generado correctamente
+0058#STR0058#PER#Para la impresión del archivo TXT, las preguntas deben tener las siguientes configuraciones:
+0059#STR0059#PER#Orientación de los períodos = En línea; Saldo del período = Mov. Período; Totalizar por línea = No
+0060#STR0060#PER#Error al Crear Archivo TXT.
+0061#STR0061#PER#Archivo TXT generado con éxito.

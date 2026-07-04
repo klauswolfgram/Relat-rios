@@ -1,0 +1,14 @@
+0008#STR0008#ALL#De Clientes
+0013#STR0013#ALL#Emitir fact 
+0015#STR0015#ALL#A transportar : 
+0016#STR0016#ALL#Saldo anterior : 
+0018#STR0018#ALL#Cliente
+0028#STR0028#ALL#De transporte : 
+0029#STR0029#ALL#Pela Emissão Factura
+0030#STR0030#ALL#Fórmula                                 ant.       180         150         120          90          60          30         data         30          60          90         120         150         180          spos  
+0041#STR0041#ALL#A Seleccionar Registos...
+0042#STR0042#ALL#A Preparar Transitório...
+0043#STR0043#ALL#Total cliente: 
+0047#STR0047#ALL#Vendedor: 
+0048#STR0048#ALL#Tel: 
+0049#STR0049#ALL#A processar cliente 

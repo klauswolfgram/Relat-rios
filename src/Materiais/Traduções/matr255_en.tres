@@ -1,0 +1,28 @@
+0001#STR0001#ALL#Stock Detailed Position by Location
+0002#STR0002#ALL#This report makes it possible to obtain a position of the quantity per
+0003#STR0003#ALL#produt/lot/location/status, that makes it possible to achieve a
+0004#STR0004#ALL#perfect mapping of each LOCATION.
+0005#STR0005#ALL# Warehouse + Group + Product 
+0006#STR0006#ALL# Product + Warehouse 
+0007#STR0007#ALL#Z.Form
+0008#STR0008#ALL#Management
+0009#STR0009#ALL#Building Index ...
+0010#STR0010#ALL#Selecting Records ...     
+0011#STR0011#ALL#LOT         SUBLOT      EXPIRING    LOCATION         SERIAL NUMBER         DC    LOCATION             OBSERVATION                    UM      QUANTITY         ALLOCATED       LOCKED         AVAILABLE    WRH  GROUP
+0012#STR0012#ALL#LOT         SUBLOT      EXPIRING    LOCATION         SERIAL NUMBER         DC    LOCATION             OBSERVATION                    UM      QUANTITY         ALLOCATED       LOCKED         AVAILABLE    
+0013#STR0013#ALL#CANCELLED BY THE OPERATOR   
+0014#STR0014#ALL#WAREHOUSE:
+0015#STR0015#ALL#Not classified   
+0016#STR0016#ALL#TOTAL OF PRODUCT :
+0017#STR0017#ALL#                          DATE OF                                                  STATUS
+0018#STR0018#ALL#Product:
+0019#STR0019#ALL#Descript.:
+0020#STR0020#ALL#Locked Lots 
+0021#STR0021#ALL#Descript.
+0022#STR0022#ALL#Blocked  
+0023#STR0023#ALL#Available 
+0024#STR0024#ALL#Blockage
+0025#STR0025#ALL#Product details    
+0026#STR0026#ALL#Balances by address
+0027#STR0027#ALL#Lot block        
+0028#STR0028#ALL#Product Total

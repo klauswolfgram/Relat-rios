@@ -1,0 +1,19 @@
+0001#STR0001#ALL#Este programa imprimira la lista de cheques recibidos, 
+0002#STR0002#ALL#por bajas p/cobrar
+0003#STR0003#ALL#Lista de Cheques Cobrados.
+0004#STR0004#ALL#A rayas
+0005#STR0005#ALL#Administrac.
+0006#STR0006#ALL#Lista de Cheques Cobrados por bajas p/cobrar
+0007#STR0007#ALL#Numero                   Valor  Emision     Beneficiario                              Historial
+0008#STR0008#ALL#Por Cheque
+0009#STR0009#ALL#Por Emision
+0010#STR0010#ALL#Anulado por el Operador
+0011#STR0011#ALL#Banco : 
+0012#STR0012#ALL# -  Agencia : 
+0013#STR0013#ALL#Subtotal  ----> 
+0014#STR0014#ALL#Total Gral. --> 
+0015#STR0015#ALL#Total Cheques-> 
+0016#STR0016#ALL#Numero                   Valor  Emision     Vcto.    Beneficiario                              Historial
+0017#STR0017#ALL#Numero                   Valor  Emision     Emisor                                    Historial
+0018#STR0018#ALL#Numero                   Valor  Emision     Beneficiario / Emisor                     Historial
+0019#STR0019#ALL#Numero                   Valor  Emision  Vcto.    Beneficiario / Emisor                     Historial

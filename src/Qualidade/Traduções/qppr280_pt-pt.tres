@@ -1,0 +1,107 @@
+0001#STR0001#ALL#Checklist Apqp A4
+0002#STR0002#ALL#A Visualizar, Aguarde...
+0003#STR0003#ALL# é necessária a assistência da qualidade assegurada do
+0004#STR0004#ALL# cliente ou actividade da engenharia do artigo para
+0005#STR0005#ALL# desenvolver ou aprovar o plano de controlo ?
+0006#STR0006#ALL# o fornecedor identificou quem será o contacto da
+0008#STR0008#ALL# o fornecedor identificou quem será o contacto da
+0009#STR0009#ALL# qualidade com os seus fornecedores ?
+0010#STR0010#ALL# o sistema da qualidade foi analisado criticamente
+0011#STR0011#ALL# Através Da Utilização Do Manual De Avaliação Do Módulo
+0012#STR0012#ALL# da qualidade da chrysler, ford e general motors ?
+0013#STR0013#ALL# existe pessoal suficiente identificado para cobrir :
+0014#STR0014#ALL#* requisitos do plano de controlo ?
+0015#STR0015#ALL#* inspecção dimensional ?
+0016#STR0016#ALL#* testes de desempenho de engenharia ?
+0017#STR0017#ALL#* análise de solução de problemas ?
+0018#STR0018#ALL# existe um programa de treino documentado que :
+0019#STR0019#ALL#* inclua todos os funcionários ?
+0020#STR0020#ALL#* descreva aqueles que foram treinados ?
+0021#STR0021#ALL#* forneça uma programação de treino ?
+0022#STR0022#ALL# foi completado o treino para :
+0023#STR0023#ALL#* Controlo Estatístico De Processo
+0024#STR0024#ALL#* estudos de capacidade ?
+0025#STR0025#ALL#* solução de problemas ?
+0026#STR0026#ALL#* prova de erros ?
+0027#STR0027#ALL#* outros tópicos, cofacturaorme identificados ?
+0028#STR0028#ALL#* cada operação é dotada de instruções de processo
+0029#STR0029#ALL# ligadas com o plano de controlo ?
+0030#STR0030#ALL#* instruções padrão para o operador estão disponíveis
+0031#STR0031#ALL# para cada operacão ?
+0032#STR0032#ALL#* líderes de operação/equipa estiveram envolvidos no
+0033#STR0033#ALL# desenvolvimento de instruções padrão de operação ?
+0034#STR0034#ALL# as instruções de inspecção incluem :
+0035#STR0035#ALL#* especificações de desempenho de engenharia
+0037#STR0037#ALL#* frequência de testes ?
+0038#STR0038#ALL#* tamanho das amostras ?
+0039#STR0039#ALL#* planos de reacção ?
+0040#STR0040#ALL#* documentação ?
+0041#STR0041#ALL# as instruções visuais são :
+0042#STR0042#ALL#* facilmente compreendidas ?
+0043#STR0043#ALL#* disponíveis ?
+0044#STR0044#ALL#* acessíveis ?
+0045#STR0045#ALL#* aprovados ?
+0046#STR0046#ALL#* datadas e actualizadas ?
+0047#STR0047#ALL# existe procedimento para implementar, manter e
+0048#STR0048#ALL# estabelecer planos de reacção para cartas de controlo
+0049#STR0049#ALL# estatístico ?
+0050#STR0050#ALL# existe um efectivo módulo de análise de causa de raiz ?
+0051#STR0051#ALL# foram feitas provisões para deixar os desenhos e 
+0052#STR0052#ALL# especificações no seu último nível de revisão no ponto
+0053#STR0053#ALL# de inspecção ?
+0054#STR0054#ALL# formulários/registos estão disponíveis para que o
+0055#STR0055#ALL# pessoal adequado registe os resultados de inspecção ?
+0056#STR0056#ALL# foram feitas provisões para se colocar o seguinte material
+0057#STR0057#ALL# na operação monitorada :
+0058#STR0058#ALL#* instrumento de inspecção ?
+0059#STR0059#ALL#* instruções sobre instrumentos ?
+0060#STR0060#ALL#* amostras de referência ?
+0061#STR0061#ALL#* registos de inspecção ?
+0062#STR0062#ALL# foram feitas provisões para certificar e calibrar
+0063#STR0063#ALL# rotineiramente os dispositivos de medição e
+0064#STR0064#ALL#Equipamentos de teste ?
+0065#STR0065#ALL# os estudos de capacidade do módulo de medição
+0066#STR0066#ALL# necessários foram :
+0068#STR0068#ALL#* aceites ?
+0069#STR0069#ALL# as instalações e equipamentos de inspecção são
+0070#STR0070#ALL# adequados para proporcionar uma inspecção dimensional
+0071#STR0071#ALL# inicial e contínua em todos os detalhes e componentes ?
+0072#STR0072#ALL# existe algum procedimento para o controlo de recebimento
+0073#STR0073#ALL# de artigos que identifica :
+0074#STR0074#ALL#* características a serem inspeccionadas ?
+0075#STR0075#ALL#* frequência da inspecção ?
+0076#STR0076#ALL#* tamanho da amostra ?
+0077#STR0077#ALL#* local designado para o artigo aprovado ?
+0078#STR0078#ALL#* disposição de artigos não-cofacturaorme ?
+0079#STR0079#ALL# existe algum procedimento para identificar, segregar
+0080#STR0080#ALL# e controlar artigos não-cofacturaormes para evitar a
+0082#STR0082#ALL# estão disponíveis procedimentos de retrabalho/reparo ?
+0083#STR0083#ALL# existe algum procedimento para requalificar material
+0085#STR0085#ALL# existe um sistema adequado de rastreabilidade de
+0087#STR0087#ALL# foram planeadas e implementadas auditorias
+0088#STR0088#ALL# periódicas do artigo acabado ?
+0089#STR0089#ALL# foram planeadas e implementadas pesquisas
+0090#STR0090#ALL# periódicas do módulo da qualidade ?
+0091#STR0091#ALL# o cliente aprovou a especificação de embalagem ?
+0093#STR0093#ALL# A-4 Lista De Verificação Da Qualidade Do Artigo/processo
+0094#STR0094#ALL#Número Da Peça Interno Ou Do Cliente
+0097#STR0097#ALL#Não
+0098#STR0098#ALL#Comentários / Acção Requerida
+0099#STR0099#ALL#Pessoa Responsável
+0101#STR0101#ALL#Data De Revisão
+0102#STR0102#ALL#Página 
+0108#STR0108#ALL#Reação a problemas e análise de solução de problemas?
+0109#STR0109#ALL#Planos de Reacção?
+0111#STR0111#ALL#Os testes de engenharia (dimensionais, de material, aparência
+0116#STR0116#ALL#Os Estudos de capacidade inicial do processo foram
+0121#STR0121#ALL#para desenvolver o plano de controlo ?
+0126#STR0126#ALL#accessíveis em cada estação de trabalho ?
+0130#STR0130#ALL#planos de reacção para questões como condições fora de controlo
+0131#STR0131#ALL#baseadas no controlo estatístico de processo? 
+0134#STR0134#ALL#Os desenhos e especificações mais actualizados estão
+0136#STR0136#ALL#pontos de inspecção?
+0137#STR0137#ALL#Os elementos abaixo estão disponíveis e foram colocados nos 
+0140#STR0140#ALL#As instalações e equipamentos de inspecção de layout são adequadas
+0141#STR0141#ALL#para proporcionar um layout inicial e contínuo de todos os
+0143#STR0143#ALL#Estão disponíveis procedimentos de retrabalho / reparo
+0144#STR0144#ALL#para assegurar artigos conformes ?

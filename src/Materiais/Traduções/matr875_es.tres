@@ -1,0 +1,20 @@
+0001#STR0001#ALL#Detalle para Analisis del Stock
+0002#STR0002#ALL#Este informe muestra la situacion de cada item de la estructura
+0003#STR0003#ALL#del producto en relacion con su saldo, su reserva, sus entra 
+0004#STR0004#ALL#das previstas y su clase ABC.
+0005#STR0005#ALL#A Rayas
+0006#STR0006#ALL#Administracion
+0007#STR0007#ALL#PRODUCTO(S)
+0008#STR0008#ALL#CODIGO          DESCRIPCION                    TP GRUP UM   SALDO ACTUAL   RESERVA PARA           SC's           PC's           OP's           PV's     PUNTO DE         LOTE   PLAZO  STOCK       CONSUMO   ULTIMA  CL  TP
+0009#STR0009#ALL#                                                                         REQ/PV/RESERVA      COLOCADAS      COLOCADOS      COLOCADAS      COLOCADOS       PEDIDO    ECONOMICO ENTREGA EN MESES     PROMEDIO   SALIDA     N/F
+0010#STR0010#ALL#ANULADO POR EL OPERADOR
+0011#STR0011#ALL#PRODUCTO : 
+0012#STR0012#ALL#  SALDO ACTUAL  ---> 
+0013#STR0013#ALL#T O T A L E S  :
+0014#STR0014#ALL#Prod. Princ.
+0015#STR0015#ALL#SC Colocadas
+0016#STR0016#ALL#PC Colocados
+0017#STR0017#ALL#OP Colocadas
+0018#STR0018#ALL#PV Colocados
+0019#STR0019#ALL#Estruct.
+0020#STR0020#ALL#Prod. 

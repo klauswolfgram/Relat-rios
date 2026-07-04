@@ -1,0 +1,28 @@
+0001#STR0001#ALL#El objetivo de este programa es imprimir un informe
+0002#STR0002#ALL#segun los parametros informados por el usuario.     
+0003#STR0003#ALL#Informe de diferencias de cambio de cuentas por cobrar
+0004#STR0004#ALL#Cliente     Tienda Venc.      Emision          Naturaleza   Prefijo/Numero/Cuota.      Tipo      Valor 
+0005#STR0005#ALL#Cliente
+0006#STR0006#ALL#Prefijo+Numero
+0007#STR0007#ALL#Modalidad
+0008#STR0008#ALL#Emision
+0009#STR0009#ALL#Vencim.
+0010#STR0010#ALL#Lineas
+0011#STR0011#ALL#Administrac. 
+0012#STR0012#ALL#     Valor Orig Moneda  Tasa
+0013#STR0013#ALL#Ajuste
+0014#STR0014#ALL#Diferencia de cambio  ->
+0015#STR0015#ALL#Documento ajustado ->
+0016#STR0016#ALL#Valor ajustado : 
+0017#STR0017#ALL#***ANULADO POR EL OPERADOR***
+0018#STR0018#ALL#Cliente
+0019#STR0019#ALL#Tienda
+0020#STR0020#ALL#Venc.
+0021#STR0021#ALL#Emision
+0022#STR0022#ALL#Modalidad
+0023#STR0023#ALL#Prefijo/Numero/Cuot.
+0024#STR0024#ALL#Tipo
+0025#STR0025#ALL#Valor
+0026#STR0026#ALL#Valor Orig
+0027#STR0027#ALL#Tasa
+0028#STR0028#ALL#Mon.

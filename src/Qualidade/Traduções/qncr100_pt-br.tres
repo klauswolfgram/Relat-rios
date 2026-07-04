@@ -1,0 +1,16 @@
+0001#STR0001#ALL#Relatorio de Pendencias por Usuario.
+0002#STR0002#ALL#Será impresso de acordo com os parametros solicitados pelo usuario.
+0003#STR0003#ALL#Matricula
+0004#STR0004#ALL#Nome
+0005#STR0005#ALL#Zebrado
+0006#STR0006#ALL#Administraçäo
+0007#STR0007#ALL#PENDENCIAS POR USUARIO
+0008#STR0008#ALL#Selecionando Registros...
+0009#STR0009#ALL#Usuario:
+0010#STR0010#ALL#Plano de Acao       Dt.Abertura Dt.Enc.Prev. Status          Tipo
+0011#STR0011#ALL#Ficha N.Conf.       Dt.Abertura Dt.Conc.Prev. Status          Tipo
+0012#STR0034#ALL#CANCELADO PELO OPERADOR
+0013#STR0035#ALL#Planos/Etapas  Tipo Acao                           % Acao  Previsao
+0014#STR0036#ALL#Planos/Etapas
+0015#STR0037#ALL#Plano de Acao
+0016#STR0038#ALL#Ficha N.Conf.

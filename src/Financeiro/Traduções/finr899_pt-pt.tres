@@ -1,0 +1,50 @@
+0001#STR0001#ALL#Imprime relatório dos recibos
+0002#STR0002#ALL#Emitidos, sinteticamente.
+0003#STR0003#ALL#Código de barras
+0004#STR0004#ALL#Administração
+0005#STR0005#ALL#Recibo   Código-fl Nome Cliente                          Emissão      Valor Total   Tot. Cheques     Depósitos   Recibos Antec.  Retenções           Cartão     Compensados      Descontos
+0006#STR0006#ALL#                                                                        títulos      e dinheiro      bancários      criados                          crédito 
+0007#STR0007#ALL#Código-fl Razão Social Cliente                                        Valor Total   Tot. Cheques     Depósitos   Recibos Antec.  Retenções           Cartão     Compensados      Descontos
+0008#STR0008#ALL#                   recibo         data emissão                          títulos      e dinheiro      bancários      gerados                          crédito 
+0009#STR0009#ALL#Relatório de recebimentos - 
+0010#STR0010#ALL# Por Recibo
+0011#STR0011#ALL# por cliente (sintético)
+0012#STR0012#ALL# por cliente (analítico)
+0013#STR0013#ALL#Filtrando registos...
+0014#STR0014#ALL#Cancelado Pelo Operador
+0015#STR0015#ALL#Recibos cliente    -> 
+0016#STR0016#ALL#Totais cliente ------>
+0018#STR0018#ALL#Total bruto       ----> 
+0019#STR0019#ALL#Total efectivo     ----> 
+0020#STR0020#ALL#Total depositado  ----> 
+0021#STR0021#ALL#Total antecipado  ----> 
+0022#STR0022#ALL#Total retenções   ----> 
+0023#STR0023#ALL#Total recebido    ----> 
+0024#STR0024#ALL#¨ordenado por      ?
+0026#STR0026#ALL#Cliente(sin.)
+0027#STR0027#ALL#Cliente(det.)
+0028#STR0028#ALL#De    cliente     ?
+0029#STR0029#ALL#Até   cliente     ?
+0030#STR0030#ALL#De    recibo      ?
+0031#STR0031#ALL#Até   recibo      ?
+0032#STR0032#ALL#De    emissão     ?
+0033#STR0033#ALL#Até   emissão     ?
+0036#STR0036#ALL# por data 
+0037#STR0037#ALL#Total cheq.ao dia ----> 
+0038#STR0038#ALL#Total cheq. adiant. --> 
+0039#STR0039#ALL#  - em  
+0040#STR0040#ALL#Total cartão crédito--> 
+0041#STR0041#ALL#Total cheque pre    --> 
+0042#STR0042#ALL#Total descontos   ---> 
+0043#STR0043#ALL#Total compensado  ----> 
+0044#STR0044#ALL#Código
+0046#STR0046#ALL#Razão Social
+0047#STR0047#ALL#Valor total 
+0048#STR0048#ALL#  Títulos
+0050#STR0050#ALL# E Dinheiro
+0051#STR0051#ALL#Depósitos
+0052#STR0052#ALL#Bancários
+0054#STR0054#ALL#    Criados
+0055#STR0055#ALL#   Retenções
+0056#STR0056#ALL#Cartão
+0059#STR0059#ALL#Crédito

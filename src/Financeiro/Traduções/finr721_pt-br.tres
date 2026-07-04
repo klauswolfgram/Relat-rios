@@ -1,0 +1,56 @@
+0001#STR0001#ALL#Emissäo do relatório comparativo entre Orçados x Reais.
+0002#STR0002#ALL#Será analisado o mês de referência da data base
+0003#STR0003#ALL#Zebrado
+0004#STR0004#ALL#Administracao
+0005#STR0005#ALL#Mapa Comparativo - Valores Orcados x Reais em 
+0006#STR0006#ALL#Cod Natureza    Descricao
+0007#STR0007#ALL#A Realizar          Realizado              Orcado              %   
+0008#STR0008#ALL#Selecionando Registros...
+0009#STR0009#ALL#Total - 
+0010#STR0010#ALL#[ TOTAIS NO MES ]
+0011#STR0011#ALL#Receber
+0012#STR0012#ALL#Pagar
+0013#STR0013#ALL#Saldos
+0014#STR0014#ALL#A Realizar  : 
+0015#STR0015#ALL#Realizado   : 
+0016#STR0016#ALL#Total       : 
+0017#STR0017#ALL#[ TOTAIS - ORCADOS ]
+0018#STR0018#ALL#A Receber   : 
+0019#STR0019#ALL#A Pagar     : 
+0020#STR0020#ALL#Saldo       : 
+0021#STR0021#ALL#[ COMPARATIVO - ORCADO / REAIS ]
+0022#STR0022#ALL#Realizado...:
+0023#STR0023#ALL#Total.......:
+0024#STR0024#ALL# (  Devedor   )
+0025#STR0025#ALL# (   Credor   )
+0026#STR0026#ALL#Acumulado          Acumulado            Acumulado            %
+0027#STR0027#ALL#A Realizar (D)     Realizado (E)        Orcado(F)    (D+E)/F    E/F
+0028#STR0028#ALL#[ TOTAIS ACUMULADOS ]
+0029#STR0029#ALL#Orcado      : 
+0030#STR0030#ALL#   (A)                 (B)                (C)        (A+B)/C    B/C
+0031#STR0031#ALL#Mes
+0032#STR0032#ALL#Acumulado
+0033#STR0033#ALL#Criando arquivo temporário de trabalho
+0034#STR0034#ALL#Receber
+0035#STR0035#ALL#Pagar
+0036#STR0036#ALL#Saldos
+0037#STR0037#ALL#A Realizar
+0038#STR0038#ALL#Realizado
+0039#STR0039#ALL#Total
+0040#STR0040#ALL#Orçado
+0041#STR0041#ALL#Acumulado
+0042#STR0042#ALL#A Realizar (D)
+0043#STR0043#ALL#Realizado (E)
+0044#STR0044#ALL#Orçado (F)
+0045#STR0045#ALL#Mapa Comparativo - Valores Orcados x Reais 
+0046#STR0046#ALL#Naturezas do 
+0047#STR0047#ALL#Sub-total da Natureza
+0048#STR0048#ALL#Totais no Mês
+0049#STR0049#ALL#Comparativo
+0050#STR0050#ALL#Totais Acumulados	
+0051#STR0051#ALL#Filial : 
+0052#STR0052#ALL#Código
+0053#STR0053#ALL#Empresa
+0054#STR0054#ALL#Unidade de negócio
+0055#STR0055#ALL#Filial
+0056#STR0056#ALL#Filiais selecionadas para o relatorio

@@ -1,0 +1,28 @@
+0001#STR0001#ALL#Etiquetas para Mala Direta
+0002#STR0002#ALL#Este programa tem o objetivo de imprimir as etiquetas de mala direta
+0003#STR0003#ALL#Fornecedor
+0004#STR0004#ALL#Cliente
+0005#STR0005#ALL#Produto
+0006#STR0006#ALL#Arquivos
+0007#STR0007#ALL#Impressäo de etiquetas
+0008#STR0008#ALL#Atencäo... 
+0009#STR0009#ALL# näo encontrado no servidor
+0010#STR0010#ALL#CEP - 
+0011#STR0011#ALL#Codigo: 
+0012#STR0012#ALL#Descricao: 
+0013#STR0013#ALL#Tipo: 
+0014#STR0014#ALL#Grupo: 
+0015#STR0015#ALL#Unidade: 
+0016#STR0016#ALL#Peso: 
+0017#STR0017#ALL#Emitindo etiqueta para mala direta
+0018#STR0018#ALL#Processamento do relatório
+0019#STR0019#ALL#Iniciando processamento das etiquetas para o cadastro de clientes
+0020#STR0020#ALL#Terminando processamento das etiquetas para o cadastro de clientes
+0021#STR0021#ALL#Iniciando processamento das etiquetas para o cadastro de fornecedores
+0022#STR0022#ALL#Terminando processamento das etiquetas para o cadastro de fornecedores
+0023#STR0023#ALL#Iniciando processamento das etiquetas para o cadastro de produtos
+0024#STR0024#ALL#Terminando processamento das etiquetas para o cadastro de produtos
+0025#STR0025#ALL#Enviando parametros de configuracao da pagina
+0026#STR0026#ALL#Executando a macro do Word
+0027#STR0027#ALL#Atualizando variaveis do documento
+0028#STR0028#ALL#Processando ...

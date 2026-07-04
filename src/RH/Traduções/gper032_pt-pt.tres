@@ -1,0 +1,23 @@
+0001#STR0001#ALL#Matrícula
+0002#STR0002#ALL#C.custo
+0004#STR0004#ALL#Livro De Remunerações
+0005#STR0005#ALL#Código    Nome                          R.u.t.
+0006#STR0006#ALL#Emissão do livro de remunerações.
+0007#STR0007#ALL#Sera impresso de acordo com os parâmetro s solicitados pelo
+0008#STR0008#ALL#Utilizador.
+0010#STR0010#ALL#Administração
+0011#STR0011#ALL#Emissão Do Livro De Remunerações
+0012#STR0012#ALL#Página : 
+0014#STR0014#ALL#Totais Do Livro De Remunerações
+0016#STR0016#ALL#Emitido por: 
+0018#STR0018#ALL#Periodo: Remuneração do Mês 
+0020#STR0020#ALL#Selecção: 
+0025#STR0025#ALL#Data de referência superior à movimentação actual
+0026#STR0026#ALL#Atenção
+0027#STR0027#ALL#Campo Vacio
+0028#STR0028#ALL#El campo de Proceso esta vacio
+0029#STR0029#ALL#El campo de Tipo Nomina esta vacio
+0030#STR0030#ALL#El campo de Periodo esta vacio
+0031#STR0031#ALL#El campo de No. Pago esta vacio
+0032#STR0032#ALL# del 
+0033#STR0033#ALL#Cancelado por el operador

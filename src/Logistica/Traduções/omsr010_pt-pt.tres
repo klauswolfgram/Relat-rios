@@ -1,0 +1,22 @@
+0001#STR0001#ALL#Listagem De Preços
+0002#STR0002#ALL#Código de barras
+0003#STR0003#ALL#Administração
+0006#STR0006#ALL#Cancelado Pelo Operador
+0007#STR0007#ALL#Tabela :
+0008#STR0008#ALL#Validade :
+0010#STR0010#ALL#Inter-esta
+0011#STR0011#ALL#Norte/nord
+0013#STR0013#ALL#   CÓDIGO                         DESCRIÇÃO  DO  ARTIGO           UM           QTD P/   PREÇO
+0017#STR0017#ALL#Este relatório irá imprimir as tabelas de preços de acordo
+0018#STR0018#ALL#Com os parâmetro s informados pelo utilizador
+0019#STR0019#ALL#Por Descricao do Artigo
+0020#STR0020#ALL#A Seleccionar Registos
+0021#STR0021#ALL#Tipo 
+0022#STR0022#ALL#Grupo
+0023#STR0023#ALL#Por artigo
+0024#STR0024#ALL#Listagem De Preços
+0026#STR0026#ALL#Tabela De Preço
+0029#STR0029#ALL#Descrição de artigo
+0030#STR0030#ALL#Código  de artigo
+0031#STR0031#ALL#Artigos da tabela de preço
+0032#STR0032#ALL#Lista de preços ( base )

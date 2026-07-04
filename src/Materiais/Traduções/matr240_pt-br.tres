@@ -1,0 +1,31 @@
+0001#STR0001#ALL#Saldos em Estoque
+0002#STR0002#ALL#Este programa ira' emitir um resumo dos saldos ,em quantidade,
+0003#STR0003#ALL#dos produtos em estoque.
+0004#STR0004#ALL# Por Codigo         
+0005#STR0005#ALL# Por Tipo           
+0006#STR0006#ALL# Por Descricao    
+0007#STR0007#ALL# Por Grupo        
+0008#STR0008#ALL#Zebrado
+0009#STR0009#ALL#Administracao
+0010#STR0010#ALL#CODIGO                         TP GRUP DESCRICAO                      UM FL AMZ   QUANTIDADE
+0011#STR0011#ALL#Tipo..........
+0012#STR0012#ALL#Grupo.........
+0013#STR0013#ALL#CANCELADO PELO OPERADOR
+0014#STR0014#ALL#Total do Produto
+0015#STR0015#ALL#Selecionando Registros...
+0016#STR0016#ALL#Total do 
+0017#STR0017#ALL#Qtde. 
+0018#STR0018#ALL#Disponivel   
+0019#STR0019#ALL#Indisponivel 
+0020#STR0020#ALL#CODIGO          TP GRUP DESCRICAO                      UM FL AMZ QTDE.1a.U.M.   UM  QTDE.2a.U.M.
+0021#STR0021#ALL#    DESC ALMOX.
+0022#STR0022#ALL#Qtde.1a.U.M.
+0023#STR0023#ALL#Qtde.2a.U.M.
+0024#STR0024#ALL#REG(S)
+0025#STR0025#ALL#CODIGO                         TP GRUP DESCRICAO                      UM FL
+0026#STR0026#ALL#AMZ   QUANTIDADE                  
+0027#STR0027#ALL#CODIGO                         TP GRUP DESCRICAO                  UM FL
+0028#STR0028#ALL#AMZ  QTDE.1a.U.M.  UM   QTDE.2a.U.M.
+0029#STR0029#ALL#Qtd.Disp
+0030#STR0030#ALL#Qtd.Indisp
+0031#STR0031#ALL#Total Geral

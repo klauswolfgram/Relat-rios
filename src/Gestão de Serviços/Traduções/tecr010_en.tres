@@ -1,0 +1,18 @@
+0001#STR0001#ALL#Equipment List
+0002#STR0002#ALL# This report prints list of equipment
+0003#STR0003#ALL#and accessories of Service Base according to parameters
+0004#STR0004#ALL#
+0005#STR0005#ALL#Z.Form 
+0006#STR0006#ALL#Administration
+0007#STR0007#ALL#CANCELLED BY THE OPERATOR  
+0008#STR0008#ALL#CUSTOMER  NAME                 PRODUCT         PRODUCT DESC                   SERIE NO.            SALE       INSTALLAT. GUARANT.   SUPPLIER   SUPPLIER DESC.       MANUFACTU. FACT.DESC.      MODEL                         
+0009#STR0009#ALL#                               ACCESSORY        ACCES.DESC.                    ACCESSORY SER.NO.
+0010#STR0010#ALL#CUSTOMER                  NAME                 PRODUCT              PRODUCT DESC.   SERI.NO.            SALE       INSTALLAT. GUARANT.   SUPPLIER                MANUFACTURER              MODEL                         
+0011#STR0011#ALL#                                               ACCESSORY            ACCES.DESC.     ACCESSORY SER.NO.
+0012#STR0012#ALL#Group from         ?
+0013#STR0013#ALL#Group to           ?
+0014#STR0014#ALL#Customer vs. product
+0015#STR0015#ALL#Installed base
+0016#STR0016#ALL#Acessories of installed base
+0017#STR0017#ALL#Status
+0018#STR0018#ALL#Total

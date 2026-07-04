@@ -1,0 +1,38 @@
+0001#STR0001#ALL#Imprime el detalle de las ventas considerando los parametros solicitados:
+0002#STR0002#ALL#Por fecha de venta, por vendedor, por producto, por tipo, por grupo de
+0003#STR0003#ALL#productos, por clientes y por caja.
+0004#STR0004#ALL#A Rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#Mapa de Ventas
+0007#STR0007#ALL#Por Fecha
+0008#STR0008#ALL#Por Vendedor
+0009#STR0009#ALL#Por Producto
+0010#STR0010#ALL#Por Tipo
+0011#STR0011#ALL#Por Grupo
+0012#STR0012#ALL#Por Cliente
+0013#STR0013#ALL#Por Caja
+0014#STR0014#ALL#Fecha    Factura       Ser Vend.  Nom. Vend.  Client Nom. Cliente      Grupo Tipo Producto        Descripcion     UN Cantidad      Vlr Unit.    Desc.It. Desc.Prop.     Acres.Item Valor Recibido   Impuestos     CP. Sc OL
+0015#STR0015#ALL#Vend.  Nom. Vend. Fecha    Factura       Ser Client Nom. Cliente      Grupo  Tip Producto        Descripcion      UN Cantidad      Vlr Unit.    Desc.It. Desc.Prop.     Acres.Item Valor Recibido   Impuestos     CP. Sc OL
+0016#STR0016#ALL#Cod. Producto   Descripcion    Fecha    Factura       Ser Vend.  Nom. Vend.  Client Nom. Cliente      Grupo Tipo  UN Cantidad      Vlr Unit.    Desc.It. Desc.Prop.     Acres.Item Valor Recibido   Impuestos     CP. Sc OL
+0017#STR0017#ALL#Tipo Cod. Producto   Descripcion    Fecha    Factura       Ser Vend.  Nom. Vend.  Client Nom. Cliente      Grupo  UN Cantidad      Vlr Unit.    Desc.It. Desc.Prop.     Acres.Item Valor Recibido   Impuestos     CP. Sc OL
+0018#STR0018#ALL#Grup Fecha    Factura       Ser Vend.  Nom. Vend.  Client Nom. Cliente      Tipo Producto        Descripcion      UN Cantidad      Vlr Unit.    Desc.It. Desc.Prop.     Acres.Item Valor Recibido   Impuestos     CP. Sc OL
+0019#STR0019#ALL#Client Nom. Cliente      Tip Fecha    Factura       Ser Vend.  Nom. Vend.  Grupo Producto        Descripcion      UN Cantidad      Vlr Unit.    Desc.It. Desc.Prop.     Acres.Item Valor Recibido   Impuestos     CP. Sc OL
+0020#STR0020#ALL#Caja  Nom. Cliente      Tipo Fecha    Factura       Ser Vend.  Nom. Vend.  Grupo Producto        Descripcion      UN Cantidad      Vlr Unit.    Desc.It. Desc.Prop.     Acres.Ite. Valor Recibido   Impuestos     CP. Sc OL
+0021#STR0021#ALL# - Por Fecha
+0022#STR0022#ALL# - Por Vendedor
+0023#STR0023#ALL# - Por Producto
+0024#STR0024#ALL# - Por Tipo
+0025#STR0025#ALL# - Por Grupo
+0026#STR0026#ALL# - Por Cliente
+0027#STR0027#ALL# - Por Caja
+0028#STR0028#ALL#Seleccionando registros...
+0029#STR0029#ALL#ANULADO POR EL OPERADOR
+0030#STR0030#ALL#S U B T O T A L   ------> 
+0031#STR0031#ALL#T O T A L  G E N E R A L ->
+0032#STR0032#ALL#¿Incluye Devolucion? 
+0033#STR0033#ALL#Si
+0034#STR0034#ALL#No
+0035#STR0035#ALL#T O T A L   S U C U R S A L : 
+0036#STR0036#ALL# ********************** Devoluciones ********************** 
+0037#STR0037#ALL# (Completo)
+0038#STR0038#ALL# DEVOLUCION DE LAY-AWAY

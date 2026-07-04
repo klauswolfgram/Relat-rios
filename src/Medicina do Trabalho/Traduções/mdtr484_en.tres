@@ -1,0 +1,49 @@
+0001#STR0001#ALL#Report of quantitative exams result per Cost Center         
+0002#STR0002#ALL#Show exams executed in a determined period, allowing        
+0003#STR0003#ALL#the selection of quantities obtained on the exams results.  
+0004#STR0004#ALL#Z. Form
+0005#STR0005#ALL#Management
+0006#STR0006#ALL#Quantitative Exams Result
+0007#STR0007#ALL#Code                  Cost Center´s Name
+0008#STR0008#ALL#Employee Reg. Number                        Performed  Exam      Exam Name                               Sub-item                   Gender       Amount Unit  Note
+0009#STR0009#ALL#CANCELED BY OPERATOR
+0010#STR0010#ALL#Regular
+0011#STR0011#ALL#Below
+0012#STR0012#ALL#Above
+0013#STR0013#ALL#Cost C.
+0014#STR0014#ALL#Descript.
+0015#STR0015#ALL#Registr. 
+0016#STR0016#ALL#Employee   
+0017#STR0017#ALL#Performance
+0018#STR0018#ALL#Exam 
+0019#STR0019#ALL#Exam name 
+0020#STR0020#ALL#Sub-Item
+0021#STR0021#ALL#Quantity  
+0022#STR0022#ALL#Unit 
+0023#STR0023#ALL#Note
+0024#STR0024#ALL#Processing file ...   
+0025#STR0025#ALL#From Customer ?
+0026#STR0026#ALL#Unit
+0027#STR0027#ALL#To Customer ?
+0028#STR0028#ALL#Customer code. Leave the field blank to consider since the first code.
+0029#STR0029#ALL#Customer unit code. Leave the field blank to consider since the first code.
+0030#STR0030#ALL#Customer code. Fill in the field with Z up to its limit to consider the last code.
+0031#STR0031#ALL#Customer unit code. Fill in the field with Z up to its limit to consider the last code.
+0032#STR0032#ALL#Customer
+0033#STR0033#ALL#Name
+0034#STR0034#ALL#Cost Center
+0035#STR0035#ALL#Exams
+0036#STR0036#ALL#Customer/Unit: 
+0037#STR0037#ALL#No data to print in the report.
+0038#STR0038#ALL#To Result Date?
+0039#STR0039#ALL#From Result Date?
+0040#STR0040#ALL#To Quantity?
+0041#STR0041#ALL#From Quantity?
+0042#STR0042#ALL#To Sub-Item?
+0043#STR0043#ALL#From Sub-Item?
+0044#STR0044#ALL#To Exam?
+0045#STR0045#ALL#From Exam?
+0046#STR0046#ALL#To Cost Center?
+0047#STR0047#ALL#From Cost Center?
+0048#STR0048#ALL#Gender
+0049#STR0049#ALL#Employee Reg. Number                        Performed   Exam.      Exam Name                               Sub-item                               Amount Unit  Note

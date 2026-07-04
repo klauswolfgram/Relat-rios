@@ -1,0 +1,39 @@
+0001#STR0001#ALL#Special Checks
+0002#STR0002#ALL#Check
+0003#STR0003#ALL#Management   
+0004#STR0004#ALL#This program will print Checks of a specified Bank in the
+0005#STR0005#ALL#standard Printer selected.
+0006#STR0006#ALL#Printers available in the System  
+0007#STR0007#ALL#Model 
+0008#STR0008#ALL#CANCELLED BY THE OPERATOR
+0009#STR0009#ALL#Bank Data      
+0010#STR0010#ALL#Please insert the Check
+0011#STR0011#ALL#Turn the check in the printer and click the OK 
+0012#STR0012#ALL#button to print the history on the back. 
+0013#STR0013#ALL#January    
+0014#STR0014#ALL#February   
+0015#STR0015#ALL#March      
+0016#STR0016#ALL#April      
+0017#STR0017#ALL#May        
+0018#STR0018#ALL#June       
+0019#STR0019#ALL#July       
+0020#STR0020#ALL#August     
+0021#STR0021#ALL#September  
+0022#STR0022#ALL#October    
+0023#STR0023#ALL#November   
+0024#STR0024#ALL#December   
+0025#STR0025#ALL#Please insert the check in the printer
+0026#STR0026#ALL#to print the history on the back.  
+0027#STR0027#ALL#Check was printed correctly
+0028#STR0028#ALL#For automatic numbering, you must enter the number of the first check.
+0029#STR0029#ALL#Attention.
+0030#STR0030#ALL#The check will not be printed because the city in the bank file is blank!      
+0031#STR0031#ALL#No check found to be printed according to the parameters entered                 
+0032#STR0032#ALL#Operator entered that check was not printed. This check will remain in the database for future printing.
+0033#STR0033#ALL#SmartClient Incompatible
+0034#STR0034#ALL#Event:
+0035#STR0035#ALL#SmartClient used is the 64 bit version.
+0036#STR0036#ALL#Solution:
+0037#STR0037#ALL#For the proper functioning of this routine, switch to the version
+0038#STR0038#ALL#Lobo Guará 32 bits of the SmartClient.
+0039#STR0039#ALL#Note The files are available in the Customer Portal

@@ -1,0 +1,9 @@
+0001#STR0001#BRA#Demonstrativo das Prestacoes de Servico de Transporte e do Credito Outorgado
+0002#STR0002#BRA#Este programa emitira o Relatorio Demonstrativo das Prestacoes de Servico de
+0003#STR0003#BRA#Transporte e do Credito Outorgado.
+0004#STR0004#BRA#Zebrado
+0005#STR0005#BRA#Administracao
+0006#STR0006#BRA#|                   CTRC                |                Tomador do Servico Paulista                          |                 |                    |                    |                    |
+0007#STR0007#BRA#|---------------------------------------|---------------------------------------------------------------------|Valor do Servico |    ICMS Normal     |       ICMS ST      |       Credito      |
+0008#STR0008#BRA#|    Data    | Numero | Serie | CFOP | Razao Social                             | Inscricao Estadual   |R/D|                    |                    |                    |      Outorgado     |
+0009#STR0009#BRA# - Periodo: 

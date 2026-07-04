@@ -1,0 +1,16 @@
+0001#STR0001#ALL#Histograma de Atencion
+0002#STR0002#ALL#    Este programa emite el histograma de atencion mostrando los
+0003#STR0003#ALL#tiempos de atencion a partir del llamado tecnico de acuerdo con
+0004#STR0004#ALL#los parametros solicitados
+0005#STR0005#ALL#A Rayas
+0006#STR0006#ALL#Administracion
+0007#STR0007#ALL#Cliente                                 Num.Llamado  Recibido en      Dirigido en      Estatus   Num.Pres.  Recibido en      Dirigido en      Estatus   Num.OS     Recibida en      Direccionado     Estado       Tiempo de
+0008#STR0008#ALL#Codigo    Nombre                                     Fecha      Hora  Fecha      Hora  Llamado              Fecha      Hora  Fecha Hora       de Pres.             Fecha      Hora  Fecha Hora       de OS.     Atenc. en Hs
+0009#STR0009#ALL#ANULADO POR EL OPERADOR
+0010#STR0010#ALL#TOTAL DE CLIENTE: 
+0011#STR0011#ALL#PROM.: 
+0012#STR0012#ALL#TOTAL GRAL.: 
+0013#STR0013#ALL#PROM.: 
+0014#STR0014#ALL#Fecha direcc.   
+0015#STR0015#ALL#Hora Direcc.    
+0016#STR0016#ALL#Tiempo de Aten.(HS)

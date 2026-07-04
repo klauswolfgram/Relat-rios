@@ -1,0 +1,12 @@
+0001#STR0001#ALL#This report will print the requested managerial query and the estimated x accomplished financial chronogram for projects/EDTs/Tasks accomplishment registered in the query.
+0002#STR0002#ALL#Managerial Query - Estimated x Accomplished Finanacial Chronogram
+0003#STR0003#ALL#                  ENTITY                          |
+0004#STR0004#ALL#                                                  |       Value        |%Perc.|       Valor        |%Perc.|       Valor        |%Perc.|       Value        |%Perc.|       Value        |%Perc.|       Value        |%Perc.|
+0005#STR0005#ALL#|
+0006#STR0006#ALL#Query : 
+0007#STR0007#ALL#Z.Form
+0008#STR0008#ALL#Administration
+0009#STR0009#ALL#Amount
+0010#STR0010#ALL#Perc.
+0011#STR0011#ALL#Managerial query - Financial schedule - Forecast vs. Actual    
+0012#STR0012#ALL#Managerial query  

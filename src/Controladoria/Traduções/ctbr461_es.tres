@@ -1,0 +1,68 @@
+0001#STR0001#ALL#CTBR461
+0002#STR0002#ALL#Emision del Estado Demostrativo - Cuentas diversas por cobrar
+0003#STR0003#ALL#Este programa imprimira el Estado Demos. - Ctas. div. por cobrar
+0004#STR0004#ALL#Estado Demos. Ctas diversas por cobrar
+0005#STR0005#ALL# A 
+0006#STR0006#ALL# EN 
+0007#STR0007#ALL#Sucursal:
+0008#STR0008#ALL#Emision del Demostrativo – Provision para cuentas de cobranza dudosa (CUENTA 19)
+0009#STR0009#ALL#Este programa imprimira el Estado Demostrativo - Provision para cuentas de cobranza dudosa (CUENTA 19)
+0010#STR0010#ALL#Estado demostrativo de provision para cuentas de cobranza dudosa (CUENTA 19)
+0011#STR0011#ALL#Este programa imprimira el Estado Demostrativo - Cuentas de Cliente (CUENTA 12)
+0012#STR0012#ALL#Estado Demostrativo de Cuentas de Cliente (CUENTA 12)
+0013#STR0013#ALL#LIBRO DE INVENTARIOS Y BALANCES
+0014#STR0014#ALL#Seleccione el libro
+0015#STR0015#ALL#Valor total
+0016#STR0016#ALL#aprovision.
+0017#STR0017#ALL#Informacion de los deudores
+0018#STR0018#ALL#Cuentas por cobrar
+0019#STR0019#ALL#provisionada 	
+0020#STR0020#ALL#Documento
+0021#STR0021#ALL#Tipo
+0022#STR0022#ALL#Numero
+0023#STR0023#ALL#Nombre
+0024#STR0024#ALL#denominacion
+0025#STR0025#ALL#Numero del documento
+0026#STR0026#ALL#Fecha de emision
+0027#STR0027#ALL#Valor
+0028#STR0028#ALL#razón social
+0029#STR0029#ALL#comprobante de pago
+0030#STR0030#ALL#Saldo Final Total
+0031#STR0031#ALL#Informacion del cliente
+0032#STR0032#ALL#Total de la cuenta
+0033#STR0033#ALL#Fecha emision
+0034#STR0034#ALL#Documento
+0035#STR0035#ALL#por cobrar
+0036#STR0036#ALL#comprobante de pago
+0037#STR0037#ALL#Detalles del saldo de la cuenta
+0038#STR0038#ALL#Este programa imprimira los detalles del saldo cta 40
+0039#STR0039#ALL#Cuenta y subcuenta Tributos por pagar
+0040#STR0040#ALL#Saldo Final
+0041#STR0041#ALL#Codigo
+0042#STR0042#ALL#Descripcion
+0043#STR0043#ALL#Detalles Saldo Cuenta 41
+0044#STR0044#ALL#Este programa imprimira los detalles del saldo cuenta 41	
+0045#STR0045#ALL#Cuenta
+0046#STR0046#ALL#Trabajador
+0047#STR0047#ALL#Documento de
+0048#STR0048#ALL#identidad
+0049#STR0049#ALL#EJERCICIO: 
+0050#STR0050#ALL#RUC: 
+0051#STR0051#ALL#Apellidos y nombres, denominacion y razon social: 
+0052#STR0052#ALL#Informacion del Accionista, Socio o Personal
+0053#STR0053#ALL#Cuentas por Cobrar al personal, a los accionistas (o Socios), Directores y Gerentes
+0054#STR0054#ALL#Monto de la cuenta
+0055#STR0055#ALL#Fecha de Inicio
+0056#STR0056#ALL#de la Operacion
+0057#STR0057#ALL#SIN OPERACIONES
+0058#STR0058#ALL#Documento/Serie
+0059#STR0059#ALL#Informacion de terceros
+0060#STR0060#ALL#Cuenta por cobrar aprovisionada
+0061#STR0061#ALL#Valor total de la provision acumulada
+0062#STR0062#ALL#Total general:
+0063#STR0063#ALL#Información de clientes
+0064#STR0064#ALL#Formato
+0065#STR0065#ALL#¿Generar archivo TXT?
+0066#STR0066#ALL#Archivo generado con éxito
+0067#STR0067#ALL#Ocurrió un error al crear el archivo Txt.
+0068#STR0068#ALL#Archivo Txt generado con éxito.

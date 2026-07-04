@@ -1,0 +1,97 @@
+0001#STR0001#ALL#Listas de embarque por ente, tienda y producto
+0002#STR0002#ALL#Listas de embarque
+0003#STR0003#ALL#Sucursal
+0004#STR0004#ALL#Emisión
+0005#STR0005#ALL#TP
+0006#STR0006#ALL#Lista de embarque
+0007#STR0007#ALL#Contrato
+0008#STR0008#ALL#Matrícula
+0009#STR0009#ALL#1ºPesaje
+0010#STR0010#ALL#2ºPesaje
+0011#STR0011#ALL#Neto S/Desc
+0012#STR0012#ALL#Descuentos
+0013#STR0013#ALL#P.Neto
+0014#STR0014#ALL#Docto
+0015#STR0015#ALL#Transgenia
+0016#STR0016#ALL#Val.
+0017#STR0017#ALL#Desc.
+0018#STR0018#ALL#Total del producto
+0019#STR0019#ALL#Total de la tienda
+0020#STR0020#ALL#Total del ente
+0021#STR0021#ALL#Inscripción:
+0022#STR0022#ALL# en la selección de los datos impresos.
+0023#STR0023#ALL#Informe la sucursal inicial
+0024#STR0024#ALL#¿De Sucursal?
+0025#STR0025#ALL#Informe la sucursal final 
+0026#STR0026#ALL#¿A Sucursal?
+0027#STR0027#ALL#Informe el ente inicial
+0028#STR0028#ALL#¿De Ente?
+0029#STR0029#ALL#Informe la tienda inicial 
+0030#STR0030#ALL#¿De Tienda?
+0031#STR0031#ALL#Informe el ente final
+0032#STR0032#ALL#¿A Ente?
+0033#STR0033#ALL#Informe la tienda final
+0034#STR0034#ALL#¿A Tienda?
+0035#STR0035#ALL#Informe el contrato inicial
+0036#STR0036#ALL#¿De Contrato?
+0037#STR0037#ALL#Informe el contrato final 
+0038#STR0038#ALL#¿A Contrato?
+0039#STR0039#ALL#Informe la cosecha inicial 
+0040#STR0040#ALL#¿De Cosecha?
+0041#STR0041#ALL#Informe la cosecha final
+0042#STR0042#ALL#¿A Cosecha?
+0043#STR0043#ALL#Informe la fecha inicial
+0044#STR0044#ALL#¿De Fecha?
+0045#STR0045#ALL#Informe la fecha final
+0046#STR0046#ALL#¿A Fecha?
+0047#STR0047#ALL#Informe el grupo de productos inicial 
+0048#STR0048#ALL#¿De Grupo?
+0049#STR0049#ALL#Informe el grupo de productos final
+0050#STR0050#ALL#¿A Grupo?
+0051#STR0051#ALL#Informe el producto inicial
+0052#STR0052#ALL#¿De Producto?
+0053#STR0053#ALL#Informe el producto final
+0054#STR0054#ALL#¿A Producto?
+0055#STR0055#ALL#Informe el ítem de clasificación que
+0056#STR0056#ALL#Cód. de la Transgenia?
+0057#STR0057#ALL#Informe 6 ítems de descuentos separados
+0058#STR0058#ALL#Descuentos por listar
+0059#STR0059#ALL#Informe  qué tipos  de movimientos deben
+0060#STR0060#ALL#¿De Lista de embarque C/Movtos?
+0061#STR0061#ALL#Informe el tipo de lista de embarque
+0062#STR0062#ALL#Tipos de lista de embarque
+0063#STR0063#ALL#Todos
+0064#STR0064#ALL#Entrada
+0065#STR0065#ALL#Salida
+0066#STR0066#ALL#Físico
+0067#STR0067#ALL#De gestión
+0068#STR0068#ALL#Simbólico
+0069#STR0069#ALL#Docto(Fact)
+0070#STR0070#ALL#Resul
+0071#STR0071#ALL#Descto
+0072#STR0072#ALL#Seleccione 6 tipos de descuentos válidos para listar. Sepárelos con (;) Ej: UMI;TRA;ARD
+0073#STR0073#ALL#que se considerará
+0074#STR0074#ALL#que se considerará
+0075#STR0075#ALL#identifica el resultado de transgenia
+0076#STR0076#ALL#por (;) para listarse. Ej:01;02
+0077#STR0077#ALL#considerarse en la impresión.
+0078#STR0078#ALL#Informe la fecha de transacción inicial
+0079#STR0079#ALL#Fch Trans Ini
+0080#STR0080#ALL#Informe la fecha de transacción final
+0081#STR0081#ALL#Fch trans fin
+0082#STR0082#ALL#Informe los estatus separados
+0083#STR0083#ALL#Estatus
+0084#STR0084#ALL#Seleccione estatus válidos para enumerar. Sepárelos con (;) Ej: 0;1;2 
+0085#STR0085#ALL#Informe la fecha
+0086#STR0086#ALL#Fecha que se considerará
+0087#STR0087#ALL#Fecha Lista Emb.
+0088#STR0088#ALL#Fecha Peso 1
+0089#STR0089#ALL#Fecha Peso 2
+0090#STR0090#ALL#Emisión Fact
+0091#STR0091#ALL#Fecha Transac.
+0092#STR0092#ALL#Informe el tipo de dictamen de la calidad
+0093#STR0093#ALL#Dictamen de calidad
+0094#STR0094#ALL#Informe los códigos de las autorizaciones
+0095#STR0095#ALL#Cons. Dictamen Calid.
+0096#STR0096#ALL#Total Movtos del producto
+0097#STR0097#ALL#Total Movtos del ente

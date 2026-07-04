@@ -1,0 +1,33 @@
+0001#STR0001#ALL#List of Inventory Analysis
+0002#STR0002#ALL#This report shows the situation of each item in relation to 
+0003#STR0003#ALL#its balance, allocation, estimated inflows and class 
+0004#STR0004#ALL#ABC.
+0005#STR0005#ALL# By Code           
+0006#STR0006#ALL# By Type           
+0007#STR0007#ALL# By Description   
+0008#STR0008#ALL# By Group        
+0009#STR0009#ALL#Z.Form
+0010#STR0010#ALL#Management
+0011#STR0011#ALL#CODE            DESCRIPTION                     TP GRUP MU       BALAN IN   ALLOCAT FOR            SC's PC's/CONTRACTS           PO's           PS's       POINT OF         LOT    TERM   STOCK     CONSUMP.    LAST     CL  
+0012#STR0012#ALL#                                                                  REQ/PS/RESERV.STOCK         ENTERED        ENTERED        ENTERED        ENTERED           ORDER     ECONOM.   DELIVERY IN MTHS     AVERG.     OUTFLOW     
+0013#STR0013#ALL#CANCELLED BY THE OPERATOR
+0014#STR0014#ALL#T o t a l  o f   T y p e : 
+0015#STR0015#ALL#T o t a l   o f   G r o u p : 
+0016#STR0016#ALL#G r a n d   T o t a l :
+0017#STR0020#ALL# By Consumption       
+0018#STR0021#ALL#Selecting Records...
+0019#STR0022#ALL#PRODUCT(S)
+0020#STR0023#ALL#Update 
+0021#STR0024#ALL#SCs
+0022#STR0025#ALL#Placed   
+0023#STR0026#ALL#PCs
+0024#STR0027#ALL#Placed   
+0025#STR0028#ALL#OPs
+0026#STR0029#ALL#PVs
+0027#STR0030#ALL#Inventory
+0028#STR0031#ALL#in Months
+0029#STR0032#ALL#  N/D
+0030#STR0033#ALL#CL
+0031#STR0034#ALL#Products
+0032#STR0035#ALL#Tp
+0033#STR0036#ALL#MU

@@ -1,0 +1,28 @@
+0001#STR0001#ALL#Este programa imprimira la lista de movimientos    
+0002#STR0002#ALL#acumulados por 
+0003#STR0003#ALL#determinadas por el usuario.  
+0004#STR0004#ALL#A Rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#Lista de Movimientos Acumulados para CC Extra, Ejercicio -  
+0007#STR0007#ALL#Codigo 
+0008#STR0008#ALL#Codigo de Cuenta    Descripcion               
+0009#STR0009#ALL#***** ANULADO POR EL OPERADOR *****
+0010#STR0010#ALL# Extracontable de cuen-
+0011#STR0011#ALL# Descripcion           
+0012#STR0012#ALL#Total de 
+0013#STR0013#ALL#Total Gral.: 
+0014#STR0014#ALL#Codigo Cod.Costo     Descripcion                                     
+0015#STR0015#ALL#Codigo de la cuenta  Descripcion                                     
+0016#STR0016#ALL#Es necesario informar en los parametros la moneda que el informe utilizara    
+0017#STR0017#ALL#Por favor, verifique si el calend.contable y el vinculo moneda/calendario 
+0018#STR0018#ALL#fueron registrados correctamente...
+0019#STR0019#ALL#ACUMULADO
+0020#STR0020#ALL#Desc
+0021#STR0021#ALL#Valores
+0022#STR0022#ALL#A  
+0023#STR0023#ALL#El plan de gestion todavia no esta disponible para este informe.
+0024#STR0024#ALL#Modifique configuracion de libros.
+0025#STR0025#ALL#Config. de Libros...
+0026#STR0026#ALL#Armando consulta ...
+0027#STR0027#ALL#Ejecutando consulta...
+0028#STR0028#ALL#Plan referencial no disponible en este informe. El informe se procesará sin considerar la configuración de libros.

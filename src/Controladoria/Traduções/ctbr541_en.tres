@@ -1,0 +1,23 @@
+0001#STR0001#EQU#Generating report, wait...
+0002#STR0002#EQU#Income Statement - Model 2
+0003#STR0003#EQU#a hundred
+0004#STR0004#EQU#thousand
+0005#STR0005#EQU#million
+0006#STR0006#EQU#Creating temporary file...
+0007#STR0007#EQU#Month 
+0008#STR0008#EQU#% Tot
+0009#STR0009#EQU#Accrued
+0010#STR0010#EQU#INCOME STATEMENT
+0011#STR0011#EQU# to 
+0012#STR0012#EQU# from 
+0013#STR0013#EQU#Period
+0014#STR0014#EQU# % 
+0015#STR0015#EQU#In Charges...
+0016#STR0016#EQU#This program prints out the Income Statement, 
+0017#STR0017#EQU#according to the parameters entered by the user. 
+0018#STR0018#EQU#Detail
+0019#STR0019#EQU#Account
+0020#STR0020#EQU#Accounting statements must have a management plan associated to the book. Check the book configuration !
+0021#STR0021#EQU#Account
+0022#STR0022#EQU#Sup.Account
+0023#STR0023#EQU#Former Balance

@@ -1,0 +1,12 @@
+0001#STR0001#ALL#Verificacion del Proceso de AVP Cuentas por Cobrar
+0002#STR0002#ALL#Proceso disponible solamente para entorno TOPCONNECT / TOTVSDBACCESS
+0003#STR0003#ALL#Este informe tiene el objetivo de listar los titulos ajustados en el proceso, para fines de Verif.
+0004#STR0004#ALL#Procesamiento
+0005#STR0005#ALL#Movimientos del Procesam.
+0006#STR0006#ALL#Función disponible únicamente para que el TReport verifique el parámetro MV_TREPORT
+0007#STR0007#ALL#Prorrateo de la factura
+0008#STR0008#ALL#Valor prorrateado
+0009#STR0009#ALL#Constitución
+0010#STR0010#ALL#Atribución
+0011#STR0011#ALL#Realización
+0012#STR0012#ALL#Baja

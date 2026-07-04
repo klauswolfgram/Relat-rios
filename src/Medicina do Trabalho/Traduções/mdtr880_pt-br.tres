@@ -1,0 +1,28 @@
+0001#STR0001#ALL#    Relatório de apresentação do questionário padrão.              
+0002#STR0002#ALL#    Os campos dos questionários estarão vazios, para que os funcio-
+0003#STR0003#ALL# narios possam preencher os campos manualmente.                    
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#Questionário Padrão
+0007#STR0007#ALL#CANCELADO PELO OPERADOR
+0008#STR0008#ALL#Código: 
+0009#STR0009#ALL#Perguntas                                      Resp.  Quant. Complemento
+0010#STR0010#ALL#Matrícula.:___________ Nome.:____________________________________ Data.:__/__/__
+0011#STR0011#ALL#Cargo.:______________________ Função.:__________________________________________
+0012#STR0012#ALL#Assinatura.:__________________________
+0013#STR0013#ALL#Cliente/Loja: 
+0014#STR0014#ALL#Não há nada para imprimir no relatório.
+0015#STR0015#ALL#Termo de Responsabilidade: 
+0016#STR0016#ALL#Termo de Responsabilidade ?
+0017#STR0017#ALL#Quantidade Cópias ?
+0018#STR0018#ALL#Até Questionário ?
+0019#STR0019#ALL#De Questionário ?
+0020#STR0020#ALL#De Cliente ?
+0021#STR0021#ALL#Loja
+0022#STR0022#ALL#Até Cliente ?
+0023#STR0023#ALL#Sim
+0024#STR0024#ALL#Não
+0025#STR0025#ALL#Sem Resposta
+0026#STR0026#ALL#Todas as perguntas devem ser respondidas conforme abaixo:
+0027#STR0027#ALL#As perguntas devem ser respondidas conforme as indicações de resposta.
+0028#STR0028#ALL#Respostas: 

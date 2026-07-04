@@ -1,0 +1,19 @@
+0001#STR0001#ALL#List of Route Toll           
+0002#STR0002#ALL#Issue of Route Toll          
+0003#STR0003#ALL#It will list data of Route Toll            
+0004#STR0004#ALL#according to the user setup.   
+0005#STR0005#ALL#Z.formo
+0006#STR0006#ALL#Management   
+0007#STR0007#ALL# Route  Route descript.  Item Code   Road    Name Road       Seq. Toll    Kilometer Municip. 
+0008#STR0008#ALL#*** CANCELED BY OPERATOR ***
+0009#STR0009#ALL#Route: 
+0010#STR0010#ALL#Report of Tollbooth Route
+0011#STR0011#ALL#Issue of Tollbooth Route
+0012#STR0012#ALL#Route
+0013#STR0013#ALL#Route Description
+0014#STR0014#ALL#Item
+0015#STR0015#ALL#Highway Cod.
+0016#STR0016#ALL#Highway Name
+0017#STR0017#ALL#Toll seq.
+0018#STR0018#ALL#Kilometer
+0019#STR0019#ALL#City

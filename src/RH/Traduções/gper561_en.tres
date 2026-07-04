@@ -1,0 +1,25 @@
+0001#STR0001#ALL#Text File|*.TXT
+0002#STR0002#ALL#Save Search...
+0003#STR0003#ALL#         DGII              | FEDERAL REVENUE                                                                                                 # PAGE   
+0004#STR0004#ALL#         IR-13             | GENERAL DIRECTION OF INTERNAL TAXES                                                                                           FISCAL YEAR 
+0005#STR0005#ALL#Approved by Attorney   |  ANNUAL SWORN STATEMENT FROM WITHHOLDING AGENT
+0006#STR0006#ALL# General of Republic   | WAGE EARNER
+0007#STR0007#ALL#WITHHOLDING AGENT GENERAL DATA
+0008#STR0008#ALL#  LAST NAMES AND NAMES   |     ID CARD OR    |  WAGES TOTAL  |     OTHERS       |   PAID TOTAL     |   OTHER PAYMENTS    |     TAX     |     TAX     |   BALANCE IN FAV.   |   DIFFERENCE  
+0009#STR0009#ALL#                         |    PASSPORT       |PAID IN YEAR| COMPENSATIONS  |   IN YEAR    | SUBJ. TO WITHH.|   CLEARED    |  WITHH. AND PAID  |  FROM EMPLOYEE   |     PAYABLE    
+0010#STR0010#ALL#           A             |        B          |        C        |       D         |        E         |         F       |        G       |       H         |        I        |        J       
+0011#STR0011#ALL#Wage earner number
+0012#STR0012#ALL#Subject to withholding
+0013#STR0013#ALL#I, 
+0014#STR0014#ALL#AS A WITHHOLDING AGENT, DECLARE UNDER OATH, THAT DATA
+0015#STR0015#ALL#REGISTERED IN THE PRESENT STATEMENT ARE CORRECT AND COMPLETE, AND NO DATA
+0016#STR0016#ALL#WAS OMITTED, THEN ALL CONTENT IS THE FAITHFULL
+0017#STR0017#ALL#EXPRESSION OF THE TRUTH.
+0018#STR0018#ALL#DECLARANT SIGNATURE
+0019#STR0019#ALL#ID CARD-SERIES
+0020#STR0020#ALL#TAX PAYABLE
+0021#STR0021#ALL#ADDENDA ART. 252 (   )%
+0022#STR0022#ALL#INDEMNIFICATION INTEREST ART. 27(  )%
+0023#STR0023#ALL#TOTAL PAYABLE RD$
+0024#STR0024#ALL#                         |                   |                 |                 |                  |   SALARIES AND    |                |                 |                 |                
+0025#STR0025#ALL#SUMMARY FOR PAYMENT

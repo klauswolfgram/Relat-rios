@@ -1,0 +1,21 @@
+0001#STR0001#ALL#Impressão Do Orçamento
+0002#STR0002#ALL#     este programa irá emitir os orçamentos conforme os parâmetros
+0003#STR0003#ALL#Solicitados.
+0005#STR0005#ALL#Código de barras
+0006#STR0006#ALL#Administração
+0007#STR0007#ALL#Cancelado Pelo Operador
+0008#STR0008#ALL#|                                orçamento técnico                                           | nr. orçamento: ###### | folha: ######|
+0009#STR0009#ALL#|cliente  : ######/## - ########################################                                                                   |
+0010#STR0010#ALL#|emissão  : ##########                                                                                                             |
+0011#STR0011#ALL#|atendente: ####################                                                                                                   |
+0012#STR0012#ALL#|cond.pag.: ### - ##################################                                 desconto(s): ###### + ###### + ###### + ######|
+0013#STR0013#ALL#|it|   tipo   |    artigo    |      nr. série      |                problema               |    contrato   | garantia |    o.s.    |
+0014#STR0014#ALL#|  |it|artigo        |descrição                     |serviço|  quantidade  |valor unitário|    valor total    | valor fabricante  |
+0015#STR0015#ALL#|                                                                            sub-total     | ##################| ##################|
+0016#STR0016#ALL#|                                                                            total geral   | ##################| ##################|
+0017#STR0017#ALL#|moeda    : #                                                                                                                      |
+0018#STR0018#ALL#Total Crial
+0021#STR0021#ALL#Sub-total
+0022#STR0022#ALL#Orçamento Técnico
+0023#STR0023#ALL#Cabeçalho Do Orçamento
+0024#STR0024#ALL#Itens Do Orçamento

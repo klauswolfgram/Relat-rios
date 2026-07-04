@@ -1,0 +1,26 @@
+0001#STR0001#ALL#List of Scheduled Wages Increase for Employee`s.
+0002#STR0002#ALL#It will be printed according to the parameters selected
+0003#STR0003#ALL#by the user.
+0004#STR0004#ALL#Registr.
+0005#STR0005#ALL#Funct.
+0006#STR0006#ALL#Cost Center
+0007#STR0007#ALL#Z.Form
+0008#STR0008#ALL#Management
+0009#STR0009#ALL# Scheduled Wages Increase
+0010#STR0010#ALL#Selected Records...
+0011#STR0011#ALL#BRAN     ENROLLM EMPLOYEE NAME                  SALARY CAT FUNCTION                     COST CENTER
+0012#STR0012#ALL#BRAN     ENROLLM EMPLOYEE NAME                   SALARY CAT COST CENTER
+0013#STR0013#ALL#BRAN     ENROLLM EMPLOYEE NAME                   SALARY CAT FUNCTION
+0014#STR0014#ALL#Selecting Records...
+0015#STR0015#ALL#FUNCTION: 
+0016#STR0016#ALL#COST CENTER: 
+0017#STR0017#ALL#    DT.RAISE   RAISE TYPE           % OF RAISE        SALARY CAT. POSITION                   POSITION                   UPDATED   
+0018#STR0018#ALL#YES
+0019#STR0019#ALL#NO
+0020#STR0020#ALL#Employee
+0021#STR0021#ALL#Cat
+0022#STR0022#ALL#Funct.
+0023#STR0023#ALL#Raise Dt.
+0024#STR0024#ALL#Raise Tp.
+0025#STR0025#ALL#Position
+0026#STR0026#ALL#Please, use RHUPDCSA compatibility program, option 'Adjust Fields for Salary1 to adjust table RB7

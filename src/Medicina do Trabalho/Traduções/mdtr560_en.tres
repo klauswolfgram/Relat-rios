@@ -1,0 +1,33 @@
+0001#STR0001#ALL#Report to print the Exams related to risks.
+0002#STR0002#ALL#These risks will be filtered through the parameters informed by
+0003#STR0003#ALL#The User.
+0004#STR0004#ALL#Z- Form
+0005#STR0005#ALL#Administration
+0006#STR0006#ALL#Exams per Risk
+0007#STR0007#ALL#Department
+0008#STR0008#ALL#Exams.:
+0009#STR0009#ALL#Risk nbr
+0010#STR0010#ALL#Agent 
+0011#STR0011#ALL#Cost center    
+0012#STR0012#ALL#Role  
+0013#STR0013#ALL#Task  
+0014#STR0014#ALL#Exam 
+0015#STR0015#ALL#Exam name    
+0016#STR0016#ALL#From Customer ?
+0017#STR0017#ALL#Unit
+0018#STR0018#ALL#To Customer ?
+0019#STR0019#ALL#Customer code. Leave the field blank to consider since the first code.
+0020#STR0020#ALL#Customer unit code. Leave the field blank to consider since the first code.
+0021#STR0021#ALL#Customer code. Fill in the field with Z up to its limit to consider the last code.
+0022#STR0022#ALL#Customer unit code. Fill in the field with Z up to its limit to consider the last code.
+0023#STR0023#ALL#No data to print in the report.
+0024#STR0024#ALL#Customer
+0025#STR0025#ALL#Name
+0026#STR0026#ALL#All
+0027#STR0027#ALL#All
+0028#STR0028#ALL#Customer/Unit: 
+0029#STR0029#ALL#To Exam?
+0030#STR0030#ALL#From Exam?
+0031#STR0031#ALL#To Risk?
+0032#STR0032#ALL#From Risk?
+0033#STR0033#ALL#Department

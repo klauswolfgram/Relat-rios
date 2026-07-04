@@ -1,0 +1,19 @@
+0001#STR0001#ALL#Este programa vai emitir a relação dos títulos a receber, 
+0002#STR0002#ALL#Referentes a juros e que ainda não foram recebidos.       
+0003#STR0003#ALL#Emite os títulos em aberto ou liquidados.                   
+0004#STR0004#ALL#Relação dos juros devidos e não pagos em 
+0005#STR0005#ALL#Código de barras
+0006#STR0006#ALL#Administração
+0007#STR0007#ALL# (em Aberto)
+0008#STR0008#ALL#Banco  Código    Cliente                      Nr.título          Vencto      Atraso    Valor Título /  Saldo Título/  Juros Devidos
+0009#STR0009#ALL# (liquidados)
+0010#STR0010#ALL#Bco Código    Cliente              Nr.título          Vencto     Atr. Dt.pgt            Valor/ Juros Devid/juros Pagos/  Diferença
+0011#STR0011#ALL#Cancelado Pelo Operador
+0012#STR0012#ALL#Não existem movimentos neste período
+0013#STR0013#ALL#Sub - total  ----> 
+0014#STR0014#ALL#Total  crial ----> 
+0015#STR0015#ALL#Banco  Código                    Cliente                      Nr.título          Vencto      Atraso    Valor Título /  Saldo Título/  Juros Devidos
+0016#STR0016#ALL#Bco Código                    Cliente              Nr.título          Vencto     Atr. Dt.pgt            Valor/ Juros Devid/juros Pagos/  Diferença
+0020#STR0020#ALL#No.título
+0023#STR0023#ALL#Dt.pagto
+0031#STR0031#ALL#Títulos

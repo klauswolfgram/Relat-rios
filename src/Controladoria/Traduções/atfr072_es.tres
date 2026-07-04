@@ -1,0 +1,44 @@
+0001#STR0001#ALL#Función disponible solamente para entornos TopConnect
+0002#STR0002#ALL#Deben seleccionarse como máximo 5 monedas 
+0003#STR0003#ALL#Situación valorizada de los bienes en la fecha
+0004#STR0004#ALL#Este programa emitirá la situación valorizada de los 
+0005#STR0005#ALL#bienes hasta en 5 (cinco) monedas.
+0006#STR0006#ALL#Cuenta
+0007#STR0007#ALL#C Costo
+0008#STR0008#ALL#Ítem contable
+0009#STR0009#ALL#Clase de valor
+0010#STR0010#ALL# por  
+0011#STR0011#ALL# Analítico 
+0012#STR0012#ALL# Sintético por cuenta 
+0013#STR0013#ALL# Sintético por bien 
+0014#STR0014#ALL#Ente contable
+0015#STR0015#ALL#Datos del ente
+0016#STR0016#ALL#Descripción tipo
+0017#STR0017#ALL#Valor original    
+0018#STR0018#ALL#Val Amplia
+0019#STR0019#ALL#Valor actualizado
+0020#STR0020#ALL#Deprec. Acumulada
+0021#STR0021#ALL#Valor residual
+0022#STR0022#ALL#Texto subtotal
+0023#STR0023#ALL#Sucursal
+0024#STR0024#ALL#Ente
+0025#STR0025#ALL#Cantidad
+0026#STR0026#ALL#Valores subtotal
+0027#STR0027#ALL#Moneda
+0028#STR0028#ALL#Texto total general
+0029#STR0029#ALL#Total general
+0030#STR0030#ALL#Valores del total general
+0031#STR0031#ALL#Total fiscal
+0032#STR0032#ALL#Total de gestión
+0033#STR0033#ALL#Total incentivada
+0034#STR0034#ALL#Creando archivo temporal 
+0035#STR0035#ALL#Sucursal
+0036#STR0036#ALL#TOTAL 
+0037#STR0037#ALL#TOTAL FISCAL 
+0038#STR0038#ALL#TOTAL DE GESTIÓN 
+0039#STR0039#ALL#TOTAL INCENTIVADA 
+0040#STR0040#ALL#* * *   T O T A L   G E N ER A L   * * *
+0041#STR0041#ALL#CANTIDAD
+0042#STR0042#ALL#* * *   T O T A L   S U C U R S A L   * * *
+0043#STR0043#ALL#Informe disponible solamente en TReport.
+0044#STR0044#ALL#Tipo Depr.

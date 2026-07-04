@@ -1,0 +1,19 @@
+0001#STR0001#ALL#Produtivity Report
+0002#STR0002#ALL#It prints a produtivity list by operator, according to the 
+0003#STR0003#ALL#percentage calculation which can be edited by the user, since 
+0004#STR0004#ALL#this routine is RDMAKE.
+0005#STR0005#ALL#Z.Form
+0006#STR0006#ALL#Management
+0007#STR0007#ALL#RECORD(S)
+0008#STR0008#ALL#Selecting Records...
+0009#STR0009#ALL#DATE     STD     WORKED      PRODUCTION  PRODUCT         RESOURCE  ESTIMATED         EFFECTIVE       EFFICIENCE
+0010#STR0010#ALL#         HOURS   HOURS       ORDER                                 QUANTITY          QUANTITY            %
+0011#STR0011#ALL#Operator :
+0012#STR0012#ALL#Hours:
+0013#STR0013#ALL#Produtivity 
+0014#STR0014#ALL#StandardTime
+0015#STR0015#ALL#Estimated quant.
+0016#STR0016#ALL#Actual quantity
+0017#STR0017#ALL#Efficience(%)
+0018#STR0018#ALL#PCP production annotation  
+0019#STR0019#ALL#Totals by Operator 

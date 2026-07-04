@@ -1,0 +1,28 @@
+0001#STR0001#ALL#CT
+0002#STR0002#ALL#NF
+0003#STR0003#ALL#ENTRADAS
+0004#STR0004#ALL#SAIDAS
+0005#STR0005#ALL##################################################################                                    REGISTRO DE ########                                                                                      PAGINA ######
+0006#STR0006#ALL#MES OU PERIODO/ANO: #######                                                                                                                                                               ----------- OPERACOES ------------
+0007#STR0007#ALL#                                                                                                                                                                                          (1)TRIBUTADAS (2)ISENTAS (3)OUTRAS
+0008#STR0008#ALL#  DT       ESPE  SE                        DT                                                                                                  ICMS OPERACOES
+0009#STR0009#ALL#ENTRADA    CIE   RIE        NUMERO         EMISSAO                     EMITENTE                   UF     VALOR CONTABIL CONTA CONTABIL       CFO  IPI (*)    BASE DE CALCULO ALIQ    VALOR DO IMPOSTO           OBSERVACOES 
+0010#STR0010#ALL#MES OU PERIODO/ANO: #######                                                                                                                                                               ----------- OPERACOES ------------
+0011#STR0011#ALL#                                                                                                                                                                                          (1)TRIBUTADAS (2)ISENTAS (3)OUTRAS
+0012#STR0012#ALL#  DT       ESPE  SE                                                                                                                 ICMS OPERACOES
+0013#STR0013#ALL#EMISSAO    CIE   RIE     NUMERO                                 EMITENTE                   UF     VALOR CONTABIL CONTA CONTABIL       CFO  IPI (*)    BASE DE CALCULO ALIQ    VALOR DO IMPOSTO                  OBSERVACOES 
+0014#STR0014#ALL#A TRANSPORTAR
+0015#STR0015#ALL#TOTAL DO DIA 
+0016#STR0016#ALL#TOTAL DO MES
+0017#STR0017#ALL#TOTAL DO PERIODO
+0018#STR0018#ALL#1.00 ENTRADAS DO ESTADO
+0019#STR0019#ALL#2.00 ENTRADAS DE FORA DO ESTADO
+0020#STR0020#ALL#3.00 ENTRADAS DO EXTERIOR
+0021#STR0021#ALL#5.00 SAIDAS PARA O ESTADO
+0022#STR0022#ALL#6.00 SAIDAS PARA FORA DO ESTADO
+0023#STR0023#ALL#7.00 SAIDAS PARA O EXTERIOR
+0024#STR0024#ALL#TOTAL GERAL
+0025#STR0025#ALL#TOTAL
+0026#STR0026#ALL#DEMONSTRATIVO POR ESTADO DE ORIGEM DA MERCADORIA OU DE INICIO DA PRESTACAO DE SERVICO
+0027#STR0027#ALL#ICMS RETIDO...: 
+0028#STR0028#ALL#Filial : 

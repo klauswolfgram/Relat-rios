@@ -1,0 +1,18 @@
+0001#STR0001#ALL#PENDENCIAS
+0002#STR0002#ALL#Este programa irá imprimir uma relaçäo das pendências de cada
+0003#STR0003#ALL#responsável, mencionando o tipo de pendência e sua data de
+0004#STR0004#ALL#criaçäo, de acordo com os parâmetros definidos pelo usuário.
+0005#STR0005#ALL#Zebrado
+0006#STR0006#ALL#Administraçäo
+0007#STR0007#ALL#Selecionando Registros..
+0008#STR0008#ALL#DOCUMENTO/REVISAO    TITULO                                                                                               PENDENCIA                DATA DE     DATA DA    STATUS     DIAS
+0009#STR0009#ALL#                                                                                                                                                   CRIACAO     BAIXA      DA BAIXA
+0010#STR0010#ALL#CANCELADO PELO OPERADOR
+0011#STR0011#ALL#Departamento: 
+0012#STR0012#ALL#Responsavel : 
+0013#STR0013#ALL#Pendente
+0014#STR0014#ALL#Baixado
+0015#STR0015#ALL#Depto
+0016#STR0016#ALL#Pendencias
+0017#STR0017#ALL#FILIAL: 
+0018#STR0018#ALL#CODIGO: 

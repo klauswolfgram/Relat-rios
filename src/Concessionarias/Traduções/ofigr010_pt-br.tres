@@ -1,0 +1,22 @@
+0001#STR0001#ALL#Este programa tem como objetivo imprimir a relacao de 
+0002#STR0002#ALL#Relatorios de reclamacoes
+0003#STR0003#ALL#Relatorio de reclamacoes
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#Aguarde Selecionando Registro para Impressao
+0007#STR0007#ALL#*** CANCELADO PELO OPERADOR ***
+0008#STR0008#ALL#[Gr] [Codigo da Peca-----------] [Descricao---------] [Qtde] [Valor---] [Esp]
+0009#STR0009#ALL#Total.:
+0010#STR0010#ALL#[Gr] [Codigo do Servico--------] [Descricao---------] [Tmp-] [Valor---] [Esp]
+0011#STR0011#ALL#Total da OS.: 
+0012#STR0012#ALL#Total Pecas: 
+0013#STR0013#ALL# Total Servicos: 
+0014#STR0014#ALL# Total: 
+0015#STR0015#ALL#Data Inicial      ?
+0016#STR0016#ALL#Data Final        ?
+0017#STR0017#ALL#Tipo Relatorio    ?
+0018#STR0018#ALL#Todas as RR
+0019#STR0019#ALL#Somente as Excluidas
+0020#STR0020#ALL#Motivo
+0021#STR0021#ALL#[Nro Osv-][Dt.Abe] [Ch.I] [Chassi do Veiculo------] [Modelo----------------------] [Descricao do Modelo-----------] [Cod Pro] [Proprietario------------------------]
+0022#STR0022#ALL#          [Ano] [Nro RR] [Rec] [CdGar] [T] [R] [NF 1-----] [NF 2-----] [Ser] [GS] [Cod Servico---] [Grp-] [Cod da Peca----------------] [Def] [SerConjun] [TipCon] [CodCam] [TesCam] [Km Pick] [KmGui-] 

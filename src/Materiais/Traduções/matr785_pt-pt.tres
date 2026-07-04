@@ -1,0 +1,17 @@
+0002#STR0002#ALL#Analítico
+0003#STR0003#ALL#Sintético
+0005#STR0005#ALL#Lista De Preços Por Clientes
+0006#STR0006#ALL#Este relatório destina-se aos utilizadores que utilizam preco de venda
+0007#STR0007#ALL#Na amarração artigo x cliente, sendo apresentado apenas o último
+0008#STR0008#ALL#Preço
+0009#STR0009#ALL#Código de barras
+0010#STR0010#ALL#Administração
+0011#STR0011#ALL#Cancelado Pelo Operador
+0013#STR0013#ALL#Artigo                         Descrição do Artigo            Cód.no Cliente     Peso Unitário  UM                           Últ. Reaj.       Preço de Venda
+0013#STR0013#BRA#Artigo                         Descrição do Artigo            Cód.no Cliente     Peso Unitário  UM   IPI     Inciso IPI  Últ.Reaj.        Preço de Venda
+0014#STR0014#ALL#Lista De Preços Por Clientes
+0015#STR0015#ALL#Este relatório destina-se aos utilizadores que utilizam preço de venda
+0016#STR0016#ALL#Na amarração artigo x cliente, sendo apresentado apenas o último
+0017#STR0017#ALL#Ult.reaj.
+0018#STR0018#ALL#Preço De Venda
+0020#STR0020#ALL#Artigos

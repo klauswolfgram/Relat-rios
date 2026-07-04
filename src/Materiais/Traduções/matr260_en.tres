@@ -1,0 +1,53 @@
+0001#STR0001#ALL#Inventory Status Report
+0002#STR0002#ALL#This report prints Balance and Reserve Status of each product in
+0003#STR0003#ALL#Stock, and also the available Balance, that is, the differences 
+0004#STR0004#ALL#subtracted allocations.
+0005#STR0005#ALL# By Code            
+0006#STR0006#ALL# By Type            
+0007#STR0007#ALL# By Description     
+0008#STR0008#ALL# By Group           
+0009#STR0009#ALL# By Warehouse       
+0010#STR0010#ALL#Z.Form 
+0011#STR0011#ALL#Management   
+0012#STR0012#ALL#Selecting Records...     
+0013#STR0013#ALL#Sorting File...       
+0014#STR0014#ALL#CODE            TP GRP  DESCRIPTION           UM BC WRH   BALANCE     ALLOCATION TO      AVAILABLE     ____________VALUE ___________
+0015#STR0015#ALL#                                                          IN STOCK    REQ/SO/RESERV.     STOCK            IN STOCK        ALLOCATED 
+0016#STR0016#ALL#Total of 
+0017#STR0017#ALL#Type
+0018#STR0018#ALL#Group
+0019#STR0019#ALL#Total Unit meas. : 
+0020#STR0020#ALL#Grand Total : 
+0021#STR0021#ALL#CANCELLED BY THE OPERATOR.  
+0022#STR0022#ALL#Record(s) processed 
+0023#STR0023#ALL#: Preparation..
+0024#STR0024#ALL#Unified Cost
+0025#STR0025#ALL#When the parameter MV_CUSFIL is activated, the following questions filling are supposed to be observed:
+0026#STR0026#ALL#Do you want to group per warehouse/branch/company? -> "Branch" or "Company" are the unique options to be used
+0027#STR0027#ALL#From Warehouse? -> Only "**"
+0028#STR0028#ALL#To Warehouse? -> Only "**"
+0029#STR0029#ALL#Printing Order -> All, except "WAREHOUSE"
+0030#STR0030#ALL#Parameters are not properly set up.Do you want to print the report anyway?
+0031#STR0031#ALL#Print
+0032#STR0032#ALL#Cancel
+0033#STR0033#ALL#SubTotal by warehous
+0034#STR0034#ALL#    DESCRIPT.
+0035#STR0035#ALL#  OF WAREHOUSE
+0036#STR0036#ALL#CODE  
+0037#STR0037#ALL#TP
+0038#STR0038#ALL#GROUP
+0039#STR0039#ALL#DESCRIPT.
+0040#STR0040#ALL#M.U.
+0041#STR0041#ALL#FL
+0042#STR0042#ALL#WARH
+0043#STR0043#ALL#BALAN
+0044#STR0044#ALL#IN STOCK  
+0045#STR0045#ALL#ALLOCAT. FOR
+0046#STR0046#ALL#REQ/SO/RESERVE
+0047#STR0047#ALL#STOCK
+0048#STR0048#ALL#AVAILABLE 
+0049#STR0049#ALL#VALUE
+0050#STR0050#ALL#ALLOCATED
+0051#STR0051#ALL#DESCRIPT.
+0052#STR0052#ALL#OF WAREHOU
+0053#STR0053#ALL#Balances in stock

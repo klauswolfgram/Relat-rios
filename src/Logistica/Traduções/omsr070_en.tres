@@ -1,0 +1,27 @@
+0001#STR0001#ALL#Estimated x Executed Deliveries Window
+0002#STR0002#ALL#This program will issue the Estimated x Executed relation of the
+0003#STR0003#ALL#Deliveries window according to the parameters selected 
+0004#STR0004#ALL#by the user
+0005#STR0005#ALL#Z.Form
+0006#STR0006#ALL#Management
+0007#STR0007#ALL#LOAD   : 
+0008#STR0008#ALL#VEHICLE : 
+0009#STR0009#ALL#DRIVER : 
+0010#STR0010#ALL#WEIGHT    :
+0011#STR0011#ALL#VOLUME M3 : 
+0012#STR0012#ALL#DELIVERY PTS : 
+0013#STR0013#ALL#VALUE : 
+0014#STR0014#ALL#DATE    :
+0015#STR0015#ALL# AT 
+0016#STR0016#ALL#SEQUENCE    CUSTOMER UNIT  NAME                          ESTIMATED  ESTIMATED      ESTIMATED  REAL     REAL           REAL
+0017#STR0017#ALL#DELIVERY                                                 INFLOW     TIME SERVICE   OUTFLOW    INFLOW   TIME SERVICE   OUTFLOW
+0018#STR0018#ALL#Window of Deliveries Estimated vs.Actual
+0019#STR0019#ALL#This program will list the Estimated vs. Actual of the    
+0020#STR0020#ALL#Window of Deliveries according to the parameters selected 
+0021#STR0021#ALL#by the user 
+0022#STR0022#ALL#EstimatedArrival
+0023#STR0023#ALL#Estimated Time Service       
+0024#STR0024#ALL#Estimated exit
+0025#STR0025#ALL#Actual arrival
+0026#STR0026#ALL#Actual Time Service
+0027#STR0027#ALL#Actual exit

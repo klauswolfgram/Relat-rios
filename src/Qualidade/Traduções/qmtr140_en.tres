@@ -1,0 +1,133 @@
+0001#STR0001#ALL#Calibration Certificate
+0002#STR0002#ALL#In this report will be printed the Calibration Certificate
+0003#STR0003#ALL# Certificate Final Text 
+0004#STR0004#ALL# Printing  
+0005#STR0006#ALL#Configuration Items  
+0006#STR0007#ALL#This program will issue the list of
+0007#STR0009#ALL#Selected Parameters.    
+0008#STR0010#ALL#CALIBRATION CERTIFICATE   
+0009#STR0011#ALL#Z.Form 
+0010#STR0012#ALL#Management
+0011#STR0013#ALL# Complementary Information 
+0012#STR0014#ALL#Nr.
+0013#STR0015#ALL#Calibration Standard
+0014#STR0016#ALL#External
+0015#STR0017#ALL#Internal
+0016#STR0018#ALL#Reason for change the report
+0017#STR0019#ALL#Complementary Information of Instruments
+0018#STR0020#ALL#Calibration Certificate according to the
+0019#STR0021#ALL#Up    
+0020#STR0022#ALL#Down   
+0021#STR0023#ALL#Week
+0022#STR0024#ALL#Print
+0023#STR0025#ALL#Setup
+0024#STR0026#ALL#Quit
+0025#STR0027#ALL#OK
+0026#STR0028#ALL#Retype
+0027#STR0029#ALL#Measur.
+0028#STR0030#ALL#Date: 
+0029#STR0031#ALL#Tot.Hours: 
+0030#STR0032#ALL#Metrologist: 
+0031#STR0033#ALL#Init. Rising
+0032#STR0034#ALL#Init. Descent
+0033#STR0035#ALL#Fin.Rising
+0034#STR0036#ALL#Fin.Descent
+0035#STR0037#ALL#Initial
+0036#STR0038#ALL#Final
+0037#STR0039#ALL#Observation
+0038#STR0040#ALL#Measurement w/report different from Active
+0039#STR0041#ALL#Measurement Deleted
+0040#STR0042#ALL#Very serious
+0041#STR0043#ALL#Serious
+0042#STR0044#ALL#Not serious
+0043#STR0045#ALL#Report: 
+0044#STR0046#ALL#RECEIPT CONDITION       
+0045#STR0047#ALL#DAMAGE
+0046#STR0048#ALL#CONFORMANCE
+0047#STR0049#ALL#NON-CONFORMANCE
+0048#STR0050#ALL#INSTRUMENTS USED
+0049#STR0051#ALL#SECONDARY STANDARD
+0050#STR0052#ALL#Range
+0051#STR0053#ALL#Point
+0052#STR0054#ALL#Instrument Used
+0053#STR0055#ALL#Secondary Standard
+0054#STR0056#ALL#Validity
+0055#STR0057#ALL#Uncertainty
+0056#STR0058#ALL#Certificate
+0057#STR0059#ALL#Laboratory
+0058#STR0060#ALL#NON-CONFORMANCES
+0059#STR0061#ALL#N/C
+0060#STR0062#ALL#Descript.
+0061#STR0063#ALL#Classification
+0062#STR0064#ALL#METROLOGY CONFIRMATION
+0063#STR0065#ALL#System Error    
+0064#STR0066#ALL#Exactness
+0065#STR0067#ALL#Adjustment
+0066#STR0068#ALL#Acceptability
+0067#STR0069#ALL#ANALISYS OF LAST PARTS PRODUCED
+0068#STR0070#ALL#Accepted
+0069#STR0071#ALL#Rejected
+0070#STR0072#ALL#CONF. INSTRUMENT 
+0071#STR0074#ALL#Nominal
+0072#STR0075#ALL#LSE
+0073#STR0076#ALL#LIE
+0074#STR0077#ALL#Un.of Meas.
+0075#STR0079#ALL#to
+0076#STR0080#ALL#Range
+0077#STR0081#ALL#Specified
+0078#STR0082#ALL#Tolerance
+0079#STR0083#ALL#Un.of Meas.
+0080#STR0084#ALL#Uncertainty
+0081#STR0085#ALL#Gaug. Dt.
+0082#STR0086#ALL#Average
+0083#STR0087#ALL#Deviat.
+0084#STR0089#ALL#Error
+0085#STR0090#ALL#Standard
+0086#STR0091#ALL#Values Found
+0087#STR0092#ALL#Readings
+0088#STR0093#ALL#Average
+0089#STR0095#ALL#Measure
+0090#STR0096#ALL#Total
+0091#STR0097#ALL#Status
+0092#STR0098#ALL#Family
+0093#STR0099#ALL#Procedure
+0094#STR0100#ALL#UNCERTAINTY TYPE B
+0095#STR0101#ALL#| Cod. Uncert.   | Symbol   | Font                         |Value Uncert.|Distr.| Divider  |Coef.Sensib.| Uncer.Calc. |Freed.Degr. |
+0096#STR0102#ALL#|                | Uc       | Inc. Standard Combined       |             |Nor   |          |
+0097#STR0103#ALL#|                | U        | Inc. Expanded                |             |Nor K |          |
+0098#STR0104#ALL#|                | Ui       | Inc. Expanded                |             |Nor Kp|          |            |             |
+0099#STR0106#ALL#Rev
+0100#STR0107#ALL#Standard
+0101#STR0108#ALL#Init.Value
+0102#STR0109#ALL#Dif.
+0103#STR0110#ALL#Fin.Val.
+0104#STR0111#ALL#Values
+0105#STR0112#ALL#Min. Value
+0106#STR0113#ALL#Max. Value
+0107#STR0114#ALL#Unit of Measurem.
+0108#STR0115#ALL#Initial Increasing
+0109#STR0116#ALL#Final Increasing
+0110#STR0117#ALL#Initial Decreasing
+0111#STR0118#ALL#Final Decreasing
+0112#STR0119#ALL#Analysis Parameters
+0113#STR0120#ALL#fe
+0114#STR0121#ALL#Maximum Deviation to increas. direction
+0115#STR0122#ALL#fges
+0116#STR0123#ALL#Total Deviation ( increasing / decreasing )
+0117#STR0124#ALL#fu
+0118#STR0125#ALL#Return Error
+0119#STR0126#ALL#Histeresis (%)
+0120#STR0127#ALL#Tolerance/Reducer per Range
+0121#STR0128#ALL#Justification of Tools File
+0122#STR0129#ALL#Justification of Tool Status Change
+0123#STR0130#ALL#Justification for not typing measurement
+0124#STR0131#ALL#Maintenances
+0125#STR0132#ALL#Tol.Tp.
+0126#STR0133#ALL#Initial Instrument Shows No Data Collection.
+0127#STR0134#ALL#Selecting Registers. . .
+0128#STR0135#ALL#Secondary Standard with status different from Assets.
+0129#STR0136#ALL#Instrument Used is with status different from Assets
+0130#STR0137#ALL#Approved
+0131#STR0138#ALL#Reproved
+0132#STR0139#ALL#Caption Uncertain Type B
+0133#STR0140#ALL#*=Infinite or >100

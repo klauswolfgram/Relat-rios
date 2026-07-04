@@ -1,0 +1,49 @@
+0001#STR0001#ALL#Marks Divergences
+0002#STR0002#ALL#It will be printed according to the parameters selected 
+0003#STR0003#ALL#by the User
+0004#STR0004#ALL#Registr.
+0005#STR0005#ALL#Cost Center
+0006#STR0006#ALL#Name
+0007#STR0007#ALL#Shift
+0008#STR0008#ALL#Z.Form
+0009#STR0009#ALL#Management
+0010#STR0011#ALL#Date   Markings                                                                        Occurrence
+0011#STR0015#ALL#** There is no Calendar            
+0012#STR0016#ALL#** Odd Number of Markings          
+0013#STR0017#ALL#** Less Markings than Programmed   
+0014#STR0018#ALL#** More Markings than Programmed   
+0015#STR0019#ALL#** No Authorized Overtime          
+0016#STR0020#ALL# Lower Interval than Programmed  
+0017#STR0021#ALL# Higher Interval than Programmed 
+0018#STR0022#ALL#** Markings before Admission       
+0019#STR0023#ALL#** Markings after Dismissal        
+0020#STR0024#ALL#** Markings during Vacations       
+0021#STR0025#ALL#** Markings during Absence         
+0022#STR0027#ALL#Branch: 
+0023#STR0028#ALL# Shift: 
+0024#STR0029#ALL#    C.A.: 
+0025#STR0030#ALL#C.Cent.+Name
+0026#STR0031#ALL#PLATE: 
+0027#STR0032#ALL#REG.: 
+0028#STR0033#ALL#NAME: 
+0029#STR0034#ALL#Department
+0030#STR0035#ALL#Select the printing option: 
+0031#STR0036#ALL#By Period
+0032#STR0037#ALL#By Dates
+0033#STR0038#ALL#DEP.: 
+0034#STR0039#ALL#Process: 
+0035#STR0040#ALL#Period: 
+0036#STR0041#ALL#Procedure: 
+0037#STR0042#ALL#Paym. Nbr.:
+0038#STR0043#ALL#This program issues Employees Report with Selections Differences
+0039#STR0044#ALL#Employees
+0040#STR0045#ALL#Occurrences
+0041#STR0046#ALL#Selections
+0042#STR0047#ALL#Date
+0043#STR0048#ALL#Cost Center
+0044#STR0049#ALL#Tno
+0045#STR0050#ALL#Process
+0046#STR0051#ALL#Period
+0047#STR0052#ALL#Rot
+0048#STR0053#ALL#NP
+0049#STR0054#ALL#Dept.

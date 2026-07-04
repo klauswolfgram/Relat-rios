@@ -1,0 +1,24 @@
+0001#STR0001#ALL#Cenário De Telecobrança
+0002#STR0002#ALL#Este programa irá emitir uma relação dos grupos de atendimento e as regras que cada grupo possui.
+0003#STR0003#ALL#A emissão irá ocorrer baseada nos parâmetros do relatório
+0004#STR0004#ALL#Código de barras
+0006#STR0006#ALL#Cancelado Pelo Operador
+0007#STR0007#ALL#Grupo De Atendimento
+0008#STR0008#ALL#Código Do Grupo De Atendimento:
+0009#STR0009#ALL#Descrição Do Grupo De Atendimento:
+0010#STR0010#ALL#Código Da Regra De Selecção:
+0011#STR0011#ALL#Descrição Da Regra De Selecção:
+0012#STR0012#ALL#Código Da Regra De Negociação:
+0013#STR0013#ALL#Descrição Da Regra De Negociação:
+0014#STR0014#ALL#Pedido De Grupo Interno/externo:
+0015#STR0015#ALL#Envia E-mail Na Telecobrança:
+0016#STR0016#ALL#Regra De Selecção
+0023#STR0023#ALL#Regra De Negociação
+0026#STR0026#ALL#Selecção
+0029#STR0029#ALL#Prazo Desconto
+0034#STR0034#ALL#Operador  Nome Reduzido      Nome                                        Atendimento        Região   Válido   Tipo          Formação
+0035#STR0035#ALL#Arquivo de referências actualizado em: 
+0036#STR0036#ALL#Promoção De Cobrança
+0037#STR0037#ALL#Código      Descrição                           Início        Fim           Vencto Ini    Vencto Fim    Prz Desc    Desc Nom.  Desc Jur
+0039#STR0039#ALL#Detalhes Do Grupo De Atendimento
+0042#STR0042#ALL#Itens da promoção de cobrança

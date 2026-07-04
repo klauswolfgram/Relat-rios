@@ -1,0 +1,33 @@
+0001#STR0001#ALL#Detalle del segumiento de las operaciones 
+0002#STR0002#ALL#Este programa imprime el detalle del seguimiento de las operaciones.
+0003#STR0003#ALL#Los valores referentes a los tiempos de duracion estan convertidos segun
+0004#STR0004#ALL#el parametro MV_TPHR. Si se usa Prod. Mod. 2, pueden haber divergencias.
+0005#STR0005#ALL#Por Op
+0006#STR0006#ALL#Por Recurso
+0007#STR0007#ALL#Por Fecha Inicio
+0008#STR0008#ALL#A Rayas
+0009#STR0009#ALL#Administracion
+0010#STR0010#ALL#Apertura de archivos
+0011#STR0011#ALL#Abriendo archivos...
+0012#STR0012#ALL#DOMINGO
+0013#STR0013#ALL#LUNES
+0014#STR0014#ALL#MARTES
+0015#STR0015#ALL#MIERCOLES
+0016#STR0016#ALL#JUEVES
+0017#STR0017#ALL#VIERNES
+0018#STR0018#ALL#SABADO
+0019#STR0019#ALL#ORDEN DE    O. RECURSO HERRAMIENTA P R O D U C T O                                                     I  N  I  C  I  O                     *              T  E  R  M  I  N  O                *    D U R A C I O N 
+0020#STR0020#ALL#PRODUCCION                                                                      D E S I G N A D O           R  E  A  L          VARIACION   * D E S I G N A D A    R  E  A  L     VARIACION   *  DESIG.  REAL     VAR.
+0021#STR0021#ALL#Seleccionando registros...
+0022#STR0022#ALL#ANULADO POR EL OPERADOR
+0023#STR0023#ALL#Producto inexistente en el archivo
+0024#STR0024#ALL#Inicio Asig.
+0025#STR0025#ALL#Inicio Real
+0026#STR0026#ALL#Variac.
+0027#STR0027#ALL#Fin Asig.
+0028#STR0028#ALL#Fin Real
+0029#STR0029#ALL#Tiempo Asi. 
+0030#STR0030#ALL#Operac. asignadas Carga Maquina
+0031#STR0031#ALL#Configuración de parámetros
+0032#STR0032#ALL#Parámetro no configurado
+0033#STR0033#ALL#Definir la información de los parámetros MV_DIRPCP, por el configurador

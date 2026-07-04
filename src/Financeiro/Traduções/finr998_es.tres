@@ -1,0 +1,46 @@
+0001#STR0001#ALL#Imprime informe de las ordenes de pago
+0002#STR0002#ALL#emitidas, sinteticamente.
+0003#STR0003#ALL#A Rayas
+0004#STR0004#ALL#ADMINISTRACION
+0005#STR0005#ALL#Num. OP  Codigo-Sc Nombre Proveedor                 Fecha Emi.           Valor Total          Tot. Pagos            Tot. Pagos           Descuentos de      Retenciones            Num.Proveedor
+0006#STR0006#ALL#                                                                           Titulos               Propios              Terceros            Pag Ad y FC                 
+0007#STR0007#ALL#Codigo-Sc Razon Social Proveedor                                         Valor Total          Tot. Pagos            Tot. Pagos           Descuentos de      Retenciones            Num.Proveedor
+0008#STR0008#ALL#              Orden de Pago                         Fecha Emision          Titulos               Propios              Terceros            Pag Ad y FC                
+0009#STR0009#ALL#Informe de Pagos
+0010#STR0010#ALL# por Ordenes de Pago
+0011#STR0011#ALL# por Proveedor Sintetico
+0012#STR0012#ALL# por Proveedor Analitico
+0013#STR0013#ALL#Filtrando registros...
+0014#STR0014#ALL#ANULADO POR EL OPERADOR
+0015#STR0015#ALL#Ordenes Proveedor  -> 
+0016#STR0016#ALL#Totales Proveedor ------>
+0017#STR0017#ALL#Ordenes emitidas  -> 
+0018#STR0018#ALL#TOTAL BRUTO       ----> 
+0019#STR0019#ALL#TOTAL CHEQUES PROP..---> 
+0020#STR0020#ALL#TOTAL CHEQUES TERC..---> 
+0021#STR0021#ALL#TOTAL RETENCIONES ----> 
+0022#STR0022#ALL#TOTAL COMPENSADO  ----> 
+0023#STR0023#ALL#TOTAL PAGADO      ----> 
+0024#STR0024#ALL#¿Imprimir por      ?
+0025#STR0025#ALL#Orden de Pago
+0026#STR0026#ALL#Razon Social
+0027#STR0027#ALL#¿De Orden de Pago  ?
+0028#STR0028#ALL#¿A  Orden de Pago  ?
+0029#STR0029#ALL#¿De Fecha Emision  ?
+0030#STR0030#ALL#¿A  Fecha Emision  ?
+0031#STR0031#ALL#¿Moneda            ?
+0032#STR0032#ALL#No Aprobada
+0033#STR0033#ALL#Valor Total
+0034#STR0034#ALL# Titulos
+0035#STR0035#ALL#Tot. Pagos
+0036#STR0036#ALL#   Propios
+0037#STR0037#ALL#Tot. Pagos
+0038#STR0038#ALL#  Terceros
+0039#STR0039#ALL#Descuentos de
+0040#STR0040#ALL#Pag At y FC
+0041#STR0041#ALL#Retenc.
+0042#STR0042#ALL#Nº Proveedor
+0043#STR0043#ALL#Proveedor
+0044#STR0044#ALL#Orden de Pago
+0045#STR0045#ALL#Gastos
+0046#STR0046#ALL#TOTAL GASTOS    ----> 

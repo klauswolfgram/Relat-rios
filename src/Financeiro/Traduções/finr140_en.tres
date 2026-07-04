@@ -1,0 +1,56 @@
+0001#STR0001#ALL#This program will print the Cash Flow, informing the user  
+0002#STR0002#ALL#to the user which are the daily receivable and payable accounts 
+0003#STR0003#ALL#his availability according to the bank balances
+0004#STR0004#ALL#Detailed Cash Flow
+0005#STR0005#ALL#Z.Form
+0006#STR0006#ALL#Management
+0007#STR0007#ALL#Ref. Date   Prf Number-PC    Issue Dt. Type   Cust/Sup  Customer Name/Supplier     History                         Payable                        and Receivable       Original Value        Availble Observations.
+0008#STR0008#ALL#Selecting Records...
+0009#STR0009#ALL#Ref. Date   Prf Number-PC    Issue Dt. Type   Cust/Sup  Customer Name/Supplier     History                         Original Amount               Payable              Receivable            Available    Day Rate Note      
+0010#STR0010#ALL#Date transactions until print time
+0011#STR0011#ALL#Investments 
+0012#STR0012#ALL#Redemptions 
+0013#STR0013#ALL#Other Expenses 
+0014#STR0014#ALL#Other Revenues 
+0015#STR0015#ALL#Totals until print time 
+0016#STR0016#ALL#Immediate availability
+0017#STR0017#ALL#Total Available 
+0018#STR0018#ALL#Total of Due Bills
+0019#STR0019#ALL#Total of Commissions Payable
+0020#STR0021#ALL#Investment Withdrawal Projection
+0021#STR0022#ALL#Loan Payment Projection
+0022#STR0023#ALL#Sales Orders
+0023#STR0024#ALL#Purchase Orders
+0024#STR0025#ALL#Total of the Day ---> 
+0025#STR0026#ALL#Grand Total--->
+0026#STR0027#ALL#Credit Limit 
+0027#STR0028#ALL#Checks pending of releasing  
+0028#STR0029#ALL#Ref.Date
+0029#STR0030#ALL#Prf
+0030#STR0031#ALL#Number-PC
+0031#STR0032#ALL#Type
+0032#STR0033#ALL#Issue Dt
+0033#STR0034#ALL#Cus/Sup
+0034#STR0035#ALL#Customer/Supplier name 
+0035#STR0036#ALL#History  
+0036#STR0037#ALL#Original amnt.
+0037#STR0038#ALL#Payable
+0038#STR0039#ALL#Receivabl
+0039#STR0040#ALL#Available 
+0040#STR0041#ALL#Rate of Day
+0041#STR0042#ALL#Notes      
+0042#STR0043#ALL#Descript.
+0043#STR0044#ALL#Total
+0044#STR0045#ALL#Bills posted with an estimation of future bank transactions
+0045#STR0046#ALL#Bill posted f/future coll.
+0046#STR0047#ALL#Code
+0047#STR0048#ALL#Company
+0048#STR0049#ALL#Business Unit
+0049#STR0050#ALL#Branch
+0050#STR0051#ALL#Branches selected for the report
+0051#STR0052#ALL#PV
+0052#STR0053#ALL#PC
+0053#STR0054#ALL#order(s)
+0054#STR0055#ALL#Branches
+0055#STR0056#ALL#Management View
+0056#STR0057#ALL#Expired bills

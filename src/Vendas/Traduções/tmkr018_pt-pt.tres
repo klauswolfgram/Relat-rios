@@ -1,0 +1,41 @@
+0003#STR0003#ALL#Ocorrências de atendimento.
+0004#STR0004#ALL#Código de barras
+0006#STR0006#ALL# Assunto                               Artigo                       Ocorrência                                 Acção
+0007#STR0007#ALL#Cancelado Pelo Operador
+0008#STR0008#ALL#Data Do Atendimento
+0009#STR0009#ALL#Nome Do Contacto
+0010#STR0010#ALL#Código Do Atendimento
+0011#STR0011#ALL#Descrição Da Entidade
+0012#STR0012#ALL#Nome Do Operador
+0013#STR0013#ALL#Razão Social Da Entidade
+0014#STR0014#ALL#Estado Do Atendimento
+0015#STR0015#ALL#Telefone Da Entidade
+0016#STR0016#ALL#Tipo Do Atendimento
+0017#STR0017#ALL#Concelho Da Entidade
+0018#STR0018#ALL#Motivo Do Fecho
+0019#STR0019#ALL#Estado Da Entidade
+0020#STR0020#ALL#Observação Do Atendimento
+0021#STR0021#ALL#Totais dos atendimentos computorizados para o dia 
+0022#STR0022#ALL#Total De Atendimentos Activos
+0023#STR0023#ALL#Total De Atendimentos Receptivos
+0024#STR0024#ALL#Total Da Ocorrência
+0025#STR0025#ALL#Total Do Artigo
+0030#STR0030#ALL#Item  Assunto                              Artigo                         Ocorrência                      Acção                                                Responsável      Dt. Acção     Estado        Execução
+0032#STR0032#ALL#Não localizado no registo...
+0033#STR0033#ALL#Não indicado no atendimento...
+0036#STR0036#ALL#Nível
+0037#STR0037#ALL#E-mail
+0040#STR0040#ALL#Media
+0041#STR0041#ALL#Comunicação
+0042#STR0042#ALL#Total de atendimentos activos e receptivos no período de  
+0043#STR0043#ALL# Até
+0044#STR0044#ALL#Data          Activos       Receptivos
+0045#STR0045#ALL#Total
+0046#STR0046#ALL#Ocorrências com maior número de atendimentos
+0047#STR0047#ALL#Ocorrência                                                    total       %
+0048#STR0048#ALL#Ocorrências executadas por artigo 
+0049#STR0049#ALL#Ocorrências executadas por assunto 
+0050#STR0050#ALL#Assunto                                                       total       %
+0053#STR0053#ALL#Acção
+0054#STR0054#ALL#Estado
+0056#STR0056#ALL#Activos

@@ -1,0 +1,22 @@
+0001#STR0001#ALL#Cadastro das Composicoes 
+0002#STR0002#ALL#Este relatorio ira imprimir a relacao das composicoes 
+0003#STR0003#ALL#e seus detalhes(Itens,Despesas,Sub-Composicoes) conforme 
+0004#STR0004#ALL#os parametros solicitados
+0005#STR0005#ALL#Zebrado
+0006#STR0006#ALL#Administracao
+0007#STR0007#ALL#CANCELADO PELO OPERADOR
+0008#STR0008#ALL#REFERENCIA     DESCRICAO                                                                                 UND  ULT.ATUAL.  UTILIZA
+0009#STR0009#ALL#ITEM PRODUTO             DESCRICAO                                    TIPO     QUANTIDADE UND     CUSTO STD                    VALOR
+0010#STR0010#ALL#ITEM DESCRICAO                                                        TIPO                                                     VALOR
+0011#STR0011#ALL#ITEM REFERENCIA          DESCRICAO                                             QUANTIDADE UND     CUSTO STD                    VALOR
+0012#STR0012#ALL#TOTAL....................:
+0013#STR0013#ALL#ITENS
+0014#STR0014#ALL#DESPESAS
+0015#STR0015#ALL#SUB-COMPOSICAO
+0016#STR0016#ALL#Itens
+0017#STR0017#ALL#Despesas
+0018#STR0018#ALL#Sub-Composição
+0019#STR0019#ALL#Valor
+0020#STR0020#ALL#Totalizador
+0021#STR0021#ALL#** TOTAL DA COMPOSICAO **
+0022#STR0022#ALL#Selecionando Registros...

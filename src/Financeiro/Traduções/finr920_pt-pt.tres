@@ -1,0 +1,22 @@
+0001#STR0001#ALL#Imprime relação de títulos a pagar mostrando quais 
+0002#STR0002#ALL#Os títulos que já foram autorizados ou que ainda estão 
+0003#STR0003#ALL#A aguardar autorização.
+0004#STR0004#ALL#Autorização De Títulos A Pagar
+0005#STR0005#ALL#Por Código Fornecedor
+0007#STR0007#ALL#Por Data De Emissão
+0008#STR0008#ALL#Código de barras
+0009#STR0009#ALL#Administração
+0010#STR0010#ALL#Para impressão deste relatório, os títulos devem estar a utilizar controlo de autorização manual (MV_CTLIPAG)
+0011#STR0011#ALL#Relatório Desactivado
+0012#STR0012#ALL#Autorização De Títulos A Pagar - Por Código Fornecedor
+0013#STR0013#ALL#Autorização De Títulos A Pagar - Por Nome Fornecedor
+0014#STR0014#ALL#                                     Prf  Número  Pc Tipo Emissão    Vencto.              Valor     Dt. Lib.    Utilizador
+0015#STR0015#ALL#Autorização De Títulos A Pagar - Por Emissão
+0016#STR0016#ALL# Cód.   Loja   Nome                  Pré  Número  Pc Tipo            Vencto.              Valor     Dt. Lib.    Utilizador
+0017#STR0017#ALL#*** cancelado pelo operador ***
+0018#STR0018#ALL#Sub-total por fornecedor  : 
+0019#STR0019#ALL#Código fornecedor: 
+0020#STR0020#ALL#Nome fornecedor: 
+0021#STR0021#ALL#Sub-total por emissão     : 
+0022#STR0022#ALL#Data de emissão: 
+0023#STR0023#ALL#Total geral              : 

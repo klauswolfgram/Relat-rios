@@ -1,0 +1,24 @@
+0001#STR0001#ALL#Relaçäo do Quadro de Funcionarios de uma Empresa.
+0002#STR0002#ALL#Será impresso de acordo com os parametros solicitados pelo
+0003#STR0003#ALL#usuario.
+0004#STR0004#ALL#Centro de Custo
+0005#STR0005#ALL#Zebrado
+0006#STR0006#ALL#Administraçäo
+0007#STR0007#ALL#     ANO/MES      VL ATUAL    VL PREVISTO  VL ATUAL+ENCARG  VL PREV+ENCARG  NR ATUAL  NR PREVISTO
+0008#STR0008#ALL# Quadro de Funcionarios 
+0009#STR0009#ALL#Centro de Custo: 
+0010#STR0010#ALL#Filial: 
+0011#STR0011#ALL#  ANO/MES       FUNCAO                    VL.ATUAL    VL.PREV.   ATUAL+ENCARG  PREV+ENCARG  VL.APROVADO  QT.ATUAL QT.PREV. QT.APROV.
+0012#STR0012#ALL#Total Periodo: 
+0013#STR0013#ALL#Total Centro Custo: 
+0014#STR0014#ALL#Total Geral: 
+0015#STR0015#ALL#Quadro Funcionário Por Função
+0016#STR0016#ALL#Vl Atual+Encargo
+0017#STR0017#ALL#Vl Prev.+Encargo
+0018#STR0018#ALL#Total do Período: 
+0019#STR0019#ALL#Cadastro de Quadro de Funcionarios
+0020#STR0020#ALL#Nr.Atual
+0021#STR0021#ALL#Nr.Previsto
+0022#STR0022#ALL#Este Programa emite o Relatorio de Quadro de Funcionarios
+0023#STR0023#ALL#Analitico
+0024#STR0024#ALL#Sintetico

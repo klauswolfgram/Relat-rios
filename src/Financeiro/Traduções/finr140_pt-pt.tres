@@ -1,0 +1,35 @@
+0001#STR0001#ALL#Este programa vai imprimir o fluxo de caixa, a indicar      
+0002#STR0002#ALL#Ao utilizador quais as suas contas a receber e a pagar dia a    
+0003#STR0003#ALL#Dia e disponibilidade, de acordo com os saldos bancários
+0004#STR0004#ALL#Fluxo De Caixa Analítico
+0005#STR0005#ALL#Código de barras
+0006#STR0006#ALL#Administração
+0007#STR0007#ALL#Data Ref   Prf.Número-PC     Tipo Dt.Emiss   Cli/For  Nome Cliente/Fornecedor     Histórico                        Valor Original                a Pagar              a Receber             Disponível Observações
+0008#STR0008#ALL#A Seleccionar Registos...
+0009#STR0009#ALL#Data Ref   Prf.Número-PC     Tipo Dt.Emiss   Cli/For  Nome Cliente/Fornecedor     Histórico                        Valor Original                a Pagar              a Receber             Disponível   Taxa do Dia Obs.   
+0010#STR0010#ALL#Movimentação na data até a hora da emissão
+0011#STR0011#ALL#Aplicações 
+0013#STR0013#ALL#Outras saídas 
+0014#STR0014#ALL#Outras entradas 
+0015#STR0015#ALL#Totais até a hora da emissão 
+0017#STR0017#ALL#Total disponível 
+0018#STR0018#ALL#Total De Títulos Vencidos
+0019#STR0019#ALL#Total De Comissões A Pagar
+0022#STR0023#ALL#Pedidos De Vendas
+0023#STR0024#ALL#Pedidos De Compras
+0024#STR0025#ALL#Total do dia ---> 
+0025#STR0026#ALL#Total crial  --->
+0026#STR0027#ALL#Limite de crédito 
+0027#STR0028#ALL#Cheques pendentes de autorização
+0030#STR0031#ALL#Número-pc
+0033#STR0034#ALL#Cli/for
+0034#STR0035#ALL#Nome Cliente/fornecedor
+0035#STR0036#ALL#Histórico
+0037#STR0038#ALL#A Pagar
+0038#STR0039#ALL#A Receber
+0039#STR0040#ALL#Disponível
+0040#STR0041#ALL#Taxa Do Dia
+0041#STR0042#ALL#Observações
+0042#STR0043#ALL#Descrição
+0044#STR0045#ALL#Títulos Liquidados Com Previsão De Movimento Bancário Futuro
+0045#STR0046#ALL#Tít. Liquidado P/rec. Futuro

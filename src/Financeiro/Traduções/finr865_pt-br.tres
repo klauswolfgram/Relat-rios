@@ -1,0 +1,47 @@
+0001#STR0001#ALL#Imprime a relacao dos titulos a pagar que sofreram Retencao de Impostos
+0002#STR0002#ALL#Zebrado
+0003#STR0003#ALL#Administracao
+0004#STR0004#ALL#Por Codigo Fornecedor
+0005#STR0005#ALL#Por Nome Fornecedor
+0006#STR0006#ALL#Os campos necessarios para impresao do relatorio nao existem !
+0007#STR0007#ALL#Relacao de Titulos a Pagar com retencao de Impostos
+0008#STR0008#ALL#Codigo         Nome do Fornecedor             CGC
+0009#STR0009#ALL#     Prf Numero      Pc  Tipo  Dt Emissao Dt.Vencto   Valor Original      Valor SEST      Valor IRFF       Valor ISS      Valor INSS       Valor PIS    Valor COFINS      Valor CSLL   Valor Liquido
+0010#STR0010#ALL#     Prf Numero      Pc  Tipo  Dt Emissao Dt.Vencto   Valor Original                      Valor IRFF       Valor ISS      Valor INSS       Valor PIS    Valor COFINS      Valor CSLL   Valor Liquido
+0011#STR0011#ALL#Selecionando Registros...
+0012#STR0012#ALL#CANCELADO PELO OPERADOR
+0013#STR0013#ALL#Total Fornecedor  - 
+0014#STR0014#ALL#Titulos
+0015#STR0015#ALL#Titulo
+0016#STR0016#ALL#Total Geral      ----> 
+0017#STR0017#ALL#A = Os valores de Pis,Cofins e Csll deste titulo foram retidos em outro titulo.	
+0018#STR0018#ALL#B = Existem impostos com retenção na baixa que ainda não foram retidos.
+0019#STR0019#ALL#C = Os registros referentes a fatura não são incluidos nos totalizadores.
+0020#STR0020#ALL#Codigo
+0021#STR0021#ALL#Loja
+0022#STR0022#ALL#Fornecedor
+0023#STR0023#ALL#CGC
+0024#STR0024#ALL#Prf
+0025#STR0025#ALL#Numero
+0026#STR0026#ALL#Pc
+0027#STR0027#ALL#Tipo
+0028#STR0028#ALL#Emissao
+0029#STR0029#ALL#Vencto
+0030#STR0030#ALL#Valor 
+0031#STR0031#ALL#Original
+0032#STR0032#ALL#SEST
+0033#STR0033#ALL#IRRF
+0034#STR0034#ALL#ISS
+0035#STR0035#ALL#INSS
+0036#STR0036#ALL#PIS
+0037#STR0037#ALL#COFINS
+0038#STR0038#ALL#CSLL
+0039#STR0039#ALL#Liquido
+0040#STR0040#ALL#Valores Totais
+0041#STR0041#ALL# Esses valores nao sao considerados na totalizacao desse relatorio.
+0042#STR0042#ALL#Total Filial
+0043#STR0043#ALL#Quando for informado "Sim" na pergunta "Filtra Códigos de Retenção?", deve ser selecionado ao menos um código de retenção.
+0044#STR0044#ALL#Códigos de Retenção Selecionados: 
+0045#STR0045#ALL#Acrescimo
+0046#STR0046#ALL#Decrescimo
+0047#STR0047#ALL#D = Os valores de Pis, Cofins e Csll deste titulo foram originados de uma compensação.

@@ -1,0 +1,6 @@
+0001#STR0001#ALL#Fornecedores X Período De Actividade/inactividade
+0002#STR0002#ALL#Este Programa Irá Listar Os Fornecedores X Período De Actividade/inactividade
+0003#STR0003#ALL#Código de barras
+0004#STR0004#ALL#Administração
+0005#STR0005#ALL#Fornecedor                                            Data      Período      Data     Qtd.   Período
+0006#STR0006#ALL#Código          Razão Social                        Limite  Afastamento   Retorno  Desbl.  Devolução

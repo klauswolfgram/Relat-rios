@@ -1,0 +1,13 @@
+0001#STR0001#ALL#Lista De Factura Proformas
+0002#STR0002#ALL#Este programa irá imprimir uma relação das pendências de
+0003#STR0003#ALL#De acordo com os parâmetros do utilizador.
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#A Seleccionar Registos..
+0007#STR0007#ALL#Remetente          Nota     Serie Cod.dep Nome Cliente   Cod.trp Pre-fat Tipo Frete Modal Vencto        Vlr Bruto Ini Fech   Fim Fech   Vlr Blq Ac. Vlr Desbloq. Protocolo Chapa    Saida Ctrc     Vols     Peso   Vlr Factura
+0008#STR0008#ALL#  Frete Peso     Vlr Taxa Vlr Imposto  Vlr Portagem   Vlr Inclusão     Vlr Icms    Vlr Total Frt Urb Emissão     Peso Fact.  Vlr Mercad. Guião    Destinatário                                                      Nosso Total
+0009#STR0009#ALL#Cancelado Pelo Operador
+0010#STR0010#ALL#Lista De Factura Proformas
+0011#STR0011#ALL#Este programa irá imprimir uma relação de Pré-Facturas de acordo com os parâmetros do utilizador.
+0012#STR0012#ALL#Remetente + Nota + Série
+0013#STR0013#ALL#Pre-factura

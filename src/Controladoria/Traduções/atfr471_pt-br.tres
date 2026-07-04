@@ -1,0 +1,19 @@
+0001#STR0001#ALL#Função disponível apenas para ambientes TopConnect
+0002#STR0002#ALL#Função disponível apenas para TReport, por favor atualizar ambiente e verificar parametro MV_TREPORT
+0003#STR0003#ALL#Para utilizar este relatório, é necessário que estejam implementados os processos de Projetos de Imobilizado e Controle de AVP de Imobilizados. Por favor, atualize o ambiente
+0004#STR0004#ALL#Este relatório tem o objetivo de demonstrar os valores de custos de empréstimos, relacionados com os bens cadastrados no módulo Ativo Fixo.
+0005#STR0005#ALL#Demonstrativo de Custos de Empréstimos
+0006#STR0006#ALL#Custos de Empréstimos
+0007#STR0007#ALL#Bens de Origem
+0008#STR0008#ALL#Valor Aprop
+0009#STR0009#ALL#Total Filial: 
+0010#STR0010#ALL#Total Código Base: 
+0011#STR0011#ALL#Total Conta Contábil: 
+0012#STR0012#ALL#Total Centro de Custo: 
+0013#STR0013#ALL#Total Item Contábil: 
+0014#STR0014#ALL#Total Classe Valor: 
+0015#STR0015#ALL#Total Código Base: 
+0016#STR0016#ALL#Total de Apropriação
+0017#STR0017#ALL#Valor Capitalização
+0018#STR0018#ALL#Valor Adiantamento
+0019#STR0019#ALL#Valor Total

@@ -1,0 +1,73 @@
+0001#STR0001#ALL#Este programa imprimira el estado contable de clientes 
+0002#STR0002#ALL#Puede  emitirse  todo  el movimiento de los mismos, o apenas
+0003#STR0003#ALL#los valores originales.                                      
+0004#STR0004#ALL#Situacion de los Titulos por Cobrar
+0005#STR0005#ALL#Codigo    Nom. Cliente         Prf-Numero          TP  Modalid.     Fcha de    Vencto     Vencto     Banco Valor Original|       Titulos  Vencidos       |Titulos a Vencer| Nº         Vlr. Int. o   Dias              Saldo
+0006#STR0006#ALL#                               Cuota                                Emision    Titulo     Real                           | Valor Nominal  Valor Corregido|  Valor Nominal | Banco       Permanencia  Atraso            Final
+0007#STR0007#ALL#Especial
+0008#STR0008#ALL#Administracion
+0009#STR0009#ALL#De Cliente          
+0010#STR0010#ALL#A  Cliente          
+0011#STR0011#ALL#De Sucursal         
+0012#STR0012#ALL#A  Sucursal         
+0013#STR0013#ALL#De Fecha de Emision 
+0014#STR0014#ALL#A  Fecha de Emision 
+0015#STR0015#ALL#Informe             
+0016#STR0016#ALL#Considera NC,ND y RA
+0017#STR0017#ALL#Importes en         
+0018#STR0018#ALL#Analitico
+0019#STR0019#ALL#Resumen
+0020#STR0020#ALL#Si
+0021#STR0021#ALL#No
+0022#STR0022#ALL#Moneda 1
+0023#STR0023#ALL#Moneda 2
+0024#STR0024#ALL#Moneda 3
+0025#STR0025#ALL#Moneda 4
+0026#STR0026#ALL#Moneda 5
+0027#STR0027#ALL#Por Codigo
+0028#STR0028#ALL#Por Nombre
+0029#STR0029#ALL#Por Modalidad
+0030#STR0030#ALL#Situac. de Clientes
+0031#STR0031#ALL#Imprimiendo...
+0032#STR0032#ALL#Seleccion. Registros...
+0033#STR0033#ALL#Preparando Transitorio...
+0034#STR0034#ALL#Vence Hoy
+0035#STR0035#ALL#T O T A L  P O R  M O D A L I D A D ----> 
+0036#STR0036#ALL#T O T A L  P O R  C L I E N T E     ----> 
+0037#STR0037#ALL#Titulos
+0038#STR0038#ALL#T O T A L     G E N E R A L         ----> 
+0039#STR0039#ALL#FACT. DE CRED. Nº 
+0040#STR0040#ALL#FACT. DE DEBITO Nº 
+0041#STR0041#ALL#FACTURA Nº 
+0042#STR0042#ALL#ANTICIPO
+0043#STR0043#ALL#FACT. DE CRED. INTER.
+0044#STR0044#ALL#FACT. DE DEB. INTER.
+0045#STR0045#ALL#NO CLASIFICADO...
+0046#STR0046#ALL#RECIBO Nº 
+0047#STR0047#ALL#RETENCION IVA
+0048#STR0048#ALL#RET. GANANCIAS
+0049#STR0049#ALL#RET. ING. BRUTOS
+0050#STR0050#ALL#Pref-Numero
+0051#STR0051#ALL#Cuota
+0052#STR0052#ALL#Ctd.
+0053#STR0053#ALL#Tit.
+0054#STR0054#ALL#Fch.
+0055#STR0055#ALL#Emision
+0056#STR0056#ALL#Vencto
+0057#STR0057#ALL#Real
+0058#STR0058#ALL#Valor 
+0059#STR0059#ALL#Original
+0060#STR0060#ALL#Vencidos
+0061#STR0061#ALL#Valor Nominal
+0062#STR0062#ALL#Nº Bco
+0063#STR0063#ALL#Valor corregido 
+0064#STR0064#ALL#Titulos a vencer
+0065#STR0065#ALL#Valor Nominal
+0066#STR0066#ALL#Valor Inter/
+0067#STR0067#ALL#Permanencia
+0068#STR0068#ALL#Dias 
+0069#STR0069#ALL#Atraso
+0070#STR0070#ALL#Saldo
+0071#STR0071#ALL# Final
+0072#STR0072#ALL#Clientes
+0073#STR0073#ALL#Movimtos

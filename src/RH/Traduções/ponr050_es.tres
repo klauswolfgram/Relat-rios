@@ -1,0 +1,51 @@
+0001#STR0001#ALL#Informe para abono
+0002#STR0002#ALL#Se imprimira de acuerdo con los parametros solicitados por
+0003#STR0003#ALL#el usuario.
+0004#STR0004#ALL#Matricula
+0005#STR0005#ALL#Centro de costo
+0006#STR0006#ALL#Nombre
+0007#STR0007#ALL#Turno
+0008#STR0008#ALL#A Rayas
+0009#STR0009#ALL#Administracion
+0010#STR0011#ALL#Fecha  Cod Descripcion          Horas  Justificacion                Visto
+0011#STR0012#ALL#Placa
+0012#STR0013#ALL#Matr.
+0013#STR0014#ALL#Empleado
+0014#STR0015#ALL#C.C: 
+0015#STR0017#ALL#Sucursal: 
+0016#STR0018#ALL#   Turno: 
+0017#STR0019#ALL#     C.C: 
+0018#STR0020#ALL#C.Costo+Nombre
+0019#STR0021#ALL#Placa: 
+0020#STR0022#ALL#Matr.: 
+0021#STR0023#ALL#Empleado: 
+0022#STR0024#ALL#Previsto
+0023#STR0025#ALL#Realizado
+0024#STR0026#ALL#Seleccione la opcion de impresion: 
+0025#STR0027#ALL#Por Periodo
+0026#STR0028#ALL#Por Fechas
+0027#STR0029#ALL#Proceso: 
+0028#STR0030#ALL#Periodo: 
+0029#STR0031#ALL#Procedim.: 
+0030#STR0032#ALL#Num. Pago: 
+0031#STR0033#ALL#Departamento
+0032#STR0034#ALL#Depto: 
+0033#STR0035#ALL#Desc.Sucursal
+0034#STR0036#ALL#Cod.
+0035#STR0037#ALL#Descripcion
+0036#STR0038#ALL#Horas
+0037#STR0039#ALL#Justificacion
+0038#STR0040#ALL#Visto
+0039#STR0041#ALL#Empleados
+0040#STR0042#ALL#Marcaciones
+0041#STR0043#ALL#C.Costo
+0042#STR0044#ALL#Tno
+0043#STR0045#ALL#Este programa emite Relacion de los Empleados por Gratificacion de Horas
+0044#STR0046#ALL#Fecha
+0045#STR0047#ALL#Depto
+0046#STR0048#ALL#Proceso
+0047#STR0049#ALL#Periodo
+0048#STR0050#ALL#Rot
+0049#STR0051#ALL#NP
+0050#STR0052#ALL#Hrs. abonadas
+0051#STR0053#ALL#Hrs. no abonadas

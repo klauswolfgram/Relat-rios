@@ -1,0 +1,34 @@
+0001#STR0001#ALL#Report of Pending Issues
+0002#STR0002#ALL#Issue report of Pending Issues generated from 
+0003#STR0003#ALL#the occurrences routine according to parameters 
+0004#STR0004#ALL#Z.form 
+0005#STR0005#ALL#Management   
+0006#STR0006#ALL#CANCELLED BY OPERATOR  
+0007#STR0007#ALL#entered   
+0008#STR0008#ALL#Branch Pend. Num.Pend. Date       Time  Customer             Document         Trip    Occurrence                          Qty.  Goods Value  Damage Value Closing Date  Time        Status         
+0009#STR0009#ALL#Total
+0010#STR0010#ALL#Sub Total:
+0011#STR0011#ALL#Grand Total
+0012#STR0012#ALL#Report of Pending Issues
+0013#STR0013#ALL#Issue report of Pending Issues generated from the occurrences routine according to parameters 
+0014#STR0014#ALL#Type of Pending Issue
+0015#STR0015#ALL#Pend.Issue
+0016#STR0016#ALL#Pend.Bra.
+0017#STR0017#ALL#Pend.Num
+0018#STR0018#ALL#Date
+0019#STR0019#ALL#Time
+0020#STR0020#ALL#Customer
+0021#STR0021#ALL#Doc.Bra.
+0022#STR0022#ALL#Doct
+0023#STR0023#ALL#Series
+0024#STR0024#ALL#Ori.Bra.
+0025#STR0025#ALL#Trip
+0026#STR0026#ALL#Occu.Cod.
+0027#STR0027#ALL#Occu.Des.
+0028#STR0028#ALL#Qty
+0029#STR0029#ALL#Val.Goods
+0030#STR0030#ALL#Val.Prem.
+0031#STR0031#ALL#Date Clo.
+0032#STR0032#ALL#Time Clo.
+0033#STR0033#ALL#Status
+0034#STR0034#ALL#Branch Pend. Num.Pend. Date       Time  Customer             Document         Trip    Occurrence                          Qty.  Goods Value  Damage Value Closing Date  Time        Status         Conciliation No.

@@ -1,0 +1,32 @@
+0001#STR0001#ALL#Relacao de Vendas Perdidas
+0002#STR0002#ALL#Zebrado
+0003#STR0003#ALL#Administracao
+0004#STR0004#ALL#Criando Arquivo de Trabalho
+0005#STR0005#ALL#Total Geral.............................................................
+0006#STR0006#ALL#...............G R U P O  D E  P E C A S................................
+0007#STR0007#ALL#......................U S U A R I O.....................................
+0008#STR0008#ALL#..............C E N T R O  D E  C U S T O...............................
+0009#STR0009#ALL#......................M O T I V O.......................................
+0010#STR0010#ALL#........................D A T A.........................................
+0011#STR0011#ALL#Relacao de Requisicao de Compras
+0012#STR0012#ALL#     Grupo  Cód. Peça              Descrição            Qt.Item Qt.Est Qt.Ped.Compra     Valor   CLiente                    Fone       Obs.       Data
+0013#STR0013#ALL#Data Inicial ?
+0014#STR0014#ALL#Data Final ?
+0015#STR0015#ALL#Formula p/preco de pecas ?
+0016#STR0016#ALL#Agrupar por ?
+0017#STR0017#ALL#Grupo de Peças
+0018#STR0018#ALL#Usuário
+0019#STR0019#ALL#Centro de Custo
+0020#STR0020#ALL#Motivo
+0021#STR0021#ALL#Data
+0022#STR0022#ALL#Tipo ?
+0023#STR0023#ALL#Req. de Compras
+0024#STR0024#ALL#Vendas Perdidas
+0025#STR0025#ALL#Forma de Cálculo?
+0026#STR0026#ALL#Fórmula
+0027#STR0027#ALL#Valor Gravado
+0028#STR0028#ALL#Motivos não considerados
+0029#STR0029#ALL#Tp Venda Perdida
+0030#STR0030#ALL#Manual
+0031#STR0031#ALL#Orçamento
+0032#STR0032#ALL#Todos

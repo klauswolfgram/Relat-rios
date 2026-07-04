@@ -1,0 +1,41 @@
+0001#STR0001#ALL#Evaluacion de los ultimos lotes recibidos
+0002#STR0002#ALL#Se imprimira la evaluacion de los ultimos lotes recibidos
+0003#STR0003#ALL# Texto Superior Portada
+0004#STR0004#ALL# Texto Inferior Portada
+0005#STR0007#ALL#En este informe se imprimira la evaluacion de los ultimos lotes recibidos
+0006#STR0008#ALL#EVALUACION ULTIMOS LOTES RECIBIDOS
+0007#STR0009#ALL#A Rayas
+0008#STR0010#ALL#Administrativo
+0009#STR0011#ALL#Enero
+0010#STR0012#ALL#Febrero
+0011#STR0013#ALL#Marzo
+0012#STR0014#ALL#Abril
+0013#STR0015#ALL#Mayo
+0014#STR0016#ALL#Junio
+0015#STR0017#ALL#Julio
+0016#STR0018#ALL#Agosto
+0017#STR0019#ALL#Septiembre
+0018#STR0020#ALL#Octubre
+0019#STR0021#ALL#Noviembre
+0020#STR0022#ALL#Diciembre
+0021#STR0023#ALL# de 
+0022#STR0024#ALL#Resultados
+0023#STR0025#ALL#Especificado
+0024#STR0026#ALL#Resultados
+0025#STR0027#ALL#No conformidad(es) encontrada(s)
+0026#STR0028#ALL#Num
+0027#STR0029#ALL#Clase 
+0028#STR0030#ALL#Factor critico
+0029#STR0031#ALL#Reincidencia
+0030#STR0032#ALL#( Continuacion de los resultados encontrados )
+0031#STR0033#ALL#Si  -
+0032#STR0034#ALL# puntos
+0033#STR0035#ALL#No 
+0034#STR0036#ALL#( Continuacion de los resultados encontrados )
+0035#STR0037#ALL#Inspec.
+0036#STR0038#ALL#Certifi.
+0037#STR0039#ALL#Apr.Urg.
+0038#STR0040#ALL#Verifica
+0039#STR0041#ALL#Laudo
+0040#STR0042#ALL#Items de configuracion
+0041#STR0043#ALL#Fch.

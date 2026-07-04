@@ -1,0 +1,16 @@
+0001#STR0001#ALL#Mapa de Avances y Retrocesos
+0002#STR0002#ALL#Este programa emite un mapa con las operaciones que tuvieron
+0003#STR0003#ALL#que ser desplazadas en el tiempo. Este desplazamiento normalmente
+0004#STR0004#ALL#identifica un cuello de botella en la linea de produccion
+0005#STR0005#ALL# Por orden produccion 
+0006#STR0006#ALL# Por recurso          
+0007#STR0007#ALL#A Rayas
+0008#STR0008#ALL#Administracion
+0009#STR0009#ALL#REGISTRO(S)
+0010#STR0010#ALL#ORDEN       CODIGO DEL      DESCRIPCION DEL PRODUCTO         OP   RECURSO                             HERRAMIENTA                   FIN         IDEAL      FIN         RESERVA   DIFE-
+0011#STR0011#ALL#ORDEN       CODIGO DEL      DESCRIPCION DEL PRODUCTO         OP   RECURSO                             HERRAMIENTA                  INICIO       IDEAL     INICIO       RESERVA   DIFE-
+0012#STR0012#ALL#PRODUCCION  PRODUCTO                                                                                                               FECHA        HORA      FECHA        HORA    RENCIA
+0013#STR0013#ALL#ANULADO POR EL OPERADOR
+0014#STR0014#ALL#Diferenc.
+0015#STR0015#ALL#Operac. asignadas Carga Maquina
+0016#STR0016#ALL#El informe MATR835 se descontinuó en la versión 12.

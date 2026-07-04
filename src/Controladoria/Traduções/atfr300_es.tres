@@ -1,0 +1,19 @@
+0001#STR0001#ALL#Este programa emite el informe del registro de pólizas de seguro. 
+0002#STR0002#ALL#Utilice el diccionario de datos p/cambiar el orden/campos en la impresión. 
+0003#STR0003#ALL#Póliza de seguro
+0004#STR0004#ALL#Nº de Póliza: 
+0005#STR0005#ALL#Cia. Seg.: 
+0006#STR0006#ALL#A rayas
+0007#STR0007#ALL#Administración
+0008#STR0008#ALL#Numero de póliza + Cód. Cia. Seguro 
+0009#STR0009#ALL#Cód. Cia. Seguro + Número de poliza
+0010#STR0010#ALL#Imprime 
+0011#STR0011#ALL#¡No hay campos en uso para las pólizas de seguro!
+0012#STR0012#ALL#Archivo SNB
+0013#STR0013#ALL#*** ANULADO POR EL OPERADOR ***
+0014#STR0014#ALL#Generando : 
+0015#STR0015#ALL#Vigencia: 
+0016#STR0016#ALL# a 
+0017#STR0017#ALL#Valores en: 
+0018#STR0018#ALL#excepto campos Póliza/Cia. Aseguradora/Vigencia del encabezado.
+0019#STR0019#ALL#Datos de registo

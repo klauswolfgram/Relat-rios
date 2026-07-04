@@ -1,0 +1,47 @@
+0001#STR0001#ALL#Real x Std. Consumpution
+0002#STR0002#ALL#This program will print the list of 
+0003#STR0003#ALL#Real x Standard Consumpution       
+0004#STR0004#ALL#Z.Form
+0005#STR0005#ALL#Management   
+0006#STR0006#ALL#Selecting Records...     
+0007#STR0007#ALL#CODE             M A T E R I A L                  |           R E A L  C O N S U M P T I O N         |       S T A N D A R D  C O N S U M P T I O N     |                        V A R I A T I O N                        
+0008#STR0008#ALL#                 DESCRIPTION                   SU |        QUANTITY      UNIT COST            AMOUNT |        QUANTITY      UNIT COST            AMOUNT |       QUANTITY        AMOUNT          $QTTY.   $VALUE         % 
+0009#STR0009#ALL# ( By Production Order  )
+0010#STR0010#ALL# ( By Product )
+0011#STR0011#ALL#CANCELLED BY THE OPERATOR  
+0012#STR0012#ALL#Total 
+0013#STR0013#ALL#of PO:
+0014#STR0014#ALL#of Product:
+0015#STR0015#ALL#VARIATION OF USAGE AND CONSUMPTION      
+0016#STR0016#ALL#Total of Product: 
+0017#STR0017#ALL#|                                                       |        R E A L  C O N S U M P.        |    S T A N D A R D  C O N S U M P.    |            V A R I A T I O N          |
+0018#STR0018#ALL#|  CODE              DESCRIPTION                        |---------------------------------------|---------------------------------------|---------------------------------------|
+0019#STR0019#ALL#|                                                       |      QUANTITY    |             VALUE  |      QUANTITY    |             VALUE  |      QUANTITY    |             VALUE  |
+0020#STR0020#ALL#M A T E R I A L
+0021#STR0021#ALL#| C O N S U M P
+0022#STR0022#ALL#|    QUANTITY  
+0023#STR0023#ALL#A C T . 
+0024#STR0024#ALL#UN COST 
+0025#STR0025#ALL#TOTAL VALUE
+0026#STR0026#ALL#S T A N D A R D
+0027#STR0027#ALL#| V A R I A T .  
+0028#STR0028#ALL#$QTY.
+0029#STR0029#ALL#$VALUE
+0030#STR0030#ALL#| A C T U A L  C O N S P 
+0031#STR0031#ALL#VALUE
+0032#STR0032#ALL#| S T D.C O N S U M P .
+0033#STR0033#ALL#Warning
+0034#STR0034#ALL#Update patch of the program
+0035#STR0035#ALL#PRODUCT
+0036#STR0036#ALL#PO: 
+0037#STR0037#ALL#CODE  
+0038#STR0038#ALL#DESCRIPT.
+0039#STR0039#ALL#MU
+0040#STR0040#ALL#|      QUANTITY  
+0041#STR0041#ALL#|             QUANTITY  
+0042#STR0042#ALL#|            QUANTITY  
+0043#STR0043#ALL#|      QUANTITY  
+0044#STR0044#ALL#Internal Movement Items      
+0045#STR0045#ALL#PO initial balance/Product
+0046#STR0046#ALL#Totals by PO / Product 
+0047#STR0047#ALL#Summary grouped by product   

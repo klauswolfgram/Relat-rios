@@ -1,0 +1,40 @@
+0001#STR0001#ALL#El objetivo de este programa es imprimir un informe 
+0002#STR0002#ALL#de Libro de Compras de Hacienda para Uruguay.
+0003#STR0003#ALL#Libro Fiscal de Compras Hacienda
+0004#STR0004#ALL#A rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#Libro de Compras de Haciendas - Periodo :
+0007#STR0007#ALL#a
+0008#STR0008#ALL#Fch 
+0009#STR0009#ALL#Documento
+0010#STR0010#ALL#Proveedor
+0011#STR0011#ALL#Valor Hacienda
+0012#STR0012#ALL#
+0013#STR0013#ALL#Hacienda Neto
+0014#STR0014#ALL#Empresa:
+0015#STR0015#ALL#Pagina:
+0016#STR0016#ALL#Direccion:
+0017#STR0017#ALL#Seleccionando registros...
+0018#STR0018#ALL#*** ANULADO POR EL OPERADOR ***
+0019#STR0019#ALL#TOTALES GRAL
+0020#STR0020#ALL#Desc./Gastos
+0021#STR0021#ALL#Retencion
+0022#STR0022#ALL#Basico
+0023#STR0023#ALL#Libro Fiscal de Compras de Hacienda
+0024#STR0024#ALL#El objetivo de este programa es imprimir el informe del Libro de Compras de Hacienda.
+0025#STR0025#ALL# - Periodo: 
+0026#STR0026#ALL# a 
+0027#STR0027#ALL#Fecha
+0028#STR0028#ALL#Documento
+0029#STR0029#ALL#Proveedor
+0030#STR0030#ALL#Valor Hacienda
+0031#STR0031#ALL#IMEBA Basico
+0032#STR0032#ALL#IMEBA 2/100
+0033#STR0033#ALL#IMEBA 4/100
+0034#STR0034#ALL#Desc./Gastos
+0035#STR0035#ALL#Retencion
+0036#STR0036#ALL#Hacienda Neto
+0037#STR0037#ALL#Empresa
+0038#STR0038#ALL#Direccion
+0039#STR0039#ALL#CNJP
+0040#STR0040#ALL#Detalle

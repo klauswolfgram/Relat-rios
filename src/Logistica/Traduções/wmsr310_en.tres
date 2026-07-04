@@ -1,0 +1,23 @@
+0001#STR0004#ALL#Service monitor    
+0002#STR0005#ALL#Z. form
+0003#STR0006#ALL#Managemetn   
+0004#STR0007#ALL# Movement                    Origin           Product          Lot         Destin.          Status
+0005#STR0008#ALL#Selecting addressess...  
+0006#STR0009#ALL#SERVICE    
+0007#STR0010#ALL#Load:  
+0008#STR0011#ALL#Document:  
+0009#STR0012#ALL#1st. U.M. Qty-->
+0010#STR0013#ALL#2nd.U.M. Qtty-->
+0011#STR0014#ALL#U.M.I. Qtty.-->
+0012#STR0015#ALL#Qtty.-->
+0013#STR0025#ALL#This report can be used when the client doesnt have radio frequency 
+0014#STR0026#ALL#or for some reason the radio frequency is diabled.
+0015#STR0027#ALL#The layout is as if the user were using radio frequency.
+0016#STR0028#ALL#Movements by address - Document
+0017#STR0029#ALL#Movements by address - Activities
+0018#STR0030#ALL#Movements by address - Quantities
+0019#STR0031#ALL#Movement
+0020#STR0032#ALL#Trace
+0021#STR0033#ALL#Gap
+0022#STR0034#ALL#Unitz.Qty.
+0023#STR0035#ALL#Unitizer

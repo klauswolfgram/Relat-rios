@@ -1,0 +1,15 @@
+0001#STR0001#ALL#Emissão de guiões dinâmicos. 
+0002#STR0002#ALL#Este programa irá emitir uma relação dos guiões dinâmicos 
+0003#STR0003#ALL#Cancelado Pelo Operador.
+0004#STR0004#ALL#Guião       : 
+0009#STR0009#ALL#Activo
+0014#STR0014#ALL#Resultado máximo : 
+0015#STR0015#ALL#Resultado mínimo : 
+0016#STR0016#ALL#Acção mínima  : 
+0017#STR0017#ALL#Acção máxima  : 
+0018#STR0018#ALL#Não existem dados a serem impressos para este relatório com os parâmetros escolhidos
+0021#STR0021#ALL#Acção mínima
+0022#STR0022#ALL#Acção máxima
+0023#STR0023#ALL#Cabeçalho Do Documento Original Dinâmico
+0024#STR0024#ALL#Descrição De Pergunta
+0025#STR0025#ALL#Descrição De Resposta

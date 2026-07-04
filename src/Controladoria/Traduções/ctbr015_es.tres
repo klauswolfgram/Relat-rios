@@ -1,0 +1,12 @@
+0001#STR0001#ALL#Parametros
+0002#STR0002#ALL#Ente: 
+0003#STR0003#ALL#Columna 1: 
+0004#STR0004#ALL#Columna 2: 
+0005#STR0005#ALL#Columna 3: 
+0006#STR0006#ALL#Columna 4: 
+0007#STR0007#ALL#¡Atencion!
+0008#STR0008#ALL#Primero, seleccione el ente
+0009#STR0009#ALL#Contenido ya seleccionado. Por favor, seleccione otro tipo
+0010#STR0010#ALL#Ninguna
+0011#STR0011#ALL#Funcion disponible solo para TReport. Verifique el parametro MV_TREPORT
+0012#STR0012#ALL#Los campos de tipificacion no estan en uso. Por favor, verifique el diccionario de datos

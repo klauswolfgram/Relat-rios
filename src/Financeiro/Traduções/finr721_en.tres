@@ -1,0 +1,56 @@
+0001#STR0001#ALL#Print Comparative report between Budgeted x Real.   
+0002#STR0002#ALL#The reference month of the base date will be analysed
+0003#STR0003#ALL#Z.Form 
+0004#STR0004#ALL#Management   
+0005#STR0005#ALL#Comparative Map  - Budgeted x Real Values in  
+0006#STR0006#ALL#Cod Class       Descr.   
+0007#STR0007#ALL#To Realize            Realized         Budgeted                 %   
+0008#STR0008#ALL#Selecting Records ...
+0009#STR0009#ALL#Total -
+0010#STR0010#ALL#[ TOTALS - REALIZE  / REALIZED  ]
+0011#STR0011#ALL#Receive
+0012#STR0012#ALL#Pay  
+0013#STR0013#ALL#Balanc
+0014#STR0014#ALL#To Realize  : 
+0015#STR0015#ALL#Realized    : 
+0016#STR0016#ALL#Total:
+0017#STR0017#ALL#[ TOTALS - Budgeted]
+0018#STR0018#ALL#Receivable  : 
+0019#STR0019#ALL#Payable     : 
+0020#STR0020#ALL#Balance     : 
+0021#STR0021#ALL#[ COMPARATIVE - BUDGETED/REAL  ]
+0022#STR0022#ALL#Realized ...:
+0023#STR0023#ALL#Total.......:
+0024#STR0024#ALL# (  Debtor    )
+0025#STR0025#ALL# (  Creditor  )
+0026#STR0026#ALL#Accrued         Accrued
+0027#STR0027#ALL#Realized       Budgeted
+0028#STR0028#ALL#[ ACCUMULATED TOTALS ]
+0029#STR0029#ALL#Budgeted     : 
+0030#STR0030#ALL#   (A)                      (B)                          (C)               (A+B)/C
+0031#STR0031#ALL#Month
+0032#STR0032#ALL#Accrued
+0033#STR0033#ALL#Creatinf temporary work file          
+0034#STR0034#ALL#Collect
+0035#STR0035#ALL#Pay  
+0036#STR0036#ALL#Blnces
+0037#STR0037#ALL#To realize
+0038#STR0038#ALL#Realized 
+0039#STR0039#ALL#Total
+0040#STR0040#ALL#Quoted
+0041#STR0041#ALL#Accumul. 
+0042#STR0042#ALL#To realize (D)
+0043#STR0043#ALL#Realized  (E)
+0044#STR0044#ALL#Quoted (F)
+0045#STR0045#ALL#Comparative Map - Budgeted vs. Actual amounts 
+0046#STR0046#ALL#Classes of   
+0047#STR0047#ALL#Class sub-total      
+0048#STR0048#ALL#Month totals 
+0049#STR0049#ALL#Comparison 
+0050#STR0050#ALL#Accrued totals   	
+0051#STR0051#ALL#Branch: 
+0052#STR0052#ALL#Code
+0053#STR0053#ALL#Company
+0054#STR0054#ALL#Business Unit
+0055#STR0055#ALL#Branch
+0056#STR0056#ALL#Branches selected for the report

@@ -1,0 +1,27 @@
+0001#STR0001#ALL#Rendering of Accounts Report
+0002#STR0002#ALL#currency 1
+0003#STR0003#ALL#currency 2
+0004#STR0004#ALL#currency 3
+0005#STR0005#ALL#Balance 1
+0006#STR0006#ALL#Balance 2
+0007#STR0007#ALL#Balance 3
+0008#STR0008#ALL#It does not have rendering of accounts.
+0009#STR0009#ALL#Type of Order/Reserve
+0010#STR0010#ALL#Value of Order/Reserve
+0011#STR0011#ALL#Reserve ID(s)
+0012#STR0012#ALL#The employee must receive BRL
+0013#STR0013#ALL#The employee must return BRL
+0014#STR0014#ALL#The employee must receive USD
+0015#STR0015#ALL#The employee must return USD
+0016#STR0016#ALL#The employee must receive EUR
+0017#STR0017#ALL#The employee must return EUR
+0018#STR0018#ALL#This currency requires no adjustments
+0019#STR0019#ALL#Header
+0020#STR0020#ALL#Details
+0021#STR0021#ALL#Reserves
+0022#STR0022#ALL#Summary M1
+0023#STR0023#ALL#Summary M2
+0024#STR0024#ALL#Summary M3
+0025#STR0025#ALL#Orders
+0026#STR0026#ALL#Rendering of Accounts
+0027#STR0027#ALL#You must only run this report through routine FINA677 (Rendering of Accounts).

@@ -1,0 +1,69 @@
+0001#STR0001#ALL#This program has the purpose of printing Reply to 
+0002#STR0002#ALL#Bank Communication file, according to previously 
+0003#STR0003#ALL#setup lay-out.      
+0004#STR0004#ALL#Printing of Reply to Bank Communication file
+0005#STR0005#ALL#Z.Form 
+0006#STR0006#ALL#Management   
+0007#STR0007#ALL#By Number
+0008#STR0008#ALL#By Class   
+0009#STR0009#ALL#By Maturity  
+0010#STR0010#ALL#By Bank 
+0011#STR0011#ALL#Supplier  
+0012#STR0012#ALL#By Issue  
+0013#STR0013#ALL#By Suppl.Code 
+0014#STR0014#ALL#Bill No.           Cust/Sup.  Occurrence                 Occur.Dt. Original Val. Received Val.  Exp. Coll.  Discount Val.   Abatem.Val.     Interest Val.     IOF Val.  Oth.Cred. Cred.Dt.   Bank Bill No.  Consistence
+0015#STR0015#ALL#OCCURRENCE NOT SENT
+0016#STR0016#ALL#OCCURRENCE NOT FOUND
+0017#STR0017#ALL#BILL NUMBER NOT SENT
+0018#STR0018#ALL#BILL NOT FOUND
+0019#STR0019#ALL#POST NOT SENT
+0020#STR0020#ALL#SPECIES NOT SENT
+0021#STR0021#ALL#SPECIES NOT FOUND
+0022#STR0022#ALL#BILL OK
+0023#STR0023#ALL#REPORT TOTALS 
+0024#STR0024#ALL#Bill No.           Cust/Sup.  Occurrence                 Occur.Dt. Original Val.   Paid Val.  Exp. Coll.  Discount Val.   Abatem.Val.     Interest Val.    Bank Bill No.      Consistence
+0025#STR0025#ALL#VALUE RECEIVED FOR MORE
+0026#STR0026#ALL#POSTING DATE LOWER THAN FINANCIAL
+0027#STR0027#ALL#SUBTOTAL PER OCCURRENCE  
+0028#STR0028#ALL#PREVIOUSLY POSTED  -  TOTAL  
+0029#STR0029#ALL#PREVIOUSLY POSTED  -  PARTIAL  
+0030#STR0030#ALL#BILL OK  
+0031#STR0031#ALL#Bill nbr.
+0032#STR0032#ALL#Cus/Sup
+0033#STR0033#ALL#Occurrence
+0034#STR0034#ALL#Event Dt
+0035#STR0035#ALL#OriginalAmnt
+0036#STR0036#ALL#Amnt.Cllctd.
+0037#STR0037#ALL#Amn.Paid
+0038#STR0038#ALL#Exp.Charged
+0039#STR0039#ALL#Disc. amount
+0040#STR0040#ALL#Deduct.Amn.
+0041#STR0041#ALL#Inter.Amn
+0042#STR0042#ALL#IOF amn
+0043#STR0043#ALL#Bank bill nbr.
+0044#STR0044#ALL#Other Cred. 
+0045#STR0045#ALL#Cred.Dt.
+0046#STR0046#ALL#Consistence 
+0047#STR0047#ALL#Bills receivable 
+0048#STR0048#ALL#Sub-totals
+0049#STR0049#ALL#Unable to copy inflow file to server. The file will be processed from the local computer. For better performance, copy the file direct to the server. 
+0050#STR0050#ALL#AMT COLL HIGHER
+0051#STR0051#ALL#AMT COLL LOWER
+0052#STR0052#ALL#AMT PAID HIGHER
+0053#STR0053#ALL#AMT PAID LOWER
+0054#STR0054#ALL#CANCELLED BY THE OPERATOR
+0055#STR0055#ALL#BILL REJECTED
+0056#STR0056#ALL#File not found
+0057#STR0057#ALL#File
+0058#STR0058#ALL#Entered in the path
+0059#STR0059#ALL#was not found. Check.
+0060#STR0060#ALL#The usage of the question ‘CNAB configuration?’ = PIX Model is only allowed for portfolio Receivable.
+0061#STR0061#ALL#To use the portfolio Payable, use Model 1 or Model 2.
+0062#STR0062#ALL#The question ‘CNAB Configuration?’ was defined as ‘Model 1’ and the configuration is ‘Model 2’.
+0063#STR0063#ALL#To use this layout, adjust the question ‘CNAB Configuration ?’ to ‘Model 2’.
+0064#STR0064#ALL#The question ‘CNAB 2 Configuration ?’ was defined as ‘Model 2’ and the configuration file is ‘Model 1’ or ‘PIX Model’.
+0065#STR0065#ALL#To use this layout, adjust the question ‘CNAB Configuration ?’ according to the type of layout ‘Model 1’ or ‘PIX Model ‘.
+0066#STR0066#ALL# To generate the report with a PIX collection, parameterized the question ‘CNAB Configuration ?’ with the ‘PIX Model’ content.
+0067#STR0067#ALL#The sub account defined in the parameters has the Number of Bytes (EE_NRBYTES) different than 750.
+0068#STR0068#ALL#To use the report with PIX layout, configure the field Number Bytes (EE_NRBYTES) = 750 in the Parameters Bank registration (FINA130)
+0069#STR0069#ALL#Configuration file structure for processing incorrect pix return files.

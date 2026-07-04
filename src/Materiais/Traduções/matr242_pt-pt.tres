@@ -1,0 +1,18 @@
+0001#STR0001#ALL#Comparativo de custos 
+0002#STR0002#ALL#Este programa irá emitir um comparativo de custos, em valores e 
+0003#STR0003#ALL#Quantidades dos artigos em stock.
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#Por Artigo
+0007#STR0007#ALL#Diferença
+0008#STR0008#ALL#Artigo         descrição                       tp  um armzém     
+0009#STR0009#ALL#Cancelado Pelo Operador
+0010#STR0010#ALL#Total
+0011#STR0011#ALL#A Seleccionar Registos...
+0012#STR0012#ALL#                                                               Quantidade        Valor Unit.          Total     Quantidade        Valor Unit.         Total       Valor Unit.        Variação(%)
+0013#STR0013#ALL# data: 
+0014#STR0014#ALL# na moeda 
+0016#STR0016#ALL#Valor Unitário
+0017#STR0017#ALL#Variação(%)
+0018#STR0018#ALL#Comparativo De Custos
+0019#STR0019#ALL#Saldos Em Stock

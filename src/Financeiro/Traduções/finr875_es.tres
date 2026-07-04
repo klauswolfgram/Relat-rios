@@ -1,0 +1,25 @@
+0001#STR0001#ALL#Este programa tiene como objetivo imprimir relatorio 
+0002#STR0002#ALL#de los Titulos Retentores y Retenidos por la ley n.10.925.
+0003#STR0003#ALL#Relacion de Titulos Retentores y Retenidos por la ley n.10.925
+0004#STR0004#ALL#TITULO RETENTOR                                               TITULOS COM IMPUESTOS RETENIDOS EN EL TITULO RETENTOR
+0005#STR0005#ALL#Prf Numero    P   Tpo Cod.Fo Td Nombre Proveed.                     Prf Numero    P Tpo Cod.Fo Td Nombre Proveed.                           Vlr PIS         Vlr COFINS           Vlr CSLL
+0006#STR0006#ALL#Seleccionando Registros...
+0007#STR0007#ALL#*** CANCELADO POR EL OPERADOR ***
+0008#STR0008#ALL#Totales
+0009#STR0009#ALL#Ctd Tit. Retenidos
+0010#STR0010#ALL#Paramentro MV_BX10925 inexistente, favor rodar la rutina U_AtuMP10925 para crearlo.
+0011#STR0011#ALL#Lista de titulos de retencion y retenidos por la ley n.10.925 (Sucursales seleccionadas para el informe)
+0012#STR0012#ALL#Codigo               Empresa                                                      Unidad de Negocio                                           Sucursal
+0013#STR0013#ALL#Sucursal: 
+0014#STR0014#ALL#TÍTULO RETENTOR
+0015#STR0015#ALL#TÍTULOS CON IMPUESTOS RETENIDOS EN EL TÍTULO DE RETENCIÓN
+0016#STR0016#ALL#Prf.
+0017#STR0017#ALL#Número
+0018#STR0018#ALL#P
+0019#STR0019#ALL#Tpo
+0020#STR0020#ALL#Cód.Prov
+0021#STR0021#ALL#Td
+0022#STR0022#ALL#Nombre proveedor
+0023#STR0023#ALL#Val PIS
+0024#STR0024#ALL#Val COFINS
+0025#STR0025#ALL#Val CSLL

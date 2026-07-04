@@ -1,0 +1,42 @@
+0001#STR0001#ALL#Telecollection scnenario
+0002#STR0002#ALL#This program will generate a list of Attendance Groups and each Group rules.
+0003#STR0003#ALL#The generation is based on the report parameters
+0004#STR0004#ALL#Z-form
+0005#STR0005#ALL#Management
+0006#STR0006#ALL#CANCELED BY THE OPERATOR
+0007#STR0007#ALL#ATTENDANCE GROUP
+0008#STR0008#ALL#Code of Attendance Group:
+0009#STR0009#ALL#Description of Attendance Group:
+0010#STR0010#ALL#Code of Selection rule:
+0011#STR0011#ALL#Description of Selection Rule:
+0012#STR0012#ALL#Code of Negotiation Rule:
+0013#STR0013#ALL#Description of Negotiation Rule:
+0014#STR0014#ALL#Internal/External Group Type:
+0015#STR0015#ALL#Send e-mail in Telecollection:
+0016#STR0016#ALL#SELECTION RULE
+0017#STR0017#ALL#Order:
+0018#STR0018#ALL#Deadline:
+0019#STR0019#ALL#Prefix:
+0020#STR0020#ALL#Class:
+0021#STR0021#ALL#Status:
+0022#STR0022#ALL#Bearer:
+0023#STR0023#ALL#NEGOTIATION RULE
+0024#STR0024#ALL#Title
+0025#STR0025#ALL#Credit
+0026#STR0026#ALL#Selection
+0027#STR0027#ALL#Reschedule
+0028#STR0028#ALL#Extension
+0029#STR0029#ALL#Discount Term
+0030#STR0030#ALL#Nominal Disc.
+0031#STR0031#ALL#Interest Disc.
+0032#STR0032#ALL#Increase
+0033#STR0033#ALL#Decrease
+0034#STR0034#ALL#Operator  Name Reduced      Name                                        Attendance        Region   Valid   Type          Ability
+0035#STR0035#ALL#Reference File updated in: 
+0036#STR0036#ALL#COLLECTION PROMOTION
+0037#STR0037#ALL#Code      Description                           Start         End           Init. Mat.    Fin. Mat.    Disc. Term    Desc Nom.  Desc Jur
+0038#STR0038#ALL#No information to print in this report with the parameters entered
+0039#STR0039#ALL#Details of Call Group
+0040#STR0040#ALL#Operators 
+0041#STR0041#ALL#Details of collection promotion
+0042#STR0042#ALL#Items of collection promotion

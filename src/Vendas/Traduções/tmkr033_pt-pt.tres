@@ -1,0 +1,7 @@
+0001#STR0001#ALL#Lista De Clientes X Segmentos
+0002#STR0002#ALL#Este Programa Irá Emitir Listas De Clientes X Segmentos De Negócios
+0003#STR0003#ALL# Obedecer aos parâmetros é diferente das regras de validação de segmento
+0004#STR0004#ALL# Para manutenção da base de dados de clientes em relação aos segmentos
+0005#STR0005#ALL#Código de barras
+0007#STR0007#ALL#Código    Razão Social                             Morada                                 Cidade          Distrito Ddd Telefone
+0008#STR0008#ALL#Cancelado Pelo Operador

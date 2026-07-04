@@ -1,0 +1,32 @@
+0001#STR0001#ALL#Emissão das cotações de compras
+0002#STR0002#ALL#Relação De Cotações
+0003#STR0003#ALL#Código de barras
+0004#STR0004#ALL#Administração
+0005#STR0005#ALL#Prezados Senhores.
+0006#STR0006#ALL#Cotação n.º 
+0007#STR0007#ALL# vencimento 
+0008#STR0008#ALL#Por favor queira referenciar este número para quaisquer troca de
+0009#STR0009#ALL#Dados referentes a esta cotação.
+0010#STR0010#ALL#Telefone: 
+0013#STR0013#ALL#Solicitamos de v sas. cotação de preços para os produtos
+0014#STR0014#ALL#Discriminados de acordo com os padrões abaixo estabelecidos:
+0016#STR0016#ALL#Elemento   N/vosso Código Descrição Da Mercadoria        Quantidade  Un Val. Unitário    Valor Total Ipi  Valor Do Ipi Pz E Dt Prev Entrg
+0017#STR0017#ALL#Continuação ...
+0018#STR0018#ALL#Local De Entrega:
+0019#STR0019#ALL#Sub-total
+0020#STR0020#ALL#Condição De Pagamento
+0022#STR0022#ALL#Local de cobrança: 
+0023#STR0023#ALL#Total Do Ipi
+0025#STR0025#ALL#Condição De Reacerto
+0026#STR0026#ALL#Contacto No Fornecedor
+0027#STR0027#ALL#Total Do Pedido
+0028#STR0028#ALL#Alçada 1
+0029#STR0029#ALL#Alçada 2
+0031#STR0031#ALL#Dias
+0032#STR0032#ALL#Observações :
+0034#STR0034#ALL#Val.unitário    Valor Total    Ipi   Valor Do Ipi  Prz(dias)
+0035#STR0035#ALL#Página  
+0036#STR0036#ALL#N/vosso Código
+0037#STR0037#ALL#Elem.
+0038#STR0038#PER#ITM   N/Vosso Código Descrição da Mercadoria        Quantidade  UN Val. Unitário    Valor Total IPI  Valor do IPI Pz e Dt Prev Entrg
+0040#STR0040#PER#Val.Unitário    Valor Total    IPI   Valor do IPI  Prz(dias)

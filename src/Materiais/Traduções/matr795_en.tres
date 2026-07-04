@@ -1,0 +1,37 @@
+0001#STR0001#ALL#Detailed 
+0002#STR0002#ALL#Analytical
+0003#STR0003#ALL#Synthetic
+0004#STR0004#ALL#Summarized 
+0005#STR0005#ALL#Generation of Report of Quantities in Grids of Sales Orders by the 
+0006#STR0006#ALL#through the interval entered in the Parameters option.        
+0007#STR0007#ALL#Z.Form 
+0008#STR0008#ALL#Management   
+0009#STR0009#ALL#QUANTITIES IN GRIDS  - 
+0010#STR0010#ALL#          Column  Disc.of Column    Qty to Invoice  Qty Invoiced      Total Qty 
+0011#STR0011#ALL#CANCELLED BY THE OPERATOR 
+0012#STR0012#ALL#REFERENCE  : 
+0013#STR0013#ALL#LINE  : 
+0014#STR0014#ALL#ORDER  :
+0015#STR0015#ALL#Subtotal
+0016#STR0016#ALL#T O T A L 
+0017#STR0017#ALL#Report of quantities in grids     
+0018#STR0018#ALL#Generation of Quantities Report in Grids of Sales Orders           
+0019#STR0019#ALL#through the range if Orders entered in the option Parameters.
+0020#STR0020#ALL#Qty. to bill  
+0021#STR0021#ALL#Qty. billed  
+0022#STR0022#ALL#Total qty.
+0023#STR0023#ALL#Column
+0024#STR0024#ALL#Column description 
+0025#STR0025#ALL#Line 
+0026#STR0026#ALL#Reference 
+0027#STR0027#ALL#Detailed 
+0028#STR0028#ALL#Analytical
+0029#STR0029#ALL#Synthetic
+0030#STR0030#ALL#Summarized 
+0031#STR0031#ALL#Sub-total
+0032#STR0032#ALL#Sub-total    
+0033#STR0033#ALL#T O T A L    
+0034#STR0034#ALL#Product reference    
+0035#STR0035#ALL#Grid lines     
+0036#STR0036#ALL#Grid columns    
+0037#STR0037#ALL# Blank column    

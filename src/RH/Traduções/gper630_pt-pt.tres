@@ -1,0 +1,40 @@
+0001#STR0001#ALL#Registo
+0002#STR0002#ALL#Centro De Custo
+0004#STR0004#ALL#Centro De Custo + Nome
+0006#STR0006#ALL#Emissão De Valores De Rescisões.
+0007#STR0007#ALL#Deverá Ser Emitido Após O Cálculo De Rescisões.
+0008#STR0008#ALL#Sera impresso de acordo com os parâmetro s solicitados pelo utilizador.
+0009#STR0009#ALL#Código de barras
+0010#STR0010#ALL#Administração
+0011#STR0011#ALL#Valores De Rescisões
+0013#STR0013#ALL#Registo:   
+0015#STR0015#ALL#Data Da Demissão:
+0016#STR0016#ALL#Data Da Homologação:
+0017#STR0017#ALL#Data Do Aviso:
+0018#STR0018#ALL#Data Da Criação:
+0019#STR0019#ALL#Dias de aviso: 
+0020#STR0020#ALL#Tipo de rescisão: 
+0021#STR0021#ALL#Mês para média: 
+0023#STR0023#ALL#Não
+0024#STR0024#ALL#Férias vencidas: 
+0025#STR0025#ALL#Férias proporcionais: 
+0026#STR0026#ALL#Remuneração mês: 
+0027#STR0027#ALL#Remuneração dia: 
+0028#STR0028#ALL#Remuneração hora: 
+0029#STR0029#ALL#Total do empregado:   
+0030#STR0030#ALL#Código De Descrição      Qtde       Cód Descrição Das Remunerações           Qtde       Cód Descrição Dos Descontos           Qtde           Bases
+0032#STR0032#ALL#Centro de custo: 
+0033#STR0033#ALL#Turno:
+0034#STR0034#ALL#Total da filial:     
+0035#STR0035#ALL#Total cent.de custo: 
+0036#STR0036#ALL#Total do turno:      
+0037#STR0037#ALL#Total da empresa:    
+0038#STR0038#ALL#Analítico 
+0039#STR0039#ALL#Sintético 
+0040#STR0050#ALL#Nr.dep.irs: 
+0042#STR0052#ALL#No.dep.sf: 
+0044#STR0054#ALL#Empregados
+0049#STR0059#ALL#Surcursal
+0050#STR0060#ALL#Descripcion
+0051#STR0061#ALL#NIT
+0052#STR0062#ALL#Descrip.

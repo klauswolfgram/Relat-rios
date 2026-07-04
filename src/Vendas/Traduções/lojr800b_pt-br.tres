@@ -1,0 +1,45 @@
+0001#STR0001#ALL#Este programa tem como objetivo imprimir relatorio 
+0002#STR0002#ALL#de acordo com os parametros informados pelo usuario.
+0003#STR0003#EUA#Relatorio de Produtos por Lay-Away
+0003#STR0003#MEX#Relatorio de Produtos por Manejo de Apartados
+0003#STR0003#POR#Relatorio de Produtos por Lay-Away
+0004#STR0004#ALL#Lay-Away
+0005#STR0005#ALL#Cliente
+0006#STR0006#ALL#Data de Emissao
+0007#STR0007#ALL#Data de Entrega
+0008#STR0008#ALL#Data de Movimentacao
+0009#STR0009#ALL#Zebrado
+0010#STR0010#ALL#Administracao
+0011#STR0011#ALL#LAY-AWAY  CLIENTE                                   EMISSAO    ENTREGA    STATUS                VALOR                  SALDO
+0012#STR0012#ALL#PRODUTO          DESCRICAO                                QUANTIDADE               VLR. UNIT            VLR. TOTAL
+0013#STR0013#ALL#*** CANCELADO PELO OPERADOR ***
+0014#STR0014#ALL#TOTAL DO CLIENTE 
+0015#STR0015#ALL#TOTAL DA DATA DE EMISSAO 
+0016#STR0016#ALL#TOTAL DA DATA DE ENTREGA 
+0017#STR0017#ALL#TOTAL DA DATA DE MOVIMENTO 
+0018#STR0018#ALL#Aberto
+0019#STR0019#ALL#Encerrado
+0020#STR0020#ALL#TOTAL GERAL => 
+0021#STR0021#ALL#Preencha os parametros 
+0022#STR0022#ALL#De Emissao e Ate Emissao 
+0023#STR0023#ALL#De Entrega e Ate Entrega 
+0024#STR0024#ALL#De Movimentacao e Ate Movimentacao 
+0025#STR0025#ALL#Nao existem registros para esse relatorio - Verifique os parametros 
+0026#STR0026#ALL#Selecionando registros
+0027#STR0027#ALL#Anulado
+0028#STR0028#ALL#Vencido
+0029#STR0029#ALL#Descricao nao encontrada
+0030#STR0030#EUA#Informe de Movimentos por Lay-Away
+0030#STR0030#MEX#Informe de Movimentos por Manejo de Apartados
+0030#STR0030#POR#Informe de Movimentos por Lay-Away
+0031#STR0031#EUA#Cod. Lay-Away
+0031#STR0031#MEX#Cod. Manejo de Apartados
+0031#STR0031#POR#Cod. Lay-Away
+0032#STR0032#ALL#Total
+0033#STR0033#ALL#Saldo
+0034#STR0034#ALL#Movimentação de Manejo de Apartados
+0035#STR0035#ALL#Produto
+0036#STR0036#ALL#Descrição
+0037#STR0037#ALL#Total do cliente
+0038#STR0038#ALL#Saldo Total
+0039#STR0039#ALL#Quantidade Total

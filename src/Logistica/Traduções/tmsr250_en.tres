@@ -1,0 +1,27 @@
+0001#STR0001#ALL#Issued Contracts Daily Report         
+0002#STR0002#ALL#This program will issue the contract daily report  
+0003#STR0003#ALL#according to the parameters selected                
+0004#STR0004#ALL#by the user.    
+0005#STR0005#ALL#Z.form
+0006#STR0006#ALL#Management   
+0007#STR0007#ALL#CONTRACT DEST.    NUMBER            FREIGHT         TRANSP.  VEHICLE              SPENT     COST PER 
+0008#STR0008#ALL#                  TRIP            VALUE           WEIGHT       CAPACITY         KM           TONE    
+0009#STR0009#ALL#CANCELED BY OPERATOR  
+0010#STR0010#ALL#ISSUE DATE:   
+0011#STR0011#ALL#SOURCE BRANCH: 
+0012#STR0012#ALL#FREIGHT TYPE
+0013#STR0013#ALL#T.PARTY 
+0014#STR0014#ALL#TOTAL
+0015#STR0015#ALL#TYPE TOTAL    ==>>
+0016#STR0016#ALL#BRANCH TOTAL    ==>>
+0017#STR0017#ALL#Daily report of contracts issued
+0018#STR0018#ALL#This program prints the daily report of contracts issued according to the parameters selected by the user
+0019#STR0019#ALL#Contr. Date + Origin Bra.
+0020#STR0020#ALL#Contract Date
+0021#STR0021#ALL#Origin Branch
+0022#STR0022#ALL#Fleet
+0023#STR0023#ALL#Contract
+0024#STR0024#ALL#KM run
+0025#STR0025#ALL#Cost per ton
+0026#STR0026#ALL#Total of Type
+0027#STR0027#ALL#Total of Branch

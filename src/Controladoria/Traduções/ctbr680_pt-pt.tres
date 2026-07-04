@@ -1,0 +1,28 @@
+0001#STR0001#ALL#Este programa irá imprimir o relatório de composição dos movimentos aglutinados.
+0002#STR0002#ALL#Pode escolher se deseja imprimir todos os movimentos ou somente os aglutinados.
+0003#STR0003#ALL#Não é aconselhável a emissão deste relatório quando o histórico faz parte da chave de aglutinação.
+0004#STR0004#ALL#Composição dos movimentos aglutinados em 
+0005#STR0005#ALL#Código de barras
+0006#STR0006#ALL#Administração
+0007#STR0007#ALL#|linha|dc |conta débito          |conta crédito          |c.custo débito         |c.custo crédito      |item débito          |item crédito         |cl.valor débito      |cl.valor crédito     |       valor lcto          |
+0008#STR0008#ALL#|lp   |lp seq                    |histórico                                      |          valor      |                                                                                                                   |
+0009#STR0009#ALL#***** cancelado pelo operador *****
+0010#STR0010#ALL#Lançamento contabilístico não aglutinado.
+0011#STR0011#ALL# Crédito
+0012#STR0012#ALL#Data: 
+0013#STR0013#ALL#Lote: 
+0014#STR0014#ALL#Documento: 
+0015#STR0015#ALL#Sub-lote: 
+0016#STR0016#ALL#A Seleccionar Registos...
+0017#STR0017#ALL#Total do documento :
+0018#STR0018#ALL#Total do lote :
+0019#STR0019#ALL#Introduzido :
+0020#STR0020#ALL#Digitado :
+0021#STR0021#ALL#Diferença :
+0022#STR0022#ALL#Total do sublote :
+0023#STR0023#ALL#Doc    Li Tp Conta Débito         Conta Crédito         Hp  Histórico                                      Valor Deb      Valor Cred
+0024#STR0024#ALL# Débito
+0025#STR0025#ALL# Crédito
+0026#STR0026#ALL#Doc: 
+0027#STR0027#ALL#Total do documento :
+0028#STR0028#ALL#Correlativo: 

@@ -1,0 +1,12 @@
+0001#STR0001#ALL#Este relatorio ira imprimir a consulta gerencial solicitada e o cronograma financeiro previsto x realizado para execucao dos projetos/EDTs/Tarefas cadastrados na consulta.
+0002#STR0002#ALL#Consulta Gerencial - Cronograma Financeiro Previsto x Realizado
+0003#STR0003#ALL#                  ENTIDADE                        |
+0004#STR0004#ALL#                                                  |       Valor        |%Perc.|       Valor        |%Perc.|       Valor        |%Perc.|       Valor        |%Perc.|       Valor        |%Perc.|       Valor        |%Perc.|
+0005#STR0005#ALL#|
+0006#STR0006#ALL#Consulta : 
+0007#STR0007#ALL#Zebrado
+0008#STR0008#ALL#Administracao
+0009#STR0009#ALL#Valor
+0010#STR0010#ALL#Perc.
+0011#STR0011#ALL#Consulta Gerencial - Cronograma Financeiro Previsto x Realizado
+0012#STR0012#ALL#Consulta Gerencial

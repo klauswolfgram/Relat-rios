@@ -1,0 +1,33 @@
+0001#STR0001#ALL#The purpose of this program is to print a report    
+0002#STR0002#ALL#according to the parameters entered by the user.     
+0003#STR0003#ALL#Report of exchange rate difference 
+0004#STR0004#ALL#Report of accounts payable exchange rate difference  
+0005#STR0005#ALL#Supplr./Fil......Due Date    Issue....Record.....Class.     Prefix/Number/Part.   Type      Value 
+0006#STR0006#ALL#Supplier  
+0007#STR0007#ALL#Prefix+Number 
+0008#STR0008#ALL#Class   
+0009#STR0009#ALL#IssueDt
+0010#STR0010#ALL#Due date  
+0011#STR0011#ALL#Record  
+0012#STR0012#ALL#Lines 
+0013#STR0013#ALL#Administrat. 
+0014#STR0014#ALL#     Curr. Orig.Amn.      Rate
+0015#STR0015#ALL#   Previous Adj         Adjust
+0016#STR0016#ALL#***CANCELLED BY THE OPERATOR***
+0017#STR0017#ALL#Exchange difference ->
+0018#STR0018#ALL#Document adjusted ->
+0019#STR0019#ALL#NotAvail.
+0020#STR0020#ALL#Amount adjusted: 
+0021#STR0021#ALL#Supp./Brn
+0022#STR0022#ALL#Due Date
+0023#STR0023#ALL#Issue
+0024#STR0024#ALL#Record
+0025#STR0025#ALL#Class
+0026#STR0026#ALL#Prefix/Number/Part
+0027#STR0027#ALL#Type
+0028#STR0028#ALL#Value
+0029#STR0029#ALL#Original Value
+0030#STR0030#ALL#Rate
+0031#STR0031#ALL#Mon.
+0032#STR0032#ALL#Adjustmt. Previous
+0033#STR0033#ALL#Adjustment

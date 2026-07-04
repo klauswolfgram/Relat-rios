@@ -1,0 +1,23 @@
+0001#STR0001#ALL#Collection Letter
+0002#STR0002#ALL#Header
+0003#STR0003#ALL#Bills Expired
+0004#STR0004#ALL#Bills About to Expire
+0005#STR0005#ALL#Days for expiration
+0006#STR0006#ALL#Table printing format not supported in this report
+0007#STR0007#ALL#Delay Days
+0008#STR0008#ALL#TOTAL
+0009#STR0009#ALL#Here are the expired bills:
+0010#STR0010#ALL#Here are the next expirations:
+0011#STR0011#ALL#Delayed bill
+0012#STR0012#ALL#Bill within deadline
+0013#STR0013#ALL#1=Sent
+0014#STR0014#ALL#2=Blank/not existing e-mail
+0015#STR0015#ALL#3=Failure connecting
+0016#STR0016#ALL#4=Failure delivering
+0017#STR0017#ALL#5=Failure in authentication
+0018#STR0018#ALL#Bill Status
+0019#STR0019#ALL#Falling Due
+0020#STR0020#ALL#Overdue
+0021#STR0021#ALL#Letter template
+0022#STR0022#ALL#Print letter
+0023#STR0023#ALL# from 

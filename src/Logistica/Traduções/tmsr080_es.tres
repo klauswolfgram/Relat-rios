@@ -1,0 +1,24 @@
+0001#STR0001#ALL#Informe de Direcciones del Solicitante
+0002#STR0002#ALL#Emision de Direcciones del Solicitante
+0003#STR0003#ALL#Imprimira los datos de Direcciones del Solicitante
+0004#STR0004#ALL#de acuerdo con la configuracion del usuario.
+0005#STR0005#ALL#A rayas
+0006#STR0006#ALL#Administracion
+0007#STR0007#ALL# DDN Telefono        Sec. Direccion  Direccion       Barrio          Municipio       Prov.  CP      
+0008#STR0008#ALL# - Telefono : 
+0009#STR0009#ALL#*** ANULADO POR EL OPERADOR ***
+0010#STR0010#ALL#Creando indice...
+0011#STR0011#ALL#Nombre : 
+0012#STR0012#ALL#Lista con Direcciones del Solicitante
+0013#STR0013#ALL#Emision de las Direcciones del Solicitante
+0014#STR0014#ALL#Solicitante
+0015#STR0015#ALL#Nombre
+0016#STR0016#ALL#DDD
+0017#STR0017#ALL#Telefono
+0018#STR0018#ALL#Direccion
+0019#STR0019#ALL#Sec.Direccion
+0020#STR0020#ALL#Barrio
+0021#STR0021#ALL#Municipio
+0022#STR0022#ALL#Estado
+0023#STR0023#ALL#CP
+0024#STR0024#ALL#Cod.Sol.

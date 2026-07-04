@@ -1,0 +1,136 @@
+0001#STR0001#ARG#Emissao do Livro Fiscal de Compras
+0001#STR0001#BOL#Emissao do Livro Fiscal de Compras
+0002#STR0002#ARG#Sera solicitada a data inicial e a data final para a emissao
+0002#STR0002#BOL#Sera solicitada a data inicial e a data final para a emissao
+0003#STR0003#ARG#do livro Fiscal de Compras
+0003#STR0003#BOL#do livro Fiscal de Compras
+0004#STR0004#ARG#Especial
+0004#STR0004#BOL#Especial
+0005#STR0005#ARG#Administracao
+0005#STR0005#BOL#Administracao
+0006#STR0006#ARG#Tipo no Reg.
+0006#STR0006#BOL#Tipo no Reg.
+0007#STR0007#ARG#Filtrando registros...
+0007#STR0007#BOL#Filtrando registros...
+0008#STR0008#ARG#** ANULADO PELO OPERADOR **
+0008#STR0008#BOL#** ANULADO PELO OPERADOR **
+0009#STR0009#ARG#LIVRO DE I. V. A. 
+0009#STR0009#BOL#LIVRO DE I. V. A. 
+0010#STR0010#ARG#C O M P R A S
+0010#STR0010#BOL#C O M P R A S
+0011#STR0011#ARG#Empresa: 
+0011#STR0011#BOL#Empresa: 
+0012#STR0012#ARG#Pagina Num.: 
+0012#STR0012#BOL#Pagina Num.: 
+0013#STR0013#ARG#Tipo  Serie  Comprovante     Razao Social          C.U.I.T.       Liq. Gravado   IVA R.G.   IVA. RNI  IVA SERV. IVA BS.CAP.  IVA R.E.   PERC.IVA  PERC.IIBB  PERC.GAN.  RET. IVA.  RET. IIBB          ISENTO            TOTAL
+0013#STR0013#BOL#Tipo  Serie  Comprovante     Razao Social          C.U.I.T.       Liq. Gravado   IVA R.G.   IVA. RNI  IVA SERV. IVA BS.CAP.  IVA R.E.   PERC.IVA  PERC.IIBB  PERC.GAN.  RET. IVA.  RET. IIBB          ISENTO            TOTAL
+0014#STR0014#ARG#Totais Gerais :
+0014#STR0014#BOL#Totais Gerais :
+0015#STR0015#ARG#Totais por Condicao Fiscal : 
+0015#STR0015#BOL#Totais por Condicao Fiscal : 
+0016#STR0016#ARG#Totais Faturas              : 
+0016#STR0016#BOL#Totais Faturas              : 
+0017#STR0017#ARG#Totais Notas de Credito     : 
+0017#STR0017#BOL#Totais Notas de Credito     : 
+0018#STR0018#ARG#Totais Notas de Debito       : 
+0018#STR0018#BOL#Totais Notas de Debito       : 
+0019#STR0019#ARG#Totais por Tipo de Documento :
+0019#STR0019#BOL#Totais por Tipo de Documento :
+0020#STR0020#ARG# Formulario 
+0020#STR0020#BOL# Formulario 
+0021#STR0021#ARG#¿Formulario esta posicionado?
+0021#STR0021#BOL#¿Formulario esta posicionado?
+0022#STR0022#ARG#Si
+0022#STR0022#BOL#Si
+0023#STR0023#ARG#Nao
+0023#STR0023#BOL#Nao
+0024#STR0024#ARG#Anula a impressao
+0024#STR0024#BOL#Anula a impressao
+0025#STR0025#ARG#¿Tenta Novamente? 
+0025#STR0025#BOL#¿Tenta Novamente? 
+0026#STR0026#ARG# - De    : 
+0026#STR0026#BOL# - De    : 
+0027#STR0027#ARG#   Ate   : 
+0027#STR0027#BOL#   Ate   : 
+0028#STR0028#ARG#Sub 
+0028#STR0028#BOL#Sub 
+0029#STR0029#ARG#Total Geral   :
+0029#STR0029#BOL#Total Geral   :
+0030#STR0030#ARG#Totais por Zona Fiscal : 
+0030#STR0030#BOL#Totais por Zona Fiscal : 
+0031#STR0031#ARG#Totais por Tipo de Produto : 
+0031#STR0031#BOL#Totais por Tipo de Produto : 
+0032#STR0032#ARG#C A N C E L A D A 
+0032#STR0032#BOL#C A N C E L A D A 
+0033#STR0033#ARG#Emissão do Livro Fiscal de Compras
+0033#STR0033#BOL#Emissão do Livro Fiscal de Compras
+0034#STR0034#ARG#Este programa tem como objetivo imprimir o Livro Fiscal de Compras.
+0034#STR0034#BOL#Este programa tem como objetivo imprimir o Livro Fiscal de Compras.
+0035#STR0035#ARG#LIVRO DE I.V.A. COMPRAS
+0035#STR0035#BOL#LIVRO DE I.V.A. COMPRAS
+0036#STR0036#ARG#Período: 
+0036#STR0036#BOL#Período: 
+0037#STR0037#ARG# a 
+0037#STR0037#BOL# a 
+0038#STR0038#ARG#Tipo
+0038#STR0038#BOL#Tipo
+0039#STR0039#ARG#Razão Social
+0039#STR0039#BOL#Razão Social
+0040#STR0040#ARG#LIQUIDO GRAVADO
+0040#STR0040#BOL#LIQUIDO GRAVADO
+0041#STR0041#ARG#IVA R.G.
+0041#STR0041#BOL#IVA R.G.
+0042#STR0042#ARG#IVA R.N.I.
+0042#STR0042#BOL#IVA R.N.I.
+0043#STR0043#ARG#IVA SERV.
+0043#STR0043#BOL#IVA SERV.
+0044#STR0044#ARG#IVA BS. CAP.
+0044#STR0044#BOL#IVA BS. CAP.
+0045#STR0045#ARG#IVA R.E.
+0045#STR0045#BOL#IVA R.E.
+0046#STR0046#ARG#PERC. IVA
+0046#STR0046#BOL#PERC. IVA
+0047#STR0047#ARG#PERC. IIBB
+0047#STR0047#BOL#PERC. IIBB
+0048#STR0048#ARG#PERC. GAN.
+0048#STR0048#BOL#PERC. GAN.
+0049#STR0049#ARG#RET. IVA
+0049#STR0049#BOL#RET. IVA
+0050#STR0050#ARG#RET. IIBB
+0050#STR0050#BOL#RET. IIBB
+0051#STR0051#ARG#ISENTO
+0051#STR0051#BOL#ISENTO
+0052#STR0052#ARG#TOTAL
+0052#STR0052#BOL#TOTAL
+0053#STR0053#ARG#Totais por Tipo de Documento
+0053#STR0053#BOL#Totais por Tipo de Documento
+0054#STR0054#ARG#Total Faturas            :
+0054#STR0054#BOL#Total Faturas            :
+0055#STR0055#ARG#Total Notas de Debito    :
+0055#STR0055#BOL#Total Notas de Debito    :
+0056#STR0056#ARG#Total Notas de Credito   :
+0056#STR0056#BOL#Total Notas de Credito   :
+0057#STR0057#ARG#Totais Gerais
+0057#STR0057#BOL#Totais Gerais
+0058#STR0058#ARG#Total Geral:
+0058#STR0058#BOL#Total Geral:
+0059#STR0059#ARG#C A N C E L A D A
+0059#STR0059#BOL#C A N C E L A D A
+0060#STR0060#ARG#Sub 
+0060#STR0060#BOL#Sub 
+0061#STR0061#ARG#Totais por Condição Fiscal
+0061#STR0061#BOL#Totais por Condição Fiscal
+0062#STR0062#ARG#Totais por Zona Fiscal
+0062#STR0062#BOL#Totais por Zona Fiscal
+0063#STR0063#ARG#Totais por Tipo de Produto
+0063#STR0063#BOL#Totais por Tipo de Produto
+0064#STR0064#ARG#Livros Fiscais
+0064#STR0064#BOL#Livros Fiscais
+0065#STR0065#ARG#Totalizadores
+0065#STR0065#BOL#Totalizadores
+0066#STR0066#BOL#Serie
+0067#STR0067#ARG#Serie
+0067#STR0067#BOL#Serie
+0068#STR0068#ARG#Filiais Processadas
+0069#STR0069#BOL#Filiais Processadas
+0070#STR0070#ARG#Esta rotina não está mais disponível, utilize a rotina MATRAR1B -  Lib.fis Iva Compra

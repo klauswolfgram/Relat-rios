@@ -1,0 +1,16 @@
+0001#STR0001#ALL#Rastreio De Produto
+0002#STR0002#ALL#Código de barras
+0003#STR0003#ALL#Administração
+0004#STR0004#ALL# Docto.  Carga   Produto            Data    Hr In  Hr Fi  Serviço               Tarefa                Actividade             Recurso Humano        Endereço Origem  Endereço Destino Lote       Sub-lote         Tipo Movto
+0005#STR0005#ALL#                                                                                                                                                  Qtd.movimentos  Saldo No Endereço            Alocação
+0006#STR0006#ALL#A seleccionar endereços...
+0007#STR0007#ALL#Cancelado Pelo Operador
+0008#STR0008#ALL#Relatório de rastreamento da movimentação de produtos
+0011#STR0011#ALL#Hr Fim
+0012#STR0012#ALL#Serviço
+0014#STR0014#ALL#Actividade
+0015#STR0015#ALL#Rechum
+0017#STR0017#ALL#Tp Movto
+0018#STR0018#ALL#Qtde.movtos
+0019#STR0019#ALL#Saldo Morada
+0021#STR0021#ALL#Movimentos por morada

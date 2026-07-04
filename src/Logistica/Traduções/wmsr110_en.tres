@@ -1,0 +1,30 @@
+0001#STR0001#ALL#Search Balance
+0002#STR0002#ALL#Lot
+0003#STR0003#ALL#Series
+0004#STR0004#ALL#Seq./Date
+0005#STR0005#ALL#Date
+0006#STR0006#ALL#Service Order
+0007#STR0007#ALL#Search Type
+0008#STR0008#ALL#Addresses
+0009#STR0009#ALL#SBF Balance
+0010#STR0010#ALL#Requested
+0011#STR0011#ALL#Used
+0012#STR0012#ALL#Message
+0013#STR0013#ALL#*** Product [VAR01] not fully serviced. Remaining Balance: [VAR02]. Attention! The transactions of this SO are reversed.
+0014#STR0014#ALL#Balance RF
+0015#STR0015#ALL#Separation General Parameters
+0016#STR0016#ALL#Single refueling (MV_WMSMABP)?
+0017#STR0017#ALL#Multiple pickings (MV_WMSMULP)?
+0018#STR0018#ALL#New WMS (MV_WMSNEW)?
+0019#STR0019#ALL#Restart single search (MV_WMSQTAP)?
+0020#STR0020#ALL#Consider expired batches (MV_LOTVENC)?
+0021#STR0021#ALL#Limit pickings (MV_WMSNRPO)?
+0022#STR0022#ALL#Enabled
+0023#STR0023#ALL#Disabled
+0024#STR0024#ALL#Product Data
+0025#STR0025#ALL#Fueling Sequence
+0026#STR0026#ALL#Yes
+0027#STR0027#ALL#No
+0028#STR0028#ALL#1st MU
+0029#STR0029#ALL#2nd MU
+0030#STR0030#ALL#Fixed Addresses

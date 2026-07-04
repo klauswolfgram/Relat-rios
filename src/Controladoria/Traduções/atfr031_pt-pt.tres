@@ -1,0 +1,28 @@
+0001#STR0001#PER#FORMATO 7.1:REGISTO DE ACTIVOS FIXOS - DETALHE DOS ACTIVOS
+0002#STR0002#PER#PERÍODO 
+0005#STR0005#PER#Código
+0007#STR0007#PER#activo fixo
+0009#STR0009#PER#Contabilística
+0010#STR0010#PER#do Activo
+0013#STR0013#PER#do Activo
+0016#STR0016#PER#do Activo
+0018#STR0018#PER#Nr. Série
+0020#STR0020#PER#do activo
+0028#STR0028#PER#Liquidações
+0036#STR0036#PER#Valor Histórico
+0037#STR0037#PER#do Activo fixo
+0042#STR0042#PER#Valor ajustado
+0044#STR0044#PER#Activo Fixo
+0048#STR0048#PER#Data de início
+0050#STR0050#PER#Activo Fixo
+0053#STR0053#PER#No. Doc.
+0056#STR0056#PER#Percent.
+0061#STR0061#PER#Exercício Ant.
+0063#STR0063#PER#do Exercício
+0066#STR0066#PER#saques e/ou liquidações
+0084#STR0084#PER#Detalhes do Activo Fixo
+0085#STR0085#PER#Vlr.Reavaliação Efectuada
+0087#STR0087#PER#Vlr.da Depreciação
+0088#STR0088#PER#Vlr.Reavaliação Efectuada
+0090#STR0090#PER#Impressão somente em papel A3. Altere a tipo de papel seleccionado
+0096#STR0096#PER#El tipo de impresión Planilla no se encuentra disponible.

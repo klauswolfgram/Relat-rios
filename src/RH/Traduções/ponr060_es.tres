@@ -1,0 +1,44 @@
+0001#STR0001#ALL#Informe para autorizacion del pago de horas extras
+0002#STR0002#ALL#Se imprimira de acuerdo con los parametros solicitados 
+0003#STR0003#ALL#por el usuario.
+0004#STR0004#ALL#Matricula
+0005#STR0005#ALL#Centro de costo
+0006#STR0006#ALL#Nombre
+0007#STR0007#ALL#Turno
+0008#STR0008#ALL#A Rayas
+0009#STR0009#ALL#Administracion
+0010#STR0011#ALL#Autorizacion del pago de horas extras
+0011#STR0012#ALL#Placa Matrícula       Empleado                Fecha   Cód Descripción            Horas              Visto
+0012#STR0013#ALL#
+0013#STR0014#ALL#
+0014#STR0015#ALL#C.C: 
+0015#STR0016#ALL#    C.C: 
+0016#STR0017#ALL#Sucursal: 
+0017#STR0018#ALL#  Turno: 
+0018#STR0019#ALL#    C.C: 
+0019#STR0020#ALL#C.Costo+Nombre
+0020#STR0021#ALL#Seleccione la opcion de impresion: 
+0021#STR0022#ALL#Por Periodo
+0022#STR0023#ALL#Por Fechas
+0023#STR0024#ALL#Proceso: 
+0024#STR0025#ALL#Periodo:
+0025#STR0026#ALL#Procedim.: 
+0026#STR0027#ALL#Num. Pago: 
+0027#STR0028#ALL#Departamento
+0028#STR0029#ALL#Depto: 
+0029#STR0030#ALL#Empleados
+0030#STR0031#ALL#Desc.Sucursal
+0031#STR0032#ALL#C.Costo
+0032#STR0033#ALL#Tno
+0033#STR0034#ALL#Marcaciones
+0034#STR0035#ALL#Descripcion
+0035#STR0036#ALL#Horas
+0036#STR0037#ALL#Visto
+0037#STR0038#ALL#Este programa emite Informe para Autorizacion del Pago de Horas Extras
+0038#STR0039#ALL#Cod.
+0039#STR0040#ALL#Fecha
+0040#STR0041#ALL#Depto
+0041#STR0042#ALL#Proceso
+0042#STR0043#ALL#Periodo
+0043#STR0044#ALL#Rot
+0044#STR0045#ALL#NP

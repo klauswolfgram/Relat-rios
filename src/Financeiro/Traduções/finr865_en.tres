@@ -1,0 +1,47 @@
+0001#STR0001#ALL#Print the payable bills list which go under Tax Withholding            
+0002#STR0002#ALL#Z.Form 
+0003#STR0003#ALL#Management   
+0004#STR0004#ALL#Per Supplier Code    
+0005#STR0005#ALL#Per Supplier Name  
+0006#STR0006#ALL#The necessary fields for the report printing do not exist!    
+0007#STR0007#ALL#Payable Bills list showing withholding Taxes       
+0008#STR0008#ALL#Code           Supplier Name                  CGC
+0009#STR0009#ALL#     Prf Number      Pt  Type  Issue Date    Original Value          SEST Value          IRFF Value           ISS Value          INSS Value           PIS Value        COFINS Value          CSLL Value       Net Value    
+0010#STR0010#ALL#     Prf Number      Pt  Type  Issue Date    Original Value                              IRRF Value           ISS Value          INSS Value           PIS Value        COFINS Value          CSLL Value       Net Value    
+0011#STR0011#ALL#Selecting Records........
+0012#STR0012#ALL#CANCELLED BY OPERATOR  
+0013#STR0013#ALL#Supplier Total    - 
+0014#STR0014#ALL#Bills  
+0015#STR0015#ALL#Bill  
+0016#STR0016#ALL#Grand total      ----> 
+0017#STR0017#ALL#A=Amounts of PIS, COFINS and CSLL of this bill were withheld in other bill.
+0018#STR0018#ALL#B = Existem impostos com retenção na baixa que ainda não foram retidos.
+0019#STR0019#ALL#C = Records relating to the invoice are not included in the totallers. 
+0020#STR0020#ALL#Code  
+0021#STR0021#ALL#Stor
+0022#STR0022#ALL#Supplier  
+0023#STR0023#ALL#CGC
+0024#STR0024#ALL#Prf
+0025#STR0025#ALL#Number
+0026#STR0026#ALL#Pc
+0027#STR0027#ALL#Type
+0028#STR0028#ALL#IssueDt
+0029#STR0029#ALL#Due Dt
+0030#STR0030#ALL#Amnt. 
+0031#STR0031#ALL#Original
+0032#STR0032#ALL#SEST
+0033#STR0033#ALL#IRRF
+0034#STR0034#ALL#ISS
+0035#STR0035#ALL#INSS
+0036#STR0036#ALL#PIS
+0037#STR0037#ALL#COFINS
+0038#STR0038#ALL#CSLL
+0039#STR0039#ALL#Net    
+0040#STR0040#ALL#Total amounts 
+0041#STR0041#ALL# These values are not considered in this report totalization.
+0042#STR0042#ALL#Branch Total
+0043#STR0043#ALL#When question Filter Codes of Retention? is answered as Yes, at least one retention code must be selected.
+0044#STR0044#ALL#Selected Retention Codes: 
+0045#STR0045#ALL#Increase
+0046#STR0046#ALL#Decrease
+0047#STR0047#ALL#D = Pis, Cofins and Csll values of this bill come from a clearance. 

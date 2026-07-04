@@ -1,0 +1,38 @@
+0002#STR0002#ALL#A Visualizar, Aguarde...
+0003#STR0003#ALL#Aprovação De Peça De Produção
+0004#STR0004#ALL#Resultados Dos Ensaios De Materiais
+0005#STR0005#ALL#Ppap Nº.
+0006#STR0006#ALL#Página :
+0008#STR0008#ALL#Número Da Peça(cliente)
+0009#STR0009#ALL#Revisão/data Desenho
+0010#STR0010#ALL#Laboratório
+0011#STR0011#ALL#Número/rev Peça(fornecedor)
+0012#STR0012#ALL#Nome Da Peça
+0013#STR0013#ALL#Nº. Caract.
+0015#STR0015#ALL# teste 
+0016#STR0016#ALL#Número da especificação do
+0017#STR0017#ALL#Material/data/especificação
+0019#STR0019#ALL# esp  
+0020#STR0020#ALL#Resultados Dos Ensaios
+0022#STR0022#ALL#Não
+0023#STR0023#ALL#Assinatura Do Fornecedor
+0026#STR0026#ALL#Assinatura Do Cliente
+0027#STR0027#ALL#Sequência: 
+0028#STR0028#ALL#Deseja imprimir código/descrição característica ?
+0029#STR0029#ALL#Característica
+0030#STR0030#ALL#Código/descrição Característica
+0031#STR0031#ALL#Código Vendedor
+0033#STR0033#ALL#Nível De Alteração Do Projecto
+0034#STR0034#ALL#Documentos Alterados Pela Engenharia
+0036#STR0036#ALL# nº 
+0037#STR0037#ALL#Caráct.
+0038#STR0038#ALL#Especificação
+0039#STR0039#ALL#    limites  
+0040#STR0040#ALL# freq. 
+0041#STR0041#ALL# teste 
+0042#STR0042#ALL#  qtd.  
+0043#STR0043#ALL#  ens. 
+0044#STR0044#ALL#Declarações de conformidade não são aceites para qualquer resultado de teste.
+0050#STR0050#ALL#Não será possível criar a listagem de ensaio de materiais, pois existem alguns campos que precisam de ser 
+0051#STR0051#ALL#Criados de acordo com o boletim técnico do ppap - adequação do ambiente ppap a 4ª edição.  Caso queira 
+0053#STR0053#ALL#Nº Especificação/revisão/data

@@ -1,0 +1,35 @@
+0001#STR0001#ALL#Este relatório irá imprimir as aquisições por transf. 
+0002#STR0002#ALL#Dentro dos parâmetros especificados
+0003#STR0003#ALL#Aquisições Por Transf.
+0004#STR0004#ALL#Aquis Por Transferência
+0005#STR0005#ALL# data 
+0006#STR0006#ALL#Cód. base  elemento  descrição                           dt. aquis   núm. empregado   c.custo    conta                 descrição conta          
+0007#STR0007#ALL#                                             *** moeda 1 ***   *** moeda 2 ***   *** moeda 3 ***   *** moeda 4 ***   *** moeda 5 ***
+0008#STR0009#ALL#A Organizar Arquivo
+0009#STR0010#ALL#Itens De Origem
+0010#STR0011#ALL#  -  movimento nº 
+0011#STR0012#ALL#  -  data: 
+0012#STR0013#ALL#Itens De Destino
+0013#STR0014#ALL#Valor original         --->
+0014#STR0015#ALL#Depreciação acumulada  --->
+0015#STR0016#ALL#Correcção               --->
+0017#STR0018#ALL#Total movimentado no dia 
+0018#STR0019#ALL#Total (itens origem) valor original   --->
+0019#STR0020#ALL#Total (itens origem) deprecia. acumulada  --->
+0020#STR0021#ALL#Total (itens origem) correcção         --->
+0021#STR0022#ALL#Total (itens origem) residual         --->
+0022#STR0023#ALL#Total (elementos destino) valor original  --->
+0023#STR0024#ALL#Total (elementos destino) depr. acumulada --->
+0024#STR0025#ALL#Total (elementos destino) correcção        --->
+0025#STR0026#ALL#Total (elementos destino) residual        --->
+0026#STR0027#ALL#Desc. Valor
+0028#STR0029#ALL#Origem/destino
+0029#STR0030#ALL#Texto Da Data
+0030#STR0031#ALL#Dados Do Activo
+0031#STR0032#ALL#*** moeda 1 ***
+0032#STR0033#ALL#*** moeda 2 ***
+0033#STR0034#ALL#*** moeda 3 ***
+0034#STR0035#ALL#*** moeda 4 ***
+0035#STR0036#ALL#*** moeda 5 ***
+0037#STR0038#ALL#B - Desvalorização Acumulada
+0038#STR0039#ALL#C - Correcção

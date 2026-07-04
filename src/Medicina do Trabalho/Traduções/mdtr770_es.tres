@@ -1,0 +1,17 @@
+0001#STR0001#ALL#Informe de los empleados con estabilidad en un determinado periodo.
+0002#STR0002#ALL#Segun la NR-5, un empleado miembro de la CIPA tiene estabilidad
+0003#STR0003#ALL#de la fch. de su candid. a 1 ano desp. del fin del mandato
+0004#STR0004#ALL#A rayas
+0005#STR0005#ALL#Administrac.
+0006#STR0006#ALL#Estabil. en el periodo
+0007#STR0007#ALL#¿De Empleado?
+0008#STR0008#ALL#¿A Empleado?
+0009#STR0009#ALL#¿De Func.?
+0010#STR0010#ALL#¿A Funcion?
+0011#STR0011#ALL#¿De Centro costo?
+0012#STR0012#ALL#¿A Centro de costo ?
+0013#STR0013#ALL#¿De Fch.?
+0014#STR0014#ALL#¿A Fecha ?
+0015#STR0015#ALL#Mat.    Nombre                          Centro de costo          Funcion                      Mandat. Fch. Fin. Periodo Estabilidad 
+0016#STR0016#ALL#ANULADO POR EL OPERADOR
+0017#STR0017#ALL#De acuerdo con la NR-31, un empleado miembro de CIPATR tiene estabilidad

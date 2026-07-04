@@ -1,0 +1,27 @@
+0001#STR0001#ALL#Holdovers of Installed Base
+0002#STR0002#ALL#This report will show the Installed Base
+0003#STR0003#ALL# holdovers list
+0004#STR0004#ALL#
+0005#STR0005#ALL#Z.Form 
+0006#STR0006#ALL#Management   
+0007#STR0007#ALL#CANCELLED BY THE OPERATOR  
+0008#STR0008#ALL#                    HOLDOVER                       OCCUR.   OCCURRENCY DESCRIPT.            DATE      SITUATION   POST. DATE
+0009#STR0009#ALL#                    HOLDOVER                       OCCUR.   OCCURRENCY DESCRIPT.            CUSTOM.CODE       CUSTOMER NAME                   SITUATION    POST. DATE
+0010#STR0010#ALL#                EQUIP.CODE        EQUIPMENT NAME                MANUFACTURER        UNIT MANU  HOLDOVER                       OCCUR.   OCCURRENCY DESCRIPTION          SITUATION   POST. DATE
+0011#STR0011#ALL#Customer => 
+0012#STR0012#ALL#Date => 
+0013#STR0013#ALL#Equipment => 
+0014#STR0014#ALL# - Unit Manu: 
+0015#STR0015#ALL#- Serial # : 
+0016#STR0016#ALL#Details:
+0017#STR0017#ALL# - Break
+0018#STR0018#ALL#Customer & Equipment
+0019#STR0019#ALL#Customer & Date
+0020#STR0020#ALL#Date & Customer
+0021#STR0021#ALL#Date & Equipment
+0022#STR0022#ALL#Undecided
+0023#STR0023#ALL#Posted
+0024#STR0024#ALL#Custom./St
+0025#STR0025#ALL#Custom.
+0026#STR0026#ALL#Equipment  
+0027#STR0027#ALL#Pending data   

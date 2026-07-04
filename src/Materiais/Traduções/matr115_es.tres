@@ -1,0 +1,10 @@
+0001#STR0001#ALL#Control de entrega de las Solicitudes al Depos.
+0002#STR0002#ALL# Este informe lista la posicion de los requerimientos previos generados por las
+0003#STR0003#ALL#solicitudes al deposito segun los parametros elegidos.
+0004#STR0005#ALL#A Rayas
+0005#STR0006#ALL#Administracion
+0006#STR0007#ALL#ANULADO POR EL OPERADOR
+0007#STR0008#ALL#Numero   Sec.   Codigo            Descripcion                      Necesidad          Cantidad       Ctd. Disponible     Numero SC    Numero Pedido          Centro de Costo    Solicitante
+0008#STR0009#ALL#Items de Solic. Prev.
+0009#STR0010#ALL#Numero   Sec.   Codigo                           Descripc.                        Necesidad          Cantidad       Cant. Disponib.     Numero SC    Numero Pedido         Centro de Costo    Solicitante
+0010#STR0011#ALL#Documentos

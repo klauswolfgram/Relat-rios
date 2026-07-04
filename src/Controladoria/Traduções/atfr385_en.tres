@@ -1,0 +1,10 @@
+0001#STR0001#ALL#Function available for TopConnect environments only
+0002#STR0002#ALL#Function available for TReport only, please update environment and check MV_TREPORT parameter
+0003#STR0003#ALL#To use this process, you must first run the function U_UPDATEF. Please, update the environment
+0004#STR0004#ALL#PROCESS ADJUSTMENT REPORT POSITIVE/NEGATIVE CORPORATE VALUE
+0005#STR0005#ALL#ADJUSTMENT PROCESSES 
+0006#STR0006#ALL#Assets to Adjust
+0007#STR0007#ALL#Branch / Process: 
+0008#STR0008#ALL#Process Total: 
+0009#STR0009#ALL#Branch: 
+0010#STR0010#ALL#Branch Total: 

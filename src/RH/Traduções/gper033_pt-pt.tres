@@ -1,0 +1,24 @@
+0002#STR0002#ALL#C.custo
+0004#STR0004#ALL#Folha De C+alculo De Afps
+0005#STR0005#ALL#Afp : 
+0006#STR0006#ALL#Emissão da folha de cálculo de pagamento de quotizações previsionais e depósitos voluntários.
+0007#STR0007#ALL#Será impresso de acordo com os parâmetros requeridos por
+0008#STR0008#ALL#El utilizador.
+0009#STR0009#ALL#A Rayas
+0011#STR0011#ALL#Emissão Do Livro De Remunerações
+0014#STR0014#ALL#Detalhe De Cotizações Previsionais
+0015#STR0015#ALL#NIB empregador : 
+0016#STR0016#ALL#Nome o razão social : 
+0017#STR0017#ALL#       Montante   Quotização   Quotização    Conta De Data      Data     NIB Entidade
+0018#STR0018#ALL#Código NIB            nome                       tributável  obrigatória   voluntária       poupança início     término   pagadora   
+0019#STR0019#ALL#Total página    :
+0020#STR0020#ALL#Total acumulado :
+0021#STR0021#ALL#TOtal imponentes : 
+0022#STR0022#ALL#Base Imponível
+0023#STR0023#ALL#Cotização Obrigatória
+0024#STR0024#ALL#Quotização Voluntária
+0025#STR0025#ALL#Conta De Aforro
+0026#STR0026#ALL#Quotização A Pagar
+0027#STR0027#ALL#Total Imponentes
+0028#STR0028#ALL#Folha De Cálculo De Pagamento De Quotizações Previsionais E Depósitos Voluntários
+0029#STR0029#ALL#Lugar de integração previsional

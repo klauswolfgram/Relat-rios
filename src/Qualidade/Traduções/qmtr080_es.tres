@@ -1,0 +1,21 @@
+0001#STR0001#ALL#Este programa emite el informe de referencia
+0002#STR0002#ALL#cruzada entre estandares e instrumentos
+0003#STR0003#ALL#Ref. Cruzada: Estand. vs. Instrumento
+0004#STR0004#ALL#Estand.          Rev Descripcion                    Escala           Instrumento      Rev Familia          Dpto.          Usuario
+0005#STR0005#ALL#A Rayas
+0006#STR0006#ALL#Administracion
+0007#STR0007#ALL#ANULADO POR EL OPERADOR
+0008#STR0008#ALL#Seleccionando Registros. . .
+0009#STR0009#ALL#LEYENDA RESPONSABLE/DEPARTAMENTO
+0010#STR0010#ALL#Codigo            Nombre                                   N.Reduc
+0011#STR0011#ALL#Codigo            Departamento
+0012#STR0012#ALL#Codigo
+0013#STR0013#ALL#Nomb
+0014#STR0014#ALL#N. Reduc
+0015#STR0015#ALL#Departamento
+0016#STR0016#ALL#Rev
+0017#STR0017#ALL#Rango
+0018#STR0018#ALL#Estand. vs. Instrum.
+0019#STR0019#ALL#Leyenda
+0020#STR0020#ALL#Leyenda - Usuarios
+0021#STR0021#ALL#Leyenda - Departamentos

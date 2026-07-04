@@ -1,0 +1,50 @@
+0001#STR0001#ALL#Loading Analysis Report             
+0002#STR0002#ALL#This program will issue the contract daily report  
+0003#STR0003#ALL#according to the parameters chosen                  
+0004#STR0004#ALL#by the user.    
+0005#STR0005#ALL#Z.form
+0006#STR0006#ALL#Management
+0007#STR0007#ALL#BRANCH   TYPE  BRANCH   BRANCH    NUMBER      QTTY   ------------------WEIGHT------------------    PERC   ---------FREIGHT----------   --------TRUCKING --------    PERC
+0008#STR0008#ALL#ORIGIN         DESTIN.  UNLOADING MANIFEST    CTRCs     ACTU. DIRECT FRACTIONED  CHARGED   PAID    USED         DIRECT    FRACTIONED        DIRECT    FRACTIONED    USED
+0009#STR0009#ALL#CANCELED BY OPERATOR 
+0010#STR0010#ALL#Trip Branch   : 
+0011#STR0011#ALL#Trip :   
+0012#STR0012#ALL#Vehicle :
+0013#STR0013#ALL#  Plate : 
+0014#STR0014#ALL#    1st Tow :    
+0015#STR0015#ALL#    2nd Tow :    
+0016#STR0016#ALL#Total:
+0017#STR0017#ALL#Branch:
+0018#STR0018#ALL#Gener:
+0019#STR0019#ALL#Type: 
+0020#STR0020#ALL#Remarks:     
+0021#STR0021#ALL#Cargo type 'P' = Processed     
+0022#STR0022#ALL#Cargo type 'R' = Reprocessed     
+0023#STR0023#ALL#Report of Shipment Analysis
+0024#STR0024#ALL#This program prints the report of shipment analysis according to the parameters selected by the user.
+0025#STR0025#ALL#Trip Bra. + Trip
+0026#STR0026#ALL#Trip
+0027#STR0027#ALL#Vehicles
+0028#STR0028#ALL#Description
+0029#STR0029#ALL#Vehicle
+0030#STR0030#ALL#Type
+0031#STR0031#ALL#Plate
+0032#STR0032#ALL#1st Tow
+0033#STR0033#ALL#2nd Tow
+0034#STR0034#ALL#Origin Bra.
+0035#STR0035#ALL#Type
+0036#STR0036#ALL#Destin. Bra
+0037#STR0037#ALL#Unload Bran.
+0038#STR0038#ALL#Manifest
+0039#STR0039#ALL#Num. CTRC
+0040#STR0040#ALL#Actual Weight
+0041#STR0041#ALL#Direct Weight
+0042#STR0042#ALL#Frac. Weight
+0043#STR0043#ALL#Weight Charged
+0044#STR0044#ALL#Weight Paid
+0045#STR0045#ALL#Direct Frt
+0046#STR0046#ALL#Frac Freight
+0047#STR0047#ALL#Direct Carr.
+0048#STR0048#ALL#Frac. Carr.
+0049#STR0049#ALL#Branch
+0050#STR0050#ALL#3rd. Tow

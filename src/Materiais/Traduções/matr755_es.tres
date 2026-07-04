@@ -1,0 +1,71 @@
+0001#STR0001#ALL#Este Informe mostrara las cantidades de las ventas (consumos) 
+0002#STR0002#ALL#de los productos en el Stock por region del cliente. 
+0003#STR0003#ALL#Este informe debera imprimirse en formulario de 132 columnas.
+0004#STR0004#ALL# Por % de participacion
+0005#STR0005#ALL# Por codigo (numerico)
+0006#STR0006#ALL#Curva ABC del Stock
+0007#STR0007#ALL#A Rayas
+0008#STR0008#ALL#Administracion
+0009#STR0009#ALL#Seleccionando Registros...
+0010#STR0010#ALL# - ORDEN DE % DE PARTICIPACION
+0011#STR0011#ALL# - ORDEN DE CODIGO (NUMERICO)
+0012#STR0012#ALL#Numero de la pieza C denominacion                      Valor Unitario % Part % Acum
+0013#STR0013#ALL#ANULADO POR EL OPERADOR
+0014#STR0014#ALL#Region : 
+0015#STR0015#ALL#Ene
+0016#STR0016#ALL#Feb
+0017#STR0017#ALL#Mar
+0018#STR0018#ALL#Abr
+0019#STR0019#ALL#May
+0020#STR0020#ALL#JUN
+0021#STR0021#ALL#Jul
+0022#STR0022#ALL#Ago
+0023#STR0023#ALL#Sep
+0024#STR0024#ALL#Oct
+0025#STR0025#ALL#Nov
+0026#STR0026#ALL#Dic
+0027#STR0027#ALL#    C.M.M.  Tot.Cons.
+0028#STR0028#ALL#Sucursal : 
+0029#STR0029#ALL#Total General de la Region  : 
+0030#STR0030#ALL#Total General de la Sucursal: 
+0031#STR0031#ALL#Total General de la Empresa : 
+0032#STR0032#ALL# Por region + %de participacion
+0033#STR0033#ALL# - ORDEN DE REGION + % DE PARTICIPACION
+0034#STR0034#ALL#Informe para mostrar las cantidades de ventas (consumos) de 
+0035#STR0035#ALL#productos en stock por region del cliente. 
+0036#STR0036#ALL#Debera imprimirse este informe en formulario con 132 columnas.
+0037#STR0037#ALL#Valor Unitario
+0038#STR0038#ALL#% Part
+0039#STR0039#ALL#% Acum
+0040#STR0040#ALL#C.M.M.
+0041#STR0041#ALL#Tot.Cons.
+0042#STR0042#ALL#Por % de Participacion
+0043#STR0043#ALL#Por Codigo (Numerica)
+0044#STR0044#ALL#Por Region + %Participacion
+0045#STR0045#ALL#Curva ABC de Stock
+0046#STR0046#ALL# - ORDEN DE % DE PARTICIPACION	
+0047#STR0047#ALL#Seleccionando Registros...	
+0048#STR0048#ALL# - ORDEN DE CODIGO (NUMERICA)	
+0049#STR0049#ALL# - ORDEN DE REGION + % DE PARTICIPACION
+0050#STR0050#ALL#Total General de la Sucursal: 	
+0051#STR0051#ALL#Nombre de la Region
+0052#STR0052#ALL#Porcentaje
+0053#STR0053#ALL#Ene
+0054#STR0054#ALL#Feb
+0055#STR0055#ALL#Mar
+0056#STR0056#ALL#Abr
+0057#STR0057#ALL#May
+0058#STR0058#ALL#Jun
+0059#STR0059#ALL#Jul
+0060#STR0060#ALL#Ago
+0061#STR0061#ALL#Sep
+0062#STR0062#ALL#Oct
+0063#STR0063#ALL#Nov
+0064#STR0064#ALL#Dic
+0065#STR0065#ALL#Clase
+0066#STR0066#ALL#Sucursal: 
+0067#STR0067#ALL#Region: 
+0068#STR0068#ALL#Porcentaje: 
+0069#STR0069#ALL#Acum. Mensuales   
+0070#STR0070#ALL#Prod. 
+0071#STR0071#ALL#Valores

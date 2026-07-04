@@ -1,0 +1,69 @@
+0001#STR0001#ALL#El objetivo de este progr. es imprimir el archivo
+0002#STR0002#ALL#Retorno de la Comunicacion Bancaria, segun layout 
+0003#STR0003#ALL#configurado previamente.
+0004#STR0004#ALL#Impres. del retorno de la comunic. bancaria
+0005#STR0005#ALL#A Rayas
+0006#STR0006#ALL#Administrac.
+0007#STR0007#ALL#Por Numero
+0008#STR0008#ALL#Por Modalid.
+0009#STR0009#ALL#Por Vencmnto.
+0010#STR0010#ALL#Por Banco
+0011#STR0011#ALL#Proveedor
+0012#STR0012#ALL#Por Emision
+0013#STR0013#ALL#Por Cod Provee.
+0014#STR0014#ALL#Nº Titulo           Cli/Pro   Ocurrencia               Fc.Ocur. Val Original  Val Cobrado    Desp. Cobr.  Val Descuento  Val Deducc.    Val Inter.   Val IOF  Otr Cred. Fc.Cred.   Nº Titulo Bco   Consistencia
+0015#STR0015#ALL#OCURRENCIA NO ENVIADA
+0016#STR0016#ALL#OCURRENCIA NO ENCONTRADA
+0017#STR0017#ALL#NUMERO TITULO NO ENVIADO
+0018#STR0018#ALL#TITULO NO ENCONTRADO
+0019#STR0019#ALL#FECHA DE BAJA NO ENVIADA
+0020#STR0020#ALL#ESPECIE NO ENVIADA
+0021#STR0021#ALL#ESPECIE NO ENCONTRADA
+0022#STR0022#ALL#TITULO OK
+0023#STR0023#ALL#TOTALES DEL INFORME
+0024#STR0024#ALL#Nº Titulo           Cli/Pro   Ocurrencia               Fc.Ocur. Val Original      Val Pagado Desp. Cobr.  Val Descuento  Val Deducc.    Val Inter        Nº Titulo Bco       Consistencia
+0025#STR0025#ALL#VALOR RECIBIDO A MAS
+0026#STR0026#ALL#FCH MENOR QUE FCH FINANCIERA
+0027#STR0027#ALL#SUBTOTALES POR OCURRENCIA
+0028#STR0028#ALL#DADO DE BAJA ANTERIO. - TOTAL
+0029#STR0029#ALL#DADO DE BAJA ANTERIOR.- PARCIAL
+0030#STR0030#ALL#TITULO OK
+0031#STR0031#ALL#Nº Titulo
+0032#STR0032#ALL#Cli/Pro
+0033#STR0033#ALL#Ocurrencia
+0034#STR0034#ALL#Fch Ocur
+0035#STR0035#ALL#Vlr Original
+0036#STR0036#ALL#Vlr Cobrado
+0037#STR0037#ALL#Vlr Pago
+0038#STR0038#ALL#Gast. Cobr.
+0039#STR0039#ALL#Vlr Descto.
+0040#STR0040#ALL#Vlr Descto.
+0041#STR0041#ALL#Vlr Inter
+0042#STR0042#ALL#Vlr IOF
+0043#STR0043#ALL#Nº Titulo Bco
+0044#STR0044#ALL#Otr Creditos
+0045#STR0045#ALL#Fch Cred
+0046#STR0046#ALL#Consistencia
+0047#STR0047#ALL#Titulos p. cobrar
+0048#STR0048#ALL#Subtot.
+0049#STR0049#ALL#No fue posible copiar el archivo de entrada para el servidor. El archivo se procesará a partir de la máquina local, para un mejor desempeno, copie el archivo directamente en el servidor.
+0050#STR0050#ALL#VAL COB SUPERIOR
+0051#STR0051#ALL#VAL COB INFERIOR
+0052#STR0052#ALL#VAL PAGADO SUPERIOR
+0053#STR0053#ALL#VAL PAGADO INFERIOR
+0054#STR0054#ALL#ANULADO POR EL OPERADOR
+0055#STR0055#ALL#TITULO RECHAZADO
+0056#STR0056#ALL#Archivo no se encontró
+0057#STR0057#ALL#El archivo
+0058#STR0058#ALL#Informado en el camino
+0059#STR0059#ALL#no se encontró. Por favor, verifique.
+0060#STR0060#ALL#El uso de la pregunta ‘¿Configuración CNAB?' = Modelo PIX solamente se permite para la cartera Cobrar.
+0061#STR0061#ALL#Para utilizar la cartera Pagar, utilice la opción Modelo 1 o Modelo 2.
+0062#STR0062#ALL#La pregunta ‘¿Configuración CNAB?' fue definida como 'Modelo 1' y el archivo de configuración es 'Modelo 2'.
+0063#STR0063#ALL#Para utilizar este layout, ajuste la pregunta ‘¿Configuración CNAB?' a 'Modelo 2'.
+0064#STR0064#ALL#La pregunta ‘¿Configuración CNAB?' fue definida como 'Modelo 2' y el archivo de configuración es 'Modelo 1' o 'Modelo PIX'.
+0065#STR0065#ALL#Para utilizar este layout, ajuste la pregunta ‘¿Configuración CNAB?' de acuerdo con el tipo de layout 'Modelo 1' o 'Modelo PIX'.
+0066#STR0066#ALL#Para generar el informe con layout de cobranza PIX, parametrice la pregunta ‘¿Configuración CNAB?' con el contenido 'Modelo PIX'.
+0067#STR0067#ALL#La subcuenta definida en los parámetros tiene el Número de bytes (EE_NRBYTES) diferente de 750.
+0068#STR0068#ALL#Para la utilización del informe con layout PIX es necesario configurar en el archivo de Parámetros bancos (FINA130) el campo Número bytes (EE_NRBYTES) = 750
+0069#STR0069#ALL#Estructura del archivo de configuración para procesamiento de los archivos de devolución pix incorrecta.

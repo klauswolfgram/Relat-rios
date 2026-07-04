@@ -1,0 +1,13 @@
+0001#STR0001#ALL#Este Programa Irá Emitir O Plano De Repe/repro Dos Instrumentos
+0002#STR0002#ALL#Familia          Instrumento      Rev. Depart.  Responsavel          Dias  Fabricante     Orgao Calibrador Sg  |p.  R.  |p.  R.  |p.  R.  |p.  R.  |p.  R.  |p.  R.  |p.  R.  |p.  R.  |p.  R.  |p.  R.  |p.  R.  |p.  R.
+0003#STR0003#ALL#Código de barras
+0004#STR0004#ALL#Administração
+0005#STR0005#ALL#Plano De Repe/repro
+0006#STR0006#ALL#Familia+instr.+depto.
+0007#STR0007#ALL#Familia+depto.+instr.
+0008#STR0008#ALL#Depto.+instr.+familia
+0009#STR0009#ALL#Cancelado Pelo Operador
+0010#STR0010#ALL#                                                                     freq.                                     |
+0020#STR0020#ALL#Nov
+0024#STR0024#ALL#Sg
+0029#STR0029#ALL#Orgão Calibrador

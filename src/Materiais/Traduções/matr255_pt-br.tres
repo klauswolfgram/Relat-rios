@@ -1,0 +1,28 @@
+0001#STR0001#ALL#Posicao Detalhada do Estoque por Endereco
+0002#STR0002#ALL#Neste relatorio e possivel obter uma posicao de quantidade por
+0003#STR0003#ALL#produto/lote/endereco/status, o que permite o mapeamento perfeito
+0004#STR0004#ALL#de cada ENDERECO.
+0005#STR0005#ALL# Armazem + Grupo + Produto 
+0006#STR0006#ALL# Produto + Armazem 
+0007#STR0007#ALL#Zebrado
+0008#STR0008#ALL#Administracao
+0009#STR0009#ALL#Criando Indice ...
+0010#STR0010#ALL#Selecionando Registros ...
+0011#STR0011#ALL#LOTE        SUB-LOTE    EXPIRACAO   ENDERECO         NUMERO DE SERIE       DO    ENDERECO             OBSERVACAO                     UM      QUANTIDADE       EMPENHADO       BLOQUEADO      DISPONIVEL   AMZ  GRUPO
+0012#STR0012#ALL#LOTE        SUB-LOTE    EXPIRACAO   ENDERECO         NUMERO DE SERIE       DO    ENDERECO             OBSERVACAO                     UM      QUANTIDADE       EMPENHADO       BLOQUEADO      DISPONIVEL   
+0013#STR0013#ALL#CANCELADO PELO OPERADOR
+0014#STR0014#ALL#ARMAZEM:
+0015#STR0015#ALL#Nao classificados
+0016#STR0016#ALL#TOTAL DO PRODUTO :
+0017#STR0017#ALL#                         DATA DA                                                 SITUACAO
+0018#STR0018#ALL#Produto:
+0019#STR0019#ALL#Descricao:
+0020#STR0020#ALL#Lotes Bloqueados 
+0021#STR0021#ALL#Descricao
+0022#STR0022#ALL#Bloqueado
+0023#STR0023#ALL#Disponivel
+0024#STR0024#ALL#Bloqueio
+0025#STR0025#ALL#Detalhes do Produto
+0026#STR0026#ALL#Saldos por Endereço
+0027#STR0027#ALL#Bloqueio de Lotes
+0028#STR0028#ALL#Total do Produto

@@ -1,0 +1,35 @@
+0002#STR0002#ALL#Sera analisado o mês de referência da data base
+0003#STR0003#ALL#Código de barras
+0004#STR0004#ALL#Administração
+0005#STR0005#ALL#Mapa comparativo - valores orçamentados x reais em 
+0006#STR0006#ALL#Cód. Natureza    Descrição
+0007#STR0007#ALL#A realizar          realizado              orçamentado              %   
+0008#STR0008#ALL#A Seleccionar Registos...
+0010#STR0010#ALL#[ totais no mês ]
+0014#STR0014#ALL#A realizar  : 
+0017#STR0017#ALL#[ totais - orçamentados ]
+0018#STR0018#ALL#A receber   : 
+0019#STR0019#ALL#A pagar     : 
+0021#STR0021#ALL#[ comparativo - orçamentado / euros ]
+0022#STR0022#ALL#A realizar...:
+0024#STR0024#ALL# (  devedor   )
+0025#STR0025#ALL# (   credor   )
+0026#STR0026#ALL#Acumulado          acumulado            acumulado            %
+0027#STR0027#ALL#A Realizar (d)     Realizado (e)        Orçamentado(f)    (d+e)/f    E/f
+0028#STR0028#ALL#[ totais acumulados ]
+0029#STR0029#ALL#Orçamentado      : 
+0030#STR0030#ALL#   (a)                 (b)                (c)        (a+b)/c    B/c
+0031#STR0031#ALL#Mês
+0033#STR0033#ALL#Cód Natureza
+0037#STR0037#ALL#Orçamentado
+0040#STR0040#ALL#(a)
+0041#STR0041#ALL#(b)
+0042#STR0042#ALL#(c)
+0043#STR0043#ALL#(a+b)/c    B/c
+0044#STR0044#ALL#A realizar (d)
+0045#STR0045#ALL#Realizado (e)
+0046#STR0046#ALL#Orçamentado(f)
+0047#STR0047#ALL#(d+e)/f    E/f
+0051#STR0051#ALL#Orçamentado
+0052#STR0052#ALL#Totais no mês
+0055#STR0055#ALL#Mapa Comparativo - Valores Orçados x Reais 		

@@ -1,0 +1,41 @@
+0001#STR0001#ALL#C.Custo + Matricula 
+0002#STR0002#ALL#C.Custo + Nome
+0003#STR0003#ALL#C.Custo + Funçäo
+0004#STR0004#ALL#Relaçäo de Cargos e Salários.
+0005#STR0005#ALL#Será impresso de acordo com os parametros solicitados pelo
+0006#STR0006#ALL#usuario.
+0007#STR0007#ALL#Zebrado
+0008#STR0008#ALL#Administraçäo
+0009#STR0009#ALL#RELAÇÄO DE CARGOS E SALARIOS
+0010#STR0010#ALL#FI  MATRIC NOME                           ADMISSAO   FUNCAO                         MAO DE     SALARIO   PERC.   PERC.   PERC.
+0011#STR0011#ALL#                                                                                      OBRA      NOMINAL  C.CUSTO  FILIAL  EMPRESA
+0012#STR0012#ALL#RELACAO DE CARGOS E SALARIOS 
+0013#STR0013#ALL#(C.CUSTO + MATRICULA)
+0014#STR0014#ALL#(C.CUSTO + NOME)
+0015#STR0015#ALL#(C.CUSTO + FUNCAO)
+0016#STR0016#ALL#Selecionando Registros...
+0017#STR0017#ALL#TOTAL CENTRO DE CUSTO: 
+0018#STR0018#ALL# QTDE.:
+0019#STR0019#ALL#TOTAL DA FILIAL: 
+0020#STR0020#ALL#QTDE.:
+0021#STR0021#ALL#TOTAL DO CENTRO DE CUSTO  
+0022#STR0025#ALL#TOTAL DA EMPRESA  
+0023#STR0026#ALL#QTDE.:
+0024#STR0027#ALL#DIR
+0025#STR0028#ALL#IND
+0026#STR0029#ALL#Nome
+0027#STR0030#ALL#Matricula
+0028#STR0031#ALL#Funçäo
+0029#STR0034#ALL#(NOME)
+0030#STR0035#ALL#(MATRICULA)
+0031#STR0036#ALL#(FUNCAO)
+0032#STR0037#ALL#Este programa emite Relação de Cargos e Salários.
+0033#STR0038#ALL#Salário Nominal
+0034#STR0039#ALL#% C.Custo
+0035#STR0040#ALL#% Filial
+0036#STR0041#ALL#% Empresa
+0037#STR0042#ALL#Funcionarios
+0038#STR0043#ALL#MATRICULA       NOME                           ADMISSAO   FUNCAO                     MAO DE     SALARIO   PERC.   PERC.   PERC.
+0039#STR0044#ALL#FILIAL: 
+0040#STR0045#ALL#Filial
+0041#STR0046#ALL#Devido ao seu modelo, para o Tipo de Planilha em Formato de Tabela, o Relatório de Cargos e Salários no modo Sintético é apresentado em branco! Favor escolher outro formato de Impressão.

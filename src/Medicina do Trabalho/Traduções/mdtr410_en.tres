@@ -1,0 +1,105 @@
+0001#STR0001#ALL#Presentation report of questionnaire and its answers and summary    
+0002#STR0002#ALL#with statistics of answers from the selectd matter                  
+0003#STR0003#ALL#Option available through the parameter button.   
+0004#STR0004#ALL#Z. Form
+0005#STR0005#ALL#Management
+0006#STR0006#ALL#Medical Questionnaire
+0007#STR0007#ALL#Enrollment  Employee Name                        Gender       Hiring   Age
+0008#STR0008#ALL#Quest. Question Description                                         Answer. Dt.Answer  Amount Complement
+0009#STR0009#ALL#CANCELED by OPERATOR
+0010#STR0010#ALL#Male
+0011#STR0011#ALL#Female
+0012#STR0012#ALL#Yes
+0013#STR0013#ALL#No
+0014#STR0014#ALL#Questionnaire Resume - 
+0015#STR0015#ALL#Total employees or candidates searched:          
+0016#STR0016#ALL#Qst.  Quest. Description Descr.                                                     Yes         No  No Answer
+0017#STR0017#ALL#From Medical Form?
+0018#STR0018#ALL#To Medical Form?
+0019#STR0019#ALL#Customer?
+0020#STR0020#ALL#Unit
+0021#STR0021#ALL#Customer code.
+0022#STR0022#ALL#Customer unit.
+0023#STR0023#ALL#No data to print in the report.
+0024#STR0024#ALL#Customer/Unit: 
+0025#STR0025#ALL#Quest. Question Description                                                                                                                                      Answer Dt.Answer  Amount Complement
+0026#STR0026#ALL#Per.  Description Question                                                     Yes         No  No Answer
+0027#STR0027#ALL#IDENTIFICATION
+0028#STR0028#ALL#Name
+0029#STR0029#ALL#Function
+0030#STR0030#ALL#Cost Center
+0031#STR0031#ALL#Age
+0032#STR0032#ALL#Gender
+0033#STR0033#ALL#Questionnaire Date
+0034#STR0034#ALL#Admission Date
+0035#STR0035#ALL#Physical Test
+0036#STR0036#ALL#Vital Signs
+0037#STR0037#ALL#PA
+0038#STR0038#ALL#Antopometric Measures
+0039#STR0039#ALL#Weight
+0040#STR0040#ALL#KG
+0041#STR0041#ALL#Height
+0042#STR0042#ALL#Presents any disability
+0043#STR0043#ALL#Physical
+0044#STR0044#ALL#Visual
+0045#STR0045#ALL#Auditive
+0046#STR0046#ALL#None
+0047#STR0047#ALL#QUESTIONNAIRE
+0048#STR0048#ALL#INFORMATION LEGITIMACY AND VERACITY RECORD
+0049#STR0049#ALL#FULFILLMENT DATE
+0050#STR0050#ALL#EMPLOYEE SIGNATURE
+0051#STR0051#ALL#ANALYSIS AND EXAMINATION DATE
+0052#STR0052#ALL#SIGNATURE OF EXAMINER DOCTOR
+0053#STR0053#ALL#PAGE: 
+0054#STR0054#ALL#Date: 
+0055#STR0055#ALL#Time: 
+0056#STR0056#ALL#No Answer
+0057#STR0057#ALL#SIGNATURE OF THE ASSISTANT IN FILLING/WITNESS
+0058#STR0058#ALL#To Accomplishment Date?
+0059#STR0059#ALL#From Accomplishment Date?
+0060#STR0060#ALL#To Question?
+0061#STR0061#ALL#From Question?
+0062#STR0062#ALL#Questionnaire?
+0063#STR0063#ALL#Print type?
+0064#STR0064#ALL#Screen
+0065#STR0065#ALL#Printer
+0066#STR0066#ALL#Inform print type. 1=Screen or 2=Printer.
+0067#STR0067#ALL#Pulse (BPM)
+0068#STR0068#ALL#Breathing (MPM)
+0069#STR0069#ALL#Visual Acuity OD
+0070#STR0070#ALL#Visual Acuity OS
+0071#STR0071#ALL#Dynamometry
+0072#STR0072#ALL#Questions per line?
+0073#STR0073#ALL#One
+0074#STR0074#ALL#Two
+0075#STR0075#ALL#Enter how many questions per line you wish to print. One or Two.
+0076#STR0076#ALL#Questionnaire Code
+0077#STR0077#ALL#Medical Record Code The field can be left blank to consider codes since the first one.
+0078#STR0078#ALL#Medical Record Code Fill the field with Z up to the end to consider up to the last code.
+0079#STR0079#ALL#Question code. The field can be left blank to consider codes since the first one.
+0080#STR0080#ALL#Question code. Fill the field with Z up to the end to consider up to the last code.
+0081#STR0081#ALL#Minimum date of questionnaire answer.
+0082#STR0082#ALL#Maximum date of questionnaire answer.
+0083#STR0083#ALL#Questionnaire
+0084#STR0084#ALL#Indicate if you want to filter the questions? Yes or No
+0085#STR0085#ALL#Questionnaire Questions
+0086#STR0086#ALL#There are no questions registered for this questionnaire.
+0087#STR0087#ALL#The filter will not be considered as no question was selected.
+0088#STR0088#ALL#No Questionnaire Question 
+0089#STR0089#ALL# was selected.
+0090#STR0090#ALL#ATTENTION			
+0091#STR0091#ALL#Questionnaire
+0092#STR0092#ALL#Code
+0093#STR0093#ALL#Question
+0094#STR0094#ALL#Enter whether it prints blank notes. Yes or No. If the note field is printed, then it is not possible to print two questions per row.
+0095#STR0095#ALL#Questionnaire Code. The field may be left blank to consider since the first code.
+0096#STR0096#ALL#Questionnaire Code The field can be filled out with Z up to the end to consider up to the last code.
+0097#STR0097#ALL#From Questionnaire?
+0098#STR0098#ALL#To Questionnaire?
+0099#STR0099#ALL#Filter Questions?
+0100#STR0100#ALL#Print Type?
+0101#STR0101#ALL#Questions per line?
+0102#STR0102#ALL#Print blank note?
+0103#STR0103#ALL#Store?
+0104#STR0104#ALL#Print blank note?
+0105#STR0105#ALL#Questionario Medico

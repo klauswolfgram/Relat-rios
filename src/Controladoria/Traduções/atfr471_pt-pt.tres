@@ -1,0 +1,15 @@
+0002#STR0002#ALL#Função disponível apenas para TReport. Por favor, actualize o ambiente e verifique o parâmetro MV_TREPORT
+0003#STR0003#ALL#Para utilizar este relatório, é necessário que estejam implementados os processos de Projectos de Imobilizado e Controlo de AVP de Imobilizados. Por favor, actualize o ambiente
+0004#STR0004#ALL#O objectivo deste relatório é demonstrar os valores de custos de empréstimos relacionados com os bens registados no módulo Activo Fixo.
+0005#STR0005#ALL#Demonstrativo de custos de empréstimos
+0006#STR0006#ALL#Custos de empréstimos
+0007#STR0007#ALL#Bens de origem
+0008#STR0008#ALL#Valor aprop.
+0009#STR0009#ALL#Total filial: 
+0011#STR0011#ALL#Total conta contabilística: 
+0012#STR0012#ALL#Total centro de custo: 
+0013#STR0013#ALL#Total item Contabilístico: 
+0014#STR0014#ALL#Total classe valor: 
+0017#STR0017#ALL#Valor capitalização
+0018#STR0018#ALL#Valor adiantamento
+0019#STR0019#ALL#Valor total

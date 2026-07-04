@@ -1,0 +1,19 @@
+0001#STR0001#ALL#Este informe imprimira la lista de reditos de la consulta de gestion solicitada considerando todos los reditos (pedido de venta,titulos por cobrar y movimiento bancario) vinculado a los proyectos.
+0002#STR0002#ALL#Consultas de Gestion - Lista de Ingresos
+0003#STR0003#ALL#Diario
+0004#STR0004#ALL#Semanal
+0005#STR0005#ALL#Decendial
+0006#STR0006#ALL#Quincenal
+0007#STR0007#ALL#Mensual
+0008#STR0008#ALL#Periodo 
+0009#STR0009#ALL#       Vld.Prev.PV           Reditos        Entradas Acum.
+0010#STR0010#ALL#Codigo del Plan
+0011#STR0011#ALL#Saldo Inicial : 
+0012#STR0012#ALL#Total por cobrar : 
+0013#STR0013#ALL#A Rayas
+0014#STR0014#ALL#Administracion
+0015#STR0015#ALL#Vld.Prev.PV
+0016#STR0016#ALL#Ingresos
+0017#STR0017#ALL#Entradas Acum.
+0018#STR0018#ALL#Plan de Gestion
+0019#STR0019#ALL#Ingreso

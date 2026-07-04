@@ -1,0 +1,11 @@
+0001#STR0001#ALL#La funcion de este programa es emitir los cheques devueltos.
+0002#STR0002#ALL#Cheques Devueltos
+0003#STR0003#ALL# Banco     Agencia     Cuenta   Num.Cheque  Titulo-Cuota     Cliente-Sucur.                             Telefono      Mot.Rec.1  Fecha   Remostrado      Mot.Rec.2  Fecha   Historial
+0004#STR0004#ALL#A Rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL# Banco   Agencia  Cuenta      Num.Cheque        Titulo-Cuota   Cliente-Sucur.                             Telefono       Mot.Rec.1  Fecha      Remostrado     Mot.Rec.2 Fecha                  Valor    Historial
+0007#STR0007#ALL#ANULADO POR EL OPERADOR
+0008#STR0008#ALL#No hay informaciones para este informe
+0009#STR0009#ALL#TOTAL DE CHEQUES DEVUELTOS ....:
+0010#STR0010#ALL#Cliente
+0011#STR0011#ALL#Items Cheques Devueltos 

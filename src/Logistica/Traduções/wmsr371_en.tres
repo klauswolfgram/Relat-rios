@@ -1,0 +1,17 @@
+0001#STR0001#ALL#Packed Separation Map
+0002#STR0007#ALL#Separator No.     : _______________              No. Errors        : __________
+0003#STR0008#ALL#Checking Clerk No.     : _______________              No. Errors        : __________
+0004#STR0009#ALL#Packer No.     : _______________              No. Errors        : __________
+0005#STR0019#ALL#Customer
+0006#STR0020#ALL#Qty.
+0007#STR0021#ALL#Pack Qty
+0008#STR0022#ALL#W/
+0009#STR0023#ALL#No. of Items
+0010#STR0024#ALL#Total Weight (KG)
+0011#STR0025#ALL#Cubage
+0012#STR0028#ALL#Vehicle License Plate
+0013#STR0029#ALL#Totals
+0014#STR0030#ALL#The purpose of this report is to Issue and Print or just Print a Separation Map for Quantities in grouping units (boxes, for example), according to entered parameters.
+0015#STR0031#ALL#Separation Map Header
+0016#STR0032#ALL#Order
+0017#STR0033#ALL#Separation Map Items

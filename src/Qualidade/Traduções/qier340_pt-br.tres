@@ -1,0 +1,10 @@
+0001#STR0001#ALL#Relacao de Vencimento dos IQS(s) de Fornecedores 
+0002#STR0002#ALL#com seus respectivos Produtos.                   
+0003#STR0003#ALL#Vencimento de IQS(s)
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#Codigo            Loja Fornecedor                 Dta Aval.  Dta Venc.Aval Fator 
+0007#STR0007#ALL#     Produto                         Descricao                       Sit. Descricao        IQI Inf.          IQI Sup. 
+0008#STR0008#ALL#CANCELADO PELO OPERADOR
+0009#STR0009#ALL#Fornecedor
+0010#STR0010#ALL#Classes/Situacao

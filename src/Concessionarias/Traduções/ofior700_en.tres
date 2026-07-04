@@ -1,0 +1,44 @@
+0001#STR0001#ALL#Copy of Requisition of Parts
+0002#STR0002#ALL#Workshop Request
+0003#STR0003#ALL#Workshop over the counter
+0004#STR0004#ALL#Type of Requisition
+0005#STR0005#ALL#Transaction type
+0006#STR0006#ALL#Selecting records...
+0007#STR0007#ALL#Retrn
+0008#STR0008#ALL#Req
+0009#STR0009#ALL#Requisitions / Returns of Parts
+0010#STR0010#ALL#No. Service Order:
+0011#STR0011#ALL#<<< P R I N T >>>
+0012#STR0012#ALL#<<< VIEW PARTS >>>
+0013#STR0013#ALL#<<<     E X I T     >>>
+0014#STR0014#ALL#Warehouse
+0015#STR0015#ALL#Check all
+0016#STR0016#ALL#Number
+0017#STR0017#ALL#Date
+0018#STR0018#ALL#Time
+0019#STR0019#ALL#Status
+0020#STR0020#ALL#Attention
+0021#STR0021#ALL#There are no Requisitions or Returns for this S.O.
+0022#STR0022#ALL#Requisition Parts
+0023#STR0023#ALL#No. Mark:
+0024#STR0024#ALL#Seq.
+0025#STR0025#ALL#Group
+0026#STR0026#ALL#Item Code
+0027#STR0027#ALL#Description
+0028#STR0028#ALL#Qty.
+0029#STR0029#ALL#Value
+0030#STR0030#ALL#Total Value
+0031#STR0031#ALL#T.T.
+0032#STR0032#ALL#Mechanic
+0033#STR0033#ALL#There are no Parts requisitioned in the selected requisitions.
+0034#STR0034#ALL#Requisition of Parts
+0035#STR0035#ALL#Search Order
+0036#STR0036#ALL#Our Number
+0037#STR0037#ALL#Search
+0038#STR0038#ALL#Select
+0039#STR0039#ALL#Caption
+0040#STR0040#ALL#Select one or more requests!
+0041#STR0041#ALL#Print requests/returns
+0042#STR0042#ALL#Grouped
+0043#STR0043#ALL#Separated
+0044#STR0044#ALL#Workshop packing list

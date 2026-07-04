@@ -1,0 +1,35 @@
+0001#STR0001#ALL#This report will print the details of resources allocation on projects within the required period.  
+0002#STR0002#ALL#Resources Allocation
+0003#STR0003#ALL#PROJECT+TASK
+0004#STR0004#ALL#RESOURCE+ALLOCATION DATE
+0005#STR0005#ALL#Z-Form
+0006#STR0006#ALL#Administration
+0007#STR0007#ALL#TASK                                      RESOURCE                                        TEAM                                     START DATE  START TIME. END DATE  END TIME  %ALOC  QUANTITY MU    EST. COST     EST. TOTAL
+0008#STR0008#ALL#Project    : 
+0009#STR0009#ALL#Total
+0010#STR0010#ALL#PROJECT                                                     TASK                                                          INIT. DATE         FINAL DATE        %ALOC    QUANTITY    UM       COST  PRV.         TOTAL PREV.
+0011#STR0011#ALL#Resource   : 
+0012#STR0012#ALL#TEAM+ALLOCATION DATE
+0013#STR0013#ALL#Team       : 
+0014#STR0014#ALL#PROJECT                                   TASK                                        RESOURCE                                        INITIAL DATE   FINAL DATE       %ALLOC  QUANTITY   MU     ESTIM.COST        ESTIM.TOTAL
+0015#STR0015#ALL#Team     :
+0016#STR0016#ALL#Max.Un.  :
+0017#STR0017#ALL#Exp. Cost
+0018#STR0018#ALL#Total Exp.
+0019#STR0019#ALL#Composition Group
+0020#STR0020#ALL#PROJECT+GROUP OF TASKS+TASK+RESOURCE
+0021#STR0021#ALL#Grand Total
+0022#STR0022#ALL#Group
+0023#STR0023#ALL#MU
+0024#STR0024#ALL#Project + Task + Resource + Team + Composition group     
+0025#STR0025#ALL#Project
+0026#STR0026#ALL#Task  
+0027#STR0027#ALL#Resource
+0028#STR0028#ALL#Resource allocation
+0029#STR0029#ALL#Team  
+0030#STR0030#ALL#Task + Team allocation     
+0031#STR0031#ALL#Order: 
+0032#STR0032#ALL#REC+PRJ+TRF+DATE
+0033#STR0033#ALL#Resource (project)
+0034#STR0034#ALL#*** CANCELLED BY THE USER  ***
+0035#STR0035#ALL#Input

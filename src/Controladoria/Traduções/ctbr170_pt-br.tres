@@ -1,0 +1,83 @@
+0001#STR0001#ALL#Este programa ira imprimir o Balancete de Verificacao de 6 colunas. As colunas
+0002#STR0002#ALL#impressas sao conta, descricao, debito, credito, tambem saldo anterior e saldo
+0003#STR0003#ALL#Balancete de Verificacao.
+0004#STR0004#ALL#|  CODIGO DA CONTA                                    |   D  E  S  C  R  I  C  A  O               |           SALDO ANTERIOR               |      DEBITO       |     CREDITO       |              SALDO ATUAL              |
+0005#STR0005#ALL#|                                                     |                                           |      DEBITO       |      CREDITO       |                   |                   |      DEBITO       |      CREDITO      |
+0005#STR0005#ANG#|                                                     |                                           |      DEBITO       |      CREDITO       |                   |                   |      DEBITO       |      CREDITO      |
+0005#STR0005#EQU#|                                                     |                                           |      DEBITO       |      CREDITO       |                   |                   |      DEBITO       |      CREDITO      |
+0005#STR0005#HAI#|                                                     |                                           |      DEBITO       |      CREDITO       |                   |                   |      DEBITO       |      CREDITO      |
+0005#STR0005#MEX#|                                                     |                                           |      DEBITO       |      CREDITO       |                   |                   |      DEBITO       |      CREDITO      |
+0005#STR0005#PTG#|                                                     |                                           |      DEBITO       |      CREDITO       |                   |                   |      DEBITO       |      CREDITO      |
+0006#STR0006#ALL#BALANCETE 6 COLUNAS ANALITICO DE 
+0007#STR0007#ALL# ATE 
+0008#STR0008#ALL# EM 
+0009#STR0009#ALL#BALANCETE 6 COLUNAS SINTETICO DE 
+0010#STR0010#ALL#***** CANCELADO PELO OPERADOR *****
+0011#STR0011#ALL#T O T A I S  D O  P E R I O D O: 
+0012#STR0012#ALL#Selecionando Registros...
+0013#STR0013#ALL#Zebrado
+0014#STR0014#ALL#Administracao
+0015#STR0015#ALL#Criando Arquivo Temporario...
+0016#STR0016#ALL#atual do periodo que sao demonstrados separadamente a debito e a credito.
+0017#STR0017#ALL#BALANCETE 6 COLUNAS DE 
+0018#STR0018#ALL# (ORCADO)
+0019#STR0019#ALL# (GERENCIAL)
+0020#STR0020#ALL#T O T A I S  D O  G R U P O (
+0021#STR0021#ALL#Plano de contas
+0022#STR0022#ALL#Codigo da conta
+0023#STR0023#ALL#Codigo reduzido
+0024#STR0024#ALL#Descricao
+0025#STR0025#ALL#Saldo ant. débito
+0025#STR0025#ANG#Saldo ant. débito
+0025#STR0025#EQU#Saldo ant. débito
+0025#STR0025#HAI#Saldo ant. débito
+0025#STR0025#MEX#Saldo ant. débito
+0025#STR0025#PTG#Saldo ant. débito
+0026#STR0026#ALL#Saldo ant. crédito
+0026#STR0026#ANG#Saldo ant. crédito
+0026#STR0026#EQU#Saldo ant. crédito
+0026#STR0026#HAI#Saldo ant. crédito
+0026#STR0026#MEX#Saldo ant. crédito
+0026#STR0026#PTG#Saldo ant. crédito
+0027#STR0027#ALL#Débito
+0027#STR0027#ANG#Débito
+0027#STR0027#EQU#Débito
+0027#STR0027#HAI#Débito
+0027#STR0027#MEX#Débito
+0027#STR0027#PTG#Débito
+0028#STR0028#ALL#Crédito
+0028#STR0028#ANG#Crédito
+0028#STR0028#EQU#Crédito
+0028#STR0028#HAI#Crédito
+0028#STR0028#MEX#Crédito
+0028#STR0028#PTG#Crédito
+0029#STR0029#ALL#Movimento
+0030#STR0030#ALL#Saldo atual débito
+0030#STR0030#ANG#Saldo atual débito
+0030#STR0030#EQU#Saldo atual débito
+0030#STR0030#HAI#Saldo atual débito
+0030#STR0030#MEX#Saldo atual débito
+0030#STR0030#PTG#Saldo atual débito
+0031#STR0031#ALL#Saldo atual crédito
+0031#STR0031#ANG#Saldo atual crédito
+0031#STR0031#EQU#Saldo atual crédito
+0031#STR0031#HAI#Saldo atual crédito
+0031#STR0031#MEX#Saldo atual crédito
+0031#STR0031#PTG#Saldo atual crédito
+0032#STR0032#ALL#Sit. Normal
+0033#STR0033#ALL#Tipo de conta	
+0034#STR0034#ALL#Grupo
+0035#STR0035#ALL#Nivel 1	
+0036#STR0036#ALL#Total
+0037#STR0037#ALL#D É B I T O      
+0037#STR0037#ANG#D É B I T O      
+0037#STR0037#EQU#D É B I T O      
+0037#STR0037#HAI#D É B I T O      
+0037#STR0037#MEX#D É B I T O      
+0037#STR0037#PTG#D É B I T O      
+0038#STR0038#ALL#C R É D I T O    
+0038#STR0038#ANG#C R É D I T O    
+0038#STR0038#EQU#C R É D I T O    
+0038#STR0038#HAI#C R É D I T O    
+0038#STR0038#MEX#C R É D I T O    
+0038#STR0038#PTG#C R É D I T O    

@@ -1,0 +1,22 @@
+0001#STR0001#ALL#Summary of insurances to be paid to BSE
+0002#STR0002#ALL#To be printed according to the parameters requested by the user   
+0003#STR0003#ALL#Generating information for report
+0004#STR0004#ALL#Z. form
+0005#STR0005#ALL#Administrat. 
+0006#STR0006#ALL#PAYROLL FOR PAYMENT TO BSE    
+0007#STR0007#ALL#Printing report      
+0008#STR0008#ALL#Policy      % Staff Bonus            Revenues        $ of Bonus    Tax Amount           IVA Amount   Total payable
+0009#STR0009#ALL#PAYROLL FOR PAYMENT TO BSE - PAYROLL CORRESPONDING TO                  
+0010#STR0010#ALL# TOTALS:   
+0011#STR0011#ALL#Personal
+0012#STR0012#ALL#% Bonus
+0013#STR0013#ALL#Policy
+0014#STR0014#ALL#Revenues
+0015#STR0015#ALL#Bonus Value
+0016#STR0016#ALL#Tax Value
+0017#STR0017#ALL#IVA amount
+0018#STR0018#ALL#Total payable
+0019#STR0019#ALL#Cost center    
+0020#STR0020#ALL#BSE WORKSHEET/BSE FORM
+0021#STR0021#ALL#BSE WORKSHEET
+0022#STR0022#ALL#BSE FORM

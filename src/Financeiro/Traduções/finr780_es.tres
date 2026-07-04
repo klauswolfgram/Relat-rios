@@ -1,0 +1,28 @@
+0001#STR0001#ALL#El objetivo de este progr. es imprimir los 
+0002#STR0002#ALL#movimientos historicos de caja.          
+0003#STR0003#ALL#Movimientos Historicos
+0004#STR0004#ALL#Fecha         Entrada          Salida             Documento
+0005#STR0005#ALL#A Rayas
+0006#STR0006#ALL#Administrac.
+0007#STR0007#ALL#Seleccionando registr.
+0008#STR0008#ALL#MOVIMIENTO DE CAJA
+0009#STR0009#ALL#SALDO ANTERIOR...............:
+0010#STR0010#ALL#ENTRADAS.....................:
+0011#STR0011#ALL#SUBTOTAL.....................:
+0012#STR0012#ALL#SALIDAS......................:
+0013#STR0013#ALL#SALDO........................:
+0014#STR0014#ALL#COMPOSICION DE SALDO                           PAGAR                  COBRAR
+0015#STR0015#ALL#ESPECIE.......................:
+0016#STR0016#ALL#CHEQUE DEPOSITO...............:
+0017#STR0017#ALL#ANTICIPOS.....................:
+0018#STR0018#ALL#RECIBOS PROVISORIOS...........:
+0019#STR0019#ALL#CHEQUES PARA PAGOS............:
+0020#STR0020#ALL#FACTURACION...................:
+0021#STR0021#ALL#OTROS.........................:
+0022#STR0023#ALL#Emision: 
+0023#STR0024#ALL#   Hora: 
+0024#STR0025#ALL# Pagina: 
+0025#STR0026#ALL#Movimientos Historicos
+0026#STR0027#ALL#Secuencial de la Caja Nº
+0027#STR0028#ALL#Empresa: 
+0028#STR0029#ALL#Movimiento Dia 

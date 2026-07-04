@@ -1,0 +1,42 @@
+0001#STR0001#ALL#Este programa irá imprimir o balancete de verificação de 6 colunas. As colunas
+0002#STR0002#ALL#Impressas são: conta, descrição, débito, crédito, também saldo anterior e saldo
+0003#STR0003#ALL#Balancete De Verificação.
+0004#STR0004#ALL#|  código da conta       |   d  e  s  c  r  i  ç  ã  o        |           saldo anterior               |      débito       |     crédito       |              saldo actual              |
+0005#STR0005#ALL#|                                                     |                                           |      débito       |      crédito       |                   |                   |      débito       |      crédito      |
+0005#STR0005#ANG#|                                                     |                                           |      DÉBITO       |      CRÉDITO       |                   |                   |      DÉBITO       |      CRÉDITO      |
+0005#STR0005#EQU#|                                                     |                                           |      DÉBITO       |      CRÉDITO       |                   |                   |      DÉBITO       |      CRÉDITO      |
+0005#STR0005#HAI#|                                                     |                                           |      DÉBITO       |      CRÉDITO       |                   |                   |      DÉBITO       |      CRÉDITO      |
+0005#STR0005#MEX#|                                                     |                                           |      débito       |      crédito       |                   |                   |      débito       |      crédito      |
+0005#STR0005#PTG#|                                                     |                                           |      débito       |      crédito       |                   |                   |      débito       |      crédito      |
+0006#STR0006#ALL#Do balancete analítico de 6 colunas 
+0007#STR0007#ALL# até 
+0008#STR0008#ALL# em 
+0009#STR0009#ALL#Do balancete sintético de 6 colunas 
+0010#STR0010#ALL#***** cancelado pelo operador *****
+0011#STR0011#ALL#Totais do período: 
+0012#STR0012#ALL#A Seleccionar Registos...
+0013#STR0013#ALL#Código de barras
+0014#STR0014#ALL#Administração
+0015#STR0015#ALL#A Criar Ficheiro Temporário...
+0016#STR0016#ALL#Actualizações do período demonstradas separadamente a débito e a crédito.
+0017#STR0017#ALL#Balancete 6 colunas de 
+0018#STR0018#ALL# (orcado)
+0019#STR0019#ALL# (de gestão)
+0020#STR0020#ALL#T o t a i s  d o  g r u p o (
+0022#STR0022#ALL#Código da conta
+0023#STR0023#ALL#Código reduzido
+0024#STR0024#ALL#Descrição
+0027#STR0027#MEX#Cartão Débito
+0030#STR0030#ALL#Saldo actual débito
+0030#STR0030#MEX#Saldo actual débito
+0030#STR0030#PTG#Saldo actual débito
+0031#STR0031#ALL#Saldo actual crédito
+0031#STR0031#MEX#Saldo actual crédito
+0031#STR0031#PTG#Saldo actual crédito
+0035#STR0035#ALL#Nível 1	
+0037#STR0037#ALL#D é b i t o      
+0037#STR0037#MEX#D é b i t o      
+0037#STR0037#PTG#D é b i t o      
+0038#STR0038#ALL#C r é d i t o    
+0038#STR0038#MEX#C r é d i t o    
+0038#STR0038#PTG#C r é d i t o    

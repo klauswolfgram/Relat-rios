@@ -1,0 +1,17 @@
+0001#STR0001#ALL#Informe de Productos a Distribuir 
+0002#STR0002#ALL#Emite el detall de los productos que esperan dis-
+0003#STR0003#ALL#tribucion para sus ubicaciones especificas.
+0004#STR0004#ALL#A Rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#REGISTRO(S)
+0007#STR0007#ALL#Seleccionando registros...
+0008#STR0008#ALL#PRODUCTO        DESCRIPCION         AMZ   CANTIDAD     SALDO A    ORI LOTE      SUBLOTE  VALIDEZ     DOC       SER NUMERO  FCH.   
+0009#STR0009#ALL#                                            ORIGINAL   DISTRIBUIR                                                    SEC.         
+0010#STR0013#ALL#Cantidad
+0011#STR0014#ALL#Original
+0012#STR0015#ALL#Saldo a
+0013#STR0016#ALL#Distribuir
+0014#STR0017#ALL#Orig.
+0015#STR0021#ALL#Secuencia
+0016#STR0023#ALL#Numero
+0017#STR0025#ALL#Saldos p. Ubicar

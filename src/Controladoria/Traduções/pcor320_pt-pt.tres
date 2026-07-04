@@ -1,0 +1,19 @@
+0001#STR0001#ALL#Demonstrativo De Saldos Por Período
+0002#STR0002#ALL#Código
+0003#STR0003#ALL#Descrição
+0005#STR0005#ALL#Saldo inicial: 
+0006#STR0006#ALL#Mov.crédito (c):
+0007#STR0007#ALL#Mov.debito (d)
+0008#STR0008#ALL#Res.mov.(c - D):
+0009#STR0009#ALL#Impressão cancelada pelo operador...
+0010#STR0010#ALL#Este relatorio ira imprimir o Demonstrativo de Saldos por Período de acordo com os parâmetros solicitados pelo utilizador. Para mais informações sobre este relatório consulte o Help do Programa ( F1 ).
+0011#STR0011#ALL#Atenção
+0012#STR0012#ALL#Utilizador sem accesso ao relatório. Verifique as configurações.
+0019#STR0019#ALL#Diário
+0021#STR0021#ALL#Código Cubo Analítico
+0022#STR0022#ALL#Período de
+0029#STR0029#ALL#Tipo Período
+0033#STR0033#ALL#Configuração do Cubo
+0034#STR0034#ALL#Editar Configurações Cubo
+0035#STR0035#ALL#Considerar Nulos
+0038#STR0038#ALL#Período Até

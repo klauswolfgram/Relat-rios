@@ -1,0 +1,38 @@
+0002#STR0002#ALL#Artigos no stock por região do cliente. 
+0003#STR0003#ALL#Este relatório devera ser impresso no formulario de 132 colunas.
+0004#STR0004#ALL# por % de participação
+0005#STR0005#ALL# por código (numérica)
+0006#STR0006#ALL#Curva Abc De Stock
+0007#STR0007#ALL#Código de barras
+0008#STR0008#ALL#Administração
+0009#STR0009#ALL#A Seleccionar Registos...
+0010#STR0010#ALL# - Ordem De % De Participação
+0011#STR0011#ALL# - ordem de código (numérica)
+0012#STR0012#ALL#Número Da Peca  C Denominação                      Valor Unitario % Part % Acum
+0013#STR0013#ALL#Cancelado Pelo Operador
+0014#STR0014#ALL#Região : 
+0024#STR0024#ALL#Nov
+0027#STR0027#ALL#    C.m.m.  Tot.cons.
+0029#STR0029#ALL#Total geral da região  : 
+0030#STR0030#ALL#Total geral da filial  : 
+0031#STR0031#ALL#Total geral da empresa : 
+0032#STR0032#ALL# por região + % participação
+0033#STR0033#ALL# - Ordem De Região + % De Participação
+0035#STR0035#ALL#Artigos no stock por região do cliente. 
+0036#STR0036#ALL#Este relatório devera ser impresso no formulario de 132 colunas.
+0037#STR0037#ALL#Valor Unitário
+0040#STR0040#ALL#C.m.m.
+0041#STR0041#ALL#Tot.cons.
+0042#STR0042#ALL#Por % De Participação
+0043#STR0043#ALL#Por código (numérica)
+0044#STR0044#ALL#Por região + %participação
+0045#STR0045#ALL#Curva Abc De Stock
+0046#STR0046#ALL# - ORDEM DE % DE PARTICIPAÇÃO	
+0047#STR0047#ALL#A seleccionar registos...	
+0048#STR0048#ALL# - ORDEM DE CÓDIGO (NUMÉRICA)	
+0049#STR0049#ALL# - Ordem De Região + % De Participação
+0050#STR0050#ALL#Total geral da filial  : 	
+0051#STR0051#ALL#Nome Da Região
+0052#STR0052#ALL#Percentagem
+0062#STR0062#ALL#Nov
+0067#STR0067#ALL#Região: 

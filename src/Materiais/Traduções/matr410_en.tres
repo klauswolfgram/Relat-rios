@@ -1,0 +1,9 @@
+0001#STR0001#ALL#Pick List
+0002#STR0002#ALL#The purpose of this program is to print a list of the
+0003#STR0003#ALL#products to withdraw from warehouse.
+0004#STR0004#ALL#Z.Form 
+0005#STR0005#ALL#Management   
+0006#STR0006#ALL#CODE   PRODUCT DESCRIPTION               UM WRH QUANTITY     O.P.       LOCATION
+0007#STR0007#ALL#CANCELLED BY THE OPERATOR  
+0008#STR0008#ALL#TOTAL OF PRODUCT ---->
+0009#STR0009#ALL#Allocat.

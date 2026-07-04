@@ -1,0 +1,20 @@
+0001#STR0001#ALL#Este programa imprimira la Razäo Contaible de los asientos
+0002#STR0002#ALL#contab. aglutinadas por cuentas de acuerdo con los parametros 
+0003#STR0003#ALL#configurados por usuario.
+0004#STR0004#ALL#A Rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#Emision de Libro Mayor Aglut. por cuentas
+0007#STR0007#ALL#LIBRO MAYOR EN 
+0008#STR0008#ALL# DE 
+0009#STR0009#ALL# A 
+0010#STR0010#ALL#LOTE/SUB/DCTO/LINEA     H I S T O R I C O                                       DEBITO                CREDITO            SALDO ACTUAL
+0011#STR0011#ALL#***** CANCELADO POR EL OPERADOR *****
+0012#STR0012#ALL#CUENTA - 
+0013#STR0013#ALL#Seleccionando Registros...
+0014#STR0014#ALL#Creando Archivo Temporário...
+0015#STR0015#ALL#FECHA
+0016#STR0016#ALL#T o t a l e s  d e  C u e n t a  ==> 
+0017#STR0017#ALL#A TRANSPORTAR :
+0018#STR0018#ALL#DE TRANSPORTE :
+0019#STR0019#ALL#T O T A L   G  E  N  E  R A  L ==> 
+0020#STR0020#ALL#El  plan gerencial no esta disponible en este informe.

@@ -1,0 +1,68 @@
+0001#STR0001#ALL#CTBR461
+0002#STR0002#ALL#Emissão do Demonstrativo - Contas diversas por cobrar
+0003#STR0003#ALL#Este programa ira imprimir o Demonstrativo - Contas diversas por cobrar
+0004#STR0004#ALL#Demonstrativo Contas diversas por cobrar
+0005#STR0005#ALL# A 
+0006#STR0006#ALL# EM 
+0007#STR0007#ALL#Filial : 
+0008#STR0008#ALL#Emissão do Demonstrativo – Provisão para contas de cobrança duvidosa (CONTA 19)
+0009#STR0009#ALL#Este programa ira imprimir o Demonstrativo - Provisão para contas de cobrança duvidosa (CONTA 19)
+0010#STR0010#ALL#Demonstrativo de Provisão para contas de cobrança duvidosa (CONTA 19)
+0011#STR0011#ALL#Este programa ira imprimir o Demonstrativo - Contas de Cliente (CONTA 12)
+0012#STR0012#ALL#Demonstrativo de Contas de Cliente (CONTA 12)
+0013#STR0013#ALL#LIVROS DE INVENTARIOS E BALANÇOS
+0014#STR0014#ALL#Selecione o livro
+0015#STR0015#ALL#Valor Total
+0016#STR0016#ALL#provisionado
+0017#STR0017#ALL#Informação dos devedores
+0018#STR0018#ALL#Conta a receber
+0019#STR0019#ALL#provisionada 	
+0020#STR0020#ALL#Documento	
+0021#STR0021#ALL#Tipo	
+0022#STR0022#ALL#Número	
+0023#STR0023#ALL#Nome
+0024#STR0024#ALL#denominação	
+0025#STR0025#ALL#Número do documento	
+0026#STR0026#ALL#Data de emissão	
+0027#STR0027#ALL#Valor
+0028#STR0028#ALL#razão social	
+0029#STR0029#ALL#comprovante de pagto	
+0030#STR0030#ALL#Saldo Final Total	
+0031#STR0031#ALL#Informação do Cliente
+0032#STR0032#ALL#Total da conta
+0033#STR0033#ALL#Data emissão	
+0034#STR0034#ALL#Documento
+0035#STR0035#ALL#a receber
+0036#STR0036#ALL#comprovante de pagto
+0037#STR0037#ALL#Detalhes do Saldo da Conta
+0038#STR0038#ALL#Este programa ira imprimir os detalhes do saldo da conta 40
+0039#STR0039#ALL#Conta e Sub Conta Tributos a Pagar
+0040#STR0040#ALL#Saldo Final
+0041#STR0041#ALL#Codigo
+0042#STR0042#ALL#Descrição
+0043#STR0043#ALL#Detalhes do Saldo da Conta 41	
+0044#STR0044#ALL#Este programa ira imprimir os detalhes do saldo da conta 41	
+0045#STR0045#ALL#Conta	
+0046#STR0046#ALL#Trabalhador	
+0047#STR0047#ALL#Documento de	
+0048#STR0048#ALL#Identidade	
+0049#STR0049#ALL#EXERCICIO: 
+0050#STR0050#ALL#RUC: 
+0051#STR0051#ALL#Apelidos e Nomes, Denominação ou Razão Social: 
+0052#STR0052#ALL#Informação de Acionistas, Socios ou Pessoal
+0053#STR0053#ALL#Contas a Receber funcionários, acionistas (ou membros), Diretores e Gerentes
+0054#STR0054#ALL#Montante da Conta
+0055#STR0055#ALL#Data de Inicio
+0056#STR0056#ALL#da operação
+0057#STR0057#ALL#SEM OPERAÇÕES
+0058#STR0058#ALL#Documento/Serie
+0059#STR0059#ALL#Informação de Terceiros
+0060#STR0060#ALL#Conta a Receber Provisionada
+0061#STR0061#ALL#Valor total da provisão acumulada
+0062#STR0062#ALL#Total Geral:
+0063#STR0063#ALL#Informação de clientes
+0064#STR0064#ALL#Formato
+0065#STR0065#ALL#Gerar arquivo TXT?
+0066#STR0066#ALL#Arquivo Gerado com Êxito
+0067#STR0067#ALL#Ocorreu um erro ao criar o arquivo Txt.
+0068#STR0068#ALL#Arquivo Txt Gerado com Êxito.

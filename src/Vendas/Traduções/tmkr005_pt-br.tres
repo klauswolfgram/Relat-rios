@@ -1,0 +1,69 @@
+0001#STR0001#ALL#Análise das vendas por período e vendedor
+0002#STR0002#ALL#Este programa irá emitir um relação de análise da vendas
+0003#STR0003#ALL#realizadas pelos vendedores no atendimento Televendas
+0004#STR0004#ALL#conforme os parâmetros previamente definidos
+0005#STR0005#ALL#Zebrado
+0006#STR0006#ALL#Administração
+0007#STR0007#ALL#CANCELADO PELO OPERADOR
+0008#STR0008#ALL#Item Produto         Descricäo                      St   Qtdade    Vl.Unitario        Vl.Item  %Desc    Vl.Desconto  %Acres   Vl.Acrescimo TES CFOP      Tabela      Base ICMS LP UM Entrega    Lote       Sub-Lt Validade
+0009#STR0009#ALL#Nao existem dados a serem impressos para este relatorio com os parametros informados
+0010#STR0010#ALL#TOTAL
+0011#STR0011#ALL#Total de atendimentos computados para o periodo de 
+0012#STR0012#ALL# a 
+0013#STR0013#ALL#OPERACÄO                                          ATENDIMENTOS   VALOR NEGOCIADO
+0014#STR0014#ALL#VENDEDOR                                          ATENDIMENTOS        0RCAMENTOS           VALOR           FATURADOS            VALOR
+0015#STR0015#ALL#PRODUTO FATURADO                                    QUANTIDADE                 %           VALOR
+0016#STR0016#ALL#MIDIA                                             ATENDIMENTOS                 %
+0017#STR0017#ALL#PRODUTO FATURADO                                  MIDIA                                                   QUANTIDADE            VALOR
+0018#STR0018#ALL#CAMPANHA                                          ATENDIMENTOS                 %
+0019#STR0019#ALL#PRODUTO FATURADO                                  CAMPANHA                                                QUANTIDADE            VALOR
+0020#STR0020#ALL#DATA      VENDEDOR                                           ATENDIMENTOS        0RCAMENTOS           VALOR           FATURADOS            VALOR
+0021#STR0021#ALL#DATA      MIDIA                                              ATENDIMENTOS        0RCAMENTOS           VALOR           FATURADOS            VALOR
+0022#STR0022#ALL#DATA      CAMPANHA                                           ATENDIMENTOS        0RCAMENTOS           VALOR           FATURADOS            VALOR
+0023#STR0023#ALL#T.M.A. por operacäo de Atendimento
+0024#STR0024#ALL#T.M.A. por operacäo de Atendimento X Vendedor
+0025#STR0025#ALL#T.M.A. por operacäo de Orcamento
+0026#STR0026#ALL#T.M.A. por operacäo de Orcamento X Vendedor
+0027#STR0027#ALL#T.M.A. por operacäo de Faturamento
+0028#STR0028#ALL#T.M.A. por operacäo de Faturamento X Vendedor
+0029#STR0029#ALL#T.M.A. Geral
+0030#STR0030#ALL#T.M.A. Geral X Vendedor
+0031#STR0031#ALL#Valor de Orcamento X Atendimento (Media)
+0032#STR0032#ALL#Valor de Faturamento X Atendimento (Media)
+0033#STR0033#ALL#Valor de Faturamento X Atendimento (Media)
+0034#STR0034#ALL#VENDEDOR                                                ORCAMENTO        DESVIO                  FATURAMENTO        DESVIO
+0035#STR0035#ALL#VENDEDOR
+0036#STR0036#ALL#ORÇAMENTO
+0037#STR0037#ALL#DESVIO
+0038#STR0038#ALL#FATURAMENTO
+0039#STR0039#ALL#OPERAÇÃO
+0040#STR0040#ALL#ATENDIMENTOS
+0041#STR0041#ALL#VALOR NEGOCIADO
+0042#STR0042#ALL#VALOR
+0043#STR0043#ALL#FATURADOS
+0044#STR0044#ALL#VALOR TOTAL
+0045#STR0045#ALL#PRODUTO FATURADO
+0046#STR0046#ALL#QUANTIDADE
+0047#STR0047#ALL#MIDIA
+0048#STR0048#ALL#CAMPANHA
+0049#STR0049#ALL#DATA
+0050#STR0050#ALL#ORÇAMENTOS
+0051#STR0051#ALL#Total de Atendimentos do Periodo
+0052#STR0052#ALL#Totalização dos Tempos de Atendimento (T.M.A)
+0053#STR0053#ALL#Valor de Orcamento X Media de Atendimento
+0054#STR0054#ALL#Valor de Faturamento X Media de Atendimento
+0055#STR0055#ALL#Valor de Faturamento por Vendedor
+0056#STR0056#ALL#Valor Negociado e Numeros de Atendimento por Operacao
+0057#STR0057#ALL#Numeros de Atendimentos, Orcamentos e Faturamentos por Vendedor
+0058#STR0058#ALL#Quantidade e Valor por Produto Faturado
+0059#STR0059#ALL#Total de atendimentos por Midia
+0060#STR0060#ALL#Quantidade e Valor de Produtos Faturados por Midia
+0061#STR0061#ALL#Total de Atendimentos por Campanha
+0062#STR0062#ALL#Quantidade e Valor de Produtos Faturados por Campanha
+0063#STR0063#ALL#Numeros de Atendimentos, Orcamentos e Faturamento por Vendedor
+0064#STR0064#ALL#Numeros de Atendimentos, Orcamentos e Faturamento por Midia
+0065#STR0065#ALL#Numeros de Atendimentos, Orcamentos e Faturamento por Campanha
+0066#STR0066#ALL#Quantidade Valor de Produtos Faturados por Campanha
+0067#STR0067#ALL#Vendedor - Atendimentos, Orcamentos e Faturamento
+0068#STR0068#ALL#Midia - Atendimentos, Orcamentos e Faturamento
+0069#STR0069#ALL#Campanha - Atendimentos, Orcamentos e Faturamento

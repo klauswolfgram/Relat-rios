@@ -1,0 +1,12 @@
+0001#STR0001#ALL#Informe de Follow-UP de acciones correctivas.
+0002#STR0002#ALL#Se imprimira de acuerdo con parametros solicitados por el usuario.
+0003#STR0003#ALL#Codigo+Rev+Secuencia
+0004#STR0004#ALL#Suc.Usuario+Mat.Usuario
+0005#STR0005#ALL#A Rayas
+0006#STR0006#ALL#Administracion
+0007#STR0007#ALL#FOLLOW-UP ACCIONES CORRECTIVAS
+0008#STR0008#ALL#Etapas
+0009#STR0009#ALL#Responsable               Tipo Accion          %Accion Prevision  Conclusion  Descrip. Resumida
+0010#STR0010#ALL#Codigo Acc.          Responsable                                  Tipo Acc.            % Acc.   Previs.    Conclus.    Descrip.  Resumida                                   Codigo FNC
+0011#STR0011#ALL#Responsable
+0012#STR0012#ALL#Acc.

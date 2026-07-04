@@ -1,0 +1,69 @@
+0001#STR0001#ALL#VDA Caratula
+0002#STR0002#ALL#Generando Informe, Espere...
+0003#STR0003#ALL#-Carat.-
+0004#STR0004#ALL#Remitente:
+0005#STR0005#ALL#Codigo:
+0006#STR0006#ALL#Destinatario:
+0007#STR0007#ALL#Informe VDA de muestra inicial
+0008#STR0008#ALL#Muestra inicial
+0009#STR0009#ALL#Muestra posterior
+0010#STR0010#ALL#Pza nva
+0011#STR0011#ALL#Modif. de producto
+0012#STR0012#ALL#Posterg. de la producc.
+0013#STR0013#ALL#Modif. de procesos de produccion
+0014#STR0014#ALL#Interrup. mayor de producc.
+0015#STR0015#ALL#Subproveedor nuevo
+0016#STR0016#ALL#Producto c/DAE
+0017#STR0017#ALL#Elaborado plan de producc./inspecc.
+0018#STR0018#ALL#FMEA realizado
+0019#STR0019#ALL#Informe otras muestras
+0020#STR0020#ALL#Anexos
+0021#STR0021#ALL#01 Prueba de func.
+0022#STR0022#ALL#02 Prueba de medic.
+0023#STR0023#ALL#03 Prueba de mater.
+0024#STR0024#ALL#04 Prueba de resist.
+0025#STR0025#ALL#05 Comprob. de capacid. del proceso
+0026#STR0026#ALL#06 Diagrama de transc. proceso
+0027#STR0027#ALL#07 Comprobac. capac. instr. de prueba
+0028#STR0028#ALL#08 Lista de instrumentos de prueba
+0029#STR0029#ALL#09 Hoja EG de seguridad de datos
+0030#STR0030#ALL#10Tacto
+0031#STR0031#ALL#11 Acustica
+0032#STR0032#ALL#12 Olor
+0033#STR0033#ALL#13 Asp. general
+0034#STR0034#ALL#14 Certificados
+0035#STR0035#ALL#15 Liberac. de construcc.
+0036#STR0036#ALL#16 Material de comp. en pzas compradas
+0037#STR0037#ALL#17 Otros
+0038#STR0038#ALL#Nº del Proveedor:
+0039#STR0039#ALL#Nº del Cliente:
+0040#STR0040#ALL#Nº de Informe
+0041#STR0041#ALL#Vers.
+0042#STR0042#ALL#Nº de familia:
+0043#STR0043#ALL#Nº de Dibujo:
+0044#STR0044#ALL#Estatus/Fch:
+0045#STR0045#ALL#Nº de modific.:
+0046#STR0046#ALL#Denominac.:
+0047#STR0047#ALL#Nº/Fecha de Factura:
+0048#STR0048#ALL#Nº/Fecha de Entrega do Prod.:
+0049#STR0049#ALL#Cant. suministrada:
+0050#STR0050#ALL#Lugar para descargar:
+0051#STR0051#ALL#Nº de Carga:
+0052#STR0052#ALL#Peso Estan.:
+0053#STR0053#ALL#Confirmaccion proveedor:
+0054#STR0054#ALL#Confirm. que la muestra se realizo de acuerdo con la VDA volumen 2 item 4.
+0055#STR0055#ALL#Nomb:
+0056#STR0056#ALL#Departamento:
+0057#STR0057#ALL#Telefono/Fax/E-mail:
+0058#STR0058#ALL#Fch:
+0059#STR0059#ALL#Firma:
+0060#STR0060#ALL#Observac.:
+0061#STR0061#ALL#Decision Cliente
+0062#STR0062#ALL#Total
+0063#STR0063#ALL#De acuerdo c/Anexo:
+0064#STR0064#ALL#Liberac.
+0065#STR0065#ALL#Liberac. c/restricc.
+0066#STR0066#ALL#Reprobado, necesaria muestra posterior
+0067#STR0067#ALL#Nº Licencia para desvio:
+0068#STR0068#ALL#En caso de envio de retorno, Nº/fecha factura:
+0069#STR0069#ALL#Ditribuc.:

@@ -1,0 +1,49 @@
+0001#STR0001#ALL#Divergencias en marcaciones
+0002#STR0002#ALL#Se imprimira de acuerdo con los parametros solicitados por el
+0003#STR0003#ALL#usuario.
+0004#STR0004#ALL#Matricula
+0005#STR0005#ALL#Centro de costo
+0006#STR0006#ALL#Nombre
+0007#STR0007#ALL#Turno
+0008#STR0008#ALL#A Rayas
+0009#STR0009#ALL#Administracion
+0010#STR0011#ALL#Fecha  Marcaciones                                                                	  Evento    
+0011#STR0015#ALL#** No existe ageda               
+0012#STR0016#ALL#** Numero de marcaciones impares   
+0013#STR0017#ALL#** Menos marcac. que lo programado 
+0014#STR0018#ALL#** Mas marcac. que lo programado 
+0015#STR0019#ALL#** Hora extra no autorizada       
+0016#STR0020#ALL# Intervalo menor que el programado
+0017#STR0021#ALL# Intervalo mayor que el programado
+0018#STR0022#ALL#** Marcaciones antes del ingreso  
+0019#STR0023#ALL#** Marcaciones despues despido    
+0020#STR0024#ALL#** Marcaciones durante vacaciones 
+0021#STR0025#ALL#** Marcaciones durante licencia   
+0022#STR0027#ALL#Sucursal: 
+0023#STR0028#ALL# Turno: 
+0024#STR0029#ALL#    C.C: 
+0025#STR0030#ALL#C.Costo+Nomb
+0026#STR0031#ALL#PLACA: 
+0027#STR0032#ALL#MATR: 
+0028#STR0033#ALL#NOMB: 
+0029#STR0034#ALL#Departamento
+0030#STR0035#ALL#Seleccione la opcion de impresion: 
+0031#STR0036#ALL#Por Periodo
+0032#STR0037#ALL#Por Fechas
+0033#STR0038#ALL#DEPTO: 
+0034#STR0039#ALL#Proceso: 
+0035#STR0040#ALL#Periodo: 
+0036#STR0041#ALL#Procedim.: 
+0037#STR0042#ALL#Num. Pago.:
+0038#STR0043#ALL#Este programa emite Relacion de los Funcionarios con Divergencias de Marcaciones
+0039#STR0044#ALL#Empleados
+0040#STR0045#ALL#Ocurrencias
+0041#STR0046#ALL#Marcaciones
+0042#STR0047#ALL#Fecha
+0043#STR0048#ALL#C.Costo
+0044#STR0049#ALL#Tno
+0045#STR0050#ALL#Proceso
+0046#STR0051#ALL#Periodo
+0047#STR0052#ALL#Rot
+0048#STR0053#ALL#NP
+0049#STR0054#ALL#Depto

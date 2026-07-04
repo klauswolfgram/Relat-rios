@@ -1,0 +1,28 @@
+0001#STR0001#ALL#Este programa irá imprimir o Cadastro CW8-Histórico de Alterações. 
+0002#STR0002#ALL#Será impresso de acordo com os parâmetros solicitados pelo
+0003#STR0003#ALL#usuário.
+0004#STR0004#ALL#Histórico de Alterações
+0005#STR0005#ALL#Data
+0006#STR0006#ALL#Hora
+0007#STR0007#ALL#Entidade
+0008#STR0008#ALL#Codigo
+0009#STR0009#ALL#Campo
+0010#STR0010#ALL#Entidade
+0011#STR0011#ALL#Sequencia
+0012#STR0012#ALL#Rotina
+0013#STR0013#ALL#INCLUSAO
+0014#STR0014#ALL#ALTERACAO
+0015#STR0015#ALL#EXCLUSAO
+0016#STR0016#ALL#Atenção
+0017#STR0017#ALL#Não existem informações para os parametros informados.
+0018#STR0018#ALL#Cód. Entidade
+0019#STR0019#ALL#Campo Alterado
+0020#STR0020#ALL#Seq. Alt.
+0021#STR0021#ALL#Tipo
+0022#STR0022#ALL#Tit. do Campo
+0023#STR0023#ALL#Conteúdo Ant.
+0024#STR0024#ALL#Conteúdo Atual
+0025#STR0025#ALL#Dt. Alt.
+0026#STR0026#ALL#Hora
+0027#STR0027#ALL#Opção
+0028#STR0028#ALL#Relatorio disponível apenas em TReport.

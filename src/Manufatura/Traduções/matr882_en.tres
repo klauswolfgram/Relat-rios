@@ -1,0 +1,38 @@
+0001#STR0001#ALL#MRP
+0002#STR0002#ALL#This program will print MRP data
+0003#STR0003#ALL#Bar code
+0004#STR0004#ALL#Administration
+0005#STR0005#ALL#Balance in Stock
+0006#STR0006#ALL#Inflows   
+0007#STR0007#ALL#Outflows     
+0008#STR0008#ALL#Balance      
+0009#STR0009#ALL#Need
+0010#STR0010#ALL#Selecting records...
+0011#STR0011#ALL#CANCELED BY OPERATOR
+0012#STR0012#ALL#PRODUCT: 
+0013#STR0013#ALL#MU:
+0014#STR0014#ALL#ECON. LOT: 
+0015#STR0015#ALL#TYPE: 
+0016#STR0016#ALL#Periods
+0017#STR0017#ALL#Exit Structure
+0018#STR0018#ALL#Schedule
+0019#STR0019#ALL#Events related to the product
+0020#STR0020#ALL#Value
+0021#STR0021#ALL#Tot Vl. Product:
+0022#STR0022#ALL#Structure Needs
+0023#STR0023#ALL#Date
+0024#STR0024#ALL#(initial)
+0025#STR0025#ALL#(final)
+0026#STR0026#ALL#Periods
+0027#STR0027#ALL#Products
+0028#STR0028#ALL#Initial balance
+0029#STR0029#ALL#Inflows
+0030#STR0030#ALL#Outflows
+0031#STR0031#ALL#Outflows by structure
+0032#STR0032#ALL#Final balance
+0033#STR0033#ALL#MRP Results (mrpresult)
+0034#STR0034#ALL#Utilize a nova rotina: <b><a target='#1[link]#'>Resultados MRP </a></b>.
+0035#STR0035#ALL#Esse programa foi bloqueado no release 12.1.2510 e desativado (em todos os releases) a partir de Janeiro de 2026.
+0036#STR0036#ALL#1) Este programa foi descontinuado e não sofre mais manutenção. 
+0037#STR0037#ALL#2) Sua utilização será bloqueada a partir do release 12.1.2510.
+0038#STR0038#ALL#3) Para os releases anteriores, será definitivamente desativado a partir de Janeiro/2026.

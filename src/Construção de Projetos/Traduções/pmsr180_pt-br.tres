@@ -1,0 +1,34 @@
+0001#STR0001#ALL#Este relatorio ira imprimir o fluxo de caixa do projeto considerando todas receitas (pedido de venda,titulos a receber e movimentacao bancaria) e despesas (pedido de compra,autorizacao de entrega,nota fiscal de entrada,titulos a pagar e movimentos bancarios
+0002#STR0002#ALL#Fluxo de caixa
+0003#STR0003#ALL#Zebrado
+0004#STR0004#ALL#Administracao
+0005#STR0005#ALL#DATA              Vlr. Prev. PC       Vlr. Despesas        Vlr. Prev PV       Vlr. Receitas        Saldo do Dia     Saldo Acumulado
+0006#STR0006#ALL#Projeto : 
+0007#STR0007#ALL#Saldo Inicial : 
+0008#STR0008#ALL#Total a Pagar : 
+0009#STR0009#ALL#Total a Receber : 
+0010#STR0010#ALL#Saldo Final : 
+0011#STR0011#ALL#Diario
+0012#STR0012#ALL#Semanal
+0013#STR0013#ALL#Decendial
+0014#STR0014#ALL#Quinzenal
+0015#STR0015#ALL#Mensal
+0016#STR0016#ALL#Periodo 
+0017#STR0017#ALL#Vld.Prev.PC           Despesas        Vlr.Prev.PV           Receitas            Saldo do Dia      Var. Dia           Saidas. Acum.              Entradas Acum.      Saldo Acumulado     Var. Acum. 
+0018#STR0018#ALL#Data
+0019#STR0019#ALL#Vlr. Prev. PC
+0020#STR0020#ALL#Vlr. Despesas
+0021#STR0021#ALL#Vlr. Prev PV
+0022#STR0022#ALL#Vlr. Receitas
+0023#STR0023#ALL#Saldo do Dia
+0024#STR0024#ALL#Saldo Acumulado
+0025#STR0025#ALL#Var. Dia
+0026#STR0026#ALL#Saidas. Acum.
+0027#STR0027#ALL#Entradas Acum.
+0028#STR0028#ALL#Var. Acum.
+0029#STR0029#ALL#Projeto
+0030#STR0030#ALL#Fluxo de Caixa
+0031#STR0031#ALL#Despesas
+0032#STR0032#ALL#Antecipadas
+0033#STR0033#ALL#Receitas
+0034#STR0034#ALL#*** CANCELADO PELO USUARIO ***

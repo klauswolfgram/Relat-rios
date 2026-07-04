@@ -1,0 +1,43 @@
+0001#STR0001#ALL#Certificado de calidad
+0002#STR0002#ALL#En este informe se imprimira el certificado de calidad
+0003#STR0004#ALL# Texto superior 
+0004#STR0005#ALL# Texto inferior 
+0005#STR0006#ALL# Impresion 
+0006#STR0007#ALL#Certificado de calidad
+0007#STR0008#ALL#Itemes de configuracion
+0008#STR0009#ALL#En este informe se imprimiran los certificados
+0009#STR0010#ALL#Certificado calidad
+0010#STR0011#ALL#A Rayas
+0011#STR0012#ALL#Administracion
+0012#STR0013#ALL#Seleccionando registros...
+0013#STR0014#ALL# de 
+0014#STR0015#ALL#LABORATORIO : 
+0015#STR0016#ALL#Especificado
+0016#STR0017#ALL#Encontrados
+0017#STR0018#ALL#Minimo
+0018#STR0019#ALL#Maximo
+0019#STR0020#ALL#Encontrado
+0020#STR0021#ALL#Enero
+0021#STR0022#ALL#Febrero
+0022#STR0023#ALL#Marzo
+0023#STR0024#ALL#Abril
+0024#STR0025#ALL#Mayo
+0025#STR0026#ALL#Junio
+0026#STR0027#ALL#Julio
+0027#STR0028#ALL#Agosto
+0028#STR0029#ALL#Septiembre
+0029#STR0030#ALL#Octubre
+0030#STR0031#ALL#Noviembre
+0031#STR0032#ALL#Diciembre
+0032#STR0033#ALL#OPERACION : 
+0033#STR0034#ALL# Informaciones complementarias 
+0034#STR0035#ALL#Debido a que el informe esta con aprobacion urgente, no se podra emitir el certificado de calidad.
+0035#STR0036#ALL#Atencion
+0036#STR0037#ALL#¿Impr. Ensayo Texto ?
+0037#STR0038#ALL#Una Medicion
+0038#STR0039#ALL#Todas Mediciones
+0039#STR0040#ALL#Factura
+0040#STR0041#ALL#Serie
+0041#STR0042#ALL#Promedio
+0042#STR0043#ALL#Identificada inconsistencia, favor verificar (Orden de Produccion + Lote + Nº Serie + Producto + Revision)
+0043#STR0044#ALL#Identificada inconsistencia, favor verificar la clave (Producto + Fecha Produccion)

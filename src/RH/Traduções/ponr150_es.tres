@@ -1,0 +1,14 @@
+0001#STR0001#BRA#Informe de impresiones del reloj registrador no dadas de baja
+0002#STR0002#BRA#Este programa imprime el Informe de impresiones del reloj registrador no dadas de baja
+0003#STR0003#BRA#Sucursal + Departamento + Empleado
+0004#STR0004#BRA#Sucursal + Responsable + Departamento + Empleado
+0005#STR0005#BRA#Sucursal + Centro de costo + Empleado
+0006#STR0006#BRA#Nombre responsable
+0007#STR0007#BRA#Total departamento
+0008#STR0008#BRA#Total responsable
+0009#STR0009#BRA#Total centro de costo
+0010#STR0010#BRA#Total sucursal
+0011#STR0011#BRA#Total unidad de negocio
+0012#STR0012#BRA#Total empresa
+0013#STR0013#BRA#Consulta de responsables
+0014#STR0014#BRA#Observación

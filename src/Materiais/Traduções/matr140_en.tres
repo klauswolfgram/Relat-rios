@@ -1,0 +1,78 @@
+0001#STR0001#ALL#Generation of registered Purchase Requisitions
+0002#STR0002#ALL#Purchase Requisition
+0003#STR0003#ALL#Z.Form 
+0004#STR0004#ALL#Administration
+0005#STR0005#ALL#Jan
+0006#STR0006#ALL#Feb
+0007#STR0007#ALL#Mar
+0008#STR0008#ALL#Apr
+0009#STR0009#ALL#May
+0010#STR0010#ALL#Jun
+0011#STR0011#ALL#Jul
+0012#STR0012#ALL#Aug
+0013#STR0013#ALL#Sep
+0014#STR0014#ALL#Oct
+0015#STR0015#ALL#Nov
+0016#STR0016#ALL#Dec
+0017#STR0017#ALL#CANCELLED BY THE OPERATOR
+0018#STR0018#ALL#Cost Center 
+0019#STR0019#ALL#NOTE:
+0020#STR0020#ALL#ALLOCATED REQUISITIONS:
+0021#STR0021#ALL#There are no allocated requisitions for this item.
+0022#STR0022#ALL#Production      Product to be          Estimated       Quantity      |     Production      Product to be          Estimated       Quantity      |     Production      Product to be          Estimated       Quantity      |
+0023#STR0023#ALL#Order           produced               Start           Required      |     Order           produced               Start           Required      |     Order           produced               Start           Required      |
+0024#STR0024#ALL#CONSUMPT.OF 12 LAST MONTHS:
+0025#STR0025#ALL#No records of previous consumption were found for this Item.
+0026#STR0026#ALL#  Average C
+0027#STR0027#ALL#LAST ORDERS:
+0028#STR0028#ALL#There are no orders registered for this Item.
+0029#STR0029#ALL#Number It   Supplier Code        Unit  Name                                   Quantity     Un.of Mea.   Unit Value      Total Value    Issue Dt.     Necessity      Term   Condition   Qtty Delivered   Resid.Bal.   Del.  |
+0030#STR0030#ALL#SUPPLIERS:
+0031#STR0031#ALL#There are no Suppliers registered for this Item.
+0032#STR0032#ALL#Code   Un Name                         Telephone       Contact    Fax             Last Purch.   City         St Ris   Cod. at Suppl.
+0033#STR0033#ALL#Code   Un Name                         Telephone       Contact    Fax             Lst Purch. City            St Ris  Cod. at Suppl.
+0034#STR0034#ALL#Alternate Code: 
+0035#STR0035#ALL#Balance of the Alternate
+0036#STR0036#ALL#There are no
+0037#STR0037#ALL#|  C O M P E T I T O R S                      | DELIVERY        | NOTES                              | PAYMENT TERMS    |  CONTACT         |QUANTITY        |  UNIT PRICE                 | IPI     |     VALUE            |
+0038#STR0038#ALL#|                 REQUESTOR                                                                                  |                    APPROVED BY                                                                              |
+0039#STR0039#ALL#ITEM CODE   PRODUCT                  DESCRIPTION                              BALANCE     POINT OF       BALANCE OF UNIT        WAREH         QUANT.PER        LAST PRICE          LEAD        DATE OF         DATA FOR  
+0040#STR0040#ALL#                                                                              CURRENT       ORDER     REQUEST        MEASURE                  PACKAGE             OF PURCHASE      TIME        NEED            PURCHASE  
+0041#STR0041#ALL#Code                 Un.  Company Name Phone           Contact    Fax             Lst.Purc.   City           St Ris Code at Supplier
+0042#STR0042#ALL#Code   Un Name       Unit Company Name   Phone           Contact    Fax             Lst.Pur. City            St Ris Code at Supplier
+0043#STR0043#ALL#Number 
+0044#STR0044#ALL#Number Item Supplier Code        Unit  Name                                   Quantity     Un.of Mea.       Unit Value    Total Value  Issue Dt.     Necessity      Term   Condition   Qtty Delivered   Resid.Bal.   Del.  |
+0045#STR0045#ALL#to Issue  
+0046#STR0046#ALL#Update SIGACUS.PRW !!!
+0047#STR0047#ALL#Update SIGACUSA.PRX !!!
+0048#STR0048#ALL#Update SIGACUSB.PRX !!!
+0049#STR0049#ALL#Description
+0050#STR0050#ALL#Point of Order
+0051#STR0051#ALL#Balance of PR
+0052#STR0052#ALL#Lead Time
+0053#STR0053#ALL#Date of Need    
+0054#STR0054#ALL#Date to Purchase 
+0055#STR0055#ALL#Production Order
+0056#STR0056#ALL#Product to be Produced
+0057#STR0057#ALL#Estimat.Start
+0058#STR0058#ALL#Quantity Required
+0059#STR0059#ALL#Day.Term
+0060#STR0060#ALL#Res.Blc.
+0061#STR0061#ALL#Eli.
+0062#STR0062#ALL#No
+0063#STR0063#ALL#Yes
+0064#STR0064#ALL#Purchase requests     
+0065#STR0065#ALL#Alloc.  
+0066#STR0066#ALL#Demands 
+0067#STR0067#ALL#Purchase orders  
+0068#STR0068#ALL#Product vs. Supplier binding    
+0069#STR0069#ALL#Group vs. Supplier binding    
+0070#STR0070#ALL#Field 'Regeneration' (C1_QTDREEM) reached the value 
+0071#STR0071#ALL# for requisitions: 
+0072#STR0072#ALL#. Contact the adminsitrator and ask for changing the field size.
+0073#STR0073#ALL#Regeneration Notice
+0074#STR0074#ALL#Item
+0075#STR0075#ALL#Suppl.
+0076#STR0076#ALL#Store
+0077#STR0077#ALL#MU
+0078#STR0078#ALL#Paym.T.

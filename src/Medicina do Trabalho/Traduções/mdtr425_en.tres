@@ -1,0 +1,26 @@
+0001#STR0001#ALL#Presentation report of diseases per Cost Center. Based on the
+0002#STR0002#ALL#diagnoses issued by the doctors to the employees.           
+0003#STR0003#ALL#Through the parameters the C.Center and /or ICD may be selected. 
+0004#STR0004#ALL#Z. Form
+0005#STR0005#ALL#Management
+0006#STR0006#ALL#ICD vs. Cost center
+0007#STR0007#ALL#C.Center              Cost Center Name
+0008#STR0008#ALL#I.C.D.   Descr.                                                                I.C.D. Group
+0009#STR0009#ALL#Male     Fem.   Total
+0010#STR0010#ALL#CANCELLED BY OPERATOR
+0011#STR0011#ALL#Customer..:
+0012#STR0012#ALL#From Customer ?
+0013#STR0013#ALL#Unit
+0014#STR0014#ALL#To Customer ?
+0015#STR0015#ALL#Customer code. Leave the field blank to consider since the first code.
+0016#STR0016#ALL#Customer unit code. Leave the field blank to consider since the first code.
+0017#STR0017#ALL#Customer code. Fill in the field with Z up to its limit to consider the last code.
+0018#STR0018#ALL#Customer unit code. Fill in the field with Z up to its limit to consider the last code.
+0019#STR0019#ALL#Customer/Unit: 
+0020#STR0020#ALL#No data to print in the report.
+0021#STR0021#ALL#To Diagn. Date?
+0022#STR0022#ALL#From Diagn. Date?
+0023#STR0023#ALL#To ICD?
+0024#STR0024#ALL#From ICD?
+0025#STR0025#ALL#To Cost Center?
+0026#STR0026#ALL#From Cost Center?

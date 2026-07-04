@@ -1,0 +1,55 @@
+0001#STR0001#ALL#Aviso ao Sindicato sobre Eleições CIPA
+0002#STR0002#ALL#Comunicação de processo eleitoral
+0003#STR0003#ALL#ATENCAO
+0004#STR0004#ALL#O Servidor de SMTP nao foi configurado.
+0005#STR0005#ALL#Verifique o parametro (MV_RELSERV).
+0006#STR0006#ALL#A Conta do email nao foi configurado.
+0007#STR0007#ALL#Verifique o parametro (MV_RELACNT).
+0008#STR0008#ALL#A Senha do email nao foi configurado.
+0009#STR0009#ALL#Verifique o parametro (MV_RELPSW).
+0010#STR0010#ALL#Aviso ao Sindicato sobre o início do processo eleitoral
+0011#STR0011#ALL#Presidente
+0012#STR0012#ALL#Para
+0013#STR0013#ALL#Cópia
+0014#STR0014#ALL#Assunto
+0015#STR0015#ALL#Falha na Autenticação do Usuário no Provedor de E-mail
+0016#STR0016#ALL#Erro no envio de Email
+0017#STR0017#ALL#Email enviado com sucesso
+0018#STR0018#ALL#Erro na conexao com o SMTP Server
+0019#STR0019#ALL#Atenção
+0020#STR0020#ALL#Não foi informado o email do destinatário.
+0021#STR0021#ALL#Não foi informado o assunto. Deseja enviá-lo agora?
+0022#STR0022#ALL#Ao(À) Exmo.(a) Sr.(a)
+0023#STR0023#ALL#Assunto: 
+0024#STR0024#ALL#Senhor(a) Presidente,
+0025#STR0025#ALL#Comunicamos a este Sindicato, que será realizada no dia 
+0026#STR0026#ALL#, a eleição dos representantes dos empregados na Comissão Interna de 
+0027#STR0027#ALL#Prevenção de Acidentes - CIPA, da empresa 
+0028#STR0028#ALL# no endereço 
+0029#STR0029#ALL#Atenciosamente,
+0030#STR0030#ALL#Responsável pela Empresa
+0031#STR0031#ALL#Cliente ?
+0032#STR0032#ALL#Loja
+0033#STR0033#ALL#Cidade Sede do Sindicato ?
+0034#STR0034#ALL#Nome do Sindicato ?
+0035#STR0035#ALL#Nome Dirigente Sindicato ?
+0036#STR0036#ALL#E-mail do Sindicato ?
+0037#STR0037#ALL#Mandato ?
+0038#STR0038#ALL#&Enviar
+0039#STR0039#ALL#&Imprimir
+0040#STR0040#ALL#&Cancelar
+0041#STR0041#ALL# de 
+0042#STR0042#ALL#Cabeçalho
+0043#STR0043#ALL#Texto
+0044#STR0044#ALL#Aviso ao Sindicato sobre Eleições CIPATR
+0045#STR0045#ALL#Prevenção de Acidentes no Trabalho Rural - CIPATR, da empresa 
+0046#STR0046#ALL#Mandato ?
+0047#STR0047#ALL#Indica o Mandato da CIPATR que será considerado para impressão do Relatório.
+0048#STR0048#ALL#Indica o Mandato da CIPA que será considerado para impressão do Relatório.
+0049#STR0049#ALL#Nome Coordenador Sindicato ?
+0050#STR0050#ALL#Nome do Coordenador do sindicato.
+0051#STR0051#ALL#Nome do presidente do sindicato.
+0052#STR0052#ALL#Coordenador
+0053#STR0053#ALL#Senhor(a) Coordenador,
+0054#STR0054#ALL#Aviso ao Sindicato sobre Eleições CIPA Mineradora
+0055#STR0055#ALL#Prevenção de Acidentes - CIPA Mineradora, da empresa 

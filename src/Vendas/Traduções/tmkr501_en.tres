@@ -1,0 +1,22 @@
+0001#STR0001#ALL#Calls x Interactions
+0002#STR0002#ALL#This program will list call that were not solved up to the maximum number of interventions concerning customer.
+0003#STR0003#ALL#Group
+0004#STR0004#ALL#Calls
+0005#STR0005#ALL#Synthetic Analysis
+0006#STR0006#ALL#Team
+0007#STR0007#ALL#Analyst
+0008#STR0008#ALL#Customer
+0009#STR0009#ALL#Description
+0010#STR0010#ALL#Product
+0011#STR0011#ALL#Analyst
+0012#STR0012#ALL#Amt.interactions
+0013#STR0013#ALL#Total of calls 
+0014#STR0014#ALL#Code
+0015#STR0015#ALL#Total of call
+0016#STR0016#ALL#Amt.of calls with more than X interactions
+0017#STR0017#ALL#(%) of calls with more than X interactions
+0018#STR0018#ALL#Amt.of calls in the period: 
+0019#STR0019#ALL#Amt.of calls with more than 
+0020#STR0020#ALL# interactions: 
+0021#STR0021#ALL#Percentage of calls with more than 
+0022#STR0022#ALL#Results by teams

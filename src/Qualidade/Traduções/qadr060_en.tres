@@ -1,0 +1,24 @@
+0001#STR0001#ALL#The purpose of this report is to display one or more audits     
+0002#STR0002#ALL#with the questions description and space for entering grades and evidences.
+0003#STR0003#ALL#Audits List           
+0004#STR0004#ALL#Z.Form
+0005#STR0005#ALL#Management   
+0006#STR0006#ALL#CANCELLED BY OPERATOR  
+0007#STR0007#ALL#Conclusion
+0008#STR0008#ALL#AUDITOR
+0009#STR0009#ALL#Quest.    Description                                                               Range              Grade    
+0010#STR0010#ALL#Auditors 
+0011#STR0011#ALL#Non-conformance 
+0012#STR0012#ALL# - Auditor = 
+0013#STR0013#ALL#Evidence: 
+0014#STR0014#ALL#Note of question:     
+0015#STR0015#ALL#Suggestion/Note by the Auditors 
+0016#STR0016#ALL#Descript.
+0017#STR0017#ALL#Checklist 
+0018#STR0018#ALL#Topic 
+0019#STR0019#ALL#Question
+0020#STR0020#ALL#Note to Question     
+0021#STR0021#ALL#Evidence 
+0022#STR0022#ALL#Non-conformances 
+0023#STR0023#ALL#Suggestion/Note by Audit        
+0024#STR0024#ALL#Conclusion by Audit   

@@ -1,0 +1,55 @@
+0001#STR0001#ALL#Generando visualizacion, Espere...
+0002#STR0002#ALL# ¿Las instalaciones y equipos de inspeccion son
+0003#STR0003#ALL# adecuados para proporcionar una inspeccion dimensional
+0004#STR0004#ALL# inicial y continua pormenorizada en todos los componentes?
+0005#STR0005#ALL# ¿Se marcaron las areas claramente para todos los
+0006#STR0006#ALL# materiales, herramientas y equipos para cada
+0007#STR0007#ALL# operacion considerada?
+0008#STR0008#ALL# Se reservo espacio suficiente para todos los
+0009#STR0009#ALL# equipos?
+0010#STR0010#ALL# LAS AREAS DE PROCESO E INSPECCION SON:
+0011#STR0011#ALL#* ¿De tamaño adecuado?
+0012#STR0012#ALL#* ¿Correctamente iluminadas?
+0013#STR0013#ALL# ¿Las areas de inspeccion contienen equipos y archivos
+0014#STR0014#ALL# necesarios?
+0015#STR0015#ALL# SON ADECUADAS:
+0016#STR0016#ALL#* ¿Areas de elevacion?
+0017#STR0017#ALL#* ¿Areas de retencion?
+0018#STR0018#ALL# ¿Los puntos de inspeccion estan logicamente localizados
+0019#STR0019#ALL# para evitar la entrega de productos no conformes?
+0020#STR0020#ALL# ¿Se establecieron controles para eliminar el potencial
+0021#STR0021#ALL# para una operacion, incluso procesamiento externo,
+0022#STR0022#ALL# contaminar o mezclar productos similares?
+0023#STR0023#ALL# ¿El material esta protegido de la contaminacion de sistemas
+0024#STR0024#ALL# de manipulacion volante o aire comprimido?
+0025#STR0025#ALL# ¿Se pusieron a disposicion instalaciones para la auditoria final?
+0026#STR0026#ALL# ¿Los controles son adecuados para evitar el movimiento
+0027#STR0027#ALL# de material de entrada fuera de conformidad para
+0028#STR0028#ALL# almacenamiento o punto de utilizacion?
+0029#STR0029#ALL#Preparado Por
+0030#STR0030#ALL# A-5 LISTA DE VERIFICACION DE LAS INSTALACIONES
+0031#STR0031#ALL#Numero interno de la pieza o del cliente
+0032#STR0032#ALL#Pregunta
+0033#STR0033#ALL#Si
+0034#STR0034#ALL#No
+0035#STR0035#ALL#Cometarios / Accion Requerida
+0036#STR0036#ALL#Persona responsable
+0037#STR0037#ALL#Fecha prevista
+0038#STR0038#ALL#Fecha de revision
+0039#STR0039#ALL#Pagina 
+0040#STR0040#ALL# de 
+0041#STR0041#ALL#movimiento de material de entrada no conforme?
+0042#STR0042#ALL#¿Las Instalaciones son adecuadas para controlar el
+0043#STR0043#ALL#de productos?
+0044#STR0044#ALL#N/A
+0045#STR0045#ALL#¿Se aplicaron conceptos 'Lean' al considerar el
+0046#STR0046#ALL#Flujo de Material ?
+0047#STR0047#ALL#¿Las instalaciones Identifican todos los procesos requeridos
+0048#STR0048#ALL#y puntos de Inspeccion ?
+0049#STR0049#ALL#¿Se Establecieron controles para cada proceso 
+0050#STR0050#ALL#para eliminar la contaminacion o mezcla inadecuada
+0051#STR0051#ALL#Se consideraron las areas claramente marcadas para
+0052#STR0052#ALL#todos los materiales, herramientas y equipamientos para 
+0053#STR0053#ALL#cada operacion ?
+0054#STR0054#ALL#¿Se providenciaron instalaciones para auditoria de 
+0055#STR0055#ALL#Producto Final?

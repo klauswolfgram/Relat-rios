@@ -1,0 +1,34 @@
+0001#STR0001#ALL#Este relatorio ira imprimir a relacao bens baixados
+0002#STR0002#ALL#entre um determinado periodo. Podera  ser impresso por
+0003#STR0003#ALL#Conta ou Centro de Custo.
+0004#STR0004#ALL#RELACAO DOS BENS BAIXADOS
+0005#STR0005#ALL#Conta
+0006#STR0006#ALL#C Custo
+0007#STR0009#ALL# por 
+0008#STR0010#ALL# em 
+0009#STR0011#ALL# entre 
+0010#STR0012#ALL# a 
+0011#STR0013#ALL#CANCELADO PELO OPERADOR
+0012#STR0014#ALL#FORNECEDOR 
+0013#STR0016#ALL#TOT.GERAL:
+0014#STR0017#ALL#Zebrado
+0015#STR0018#ALL#Administracao
+0016#STR0020#ALL#Dados do Bem
+0017#STR0021#ALL#Data da Baixa
+0018#STR0022#ALL#Valor Atual
+0019#STR0023#ALL#Valor Residual
+0020#STR0024#ALL#Lucro/Prejuizo
+0021#STR0025#ALL#Motivo não cadastrado
+0022#STR0026#ALL#Total Filial 
+0023#STR0027#ALL#Total Conta 
+0024#STR0028#ALL#Total Centro de Custo 
+0025#STR0029#ALL#Lucro/Prejuizo
+0026#STR0030#ALL#Depr Acumul
+0027#STR0031#ALL#Valor Baixa
+0028#STR0032#ALL#Vl Ampliação
+0029#STR0033#ALL#Conta                          C.C                Base       Item TP  Descricao                    Aquisic.    Dt.Baixa   Nota Fisc.  Motivo
+0030#STR0034#ALL#Qtd.Baixad                 Valor Atual Deprec. Acumulada Corr. Depr Acumul    Valor Residual       Valor Baixa    Lucro/Prejuizo Vl Ampliacao
+0031#STR0035#ALL#Conta                          C.C                Base       Item TP  Descricao             Aquisic.    Dt.Baixa   Nota Fisc.         Motivo
+0032#STR0036#ALL#Total
+0033#STR0037#ALL#Total Geral
+0034#STR0038#ALL#Total empresa

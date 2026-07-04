@@ -1,0 +1,42 @@
+0001#STR0001#ALL#Secuencia
+0002#STR0002#ALL#Descripc.
+0003#STR0003#ALL#Pag.
+0004#STR0004#ALL#No. FNC Rv
+0005#STR0005#ALL#Originador
+0006#STR0006#ALL#Apertura
+0007#STR0007#ALL#PLAN ACCION  
+0008#STR0008#ALL#Correctiva
+0009#STR0009#ALL#Preventiva
+0010#STR0010#ALL#Mejora  
+0011#STR0011#ALL#Registrada
+0012#STR0012#ALL#EnAnalisis
+0013#STR0013#ALL#Procede
+0014#STR0014#ALL#No Procede 
+0015#STR0015#ALL#Anulada  
+0016#STR0016#ALL#Num.
+0017#STR0017#ALL#Revision:
+0018#STR0018#ALL#FechaApertura
+0019#STR0019#ALL#Fecha Cierre Real     
+0020#STR0020#ALL#Acc. 
+0021#STR0021#ALL#Responsable
+0022#STR0022#ALL#Estat.
+0023#STR0023#ALL#Descripc. detallada
+0024#STR0024#ALL#Posibles causas
+0025#STR0025#ALL#Acc. 
+0026#STR0026#ALL#Responsable                    Previs.    Conclus.    Descripc.
+0027#STR0027#ALL#Resultado esperado
+0028#STR0028#ALL#Resultado obtenido
+0029#STR0029#ALL#Ficha Ocurrencia/No conformidades relacionadas 
+0030#STR0030#ALL#No.FNC.     Rv Originador                     Apertura   Descrip. 
+0031#STR0031#ALL#Fecha de Cierre Previsto   
+0032#STR0032#ALL#Tipo accion
+0033#STR0033#ALL#Descripc.
+0034#STR0034#ALL#Previs. 
+0035#STR0035#ALL#Conclus. 
+0036#STR0036#ALL#Cliente
+0037#STR0037#ALL#Proveedor 
+0038#STR0038#ALL#Contacto
+0039#STR0039#ALL#Este programa imprimira el Plan de Accion   
+0040#STR0040#ALL#Datos Confidenciales
+0041#STR0041#ALL#Acceso permitido a 
+0042#STR0042#ALL# y a los responsables por las etapas

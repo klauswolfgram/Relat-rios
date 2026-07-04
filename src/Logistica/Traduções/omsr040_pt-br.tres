@@ -1,0 +1,44 @@
+0001#STR0001#ALL#Prestacao de Contas (Conferencia)
+0002#STR0002#ALL#Este relatorio ira imprimir a Conferencia realizada nas
+0003#STR0003#ALL#cargas de acordo com os parametros informados pelo usuario
+0004#STR0004#ALL#FORMA  DESCRICAO                         TOTAL              DEVOLUCAO          TOTAL A             REALIZADO       DIFERENCA
+0005#STR0005#ALL#PAGTO                                                                          RECEBER
+0006#STR0006#ALL#CARGA   : 
+0007#STR0007#ALL#VEICULO : 
+0008#STR0008#ALL#MOTORISTA : 
+0009#STR0009#ALL#PESO    :
+0010#STR0010#ALL#VOLUME M3 : 
+0011#STR0011#ALL#PTOS ENTREGA : 
+0012#STR0012#ALL#VALOR : 
+0013#STR0013#ALL#DATA    :
+0014#STR0014#ALL# AS 
+0015#STR0015#ALL#EMISSAO : 
+0016#STR0016#ALL#USUARIO :
+0017#STR0017#ALL#MOTORISTA :
+0018#STR0018#ALL#TOTAL => 
+0019#STR0019#ALL#Por Carga
+0020#STR0020#ALL#Por Emissao
+0021#STR0021#ALL#Por Motorista
+0022#STR0022#ALL#Devolucoes indefinidas :
+0023#STR0023#ALL#CANCELADO PELO OPERADOR
+0024#STR0024#ALL#-TESOURARIA
+0025#STR0025#ALL#Prestacao de Contas (Conferencia)	
+0026#STR0026#ALL#Este relatorio ira imprimir a Conferencia realizada nas
+0027#STR0027#ALL#cargas de acordo com os parametros informados pelo usuario
+0028#STR0028#ALL#Usuario
+0029#STR0029#ALL#Descricao
+0030#STR0030#ALL#Devolucao
+0031#STR0031#ALL#Total a Receber
+0032#STR0032#ALL#Diferenca
+0033#STR0033#ALL#Por Carga
+0034#STR0034#ALL#Por Emissao
+0035#STR0035#ALL#Por Motorista
+0036#STR0036#ALL#T O T A L =>
+0037#STR0037#ALL#Forma de Pagto
+0038#STR0038#ALL#-TESOURARIA
+0039#STR0039#ALL#Devolucoes indefinidas :
+0040#STR0040#ALL#Carga
+0041#STR0041#ALL#Detalhes da Carga
+0042#STR0042#ALL#Conferencia
+0043#STR0043#ALL#Detalhes
+0044#STR0044#ALL#Motorista

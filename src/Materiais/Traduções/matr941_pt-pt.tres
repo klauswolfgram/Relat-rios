@@ -1,0 +1,34 @@
+0002#STR0002#ALL#Entradas
+0003#STR0003#ALL#1.000 Do Distrito
+0004#STR0004#ALL#2.000 De Outros Distritos
+0005#STR0005#ALL#3.000 Do Exterior
+0006#STR0006#ALL#Totais
+0007#STR0007#ALL#Sem Movimento
+0008#STR0008#ALL#Debitado
+0010#STR0010#ALL#5.000 Para O Distrito
+0011#STR0011#ALL#6.000 Para Outros Distritos
+0012#STR0012#ALL#7.000 Para O Exterior
+0014#STR0014#ALL#, valor da 
+0017#STR0017#ALL#Saldo
+0019#STR0019#ALL#| firma: #########################################################                                                                 |
+0020#STR0020#ALL#| insc.est.: ######################## c.n.p.j.: #################                                                                  |
+0022#STR0022#ALL#|                                                         e n t r a d a s                                                          |
+0024#STR0024#ALL#|               |                   |                                  icms - valores fiscais                                      |
+0027#STR0027#ALL#|---------------|      valores      |---------------------------------------------+------------------------------------------------|
+0029#STR0029#ALL#|subtotais ########                 |                      |                      |                         |                      |
+0032#STR0032#ALL#| # |                                                                                    |   coluna auxiliar  |        soma        |
+0036#STR0036#ALL#| # | 004 - sub-total                                                                    |                    | ################## |
+0041#STR0041#ALL#| # | 008 - sub-total                                                                    |                    | ################## |
+0043#STR0043#ALL#| # | 010 - total                                                                        |                    | ################## |
+0047#STR0047#ALL#| # | 013 - imposto a recolher                                                           |                    | ################## |
+0054#STR0054#ALL# a 
+0055#STR0055#ALL#Creditado
+0057#STR0057#ALL#| firma: #########################################################                                                                 |
+0058#STR0058#ALL#| insc.est.: ######################## c.n.p.j.: #################                                                                  |
+0061#STR0061#ALL#| # |                                                                                    |   coluna auxiliar  |        soma        |
+0070#STR0070#ALL#| # | 008 - SUB-TOTAL( 006+007+008)                                                      |                    | ################## |
+0072#STR0072#ALL#| # | 010 - TOTAL( 010+011 )                                                             |                    | ################## |
+0074#STR0074#ALL#| # | 011 - SALDO DEVEDOR ( 005-012 )                                                    |                    | ################## |
+0076#STR0076#ALL#| # | 013 - IMPOSTO A RECOLHER ( 013-014)                                                |                    | ################## |
+0092#STR0092#ALL#Data: 
+0093#STR0093#ALL#Valor: 

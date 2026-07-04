@@ -1,0 +1,21 @@
+0001#STR0001#ALL#Relacion de Colectas por Percurso
+0002#STR0002#ALL#Emite Relacion de Colectas por Percurso
+0003#STR0003#ALL#conforme los parametros informados
+0004#STR0004#ALL#A Rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#Seleccionando Registros...
+0007#STR0007#ALL#Seleccionando Registro en el DT5...
+0008#STR0008#ALL#                                                                                              SOLICITUD
+0009#STR0009#ALL#F. ORIGEN  N.SOLICITUD ORDEN DE COLECTA  SOLICITANTE                    VOLUMEN         PESO FECHA      HORA
+0010#STR0010#ALL#CANCELADO POR EL OPERADOR
+0011#STR0011#ALL#Percurso: 
+0012#STR0012#ALL#TOTAL DE PERCURSO (
+0013#STR0013#ALL# QTDE)
+0014#STR0014#ALL#Lista de colectas por ruta
+0015#STR0015#ALL#Emite lista de colectas por ruta segun los parametros informados
+0016#STR0016#ALL#Estatus + Ruta + Solic. Colecta
+0017#STR0017#ALL#Estatus
+0018#STR0018#ALL#Total del Estatus
+0019#STR0019#ALL#Ruta
+0020#STR0020#ALL#Solicitud
+0021#STR0021#ALL#Solicitante

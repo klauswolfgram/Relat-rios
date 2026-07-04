@@ -1,0 +1,26 @@
+0001#STR0001#ALL#Relacao das Devolucoes de Vendas
+0002#STR0002#ALL#Este relatório irá imprimir a relaçäo de itens
+0003#STR0003#ALL#referentes as devoluçóes de vendas.
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#NOTA         PRODUTO         DESCRICAO                    QUANTIDADE UM    PR.UNITARIO IPI            VALOR ICM CODIGO/RAZAO SOCIAL DO CLIENTE                TP TE  TIPO GRUPO DT.DIGITACAO          CUSTO NF ORIG SERIE
+0007#STR0007#ALL#Selecionando Registros ... 
+0008#STR0008#ALL#CANCELADO PELO OPERADOR
+0009#STR0009#ALL#TOTAL DESCONTOS --> 
+0010#STR0010#ALL#TOTAL NOTA FISCAL --> 
+0011#STR0011#ALL#Duplicatas da Nota Fiscal de Saida
+0012#STR0012#ALL#Nao houve titulos gerados na saida
+0013#STR0013#ALL#Prf Numero               Parc.    Venc.              Saldo
+0014#STR0014#ALL#Relacao das Devolucoes de Vendas
+0015#STR0015#ALL#Este relatório irá imprimir a relaçäo de itens
+0016#STR0016#ALL#referentes as devoluçóes de vendas.
+0017#STR0017#ALL#TOTAL DESCONTOS --> 
+0018#STR0018#ALL#TOTAL NOTA FISCAL --> 
+0019#STR0019#ALL#Duplicatas da Nota Fiscal de Saida
+0020#STR0020#ALL#Nao houve titulos gerados na saida
+0021#STR0021#ALL#Notas de Devolucao
+0022#STR0022#ALL#Titulos
+0023#STR0023#ALL#TOTAL GERAL       --> 
+0024#STR0024#ALL#NOTA                 PRODUTO         DESCRICAO                  QUANTIDADE   UM    PR.UNITARIO IPI            VALOR CODIGO/RAZAO SOCIAL DO CLIENTE    TP TE  TIPO GRUPO DT.DIGITACAO          CUSTO NF ORIG            SERIE
+0025#STR0025#ALL#IPI
+0026#STR0026#ALL#ICMS

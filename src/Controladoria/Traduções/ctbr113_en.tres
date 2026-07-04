@@ -1,0 +1,29 @@
+0001#STR0001#ALL#This program will print a General Journal Model 2, according
+0002#STR0002#ALL#to the parameters selected by the user. This model is appro-
+0003#STR0003#ALL#priate for Charts of Accounts with long codes.
+0004#STR0004#ALL#Z.Form
+0005#STR0005#ALL#Management
+0006#STR0006#ALL#Print General Journal
+0007#STR0007#ALL#          A C C O U N T                   H I S T O R Y                            ENTRY                          V  A  L  U  E
+0008#STR0008#ALL#D E B I T            C R E D I T                                                   NUMBER                    DEBIT           CREDIT 
+0009#STR0009#ALL#GENERAL LEDGER FROM 
+0010#STR0010#ALL# TO 
+0011#STR0011#ALL# IN 
+0012#STR0012#ALL#***** CANCELLED BY THE OPERATOR *****
+0013#STR0013#ALL#To Transport =======>
+0014#STR0014#ALL#From Transport =======>
+0015#STR0015#ALL#Totals of this Day =======>
+0016#STR0016#ALL#Totals of this Month =======>
+0017#STR0017#ALL#Grand Total ============>
+0018#STR0018#ALL#G E N E R A L   J O U R N A L
+0019#STR0019#ALL#Sheet:    
+0020#STR0020#ALL#D E B I T            C R E D I T                                                   NUMBER                    DEBIT           CREDIT 
+0021#STR0021#ALL#A C C N T .
+0022#STR0022#ALL#H I S T O R Y
+0023#STR0023#ALL#NUMBER
+0024#STR0024#ALL#V  A  L  U  E
+0025#STR0025#ALL#D E B I T  
+0026#STR0026#ALL#C R E D I T  
+0027#STR0027#ALL#ENTRY  
+0028#STR0028#ALL#DEBIT 
+0029#STR0029#ALL#CREDIT 

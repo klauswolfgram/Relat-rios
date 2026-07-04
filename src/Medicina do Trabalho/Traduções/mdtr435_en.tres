@@ -1,0 +1,73 @@
+0001#STR0001#ALL#Report of absent employees.                                
+0002#STR0002#ALL#Through the parameters it is possible to select the code   
+0003#STR0003#ALL#of absent and the desired period.                          
+0004#STR0004#ALL#Z. Form
+0005#STR0005#ALL#Management
+0006#STR0006#ALL#Absent Employees
+0007#STR0007#ALL#Code  Description of Leave
+0008#STR0008#ALL#   Mat.    Employee                    ICD         Leave Date  Ret. Date  Days
+0009#STR0009#ALL#CANCELED BY OPERATOR
+0010#STR0010#ALL#Absent Days Total
+0011#STR0011#ALL#Employee's status?       
+0012#STR0012#ALL#On leave
+0013#STR0013#ALL#Dismissed
+0014#STR0014#ALL#From Customer ?
+0015#STR0015#ALL#Customer code. Leave the field blank to consider since the first code.
+0016#STR0016#ALL#Unit
+0017#STR0017#ALL#Customer unit code. Leave the field blank to consider since the first code.
+0018#STR0018#ALL#To Customer ?
+0019#STR0019#ALL#Customer code. Fill in the field with Z up to its limit to consider the last code.
+0020#STR0020#ALL#Customer unit code. Fill in the field with Z up to its limit to consider the last code.
+0021#STR0021#ALL#Employees on Leave
+0022#STR0022#ALL#Customer
+0023#STR0023#ALL#Name
+0024#STR0024#ALL#Leave Type
+0025#STR0025#ALL#Leave
+0026#STR0026#ALL#Description
+0027#STR0027#ALL#Employees
+0028#STR0028#ALL#Registration
+0029#STR0029#ALL#Employee
+0030#STR0030#ALL#ICD
+0031#STR0031#ALL#Leave Date
+0032#STR0032#ALL#Ret. Date
+0033#STR0033#ALL#Days
+0034#STR0034#ALL#Total Leave Days
+0035#STR0035#ALL#Processing File...
+0036#STR0036#ALL#Customer/Unit: 
+0037#STR0037#ALL#No data to print in the report.
+0038#STR0038#ALL#Vacation
+0039#STR0039#ALL#Active
+0040#STR0040#ALL#All
+0041#STR0041#ALL#Total of Leave
+0042#STR0042#ALL#Total of Leave Days
+0043#STR0043#ALL#Total of Employees
+0044#STR0044#ALL#Grand Total
+0045#STR0045#ALL#Grand Total of Days
+0046#STR0046#ALL#Grand Total of Employees
+0047#STR0047#ALL#Indicates if only on leave, fired or on vacation employees must be considered. 
+0048#STR0048#ALL#Print?
+0049#STR0049#ALL#Type F,O,P,S,Y
+0050#STR0050#ALL#All
+0051#STR0051#ALL#Indicates if it considers only leaves type F, O, P, S and Y or all.
+0052#STR0052#ALL#To Leave Date?
+0053#STR0053#ALL#From Leave Date?
+0054#STR0054#ALL#To Leave Code?
+0055#STR0055#ALL#From Leave Code?
+0056#STR0056#ALL#To Cost Center?
+0057#STR0057#ALL#From Cost Center?
+0058#STR0058#ALL#To ICD?
+0059#STR0059#ALL#From ICD?
+0060#STR0060#ALL#To Leave Code?
+0061#STR0061#ALL#From Leave Code?
+0062#STR0062#ALL#Cost center code. The field can remain empty to consider from the first code.
+0063#STR0063#ALL#Cost center code. The field can be filled out with Z up to the end to consider up to the last code.
+0064#STR0064#ALL#DIC code. The field can remain empty to consider from the first code.
+0065#STR0065#ALL#DIC code. Fill the field with Z up to the end to consider up to the last code.
+0066#STR0066#ALL#All leaves?
+0067#STR0067#ALL#Yes
+0068#STR0068#ALL#No
+0069#STR0069#ALL#Indicates if all leaves must be printed or just the last one.
+0070#STR0070#ALL#From Absence Type?
+0071#STR0071#ALL#To Absence Type?
+0072#STR0072#ALL#Code of Absence Type. The field can remain empty to consider from the first code.
+0073#STR0073#ALL#Code of Absence Type. The field can be filled out with Z up to the end to consider up to the last code.

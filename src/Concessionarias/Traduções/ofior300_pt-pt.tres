@@ -1,0 +1,32 @@
+0001#STR0001#ALL#Checklist ainda não foi gravado
+0002#STR0002#ALL#Checklist de veiculos (oficina)
+0003#STR0003#ALL#Número ordem serviço  
+0005#STR0005#ALL#Data ordem de serviço  
+0008#STR0008#ALL#Marcar
+0013#STR0013#ALL#Check-list itens do veiculo
+0014#STR0014#ALL#Possui estepe: 
+0016#STR0016#ALL#Não
+0017#STR0017#ALL#Possui toca cd: 
+0018#STR0018#ALL#Possui toca-fitas: 
+0019#STR0019#ALL#Frente som removivel: 
+0020#STR0020#ALL#Possui modulo som: 
+0021#STR0021#ALL#Tem triângulo: 
+0022#STR0022#ALL#Possui dvd: 
+0023#STR0023#ALL#Roda liga-leve: 
+0024#STR0024#ALL#Possui antena externa: 
+0025#STR0025#ALL#Disqueteira cd: 
+0026#STR0026#ALL#Espelho retrovisor direito: 
+0027#STR0027#ALL#Possui calotas: 
+0028#STR0028#ALL#Farol de milha/neblina: 
+0029#STR0029#ALL#Jogo de tapetes: 
+0030#STR0030#ALL#Acendedor cigarros: 
+0031#STR0031#ALL#Bancos em couro: 
+0032#STR0032#ALL#Macaco manual/hidraulico: 
+0033#STR0033#ALL#Insulfilm nos vidros: 
+0034#STR0034#ALL#Alarme sonoro: 
+0035#STR0035#ALL#Corta combustivel: 
+0036#STR0036#ALL#Vidros verdes: 
+0037#STR0037#ALL#Vidros eletricos: 
+0038#STR0038#ALL#Check-list Do Estado Do Veiculo
+0041#STR0041#ALL#Elemento
+0045#STR0045#ALL#Início

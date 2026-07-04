@@ -1,0 +1,20 @@
+0001#STR0001#ALL#Informe de ingresos y despidos.
+0002#STR0002#ALL#Se imprimira de acuerdo con los parametros solicitados por
+0003#STR0003#ALL#el usuario.
+0004#STR0004#ALL#A rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#INFORME DE INGRESOS Y DESPIDOS
+0007#STR0007#ALL#    1 = CGC              2 = CEI       3 = Tot. Hojas     4 = Nº Hojas     5 = Referencia              MTPS - MINISTERIO DEL TRABAJO
+0008#STR0008#ALL# 6 = CP       7 = ACTIVIDAD ECONOMICA (CNAE)      8 = 1ª DECLARACION     9 = CIERRE                 Y DE LA PREVIDENCIA SOCIAL
+0009#STR0009#ALL#10 = CAMBIO DIRECCION   11 = CAMBIO ACTIVIDAD    12 = CORRIGE ANTERIOR     13 = TOTAL 1º DIA             SISTEMA ARCHIVO LEY 4923/65
+0010#STR0010#ALL#            14=INGRESOS EN EL MES - 1º EMPLEO  + REEMPLEO  + ENT.TRANSF. + REINTEG. =  TOTAL              EN SELLO NORMALIZADO CGC
+0011#STR0011#ALL#15 = DESVINCULACIONES
+0012#STR0012#ALL#S.JUSTA CAUSA + C.JUSTA CAUSA + A PEDIDO + JUBL. + MUERTE + SAL.TRANSF. + TERM.CONTR. = TOTAL
+0013#STR0013#ALL#                                            16 = TOTAL USADAS EN EL ULTIMO DIA         
+0014#STR0014#ALL#   PIS/PASEP  SEXO RAZA GRADO CBO   DEF  NOMBRE COMPLETO                  CTPS    SER   EST   DATA      REMUNERACION HRS FECHA     DESL TIPO
+0015#STR0015#ALL#    1 = CGC              2 = CEI       3 = Total Hojas    4 = Nº Hoja     5 = Referencia              MTPS - MINISTERIO DEL TRABAJO
+0016#STR0016#ALL#                                                                                                         Y DE LA PREVIDENCIA SOCIAL
+0017#STR0017#ALL#                                                                                                       SISTEMA ARCHIVO   LEY 4923/65
+0018#STR0018#ALL#                                                                                                         EN SELLO NORMALIZADO  CGC
+0019#STR0019#ALL#   PIS/PASEP  SEXO RAZA GRADO CBO   DEF  NOMBRE COMPLETO                  CTPS    SER   EST   DATA      REMUNERACION HRS FECHA     DESL TIPO
+0020#STR0020#ALL#                   COR  INST       FIS                                                    NACIM.                   INGRESO      MVTO

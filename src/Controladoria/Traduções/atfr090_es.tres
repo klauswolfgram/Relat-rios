@@ -1,0 +1,30 @@
+0001#STR0001#ALL#Este programa imprimirá una lista de bienes adquiridos como  
+0002#STR0002#ALL#anticipos. Puede listarse por Código, Cuenta, C. Costo, 
+0003#STR0003#ALL#Proyecto o Fecha de adquisición 
+0004#STR0004#ALL#Lista de los anticipos
+0005#STR0005#ALL#Por código
+0006#STR0006#ALL#Por cuenta
+0007#STR0007#ALL#Por C.Costo
+0008#STR0008#ALL#Proyecto
+0009#STR0009#ALL#Fcha
+0010#STR0010#ALL#Valores en 
+0011#STR0011#ALL#Código      Ítem   Cuenta contable        C. Costo                Proyecto                 Fecha           Valr Anticipo       Cta Deprec.            Cuenta Depr Acum       Cta Corrección    Ítem contable    Clase valor
+0012#STR0012#ALL#ANULADO POR EL OPERADOR
+0013#STR0013#ALL#TOTAL GENERAL:  
+0014#STR0014#ALL#A Rayas
+0015#STR0015#ALL#Administrac. 
+0016#STR0016#ALL#TOTAL : 
+0017#STR0017#ALL#Ítem contable
+0018#STR0018#ALL#Clase de valor
+0019#STR0019#ALL#Código      Ítem   Cuenta contable        C. Costo                Proyecto                 Fecha            Valor anticipo     Cta Deprec.            Cuenta Depr Acum       Cuenta corrección    Clase valor
+0020#STR0020#ALL#Código      Ítem   Cuenta contable        C. Costo                Proyecto                 Fecha            Valor anticipo     Cta Deprec.            Cuenta Depr Acum       Cuenta corrección Ítem contable
+0021#STR0021#ALL# DE CÓDIGO BASE 
+0022#STR0022#ALL# DE CUENTA CONTABLE
+0023#STR0023#ALL# DE ÍTEM CONTABLE 
+0024#STR0024#ALL# DE CLASE DE VALOR 
+0025#STR0025#ALL# DE CENTRO DE COSTO
+0026#STR0026#ALL#Valor anticipo
+0027#STR0027#ALL#Ítem
+0028#STR0028#ALL#Código
+0029#STR0029#ALL#Orden de los anticipos
+0030#STR0030#ALL#Movimientos de anticipos

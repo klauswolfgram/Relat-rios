@@ -1,0 +1,22 @@
+0001#STR0001#ALL#Impressao de Tabela Salarial.
+0002#STR0002#ALL#Será impresso de acordo com os parametros solicitados pelo
+0003#STR0003#ALL#usuário.
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administraçäo
+0006#STR0006#ALL#RELATORIO DE TABELA SALARIAL
+0007#STR0007#ALL#Tabela Salarial
+0008#STR0008#ALL#Classe Salarial            Cargos por Classe               Nivel Faixa    Coefic.        Valores                   Pontos   
+0009#STR0009#ALL#Pontos
+0010#STR0010#ALL#Cargo
+0011#STR0011#ALL#Tabela
+0012#STR0012#ALL#Nivel
+0013#STR0013#ALL#Faixa	
+0014#STR0014#ALL#Este relatório imprime a Tabela Salarial conforme Nivel e Classe selecionados pelo usuário.
+0015#STR0015#ALL#Classes e Cargos
+0016#STR0016#ALL#Niveis, Faixas e Pontos
+0017#STR0017#ALL#Situação
+0018#STR0018#ALL#Aplicada
+0019#STR0019#ALL#Não Aplicada
+0020#STR0020#ALL#Filial
+0021#STR0021#ALL#Data Refer.
+0022#STR0022#ALL#Valor Refer.

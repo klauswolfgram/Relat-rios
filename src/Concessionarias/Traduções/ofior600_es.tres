@@ -1,0 +1,44 @@
+0001#STR0001#ALL#Impres. del agendamiento
+0002#STR0002#ALL#A rayas
+0003#STR0003#ALL#Administracion
+0004#STR0004#ALL#Grupo  Descripcion------------ Cod Inc-------- Descripcion---------------- Tiemp
+0005#STR0005#ALL#Informe de agendamiento
+0006#STR0006#ALL#     Hora  Box S Llv Vehiculo               Prop. Td. Nombre                           Estatus    Placa      Nombre del tecnico
+0007#STR0007#ALL#     Direccion             Ciudad              UF Telefon        Marca     Modelo    
+0008#STR0008#ALL#Lista de Agendamientos
+0009#STR0009#ALL#Hora Inicial Invalida
+0010#STR0010#ALL#Atencion
+0011#STR0011#ALL#Hora Final Invalida
+0012#STR0012#ALL#Programado
+0013#STR0013#ALL#OS Pendiente
+0014#STR0014#ALL#Finalizado
+0015#STR0015#ALL#Anulado
+0016#STR0016#ALL#Presupuesto pendiente
+0017#STR0017#ALL#CONSULTOR: 
+0018#STR0018#ALL#Fecha: 
+0019#STR0019#ALL#GESTOR: 
+0020#STR0020#ALL#Activo
+0021#STR0021#ALL#Reactivo
+0022#STR0022#ALL#Todos
+0023#STR0023#ALL#Agenda por Box
+0024#STR0024#ALL#Hora Matrícula Marca Modelo Cliente Servicio Mecánico Consultor Duración Cd.Recup Tipo Program Agenda
+0025#STR0025#ALL#Agenda por Consultor
+0026#STR0026#ALL#Hora Matrícula Marca Modelo Cliente Servicio Mecánico Box Duración Cd.Recup Tipo Program Agenda
+0027#STR0027#ALL#Lista de programación en agenda
+0028#STR0028#ALL#Hora Box Estatus Clv Vehículo Matrícula. Marca Modelo N.Ident. Servicio KM Revis Presupuesto Duración Fch.Llegada Ord.Srv. Fch.Apertura Estatus Cd.Recup Tipo Prog en Agenda
+0029#STR0029#ALL#Cliente Dirección Ciudad Est/Prov/Reg Teléfono
+0030#STR0030#ALL#Estatus de las programaciones en agenda
+0031#STR0031#ALL#Grupo de descripción----------------- Código-- ------ Descripción------------------
+0032#STR0032#ALL#Resp. Programación en agenda:
+0033#STR0033#ALL#Consultor:
+0034#STR0034#ALL#Mecánico:
+0035#STR0035#ALL#Contacto:
+0036#STR0036#ALL#Reclamo:
+0037#STR0037#ALL#ABIERTA
+0038#STR0038#ALL#LIBERADA
+0039#STR0039#ALL#FINALIZADA
+0040#STR0040#ALL#ANULADA
+0041#STR0041#ALL#Box:
+0042#STR0042#ALL#Hora Matrícula Marca Modelo Cliente Servicio Mecánico Consultor Duración Tipo Programación en agenda
+0043#STR0043#ALL#Hora Matrícula Marca Modelo Cliente Servicio Mecánico Box Duración Tipo Programación en agenda
+0044#STR0044#ALL#Hora Box Estatus Clv Vehículo Matrícula. Marca Modelo N.Ident. Servicio KM Revis Presupuesto Duración Fch. Llegada Ord.Srv. Fch.Apertura Estatus Tipo Programación en agenda

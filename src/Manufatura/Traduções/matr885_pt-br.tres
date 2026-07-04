@@ -1,0 +1,19 @@
+0001#STR0001#ALL#Relatorio de Produtividade
+0002#STR0002#ALL#Emite a relaçäo de produtividade por operador, de acordo com o
+0003#STR0003#ALL#cálculo de percentual que pode ser alterado pelo usuario, já que
+0004#STR0004#ALL#a rotina é RDMAKE.
+0005#STR0005#ALL#Zebrado
+0006#STR0006#ALL#Administracao
+0007#STR0007#ALL#REGISTRO(S)
+0008#STR0008#ALL#Selecionando Registros...
+0009#STR0009#ALL#DATA     HORAS   HORAS       ORDEM DE    PRODUTO         RECURSO   QUANTIDADE        QUANTIDADE      EFICIENCIA
+0010#STR0010#ALL#         PADRAO  TRABALHADAS PRODUCAO                              PREVISTA          REAL                %
+0011#STR0011#ALL#Operador :
+0012#STR0012#ALL#Horas:
+0013#STR0013#ALL#Produtividade 
+0014#STR0014#ALL#Tempo Padrao
+0015#STR0015#ALL#Quantidade Prev.
+0016#STR0016#ALL#Quantidade Real
+0017#STR0017#ALL#Eficiencia(%)
+0018#STR0018#ALL#Apontamento de produção PCP
+0019#STR0019#ALL#Totais por Operador

@@ -1,0 +1,73 @@
+0001#STR0001#ALL#Kardex by Cost in Parts
+0002#STR0002#ALL#This program generates a movement list of products
+0003#STR0003#ALL#selected and ordered in sequence.
+0004#STR0004#ALL# Product Code 
+0005#STR0005#ALL#Type of Product
+0006#STR0006#ALL#Z-Form
+0007#STR0007#ALL#Administration
+0008#STR0008#ALL#KARDEX BY COST IN PARTS 
+0009#STR0009#ALL#(SEQUENCE) 
+0010#STR0010#ALL#(CALCUL.) 
+0011#STR0011#ALL#L O C A T :
+0012#STR0012#ALL#    OPERATION      
+0013#STR0013#ALL#   DOCUMENT    
+0014#STR0014#ALL#   SEQUENCE    
+0015#STR0015#ALL# |              I  N  F  L  O  W  S               |        AVER. COST  |                O  U  T  F  L  .                |                B   A   L   C   .        |   CUS,SPP,
+0016#STR0016#ALL#    DATE   TIO  C.F    NUMBER     |           QUANTITY               MOV.  TOTAL   |       COST         |          QUANTITY                TOTAL COST    |     QUANTITY                 GRAND TOTAL|   CC , LE ou PO
+0017#STR0017#ALL# (By  
+0018#STR0018#ALL# ,in 
+0019#STR0019#ALL#Selecting Records
+0020#STR0020#ALL#CANCELLED BY OPERATOR
+0021#STR0021#ALL#T O T A L S:
+0022#STR0022#ALL#QTY. IN THE 2ND MU: 
+0023#STR0023#ALL#NO MOVEMENT FOR THIS PRODUCT.
+0024#STR0024#ALL#MU : 
+0025#STR0025#ALL#TYPE : 
+0026#STR0026#ALL#GROUP : 
+0027#STR0027#ALL#AVER.C.P. : 
+0028#STR0028#ALL#IPI Status : 
+0029#STR0029#ALL#Address      : 
+0030#STR0030#ALL#Attention
+0031#STR0031#ALL#Do not consider unified average cost when changing warehouses.
+0032#STR0032#ALL#Confirm
+0033#STR0033#ALL#Quit
+0034#STR0034#ALL#BALANCE QTY.
+0035#STR0035#ALL#BALANCE GRAND TOTAL
+0036#STR0036#ALL#OPERATION
+0037#STR0037#ALL#DATE
+0038#STR0038#ALL#TIO
+0039#STR0039#ALL#C.F
+0040#STR0040#ALL#DOCUMENT
+0041#STR0041#ALL#NUMBER
+0042#STR0042#ALL#INFLOWS
+0043#STR0043#ALL#QUANTITY
+0044#STR0044#ALL#TOTAL C.P.
+0045#STR0045#ALL#AVER.C.P
+0046#STR0046#ALL#MOVEMENT
+0047#STR0047#ALL#OUTFLOWS
+0048#STR0048#ALL#BALANCE
+0049#STR0049#ALL#GRAND TOTAL
+0050#STR0050#ALL#CUST,SUPPL,
+0051#STR0051#ALL#CC, LEG.ENT OR PO
+0052#STR0052#ALL#SEQUENCE
+0053#STR0053#ALL#MU
+0054#STR0054#ALL#TYPE
+0055#STR0055#ALL#GROUP
+0056#STR0056#ALL#AVER.C.P.
+0057#STR0057#ALL#IPI STATUS
+0058#STR0058#ALL#ADDRESS
+0059#STR0059#ALL#Products (Part 1)
+0060#STR0060#ALL#Product (Part 2)
+0061#STR0061#ALL#Product transfer
+0062#STR0062#ALL#CODE
+0063#STR0063#ALL#DESCRIPTION
+0064#STR0064#ALL#NUMBER
+0065#STR0065#ALL#C.IN PARTS
+0066#STR0066#ALL#Cost in parts not correctly configured. Please, check if all the fields of cost in parts were added correctly to the data dictionary.
+0067#STR0067#ALL#No rules defined to use cost in parts. Please, check whether the entry-point MA330CP is compiled in the environment.
+0068#STR0068#ALL#Part number selected not available for the cost in parts current configuration used by the company. Enter a valid number for the cost in parts.
+0069#STR0069#ALL#with the cost in parts value selected.    
+0070#STR0070#ALL#ATTENTION: Values printed in the report are based on estimated calculations through
+0071#STR0071#ALL#average cost recalculation routine. We suggest you to run
+0072#STR0072#ALL#this routine at least once for the movement
+0073#STR0073#ALL#to be printed.

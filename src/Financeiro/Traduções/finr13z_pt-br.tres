@@ -1,0 +1,46 @@
+0001#STR0001#ALL#PreImpreso
+0002#STR0002#ALL#Administracion
+0003#STR0003#ALL#Estado de CUENTAS a PAGAR
+0004#STR0004#ALL#Procesando proveedor 
+0005#STR0005#ALL#Procesando Ordenes de Pago
+0006#STR0006#ALL#No se encontraron datos segun los parametros ingresados
+0007#STR0007#ALL#Imprimiendo 
+0008#STR0008#ALL#Cod.   Nombre / Razon Social                    Tipo  Comprobante   Fecha    Fecha de Fecha          Debitos         Creditos           Saldo
+0009#STR0009#ALL#                                                Cpte.               Emision  Registro Vto.                                          Acumulado
+0010#STR0010#ALL#Cod.   Nombre / Razon Social                                                                Debitos         Creditos           Saldo
+0011#STR0011#ALL#                                                                                                                           Acumulado
+0012#STR0012#ALL#Saldos al: 
+0013#STR0013#ALL#SUB-TOTALES DEL PROVEEDOR 
+0014#STR0014#ALL#TOTALES GENERALES:
+0015#STR0015#ALL#Desde Proveedor   
+0016#STR0016#ALL#Hasta Proveedor   
+0017#STR0017#ALL#Desde Fecha       
+0018#STR0018#ALL#Hasta Fecha       
+0019#STR0019#ALL#Analitico         
+0020#STR0020#ALL#Fecha Referencia  
+0021#STR0021#ALL#Ordenado Por      
+0022#STR0022#ALL#Pag. por Proveedor
+0023#STR0023#ALL#Formato           
+0024#STR0024#ALL#Imprime Saldo Cero
+0025#STR0025#ALL#Analitico
+0026#STR0026#ALL#Resumen
+0027#STR0027#ALL#Emision
+0028#STR0028#ALL#Vencimiento
+0029#STR0029#ALL#Registro
+0030#STR0030#ALL#Código
+0031#STR0031#ALL#R. Social
+0032#STR0032#ALL#Si
+0033#STR0033#ALL#No
+0034#STR0034#ALL#Normal
+0035#STR0035#ALL#Archivo
+0036#STR0036#ALL#Data 
+0037#STR0037#ALL#Registro
+0038#STR0038#ALL#Vencto
+0039#STR0039#ALL#Debitos
+0040#STR0040#ALL#Creditos
+0041#STR0041#ALL#  Saldo
+0042#STR0042#ALL#Acumulado
+0043#STR0043#ALL#Fornecedores
+0044#STR0044#ALL#Movimientos
+0045#STR0045#ALL# - Em 
+0046#STR0046#ALL#Diario CTB

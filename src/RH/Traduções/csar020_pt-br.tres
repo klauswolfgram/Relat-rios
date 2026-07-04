@@ -1,0 +1,46 @@
+0001#STR0001#ALL#Relatorio de Graduacao de Fatores X Funcionarios
+0002#STR0002#ALL#Será impresso de acordo com os parametros solicitados pelo
+0003#STR0003#ALL#usuário.
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administraçäo
+0006#STR0006#ALL#MATR.   NOME                            DT.NASC.     DT.ADMIS.     EST.CIVIL
+0007#STR0007#ALL#Grupo
+0008#STR0008#ALL#Centro de Custo :
+0009#STR0009#ALL#Cargo
+0010#STR0010#ALL#FATOR NECESSARIO                  GRADUACAO FUNCIONARIO
+0011#STR0011#ALL#FATOR NECESSARIO                  GRADUACAO FUNCIONARIO              PONTOS
+0012#STR0012#ALL#                                                         T O T A L :
+0013#STR0013#ALL#DESCRICAO DETALHADA DO FATOR
+0014#STR0014#ALL# *** Nao existe Descricao detalhada do Fator *** 
+0015#STR0015#ALL#OBSERVACAO FATOR DO FUNCIONARIO
+0016#STR0016#ALL# *** Nao tem nenhuma Observacao para este Fator *** 
+0017#STR0017#ALL#Funcionario
+0018#STR0018#ALL#Graduacao do Funcionario
+0019#STR0019#ALL#Grau Cargo
+0020#STR0020#ALL#Pontos
+0021#STR0021#ALL#Grau Func
+0022#STR0022#ALL#Estado Civil
+0023#STR0023#ALL#Fatores X Funcionários
+0024#STR0024#ALL#Ctr Funcionários
+0025#STR0025#ALL#Cód. Grupo
+0026#STR0026#ALL#Descrição
+0027#STR0027#ALL#Cód. Centro de Custo
+0028#STR0028#ALL#Cód. Cargo
+0029#STR0029#ALL#Cód. Matrícula
+0030#STR0030#ALL#Nome
+0031#STR0031#ALL#Dt.Nasc
+0032#STR0032#ALL#Dt.Admis
+0033#STR0033#ALL#Est. Civil
+0034#STR0034#ALL# T O T A L: 
+0035#STR0035#ALL#Cód.
+0036#STR0036#ALL#Fator Necessário
+0037#STR0037#ALL#Graduação Funcionário
+0038#STR0038#ALL#Pontos
+0039#STR0039#ALL#Este programa emite Relatório de Graduação de Fatores X Funcionários
+0040#STR0040#ALL#Centro de Custo
+0041#STR0041#ALL#Fator e Grau
+0042#STR0042#ALL#Descrição Detalhada Fator
+0043#STR0043#ALL#FILIAL
+0044#STR0044#ALL#GAP
+0045#STR0045#ALL#Grau Necessário
+0046#STR0046#ALL#***Não há graduação cadastrada para este fator***

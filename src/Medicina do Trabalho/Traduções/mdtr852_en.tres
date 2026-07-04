@@ -1,0 +1,85 @@
+0001#STR0001#ALL#To use this report, you must execute function UPDMDT28.
+0002#STR0002#ALL#For further information, refer to the Technical Newsletter number: 
+0003#STR0003#ALL#NON-CONFORMANCE
+0004#STR0004#ALL#Program of Conditions of Work Environment in Civil Construction
+0005#STR0005#ALL#Select report model.
+0006#STR0006#ALL#Report Model
+0007#STR0007#ALL#Standard
+0008#STR0008#ALL#Chart
+0009#STR0009#ALL#Report type is not PCMAT.
+0010#STR0010#ALL#Cost Center informed in the Report is not registered as Work.
+0011#STR0011#ALL#PCMAT - Program of Conditions of Work Environment in Civil Construction
+0012#STR0012#ALL#Through parameters, select items to be considered 
+0013#STR0013#ALL#in the report.                                                        
+0014#STR0014#ALL#Z-form
+0015#STR0015#ALL#Management
+0016#STR0016#ALL#WORK DATA
+0017#STR0017#ALL#Work Address
+0018#STR0018#ALL#Company name of contracting party
+0019#STR0019#ALL#CNPJ of contracting party
+0020#STR0020#ALL#Address of contracting party
+0021#STR0021#ALL#Work Type
+0022#STR0022#ALL#Work Start Date
+0023#STR0023#ALL#Work Final Date
+0024#STR0024#ALL#Maximum number of workers estimated
+0025#STR0025#ALL#TECHNICAL PEOPLE IN CHARGE
+0026#STR0026#ALL#COORDINATOR:
+0027#STR0027#ALL#REG.SSST:
+0028#STR0028#ALL#CRM
+0029#STR0029#ALL#PHONE NUMBER:
+0030#STR0030#ALL#ADDRESS:
+0031#STR0031#ALL#PERSON IN CHARGE: 
+0032#STR0032#ALL# of 
+0033#STR0033#ALL#DATE:
+0034#STR0034#ALL#Signature: 
+0035#STR0035#ALL#COMPANY
+0036#STR0036#ALL#C.G.C.
+0037#STR0037#ALL#CITY
+0038#STR0038#ALL#File pcmat.dot was not found in server.
+0039#STR0039#ALL#Check parameter 'MV_DIRACA.'
+0040#STR0040#ALL#ATTENTION
+0041#STR0041#ALL#TECHNICAL PEOPLE IN CHARGE:
+0042#STR0042#ALL#Change to MS-Word program to view the document or click the button to close.
+0043#STR0043#ALL#Position Purpose
+0044#STR0044#ALL#Position Purpose: 
+0045#STR0045#ALL#ACTIVITIES AND OPERATIONS
+0046#STR0046#ALL#MAIN RISKS
+0047#STR0047#ALL#IPEs/Precaution
+0048#STR0048#ALL#CPEs/Prevention
+0049#STR0049#ALL#The cost center must belong to the customer selected.
+0050#STR0050#ALL#Protection Type:              C.A. Ref.:    IPE Type:                              Rate Considered:
+0051#STR0051#ALL#Protection Type
+0052#STR0052#ALL#C.A. Ref.:
+0053#STR0053#ALL#IPE Type
+0054#STR0054#ALL#Task Accomplished
+0055#STR0055#ALL#ACTIONS/ MONTH
+0056#STR0056#ALL#Planned
+0057#STR0057#ALL#Executed
+0058#STR0058#ALL#Customer?
+0059#STR0059#ALL#Store
+0060#STR0060#ALL#Report?
+0061#STR0061#ALL#Coordinator?
+0062#STR0062#ALL#Print          ?
+0063#STR0063#ALL#Printer
+0064#STR0064#ALL#File
+0065#STR0065#ALL#Outflow File      ?
+0066#STR0066#ALL#Jan/
+0067#STR0067#ALL#Feb/
+0068#STR0068#ALL#Mar/
+0069#STR0069#ALL#Apr/
+0070#STR0070#ALL#May/
+0071#STR0071#ALL#Jun/
+0072#STR0072#ALL#Jul/
+0073#STR0073#ALL#Aug/
+0074#STR0074#ALL#Sep/
+0075#STR0075#ALL#Oct/
+0076#STR0076#ALL#Nov/
+0077#STR0077#ALL#Dec/
+0078#STR0078#ALL#Living Areas of the Phase
+0079#STR0079#ALL#Phase Equipment
+0080#STR0080#ALL#CPEs of Phase
+0081#STR0081#ALL#C.G.C. of Contracting Party
+0082#STR0082#ALL#Print?
+0083#STR0083#ALL#Outflow File?
+0084#STR0084#ALL#Coordinator?
+0085#STR0085#ALL#Outflow File?

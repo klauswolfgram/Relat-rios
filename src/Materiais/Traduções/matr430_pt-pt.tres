@@ -1,0 +1,13 @@
+0001#STR0001#ALL#Emite um relatório com os cálculos da folha de cálculo seleccionada para
+0002#STR0002#ALL# cada artigo. os valores calculados são os mesmos referentes
+0003#STR0003#ALL# às fórmulas da folha de cálculo.
+0004#STR0004#ALL#Folha De Cálculo De Formação De Preços
+0005#STR0005#ALL#Código de barras
+0006#STR0006#ALL#Administração
+0007#STR0007#ALL#Cancelado Pelo Operador
+0008#STR0008#ALL#Cél.  nível  código          descrição                              um     quantidade      
+0009#STR0009#ALL#% Part
+0010#STR0010#ALL#                                                                                          Valor Unitário        Valor Total     Valor Unitário        Valor Total
+0011#STR0011#ALL#                                                                                          Valor Unitário        Valor Total
+0013#STR0013#ALL#Valor Unitário
+0015#STR0015#ALL#Artigos

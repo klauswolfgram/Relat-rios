@@ -1,0 +1,48 @@
+0001#STR0001#ALL#Mostrar todos os riscos a que o funcionario esta exposto atualmente,
+0002#STR0002#ALL#bem como os riscos que existem no novo ambiente em que o funcionario
+0003#STR0003#ALL#ira trabalhar
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#Riscos Atual do Funcionario e Existentes no Novo Ambiente
+0007#STR0007#ALL#SIM
+0008#STR0008#ALL#NAO
+0009#STR0009#ALL#Funcionario.......:
+0010#STR0010#ALL#Data de Nascimento:
+0011#STR0011#ALL#Data de Admissao..:
+0012#STR0012#ALL#Ambiente Atual
+0013#STR0013#ALL#Centro de Custo.:
+0014#STR0014#ALL#a partir de: 
+0015#STR0015#ALL#Funcao..........:
+0016#STR0016#ALL#Tarefas.........:
+0017#STR0017#ALL#Riscos
+0018#STR0018#ALL#Num. Risco Agente               Fonte Geradora       Avaliacao   Intensidade U.M.   C.Custo              Funcao Tarefa
+0019#STR0019#ALL#Todas
+0020#STR0020#ALL#Ambiente Novo
+0021#STR0021#ALL#Num. Risco Agente               Fonte Geradora       Avaliacao   Intensidade U.M.   C.Custo              Funcao Tarefa Novo
+0022#STR0022#ALL#Epi's Necessarios.:
+0023#STR0023#ALL#O centro de custo deve pertencer ao mesmo cliente onde o funcionário está localizado.
+0024#STR0024#ALL#Cliente/Loja....:
+0025#STR0025#ALL#Num.Risco  Agente               Fonte Geradora       Avaliacao Intensid.    U.M.    C.Custo               Funcao          Tarefa    Departamento
+0026#STR0026#ALL#Num.Risco  Agente            Fonte Geradora    Avaliacao Intensid.    U.M.    C.Custo               Funcao          Tarefa  Departamento   Novo
+0027#STR0027#ALL#A função selecionada não pertence ao cliente onde o funcionário está localizado.
+0028#STR0028#ALL#A tarefa selecionada não pertence ao cliente onde o funcionário está localizado.
+0029#STR0029#ALL#Código
+0030#STR0030#ALL#Nome
+0031#STR0031#ALL#Codigo
+0032#STR0032#ALL#Marcados
+0033#STR0033#ALL#Selecione o novo ambiente para o funcionário
+0034#STR0034#ALL#Matrícula
+0035#STR0035#ALL#Novo Centro de Custo
+0036#STR0036#ALL#Nova Função
+0037#STR0037#ALL#Novas Tarefas
+0038#STR0038#ALL#Ordenar Por
+0039#STR0039#ALL#Localizar Tarefa
+0040#STR0040#ALL#Não foi possível localizar esta tarefa.
+0041#STR0041#ALL#Atenção
+0042#STR0042#ALL#Departamento....:
+0043#STR0043#ALL#Novo Departamento
+0044#STR0044#ALL#Novo Departamento ?
+0045#STR0045#ALL#Código do departamento do novo ambiente do funcionário.
+0046#STR0046#ALL#Num.Risco  Agente               Fonte Geradora       Avaliacao Intensid.  U.M.    C.Custo               Funcao          Tarefa
+0047#STR0047#ALL#Num.Risco  Agente            Fonte Geradora    Avaliacao Intensid.  U.M.    C.Custo               Funcao          Tarefa  Novo
+0048#STR0048#ALL#Todos

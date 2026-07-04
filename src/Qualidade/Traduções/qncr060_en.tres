@@ -1,0 +1,42 @@
+0001#STR0001#ALL#Sequence 
+0002#STR0002#ALL#Descript.
+0003#STR0003#ALL#Pag.
+0004#STR0004#ALL#Rv FNC No 
+0005#STR0005#ALL#Originator
+0006#STR0006#ALL#Opening 
+0007#STR0007#ALL#ACTION PLAN  
+0008#STR0008#ALL#Corrective
+0009#STR0009#ALL#Preventive
+0010#STR0010#ALL#Improv. 
+0011#STR0011#ALL#Registered
+0012#STR0012#ALL#Under Anal.
+0013#STR0013#ALL#Accepted
+0014#STR0014#ALL#Not Accepted
+0015#STR0015#ALL#Cancelled
+0016#STR0016#ALL#No. 
+0017#STR0017#ALL#Review:  
+0018#STR0018#ALL#Opening Date 
+0019#STR0019#ALL#Actual Closing Date   
+0020#STR0020#ALL#Action 
+0021#STR0021#ALL#Responsible
+0022#STR0022#ALL#Status
+0023#STR0023#ALL#Detailed Descript. 
+0024#STR0024#ALL#Probable Reasons
+0025#STR0025#ALL#Actions
+0026#STR0026#ALL#Responsible                    Expected   Conclusion  Descript. 
+0027#STR0027#ALL#Expected Result
+0028#STR0028#ALL#Attained Result   
+0029#STR0029#ALL#Related occurrence/Non-Conformance card         
+0030#STR0030#ALL#Nr.FNC.     Rv Originator                     Open       Descript. 
+0031#STR0031#ALL#Estimated Closing Date     
+0032#STR0032#ALL#Action Type 
+0033#STR0033#ALL#Descript.
+0034#STR0034#ALL#Estimat.
+0035#STR0035#ALL#Conclusion
+0036#STR0036#ALL#Custom.
+0037#STR0037#ALL#Supplier
+0038#STR0038#ALL#Contact
+0039#STR0039#ALL#This program will print an Action Plan.     
+0040#STR0040#ALL#Secret Information
+0041#STR0041#ALL#Access allowed to 
+0042#STR0042#ALL# and to users responsible for stages

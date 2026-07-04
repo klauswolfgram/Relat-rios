@@ -1,0 +1,25 @@
+0001#STR0001#BRA#Restituição de icms st e icms op - Minas criais
+0002#STR0002#BRA#Este programa irá emitir a listagem necessária aos pedidos de
+0004#STR0004#BRA#Minas criais, conforme solicitação da fiscalização das finanças.
+0005#STR0005#BRA#Código de barras
+0006#STR0006#BRA#Administração
+0007#STR0007#BRA#*** não houve movimento ***
+0008#STR0008#BRA#Restituição De Icms St E Icms Op
+0009#STR0009#BRA#Razão social: ########################################
+0010#STR0010#BRA#Ie:           ##############
+0011#STR0011#BRA#Cnpj:         ##################
+0012#STR0012#BRA#Período:      ########## a ##########
+0013#STR0013#BRA#RESUMO GERAL POR ARTIGO                                                                                                                                                                                     Página: ###### 
+0014#STR0014#BRA#|     ARTIGO     |     Quantidade |  Valor ICMS ST |  Valor ICMS Op |    Quantidade |  Valor ICMS ST |  Valor ICMS Op |     Quantidade |     Quantidade |  Valor ICMS ST |  Valor ICMS Op |       VALOR A |      VALOR DO |
+0015#STR0015#BRA#|                 |                |                |        Própria |               |                |        Própria |                |                |        Própria |                |     RESTITUIR |       CRÉDITO |
+0019#STR0019#BRA#| NÃO EXISTEM VALORES DE RESTITUIÇÃO NO PERÍODO                                                                                                                                                                            |
+0022#STR0022#BRA#Nbm
+0026#STR0026#BRA#Icms st ressarcível
+0027#STR0027#BRA#Icms op própria a creditar
+0029#STR0029#BRA#Razão social
+0030#STR0030#BRA#Ie
+0031#STR0031#BRA#Cnpj
+0033#STR0033#BRA#Resumo Crial Por Produto
+0035#STR0035#BRA#Inventário:   ##########
+0036#STR0036#BRA#|    CÓDIGO DO    |----------------+----------------+----------------+---------------+----------------+----------------+----------------+----------------+----------------+----------------+-------------------------------|
+0037#STR0037#BRA#|                 |                   INVENTÁRIO                     |               ENTRADAS DO PERÍODO               | SAÍDAS PERÍODO |                      TOTAIS                      |         RESSARCIMENTO         |

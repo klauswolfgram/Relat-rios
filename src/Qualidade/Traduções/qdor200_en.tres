@@ -1,0 +1,80 @@
+0001#STR0001#ALL#Re-issue Documents 
+0002#STR0002#ALL#Do not re-issue Documents defined as Electronic copies 
+0003#STR0003#ALL#Re-issue Documents defined as Electronic copies 
+0004#STR0004#ALL#Users
+0005#STR0005#ALL#Documents 
+0006#STR0006#ALL#Name
+0007#STR0007#ALL#R. Name
+0008#STR0008#ALL#Double-click to select Users 
+0009#STR0009#ALL#Document 
+0010#STR0010#ALL#Rv
+0011#STR0011#ALL#Title 
+0012#STR0012#ALL#Double-click to select Documents 
+0013#STR0013#ALL#Setup
+0014#STR0014#ALL#The Current Setup is set to  
+0015#STR0015#ALL#No Re-issue
+0016#STR0016#ALL#Re-issue 
+0017#STR0017#ALL# Documents defined as Electronic copies
+0018#STR0018#ALL#Do you want to change the settings to 
+0019#STR0019#ALL#the documents?
+0020#STR0020#ALL#Attention
+0021#STR0021#ALL#Protocol 
+0022#STR0022#ALL#Controlled copy 
+0023#STR0023#ALL#Re-issue Options 
+0024#STR0024#ALL#Documents per User 
+0025#STR0025#ALL#Users per Document 
+0026#STR0026#ALL#Reasons to Re-issue
+0027#STR0027#ALL#Description
+0028#STR0028#ALL#Documents Re-issue - Controlled Copy
+0029#STR0029#ALL#Dept
+0030#STR0030#ALL#Type
+0031#STR0031#ALL#Departments
+0032#STR0032#ALL#Folders
+0033#STR0033#ALL#Bch/Cod
+0034#STR0034#ALL#Folders per Document
+0035#STR0035#ALL#Ass.Cod.
+0036#STR0036#ALL#Doc.Tp.
+0037#STR0037#ALL#Departments per Document
+0038#STR0038#ALL#Re-issue Documents...
+0039#STR0039#ALL#Cancel...
+0040#STR0040#ALL#Re-issue Setup
+0041#STR0041#ALL#Reasons to Re-issue not entered. Please use Setup option.
+0042#STR0042#ALL#Responsible: 
+0043#STR0043#ALL#Cut
+0044#STR0044#ALL#Copy
+0045#STR0045#ALL#Paste
+0046#STR0046#ALL#Calculator...
+0047#STR0047#ALL#Schedule...
+0048#STR0048#ALL#Print Manager...
+0049#STR0049#ALL#Program Help...
+0050#STR0050#ALL#Print Type
+0051#STR0051#ALL#Cover
+0052#STR0052#ALL#Document
+0053#STR0053#ALL#Wait, please..
+0054#STR0054#ALL#Selecting Records...
+0055#STR0055#ALL#Document Search
+0056#STR0056#ALL#user Search
+0057#STR0057#ALL#File Search
+0058#STR0058#ALL#Department Serch
+0059#STR0059#ALL#Field+Sequence
+0060#STR0060#ALL#Branch+Parameter
+0061#STR0061#ALL#Domain+C.Domain
+0062#STR0062#ALL#Search
+0063#STR0063#ALL#Details
+0064#STR0064#ALL#Config
+0065#STR0065#ALL#Spool
+0066#STR0066#ALL#Help
+0067#STR0067#ALL#Calc
+0068#STR0068#ALL#The user logged in is not indicated as a distributor in the file !   
+0069#STR0069#ALL#There are no documents with the distributor responsibility to the user logged in !   
+0070#STR0070#ALL#There are selected Folders that are Inactive!
+0071#STR0071#ALL#This folder will not be selected: it is Inact.
+0072#STR0072#ALL#Inactive
+0073#STR0073#ALL#Inactive
+0074#STR0074#ALL#Inactive User
+0075#STR0075#ALL#There are inactive users.
+0076#STR0076#ALL#Reason
+0077#STR0077#ALL#Enter the document remittance reason
+0078#STR0078#ALL#This field must be filled out, it cannot be blank.
+0079#STR0079#ALL#Starts with
+0080#STR0080#ALL#Contains

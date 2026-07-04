@@ -1,0 +1,19 @@
+0001#STR0001#ALL#This program issues the List of the prices   
+0002#STR0002#ALL#selected by the User.     
+0003#STR0003#ALL#Code           
+0004#STR0004#ALL#Group        
+0005#STR0005#ALL#Alphabetic
+0006#STR0006#ALL#Price List     
+0007#STR0007#ALL#Z.Form 
+0008#STR0008#ALL#Management   
+0009#STR0009#ALL#PRICE LIST      
+0010#STR0010#ALL#CODE            DESCRIPT OF PRODUCT            GROUP UM
+0011#STR0011#ALL#CANCELLED BY THE OPERATOR  
+0012#STR0012#ALL#CURRENCY
+0013#STR0013#ALL#The table number ´0`, entered by the user, is not valid. Enter a valid table code and repeat the process.      
+0014#STR0014#ALL#Price
+0015#STR0015#ALL#Branch + Code  
+0016#STR0016#ALL#Branch + Description + Code
+0017#STR0017#ALL#Branch + Group + Code  
+0018#STR0018#ALL#Product details      
+0019#STR0019#ALL#CODE          				PRODUCT DESCRIPTION           UM GROUP 

@@ -1,0 +1,14 @@
+0001#STR0001#ALL#Table AGF is not in data dictionary.
+0002#STR0002#ALL#Report of Operator Inactivity
+0003#STR0003#ALL#Inactive operators
+0004#STR0004#ALL#Name
+0005#STR0005#ALL#Reason
+0006#STR0006#ALL#Initial Date
+0007#STR0007#ALL#Final Date
+0008#STR0008#ALL#From Operator
+0009#STR0009#ALL#To Operator
+0010#STR0010#ALL#Absence period
+0011#STR0011#ALL#Initial date of inactivity.
+0012#STR0012#ALL#Final date of Inactivity.
+0013#STR0013#ALL#Initial Operator.
+0014#STR0014#ALL#Final Operator.

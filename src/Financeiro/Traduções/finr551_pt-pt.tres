@@ -1,0 +1,49 @@
+0001#STR0001#ALL#Este relatório vai imprimir o balancete de clientes ou
+0002#STR0002#ALL#Fornecedores. poderá ser emitida toda a movimentação 
+0003#STR0003#ALL#Dos mesmos, ou apenas os valores originais.
+0004#STR0004#ALL#Balancete De Contas Correntes
+0005#STR0005#ALL#Código de barras
+0006#STR0006#ALL#Administração
+0007#STR0007#ALL#Balancete de razão de contas correntes de 
+0008#STR0008#ALL#Clientes
+0009#STR0009#ALL#Fornecedores
+0010#STR0010#ALL#Data       Histórico             Prf. Número       Pc Emissão    Venct.     Liquidação              Débito        Crédito    Saldo Actual
+0011#STR0011#ALL#A Seleccionar Registos...
+0012#STR0012#ALL#P/emiss.do Título
+0013#STR0013#ALL#Liq emis fact 
+0014#STR0014#ALL#***** cancelado pelo operador *****
+0015#STR0015#ALL#A transportar : 
+0016#STR0016#ALL#Saldo anterior : 
+0018#STR0018#ALL#Cliente
+0020#STR0020#ALL#T o t a i s   c r i a d o s  
+0021#STR0021#ALL#Clientes
+0022#STR0022#ALL#Fornecedores
+0023#STR0023#ALL#Saldo final do relatório:
+0024#STR0024#ALL#Ref. A Liquidação Do Título
+0025#STR0025#ALL#Desconto Sobre O Título
+0026#STR0026#ALL#Multa/juros S/ O Título
+0027#STR0027#ALL#Corr.monetária S/ O Título
+0028#STR0028#ALL#De transporte : 
+0029#STR0029#ALL#Pela Emissão Factura
+0030#STR0030#ALL#Nota de crédito nr. 
+0031#STR0031#ALL#Nota de débito nr. 
+0032#STR0032#ALL#Factura nr. 
+0033#STR0033#ALL#Adiantamento
+0034#STR0034#ALL#Nota De Créd. Interna
+0035#STR0035#ALL#Nota De Déb. Interna
+0036#STR0036#ALL#Nota De Créd. Externa
+0037#STR0037#ALL#Nota De Déb. Externa
+0038#STR0038#ALL#Vendedor: 
+0039#STR0039#ALL#Comprador: 
+0040#STR0040#ALL#Recibo nr.: 
+0041#STR0041#ALL#Recibo: 
+0042#STR0042#ALL#Ordem de pagamento: 
+0043#STR0043#ALL#Liquidação De Título
+0044#STR0044#ALL#Cheque
+0045#STR0045#ALL#Data
+0046#STR0046#ALL#Histórico
+0047#STR0047#ALL#Débito
+0048#STR0048#ALL#Crédito
+0049#STR0049#ALL#Saldo Actual
+0050#STR0050#ALL#Prefixo
+0051#STR0051#ALL#Contas a pagar

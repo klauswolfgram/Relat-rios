@@ -1,0 +1,21 @@
+0001#STR0001#ALL#Relação do Seguro de Desemprego
+0002#STR0002#ALL#Sera impresso de acordo com os parâmetro s solicitados pelo
+0003#STR0003#ALL#Utilizador.
+0004#STR0004#ALL#Centro De Custo
+0005#STR0005#ALL#Registo
+0006#STR0006#ALL#Código de barras
+0007#STR0007#ALL#Administração
+0008#STR0008#ALL#Fil. C. Custo              Registo  Nome                            Base De Cálculo    Beneficiário           Empresa      Custo Total
+0009#STR0009#ALL# relação do seguro de vida 
+0010#STR0010#ALL# filial: 
+0011#STR0011#ALL# ccto: 
+0012#STR0012#ALL#Base De Cálculo      Custo Beneficiário      Custo Empresa      Custo Total
+0013#STR0013#ALL# empresa: 
+0015#STR0015#ALL#Centro De Custo + Nome
+0016#STR0016#ALL#Total
+0017#STR0017#ALL#Base
+0018#STR0018#ALL#Beneficiário
+0019#STR0019#ALL#Custo
+0020#STR0020#ALL#Centro De Custo
+0021#STR0021#ALL#Total Por Filial
+0023#STR0023#ALL#Empregados

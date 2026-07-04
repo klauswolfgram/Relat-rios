@@ -1,0 +1,17 @@
+0001#STR0001#ALL#Este programa irá emitir a relação dos preços
+0002#STR0002#ALL#Seleccionados pelo utilizador.
+0003#STR0003#ALL#Código         
+0005#STR0005#ALL#Alfabética
+0006#STR0006#ALL#Lista De Preços
+0007#STR0007#ALL#Código de barras
+0008#STR0008#ALL#Administração
+0009#STR0009#ALL#Tabela De Preços
+0010#STR0010#ALL#Código          Descrição Do Produto           Grupo Um
+0011#STR0011#ALL#Cancelado Pelo Operador
+0012#STR0012#ALL#Moeda
+0013#STR0013#ALL#A tabela número '0', inserida pelo utilizador, é inválida. digite um código de tabela válido e repita o processo.
+0015#STR0015#ALL#Filial + Código
+0016#STR0016#ALL#Filial + Descrição + Código
+0017#STR0017#ALL#Filial + Grupo + Código
+0018#STR0018#ALL#Detalhes Dos Artigos
+0019#STR0019#ALL#CÓDIGO          				DESCRIÇÃO DO ARTIGO           GRUP UM

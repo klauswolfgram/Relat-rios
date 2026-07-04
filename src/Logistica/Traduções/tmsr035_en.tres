@@ -1,0 +1,23 @@
+0001#STR0001#ALL#List of Customer Area Terms             
+0002#STR0002#ALL#Issue of Customer Area Terms            
+0003#STR0003#ALL#Will print the data of terms and regions of Clients
+0004#STR0004#ALL#according to the user setup.            
+0005#STR0005#ALL#List of Client Area Terms             
+0006#STR0006#ALL#Z.form
+0007#STR0007#ALL#Management   
+0008#STR0008#ALL# Src.Rec. Src.Descrp.     Trg.Rec. Target Descrp.  Desc.Tp.Tran        Custom. Unit Custm.Name      Fr.Period To Period
+0009#STR0009#ALL#*** CANCELED BY OPERATOR ***
+0010#STR0010#ALL#Report of Customer Region Periods
+0011#STR0011#ALL#Issue of Customer Region Periods
+0012#STR0012#ALL#Items
+0013#STR0013#ALL#Ori.Reg.
+0014#STR0014#ALL#Desc.Origin
+0015#STR0015#ALL#Desc. Rec.
+0016#STR0016#ALL#Desc.Destin.
+0017#STR0017#ALL#Tran.Tp.
+0018#STR0018#ALL#Tran.Tp.Desc.
+0019#STR0019#ALL#Customer
+0020#STR0020#ALL#Store
+0021#STR0021#ALL#Customer Name
+0022#STR0022#ALL#Time from
+0023#STR0023#ALL#Time to

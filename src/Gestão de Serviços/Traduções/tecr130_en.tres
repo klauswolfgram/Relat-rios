@@ -1,0 +1,12 @@
+0001#STR0001#ALL#Budgeted
+0002#STR0002#ALL#Accomplished
+0003#STR0003#ALL#Budgeted / Accomplished List
+0004#STR0004#ALL#   This program will print the Budgeted x Accomplished List,
+0005#STR0005#ALL#according to the parameters requested.
+0006#STR0006#ALL#
+0007#STR0007#ALL#Proposal Header
+0008#STR0008#ALL#Proposal items
+0009#STR0009#ALL#Sales Order Items
+0010#STR0010#ALL#   Grand Total
+0011#STR0011#ALL#Service Contract
+0012#STR0012#ALL#Service Order

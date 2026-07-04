@@ -1,0 +1,22 @@
+0001#STR0001#ALL#Salary Table Printing.
+0002#STR0002#ALL#It will be printed according to the parameters requested
+0003#STR0003#ALL#by user.
+0004#STR0004#ALL#Z.Form
+0005#STR0005#ALL#Administration
+0006#STR0006#ALL#SALARY TABLE REPORT
+0007#STR0007#ALL#Salary Table   
+0008#STR0008#ALL#Salary Class              Positions by Class              Range Level     Rate           Values                    Score  
+0009#STR0009#ALL#Score 
+0010#STR0010#ALL#Position
+0011#STR0011#ALL#Table 
+0012#STR0012#ALL#Level
+0013#STR0013#ALL#Range	
+0014#STR0014#ALL#This report generates the Salary Table according to the Level and Class selected by the user.
+0015#STR0015#ALL#Classes & Posit.
+0016#STR0016#ALL#Levels, Ranges and Score
+0017#STR0017#ALL#Status
+0018#STR0018#ALL#Applied
+0019#STR0019#ALL#Not Applied
+0020#STR0020#ALL#Branch
+0021#STR0021#ALL#Refer. Date
+0022#STR0022#ALL#Refer. Value

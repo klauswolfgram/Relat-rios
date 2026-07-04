@@ -1,0 +1,31 @@
+0001#STR0001#ALL#Este programa ira emitir a Relacao dos Titulos a Receber, 
+0002#STR0002#ALL#referentes a Juros e que ainda nao foram recebidos.       
+0003#STR0003#ALL#Emite os titulos em aberto ou baixados.                   
+0004#STR0004#ALL#Relacao dos Juros Devidos e nao Pagos em 
+0005#STR0005#ALL#Zebrado
+0006#STR0006#ALL#Administracao
+0007#STR0007#ALL# (Em Aberto)
+0008#STR0008#ALL#BANCO  CODIGO    CLIENTE                      No.TITULO          VENCTO      ATRASO    VALOR TITULO /  SALDO TITULO/  JUROS DEVIDOS
+0009#STR0009#ALL# (Baixados)
+0010#STR0010#ALL#BCO CODIGO    CLIENTE              No.TITULO          VENCTO     ATR. DT.PAGTO            VALOR/ JUROS DEVID/JUROS PAGOS/  DIFERENCA
+0011#STR0011#ALL#CANCELADO PELO OPERADOR
+0012#STR0012#ALL#Nao existem lancamentos neste periodo
+0013#STR0013#ALL#SUB - TOTAL  ----> 
+0014#STR0014#ALL#TOTAL  GERAL ----> 
+0015#STR0015#ALL#BANCO  CODIGO                    CLIENTE                      No.TITULO          VENCTO      ATRASO    VALOR TITULO /  SALDO TITULO/  JUROS DEVIDOS
+0016#STR0016#ALL#BCO CODIGO                    CLIENTE              No.TITULO          VENCTO     ATR. DT.PAGTO            VALOR/ JUROS DEVID/JUROS PAGOS/  DIFERENCA
+0017#STR0017#ALL#Bco
+0018#STR0018#ALL#Código
+0019#STR0019#ALL#Cliente
+0020#STR0020#ALL#No.Titulo
+0021#STR0021#ALL#Vencto
+0022#STR0022#ALL#Atraso
+0023#STR0023#ALL#DT.Pagto
+0024#STR0024#ALL#Valor
+0025#STR0025#ALL#Título
+0026#STR0026#ALL#Saldo
+0027#STR0027#ALL#Juros
+0028#STR0028#ALL#Devidos
+0029#STR0029#ALL#Pagos
+0030#STR0030#ALL#Diferença
+0031#STR0031#ALL#Titulos

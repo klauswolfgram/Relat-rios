@@ -1,0 +1,17 @@
+0001#STR0001#ALL#Relacao dos Consorciados
+0002#STR0002#ALL#&Cancelado
+0003#STR0003#ALL#Contemplado por &Lance
+0004#STR0004#ALL#Contemplado por &Sorteio
+0005#STR0005#ALL#&Nao Contemplado
+0006#STR0006#ALL#Periodo
+0007#STR0007#ALL#Situacao
+0008#STR0008#ALL#Cancelado
+0009#STR0009#ALL#Contemplado por Lance
+0010#STR0010#ALL#Contemplado por Sorteio
+0011#STR0011#ALL#Nao Contemplado
+0012#STR0012#ALL#Cliente                            Empr.Consorcio   Grupo Cota Marca/Modelo                             Dt.Venda   Contempl   Status
+0013#STR0013#ALL#Todos
+0014#STR0014#ALL#Cancel
+0015#STR0015#ALL#C.Lanc
+0016#STR0016#ALL#C.Sort
+0017#STR0017#ALL#N.Cont

@@ -1,0 +1,48 @@
+0001#STR0001#ALL#Relatório De Analise Do Stock
+0002#STR0002#ALL#Código de barras
+0003#STR0003#ALL#Administração
+0007#STR0007#ALL#   itens                           localização    dispon.  
+0008#STR0008#ALL# unit.  
+0009#STR0009#ALL# Total  Preço Venda  Últ.cmp. Últ.vda.
+0020#STR0020#ALL#De Custo
+0023#STR0023#ALL# ===============  -qtd-  ---------- saldo stock ---------  ---------- saldo oficina ---------  --------- saldo garantia ---------
+0024#STR0024#ALL#   v e n d a s    produt   preço 
+0025#STR0025#ALL#    preço de venda    preço 
+0026#STR0026#ALL#    preço garantia 
+0028#STR0028#ALL#*** t o t a l ***
+0029#STR0029#ALL#Data Da última Venda:
+0030#STR0030#ALL#Data Da última Compra:
+0031#STR0031#ALL#Obs.: No Saldo Stock Não Constam Saldo Oficina Nem Saldo Garantia
+0032#STR0032#ALL#Vendas nos últimos 30 dias  
+0033#STR0033#ALL#  - Qtd De Vendas................:
+0034#STR0034#ALL#  - Custo Das Vendas..............:
+0035#STR0035#ALL#Stock Total
+0041#STR0041#ALL#Stock a preço 
+0042#STR0042#ALL#  - Stock Total.................:
+0043#STR0043#ALL#  - Stock Sem Oficina E Garantia:
+0044#STR0044#ALL#Stock Sem Oficina E Garantia
+0045#STR0045#ALL# ===============  ------  -------------  -------------------------------------- última compra ------------------------------------
+0046#STR0046#ALL#   v e n d a s     qtd       preço         0 a 30   31 a 60   61 a 90  91 a 120 121 a 180 181 a 240 241 a 365 366 a 730  + de 730
+0047#STR0047#ALL#                  produt     
+0048#STR0048#ALL# Qtd.%cust
+0049#STR0049#ALL# ===============  ------  -------------  ---(a)--- ---(b)--- ---(c)--- ---(d)--- ---(e)--- ---(f)--- ---(g)--- ---(h)--- ---(i)---
+0050#STR0050#ALL#*** vendas *** 
+0051#STR0051#ALL#*** compras ***
+0052#STR0052#ALL# - compra: 
+0056#STR0056#ALL#NÃO
+0067#STR0067#ALL# ===============  -Qtd.-  ---------- SALDO STOCK ---------  ---------- SALDO OFICINA ---------  --------- SALDO GARANTIA ---------
+0068#STR0068#ALL#   V E N D A S    Artigo   Preço
+0069#STR0069#ALL#Preço de Venda    Preço
+0070#STR0070#ALL#Preço Garantia
+0072#STR0072#ALL#Data da Última Venda:
+0073#STR0073#ALL#Data da Última Compra:
+0074#STR0074#ALL#OBS.: No SALDO STOCK não constam SALDO OFICINA nem SALDO GARANTIA
+0075#STR0075#ALL#Vendas nos Últimos 30 dias
+0081#STR0081#ALL#                                  S T O C K   E S T R A T É G I C O   -   D S M   N O R M A L
+0082#STR0082#ALL#                                    S T O C K  E S T R A T É G I C O   -   D S M   C A N A
+0083#STR0083#ALL#                                 S T O C K   E S T R A T É G I C O   -   D S M   M O T O R E S
+0084#STR0084#ALL#                         S T O C K   E S T R A T É G I C O   -   P R O J E C T O S   E S P E C I A I S
+0085#STR0085#ALL#                         S T O C K   E S T R A T É G I C O   -   R E T O R N O                      
+0086#STR0086#ALL#                          S T O C K   E S T R A T É G I C O   -   S E M   C L A S S I F I C A Ç Ã O
+0087#STR0087#ALL#                          S T O C K   E S T R A T É G I C O   -   S U P E R    Z E R A D O         
+0101#STR0101#ALL#Item (Grp+Cód)

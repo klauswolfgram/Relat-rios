@@ -1,0 +1,60 @@
+0001#STR0001#ALL#Este relatorio tem como objetivo imprimir os prospects 
+0002#STR0002#ALL#existentes no cadastro. 
+0003#STR0003#ALL#A emissao ocorrera baseada nos parametros do relatorio 
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracäo
+0006#STR0006#ALL#CANCELADO PELO OPERADOR
+0007#STR0007#ALL#Codigo da Filial
+0008#STR0008#ALL#Prospect 
+0009#STR0009#ALL#Codigo da Loja 
+0010#STR0010#ALL#Nome do Prospect 
+0011#STR0011#ALL#Nome Reduzido 
+0012#STR0012#ALL#Tipo 
+0013#STR0013#ALL#Endereco 
+0014#STR0014#ALL#Cidade 
+0015#STR0015#ALL#Bairro 
+0016#STR0016#ALL#CEP 
+0017#STR0017#ALL#Estado 
+0018#STR0018#ALL#DDI 
+0019#STR0019#ALL#DDD 
+0020#STR0020#ALL#Telefone 
+0021#STR0021#ALL#FAX 
+0022#STR0022#ALL#E-mail 
+0023#STR0023#ALL#Site 
+0024#STR0024#ALL#Data Ultima Visita 
+0025#STR0025#ALL#C.G.C 
+0026#STR0026#ALL#CONTATO                                     DDD    FONE       CELULAR    FAX        FONE COM. 1  FONE COM. 2  ESTADO  E-MAIL
+0027#STR0027#ALL#Origem
+0028#STR0028#ALL#Status
+0029#STR0029#ALL#TOTALIZADORES:
+0030#STR0030#ALL#TOTAL DE PROSPECTS
+0031#STR0031#ALL#TOTAL DE PROSPECTS COM RELACIONAMENTO
+0032#STR0032#ALL#1=Mailing
+0033#STR0033#ALL#2=Campanha
+0034#STR0034#ALL#3=Web
+0035#STR0035#ALL#4=Indicacao
+0036#STR0036#ALL#5=Evento
+0037#STR0037#ALL#1=Classificado
+0038#STR0038#ALL#2=Desenvolvimento
+0039#STR0039#ALL#3=Gerente
+0040#STR0040#ALL#4=Stand By
+0041#STR0041#ALL#5=Cancelado
+0042#STR0042#ALL#ORIGEM
+0043#STR0043#ALL#STATUS
+0044#STR0044#ALL#Näo ha informacöes para imprimir este relatorio. Verifique os parametros informados.
+0045#STR0045#ALL#Relacäo de Prospects
+0046#STR0046#ALL#Do Prospect
+0047#STR0047#ALL#Codigo inicial do prospect para a
+0048#STR0048#ALL#selecäo dos dados.
+0049#STR0049#ALL#Ate o Prospect
+0050#STR0050#ALL#Codigo final do prospect para a	
+0051#STR0051#ALL#Exibe Contatos
+0052#STR0052#ALL#Sim
+0053#STR0053#ALL#Näo
+0054#STR0054#ALL#Exibe contatos relacionados com o 
+0055#STR0055#ALL#prospect.
+0056#STR0056#ALL#Da Loja
+0057#STR0057#ALL#Codigo inicial da loja para a
+0058#STR0058#ALL#Ate Loja
+0059#STR0059#ALL#Codigo final da loja para a
+0060#STR0060#ALL#6=Cliente

@@ -1,0 +1,68 @@
+0001#STR0001#ALL#D A D O S   D A   E N T I D A D E
+0002#STR0002#ALL#Entidade / Código
+0003#STR0003#ALL#Nome da Entidade
+0004#STR0004#ALL#Endereço
+0005#STR0005#ALL#Município
+0006#STR0006#ALL#Estado
+0007#STR0007#ALL#CEP
+0008#STR0008#ALL#Telefone Comercial
+0009#STR0009#ALL#Home Page
+0010#STR0010#ALL#E-mail
+0011#STR0011#ALL#Código do Atendimento
+0012#STR0012#ALL#Data do Atendimento
+0013#STR0013#ALL#Não Localizado no cadastro...
+0014#STR0014#ALL#Não Informado no atendimento...
+0015#STR0015#ALL#Código Cliente/Loja
+0016#STR0016#ALL#Razão Social
+0017#STR0017#ALL#Código do Contato
+0018#STR0018#ALL#Nome do Contato
+0019#STR0019#ALL#Tipo de Marketing
+0020#STR0020#ALL#Operação
+0021#STR0021#ALL#Tipo de Frete
+0022#STR0022#ALL#Tabela de Preço
+0023#STR0023#ALL#Código do Operador
+0024#STR0024#ALL#Nome do Operador
+0025#STR0025#ALL#Código do Vendedor
+0026#STR0026#ALL#Nome do Vendedor
+0027#STR0027#ALL#Código da Mídia
+0028#STR0028#ALL#Descrição da Mídia
+0029#STR0029#ALL#Código da Campanha
+0030#STR0030#ALL#Descrição da Campanha
+0031#STR0031#ALL#Código da Ocorrência
+0032#STR0032#ALL#Descrição da Ocorrência
+0033#STR0033#ALL#Data de Retorno
+0034#STR0034#ALL#Hora de Retorno
+0035#STR0035#ALL#Observação
+0036#STR0036#ALL#Item Produto         Descrição                      St   Qtdade    Vl.Unitário        Vl.Item  %Desc    Vl.Desconto  %Acrés   Vl.Acréscimo TES CFOP      Tabela      Base ICMS LP UM Entrega    Lote       Sub-Lt Validade
+0037#STR0037#ALL#CONHECIMENTOS
+0038#STR0038#ALL#O B J E T O S   V I N C U L A D O S   A O   B A N C O   D E   C O N H E C I M E N T O
+0039#STR0039#ALL#Código Obj     Tamanho     Descrição                                                        Objeto
+0040#STR0040#ALL#A T E N D I M E N T O S   D E   T E L E C O B R A N C A S   D A   E N T I D A D E
+0041#STR0041#ALL#Tipo de Ligação
+0042#STR0042#ALL#Não Informado
+0043#STR0043#ALL#Retornar em
+0044#STR0044#ALL#às
+0045#STR0045#ALL#Prf Título-P Tip Natureza   Vencto   V. Real         Valor   Acrésc  Decrésc Núm Banco       Histórico                  %Per  Val Jur     IRRF      ISS     CSLL   COFINS      PIS Status          Resp.  Nome do Responsável
+0046#STR0046#ALL#Televentas
+0047#STR0047#ALL#A T E N C I O N E S   D E   T E L E V E N T A S   D E L   E N T E
+0048#STR0048#ALL#Item
+0049#STR0049#ALL#Producto
+0050#STR0050#ALL#Descripcion
+0051#STR0051#ALL#St
+0052#STR0052#ALL#Cant.
+0053#STR0053#ALL#Val.Unitario
+0054#STR0054#ALL#Val.Item
+0055#STR0055#ALL#%Desc
+0056#STR0056#ALL#Val.Descuento
+0057#STR0057#ALL#%Aumen
+0058#STR0058#ALL#Val.Aumento
+0059#STR0059#ALL#TES
+0060#STR0060#ALL#CFOP
+0061#STR0061#ALL#Tabla
+0062#STR0062#ALL#Base ICMS
+0063#STR0063#ALL#LP
+0064#STR0064#ALL#UM
+0065#STR0065#ALL#Entrega
+0066#STR0066#ALL#Lote
+0067#STR0067#ALL#Sublot
+0068#STR0068#ALL#Validez

@@ -1,0 +1,49 @@
+0001#STR0001#ALL#Presentation report of employees that have received EPI           
+0002#STR0002#ALL#Through the parameters, the user can select the Employees who 
+0003#STR0003#ALL#received  EPI's in a given period.                                
+0004#STR0004#ALL#Z. Form
+0005#STR0005#ALL#Management    
+0006#STR0006#ALL#EPI's per Emloyess   
+0007#STR0007#ALL#Registration  Employee Name                          Gender       Admission    Age C.Center              Des. Role   
+0008#STR0008#ALL#           PPE             PPE Name                              Delivery Dt.  Suppl  Description  
+0009#STR0009#ALL#CANCELED BY OPERATOR   
+0010#STR0010#ALL#From Customer ?
+0011#STR0011#ALL#Unit
+0012#STR0012#ALL#To Customer ?
+0013#STR0013#ALL#Customer: 
+0014#STR0014#ALL#No information to print in the report.	
+0015#STR0015#ALL#List of Discharged Employees?
+0016#STR0016#ALL#To Delivery Date?
+0017#STR0017#ALL#From Delivery Date?
+0018#STR0018#ALL#To PPE?
+0019#STR0019#ALL#From IPE?
+0020#STR0020#ALL#To Employee?
+0021#STR0021#ALL#From Employee?
+0022#STR0022#ALL#Yes
+0023#STR0023#ALL#No
+0024#STR0024#ALL#Registration Employee Name                            Gender   Admission   Dismissal  Age  C.Center                  Description
+0025#STR0025#ALL#      EPI                            EPI Name                    Qty Delivery Date Suppl - Description                 C.A.
+0026#STR0026#ALL#      EPI                            EPI Name                    Qty Delivery Date  Supplier            Description                          C.A.
+0027#STR0027#ALL#FUNCTION: 
+0028#STR0028#ALL#From Branch?
+0029#STR0029#ALL#To Branch  ?
+0030#STR0030#ALL#Branch
+0031#STR0031#ALL#Determines whether the dismissed employee are listed.
+0032#STR0032#ALL#Name
+0033#STR0033#ALL#Description
+0034#STR0034#ALL#Gender
+0035#STR0035#ALL#Admission
+0036#STR0036#ALL#Dismissal
+0037#STR0037#ALL#Age
+0038#STR0038#ALL#Cost Center
+0039#STR0039#ALL#EPI Name
+0040#STR0040#ALL#Infl. Date
+0041#STR0041#ALL#Qty.
+0042#STR0042#ALL#Supplier
+0043#STR0043#ALL#C.A.
+0044#STR0044#ALL#Customer
+0045#STR0045#ALL#Branch
+0046#STR0046#ALL#Function
+0047#STR0047#ALL#Employees
+0048#STR0048#ALL#Registration
+0049#STR0049#ALL#PPE

@@ -1,0 +1,16 @@
+0001#STR0001#ALL#This program will issue the report of
+0002#STR0002#ALL#Suggestion of Blocking
+0003#STR0003#ALL#Z.Form 
+0004#STR0004#ALL#Management   
+0005#STR0005#ALL#TOTAL CUSTOMERS---> 
+0006#STR0006#ALL#Suggestion of Blocking
+0007#STR0007#ALL#Code Customer´s Name                           Due Dt. Cr.Lim.   Trade Note Bal.    Orders Balance        Credit Limit  
+0008#STR0008#ALL#CANCELLED BY THE OPERATOR
+0009#STR0009#ALL#Code                   Customer's Name                         Cred.L.Due Date  T.Note Balance   Balance Orders           Credit Limit 
+0010#STR0010#ALL#Customer name  
+0011#STR0011#ALL#Credit L. exp.
+0012#STR0012#ALL#Trade note bl
+0013#STR0013#ALL#Order balance
+0014#STR0014#ALL#Credit limit  
+0015#STR0015#ALL#CUSTOMER TOTAL 
+0016#STR0016#ALL#Customers

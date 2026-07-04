@@ -1,0 +1,31 @@
+0001#STR0001#ALL#Relatório De Refeições
+0002#STR0002#ALL#Será impresso de acordo com os parâmetros solicitados pelo
+0003#STR0003#ALL#Utilizador.
+0004#STR0004#ALL#Registo
+0005#STR0005#ALL#Centro De Custo
+0008#STR0008#ALL#Código de barras
+0009#STR0009#ALL#Administração
+0010#STR0011#ALL#Relatório De Controlo De Refeições
+0011#STR0012#ALL#Cartão Reg.: 
+0012#STR0013#ALL#Reg.:
+0013#STR0014#ALL#Empregado:   
+0014#STR0015#ALL#  total 
+0016#STR0017#ALL#Turno:
+0019#STR0021#ALL#C. Custo+ Nome
+0020#STR0022#ALL#Data        Hora  Tipo          Valor     Desc.Empr.   Desc.Empresa
+0021#STR0023#ALL#Tipo Descrição                Qtd.          Valor    Desc. Empr.   Desc. Empresa
+0022#STR0024#ALL#  qtde: 
+0024#STR0026#ALL#** não registado **
+0025#STR0027#ALL#Seleccionar a opção de impressao: 
+0030#STR0032#ALL#Mapa: 
+0031#STR0033#ALL#Num. pgt: 
+0034#STR0036#ALL#Este programa emite Relatório para Controlo de Refeições
+0035#STR0037#ALL#Colaboradores
+0038#STR0040#ALL#Descrição
+0040#STR0042#ALL#Refeições
+0045#STR0047#ALL#Desc.Colab.
+0047#STR0049#ALL#Total Colaborador
+0048#STR0050#ALL#Qtd.
+0053#STR0055#ALL#Placa
+0054#STR0056#ALL#Matríc.
+0057#STR0059#ALL#Período

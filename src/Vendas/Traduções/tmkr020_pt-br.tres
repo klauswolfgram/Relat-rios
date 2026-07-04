@@ -1,0 +1,30 @@
+0001#STR0001#ALL#Lista de Contatos
+0002#STR0002#ALL#Este programa ira emitir a selecäo da Lista de Contatos que sera trabalhada na agenda do operador.
+0003#STR0003#ALL#Os dados serão apresentados conforme os parametros especificados pelo usuário do sistema.
+0004#STR0004#ALL#As listas mostradas neste relatorio estäo separadas e totalizadas por data de execucäo.
+0005#STR0005#ALL#Zebrado
+0006#STR0006#ALL#Administracao
+0007#STR0007#ALL#CANCELADO PELO OPERADOR
+0008#STR0008#ALL#T O T A L   D E   L I G A C Ö E S   E M  
+0009#STR0009#ALL#T O T A L  G E R A L  D E   L I G A C Ö E S  ---->
+0010#STR0010#ALL#Não Existem dados a serem impressos para este relatório com os parametros informados
+0011#STR0011#ALL#Data da Lista
+0012#STR0012#ALL#Operador
+0013#STR0013#ALL#Lista
+0014#STR0014#ALL#Descricäo
+0015#STR0015#ALL#Tipo de Lista
+0016#STR0016#ALL#Tipo de Contato
+0017#STR0017#ALL#Atendimento
+0018#STR0018#ALL#Configuração TMK
+0019#STR0019#ALL#Tipo do Telefone
+0020#STR0020#ALL#Arquivo
+0021#STR0021#ALL#Endereco
+0022#STR0022#ALL#Etiqueta
+0023#STR0023#ALL#Campanha
+0024#STR0024#ALL#Script
+0025#STR0025#ALL#Evento
+0026#STR0026#ALL#Codigo  Contato                         Empresa                           Telefone         Data      Hr.Ini  Hr.Fim  Status
+0027#STR0027#ALL#T O T A L   D E   L I G A C Ö E S   N O   D I A  ---->
+0028#STR0028#ALL#Data de execução
+0029#STR0029#ALL#Lista de contatos
+0030#STR0030#ALL#Itens da lista de contato

@@ -1,0 +1,26 @@
+0001#STR0001#ALL#Relatório de apresentação das doenças por função. baseado nos     
+0002#STR0002#ALL#Diagnóstigos emitidos  pelos médicos, para os empregados.                             
+0003#STR0003#ALL#Através dos parâmetros poderá ser seleccionada função e/ou o cid.  
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0008#STR0008#ALL#Cancelado Pelo Operador
+0010#STR0010#ALL#        C.I.D.     Descrição                   Grupo C.I.D.   Masc.       Fem.
+0011#STR0011#ALL#Total de atendimentos: 
+0013#STR0013#ALL#Total geral.: 
+0016#STR0016#ALL#C.i.d.
+0020#STR0020#ALL#A processar os diagnósticos...
+0021#STR0021#ALL#Total crial: 
+0022#STR0022#ALL#Total de atendimentos: 
+0023#STR0023#ALL#C.i.d.: 
+0026#STR0026#ALL#De cliente ?
+0028#STR0028#ALL#Até cliente ?
+0029#STR0029#ALL#Código  do cliente. o campo pode permanecer vazio para considerar desde o primeiro código.
+0030#STR0030#ALL#Código  da loja do cliente. o campo pode permanecer vazio para considerar desde o primeiro código.
+0031#STR0031#ALL#Código  do cliente. o campo pode ser preenchido com a letra z até  o final para considerar o último código.
+0032#STR0032#ALL#Código  da loja do cliente. o campo pode ser preenchido com a letra z até  o final para considerar o último código.
+0033#STR0033#ALL#Não existe informação para imprimir no relatório.
+0034#STR0034#ALL#Cliente/loja: 
+0035#STR0035#ALL#Até Cliente ?
+0036#STR0036#ALL#Até Data Diagnóst. ?
+0037#STR0037#ALL#De  Data Diagnóst. ?
+0038#STR0038#ALL#Até CID ?

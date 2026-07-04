@@ -1,0 +1,32 @@
+0001#STR0001#ALL#Este Programa Irá Emitir O Boletim De Entrada.
+0002#STR0002#ALL#Boletim De Entrada
+0003#STR0003#ALL#Código de barras
+0005#STR0005#ALL#Cancelado Pelo Operador
+0006#STR0006#ALL#----------------- artigo(s) enviado(s) ao controlo de qualidade -----------------
+0008#STR0008#ALL#------------------------ divergências com o pedido de compra ----------------------------
+0009#STR0009#ALL#Não há divergências no(s) pedido(s) 
+0010#STR0010#ALL#Div Número    Descrição Do Produto              Quant.    Preço Unitár.  Entrega
+0012#STR0012#ALL#Não Há Pedidos
+0013#STR0013#ALL#Valor Contabilístico:
+0015#STR0015#ALL#------------------------------------ vistos ------------------------------------
+0016#STR0016#ALL#------------------------------- dados da guia de remessa --------------------------------
+0017#STR0017#ALL#Código Material Uma Descrição Da Mercadoria  Quantidade          Quant. Seg. Um
+0018#STR0018#ALL#Tes cta contab          centro de custos  custo unitário grupo                
+0019#STR0019#ALL#Boletim de entrada      material recebido em: 
+0020#STR0020#ALL# - (devolução) 
+0021#STR0021#ALL#Fornecedor                                |número Da Guia De Remessa | Emissão  |  Vencto
+0022#STR0022#ALL#------------------------------ dados do conduce --------------------------------
+0023#STR0023#ALL#--------------------------- dados da guia de despacho --------------------------
+0024#STR0024#ALL#------------------------------ dados da remissão -------------------------------
+0025#STR0025#ALL#Fornecedor                                |número Do Conduce| Emissão  |  Vencto
+0026#STR0026#ALL#Fornecedor                                |número Da Guia   | Emissão  |  Vencto
+0027#STR0027#ALL#Fornecedor                                |número Remissão  | Emissão  |  Vencto
+0028#STR0028#ALL#Fornecedor                                |núm. 
+0030#STR0030#ALL#------------------------------ dados do(a) 
+0031#STR0031#ALL#Descrição Da Mercadoria
+0033#STR0033#ALL#Núm.
+0035#STR0035#ALL#Cabeçalho Da Guia De Remessa De Entrada
+0037#STR0037#ALL#Itens Da Guia De Remessa De Entrada
+0038#STR0038#ALL#Tes X Centro De Custo
+0039#STR0039#ALL#Movimentações De Cq.
+0040#STR0040#ALL#TES Cta Contab.          Centro de Costos                 Grupo                

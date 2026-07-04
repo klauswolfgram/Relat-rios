@@ -1,0 +1,19 @@
+0001#STR0001#ALL#Este relatório imprimirá o fluxo de caixa da consulta de gestão solicitada considerando todas receitas (pedido de venda,títulos a receber e movimentação bancária) e despesas (pedido de compra,autorização de entrega, factura de entrada,títulos a pagar.
+0002#STR0002#ALL#Consultas analíticas - fluxo de caixa
+0003#STR0003#ALL#Diário
+0008#STR0008#ALL#Período 
+0009#STR0009#ALL#       vld.prev.pc           despesas        vlr.prev.pv           receitas            saldo do dia      var. dia           saídas. acum.              entradas acum.      saldo acumulado     var. acum. 
+0010#STR0010#ALL#Código do plano : 
+0011#STR0011#ALL#Saldo inicial : 
+0012#STR0012#ALL#Total a pagar : 
+0013#STR0013#ALL#Total a receber : 
+0014#STR0014#ALL#Saldo final : 
+0015#STR0015#ALL#Código de barras
+0016#STR0016#ALL#Administração
+0017#STR0017#ALL#Vld.prev.pc
+0019#STR0019#ALL#Vlr.prev.pv
+0021#STR0021#ALL#Saldo Do Dia
+0023#STR0023#ALL#Saídas. Acum.
+0026#STR0026#ALL#Var. acum. 
+0027#STR0027#ALL#Plano Analítico
+0028#STR0028#ALL#Consulta Analítica - Fluxo De Caixa

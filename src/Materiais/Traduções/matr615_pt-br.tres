@@ -1,0 +1,16 @@
+0001#STR0001#ALL#Instrucao de Montagem
+0002#STR0002#ALL#Este relatorio ira imprimir a Relaçäo de Instruçäo de Montagem,
+0003#STR0003#ALL#conforme os parametros solicitados.                            
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#          PRODUTO                                                   COMPONENTES
+0007#STR0007#ALL#NUMERO IT CODIGO          DESCRICAO                      QUANTIDADE CODIGO          DESCRICAO                            NECESSIDADE
+0008#STR0008#ALL#CANCELADO PELO OPERADOR
+0009#STR0009#ALL#Instrucao de Montagem
+0010#STR0010#ALL#Este relatorio ira imprimir a Relaçäo de Instruçäo de Montagem,
+0011#STR0011#ALL#conforme os parametros solicitados.                            
+0012#STR0012#ALL#Numero It
+0013#STR0013#ALL#Componente
+0014#STR0014#ALL#Descricao Componente
+0015#STR0015#ALL#Necessidade
+0016#STR0016#ALL#Relacao de Instrucao de Montagem

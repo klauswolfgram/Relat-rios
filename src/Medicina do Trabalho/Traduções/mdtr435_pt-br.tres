@@ -1,0 +1,73 @@
+0001#STR0001#ALL#Relatorio das Funcionarios afastados do trabalho.          
+0002#STR0002#ALL#Atraves dos parametros podera ser selecionado o codigo do  
+0003#STR0003#ALL#afastamento, e o periodo desejado.                         
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#Funcionarios Afastados
+0007#STR0007#ALL#Cod.  Descricao do Afastamento
+0008#STR0008#ALL#   Mat.    Funcionário                    CID         Data Afast.  Data Ret.  Dias
+0009#STR0009#ALL#CANCELADO PELO OPERADOR
+0010#STR0010#ALL#Total Dias Afastado
+0011#STR0011#ALL#Situação do Funcionário ?
+0012#STR0012#ALL#Afastado
+0013#STR0013#ALL#Demitido
+0014#STR0014#ALL#De Cliente ?
+0015#STR0015#ALL#Código do cliente. O campo pode permanecer vazio para considerar desde o primeiro código.
+0016#STR0016#ALL#Loja
+0017#STR0017#ALL#Código da loja do cliente. O campo pode permanecer vazio para considerar desde o primeiro código.
+0018#STR0018#ALL#Até Cliente ?
+0019#STR0019#ALL#Código do cliente. O campo pode ser preenchido com a letra Z até o final para considerar o último código.
+0020#STR0020#ALL#Código da loja do cliente. O campo pode ser preenchido com a letra Z até o final para considerar o último código.
+0021#STR0021#ALL#Funcionários Afastados
+0022#STR0022#ALL#Cliente
+0023#STR0023#ALL#Nome
+0024#STR0024#ALL#Tipo Afastamento
+0025#STR0025#ALL#Afastamento
+0026#STR0026#ALL#Descrição
+0027#STR0027#ALL#Funcionários
+0028#STR0028#ALL#Matrícula
+0029#STR0029#ALL#Funcionário
+0030#STR0030#ALL#CID
+0031#STR0031#ALL#Data Afast.
+0032#STR0032#ALL#Data Ret.
+0033#STR0033#ALL#Dias
+0034#STR0034#ALL#Total Dias Afastado
+0035#STR0035#ALL#Processando Arquivo...
+0036#STR0036#ALL#Cliente/Loja: 
+0037#STR0037#ALL#Não há nada para imprimir no relatório.
+0038#STR0038#ALL#Férias
+0039#STR0039#ALL#Ativos
+0040#STR0040#ALL#Todas
+0041#STR0041#ALL#Total do Afastamento
+0042#STR0042#ALL#Total Dias Afastamento
+0043#STR0043#ALL#Total Funcionários
+0044#STR0044#ALL#Total Geral
+0045#STR0045#ALL#Total Geral de Dias
+0046#STR0046#ALL#Total Geral Funcionários
+0047#STR0047#ALL#Indica se deve considerar apenas os funcionários afastados, demitidos, em férias, ativos ou todos.
+0048#STR0048#ALL#Imprimir ?
+0049#STR0049#ALL#Tipo F,O,P,S,Y
+0050#STR0050#ALL#Todos
+0051#STR0051#ALL#Indica se deve considerar apenas os afastamentos de tipo F, O, P, S e Y ou todos.
+0052#STR0052#ALL#Ate Data Afast. ?
+0053#STR0053#ALL#De  Data Afast. ?
+0054#STR0054#ALL#Ate Cod.Afastamento ?
+0055#STR0055#ALL#De  Cod.Afastamento ?
+0056#STR0056#ALL#Até Centro de Custo ?
+0057#STR0057#ALL#De Centro de Custo ?
+0058#STR0058#ALL#Até CID ?
+0059#STR0059#ALL#De CID ?
+0060#STR0060#ALL#Ate Cod.Afastamento ?
+0061#STR0061#ALL#De  Cod.Afastamento ?
+0062#STR0062#ALL#Código do centro de custo. O campo pode permanecer vazio para considerar desde o primeiro código.
+0063#STR0063#ALL#Código do centro de custo. O campo pode ser preenchido com a letra Z até o final para considerar o último código.
+0064#STR0064#ALL#Código do CID. O campo pode permanecer vazio para considerar desde o primeiro código.
+0065#STR0065#ALL#Código do CID. O campo pode ser preenchido com a letra Z até o final para considerar o último código.
+0066#STR0066#ALL#Todos os afastamentos ?
+0067#STR0067#ALL#Sim
+0068#STR0068#ALL#Não
+0069#STR0069#ALL#Indica se deve imprimir todos os afastamentos ou somente o último.
+0070#STR0070#ALL#De Tipo Ausência ?
+0071#STR0071#ALL#Até Tipo Ausência ?
+0072#STR0072#ALL#Código do Tipo de Ausência. O campo pode permanecer vazio para considerar desde o primeiro código.
+0073#STR0073#ALL#Código do Tipo de Ausência. O campo pode ser preenchido com a letra Z até o final para considerar o último código.

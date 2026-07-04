@@ -1,0 +1,105 @@
+0001#STR0001#ALL#Este programa imprimira el Ajuste de balance parcial de Verificacion Modelo 1 (132 Columnas), la
+0002#STR0002#ALL#cuenta se imprime limitando a 20 caracteres y su descripcion esta limitada a 30 caracteres.
+0003#STR0003#ALL#Balance parcial Auxiliar de Verificacion
+0004#STR0004#ALL#|  CODIGO                     |      D E S C R I P C I O N                        |    SALDO ANTERIOR             |     DEBITO       |      CREDITO      |    MOVIMIENTO DEL PERIODO       |         SALDO ACTUAL               |
+0004#STR0004#ANG#|  CODIGO                     |      D E S C R I P C I O N                        |    SALDO ANTERIOR             |     DEBITO       |      CREDITO      |    MOVIMIENTO DEL PERIODO       |         SALDO ACTUAL               |
+0004#STR0004#EQU#|  CODIGO                     |      D E S C R I P C I O N                      |    SALDO ANTERIOR             |     DEBITO       |      CREDITO      |    MOVIMIENTO DEL PERIODO     |         SALDO ACTUAL              |
+0004#STR0004#HAI#|  CODIGO                     |      D E S C R I P C I O N                      |    SALDO ANTERIOR             |     DEBITO       |      CREDITO      |    MOVIMIENTO DEL PERIODO     |         SALDO ACTUAL              |
+0004#STR0004#MEX#|  CODIGO                     |      D E S C R I P C I O N                      |    SALDO ANTERIOR             |     CARGO        |      ABONO        |    MOVIMIENTO DEL PERIODO     |         SALDO ACTUAL              |
+0004#STR0004#PTG#|  CODIGO                     |      D E S C R I P C I O N                      |    SALDO ANTERIOR             |     DEBITO       |      CREDITO      |    MOVIMIENTO DEL PERIODO     |         SALDO ACTUAL              |
+0005#STR0005#ALL#|  CODIGO                     |      D E S C R I P C I O N                        |    SALDO ANTERIOR             |     DEBITO       |      CREDITO      |     SALDO ACTUAL               | 
+0005#STR0005#ANG#|  CODIGO                     |      D E S C R I P C I O N                        |    SALDO ANTERIOR             |     DEBITO       |      CREDITO      |     SALDO ACTUAL               | 
+0005#STR0005#EQU#|  CODIGO               |   D E S C R I P C I O N        |   SALDO ANTERIOR  |      DEBITO    |      CREDITO   |   SALDO ACTUAL     | 
+0005#STR0005#HAI#|  CODIGO               |   D E S C R I P C I O N        |   SALDO ANTERIOR  |      DEBITO    |      CREDITO   |   SALDO ACTUAL    | 
+0005#STR0005#MEX#|  CODIGO               |   D E S C R I P C I O N        |   SALDO ANTERIOR  |      CARGO     |      ABONO     |   SALDO ACTUAL    | 
+0005#STR0005#PTG#|  CODIGO               |   D E S C R I P C I O N        |   SALDO ANTERIOR  |      DEBITO    |      CREDITO   |   SALDO ACTUAL    | 
+0006#STR0006#ALL#BALANCE PARCIAL DE VERIFICACION ANALITICO DE 
+0007#STR0007#ALL# A 
+0008#STR0008#ALL# EN 
+0009#STR0009#ALL#BALANCE PARCIAL DE VERIFICACION SINTETICO DE 
+0010#STR0010#ALL#***** ANULADO POR EL OPERADOR *****
+0011#STR0011#ALL#T O T A L E S  D E L  P E R I O D O: 
+0012#STR0012#ALL#Seleccionando Registros...
+0013#STR0013#ALL#A rayas
+0014#STR0014#ALL#Administracion
+0015#STR0015#ALL#Creando Archivo Temporario...
+0016#STR0016#ALL#Los valores impresos son saldo anterior, debito, credito y saldo actual del periodo.
+0016#STR0016#ANG#Los valores impresos son saldo anterior, debito, credito y saldo actual del periodo.
+0016#STR0016#EQU#los valores impresos son saldo anterior, debito, credito y saldo actual del periodo.
+0016#STR0016#HAI#los valores impresos son saldo anterior, debito, credito y saldo actual del periodo.
+0016#STR0016#MEX#los valores impresos son saldo anterior, cargo, abono y saldo actual del periodo.
+0016#STR0016#PTG#los valores impresos son saldo anterior, debito, credito y saldo actual del periodo.
+0017#STR0017#ALL#BALANCE PARCIAL DE VERIFICACION DE 
+0018#STR0018#ALL# (PRESUPUESTADO)
+0019#STR0019#ALL# (GERENCIAL)
+0020#STR0020#ALL#T O T A L E S  D E L  G R U P O (
+0021#STR0021#ALL#DIV.
+0022#STR0022#ALL#|  CODIGO                     |      D E S C R I P C I O N                        |    SALDO ANTERIOR             |     DEBITO       |      CREDITO      |     SALDO ACTUAL               |
+0022#STR0022#MEX#|  CODIGO                     |      D E S C R I P C I O N                      |        SALDO ANTERIOR             |           DEBITO             |            CREDITO                |         SALDO ACTUAL              |
+0023#STR0023#ALL#Microsiga Software S/A
+0024#STR0024#ALL#Hora Termino: 
+0025#STR0025#ALL#Favor rellenar los parametros Grupos de Ingresos/Egresos y Fecha Sld. Ant. Ingresos/Egresos  o
+0026#STR0026#ALL#dejar el parametro Ignora Sl Ant.Ing/Egr = No 
+0027#STR0027#ALL#Plan de Cuentas
+0028#STR0028#ALL#Cuenta
+0029#STR0029#ALL#Descripcion
+0030#STR0030#ALL#Saldo Anterior
+0031#STR0031#ALL#Debito
+0031#STR0031#ANG#Debito
+0031#STR0031#EQU#Debito
+0031#STR0031#HAI#Debito
+0031#STR0031#MEX#Cargo
+0031#STR0031#PTG#Debito
+0032#STR0032#ALL#Credito
+0032#STR0032#ANG#Credito
+0032#STR0032#EQU#Credito
+0032#STR0032#HAI#Credito
+0032#STR0032#MEX#Abono
+0032#STR0032#PTG#Credito
+0033#STR0033#ALL#Mov  periodo
+0034#STR0034#ALL#Saldo Actual
+0035#STR0035#ALL#Ignora Sl Ant.Rec/Des
+0036#STR0036#ALL#Fecha Inicial 
+0037#STR0037#ALL#Fecha Final 
+0038#STR0038#ALL#Cuenta Inicial 
+0039#STR0039#ALL#Cuenta Final 
+0040#STR0040#ALL#Saldos en Ceros 
+0041#STR0041#ALL#Moneda 
+0042#STR0042#ALL#Tipo de Saldo 
+0043#STR0043#ALL#Imprime Columna Mov.
+0044#STR0044#ALL#Salta Linea Sintet.
+0045#STR0045#ALL#Si
+0046#STR0046#ALL#No
+0047#STR0047#ALL#Salta Linea Sintet.
+0048#STR0048#ALL#Imprime Valor 0.00 
+0049#STR0049#ALL#Num.lineas p/ el Balance Parcial 
+0050#STR0050#ALL#Descripcion en la Moneda 
+0051#STR0051#ALL#Balance Parcial de terceros
+0052#STR0052#COL#N.I.T
+0052#STR0052#PER#R.U.C.
+0053#STR0053#COL#N.I.T Inicial 
+0053#STR0053#PER#R.U.C. Inicial 
+0054#STR0054#COL#N.I.T Final 
+0054#STR0054#PER#R.U.C. Final 
+0055#STR0055#ALL#Conf.Libros
+0056#STR0056#PER#R.U.C.
+0057#STR0057#ALL#Ente no parametrizado
+0058#STR0058#ALL#Valor informado invalido del
+0059#STR0059#ALL#'Num. lineas p/ el libro'
+0060#STR0060#ALL#Favor rellenar una cantidad
+0061#STR0061#ALL#Mínima de 11 líneas.
+0062#STR0062#ALL#Seleccion de sucursal invalida.
+0063#STR0063#ALL#Favor seleccionar minimo una sucursal.
+0064#STR0064#ALL#Ficha Libro
+0065#STR0065#ALL#Atencion
+0066#STR0066#ALL#No hay datos para los parametros informados.
+0067#STR0067#ALL# T O T A L 
+0068#STR0068#ALL#T O T A L  G E N E R A L  ==> 
+0069#STR0069#ALL#Fecha
+0070#STR0070#ALL#LOTE/SUB/DOC/LINEA
+0071#STR0071#ALL#Debito
+0072#STR0072#ALL#Credito
+0073#STR0073#ALL#Saldo Actual
+0074#STR0074#ALL#SALDO ANTERIOR: 
+0075#STR0075#ALL#Imprime hasta Ente no debe estar vacío.
+0076#STR0076#ALL#Informe el parámetro con el ente válido.

@@ -1,0 +1,37 @@
+0001#STR0001#ALL#Este relatório imprimirá os quantitativos previstos x realizados para a execução do projecto de acordo com parâmetros solicitados. O folder 'Filtro' permite a criação de um filtro especifico do utilizador para os artigos a serem considerados no processamentos.
+0003#STR0003#ALL#Código de barras
+0004#STR0004#ALL#Administração
+0005#STR0005#ALL#                                                                    |                      previsto                     |                             realizado                      |                 saldo                |
+0006#STR0006#ALL#Tp.       código                descrição                       um  |     quantidade              valor  %proj.  %acum. |   qtde empenhada   qtde actual      valor   %proj.   %acum. |  quantidade            custo 
+0007#STR0007#ALL#                                                                                          |                     previsto                     |                          realizado                      |      saldo         |
+0008#STR0008#ALL#Tarefa       Descrição                      Tp.     Código           Descrição         Um |    Quantidade              Valor  %proj.  %acum. | Qtde Empenhada  Qtde Actual      Valor   %proj.   %acum. | Qtde   Custo
+0009#STR0009#ALL#Projecto :
+0010#STR0010#ALL#Versão  :
+0011#STR0011#ALL#Movimentos bancários
+0013#STR0013#ALL#Movimento Bancário
+0014#STR0014#ALL#Total Da Tarefa.....
+0015#STR0015#ALL#Total Crial........
+0016#STR0016#ALL#Projecto+produto+despesa
+0017#STR0017#ALL#Tarefa+produto+despesa
+0018#STR0018#ALL#Registo De Recursos
+0020#STR0020#ALL#Nf:
+0021#STR0021#ALL#Série:
+0024#STR0024#ALL#Movimentação Interna
+0026#STR0026#ALL#Núm. Ser.:
+0030#STR0030#ALL#Agência:
+0032#STR0032#ALL#Núm. Tit.:
+0036#STR0036#ALL#(atual)
+0037#STR0037#ALL#(prev.)
+0038#STR0038#ALL#Totais Por Período
+0039#STR0039#ALL#Totais Por Projecto
+0044#STR0044#ALL#%proj.
+0045#STR0045#ALL#%acum.
+0047#STR0047#ALL#Qtde Actual
+0050#STR0050#ALL#Projecto
+0052#STR0052#ALL#Factura De Entrada
+0056#STR0056#ALL#Apontamento De Recurso
+0058#STR0058#ALL#Projecto+grupo+artigo
+0059#STR0059#ALL#Grupo De Produto
+0061#STR0061#ALL#Factura De Saída
+0062#STR0062#ALL#Total Do Grupo De Artigo
+0063#STR0063#ALL#*** cancelado pelo utilizador ***

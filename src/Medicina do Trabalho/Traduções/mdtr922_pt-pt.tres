@@ -1,0 +1,20 @@
+0001#STR0001#ALL#Aviso Ao Sindicato Sobre Eleições Chsst
+0003#STR0003#ALL#Atenção
+0004#STR0004#ALL#O servidor de smtp não foi configurado.
+0005#STR0005#ALL#Verifique o parâmetro   (mv_relserv).
+0006#STR0006#ALL#A conta do email não foi configurado.
+0007#STR0007#ALL#Verifique o parâmetro   (mv_relacnt).
+0008#STR0008#ALL#A senha do email não foi configurado.
+0009#STR0009#ALL#Verifique o parâmetro   (mv_relpsw).
+0013#STR0013#ALL#Copia
+0015#STR0015#ALL#Falha na autenticação do utilizador no provedor de e-mail
+0016#STR0016#ALL#Erro No Envio De Email
+0018#STR0018#ALL#Erro Na Ligação Com O Servidor Smtp 
+0020#STR0020#ALL#Não foi informado o email do destinatario.
+0025#STR0025#ALL#Comunicamos a este sindicato, que será realizada no dia 
+0026#STR0026#ALL#, a eleição dos representantes dos empregados na comissão interna de 
+0027#STR0027#ALL#Prevenção de acidentes - chsst, da empresa 
+0028#STR0028#ALL# na morada 
+0030#STR0030#ALL#Responsável Pela Empresa
+0031#STR0031#ALL#Cliente?
+0033#STR0033#ALL#Concelho Sede do Sindicato ?

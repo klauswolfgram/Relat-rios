@@ -1,0 +1,22 @@
+0001#STR0001#ALL#Función disponible solamente para entornos TopConnect
+0002#STR0002#ALL#Función disponible solamente para TReport, por favor, actualice el entorno y verifique el parámetro MV_TREPORT
+0003#STR0003#ALL#Este informe tiene el objetivo de mostrar el análisis comparativo Provisión vs. Realizado vs. AVP de corto y largo plazo de los activos vinculados a los proyectos del activo fijo 
+0004#STR0004#ALL#Estado demostrativo Provisión vs. Realizado vs. AVP de corto y largo plazo de Proyecto de activo fijo
+0005#STR0005#ALL#Proyecto del activo fijo
+0006#STR0006#ALL#AVP de activos fijos del proyecto
+0007#STR0007#ALL#Provisión
+0008#STR0008#ALL#Realizado
+0009#STR0009#ALL#Saldo de provisión
+0010#STR0010#ALL#Constituido
+0011#STR0011#ALL#Corto Plz.-PRV
+0012#STR0012#ALL#Largo Plz.-PRV
+0013#STR0013#ALL#Corto Plz.-RLZ
+0014#STR0014#ALL#Largo Plz.-RLZ
+0015#STR0015#ALL#Corto Plz.-SLD
+0016#STR0016#ALL#Largo Plz.-SLD
+0017#STR0017#ALL#Total sucursal
+0018#STR0018#ALL#Total proyecto
+0019#STR0019#ALL#Para utilizar este informe, es necesario que estén implementados los procesos de Proyectos de activo fijo y Control de AVP de activos fijos. Por favor, actualice el entorno
+0020#STR0020#ALL#Proyecto Cód.:
+0021#STR0021#ALL#Fch.Inic.AVP
+0022#STR0022#ALL#Total etapa

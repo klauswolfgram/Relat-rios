@@ -1,0 +1,46 @@
+0001#STR0001#ALL#Pre-printed
+0002#STR0002#ALL#Administration
+0003#STR0003#ALL#ACCOUNTS PAYABLE status  
+0004#STR0004#ALL#Processing supplier 
+0005#STR0005#ALL#Processing Paym. Orders
+0006#STR0006#ALL#There are no data matching to the selected parameters
+0007#STR0007#ALL#Printing 
+0008#STR0008#ALL#Code   Name / Company Name                      Type  Voucher       Issue    Register Matur.         Debits          Credits      Accumulated
+0009#STR0009#ALL#                                                Vouc.               Date     Date     Date                                            Balance
+0010#STR0010#ALL#Code   Name / Company Name                                                              Debits          Credits          Balance
+0011#STR0011#ALL#                                                                                                                         Accumulated
+0012#STR0012#ALL#Balances at: 
+0013#STR0013#ALL#SUBTOTALS OF SUPPLIER 
+0014#STR0014#ALL#GRAND TOTALS:
+0015#STR0015#ALL#From Supplier     
+0016#STR0016#ALL#To Supplier       
+0017#STR0017#ALL#From Date         
+0018#STR0018#ALL#To Date           
+0019#STR0019#ALL#Detailed          
+0020#STR0020#ALL#Reference Date    
+0021#STR0021#ALL#Ordered by        
+0022#STR0022#ALL#Page per Supplier 
+0023#STR0023#ALL#Format            
+0024#STR0024#ALL#Print Balance Zero
+0025#STR0025#ALL#Detailed
+0026#STR0026#ALL#Summary
+0027#STR0027#ALL#Issue
+0028#STR0028#ALL#Due Date
+0029#STR0029#ALL#Registry
+0030#STR0030#ALL#Code
+0031#STR0031#ALL#Comp.Name
+0032#STR0032#ALL#Yes
+0033#STR0033#ALL#No
+0034#STR0034#ALL#Regular
+0035#STR0035#ALL#File
+0036#STR0036#ALL#Date 
+0037#STR0037#ALL#Record  
+0038#STR0038#ALL#Due Dt
+0039#STR0039#ALL#Debits 
+0040#STR0040#ALL#Credits 
+0041#STR0041#ALL#  Blnce
+0042#STR0042#ALL#Accumul. 
+0043#STR0043#ALL#Suppliers
+0044#STR0044#ALL#Movements
+0045#STR0045#ALL# - On 
+0046#STR0046#ALL#CTB Tax Record

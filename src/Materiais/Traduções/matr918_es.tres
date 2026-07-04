@@ -1,0 +1,44 @@
+0001#STR0001#ALL#Informe de verificacion de DNF - Comprobante de Facturas.
+0002#STR0002#ALL#Este informe exhibe una visual. previa del medio-magnetico que se generara.
+0003#STR0003#ALL#A rayas
+0004#STR0004#ALL#Administrac.
+0005#STR0005#ALL#DNF
+0006#STR0006#ALL#Este programa genera arcchivo preformateado para importacion  de DNF - Comprobante de Facturas   
+0007#STR0007#ALL#Informaciones  Contribuyente- Registro Tipo 0.
+0008#STR0008#ALL#|Cnpj/Mf:           |Empresa:                                |Mes/Ano Ref.: |Ver Layout|
+0009#STR0009#ALL#|###################|########################################| ##/####      | ######## |
+0010#STR0010#ALL#|          |                   |          |          |          |    |            |            |            |    |    |Documentos Vinculados|
+0011#STR0011#ALL#|Ident  Reg|Cnpj/Mf Adquiriente|Nr  Fc/Ser|Fc Emision|Dt Entrada|Cfop|      Vlr Fc|     Vlr IPI|      Isento|Canc|Comp|Nr  Fc/Ser|Emision Fc|
+0012#STR0012#ALL#|##########|###################|######/###|##########|##########|####|############|############|############|### |### |######/###|##########|
+0013#STR0013#ALL#Datos de Control  - Registro Tipo 9.
+0014#STR0014#ALL#|Total de registros: ############  |
+0015#STR0015#ALL#|Ident  Reg|It.|Cod. Mercaderia|Desc. Mercaderia                             |NCM     |CP |Cfop|Um        |  Cantidad  |   Vlr  Unit|  Vlr Tot It|    Base IPI|     Vlr IPI| Fac Convers|Qtd Um Estat|
+0016#STR0016#ALL#|##########|###|###############|#############################################|########|###|####|##########|############|############|############|############|############|############|############|
+0017#STR0017#ALL#+----------------------------------+
+0018#STR0018#ALL#
+0019#STR0019#ALL#Numero  DI|
+0020#STR0020#ALL###########|
+0021#STR0021#ALL#Indexando Archivo
+0022#STR0022#ALL#+-------------------+----------------------------------------+--------------+----------+
+0023#STR0023#ALL#Maestro de Documentos Fiscales de Entrada- Registro Tipo 1.
+0024#STR0024#ALL#Maestro de Documentos Fiscales de Salida - Regis. Tipo 1.
+0025#STR0025#ALL#----------+
+0026#STR0026#ALL#+----------+---+---------------+---------------------------------------------+--------+---+----+----------+------------+------------+------------+------------+------------+------------+------------+
+0027#STR0027#ALL#+----------+-------------------+----------+----------+----------+----+------------+------------+------------+----+----+----------+----------+
+0028#STR0028#ALL#Itemes de Documentos Fiscales de Entrada- Registro Tipo 3.
+0029#STR0029#ALL#Informe de Verificacion de GIM-DF 
+0030#STR0030#ALL#Datos de la Factura - Registro Tipo 0.
+0031#STR0031#ALL#Datos de los Items (Productos) de la Factura - Registro Tipo 1.
+0032#STR0032#ALL#Informaciones del Contribuyente.
+0033#STR0033#ALL#Ident.Reg.|RNPJ/MF Emisor    | NR  NF/SER  |DT Emision|IT.|COD.|CP   |CFOP        |Unidad                       |Cantidad  | VL Unit.   | VLR Total  |A. IPI|QTD UM Estat|
+0034#STR0034#ALL#|##########|###################|######/###|##########|###|####|#####|############|##############################|############|############|############|######|############|
+0035#STR0035#ALL#|          |                   |          |          |   |    |     |            |                              |            |            |            |      |            |
+0036#STR0036#ALL#+----------+-------------------+----------+----------+---+----+-----+------------+------------------------------+------------+------------+------------+------+------------+
+0037#STR0037#ALL#|CNPJ/MF Emitente   |NR  FC/SER|FE Emision|FE Salida |CNPJ/MF Destinatario|
+0038#STR0038#ALL#|                   |          |          |          |                    |
+0039#STR0039#ALL#|###################|######/###|##########|##########|####################|
+0040#STR0040#ALL#+-------------------+----------+----------+----------+--------------------|
+0041#STR0041#ALL#|CTD Registro 0|CTD Registro 1|NR Volum.|CTD DE Volum. |
+0042#STR0042#ALL#| #############| #############| ########| #############|
+0043#STR0043#ALL#|              |              |         |              |
+0044#STR0044#ALL#+--------------+--------------+---------+--------------+

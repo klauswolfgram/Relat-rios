@@ -1,0 +1,11 @@
+0001#STR0001#ALL#Este programa tiene por objetivo imprimir informes 
+0002#STR0002#ALL#de historial de modificaciones de precios.
+0003#STR0003#ALL#Informe de Historial de Modificaciones de Precio
+0004#STR0004#ALL#  Grupo/Sucursal   Fecha Modificacion     Hora Modificacion      Pre-Tabla       Grupo         Descripcion 		 Cod.Producto      Descripcion             	Precio Vigente(modificacion)        Precio Establecido      
+0005#STR0005#ALL#Impresion anulada.
+0006#STR0006#ALL#Filtro no realizado, verifique parametros.
+0007#STR0007#ALL#*** ANULADO POR EL OPERADOR ***
+0008#STR0008#ALL#No localizado.
+0009#STR0009#ALL#R$ 
+0010#STR0010#ALL#Informe solamente Categoria o Producto en los filtros.
+0011#STR0011#ALL#Efectue nuevo acceso

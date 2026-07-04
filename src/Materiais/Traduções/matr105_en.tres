@@ -1,0 +1,13 @@
+0001#STR0001#ALL#Warehouse Requisitions Status
+0002#STR0002#ALL#  This report shows a Warehouse Requisitions list, 
+0003#STR0003#ALL#according to the selected parameters.
+0004#STR0005#ALL#Z.Form
+0005#STR0006#ALL#Management
+0006#STR0007#ALL#CANCELLED BY THE OPERATOR
+0007#STR0008#ALL#Number  Item  Code               Description                      Issue Dt.          Quantity                Balance      Qty.Delivered  Requisition   Cost Center        Petitioner
+0008#STR0009#ALL#Blnce
+0009#STR0010#ALL#Qty.Deliver.
+0010#STR0011#ALL#Requisit. 
+0011#STR0012#ALL#Items of requests to warehouse   
+0012#STR0013#ALL#Requests to warehouse
+0013#STR0014#ALL#Item

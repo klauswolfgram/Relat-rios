@@ -1,0 +1,21 @@
+0001#STR0001#ALL#This program prints report 
+0002#STR0002#ALL#according to parameters entered by user.
+0003#STR0003#ALL#Financial Apportionment Conference
+0004#STR0004#ALL#Financial Apportionment Conference
+0005#STR0005#ALL# Bill              Situation   Entity  Name Entity                                        Issue    Due Date             Value 
+0006#STR0006#ALL#Z-form
+0007#STR0007#ALL#Management
+0008#STR0008#ALL#*** CANCELED BY OPERATOR ***
+0009#STR0009#ALL#Result
+0010#STR0010#ALL#Request:      
+0011#STR0011#ALL#Origin Bill
+0012#STR0012#ALL#Written-off
+0013#STR0013#ALL#Pending
+0014#STR0014#ALL#Blocked
+0015#STR0015#ALL#Apportionment Reduction
+0016#STR0016#ALL#Company/Branch Total: 
+0017#STR0017#ALL#Distributed Bill(s)
+0018#STR0018#ALL# Description                               Type     Comp/Bra   Perc. Customer                                    Supplier 
+0019#STR0019#ALL#Document:      
+0020#STR0020#ALL#Origin
+0021#STR0021#ALL#Destination

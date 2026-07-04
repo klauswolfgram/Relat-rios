@@ -1,0 +1,14 @@
+0001#STR0001#ALL#Este programa irá emitir um Ranking de Produtos por
+0002#STR0002#ALL#Preço ou Quantidade em Moeda Corrente.
+0003#STR0003#ALL#Zebrado
+0004#STR0004#ALL#Administracao
+0005#STR0005#ALL#RANKING DE PRODUTOS
+0006#STR0006#ALL#Clas  Codigo do Produto  Descricao do Produto                                      Quantidade    Un                 Valor
+0007#STR0007#ALL#Valor
+0008#STR0008#ALL#Quantidade
+0009#STR0009#ALL#CANCELADO PELO OPERADOR
+0010#STR0010#ALL#Total Geral :                                                                     Quantidade                       Valor
+0011#STR0011#ALL#Classificando...
+0012#STR0012#ALL#Código 
+0013#STR0013#ALL#Detalhes dos Produtos
+0014#STR0014#ALL#Clas  Codigo do Produto        Descricao do Produto                                      Quantidade    Un                 Valor

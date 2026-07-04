@@ -1,0 +1,68 @@
+0001#STR0001#ALL#E N T I T Y  D A T A
+0002#STR0002#ALL#Entity / Code
+0003#STR0003#ALL#Entity Name
+0004#STR0004#ALL#Address
+0005#STR0005#ALL#City
+0006#STR0006#ALL#State
+0007#STR0007#ALL#Zip Code
+0008#STR0008#ALL#Business Telephone
+0009#STR0009#ALL#Home Page
+0010#STR0010#ALL#E-mail
+0011#STR0011#ALL#Attendance Code
+0012#STR0012#ALL#Attendance Date
+0013#STR0013#ALL#Not found in the file...
+0014#STR0014#ALL#Not informed in attendance...
+0015#STR0015#ALL#Customer/Unit Code
+0016#STR0016#ALL#Company Name
+0017#STR0017#ALL#Contact Code
+0018#STR0018#ALL#Contact Name
+0019#STR0019#ALL#Marketing Type
+0020#STR0020#ALL#Operation
+0021#STR0021#ALL#Freight Type
+0022#STR0022#ALL#Price Table
+0023#STR0023#ALL#Operator Code
+0024#STR0024#ALL#Operator Name
+0025#STR0025#ALL#Sales Representative Code
+0026#STR0026#ALL#Sales Representative Name
+0027#STR0027#ALL#Media Code
+0028#STR0028#ALL#Media Description
+0029#STR0029#ALL#Campaign Code
+0030#STR0030#ALL#Campaign Description
+0031#STR0031#ALL#Occurrence Code
+0032#STR0032#ALL#Occurrence Description
+0033#STR0033#ALL#Returning Date
+0034#STR0034#ALL#Returning Time
+0035#STR0035#ALL#Note
+0036#STR0036#ALL#Item Product         Description                    St   Amnt     Unit Vl.           Item Vl.  %Disc    Discount Vl.  %Add.   Add. Vl.     TES CFOP      Table      ICMS Basis LP UM Delivery   Lot        Maturity Sub-Lt
+0037#STR0037#ALL#WAYBILL
+0038#STR0038#ALL#O B J E C T S  B O N D E D  T O  W A Y B I L L   D A T A B A S E
+0039#STR0039#ALL#Code Obj       Size        Description                                                      Object
+0040#STR0040#ALL#A T T E N D A N C E  OF  E N T I T Y  T E L E C O L L E C T I O N
+0041#STR0041#ALL#Call Type
+0042#STR0042#ALL#Not informed
+0043#STR0043#ALL#Return on
+0044#STR0044#ALL#at
+0045#STR0045#ALL#Prf Title-P Typ Class       Matur.   V. Real         Add. Value  Decr Value  Bank Nr.       History   %Per  Val Jur     IRRF     ISS     CSLL   COFINS      PIS Status          Resp.  Nome do Responsável
+0046#STR0046#ALL#TeleSales
+0047#STR0047#ALL#A T E N D A N C E  OF   E N T I T Y  T E L E S A L E S
+0048#STR0048#ALL#Item
+0049#STR0049#ALL#Product
+0050#STR0050#ALL#Description
+0051#STR0051#ALL#ST
+0052#STR0052#ALL#Amount
+0053#STR0053#ALL#Unit Value
+0054#STR0054#ALL#Item Value
+0055#STR0055#ALL#%Disc
+0056#STR0056#ALL#Discount Value
+0057#STR0057#ALL#%Increase
+0058#STR0058#ALL#Increase Value
+0059#STR0059#ALL#TIO
+0060#STR0060#ALL#CFOP
+0061#STR0061#ALL#Table
+0062#STR0062#ALL#ICMS  Base
+0063#STR0063#ALL#LP
+0064#STR0064#ALL#MU
+0065#STR0065#ALL#Delivery 
+0066#STR0066#ALL#Lot
+0067#STR0067#ALL#Sub-Lt
+0068#STR0068#ALL#Validity

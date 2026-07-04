@@ -1,0 +1,11 @@
+0001#STR0001#ALL#Posição Das Solicitações Ao Armazém
+0003#STR0003#ALL#Metros seleccionados.
+0004#STR0005#ALL#Código de barras
+0005#STR0006#ALL#Administração
+0006#STR0007#ALL#Cancelado Pelo Operador
+0007#STR0008#ALL#Número  Item  Código             Descrição                        Emissão            Quantidade              Saldo        Qtd.entregue   Requisição         Centro De Custo    Solicitante
+0009#STR0010#ALL#Qtd.entregue
+0010#STR0011#ALL#Requisição
+0011#STR0012#ALL#ITens das solicitações ao armazem
+0012#STR0013#ALL#Solicitações ao armazém
+0013#STR0014#ALL#elemento

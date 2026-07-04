@@ -1,0 +1,26 @@
+0001#STR0001#ALL#LIST OF VEHICLES TO BE RECEIVED BY BRANCH
+0002#STR0002#ALL#Print list of vehicles to be received by branch
+0003#STR0003#ALL#according to parameters input
+0004#STR0004#ALL#Z.form
+0005#STR0005#ALL#Management   
+0006#STR0006#ALL#Selecting Files...       
+0007#STR0007#ALL#Selecting DTW records...     
+0008#STR0008#ALL#-----TRIP-----                   FINAL --ESTI ARRIVAL--  PERC ----VEHICLE----   --1st. TOW   --    --2nd. TOW   --     DRIVER       
+0009#STR0009#ALL#ORIGIN  NUMBER TYPE ROUTE      DESTIN  DATE       TIME   OCUP COD      PLATE    COD      PLATE     COD      PLATE                   
+0010#STR0010#ALL#SHIFT  : 
+0011#STR0011#ALL#CANCELED BY OPERATOR  
+0012#STR0012#ALL#Report of vehicles receivable per branch
+0013#STR0013#ALL#Issue report of vehicles receivable per branch according to parameters entered
+0014#STR0014#ALL#Activity Bra. + Origin Bra. + Trip
+0015#STR0015#ALL#Activity Bra.
+0016#STR0016#ALL#Description
+0017#STR0017#ALL#St
+0018#STR0018#ALL#Trip
+0019#STR0019#ALL#Occu.Perc.
+0020#STR0020#ALL#Vehicle
+0021#STR0021#ALL#Plate
+0022#STR0022#ALL#1st Tow
+0023#STR0023#ALL#2nd Tow
+0024#STR0024#ALL#Driver
+0025#STR0025#ALL#Type Route
+0026#STR0026#ALL#3rd Tow

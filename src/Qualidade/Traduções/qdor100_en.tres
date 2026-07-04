@@ -1,0 +1,14 @@
+0001#STR0001#ALL#Return of Previous Review     
+0002#STR0002#ALL#This program will print a list of return holdovers of    
+0003#STR0003#ALL#return from review previous according to the               
+0004#STR0004#ALL#parameters defined by the user.      
+0005#STR0005#ALL#Z.Form
+0006#STR0006#ALL#Management   
+0007#STR0007#ALL#Selecting File..        
+0008#STR0008#ALL#USER                                 DEPT.                      TOTAL COPIES  RETURNED    NOT RETURNED    DATE GENERAT. DATE POST.
+0009#STR0009#ALL#CANCELLED BY OPERATOR  
+0010#STR0010#ALL#DOCUMENT/REVIEW:   
+0011#STR0011#ALL#User   
+0012#STR0012#ALL#Total Copies
+0013#STR0013#ALL#Returned  
+0014#STR0014#ALL#Unreturned    

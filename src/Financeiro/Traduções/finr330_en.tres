@@ -1,0 +1,54 @@
+0001#STR0001#ALL#This program will list the general status of accounts payable
+0002#STR0002#ALL#regarding the system data base.  
+0003#STR0003#ALL#Z. form
+0004#STR0004#ALL#Administration
+0005#STR0005#ALL#Accounts payable general status
+0006#STR0006#ALL#                                             Amounts (
+0007#STR0007#ALL#)            Quantity  
+0008#STR0008#ALL#CANCELLED BY OPERATOR  
+0009#STR0009#ALL#Selecting records ...  
+0010#STR0010#ALL#PURCHASES (in month)
+0011#STR0011#ALL#Cash   
+0012#STR0012#ALL#Financed
+0013#STR0013#ALL#AMOUNTS POSTED  
+0014#STR0014#ALL#Collected
+0015#STR0015#ALL#Interest rate
+0016#STR0016#ALL#Fine 
+0017#STR0017#ALL#Indexation
+0018#STR0018#ALL#Deductions
+0019#STR0019#ALL#Advance payment
+0020#STR0020#ALL#Original
+0021#STR0021#ALL#BILLS TO FALL DUE
+0022#STR0022#ALL#Up to 15 days
+0023#STR0023#ALL#From 16 to 30 days
+0024#STR0024#ALL#From 31 to 60 days
+0025#STR0025#ALL#From 60 to 90 days
+0026#STR0026#ALL#Over 90 days    
+0027#STR0027#ALL#OVERDUE BILLS   
+0028#STR0028#ALL#BY BILL TYPE      
+0029#STR0029#ALL#Trade notes
+0030#STR0030#ALL#Invoices     
+0031#STR0031#ALL#Diferred checks    
+0032#STR0032#ALL#Installment book  
+0033#STR0033#ALL#Taxes   
+0034#STR0034#ALL#Advance payments      
+0035#STR0035#ALL#Debit notes    
+0036#STR0036#ALL#Other 
+0037#STR0037#ALL#DELAYED PURCHASE ORDERS    
+0038#STR0038#ALL#ADVANCED PURCHASE ORDERS    
+0039#STR0039#ALL#Amounts 
+0040#STR0040#ALL#Quantity  
+0041#STR0041#ALL#Absolute average term
+0042#STR0042#ALL#Weighted Average Term
+0043#STR0043#ALL#Arrears quotient   
+0044#STR0044#ALL#AVERAGE TERMS AND ARREARS QUOTIENT 
+0045#STR0045#ALL#Supplier  
+0046#STR0046#ALL#Purch.(in month)
+0047#STR0047#ALL#Amounts posted  
+0048#STR0048#ALL#Bills to fall due
+0049#STR0049#ALL#Overdue bills   
+0050#STR0050#ALL#By bill type      
+0051#STR0051#ALL#Delayed purchase orders    
+0052#STR0052#ALL#Advanced purchase orders    
+0053#STR0053#ALL#Average terms and arrears quotient 
+0054#STR0054#ALL#Accessory Values

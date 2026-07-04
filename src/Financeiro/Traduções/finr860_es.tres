@@ -1,0 +1,31 @@
+0001#STR0001#ALL#Imprime la lista de titulos p/cobrar que tuvieron retencion
+0002#STR0002#ALL#de INSS.
+0003#STR0003#ALL#A Rayas
+0004#STR0004#ALL#Administrac.
+0005#STR0005#ALL#Lista de titulos por cobrar con retencion de INSS
+0006#STR0006#ALL#CGC / CPF           Nombre del Cliente                        Prf Numero  PC  Tipo Fch  Emision   Valor Original        Valor INSS     Valor Neto
+0007#STR0007#ALL#ANULADO POR EL OPERADOR
+0008#STR0008#ALL#TITULOS
+0009#STR0009#ALL#TITULO
+0010#STR0010#ALL#T O T.  G E N E R A L ----> 
+0011#STR0011#ALL#CGC / CPF           Nombre del Cliente                        Prf Numero        PC  Tipo  Fch. Emision   Valor Original        Valor INSS     Valor Neto
+0012#STR0012#ALL#CGC/CPF
+0013#STR0013#ALL#Nombre Cliente
+0014#STR0014#ALL#Prf
+0015#STR0015#ALL#Numero
+0016#STR0016#ALL#PC
+0017#STR0017#ALL#Tipo
+0018#STR0018#ALL#Fch Emision
+0019#STR0019#ALL#Valor Original
+0020#STR0020#ALL#Valor INSS
+0021#STR0021#ALL#Valor Neto
+0022#STR0022#ALL#Total Seccion
+0023#STR0023#ALL#Total Gral.
+0024#STR0024#ALL#Clientes
+0025#STR0025#ALL#Ctas. p. cobrar
+0026#STR0026#ALL#Codigo
+0027#STR0027#ALL#Empresa
+0028#STR0028#ALL#Unidad de negocio
+0029#STR0029#ALL#Sucursal
+0030#STR0030#ALL#Sucursales seleccionadas para el informe
+0031#STR0031#ALL#Seleccionando Registros...

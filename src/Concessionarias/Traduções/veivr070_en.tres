@@ -1,0 +1,94 @@
+0001#STR0001#ALL#This program will print the movement of vehicles 
+0002#STR0002#ALL#carried out during the selected periods
+0003#STR0003#ALL#cted    
+0004#STR0004#ALL#Movement of vehicles during the Period
+0005#STR0005#ALL#[InC.] [Brand--------------------------] [Man/Mod] [Vehicle Chassis--------] [Model Code------------------] [Model Description-----------] [Model Addit Inform] [Vehicle Color-------------------------] [Movemnt Operation]
+0006#STR0006#ALL#Z.Form
+0007#STR0007#ALL#Management
+0008#STR0008#ALL# from 
+0009#STR0009#ALL# to 
+0010#STR0010#ALL# Type of Sale: 
+0011#STR0011#ALL#Regular
+0012#STR0012#ALL#Return
+0013#STR0013#ALL#All
+0014#STR0014#ALL#*** CANCELLED BY THE OPERATOR ***
+0015#STR0015#ALL#[Supplier  -----------------------------------] [Inf.Dt] [NF.No/Ser---] [Cost Value] [Total Vl. ] [ICMS Value] [Rate] [IPI Value ] [Rate]
+0016#STR0016#ALL#Inflow
+0017#STR0017#ALL#[Customer-------------------------------------] [Out Dt] [NF.No/Ser---] [PIS Value-] [COFINS Val] [ICMS Value] [Rate] [Grand Tot.]
+0018#STR0018#ALL#Outflow..:
+0019#STR0019#ALL#[Inv.Type   ] [Bonus Man.] [Insurance ] [Advising  ] [ Revis.   ] [Assoc.    ]
+0020#STR0020#ALL#New Vehicle
+0021#STR0021#ALL#Second-hand Vehicle
+0022#STR0022#ALL#Direct Invoice
+0023#STR0023#ALL#Initial Date      ?
+0024#STR0024#ALL#Final Date        ?
+0025#STR0025#ALL#Model             ?
+0026#STR0026#ALL#Type of Operation ?
+0027#STR0027#ALL#Sale
+0028#STR0028#ALL#Chassis
+0029#STR0029#ALL#Simulation
+0030#STR0030#ALL#Transference
+0031#STR0031#ALL#Remittance
+0032#STR0032#ALL#Consigned
+0033#STR0033#ALL#Remittance Ret.
+0034#STR0034#ALL#Consigned Ret.
+0035#STR0035#ALL#Future Sale
+0036#STR0036#ALL#Vehicle
+0037#STR0037#ALL#C.Int
+0038#STR0038#ALL#Brand
+0039#STR0039#ALL#Manuf./Mod.
+0040#STR0040#ALL#Chassis
+0041#STR0041#ALL#Model
+0042#STR0042#ALL#Model Description
+0043#STR0043#ALL#ModelCompl.
+0044#STR0044#ALL#Color
+0045#STR0045#ALL#Description
+0046#STR0046#ALL#Transac. Operation
+0047#STR0047#ALL#Separation
+0048#STR0048#ALL#Inflow
+0049#STR0049#ALL#Supplier
+0050#STR0050#ALL#Name
+0051#STR0051#ALL#Inflow Dt
+0052#STR0052#ALL#Invoice Nr
+0053#STR0053#ALL#Series
+0054#STR0054#ALL#Unit Vl
+0055#STR0055#ALL#Cost  Vl
+0056#STR0056#ALL#ICM Vl
+0057#STR0057#ALL#ICM Aliq.
+0058#STR0058#ALL#IPI Vl
+0059#STR0059#ALL#IPI Aliq.
+0060#STR0060#ALL#Outflow
+0061#STR0061#ALL#Customer
+0062#STR0062#ALL#Store
+0063#STR0063#ALL#Outflow Dt
+0064#STR0064#ALL#Series
+0065#STR0065#ALL#PIS Vl
+0066#STR0066#ALL#Cofins Vl
+0067#STR0067#ALL#Total Vl
+0068#STR0068#ALL#Sales Representative
+0069#STR0069#ALL#Sales representative name
+0070#STR0070#ALL#Address
+0071#STR0071#ALL#Telephone Number
+0072#STR0072#ALL#Invoicing Tp
+0073#STR0073#ALL#Manuf. Bonus
+0074#STR0074#ALL#Travel Insur.
+0075#STR0075#ALL#Advisory
+0076#STR0076#ALL#Reviews
+0077#STR0077#ALL#Association
+0078#STR0078#ALL#Enter Start Date to calculate
+0079#STR0079#ALL#transaction
+0080#STR0080#ALL#Enter End Date to calculate
+0081#STR0081#ALL#Select specific Model or leave
+0082#STR0082#ALL#blank for all
+0083#STR0083#ALL#F3 is available to search
+0084#STR0084#ALL#Vehicle Model File
+0085#STR0085#ALL#Enter Operation Type:
+0086#STR0086#ALL#1-Sale
+0087#STR0087#ALL#2-Transfer
+0088#STR0088#ALL#3-Remittance
+0089#STR0089#ALL#4-Return
+0090#STR0090#ALL#5-All
+0091#STR0091#ALL#Enter vehicle chassis or leave
+0092#STR0092#ALL#blank for all
+0093#STR0093#ALL#Vehicle Chassis File
+0094#STR0094#ALL#Movement of vehicles per Period

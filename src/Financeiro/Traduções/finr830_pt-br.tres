@@ -1,0 +1,35 @@
+0001#STR0001#ALL#Este programa tem como objetivo imprimir as movimentacoes das aplica-
+0002#STR0002#ALL#coes financeiras, conforme os parametros solicitados. 
+0003#STR0003#ALL#Relaçao de Baixas de Aplicacoes Financeira
+0004#STR0005#ALL#Zebrado
+0005#STR0006#ALL#Administracao
+0006#STR0007#ALL#CANCELADO PELO OPERADOR
+0007#STR0008#ALL#                  Dados da Aplicacao                                                                                        Movimentacao
+0008#STR0009#ALL#Numero    Instituicao          Mod Dt.Digit        Valor Nominal Natureza   Bco Age.  Conta      Tip Mot Historico                                     Vlr Resgatado       Impostos          Juros  Vlr Creditado Situacao
+0009#STR0010#ALL#Total Geral
+0010#STR0011#ALL#CANCEL.
+0011#STR0012#ALL#Numero
+0012#STR0013#ALL#Instituicao
+0013#STR0014#ALL#Mod
+0014#STR0015#ALL#Dt.Digit
+0015#STR0016#ALL#Valor Nominal
+0016#STR0017#ALL#Natureza
+0017#STR0018#ALL#Bco
+0018#STR0019#ALL#Age.
+0019#STR0020#ALL#Conta
+0020#STR0021#ALL#Tip
+0021#STR0022#ALL#Mot
+0022#STR0023#ALL#Historico
+0023#STR0024#ALL#Vlr Resgatado
+0024#STR0025#ALL#Impostos
+0025#STR0026#ALL#Juros
+0026#STR0027#ALL#Vlr Creditado
+0027#STR0028#ALL#Situacao
+0028#STR0029#ALL#Registros
+0029#STR0030#ALL#Filial : 
+0030#STR0031#ALL#Código
+0031#STR0032#ALL#Empresa
+0032#STR0033#ALL#Unidade de negócio
+0033#STR0034#ALL#Filial
+0034#STR0035#ALL#Filiais selecionadas para o relatorio
+0035#STR0036#ALL#Total Filial : 

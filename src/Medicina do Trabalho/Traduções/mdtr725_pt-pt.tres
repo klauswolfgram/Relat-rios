@@ -1,0 +1,31 @@
+0002#STR0002#ALL#é possível escolher o período de atendimento, os motivos e quem o irá atender. 
+0003#STR0003#ALL#Seleccionado motivo, médico e período desejado
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#Atendimento De Enfermagem
+0009#STR0009#ALL#Cancelado Pelo Operador
+0010#STR0010#ALL#Total de consultas do motivo 
+0011#STR0011#ALL#Atendedor
+0012#STR0012#ALL#Cód. atendedor
+0014#STR0014#ALL#Ficha méd.
+0018#STR0018#ALL#1=inalação;2=acidente;3=medicamento;4=verificar P.a.;5=verificar Temperatura;6=medicamento Injectável;7=curativo
+0024#STR0024#ALL#Cód. motivo
+0026#STR0026#ALL#A processar os atendimentos...
+0028#STR0028#ALL#Total de atendimentos de 
+0029#STR0029#ALL#Total de atendimentos na data 
+0030#STR0030#ALL#Total de atendimentos pelo motivo 
+0031#STR0031#ALL#Filtrando os registos, aguarde...
+0032#STR0032#ALL#De data de atendimento ?
+0033#STR0033#ALL#Até data de atendimento ?
+0034#STR0034#ALL#De motivo ?
+0035#STR0035#ALL#Até motivo ?
+0036#STR0036#ALL#Do atendedor ?
+0037#STR0037#ALL#Até atendedor ?
+0039#STR0039#ALL#1-atendedor
+0041#STR0041#ALL#1=inalação
+0042#STR0042#ALL#2=acidente
+0043#STR0043#ALL#3=medicamento
+0044#STR0044#ALL#4=verificar P.a.
+0045#STR0045#ALL#5=verificar Temperatura
+0046#STR0046#ALL#6=medicamento injectável
+0047#STR0047#ALL#7=curativo

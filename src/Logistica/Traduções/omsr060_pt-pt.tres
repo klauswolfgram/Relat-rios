@@ -1,0 +1,21 @@
+0001#STR0001#ALL#Roteiros
+0002#STR0002#ALL#Este Programa Irá Emitir A Relação Dos Roteiros
+0003#STR0003#ALL#Distribuida Por Rotas, Zonas, Sectores E Clientes Por Sector
+0004#STR0004#ALL#De acordo com os parâmetros escolhidos pelo utilizador.
+0005#STR0005#ALL#Código de barras
+0006#STR0006#ALL#Administração
+0007#STR0007#ALL#Por Roteiro
+0009#STR0009#ALL#Rota   Descrição                      Sequência Zona   Descrição                      Sector  Descrição
+0010#STR0010#ALL#SEQUÊNCIA CLIENTE LOJA  NOME                                     MORADA                                 CONCELHO          DISTRITO  CÓD.POST.       REFERÊNCIA
+0011#STR0011#ALL#Cliente Loja   Nome                                     Endereço                                 Cidade          Distrito Código Postal
+0012#STR0012#ALL#Cliente Sem Roteiro - Não Registado Em Nenhuma Zona / Sector
+0013#STR0013#ALL#Zona   Descrição                        Sector  Descrição                                Sequência   Rota   Descrição                      Sequência
+0014#STR0014#ALL#Zona E Sector Não Registados Em Nenhuma Rota
+0015#STR0015#ALL#Sequência	 Cep Inicial    Cep Final    Referencia
+0016#STR0016#ALL#Zona / sector =>
+0017#STR0017#ALL#Roteirizações	
+0018#STR0018#ALL#Este Programa Irá Emitir A Relação Dos Roteiros
+0019#STR0019#ALL#Distribuida Por Rotas, Zonas, Sectores E Clientes Por Sector
+0020#STR0020#ALL#De acordo com os parâmetros escolhidos pelo utilizador.
+0025#STR0025#ALL#Sequência
+0027#STR0027#ALL#Sequência Do Cliente

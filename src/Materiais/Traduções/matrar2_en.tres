@@ -1,0 +1,33 @@
+0001#STR0001#ARG#Genertion of Sales Tax Record    
+0002#STR0002#ARG#The initial and final date will be requested to generate    
+0003#STR0003#ARG#the Sales Tax Record    
+0004#STR0004#ARG#Special
+0005#STR0005#ARG#Administration
+0006#STR0006#ARG#Type on rec.
+0007#STR0007#ARG#Filtering records.....
+0008#STR0008#ARG#** CANCELLED BY OPERATOR **
+0009#STR0009#ARG#I.V.A. BOOK       
+0010#STR0010#ARG#S A L E S  
+0011#STR0011#ARG#Company: 
+0012#STR0012#ARG#Page Number: 
+0013#STR0013#ARG#Type of Ser Receipt Corporate Name  TD Doc No.       Net Recorded    IVA R.G  IVA R.N.I  IVA SERV. IVA BS.CAP   IVA R.E.   PORC.IVA  PORC.IIBB  PORC. GAN   WITH. IVA  WITH. IIBB   WITH. SUS   WITH. SLI     EXCEMPT       TOTAL
+0014#STR0014#ARG#Grand Total   :
+0015#STR0015#ARG#Total per Fiscal Status  : 
+0016#STR0016#ARG#Invoices Total              : 
+0017#STR0017#ARG#Credit Note Total           : 
+0018#STR0018#ARG#Debit Note Total:              
+0019#STR0019#ARG#Total per Document Type :
+0020#STR0020#ARG# Form 
+0021#STR0021#ARG#Is the form positioned?
+0022#STR0022#ARG#Yes
+0023#STR0023#ARG#No
+0024#STR0024#ARG#Cancel Printing
+0025#STR0025#ARG#Try Again? 
+0026#STR0026#ARG#- From:
+0027#STR0027#ARG# To:
+0028#STR0028#ARG#Sub
+0029#STR0029#ARG#Grand Total   :
+0030#STR0030#ARG#Total per Tax Zone:      
+0031#STR0031#ARG#Total per Product Type : 
+0032#STR0032#ARG#C A N C E L L E D 
+0033#STR0033#ARG#This routine is no longer available, use routine MATRAR2B - Lib.fis Iva Sale

@@ -1,0 +1,23 @@
+0001#STR0001#ALL#Pendings scheduled for the operator
+0002#STR0002#ALL#This program will generate a list of 
+0003#STR0003#ALL#pending collections that are in the collect portfolio 
+0004#STR0004#ALL#of an Operator.
+0005#STR0005#ALL#Z-form
+0006#STR0006#ALL#Management
+0007#STR0007#ALL#CANCELED BY THE OPERATOR
+0008#STR0008#ALL#Operator: 
+0009#STR0009#ALL#Branch? 
+0010#STR0010#ALL#Customer Unit  Company Name                              CPF-CNPJ              Total Debt   Sent   Return   Hour  Entire Name                              Attendance  Date      Operation
+0011#STR0011#ALL#Branch Total: 
+0012#STR0013#ALL#Operator Total: 
+0013#STR0014#ALL#Receptive
+0014#STR0015#ALL#Active
+0015#STR0016#ALL#General Total:
+0016#STR0017#ALL#No information to print this report
+0017#STR0018#ALL#Branch total    
+0018#STR0019#ALL#Branch 
+0019#STR0020#ALL#Description 
+0020#STR0021#ALL#Classifying  
+0021#STR0022#ALL#Break by Branch  
+0022#STR0023#ALL#Operators 
+0023#STR0024#ALL#Items x Pending Items

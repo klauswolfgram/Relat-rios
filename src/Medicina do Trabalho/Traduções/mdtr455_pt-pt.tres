@@ -1,0 +1,21 @@
+0001#STR0001#ALL#Relatório de empregados convocados para a realização dos exames periodicos.
+0002#STR0002#ALL#Através dos parâmetro s o utilizador seleciona: o número da convocação e o  período
+0003#STR0003#ALL#Desejado. define tambem se deseja listar: todos, não realizados ou já realizados
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#Convocação Para Realização Dos Exames Periodicos
+0009#STR0009#ALL#Cancelado Pelo Operador
+0010#STR0010#ALL#Data       Hora    Registo     Nome Do Empregado                 Realizado
+0011#STR0011#ALL#Não existe informação para imprimir no relatório.
+0012#STR0012#ALL#Cliente/loja: 
+0013#STR0013#ALL#Centro de custo.: 
+0015#STR0015#ALL#O pcmso não pertence ao cliente seleccionado.
+0018#STR0018#ALL#Saltar Página por C.C. ?
+0019#STR0019#ALL#Até Centro Custo ?
+0021#STR0021#ALL#Até Data Consulta ?
+0024#STR0024#ALL#Convocação ?
+0028#STR0028#ALL#Até Filial ?
+0029#STR0029#ALL#Imprimir preparação ?
+0035#STR0035#ALL#por Colaborador
+0036#STR0036#ALL#Indica se o relatório deve saltar página por centro de custo, por colaborador, ou se não deve saltar página.
+0039#STR0039#ALL#Não realizados

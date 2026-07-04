@@ -1,0 +1,9 @@
+0001#STR0001#ALL#Balances statement        
+0002#STR0002#ALL#Code  
+0003#STR0003#ALL#Descript.
+0004#STR0004#ALL#Final blnce
+0005#STR0005#ALL#Printing cancelled by the operator..
+0006#STR0006#ALL#This report will print the Statement of Balances according to the parameters requested by the user. For more information about this report, query the Program Help (F1).                  
+0007#STR0007#ALL#Attention
+0008#STR0008#ALL#Cube structure not found. Check it.
+0009#STR0009#ALL#User without access to the report. Check configuration.

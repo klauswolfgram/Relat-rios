@@ -1,0 +1,22 @@
+0001#STR0001#ALL#Resumo dos seguros a serem pagos ao BSE
+0002#STR0002#ALL#Será impresso de acordo com os parametros solicitados pelo usuario
+0003#STR0003#ALL#Gerando dados para o relatorio...
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#PLANILHA PARA PAGAMENTO AO BSE
+0007#STR0007#ALL#Imprimindo relatorio	
+0008#STR0008#ALL#Apolice     %Premio Pessoal          Proventos       $ de Premio   Valor Imposto        Valor IVA    Total a pagar
+0009#STR0009#ALL#PLANILHA PARA O PAGAMENTO AO BSE - FOLHA DE PAGAMENTO CORRESPONDENTE A 
+0010#STR0010#ALL# TOTALES : 
+0011#STR0011#ALL#Apocel
+0012#STR0012#ALL#% Premio
+0013#STR0013#ALL#Pessoal
+0014#STR0014#ALL#Proventos
+0015#STR0015#ALL#$ de Premio
+0016#STR0016#ALL#Valor Imposto
+0017#STR0017#ALL#Valor IVA
+0018#STR0018#ALL#Total a pagar
+0019#STR0019#ALL#Centro de Custo
+0020#STR0020#ALL#PLANILHA BSE / GUIA BSE
+0021#STR0021#ALL#PLANILHA BSE
+0022#STR0022#ALL#GUIA BSE

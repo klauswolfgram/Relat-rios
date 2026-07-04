@@ -1,0 +1,88 @@
+0001#STR0001#ALL#Relatório Anual do Programa de Saúde Ocupacional
+0002#STR0002#ALL#Demonstrativo por setor e natureza da quantidade de exames realizados
+0003#STR0003#ALL#com resultados normais e anormais.                                   
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#Relatorio Anual do PCMSO
+0007#STR0007#ALL#Relatorio anual do PCMSO   Periodo:
+0008#STR0008#ALL#|Responsavel.....:
+0009#STR0009#ALL#CRM.:
+0010#STR0010#ALL#|Assinatura......: _____________________________           Data:
+0011#STR0011#ALL#|Setor/Funcao/Exame                                   |    Natureza     |   Exames   | Resultados | Anormais x 100 | Exames p/Ano  |
+0012#STR0012#ALL#CANCELADO PELO OPERADOR
+0013#STR0013#ALL#|
+0014#STR0014#ALL#Periodico
+0015#STR0015#ALL#Mudanca
+0016#STR0016#ALL#Retorno
+0017#STR0017#ALL#Demiss
+0018#STR0018#ALL#PCMSO
+0019#STR0019#ALL#Periodo:
+0020#STR0020#ALL#Emissao:
+0021#STR0021#ALL#Data:
+0022#STR0022#ALL#|Setor/Exame                                          |    Natureza     |   Exames   | Resultados | Anormais x 100 | Exames p/Ano  |
+0023#STR0023#ALL#Cliente ?
+0024#STR0024#ALL#Código do cliente.
+0025#STR0025#ALL#Loja
+0026#STR0026#ALL#Loja do cliente.
+0027#STR0027#ALL#|Assinatura......: _________________________________________________
+0028#STR0028#ALL#FILIAL
+0029#STR0029#ALL#Não há nada para imprimir no relatório.
+0030#STR0030#ALL#|                                                     |                 | Realizados |  Anormais  |  /Realizados   |   Seguinte    |
+0031#STR0031#ALL#Essa empresa esta cadastrada como Prestadora de Servico, portanto as 6 primeiras 
+0032#STR0032#ALL#posicoes dos parametros: 'De Centro de Custo' e 'Ate Centro de Custo' referem-se 
+0033#STR0033#ALL#ao codigo do cliente e devem ser preenchidas com o mesmo valor.
+0034#STR0034#ALL#Listar Exames Proximo Ano?
+0035#STR0035#ALL#Todos
+0036#STR0036#ALL#Nenhum
+0037#STR0037#ALL#Exame Periodico
+0038#STR0038#ALL#Indica se a quantidade de exames previstos para o 
+0039#STR0039#ALL#próximo ano será listada no relatório em todas as naturezas, 
+0040#STR0040#ALL#apenas nos exames periódicos ou em nenhuma situação.
+0041#STR0041#ALL#Imprimir Exames NR7 ?
+0042#STR0042#ALL#Classificar por ?
+0043#STR0043#ALL#Exames Proximo Ano ?
+0044#STR0044#ALL#Ate Centro de Custo ?
+0045#STR0045#ALL#De Centro de Custo ?
+0046#STR0046#ALL#Ate PCMSO ?
+0047#STR0047#ALL#De PCMSO ?
+0048#STR0048#ALL#De Filial ?
+0049#STR0049#ALL#Ate Filial ?
+0050#STR0050#ALL#Imprimir totalizador ?
+0051#STR0051#ALL#Natureza exame
+0052#STR0052#ALL#Tipo de exame
+0053#STR0053#ALL#Indica se deve imprimir algum totalizador ao final do relatório.
+0054#STR0054#ALL#ADMISSIONAL
+0055#STR0055#ALL#PERIÓDICO
+0056#STR0056#ALL#MUDANÇA DE FUNÇÃO
+0057#STR0057#ALL#RETORNO AO TRABALHO
+0058#STR0058#ALL#DEMISSIONAL
+0059#STR0059#ALL#TOTAL GERAL
+0060#STR0060#ALL#|     Natureza do Exame         |     Tipo Exame               |   Exames   | Resultados | Resultados |  Percentual   |  Previsto  |
+0061#STR0061#ALL#|                               |                              | Realizados |   Normais  |  Alterados |   Alterados   |            |
+0062#STR0062#ALL#|     Tipo Exame                                               |   Exames   | Resultados | Resultados |  Percentual   |  Previsto  |
+0063#STR0063#ALL#|                                                              | Realizados |   Normais  |  Alterados |   Alterados   |            |
+0064#STR0064#ALL#TOTAL NATUREZA
+0065#STR0065#ALL#Considerar por?
+0066#STR0066#ALL#Centro de Custo
+0067#STR0067#ALL#Departamento
+0068#STR0068#ALL#Indica se na impressão do Relatório considera agrupamento por Centro de Custo ou Departamento.
+0069#STR0069#ALL#De Departamento?
+0070#STR0070#ALL#Indica a partir de qual Departamento o relatório deve considerar.
+0071#STR0071#ALL#Até Departamento?
+0072#STR0072#ALL#Indica até qual Departamento o relatório deve considerar.
+0073#STR0073#ALL#Resultado NR7 ?
+0074#STR0074#ALL#ASO
+0075#STR0075#ALL#Exame
+0076#STR0076#ALL#Quando a opção ASO é utilizada, indica que o PCMSO Anual utilizará o campo Ind. Parec. da rotina do ASO. Caso a opção selecionada seja Exame, o relatório utilizará o campo Ind. Result. da rotina de Exames do Func, para imprimir a anormalidade dos exames NR7.
+0077#STR0077#ALL#MONITORAÇÃO PONTUAL
+0078#STR0078#ALL#Exames
+0079#STR0079#ALL#Setor
+0080#STR0080#ALL#Exame
+0081#STR0081#ALL#Exames realizados
+0082#STR0082#ALL#Resultados anormais
+0083#STR0083#ALL#Percentual anormais
+0084#STR0084#ALL#Totais da empresa
+0085#STR0085#ALL#Grupo de empresa
+0086#STR0086#ALL#Filial
+0087#STR0087#ALL#Data de emissão
+0088#STR0088#ALL#Natureza

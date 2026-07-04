@@ -1,0 +1,10 @@
+0001#STR0001#ALL#List of Products with Posting Errors
+0002#STR0002#ALL#This Report has the purpose of describing, in full detail, all 
+0003#STR0003#ALL#posting by FIFO cost method, according to user parameterization.
+0004#STR0004#ALL#Z.Form
+0005#STR0005#ALL#Management
+0006#STR0006#ALL# PRODUCT       WAREHOUSE DESCRIPTION                  QUANTITY    FISCAL CODE   MOV.TYPE     DOC.   SER  PRODUC.ORDER    ISSUE DT. 
+0007#STR0007#ALL#Creating Work File 1...
+0008#STR0008#ALL#Cancelled by the Operator
+0009#STR0009#ALL#Products
+0010#STR0010#ALL#Update MATA330.PRX!!!

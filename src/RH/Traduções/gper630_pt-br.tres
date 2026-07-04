@@ -1,0 +1,55 @@
+0001#STR0001#ALL#Matricula
+0002#STR0002#ALL#Centro de Custo
+0003#STR0003#ALL#Nome
+0004#STR0004#ALL#Centro de Custo + Nome
+0005#STR0005#ALL#Turno
+0006#STR0006#ALL#Emissão de Valores de Rescisões.
+0007#STR0007#ALL#Deverá ser emitido após o Cálculo de Rescisões.
+0008#STR0008#ALL#Será impresso de acordo com os parametros solicitados pelo usuário.
+0009#STR0009#ALL#Zebrado
+0010#STR0010#ALL#Administraçäo
+0011#STR0011#ALL#Valores de Rescisoes
+0012#STR0012#ALL#Filial: 
+0013#STR0013#ALL#Matricula: 
+0014#STR0014#ALL#Nome: 
+0015#STR0015#ALL#Data da Demissao:
+0016#STR0016#ALL#Data da Homologacao:
+0017#STR0017#ALL#Data do Aviso:
+0018#STR0018#ALL#Data da Geracao:
+0019#STR0019#ALL#Dias de Aviso: 
+0020#STR0020#ALL#Tipo de Rescisao: 
+0021#STR0021#ALL#Mes Para Media: 
+0022#STR0022#ALL#Sim
+0023#STR0023#ALL#Nao
+0024#STR0024#ALL#Ferias Vencidas: 
+0025#STR0025#ALL#Ferias Proporcionais: 
+0026#STR0026#ALL#Salario Mes: 
+0027#STR0027#ALL#Salario Dia: 
+0028#STR0028#ALL#Salario Hora: 
+0029#STR0029#ALL#Total Funcionario:   
+0030#STR0030#ALL#Cod Descricao           Qtde      Proventos Cod Descricao           Qtde      Descontos Cod Descricao           Qtde           Bases
+0031#STR0031#ALL#Ordem: 
+0032#STR0032#ALL#Centro de Custo: 
+0033#STR0033#ALL#Turno: 
+0034#STR0034#ALL#Total da Filial:     
+0035#STR0035#ALL#Total Cent.de Custo: 
+0036#STR0036#ALL#Total do Turno:      
+0037#STR0037#ALL#Total da Empresa:    
+0038#STR0038#ALL#Analitico 
+0039#STR0039#ALL#Sintetico 
+0040#STR0050#ALL#No.Dep.IR: 
+0041#STR0051#ALL#Liquido:
+0042#STR0052#ALL#No.Dep.SF: 
+0043#STR0053#ALL#Simulada: 
+0044#STR0054#ALL#Funcionários
+0045#STR0055#ALL#Rescisão
+0046#STR0056#ALL#Proventos
+0047#STR0057#ALL#Descontos
+0048#STR0058#ALL#Bases
+0049#STR0059#ALL#Filial
+0050#STR0060#ALL#Descrição
+0051#STR0061#ALL#CPF/CNPJ
+0052#STR0062#ALL#Descriç
+0053#STR0063#ALL#Atenção
+0054#STR0064#ALL#Impressão para o Tipo Relatório Sintético para o Tipo de Planilha Tabela para não é suportado.
+0055#STR0065#ALL#Deseja imprimir Relatório de Valores de Rescisões pelo Smart View?

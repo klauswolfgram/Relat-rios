@@ -1,0 +1,25 @@
+0001#STR0001#ALL#This report will print the projects list, its structure and details as the start date, end date, duration, etc . as the required parameters.
+0002#STR0002#ALL#Project Structure
+0003#STR0003#ALL#Z.Form
+0004#STR0004#ALL#Management
+0005#STR0005#ALL#TP.  CODE          DESCRIPTION                                                            UM |     EST.QTT.      DURATION START DT. END DT.      %PROG   |      EXEC. QTT.    DURATION START DT.  END.DT.     EXEC.%
+0006#STR0006#ALL#Project : 
+0007#STR0007#ALL#Customer : 
+0008#STR0008#ALL#Version : 
+0009#STR0009#ALL# Date : 
+0010#STR0010#ALL#Task
+0011#STR0011#ALL#This report will print a list of the projects, their structure and details of the delayed tasks according to the required parameters.
+0012#STR0012#ALL#Delayed Tasks
+0013#STR0013#ALL#                             DATA OF THE EDT/TASK                                             |                         ESTIMATED                         |                           ACCOMPLISHED                   
+0014#STR0014#ALL#TP.  TASK CODE                                                                            UM |     ESTIM. QTY.   LENGTH   INIT.DT.  FINAL DT     %PROG   |      ACTUAL QTY.   LENGTH   INIT.DT.   FINAL DT    %ACCO.
+0015#STR0015#ALL#TP.  TASK DESCRIPTION                                                                     UM |     ESTIM. QTY.   LENGTH   INIT.DT.  FINAL DT     %PROG   |      ACTUAL QTY.   LENGTH   INIT.DT.   FINAL DT    %ACCO.
+0016#STR0016#ALL#%Prog
+0017#STR0017#ALL#Actu.Quant
+0018#STR0018#ALL#Duration
+0019#STR0019#ALL#%Actu
+0020#STR0020#ALL#Forecast
+0021#STR0021#ALL#Actual
+0022#STR0022#ALL#WBS
+0023#STR0023#ALL#Task  
+0024#STR0024#ALL#Project
+0025#STR0025#ALL#*** CANCELLED BY THE USER  ***

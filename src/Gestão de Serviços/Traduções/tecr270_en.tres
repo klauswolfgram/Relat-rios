@@ -1,0 +1,18 @@
+0001#STR0001#ALL#Business Opportunity Report - Visits
+0002#STR0002#ALL#TECR270
+0003#STR0003#ALL#This program issues the Report Print Out of the opportunities with the respective visits.
+0004#STR0004#ALL#Enter the initial opportunity to be
+0005#STR0005#ALL#considered in the filter.
+0006#STR0006#ALL#Enter the final opportunity to be
+0007#STR0007#ALL#Enter the start date to be
+0008#STR0008#ALL#Enter the end date to be
+0009#STR0009#ALL#Enter the entity to be
+0010#STR0010#ALL#Number of visits:
+0011#STR0011#ALL#Opportunity
+0012#STR0012#ALL#Description Visit
+0013#STR0013#ALL#Opport
+0014#STR0014#ALL#Visit
+0015#STR0015#ALL#Visit Code
+0016#STR0016#ALL#Inspector Name
+0017#STR0017#ALL#Start Dt.
+0018#STR0018#ALL#Final Dt.

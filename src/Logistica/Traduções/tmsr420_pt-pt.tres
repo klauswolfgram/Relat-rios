@@ -1,0 +1,31 @@
+0001#STR0001#ALL#Impressão da averbação de seguro
+0002#STR0002#ALL#Emite a relação de averbação de seguro
+0003#STR0003#ALL#Conforme os parâmetros indicados.
+0004#STR0004#ALL#Averbamento de seguro
+0005#STR0005#ALL#Código de barras
+0006#STR0006#ALL#Administração
+0007#STR0007#ALL#Aguarde. gerando arquivo de trabalho...
+0008#STR0008#ALL#A Seleccionar Registos...
+0009#STR0009#ALL#  Emissão  Número   Serie Frt  Devedor                        Vlr.merc.  Serviço               Região Origem                  Região Destino                 Ramo Seg.                   Tarifa            Premio
+0010#STR0010#ALL#Cancelado Pelo Operador
+0011#STR0011#ALL#Averbação de seguro - ramo de seguro : 
+0014#STR0014#ALL#Total região 
+0016#STR0016#ALL#Total geral  -->
+0017#STR0017#ALL#Averbação de seguro por parte do cliente
+0018#STR0018#ALL#Total averbação por parte do cliente  -->
+0019#STR0019#ALL#Filial de origem de ?
+0020#STR0020#ALL#Filial de origem atá ?
+0025#STR0025#ALL#Impressão da averbação de seguro
+0030#STR0030#ALL#Fil.doc.
+0032#STR0032#ALL#Série
+0037#STR0037#ALL#Val.merc.
+0039#STR0039#ALL#Desc.serv.
+0040#STR0040#ALL#Cód.orig.
+0041#STR0041#ALL#Reg.orig.
+0042#STR0042#ALL#Cód.dest.
+0043#STR0043#ALL#Reg.dest.
+0047#STR0047#ALL#Prémio
+0048#STR0048#ALL#Total Da Região
+0049#STR0049#ALL#Total Do Ramo
+0050#STR0050#ALL#Ramo De Seguro
+0051#STR0051#ALL#Total Por Parte Do Cliente

@@ -1,0 +1,16 @@
+0001#STR0001#ALL#Este programa tem como objetivo imprimir relatório 
+0002#STR0002#ALL#Com a relação título principal x impostos, de 
+0003#STR0003#ALL#Acordo com os parâmetros indicados pelo utilizador.
+0004#STR0004#ALL#Relação - Título Principal X Impostos
+0005#STR0005#ALL# Código/loja     Nome Fornecedor                               Nr. Contribuinte                 Pref    Número      Parc           Tipo   Natureza            Emissão   Vencimento            Valor Bruto       Impostos       Valor Lq
+0006#STR0006#ALL#Código de barras
+0007#STR0007#ALL#Administração
+0008#STR0008#ALL#A Seleccionar Registos...
+0009#STR0009#ALL#*** cancelado pelo operador ***
+0012#STR0013#ALL#Por Código Fornecedor
+0014#STR0015#ALL#Código/loja
+0015#STR0016#ALL#Nome Do Fornecedor
+0016#STR0017#ALL#Cnpj
+0018#STR0019#ALL#Número
+0022#STR0023#ALL#Emissão
+0027#STR0028#ALL#Título principal

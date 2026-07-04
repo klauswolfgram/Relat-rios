@@ -1,0 +1,23 @@
+0001#STR0001#ALL#Resultado de Scripts Dinamicos
+0002#STR0002#ALL#Este programa emitira un detalle con los Scripts dinamicos
+0003#STR0003#ALL#totalizando todas las respuestas dadas segun el
+0004#STR0004#ALL#periodo y Campañas definidas. 
+0005#STR0005#ALL#A Rayas
+0006#STR0006#ALL#Administracion
+0007#STR0007#ALL#ANULADO POR EL OPERADOR
+0008#STR0008#ALL#RESPUESTA ABIERTA
+0009#STR0009#ALL#Campaña : 
+0010#STR0010#ALL#Script : 
+0011#STR0011#ALL#Score
+0012#STR0012#ALL#Total
+0013#STR0013#ALL#Pregunta : 
+0014#STR0014#ALL#Respuestas : 
+0015#STR0015#ALL#No existen datos a imprimir para este informe con los parametros informados
+0016#STR0029#ALL#Pregunte
+0017#STR0030#ALL#Los Parametros de Scripts no pertenecen a la campaña definida. Por favor, verifique los datos informados.
+0018#STR0031#ALL#Respuesta Expositiva
+0019#STR0032#ALL#Dados de script de campana
+0020#STR0033#ALL#Preguntas vinculadas al script
+0021#STR0034#ALL#Repuestas a preguntas
+0022#STR0035#ALL#Falla: 
+0023#STR0036#ALL#Verifique los parametros para la impresion del informe.

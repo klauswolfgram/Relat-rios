@@ -1,0 +1,10 @@
+0001#STR0001#ALL#Este relatorio tem o objetivo de imprimir a lista de 
+0002#STR0002#ALL#Agendas de Auditorias
+0003#STR0003#ALL#Listagem de Agendas de Auditorias
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#COD.AGENDA          DESCRICAO                       ALOCACAO  FIM ALOCACAO  FIL.AUD.  AUDITOR LIDER
+0007#STR0007#ALL#DEPTO         DEST.AUDITORIA                     FIL.AUD. AUDITOR 
+0008#STR0008#ALL#Auditoria
+0009#STR0009#ALL#Área
+0010#STR0010#ALL#DEPTO         DEST.AUDITORIA                     FIL.AUD. AUDITOR                                   INICIO EM      FINAL EM

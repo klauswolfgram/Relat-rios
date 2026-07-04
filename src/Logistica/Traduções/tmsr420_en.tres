@@ -1,0 +1,52 @@
+0001#STR0001#ALL#Insurance Recording Printing    
+0002#STR0002#ALL#Issue an insurance recording list     
+0003#STR0003#ALL#according to the parameters input 
+0004#STR0004#ALL#Insurance Recording
+0005#STR0005#ALL#Z.form
+0006#STR0006#ALL#Management   
+0007#STR0007#ALL#Please wait. Generating work file.    
+0008#STR0008#ALL#Selecting Records...     
+0009#STR0009#ALL#  ISSUE    NUMBER   SERIES FRT  DEBTOR                        GOODS VALUE  SERVICE           ORIGIN AREA                    DEST. AREA                     SEGMENT                     DUTY              BONUS 
+0010#STR0010#ALL#CANCELED BY OPERATOR  
+0011#STR0011#ALL#Insurance Recording - Insurc.Activity: 
+0012#STR0012#ALL#Region 
+0013#STR0013#ALL# - 
+0014#STR0014#ALL#Region Total 
+0015#STR0015#ALL#Total: 
+0016#STR0016#ALL#GRAND TOTAL  -->
+0017#STR0017#ALL#Insurance Recording by the Customer     
+0018#STR0018#ALL#TOTAL OF RECORDING BY THE CUSTOMER    -->
+0019#STR0019#ALL#From origin branch?  
+0020#STR0020#ALL#To origin branch?     
+0021#STR0021#ALL#From issue date?    
+0022#STR0022#ALL#To issue date?       
+0023#STR0023#ALL#From insurance component?
+0024#STR0024#ALL#To insurance component?   
+0025#STR0025#ALL#Printing insurance registration
+0026#STR0026#ALL#Issues report of insurance registration according to parameters entered.
+0027#STR0027#ALL#Branch + Origin + Destin
+0028#STR0028#ALL#Document
+0029#STR0029#ALL#Issue
+0030#STR0030#ALL#Doc.Bra.
+0031#STR0031#ALL#Doct
+0032#STR0032#ALL#Series
+0033#STR0033#ALL#Freight
+0034#STR0034#ALL#Debtor
+0035#STR0035#ALL#Store
+0036#STR0036#ALL#Name
+0037#STR0037#ALL#Val.Goods
+0038#STR0038#ALL#Serv.
+0039#STR0039#ALL#Serv.Desc.
+0040#STR0040#ALL#Orig.Cod.
+0041#STR0041#ALL#Orig.Reg.
+0042#STR0042#ALL#Dest.Cod.
+0043#STR0043#ALL#Dest.Reg.
+0044#STR0044#ALL#Branch
+0045#STR0045#ALL#Description
+0046#STR0046#ALL#Tariff
+0047#STR0047#ALL#Premium
+0048#STR0048#ALL#Total of Region
+0049#STR0049#ALL#Total of Branch
+0050#STR0050#ALL#Insurance Branch
+0051#STR0051#ALL#Total on Customer's part
+0052#STR0052#ALL#Group Premium?

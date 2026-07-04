@@ -1,0 +1,10 @@
+0001#STR0001#ALL#Relacao de Produtos com Problemas na Baixa
+0002#STR0002#ALL#Este relatório tem por objetivo mostrar as movimentações que tenham problemas
+0003#STR0003#ALL#com a baixa pelo método de custo FIFO, conforme parametrização do usuário.
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administraçäo
+0006#STR0006#ALL# PRODUTO         ARMAZEM DESCRICAO                    QUANTIDADE  COD. FISCAL  TPO MOVTO.    DOC.   SER  ORDEM PRODUCAO  DT EMISSAO
+0007#STR0007#ALL#Criando Arquivo Trabalho 1...
+0008#STR0008#ALL#Cancelado pelo Operador
+0009#STR0009#ALL#Produtos
+0010#STR0010#ALL#Atualizar MATA330.PRX !!!

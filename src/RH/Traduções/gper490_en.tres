@@ -1,0 +1,20 @@
+0001#STR0001#ALL#Report of Admitted/Dismissed Personnel.  
+0002#STR0002#ALL#This report will be printed according to parameters 
+0003#STR0003#ALL#selected by the User.   
+0004#STR0004#ALL#Z.Form 
+0005#STR0005#ALL#Management 
+0006#STR0006#ALL#REPORT OF ADMITTED/DISMISSED PERSONNEL 
+0007#STR0007#ALL#    1 = CGC(FED.TX.REG)  2 = CEI       3 = Tot.PAGES      4 = No. SHEET    5 = Reference               MTPS - MINISTRY OF LABOR     
+0008#STR0008#ALL# 6 = ZIP CODE 7 = ECONOMIC ACTIVITY(CNAE)         8 = 1st DECLARATION    9 = CLOSING                     AND OF SOCIAL SECURITY  
+0009#STR0009#ALL#10 = CHANGED ADDRESS    11 = CHANGED ACTIVITY    12 = CORRECT PREVIOUS     13 = TOTAL 1st DAY          REGISTER SYSTEM   LAW 4923/65
+0010#STR0010#ALL#           14 = ADMISSIONS IN MONTH-1st JOB + READMITTANCE + ENT.TRANSF. + REINTEG. =  TOTAL              STANDARD STAMP     CGC(FTREG)
+0011#STR0011#ALL#15 = DISMISSALS   
+0012#STR0012#ALL#W/O GOOD CAUSE+FOR GOOD CAUSE + ON REQU. + AFTER + DEATH + TRANSFER.   +TERMIN.CONTR.= TOTAL
+0013#STR0013#ALL#                                            16 = TOTAL EMPLOYEES ON LAST DAY           
+0014#STR0014#ALL#   PIS/PASEP  GENDER RACE LEVEL CBO   DEF  FULL NAME                   CTPS    SER   FU  DATE      COMPENSATION TIME DATE     DES TYPE
+0015#STR0015#ALL#    1 = CGC(Fed.Tx.Reg.) 2 = CEI       3 = Tot.Pages      4 = No Sheet     5 = Reference               MTPS - MINISTRY OF LABOR     
+0016#STR0016#ALL#                                                                                                          AND SOCIAL SECURITY    
+0017#STR0017#ALL#                                                                                                       REGISTER SYSTEM    LAW4923/65
+0018#STR0018#ALL#                                                                                                          STANDARD STAMP     CGC(FTREG)
+0019#STR0019#ALL#   PIS/PASEP  GENDER RACE LEVEL CBO   DEF  FULL NAME                   CTPS    SER   FU  DATE      COMPENSATION TIME DATE     DES TYPE
+0020#STR0020#ALL#                   COR  INST       FIS                                                    BIRTHDAY                   ADMISSION     MVT

@@ -1,0 +1,28 @@
+0001#STR0001#ALL#This program will print the Register CW8-History of Change. 
+0002#STR0002#ALL#It will be printed in accordance with the parameters requested by the
+0003#STR0003#ALL#user.
+0004#STR0004#ALL#Changes History
+0005#STR0005#ALL#Date
+0006#STR0006#ALL#Hour
+0007#STR0007#ALL#Entity
+0008#STR0008#ALL#Code
+0009#STR0009#ALL#Field
+0010#STR0010#ALL#Entity
+0011#STR0011#ALL#Sequence
+0012#STR0012#ALL#Routine
+0013#STR0013#ALL#INCLUSION
+0014#STR0014#ALL#CHANGE
+0015#STR0015#ALL#EXCLUSION
+0016#STR0016#ALL#Attention
+0017#STR0017#ALL#There is no information for parameters informed.
+0018#STR0018#ALL#Entity Code
+0019#STR0019#ALL#Field Changed
+0020#STR0020#ALL#Chang. Seq.
+0021#STR0021#ALL#Type
+0022#STR0022#ALL#Field Title
+0023#STR0023#ALL#Previous Cont.
+0024#STR0024#ALL#Current Cont.
+0025#STR0025#ALL#Change Date
+0026#STR0026#ALL#Time
+0027#STR0027#ALL#Option
+0028#STR0028#ALL#Report available only in TReport

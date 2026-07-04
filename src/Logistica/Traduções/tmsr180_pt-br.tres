@@ -1,0 +1,26 @@
+0001#STR0001#ALL#Analise Diaria dos Fretes
+0002#STR0002#ALL#Este programa ira emitir a analise diaria dos fretes
+0003#STR0003#ALL#de acordo com os parametros escolhidos pelo usuario
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#CANCELADO PELO OPERADOR
+0007#STR0007#ALL#FILIAL   NUMERO    -------- PESO --------   -------------- FRETE PAGO --------------   -------------- FRETE PAGAR --------------
+0008#STR0008#ALL#DESTINO   MANIF      PAGO   PAGAR   TOTAL           FRETE       IMPOSTO        TOTAL          FRETE        IMPOSTO         TOTAL
+0009#STR0009#ALL#TOTAL DESTINO
+0010#STR0010#ALL#TOTAL GERAL
+0011#STR0011#ALL#Analise Diaria dos Fretes
+0012#STR0012#ALL#Este programa ira emitir a analise diaria dos fretes de acordo com os parametros escolhidos pelo usuario
+0013#STR0013#ALL#Fil. Manif. + Manifesto
+0014#STR0014#ALL#Fil.Destino
+0015#STR0015#ALL#Peso Pago
+0016#STR0016#ALL#Peso Pagar
+0017#STR0017#ALL#Peso Total
+0018#STR0018#ALL#Frete Pago
+0019#STR0019#ALL#Imposto Pago
+0020#STR0020#ALL#Total Pago
+0021#STR0021#ALL#Frete Pagar
+0022#STR0022#ALL#Imposto Pagar
+0023#STR0023#ALL#Total Pagar
+0024#STR0024#ALL#Filial Manifesto
+0025#STR0025#ALL#Manifesto
+0026#STR0026#ALL#Descrição

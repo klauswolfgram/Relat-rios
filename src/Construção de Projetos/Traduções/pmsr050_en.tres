@@ -1,0 +1,17 @@
+0001#STR0001#ALL#This report will print the quantities forecast for the execution of the budget according to the parameters required.      
+0002#STR0002#ALL#Estimated quantifier
+0003#STR0003#ALL#BUDGET+PRODUCT+EXPENSE
+0004#STR0004#ALL#TASK+PRODUCT+EXPENSE
+0005#STR0005#ALL#Z.Form
+0006#STR0006#ALL#Administration
+0007#STR0007#ALL#Tp.  Code              Description                               UM        Quantity                      Value   %Proj.     %Accr.
+0008#STR0008#ALL#Task         Description          Code Type           Description          UM      Quantity             Value      %Proj.  %Accr.
+0009#STR0009#ALL#Budget: 
+0010#STR0010#ALL#Total.....
+0011#STR0011#ALL#Task Code                         Tp. Code             Descript.            UM      Quantity             Value      %Proj.  %Accr.
+0012#STR0012#ALL#Task Description                  Tp. Code             Description          UM      Quantity             Value      %Proj.  %Accr.
+0013#STR0013#ALL#Quotation
+0014#STR0014#ALL#Quotation + Product + Expense
+0015#STR0015#ALL#Task + Product + Expense  
+0016#STR0016#ALL#Order: 
+0017#STR0017#ALL#*** CANCELLED BY THE USER  ***

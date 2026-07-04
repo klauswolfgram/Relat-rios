@@ -1,0 +1,45 @@
+0001#STR0001#ALL#Certificado de Calibracao
+0002#STR0002#ALL#Neste relatorio sera impresso o Certificado de Calibracao
+0003#STR0003#ALL# Texto Final do Certificado 
+0004#STR0004#ALL# Impressao 
+0005#STR0006#ALL#Itens de Configuracao
+0006#STR0007#ALL#Este programa ira emitir a relacao de
+0007#STR0008#ALL#Itens de Configuracao
+0008#STR0009#ALL#Parametros selecionados.
+0009#STR0010#ALL#CERTIFICADO DE CALIBRACAO 
+0010#STR0011#ALL#Zebrado
+0011#STR0012#ALL#Administraçäo
+0012#STR0013#ALL# Informacoes Complementares 
+0013#STR0014#ALL#Certificados de Calibracao de acordo com os
+0014#STR0015#ALL#Subida
+0015#STR0016#ALL#Descida
+0016#STR0017#ALL#Imprime
+0017#STR0018#ALL#Configura
+0018#STR0019#ALL#Abandona
+0019#STR0020#ALL#Confirma
+0020#STR0021#ALL#Redigita
+0021#STR0022#ALL#Inicial Subida
+0022#STR0023#ALL#Inicial Descida
+0023#STR0024#ALL#Final Subida
+0024#STR0025#ALL#Final Descida
+0025#STR0026#ALL#Iniciais
+0026#STR0027#ALL#Finais
+0027#STR0028#ALL#Medicao com status diferente de ativo
+0028#STR0029#ALL#Medicao excluida
+0029#STR0030#ALL#Muito grave
+0030#STR0031#ALL#Grave
+0031#STR0032#ALL#Nao grave
+0032#STR0033#ALL#AVARIA
+0033#STR0034#ALL#CONFORME
+0034#STR0035#ALL#NAO CONFORME
+0035#STR0036#ALL#INSTRUMENTOS UTILIZADOS
+0036#STR0037#ALL#PADRAO SECUNDARIO
+0037#STR0038#ALL#Instrumento Util.
+0038#STR0039#ALL#Padrao Secundario
+0039#STR0040#ALL#ANALISE DAS ULTIMAS PECAS PRODUZIDAS
+0040#STR0041#ALL#Aceito
+0041#STR0042#ALL#Rejeitado
+0042#STR0043#ALL#Inicial Crescente
+0043#STR0044#ALL#Final Crescente
+0044#STR0045#ALL#Inicial Decrescente
+0045#STR0046#ALL#Final Decrescente

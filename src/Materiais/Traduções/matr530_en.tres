@@ -1,0 +1,14 @@
+0001#STR0001#ALL#Report of Calls
+0002#STR0002#ALL#This program will print a list of Visits to the Customers,
+0003#STR0003#ALL#accomplished by the Sales Representatives.
+0004#STR0004#ALL#Z.Form
+0005#STR0005#ALL#Management
+0006#STR0006#ALL#REPORT OF VISITS TO CUSTOMERS
+0007#STR0007#ALL#REPRESE.  CODE                 UNIT  COMPANY NAME                              LST.VISIT   FREQ  CONTACT             PHONE
+0008#STR0008#ALL#CANCELLED BY THE OPERATOR
+0009#STR0009#ALL#Selecting Records ...    
+0010#STR0010#ALL#Report of visits     
+0011#STR0011#ALL#This program will list visits to customers                 
+0012#STR0012#ALL#made by sales represent.
+0013#STR0013#ALL#Selecting records ...    
+0014#STR0014#ALL#Customers

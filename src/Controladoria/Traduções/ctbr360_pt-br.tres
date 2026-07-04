@@ -1,0 +1,19 @@
+0001#STR0001#ALL#Este programa ira imprimir o Comparativo de Tipos de Saldos de  
+0002#STR0002#ALL#de acordo com os parametros solicitados pelo usuario.
+0003#STR0003#ALL#Conta
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#Comparativo de Tipo de Saldos 
+0007#STR0007#ALL# VARIACAO 
+0008#STR0008#ALL#|CONTA                          |DESCRICAO                                  
+0009#STR0009#ALL#***** CANCELADO PELO OPERADOR *****
+0010#STR0010#ALL#Criando Arquivo Temporário...
+0011#STR0011#ALL# T O T A I S  D O 
+0012#STR0012#ALL#T O T A I S  D O  P E R I O D O : 
+0013#STR0013#ALL# Comparativo 
+0014#STR0014#ALL# EM 
+0015#STR0015#ALL# DE 
+0016#STR0016#ALL# ATE 
+0017#STR0017#ALL# DIV. 
+0018#STR0018#ALL#CONTA
+0019#STR0019#ALL#DESCRICAO

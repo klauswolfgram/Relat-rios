@@ -1,0 +1,50 @@
+0001#STR0001#ALL#Informe de Analisis de Carga       
+0002#STR0002#ALL#Este programa emitira el informe diario de con-    
+0003#STR0003#ALL#tratos emitidos segun los parametros selecciona-    
+0004#STR0004#ALL#dos por usuario 
+0005#STR0005#ALL#A rayas
+0006#STR0006#ALL#Administracion
+0007#STR0007#ALL#SUCUR.   TIPO  SUCUR.   SUCUR.    NUMERO      CTD.   ------------------ PESO ------------------    PERC   --------- FLETE ----------   -------- ACARREO --------    PERC
+0008#STR0008#ALL#ORIGEN         DESTINO  DESCARGA  DECLARAC.   CTRCs     REAL  DIRECT FRACCION.   COBRADO   PAG.    UTIL         DIREC.    FRACCION.         DIREC.    FRACCION.     UTIL
+0009#STR0009#ALL#ANULADO POR EL OPERADOR
+0010#STR0010#ALL#Sucur. Viaje  : 
+0011#STR0011#ALL#Viaje  : 
+0012#STR0012#ALL#Vehiculo:
+0013#STR0013#ALL#  Matr. : 
+0014#STR0014#ALL#    1o. Remolque:
+0015#STR0015#ALL#    2o. Remolque:
+0016#STR0016#ALL#Total :
+0017#STR0017#ALL#Sucur.:
+0018#STR0018#ALL#Gral.:
+0019#STR0019#ALL#Tipo: 
+0020#STR0020#ALL#Observacion : 
+0021#STR0021#ALL#Tipo da Carga  'P' = Procesada
+0022#STR0022#ALL#Tipo de Carga  'R' = Reprocesada
+0023#STR0023#ALL#Informe de Analisis de Carga
+0024#STR0024#ALL#Este programa emitira el informe de analisis de carga, segun los parametros elegidos por el usuario
+0025#STR0025#ALL#Suc.Viaje + Viaje
+0026#STR0026#ALL#Viaje
+0027#STR0027#ALL#Vehiculos
+0028#STR0028#ALL#Descripcion
+0029#STR0029#ALL#Vehiculo
+0030#STR0030#ALL#Tipo
+0031#STR0031#ALL#Matricula
+0032#STR0032#ALL#1. Remolque
+0033#STR0033#ALL#2. Remolque
+0034#STR0034#ALL#Suc.Origen
+0035#STR0035#ALL#Tipo
+0036#STR0036#ALL#Suc.Destino
+0037#STR0037#ALL#Suc.Descarga
+0038#STR0038#ALL#Manifiesto
+0039#STR0039#ALL#Ctd.CTRC
+0040#STR0040#ALL#Peso Real
+0041#STR0041#ALL#Peso Directo
+0042#STR0042#ALL#Peso Frac.
+0043#STR0043#ALL#Peso Cobrado
+0044#STR0044#ALL#Peso Pagado
+0045#STR0045#ALL#Frt.Directo
+0046#STR0046#ALL#Flete Frac.
+0047#STR0047#ALL#Flete.Directo
+0048#STR0048#ALL#Flete Frac.
+0049#STR0049#ALL#Sucursal
+0050#STR0050#ALL#3º Remolque

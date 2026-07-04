@@ -1,0 +1,20 @@
+0001#STR0001#ALL#Provisão cód.:
+0002#STR0002#ALL#Período
+0004#STR0004#ALL#Curto prazo
+0005#STR0005#ALL#Longo prazo
+0006#STR0006#ALL#Total filial
+0007#STR0007#ALL#Total período
+0008#STR0008#ALL#Total revisão
+0009#STR0009#ALL#Total provisão
+0010#STR0010#ALL#Seleccione as ocorrências de movimentos de provisão
+0011#STR0011#ALL#Por favor, seleccione ao menos uma filial
+0013#STR0013#ALL#Função disponível apenas para TReport. Por favor, actualizar ambiente e verificar parâmetro MV_TREPORT
+0014#STR0014#ALL#Este relatório tem o objectivo de demonstrar os movimentos do Controlo de Provisão.
+0015#STR0015#ALL#Demonstrativo Planeamento de Provisão
+0016#STR0016#ALL#Controlo de Provisão
+0018#STR0018#ALL#Para utilizar este relatório, é necessário que esteja implementado o processo de Controlo de Provisão. Por favor, actualize o ambiente
+0023#STR0023#ALL#Actualizado
+0024#STR0024#ALL#Efectivado
+0025#STR0025#ALL#Realização pendente
+0026#STR0026#ALL#Estado
+0027#STR0027#ALL#Por favor, seleccione ao menos uma ocorrência

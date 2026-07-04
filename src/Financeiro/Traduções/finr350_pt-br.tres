@@ -1,0 +1,45 @@
+0001#STR0001#ALL#este programa irá emitir a posiçao dos fornecedores
+0002#STR0002#ALL#referente a data base do sistema.
+0003#STR0003#ALL#Zebrado
+0004#STR0004#ALL#Administracao
+0005#STR0005#ALL#Posicao dos Fornecedores 
+0006#STR0006#ALL#Prf Numero       PC Tip  Valor Original   Emissao     Vencto      Baixa                                            P  A  G  A  M  E  N  T  O  S                                                                                     
+0007#STR0007#ALL#                                                                           Lei 10925    Descontos   Abatimentos         Juros         Multa   Corr. Monet      Valor Pago  Pagto.Antecip.        Saldo Atual  Motivo
+0008#STR0008#ALL#CANCELADO PELO OPERADOR
+0009#STR0009#ALL#FORNECEDOR : 
+0010#STR0010#ALL#Totais : 
+0011#STR0011#ALL#TOTAL GERAL ---->
+0012#STR0012#ALL#Por Codigo
+0013#STR0013#ALL#Por Nome
+0014#STR0014#ALL#Selecionando Registros...
+0015#STR0015#ALL#Faturado
+0016#STR0016#ALL#Fornecedor
+0017#STR0017#ALL#Titulos
+0018#STR0018#ALL#Prf Numero
+0019#STR0019#ALL#PC
+0020#STR0020#ALL#Tip
+0021#STR0021#ALL#Valor Original
+0022#STR0022#ALL#Emissao
+0023#STR0023#ALL#Vencimento
+0024#STR0024#ALL#Baixa 
+0025#STR0025#ALL#Lei 10925
+0026#STR0026#ALL#Descontos
+0027#STR0027#ALL#Abatimentos
+0028#STR0028#ALL#Juros
+0029#STR0029#ALL#Multa
+0030#STR0030#ALL#Corr. Monet
+0031#STR0031#ALL#Valor Pago
+0032#STR0032#ALL#Pagto.Antecip
+0033#STR0033#ALL#Saldo Atual
+0034#STR0034#ALL#Motivo
+0035#STR0035#ALL#T O T A L   F I L I A L ----> 
+0036#STR0036#ALL#TOTAL  FILIAL: 
+0037#STR0037#ALL#Totais por Filial
+0038#STR0038#ALL#Totais por Fornecedor
+0039#STR0039#ALL#                                                                                        Descontos   Abatimentos         Juros         Multa   Corr. Monet      Valor Pago  Pagto.Antecip.        Saldo Atual  Motivo
+0040#STR0040#ALL#Total empresa
+0041#STR0041#ALL#Formato de impressão tabela não suportado neste relatório.
+0042#STR0042#ALL#Compensação
+0043#STR0043#ALL#Valor Acessorio
+0044#STR0044#ALL#Emissão
+0045#STR0045#ALL#Valor Acessório

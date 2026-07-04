@@ -1,0 +1,48 @@
+0001#STR0001#ALL#Relatorio do Plano de Acao por Risco.                              
+0002#STR0002#ALL#O Relatorio mostra as acoes definidas para eliminar ou minimizar os   
+0003#STR0003#ALL#riscos existentes na empresa.                                         
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#Plano de Acao por Risco 
+0007#STR0007#ALL#Risco       Agente      Dt.Recon  Dt.Aval   Dt.Elim    Fonte Gerad      Qtde U.Med. C.Custo               Funcao Tarefa  Ambiente
+0008#STR0008#ALL#    Plano     Nome do Plano de Acao                    Dt.Implant Inic.Prev  Fim Prev   Inic.Real   Fim Real   Responsavel  
+0009#STR0009#ALL#CANCELADO PELO OPERADOR
+0010#STR0010#ALL#TODOS
+0011#STR0011#ALL#TODAS
+0012#STR0012#ALL#O que.: 
+0013#STR0013#ALL#Onde..: 
+0014#STR0014#ALL#Porque: 
+0015#STR0015#ALL#Como..: 
+0016#STR0016#ALL#Quando: Inic.Previsto.: 
+0017#STR0017#ALL#Real.: 
+0018#STR0018#ALL#Fim Previsto.: 
+0019#STR0019#ALL#Quanto: Valor Previsto.: 
+0020#STR0020#ALL#Qtde Atual...: 
+0021#STR0021#ALL#Meta.: 
+0022#STR0022#ALL#De Cliente ?
+0023#STR0023#ALL#Loja
+0024#STR0024#ALL#Até Cliente ?
+0025#STR0025#ALL#Cliente: 
+0026#STR0026#ALL#Agrupar ?
+0027#STR0027#ALL#Ate Func. Resp.?
+0028#STR0028#ALL#De  Func. Resp.?
+0029#STR0029#ALL#Ate Resp. Sesmt ?
+0030#STR0030#ALL#De Resp. Sesmt ?
+0031#STR0031#ALL#Acoes ?
+0032#STR0032#ALL#Ate Dt.Implan.Plano ?
+0033#STR0033#ALL#De  Dt.Implan.Plano ?
+0034#STR0034#ALL#Ate Risco ?
+0035#STR0035#ALL#De  Risco ?
+0036#STR0036#ALL#Risco      Agente     Nome Agente           Qtde        U.Med.  Dt.Recon    Dt.Aval    Dt.Elim     Fonte Geradora        C.Custo    Funcao  Tarefa  Ambiente                         Departamento
+0037#STR0037#ALL#    Plano     Nome do Plano de Acção                    Data.Imp.    Iníc.Prev.  Fim Prev.   Iníc.Real   Fim Real    Responsável
+0038#STR0038#ALL#Plano     Nome do Plano de Acao                    Data.Imp.   Iníc.Prev. Fim Prev.  Iníc.Real   Fim Real   Responsavel
+0039#STR0039#ALL#   Risco      Agente     Nome Agente           Qtde        U.Med.  Dt.Recon    Dt.Aval    Dt.Elim     Fonte Geradora        C.Custo    Funcao  Tarefa  Ambiente                         Departamento
+0040#STR0040#ALL#Un. Medida:
+0041#STR0041#ALL#Riscos Relacionados.:
+0042#STR0042#ALL#ATEINVALID
+0043#STR0043#ALL#Informe um valor válido para o campo.
+0044#STR0044#ALL#O Parâmetro 'Até Risco ?' esta com um valor inválido ! 
+0045#STR0045#ALL#O Parâmetro 'Ate Resp. Sesmt ?' está com um valor inválido ! 
+0046#STR0046#ALL#O Parâmetro 'Ate Func. Resp ?' está com um valor inválido ! 
+0047#STR0047#ALL#Risco     Agente        Nome Agente                      Qtde     U.Med.  Dt.Recon    Dt.Aval     Dt.Elim     Fonte Geradora                  C.Custo               Funcao          Tarefa  Ambiente
+0048#STR0048#ALL#   Risco     Agente      Nome Agente                      Qtde     U.Med.  Dt.Recon    Dt.Aval     Dt.Elim     Fonte Geradora                  C.Custo               Funcao          Tarefa  Ambiente

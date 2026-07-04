@@ -1,0 +1,37 @@
+0002#STR0002#ALL#De veiculos realizadas no período selecionado.   
+0003#STR0003#ALL#Entradas De Veiculos No Período
+0004#STR0004#ALL# [no.nf/ser---] [situação] [dt cpa] [tipo operação------------]  [fornecedor-----------------------------------] [cidade------------------uf] [comprador-------------------------------] [tran.ent]
+0005#STR0005#ALL# [c.in] [marca------] [fab/mod] [chassi Do Veiculo------] [código  Modelo---------------] [descrição Modelo------------] [complemento Modelo] [cor Do Veiculo------------------------]
+0006#STR0006#ALL#Código de barras
+0007#STR0007#ALL#Administração
+0010#STR0010#ALL# operação: 
+0012#STR0012#ALL#Ped.fabrica
+0014#STR0014#ALL#Transferência
+0015#STR0015#ALL#Consignação
+0016#STR0016#ALL#Devolução
+0019#STR0019#ALL#*** cancelado pelo operador ***
+0022#STR0022#ALL#Entrada Por Pedido Normal
+0023#STR0023#ALL#Entrada Por Pedido A Fabrica
+0024#STR0024#ALL#Entrada Por Simples Remessa
+0025#STR0025#ALL#Entrada Por Transferencia
+0026#STR0026#ALL#Entrada Por Consignação
+0027#STR0027#ALL#Entrada Por Devolução
+0028#STR0028#ALL#Entrada Por Frete
+0029#STR0029#ALL#Valor Do Movimento:
+0030#STR0030#ALL#Valor Icms:
+0031#STR0031#ALL#Taxa:
+0032#STR0032#ALL#Valor Ipi:
+0033#STR0033#ALL#Taxa Ipi:
+0035#STR0035#ALL#Número
+0039#STR0039#ALL#Data inicial      ?
+0040#STR0040#ALL#Data final        ?
+0041#STR0041#ALL#Tipo operação     ?
+0042#STR0042#ALL#Cons.   situação  ?
+0043#STR0043#ALL#[-resumo  Entradas-]
+0044#STR0044#ALL#[-total Entradas--]
+0045#STR0045#ALL#[---total Icms----]
+0046#STR0046#ALL#[----total Ipi----]
+0049#STR0049#ALL#Tipo De Veículos
+0053#STR0053#ALL#Entrada de veículos por Período
+0054#STR0054#ALL#[No.NF/Ser---] [Situação] [Dt Cpa] [Tipo Operação------------] [Fornecedor------------------------] [Cidade------------------UF] [Comprador------------------------] [Tran.Ent]
+0055#STR0055#ALL#[C.In] [Marca------] [Fab/Mod] [Chassi do Veículo------] [Código Modelo---------------] [Descrição Modelo------------] [Complemento Modelo] [Cor do Veículo-----------------]

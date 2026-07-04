@@ -1,0 +1,61 @@
+0001#STR0001#ALL#This program will print the Trial Balance Model 3 (132 Columns). You may choose
+0002#STR0002#ALL#to print the account code or its description. The previous balance, debit, 
+0003#STR0003#ALL#Trial Balance.
+0004#STR0004#ALL#|                                                        |                   |          MONTH MOVEMENT         |                   |
+0005#STR0005#ALL#|            A C C O U N T   C O D E                     | PREVIOUS BALANCE  |      DEBIT     |      CREDIT    |  CURRENT BALANCE  |
+0005#STR0005#ANG#|            A C C O U N T   C O D E                     | PREVIOUS BALANCE  |      DEBIT     |      CREDIT    |  CURRENT BALANCE  |
+0005#STR0005#EQU#|            A C C O U N T   C O D E                     | PREVIOUS BALANCE  |      DEBIT     |      CREDIT    |  CURRENT BALANCE  |
+0005#STR0005#HAI#|            A C C O U N T   C O D E                     | PREVIOUS BALANCE  |      DEBIT     |      CREDIT    |  CURRENT BALANCE  |
+0005#STR0005#MEX#|            A C C O U N T   C O D E                     | PREVIOUS BALANCE  |      DEBIT     |      CREDIT    |  CURRENT BALANCE  |
+0005#STR0005#PTG#|            A C C O U N T   C O D E                     | PREVIOUS BALANCE  |      DEBIT     |      CREDIT    |  CURRENT BALANCE  |
+0006#STR0006#ALL#DETAILED TRIAL BALANCE OF 
+0007#STR0007#ALL# TO 
+0008#STR0008#ALL# IN 
+0009#STR0009#ALL#SUMMARIZED TRIAL BALANCE OF 
+0010#STR0010#ALL#***** CANCELLED BY THE OPERATOR *****
+0011#STR0011#ALL#T O T A L S  O F  T H E  P E R I O D:
+0012#STR0012#ALL#Selecting Records...
+0013#STR0013#ALL#Z.Form
+0014#STR0014#ALL#Management
+0015#STR0015#ALL#Creating Temporary File...
+0016#STR0016#ALL#credit and current balance in the period are also printed.
+0017#STR0017#ALL#TRIAL BALANCE OF 
+0018#STR0018#ALL# (BUDGETED)
+0019#STR0019#ALL#|       A C C O U N T    D E S C R I P T I O N           | PREVIOUS BALANCE  |      DEBIT     |      CREDIT    |  CURRENT BALANCE  |
+0019#STR0019#ANG#|       A C C O U N T    D E S C R I P T I O N           | PREVIOUS BALANCE  |      DEBIT     |      CREDIT    |  CURRENT BALANCE  |
+0019#STR0019#EQU#|       A C C O U N T    D E S C R I P T I O N           | PREVIOUS BALANCE  |      DEBIT     |      CREDIT    |  CURRENT BALANCE  |
+0019#STR0019#HAI#|       A C C O U N T    D E S C R I P T I O N           | PREVIOUS BALANCE  |      DEBIT     |      CREDIT    |  CURRENT BALANCE  |
+0019#STR0019#MEX#|       A C C O U N T    D E S C R I P T I O N           | PREVIOUS BALANCE  |      DEBIT     |      CREDIT    |  CURRENT BALANCE  |
+0019#STR0019#PTG#|       A C C O U N T    D E S C R I P T I O N           | PREVIOUS BALANCE  |      DEBIT     |      CREDIT    |  CURRENT BALANCE  |
+0020#STR0020#ALL#T O T A L S  G R O U P (
+0021#STR0021#ALL#|                  A C C O U N T ´S  C O D E                                         |     PREVIOUS BALANCE    |         DEBIT            |          CREDIT          | MOVEMENTS OF THE PERIOD    |  CURRENT BALANCE       |
+0021#STR0021#ANG#|                  A C C O U N T ´S  C O D E                                         |     PREVIOUS BALANCE    |         DEBIT            |          CREDIT          | MOVEMENTS OF THE PERIOD    |  CURRENT BALANCE       |
+0021#STR0021#EQU#|                  A C C O U N T ´S  C O D E                                         |     PREVIOUS BALANCE    |         DEBIT            |          CREDIT          | MOVEMENTS OF THE PERIOD    |  CURRENT BALANCE       |
+0021#STR0021#HAI#|                  A C C O U N T ´S  C O D E                                         |     PREVIOUS BALANCE    |         DEBIT            |          CREDIT          | MOVEMENTS OF THE PERIOD    |  CURRENT BALANCE       |
+0021#STR0021#MEX#|                  A C C O U N T ´S  C O D E                                         |     PREVIOUS BALANCE    |         DEBIT            |          CREDIT          | MOVEMENTS OF THE PERIOD    |  CURRENT BALANCE       |
+0021#STR0021#PTG#|                  A C C O U N T ´S  C O D E                                         |     PREVIOUS BALANCE    |         DEBIT            |          CREDIT          | MOVEMENTS OF THE PERIOD    |  CURRENT BALANCE       |
+0022#STR0022#ALL#|                  A C C O U N T ´S  D E S C R I P T I O N                           |     PREVIOUS BALANCE    |         DEBIT            |          CREDIT          | MOVEMENTS OF THE PERIOD    |  CURRENT BALANCE       |
+0022#STR0022#ANG#|                  A C C O U N T ´S  D E S C R I P T I O N                           |     PREVIOUS BALANCE    |         DEBIT            |          CREDIT          | MOVEMENTS OF THE PERIOD    |  CURRENT BALANCE       |
+0022#STR0022#EQU#|                  A C C O U N T ´S  D E S C R I P T I O N                           |     PREVIOUS BALANCE    |         DEBIT            |          CREDIT          | MOVEMENTS OF THE PERIOD    |  CURRENT BALANCE       |
+0022#STR0022#HAI#|                  A C C O U N T ´S  D E S C R I P T I O N                           |     PREVIOUS BALANCE    |         DEBIT            |          CREDIT          | MOVEMENTS OF THE PERIOD    |  CURRENT BALANCE       |
+0022#STR0022#MEX#|                  A C C O U N T ´S  D E S C R I P T I O N                           |     PREVIOUS BALANCE    |         DEBIT            |          CREDIT          | MOVEMENTS OF THE PERIOD    |  CURRENT BALANCE       |
+0022#STR0022#PTG#|                  A C C O U N T ´S  D E S C R I P T I O N                           |     PREVIOUS BALANCE    |         DEBIT            |          CREDIT          | MOVEMENTS OF THE PERIOD    |  CURRENT BALANCE       |
+0023#STR0023#ALL#DIV.
+0024#STR0024#ALL#Please, fill out the parameters Groups Incomes/Expenses& Date Prv Blnc Incomes/Expenses or 
+0025#STR0025#ALL#leave the parameter Ignor Prv.BlnInc/Exp = No  
+0026#STR0026#ALL#A C C O U N T  C O D E       
+0027#STR0027#ALL#A C C T.   D E S C R I P T I O N   
+0028#STR0028#ALL#PREV. BALANCE 
+0029#STR0029#ALL#DEBIT 
+0029#STR0029#MEX#DEBIT
+0030#STR0030#ALL#CREDIT 
+0030#STR0030#MEX#CREDIT
+0031#STR0031#ALL#PERIOD MOVEMENTS 
+0032#STR0032#ALL#CURR.BLNCE.
+0033#STR0033#ALL#Chart of Accts.
+0034#STR0034#ALL#Detailed Trial Balance of             
+0035#STR0035#ALL#Summarized Trial Balance of           
+0036#STR0036#ALL#Trial Balance from          
+0037#STR0037#ALL# to  
+0038#STR0038#ALL#Totalizers
+0039#STR0039#ALL#Descr. Totalizer

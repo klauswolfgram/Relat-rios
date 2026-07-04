@@ -1,0 +1,54 @@
+0001#STR0001#ALL#Listagem De Cheques A Creditar
+0002#STR0002#ALL#Este programa emite um relatório dos cheques 
+0003#STR0003#ALL#A ser creditados.
+0004#STR0004#ALL#Código de barras 80/132
+0005#STR0005#ALL#Administração
+0009#STR0009#ALL#Número De Cheque
+0010#STR0010#ALL#Emissão
+0011#STR0011#ALL#Janeiro
+0012#STR0012#ALL#Fevereiro
+0013#STR0013#ALL#Marco
+0014#STR0014#ALL#Abril
+0015#STR0015#ALL#Maio
+0016#STR0016#ALL#Junho
+0017#STR0017#ALL#Julho
+0018#STR0018#ALL#Agosto
+0019#STR0019#ALL#Setembro
+0020#STR0020#ALL#Outubro
+0021#STR0021#ALL#Novembro
+0022#STR0022#ALL#Dezembro
+0023#STR0023#ALL#A Seleccionar Cheques...
+0024#STR0024#ALL#* código    nome                        número         data      estado    dt. vcto./    quantia   banco dep.(nome)         moeda  *
+0025#STR0025#ALL#* código    nome                        número         data      distrito    dt. vcto./    importar   banco dep.(bco/agência/cta)  moeda  *
+0026#STR0026#ALL#* código    nome                        número         data      distrito    dt. vcto./    importar   banco ori.(bco/agência/cta)  moeda  *
+0027#STR0027#ALL#*                                      (rcbo/chq)      Emissão             Clearing                                        Original*
+0028#STR0028#ALL#*** listagem de cheques a ser creditados entre 
+0030#STR0030#ALL#Totais mês de 
+0031#STR0031#ALL# (em euros) 
+0037#STR0037#ALL#Não arquivado
+0040#STR0040#ALL#+++ cancelado pelo operador +++
+0041#STR0041#ALL#Totais mês de 
+0042#STR0042#ALL# (em euros) 
+0043#STR0043#ALL#Total Do Cliente A Creditar (em Euros)...
+0044#STR0044#ALL#Total geral.....(em euros) : 
+0045#STR0045#ALL#Do  cliente      ?
+0046#STR0046#ALL#A   cliente      ?
+0047#STR0047#ALL#De emissão       ?
+0048#STR0048#ALL#A  emissão       ?
+0049#STR0049#ALL#De vencimento    ?
+0050#STR0050#ALL#A  vencimento    ?
+0051#STR0051#ALL#Situação         ?
+0052#STR0052#ALL#Imp. banco       ?
+0056#STR0056#ALL#Bco Dep(nome)
+0057#STR0057#ALL#Bco Dep(cód.)
+0059#STR0059#ALL#Não se criaram dados para este relatório. comprove os parâmetros do relatório
+0062#STR0062#ALL#Número
+0063#STR0063#ALL#Rcbo/chq
+0064#STR0064#ALL#Distrito
+0065#STR0065#ALL#Dt.vcto.
+0069#STR0069#ALL#Banco dep.(nom.) 
+0070#STR0070#ALL#Banco Dep.(bco/age/cta)
+0071#STR0071#ALL#Banco Ori.(bco/age/cta
+0073#STR0073#ALL#Títulos
+0074#STR0074#ALL#Contas A Receber
+0075#STR0075#ALL#Bco. Cheque (Bco/Balc/Cód. Postal)

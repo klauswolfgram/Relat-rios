@@ -1,0 +1,52 @@
+0001#STR0001#ALL#Este programa irá imprimir o Balanço Crial Modelo 1 (132) colunas.
+0002#STR0002#ALL#A conta é impressa, limitando-se a 30 caracteres e a sua descrição a 40 caracteres,
+0003#STR0003#ALL#São também impressas colunas do saldo a débito e a crédito do período.
+0004#STR0004#ALL#Balanço Crial
+0005#STR0005#ALL#Código de barras
+0006#STR0006#ALL#Administração
+0007#STR0007#ALL#|         c o n t a             |        d e n o m i n a ç ã o                     |              s  a  l  d  o  s                 |
+0008#STR0008#ALL#|                               |                                                  |      d é b i t o      |    c r é d i t o      |
+0008#STR0008#ANG#|                               |                                                  |      D É B I T O      |    C R É D I T O      |
+0008#STR0008#EQU#|                               |                                                  |      D É B I T O      |    C R É D I T O      |
+0008#STR0008#HAI#|                               |                                                  |      D É B I T O      |    C R É D I T O      |
+0008#STR0008#MEX#|                               |                                                  |      d é b i t o      |    c r é d i t o      |
+0008#STR0008#PTG#|                               |                                                  |      d é b i t o      |    c r é d i t o      |
+0009#STR0009#ALL#Do balanço crial sintético  
+0010#STR0010#ALL#Do balanço crial analítico  
+0011#STR0011#ALL#Do balanço crial  
+0012#STR0012#ALL# até 
+0013#STR0013#ALL# em 
+0014#STR0014#ALL# (orcado)
+0015#STR0015#ALL# (de gestão)
+0016#STR0016#ALL#...a r ficheiro temporário...
+0017#STR0017#ALL#*** cancelado pelo operador ***
+0018#STR0019#ALL#Débito a maior: 
+0018#STR0019#ANG#DÉBITO A MAIOR: 
+0018#STR0019#EQU#DÉBITO A MAIOR: 
+0018#STR0019#HAI#DÉBITO A MAIOR: 
+0018#STR0019#MEX#Débito a maior: 
+0018#STR0019#PTG#Débito a maior: 
+0019#STR0020#ALL#Crédito a maior: 
+0019#STR0020#ANG#CRÉDITO A MAIOR: 
+0019#STR0020#EQU#CRÉDITO A MAIOR: 
+0019#STR0020#HAI#CRÉDITO A MAIOR: 
+0019#STR0020#MEX#Crédito a maior: 
+0019#STR0020#PTG#Crédito a maior: 
+0020#STR0021#ALL#T o t a i s  d o  g r u p o (
+0021#STR0022#ALL#T o t a i s : 
+0022#STR0023#ALL#Conta
+0023#STR0024#ALL#Código Reduzido
+0024#STR0025#ALL#Descrição Da Conta
+0025#STR0026#ALL#D é B I T O
+0025#STR0026#ANG#D É B I T O
+0025#STR0026#EQU#D É B I T O
+0025#STR0026#HAI#D É B I T O
+0025#STR0026#MEX#D é B I T O
+0025#STR0026#PTG#D é B I T O
+0026#STR0027#ALL#C R é D I T O
+0026#STR0027#ANG#C R É D I T O
+0026#STR0027#EQU#C R É D I T O
+0026#STR0027#HAI#C R É D I T O
+0026#STR0027#MEX#C R é D I T O
+0026#STR0027#PTG#C R é D I T O
+0027#STR0028#ALL#Balanço Modelo I

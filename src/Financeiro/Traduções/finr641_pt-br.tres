@@ -1,0 +1,21 @@
+0001#STR0001#ALL#Este programa tem como objetivo imprimir relatorio 
+0002#STR0002#ALL#de acordo com os parametros informados pelo usuario.
+0003#STR0003#ALL#Conferencia de Rateio Financeiro
+0004#STR0004#ALL#Conferencia de Rateio Financeiro
+0005#STR0005#ALL# Titulo              Situação   Entidade  Nome Entidade                             Emissao    Vencimento             Valor 
+0006#STR0006#ALL#Zebrado
+0007#STR0007#ALL#Administracao
+0008#STR0008#ALL#*** CANCELADO PELO OPERADOR ***
+0009#STR0009#ALL#Resultado
+0010#STR0010#ALL#Solicitação:      
+0011#STR0011#ALL#Titulo de Origem
+0012#STR0012#ALL#Baixado
+0013#STR0013#ALL#Em Aberto
+0014#STR0014#ALL#Bloqueado
+0015#STR0015#ALL#Abatimentos Rateio
+0016#STR0016#ALL#Total da Empresa/Filial: 
+0017#STR0017#ALL#Titulo(s) Distribuido(s)
+0018#STR0018#ALL# Descrição                               Tipo     Emp/Fil   Perc. Cliente                                   Fornecedor 
+0019#STR0019#ALL#Documento:      
+0020#STR0020#ALL#Origem
+0021#STR0021#ALL#Destino

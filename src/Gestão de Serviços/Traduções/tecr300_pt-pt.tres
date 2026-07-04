@@ -1,0 +1,14 @@
+0001#STR0001#ALL#Impressão Do Pedido De Assistência Técnica
+0002#STR0002#ALL#     este programa irá emitir as ligações técnicas cofacturaorme os
+0003#STR0003#ALL#Parâmetros solicitados.
+0005#STR0005#ALL#Código de barras
+0006#STR0006#ALL#Administração
+0007#STR0007#ALL#Cancelado Pelo Operador
+0008#STR0008#ALL#|                                pedido de assistência técnica                                             | nr.ligação: ######## | folha: ######|
+0009#STR0009#ALL#|cliente  : ######/## - ########################################                                                                   |
+0010#STR0010#ALL#|emissão  : ##########                                                                                contacto: ####################|
+0011#STR0011#ALL#|recepcionador: ####################                                                                                     hora: ########|
+0012#STR0012#ALL#|it|   tipo   |    artigo    |      nr.série      |                problema               |    contrato   | garantia |orçamento/os|
+0013#STR0013#ALL#|  |                                    Ocorrência:################################################################################|
+0015#STR0015#ALL#Cabeçalho do pedido
+0016#STR0016#ALL#Itens do pedido

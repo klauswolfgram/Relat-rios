@@ -1,0 +1,17 @@
+0001#STR0001#ALL#Função disponível apenas para ambientes TopConnect
+0002#STR0002#ALL#Função disponível apenas para TReport, por favor atualizar ambiente e verificar parametro MV_TREPORT
+0003#STR0003#ALL#Status da Prestação de Contas
+0004#STR0004#ALL#Relatório para apresentar as prestações de contas com os dados mais relevantes.
+0005#STR0005#ALL#Participante
+0006#STR0006#ALL#Prestação de Contas
+0007#STR0007#ALL#Em aberto
+0008#STR0008#ALL#Em conferência
+0009#STR0009#ALL#Com bloqueio
+0010#STR0010#ALL#Em avaliação
+0011#STR0011#ALL#Reprovada
+0012#STR0012#ALL#Aprovada
+0013#STR0013#ALL#Liberado pagto
+0014#STR0014#ALL#Finalizada
+0015#STR0015#ALL#Faturada
+0016#STR0016#ALL#Confirmar
+0017#STR0017#ALL#Seleção dos Status da Prestação de Contas

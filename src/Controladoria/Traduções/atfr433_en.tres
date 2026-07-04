@@ -1,0 +1,22 @@
+0001#STR0001#ALL#Function available only to environments TopConnect.
+0002#STR0002#ALL#Function available only for TReport, please update environment and check MV_TREPORT parameter
+0003#STR0003#ALL#This report purports to compare Provision x Executed x AVP of short and long term for assets related to fixed asset projects 
+0004#STR0004#ALL#Statement of Provision x Executed x AVP of short and long term for Fixed Asset Project
+0005#STR0005#ALL#Fixed Asset Project
+0006#STR0006#ALL#AVP of Project fixed assets
+0007#STR0007#ALL#Provision
+0008#STR0008#ALL#Accomplished
+0009#STR0009#ALL#Provision Balance
+0010#STR0010#ALL#Constituted
+0011#STR0011#ALL#Short Term-PRV
+0012#STR0012#ALL#Long Term.-PRV
+0013#STR0013#ALL#Short Term-RLZ
+0014#STR0014#ALL#Short Term-RLZ
+0015#STR0015#ALL#Short Term-SLD
+0016#STR0016#ALL#Long Term-SLD
+0017#STR0017#ALL#Branch Total
+0018#STR0018#ALL#Project Total
+0019#STR0019#ALL#To use this report, The Fixed Asset AVP Fixed Asset and Control Project processes must be implemented. Please, update the environment
+0020#STR0020#ALL#Project Cod.:
+0021#STR0021#ALL#Start Dt. AVP
+0022#STR0022#ALL#Stage Total

@@ -1,0 +1,25 @@
+0001#STR0001#ALL#Relatório De Graduação De Factores X Empregados
+0002#STR0002#ALL#Será impresso de acordo com os parâmetros solicitados pelo
+0003#STR0003#ALL#Utilizador.
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#Reg.   Nome                   Dt. Nasc.     Dt. Admis     Est. Civil
+0008#STR0008#ALL#Centro de custo :
+0010#STR0010#ALL#Factor Necessário                  Graduação Empregado
+0011#STR0011#ALL#Factor Necessário                  Graduação Do Empregado              Pontos
+0012#STR0012#ALL#                                                         t o t a l :
+0013#STR0013#ALL#Descrição Detalhada Do Factor
+0014#STR0014#ALL# *** não existe descrição detalhada do factor *** 
+0015#STR0015#ALL#Observação Do Factor Do Empregado
+0016#STR0016#ALL# *** não tem nenhuma observação para este factor *** 
+0017#STR0017#ALL#Empregado
+0018#STR0018#ALL#Graduação do Empregado
+0019#STR0019#ALL#Grau Categoria
+0021#STR0021#ALL#Grau Empr.
+0023#STR0023#ALL#Factores X Colaboradores
+0024#STR0024#ALL#Ctr Colaboradores
+0031#STR0031#ALL#Dt.Nasc.
+0032#STR0032#ALL#Dt.Admis.
+0036#STR0036#ALL#Factor Necessário
+0037#STR0037#ALL#Graduação Colaborador
+0039#STR0039#ALL#Este programa emite Relatório de Graduação de Factores X Colaboradores

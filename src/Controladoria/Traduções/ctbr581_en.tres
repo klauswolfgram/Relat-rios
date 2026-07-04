@@ -1,0 +1,19 @@
+0001#STR0001#ALL#STATEMENT PER C.CENTER X ACCOUNT X CLASS X ACCOUNTING ITEM X VALUE CLASS
+0002#STR0002#ALL#Generating report, wait...
+0003#STR0003#ALL#one hundred
+0004#STR0004#ALL#one thousand
+0005#STR0005#ALL#one million
+0006#STR0006#ALL#Creating Temporary File...
+0007#STR0007#ALL#Responsible...
+0008#STR0008#ALL#you must enter a reference date
+0009#STR0009#ALL#Parameter Consider equal Period
+0010#STR0010#ALL#Date out of period
+0011#STR0011#ALL#Reference Date
+0012#STR0012#ALL#Accounts/Balances
+0013#STR0013#ALL#(In 
+0014#STR0014#ALL#This program will print Results Statement, 
+0015#STR0015#ALL#According to parameters entered by the user.
+0016#STR0016#ALL#Cost Center
+0017#STR0017#ALL#Description
+0018#STR0018#ALL#TOTAL PER C.CENTER
+0019#STR0019#ALL#GENERAL TOTAL

@@ -1,0 +1,39 @@
+0001#STR0001#ALL#Informe de Movimientos de Instrumentos
+0002#STR0002#ALL# entre Sucurs.
+0003#STR0003#ALL#|---------------------------- Prestamo ------------------------------|     |---------------------------- Recepcion ------------------------------| 
+0004#STR0004#ALL#Instrumento        Rev  Suc  Fch.      Hora   Respons.    Nombre                Suc Departamento         Fch.      Hora   Repons.     Nombre                Suc Departamento     Tipo Movimien.  Tipo Devoluc. 
+0005#STR0005#ALL#Informe de movimientos de instrumentos entre sucursales
+0006#STR0006#ALL#Seleccionando Instrumentos ..
+0007#STR0007#ALL#*** ANULADO POR EL OPERADOR ***
+0008#STR0008#ALL#Instrumento -----> 
+0009#STR0009#ALL# - Revision: 
+0010#STR0010#ALL#Prestamo  
+0011#STR0011#ALL#Calibrac. 
+0012#STR0012#ALL#Devol. Obligatoria
+0013#STR0013#ALL#Devol. No Obligatoria 
+0014#STR0014#ALL#Justificacion : 
+0015#STR0015#ALL#Devoluc. 
+0016#STR0016#ALL#A Rayas
+0017#STR0017#ALL#Administrac. 
+0018#STR0018#ALL#LEYENDA DE SUCURS. 
+0019#STR0019#ALL#SUCURSAL   DESCRIPC.
+0020#STR0020#ALL#LEYENDA DE DEPARTAMENTOS POR SUCURS.
+0021#STR0021#ALL#SUCURS  DEPTO             DESCRIPC.
+0022#STR0022#ALL#Rev
+0023#STR0023#ALL#Suc
+0024#STR0024#ALL# -- Fch.
+0025#STR0025#ALL#Hora
+0026#STR0026#ALL#Nomb
+0027#STR0027#ALL#Departamento
+0028#STR0028#ALL#____________  P
+0029#STR0029#ALL#Prestamo
+0030#STR0030#ALL#____________ Re
+0031#STR0031#ALL#Recepcion
+0032#STR0032#ALL#Tipo
+0033#STR0033#ALL#Movimiento  
+0034#STR0034#ALL#SUCURS
+0035#STR0035#ALL#DESCRIPC.
+0036#STR0036#ALL#DEPARTAMENTO
+0037#STR0037#ALL#Instrumento: 
+0038#STR0038#ALL#Respons.
+0039#STR0039#ALL#NO HUBO MOVIMIENTO PARA LOS PARAMETROS ESPECIFICADOS  

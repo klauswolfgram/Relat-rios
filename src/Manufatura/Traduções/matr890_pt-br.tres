@@ -1,0 +1,33 @@
+0001#STR0001#ALL#Relacao de Acompanhamento das Operacoes 
+0002#STR0002#ALL#Este programa ira imprimir a Relaçäo de Acompanhamento das Operaçöes.
+0003#STR0003#ALL#Os valores referentes aos tempos de duracao estäo convertidos conforme
+0004#STR0004#ALL#o parametro MV_TPHR. Se utilizada Prod. Mod. 2 podem haver divergencias.
+0005#STR0005#ALL#Por Op
+0006#STR0006#ALL#Por Recurso
+0007#STR0007#ALL#Por Data Inicio
+0008#STR0008#ALL#Zebrado
+0009#STR0009#ALL#Administracao
+0010#STR0010#ALL#Abertura de Arquivos
+0011#STR0011#ALL#Abrindo Arquivos...
+0012#STR0012#ALL#DOMINGO
+0013#STR0013#ALL#SEGUNDA
+0014#STR0014#ALL#TERCA
+0015#STR0015#ALL#QUARTA
+0016#STR0016#ALL#QUINTA
+0017#STR0017#ALL#SEXTA
+0018#STR0018#ALL#SABADO
+0019#STR0019#ALL#ORDEM DE    O. RECURSO FERRAMENTA  P R O D U T O                                                       I  N  I  C  I  O                     *               T  E  R  M  I  N  O               *     D U R A C A O 
+0020#STR0020#ALL#PRODUCAO                                                                            A L O C A D O           R  E  A  L           VARIACAO   *   A L O C A D O      R  E  A  L      VARIACAO   *   ALOC.  REAL     VAR.
+0021#STR0021#ALL#Selecionando Registros...
+0022#STR0022#ALL#CANCELADO PELO OPERADOR
+0023#STR0023#ALL#Produto Inexistente no arquivo
+0024#STR0024#ALL#Inicio Aloc.
+0025#STR0025#ALL#Inicio Real
+0026#STR0026#ALL#Variacao
+0027#STR0027#ALL#Fim Aloc.
+0028#STR0028#ALL#Fim Real
+0029#STR0029#ALL#Tempo Aloc. 
+0030#STR0030#ALL#Operações alocadas Carga Máquina
+0031#STR0031#ALL#Configuração de Parametros
+0032#STR0032#ALL#Parametro não configurado
+0033#STR0033#ALL#Definir as informações dos parametros MV_DIRPCP, pelo configurador

@@ -1,0 +1,32 @@
+0001#STR0001#ALL#Este programa irá emitir a posição geral do contas a pagar
+0002#STR0002#ALL#Referente a data base do sistema.
+0003#STR0003#ALL#Código de barras
+0004#STR0004#ALL#Administração
+0005#STR0005#ALL#Posição Crial Das Contas A Pagar
+0006#STR0006#ALL#                                             valores (
+0008#STR0008#ALL#Cancelado Pelo Operador
+0009#STR0009#ALL#A Seleccionar Registos..
+0010#STR0010#ALL#Compras (no mês)
+0013#STR0013#ALL#Valores Liquidados
+0015#STR0015#ALL#Taxa De Juros
+0017#STR0017#ALL#Correcção
+0019#STR0019#ALL#Pagamento Antecipado
+0021#STR0021#ALL#Títulos A Vencer
+0022#STR0022#ALL#Até 15 Dias
+0023#STR0023#ALL#De 16 A 30 Dias
+0026#STR0026#ALL#Acima De 90 Dias
+0027#STR0027#ALL#Títulos Vencidos
+0028#STR0028#ALL#Por Tipo De Título
+0031#STR0031#ALL#Cheques Pré-datados
+0035#STR0035#ALL#Notas De Débito
+0037#STR0037#ALL#Pedidos De Compra Atrasados
+0038#STR0038#ALL#Pedidos De Compra Adiantados
+0041#STR0041#ALL#Prazo Médio Absoluto
+0042#STR0042#ALL#Prazo Médio Ponderado
+0044#STR0044#ALL#Prazos Médios E Quociente De Atraso
+0046#STR0046#ALL#Compras (no mês)
+0047#STR0047#ALL#Valores liquidados
+0048#STR0048#ALL#Títulos a vencer
+0049#STR0049#ALL#Títulos vencidos
+0050#STR0050#ALL#Por tipo de título
+0053#STR0053#ALL#Prazos médios e quociente de atraso

@@ -1,0 +1,27 @@
+0001#STR0001#ALL#Informe de empleados por Centro de Costo y Funcion
+0002#STR0002#ALL#A Rayas
+0003#STR0003#ALL#Administracion
+0004#STR0004#ALL#Empleados por centro de costo y funcion
+0005#STR0005#ALL#¿De Centro Costo  ?
+0006#STR0006#ALL#¿A  Centro Costo  ?
+0007#STR0007#ALL#     Cod. Func.   Nomb Funcion                Matricula   Nombre del empleado                             Fch. Admision
+0008#STR0008#ALL#Centro de Costo.:
+0009#STR0009#ALL#Total de empleados del Centro de Costo...:
+0010#STR0010#ALL#Total de empleados....:
+0011#STR0011#ALL#Total de empleados del Cliente:   
+0012#STR0012#ALL#Cliente..: 
+0013#STR0013#ALL#     Codigo/Nombre Funcion                    Matricula   Nombre del Empleado             Categoria       Fecha Ingreso
+0014#STR0014#ALL#     Codigo/Nomb Funcion                      Matricula   Nombre del Empleado             Categoria         Fecha Ingreso Despido 
+0015#STR0015#ALL#¿De Cliente?
+0016#STR0016#ALL#Tda.
+0017#STR0017#ALL#¿A Cliente ?
+0018#STR0018#ALL#No existe nada para imprir en el Inf.	  	  	  	  	
+0019#STR0019#ALL#¿A Categoria ?
+0020#STR0020#ALL#¿De Categoria?
+0021#STR0021#ALL#¿Considerar Empleado?
+0022#STR0022#ALL#De licen
+0023#STR0023#ALL#¿A Centro de Costo ?
+0024#STR0024#ALL#¿De Centro de Costo ?
+0025#STR0025#ALL#Todos
+0026#STR0026#ALL#Act.
+0027#STR0027#ALL#Desped.

@@ -1,0 +1,39 @@
+0001#STR0001#ALL#Este programa imprimira el Comparativo del Saldo Mes a Mes
+0002#STR0002#ALL#de acuerdo con los parametros solicitados por el Usuario. 
+0003#STR0003#ALL#Comparativo de Saldo Mes a Mes
+0004#STR0004#ALL#|TIPO DE SALDO      |  PERIODO 01  |  PERIODO 02  |  PERIODO 03  |  PERIODO 04  |  PERIODO 05  |  PERIODO 06  |  PERIODO 07  |  PERIODO 08  |  PERIODO 09  |  PERIODO 10  |  PERIODO 11  |  PERIODO 12  |
+0005#STR0005#ALL#COMPARATIVO DE SALDO ANALITICO DE  
+0006#STR0006#ALL#COMPARATIVO DE SALDO SINTETICO DE  
+0007#STR0007#ALL#COMPARATIVO DE SALDO
+0008#STR0008#ALL# DE 
+0009#STR0009#ALL# A   
+0010#STR0010#ALL# EN 
+0011#STR0011#ALL#CTA. 
+0012#STR0012#ALL#El plan gerenc. aun no esta a disposicion para este informe.
+0013#STR0013#ALL#Creando Archivo Temporal  ...
+0014#STR0014#ALL#A Rayas
+0015#STR0015#ALL#Administrac. 
+0016#STR0016#ALL#***** ANULADO POR EL OPERADOR *****
+0017#STR0017#ALL#T O T A L E S  D E L   P E R . : 
+0018#STR0018#ALL#TOT. DEL  
+0019#STR0019#ALL#El per. solicitado supera el limite de 6 meses.     
+0020#STR0020#ALL#Se imprim. solo los 6 meses a partir de la fch. inicial.
+0021#STR0021#ALL#Si no actualiz. los saldos comp. en la
+0022#STR0022#ALL#emision de informes(MV_SLDCOMP ='N'),
+0023#STR0023#ALL#ejecutar la rutina de atual. de saldos 
+0024#STR0024#ALL#Modifique la config. de libros...
+0025#STR0025#ALL#Config. de Libros...
+0026#STR0026#ALL#TOT.   
+0027#STR0027#ALL#TOTALES DEL PER. :
+0028#STR0028#ALL#TOTAL PERIODO
+0029#STR0029#ALL#Variacion
+0030#STR0030#ALL#Diferencia
+0031#STR0031#ALL#Las preguntas 'Tipo de Saldo' y 'Saldo por Comparar' no pueden quedar en blanco
+0032#STR0032#ALL#Orden para impresion
+0033#STR0033#ALL#Ordenar por
+0034#STR0034#ALL#Despues por
+0035#STR0035#ALL#Seleccione las entidades diferentes
+0036#STR0036#ALL#La orden 
+0037#STR0037#ALL# esta igual al orden 
+0038#STR0038#ALL#Seleccione por lo menos una Entidad para el informe
+0039#STR0039#ALL#Plan referencial no disponible en este informe. El informe se procesará sin considerar la configuración de libros.

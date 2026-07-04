@@ -1,0 +1,33 @@
+0001#STR0001#ALL#Este programa tem como objetivo imprimiro relatorio 
+0002#STR0002#ALL#de acordo com os parámetros informados pelo usuario.
+0003#STR0003#ALL#Relatorio de diferencas de cambio 
+0004#STR0004#ALL#Relatorio de diferencas de cambio de contas a pagar 
+0005#STR0005#ALL#Forn./Fil      Venc.    Emissao    Registro      Nature.     Prefixo/Numero/Parc.   Tipo      Valor 
+0006#STR0006#ALL#Fornecedor
+0007#STR0007#ALL#Prefixo+Numero
+0008#STR0008#ALL#Natureza
+0009#STR0009#ALL#Emissao
+0010#STR0010#ALL#Vencimento
+0011#STR0011#ALL#Registro
+0012#STR0012#ALL#Linhas
+0013#STR0013#ALL#Administracao
+0014#STR0014#ALL#     Valor Orig Moeda   Taxa
+0015#STR0015#ALL#   Aj. Anterior         Ajuste
+0016#STR0016#ALL#*** CANCELADO PELO OPERADOR ***
+0017#STR0017#ALL#Diferenca de cambio->
+0018#STR0018#ALL#Documento ajustado->
+0019#STR0019#ALL#Nao Disp.
+0020#STR0020#ALL#Valor ajustado : 
+0021#STR0021#ALL#Forn./Fil
+0022#STR0022#ALL#Venc.
+0023#STR0023#ALL#Emissão
+0024#STR0024#ALL#Registro
+0025#STR0025#ALL#Natureza
+0026#STR0026#ALL#Prefixo/Número/Parc
+0027#STR0027#ALL#Tipo
+0028#STR0028#ALL#Valor
+0029#STR0029#ALL#Valor Orig
+0030#STR0030#ALL#Taxa
+0031#STR0031#ALL#Mon.
+0032#STR0032#ALL#Aj. Anterior
+0033#STR0033#ALL#Ajuste

@@ -1,0 +1,28 @@
+0001#STR0001#ALL#Operator List per Service Place
+0002#STR0002#ALL#This program will issue a list of all Operators
+0003#STR0003#ALL#divided by Service Place
+0004#STR0004#ALL#Z-Form
+0005#STR0005#ALL#Administration
+0006#STR0006#ALL#Selecting Records...
+0007#STR0007#ALL#CANCELLED BY OPERATOR
+0008#STR0008#ALL#Group
+0009#STR0009#ALL#Description
+0010#STR0010#ALL#T.M.Service
+0011#STR0011#ALL#Calls
+0012#STR0012#ALL#Hardware
+0013#STR0013#ALL#External Telephone Line
+0014#STR0014#ALL#Company Operator working in the State
+0015#STR0015#ALL#Company Operat. Working Out Of The State
+0016#STR0016#ALL#Send e-mail
+0017#STR0017#ALL#Send Task
+0018#STR0018#ALL#TMK Config.
+0019#STR0019#ALL#Station
+0020#STR0020#ALL#Discount
+0021#STR0021#ALL#Addition
+0022#STR0022#ALL#Evaluate Credit
+0023#STR0023#ALL#Evaluate Inventory
+0024#STR0024#ALL#Code     Name                             Short Name             Address                          Zone              City              ST   ZIP CODE     Servicing         Salesperson       Reg  Hability               Pend
+0025#STR0025#ALL#There is no information to print this report according to the informed parameters
+0026#STR0026#ALL#Skill     
+0027#STR0027#ALL#Campaigns
+0028#STR0028#ALL#Operators 

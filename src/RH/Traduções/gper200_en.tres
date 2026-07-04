@@ -1,0 +1,91 @@
+0001#STR0001#ALL#Issuance of Salary Increase
+0002#STR0002#ALL#Will be used according to parameters requested by the     
+0003#STR0003#ALL#User.   
+0004#STR0004#ALL#Registrat
+0005#STR0005#ALL#Cost Center    
+0006#STR0006#ALL#Role  
+0007#STR0007#ALL#Role  
+0008#STR0008#ALL#Z.Form 
+0009#STR0009#ALL#Management   
+0010#STR0010#ALL#Base Date: 
+0011#STR0011#ALL#Search   
+0012#STR0012#ALL#View      
+0013#STR0013#ALL#Add    
+0014#STR0014#ALL#Edit   
+0015#STR0015#ALL#Delete 
+0016#STR0016#ALL#From monthly range
+0017#STR0017#ALL#To monthly range
+0018#STR0018#ALL#Increase %
+0019#STR0019#ALL#Amount increase 
+0020#STR0020#ALL#Salary Adjustment Report/Calculation
+0021#STR0021#ALL#  (COL.LAB.AGR) 
+0022#STR0022#ALL#  (ADVANCE PAY)  
+0023#STR0023#ALL#  (REAL INCREASE  
+0024#STR0024#ALL#Salary Adjustment Report/Calculation by Function
+0025#STR0025#ALL#OK      
+0026#STR0026#ALL#Retype  
+0027#STR0027#ALL#Quit    
+0028#STR0028#ALL# Calculate for Salaries 
+0029#STR0029#ALL#System 
+0030#STR0030#ALL#BASE SALARY 
+0031#STR0031#ALL#BRANCH: 
+0032#STR0032#ALL# CCENT: 
+0033#STR0033#ALL# REG: 
+0034#STR0034#ALL# NAME: 
+0035#STR0035#ALL# DT.ADM.: 
+0036#STR0036#ALL# CATEGORY : 
+0037#STR0037#ALL# UNION    : 
+0038#STR0038#ALL# FUNCTION: 
+0039#STR0039#ALL#Company: 
+0040#STR0040#ALL# PREVIOUS SALARY PREVIOUS HOUR SALARY PERCENTAGE + ACCRUED VALUE     =   ADJUSTMENT NEW SALARY   NEW HOUR SALARY    ROUNDING UP   
+0041#STR0041#ALL# PREVIOUS SALARY PERCENTAGE + ACCRUUED VALUE    =   ADJUSTMENT NEW SALARY   ROUNDING UP   
+0042#STR0042#ALL#From admission date 
+0043#STR0043#ALL#To admission date
+0044#STR0044#ALL#Base Salary: Values calculated considering 220 hours/month.
+0045#STR0045#ALL#Base/Month  :
+0046#STR0046#ALL#Base/Hour   :
+0047#STR0047#ALL#Base/Day    :
+0048#STR0048#ALL#Attention
+0049#STR0049#ALL#Fill in admission date    
+0050#STR0050#ALL#Blank date    
+0051#STR0051#ALL#Enter a date that is out of the periods already informed
+0052#STR0052#ALL#Invalid Date
+0053#STR0053#ALL#Initial Admission Date higher than Final Date
+0054#STR0054#ALL#== > T O T A L S   F O R   
+0055#STR0055#ALL#      E M P L O Y E E S   :
+0056#STR0056#ALL#LIST OF FUNCTIONS READJUSTED (not credited to the employees)      
+0057#STR0057#ALL# OLD SALARY      DAILY SAL.   INT.  PREV. PERCENTAGE + ADDITIONAL VALUE  =   READJUST. NEW SALARY    INT.DAI.SAL. NEW    ROUNDING      
+0058#STR0058#ALL#Inconsistences while executing the Process. Some employees were not saved. Do you want to query the LOG? 
+0059#STR0059#ALL#Attention
+0060#STR0060#ALL#Occurrence Log
+0061#STR0061#ALL# OLD SALARY  OLD HOUR SALARY + ADDITIONAL VALUE   =   REAJUSTMENT  NEW SALARY  NEW HOUR SALARY  ROUNDING
+0062#STR0062#ALL# OLD SALARY INT. DAILY SAL. OLD + ADDITIONAL VALUE   =  READJUSTMENT NEW SALARY  INT.DAYLY SAL. NEW ROUDING
+0063#STR0063#ALL# OLD SALARY  +  ADDITIONAL VALUE = READJUSTMENT NEW SALARY ROUDING
+0064#STR0064#ALL#For Public Management, all questions Update File and Update Dict. Base must be set equally.
+0065#STR0065#ALL#For all labor unions, leave field blank.
+0066#STR0066#ALL#OK
+0067#STR0067#ALL#Salary not updated as employee record admission, S-2100/S-2200, was not integrated to TAF yet.
+0068#STR0068#ALL#Salary not updated as employee record admission, S-2100/S-2200, is in TAF x RET transit
+0069#STR0069#ALL#Salary not updated as employee record admission, S-2100/S-2200, was not transmitted to TAF yet.
+0070#STR0070#ALL#Monitoring - Salary Increase and generation of TAF Contract Change Record
+0071#STR0071#ALL#Employee does not have single registration code Perform the initial load before the salary adjustment
+0072#STR0072#ALL#Attention
+0073#STR0073#ALL#Salary changes are integrated to TAF through the execution of JOB, according to guidelines in the link below.
+0074#STR0074#ALL#Do not display it again
+0075#STR0075#ALL#Date of Raise:
+0076#STR0076#ALL#- Employees Processed:
+0077#STR0077#ALL#Generate Log?
+0078#STR0078#ALL#Log of processed records
+0079#STR0079#ALL#Valor inicial menor ou igual o valor final da faixa anterior
+0080#STR0080#ALL#O valor inicial deve ser maior que o valor final da faixa anterior
+0081#STR0081#ALL#Filial: 
+0082#STR0082#ALL# - Matrícula: 
+0083#STR0083#ALL# - Nome: 
+0084#STR0084#ALL#Salário antigo: 
+0085#STR0085#ALL# | Salário atualizado: 
+0086#STR0086#ALL#Salário dissídio antigo: 
+0087#STR0087#ALL# | Salário dissídio atualizado: 
+0088#STR0088#ALL#Salário da função 
+0089#STR0089#ALL# antigo: 
+0090#STR0090#ALL# | Salário da função 
+0091#STR0091#ALL# atualizado: 

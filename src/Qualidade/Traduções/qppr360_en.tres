@@ -1,0 +1,68 @@
+0001#STR0001#ALL#VDA Initial Samples
+0002#STR0002#ALL#Generating Report, please Wait...
+0003#STR0003#ALL#VDA Report for Examining Initial Samples
+0004#STR0004#ALL#Material of Purchased Parts(Material Datasheet)
+0005#STR0005#ALL#1. Company and Product Naming
+0006#STR0006#ALL#1.1 Manufacturer/vendor Data
+0007#STR0007#ALL#Name
+0008#STR0008#ALL#Street/PO Box
+0009#STR0009#ALL#Zip/City
+0010#STR0010#ALL#Responsible
+0011#STR0011#ALL#Telephone/Fax
+0012#STR0012#ALL#Responsible person signature:
+0013#STR0013#ALL#1.2 Product data
+0014#STR0014#ALL#Part:
+0015#STR0015#ALL#Sample Report Nr.:
+0016#STR0016#ALL#ZSB Nr.:
+0017#STR0017#ALL#Order Nr.:
+0018#STR0018#ALL#Article Nr.:
+0019#STR0019#ALL#Invoice Nr.:
+0020#STR0020#ALL#Edition:
+0021#STR0021#ALL#Date:
+0022#STR0022#ALL#2. Safety and Environment Mean
+0023#STR0023#ALL#Materials that, according to the law, are subjected to forbidden usage cannot
+0024#STR0024#ALL#be used!
+0025#STR0025#ALL#See: VDA list on materials that must be declared.
+0026#STR0026#ALL#Check the correct answer
+0027#STR0027#ALL#The parts contain material with hazard characteristics according to
+0028#STR0028#ALL#ChemG/GefStoffV (control of dangerous substances, toxic or chemical) ?
+0029#STR0029#ALL#No
+0030#STR0030#ALL#Yes   (Characteristics according to GefStoffV and concentrations must be declared in "components")
+0031#STR0031#ALL#By properly handling the part, is it possible that dangerous substances can be released ?
+0032#STR0032#ALL#(see VDA list for substances that must be declared)
+0033#STR0033#ALL#Yes   (Fill in item 10 of the security sheet of EG data)
+0034#STR0034#ALL#Part and a dangerous asset according to traffic legislation ?
+0035#STR0035#ALL#(Transport legislation)
+0036#STR0036#ALL#Yes
+0037#STR0037#ALL#Does the part have dangerous substances for the water, according to the water legislation ?
+0038#STR0038#ALL#Yes   (Indicate the amount and class of water contamination danger)
+0039#STR0039#ALL#Was the part treated with biocides ?
+0040#STR0040#ALL#Yes   (Levels > 0,1% must be indicated)
+0041#STR0041#ALL#After using the part, is it possible to appear residues to which EAK-code is related ?
+0042#STR0042#ALL#The following table must be totally filled out
+0043#STR0043#ALL#VDA Report of Initial Sample
+0044#STR0044#ALL#Parts Material
+0045#STR0045#ALL#Page :
+0046#STR0046#ALL#Materials or substances subjected to forbidden usage cannot exist
+0047#STR0047#ALL#Occurred substances or released in usage must also be declared
+0048#STR0048#ALL#See: VDA list for substances that must be declared!
+0049#STR0049#ALL#3. Parts characteristics:
+0050#STR0050#ALL#ZSB Nr.:
+0051#STR0051#ALL#Sample Report Nr.:
+0052#STR0052#ALL#Naming:
+0053#STR0053#ALL#Part Nr/
+0054#STR0054#ALL#Material Nr.
+0055#STR0055#ALL#Name of
+0056#STR0056#ALL#Part
+0057#STR0057#ALL#Materials
+0058#STR0058#ALL#of ZSB
+0059#STR0059#ALL#Mass
+0060#STR0060#ALL#Material/Specific.
+0061#STR0061#ALL#of product by
+0062#STR0062#ALL#manufacturer
+0063#STR0063#ALL#Substances
+0064#STR0064#ALL#contained
+0065#STR0065#ALL#CAS Nr.
+0066#STR0066#ALL#Naming
+0067#STR0067#ALL#of material
+0068#STR0068#ALL#Level[%]

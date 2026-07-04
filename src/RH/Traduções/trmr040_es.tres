@@ -1,0 +1,11 @@
+0001#STR0001#ALL#Informe de materiales por curso
+0002#STR0002#ALL#Se imprimira de acuerdo con los parametros solicitados por el
+0003#STR0003#ALL#usuario.
+0004#STR0004#ALL#Curso
+0005#STR0005#ALL#A Rayas
+0006#STR0006#ALL#Administracion
+0007#STR0007#ALL#Informe de materiales por curso
+0008#STR0008#ALL#COD.   MATERIAL                       REFERENCIA                       OBSERVACIONES
+0009#STR0009#ALL#CURSO: 
+0010#STR0010#ALL#Material.
+0011#STR0011#ALL#Este programa emite informe de Materiales por Curso   

@@ -1,0 +1,65 @@
+0001#STR0001#ALL#Este programa irá imprimir o razão por 
+0002#STR0002#ALL# de acordo com os parâmetros sugeridos pelo utilizador. 
+0003#STR0004#ALL#Código de barras
+0004#STR0005#ALL#Administração
+0005#STR0006#ALL#Emissão do razão contabilístico por 
+0006#STR0007#ALL#Razão por 
+0007#STR0008#ALL# analítico em  
+0008#STR0009#ALL#De
+0009#STR0010#ALL#Até
+0010#STR0011#ALL#(orçamentado)
+0011#STR0012#ALL#(de gestão)
+0012#STR0013#ALL#LOTE/SUB/DOC/LINHA H I S T Ó R I C O                         XPARTIDA
+0012#STR0013#ANG#LOTE/SUB/DOC/LINHA H I S T Ó R I C O                         XPARTIDA
+0012#STR0013#EQU#LOTE/SUB/DOC/LINHA H I S T Ó R I C O                         XPARTIDA
+0012#STR0013#HAI#LOTE/SUB/DOC/LINHA H I S T Ó R I C O                         XPARTIDA
+0012#STR0013#MEX#LOTE/SUB/DOC/LINHA H I S T Ó R I C O                         XPARTIDA
+0012#STR0013#PTG#LOTE/SUB/DOC/LINHA H I S T Ó R I C O                         XPARTIDA
+0013#STR0014#ALL#LOTE/SUB/DOC/LINHA H I S T Ó R I C O                         XPARTIDA                      DÉBITO          CRÉDITO       SALDO ACTUAL
+0013#STR0014#ANG#LOTE/SUB/DOC/LINHA H I S T Ó R I C O                         XPARTIDA                      DÉBITO          CRÉDITO       SALDO ACTUAL
+0013#STR0014#EQU#LOTE/SUB/DOC/LINHA H I S T Ó R I C O                         XPARTIDA                      DÉBITO          CRÉDITO       SALDO ACTUAL
+0013#STR0014#HAI#LOTE/SUB/DOC/LINHA H I S T Ó R I C O                         XPARTIDA                      DÉBITO          CRÉDITO       SALDO ACTUAL
+0013#STR0014#MEX#LOTE/SUB/DOC/LINHA H I S T Ó R I C O                         XPARTIDA                      DÉBITO          CRÉDITO       SALDO ACTUAL
+0013#STR0014#PTG#LOTE/SUB/DOC/LINHA H I S T Ó R I C O                         XPARTIDA                      DÉBITO          CRÉDITO       SALDO ACTUAL
+0014#STR0015#ALL#***** cancelado pelo operador *****
+0015#STR0016#ALL#Artigo  - 
+0017#STR0018#ALL#A Criar Ficheiro Temporário...
+0018#STR0019#ALL#Data
+0019#STR0020#ALL#T o t a i s  d a  c o n t a  ==> 
+0020#STR0021#ALL# sintético em 
+0021#STR0022#ALL#A transportar : 
+0022#STR0023#ALL#De transporte : 
+0023#STR0024#ALL#Conta - 
+0024#STR0025#ALL#Data                                                                            Débito               Crédito            Saldo Actual
+0024#STR0025#ANG#DATA                                                                            DÉBITO               CRÉDITO            SALDO ATUAL
+0024#STR0025#EQU#DATA                                                                            DÉBITO               CRÉDITO            SALDO ATUAL
+0024#STR0025#HAI#DATA                                                                            DÉBITO               CRÉDITO            SALDO ATUAL
+0024#STR0025#MEX#Data                                                                            Débito               Crédito            Saldo Actual
+0024#STR0025#PTG#Data                                                                            Débito               Crédito            Saldo Actual
+0025#STR0026#ALL#Débito         Crédito      Saldo Actual
+0025#STR0026#ANG#DÉBITO         CRÉDITO      SALDO ATUAL
+0025#STR0026#EQU#DÉBITO         CRÉDITO      SALDO ATUAL
+0025#STR0026#HAI#DÉBITO         CRÉDITO      SALDO ATUAL
+0025#STR0026#MEX#Débito         Crédito      Saldo Actual
+0025#STR0026#PTG#Débito         Crédito      Saldo Actual
+0026#STR0027#ALL#Saldo Anterior:
+0027#STR0028#ALL#Elemento
+0028#STR0029#ALL#Lançamentos Contabilísticos
+0030#STR0031#ALL#Lote/sub/doc./linha
+0031#STR0032#ALL#Histórico
+0032#STR0033#ALL#Xpartida
+0033#STR0034#ALL#Débito
+0033#STR0034#ANG#DÉBITO
+0033#STR0034#EQU#DÉBITO
+0033#STR0034#HAI#DÉBITO
+0033#STR0034#MEX#Débito
+0033#STR0034#PTG#Débito
+0034#STR0035#ALL#Crédito
+0034#STR0035#ANG#CRÉDITO
+0034#STR0035#EQU#CRÉDITO
+0034#STR0035#HAI#CRÉDITO
+0034#STR0035#MEX#Crédito
+0034#STR0035#PTG#Crédito
+0035#STR0036#ALL#Saldo Actual
+0038#STR0039#ALL#Descrição
+0039#STR0040#ALL#Não há dados a exibir, Elem. de - Elem. Até em branco

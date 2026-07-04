@@ -1,0 +1,15 @@
+0001#STR0001#ALL#Custos de Reposicao dos Materiais
+0002#STR0002#ALL#Este programa ira imprimir uma relaçäo dos materiais
+0003#STR0003#ALL#e seus respectivos Custos de Reposiçäo
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#CODIGO                          D E S C R I C A O               UM  TP  GRUPO       CUSTO DE     DATA DE          ULTIMO        DATA
+0007#STR0007#ALL#                                                                                   REPOSICAO  REFERENCIA           PRECO  ULT COMPRA
+0008#STR0008#ALL#CANCELADO PELO OPERADOR
+0009#STR0009#ALL#Na Gestao de Concessionarias a ordem do relatorio e´ : Grupo + Cod. Item.
+0010#STR0010#ALL#Atenção
+0011#STR0011#ALL#Atualizar patch do programa
+0012#STR0012#ALL#* GRUPO : 
+0013#STR0013#ALL#Produtos
+0014#STR0014#ALL# (Grupo)
+0015#STR0015#ALL# Imprimindo 

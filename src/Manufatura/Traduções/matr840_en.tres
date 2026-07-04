@@ -1,0 +1,22 @@
+0001#STR0001#ALL#Report of Operations per Product
+0002#STR0002#ALL#This program will print the list of the Operation
+0003#STR0003#ALL#Routes File
+0004#STR0004#ALL#Z.Form
+0005#STR0005#ALL#Management
+0006#STR0006#ALL#RESOURCE DESCRIPTION OF RESOURCE       OPERATION  OPERATION DESCRIPTION            OPER  TOOL       PRODUC.   TYPE OF    LABOR      SETUP  STANDARD   STAND.   OVERL.   OVER.   UNFOLD.  UNFOLD.   PROPOR.   WORK     SETUP
+0007#STR0007#ALL#                                                                                   TYPE             LINE        LINE     FORCE               LOT      TIME     TIME     TIME    TIME      TYPE     UNFOLD.   CENTER  FORMULA
+0008#STR0008#ALL#CANCELLED BY THE OPERATOR
+0009#STR0009#ALL#Product : 
+0010#STR0010#ALL#Denomination : 
+0011#STR0011#ALL#Route:    
+0012#STR0012#ALL#(standard route)   
+0013#STR0013#ALL#Resources: 
+0014#STR0014#ALL#Type: 
+0015#STR0015#ALL#Efficiency: 
+0016#STR0016#ALL#Alternative
+0017#STR0017#ALL#Secondary
+0018#STR0018#ALL#Creating Indexes....
+0019#STR0019#ALL#Resource: 	
+0020#STR0020#ALL#Products
+0021#STR0021#ALL#Operations
+0022#STR0022#ALL#Alternative and secondary resources

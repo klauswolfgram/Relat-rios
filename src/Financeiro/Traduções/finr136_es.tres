@@ -1,0 +1,28 @@
+0001#STR0001#ALL#Cliente Razon Social     Comprobante          Emision    Vcto            Val Original      Debito         Credito          Saldo
+0002#STR0002#ALL#Este programa tiene como objetivo imprimir el informe
+0003#STR0003#ALL#de acuerdo con los parametr. indicados por el usuar.
+0004#STR0004#ALL#Nombre del Inform
+0005#STR0005#ALL#A Rayas
+0006#STR0006#ALL#Administrac.
+0007#STR0007#ALL#Estado de Compensaciones
+0008#STR0008#ALL#*** ANULADO POR EL OPERADOR ***
+0009#STR0009#ALL# Descuent
+0010#STR0010#ALL# Inter
+0011#STR0011#ALL# Multa
+0012#STR0012#ALL#Prov.   Razon Social         Comprobante          Emision    Vcto             Val Original     Debito         Credito          Saldo
+0013#STR0013#ALL#Totales de Cliente:
+0014#STR0014#ALL#Totales Proveedor:
+0015#STR0015#ALL#Totales: 
+0016#STR0016#ALL#Comp. Cart.
+0017#STR0017#ALL#Est RC
+0018#STR0018#ALL#Cliente
+0019#STR0019#ALL#Razon Social
+0020#STR0020#ALL#Comprobante
+0021#STR0021#ALL#Emision
+0022#STR0022#ALL#Vcto
+0023#STR0023#ALL#Val Original
+0024#STR0024#ALL#Debito
+0025#STR0025#ALL#Credito
+0026#STR0026#ALL#Saldo
+0027#STR0027#ALL#Titulos por cobr.
+0028#STR0028#ALL#Tit. por pagar

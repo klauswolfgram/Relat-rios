@@ -1,0 +1,29 @@
+0001#STR0001#ALL#Este programa emitirá la lista de los bienes que 
+0002#STR0002#ALL#se depreciaron totalmente por %
+0003#STR0003#ALL#Bienes depreciados por %
+0004#STR0004#ALL#Saldos depreciados por bienes
+0005#STR0005#ALL#Código  Descripción
+0006#STR0006#ALL#Código     Ítem Descripc.
+0007#STR0007#ALL#ANULADO POR EL OPERADOR
+0008#STR0008#ALL#TOTALES DE LA TASA:
+0009#STR0009#ALL#TOTALES GENERALES 
+0010#STR0010#ALL#                                  Correc. Acumulada     Depr.Acumulada  Corr.Depr.Acumul     Val Ampliación
+0011#STR0011#ALL#Cód. Base del bien
+0012#STR0012#ALL#Cuenta
+0013#STR0013#ALL#Centro de costo
+0014#STR0014#ALL#Ítem contable
+0015#STR0015#ALL#Clase de valor
+0016#STR0016#ALL#Total
+0017#STR0017#ALL#Cuenta: 
+0018#STR0018#ALL#C.Costo: 
+0019#STR0019#ALL#Ítem: 
+0020#STR0020#ALL#Cl.Valor: 
+0021#STR0021#ALL#Código
+0022#STR0022#ALL#Ítem
+0023#STR0023#ALL#Tipo
+0024#STR0024#ALL#Código sucursal
+0025#STR0025#ALL#Empresa
+0026#STR0026#ALL#Unidad de negocio
+0027#STR0027#ALL#Sucursal
+0028#STR0028#ALL#Por favor, espere...
+0029#STR0029#ALL#Sucursales seleccionadas para el informe

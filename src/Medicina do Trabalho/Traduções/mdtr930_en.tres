@@ -1,0 +1,75 @@
+0001#STR0001#ALL#CIPA registration at DRT
+0002#STR0002#ALL#ATTENTION
+0003#STR0003#ALL#SMTP server not configured.            
+0004#STR0004#ALL#Check parameter (MV_RELSERV).      
+0005#STR0005#ALL#E-mail account not configured.       
+0006#STR0006#ALL#Check parameter (MV_RELACNT).      
+0007#STR0007#ALL#E-mail password not configured.      
+0008#STR0008#ALL#Check parameter (MV_RELPSW).      
+0009#STR0009#ALL#Minute of election
+0010#STR0010#ALL#Minute of CIPA instauration and take-over
+0011#STR0011#ALL#Annual Calendar of Ordinary Meetings
+0012#STR0012#ALL#Name
+0013#STR0013#ALL#For 
+0014#STR0014#ALL#Copy 
+0015#STR0015#ALL#Subject
+0016#STR0016#ALL#S&end  
+0017#STR0017#ALL#Pr&int  
+0018#STR0018#ALL#&Cancel  
+0019#STR0019#ALL#View documents       
+0020#STR0020#ALL#Election minute
+0021#STR0021#ALL#Take-over minute
+0022#STR0022#ALL#Meeting schedule
+0023#STR0023#ALL#Failure authenticating user in e-mail provider        
+0024#STR0024#ALL#Error sending e-mail  
+0025#STR0025#ALL#E-mail sent successfully 
+0026#STR0026#ALL#Error connecting to SMTP Server  
+0027#STR0027#ALL#Attention
+0028#STR0028#ALL#No addressee's e-mail entered.            
+0029#STR0029#ALL#No subject entered. Will you send it now?
+0030#STR0030#ALL#To His/Her Excellency
+0031#STR0031#ALL#Regional Labor Officer
+0032#STR0032#ALL#Subject: CIPA registration
+0033#STR0033#ALL#Mr. Delegate,
+0034#STR0034#ALL#The company 
+0035#STR0035#ALL# with offices at 
+0036#STR0036#ALL#, Telephone 
+0037#STR0037#ALL#, with activity of 
+0038#STR0038#ALL#, with 
+0039#STR0039#ALL# colaborators hereby 
+0040#STR0040#ALL#respectfully, request You the voucher for filing                         
+0041#STR0041#ALL#of documents of the Internal Committee for Prevention of Accidents - CIPA - as per  
+0042#STR0042#ALL#article 163 of CLT and NR5 of Decree n. 3.214 dated 06/08/78 and Decree n. 08 dated 02/23/99.
+0043#STR0043#ALL#For this, we attach the following documents:
+0044#STR0044#ALL#	- Copy of election minute;
+0045#STR0045#ALL#	- Copy of minute of take-over;        
+0046#STR0046#ALL#- Annual Calendar of CIPA Ordinary Meetings.
+0047#STR0047#ALL#Yours faithfully,
+0048#STR0048#ALL#President of the company
+0049#STR0049#ALL#Customer ?
+0050#STR0050#ALL#Unit
+0051#STR0051#ALL#DRT City/State?
+0052#STR0052#ALL#DRT Representative Name?
+0053#STR0053#ALL#DRT E-mail?
+0054#STR0054#ALL#CIPA Term?
+0055#STR0055#ALL#Postal Code 
+0056#STR0056#ALL# CNAE: 
+0057#STR0057#ALL# CNPJ:  
+0058#STR0058#ALL#Feat. Freelances ?
+0059#STR0059#ALL#Determines if considers freelance employees.
+0060#STR0060#ALL#Record of CIPATR in DRT
+0061#STR0061#ALL#Minute of Installation and Investiture of CIPATR
+0062#STR0062#ALL#Subject: CIPATR Record
+0063#STR0063#ALL#of documents of the Internal Commission of Accidents in the Rural Work - CIPATR, in conformity with 
+0064#STR0064#ALL#article 163 of CLT and NR31 of Decree n. 86 dated 03/03/05 and Decree n. 1896 dated 12/09/2013.
+0065#STR0065#ALL#CIPATR Term of Office?
+0066#STR0066#ALL#- Annual Calendar of CIPA Ordinary Meetings.
+0067#STR0067#ALL#Coordinator of company
+0068#STR0068#ALL#Indicate CIPATR Mandate considered for printing report.
+0069#STR0069#ALL#Indicate CIPA Mandate considered for printing report.
+0070#STR0070#ALL#Record of Mining Company CIPA in DRT
+0071#STR0071#ALL#Minutes of Inauguration and Investiture of Mining Company CIPA
+0072#STR0072#ALL#Subject: Mining Company CIPA Record
+0073#STR0073#ALL#of documents of Internal Commission for Prevention of Work Related Accidents - Mining Company CIPA, in accordance
+0074#STR0074#ALL#with article 163 of CLT and NR22 of Decree No. 3,214 of 6/08/78 and changed by Decree No. 2,037 of 12/15/1999.
+0075#STR0075#ALL#- Annual Calendar of ordinary meetings of Mining Company CIPA.

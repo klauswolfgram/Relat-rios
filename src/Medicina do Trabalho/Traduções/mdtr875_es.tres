@@ -1,0 +1,32 @@
+0001#STR0001#ALL#Relacionar los proveedores que presentan EPI, cuyo
+0002#STR0002#ALL#la fecha de renovacion del C.A. esta vencida o por vencer
+0003#STR0003#ALL#en determinado periodo.
+0004#STR0004#ALL#A Rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#Proveedores con certificado de aprobacion por vencer
+0007#STR0007#ALL#Provee.  Nombre Proveedor                          Codigo Epi       Nombre Epi		                  C.A.          Fecha Venc.
+0008#STR0008#ALL#ANULADO POR EL OPERADOR
+0009#STR0009#ALL#Proveedor
+0010#STR0010#ALL#Nombre del Proveed
+0011#STR0011#ALL#Codigo EPI
+0012#STR0012#ALL#Nomb EPI
+0013#STR0013#ALL#C.A.
+0014#STR0014#ALL#Fch. Venc.
+0015#STR0015#ALL#¿De Cliente?
+0016#STR0016#ALL#Tda.
+0017#STR0017#ALL#¿A Cliente ?
+0018#STR0018#ALL#Cliente
+0019#STR0019#ALL#Nomb
+0020#STR0020#ALL#Cliente: 
+0021#STR0021#ALL#¿A Fecha Venc. ?
+0022#STR0022#ALL#¿A Proveedor?
+0023#STR0023#ALL#¿De Proveedor?
+0024#STR0024#ALL#¿Ordernar EPI?
+0025#STR0025#ALL#Informe como desea ordenar los Epis listados en el informe.
+0026#STR0026#ALL#¿De Sucursal?
+0027#STR0027#ALL#¿A Sucursal?
+0028#STR0028#ALL#Atencion
+0029#STR0029#ALL#Codigo
+0030#STR0030#ALL#Nombre
+0031#STR0031#ALL#Sucursal
+0032#STR0032#ALL#No existen datos para elaborar el informe.

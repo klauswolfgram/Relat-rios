@@ -1,0 +1,38 @@
+0001#STR0001#ALL#Este iforfme imprimira las as curvas ABC del presupuesto conforme los parametros solicitados
+0002#STR0002#ALL#Curvas ABC de los presupuestos
+0003#STR0003#ALL#PRESUPUESTO+PRODUCTO+GASTO
+0004#STR0004#ALL#TAREA+PRODUCTO+GASTO
+0005#STR0005#ALL#TAREA
+0006#STR0006#ALL#COMPOSICION
+0007#STR0007#ALL#SUBCOMPOSICION
+0008#STR0008#ALL#A rayas
+0009#STR0009#ALL#Administracion
+0010#STR0010#ALL#CODIGO Y DESCRIPCION                                          UM       CANTIDAD   VALOR UNITARIO VALOR    TOTAL PORCIENTO %ACUMULADO
+0011#STR0011#ALL#Tp.      Codigo                  Descricao                       UM       Cantidad                 Valor         %Proy.     %Acum.
+0012#STR0012#ALL#Curva ABC de lo Recursos de los presupuestos
+0013#STR0013#ALL#Tarea        Descripcion          Tp. Codigo           Descripcion          UM      Cantidad             Valor      %Proy.  %Acum.
+0014#STR0014#ALL#Tarea          Descripcion                                                    UM    Cantidad             Costo      %Proy.  %Acum.
+0015#STR0015#ALL#Curva ABC de las Tareas de los presupuestos
+0016#STR0016#ALL#Composicion    Descripcion                                                    UM      Cantidad           Costo      %Proy.  %Acum.
+0017#STR0017#ALL#Curva ABC de las Composiciones de los presupuestos
+0018#STR0018#ALL#Subcompos.    Descripcion                                                    UM                          Costo      %Proy.  %Acum.
+0019#STR0019#ALL#Curva ABC de las Subcomposiciones de los presupuestos
+0020#STR0020#ALL#Presup. 
+0021#STR0021#ALL#Total.....
+0022#STR0022#ALL#OTROS
+0023#STR0023#ALL#Codigo de la Tarea                Tp. Codigo           Descripcion          UM      Cantidad             Valor      %Proy.  %Acum.
+0024#STR0024#ALL#Descripcion de la Tarea           Tp. Codigo           Descripcion          UM      Cantidad             Valor      %Proy.  %Acum.
+0025#STR0025#ALL#Codigo de la Tarea                                                            UM    Cantidad             Costo      %Proy.  %Acum.
+0026#STR0026#ALL#Descripcion de la Tarea                                                       UM    Cantidad             Costo      %Proy.  %Acum.
+0027#STR0027#ALL#Orden
+0028#STR0028#ALL#Tipo
+0029#STR0029#ALL#Valor
+0030#STR0030#ALL#Proy.
+0031#STR0031#ALL#Acum.
+0032#STR0032#ALL#Presup. + Producto + Gasto
+0033#STR0033#ALL#Tarea + Producto + Gasto
+0034#STR0034#ALL#Tarea
+0035#STR0035#ALL#Composic. 
+0036#STR0036#ALL#Subcomposicion
+0037#STR0037#ALL#Orden:
+0038#STR0038#ALL#*** ANULADO POR EL USUARIO ***

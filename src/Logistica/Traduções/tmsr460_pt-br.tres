@@ -1,0 +1,41 @@
+0001#STR0001#ALL#Resumo de Frete
+0002#STR0002#ALL#Emite o resumo de Frete
+0003#STR0003#ALL#conforme os parametros informados
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#CANCELADO PELO OPERADOR
+0007#STR0007#ALL#                   -------------------- P E S O ---------------------   ------------------- F R E T E  P A G O -------------------------------  ------------------------ F R E T E  A  P A G A R ------------------------
+0008#STR0008#ALL#Fil.Ori.  Transp.         Pago          A Pagar            Total           Frete     Pedagio    Imposto   ICMS Ret.   ICMS Dif.        Total           Frete      Pedagio    Imposto    ICMS Ret.  ICMS Dif.        Total
+0009#STR0009#ALL#Filial Destino: 
+0010#STR0010#ALL#Tot Dest
+0011#STR0011#ALL#Filial Origem: 
+0012#STR0012#ALL#Tot Orig
+0013#STR0013#ALL#Expedido
+0014#STR0014#ALL#Recebido
+0015#STR0015#ALL#Geral
+0016#STR0016#ALL#Fil.Dest. Transp.         Pago          A Pagar            Total           Frete     Pedagio    Imposto   ICMS Ret.   ICMS Dif.        Total           Frete      Pedagio    Imposto    ICMS Ret.  ICMS Dif.        Total
+0017#STR0017#ALL#Código do Componente de Pedágio
+0018#STR0018#ALL#Resumo de Frete
+0019#STR0019#ALL#Emite o resumo de Frete conforme os parametros informados
+0020#STR0020#ALL#Filial
+0021#STR0021#ALL#Fil.Ori.
+0022#STR0022#ALL#Descrição
+0023#STR0023#ALL#UF
+0024#STR0024#ALL#Sigla
+0025#STR0025#ALL#Transp.
+0026#STR0026#ALL#Peso Pago
+0027#STR0027#ALL#Peso A Pagar
+0028#STR0028#ALL#Total
+0029#STR0029#ALL#Frt. Pago
+0030#STR0030#ALL#Pedágio
+0031#STR0031#ALL#Imposto
+0032#STR0032#ALL#Frt. A Pagar
+0033#STR0033#ALL#Filial Destino
+0034#STR0034#ALL#ICMS Ret.
+0035#STR0035#ALL#ICMS Dif.
+0036#STR0036#ALL#Total Origem
+0037#STR0037#ALL#Total Destino
+0038#STR0038#ALL#Fil.Des.
+0039#STR0039#ALL#Expedido
+0040#STR0040#ALL#Recebido
+0041#STR0041#ALL#Itens

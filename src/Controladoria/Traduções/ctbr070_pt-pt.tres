@@ -1,0 +1,106 @@
+0001#STR0001#ALL#Este Programa Irá Imprimir A Listagem Para Conferência
+0002#STR0002#ALL#de Escrita - modelo 1: ideal para planos de contas 
+0003#STR0003#ALL#Que possuam códigos não muito extensos.
+0004#STR0004#ALL#Conferência de escrita - modelo 1
+0005#STR0005#ALL#Código de barras
+0006#STR0006#ALL#Administração
+0007#STR0007#ALL#Li Tp Conta Débito           Conta Crédito
+0007#STR0007#ANG#LI TP CTA DÉBITO           CTA CRÉDITO
+0007#STR0007#EQU#LI TP CTA DÉBITO           CTA CRÉDITO
+0007#STR0007#HAI#LI TP CTA DÉBITO           CTA CRÉDITO
+0007#STR0007#MEX#Li Tp Conta Débito           Conta Crédito
+0007#STR0007#PTG#Li Tp Conta Débito           Conta Crédito
+0008#STR0008#ALL#Li tp conta                
+0009#STR0009#ALL#***** cancelado pelo operador *****
+0010#STR0010#ALL#Cartão Débito
+0010#STR0010#ANG# DÉBITO
+0010#STR0010#EQU# DÉBITO
+0010#STR0010#HAI# DÉBITO
+0010#STR0010#MEX#Cartão Débito
+0010#STR0010#PTG# Débito
+0011#STR0011#ALL# Crédito
+0011#STR0011#ANG# CRÉDITO
+0011#STR0011#EQU# CRÉDITO
+0011#STR0011#HAI# CRÉDITO
+0011#STR0011#MEX#Não é possivel gerar uma Nota de Crédito com o valor restante
+0011#STR0011#PTG# Crédito
+0012#STR0012#ALL#Data: 
+0013#STR0013#ALL#Lote: 
+0014#STR0014#ALL#Doc: 
+0015#STR0015#ALL#Valor Déb           Valor Créd  Hp Hist
+0015#STR0015#ANG#VALOR DÉB            VALOR CRÉD     HP  HIST
+0015#STR0015#EQU#VALOR DÉB            VALOR CRÉD     HP  HIST
+0015#STR0015#HAI#VALOR DÉB            VALOR CRÉD     HP  HIST
+0015#STR0015#MEX#Valor Déb            Valor Créd     Hp  Hist
+0015#STR0015#PTG#Valor Déb            Valor Créd     Hp  Hist
+0016#STR0016#ALL#        Valor Déb        Valor Créd  Hp Hist
+0016#STR0016#ANG#        VALOR DÉB        VALOR CRÉD  HP HIST
+0016#STR0016#EQU#        VALOR DÉB        VALOR CRÉD  HP HIST
+0016#STR0016#HAI#        VALOR DÉB        VALOR CRÉD  HP HIST
+0016#STR0016#MEX#        Valor Déb        Valor Créd  Hp Hist
+0016#STR0016#PTG#        Valor Déb        Valor Créd  Hp Hist
+0017#STR0017#ALL#Sub-lote:
+0018#STR0018#ALL#Total Do Documento
+0019#STR0019#ALL#Total Crial
+0020#STR0020#ALL#Total Do Lote
+0022#STR0022#ALL# - Resumo Diário / Documento
+0023#STR0023#ALL#Dif A Débito
+0023#STR0023#ANG#DIF A DÉBITO
+0023#STR0023#EQU#DIF A DÉBITO
+0023#STR0023#HAI#DIF A DÉBITO
+0023#STR0023#MEX#Dif A Débito
+0023#STR0023#PTG#Dif A Débito
+0024#STR0024#ALL#Dif A Crédito
+0024#STR0024#ANG#DIF A CRÉDITO
+0024#STR0024#EQU#DIF A CRÉDITO
+0024#STR0024#HAI#DIF A CRÉDITO
+0024#STR0024#MEX#Dif A Crédito
+0024#STR0024#PTG#Dif A Crédito
+0025#STR0025#ALL#Introduzido
+0026#STR0026#ALL#Digitado 
+0027#STR0027#ALL#Diferença
+0028#STR0028#ALL#Digitado 
+0029#STR0029#ALL#Correlativo: 
+0031#STR0031#ALL#Data          lote      sublote    documento                            valor a débito      valor a crédito                                                                               
+0031#STR0031#ANG#DATA          LOTE      SUBLOTE    DOCUMENTO                            VALOR A DÉBITO      VALOR A CRÉDITO                                                                               
+0031#STR0031#ARG#DATA         LOTE SUBLOTE DOC           VALOR A DÉBITO      VALOR A CRÉDITO      HISTÓRICO                                                                             
+0031#STR0031#EQU#DATA          LOTE      SUBLOTE    DOCUMENTO                            VALOR A DÉBITO      VALOR A CRÉDITO                                                                               
+0031#STR0031#HAI#DATA          LOTE      SUBLOTE    DOCUMENTO                            VALOR A DÉBITO      VALOR A CRÉDITO                                                                               
+0031#STR0031#MEX#Data          lote      sublote    documento                            valor a débito      valor a crédito                                                                               
+0031#STR0031#PTG#Data          lote      sublote    documento                            valor a débito      valor a crédito                                                                               
+0034#STR0034#ALL#Lançamentos Contabilísticos
+0036#STR0036#ALL#Data
+0037#STR0037#ALL#Lote
+0038#STR0038#ALL#Sublote
+0039#STR0039#ALL#Documento
+0040#STR0040#ALL#Total
+0041#STR0041#ALL#Introduzido
+0042#STR0042#ALL#Valor A Débito
+0042#STR0042#ANG#VALOR A DÉBITO
+0042#STR0042#EQU#VALOR A DÉBITO
+0042#STR0042#HAI#VALOR A DÉBITO
+0042#STR0042#MEX#Valor A Débito
+0042#STR0042#PTG#Valor A Débito
+0043#STR0043#ALL#Valor A Crédito
+0043#STR0043#ANG#VALOR A CRÉDITO
+0043#STR0043#EQU#VALOR A CRÉDITO
+0043#STR0043#HAI#VALOR A CRÉDITO
+0043#STR0043#MEX#Valor A Crédito
+0043#STR0043#PTG#Valor A Crédito
+0044#STR0044#ALL#Diferença
+0045#STR0045#ALL#Introduzido
+0046#STR0046#ALL#Diferença Inf./dig.
+0047#STR0047#ALL#Li
+0048#STR0048#ALL#Tp.
+0049#STR0049#ALL#Conta
+0050#STR0050#ALL#Valor
+0051#STR0051#ALL#Hp
+0052#STR0052#ALL#Hist
+0053#STR0053#ALL#Atenção
+0054#STR0054#ALL#A impressão do relatório será alterada para horizontal ! 
+0055#STR0055#ALL#Alterar a impressão do relatório para vertical?
+0057#STR0057#ALL#Não
+0059#STR0059#ALL#CONTA DÉBITO
+0059#STR0059#MEX#CONTA DÉBITO
+0060#STR0060#ALL#CONTA CRÉDITO
+0060#STR0060#MEX#CONTA CRÉDITO

@@ -1,0 +1,49 @@
+0001#STR0001#ALL#Este programa imprimirá el estado contable de clientes 
+0002#STR0002#ALL#o proveedores. Puede emitirse todo el movimiento de los 
+0003#STR0003#ALL#mismos, o solamente los valores originales. 
+0004#STR0004#ALL#Deudas vencidas y por vencer de clientes
+0005#STR0005#ALL#
+0006#STR0006#ALL#Administración
+0007#STR0007#ALL#Deudas vencidas y por vencer de clientes
+0008#STR0008#ALL#DE CLIENTES
+0009#STR0009#ALL#De proveedores
+0010#STR0010#ALL#Seleccionando registros...
+0011#STR0011#ALL#Seleccionando registros...
+0012#STR0012#ALL#Por la emisión del título
+0013#STR0013#ALL#Ce EMIS FACT 
+0014#STR0014#ALL#***** Anulado por el operador *****
+0015#STR0015#ALL#POR TRANSPORTAR : 
+0016#STR0016#ALL#SALDO ANTERIOR : 
+0017#STR0017#ALL#T o t a l e s  d e l  
+0018#STR0018#ALL#C l i e n t e
+0019#STR0019#ALL#P r o v e e d o r
+0020#STR0020#ALL#Total general de 
+0021#STR0021#ALL#Clientes  --->
+0022#STR0022#ALL#Proveedores   --->
+0023#STR0023#ALL#S a l d o   f i n a l   d e l   i n f o r m e : 
+0024#STR0024#ALL#Ref. a la baja del título
+0025#STR0025#ALL#Descuento sobre el título
+0026#STR0026#ALL#Multa/Intereses sobre el título
+0027#STR0027#ALL#Corr. Monetaria sobre el título
+0028#STR0028#ALL#DE TRANSPORTE : 
+0029#STR0029#ALL#POR EMISIÓN FACTURA
+0030#STR0030#ALL#Fórmula                                 ANT.       180         150         120          90          60          30         Fecha        30          60          90         120         150         180          SPOS  
+0031#STR0031#ALL#Cliente/Comprobante                    A            Al          Al          Al          Al          Al          Al        Sistema       Al          Al          Al          Al          Al          Al         A    
+0032#STR0032#ALL#Fecha    Tipo Serie Número   Cuotas
+0033#STR0033#ALL# De Cliente: 
+0034#STR0034#ALL# A Cliente: 
+0035#STR0035#ALL# De Emisión: 
+0036#STR0036#ALL#  A: 
+0037#STR0037#ALL#Analítico
+0038#STR0038#ALL#Resumen
+0039#STR0039#ALL#Actual
+0040#STR0040#ALL#Historial
+0041#STR0041#ALL#Seleccionando registros...
+0042#STR0042#ALL#Preparando transitorio...
+0043#STR0043#ALL#Total Cliente: 
+0044#STR0044#ALL#T o t a l   g e n e r a l 
+0045#STR0045#ALL#Cliente : 
+0046#STR0046#ALL#. Dirección : 
+0047#STR0047#ALL#VENDEDOR: 
+0048#STR0048#ALL#TEL: 
+0049#STR0049#ALL#Procesando cliente 

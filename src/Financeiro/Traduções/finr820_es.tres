@@ -1,0 +1,32 @@
+0001#STR0001#ALL#El objetivo de este progr es imprimir el vlr actualizado de las
+0002#STR0002#ALL#inversiones financieras segun los parametros solicitados.
+0003#STR0003#ALL#Demostracion de Inversiones
+0004#STR0005#ALL#A rayas
+0005#STR0006#ALL#Administrac.
+0006#STR0007#ALL#ANULADO POR EL OPERADOR
+0007#STR0008#ALL#                                                Datos de la Inversion                                                                          Valores
+0008#STR0009#ALL#Numero    Institucion          Mod Fch Inv    Fch Resc         Principal Cuota Util Inv     Cuota Actual  Rend. Bruto       Porc. Tasa IOF    Valor IOF   Tasa IR        Valor IR     Rescate Neto
+0009#STR0010#ALL#Total Gral.
+0010#STR0011#ALL#Digite valores de cuotas diarias
+0011#STR0012#ALL#Contrato
+0012#STR0013#ALL#Banco
+0013#STR0014#ALL#Agencia
+0014#STR0015#ALL#Saldo
+0015#STR0016#ALL#Vlr Cta Actual
+0016#STR0017#ALL#Vlr Cuota dia
+0017#STR0018#ALL#Cta Util Inv
+0018#STR0019#ALL#Cta actual
+0019#STR0020#ALL#Rendim. Bruto
+0020#STR0021#ALL#Porc.
+0021#STR0022#ALL#Tasa de IOF
+0022#STR0023#ALL#Valor de IOF
+0023#STR0024#ALL#Rescate neto
+0024#STR0025#ALL#Datos de invers. 
+0025#STR0026#ALL#Sucursal: 
+0026#STR0027#ALL#Codigo
+0027#STR0028#ALL#Empresa
+0028#STR0029#ALL#Unidad de negocio
+0029#STR0030#ALL#Sucursal
+0030#STR0031#ALL#Sucursales seleccionadas para el informe
+0031#STR0032#ALL#Sucursal: 
+0032#STR0033#ALL#Total sucursal: 

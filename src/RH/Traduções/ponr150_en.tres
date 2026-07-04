@@ -1,0 +1,14 @@
+0001#STR0001#BRA#Report of Not Issued Mirror
+0002#STR0002#BRA#This program prints Report of Not Issued Attendance
+0003#STR0003#BRA#Branch + Department + Employee
+0004#STR0004#BRA#Branch + Responsible + Department + Employee
+0005#STR0005#BRA#Branch + Cost Center + Employee
+0006#STR0006#BRA#Responsible Party Name
+0007#STR0007#BRA#Department Total
+0008#STR0008#BRA#Responsible Party Total
+0009#STR0009#BRA#Cost Center Total
+0010#STR0010#BRA#Branch Total
+0011#STR0011#BRA#Total Business Unit
+0012#STR0012#BRA#Company Total
+0013#STR0013#BRA#Responsible Query
+0014#STR0014#BRA#Note

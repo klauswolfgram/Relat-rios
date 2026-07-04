@@ -1,0 +1,23 @@
+0001#STR0001#ALL#Service BackLog
+0002#STR0002#ALL#This program will issue a list of calls allocated by teams.
+0003#STR0003#ALL#The issue will occur based on report parameters
+0004#STR0004#ALL#Teams
+0005#STR0005#ALL#Calls
+0006#STR0006#ALL#Total Synthetic Analysis
+0007#STR0007#ALL#Customer
+0008#STR0008#ALL#Description
+0009#STR0009#ALL#Team that transferred
+0010#STR0010#ALL#Transference Dt
+0011#STR0011#ALL#Analyst
+0012#STR0012#ALL#Last Interaction
+0013#STR0013#ALL#Term without service
+0014#STR0014#ALL#Total of calls 
+0015#STR0015#ALL#Team
+0016#STR0016#ALL#Name
+0017#STR0017#ALL#Amt.of open calls
+0018#STR0018#ALL#Amt.of interactions
+0019#STR0019#ALL#% Customer
+0020#STR0020#ALL#% Analyst
+0021#STR0021#ALL#Results by teams
+0022#STR0022#ALL#Resp. Entity
+0023#STR0023#ALL#Resp. Contact

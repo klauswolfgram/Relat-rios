@@ -1,0 +1,46 @@
+0001#STR0001#ALL#Report of medical diagnosis statistics.
+0002#STR0002#ALL#Z-Form
+0003#STR0003#ALL#Administration
+0004#STR0004#ALL#Medical Diagnosis Statistics
+0005#STR0005#ALL#From Customer?
+0006#STR0006#ALL#Unit?
+0007#STR0007#ALL#To Customer?
+0008#STR0008#ALL#From Appointment Date?
+0009#STR0009#ALL#To Appointment Date?
+0010#STR0010#ALL#Statistic Variable                                                         Diagnosis        Aver.(%)     Women        Men   
+0011#STR0011#ALL#No information to print in the report.
+0012#STR0012#ALL#Customer/Unit:  
+0013#STR0013#ALL#Total diagnosis during the period of 
+0014#STR0014#ALL#Weight
+0015#STR0015#ALL#Severe thinness
+0016#STR0016#ALL#Moderate thinness
+0017#STR0017#ALL#Slight thinness
+0018#STR0018#ALL#Healthy weight
+0019#STR0019#ALL#Pre-obesity
+0020#STR0020#ALL#Level 1 obesity
+0021#STR0021#ALL#Level 2 obesity
+0022#STR0022#ALL#Level 3 obesity
+0023#STR0023#ALL#Blood Pressure
+0024#STR0024#ALL#Normal Blood Pressure
+0025#STR0025#ALL#Adjacent Normal Blood Pressure
+0026#STR0026#ALL#Slight hypertension(level 1)
+0027#STR0027#ALL#Moderate hypertension (level 2)
+0028#STR0028#ALL#Severe hypertension (level 3)
+0029#STR0029#ALL#Deep hypertension (level 4)
+0030#STR0030#ALL#Isolated systolic hypertension
+0031#STR0031#ALL#Temperature
+0032#STR0032#ALL#Temperatures lower than 36ºC
+0033#STR0033#ALL#Temperatures higher than 36ºC
+0034#STR0034#ALL#Attendances performed
+0035#STR0035#ALL#Clinical Attendance
+0036#STR0036#ALL#Labor Disease
+0037#STR0037#ALL#Typical Accident
+0038#STR0038#ALL#Accident During Transfer
+0039#STR0039#ALL#Other Attendances
+0040#STR0040#ALL#Evaluation No.7
+0041#STR0041#ALL#Accidents
+0042#STR0042#ALL#Leaves
+0043#STR0043#ALL#Number of diagnoses which report leaves:
+0044#STR0044#ALL#Greater period of leave: 
+0045#STR0045#ALL# to 
+0046#STR0046#ALL#Selecting Records...

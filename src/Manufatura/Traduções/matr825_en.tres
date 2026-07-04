@@ -1,0 +1,25 @@
+0001#STR0001#ALL#Report of Unproductive / Productive Hours
+0002#STR0002#ALL#Report of Unproductive / Produtive Hours Registrated, according
+0003#STR0003#ALL#to the order selected by the user.
+0004#STR0004#ALL#By PO
+0005#STR0005#ALL#By Resource
+0006#STR0006#ALL#By Reason 
+0007#STR0007#ALL#By Date
+0008#STR0008#ALL#By Operator
+0009#STR0009#ALL#Z.Form
+0010#STR0010#ALL#Management
+0011#STR0011#ALL#RECORD(S)
+0012#STR0012#ALL#from OP:
+0013#STR0013#ALL#fr.Resource
+0014#STR0014#ALL#from reason
+0015#STR0015#ALL#from date
+0016#STR0016#ALL#from Operator
+0017#STR0017#ALL#Selecting Records...
+0018#STR0018#ALL#TYPE PRODUCTION  NUMBER   RESOURCE                                  TOOL                          MOTIVE                                 DATE OF     OPERATOR      INITIAL   FINAL   INITIAL  FIN.
+0019#STR0019#ALL#     ORDER       OF HOURS                                                                                                                REGISTRATION                 DATE    DATE      TIME  TIME
+0020#STR0020#ALL#Total 
+0021#STR0021#ALL#Productive Hours - 
+0022#STR0022#ALL#Unproductive Hours - 
+0023#STR0023#ALL#Reason which generate improduct.hours
+0024#STR0024#ALL#Reason
+0025#STR0025#ALL#PCP production annotation  

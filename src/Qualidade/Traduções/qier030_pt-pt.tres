@@ -1,0 +1,45 @@
+0001#STR0001#ALL#  ELEM. CONFIGURAÇÃO
+0005#STR0005#ALL#Instruções de Digitação
+0006#STR0006#ALL#Texto Análise Interna
+0008#STR0008#ALL#Títulos dos Campos do Relatório
+0009#STR0009#ALL#Notificação da Não-conformidade
+0010#STR0010#ALL#Texto em Português
+0011#STR0011#ALL#Texto em Inglês
+0013#STR0013#ALL#Primeira Via:
+0014#STR0014#ALL#Relatório:
+0015#STR0015#ALL#Segunda Via:
+0016#STR0016#ALL#Terceira Via:
+0017#STR0017#ALL#Quarta Via:
+0018#STR0018#ALL#Quinta via:
+0021#STR0021#ALL#Valor actual português:
+0022#STR0022#ALL#Novo valor português:
+0023#STR0023#ALL#Valor actual inglês :
+0024#STR0024#ALL#Novo valor inglês:
+0025#STR0025#ALL#Valor actual espanhol:
+0026#STR0026#ALL#Novo valor espanhol:
+0027#STR0027#ALL#Notificação Não-conformidade
+0029#STR0029#ALL#a. via:
+0031#STR0031#ALL#Não-conformidade(s) encontrada(s)
+0032#STR0032#ALL#Nº.
+0034#STR0034#ALL#Factor Criticidade
+0035#STR0035#ALL#Reincidência
+0036#STR0036#ALL#( Continuação dos resultados encontrados )
+0039#STR0039#ALL#Não
+0040#STR0040#ALL#Garantia de Qualidade      /    /    
+0042#STR0042#ALL#O valor do campo foi alterado. Actualizar o campo para este novo valor?
+0043#STR0043#ALL#É necessário informar tanto o reletório como a via.
+0044#STR0044#ALL#Informe um Relatório Válido
+0045#STR0045#ALL#Neste relatório será impresso a Notificação de Não-Conformidade.
+0046#STR0046#ALL#Entrada sem Relatório
+0047#STR0047#ALL#Nao foi possível encontrar a via e/ou o relatório para este idioma, o que impossibilita a emissão do relatório. Verifique se a via, neste idioma, está corretamente informada.
+0048#STR0048#ALL#Nao foi possível encontrar a via e/ou o relatório para este idioma, o que impossibilita a emissão do relatório. Verifique pelo menu 'Relatórios', se a via, neste idioma está corretamente informada.
+0051#STR0051#ALL#Crónica
+0056#STR0056#ALL#Não-Conf.
+0057#STR0057#ALL#Relatório
+0058#STR0058#ALL#Factura
+0059#STR0059#ALL#Série
+0060#STR0060#ALL#Elemento
+0063#STR0063#ALL#Justif. do Relatório
+0065#STR0065#ALL#Crónica
+0066#STR0066#ALL#Medições
+0068#STR0068#ALL#N.Sequenc.

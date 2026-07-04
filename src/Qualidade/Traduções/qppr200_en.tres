@@ -1,0 +1,46 @@
+0001#STR0001#ALL#Performance Test Results
+0002#STR0002#ALL#Generating view. Please, wait...
+0003#STR0003#ALL#      Production Part Approval
+0004#STR0005#ALL#PPAP No.
+0005#STR0006#ALL#Page :
+0006#STR0007#ALL#Vendor
+0007#STR0008#ALL#Part Number (Customer)
+0008#STR0009#ALL#Design Revision/Date
+0009#STR0010#ALL#Laboratory
+0010#STR0011#ALL#Part Number/Rev. (Vendor)
+0011#STR0012#ALL#Part Name
+0012#STR0013#ALL#Car.Nr.
+0013#STR0014#ALL#Ref.No.
+0014#STR0015#ALL#Requirements
+0015#STR0016#ALL#Freq
+0016#STR0017#ALL#Test
+0017#STR0018#ALL#Qtty.
+0018#STR0019#ALL#Test
+0019#STR0020#ALL#Test Results
+0020#STR0021#ALL#OK
+0021#STR0022#ALL#No
+0022#STR0023#ALL#Supplier Signature
+0023#STR0024#ALL#Date
+0024#STR0025#ALL#Customer
+0025#STR0026#ALL#Customer Signature
+0026#STR0027#ALL#Sequence : 
+0027#STR0028#ALL#Print Feature Description?           
+0028#STR0029#ALL#Confirm 
+0029#STR0030#ALL#Feature Description
+0030#STR0031#ALL#Sales Rep.Code
+0031#STR0032#ALL#Project Modification Level
+0032#STR0033#ALL#High
+0033#STR0034#ALL#Medium
+0034#STR0035#ALL#Low  
+0035#STR0036#ALL#Documents Modified by Engineering
+0036#STR0037#ALL#Design Date 
+0037#STR0038#ALL#Specification
+0038#STR0039#ALL#    Limits   
+0039#STR0040#ALL#Test Conditions
+0040#STR0041#ALL#Blank conformance declarations are not accepted for any test result.
+0041#STR0042#ALL#Limit
+0042#STR0043#ALL#Signature
+0043#STR0044#ALL#Function
+0044#STR0045#ALL#Test
+0045#STR0046#ALL#Attention
+0046#STR0047#ALL#No data to print. Please, check the parameters.          

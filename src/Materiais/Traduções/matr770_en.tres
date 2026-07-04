@@ -1,0 +1,26 @@
+0001#STR0001#ALL#Report on Sales Return     
+0002#STR0002#ALL#This report will print a list of items 
+0003#STR0003#ALL#refering to the sales return.
+0004#STR0004#ALL#Z.Form 
+0005#STR0005#ALL#Management   
+0006#STR0006#ALL#INVOICE      PRODUCT         DESCRIPTION                    QUANTITY UM    UNIT PRICE  IPI            VALUE ICM CUSTOMER CODE/CORPORATE NAME                  TP TI  TYPE GROUP DT.TYPING             COST INV ORIG SERIE
+0007#STR0007#ALL#Selecting Records...      
+0008#STR0008#ALL#CANCELLED BY THE OPERATOR  
+0009#STR0009#ALL#TOTAL DISCOUNTS --> 
+0010#STR0010#ALL#TOTAL INVOICE   --> 
+0011#STR0011#ALL#Trade Notes of Outflow Invoices 
+0012#STR0012#ALL#No bills generated at outflow 
+0013#STR0013#ALL#Prx Number               Install. Mat.Date         Balance
+0014#STR0014#ALL#List of sales returns           
+0015#STR0015#ALL#This report will print the list of items      
+0016#STR0016#ALL#relating to sales returns.         
+0017#STR0017#ALL#DISCOUNT TOTAL  --> 
+0018#STR0018#ALL#INVOICE TOTAL     --> 
+0019#STR0019#ALL#Outflow Invoice Duplicates
+0020#STR0020#ALL#No bills generated on outflow     
+0021#STR0021#ALL#Return invoices   
+0022#STR0022#ALL#Bills  
+0023#STR0023#ALL#GRAND TOTAL       --> 
+0024#STR0024#ALL#INV.                 PRODUCT         DESCRIPT.                  QUANTITY     UM    UNIT PRICE  IPI            VALUE CODE  /CUSTOMER COMPANY NAME      TP TE  TYPE GROUP ENTERING DT.          COST  INV ORG.          SERIES
+0025#STR0025#ALL#IPI
+0026#STR0026#ALL#ICMS

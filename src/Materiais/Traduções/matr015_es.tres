@@ -1,0 +1,25 @@
+0001#STR0001#ALL#Detalle de Fact.Originales vs. Fact.Flete/Importacion
+0002#STR0002#ALL#Este informe imprimira el detalle de las Facturas de
+0003#STR0003#ALL#Flete o Importacion y sus Facturas de origen.
+0004#STR0004#ALL#originaram as mesmas.
+0005#STR0005#ALL#Por Fact.Flete/Importacion
+0006#STR0006#ALL#Por Fact. Original
+0007#STR0007#ALL#A Rayas
+0008#STR0008#ALL#Administracion
+0009#STR0009#ALL#FAC ORIGINAL     SERIE FACT   FECHA EMISION
+0010#STR0010#ALL#                 ORIGINAL
+0011#STR0011#ALL#FAC FLETE/       SERIE FACT   FECHA EMISION       TIPO
+0012#STR0012#ALL#IMPORTACION
+0013#STR0013#ALL#Seleccionando registros...
+0014#STR0014#ALL#ANULADO POR EL OPERADOR
+0015#STR0015#ALL#Fact:
+0016#STR0016#ALL#Serie:
+0017#STR0017#ALL#Proveedor: 
+0018#STR0018#ALL#Tienda:
+0019#STR0019#ALL#Tipo:
+0020#STR0020#ALL#Flete
+0021#STR0021#ALL#Gasto Import.
+0022#STR0022#ALL#Documento de Flete (Orden Por Flete)
+0023#STR0023#ALL#Documento de Entrada Original (Orden Por Flete)
+0024#STR0024#ALL#Doc. de Entrada Original (Orden Por Fact. Original)
+0025#STR0025#ALL#Doc. de Flete (Orden Por Fact. Original)

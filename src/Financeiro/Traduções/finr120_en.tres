@@ -1,0 +1,44 @@
+0001#STR0001#ALL#Z.Form
+0002#STR0002#ALL#Management
+0003#STR0003#ALL#By Date
+0004#STR0004#ALL#By Value
+0005#STR0005#ALL#By Bank
+0006#STR0006#ALL#By Nature
+0007#STR0007#ALL#Daily Cash Activities, in Detailed or Summarized form. 
+0008#STR0008#ALL#Please enter the values paid and/or received
+0009#STR0009#ALL#in the defined interval
+0010#STR0010#ALL#Cashier daily movements  
+0011#STR0011#ALL#Date       Cash      Class      Bank  Branch  Acct.                  Check           Document           Due date    Beneficiary                  History                        Payments        Collections 
+0012#STR0012#ALL#Detailed
+0013#STR0013#ALL#Summarized
+0014#STR0014#ALL#Selecting Records...
+0015#STR0015#ALL#CANCELLED BY THE OPERATOR
+0016#STR0016#ALL#Total -
+0017#STR0017#ALL#Grand Total :
+0018#STR0018#ALL#BANK NOT DEFINED ( 
+0019#STR0019#ALL#CLASS NOT DEFINED ( 
+0020#STR0020#ALL#Opening Balances :
+0021#STR0021#ALL#Date       Cash      Class      Bank  Branch  Acct.                 Check           Document              PO/Rec   Due date    Beneficiary            History                  Payments        Collections 
+0022#STR0022#ALL#Date       Cash      Class      Bank  Branch  Acct.                 Check           Document              PO/Plan  Due date    Beneficiary           History                  Payments        Collections 
+0023#STR0023#ALL#Date
+0024#STR0024#ALL#Bank 
+0025#STR0025#ALL#Branch 
+0026#STR0026#ALL#Acct.
+0027#STR0027#ALL#Blnce
+0028#STR0028#ALL#Order
+0029#STR0029#ALL#Movements 
+0030#STR0030#ALL#Cash     
+0031#STR0031#ALL#Class   
+0032#STR0032#ALL#Check 
+0033#STR0033#ALL#Document 
+0034#STR0034#ALL#OP/Rec
+0035#STR0035#ALL#OP/Plan
+0036#STR0036#ALL#Due date  
+0037#STR0037#ALL#Beneficiary 
+0038#STR0038#ALL#History  
+0039#STR0039#ALL#Payments (A) 
+0040#STR0040#ALL#Collections (B)
+0041#STR0041#ALL#B - A
+0042#STR0042#ALL#Total
+0043#STR0043#ALL#on 
+0044#STR0044#ALL#Ccy. 

@@ -1,0 +1,62 @@
+0001#STR0001#BRA#Lista de Valores por Recaudar IRRF - Conductores Agregados
+0002#STR0002#BRA#Emite el Listado de Recaudacion de IRRF - Conductores Agregados
+0003#STR0003#BRA#A rayas
+0004#STR0004#BRA#Administrac. 
+0005#STR0005#BRA# - Contable, Reservas, liquidaciones, pagos o cobros        
+0006#STR0006#BRA#calculo.                               
+0007#STR0007#BRA#¿De Periodo       ?
+0008#STR0008#BRA#Informar el periodo final para esta     
+0009#STR0009#BRA#calculo .                               
+0010#STR0010#BRA#Periodo A       ?
+0011#STR0011#BRA#Informar el tipo de calculo deseado.   
+0012#STR0012#BRA#Importante resaltar que esta opcion debe
+0013#STR0013#BRA#estar relacionada con las preguntas     
+0014#STR0014#BRA#Periodo de/A de la siguiente forma:     
+0015#STR0015#BRA#-Cuando el tipo de calculo sea Diez dias,
+0016#STR0016#BRA#el periodo no debe ser inferior a 10 dias
+0017#STR0017#BRA#y debe ser multiplo de 10. El mismo vale 
+0018#STR0018#BRA# para los otros dos tipos de calculo . 
+0019#STR0019#BRA#+------------------------------------------+-------------+--------------+--------------+------------------+--------------+--------------+--------------+
+0020#STR0020#BRA#| Conductor                                |    C.P.F.   |        Flete |   DIRF - 40% |        Acumulado |   Descuentos |   Tributable |   Imp. Renta |
+0021#STR0021#BRA#+------------------------------------------+-------------+--------------+--------------+------------------+--------------+--------------+--------------+
+0022#STR0022#BRA#| ######################################## | ########### | ############ | ############ | ################ | ############ | ############ | ############ |
+0023#STR0023#BRA#+------------------------------------------+-------------+--------------+--------------+------------------+------------------+--------------+--------------+--------------+
+0024#STR0024#BRA#| Conductor                                |    C.P.F.   |        Flete |   DIRF - 40% | Acum. 1ºQuincena | Acum. 2ºQuincena |  Descuentos  |   Tributable |   Imp. Renta |
+0025#STR0025#BRA#Informar el periodo inicial para esta   
+0026#STR0026#BRA#Informar el periodo inicial para esta   
+0027#STR0027#BRA#+--------------------------------------------------------+--------------+--------------+------------------+--------------+--------------+--------------+
+0028#STR0028#BRA#| Totales(##):                                           | ############ | ############ | ################ | ############ | ############ | ############ |
+0029#STR0029#BRA#+--------------------------------------------------------+--------------+--------------+------------------+--------------+--------------+--------------+
+0030#STR0030#BRA#Tipo calculo : 
+0031#STR0031#BRA#Empresa Pago: 
+0032#STR0032#BRA#Seleccionando Documentos...
+0033#STR0033#BRA#Informe si las columnas acumuladas deben
+0034#STR0034#BRA#ser mostradas de acuerdo con tipo de    
+0035#STR0035#BRA#calculo relacionado con el periodo.     
+0036#STR0036#BRA#ANULADO POR EL OPERADOR
+0037#STR0037#BRA#+--------------------------------------------------------+--------------+--------------+------------------+------------------+--------------+--------------+--------------+
+0038#STR0038#BRA#| Totales(##):                                           | ############ | ############ | ################ | ################ | ############ | ############ | ############ |
+0039#STR0039#BRA#+--------------------------------------------------------+--------------+--------------+------------------+------------------+--------------+--------------+--------------+	
+0040#STR0040#BRA#+------------------------------------------+-------------+--------------+--------------+------------------+------------------+------------------+--------------+--------------+--------------+
+0041#STR0041#BRA#| Conductor                                |    C.P.F.   |        Flete |   DIRF - 40% | Acum. 1ºDiez dias| Acum. 2ºDiez dias| Acum. 3ºDiez dias|  Descuentos  |   Tributable |   Imp. Renta |
+0042#STR0042#BRA#+------------------------------------------+-------------+--------------+--------------+------------------+------------------+------------------+--------------+--------------+--------------+
+0043#STR0043#BRA#| ######################################## | ########### | ############ | ############ | ################ | ################ | ################ | ############ | ############ | ############ |
+0044#STR0044#BRA#+--------------------------------------------------------+--------------+--------------+------------------+------------------+------------------+--------------+--------------+--------------+
+0045#STR0045#BRA#| Totales(##):                                           | ############ | ############ | ################ | ################ | ################ | ############ | ############ | ############ |
+0046#STR0046#BRA#+--------------------------------------------------------+--------------+--------------+------------------+------------------+------------------+--------------+--------------+--------------+
+0047#STR0047#BRA#Integracion Entorno TMS (Gestion Transporte).
+0048#STR0048#BRA#Para ejcucion de esta rutina es necesario que haya integracion con el Entorno
+0049#STR0049#BRA#Gestion de Transporte(TMS).
+0050#STR0050#BRA#¡No sera posible proseguir !
+0051#STR0051#BRA#¿Tipo de Calculo  ?
+0052#STR0052#BRA#¿ Muestra calculos  ?
+0053#STR0053#BRA#Informe el codigo inicial para un filtro 
+0054#STR0054#BRA#por el conductor en la tabla SA2 (archivo  
+0055#STR0055#BRA#de proveedores).                       
+0056#STR0056#BRA#Proveedor de
+0057#STR0057#BRA#Informe la tienda inicial para un filtro   
+0058#STR0058#BRA#De tienda
+0059#STR0059#BRA#Informe el codigo final para un filtro   
+0060#STR0060#BRA#A proveedor
+0061#STR0061#BRA#Informe la tienda final para un filtro     
+0062#STR0062#BRA#A tienda

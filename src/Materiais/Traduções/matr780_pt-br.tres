@@ -1,0 +1,29 @@
+0001#STR0001#ALL#Estatisticas de Vendas (Cliente x Produto)
+0002#STR0002#ALL#Este programa ira emitir a relacao das compras efetuadas pelo Cliente,
+0003#STR0003#ALL#totalizando por produto e escolhendo a moeda forte para os Valores.
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#ESTATISTICAS DE VENDAS (Cliente X Produto)
+0007#STR0007#ALL#CLIENTE   RAZAO SOCIAL
+0008#STR0008#ALL#PRODUTO         DESCRICAO                  NOTA FISCAL        EMISSAO   UN   QUANTIDADE    PRECO UNITARIO            TOTAL  VENDEDOR
+0009#STR0009#ALL#CLIENTE  RAZAO SOCIAL
+0010#STR0010#ALL#Valores em 
+0011#STR0011#ALL#Selecionando Registros...
+0012#STR0012#ALL#CANCELADO PELO OPERADOR
+0013#STR0013#ALL#Obs.: 
+0014#STR0014#ALL#TOTAL DO PRODUTO - 
+0015#STR0015#ALL#TOTAL DO CLIENTE - 
+0016#STR0016#ALL#T O T A L   G E R A L                        ---->
+0017#STR0017#ALL#DEV
+0018#STR0018#ALL#Estatisticas de Vendas (Cliente x Produto)
+0019#STR0019#ALL#Este programa ira emitir a relacao das compras efetuadas pelo Cliente,
+0020#STR0020#ALL#totalizando por produto e escolhendo a moeda forte para os Valores.
+0021#STR0021#ALL#Valores em 
+0022#STR0022#ALL#TOTAL DO PRODUTO - 
+0023#STR0023#ALL#TOTAL DO CLIENTE - 
+0024#STR0024#ALL#Vendedor
+0025#STR0025#ALL#DEV
+0026#STR0026#ALL#Selecionando Registros...	
+0027#STR0027#ALL#Clientes	
+0028#STR0028#ALL#Itens das Notas Fiscais de Saida	
+0029#STR0029#ALL#Devolucoes	

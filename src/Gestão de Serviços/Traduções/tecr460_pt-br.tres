@@ -1,0 +1,25 @@
+0001#STR0001#ALL#Relacao de OS
+0002#STR0002#ALL#   Este programa ira imprimir a relacao de O.S.(s) conforme os
+0003#STR0003#ALL#parametros solicitados.
+0004#STR0004#ALL#
+0005#STR0005#ALL#Numero
+0006#STR0006#ALL#Cliente
+0007#STR0007#ALL#Emissao
+0008#STR0008#ALL#Zebrado
+0009#STR0009#ALL#Administracao
+0010#STR0010#ALL#O.SERVICO   TIPO     CLIENTE   EMISSAO    MOEDA CPG PRODUTO         ID.UNICO             PROBLEMA                                O.S.       OCORRENCIA                                                                           
+0011#STR0011#ALL#          IT PRODUTO         DESCRICAO                                                                             PEDIDO      QUANTIDADE VALOR UNITARIO      VALOR CLIENTE   VALOR FABRICANTE        VALOR TOTAL GARANTIA
+0012#STR0012#ALL# [ ORDEM DE SERVICO ] 
+0013#STR0013#ALL# [ CLIENTE ] 
+0014#STR0014#ALL# [ EMISSAO ] 
+0015#STR0015#ALL#CANCELADO PELO OPERADOR
+0016#STR0016#ALL#TOTAL OS
+0017#STR0017#ALL#TOTAL CLIENTE 
+0018#STR0018#ALL#TOTAL DE 
+0019#STR0019#ALL#TOTAL GERAL
+0020#STR0020#ALL#Ocorrencia
+0021#STR0021#ALL#Valor Cliente
+0022#STR0022#ALL#Valor Fabricante
+0023#STR0023#ALL#Valor Total
+0024#STR0024#ALL#Ordem de serviço
+0025#STR0025#ALL#Sub-itens da ordem de serviço

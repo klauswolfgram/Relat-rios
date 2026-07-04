@@ -1,0 +1,33 @@
+0001#STR0001#ALL#Demonstrativo de depreciação de bens com controle de rateio
+0002#STR0002#ALL#Disponível somente na versão TReport.
+0003#STR0003#ALL#Função disponível apenas para ambiente TopConnect.
+0004#STR0004#ALL#Filial
+0005#STR0005#ALL#Código do Bem
+0006#STR0006#ALL#Item
+0007#STR0007#ALL#Descrição
+0008#STR0008#ALL#Tipo
+0009#STR0009#ALL#Tipo de Saldo
+0010#STR0010#ALL#Valor Original
+0011#STR0011#ALL#Data
+0012#STR0012#ALL#Valor Deprec.
+0013#STR0013#ALL#Valor Rateado
+0014#STR0014#ALL#Tipo de Ativo
+0015#STR0015#ALL#Deprec. Acumulada
+0016#STR0016#ALL#Entidade
+0017#STR0017#ALL#Conta Contab.
+0018#STR0018#ALL#Centro Custo
+0019#STR0019#ALL#Item da Conta
+0020#STR0020#ALL#Classe de valor
+0021#STR0021#ALL#Ent. Contab. 
+0022#STR0022#ALL#Total do Bem 
+0023#STR0023#ALL# Item 
+0024#STR0024#ALL# e Tipo 
+0025#STR0025#ALL#FISCAL
+0026#STR0026#ALL#GERENCIAL
+0027#STR0027#ALL#INCENTIVADO
+0028#STR0028#ALL#Total da Filial: 
+0029#STR0029#ALL#TOTAL GERAL
+0030#STR0030#ALL#Total rateado da Entidade: 
+0031#STR0031#ALL#Para utilizar este relatório, é necessário que estejam implementados os processos de Depreciação de bens com controle de rateio. Por favor, atualize o ambiente
+0032#STR0032#ALL#Total
+0033#STR0033#ALL#Nem todas as entidades contábeis adicionais foram criadas no Ativo Fixo, só serão impressas as entidades disponíveis.

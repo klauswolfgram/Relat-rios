@@ -1,0 +1,27 @@
+0001#STR0001#BRA#Resumo De Movimentos De Artigos Incentivados / Não Incentivados - Prodepe
+0002#STR0002#BRA#Este relatório vai imprimir os movimentos de entrada e saída de
+0003#STR0003#BRA#Artigos Incentivados Ou Não Pelo Prodepe.
+0004#STR0004#BRA#Código de barras
+0005#STR0005#BRA#Administração
+0006#STR0006#BRA#A Seleccionar Registos...
+0007#STR0007#BRA#|     emissão     |    número    |    série    |     cód. fiscal     |         código         |                    descrição                     |      valor contabilístico      |     base de cálculo      |        valor IC        |
+0008#STR0008#BRA#|                                                      *** não houve movimento ***                                                        |                          |                          |                          |
+0009#STR0009#BRA#|                                                              totalização                                                                |     ################     |     ################     |     ################     |
+0010#STR0010#BRA#|                                                                                    movimentos de saída com artigos não incentivados                                                                                     |
+0011#STR0011#BRA#|                                                                                      movimentos de saída com artigos incentivados                                                                                       |
+0012#STR0012#BRA#|                                                                                   movimentos de entrada com artigos não incentivados                                                                                    |
+0013#STR0013#BRA#|                                                                                     movimentos de entrada com artigos incentivados                                                                                      |
+0014#STR0014#BRA#|                                                                                              resumo por artigo incentivado                                                                                              |
+0015#STR0015#BRA#|                                                                                            resumo por artigo não incentivado                                                                                            |
+0016#STR0016#BRA#|                             artigo                              |                          movimentos de entrada                           |                            movimentos de saída                             |
+0017#STR0017#BRA#|        código       |                 descrição                  |     valor contabilístico     |    base de cálculo     |      valor do IC     |     valor contabilístico     |    base de cálculo     |      valor do IC       |
+0018#STR0018#BRA#|                           totalização                            |    ################    |    ################    |    ################    |    ################    |    ################    |     ################     |
+0019#STR0019#BRA#|                                                                       resumo de movimentos de artigos incentivados / não incentivados - prodepe                                                        página: ######   |
+0020#STR0020#BRA#|  empresa:    ########################################                         nr. contribuinte.:   ##################                                    i.e.:     #####################                                          |
+0021#STR0021#BRA#|  morada:   ######################################                           cidade:     #############################                         estado:   ##                                                             |
+0022#STR0022#BRA#Parâmetro mv_sef03 (campo na tabela sb5 que indica o incentivo) não registado.
+0023#STR0023#BRA#Verifique o registo para possibilitar a correcta criação do relatório.
+0024#STR0024#BRA#Parâmetro Mv_sef03
+0025#STR0025#BRA#Campo da tabela sb5 que indica o incentivo inexistente.
+0026#STR0026#BRA#Verifique o conteúdo do parâmetro mv_sef03 para possibilitar a correcta criação do relatório.
+0027#STR0027#BRA#Conteúdo Mv_sef03

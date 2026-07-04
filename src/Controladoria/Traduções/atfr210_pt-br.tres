@@ -1,0 +1,20 @@
+0001#STR0001#ALL#Este programa ira  emitir a relacao dos bens a inventar  de a-
+0002#STR0002#ALL#cordo com os parametros escolhidos. O ajuste Contabil desses  
+0003#STR0003#ALL#bens deve ser feito antes do proximo calculo
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#Relacao de bens inventariados
+0007#STR0007#ALL#Codigo
+0008#STR0008#ALL#C Custo
+0009#STR0009#ALL#C Base     Item Ti Chapa  Descricao                     Armazem CCusto    Grup    Qtd Atual      Valor Resid    Qtd.Inv   Valor Invent Visto
+0010#STR0010#ALL#C Base     Item Ti Chapa  Descricao                     Armazem CCusto    Grup     Qtd.Invent  Valor Invent   Visto 
+0011#STR0011#ALL# por 
+0012#STR0012#ALL# em 
+0013#STR0013#ALL#CANCELADO PELO OPERADOR
+0014#STR0014#ALL#Valor Resid
+0015#STR0015#ALL#Qtd. Invent.
+0016#STR0016#ALL#Vlr. Invent.
+0017#STR0017#ALL#Visto
+0018#STR0018#ALL#Bens/Saldos
+0019#STR0019#ALL#Placa
+0020#STR0020#ALL#Selecionando Registros...

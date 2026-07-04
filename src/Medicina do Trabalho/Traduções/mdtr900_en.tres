@@ -1,0 +1,55 @@
+0001#STR0001#ALL#From vaccine?
+0002#STR0002#ALL#To vaccine? 
+0003#STR0003#ALL#From medical record?
+0004#STR0004#ALL#To medical record?
+0005#STR0005#ALL#From cost center?   
+0006#STR0006#ALL#To cost center?      
+0007#STR0007#ALL#From vaccine date?
+0008#STR0008#ALL#To vaccine date? 
+0009#STR0009#ALL#List vaccines: 
+0010#STR0010#ALL#1-Applied  
+0011#STR0011#ALL#2-Pending  
+0012#STR0012#ALL#3-All  
+0013#STR0013#ALL#Vaccination by period
+0014#STR0014#ALL#Report that lists the employees to be vaccined in the period entered.              
+0015#STR0015#ALL#Vaccine
+0016#STR0016#ALL#Vaccine code 
+0017#STR0017#ALL#Vaccine
+0018#STR0018#ALL#Employees   
+0019#STR0019#ALL#Medical record
+0020#STR0020#ALL#Name
+0021#STR0021#ALL#Cost center    
+0022#STR0022#ALL#Role  
+0023#STR0023#ALL#Dose
+0024#STR0024#ALL#Vaccine date
+0025#STR0025#ALL#Applied?     
+0026#STR0026#ALL#Total:
+0027#STR0027#ALL#Wait   
+0028#STR0028#ALL#Processing attendances ...    
+0029#STR0029#ALL#Filtering records. Please, wait...
+0030#STR0030#ALL#Z.Form
+0031#STR0031#ALL#Administration
+0032#STR0032#ALL#Vaccine                           Vaccine Prog
+0033#STR0033#ALL#   Med. Form  Name                                      Cost Center                               Role                                      Dose   Vaccine Dt.  Was it applied?
+0034#STR0034#ALL#No information to print in the report.
+0035#STR0035#ALL#Customer
+0036#STR0036#ALL#From Customer ?
+0037#STR0037#ALL#Customer code. Leave the field blank to consider since the first code.
+0038#STR0038#ALL#Unit
+0039#STR0039#ALL#Customer unit code. Leave the field blank to consider since the first code.
+0040#STR0040#ALL#To Customer ?
+0041#STR0041#ALL#Customer code. Fill in the field with Z up to its limit to consider the last code.	
+0042#STR0042#ALL#Customer unit code. Fill in the field with Z up to its limit to consider the last code.
+0043#STR0043#ALL#Name
+0044#STR0044#ALL#Customer/Unit: 
+0045#STR0045#ALL#3-Does not want to be vaccinated
+0046#STR0046#ALL#4-All
+0047#STR0047#ALL#Defines if all vaccines applied, pending, rejected (did not want to be vaccinated) or all are listed.
+0048#STR0048#ALL#List Vaccines: ?
+0049#STR0049#ALL#YES
+0050#STR0050#ALL#NO
+0051#STR0051#ALL#EMPLOYEE DOES NOT WANT TO BE VACCINATED
+0052#STR0052#ALL#Empl. Status?
+0053#STR0053#ALL#Fill out this parameter to filter the Employee status or enter ZZZZZZ so that the report will print all the Status.
+0054#STR0054#ALL#Vaccine Prog
+0055#STR0055#ALL#Manual entry of supply

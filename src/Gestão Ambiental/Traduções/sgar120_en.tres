@@ -1,0 +1,72 @@
+0001#STR0001#ALL#Wait...
+0002#STR0002#ALL#Processing Records...
+0003#STR0003#ALL#Month/Year      ?
+0004#STR0004#ALL#Laboratory      ?
+0005#STR0005#ALL#Source          ?
+0006#STR0006#ALL#From Criterion  ?
+0007#STR0007#ALL#To Criterion    ?
+0008#STR0008#ALL#Report of Monthly Measurement
+0009#STR0009#ALL#Company: 
+0010#STR0010#ALL#Company Name: 
+0011#STR0011#ALL#Source: 
+0012#STR0012#ALL#Address: 
+0013#STR0013#ALL#District: 
+0014#STR0014#ALL#City: 
+0015#STR0015#ALL#ZIP CODE: 
+0016#STR0016#ALL#Telephone: 
+0017#STR0017#ALL#Laboratory: 
+0018#STR0018#ALL#Name: 
+0019#STR0019#ALL#Analysis Date: 
+0020#STR0020#ALL#SMTP server not configured!
+0021#STR0021#ALL#Attention
+0022#STR0022#ALL#E-mail account not configured!
+0023#STR0023#ALL#E-mail password not configured!
+0024#STR0024#ALL#E-mail Information
+0025#STR0025#ALL#From: 
+0026#STR0026#ALL#To:
+0027#STR0027#ALL#Subject:
+0028#STR0028#ALL#Unable to save the report
+0029#STR0029#ALL#WARNING
+0030#STR0030#ALL#Attached report of 
+0031#STR0031#ALL#E-mail successfull sent
+0032#STR0032#ALL#Unable to send the E-mail.
+0033#STR0033#ALL#Error while connecting to SMTP server.
+0034#STR0034#ALL#Do you want to view the report?
+0035#STR0035#ALL#No data to create the report.
+0036#STR0036#ALL#Printing Type     ?
+0037#STR0037#ALL#Screen
+0038#STR0038#ALL#Printer
+0039#STR0039#ALL#Send E-mail
+0040#STR0040#ALL#Month entered must be higher than or equal to '01' and lower than '12'.
+0041#STR0041#ALL#Year entered must contain 4 places.
+0042#STR0042#ALL#From Month/Year    ?
+0043#STR0043#ALL#To Month/Year   ?
+0044#STR0044#ALL#Monitoring  ?
+0045#STR0045#ALL#Monitoring: 
+0046#STR0046#ALL#Group: 
+0047#STR0047#ALL# to 
+0048#STR0048#ALL#Monitoring entered is canceled.
+0049#STR0049#ALL#Please, enter a valid Monitoring.
+0050#STR0050#ALL#enter from which Month and Year (99/9999)you want the report to be displayed.
+0051#STR0051#ALL#Enter to which Month and Year (99/9999) you want to view in the report.
+0052#STR0052#ALL#Enter the monitoring to be displayed in the report. Press [F3] + [Enter] to select desired Monitoring.
+0053#STR0053#ALL#Enter the Lab (Suppliers File) to be displayed in the report. Press the keys [F3] + [Enter] to select the desired Lab.
+0054#STR0054#ALL#Enter from which criterium it must be displayed in the report. Press the keys [F3]+[Enter] to select the desired Criterium.
+0055#STR0055#ALL#Enter until which Criteria it must be displayed in the report. Press [F3]+[Enter] to select the desired Criterion or type ZZZZZZ in this field and leave the field above blank in order to consider all Criteria . 
+0056#STR0056#ALL#Enter the Type of Printing to be presented in the report (Screen, Printer or Send by E-mail).
+0057#STR0057#ALL#Objectives
+0058#STR0058#ALL#*Results collected by the company.
+0059#STR0059#ALL#REFERENCE VALUES
+0060#STR0060#ALL#Date: 
+0061#STR0061#ALL#Time: 
+0062#STR0062#ALL#Result: 
+0063#STR0063#ALL#Month Total: 
+0064#STR0064#ALL#Month Average: 
+0065#STR0065#ALL#Total 
+0066#STR0066#ALL#Average 
+0067#STR0067#ALL#From Lab?
+0068#STR0068#ALL#To Lab?
+0069#STR0069#ALL#Month
+0070#STR0070#ALL#Unable to save the e-mail attachment file.
+0071#STR0071#ALL#Please set parameter MV_RELT.
+0072#STR0072#ALL#Monthly Measurement

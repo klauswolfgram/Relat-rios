@@ -1,0 +1,14 @@
+0001#STR0001#ALL#Informe de Visitas 
+0002#STR0002#ALL#Este programa emitira el detalle de visitas a los clientes
+0003#STR0003#ALL#hechas por los vendedores.
+0004#STR0004#ALL#A Rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#INFORME DE VISITAS A CLIENTES  
+0007#STR0007#ALL#VENDEDOR  CODIGO               SUC.  RAZON SOCIAL                              ULT.VISITA  FREC  CONTATO             TELEFONO
+0008#STR0008#ALL#ANULADO POR EL OPERADOR
+0009#STR0009#ALL#Seleccionando registros...
+0010#STR0010#ALL#Informe de Visitas
+0011#STR0011#ALL#Este programa emitira la lista con las visitas a clientes,
+0012#STR0012#ALL#efectuadas por los vendedores.
+0013#STR0013#ALL#Seleccionando Registros...
+0014#STR0014#ALL#Clientes

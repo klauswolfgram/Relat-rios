@@ -1,0 +1,42 @@
+0001#STR0001#ALL#The aim of this program is to print the report 
+0002#STR0002#ALL#according to the parameters informed by the user.
+0003#STR0003#ALL#Project Resources Registration
+0004#STR0004#ALL#Z.Form
+0005#STR0005#ALL#Administration
+0006#STR0006#ALL#|   Date    | Project    | Project Description                | Task       | Task Description                | Team     | Team Description         |             Cost |Start Time| End Time | No. Hours |
+0007#STR0007#ALL#|   Date    | Task       | Task Description           | Resource         | Resource Description      | Team     | Team Description        |             Cost | Start Time |  End Time  |  No. Hours |
+0008#STR0008#ALL#*** CANCELLED BY THE OPERATOR ***
+0009#STR0009#ALL#Resource:
+0010#STR0010#ALL#| Hours total used from this resource........................................................................................................................................................................:
+0011#STR0011#ALL#Project:
+0012#STR0012#ALL#| Hours total used from this resource in this task..................................................................................................................................................:
+0013#STR0013#ALL#|   Date    | Project       | Project Description           | Task         | Task Description      | Resource     | Resource Description        |             Cost | Start Time |  End Time  |  No. Hours |
+0014#STR0014#ALL#Team:
+0015#STR0015#ALL#Total of hours spent by this team......................................................................................................................................................................:
+0016#STR0016#ALL#| Total cost from this resource.......................................................................................................................................:
+0017#STR0017#ALL#| Total cost from this resource.......................................................................................................................:
+0018#STR0018#ALL#Total cost from this resource........................................................................................................................:	
+0019#STR0019#ALL#RESOURCE TOTAL 
+0020#STR0020#ALL#GRAND TOTAL OF RESOURCES 
+0021#STR0021#ALL#PROJECT TOTALS    
+0022#STR0022#ALL#GRAND TOTAL OF PROJECTS 
+0023#STR0023#ALL#TEAM TOTALS      
+0024#STR0024#ALL#GRAND TOTAL OF TEAMS 
+0025#STR0025#ALL#|   Date    | Project    | Project Description                | Task                                             | Task Description                     
+0026#STR0026#ALL#|                                                                                                                  | Team       | Description of Team                 |             Cost  |Initial T| Final T |No. of Hours|
+0027#STR0027#ALL#|   Date    | Task                                           | Task Description                                                                | Resource           | Resource Description                           
+0028#STR0028#ALL#                                                              | Team       | Description of Team                                                       |             Cost  | Initial Time |  Final Time  | Number of Hours |
+0029#STR0029#ALL#|   Date    | Project    | Project Description                | Task                                             | Task Description
+0030#STR0030#ALL#                                                                        | Resource        | Description of Resource                                    |             Cost  | Initial Time |  Final Time  | Number of Hours |
+0031#STR0031#ALL#Resource
+0032#STR0032#ALL#Project
+0033#STR0033#ALL#Team  
+0034#STR0034#ALL#Annotations 
+0035#STR0035#ALL#Resource per day
+0036#STR0036#ALL#Not available
+0037#STR0037#ALL#Order 'Resource per day' only available to SQL environment and customized report
+0038#STR0038#ALL#OK
+0039#STR0039#ALL#Order 'Resource per day' only available to SQL environment
+0040#STR0040#ALL#First annot.
+0041#STR0041#ALL#Last annot.
+0042#STR0042#ALL#Total of Hours

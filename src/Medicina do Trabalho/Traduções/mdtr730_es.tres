@@ -1,0 +1,46 @@
+0001#STR0001#ALL#Ficha Clinica
+0002#STR0002#ALL#Cliente De?
+0003#STR0003#ALL#Codigo del cliente. El campo puede permanecer vacio para considerar desde el primer codigo.
+0004#STR0004#ALL#Tienda
+0005#STR0005#ALL#Codigo de la tienda del cliente. El campo puede permanecer vacio para considerar desde el primer codigo.
+0006#STR0006#ALL#Cliente A?
+0007#STR0007#ALL#Codigo del cliente. El campo puede rellenarse con la letra Z hasta el final para considerar el ultimo codigo.	
+0008#STR0008#ALL#Codigo de la tienda del cliente. El campo puede rellenarse con la letra Z hasta el final para considerar el ultimo codigo.
+0009#STR0009#ALL#¿Indicacion de atencion ?
+0010#STR0010#ALL#¿A Fecha de atencion?
+0011#STR0011#ALL#¿De Fecha Atencion ?
+0012#STR0012#ALL#¿A Ficha medica? 
+0013#STR0013#ALL#¿De Ficha medica ?
+0014#STR0014#ALL#¿Tipo impresion?
+0015#STR0015#ALL#¿Indicacion de Atencion ?
+0016#STR0016#ALL#Atenc. Clinico
+0017#STR0017#ALL#Enfermedad Laboral
+0018#STR0018#ALL#Accidente
+0019#STR0019#ALL#Evaluacion NR7
+0020#STR0020#ALL#Todos
+0021#STR0021#ALL#NOMBRE
+0022#STR0022#ALL#R.G. FUNCIONAL
+0023#STR0023#ALL#FUNCION
+0024#STR0024#ALL#CENTRO DE COSTO
+0025#STR0025#ALL#SOLTERO(A)
+0026#STR0026#ALL#CASADO(A)
+0027#STR0027#ALL#DIVORCIADO(A)
+0028#STR0028#ALL#MARITAL
+0029#STR0029#ALL#SEPARADO(A)
+0030#STR0030#ALL#SOLTERO(A)
+0031#STR0031#ALL#VIUDO(A)
+0032#STR0032#ALL#EDAD
+0033#STR0033#ALL#año(s)
+0034#STR0034#ALL#ESTADO CIVIL
+0035#STR0035#ALL#NACIONALIDAD
+0036#STR0036#ALL#COLOR
+0037#STR0037#ALL#FECHA DE ADMISION
+0038#STR0038#ALL#FECHA DEL 1º EXAMEN
+0039#STR0039#ALL#FECHA
+0040#STR0040#ALL#OBSERVACIONES
+0041#STR0041#ALL#PESO
+0042#STR0042#ALL#EXAMENES
+0043#STR0043#ALL#PROGRAMA DE CONTROL MEDICO DE SALUD OCUPACIONAL
+0044#STR0044#ALL#Unidad:
+0045#STR0045#ALL#Examenes Periodicos
+0046#STR0046#ALL#Planilla nº:

@@ -1,0 +1,42 @@
+0001#STR0001#ALL#Este relatório está disponível somente para TotvsDbAccess
+0002#STR0002#ALL#Relação de Baixas por Natureza
+0003#STR0003#ALL#Movimentos
+0004#STR0004#ALL#Valor Orig
+0005#STR0005#ALL#Juros/Multa
+0006#STR0006#ALL#Correção
+0007#STR0007#ALL#Desconto
+0008#STR0008#ALL#Abatimento
+0009#STR0009#ALL#Imposto
+0010#STR0010#ALL#Total Baixado
+0011#STR0011#ALL#Totais
+0012#STR0012#ALL#TOTAL DA NATUREZA ANALÍTICA 
+0013#STR0013#ALL#TOTAL DA NATUREZA SINTÉTICA 
+0014#STR0014#ALL#Este relatório está disponível somente no modo personalizável.
+0015#STR0015#ALL#Prf
+0016#STR0016#ALL#Numero
+0017#STR0017#ALL#Prc
+0018#STR0018#ALL#Tp
+0019#STR0019#ALL#Cli/For
+0020#STR0020#ALL#Lj
+0021#STR0021#ALL#Nome
+0022#STR0022#ALL#Vencto
+0023#STR0023#ALL#Dt.Dig.
+0024#STR0024#ALL#Baixa
+0025#STR0025#ALL#Historico
+0026#STR0026#ALL#Bco
+0027#STR0027#ALL#MOVIMENTO MANUAL
+0028#STR0028#ALL#CHEQUE 
+0029#STR0029#ALL#Baixados
+0030#STR0030#ALL#Mov. Fin
+0031#STR0031#ALL#Compensados
+0032#STR0032#ALL#Bx Fatura
+0033#STR0033#ALL#CANCELAMENTO DE BAIXA
+0034#STR0034#ALL#Código
+0035#STR0035#ALL#Empresa
+0036#STR0036#ALL#Unidade de negócio
+0037#STR0037#ALL#Filial
+0038#STR0038#ALL#Filiais selecionadas para o relatorio
+0039#STR0039#ALL#Valores Acessorios
+0040#STR0040#ALL#A geração do relatório Relação de Baixas por Natureza depende da amarração de naturezas analíticas em naturezas sintéticas.
+0041#STR0041#ALL#Ative o uso de naturezas sintéticas através do parâmetro MV_NATSINT.
+0042#STR0042#ALL#Após a ativação deste parâmetro, o campo ED_PAI no cadastro de naturezas estará habilitado para uso, permitindo a amarração das naturezas.

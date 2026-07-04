@@ -1,0 +1,27 @@
+0001#STR0001#ALL#This program will print the valuation position 
+0002#STR0002#ALL#of Assets in up to 5 (five) Currencies.
+0003#STR0003#ALL#Valuated position of Assets
+0004#STR0004#ALL#C. Center            Base Code  Item Descript. Tp summariz.              Aquisic.   Post.Dt. Quant. Plate        Ext. Value      Original Value   Updated Value   Deprec. in Mo. Deprec. in FY    Accumul. Depreciat.Depr. Rate 
+0005#STR0005#ALL#Acct.                Base Code  Item Tp Summarized descrip.              Aquisit. Post.Dt.  Quant.  Plate         Extension Value Original Value  Updated Value   Deprec. in Mo. Deprec. in FY    Accumul. Depreciat. Depr.Rate 
+0006#STR0006#ALL#      ENLARGEMENT VALUE  ORIGINAL AMOUNT   VALUATED AMOUNT   MONTH DEPREC   YEAR DEPREC         ACCUMUL DEPREC      MONET.ADJ MONTH MON.ADJ.YEAR     ACCUM.MONET.ADJ.    MONTH DEPR.ADJ. YEAR DEPR ADJ     ACCUM MONET ADJ.  
+0007#STR0007#ALL#Acct.:    
+0008#STR0008#ALL#Cost C.:  
+0009#STR0009#ALL#CANCELLED BY OPERATOR  
+0010#STR0010#ALL#TOTAL 
+0011#STR0011#ALL#QUANTITY  
+0012#STR0012#ALL#* * * G R A N D  T O T A L      * * *
+0013#STR0013#ALL#QUANTITY  
+0014#STR0014#ALL#Z. form
+0015#STR0015#ALL#Management 
+0016#STR0016#ALL#Acct.
+0017#STR0017#ALL#C.Center
+0018#STR0018#ALL# by 
+0019#STR0019#ALL# - TYPE 
+0020#STR0020#ALL#To use it, create index SN4 - Key N4_FILIAL + N4_CBASE + N4_ITEM + N4_TIPO + N4_OCORR + DTOS(N4_DATA).       
+0021#STR0021#ALL#Account. Item
+0022#STR0022#ALL#Value class   
+0023#STR0023#ALL#Acct.                Base Code  Item Tp Summariz. descript.                 Aquisic.   Post.Dt.    Quantity    Plate  C.Center  Value Cl.   
+0024#STR0024#ALL#Acct.                Base Code  Item Tp Summariz. descript.                 Aquisic.   Post.Dt.    Quantity    Plate  Acc.Item  C.Center    
+0025#STR0025#ALL# - Reference Date:     
+0026#STR0026#ALL#Processing ...
+0027#STR0027#ALL#Printing ... 

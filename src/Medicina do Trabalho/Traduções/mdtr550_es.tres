@@ -1,0 +1,31 @@
+0001#STR0001#ALL#Informe para imprimir los EPI relacionados a los riesgos.
+0002#STR0002#ALL#Estos riesgos se filtraran por medio de los parametros informados por el
+0003#STR0003#ALL#usuario.
+0004#STR0004#ALL#A rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#Epi por Riesgo
+0007#STR0007#ALL#Nº Riesgo  Agente                         Centro de costo                           Función                     Tarea                     Departamento
+0008#STR0008#ALL#Epi....:
+0009#STR0009#ALL#N° Ries.
+0010#STR0010#ALL#Agente
+0011#STR0011#ALL#Centro de Costo
+0012#STR0012#ALL#Func.
+0013#STR0013#ALL#Tarea
+0014#STR0014#ALL#EPI
+0015#STR0015#ALL#Descripc.
+0016#STR0016#ALL#¿De Cliente?
+0017#STR0017#ALL#Tda.
+0018#STR0018#ALL#¿A Cliente  ?
+0019#STR0019#ALL#Cliente
+0020#STR0020#ALL#Tda.
+0021#STR0021#ALL#Nomb
+0022#STR0022#ALL#Todos
+0023#STR0023#ALL#Todas
+0024#STR0024#ALL#Cliente/Tda.: 
+0025#STR0025#ALL#            Nomb: 
+0026#STR0026#ALL#¿A  Epi ?
+0027#STR0027#ALL#¿De Epi?
+0028#STR0028#ALL#¿A Riesgo?
+0029#STR0029#ALL#¿De Riesgo ?
+0030#STR0030#ALL#Departamento
+0031#STR0031#ALL#Nº Riesgo  Agente                         Centro de costo                           Función                     Tarea

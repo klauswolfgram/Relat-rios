@@ -1,0 +1,24 @@
+0001#STR0001#ALL#Ligações Encerradas X Tipo De Comunicação
+0002#STR0002#ALL#Este Programa Emitirá Uma Relação Das Ligações
+0005#STR0005#ALL#Código de barras
+0007#STR0007#ALL#Cancelado Pelo Operador
+0008#STR0008#ALL#**Não Indicado.**
+0009#STR0009#ALL#Não localizado no registo...
+0010#STR0010#ALL#Total de atendimentos estimados para o período de 
+0014#STR0014#ALL#Motivo do encerramento                                       Activo       %
+0015#STR0015#ALL#Motivo do encerramento                                   Receptivo       %
+0016#STR0016#ALL#Motivo do encerramento                                       Activo       %  Receptivo       %    Total       %
+0017#STR0017#ALL#Data      Operador                                           Activo
+0018#STR0018#ALL#Data      Operador                                       Receptivo
+0019#STR0019#ALL#Data      Operador                                           Activo          Receptivo            Total
+0020#STR0020#ALL#Operador                                                     Activo
+0021#STR0021#ALL#Operador                                                 Receptivo
+0022#STR0022#ALL#Operador                                                     Activo          Receptivo            Total
+0026#STR0026#ALL#Não existem dados a serem impressos para este relatório com os parâmetros escolhidos
+0027#STR0027#ALL#Total
+0029#STR0029#ALL#Tipo de comunicação
+0030#STR0030#ALL#Activo
+0031#STR0031#ALL#Receptivo
+0033#STR0033#ALL#Motivo Do Fecho
+0037#STR0037#ALL#Total dos atendimentos por pedido
+0041#STR0041#ALL#Total dos atendimentos por motivo e por pedido

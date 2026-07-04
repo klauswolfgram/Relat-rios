@@ -1,0 +1,26 @@
+0001#STR0001#ALL#Este programa irá emitir o resumo da Movimentação
+0002#STR0002#ALL#Bancária de um determinado dia.
+0003#STR0003#ALL#Movimento Financeiro Diário
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0007#STR0007#ANG#Cód.Agência Conta         Nome                   Saldo Inicial      Entradas          Saídas         Aplicações     Saldo Disponível
+0007#STR0007#ARG#Cód. Agência Conta      Nome                   Saldo Inicial         Entradas           Saídas         Aplicações    Saldo Disponível
+0007#STR0007#BOL#Cod Agencia Conta         Nome                   Saldo Inicial        Entradas         Saídas         Aplicações    Saldo Disponivel
+0007#STR0007#BRA#Cód. Agência Conta      Nome                   Saldo Inicial         Entradas           Saídas         Aplicações    Saldo Disponível
+0007#STR0007#CHI#Cód. Agência Conta      Nome                   Saldo Inicial         Entradas           Saídas         Aplicações    Saldo Disponível
+0007#STR0007#COL#Cód. Agência Conta      Nome                   Saldo Inicial         Entradas           Saídas         Aplicações    Saldo Disponível
+0007#STR0007#COS#Cód. Agência Conta      Nome                   Saldo Inicial         Entradas           Saídas         Aplicações    Saldo Disponível
+0007#STR0007#DOM#Cód. Agência Conta      Nome                   Saldo Inicial         Entradas           Saídas         Aplicações    Saldo Disponível
+0007#STR0007#EQU#Cód.Agência Conta         Nome                   Saldo Inicial      Entradas          Saídas         Aplicações     Saldo Disponível
+0007#STR0007#EUA#Cód. Agência Conta      Nome                   Saldo Inicial         Entradas           Saídas         Aplicações    Saldo Disponível
+0007#STR0007#HAI#Cód.Agência Conta         Nome                   Saldo Inicial      Entradas          Saídas         Aplicações     Saldo Disponível
+0007#STR0007#MEX#Cód. Agência Conta      Nome                   Saldo Inicial         Entradas           Saídas         Aplicações    Saldo Disponível
+0007#STR0007#PAN#Cód. Agência Conta      Nome                   Saldo Inicial         Entradas           Saídas         Aplicações    Saldo Disponível
+0007#STR0007#PAR#Cód. Agência Conta      Nome                   Saldo Inicial         Entradas           Saídas         Aplicações    Saldo Disponível
+0007#STR0007#PER#Cód. Agência Conta      Nome                   Saldo Inicial         Entradas           Saídas         Aplicações    Saldo Disponível
+0007#STR0007#SAL#Cód. Agência Conta      Nome                   Saldo Inicial         Entradas           Saídas         Aplicações    Saldo Disponível
+0007#STR0007#URU#Cód. Agência Conta      Nome                   Saldo Inicial         Entradas           Saídas         Aplicações    Saldo Disponível
+0007#STR0007#VEN#Cód. Agência Conta      Nome                   Saldo Inicial         Entradas           Saídas         Aplicações    Saldo Disponível
+0008#STR0008#ALL#A Seleccionar Registos...
+0009#STR0009#ALL#Cancelado Pelo Operador
+0011#STR0011#ALL#Total crial ----->

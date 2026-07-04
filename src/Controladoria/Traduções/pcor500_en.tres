@@ -1,0 +1,28 @@
+0001#STR0001#ALL#Comparison of cubes-Trial Blnce.
+0002#STR0002#ALL#Code  
+0003#STR0003#ALL#Descript.
+0004#STR0004#ALL#Prior balance  (A1)
+0005#STR0005#ALL#Prior balance  (A2)
+0006#STR0006#ALL#Difference(A1-A2)
+0007#STR0007#ALL#Difference(A2/A1 %)
+0008#STR0008#ALL#Credit Mov. (C1)
+0009#STR0009#ALL#Credit Mov. (C2)
+0010#STR0010#ALL#Difference(C1-C2)
+0011#STR0011#ALL#Difference(C2/C1 %)
+0012#STR0012#ALL#Debit Mov. (D1)
+0013#STR0013#ALL#Debit Mov. (D2)
+0014#STR0014#ALL#Difference(D1-D2)
+0015#STR0015#ALL#Difference(D2/D1 %)
+0016#STR0016#ALL#FinalBalance(F1)
+0017#STR0017#ALL#FinalBalance(F2)
+0018#STR0018#ALL#Difference(F1-F2)
+0019#STR0019#ALL#Difference(F2/F1 %)
+0020#STR0020#ALL#COMPARISON BETWEEN CONFIGURATION: 		
+0021#STR0021#ALL# AND CONFIGURATION: 
+0022#STR0022#ALL#Printing cancelled by the operator..
+0023#STR0023#ALL#This report will print the comparison of cubes - trial balance according to the parameters requested by the user. For more information about this report, query the Program Help (F1).             
+0024#STR0024#ALL#Movements in level  
+0025#STR0025#ALL#Comparison of configurations   
+0026#STR0026#ALL#Attent.
+0027#STR0027#ALL#User without access to the report. Check configurations.
+0028#STR0028#ALL#Others (Not Specified)

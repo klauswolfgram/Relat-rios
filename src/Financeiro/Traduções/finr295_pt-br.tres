@@ -1,0 +1,16 @@
+0001#STR0001#ALL#Nao disponivel
+0002#STR0002#ALL#Esta funcionalidade so esta disponivel para os relatorios personalizaveis
+0003#STR0003#ALL#Fechar
+0004#STR0004#ALL#Esta funcionalidade so esta disponivel para uso com bancos de dados relacionais
+0005#STR0005#ALL#Relacao de faturas
+0006#STR0006#ALL#Este programa ira emitir a Relacao das faturas a pagar, e o detalhe dos titulos que compoem cada fatura. 
+0007#STR0007#ALL#Faturas
+0008#STR0008#ALL#Fornecedor
+0009#STR0009#ALL#Prefixo+Num
+0010#STR0010#ALL#Composicao da Fatura
+0011#STR0011#ALL#Filial : 
+0012#STR0012#ALL#Código
+0013#STR0013#ALL#Empesa
+0014#STR0014#ALL#Unidade de negócio
+0015#STR0015#ALL#Filial
+0016#STR0016#ALL#Filiais selecionadas para o relatorio

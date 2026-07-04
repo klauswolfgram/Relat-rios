@@ -1,0 +1,123 @@
+0001#STR0001#ALL#Relatório de Rejeições - Tabelas Utilizadas
+0002#STR0002#ALL#A tabela 
+0003#STR0003#ALL# não está corretamente criada no banco de dados.
+0004#STR0004#ALL#As tabelas 
+0005#STR0005#ALL# não estão corretamente criadas no banco de dados.
+0006#STR0006#ALL#OK
+0007#STR0007#ALL#Relatorio Rejeicoes
+0008#STR0008#ALL#PMSR390
+0009#STR0009#ALL#-Sustentacao
+0010#STR0010#ALL#-Inovacao
+0011#STR0011#ALL#Sust_Projeto
+0012#STR0012#ALL#Produto
+0013#STR0013#ALL#Criticidade
+0014#STR0014#ALL#Chamado
+0015#STR0015#ALL#FNC
+0016#STR0016#ALL#Rev. FNC
+0017#STR0017#ALL#Cod.Rotina
+0018#STR0018#ALL#Data SLO
+0019#STR0019#ALL#Sust_Detalhes
+0020#STR0020#ALL#Tipo Rejeicao
+0021#STR0021#ALL#Motivo  Rejeicao
+0022#STR0022#ALL#Data Rejeicao
+0023#STR0023#ALL#Cod. Acao
+0024#STR0024#ALL#Rev. Cod. Acao
+0025#STR0025#ALL#TI Origem
+0026#STR0026#ALL#Etapa Origem
+0027#STR0027#ALL#TI Destino
+0028#STR0028#ALL#Etapa Destino
+0029#STR0029#ALL#Status
+0030#STR0030#ALL#Data Conclusao
+0031#STR0031#ALL#Inov_Projeto
+0032#STR0032#ALL#Projeto
+0033#STR0033#ALL#Tarefa Requisito
+0034#STR0034#ALL#Data Finalizacao
+0035#STR0035#ALL#Desc. Requisito
+0036#STR0036#ALL#Inov_Detalhes
+0037#STR0037#ALL#Tipo Rejeicao
+0038#STR0038#ALL#Motivo  Rejeicao
+0039#STR0039#ALL#Data Rejeicao
+0040#STR0040#ALL#Tarefa Origem
+0041#STR0041#ALL#Desc. Tarefa Origem
+0042#STR0042#ALL#Tarefa Destino
+0043#STR0043#ALL#Desc. Tarefa Destino
+0044#STR0044#ALL#Codigo da Area: 
+0045#STR0045#ALL# ate: 
+0046#STR0046#ALL#Etapa de: 
+0047#STR0047#ALL#Etapa Para: 
+0048#STR0048#ALL#Projetos: 
+0049#STR0049#ALL#Tarefa de: 
+0050#STR0050#ALL#Tarefa ate: 
+0051#STR0051#ALL#Em aberto
+0052#STR0052#ALL#Concluido
+0053#STR0053#ALL#Total de Chamados Rejeitados: 
+0054#STR0054#ALL#Total Geral de Rejeitados: 
+0055#STR0055#ALL#Total por tipo de Rejeicao: 
+0056#STR0056#ALL#Total de Requisitos Rejeitados: 
+0057#STR0057#ALL#Total Geral de Rejeitados: 
+0058#STR0058#ALL#Total por tipo de Rejeicao: 
+0059#STR0059#ALL#SEM TIPO DE REJEICAO
+0060#STR0060#ALL#LEGENDA:
+0061#STR0061#ALL#Descricao tipo de Rejeicao
+0062#STR0062#ALL#Quantidade
+0063#STR0063#ALL#Porcentagem
+0064#STR0064#ALL#Tipo de Relatório 
+0065#STR0065#ALL#Sustentação
+0066#STR0066#ALL#Inovação
+0067#STR0067#ALL#Da Area 
+0068#STR0068#ALL#Até a Area 
+0069#STR0069#ALL#Etapa Origem 
+0070#STR0070#ALL#Etapa Destino 
+0071#STR0071#ALL#Do Produto 
+0072#STR0072#ALL#Até o Produto 
+0073#STR0073#ALL#Criticidade 
+0074#STR0074#ALL#Planejada/Baixa
+0075#STR0075#ALL#Media
+0076#STR0076#ALL#Alta
+0077#STR0077#ALL#Critica
+0078#STR0078#ALL#Todos
+0079#STR0079#ALL#Do Chamado 
+0080#STR0080#ALL#Até o Chamado 
+0081#STR0081#ALL#Da Rotina 
+0082#STR0082#ALL#Até a Rotina 
+0083#STR0083#ALL#Data de Rejeição de
+0084#STR0084#ALL#Data de Rejeição até
+0085#STR0085#ALL#TI de Origem 
+0086#STR0086#ALL#TI de Destino 
+0087#STR0087#ALL#Tipo Rejeição de 
+0088#STR0088#ALL#Tipo Rejeição até
+0089#STR0089#ALL#Projetos (Separados por ';') 
+0090#STR0090#ALL#Da Tarefa 
+0091#STR0091#ALL#Até a Tarefa 
+0092#STR0092#ALL#Data de Rejeição de 
+0093#STR0093#ALL#Até a data de Rejeição 
+0094#STR0094#ALL#TI de Origem
+0095#STR0095#ALL#TI de Destino
+0096#STR0096#ALL#Do tipo Rejeição de 
+0097#STR0097#ALL#Até o Tipo Rejeição 
+0098#STR0098#ALL#Projetos
+0099#STR0099#ALL#a serem considerados na seleção dos
+0100#STR0100#ALL#dados para o relatório
+0101#STR0101#ALL#Tarefa inicial
+0102#STR0102#ALL#a ser considerada na seleção dos
+0103#STR0103#ALL#Tarefa final
+0104#STR0104#ALL#Data inicial das rejeições
+0105#STR0105#ALL#Data final das rejeições
+0106#STR0106#ALL#TIs de Origem
+0107#STR0107#ALL#TIs de Destino
+0108#STR0108#ALL#Tipo de rejeição inicial
+0109#STR0109#ALL#a ser considerado na seleção dos
+0110#STR0110#ALL#Tipo de rejeição final
+0111#STR0111#ALL#Area inicial
+0112#STR0112#ALL#Area Final
+0113#STR0113#ALL#Etapa de origem da rejeição
+0114#STR0114#ALL#Etapa de destino da rejeição
+0115#STR0115#ALL#Produto inicial
+0116#STR0116#ALL#Produto final
+0117#STR0117#ALL#Nível de criticidade
+0118#STR0118#ALL#Chamado inicial
+0119#STR0119#ALL#Chamado final
+0120#STR0120#ALL#Rotina inicial
+0121#STR0121#ALL#Rotina final
+0122#STR0122#ALL#Layout a ser considerado na
+0123#STR0123#ALL#emissão do relatório

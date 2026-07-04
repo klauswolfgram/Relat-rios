@@ -1,0 +1,11 @@
+0001#STR0001#ALL#Seguimiento de Atencion de la OS
+0002#STR0002#ALL#    Este programa emite el informe de Seguimiento de la Orden de Servicio,
+0003#STR0003#ALL#de acuerdo con los parametros solicitados. 
+0004#STR0004#ALL#
+0005#STR0005#ALL#A Rayas
+0006#STR0006#ALL#Administracion
+0007#STR0007#ALL#Num OS  IT CLIENTE                              NUM.LLAMADO  FCH.LLAMADO HORA  CONTACTO             PREVISION DE ATENCION   DURACION
+0008#STR0008#ALL#          CODIGO    NOMBRE                                                                           TEC.   FECHA       HORA  EN HRS
+0009#STR0009#ALL#ANULADO POR EL OPERADOR
+0010#STR0010#ALL#Orden de servic.
+0011#STR0011#ALL#Agen. del tecnico

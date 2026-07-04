@@ -1,0 +1,9 @@
+0001#STR0001#ALL#Este programa irá emitir a relação de movimentos por
+0002#STR0002#ALL#Centro De Custo.
+0003#STR0003#ALL#Movimentos Por Centro De Custo
+0004#STR0004#ALL#C.custo    Cta. Contab.                   Valor Actual      Deprecia. Acumul.      Deprecia. No Mês   Corr. Deprecia. Acumul.  Corr. Monet. Acumul.
+0005#STR0005#ALL#Cancelado Pelo Operador
+0006#STR0006#ALL#Tot. c.custo: 
+0007#STR0007#ALL#Total geral       : 
+0009#STR0009#ALL#Símbolo Da Moeda
+0010#STR0010#ALL#Espaço

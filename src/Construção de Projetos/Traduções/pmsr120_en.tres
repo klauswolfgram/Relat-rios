@@ -1,0 +1,22 @@
+0001#STR0001#ALL#This report will print a list of projects, their structure and estimated financial chronogram for execution.
+0002#STR0002#ALL#Estimated Financial Chronogram
+0003#STR0003#ALL#Z. Form
+0004#STR0004#ALL#Management
+0005#STR0005#ALL#TP. Code                                                                        UN       QUANT.EST.    DURATION INI.EST. END EST.  
+0006#STR0006#ALL#Project : 
+0007#STR0007#ALL#Customer: 
+0008#STR0008#ALL#Version:
+0009#STR0009#ALL#Date : 
+0010#STR0010#ALL#Fee 
+0011#STR0011#ALL#DATE                    ESTIM.COST      %PRJ.PERC.
+0012#STR0012#ALL#This report will print a list of projects, their structure and estimated financial chronogram for execution.
+0013#STR0013#ALL#Accomplished Financial Chronogram
+0014#STR0014#ALL#                  WBS/TASK                        |
+0015#STR0015#ALL#                                                  |       Value        |%Perc.|       Value        |%Perc.|       Value        |%Perc.|       Value        |%Perc.|       Value        |%Perc.|       Value        |%Perc.|
+0016#STR0016#ALL#Project
+0017#STR0017#ALL#Task  
+0018#STR0018#ALL#Value
+0019#STR0019#ALL#Perc.
+0020#STR0020#ALL#Perc.%
+0021#STR0021#ALL#Period 
+0022#STR0022#ALL#*** CANCELLED BY THE USER  ***

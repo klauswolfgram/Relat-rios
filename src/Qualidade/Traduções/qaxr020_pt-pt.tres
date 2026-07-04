@@ -1,0 +1,22 @@
+0001#STR0001#ALL#Lista Ausência Temporária
+0002#STR0002#ALL#Este Programa Irá Imprimir Uma Lista De Ausência Temporária
+0003#STR0003#ALL#De acordo com os parâmetros definidos pelo utilizador.
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#A Seleccionar Registos...
+0007#STR0007#ALL#Pendência          Utilizador Destino               Dept.
+0008#STR0008#ALL#Cancelado Pelo Operador
+0009#STR0009#ALL#Ausência:
+0010#STR0010#ALL#Dt. Iníc.
+0011#STR0011#ALL#Dt. Prév.:
+0012#STR0012#ALL#Dt. Fim:
+0013#STR0013#ALL#Utilizador.:
+0014#STR0014#ALL#Dept.:
+0015#STR0015#ALL#Motivo..:
+0016#STR0016#ALL#Utilizador De Destino:
+0017#STR0017#ALL#Usuario
+0018#STR0018#ALL#Motivo
+0019#STR0019#ALL#Utilizador Destino
+0020#STR0020#ALL#Dept.
+0021#STR0021#ALL#Ausência
+0022#STR0022#ALL#Pendência

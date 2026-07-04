@@ -1,0 +1,56 @@
+0001#STR0001#ALL#Requester File List               
+0002#STR0002#ALL#Issue of Requesters File
+0003#STR0003#ALL#It will print the Petitioner File data according 
+0004#STR0004#ALL#according to the user setup             
+0005#STR0005#ALL#Requester File List               
+0006#STR0006#ALL#Z.form
+0007#STR0007#ALL#Management   
+0008#STR0008#ALL# Cod.Telephone       Name            Trade Name      Address         District        ST  Branch          Zip Code        Reference       CNPJ/CPF       Registr. 
+0009#STR0009#ALL# Contact             E-Mail          Date of Reg.    Product         Prod.Desc.      Pac.Type Transp.    Desc. Type      Type   Mon. Tue. Wed.  Thu. Fri. Sat.  Sun            Ini.Hr. Fin.Hr
+0010#STR0010#ALL#Creating Index...
+0011#STR0011#ALL#*** CANCELED BY OPERATOR ***
+0012#STR0012#ALL# Contact             E-Mail          Date of Reg.    Type Transp.    Desc. Type      Type   Mon. Tue. Wed.  Thu. Fri. Sat.  Sun            Ini.Hr. Fin.Hr
+0013#STR0013#ALL#By DDD+Phone Nbr.
+0014#STR0014#ALL#By name 
+0015#STR0015#ALL#YES
+0016#STR0016#ALL#NO 
+0017#STR0017#ALL#PRODUCTS: 
+0018#STR0018#ALL#PACKAGES:    
+0019#STR0019#ALL#Report of Requesters File
+0020#STR0020#ALL#Issue of Requesters File
+0021#STR0021#ALL#Requester
+0022#STR0022#ALL#Ar.Cd
+0023#STR0023#ALL#Telephone
+0024#STR0024#ALL#Name
+0025#STR0025#ALL#Trade Name
+0026#STR0026#ALL#Address
+0027#STR0027#ALL#City
+0028#STR0028#ALL#State
+0029#STR0029#ALL#District
+0030#STR0030#ALL#Zip
+0031#STR0031#ALL#Reference
+0032#STR0032#ALL#SSN/EIN
+0033#STR0033#ALL#Registrn.
+0034#STR0034#ALL#Contact
+0035#STR0035#ALL#E-mail
+0036#STR0036#ALL#File Date
+0037#STR0037#ALL#Transp.Tp.
+0038#STR0038#ALL#Desc.Transp.Tp.
+0039#STR0039#ALL#Type
+0040#STR0040#ALL#Mon.
+0041#STR0041#ALL#Tue.
+0042#STR0042#ALL#Wed.
+0043#STR0043#ALL#Thu.
+0044#STR0044#ALL#Fri.
+0045#STR0045#ALL#Sat.
+0046#STR0046#ALL#Sun.
+0047#STR0047#ALL#Ini.Tm.
+0048#STR0048#ALL#End Tm
+0049#STR0049#ALL#Product
+0050#STR0050#ALL#Product Desc.
+0051#STR0051#ALL#Package
+0052#STR0052#ALL#Package Desc.
+0053#STR0053#ALL#Code+Telephone
+0054#STR0054#ALL#Code Request
+0055#STR0055#ALL#Per Requester Code
+0056#STR0056#ALL#Protected Data - Restrict Access: This user does not have permission to access the data of this routine. For further details, contact the system administrator.

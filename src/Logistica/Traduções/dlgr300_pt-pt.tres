@@ -1,0 +1,27 @@
+0001#STR0001#ALL#Romaneio De Separação Por Carga
+0002#STR0002#ALL#Emite relatório de romaneio de separação ordenado por
+0003#STR0003#ALL#Carga+sequência de carga. em cada carga os itens são 
+0004#STR0004#ALL#Ordenados por pedido+cliente/fornecedor+loja+item    
+0005#STR0005#ALL#Código de barras
+0007#STR0007#ALL#Item produto         lote       sub-lote endereco origem                    1aum
+0008#STR0008#ALL#     descrição                                                                  
+0009#STR0009#ALL#Item produto         lote       sub-lote endereco origem                    2aum
+0010#STR0010#ALL#Item produto         lote       sub-lote endereco origem  unitiz.   1aum    2aum
+0011#STR0011#ALL#Item Produto         Lote       Sub-lote Endereco Origem              Quantidade
+0013#STR0013#ALL#Chegada....: [______] saida: [______]
+0015#STR0015#ALL#Condutor..: 
+0018#STR0018#ALL# hora: 
+0019#STR0019#ALL#Mor.destino: 
+0023#STR0023#ALL#A Seleccionar Registos...
+0024#STR0024#ALL#Aguarde... Preparando Registos Para Impressão...
+0025#STR0025#ALL#A Ordenar As Cargas
+0027#STR0027#ALL#A Ordenar Os Pedidos
+0028#STR0028#ALL#Aguarde... Ordenando Registos Para Impressão...
+0030#STR0030#ALL#Saída
+0031#STR0031#ALL#Uniformizada
+0032#STR0032#ALL#1aum
+0033#STR0033#ALL#2aum
+0035#STR0035#ALL#Itens Da Carga
+0036#STR0036#ALL#Movimentos por morada
+0038#STR0038#ALL#Veículo
+0041#STR0041#ALL#Elemento

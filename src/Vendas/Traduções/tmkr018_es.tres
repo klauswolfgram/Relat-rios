@@ -1,0 +1,60 @@
+0001#STR0001#ALL#Atencion Receptiva - Ocurrencias
+0002#STR0002#ALL#Este programa emitira la lista con las
+0003#STR0003#ALL#ocurrencias de atencion.
+0004#STR0004#ALL#A Rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL# Asunto                                 Producto                       Ocurrencia                               Accion
+0007#STR0007#ALL#ANULADO POR EL OPERADOR
+0008#STR0008#ALL#Fecha de la atencion
+0009#STR0009#ALL#Nombre del contacto
+0010#STR0010#ALL#Codigo de la atencion
+0011#STR0011#ALL#Descripcion de la entidad
+0012#STR0012#ALL#Nombre del operador
+0013#STR0013#ALL#Razon social de la entidad
+0014#STR0014#ALL#Estado de la atencion
+0015#STR0015#ALL#Telefono de la entidad
+0016#STR0016#ALL#Tipo de atencion
+0017#STR0017#ALL#Ciudad de la entidad
+0018#STR0018#ALL#Motivo de la finalizacion
+0019#STR0019#ALL#Estado de la entidad
+0020#STR0020#ALL#Observacion de la atencion
+0021#STR0021#ALL#Total de las atenciones computadas para el dia 
+0022#STR0022#ALL#Total de atenciones activas
+0023#STR0023#ALL#Total de atenciones receptivas
+0024#STR0024#ALL#Total de la ocurrencia
+0025#STR0025#ALL#Total del producto
+0026#STR0026#ALL#Ocurrencia
+0027#STR0027#ALL#Total de atenciones realizadas en el periodo de 
+0028#STR0028#ALL# a 
+0029#STR0029#ALL#No hay datos para imprimir en este informe
+0030#STR0030#ALL#Item  Asunto                               Producto                        Ocurrencia                      Accion                                              Responsable      Fc Accion   Estatus       Ejecuc. 
+0031#STR0031#ALL#Complemento de la ejecucion
+0032#STR0032#ALL#No localizado en el archivo...
+0033#STR0033#ALL#No localizado en la atencion...
+0034#STR0034#ALL#Cargo
+0035#STR0035#ALL#Tel. Com.1
+0036#STR0036#ALL#Nivel
+0037#STR0037#ALL#E-Mail
+0038#STR0038#ALL#Grupo
+0039#STR0039#ALL#Departamento
+0040#STR0040#ALL#Medios
+0041#STR0041#ALL#Comunicac. 
+0042#STR0042#ALL#TOTAL DE ATENCIONES ACTIVAS Y  RECEPTIVAS EN PERIODO DE  
+0043#STR0043#ALL# A  
+0044#STR0044#ALL#FCHA          ACTIV.       RECEPTIVAS
+0045#STR0045#ALL#TOTAL
+0046#STR0046#ALL#Ocurrencias con mayor numero de atenciones
+0047#STR0047#ALL#OCURRENCIA                                                    TOTAL       %
+0048#STR0048#ALL#Ocurrencias ejecutadas por prod. 
+0049#STR0049#ALL#Ocurrencias ejecutadas por asunto 
+0050#STR0050#ALL#ASUNTO                                                        TOTAL       %
+0051#STR0051#ALL#Asunto
+0052#STR0052#ALL#Producto
+0053#STR0053#ALL#Acc.
+0054#STR0054#ALL#Estat.
+0055#STR0055#ALL#Fch.
+0056#STR0056#ALL#Activ.
+0057#STR0057#ALL#Receptivos
+0058#STR0058#ALL#Telemarketing
+0059#STR0059#ALL#Items de telemarketing
+0060#STR0060#ALL#Responsable

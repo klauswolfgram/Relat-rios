@@ -1,0 +1,11 @@
+0001#STR0001#ALL#Este relatório irá imprimir uma relação dos projectos, sua estrutura e o cronograma financeiro previsto para execução do projecto.
+0003#STR0003#ALL#Código de barras
+0004#STR0004#ALL#Administração
+0005#STR0005#ALL#Tp. código        descrição                                                     un       quant.prev    duração iníc.prv. fim prv.  
+0006#STR0006#ALL#Projecto
+0008#STR0008#ALL#Versão :
+0011#STR0011#ALL#Data                     custo prv.      %perc.prj.
+0012#STR0012#ALL#                  edt/tarefa                      |
+0013#STR0013#ALL#                                                  |       valor        |%perc.|       valor        |%perc.|       valor        |%perc.|       valor        |%perc.|       valor        |%perc.|       valor        |%perc.|
+0017#STR0017#ALL#Edt./tarefa
+0018#STR0018#ALL#*** cancelado pelo utilizador ***

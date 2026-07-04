@@ -1,0 +1,42 @@
+0001#STR0001#ALL#Programac. Diaria 
+0002#STR0002#ALL#Emite la lista de los viajes programados segun los parametros informados
+0003#STR0003#ALL#A rayas
+0004#STR0004#ALL#Administrac. 
+0005#STR0005#ALL#ANULADO POR EL OPERADOR
+0006#STR0006#ALL#VIAJE     FC.INICIO  PLZ.ENTREG No.DOCTO  SERIE CLIENTE/SOLICITANTE  DESTINATARIO         ORIGEN                    DESTINO                   VEHIC.             1o.REMOLQ.          2o.REMOLQ.         CONDUCTOR
+0007#STR0007#ALL#                                                                                          PRODUC.                   EMBALAJE                  VOLUM.             UNITIZADORES        PESO               PESO CUBADO
+0008#STR0008#ALL#Total de Documentos......: 
+0009#STR0009#ALL#Total Gral. de Documentos: 
+0010#STR0010#ALL#Total de Viajes .........: 
+0011#STR0011#ALL#Servic. de Transporte : 
+0012#STR0012#ALL#Programacion Diaria
+0013#STR0013#ALL#Emite lista con los viajes programados segun los parametros informados
+0014#STR0014#ALL#Serv.Transp. + Suc.Origen + Viage
+0015#STR0015#ALL#Serv.Transp.
+0016#STR0016#ALL#Descripcion
+0017#STR0017#ALL#Viaje
+0018#STR0018#ALL#Suc.Orig.
+0019#STR0019#ALL#Fc.Inicio
+0020#STR0020#ALL#Plz.Entrega
+0021#STR0021#ALL#Suc.
+0022#STR0022#ALL#Docto
+0023#STR0023#ALL#Serie
+0024#STR0024#ALL#Cliente/Solicitante
+0025#STR0025#ALL#Destinatario
+0026#STR0026#ALL#Origen
+0027#STR0027#ALL#Destino
+0028#STR0028#ALL#Vehiculo
+0029#STR0029#ALL#1o Remolque
+0030#STR0030#ALL#2o Remolque
+0031#STR0031#ALL#Conductor
+0032#STR0032#ALL#Producto
+0033#STR0033#ALL#Embalaje
+0034#STR0034#ALL#Volumen
+0035#STR0035#ALL#Unitiz.
+0036#STR0036#ALL#Peso
+0037#STR0037#ALL#Peso Cubado
+0038#STR0038#ALL#Total de Viajes
+0039#STR0039#ALL#Total de Documentos
+0040#STR0040#ALL#Total General de Documentos
+0041#STR0041#ALL#Total de Viajes
+0042#STR0042#ALL#3º Remolque

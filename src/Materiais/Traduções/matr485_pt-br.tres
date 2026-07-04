@@ -1,0 +1,24 @@
+0001#STR0001#ALL#Relatorio de NFs De / Em Terceiros
+0002#STR0002#ALL#Emite a relacao de todas as NFs envolvidas no processo de  controle
+0003#STR0003#ALL#de Poder de Terceiros
+0004#STR0004#ALL# Nota Fiscal 
+0005#STR0005#ALL# Cliente/Fornecedor 
+0006#STR0006#ALL# Produto 
+0007#STR0007#ALL#Zebrado
+0008#STR0008#ALL#Administracao
+0009#STR0009#ALL#REGISTRO(S)
+0010#STR0010#ALL#da Nota Fiscal:
+0011#STR0011#ALL#do Cliente/Fornecedor:
+0012#STR0012#ALL#do Produto:
+0013#STR0013#ALL#Selecionando Registros...
+0014#STR0014#ALL#NOTA        SERIE CLIENTE/    PRODUTO          QUANTIDADE                PRECO              VALOR      DATA   DE/EM  TES  TIPO
+0015#STR0015#ALL#FISCAL            FORNECEDOR                                          UNITARIO                      EMISSAO   TERC.         NF
+0016#STR0016#ALL#Total 
+0017#STR0017#ALL#Valor
+0018#STR0018#ALL#Saldos de / em Terceiros
+0019#STR0019#ALL#NOTA                     SERIE  CLIENTE/    PRODUTO          QUANTIDADE               PRECO               VALOR      DATA   DE/EM  TES  TIPO
+0020#STR0020#ALL#FISCAL                         FORNECEDOR                                           UNITARIO                      EMISSAO   TERC.         NF		
+0021#STR0021#ALL#NOTA        SERIE CLIENTE/                  PRODUTO          QUANTIDADE                PRECO              VALOR      DATA   DE/EM  TES  TIPO
+0022#STR0022#ALL#FISCAL            FORNECEDOR                                                        UNITARIO                      EMISSAO   TERC.         NF
+0023#STR0023#ALL#NOTA                     SERIE  CLIENTE/                  PRODUTO           QUANTIDADE              PRECO              VALOR     DATA    DE/EM   TES  TIPO
+0024#STR0024#ALL#FISCAL                          FORNECEDOR                                                       UNITARIO                       EMISSAO   TERC.         NF

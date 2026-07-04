@@ -1,0 +1,32 @@
+0001#STR0001#ALL#List the suppliers that present EPI which
+0002#STR0002#ALL#C.A. renovation date is over due or falling due in 
+0003#STR0003#ALL#a determined period.
+0004#STR0004#ALL#Z. Form
+0005#STR0005#ALL#Management
+0006#STR0006#ALL#Suppliers with Approval Certificate falling due
+0007#STR0007#ALL#Suppli.  Supplier´s Name                           Epi Code         Epi Name		                      C.A.          Dua Date  
+0008#STR0008#ALL#CANCELLED BY THE OPERATOR
+0009#STR0009#ALL#Vendor    
+0010#STR0010#ALL#Vendor name       
+0011#STR0011#ALL#EPI code  
+0012#STR0012#ALL#EPI name
+0013#STR0013#ALL#C.A.
+0014#STR0014#ALL#Due date  
+0015#STR0015#ALL#From Client?
+0016#STR0016#ALL#Stor
+0017#STR0017#ALL#To Client?
+0018#STR0018#ALL#Client
+0019#STR0019#ALL#Name
+0020#STR0020#ALL#Client: 
+0021#STR0021#ALL#To Due Date ?
+0022#STR0022#ALL#To Supplier?
+0023#STR0023#ALL#From Supplier?
+0024#STR0024#ALL#Order EPI?
+0025#STR0025#ALL#Inform how you wish to order EPI's listed in report.
+0026#STR0026#ALL#From Branch?
+0027#STR0027#ALL#To Branch?
+0028#STR0028#ALL#Attention
+0029#STR0029#ALL#Code
+0030#STR0030#ALL#Name
+0031#STR0031#ALL#Branch
+0032#STR0032#ALL#There are no data to generate the report.

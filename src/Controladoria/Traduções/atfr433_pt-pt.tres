@@ -1,0 +1,10 @@
+0002#STR0002#ALL#Função disponível apenas para TReport. Por favor, actualizar o ambiente e verificar o parâmetro MV_TREPORT
+0003#STR0003#ALL#Este relatório tem o objectivo de demonstrar comparativo Provisão x Realizado x AVP de curto e longo prazo dos activos relacionados aos projectos do imobilizado 
+0004#STR0004#ALL#Demonstrativo Provisão x Realizado x AVP de curto e longo prazo de Projecto de Imobilizado
+0005#STR0005#ALL#Projecto do imobilizado
+0006#STR0006#ALL#AVP de imobilizados do projecto
+0009#STR0009#ALL#Saldo provisão
+0010#STR0010#ALL#Constituído
+0018#STR0018#ALL#Total Projecto
+0019#STR0019#ALL#Para utilizar este relatório, é necessário que estejam implementados os processos de Projectos de Imobilizado e Controlo de AVP de Imobilizados. Por favor, actualize o ambiente
+0020#STR0020#ALL#Projecto Cód.:

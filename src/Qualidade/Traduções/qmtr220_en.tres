@@ -1,0 +1,49 @@
+0001#STR0001#ALL#This program will print a 
+0002#STR0002#ALL#Individual Report of Repeat./Reprod.
+0003#STR0003#ALL#Z.Form 
+0004#STR0004#ALL#Management   
+0005#STR0005#ALL#CANCELLED BY OPERATOR  
+0006#STR0006#ALL#Averages
+0007#STR0007#ALL#Amplitude
+0008#STR0008#ALL#Averages
+0009#STR0009#ALL#of Part
+0010#STR0010#ALL#Average of all amplitudes (RBa+RBb+...)/# of the Appraisers
+0011#STR0011#ALL#ANALYSIS OF MEASUREMENT AMPLIT.
+0012#STR0012#ALL#% PROCESS VARIATION   
+0013#STR0013#ALL#Repeatability - Equipment Variation (EV)     
+0014#STR0014#ALL#Reproducibility - Appraiser Variation  (AV)
+0015#STR0015#ALL#n = number of parts
+0016#STR0016#ALL#r = number of cycle 
+0017#STR0017#ALL#Repeatability and Reproducibility  (R&R)
+0018#STR0018#ALL#Part to Part Variat. (PV)
+0019#STR0019#ALL#Total Variation(TV)
+0020#STR0020#ALL#Result   
+0021#STR0021#ALL#Amplitude
+0022#STR0022#ALL#Average Amplitude
+0023#STR0023#ALL#Sum of Amplitudes / # of Appraisers   
+0024#STR0024#ALL#G R&R
+0025#STR0025#ALL#% R&R
+0026#STR0026#ALL#Process Variation / Tolerance  
+0027#STR0027#ALL#Result   
+0028#STR0028#ALL#Limits 
+0029#STR0029#ALL#Limits 
+0030#STR0030#ALL#Tolerance 
+0031#STR0031#ALL#Results   
+0032#STR0032#ALL#Metho
+0033#STR0033#ALL#Specification Tolerance    
+0034#STR0034#ALL#Process Tolerance     
+0035#STR0035#ALL#Tester   
+0036#STR0036#ALL#Parts
+0037#STR0037#ALL#Averages
+0038#STR0038#ALL#Sample 
+0039#STR0039#ALL#Short
+0040#STR0040#ALL#Validity Date: 
+0041#STR0041#ALL#REPEATABILITY / REPRODUCIBILITY
+0042#STR0042#ALL#Test Date: 
+0043#STR0043#ALL#Total of Reading(s): 
+0044#STR0044#ALL#Capable Reading(s): 
+0045#STR0045#ALL#Non-Capable Reading(s): 
+0046#STR0046#ALL#Attribute - Short
+0047#STR0047#ALL#Pass  
+0048#STR0048#ALL#Do Not Pass
+0049#STR0049#ALL#Results

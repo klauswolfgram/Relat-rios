@@ -1,0 +1,20 @@
+0001#STR0001#ALL#Este programa irá  imprimir o  Razäo Contabil dos lancamentos
+0002#STR0002#ALL#contab. aglutinados por contas de acordo com os parametros 
+0003#STR0003#ALL#configurados pelo usuario.
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#Emissao do Razao Aglut. por contas
+0007#STR0007#ALL#RAZAO EM 
+0008#STR0008#ALL# DE 
+0009#STR0009#ALL# ATE 
+0010#STR0010#ALL#LOTE/SUB/DOC/LINHA     H I S T O R I C O                                       DEBITO                CREDITO            SALDO ATUAL
+0011#STR0011#ALL#***** CANCELADO PELO OPERADOR *****
+0012#STR0012#ALL#CONTA - 
+0013#STR0013#ALL#Selecionando Registros...
+0014#STR0014#ALL#Criando Arquivo Temporário...
+0015#STR0015#ALL#DATA
+0016#STR0016#ALL#T o t a i s  d a  C o n t a  ==> 
+0017#STR0017#ALL#A TRANSPORTAR :
+0018#STR0018#ALL#DE TRANSPORTE :
+0019#STR0019#ALL#T O T A L  G E R A L ==> 
+0020#STR0020#ALL#O plano gerencial nao esta disponivel nesse relatorio.

@@ -1,0 +1,43 @@
+0001#STR0001#BRA#Refund of ICMS ST and ICMS OP - Minas Gerais
+0002#STR0002#BRA#This program will generate the list required to orders of    
+0003#STR0003#BRA#refund of ICMS Tax Override (ST) to the Ministry of Economy of        
+0004#STR0004#BRA#Minas Gerais, according to request by ministry of economy insp.
+0005#STR0005#BRA#Z. form
+0006#STR0006#BRA#Administration
+0007#STR0007#BRA#*NO TRANSACTIONS RECORDED*
+0008#STR0008#BRA#REFUND OF ICMS ST AND ICMS OP   
+0009#STR0009#BRA#Company name: ########################################
+0010#STR0010#BRA#IE:           ##############
+0011#STR0011#BRA#EIN:         ##################
+0012#STR0012#BRA#Period:       ########## to ##########
+0013#STR0013#BRA#GENERAL SUMMARY PER PRODUCT                                                                                                                                                                                     Page: ###### 
+0014#STR0014#BRA#|     PRODUCT     |     Amount |  Value ICMS ST |  Value ICMS Op |    Amount |  Value ICMS ST |  Value ICMS Op |     Amount |     Amount |  Value ICMS ST |  Value ICMS Op |       VALUE TO|      VALUE FROM |
+0015#STR0015#BRA#|                 |                |                |        Own |               |                |        Own|                |                |        Own |                |     REIMBURSE|       CREDIT |
+0016#STR0016#BRA#| ############### | ############## | ############## | ############## | ############# | ############## | ############## | ############## | ############## | ############## | ############## | ############# | ############# |
+0017#STR0017#BRA#| ###############################################                                                      | ############# | ######### |
+0018#STR0018#BRA#| TO BE TRANSPORTED      |################|################|     |#############|#############| ##############|                          |
+0019#STR0019#BRA#| THERE ARE NO REIMBURSEMENT VALUES IN THE PERIOD                                                                                                                                                                            |
+0020#STR0020#BRA#Product
+0021#STR0021#BRA#Code  
+0022#STR0022#BRA#NBM
+0023#STR0023#BRA#Descript.
+0024#STR0024#BRA#Un.
+0025#STR0025#BRA#Quantity  
+0026#STR0026#BRA#ICMS ST Refundable
+0027#STR0027#BRA#Own ICMS OP to credit     
+0028#STR0028#BRA#Taxpayer's information
+0029#STR0029#BRA#Company name
+0030#STR0030#BRA#IE
+0031#STR0031#BRA#EIN
+0032#STR0032#BRA#Period 
+0033#STR0033#BRA#General summary by prod.
+0034#STR0034#BRA#Total
+0035#STR0035#BRA#Inventory:   ##########
+0036#STR0036#BRA#|    CODE OF    |----------------+----------------+----------------+---------------+----------------+----------------+----------------+----------------+----------------+----------------+-------------------------------|
+0037#STR0037#BRA#|                 |                   INVENTORY                     |               PERIOD ENTRIES               | PERIOD EXITS |                      TOTAL                      |         REIMBURSEMENT         |
+0038#STR0038#BRA#Inflow Op ICMS
+0039#STR0039#BRA#Outflow
+0040#STR0040#BRA#Total Amt.
+0041#STR0041#BRA#Total ST ICMS
+0042#STR0042#BRA#Total Op ICMS
+0043#STR0043#BRA#Inventory Date:

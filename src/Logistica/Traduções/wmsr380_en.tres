@@ -1,0 +1,31 @@
+0001#STR0001#ALL#Fractionated Separation Map
+0002#STR0002#ALL#Z. form
+0003#STR0003#ALL#Management   
+0004#STR0004#ALL# Custom.   Product                                              Qtt.    ARM 
+0005#STR0005#ALL#CANCELLED BY OPERATOR  
+0006#STR0006#ALL#Map number      :
+0007#STR0007#ALL#Separator number : _______________
+0008#STR0008#ALL#Checker number   : _______________
+0009#STR0009#ALL#Packager number  : _______________
+0010#STR0010#ALL#Load            :
+0011#STR0011#ALL#Destination address:
+0012#STR0012#ALL#Number of items  :
+0013#STR0013#ALL#Total weight (KG):
+0014#STR0014#ALL#Cube             :
+0015#STR0015#ALL#Number of volumes:
+0016#STR0016#ALL#Vehicle numberplate
+0017#STR0017#ALL#Movements by address   
+0018#STR0018#ALL#Customer
+0019#STR0019#ALL#Qty.
+0020#STR0020#ALL#Nbr.of Items
+0021#STR0021#ALL#Total weight(KG)
+0022#STR0022#ALL#Cube   
+0023#STR0023#ALL#Loads 
+0024#STR0024#ALL#Nbr.of Volumes
+0025#STR0025#ALL#Vehicle numberplate
+0026#STR0026#ALL#Totals
+0027#STR0027#ALL#Cube            :
+0028#STR0028#ALL#The purpose of this report is to Issue and Print or just Print a Separation Map for Quantities according to entered parameters.
+0029#STR0029#ALL#Separation Map Header
+0030#STR0030#ALL#Separation Map Items
+0031#STR0031#ALL#Order

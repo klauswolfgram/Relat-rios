@@ -1,0 +1,118 @@
+0001#STR0001#ALL#Report of Stock/Days Managerial Analysis      
+0002#STR0002#ALL#Z. form
+0003#STR0003#ALL#Management   
+0004#STR0004#ALL#S  T  O  C  K     A N A L Y S I S    
+0005#STR0005#ALL#Cost 
+0006#STR0006#ALL#Repos
+0007#STR0007#ALL#   Items                           Location       Avail.   
+0008#STR0008#ALL# Unit.  
+0009#STR0009#ALL# Total  Price Sale   Lst.pur. Lst.sale
+0010#STR0010#ALL#Groups: 
+0011#STR0011#ALL# 0 to 30
+0012#STR0012#ALL#31 to 60
+0013#STR0013#ALL# 61 to 90
+0014#STR0014#ALL# 91 to 120
+0015#STR0015#ALL# 121 to 180 
+0016#STR0016#ALL#   181 to 240 days    
+0017#STR0017#ALL#   241 to 365 days    
+0018#STR0018#ALL#366 to730
+0019#STR0019#ALL# over 730
+0020#STR0020#ALL#  Cost  
+0021#STR0021#ALL#Reposit.
+0022#STR0022#ALL# days
+0023#STR0023#ALL# ===============  -Qtty-  ---------- STOCK BALANCE ---------  ---------- WORKSHP BLNCE ---------  --------- WARRANTY BLNCE ---------
+0024#STR0024#ALL#   S A C E S      Produc   Price 
+0025#STR0025#ALL#    Sale Price        Price 
+0026#STR0026#ALL#    Warranty Price 
+0027#STR0027#ALL# ===============  ------  ----------------------------------  ----------------------------------  ----------------------------------
+0028#STR0028#ALL#*** T O T A L ***
+0029#STR0029#ALL#Date of Last Sale:   
+0030#STR0030#ALL#Date of Last Purchase:
+0031#STR0031#ALL#NOTE: In STOCK BALANCE no record of WRKSHP BLNCE or WARRA.TY BLNCE.
+0032#STR0032#ALL#Sales in last 30 days       
+0033#STR0033#ALL#  - Qty. of Sales.................:
+0034#STR0034#ALL#  - Cost of Sales   ..............:
+0035#STR0035#ALL#Total Stock  
+0036#STR0036#ALL#- Availability.............:
+0037#STR0037#ALL#- Yearly turnover..........:
+0038#STR0038#ALL#- Monthly turnover.........:
+0039#STR0039#ALL# month
+0040#STR0040#ALL# times
+0041#STR0041#ALL#Stock at Price  
+0042#STR0042#ALL#  - Total Stock...................:
+0043#STR0043#ALL#  - Stock without Wrkshp & Warranty
+0044#STR0044#ALL#Stock without Wrkshp and Warr.
+0045#STR0045#ALL# ===============  ------  -------------  -------------------------------------- LAST PURCHASE ------------------------------------
+0046#STR0046#ALL#   S A L E S       Qty.       Price         0to 30   31to 60   61to 90  91to 120 121to 180 181to 240 241to 365 366to 730  over 730
+0047#STR0047#ALL#                  Produc     
+0048#STR0048#ALL# Qty.%Cost
+0049#STR0049#ALL# ===============  ------  -------------  ---(A)--- ---(B)--- ---(C)--- ---(D)--- ---(E)--- ---(F)--- ---(G)--- ---(H)--- ---(I)---
+0050#STR0050#ALL#*** SALES  *** 
+0051#STR0051#ALL#***PURCHASES***
+0052#STR0052#ALL# -Purchase 
+0053#STR0053#ALL# days 
+0054#STR0054#ALL# to 
+0055#STR0055#ALL#INITIAL
+0056#STR0056#ALL#NO
+0057#STR0057#ALL#YES
+0058#STR0058#ALL#  0 to 30 days(1)
+0059#STR0059#ALL# 31 to 60 days(2)
+0060#STR0060#ALL# 61 to 90 days(3)
+0061#STR0061#ALL# 91 to 120 days(4)
+0062#STR0062#ALL#121 to 180 days(5)
+0063#STR0063#ALL#181 to 240 days(6)
+0064#STR0064#ALL#241 to 365 days(7)
+0065#STR0065#ALL#366 to 730 days(8)
+0066#STR0066#ALL# + than 730 days(9)
+0067#STR0067#ALL# ===============  -Amount-  ---------- INVENTORY BALANCE ---------  ---------- REPAIR SHOP BALANCE ---------  --------- GUARANTEE BALANCE ---------
+0068#STR0068#ALL#   SALES    Price   Product
+0069#STR0069#ALL#Sales Price            Price
+0070#STR0070#ALL#Guarantee Price
+0071#STR0071#ALL#T O T A L
+0072#STR0072#ALL#Date of last sales:
+0073#STR0073#ALL#Date of last purchase:
+0074#STR0074#ALL#OBS.: In INVENTORY BALANCE it is not presented REPAIR SHOP BALANCE or in GUARANTEE BALANCE
+0075#STR0075#ALL#Sales in the past 30 days
+0076#STR0076#ALL#Amt.%Cost Amt.%Cost Amt%Cost Amt.%Cost Amt.%Cost Amt.%Cost Amt.%Cost Amt.%Cost Amt.%Cost
+0077#STR0077#ALL#SALES
+0078#STR0078#ALL#PURCHASES
+0079#STR0079#ALL#PURCHASE
+0080#STR0080#ALL#days
+0081#STR0081#ALL#                                  STRATEGIC INVENTORY  -   REGULAR D S M
+0082#STR0082#ALL#                                    STRATEGIC INVENTORY  -   CHANNEL D S M
+0083#STR0083#ALL#                                 STRATEGIC INVENTORY  -   ENGINES D S M
+0084#STR0084#ALL#                         STRATEGIC INVENTORY - SPECIAL PROJECTS
+0085#STR0085#ALL#                         STRATEGIC INVENTORY  -   RETURN                      
+0086#STR0086#ALL#                          STRATEGIC INVENTORY - WITH NO CLASSIFICATION
+0087#STR0087#ALL#                          STRATEGIC INVENTORY - SUPER ZEROED         
+0088#STR0088#ALL#Groups of Parts to Consider
+0089#STR0089#ALL#Enter the Groups of Parts to Consider
+0090#STR0090#ALL#Sales Lines
+0091#STR0091#ALL#Enter the Sales Lines from 1 to 9
+0092#STR0092#ALL#to show the Items in detail.
+0093#STR0093#ALL#If * shows all Sales Lines.
+0094#STR0094#ALL#e.g.: 1257/2004.
+0095#STR0095#ALL#Lines 1, 2, 5 and 7.
+0096#STR0096#ALL#Values
+0097#STR0097#ALL#Cost Price
+0098#STR0098#ALL#Replacement Price
+0099#STR0099#ALL#Enter price type.
+0100#STR0100#ALL#Order
+0101#STR0101#ALL#Item (Grp+Cod)
+0102#STR0102#ALL#Value (Cost/Rep)
+0103#STR0103#ALL#Enter the order of report.
+0104#STR0104#ALL#LineColumn Purchases
+0105#STR0105#ALL#Enter the LinesColumns to show
+0106#STR0106#ALL#the items in detail.
+0107#STR0107#ALL#Lines = Sales ( 1 to 9 )
+0108#STR0108#ALL#Columns = Purchases ( A to I )
+0109#STR0109#ALL#If Line* displays the Line entered and
+0110#STR0110#ALL#all corresponding Columns.
+0111#STR0111#ALL#If *Column displays the Column entered
+0112#STR0112#ALL#and all corresponding Lines.
+0113#STR0113#ALL#Whether * or ** displays all Lines
+0114#STR0114#ALL#and all Columns.
+0115#STR0115#ALL#e.g.: 1*2B*C. Displays:
+0116#STR0116#ALL#Line 1 with all Columns,
+0117#STR0117#ALL#Line 2 with Column B,
+0118#STR0118#ALL#All Column C Lines.

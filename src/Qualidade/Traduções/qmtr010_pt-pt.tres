@@ -1,0 +1,21 @@
+0001#STR0001#ALL#Este programa irá emitir a relação de
+0002#STR0002#ALL#Instrumentos a calibrar.
+0003#STR0003#ALL#Código de barras
+0005#STR0005#ALL#Relatório De Instrumentos A Calibrar
+0006#STR0006#ALL#Relatório
+0007#STR0007#ALL#Dias
+0008#STR0008#ALL#Cancelado Pelo Operador
+0013#STR0013#ALL#Instrumentos A Calibrar
+0014#STR0014#ALL#Não Calibrado
+0015#STR0015#ALL#A Seleccionar Registos
+0018#STR0018#ALL#Família
+0019#STR0019#ALL#Freq.
+0021#STR0021#ALL#Relatório
+0022#STR0022#ALL#Localização
+0023#STR0023#ALL#Descrição
+0024#STR0024#ALL#Sub-total 
+0025#STR0025#ALL#Total geral 
+0026#STR0026#ALL#Depto.+data
+0027#STR0027#ALL#Intervalos
+0028#STR0028#ALL#Responsável
+0030#STR0030#ALL#Tolerância

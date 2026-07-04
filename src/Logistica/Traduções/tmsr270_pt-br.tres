@@ -1,0 +1,27 @@
+0001#STR0001#ALL#Relacao Contabil de CTRCs nao Entregues
+0002#STR0002#ALL#Este programa ira emitir a relacao de CTRCs nao
+0003#STR0003#ALL#entregues de acordo com os parametros escolhidos
+0004#STR0004#ALL#pelo usuario
+0005#STR0005#ALL#Zebrado
+0006#STR0006#ALL#Administracao
+0007#STR0007#ALL#Filial Origem :
+0008#STR0008#ALL#Total Origem : 
+0009#STR0009#ALL#CTRC       DESTINO    EMISSAO  PRZ.ENTREGA  CHEGADA    MANIFESTO         VALOR     CONTRATO  VEICULO            1o.REBOQUE         2o.REBOQUE              PESO          VALOR    DESTINATARIO
+0010#STR0010#ALL#                                                                         FRETE                                                                                      CONTRATADO                
+0011#STR0011#ALL#CANCELADO PELO OPERADOR
+0012#STR0012#ALL#Relacao Contabil de CTRCs nao Entregues
+0013#STR0013#ALL#Este programa ira emitir a relacao de CTRCs nao entregues de acordo com os parametros escolhidos pelo usuario
+0014#STR0014#ALL#Fil.Origem + Fil.Docto + Documento + Serie
+0015#STR0015#ALL#Fil. Docto
+0016#STR0016#ALL#Descrição
+0017#STR0017#ALL#Documento
+0018#STR0018#ALL#Placa
+0019#STR0019#ALL#Contratado
+0020#STR0020#ALL#Destinatário
+0021#STR0021#ALL#Fil.Man
+0022#STR0022#ALL#Manifesto
+0023#STR0023#ALL#Fil.Dest
+0024#STR0024#ALL#1o Reboque
+0025#STR0025#ALL#2o Reboque
+0026#STR0026#ALL#Total Origem
+0027#STR0027#ALL#3° Reboque

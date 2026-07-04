@@ -1,0 +1,73 @@
+0001#STR0001#ALL#Relatorio de Funcionarios.
+0002#STR0002#ALL#Será impresso de acordo com os parametros solicitados pelo
+0003#STR0003#ALL#usuário.
+0004#STR0004#ALL#Matricula
+0005#STR0005#ALL#Nome
+0006#STR0006#ALL#Centro Custo
+0007#STR0007#ALL#Cargo
+0008#STR0008#ALL#Zebrado
+0009#STR0009#ALL#Administraçäo
+0010#STR0010#ALL#Relatorio de Funcionarios
+0011#STR0011#ALL#FILIAL MATR.  NOME                           DT.NASC.  DT.ADMIS  EST.CIVIL       CARGO                    CENTRO CUSTO
+0012#STR0012#ALL#FILIAL NOME                            MATR. DT.NASC.  DT.ADMIS  EST.CIVIL       CARGO                    CENTRO CUSTO
+0013#STR0013#ALL#FILIAL MATR.  NOME                           DT.NASC.  DT.ADMIS  EST.CIVIL       CARGO                               
+0014#STR0014#ALL#FILIAL MATR.  NOME                           DT.NASC.  DT.ADMIS  EST.CIVIL       CENTRO CUSTO                       
+0015#STR0015#ALL#Centro de Custo: 
+0016#STR0016#ALL#Cargo: 
+0017#STR0017#ALL#GRADUACAO DO FUNCIONARIO
+0018#STR0018#ALL#FATOR AVALIACAO                   GRADUACAO NECESSARIA              GRADUACAO FUNCIONARIO            
+0019#STR0019#ALL# *** Nao existe graduacao para este funcionario *** 
+0020#STR0020#ALL#CURSOS DO FUNCIONARIO
+0021#STR0021#ALL#CURSO                                PERIODO         DURACAO VALIDADE  NECES. ENTIDADE                   NOTA PRESENCA REALIZ
+0022#STR0022#ALL# *** Nao existe Curso para este Funcionario ***
+0023#STR0023#ALL#HISTORICO DE CARREIRA
+0024#STR0024#ALL#ADMISSAO   DEMISSAO   EMPRESA                        CARGO                         
+0025#STR0025#ALL# *** Nao existe Historico de Carreira para este Funcionario *** 
+0026#STR0026#ALL#HISTORICO DE CARREIRA NA EMPRESA
+0027#STR0027#ALL#DT AUMENTO  TP AUMENTO               FUNCAO                   
+0028#STR0028#ALL# *** Nao existe Historico de Carreira na Empresa para este Funcionario *** 
+0029#STR0030#ALL#CURSOS EXTRACURRICULARES
+0030#STR0031#ALL#DATA       DESCRICAO                                ENTIDADE                       ESCOLARIDADE
+0031#STR0032#ALL# *** Nao existe Curso ExtraCurricular para este Funcionario *** 
+0032#STR0033#ALL#SOLICITACAO DE CURSOS
+0033#STR0034#ALL#CURSO                               TURMA CALENDARIO                TP RESERVA    VZ ADIADO DT.SOLIC.         PERIODO       
+0034#STR0035#ALL#*** Nao existe Solicitacao de Curso feita por este Funcionario ***
+0035#STR0037#ALL#FATOR AVALIACAO                   GRADUACAO NECESSARIA               PONTOS           GRADUACAO FUNCIONARIO           PONTOS
+0036#STR0038#ALL#T O T A L :
+0037#STR0039#ALL#PONTOS
+0038#STR0040#ALL#AVALIACOES DE TREINAMENTO
+0039#STR0041#ALL#CALENDARIO                CURSO                     TURMA TIPO AVALIACAO       AVALIACAO                 DATA       RESULT.
+0040#STR0042#ALL#*** Nao existe Avaliacao deste Funcionario ***
+0041#STR0043#ALL#DESCRICAO DETALHADA DO FATOR
+0042#STR0044#ALL# *** Nao existe Descricao detalhada do Fator *** 
+0043#STR0045#ALL#OBSERVACAO FATOR DO FUNCIONARIO
+0044#STR0046#ALL# *** Nao tem nenhuma Observacao para este Fator *** 
+0045#STR0047#ALL#SINONIMO: 
+0046#STR0048#ALL#HABILIDADES
+0047#STR0049#ALL#HABIL. DESC.HABILIDADE                  ESC. DESC.ESCALA            ITEM DESC.ITEM ESCALA FUNC  ITEM DESC.ITEM ESCALA CARGO
+0048#STR0050#ALL#*** Nao existe Habilidade para este Funcionario ***
+0049#STR0051#ALL#Funcionário
+0050#STR0052#ALL#Grau Cargo
+0051#STR0053#ALL#Pontos
+0052#STR0054#ALL#Grau Func	
+0053#STR0055#ALL#Curso
+0054#STR0056#ALL#Sinônimo
+0055#STR0057#ALL#Período
+0056#STR0058#ALL#Validade
+0057#STR0059#ALL#Neces.
+0058#STR0060#ALL#Entidade
+0059#STR0061#ALL#Calendário
+0060#STR0062#ALL#Tipo Reserva
+0061#STR0063#ALL#Dt.Solic.
+0062#STR0064#ALL#Tipo
+0063#STR0065#ALL#Esse relatório apresenta os dados do cadastro de funcionários. 
+0064#STR0066#ALL#Sim
+0065#STR0067#ALL#Não
+0066#STR0068#ALL#It.Esc.Func
+0067#STR0069#ALL#It.Esc.Cargo
+0068#STR0070#ALL#Empresa: 
+0069#STR0071#ALL#Filial: 
+0070#STR0072#ALL#FILIAL       MATR.  NOME                           DT.NASC.   DT.ADMIS   EST.CIVIL       CARGO               CENTRO CUSTO
+0071#STR0073#ALL#FILIAL       NOME                            MATR. DT.NASC.   DT.ADMIS   EST.CIVIL       CARGO               CENTRO CUSTO
+0072#STR0074#ALL#FILIAL       MATR.  NOME                           DT.NASC.   DT.ADMIS   EST.CIVIL       CARGO                              
+0073#STR0075#ALL#FILIAL       MATR.  NOME                           DT.NASC.   DT.ADMIS   EST.CIVIL       CENTRO CUSTO                       

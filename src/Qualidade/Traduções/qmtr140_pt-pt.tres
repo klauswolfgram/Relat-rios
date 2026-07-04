@@ -1,0 +1,88 @@
+0001#STR0001#ALL#Historico De Instrumento
+0002#STR0002#ALL#Neste Relatório Será Impresso O Historico De Instrumento
+0003#STR0003#ALL# texto final do certificado 
+0004#STR0004#ALL# impressão 
+0005#STR0006#ALL#Itens De Configuração
+0006#STR0007#ALL#Este programa irá emitir a relação de
+0007#STR0009#ALL#Parâmetros seleccionados.
+0008#STR0010#ALL#Historico de instrumento 
+0009#STR0011#ALL#Código de barras
+0010#STR0012#ALL#Administração
+0011#STR0013#ALL# informações complementares 
+0012#STR0014#ALL#Nº.
+0013#STR0015#ALL#Padrão Para Calibração
+0017#STR0019#ALL#Informações Complementares Do Instrumento
+0018#STR0020#ALL#Certificados de calibração de acordo com os
+0022#STR0024#ALL#Imprimir
+0023#STR0025#ALL#Configurar
+0024#STR0026#ALL#Abandonar
+0027#STR0029#ALL#Medições
+0037#STR0039#ALL#Observação
+0038#STR0040#ALL#Medição Com Laudo Diferente De Activo
+0039#STR0041#ALL#Medição excluída
+0042#STR0044#ALL#Não gravar
+0044#STR0046#ALL#Condição de recebimento 
+0045#STR0047#ALL#Avaria
+0046#STR0048#ALL#Conforme
+0047#STR0049#ALL#Não Conforme
+0048#STR0050#ALL#Instrumentos Utilizados
+0049#STR0051#ALL#Padrão Secundário
+0050#STR0052#ALL#Intervalo
+0053#STR0055#ALL#Padrão Secundário
+0057#STR0059#ALL#Laboratório
+0058#STR0060#ALL#Não Conformidades
+0059#STR0061#ALL#N/c
+0060#STR0062#ALL#Descrição
+0061#STR0063#ALL#Classificação
+0062#STR0064#ALL#Confirmação Metrologica
+0063#STR0065#ALL#Erro Sistemático
+0064#STR0066#ALL#Exactidão
+0065#STR0067#ALL#Adequação
+0067#STR0069#ALL#Análise Das últimas Peças Produzidas
+0068#STR0070#ALL#Aceite
+0070#STR0072#ALL#Conf. Instrumento
+0072#STR0075#ALL#Lse
+0073#STR0076#ALL#Lie
+0074#STR0077#ALL#Unid.med
+0075#STR0079#ALL#A
+0076#STR0080#ALL#Intervalo
+0078#STR0082#ALL#Tolerância
+0079#STR0083#ALL#Unid.med
+0081#STR0085#ALL#Dt.calib.
+0082#STR0086#ALL#Média
+0085#STR0090#ALL#Padrão
+0088#STR0093#ALL#Médio
+0089#STR0095#ALL#Medição
+0091#STR0097#ALL#Estado
+0092#STR0098#ALL#Família
+0094#STR0100#ALL#Incerteza Tipo B
+0095#STR0101#ALL#| Cod. Incerteza | Simbolo  | Fonte                        |valor Incert.|distr.| Divisor  |coef.sensib.| Incer.calc. |graus Liber.|
+0096#STR0102#ALL#|                | uc       | inc. padrão combinada        |             |nor   |          |
+0097#STR0103#ALL#|                | u        | inc. expandida               |             |nor k |          |
+0098#STR0104#ALL#|                | ui       | inc. expandida               |             |nor kp|          |            |             |
+0099#STR0106#ALL#Rev.
+0100#STR0107#ALL#Padrão
+0103#STR0110#ALL#V.final
+0105#STR0112#ALL#Valor Mínimo
+0106#STR0113#ALL#Valor Máximo
+0107#STR0114#ALL#Unidade De Medida
+0112#STR0119#ALL#Parâmetro S De Analise
+0113#STR0120#ALL#Fe
+0114#STR0121#ALL#Desvio maximo no sentido crescente
+0115#STR0122#ALL#Fges
+0116#STR0123#ALL#Desvio total ( crescente / decrescente )
+0117#STR0124#ALL#F.u.
+0118#STR0125#ALL#Erro De Retorno
+0120#STR0127#ALL#Tolerancia/redutor Por Faixa
+0121#STR0128#ALL#Justificativa Do Registo De Instrumento
+0122#STR0129#ALL#Justificativa Da Mudanca De Estado Do Instrumento
+0123#STR0130#ALL#Justificativa da não digitação das medicoes
+0124#STR0131#ALL#Manutenções
+0125#STR0132#ALL#T.tol
+0126#STR0133#ALL#Instrumento Inicial Não Apresenta Coleta De Dados.
+0127#STR0134#ALL#A seleccionar registos. . .
+0128#STR0135#ALL#Padrão Secundario Com Estado Diferente De Activo.
+0129#STR0136#ALL#Instrumento Utilizado Com Estado Diferente De Activo
+0130#STR0137#ALL#Autorizado
+0132#STR0139#ALL#Legenda Incerteza Do Tipo B
+0133#STR0140#ALL#*=infinito ou >100

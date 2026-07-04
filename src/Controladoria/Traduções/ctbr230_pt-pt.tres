@@ -1,0 +1,57 @@
+0001#STR0001#ALL#Este programa irá imprimir o balancete de  
+0002#STR0002#ALL#De acordo com os parâmetros solicitados pelo utilizador. 
+0003#STR0003#ALL#Balancete de verificação 
+0004#STR0004#ALL#|  código                     |      d e s c r i ç ã o                          |    saldo anterior              |    débito       |      crédito      |    movimento do período       |         saldo actual               |
+0004#STR0004#ANG#|  CÓDIGO                     |      D E S C R I Ç Ã O                          |    SALDO ANTERIOR              |    DÉBITO       |      CRÉDITO      |    MOVIMENTO DO PERÍODO       |         SALDO ATUAL               |
+0004#STR0004#EQU#|  CÓDIGO                     |      D E S C R I Ç Ã O                          |    SALDO ANTERIOR              |    DÉBITO       |      CRÉDITO      |    MOVIMENTO DO PERÍODO       |         SALDO ATUAL               |
+0004#STR0004#HAI#|  CÓDIGO                     |      D E S C R I Ç Ã O                          |    SALDO ANTERIOR              |    DÉBITO       |      CRÉDITO      |    MOVIMENTO DO PERÍODO       |         SALDO ATUAL               |
+0004#STR0004#MEX#|  código                     |      d e s c r i ç ã o                          |    saldo anterior              |    débito       |      crédito      |    movimento do período       |         saldo actual               |
+0004#STR0004#PTG#|  código                     |      d e s c r i ç ã o                          |    saldo anterior              |    débito       |      crédito      |    movimento do período       |         saldo actual               |
+0005#STR0005#ALL#|  código               |   d  e  s  c  r  i  ç  ã  o    |   saldo anterior  |      débito    |      crédito   |   saldo actual     |
+0005#STR0005#ANG#|  CÓDIGO               |   D  E  S  C  R  I  Ç  Ã  O    |   SALDO ANTERIOR  |      DÉBITO    |      CRÉDITO   |   SALDO ATUAL     |
+0005#STR0005#EQU#|  CÓDIGO               |   D  E  S  C  R  I  Ç  Ã  O    |   SALDO ANTERIOR  |      DÉBITO    |      CRÉDITO   |   SALDO ATUAL     |
+0005#STR0005#HAI#|  CÓDIGO               |   D  E  S  C  R  I  Ç  Ã  O    |   SALDO ANTERIOR  |      DÉBITO    |      CRÉDITO   |   SALDO ATUAL     |
+0005#STR0005#MEX#|  código               |   d  e  s  c  r  i  ç  ã  o    |   saldo anterior  |      débito    |      crédito   |   saldo actual     |
+0005#STR0005#PTG#|  código               |   d  e  s  c  r  i  ç  ã  o    |   saldo anterior  |      débito    |      crédito   |   saldo actual     |
+0006#STR0006#ALL#Balancete analítico de  
+0007#STR0007#ALL#Balancete sintético de  
+0008#STR0008#ALL#Balancete de  
+0009#STR0009#ALL# de 
+0010#STR0010#ALL# até 
+0011#STR0011#ALL# em 
+0012#STR0012#ALL# (orcado)
+0013#STR0013#ALL# (de gestão)
+0014#STR0014#ALL#A Criar Ficheiro Temporário...
+0015#STR0015#ALL#Código de barras
+0016#STR0016#ALL#Administração
+0017#STR0017#ALL#***** cancelado pelo operador *****
+0018#STR0018#ALL#Totais do período: 
+0019#STR0019#ALL#T o t a i s  d o  g r u p o (
+0020#STR0020#ALL#T o t a i s  
+0021#STR0021#ALL#Caso não actualize os saldos compostos na
+0022#STR0022#ALL#Emissão dos relatórios(mv_sldcomp ='n'),
+0023#STR0023#ALL#Correr o procedimento  de actualização de saldos 
+0024#STR0024#ALL#Atenção
+0025#STR0025#ALL#Classe De Valor
+0026#STR0026#ALL#Item Contab.
+0027#STR0027#ALL#Código
+0028#STR0028#ALL#Código Reduzido
+0029#STR0029#ALL#Descrição
+0030#STR0030#ALL#Cód. Do Item
+0031#STR0031#ALL#Cód.  Red.  Do Item
+0032#STR0032#ALL#Descrição Do Elemento
+0033#STR0033#ALL#Saldo Anterior
+0034#STR0034#ALL#Débito
+0034#STR0034#ANG#DÉBITO
+0034#STR0034#EQU#DÉBITO
+0034#STR0034#HAI#DÉBITO
+0034#STR0034#MEX#Débito
+0034#STR0034#PTG#Débito
+0035#STR0035#ALL#Crédito
+0035#STR0035#ANG#CRÉDITO
+0035#STR0035#EQU#CRÉDITO
+0035#STR0035#HAI#CRÉDITO
+0035#STR0035#MEX#Crédito
+0035#STR0035#PTG#Crédito
+0036#STR0036#ALL#Movimento Período
+0037#STR0037#ALL#Saldo Actual

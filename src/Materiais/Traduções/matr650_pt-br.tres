@@ -1,0 +1,24 @@
+0001#STR0001#ALL#Este programa ira emitir a relacao de notas fiscais por
+0002#STR0002#ALL#ordem de Transportadora.
+0003#STR0003#ALL#Zebrado
+0004#STR0004#ALL#Administracao
+0005#STR0005#ALL#Relacao das Notas Fiscais para as Transportadoras
+0006#STR0006#ALL#RELACAO DAS NOTAS FISCAIS PARA AS TRANSPORTADORAS
+0007#STR0007#ALL#REC.DEP  |EMPRESA N.FISCAL          VOLUME  N O M E  D O  C L I E N T E QUANTIDADE           VALOR  MUNICIPIO        UF  PESO BRUTO 
+0008#STR0008#ALL#DATA HORA|
+0009#STR0009#ALL#Selecionando Registros...
+0010#STR0010#ALL#CANCELADO PELO OPERADOR
+0011#STR0011#ALL#TOTAL ------->
+0012#STR0012#ALL#REC.DEP  |EMPRESA N.FISCAL           VOLUME NOME DO CLIENTE/FORNECEDOR  QUANTIDADE           VALOR  MUNICIPIO        UF  PESO BRUTO
+0013#STR0013#ALL#Relacao das Notas Fiscais para as Transportadoras	
+0014#STR0014#ALL#Este programa ira emitir a relacao de notas fiscais por
+0015#STR0015#ALL#ordem de Transportadora.
+0016#STR0016#ALL#Data Hora
+0017#STR0017#ALL#    |    | 
+0018#STR0018#ALL#N o m e  do  C l i e n t e
+0019#STR0019#ALL#Quantidade
+0020#STR0020#ALL#Municipio
+0021#STR0021#ALL#Total da Transportadora
+0022#STR0022#ALL#Transportadora
+0023#STR0023#ALL#Volume
+0024#STR0024#ALL#Notas Fiscais

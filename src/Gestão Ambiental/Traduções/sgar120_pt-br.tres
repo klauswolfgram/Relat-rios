@@ -1,0 +1,72 @@
+0001#STR0001#ALL#Aguarde...
+0002#STR0002#ALL#Processando Registros...
+0003#STR0003#ALL#Mês/Ano         ?
+0004#STR0004#ALL#Laboratório     ?
+0005#STR0005#ALL#Fonte           ?
+0006#STR0006#ALL#De Critério     ?
+0007#STR0007#ALL#Ate Critério    ?
+0008#STR0008#ALL#Relatório de Medição Mensal
+0009#STR0009#ALL#Empresa: 
+0010#STR0010#ALL#Razão Social: 
+0011#STR0011#ALL#Fonte: 
+0012#STR0012#ALL#Logradouro: 
+0013#STR0013#ALL#Bairro: 
+0014#STR0014#ALL#Município: 
+0015#STR0015#ALL#CEP: 
+0016#STR0016#ALL#Telefone: 
+0017#STR0017#ALL#Laboratório: 
+0018#STR0018#ALL#Nome: 
+0019#STR0019#ALL#Data Análise: 
+0020#STR0020#ALL#O Servidor de SMTP não foi configurado !!!
+0021#STR0021#ALL#Atenção
+0022#STR0022#ALL#A Conta do email não foi configurada !!!
+0023#STR0023#ALL#A Senha do email não foi configurada !!!
+0024#STR0024#ALL#Dados do E-mail
+0025#STR0025#ALL#De: 
+0026#STR0026#ALL#Para:
+0027#STR0027#ALL#Assunto:
+0028#STR0028#ALL#Não foi possível gravar o relatório
+0029#STR0029#ALL#AVISO
+0030#STR0030#ALL#Segue em anexo relatório de 
+0031#STR0031#ALL#Email enviado com sucesso
+0032#STR0032#ALL#Não foi possível enviar o Email.
+0033#STR0033#ALL#Erro na conexão com o SMTP Server.
+0034#STR0034#ALL#Deseja visualizar o relatório?
+0035#STR0035#ALL#Não existem dados para montar o relatório
+0036#STR0036#ALL#Tipo de Impressão ?
+0037#STR0037#ALL#Tela
+0038#STR0038#ALL#Impressora
+0039#STR0039#ALL#Enviar Email
+0040#STR0040#ALL#Mês informado deverá ser maior/igual a '01' e menor/igual a '12'.
+0041#STR0041#ALL#Ano informado deverá possuir 4 posições.
+0042#STR0042#ALL#De Mês/Ano      ?
+0043#STR0043#ALL#Até Mês/Ano     ?
+0044#STR0044#ALL#Monitoramento   ?
+0045#STR0045#ALL#Monitotamento: 
+0046#STR0046#ALL#Grupo: 
+0047#STR0047#ALL# a 
+0048#STR0048#ALL#O Monitoramento informado está Cancelado.
+0049#STR0049#ALL#Favor informar um Monitoramento Válido.
+0050#STR0050#ALL#Informe a patir de que Mês e Ano (99/9999) deseja visualizar no relatório.
+0051#STR0051#ALL#Informe até qual Mês e Ano (99/9999) deseja visualizar no relatório.
+0052#STR0052#ALL#Informe qual o Monitoramento deve constar no relatório. Pressione as teclas [F3]+[Enter] para selecionar o Monitoramento desejado.
+0053#STR0053#ALL#Informe qual o Laboratório (Cadastro de Fornecedores) deve constar no relatório. Pressione as teclas [F3]+[Enter] para selecionar o Laboratório desejado.
+0054#STR0054#ALL#Informe a partir de qual Critério deve constar no relatório. Pressione as teclas [F3]+[Enter] para selecionar o Critério desejado.
+0055#STR0055#ALL#Informe até qual Critério deve constar no relatório. Pressione as teclas [F3]+[Enter] para selecionar o Critério desejado ou digite ZZZZZZ neste campo e o acima em branco para considerar todos os Critérios.
+0056#STR0056#ALL#Informe qual o Tipo de Impressão deverá ser apresentado o relatório ( Tela, Impressora ou Enviar por E-mail)
+0057#STR0057#ALL#Objetivos
+0058#STR0058#ALL#*Resultados coletados pela própria empresa.
+0059#STR0059#ALL#VALORES DE REFERÊNCIA
+0060#STR0060#ALL#Data: 
+0061#STR0061#ALL#Hora: 
+0062#STR0062#ALL#Resultado: 
+0063#STR0063#ALL#Total Mês: 
+0064#STR0064#ALL#Média Mês: 
+0065#STR0065#ALL#Total 
+0066#STR0066#ALL#Média 
+0067#STR0067#ALL#De Laboratório   ?
+0068#STR0068#ALL#Até Laboratório ?
+0069#STR0069#ALL#Mês
+0070#STR0070#ALL#Não foi possível gravar o arquivo de anexo do e-mail.
+0071#STR0071#ALL#Favor configurar o parâmetro MV_RELT.
+0072#STR0072#ALL#Medição Mensal

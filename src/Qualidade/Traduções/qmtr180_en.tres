@@ -1,0 +1,27 @@
+0001#STR0001#ALL#This program will issue the report of crossed 
+0002#STR0002#ALL#reference between instruments used and instruments
+0003#STR0003#ALL#Cross.Refer: Instrument Used x Instrument
+0004#STR0004#ALL#Instrum. Used    Sequence   Range                    Point                    Family Used.Inst          Instrument            Rev         Family                   Departament                 Responsible
+0005#STR0005#ALL#Z.Form 
+0006#STR0006#ALL#Management   
+0007#STR0007#ALL#CANCELLED BY OPERATOR  
+0008#STR0008#ALL#Selecting Files. . .
+0009#STR0009#ALL#Enter the initial instrument of the selection range. 
+0010#STR0010#ALL#Enter the final instrument of the selection range or fill in the field with ´z` to select all of them. 
+0011#STR0011#ALL#Enter the initial date related to the instruments selection period.
+0012#STR0012#ALL#Enter the final date related to the instruments selection period
+0013#STR0013#ALL#Enter the initial department of the selection interval or let the field empty to select all of them.
+0014#STR0014#ALL#Enter the final department of the selection interval or fill in the whole field with the letter ´z` to select all of them.
+0015#STR0015#ALL#Select the desired calibrating body: Only the calibrations carried out internally, externally or both.
+0016#STR0016#ALL#If you choice was internal calibrating body or both, enter the initial calibrating body or let the field empty to select all of them.
+0017#STR0017#ALL#If you choice was internal calibrating body or both, enter the final calibrating body or fill in the whole field with the letter ´z` to select all of them.
+0018#STR0018#ALL#If you choice was external calibrating body or both, enter the initial calibrating body or let the field empty to select all of them.
+0019#STR0019#ALL#If you choice was external calibrating body or both, enter the final calibrating body or fill in the whole field with the letter ´z` to select all of them.
+0020#STR0020#ALL#Enter the initial family of the selection interval or let it empty to select all of them.
+0021#STR0021#ALL#Enter the final family of the selection interval or fill in the whole field with the letter ´z` to select all of them.
+0022#STR0022#ALL#Enter the initial user of the selection interval or let it empty to select all of them.
+0023#STR0023#ALL#Enter the final user of the selection interval or fill in the whole field with the letter ´z` to select all of them.
+0024#STR0024#ALL#Enter the initial manufacturer of the selection interval or let it empty to select all of them.
+0025#STR0025#ALL#Enter the final manufacturer of the selection interval or fill in the whole field with the letter ´z` to select all of them
+0026#STR0026#ALL#Instrument used 
+0027#STR0027#ALL#Family Inst. Used  

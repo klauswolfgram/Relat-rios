@@ -1,0 +1,25 @@
+0001#STR0001#ALL#Este programa tem como objetivo imprimir relatorio 
+0002#STR0002#ALL#de acordo com os parametros informados pelo usuario.
+0003#STR0003#ALL#Área de Trabalho
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#AGENDA - VENDEDOR NOME
+0007#STR0007#ALL#ASSUNTO                        DATA       H.INICIO H.FIM COMENTARIO                               OPORTUNIDADE CLIENTE LOJA NOME                 PROSPECT LOJA NOME                 CONTATO NOME
+0008#STR0008#ALL#Näo Iniciada
+0009#STR0009#ALL#Em Andamento
+0010#STR0010#ALL#Completada
+0011#STR0011#ALL#Suspensa
+0012#STR0012#ALL#Ganha
+0013#STR0013#ALL#Baixa
+0014#STR0014#ALL#Normal
+0015#STR0015#ALL#Alta
+0016#STR0016#ALL#*** CANCELADO PELO OPERADOR ***
+0017#STR0017#ALL#TAREFA - VENDEDOR NOME
+0018#STR0018#ALL#ASSUNTO                        DT.INICIO  DT.TERMINO STATUS       PRIORIDADE %COMPLETO COMENTARIO                               CLIENTE LOJA NOME
+0019#STR0019#ALL#Área de Trabalho
+0020#STR0020#ALL#Este programa tem como objetivo imprimir relatorio 
+0021#STR0021#ALL#de acordo com os parametros informados pelo usuario.
+0022#STR0022#ALL#Comentario
+0023#STR0023#ALL#Vendedores
+0024#STR0024#ALL#Agenda (CRM)
+0025#STR0025#ALL#Tarefas (CRM)

@@ -1,0 +1,34 @@
+0001#STR0001#ALL#Clientes/Contactos CEV por Fch.Anivers. o Fch.Mto.
+0002#STR0002#ALL#A Rayas
+0003#STR0003#ALL#Administracion
+0004#STR0004#ALL#Codigo    Nombre             Fch. Mov Direccion                       Barrio        Ciudad                Pr CP       Telef.        
+0005#STR0005#ALL#Codigo    Nombre             Fch Nac. Direccion                       Barrio        Ciudad                Pr CP       Telef         
+0006#STR0006#ALL#a
+0007#STR0007#ALL#m
+0008#STR0008#ALL#d
+0009#STR0009#ALL#Fecha inicial
+0010#STR0010#ALL#Fecha final
+0011#STR0011#ALL#Listado
+0012#STR0012#ALL#Informe
+0013#STR0013#ALL#Etiquetas
+0014#STR0014#ALL#Tipo de fecha
+0015#STR0015#ALL#Movimiento
+0016#STR0016#ALL#Aniversario cliente
+0017#STR0017#ALL#Aniversario contacto CEV
+0018#STR0018#ALL#Constar en el movimiento
+0019#STR0019#ALL#Primera venta
+0020#STR0020#ALL#Última venta
+0021#STR0021#ALL#Todas las ventas
+0022#STR0022#ALL#Tipo de movimiento
+0023#STR0023#ALL#Venta taller
+0024#STR0024#ALL#Venta mostrador
+0025#STR0025#ALL#Venta Vehíc.Nuevos
+0026#STR0026#ALL#Venta Vehíc.Usados
+0027#STR0027#ALL#Venta neumáticos
+0028#STR0028#ALL#Venta otros
+0029#STR0029#ALL#Etiquetas Ctd.Columnas
+0030#STR0030#ALL#1 Columna
+0031#STR0031#ALL#2 Columnas
+0032#STR0032#ALL#3 Columnas
+0033#STR0033#ALL#Etiquetas Ancho
+0034#STR0034#ALL#Vendedor CEV

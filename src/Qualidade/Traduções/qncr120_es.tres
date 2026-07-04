@@ -1,0 +1,21 @@
+0001#STR0001#ALL#Detalle de No Conformidades por Producto
+0002#STR0002#ALL#Emite No Conformidades por Producto   
+0003#STR0003#ALL#conforme los Parametros informados
+0004#STR0004#ALL#A rayas
+0005#STR0005#ALL#Administrac. 
+0006#STR0006#ALL#No Conformidades por Producto
+0007#STR0007#ALL#Codigo FNC    RevisionFNC    FechaOcurren.    FechaRegistro   Clasif. NC             Estado
+0008#STR0008#ALL#TOTAL ===>    Producto                                 Bajada     Pendiente   Total
+0009#STR0009#ALL#Seleccionando Registro en QI2..
+0010#STR0010#ALL#Producto:
+0011#STR0011#ALL#ANULADO POR EL OPERADOR
+0012#STR0012#ALL#Pendient
+0013#STR0013#ALL#De baja
+0014#STR0014#ALL#TOTAL POR PRODUCTO ===>
+0015#STR0015#ALL# FICHA(S)
+0016#STR0016#ALL#TOTAL GENERAL ==>
+0017#STR0017#ALL#Produc.
+0018#STR0018#ALL#De baja
+0019#STR0019#ALL#Pendien.
+0020#STR0020#ALL#Total
+0021#STR0021#ALL#TOTAL GRAL: 

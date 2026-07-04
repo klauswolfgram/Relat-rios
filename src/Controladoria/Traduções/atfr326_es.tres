@@ -1,0 +1,38 @@
+0001#STR0001#ALL#Función disponible solamente para entornos TopConnect
+0002#STR0002#ALL#Función disponible solamente para TReport
+0003#STR0003#ALL#Control de bienes en terceros
+0004#STR0004#ALL#Código
+0005#STR0005#ALL#Grupo
+0006#STR0006#ALL#Fecha de adquisición
+0007#STR0007#ALL#Datos del ente
+0008#STR0008#ALL#Descripción tipo
+0009#STR0009#ALL#Valores
+0010#STR0010#ALL#Moneda
+0011#STR0011#ALL#Valor original    
+0012#STR0012#ALL#Valor ampliación
+0013#STR0013#ALL#Valor actualizado
+0014#STR0014#ALL#Deprec. Acumulada
+0015#STR0015#ALL#Valor residual
+0016#STR0016#ALL#Datos
+0017#STR0017#ALL#Texto total por ente contable
+0018#STR0018#ALL#Total general
+0019#STR0019#ALL#CANTIDAD
+0020#STR0020#ALL#Valores del total por ente contable
+0021#STR0021#ALL#Texto total por sucursal
+0022#STR0022#ALL#Valores del total por sucursal
+0023#STR0023#ALL#Texto total general
+0024#STR0024#ALL#Valores del total general
+0025#STR0025#ALL#Creando archivo temporal 
+0026#STR0026#ALL#Situación valorizada de los bienes en la fecha
+0027#STR0027#ALL#* * *   T O T A L   P O R   E N T E   * * *
+0028#STR0028#ALL#* * *   T O T A L   S U C U R S A L   * * *
+0029#STR0029#ALL#* * *   T O T A L   G E N ER A L   * * *
+0030#STR0128#ALL#Digite Código del bien válido
+0031#STR0129#ALL#Digite Ítem del bien válido
+0032#STR0130#ALL#Digite Grupo del bien válido
+0033#STR0131#ALL#Digite Proveedor válido
+0034#STR0132#ALL#Digite Fecha de adquisición del bien válida
+0035#STR0133#ALL#Debe seleccionarse como mínimo 1 sucursal
+0036#STR0134#ALL#Digite Número de planilla válida
+0037#STR0135#ALL#Debe seleccionarse como mínimo 1 moneda
+0038#STR0136#ALL#Deben seleccionarse como máximo 5 monedas

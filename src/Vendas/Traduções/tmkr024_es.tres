@@ -1,0 +1,48 @@
+0001#STR0001#ALL#Atenciones realizadas - Televentas  
+0002#STR0002#ALL#Este programa emitira un detalle de las llamadas efectuadas por el operador en la atencion Televentas.
+0003#STR0003#ALL#Se emitiran los datos segun los parametros informados.
+0004#STR0004#ALL#OBS: Se consideraran unicamente los PRESUPUESTOS y PEDIDOS.
+0005#STR0005#ALL#A rayas
+0006#STR0006#ALL#Administracion
+0007#STR0007#ALL#ANULADO POR EL OPERADOR
+0008#STR0008#ALL#Item Produc.         Descripc.                      St   Cantid    Vl.Unitario        Vl.Item  %Desc    Vl.Descto.   %Acrec   Vl.Acrecimo  TES CFOP      Tabla       Base ICMS LP UM Entrega    Lote       Sub-Lt Validad 
+0009#STR0009#ALL#No hay datos por imprimir para este informe con los parametros informados.         
+0010#STR0010#ALL#TOTAL
+0011#STR0011#ALL#Total de atenciones computadas para el periodo de  
+0012#STR0012#ALL# a 
+0013#STR0013#ALL#OPERAC.                                           ATENCIONES     VALOR NEGOCIADO
+0014#STR0014#ALL#OPERADOR                                          ATENCIONES          PRESUPUES.           VALOR           FACTURAD.            VALOR
+0015#STR0015#ALL#PRODUC. FACTURAD                                    CANTIDAD                   %           VALOR
+0016#STR0016#ALL#MED.                                              ATENCIONES                   %
+0017#STR0017#ALL#PRODUC. FACTURAD                                  MED.                                                    CANTIDAD              VALOR
+0018#STR0018#ALL#CAMPANA                                           ATENCIONES                   %
+0019#STR0019#ALL#PRODUC. FACTURAD.                                 CAMPANA                                                 CANTIDAD              VALOR
+0020#STR0020#ALL#FCHA      OPERADOR                                           ATENCIONES          PRESUPUES.           VALOR           FACTURAD.            VALOR
+0021#STR0021#ALL#FCHA      MED.                                               ATENCIONES          PRESUPUES.           VALOR           FACTURAD.            VALOR
+0022#STR0022#ALL#FCHA      CAMPANA                                            ATENCIONES          PRESUPUES.           VALOR           FACTURAD.            VALOR
+0023#STR0023#ALL#Descripc.
+0024#STR0024#ALL#Tipo de operac. 
+0025#STR0025#ALL#Total de Atenciones
+0026#STR0026#ALL#Total por operac. 
+0027#STR0027#ALL#Operador
+0028#STR0028#ALL#Atenciones
+0029#STR0029#ALL#Presup.
+0030#STR0030#ALL#Valor
+0031#STR0031#ALL#Facturad.
+0032#STR0032#ALL#Producto Factur.
+0033#STR0033#ALL#Medio
+0034#STR0034#ALL#Cantidad
+0035#STR0035#ALL#Campana
+0036#STR0036#ALL#Fch.
+0037#STR0037#ALL#Presup. Televentas
+0038#STR0038#ALL#Items de Presup. Televentas
+0039#STR0039#ALL#Total atencion
+0040#STR0040#ALL#Operador Presup.
+0041#STR0041#ALL#Productos Presup.
+0042#STR0042#ALL#Med.C
+0043#STR0043#ALL#Val. Med. C. vs. Prod.
+0044#STR0044#ALL#Atencion
+0045#STR0045#ALL#Campana
+0046#STR0046#ALL#Fc. vs. Operad.
+0047#STR0047#ALL#Fc. vs M. C.
+0048#STR0048#ALL#Fc. vs. Campana

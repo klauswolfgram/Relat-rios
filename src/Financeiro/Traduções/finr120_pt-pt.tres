@@ -1,0 +1,24 @@
+0001#STR0001#ALL#Código de barras
+0002#STR0002#ALL#Administração
+0004#STR0004#ALL#Por Numerário
+0008#STR0008#ALL#Tética  ( apenas os totais ). informa os valores pagos e/ou  recebidos
+0009#STR0009#ALL#No intervalo definido.
+0010#STR0010#ALL#Movimento diário de caixa
+0011#STR0011#ALL#Data       Numerário Natureza   Banco Agência Conta                 Cheque          Documento           Vencimento  Beneficiário                Histórico                       Pagamentos      Recepções
+0012#STR0012#ALL#Analítico
+0013#STR0013#ALL#Sintético
+0014#STR0014#ALL#A Seleccionar Registos...
+0015#STR0015#ALL#Cancelado Pelo Operador
+0018#STR0018#ALL#Banco não definido ( 
+0019#STR0019#ALL#Natureza não definida ( 
+0021#STR0021#ALL#Data       Numerário Natureza   Banco Agência Conta                Cheque          Documento              Op/rec   Vencimento  Beneficiário           Histórico                Pagamentos      Recepções
+0022#STR0022#ALL#Data       Numerário Natureza   Banco Agência Conta                Cheque          Documento              Op/plan  Vencimento  Beneficiário           Histórico                Pagamentos      Recepções
+0025#STR0025#ALL#Agência
+0030#STR0030#ALL#Numerário
+0034#STR0034#ALL#Op./rec.
+0035#STR0035#ALL#Op./plan.
+0037#STR0037#ALL#Beneficiário
+0038#STR0038#ALL#Histórico
+0039#STR0039#ALL#Pagamentos(a)
+0040#STR0040#ALL#Recebimentos(b)
+0043#STR0043#ALL#Em 

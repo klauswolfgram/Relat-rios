@@ -1,0 +1,28 @@
+0001#STR0001#ALL#This program will print a Kardex with all the inventory
+0002#STR0002#ALL#daily movements by Lot/SubLot. Observation: the first
+0003#STR0003#ALL#movement of each Lot/SubLot refers to its creation.
+0004#STR0004#ALL#Kardex by Lot/Sub-Lot (per product)
+0005#STR0005#ALL#Z.Form
+0006#STR0006#ALL#Management
+0007#STR0007#ALL#Warehouse Movem. Date   Valid. Lot    Document               Origin Entry    Reversed           Receipt             Issue             Balance
+0008#STR0008#ALL#CANCELLED BY THE OPERATOR
+0009#STR0009#ALL#Product: 
+0010#STR0010#ALL#Description: 
+0011#STR0011#ALL#Type: 
+0012#STR0012#ALL#Unit: 
+0013#STR0013#ALL#SubLot: 
+0014#STR0014#ALL#Lot: 
+0015#STR0015#ALL#Opening Bal.: 
+0016#STR0016#ALL#Total of SubLot -> 
+0017#STR0017#ALL#Total of Lot -> 
+0018#STR0018#ALL#Total of Product -> 
+0019#STR0019#ALL#Selecting Records...
+0020#STR0020#ALL#Desc.Wareh.: 
+0021#STR0023#ALL#Document 
+0022#STR0024#ALL#Type
+0023#STR0025#ALL#Inflow 
+0024#STR0026#ALL#Outflow
+0025#STR0027#ALL#Blnce
+0026#STR0028#ALL#Products
+0027#STR0029#ALL#Balances by Lot
+0028#STR0030#ALL#Movements by lot   

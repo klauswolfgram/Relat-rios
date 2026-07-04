@@ -1,0 +1,29 @@
+0001#STR0001#ALL#Pré-impresso
+0002#STR0002#ALL#Administração
+0003#STR0003#ALL#Estado De Contas A Cobrar
+0004#STR0004#ALL#Não foram encontrados dados segundo os parâmetros introduzidos
+0005#STR0005#ALL#Código     Nome / Razão Social               Tipo Documento         Data        Data               Débitos       Créditos          Saldo
+0006#STR0006#ALL#                                             Doc.                   Emissão     Vencto.                                        Acumulado
+0007#STR0007#ALL#Código     Nome / Razão Social                                                                     Débitos       Créditos          Saldo
+0009#STR0009#ALL#Outros saldos: 
+0010#STR0010#ALL#Sub-totais do cliente 
+0011#STR0011#ALL#Totais Criais:
+0012#STR0012#ALL#Desde cliente     
+0013#STR0013#ALL#Até cliente     
+0014#STR0014#ALL#Desde fecho       
+0015#STR0015#ALL#Até fecho       
+0016#STR0016#ALL#Analítico         
+0017#STR0017#ALL#Imprime Saldo Certo
+0018#STR0018#ALL#Ordenado por      
+0019#STR0019#ALL#Página Por Cliente
+0021#STR0021#ALL#Fecha referência  
+0022#STR0022#ALL#Analítico
+0023#STR0023#ALL#Sim
+0027#STR0027#ALL#Emissão
+0028#STR0028#ALL#Resumo
+0030#STR0030#ALL#Arquivo
+0031#STR0031#ALL#Vencimento
+0035#STR0035#ALL#Débitos
+0036#STR0036#ALL# Créditos
+0041#STR0041#ALL# - em 
+0042#STR0042#ALL#Diário Ctb

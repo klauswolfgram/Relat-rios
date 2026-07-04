@@ -1,0 +1,21 @@
+0001#STR0001#ALL#Contrato De Parceria
+0002#STR0002#ALL#Impressão Do Contrato De Parceria
+0003#STR0003#ALL#Código de barras
+0004#STR0004#ALL#Administração
+0005#STR0005#ALL#| #################################################### | contrato de parceria                                | ########## | ###### |
+0006#STR0006#ALL#| cep: ######### ##################################### | ######################################################################### |
+0007#STR0007#ALL#| TEL: ############### FAX: ###############            | ######################### CP: ########## #########: #################### |
+0009#STR0009#ALL#|item|    produto    |           descrição          |um|  quantidade  |    valor total   |              observações                |
+0010#STR0010#ALL#| local de entrega : ############################################################################################## cep :######### |
+0011#STR0011#ALL#| local de cobrança: ############################################################################################## cep :######### |
+0012#STR0012#ALL#| condição de pagamento: ### ################################### | total das mercadorias:                            ##################|
+0013#STR0013#ALL#|                                                            | despesas             :                            ##################|
+0014#STR0014#ALL#|                                                            | total geral          :                            ##################|
+0015#STR0015#ALL#|     comprador         |     gerência          |     directoria         |                                                          |
+0016#STR0016#ALL#| nota: é favor informar o número do contrato na sua factura                                                                     |
+0017#STR0017#ALL#|                                                                                                                      Continua....|
+0018#STR0018#ALL#Cancelado Pelo Operador
+0020#STR0020#ALL#Contrato final  ?
+0021#STR0021#ALL#|item|    produto    |           descrição          |um|  quantidade  |    valor total   | observações         | centro de custos  |
+0023#STR0023#ALL#|Item| Artigo                      | Descrição     |UM|  Quantidade  |    Valor Total   | Observações         | Centro de Custos  |
+0024#STR0024#ALL#|Item| Artigo                      | Descrição     |UM|  Quantidade  |    Valor Total   |              Observações                |

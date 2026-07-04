@@ -1,0 +1,28 @@
+0001#STR0001#COL#Balanço Patrimonial
+0002#STR0002#COL#Emissão do Relatório Conf. Dig.
+0003#STR0003#COL#Este programa irá imprimir o Relatório da Conferência
+0004#STR0004#COL#T O T A L  G E R A L -->>
+0005#STR0005#COL#Plano de Contas
+0006#STR0006#COL#BALANÇO DE CONFERÊNCIA DE 
+0007#STR0007#COL#ATÉ
+0008#STR0008#COL#MOEDA
+0009#STR0009#COL#Criando cadastro temporário...
+0010#STR0010#COL#Conferência de Balanço
+0011#STR0011#COL#Total Conta
+0012#STR0012#COL# T O T A L 
+0013#STR0013#COL#Atenção
+0014#STR0014#COL#Não existem dados para os parâmetros especificados.
+0015#STR0015#COL#O plano de gestão ainda não está disponível neste relatório.
+0016#STR0016#COL#Os saldos compostos não estão atualizados. Por favor, efetua a atualização
+0017#STR0017#COL# através da rotina de Saldos Compostos
+0018#STR0018#COL#Selecionando Registros...
+0019#STR0019#COL#Erro na criação da tabela temporária
+0020#STR0020#COL#Conta
+0021#STR0021#COL#CONTA
+0022#STR0022#COL#DESCRIÇÃO
+0023#STR0023#COL#NIT
+0024#STR0024#COL#SALDO ANTERIOR
+0025#STR0025#COL#DÉBITO
+0026#STR0026#COL#CRÉDITO
+0027#STR0027#COL#MOVIMENTO
+0028#STR0028#COL#SALDO ATUAL

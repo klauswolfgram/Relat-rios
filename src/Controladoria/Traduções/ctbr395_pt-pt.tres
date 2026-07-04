@@ -1,0 +1,21 @@
+0001#STR0001#ALL#Este programa irá emitir o comparativo de revisões de orçamentos. 
+0003#STR0003#ALL#Um mesmo orçamento.
+0004#STR0004#ALL#Comparativo de revisões de orçamentos
+0005#STR0005#ALL#|orçamento|descrição                                         |calendário|moeda|revisão|linha|   Conta Inicial    |     Conta Final    |                    |                    |período|data Inicial|data Final|   Valor Orçamentado|
+0006#STR0006#ALL#Cancelado Pelo Operador
+0007#STR0007#ALL#Código de barras
+0008#STR0008#ALL#Administração
+0011#STR0011#ALL#Conta Contabilística
+0012#STR0012#ALL#Orçamentado 
+0013#STR0013#ALL#Total orçamento - 
+0015#STR0015#ALL#|        |   período 01  |   período 02  |   período 03  |   período 04  |   período 05  |   período 06  |   período 07  |   período 08  |   período 09  |   período 10  |   período 11  |   período 12  |      total      |
+0016#STR0016#ALL# revisão 2: 
+0019#STR0019#ALL#A Criar Ficheiro Temporário...
+0020#STR0020#ALL#O plano de gestão não está disponível neste relatório.
+0021#STR0021#ALL#A Seleccionar Registos...
+0022#STR0022#ALL#Variação
+0023#STR0023#ALL#Código  do orçamento: 
+0024#STR0024#ALL#Caso o calendario contabil possua mais de 12 períodos,
+0025#STR0025#ALL#Os períodos superiores a 12 seroo ignorados.   
+0026#STR0026#ALL#O código  da revisão 1 não poderá ser maior que o código  
+0027#STR0027#ALL#Da revisão 2.

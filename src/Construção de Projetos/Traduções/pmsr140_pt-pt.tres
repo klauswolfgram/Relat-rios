@@ -1,0 +1,34 @@
+0001#STR0001#ALL#Este relatório irá imprimir as curvas abc dos custos previstos para a execução do projecto de acordo com parâmetros solicitados.
+0002#STR0002#ALL#Curvas Abc Do Projecto
+0003#STR0003#ALL#Projecto+produto+despesa
+0004#STR0004#ALL#Tarefa+produto+despesa
+0005#STR0005#ALL#Código de barras
+0006#STR0006#ALL#Administração
+0007#STR0007#ALL#Tp.      Código       Descrição                                 UM       Quantidade               Valor   %Proj.   %Acum.   %Ferr.
+0008#STR0008#ALL#Tarefa       Descrição          Tp. Código          Descrição          UM     Quantidade             Valor  %Proj.  %Acum.  %Ferr.
+0009#STR0009#ALL#Projecto :
+0010#STR0010#ALL#Versão  :
+0012#STR0012#ALL#Tarefa
+0013#STR0013#ALL#Composição
+0014#STR0014#ALL#Sub-composição
+0015#STR0015#ALL#Tarefa       Descrição                                               UM      Quantidade              Custo  %Proj.  %Acum.  %Ferr.
+0016#STR0016#ALL#Curva Abc Das Tarefas Dos Orçamentos
+0017#STR0017#ALL#Composição   Descrição                                               UM      Quantidade              Custo  %Proj.  %Acum.  %Ferr.
+0018#STR0018#ALL#Curva Abc Dos Recursos Compostos Dos Orçamentos
+0019#STR0019#ALL#Subcompos.  Descrição                                               UM                              Custo  %Proj.  %Acum.  %Ferr.
+0020#STR0020#ALL#Curva Abc Das Sub-composições Dos Orçamentos
+0021#STR0021#ALL#Outros
+0022#STR0022#ALL#Curva Abc Dos Grupos De Composições Dos Orçamentos
+0023#STR0023#ALL#Grupo Compos.  Descrição                                                     Quantidade              Custo  %Proj.  %Acum.  %Ferr.
+0024#STR0024#ALL#Grupo De Composição
+0025#STR0025#ALL#Código da tarefa                  tp. código           descrição            um      quantidade           valor      %proj.  %acum.
+0026#STR0026#ALL#Descrição da tarefa               tp. código           descrição            um      quantidade           valor      %proj.  %acum.
+0027#STR0027#ALL#Código da tarefa                                                              um    quantidade           custo      %proj.  %acum.
+0028#STR0028#ALL#Descrição da tarefa                                                           um    quantidade           custo      %proj.  %acum.
+0029#STR0029#ALL#Projecto
+0031#STR0031#ALL#Projecto + Artigo
+0032#STR0032#ALL#Tarefa + Artigo
+0036#STR0036#ALL#Grupo De Composição
+0040#STR0040#ALL#Sub-compos.
+0041#STR0041#ALL#*** cancelado pelo utilizador ***
+0042#STR0042#ALL#Tp.      Código       Descrição                                 UM       Quantidade               Valor   %Proj.   %Acum.   %Ferr.

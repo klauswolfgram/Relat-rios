@@ -1,0 +1,73 @@
+0001#STR0001#ALL#Informe de empleados.
+0002#STR0002#ALL#Se imprimira de acuerdo con los parametros solicitados por
+0003#STR0003#ALL#el usuario.
+0004#STR0004#ALL#Matricula
+0005#STR0005#ALL#Nombre
+0006#STR0006#ALL#Centro costo
+0007#STR0007#ALL#Cargo
+0008#STR0008#ALL#A Rayas
+0009#STR0009#ALL#Administracion
+0010#STR0010#ALL#Informe de empleados
+0011#STR0011#ALL#SUCURSAL MATR.  NOMBRE                           FC.NAC.  FC.ADMIS  EST.CIVIL       CARGO                    CENTRO COSTO
+0012#STR0012#ALL#SUCURSAL NOME                            MATR. FC.NASC.  FC.ADMIS  EST.CIVIL       CARGO                    CENTRO COSTO
+0013#STR0013#ALL#SUCURSAL MATR.  NOMBRE                          FC.NAC.  FC.ADMIS  EST.CIVIL       CARGO                               
+0014#STR0014#ALL#SUCURSAL MATR.  NOMBRE                           FC.NAC.  FC.ADMIS  EST.CIVIL       CENTRO COSTO                       
+0015#STR0015#ALL#Centro de costo: 
+0016#STR0016#ALL#Cargo: 
+0017#STR0017#ALL#GRADUACION DEL EMPLEADO
+0018#STR0018#ALL#FACTOR EVALUACION                 GRADUACION NECESARIA              GRADUACION EMPLEADO              
+0019#STR0019#ALL# *** No existe graduacion para este empleado *** 
+0020#STR0020#ALL#CURSOS DEL EMPLEADO
+0021#STR0021#ALL#CURSO                                PERIODO         DURAC.  VALIDEZ   NECES. ENTIDAD                    NOTA PRESENCIA REAL.
+0022#STR0022#ALL# *** No existe curso para este empleado ***
+0023#STR0023#ALL#HISTORIAL DE CARRERA
+0024#STR0024#ALL#INGRESO    DESPIDO    EMPRESA                        FUNCION                       
+0025#STR0025#ALL# *** No existe historial de carrera para este empleado *** 
+0026#STR0026#ALL#HISTORIAL DE CARRERA EN LA EMPRESA
+0027#STR0027#ALL#FC AUMENTO  TP AUMENTO               FUNCION                  
+0028#STR0028#ALL# *** No existe historial de carrera en la empresa para este empleado *** 
+0029#STR0030#ALL#CURSOS EXTRACURRICULARES
+0030#STR0031#ALL#FECHA      DESCRIPCION                              ENTIDAD                        ESCOLARIDAD
+0031#STR0032#ALL# *** No existe curso extracurricular para este empleado *** 
+0032#STR0033#ALL#SOLICITUD DE CURSOS
+0033#STR0034#ALL#CURSO                               GRUPO CALENDARIO                TP RESERVA    VZ POSTERG. FCH.SOLIC.         PERIODO       
+0034#STR0035#ALL#*** No existe solicitud de curso hecha por este empleado ***
+0035#STR0037#ALL#FACTOR EVALUACION                 GRADUACION NECESARIA               PUNTOS           GRADUACION EMPLEADO             PUNTOS
+0036#STR0038#ALL#T O T A L :
+0037#STR0039#ALL#PUNTOS
+0038#STR0040#ALL#EVALUACIONES DE CAPACITACION
+0039#STR0041#ALL#CALENDARIO                CURSO                     GRUPO TIPO EVALUAC.        EVALUAC.                  FCHA       RESULT.
+0040#STR0042#ALL#*** No existe evaluacion de este empleado ***
+0041#STR0043#ALL#DESCRIPCION DETALLADA DEL FACTOR
+0042#STR0044#ALL# *** No existe descripcion pormenorizada del factor *** 
+0043#STR0045#ALL#OBSERVACION FACTOR DEL EMPLEADO
+0044#STR0046#ALL# *** No existe ninguna observacion para este factor *** 
+0045#STR0047#ALL#SINONIMO: 
+0046#STR0048#ALL#HABILIDADES
+0047#STR0049#ALL#HABIL. DESC.HABILIDAD                   ESC. DESC.ESCALA            ITEM DESC.ITEM ESCALA FUNC  ITEM DESC.ITEM ESCALA CARGO
+0048#STR0050#ALL#*** No existe Habilidad para este Empleado ***
+0049#STR0051#ALL#Empleado
+0050#STR0052#ALL#Grado Cargo
+0051#STR0053#ALL#Puntos
+0052#STR0054#ALL#Grado Empl	
+0053#STR0055#ALL#Curso
+0054#STR0056#ALL#Sinonimo
+0055#STR0057#ALL#Periodo
+0056#STR0058#ALL#Validez
+0057#STR0059#ALL#Neces.
+0058#STR0060#ALL#Entidad
+0059#STR0061#ALL#Calend
+0060#STR0062#ALL#Tipo Reserva
+0061#STR0063#ALL#Fc. Solic.
+0062#STR0064#ALL#Tipo
+0063#STR0065#ALL#Este informe muestra los datos del archivo de empleados. 
+0064#STR0066#ALL#Si 
+0065#STR0067#ALL#No 
+0066#STR0068#ALL#It. Esc. Empl
+0067#STR0069#ALL#It. Esc. Cargo
+0068#STR0070#ALL#Empresa: 
+0069#STR0071#ALL#Sucursal: 
+0070#STR0072#ALL#SUCURSAL       MATR.  NOMBRE                           FC.NAC.   FC.ADMIS   EST.CIVIL       CARGO               CENTRO COSTO
+0071#STR0073#ALL#SUCURSAL       NOMBRE                            MATR. FC.NAC.   FC.ADMIS   EST.CIVIL       CARGO               CENTRO COSTO
+0072#STR0074#ALL#SUCURSAL       MATR.  NOMBRE                           FC.NAC.   FC.ADMIS   EST.CIVIL       CARGO                              
+0073#STR0075#ALL#SUCURSAL       MATR.  NOMBRE                          FC.NAC.   FC.ADMIS   EST.CIVIL       CENTRO COSTO                       

@@ -1,0 +1,29 @@
+0001#STR0001#ALL#Estadisticas de Ventas (Cliente vs. Producto)
+0002#STR0002#ALL#Este programa emite el detalle de las compras efectuadas por el Cliente,
+0003#STR0003#ALL#totalizando por producto y eligiendo la moneda fuerte para los Valores.
+0004#STR0004#ALL#A Rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#ESTADISTICAS DE VENTAS (Cliente vs. Producto)
+0007#STR0007#ALL#CLIENTE   RAZON SOCIAL
+0008#STR0008#ALL#PRODUTO         DESCRIPCION                  FACTURA         EMISION    UN    CANTIDAD      PRECIO UNITARIO            TOTAL  VENDEDOR
+0009#STR0009#ALL#CLIENTE  RAZON SOCIAL
+0010#STR0010#ALL#Valores en 
+0011#STR0011#ALL#Seleccionando registros...
+0012#STR0012#ALL#ANULADO POR EL OPERADOR
+0013#STR0013#ALL#Obs.: 
+0014#STR0014#ALL#TOTAL DEL PRODUCTO - 
+0015#STR0015#ALL#TOTAL DEL CLIENTE - 
+0016#STR0016#ALL#T O T A L   G E N E R A L                    ---->
+0017#STR0017#ALL#DEV
+0018#STR0018#ALL#Estadisticas de Ventas (Cliente vs. Producto)
+0019#STR0019#ALL#Este programa emitira la lista de compras efectuada por el Cliente,
+0020#STR0020#ALL#totalizando por producto y eligiendo la moneda fuerte para los Valores.
+0021#STR0021#ALL#Valores en 
+0022#STR0022#ALL#TOTAL DEL PRODUCTO - 
+0023#STR0023#ALL#TOTAL DEL CLIENTE - 
+0024#STR0024#ALL#Vendedor
+0025#STR0025#ALL#DEV
+0026#STR0026#ALL#Seleccionando Registros...	
+0027#STR0027#ALL#Clientes	
+0028#STR0028#ALL#Items de Facturas de Salida	
+0029#STR0029#ALL#Devoluc.	

@@ -1,0 +1,44 @@
+0001#STR0001#ALL#Relatório da Simulação Orçamentária.
+0002#STR0002#ALL#Relatório de visualização da Simulação Orçamentária.
+0003#STR0003#ALL#O relatório contém as informações necessárias do processo de simulação orçamentária para permitir a comparação e análise das informações simuladas com o realizado de outros períodos e exercícios.
+0004#STR0004#ALL#Conta Orçamentária
+0005#STR0005#ALL#C.O.
+0006#STR0006#ALL#Nível
+0007#STR0007#ALL#Descrição
+0008#STR0008#ALL#Total C.O.
+0009#STR0009#ALL#TOTAL_CO
+0010#STR0010#ALL#Código
+0011#STR0011#ALL#Versão
+0012#STR0012#ALL#Inic.Períodos
+0013#STR0013#ALL#Fin.Períodos
+0014#STR0014#ALL#Classe Orçamentária
+0015#STR0015#ALL#Descr.Classe
+0016#STR0016#ALL#Identificador
+0017#STR0017#ALL#Centro de Custo
+0018#STR0018#ALL#Desc. Moeda 1
+0019#STR0019#ALL#Item Contab.
+0020#STR0020#ALL#Desc.Moeda 1
+0021#STR0021#ALL#Classe Valor
+0022#STR0022#ALL#Operação
+0023#STR0023#ALL#Analítico
+0024#STR0024#ALL#1=Semanal
+0025#STR0025#ALL#2=Quinzenal
+0026#STR0026#ALL#3=Mensal
+0027#STR0027#ALL#4=Bimestral
+0028#STR0028#ALL#5=Semestral
+0029#STR0029#ALL#6=Anual
+0030#STR0030#ALL#Sintético
+0031#STR0031#ALL#Todos
+0032#STR0032#ALL#Aquisição
+0033#STR0033#ALL#Exclusão
+0034#STR0034#ALL#Todos Simulação
+0035#STR0035#ALL#Simulados Reais
+0036#STR0036#ALL#Simulados Modif.
+0037#STR0037#ALL#A tabela AKR nao existe no dicionario.
+0038#STR0038#ALL#Para acessar essa funcionalidade, execute o compatibilizador U_UPDPCO.
+0039#STR0039#ALL#Dados da Conta Orçamentária
+0040#STR0040#ALL#Total da Conta Orçamentária
+0041#STR0041#ALL#Total do Relatório
+0042#STR0042#ALL#Relatorio Impresso somente em modo grafico
+0043#STR0043#ALL#Unid. Orçamentária
+0044#STR0044#ALL#Total Simulação

@@ -1,0 +1,18 @@
+0001#STR0001#ALL#Informe con lista de Clientes que tienen
+0002#STR0002#ALL#tit. de cobranzas pendientes, informando la
+0003#STR0003#ALL#secuencia y ruta de atencion
+0004#STR0004#ALL#Ruta de cobranzas
+0005#STR0005#ALL#Ruta de cobranzas
+0006#STR0006#ALL#Lista de cobranzas
+0007#STR0007#ALL#Sec-(CliCod/Sc) Cliente              DDD Telefono   Contacto    Direccion                     Barrio                Municipio     UF
+0008#STR0008#ALL#  Titulos -> Prf-Numero         TP Modalidad   Emision    Vencto     MD   Valor Original   Valor Vencido    Valor a Vencer   Atraso
+0009#STR0009#ALL#Informe p/ cual cobrador desea imprimir la lista de cobranza.
+0010#STR0010#ALL#Informe p/ cual ruta desea imprimir la lista de cobranza.
+0011#STR0011#ALL#Cobrador
+0012#STR0012#ALL#Periodo Vcto
+0013#STR0013#ALL#De
+0014#STR0014#ALL#A
+0015#STR0015#ALL#Subtotal
+0016#STR0016#ALL#TOTAL GRAL.
+0017#STR0017#ALL#Ruta
+0018#STR0018#ALL#Seleccionando Registros..

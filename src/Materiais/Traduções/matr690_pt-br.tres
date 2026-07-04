@@ -1,0 +1,41 @@
+0001#STR0001#ALL#Disponibilidade de Estoque para Vendas
+0002#STR0002#ALL#Este programa ira emitir a relacao dos Produtos em disponibi-
+0003#STR0003#ALL#lidades de Estoque para Vendas.
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#CODIGO          D  E  S  C  R  I  C  A  O      UM       SALDO EM         SALDO      PEDIDOS      PEDIDOS      RESERVA     DISPONIVEL
+0007#STR0007#ALL#                                                         ESTOQUE     EMPENHADO    PENDENTES   BLOQUEADOS                   P/ VENDAS
+0008#STR0008#ALL#CANCELADO PELO OPERADOR
+0009#STR0009#ALL#T O T A L ---> 
+0010#STR0010#ALL# Por Codigo    
+0011#STR0011#ALL# Por Tipo      
+0012#STR0012#ALL# Por Descricao 
+0013#STR0013#ALL# Por Armazem   
+0014#STR0014#ALL#Selecionando Registros...
+0015#STR0015#ALL#Sub-Total do Tipo : 
+0016#STR0016#ALL#Sub-Total do Armazem: 
+0017#STR0017#ALL#Total Unidade ---> 
+0018#STR0018#ALL#Disponibilidade de Estoque para Vendas
+0019#STR0019#ALL#Este programa ira emitir a relacao dos Produtos em disponibi-
+0020#STR0020#ALL#lidades de Estoque para Vendas.
+0021#STR0021#ALL#UM
+0022#STR0022#ALL#Saldo em Estoque
+0023#STR0023#ALL#Saldo Empenhado
+0024#STR0024#ALL#Pedidos Pendentes
+0025#STR0025#ALL#Pedidos Bloqueados
+0026#STR0026#ALL#Reserva
+0027#STR0027#ALL#Disponivel p/ Venda
+0028#STR0028#ALL#Por Codigo
+0029#STR0029#ALL#Por Tipo
+0030#STR0030#ALL#Por Descricao
+0031#STR0031#ALL#Por Armazem
+0032#STR0032#ALL#Selecionando Registros...	
+0033#STR0033#ALL#Sub-Total do Tipo:
+0034#STR0034#ALL#Sub-Total do Armazem:
+0035#STR0035#ALL#Total Unidade ---> 
+0036#STR0036#ALL#Total por Unidade de Medida
+0037#STR0037#ALL#Total Geral
+0038#STR0038#ALL#Produtos
+0039#STR0039#ALL#Saldos Fisico e Financeiro
+0040#STR0040#ALL#Itens dos Pedidos de Venda
+0041#STR0041#ALL#Pedidos Liberados

@@ -1,0 +1,17 @@
+0001#STR0001#ALL#Emite uma relacao com os itens do Contrato de Parceria que serao
+0002#STR0002#ALL#gerados as Autorizaçöes de Entrega
+0003#STR0003#ALL#Zebrado
+0004#STR0004#ALL#Administracao
+0005#STR0005#ALL#Itens do Contrato de Parceria que gerarao Autorizacao de Entrega
+0006#STR0006#ALL#REGISTRO(S)
+0007#STR0007#ALL#CODIGO          DESCRICAO                      GRP  UM      QUANTIDADE             PRECO             TOTAL DATA ENTREGA  IPI          SALDO
+0008#STR0008#ALL# - Por Fornecedor
+0009#STR0009#ALL#CODIGO          DESCRICAO                      GRP  UM      QUANTIDADE             PRECO             TOTAL DATA ENTREGA  IPI FORNECEDOR           SALDO
+0010#STR0010#ALL# - Por Produto
+0011#STR0011#ALL#Fornecedor: 
+0012#STR0012#ALL#CANCELADO PELO OPERADOR
+0013#STR0013#ALL#Saldo
+0014#STR0014#ALL#Fornecedor
+0015#STR0015#ALL#Contrato de Parceria
+0016#STR0016#ALL#Total do fornecedor
+0017#STR0017#ALL#Total do produto

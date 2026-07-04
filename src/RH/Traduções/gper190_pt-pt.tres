@@ -1,0 +1,26 @@
+0001#STR0001#ALL#Relatório Exame Médico / Contrato Experiência
+0002#STR0002#ALL#Sera impresso de acordo com os parâmetro s solicitados pelo
+0003#STR0003#ALL#Utilizador.
+0004#STR0004#ALL#Registo
+0005#STR0005#ALL#Centro De Custo
+0007#STR0007#ALL#Código de barras
+0008#STR0008#ALL#Administração
+0010#STR0010#ALL# relação de exame médico 
+0011#STR0011#ALL#Mes/ano referencia: 
+0012#STR0012#ALL# relação de vencimentos de contrato de experiência 
+0013#STR0013#ALL#Data de referência: 
+0014#STR0014#ALL#Filial  c. custo              reg.    nome empregado                      admissão    
+0015#STR0015#ALL#Exame Médico
+0016#STR0016#ALL#Contr.exper.1º. períod.
+0017#STR0017#ALL#Total c.custo -> 
+0018#STR0018#ALL#Total filial -> 
+0019#STR0019#ALL#Total empresa -> 
+0020#STR0020#ALL#  Empregado
+0021#STR0021#ALL#  EMPREGADOS  
+0022#STR0022#ALL#Contr.exper.2º. períod.
+0023#STR0023#ALL#Este Programa Emite Relatório De Vencimentos De Contratos De Experiência E De Exames Médicos.
+0024#STR0024#ALL#Relação Vencimentos Contr. Experiência
+0025#STR0025#CHI#INFORME VENCIMIENTOS DE CONTRATO
+0026#STR0026#CHI#INFORME EXAMEN MEDICO
+0027#STR0027#CHI# DEL 
+0028#STR0028#CHI# AL 

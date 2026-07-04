@@ -1,0 +1,17 @@
+0001#STR0001#ALL#This program will print the Inventory and Balances Record.  
+0002#STR0002#ALL#Invent. record and trial balance
+0003#STR0003#ALL#Z. form
+0004#STR0004#ALL#Management   
+0005#STR0005#ALL#|   ACCOUNT CODE                                        |   D  E  S  C  R  I  P T I O N             |  PREVIOUS BALANCE  |   PERIOD DEBIT     |  PERIOD CREDIT       |   DEBIT BALANCE      |  CREDIT BALANCE   |ACCUMULATED BALANCE |
+0006#STR0006#ALL#Inventory and Balances Record 
+0007#STR0007#ALL# TO  
+0008#STR0008#ALL# ON 
+0009#STR0009#ALL#Creating temporary file ...  
+0010#STR0010#ALL#**** CANCELLED BY THE OPERATOR ****
+0011#STR0011#ALL#Company name: 
+0012#STR0012#ALL#RUT:
+0013#STR0013#ALL#Segm: 
+0014#STR0014#ALL#Address:
+0015#STR0015#ALL#P E R I O D    T O T A L S :   :
+0016#STR0016#ALL#El informe libro de inventario y balanceo (CTBR171) fue convertido a Rdmake.
+0017#STR0017#ALL#Para utilizar este informe debe solicitar el fuente para su compilación como User Function.

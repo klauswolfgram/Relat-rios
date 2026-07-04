@@ -1,0 +1,41 @@
+0001#STR0001#ALL#Relatorio de Banco de Horas
+0002#STR0002#ALL#Será impresso de acordo com os parametros solicitados pelo usuario.
+0003#STR0003#ALL#Matricula
+0004#STR0004#ALL#Centro de Custo
+0005#STR0005#ALL#Nome
+0006#STR0006#ALL#Zebrado
+0007#STR0007#ALL#Administraçäo
+0008#STR0008#ALL#RELATORIO DE BANCO DE HORAS
+0009#STR0009#ALL#Saldo Anterior
+0010#STR0010#ALL#TOTAL C.CUSTO 
+0011#STR0011#ALL#TOTAL FILIAL  
+0012#STR0012#ALL#TOTAL EMPRESA 
+0013#STR0013#ALL#Fil Matr.  Funcionario                               Data     Evento                        Debito    Credito       Saldo  Status
+0014#STR0014#ALL#** CANCELADO PELO OPERADOR **
+0015#STR0015#ALL#Fil Matr.  Funcionario                                                   Saldo Anterior     Debito    Credito       Saldo  Status
+0016#STR0016#ALL#C.Custo+Nome
+0017#STR0017#ALL#                                                     Data     Evento                        Debito    Credito       Saldo  Status
+0018#STR0018#ALL#                                                                         Saldo Anterior     Debito    Credito       Saldo  Status
+0019#STR0019#ALL#Funcionários
+0020#STR0020#ALL#Saldo Anterior
+0021#STR0021#ALL#Banco de Horas
+0022#STR0022#ALL#Evento
+0023#STR0023#ALL#Débito
+0024#STR0024#ALL#Crédito
+0025#STR0025#ALL#Saldo
+0026#STR0026#ALL#Status
+0027#STR0027#ALL#Total por Filial
+0028#STR0028#ALL#Total por Empresa
+0029#STR0029#ALL#Total por Centro de Custo
+0030#STR0030#ALL#Baixado
+0031#STR0031#ALL#Pendente
+0032#STR0032#ALL#Total por Funcionário
+0033#STR0033#ALL#Emite relatório de Banco de Horas.
+0034#STR0034#ALL#Saldo Filial
+0035#STR0035#ALL#Saldo Empresa
+0036#STR0036#ALL#Saldo Funcionário
+0037#STR0037#ALL#Selecione a opção de impressão: 
+0038#STR0038#ALL#Por Período
+0039#STR0039#ALL#Por Datas
+0040#STR0040#ALL#Departamento
+0041#STR0041#ALL#A opção de planilha e formato tabela é utilizada apenas para o modo Analitico.

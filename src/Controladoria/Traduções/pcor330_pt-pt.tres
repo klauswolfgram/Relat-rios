@@ -1,0 +1,15 @@
+0002#STR0002#ALL#   - cubo analítico: 
+0004#STR0004#ALL#* total da data *
+0005#STR0005#ALL#* total da classe *
+0006#STR0006#ALL#* total operação *
+0007#STR0007#ALL#* total da classe orçamentária *
+0008#STR0008#ALL#Conta Orçamental
+0009#STR0009#ALL# – período de: 
+0011#STR0011#ALL#Dt.movim.
+0013#STR0013#ALL#Operação
+0014#STR0014#ALL#Histórico
+0016#STR0016#ALL#Débito
+0017#STR0017#ALL#Crédito
+0018#STR0018#ALL#Indicar um cubo gerencial existente para proseguir!
+0019#STR0019#ALL#Total <crial>
+0022#STR0022#ALL#Este relatório ira imprimir a Relação de Movimentos de acordo com os parâmetros solicitados pelo usuário. Para mais informações sobre este relatorio consulte o Help do Programa ( F1 ).

@@ -1,0 +1,30 @@
+0001#STR0001#ALL#Relatório De Cargos.
+0002#STR0002#ALL#O relatório de cargos apresenta todos os dados registados para os
+0003#STR0003#ALL#com treinamento de funcionários de acordo com os parâmetros solicitados pelo usuário.
+0005#STR0005#ALL#Código de barras
+0006#STR0006#ALL#Administração
+0007#STR0007#ALL#Relatório De Categorias Por Grupo Funcional
+0009#STR0009#ALL#Descrição Detalhada Do Cargo
+0010#STR0010#ALL# *** não existe descrição detalhada do cargo *** 
+0011#STR0011#ALL#Graduação Dos Cargos
+0012#STR0012#ALL#Factor de descrição                      grau de descrição     
+0013#STR0013#ALL#Descrição Detalhada Do Factor
+0014#STR0014#ALL# *** não existe descrição detalhada do factor *** 
+0015#STR0015#ALL#Cursos Do Cargo
+0016#STR0016#ALL#Curso descrição                      validade   hrs min  nota min freq min  prioridade    
+0017#STR0017#ALL#*** não existe curso para este cargo ***
+0018#STR0018#ALL#*** não existe graduação para este cargo ***
+0019#STR0019#ALL#Pontos
+0020#STR0020#ALL#T o t a l :
+0021#STR0021#ALL#Descrição Das Responsabilidades Do Cargo
+0022#STR0022#ALL# *** não existe descrição das responsabilidades do cargo *** 
+0023#STR0023#ALL#Descrição Do Relacionamento Interno Do Cargo
+0024#STR0024#ALL# *** não existe descrição do relacionamento interno do cargo *** 
+0025#STR0025#ALL#Descrição Das Competências Do Cargo
+0026#STR0026#ALL# *** não existe descrição das competências do cargo *** 
+0027#STR0027#ALL#Competências/habilidades
+0028#STR0028#ALL#Cód.     Item     Cód.     Descrição                                                      Escala   Descrição              Item     Descrição              Grau   Descrição              Item   Descrição
+0029#STR0029#ALL#Compet   Compet   Habil.   Da Habilidade                                                           Da Escala              Escala   Item Escala            Imp.   Grau Importância       Imp.   Item Importância
+0030#STR0030#ALL#*** não existe competência/habilidade para este cargo ***
+0031#STR0031#ALL#Dept.
+0032#STR0032#ALL#Total De Pontos

@@ -1,0 +1,15 @@
+0001#STR0001#ALL#Fractionated Separation Map
+0002#STR0007#ALL#Separator No.     : _______________
+0003#STR0008#ALL#Checking Clerk No.    : _______________
+0004#STR0009#ALL#Packer No.     : _______________
+0005#STR0018#ALL#Customer
+0006#STR0019#ALL#Qty.
+0007#STR0020#ALL#No. of Items
+0008#STR0021#ALL#Total Weight (KG)
+0009#STR0022#ALL#Cubage
+0010#STR0025#ALL#Vehicle License Plate
+0011#STR0026#ALL#Totals
+0012#STR0028#ALL#The purpose of this report is to Issue and Print or just Print a Separation Map for Quantities according to entered parameters.
+0013#STR0029#ALL#Separation Map Header
+0014#STR0030#ALL#Separation Map Items
+0015#STR0031#ALL#Order

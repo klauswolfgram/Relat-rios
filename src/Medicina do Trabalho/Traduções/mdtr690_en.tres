@@ -1,0 +1,74 @@
+0001#STR0001#ALL#Control Form for Inspection of Extinguishers
+0002#STR0002#ALL#Processing...
+0003#STR0003#ALL#Replacement of Trigger
+0004#STR0004#ALL#Replacement of Diffusor
+0005#STR0005#ALL#Oversleeve
+0006#STR0006#ALL#Safety Valve
+0007#STR0007#ALL#Complete Valve
+0008#STR0008#ALL#Additional Cylinder Valve
+0009#STR0009#ALL#Painting
+0010#STR0010#ALL#Pressure Gauge
+0011#STR0011#ALL#Hydrostatic Test
+0012#STR0012#ALL#Recharged
+0013#STR0013#ALL#Used in Fire
+0014#STR0014#ALL#Used in Instruction
+0015#STR0015#ALL#Sundries
+0016#STR0016#ALL#INSPECTION CONTROL FORM
+0017#STR0017#ALL#BRAND:
+0018#STR0018#ALL#TYPE:
+0019#STR0019#ALL#EXTINGUISHER NO.:
+0020#STR0020#ALL#PLACE:
+0021#STR0021#ALL#HISTORY
+0022#STR0022#ALL#Date
+0023#STR0023#ALL#Inspec.
+0024#STR0024#ALL#Repaired
+0025#STR0025#ALL#Instruction
+0026#STR0026#ALL#Fire
+0027#STR0027#ALL#Codes and repairs
+0028#STR0028#ALL#CONTROL OF EXTINGUISHERS
+0029#STR0029#ALL#Customer/Unit: 
+0030#STR0030#ALL#List extinguisher with?
+0031#STR0031#ALL#Print Type?
+0032#STR0032#ALL#To Inspection Date?
+0033#STR0033#ALL#From Inspection Date?
+0034#STR0034#ALL#To Cost Center?
+0035#STR0035#ALL#From Cost Center?
+0036#STR0036#ALL#To Extinguisher?
+0037#STR0037#ALL#From Extinguisher?
+0038#STR0038#ALL#From Customer?
+0039#STR0039#ALL#Customer code. Field can be left blank to consider since first code. 
+0040#STR0040#ALL#Store
+0041#STR0041#ALL#Code of customer store. Field can be left blank to consider since first code. 
+0042#STR0042#ALL#To Customer?
+0043#STR0043#ALL#Customer code. Field can be filled out with Z up to the end to consider up to last code. 
+0044#STR0044#ALL#Code of customer store. Field can be filled out with Z up to the end to consider up to last code. 
+0045#STR0045#ALL#Screen
+0046#STR0046#ALL#Printer
+0047#STR0047#ALL#Order completed
+0048#STR0048#ALL#All
+0049#STR0049#ALL#List?
+0050#STR0050#ALL#Blank form
+0051#STR0051#ALL#Print Model?
+0052#STR0052#ALL#Model 1
+0053#STR0053#ALL#Model 2
+0054#STR0054#ALL#Recharge?
+0055#STR0055#ALL#Hydrostatic Test?
+0056#STR0056#ALL#Enter report model.
+0057#STR0057#ALL#Enter inspection code that corresponds to Refill.
+0058#STR0058#ALL#Enter inspection code that corresponds to Hydrostatic Test.
+0059#STR0059#ALL#INDIVIDUAL FORM OF EXTINGUISHER CONTROL
+0060#STR0060#ALL#NO. INT.
+0061#STR0061#ALL#OCCUPATIONAL SAFETY AND HEALTH
+0062#STR0062#ALL#TYPE
+0063#STR0063#ALL#LOCATION
+0064#STR0064#ALL#CAPACITY
+0065#STR0065#ALL#REFILL
+0066#STR0066#ALL#TEST
+0067#STR0067#ALL#MANUFACTURER
+0068#STR0068#ALL#MANUFACTURING NO.
+0069#STR0069#ALL#SIGNATURE
+0070#STR0070#ALL#CODIFICATION
+0071#STR0071#ALL#Define which extinguishers must be listed. You may print finalized orders only, all or yet a blank form.
+0072#STR0072#ALL#FIXED ASSETS
+0073#STR0073#ALL#ABNT
+0074#STR0074#ALL#received

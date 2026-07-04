@@ -1,0 +1,17 @@
+0001#STR0001#ALL#Contrato De Coleta E Entrega
+0002#STR0002#ALL#Este Programa Irá Emitir O Contrato De Coleta E Entrega
+0004#STR0004#ALL#Núm. De Contrato
+0005#STR0005#ALL#Código
+0007#STR0007#ALL#Proprietário
+0010#STR0010#ALL#Srv.trans.
+0011#STR0011#ALL#Tp.transp.
+0012#STR0012#ALL#Fil.ori
+0014#STR0014#ALL#Qtd.vol.
+0015#STR0015#ALL#Qtd.doc.
+0018#STR0018#ALL#IRS
+0019#STR0019#ALL#Sest/senat
+0020#STR0020#ALL#Irs
+0021#STR0021#ALL#Vl. Líquido
+0022#STR0022#ALL#Descrição
+0024#STR0024#ALL#Este Programa Vai Emitir O Contrato Por Período
+0026#STR0026#ALL#Dt.contr.

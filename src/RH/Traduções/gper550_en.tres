@@ -1,0 +1,52 @@
+0001#STR0001#ALL#Registrat
+0002#STR0002#ALL#Cost Center
+0003#STR0003#ALL#Name
+0004#STR0004#ALL#Cost Center + Name
+0005#STR0005#ALL#Shift
+0006#STR0006#ALL#Print Vacations Values.
+0007#STR0007#ALL#It must be done after the Regular Vacations Calculation, Colletive or Programmed.
+0008#STR0008#ALL#It will be printed according to the parameters selected by the User.
+0009#STR0009#ALL#Z.Form
+0010#STR0010#ALL#Management
+0011#STR0011#ALL#Vacations Values
+0012#STR0012#ALL#Branch: 
+0013#STR0013#ALL#Registration: 
+0014#STR0014#ALL#Name: 
+0015#STR0015#ALL#Acquisitive Period: 
+0016#STR0016#ALL# To 
+0017#STR0017#ALL#Use Period: 
+0018#STR0018#ALL#Salary - Month: 
+0019#STR0019#ALL#Salary - Day: 
+0020#STR0020#ALL#Salary - Time: 
+0021#STR0021#ALL#Days in Vacation: 
+0022#STR0022#ALL#Total Employee:   
+0023#STR0023#ALL#Cod Description         Qtty      Reven.    Cod Description         Qtty      Discounts Cod Description         Qtty           Bases
+0024#STR0024#ALL#Order: 
+0025#STR0025#ALL#Cost Center: 
+0026#STR0026#ALL#Shift: 
+0027#STR0027#ALL#Days of Pecun.Allow.: 
+0028#STR0028#ALL#Total - Branch:     
+0029#STR0029#ALL#Total - C.Center:   
+0030#STR0030#ALL#Total - Shift:      
+0031#STR0031#ALL#Total - Company:    
+0032#STR0032#ALL#Detailed 
+0033#STR0033#ALL#Summarized 
+0034#STR0034#ALL#(%) 1st.Inst.13th.: 
+0035#STR0035#ALL#IT Dep. Nr.: 
+0036#STR0036#ALL#Net     
+0037#STR0037#ALL#Receipt Dt.: 
+0038#STR0038#ALL#Vacation Type: 
+0039#STR0039#ALL#Regular  
+0040#STR0040#ALL#Collective 
+0041#STR0041#ALL#Ref.
+0042#STR0042#ALL#Earnings 
+0043#STR0043#ALL#Deduction
+0044#STR0044#ALL#Basis
+0045#STR0045#ALL#Code
+0046#STR0046#ALL#Descript.
+0047#STR0047#ALL#Regist. and Name orders
+0048#STR0048#ALL#Vacations header   
+0049#STR0049#ALL#Vacations items
+0050#STR0050#ALL#Cost center and cost center + name orders    
+0051#STR0051#ALL#Employee   
+0052#STR0052#ALL#Shift order

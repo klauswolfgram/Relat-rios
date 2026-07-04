@@ -1,0 +1,38 @@
+0001#STR0001#ALL#Contract
+0002#STR0002#ALL#Customer
+0003#STR0003#ALL#Serial Number
+0004#STR0004#ALL#Invoicing Verification
+0005#STR0005#ALL#Status
+0006#STR0006#ALL#Customer Code
+0007#STR0007#ALL#Day Val.
+0008#STR0008#ALL#Measurements Qty.
+0009#STR0009#ALL#Enter initial customer
+0010#STR0010#ALL#Customer from?
+0011#STR0011#ALL#Enter initial store
+0012#STR0012#ALL#Store from?
+0013#STR0013#ALL#Enter final customer
+0014#STR0014#ALL#Customer to?
+0015#STR0015#ALL#Enter final store
+0016#STR0016#ALL#Store to?
+0017#STR0017#ALL#Enter initial product
+0018#STR0018#ALL#Product from?
+0019#STR0019#ALL#Enter final product
+0020#STR0020#ALL#Product to?
+0021#STR0021#ALL#Enter initial serial no.
+0022#STR0022#ALL#Serial No. from?
+0023#STR0023#ALL#Enter final serial no.
+0024#STR0024#ALL#Serial No. to?
+0025#STR0025#ALL#Enter initial separation
+0026#STR0026#ALL#Separation dt. from?
+0027#STR0027#ALL#Enter final separation
+0028#STR0028#ALL#Separation dt. to?
+0029#STR0029#ALL#Enter initial calculation
+0030#STR0030#ALL#Calculation dt. from?
+0031#STR0031#ALL#Enter final calculation
+0032#STR0032#ALL#Calculation dt. to?
+0033#STR0033#ALL#Enter the status
+0034#STR0034#ALL#Status?
+0035#STR0035#ALL#Not Started
+0036#STR0036#ALL#Rented
+0037#STR0037#ALL#Closed
+0038#STR0038#ALL#All

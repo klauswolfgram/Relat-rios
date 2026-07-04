@@ -1,0 +1,79 @@
+0001#STR0001#ALL#The aim of this program is to print the report 
+0002#STR0002#ALL#Credit Notes according to the parameters informed 
+0003#STR0003#ALL#by the user.
+0004#STR0004#ALL#Credit Notes Report
+0005#STR0005#ALL#Invoice
+0006#STR0006#ALL#Issue Date 
+0007#STR0007#ALL#Customer
+0008#STR0008#ALL#Date  Record
+0009#STR0009#ALL#Number               Ser Date       Data       Codigo  Nome                                Sp.   Tax                Tax            Total of
+0010#STR0010#ALL#Invoice                  Issue      Regist.    Custom. Custom.                                   Not Included       Included       Invoice
+0011#STR0011#ALL#Invoice                  Issue      Regist.    Suppl.  Supplier                                  Not Included       Included       Invoice
+0012#STR0012#ALL#CREDIT NOTES ITEMS LIST
+0013#STR0013#ALL#Number               Series Date        Code    Name                                 Sp.       Tax              Tax             Total of
+0014#STR0014#ALL#Invoice                     Regist.     Custom. Custom.                                     Not Included        Included         Invoice
+0015#STR0015#ALL#Invoice                     Regist.     Supp.   Supplier                                    Not Included        Included         Invoice
+0016#STR0016#ALL#Number               Series   Date          Date          Sp.         Tax                 Tax              Total of
+0017#STR0017#ALL#Invoice                       Issue         Regist.                Not Included          Included           Invoic.
+0018#STR0018#ALL#Invoice                     Issue       Custom. Custom.                                     Not Included        Included         Invoice
+0019#STR0019#ALL#Invoice                     Issue       Supp.   Supplier                                      Not Included     Included          Invoice
+0020#STR0020#ALL#*** CANCELLED BY THE OPERATOR ***
+0021#STR0021#ALL#MATERIAL CODE                  DESCRIPTION                    TE   IMP. NOT INC.     IMP. INCL. LOCAL  QUANTITY      UNIT VALUE     TOTAL VALUE
+0022#STR0022#ALL#NUMBER: 
+0023#STR0023#ALL#ISSUE: 
+0024#STR0024#ALL#REC: 
+0025#STR0025#ALL#SPECIES: 
+0026#STR0026#ALL#CUSTOMER: 
+0027#STR0027#ALL#SUPPLIER: 
+0028#STR0028#ALL#RECORD:    
+0029#STR0029#ALL#PAYM.TERM: 
+0030#STR0030#ALL#TOT.NOT INC. TAX : 
+0031#STR0031#ALL#TOT.INCL.TAX : 
+0032#STR0032#ALL#INVOICE TOTAL: 
+0033#STR0033#ALL#I S S U E      D A T E ==> 
+0034#STR0034#ALL#C U S T O M E R  ==> 
+0035#STR0035#ALL#S U P P L I E R ==> 
+0036#STR0036#ALL#R E C O R D   D A T E     ==> 
+0037#STR0037#ALL#GRAND TOTAL ==> 
+0038#STR0038#ALL#Generating report, please wait...
+0039#STR0039#ALL#Report of credit notes       
+0040#STR0040#ALL#Invoice    
+0041#STR0041#ALL#Issue date     
+0042#STR0042#ALL#Customer
+0043#STR0043#ALL#Registration date
+0044#STR0044#ALL#Report of credit notes       
+0045#STR0045#ALL#Series
+0046#STR0046#ALL#Issue  
+0047#STR0047#ALL#Regist.Date
+0048#STR0048#ALL#Cust. Name  
+0049#STR0049#ALL#Spe
+0050#STR0050#ALL#Tax not included
+0051#STR0051#ALL#Tax Included
+0052#STR0052#ALL#Invoice total    
+0053#STR0053#ALL#Type   
+0054#STR0054#ALL#Store
+0055#STR0055#ALL#Prov:
+0056#STR0056#ALL#Product
+0057#STR0057#ALL#Descript.
+0058#STR0058#ALL#TIO
+0059#STR0059#ALL#Tax N. Incl.
+0060#STR0060#ALL#Tax Incl.
+0061#STR0061#ALL#Location
+0062#STR0062#ALL#Quantity  
+0063#STR0063#ALL#Unit value 
+0064#STR0064#ALL#Total amnt.
+0065#STR0065#ALL#Record  
+0066#STR0066#ALL#Pym.Terms
+0067#STR0067#ALL#Tot.Tax Not Incl
+0068#STR0068#ALL#Tot.Tax Incl
+0069#STR0069#ALL#Invoice total 
+0070#STR0070#ALL#Summarized - by invoice  
+0071#STR0071#ALL#Summarized-by issue dt
+0072#STR0072#ALL#Summarized by Customer
+0073#STR0073#ALL#Summarized-by registration date
+0074#STR0074#ALL#Detailed - by invoice    
+0075#STR0075#ALL#Items
+0076#STR0076#ALL#Item header     
+0077#STR0077#ALL#Grand total
+0078#STR0078#ALL#Total w/o Deduction
+0079#STR0079#ALL#Credit Invoice Report

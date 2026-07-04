@@ -1,0 +1,44 @@
+0003#STR0003#ALL#Nome Da Entidade
+0004#STR0004#ALL#Morada
+0005#STR0005#ALL#Concelho
+0006#STR0006#ALL#Distrito
+0007#STR0007#ALL#Código postal
+0011#STR0011#ALL#Código Do Atendimento
+0012#STR0012#ALL#Data Do Atendimento
+0013#STR0013#ALL#Não localizado no registo...
+0014#STR0014#ALL#Não indicado no atendimento...
+0015#STR0015#ALL#Código Cliente/loja
+0016#STR0016#ALL#Razão social
+0017#STR0017#ALL#Código Do Contacto
+0018#STR0018#ALL#Nome Do Contacto
+0019#STR0019#ALL#Tipo De Marketing
+0021#STR0021#ALL#Tipo De Serviço
+0022#STR0022#ALL#Tabela De Preço
+0023#STR0023#ALL#Código Do Operador
+0024#STR0024#ALL#Nome Do Operador
+0025#STR0025#ALL#Código Do Vendedor
+0026#STR0026#ALL#Nome Do Vendedor
+0027#STR0027#ALL#Código Do Media
+0028#STR0028#ALL#Descrição Do Media
+0029#STR0029#ALL#Código Da Campanha
+0030#STR0030#ALL#Descrição Da Campanha
+0031#STR0031#ALL#Código Da Ocorrência
+0032#STR0032#ALL#Descrição Da Ocorrência
+0033#STR0033#ALL#Data De Retorno
+0034#STR0034#ALL#Hora De Retorno
+0036#STR0036#ALL#Item Artigo         Descricão                      St   Qtdade.    Vl. Unitário        Vl. Item  %Desc    Vl. Desconto  %acrés   Vl. Acréscimo Tes Cfop      Tabela      Base Icms Lp Um Entrega    Lote       Sub-lt Validade
+0037#STR0037#ALL#Conhecimentos
+0038#STR0038#ALL#O B J E C T O S   V I N C U L A D O S   A O   B A N C O   D E   C O N H E C I M E N T O
+0039#STR0039#ALL#Código Obj.     Dimensão     Descrição                                                        Objecto
+0040#STR0040#ALL#A T E N D I M E N T O S   D E   T E L E C O B R A N ç A S   D A   E N T I D A D E
+0041#STR0041#ALL#Tipo De Ligação
+0042#STR0042#ALL#Não indicado
+0044#STR0044#ALL#Os
+0045#STR0045#ALL#Prf Título-p Tip Natureza   Vencto   V. Real         Valor   Acresc  Decresc Num Banco       Histórico                  %per  Val Jur     Irs      Iss     Csll   Cofins      Pis Estado          Resp.  Nome Do Responsável
+0046#STR0046#ALL#Televendas
+0048#STR0048#ALL#Elem.
+0049#STR0049#ALL#Artigo
+0052#STR0052#ALL#Qtd.
+0054#STR0054#ALL#Vl.Elem.
+0055#STR0055#ALL#%Desc.
+0057#STR0057#ALL#%Acrés.

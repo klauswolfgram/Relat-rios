@@ -1,0 +1,33 @@
+0001#STR0001#ALL#Relação de Pedidos nao entregues
+0002#STR0002#ALL#Este Programa Irá Emitir A Relação Dos Pedidos Pendentes,
+0003#STR0003#ALL#Imprimindo o número do pedido, cliente, data da entrega, 
+0004#STR0004#ALL#Qtde pedida, qtde já entregue,saldo do artigo e atraso.
+0005#STR0005#ALL#Código de barras
+0006#STR0006#ALL#Administração
+0008#STR0008#ALL#Por Artigo
+0010#STR0010#ALL#Por Dt.entrega
+0011#STR0011#ALL#NUMERO DATA DE    CÓDIGO LOJA /NOME DO CLIENTE                       EL CÓDIGO DO       DESCRIÇÃO DO                   DATA DE         QUANTIDADE   QUANTIDADE   QUANTIDADE      VALOR TOTAL 
+0012#STR0012#ALL#PEDIDO EMISSÃO                                                          ARTIGO         MATERIAL                       ENTREGA         PEDIDA       ENTREGUE     PENDENTE        PENDENTE    
+0014#STR0014#ALL#ARTIGO         MATERIAL                       PEDIDO    EMISSAO      ENTREGA                                                          PEDIDA       ENTREGUE     PENDENTE        PENDENTE    
+0015#STR0015#ALL#A Seleccionar Registos...
+0017#STR0017#ALL#                                                   PEDIDO    EMISSÃO      ARTIGO          MATERIAL                       ENTREGA      PEDIDA       ENTREGUE     PENDENTE        PENDENTE    
+0018#STR0018#ALL# - Por Data De Entrega
+0020#STR0020#ALL# ENTREGA      PEDIDO EMISSAO                                                            ARTIGO         MATERIAL                       PEDIDA       ENTREGUE     PENDENTE        PENDENTE    
+0021#STR0021#ALL#Cancelado Pelo Operador
+0024#STR0024#ALL#                                                PEDIDO     EMISSAO      ARTIGO         MATERIAL                       ENTREGA         PEDIDA       ENTREGUE     PENDENTE        PENDENTE    
+0025#STR0025#ALL#Total --------->
+0026#STR0026#ALL#Total crial --->
+0027#STR0027#ALL#Relação de pedidos não entregues
+0028#STR0028#ALL#Este Programa Irá Emitir A Relação Dos Pedidos Pendentes,
+0029#STR0029#ALL#Imprimindo o número do pedido, cliente, data da entrega, 
+0030#STR0030#ALL#Qtde pedida, qtde já entregue, saldo do artigo e atraso.
+0031#STR0031#ALL#Total Do Pedido
+0032#STR0032#ALL#Total Do Artigo
+0033#STR0033#ALL#Total Do Cliente
+0034#STR0034#ALL#Total Da Dt.entrega
+0035#STR0035#ALL#Total Do Vendedor
+0036#STR0036#ALL#Quant.pendente
+0038#STR0038#ALL#A Criar Tabela De Trabalho. Aguarde...
+0039#STR0039#ALL#Total ----->
+0040#STR0040#ALL#A Seleccionar Registos...
+0042#STR0042#ALL#Por Artigo

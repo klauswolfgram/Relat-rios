@@ -1,0 +1,10 @@
+0001#STR0001#ALL#Funcion disponible solamente para entornos TopConnect
+0002#STR0002#ALL#Funcion disponible solamente para TReport, por favor actualice el entorno y verifique el parametro MV_TREPORT
+0003#STR0003#ALL#Para utilizar este informe, se necesita ejecutar el compatibilizador U_UPDATF. Por favor, actualice el entorno
+0004#STR0004#ALL#INFORME PROCESOS AJUSTE VALOR POSITIVO/NEGATIVO SOCIETARIO
+0005#STR0005#ALL#PROCESOS DE AJUSTES 
+0006#STR0006#ALL#Bienes por ajustar
+0007#STR0007#ALL#Sucursal/Proceso: 
+0008#STR0008#ALL#Total proceso: 
+0009#STR0009#ALL#Sucursal: 
+0010#STR0010#ALL#Total sucursal: 

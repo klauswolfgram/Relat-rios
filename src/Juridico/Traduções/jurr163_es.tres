@@ -1,0 +1,30 @@
+0001#STR0001#ALL#Auditoría de accesos de usuarios
+0002#STR0002#ALL#Fecha
+0003#STR0003#ALL#Usuario
+0004#STR0004#ALL#Código búsqueda
+0005#STR0005#ALL#Descripción de búsqueda
+0006#STR0006#ALL#Tipo de búsqueda
+0007#STR0007#ALL#Tipo de acceso
+0008#STR0008#ALL#Restricción de clientes
+0009#STR0009#ALL#Código del cliente
+0010#STR0010#ALL#Tienda
+0011#STR0011#ALL#Razón social
+0012#STR0012#ALL#Restricción de grupos de clientes
+0013#STR0013#ALL#Código grupo
+0014#STR0014#ALL#Nombre grupo
+0015#STR0015#ALL#Restricción de acceso a rutinas
+0016#STR0016#ALL#Código rutina
+0017#STR0017#ALL#Nombre rutina
+0018#STR0018#ALL#¿Visualizar?
+0019#STR0019#ALL#¿Incluir?
+0020#STR0020#ALL#¿Modificar?
+0021#STR0021#ALL#¿Borrar?
+0022#STR0022#ALL#Restricción de oficina
+0023#STR0023#ALL#Código oficina
+0024#STR0024#ALL#Descripción oficina
+0025#STR0025#ALL#Restricción de área
+0026#STR0026#ALL#Código área
+0027#STR0027#ALL#Descripción área
+0028#STR0028#ALL#Correspondiente
+0029#STR0029#ALL#Grupo
+0030#STR0030#ALL#Generando ... Informe

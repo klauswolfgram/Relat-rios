@@ -1,0 +1,22 @@
+0001#STR0001#ALL#Este programa vai imprimir os cheques do banco, através de
+0002#STR0002#ALL#Formulário pré-impresso.
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#Janeiro
+0007#STR0007#ALL#Fevereiro
+0008#STR0008#ALL#Marco
+0009#STR0009#ALL#Abril
+0010#STR0010#ALL#Maio
+0011#STR0011#ALL#Junho
+0012#STR0012#ALL#Julho
+0013#STR0013#ALL#Agosto
+0014#STR0014#ALL#Setembro
+0015#STR0015#ALL#Outubro
+0016#STR0016#ALL#Novembro
+0017#STR0017#ALL#Dezembro
+0021#STR0021#ALL#Formulário posicionado correctamente ?                         
+0023#STR0023#ALL#Data final  
+0024#STR0024#ALL#Erro na configuração  do cheque + chr ( 13 ) + verificar o tamanho das linhas de extenso
+0025#STR0025#ALL#Já existe o cheque número:  
+0026#STR0026#ALL#Dados da conta corrente destino do cheque cpmf são inválidos
+0032#STR0032#ALL#Seleccione o(s) cheque(s) para suprimir  o termo  'NÃO À ORDEM'
+0034#STR0034#ALL#Balcão

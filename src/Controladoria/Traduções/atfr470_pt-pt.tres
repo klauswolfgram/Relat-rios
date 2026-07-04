@@ -1,0 +1,30 @@
+0002#STR0002#ALL#Procedimento disponível apenas para ambientes TopConnect
+0003#STR0003#ALL#Processamento do custo de empréstimo
+0004#STR0004#ALL#Este programa emitirá as informações dos processos de capitalização dos custos de empréstimo conforme os parâmetros.
+0005#STR0005#ALL#Dados do processo
+0006#STR0006#ALL#Dados dos financiamentos
+0007#STR0007#ALL#Dados das transacções
+0008#STR0008#ALL#Dados dos rendimentos
+0009#STR0009#ALL#Custos dos empréstimos
+0010#STR0010#ALL#Total processo
+0011#STR0011#ALL#Total do processo
+0015#STR0015#ALL#Taxa da capitalização
+0017#STR0017#ALL#Total filial
+0018#STR0018#ALL#Total da filial
+0019#STR0019#ALL#Total geral
+0022#STR0022#ALL#Transacções
+0025#STR0025#ALL#As tabelas FN1, FN2, FN3 e FN4 são fundamentais para executar o procedimento e não estão actualizadas no ambiente. Por favor, execute a última versão do actualizador UPDATF.
+0027#STR0027#ALL#Cód.Base Cust.Trans.
+0028#STR0028#ALL#Item Cust.Trans.
+0029#STR0029#ALL#Tipo Cust.Trans.
+0030#STR0030#ALL#Tipo Saldo Cust.Trans.
+0031#STR0031#ALL#Valor da amortização
+0032#STR0032#ALL#Descrição do rendimento
+0034#STR0034#ALL#Código base origem
+0035#STR0035#ALL#Item origem
+0036#STR0036#ALL#Cód.Base Cust.Emp.
+0037#STR0037#ALL#Item Cust.Emp.
+0038#STR0038#ALL#Taxa de capitalização
+0040#STR0040#ALL#Aquis.Orig.
+0041#STR0041#ALL#Tipo origem
+0042#STR0042#ALL#Saldo origem

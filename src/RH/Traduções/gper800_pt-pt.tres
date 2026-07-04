@@ -1,0 +1,23 @@
+0001#STR0001#ARG#Emissão Do Livro De Remunerações
+0002#STR0002#ARG#Emissão do livro de remunerações. 
+0003#STR0003#ARG#Será impresso de acordo com os parâmetros solicitados 
+0004#STR0004#ARG# pelo utilizador. 
+0005#STR0005#ARG#Código de barras
+0006#STR0006#ARG#Administração
+0007#STR0007#ARG#Atenção
+0008#STR0008#ARG#O período seleccionado ainda não foi terminado, deseja imprimir os movimentos em aberto?
+0010#STR0010#ARG#Não
+0011#STR0011#ARG#O período seleccionado é posterior ao mês de competência.
+0012#STR0012#ARG#Ok
+0013#STR0013#ARG#Empregados
+0015#STR0015#ARG#Movimentos
+0018#STR0018#ARG#P.liq
+0024#STR0024#ARG#Cônjuge
+0025#STR0025#ARG#Filho
+0026#STR0026#ARG#Outros
+0027#STR0027#ARG#Dt.cas.: 
+0028#STR0028#ARG#Dt.nasc.: 
+0029#STR0029#ARG#13º Salário
+0051#STR0051#ALL#HABILITACION DEL REGISTRO DE HOJAS MOVILES EN REEMPLAZO DEL LIBRO ESPECIAL ART. 52§ LEY 20744 (T.O.)
+0053#STR0053#ALL#Fecha Pago: 
+0054#STR0054#ALL#Hoja: 

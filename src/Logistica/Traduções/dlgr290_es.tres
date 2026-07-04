@@ -1,0 +1,21 @@
+0001#STR0001#ALL#Servicios Pendientes / Ejecutados
+0002#STR0002#ALL#Detalle de Servicios vs. Tareas vs. Actividades pendientes
+0003#STR0003#ALL#o ejecutados. El filtro de los itemes sera de acuerdo
+0004#STR0004#ALL#con los parametros utilizados por el usuario.
+0005#STR0005#ALL# A rayas
+0006#STR0006#ALL#Administracion
+0007#STR0007#ALL#DOCUMENTO    SER PRODUCTO         AR CANTIDAD    UM LOTE       SUB    SERVICIO                     TAREA                      ACTIVIDAD                   REC    REC    ESTRUCT DIR             ESTRUCT  DIR          
+0008#STR0008#ALL#                                                               LOTE                                                                                       HUMANO FISICO ORIGEN ORIGEN           DESTINO DESTINO       
+0009#STR0009#ALL#Seleccionando registros...
+0010#STR0010#ALL#ANULADO POR EL OPERADOR
+0011#STR0011#ALL#Movim. por ubicacion
+0012#STR0012#ALL#Doc.
+0013#STR0013#ALL#Alm
+0014#STR0014#ALL#UM
+0015#STR0015#ALL#Serv
+0016#STR0016#ALL#Tarea
+0017#STR0017#ALL#Act.
+0018#STR0018#ALL#Rec.Hum
+0019#STR0019#ALL#Rec.Fis
+0020#STR0020#ALL#Est.Fis
+0021#STR0021#ALL#Est.Des

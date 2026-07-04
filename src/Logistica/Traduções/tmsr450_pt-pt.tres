@@ -1,0 +1,17 @@
+0002#STR0002#ALL#Emite a relação de rentabilidade x km rodado
+0003#STR0003#ALL#Cofacturaorme os parâmetros escolhidos
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#Cancelado Pelo Operador
+0007#STR0007#ALL#Viagem    Tipo        Km Inicial Inicio        Km Final Fim          Total Km       Vlr.frete    R$ / Km Rota
+0010#STR0010#ALL#Descrição: 
+0013#STR0013#ALL#                                                                     Total Km       Vlr.frete    R$ / Km
+0014#STR0014#ALL#Total do veiculo: 
+0016#STR0016#ALL#Media r$ / dia: 
+0017#STR0017#ALL#Total do período: 
+0019#STR0019#ALL#Emite a relação de rentabilidade x km rodados de acordo com os parâmetros indicados
+0022#STR0022#ALL#Total Km
+0023#STR0023#ALL#Vlr.frete
+0024#STR0024#ALL#€ / Km
+0025#STR0025#ALL#Total veiculo
+0026#STR0026#ALL#Total Do Frete

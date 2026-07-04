@@ -1,0 +1,69 @@
+0001#STR0001#ALL#Sucurs+Mat
+0002#STR0002#ALL#Sucurs+Cc+Mat
+0003#STR0003#ALL#Sucurs+Nomb
+0004#STR0004#ALL#Sucurs+Cc+Nomb
+0005#STR0005#ALL#GFIP - Formulario de Pago del FGTS e Informaciones de la Prev. Social
+0006#STR0006#ALL#Se imprimira de acuerdo con los param. solicitados por el usuario.
+0007#STR0007#ALL#Debe imprimirse en impresora MATRICIAL.
+0008#STR0008#ALL#A rayas
+0009#STR0009#ALL#Administrac.
+0010#STR0010#ALL#Sello CIEF
+0011#STR0011#ALL#Para uso de CAJA
+0012#STR0012#ALL#G F I P - Form. de Pago del FGTS y
+0013#STR0013#ALL#CAIXA ECONOMICA FEDERAL - CAIXA
+0014#STR0014#ALL#INSTITUTO NACIONAL DEL SEGURO SOCIAL - INSS
+0015#STR0015#ALL#Informac. p. Previdenc. Social
+0016#STR0016#ALL#Referente a mes/ano
+0017#STR0017#ALL#Codigo pago
+0018#STR0018#ALL#Razon Social/Nomb
+0019#STR0019#ALL#Persona p/contacto/DDD/telefono
+0020#STR0020#ALL#CGC/CNPJ/CEI
+0021#STR0021#ALL#OTRAS INFORMACIONES
+0022#STR0022#ALL#Direccion (calle, Nº, piso, apartamento)
+0023#STR0023#ALL#Barrio/distrito
+0024#STR0024#ALL#CP
+0025#STR0025#ALL#Municipio
+0026#STR0026#ALL#Prov
+0027#STR0027#ALL#Nº Proceso Judicial
+0028#STR0028#ALL#FPAS
+0029#STR0029#ALL#Codigo terceros
+0030#STR0030#ALL#SIMPLE
+0031#STR0031#ALL#Alicuota SAT
+0032#STR0032#ALL#CNAE
+0033#STR0033#ALL#Tomador de serv. (CGC/CNPJ/CEI)
+0034#STR0034#ALL#Tomado de serv. (razon social)
+0035#STR0035#ALL#Jur./JCJ
+0036#STR0036#ALL#Valor deudor Prev. Social
+0037#STR0037#ALL#Aporte desc. empleado
+0038#STR0038#ALL#Valor asig. familiar
+0039#STR0039#ALL#Comerc. de produc. rural
+0040#STR0040#ALL#Ingreso evento desp./patroc.
+0041#STR0041#ALL#Compensac. Prev. Social
+0042#STR0042#ALL#Total
+0043#STR0043#ALL#Periodo (de-a)
+0044#STR0044#ALL#Nº PIS-PASEP/Inscrip.
+0045#STR0045#ALL#Ingreso
+0046#STR0046#ALL#Libreta de trabajo
+0047#STR0047#ALL#Cat
+0048#STR0048#ALL#Remunerac.
+0049#STR0049#ALL#Remuneracion aguinaldo
+0050#STR0050#ALL#Ocurr
+0051#STR0051#ALL#Nombre del trabaj.
+0052#STR0052#ALL#Movimiento
+0053#STR0053#ALL#Nacimiento
+0054#STR0054#ALL#de aporte individual
+0055#STR0055#ALL#(fch.)
+0056#STR0056#ALL#(Nº/serie)
+0057#STR0057#ALL#(sin cuota de aguinaldo)
+0058#STR0058#ALL#(solo cuota de aguinaldo)
+0059#STR0059#ALL#(fch.)
+0060#STR0060#ALL#Cod.
+0061#STR0061#ALL#(fch.)
+0062#STR0062#ALL#Total
+0063#STR0063#ALL#Suma
+0064#STR0064#ALL#Rem+Aguin(Cat 1,2,3 y 5)
+0065#STR0065#ALL#Rem+Aguin (Cat. 4)
+0066#STR0066#ALL#Total a pagar FGTS
+0067#STR0067#ALL#Autentific.
+0068#STR0068#ALL#Lugar y fch.
+0069#STR0069#ALL#Firma

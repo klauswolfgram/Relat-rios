@@ -1,0 +1,22 @@
+0001#STR0001#ALL#DARF de Recolhimento do PIS s/Folha
+0002#STR0002#ALL#Sera impresso de acordo com os parametros solicitados pelo usuario.
+0003#STR0003#ALL#Obs. Deve ser impresso um Darf por Filial ou entao Centralizado
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#Confirma
+0007#STR0007#ALL#Repete
+0008#STR0008#ALL#Abandona
+0009#STR0009#ALL#EMISSAO DARF RECOLHIMENTO PIS S/FOLHA
+0010#STR0010#ALL#Selecionando Registros...
+0011#STR0011#BRA#Escolha uma opção:
+0012#STR0012#BRA#Guia de Recolhimento
+0013#STR0013#BRA#DARF do PIS s/ Folha
+0014#STR0014#BRA#DARF de Contribuição Previdenciária
+0015#STR0015#BRA#EMISSAO DARF RECOLHIMENTO CONTRIBUIÇÃO PREVIDENCIÁRIA
+0016#STR0016#BRA#A DARF da Contribuição Previdenciária não será gerada.
+0017#STR0017#BRA#MOTIVO: As receitas de atividades não desoneradas atingiram o limite de 95% do total geral.
+0018#STR0018#ALL#Tipo de Contrato não preenchido, informe pelo menos um.
+0019#STR0019#ALL#Atenção
+0020#STR0020#ALL#Os valores de PIS Empresa ref. a 13º Salário são contemplados na Folha de Pagamento.
+0021#STR0021#ALL#Tem certeza que deseja seguir com a geração?
+0022#STR0022#ALL#DARF PIS sobre 13º Salário

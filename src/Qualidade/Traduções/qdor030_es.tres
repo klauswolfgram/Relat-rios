@@ -1,0 +1,22 @@
+0001#STR0001#ALL#LISTA DE ALUMNOS POR DOCUMENTO   
+0002#STR0002#ALL#Este programa imprimira una lista de alumnos por        
+0003#STR0003#ALL#documento y detalla quien fue capacitado en cada documento. 
+0004#STR0004#ALL#A Rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#Seleccionando registros.
+0007#STR0007#ALL#CAPACITANDO               FUNCION         DEPARTAMENTO  NUMERO/ANO FCH.SOLICITUD  FCH.REALIZACION   PARTICIPANTE JUSTIFICATIVA
+0008#STR0008#ALL#                                                                                                                       
+0009#STR0009#ALL#ANULADO POR EL OPERADOR
+0010#STR0010#ALL#Documento: 
+0011#STR0011#ALL#Capacitacion:
+0012#STR0012#ALL#Realizado
+0013#STR0013#ALL#Pendiente
+0014#STR0014#ALL#Si
+0015#STR0015#ALL#No
+0016#STR0016#ALL#Capacitac.
+0017#STR0017#ALL#Capacitan.
+0018#STR0018#ALL#Capacit.
+0019#STR0019#ALL#Funcion:
+0020#STR0020#ALL#Departamento
+0021#STR0021#ALL#Participante
+0022#STR0022#ALL#Justificativa

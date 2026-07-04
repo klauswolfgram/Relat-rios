@@ -1,0 +1,35 @@
+0001#STR0001#ALL#Este informe imprimira detalles de la asignacion de recursos en los proyectos en el periodo solicitado.
+0002#STR0002#ALL#Asignacion de recursos
+0003#STR0003#ALL#PROYECTO+TAREA
+0004#STR0004#ALL#RECURSO+FECHA DE ASIGNACION
+0005#STR0005#ALL#A Rayas
+0006#STR0006#ALL#Administracion
+0007#STR0007#ALL#TAREA                                      RECURSO                                        EQUIPO                                     FCH. INICIO  H.INI. FCH. FINAL  H.FIN.  %ASIG  CANTIDAD UN    COSTO PRV.     TOTAL PREV.
+0008#STR0008#ALL#Proyecto    : 
+0009#STR0009#ALL#Total
+0010#STR0010#ALL#PROYECTO                                                     TAREA                                                       FECHA INICIO        FECHA FINAL        %ASIG    CANTIDAD  UM       COSTO PRV.         TOTAL PREV.
+0011#STR0011#ALL#Recurso    : 
+0012#STR0012#ALL#EQUIPO+FECHA DE DESTINACION
+0013#STR0013#ALL#Equipo     : 
+0014#STR0014#ALL#PROYECTO                                  TAREA                                       RECURSO                                        FECHA INICIO   FECHA FINAL       %ALOC    CANTIDAD  UM     COSTO PRV.        TOTAL PREV.
+0015#STR0015#ALL#Equipo   :
+0016#STR0016#ALL#Un. Max  :
+0017#STR0017#ALL#Costo Prv.
+0018#STR0018#ALL#Total Prv.
+0019#STR0019#ALL#Grupo de Composicion
+0020#STR0020#ALL#PROYECTO+GRUPO DE TAREAS+TAREA+RECURSO
+0021#STR0021#ALL#Total General
+0022#STR0022#ALL#Grupo
+0023#STR0023#ALL#UM
+0024#STR0024#ALL#Proyecto + Tarea + Recurso + Equipo + Grupo de Composic. 
+0025#STR0025#ALL#Proy. 
+0026#STR0026#ALL#Tarea
+0027#STR0027#ALL#Recurso
+0028#STR0028#ALL#Asignac. de Recurso
+0029#STR0029#ALL#Equipo
+0030#STR0030#ALL#Tarea + Asignac. de Equipo
+0031#STR0031#ALL#Orden 
+0032#STR0032#ALL#REC+PRJ+TRF+FCH
+0033#STR0033#ALL#Recurso(Proyec.)
+0034#STR0034#ALL#*** ANULADO POR EL USUARIO ***
+0035#STR0035#ALL#Insumo

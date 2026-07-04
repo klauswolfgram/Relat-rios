@@ -1,0 +1,77 @@
+0001#STR0001#ALL#Medics.
+0002#STR0002#ALL#Este informe emitira una lista de mediciones, exhibiendo sus respectivas 
+0003#STR0003#ALL#multas/bonificaciones, descuentos y garantias retenidas. Por favor, verifique los  
+0004#STR0004#ALL#parametros del informe.
+0005#STR0005#ALL#Procesando
+0006#STR0006#ALL#Medics.
+0007#STR0007#ALL#Multas/Bonifics.
+0008#STR0008#ALL#Descuentos
+0009#STR0009#ALL#Retenc.-Caucs.
+0010#STR0010#ALL#Multas
+0011#STR0011#ALL#Bonificac.
+0012#STR0012#ALL#Total de multas:
+0013#STR0013#ALL#Total de Bonifics.:
+0014#STR0014#ALL#Total:
+0015#STR0015#ALL#Num. Medicion
+0016#STR0016#ALL#BOLETIN DE MEDICION DE SERVIC.
+0017#STR0017#ALL#Medic.
+0018#STR0018#ALL#Contrato
+0019#STR0019#ALL#Planilla
+0020#STR0020#ALL#Proveedor
+0021#STR0021#ALL#Valor del Contr.
+0022#STR0022#ALL#Venc. del Contr.
+0023#STR0023#ALL#Periodo
+0024#STR0024#ALL#Fecha
+0025#STR0025#ALL#Item
+0026#STR0026#ALL#Produc.
+0027#STR0027#ALL#Descripcion
+0028#STR0028#ALL#Unid.
+0029#STR0029#ALL#Vl. Unit.
+0030#STR0030#ALL#Ctd. Total
+0031#STR0031#ALL#Acum. Anter.
+0032#STR0032#ALL#Ctd. Med.
+0033#STR0033#ALL#Acum. Tot.
+0034#STR0034#ALL#Vl. Acum.
+0035#STR0035#ALL#Vl. Medicion
+0036#STR0036#ALL#Vl. Acum. Tot.
+0037#STR0037#ALL#Total de la Medicion
+0038#STR0038#ALL#Descuentos
+0039#STR0039#ALL#Multas
+0040#STR0040#ALL#Vl Bruto
+0041#STR0041#ALL#Retenc. 
+0042#STR0042#ALL#IRRF
+0043#STR0043#ALL#ISS
+0044#STR0044#ALL#INSS
+0045#STR0045#ALL#Vl. Neto
+0046#STR0046#ALL#Fecha prevista para pago:
+0047#STR0047#ALL#Recibido el: ____ / ____ / ____
+0048#STR0048#ALL#SECTOR FINANC.
+0049#STR0049#ALL#% Medicion
+0050#STR0050#ALL#% Acumulado
+0051#STR0051#ALL#Factura:
+0052#STR0052#ALL#Enc. Adm. Fin.:
+0053#STR0053#ALL#Check list para aprobacion de pago de medicion:
+0054#STR0054#ALL#Comprobante de recisiones de Contrat. de trabajo.
+0055#STR0055#ALL#GRP de pago INSS especifico de la Matric. de la obra.
+0056#STR0056#ALL#Planillas y/o recibos de pago sueldos empleados
+0057#STR0057#ALL#Comprobante de Mat. y Equip. Utiliz. por el Subc. en la obra.
+0058#STR0058#ALL#Factura de los servicios ejecutados.
+0059#STR0059#ALL#Comprobante de pago de FGTS y lista de empleados
+0060#STR0060#ALL#Si es final firma de rescision.
+0061#STR0061#ALL#Declaro estar de acuerdo con Val. y Cant. que constan en esta medicion, 
+0062#STR0062#ALL#no faltando medir nada hasta esta fecha.
+0063#STR0063#ALL#VERIFICAC. SECTOR TECNICO
+0064#STR0064#ALL#CONTRATADA
+0065#STR0065#ALL#Autorizac. Consejo Admin.: 
+0066#STR0066#ALL#PIS
+0067#STR0067#ALL#COFINS
+0068#STR0068#ALL#CSLL
+0069#STR0069#ALL#Retencion para Seguridad Social
+0070#STR0070#ALL#Mano de Obra
+0071#STR0071#ALL#Material/Equipamientos
+0072#STR0072#ALL#Cliente
+0073#STR0073#ALL#Revision
+0074#STR0074#ALL#Bonificacion
+0075#STR0075#ALL#Items de la Medicion
+0076#STR0076#ALL#Prov./Cliente
+0077#STR0077#ALL#Totalizadores

@@ -1,0 +1,18 @@
+0001#STR0001#ALL#Relatório para imprimir os exames relacionados com o riscos.
+0002#STR0002#ALL#Os riscos serão filtrados através dos parâmetros indicados pelo
+0003#STR0003#ALL#Utilizador.
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#Exames Por Risco
+0011#STR0011#ALL#Centro De Custo
+0015#STR0015#ALL#Nome Do Exame
+0016#STR0016#ALL#De cliente ?
+0018#STR0018#ALL#Até cliente ?
+0019#STR0019#ALL#Código  do cliente. o campo pode permanecer vazio para considerar desde o primeiro código.
+0020#STR0020#ALL#Código  da loja do cliente. o campo pode permanecer vazio para considerar desde o primeiro código.
+0021#STR0021#ALL#Código  do cliente. o campo pode ser preenchido com a letra z até  o final para considerar o último código.
+0022#STR0022#ALL#Código  da loja do cliente. o campo pode ser preenchido com a letra z até  o final para considerar o último código.
+0023#STR0023#ALL#Não existe informação para imprimir no relatório.
+0028#STR0028#ALL#Cliente/loja: 
+0029#STR0029#ALL#Até Exame ?
+0031#STR0031#ALL#Até Risco ?

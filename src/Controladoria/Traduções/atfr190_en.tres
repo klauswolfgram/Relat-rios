@@ -1,0 +1,16 @@
+0001#STR0001#ALL#This program will print a list of Entries per Cost 
+0002#STR0002#ALL#Center.
+0003#STR0003#ALL#Entries per Cost Center
+0004#STR0004#ALL#C.Center   Ledger Account                    Current Value    Accum Depreciation Month Deprec   Accum Depr.Adjust Accum Monet.Adjust
+0005#STR0005#ALL#CANCELLED BY THE OPERATOR  
+0006#STR0006#ALL#Tot C.Center 
+0007#STR0007#ALL#GRAND TOTAL:     
+0008#STR0008#ALL#Amount in 
+0009#STR0009#ALL#Currency Symbol 
+0010#STR0010#ALL#Space 
+0011#STR0011#ALL#Code
+0012#STR0012#ALL#Company
+0013#STR0013#ALL#Business Unit
+0014#STR0014#ALL#Branch
+0015#STR0015#ALL#Branches selected for the report
+0016#STR0016#ALL#Please wait...

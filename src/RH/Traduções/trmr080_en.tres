@@ -1,0 +1,22 @@
+0001#STR0001#ALL#Courses Planning
+0002#STR0002#ALL#To be printed according to the parameters required by
+0003#STR0003#ALL#the user.
+0004#STR0004#ALL#Z. Form
+0005#STR0005#ALL#Management
+0006#STR0006#ALL#Branch / Planning:     
+0007#STR0007#ALL#Course                                 Empl.N.        Amount  Hours Plan.Dt.   Init.Dt.  Final Dt.   Responsible
+0008#STR0008#ALL#Total of Planning:     
+0009#STR0009#ALL#General Total: 
+0010#STR0010#ALL#Brn.
+0011#STR0011#ALL#Planning    
+0012#STR0012#ALL#Course
+0013#STR0013#ALL#Empl.N.
+0014#STR0014#ALL#Hours
+0015#STR0015#ALL#Plan.Dt.
+0016#STR0016#ALL#Init.Dt.
+0017#STR0017#ALL#Final Dt
+0018#STR0018#ALL#Enroll. 
+0019#STR0019#ALL#Responsible
+0020#STR0020#ALL#Courses
+0021#STR0021#ALL#Training
+0022#STR0022#ALL#This program generates the Courses Planning Report

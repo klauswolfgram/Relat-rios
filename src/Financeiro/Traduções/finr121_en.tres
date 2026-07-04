@@ -1,0 +1,44 @@
+0001#STR0001#ALL#This application issues a Cash and Bank records - Details of Transactions Made
+0002#STR0002#ALL# FORM FOR  
+0003#STR0003#ALL#Checking Statement.
+0004#STR0004#ALL#Period: 
+0005#STR0005#ALL#RUC:
+0006#STR0006#ALL#Last and First Names, Designation or Company Name: 
+0007#STR0007#ALL#Description
+0008#STR0008#ALL#FROM CODE 
+0009#STR0009#ALL#Date of
+0010#STR0010#ALL#Operation
+0011#STR0011#ALL#    OPERATION 
+0012#STR0012#ALL#Code
+0013#STR0013#ALL#Associated Ledger Account
+0014#STR0014#ALL#Denomination
+0015#STR0015#ALL#Debtor
+0016#STR0016#ALL#Balances and Transactions
+0017#STR0017#ALL#CREDITOR
+0018#STR0018#ALL#Creditor
+0019#STR0019#ALL#Totals
+0020#STR0020#ALL#FORMAT 1.1: BANKS AND CASH RECORDS - DETAIL OF TRANSACTIONS MADE
+0021#STR0021#ALL#Transaction Date
+0022#STR0022#ALL#Document Number
+0023#STR0023#ALL#Report Period
+0024#STR0024#ALL#Report
+0025#STR0025#ALL#Clean
+0026#STR0026#ALL#Exit
+0027#STR0027#ALL#Sequential number of
+0028#STR0028#ALL#Register Code
+0029#STR0029#ALL#Set the parameters MV_CXFIN and MV_CARTEIR
+0030#STR0030#ALL#No Transactions Made in Cashiers in the period
+0031#STR0031#ALL#Period with no Cash Transactions
+0032#STR0032#ALL#Selecting Records - Cashier
+0033#STR0033#ALL#    - From Branch: 
+0034#STR0034#ALL#    - To Branch: 
+0035#STR0035#ALL#Initial Balance
+0036#STR0036#ALL#Final balance in 
+0037#STR0037#ALL#Exclusive of Operation
+0038#STR0038#ALL#of
+0039#STR0039#ALL#Attention
+0040#STR0040#ALL#Plan file, of Cash Book generated successfully on
+0041#STR0041#ALL#Generating electronic file
+0042#STR0042#ALL#Generating report
+0043#STR0043#ALL#Set parameter MV_CAJALF.
+0044#STR0044#ALL#ENTITY:

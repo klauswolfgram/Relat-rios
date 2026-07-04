@@ -1,0 +1,42 @@
+0001#STR0001#ALL#This report is available for TotvsDbAccess only.
+0002#STR0002#ALL#List of Write-off per Class
+0003#STR0003#ALL#Transactions
+0004#STR0004#ALL#Original Value
+0005#STR0005#ALL#Interest/Fine
+0006#STR0006#ALL#Correction
+0007#STR0007#ALL#Discount
+0008#STR0008#ALL#Rebate
+0009#STR0009#ALL#Tax
+0010#STR0010#ALL#Total written off
+0011#STR0011#ALL#Totals
+0012#STR0012#ALL#TOTAL OF DETAILED CLASS 
+0013#STR0013#ALL#TOTAL OF SUMMARIZED CLASS 
+0014#STR0014#ALL#This report is available in customizable mode only.
+0015#STR0015#ALL#Prf
+0016#STR0016#ALL#Number
+0017#STR0017#ALL#Prc
+0018#STR0018#ALL#Tp
+0019#STR0019#ALL#Cust/Sup
+0020#STR0020#ALL#Unit
+0021#STR0021#ALL#Name
+0022#STR0022#ALL#Due date
+0023#STR0023#ALL#Dig.Dt.
+0024#STR0024#ALL#Write-off
+0025#STR0025#ALL#History
+0026#STR0026#ALL#Bk.
+0027#STR0027#ALL#MANUAL TRANSACTION
+0028#STR0028#ALL#CHECK 
+0029#STR0029#ALL#Written off
+0030#STR0030#ALL#Fin. Tran.
+0031#STR0031#ALL#Cleared
+0032#STR0032#ALL#Invoice W.O.
+0033#STR0033#ALL#CANCELLATION OF WRITE-OFF
+0034#STR0034#ALL#Code
+0035#STR0035#ALL#Company
+0036#STR0036#ALL#Business Unit
+0037#STR0037#ALL#Branch
+0038#STR0038#ALL#Branches selected for the report
+0039#STR0039#ALL#Accessory Values
+0040#STR0040#ALL#Generating report List of Write-off per Nature depends on binding detailed natures to summarized natures.
+0041#STR0041#ALL#Enable the use of summarized natures through parameter MV_NATSINT.
+0042#STR0042#ALL#After enabling this parameter, field ED_PAI in the nature register will be enabled for use, allowing binding natures.

@@ -1,0 +1,20 @@
+0001#STR0001#ALL#Este programa tem o objectivo de emitir notas fiscais de entrada 
+0002#STR0002#ALL#Para crédito de acréscimo financeiro das vendas realizadas no período.
+0003#STR0003#ALL#Factura Para Crédito De Acréscimo Financeiro
+0004#STR0004#ALL#Objectivo Do Programa
+0007#STR0007#ALL#A selecionar registos ...
+0008#STR0008#ALL#Aguarde... a criar a factura de entrada número: 
+0009#STR0009#ALL#O fornecedor não pode ser deixado em branco.
+0010#STR0010#ALL#O produto não pode ser deixado em branco.
+0011#STR0011#ALL#A loja não pode ser deixada em branco.
+0012#STR0012#ALL#O fornecedor e a loja não foram encontrados.
+0013#STR0013#ALL#A condição não pode ser deixada em branco.
+0014#STR0014#ALL#O produto não foi encontrado.
+0015#STR0015#ALL#Condição de pagamento não encontrada.
+0016#STR0016#ALL#O produto com o programa que cria duplicado não pode ser utilizado.
+0017#STR0017#ALL#As condiçoes para a emissão da NF de Entrada de crédito de acréscimo financeiro
+0018#STR0018#ALL#não foram satisfeitas. A rotina não será executada.
+0019#STR0019#ALL#O tipo de entrada não foi definido para o produto: 
+0020#STR0020#ALL#Não há vendas com acréscimo financeiro no período informado.
+0021#STR0021#ALL#Não há elementos de venda com valor de crédito de acréscimo financeiro no período informado.
+0022#STR0022#ALL#A selecionar registos ...

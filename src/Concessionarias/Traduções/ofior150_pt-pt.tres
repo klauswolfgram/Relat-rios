@@ -1,0 +1,109 @@
+0002#STR0002#ALL#   pcs  nro.req. grpo código  da peca              descrição                               qtde  proreq  
+0005#STR0005#ALL#Tpocob Tpoven   Serviços
+0007#STR0007#ALL#  chassi veic: 
+0008#STR0008#ALL#      placa: 
+0009#STR0009#ALL# frota: 
+0010#STR0010#ALL#  chassi interno: 
+0011#STR0011#ALL#  fab/mod: 
+0012#STR0012#ALL#            modelo veic: 
+0013#STR0013#ALL# compl: 
+0014#STR0014#ALL#       cor: 
+0015#STR0015#ALL#            renavan....: 
+0016#STR0016#ALL# tp difern: 
+0017#STR0017#ALL# número difern: 
+0018#STR0018#ALL#  tp cambio: 
+0019#STR0019#ALL# número: 
+0020#STR0020#ALL#            tipo motor.: 
+0021#STR0021#ALL# nro motor: 
+0022#STR0022#ALL# potência.....: 
+0023#STR0023#ALL#Prop atual: 
+0024#STR0024#ALL#  lj 
+0025#STR0025#ALL#   fone/fax: 
+0027#STR0027#ALL#         data venda: 
+0028#STR0028#ALL#Número os: 
+0029#STR0029#ALL#Abertura os....:  
+0032#STR0032#ALL#     kilometragem veiculo: 
+0033#STR0033#ALL#Entrada veiculo:  
+0034#STR0034#ALL#Saida veiculo..:  
+0037#STR0037#ALL#Tp   Fatura para Cliente        Lj CT Fec Autorizada  Fechada  Cancel    FACT          
+0039#STR0039#ALL# tpopad tpotra 
+0040#STR0040#ALL#Tpocob Tpoven   Serviços
+0041#STR0041#ALL#Observação:
+0042#STR0042#ALL#Total de passagens do veículo: 
+0043#STR0043#ALL#Total crial de passagens.....: 
+0044#STR0044#ALL#Seção 1
+0051#STR0051#ALL#Seção 2
+0055#STR0055#ALL#Descrição
+0056#STR0056#ALL#Seção 3
+0060#STR0060#ALL#Tp Câmbio
+0061#STR0061#ALL#Número
+0062#STR0062#ALL#Seção 4
+0064#STR0064#ALL#Nro. Motor
+0065#STR0065#ALL#Potência
+0066#STR0066#ALL#Seção 5
+0067#STR0067#ALL#Prop. Atual
+0068#STR0068#ALL#Lj.
+0070#STR0070#ALL#Concelho
+0071#STR0071#ALL#Distrito
+0072#STR0072#ALL#Indicativo
+0073#STR0073#ALL#Seção 16
+0074#STR0074#ALL#Total Crial de Passagens    
+0077#STR0077#ALL#Seção 6
+0079#STR0079#ALL#Cencelho
+0080#STR0080#ALL#Dt.Venda
+0081#STR0081#ALL#Seção 7
+0082#STR0082#ALL#Nro. OS
+0083#STR0083#ALL#Dt. Abert.
+0084#STR0084#ALL#Hr. Abert.
+0085#STR0085#ALL#KM
+0086#STR0086#ALL#Seção 8
+0087#STR0087#ALL#Total de Passagem do Veículo
+0088#STR0088#ALL#Seção 15
+0091#STR0091#ALL#Seção 9
+0092#STR0092#ALL#Dt.Atend.
+0093#STR0093#ALL#Hr.Atend.
+0094#STR0094#ALL#Observação
+0095#STR0095#ALL#Seção 14
+0096#STR0096#ALL#Seção 10
+0097#STR0097#ALL#Dt.Saída
+0098#STR0098#ALL#Hr.Saída
+0100#STR0100#ALL#Vlr.
+0102#STR0102#ALL#Seção 11
+0105#STR0105#ALL#Fatura para Cliente           Lj CT Fec Autoriz.  Fechada  Cancel    FACT          
+0110#STR0110#ALL#Serviços
+0111#STR0111#ALL#Seção 12
+0112#STR0112#ALL#Peças    Nro.Req
+0114#STR0114#ALL#Código da Peça
+0115#STR0115#ALL#Qtd.
+0117#STR0117#ALL#Formul.
+0118#STR0118#ALL#Vlr.Unit
+0119#STR0119#ALL#Vlr.Total
+0120#STR0120#ALL#Seção 13
+0121#STR0121#ALL#Serviços TS.
+0123#STR0123#ALL#Código do Serviço
+0126#STR0126#ALL#Peças
+0127#STR0127#ALL#Código de Barras
+0128#STR0128#ALL#Administração
+0129#STR0129#ALL#Atendimento Veíc:
+0130#STR0130#ALL#Autorização Veíc.
+0131#STR0131#ALL#TpoCob TpoVen   Serviços
+0133#STR0133#ALL#Peças
+0134#STR0134#ALL#Chassis inválido
+0145#STR0145#ALL#Informe o Código do Cliente
+0148#STR0148#ALL#Informe a Marca do Veículo
+0149#STR0149#ALL#Informe o Modelo do Veículo
+0150#STR0150#ALL#Identif.Veículo
+0151#STR0151#ALL#Informe a identificação do veículo
+0152#STR0152#ALL#Mostra Vlr.Peças
+0153#STR0153#ALL#Informe Sim para mostrar os valores de peças
+0154#STR0154#ALL#Mostra Vlr.Serviços
+0156#STR0156#ALL#Mostra obs.das OS
+0157#STR0157#ALL#Informe Sim para mostrar as observações das OS
+0158#STR0158#ALL#Tipo de tempo?
+0163#STR0163#ALL#Valor total..................: 
+0164#STR0164#ALL#Total geral de peças.........: 
+0165#STR0165#ALL#Total geral de serviços......: 
+0166#STR0166#ALL#Total geral..................: 
+0174#STR0174#ALL#Fact
+0175#STR0175#ALL#Peças
+0180#STR0180#ALL#Serviços

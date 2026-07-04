@@ -1,0 +1,31 @@
+0001#STR0001#ALL#Se imprimiran los indices de calidad de los proveedores
+0002#STR0002#ALL#vinculados al producto.
+0003#STR0003#ALL#A Rayas
+0004#STR0004#ALL#Administracion
+0005#STR0005#ALL#Seleccionando registros...
+0006#STR0006#ALL#PPM
+0007#STR0007#ALL#Producto vs. Proveedor
+0008#STR0008#ALL#¿Año               ?
+0009#STR0009#ALL#¿Mes               ?
+0010#STR0010#ALL#¿De Producto       ?
+0011#STR0011#ALL#¿A  Producto       ?
+0012#STR0012#ALL#¿Indice            ?
+0013#STR0013#ALL#Mensual
+0014#STR0014#ALL#Acumulado
+0015#STR0015#ALL#Portugues
+0016#STR0016#ALL#Ingles
+0017#STR0017#ALL#Español
+0018#STR0018#ALL#¿Idioma            ?
+0019#STR0019#ALL#ANULADO POR EL OPERADOR
+0020#STR0020#ALL#¿Imprime Grafico   ?
+0021#STR0021#ALL#Si
+0022#STR0022#ALL#No
+0023#STR0023#ALL#Mensual
+0024#STR0024#ALL#Acumulado
+0025#STR0025#ALL#Producto vs. Proveedor - 
+0026#STR0026#ALL#Producto
+0027#STR0027#ALL#Otro usuario utilizando el archivo. Intente nuevamente
+0028#STR0028#ALL#Atencion
+0029#STR0029#ALL#No fue posible crear el archivo para el grafico 
+0030#STR0030#ALL#El Directorio/Carpeta inf. en el parametro 'MV_QDIRGRA' no existe. El grafico no podra generarse.
+0031#STR0031#ALL#Indices de Calidad

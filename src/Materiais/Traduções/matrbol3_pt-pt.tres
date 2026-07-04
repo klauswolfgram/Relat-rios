@@ -1,0 +1,13 @@
+0002#STR0002#BOL#A preparar as informações para o livro de compras
+0003#STR0003#BOL#Tipo de factura
+0008#STR0008#BOL#Número de autorização
+0009#STR0009#BOL#Data da factura
+0015#STR0015#BOL#Código de controlo
+0016#STR0016#BOL#A preparar as informações para o livro de vendas
+0018#STR0018#BOL#Débito fiscal
+0025#STR0025#BOL#Morada
+0026#STR0026#BOL#Período
+0027#STR0027#BOL#Apresentação
+0029#STR0029#BOL#Nome completo do responsável
+0030#STR0030#BOL#Impressão do livro fiscal (compras/vendas)
+0032#STR0032#BOL#Impressão cancelada pelo utilizador

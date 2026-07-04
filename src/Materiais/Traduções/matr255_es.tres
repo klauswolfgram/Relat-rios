@@ -1,0 +1,28 @@
+0001#STR0001#ALL#Situacion Detallada del Stock por Direccion
+0002#STR0002#ALL#En este informe se puede tener una posicion de la cantidad en funcion de
+0003#STR0003#ALL#produto/lote/direccion/estatus, lo que permite mapear con perfeccion
+0004#STR0004#ALL#cada DIRECCION.
+0005#STR0005#ALL# Deposito + Grupo + Producto 
+0006#STR0006#ALL# Producto + Deposito 
+0007#STR0007#ALL#A Rayas
+0008#STR0008#ALL#Administracion
+0009#STR0009#ALL#Creando indice ...
+0010#STR0010#ALL#Seleccionando Registros ...
+0011#STR0011#ALL#LOTE        SUBLOTE    VENCIMIENTO  DIRECCION        NUMERO DE SERIE       DE    DIRECCION            OBSERVACION                    UM      CANTIDAD        RESERVADO      BLOQUEADO      DISPONIBLE   DEP  GRUPO
+0012#STR0012#ALL#LOTE        SUBLOTE    VENCIMIENTO  DIRECCION        NUMERO DE SERIE       DE    DIRECCION            OBSERVACION                    UM      CANTIDAD        RESERVADO      BLOQUEADO      DISPONIBLE   
+0013#STR0013#ALL#ANULADO POR EL OPERADOR
+0014#STR0014#ALL#DEPOSITO:
+0015#STR0015#ALL#No clasificados
+0016#STR0016#ALL#TOTAL DEL PRODUCTO: 
+0017#STR0017#ALL#                          FECHA DE LA                                                  SITUACION
+0018#STR0018#ALL#Producto:
+0019#STR0019#ALL#Descripcion:
+0020#STR0020#ALL#Lotes Bloqueados 
+0021#STR0021#ALL#Descripcion
+0022#STR0022#ALL#Bloqueado
+0023#STR0023#ALL#Disponible
+0024#STR0024#ALL#Bloqueo
+0025#STR0025#ALL#Detalles del Prod.
+0026#STR0026#ALL#Saldos por Ubicacion
+0027#STR0027#ALL#Bloqueo de Lotes
+0028#STR0028#ALL#Total de Producto

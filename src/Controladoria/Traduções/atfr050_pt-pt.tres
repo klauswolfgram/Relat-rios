@@ -1,0 +1,14 @@
+0001#STR0001#ALL#Este programa irá emitir a relação dos valores que
+0002#STR0002#ALL#Ainda faltam depreciar para cada bem
+0004#STR0004#ALL#Saldos A Depreciar Por Bens
+0005#STR0005#ALL#Código  Descrição
+0006#STR0006#ALL#Código     Elemento Descrição
+0008#STR0008#ALL#Cancelado Pelo Operador
+0013#STR0013#ALL#Código de barras
+0014#STR0014#ALL#Administração
+0015#STR0015#ALL#Item Contab.
+0016#STR0016#ALL#Classe De Valor
+0017#STR0017#ALL#Dados Da Entidade
+0018#STR0018#ALL#Dados Do Bem
+0019#STR0019#ALL#Total da conta: 
+0020#STR0020#ALL#Total do centro de custo: 

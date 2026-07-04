@@ -1,0 +1,36 @@
+0002#STR0002#ALL#A Processar Registos...
+0003#STR0003#ALL#Mês/ano         ?
+0006#STR0006#ALL#De critério      ?
+0007#STR0007#ALL#Até critério     ?
+0008#STR0008#ALL#Listagem  de medição  mensal
+0010#STR0010#ALL#Razão social: 
+0012#STR0012#ALL#Andar: 
+0013#STR0013#ALL#Localidade: 
+0014#STR0014#ALL#Concelho: 
+0015#STR0015#ALL#Código postal: 
+0019#STR0019#ALL#Data análise: 
+0020#STR0020#ALL#O servidor de SMTP não foi cofacturaigurado !!!
+0022#STR0022#ALL#A conta do email não foi cofacturaigurada !!!
+0023#STR0023#ALL#A palavra-passe do email não foi cofacturaigurada !!!
+0024#STR0024#ALL#Dados Do Email
+0029#STR0029#ALL#Aviso
+0032#STR0032#ALL#Não Foi Possível Enviar O Email.
+0033#STR0033#ALL#Erro Na Conexão Com O Servidor SMTP.
+0035#STR0035#ALL#Não existem dados para criar o listagem 
+0036#STR0036#ALL#Tipo de impressão ?
+0037#STR0037#ALL#Ecrã
+0039#STR0039#ALL#Enviar E-mail
+0040#STR0040#ALL#Mes introduzido deverá ser maior/igual a '01' e menor/igual a '12'.
+0041#STR0041#ALL#Ano introduzido deverá possuir 4 posições.
+0045#STR0045#ALL#Monitoramento: 
+0048#STR0048#ALL#O monitoramento informado está cancelado.
+0049#STR0049#ALL#Favor informar um monitoramento válido.
+0052#STR0052#ALL#Informe qual o Monitoramento deve constar no relatório. Pressione as teclas [F3]+[Enter] para seleccionar o monitoramento desejado.
+0053#STR0053#ALL#Informe qual o Laboratório (Registo de Fornecedores) deve constar no relatório. Pressione as teclas [F3]+[Enter] para seleccionar o Laboratório desejado.
+0054#STR0054#ALL#Informe a partir de qual critério deve constar no relatório. Pressione as teclas [F3]+[Enter] para seleccionar o critério desejado.
+0055#STR0055#ALL#Informe até qual critério deve constar no relatório. Pressione as teclas [F3]+[Enter] para seleccionar o critério desejado ou digite ZZZZZZ neste campo e o acima em branco para considerar todos os critérios.
+0056#STR0056#ALL#Informe qual o tipo de impressão deverá ser apresentado o relatório (tela, impressora ou enviar por e-mail)
+0057#STR0057#ALL#Objectivos
+0058#STR0058#ALL#*Resultados recolhidos pela própria empresa.
+0063#STR0063#ALL#Total mês: 
+0064#STR0064#ALL#Média mês: 

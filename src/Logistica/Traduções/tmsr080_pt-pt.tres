@@ -1,0 +1,19 @@
+0001#STR0001#ALL#Relação Das Moradas Do Solicitante
+0002#STR0002#ALL#Emissão Das Moradas Do Solicitante
+0003#STR0003#ALL#Ira Imprimir Os Dados Das Moradas Do Solicitante
+0004#STR0004#ALL#De acordo com a configuração do utilizador.
+0005#STR0005#ALL#Código de barras
+0006#STR0006#ALL#Administração
+0007#STR0007#ALL# ddd telefone        seq. morada   morada        freguesia          concelho       estado cep     
+0008#STR0008#ALL# - telefone : 
+0009#STR0009#ALL#*** cancelado pelo operador ***
+0010#STR0010#ALL#A criar índice...
+0012#STR0012#ALL#Relação Das Moradas Do Solicitante
+0013#STR0013#ALL#Emissão Das Moradas Do Solicitante
+0016#STR0016#ALL#Ddd
+0018#STR0018#ALL#Morada
+0019#STR0019#ALL#Seq.morada
+0020#STR0020#ALL#Localidade
+0021#STR0021#ALL#Concelho
+0022#STR0022#ALL#Uf
+0023#STR0023#ALL#Código postal

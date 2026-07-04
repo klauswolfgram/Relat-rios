@@ -1,0 +1,61 @@
+0001#STR0001#ALL#Padrao
+0002#STR0002#ALL#Crescente
+0003#STR0003#ALL#Decrescente
+0004#STR0004#ALL#DEMONSTRATIVO GERENCIAL MODELO 2
+0005#STR0005#ALL#Este programa ira imprimir o Demonstrativo Gerencial Modelo 2
+0006#STR0006#ALL#Será impresso de acordo com os parametros solicitados pelo usuario.
+0007#STR0007#ALL#TOTAL POR LINHA
+0008#STR0008#ALL#TOTAIS
+0009#STR0009#ALL#Nao ha dados a serem exibidos
+0010#STR0010#ALL#0 (zero) o parâmetro período
+0011#STR0011#ALL#A consulta padrão SX5SL está ausente e
+0012#STR0012#ALL#A data de referência está vazia e
+0013#STR0013#ALL#A data lucros/perdas está em branco e
+0014#STR0014#ALL#anterior L/P ela se torna obrigatória.
+0015#STR0015#ALL#conforme definição do parâmetro consolidar
+0016#STR0016#ALL#conforme definição do parâmetro detalhe
+0017#STR0017#ALL#conforme definição do parâmetro posição
+0018#STR0018#ALL#consulta padrão em questão.
+0019#STR0019#ALL#data de referência.
+0020#STR0020#ALL#data lucros/perdas.
+0021#STR0021#ALL#do período ela se torna obrigatória.
+0022#STR0022#ALL#ela se faz necessário neste relatório.
+0023#STR0023#ALL#escolher outro calendário mas que seja
+0024#STR0024#ALL#escolher um ou outro calendário mas que
+0025#STR0025#ALL#Executar a rotina UPDCTB com data igual
+0026#STR0026#ALL#existe no cadastro ou não foi preenchido
+0027#STR0027#ALL#existe no cadastro.
+0028#STR0028#ALL#Favor preencher com algum tipo de saldo o
+0029#STR0029#ALL#Favor preencher com um número maior que
+0030#STR0030#ALL#Favor preencher com uma data o parâmetro
+0031#STR0031#ALL#Favor verificar o cadastro do mesmo ou
+0032#STR0032#ALL#INCOMPATIVEL
+0033#STR0033#ALL#O exercício contábil escolhido não
+0034#STR0034#ALL#O período informado está como 0 (zero) e
+0035#STR0035#ALL#O saldo a consolidar está em branco e
+0036#STR0036#ALL#O tipo de saldo está vazio/em branco e
+0037#STR0037#ALL#ou superior ha 25/12/2008 para criar a
+0038#STR0038#ALL#parâmetro saldo a consolidar.
+0039#STR0039#ALL#parâmetro tipo de saldo.
+0040#STR0040#ALL#saldo ela se torna obrigatória.
+0041#STR0041#ALL#seja válido.
+0042#STR0042#ALL#válido.
+0043#STR0043#ALL#Janeiro
+0044#STR0044#ALL#Fevereiro
+0045#STR0045#ALL#Março
+0046#STR0046#ALL#Abril
+0047#STR0047#ALL#Maio
+0048#STR0048#ALL#Junho
+0049#STR0049#ALL#Julho
+0050#STR0050#ALL#Agosto
+0051#STR0051#ALL#Setembro
+0052#STR0052#ALL#Outubro
+0053#STR0053#ALL#Novembro
+0054#STR0054#ALL#Dezembro
+0055#STR0055#ALL#CONSUMO NA PRODUÇÃO
+0056#STR0056#PER#Gerar Arquivo TXT?
+0057#STR0057#PER#Arquivo Gerado Corretamente
+0058#STR0058#PER#Para a Impressão do Arquivo TXT, As perguntas devem possuir as seguintes configurações:
+0059#STR0059#PER#Orientação dos periodos = Em Linha; Saldo do Periodo = Mov. Periodo; Totalizar por linha = Não
+0060#STR0060#PER#Erro ao criar cadastro TXT.
+0061#STR0061#PER#Cadastro TXT gerado com sucesso.

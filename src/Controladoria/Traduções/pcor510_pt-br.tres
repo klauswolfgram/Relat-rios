@@ -1,0 +1,17 @@
+0001#STR0001#ALL#Comparativo de Cubos - Demonstrativo de Saldos
+0002#STR0002#ALL#Codigo
+0003#STR0003#ALL#Descricao
+0004#STR0004#ALL#Saldo Final (F1)
+0005#STR0005#ALL#Saldo Final (F2)
+0006#STR0006#ALL#Diferenca(F1-F2)
+0007#STR0007#ALL#Diferenca (F2/F1 %)
+0008#STR0008#ALL#COMPARATIVO ENTRE A CONFIGURAÇÃO: 
+0009#STR0009#ALL# E A CONFIGURAÇÃO: 
+0010#STR0010#ALL#Impressao cancelada pelo operador...
+0011#STR0011#ALL#Saldo Cubo 1
+0012#STR0012#ALL#Saldo Cubo 2
+0013#STR0013#ALL#Diferença
+0014#STR0014#ALL#Variação
+0015#STR0015#ALL#Este relatorio ira imprimir o Comparativo de Cubos - Demonstrativo de Saldos de acordo com os parâmetros solicitados pelo usuário. Para mais informações sobre este relatorio consulte o Help do Programa ( F1 ).		
+0016#STR0016#ALL#Atencao
+0017#STR0017#ALL#Usuario sem acesso ao relatorio. Verifique as configuracoes.

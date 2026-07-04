@@ -1,0 +1,69 @@
+0001#STR0001#ALL#Cover sheet VDA
+0002#STR0002#ALL#Generating report, please wait...
+0003#STR0003#ALL#- Cover -
+0004#STR0004#ALL#Addressee:
+0005#STR0005#ALL#Code:
+0006#STR0006#ALL#Recipient:
+0007#STR0007#ALL#VDA Report of initial sample
+0008#STR0008#ALL#Initial sample
+0009#STR0009#ALL#Future sample
+0010#STR0010#ALL#New part
+0011#STR0011#ALL#Product Change
+0012#STR0012#ALL#Production postponing
+0013#STR0013#ALL#Change of production processes
+0014#STR0014#ALL#Higher interruption of production
+0015#STR0015#ALL#New sub-vendor
+0016#STR0016#ALL#Product with DAE
+0017#STR0017#ALL#Production/inspection plan designed
+0018#STR0018#ALL#FMEA performed
+0019#STR0019#ALL#Report of other samples
+0020#STR0020#ALL#Attachments
+0021#STR0021#ALL#01 Function test
+0022#STR0022#ALL#02 Measurement test
+0023#STR0023#ALL#03 Material test
+0024#STR0024#ALL#04 Resistence Test
+0025#STR0025#ALL#05 Receipt of process capacity
+0026#STR0026#ALL#06 Diagram of process continuance
+0027#STR0027#ALL#07 Receipt of test instr. capac.
+0028#STR0028#ALL#08 List of test instruments
+0029#STR0029#ALL#09 EG sheet of data security
+0030#STR0030#ALL#10 Tact
+0031#STR0031#ALL#11 Acustic
+0032#STR0032#ALL#12 Smell
+0033#STR0033#ALL#13 General aspect
+0034#STR0034#ALL#14 Certificates
+0035#STR0035#ALL#15 Construction release
+0036#STR0036#ALL#16 P. material in purchased parts
+0037#STR0037#ALL#17 Others
+0038#STR0038#ALL#Vendor Nr.:
+0039#STR0039#ALL#Customer Nr.:
+0040#STR0040#ALL#Report Nr.
+0041#STR0041#ALL#Version
+0042#STR0042#ALL#Family Nr.:
+0043#STR0043#ALL#Drawing Nr.:
+0044#STR0044#ALL#Status/Date:
+0045#STR0045#ALL#Edition Nr.:
+0046#STR0046#ALL#Naming:
+0047#STR0047#ALL#Nr./Invoice Date:
+0048#STR0048#ALL#Nr./Product Delivery Date:
+0049#STR0049#ALL#Amount provided:
+0050#STR0050#ALL#Location to discharge:
+0051#STR0051#ALL#Charge Nr.:
+0052#STR0052#ALL#Standard Weight:
+0053#STR0053#ALL#Vendor Confirmation:
+0054#STR0054#ALL#We confirm the sample was performed according to VDA volume 2 item 4.
+0055#STR0055#ALL#Name:
+0056#STR0056#ALL#Department:
+0057#STR0057#ALL#Telephone/Fax/E-mail:
+0058#STR0058#ALL#Date:
+0059#STR0059#ALL#Signature:
+0060#STR0060#ALL#Observation:
+0061#STR0061#ALL#Customer Decision
+0062#STR0062#ALL#Total
+0063#STR0063#ALL#According to Attachment:
+0064#STR0064#ALL#Release
+0065#STR0065#ALL#Release with Restrictions
+0066#STR0066#ALL#Reproved, future sample needed
+0067#STR0067#ALL#License Nr. for deviation:
+0068#STR0068#ALL#When sending return, invoice nr./date:
+0069#STR0069#ALL#Ditribution:

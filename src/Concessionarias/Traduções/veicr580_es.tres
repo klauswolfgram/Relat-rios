@@ -1,0 +1,12 @@
+0001#STR0001#ALL#Clientes por Ciudad
+0002#STR0002#ALL#Municipio
+0003#STR0003#ALL#Provincia
+0004#STR0004#ALL#Total
+0005#STR0005#ALL#Total General
+0006#STR0006#ALL#Esta funcionalidad solo puede utilizarse despues de la creacion del campo SA1->A1_IBGE ( 11 Caracteres )
+0007#STR0007#ALL#Atencion
+0008#STR0008#ALL#Esta funcionalidad solo puede utilizarse despues de la actualizacion del SYSTEM LOAD
+0009#STR0009#ALL#TOTAL
+0010#STR0010#ALL#TOTAL GENERAL
+0011#STR0011#ALL#Clientes
+0012#STR0012#ALL#CNPJ / CPF

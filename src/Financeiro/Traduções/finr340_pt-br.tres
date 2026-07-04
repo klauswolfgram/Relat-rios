@@ -1,0 +1,60 @@
+0001#STR0001#ALL#Este programa irá emitir a posiçäo de clientes 
+0002#STR0002#ALL#referente a data base do sistema.
+0003#STR0003#ALL#Zebrado
+0004#STR0004#ALL#Administracao
+0005#STR0005#ALL#Posicao dos Clientes 
+0006#STR0006#ALL#Prf Numero      PC  Tip Valor Original Emissao    Vencto     Baixa                                     R  E  C  E  B  I  M  E  N  T  O  S                                                                       
+0007#STR0007#ALL#Carteira
+0008#STR0008#ALL#Simples
+0009#STR0009#ALL#Descontada
+0010#STR0010#ALL#Caucionada
+0011#STR0011#ALL#Vinculada
+0012#STR0012#ALL#Advogado
+0013#STR0013#ALL#Judicial
+0014#STR0014#ALL#CANCELADO PELO OPERADOR
+0015#STR0015#ALL#CLIENTE : 
+0016#STR0016#ALL#Totais : 
+0017#STR0017#ALL#TOTAL GERAL : 
+0018#STR0018#ALL#Caucao Desc.
+0019#STR0019#ALL#                                                                           Descontos  Abatimentos         Juros      Multa Corr. Monet Vlr. Acessor.  Valor Baixado Rec.Antecip.  Saldo Atual  Motivo  Situacao  Port.
+0020#STR0020#ALL#Por Codigo
+0021#STR0021#ALL#Por Nome
+0022#STR0022#ALL#Selecionando Registros...
+0023#STR0023#ALL#Faturado
+0024#STR0024#ALL#Considera Data Base ?
+0025#STR0025#ALL#Sim
+0026#STR0026#ALL#Nao
+0027#STR0027#ALL#TOTAL POR TIPO: 
+0028#STR0028#ALL#Imprime Nome        ?
+0029#STR0029#ALL#Razao Social
+0030#STR0030#ALL#Nome Reduzido
+0031#STR0031#ALL#Protesto
+0032#STR0032#ALL#Acordo
+0033#STR0033#ALL#Cartorio
+0034#STR0034#ALL#Dados do Cliente
+0035#STR0035#ALL#Cliente
+0036#STR0036#ALL#Titulos
+0037#STR0037#ALL#Prf
+0038#STR0038#ALL#Numero
+0039#STR0039#ALL#PC
+0040#STR0040#ALL#Valor Original
+0041#STR0041#ALL#Emissao
+0042#STR0042#ALL#Vencto
+0043#STR0043#ALL#Baixa
+0044#STR0044#ALL#Descontos
+0045#STR0045#ALL#Abatimentos
+0046#STR0046#ALL#Juros
+0047#STR0047#ALL#Multa
+0048#STR0048#ALL#Corr. Monet.
+0049#STR0049#ALL#Valor Baixado
+0050#STR0050#ALL#Rec. Antecip.
+0051#STR0051#ALL#Saldo Atual
+0052#STR0052#ALL#Motivo
+0053#STR0053#ALL#Situacao
+0054#STR0054#ALL#Port.
+0055#STR0055#ALL#Totais
+0056#STR0056#ALL#T O T A L   F I L I A L ----> 
+0057#STR0057#ALL#Totais/Filial
+0058#STR0058#ALL#TOTAL FILIAL --> 	
+0059#STR0059#ALL#Opção válida somente para ambiente TOP!
+0060#STR0060#ALL#Valor Acessório

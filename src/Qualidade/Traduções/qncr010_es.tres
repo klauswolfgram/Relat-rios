@@ -1,0 +1,41 @@
+0001#STR0001#ALL#Informe de Plan de Accion
+0002#STR0002#ALL#Se imprimira segun los parametros solicitados por el usuario.
+0003#STR0003#ALL#Ano+Plan Accion+Revision
+0004#STR0004#ALL#Plan Accion+Revision
+0005#STR0005#ALL#A Rayas
+0006#STR0006#ALL#Administrac.
+0007#STR0007#ALL#PLAN DE ACC.
+0008#STR0008#ALL#Correct.
+0009#STR0009#ALL#Preventiva
+0010#STR0010#ALL#Mejora
+0011#STR0011#ALL#Registrada
+0012#STR0012#ALL#En Analisis
+0013#STR0013#ALL#Procede
+0014#STR0014#ALL#No procede
+0015#STR0015#ALL#Anulada
+0016#STR0016#ALL#Nº
+0017#STR0017#ALL#Revision:
+0018#STR0018#ALL#Fecha apertura:
+0019#STR0019#ALL#Fecha cierre: 
+0020#STR0020#ALL#Acc. 
+0021#STR0021#ALL#Responsable: 
+0022#STR0022#ALL#Estado: 
+0023#STR0023#ALL#Descrip. detallada
+0024#STR0024#ALL#Posibles causas
+0025#STR0025#ALL#Acc.
+0026#STR0026#ALL#Responsable                    Prevision  Conclusion  Descrip.
+0027#STR0027#ALL#Resultado esperado
+0028#STR0028#ALL#Resultado obtenido
+0029#STR0029#ALL#Ficha Ocurrencia/No conformidades listadas
+0030#STR0030#ALL#Nº FNC.          Rv Originador                     Apertura   Descrip.
+0031#STR0031#ALL#Plan Accion
+0032#STR0032#ALL#Pendient
+0033#STR0033#ALL#De baja
+0034#STR0034#ALL#Ambos
+0035#STR0035#ALL#Causa                                                Descripc. detallada
+0036#STR0036#ALL#Costos
+0037#STR0037#ALL#Descripcion                                           Val.Costo
+0038#STR0038#ALL#Datos Confid.
+0039#STR0039#ALL#Acceso permitido a 
+0040#STR0040#ALL# y a los respons. por las etapas.
+0041#STR0041#ALL#Cliente: 

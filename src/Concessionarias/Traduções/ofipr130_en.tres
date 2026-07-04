@@ -1,0 +1,71 @@
+0001#STR0001#ALL#Z. form
+0002#STR0002#ALL#Management
+0003#STR0003#ALL#Statement of locked items        
+0004#STR0004#ALL#Statement of reserved items      
+0005#STR0005#ALL#Creating work file         
+0006#STR0006#ALL#...............P A R T  G R O U P.........................
+0007#STR0007#ALL#................................... U S E R ............................................
+0008#STR0008#ALL#........................... C O S T     C E N T E R ....................................
+0009#STR0009#ALL#.................................... R E A S O N .......................................
+0010#STR0010#ALL#...................................... D A T E .........................................
+0011#STR0011#ALL#------------Part----------- ------Description----   -Amot - Value---
+0012#STR0012#ALL#Sub Total................................................
+0013#STR0013#ALL#Total of User.............................................................
+0014#STR0014#ALL#Total of Cost Center......................................................
+0015#STR0015#ALL#Total of Reason...........................................................
+0016#STR0016#ALL#Total of the date.........................................................
+0017#STR0017#ALL#General Total...........................................
+0018#STR0018#ALL#Blocked/Reserved Items     
+0019#STR0019#ALL#Note - 
+0020#STR0020#ALL#Blocked/Reserved Items
+0021#STR0021#ALL#Items
+0022#STR0022#ALL#Group
+0023#STR0023#ALL#Description
+0024#STR0024#ALL#Code
+0025#STR0025#ALL#Location
+0026#STR0026#ALL#User
+0027#STR0027#ALL#Cost C.
+0028#STR0028#ALL#CC Descr
+0029#STR0029#ALL#Reason
+0030#STR0030#ALL#Reason Desc
+0031#STR0031#ALL#Date
+0032#STR0032#ALL#Customer
+0033#STR0033#ALL#Phone
+0034#STR0034#ALL#Value
+0035#STR0035#ALL#Amount
+0036#STR0036#ALL#Note
+0037#STR0037#ALL#Cost Value
+0038#STR0038#ALL#Sales Value
+0039#STR0039#ALL#Part price formula field must be entered
+0040#STR0040#ALL#  Balance - Counter
+0041#STR0041#ALL#  Service Order - Repair Shop
+0042#STR0042#ALL#Part Price Formula?
+0043#STR0043#ALL#Report Type?
+0044#STR0044#ALL#Value to Consider ?
+0045#STR0045#ALL#Item Blocked
+0046#STR0046#ALL#Item Reserved
+0047#STR0047#ALL#Others
+0048#STR0048#ALL#Subtotal
+0049#STR0049#ALL#GRAND TOTAL
+0050#STR0050#ALL#    Sales representative: 
+0051#STR0051#ALL#Blocked/Reserved/Requested Items
+0052#STR0052#ALL#Part
+0053#STR0053#ALL#Budget Number/SO Number
+0054#STR0054#ALL#Qty.
+0055#STR0055#ALL#Spare Part Total
+0056#STR0056#ALL#Group Total
+0057#STR0057#ALL#Sub Total:
+0058#STR0058#ALL#Grand Total
+0059#STR0059#ALL#Statement of Requested Items
+0060#STR0060#ALL#Warehouse
+0061#STR0061#ALL#Requested Item
+0062#STR0062#ALL#This program aims at printing the statement of blocked, reserved or requested items
+0063#STR0063#ALL#Statement of Items (All)
+0064#STR0064#ALL#All
+0065#STR0065#ALL#Sales Representative / Consultant
+0066#STR0066#ALL#Total Num. Orc. / Num. SO
+0067#STR0067#ALL#Total Sales Representative / Consultant
+0068#STR0068#ALL#Group by?
+0069#STR0069#ALL#Open Date / Req Date
+0070#STR0070#ALL#Quot. / SO
+0071#STR0071#ALL#Sales Repr. / Consult

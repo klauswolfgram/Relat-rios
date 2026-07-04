@@ -1,0 +1,35 @@
+0001#STR0001#ALL#Issue of Call Center contacts completing all
+0002#STR0002#ALL#respective entities represented by them.
+0003#STR0003#ALL#The issue will occur based on the report parameters
+0004#STR0004#ALL#Z-Form
+0005#STR0005#ALL#Management
+0006#STR0006#ALL#CANCELED BY OPERATOR
+0007#STR0007#ALL#Contact큦 code
+0008#STR0008#ALL#Contact큦 name
+0009#STR0009#ALL#Contact큦 address
+0010#STR0010#ALL#Contact큦 zone
+0011#STR0011#ALL#Contact큦 city
+0012#STR0012#ALL#Contact큦 ZIP CODE
+0013#STR0013#ALL#Contact큦 ST
+0014#STR0014#ALL#Contact큦 area code
+0015#STR0015#ALL#Home Telephone Number
+0016#STR0016#ALL#Celular Telephone Number
+0017#STR0017#ALL#Contact큦 fax
+0018#STR0018#ALL#Business Telephone Number
+0019#STR0019#ALL#Contact큦 e-mail
+0020#STR0020#ALL#Contact큦 home page
+0021#STR0021#ALL#Entity    Code    Name                            Address                         County                ST  ZIP CODE    Buss.Phone No.   e-mail                          Home Page                       AC.
+0022#STR0022#ALL#There is no information to print this report. Check the informed parameters.
+0023#STR0023#ALL#Contacts and entities File
+0024#STR0024#ALL#Code  
+0025#STR0025#ALL#Name
+0026#STR0026#ALL#Address 
+0027#STR0027#ALL#City     
+0028#STR0028#ALL#ST
+0029#STR0029#ALL#ZIP
+0030#STR0030#ALL#Business phone
+0031#STR0031#ALL#E-mail
+0032#STR0032#ALL#Home Page
+0033#STR0033#ALL#Area code
+0034#STR0034#ALL#Contacts
+0035#STR0035#ALL#Entities 

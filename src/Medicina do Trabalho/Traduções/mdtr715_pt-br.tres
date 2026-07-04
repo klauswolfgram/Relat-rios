@@ -1,0 +1,77 @@
+0001#STR0001#ALL#Ordem de serviço de segurança do trabalho
+0002#STR0002#ALL#ORDEM DE SERVIÇO
+0003#STR0003#ALL#POR ATIVIDADE (O.S.)
+0004#STR0004#ALL#SEGURANÇA DO TRABALHO
+0005#STR0005#ALL#Data Elaboração:
+0006#STR0006#ALL#Última Revisão:
+0007#STR0007#ALL#Dados da Empresa
+0008#STR0008#ALL#Razão Social/Nome:
+0009#STR0009#ALL#Endereço:
+0010#STR0010#ALL#Cidade:
+0011#STR0011#ALL#CNPJ:
+0012#STR0012#ALL#CNAE:
+0013#STR0013#ALL#Bairro:
+0014#STR0014#ALL#Dados do Funcionário
+0015#STR0015#ALL#Nome:
+0016#STR0016#ALL#Centro de Custo:
+0017#STR0017#ALL#Função:
+0018#STR0018#ALL#CTPS:
+0019#STR0019#ALL#Matrícula:
+0020#STR0020#ALL#Data Admissão:
+0021#STR0021#ALL#Data Nascimento:
+0022#STR0022#ALL#RG:
+0023#STR0023#ALL#Descrição Função:
+0024#STR0024#ALL#Agentes Associados às Atividades:
+0025#STR0025#ALL#EPI`s de Uso Obrigatório: 
+0026#STR0026#ALL#Recomendações: 
+0027#STR0027#ALL#Termo de Responsabilidade: 
+0028#STR0028#ALL#Aprovação: 
+0029#STR0029#ALL#Data: 
+0030#STR0030#ALL#Responsável Empresa: 
+0031#STR0031#ALL#Funcao
+0032#STR0032#ALL#Descrição das Atividades ?
+0033#STR0033#ALL#Responsável Empresa ?
+0034#STR0034#ALL#Período Até ?
+0035#STR0035#ALL#Período De ?
+0036#STR0036#ALL#Até Funcionário ?
+0037#STR0037#ALL#De Funcionário ?
+0038#STR0038#ALL#Até Centro de Custo ?
+0039#STR0039#ALL#De Centro de Custo ?
+0040#STR0040#ALL#Até Função ?
+0041#STR0041#ALL#De Função ?
+0042#STR0042#ALL#Tipo Impressão ?
+0043#STR0043#ALL#De Cliente ?
+0044#STR0044#ALL#Loja
+0045#STR0045#ALL#Até Cliente ?
+0046#STR0046#ALL#Cargo
+0047#STR0047#ALL#Tarefa
+0048#STR0048#ALL#Posto Trab.
+0049#STR0049#ALL#Colaborador:
+0050#STR0050#ALL#Buscar Info. da Função ?
+0051#STR0051#ALL#Atual
+0052#STR0052#ALL#da O.S.
+0053#STR0053#ALL#Indica se o relatório deve imprimir as informações de riscos, EPI's relacionadas a função atual do funcionário,
+0054#STR0054#ALL# ou imprimir as informações relacionadas a função da própria O.S.
+0055#STR0055#ALL#Quant. do Agente ?
+0056#STR0056#ALL#Sim
+0057#STR0057#ALL#Não
+0058#STR0058#ALL#Indica se o relatório deve imprimir ou não, a informação referente a quantidade encontrada para o agente de risco.
+0059#STR0059#ALL#Cobrança
+0060#STR0060#ALL#Entidade
+0061#STR0061#ALL#Indica se o relatório deve imprimir as informações de endereço referente a cobrança ou entidade.
+0062#STR0062#ALL#Agente
+0063#STR0063#ALL#Quantidade
+0064#STR0064#ALL#Unidade
+0065#STR0065#ALL#Buscar Informações ?
+0066#STR0066#ALL#Endereço ?
+0067#STR0067#ALL#De Departamento ?
+0068#STR0068#ALL#Até Departamento ?
+0069#STR0069#ALL#Indica o código de departamento. Para selecionar o primeiro código, poderá deixar o campo vazio.
+0070#STR0070#ALL#Indica o código do Departamento. Para selecionar o último registro, poderá marcar como 'ZZZZZZZZZ'.
+0071#STR0071#ALL#Define qual descrição das atividades deve aparecer. Pode ser a descrição do cargo, função ou tarefa.
+0072#STR0072#ALL#Matrícula do responsável da empresa.
+0073#STR0073#ALL#Data máxima das elaborações das ordens de serviço.
+0074#STR0074#ALL#Data mínima das elaborações das ordens de serviço.
+0075#STR0075#ALL#Matrícula do funcionário. O campo pode ser preenchido com a letra Z até o final para considerar o último código.
+0076#STR0076#ALL#Matrícula do funcionário. O campo pode permanecer vazio para considerar desde o primeiro código.
+0077#STR0077#ALL#Departamento:

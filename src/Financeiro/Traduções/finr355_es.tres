@@ -1,0 +1,47 @@
+0001#STR0001#ALL#Demostrar los títulos a pagar por proveedor y
+0002#STR0002#ALL#estatus de la retencion de los impuestos,
+0003#STR0003#ALL#cuando efectuados en la baja.
+0004#STR0004#ALL#Impuestos por Proveedor 
+0005#STR0005#ALL#Codigo/Tienda 
+0006#STR0006#ALL#Prf Numero
+0007#STR0007#ALL#PC
+0008#STR0008#ALL#Valor Original
+0009#STR0009#ALL#Tip
+0010#STR0010#ALL#Saldo Proveedor
+0011#STR0011#ALL#TOTAL GENERAL ---->
+0012#STR0012#ALL#Por Codigo
+0013#STR0013#ALL#Por Nombre
+0014#STR0014#ALL#Emision
+0015#STR0015#ALL#Vencimiento
+0016#STR0016#ALL#Proveedor
+0017#STR0017#ALL#Titulos
+0018#STR0018#ALL#Ley 10925
+0019#STR0019#ALL#S10925
+0020#STR0020#ALL#IRRF
+0021#STR0021#ALL#SIRRF
+0022#STR0022#ALL#INSS
+0023#STR0023#ALL#ISS
+0024#STR0024#ALL#SISS
+0025#STR0025#ALL#PROV INSS
+0026#STR0026#ALL#PROV ISS
+0027#STR0027#ALL#Valor neto
+0028#STR0028#ALL#Valor Pago
+0029#STR0029#ALL#Saldo Actual
+0030#STR0030#ALL#Detalle de baja
+0031#STR0031#ALL#Fecha de la Baja
+0032#STR0032#ALL#Motivo
+0033#STR0033#ALL#Ley 10925
+0034#STR0034#ALL#IRRF
+0035#STR0035#ALL#ISS
+0036#STR0036#ALL#Valor de la baja
+0037#STR0037#ALL#A = Los valores de impuestos de este titulo fueron retenidos en otro titulo.
+0038#STR0038#ALL#P = Los valores de impuestos de este titulo se refieren a una prevision, aun no fueron retenidos.
+0039#STR0039#ALL#R = Los valores de impuestos de este titulo fueron retenidos. 
+0040#STR0040#ALL#Razon Social
+0041#STR0041#ALL#Nombre Fantasia
+0042#STR0042#ALL#S10925
+0043#STR0043#ALL#SIrrf
+0044#STR0044#ALL#SIss
+0045#STR0045#ALL#SALDO SUCURSAL: 
+0046#STR0046#ALL#SALDO EMPRESA: 
+0047#STR0047#ALL#SALDO GENERAL --->

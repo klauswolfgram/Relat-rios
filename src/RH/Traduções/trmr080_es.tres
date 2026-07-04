@@ -1,0 +1,22 @@
+0001#STR0001#ALL#Planificacion de cursos
+0002#STR0002#ALL#Se imprimira de acuerdo con los parametros solicitados por el
+0003#STR0003#ALL#usuario.
+0004#STR0004#ALL#A rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#Sucursal / Planificacion: 
+0007#STR0007#ALL#Curso                                  N.Empl.        Valor   Horas Fch.Plan.  Fch.Inic. Fch. Final  Responsable 
+0008#STR0008#ALL#Total de la planificacion: 
+0009#STR0009#ALL#Total general: 
+0010#STR0010#ALL#Suc.
+0011#STR0011#ALL#Planificac. 
+0012#STR0012#ALL#Curso
+0013#STR0013#ALL#N.Empl.
+0014#STR0014#ALL#Horas
+0015#STR0015#ALL#FchPlan.
+0016#STR0016#ALL#Fch.Ini.
+0017#STR0017#ALL#FchFinal
+0018#STR0018#ALL#Matr.
+0019#STR0019#ALL#Responsable
+0020#STR0020#ALL#Cursos
+0021#STR0021#ALL#Capacitac. 
+0022#STR0022#ALL#Este programa emite Informe de Planificacion de Cursos   

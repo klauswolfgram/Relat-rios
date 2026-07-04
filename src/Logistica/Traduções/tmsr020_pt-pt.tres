@@ -1,0 +1,11 @@
+0001#STR0001#ALL#Localização
+0002#STR0002#ALL#Código de barras
+0003#STR0003#ALL#Administração
+0004#STR0004#ALL# Serviço                    Tarefa                   Atividade                Observação                Previsto       Realizado
+0005#STR0005#ALL#Cancelado Pelo Operador
+0006#STR0006#ALL#Viagem : 
+0007#STR0007#ALL#Rota   : 
+0008#STR0008#ALL#Origem : 
+0009#STR0009#ALL#Destino: 
+0010#STR0010#ALL#Localização
+0011#STR0011#ALL#Emite relação de localização de acordo com os parâmetros indicados.

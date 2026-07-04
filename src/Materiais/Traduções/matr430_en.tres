@@ -1,0 +1,15 @@
+0001#STR0001#ALL#Issues a report with the calculations of the worksheet selected for
+0002#STR0002#ALL# each product. The amounts calculated are those referring
+0003#STR0003#ALL#to the formulas of the worksheet.
+0004#STR0004#ALL#Worksheet of Price Formation  
+0005#STR0005#ALL#Z.Form
+0006#STR0006#ALL#Management  
+0007#STR0007#ALL#CANCELLED BY THE OPERATOR  
+0008#STR0008#ALL#CEL.  LEVEL  CODE            DESCRIPTION                            UM     QUANTITY        
+0009#STR0009#ALL#% PART
+0010#STR0010#ALL#                                                                                          UNITARY VALUE         TOTAL VALUE     UNITARY VALUE         TOTAL VALUE
+0011#STR0011#ALL#                                                                                          UNITARY VALUE         TOTAL VALUE
+0012#STR0012#ALL#Cel.
+0013#STR0013#ALL#Unit Value    
+0014#STR0014#ALL#Total Value
+0015#STR0015#ALL#Products

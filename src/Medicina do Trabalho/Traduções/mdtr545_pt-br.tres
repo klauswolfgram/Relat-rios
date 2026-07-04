@@ -1,0 +1,46 @@
+0001#STR0001#ALL#Relatório de estatísticas dos diagnósticos médicos.
+0002#STR0002#ALL#Zebrado
+0003#STR0003#ALL#Administracao
+0004#STR0004#ALL#Estatísticas dos Diagnósticos Médicos
+0005#STR0005#ALL#De  Cliente ?
+0006#STR0006#ALL#Loja ?
+0007#STR0007#ALL#Até Cliente?
+0008#STR0008#ALL#De Data Consulta ?
+0009#STR0009#ALL#Até Data Consulta ?
+0010#STR0010#ALL#Variável estatística                                                       Diagnósticos     Média(%)     Mulheres     Homens
+0011#STR0011#ALL#Não há nada para imprimir no relatório.
+0012#STR0012#ALL#Cliente/Unidade: 
+0013#STR0013#ALL#Quantidade de diagnósticos no período de 
+0014#STR0014#ALL#Peso
+0015#STR0015#ALL#Magreza severa
+0016#STR0016#ALL#Magreza moderada
+0017#STR0017#ALL#Magreza leve
+0018#STR0018#ALL#Peso saudável
+0019#STR0019#ALL#Pré-obesidade
+0020#STR0020#ALL#Obesidade grau 1
+0021#STR0021#ALL#Obesidade grau 2
+0022#STR0022#ALL#Obesidade grau 3
+0023#STR0023#ALL#Pressão arterial
+0024#STR0024#ALL#Pressão normal
+0025#STR0025#ALL#Pressão normal limítrofe
+0026#STR0026#ALL#Hipertensão leve (estágio 1)
+0027#STR0027#ALL#Hipertensão moderada (estágio 2)
+0028#STR0028#ALL#Hipertensão severa (estágio 3)
+0029#STR0029#ALL#Hipertensão muito severa (4)
+0030#STR0030#ALL#Hipertensão sistólica isolada
+0031#STR0031#ALL#Temperatura
+0032#STR0032#ALL#Temperaturas inferiores a 36ºC
+0033#STR0033#ALL#Temperaturas superiores a 36ºC
+0034#STR0034#ALL#Atendimentos realizados
+0035#STR0035#ALL#Atendimento Clínico
+0036#STR0036#ALL#Doença do Trabalho
+0037#STR0037#ALL#Acidente Típico
+0038#STR0038#ALL#Acidente de Trajeto
+0039#STR0039#ALL#Outros Atendimentos
+0040#STR0040#ALL#Avaliação NR7
+0041#STR0041#ALL#Acidentes
+0042#STR0042#ALL#Afastamentos
+0043#STR0043#ALL#Número de diagnósticos que relatam afastamentos:
+0044#STR0044#ALL#Maior período de afastamento: 
+0045#STR0045#ALL# a 
+0046#STR0046#ALL#Selecionando Registros...

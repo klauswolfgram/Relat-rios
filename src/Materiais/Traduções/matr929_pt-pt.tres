@@ -1,0 +1,46 @@
+0001#STR0001#BRA#Relação De Valores A Recolher Irs - Motoristas Agregados.
+0002#STR0002#BRA#Emite A Relação De Recolha De Irs - Motoristas Agregados.
+0003#STR0003#BRA#Código de barras
+0004#STR0004#BRA#Administração
+0005#STR0005#BRA#Indicar o período inicial para este    
+0006#STR0006#BRA#Apuramento.                               
+0007#STR0007#BRA#Período de        ?
+0008#STR0008#BRA#Indicar o período final para este      
+0009#STR0009#BRA#Apuramento.                               
+0010#STR0010#BRA#Período até       ?
+0011#STR0011#BRA#Referir o tipo de apuro desejado.   
+0012#STR0012#BRA#é importante salientar que esta opção deve
+0013#STR0013#BRA#Estar relaccionada com as perguntas      
+0014#STR0014#BRA#Período de/até da seguinte forma:       
+0015#STR0015#BRA#-quando O Tipo De Apuro For Inferior A Um Período De 10 Dias,
+0016#STR0016#BRA#O período não deve ser inferior a 10 dias
+0017#STR0017#BRA#E deve ser múltiplo de 10. o mesmo vale  
+0018#STR0018#BRA# para os outros dois tipos de apuro. 
+0020#STR0020#BRA#| condutor                                 |    c.p.f.   |        frete |   dirf - 40% |        acumulado |    descontos |   tributavel |   imp. renda |
+0024#STR0024#BRA#| condutor                                 |    c.p.f.   |        frete |   dirf - 40% | acum. 1.quinzena | acum. 2.quinzena |    descontos |   tributavel |   imp. renda |
+0028#STR0028#BRA#| totais (##):                                           | ############ | ############ | ################ | ############ | ############ | ############ |
+0030#STR0030#BRA#Tipo de apuro: 
+0031#STR0031#BRA#Empresa pagamento: 
+0032#STR0032#BRA#A seleccionar documentos ...
+0033#STR0033#BRA#Refira se as colunas acumuladas deverão
+0034#STR0034#BRA#Ser exibidas de acordo com o tipo de    
+0035#STR0035#BRA#Apuro relacionada com o período.     
+0036#STR0036#BRA#Cancelado Pelo Operador
+0038#STR0038#BRA#| totais (##):                                           | ############ | ############ | ################ | ################ | ############ | ############ | ############ |
+0039#STR0039#BRA#+--------------------------------------------------------+--------------+--------------+------------------+------------------+--------------+--------------+--------------+
+0041#STR0041#BRA#| condutor                                 |    c.p.f.   |        frete |   dirf - 40% | acum. 1.decendio | acum. 2.decendio | acum. 3.decendio |    descontos |   tributavel |   imp. renda |
+0045#STR0045#BRA#| totais (##):                                           | ############ | ############ | ################ | ################ | ################ | ############ | ############ | ############ |
+0047#STR0047#BRA#Integração Módulo Tms (gestão Transporte).
+0048#STR0048#BRA#Para execução deste procedimento é necessário que haja integração com o módulo de
+0049#STR0049#BRA#Gestão De Transporte(tms).
+0050#STR0050#BRA#Não será possível prosseguir !
+0051#STR0051#BRA#Tipo de apuro  ?
+0052#STR0052#BRA#Exibir apuro  ?
+0053#STR0053#BRA#Introduza o código inicial para um filtro 
+0054#STR0054#BRA#Pelo condutor na tabela sa2 (registo  
+0055#STR0055#BRA#De fornecedores).                       
+0057#STR0057#BRA#Introduza a loja inicial para um filtro   
+0059#STR0059#BRA#Introduza o código final para um filtro   
+0060#STR0060#BRA#Fornecedor até
+0061#STR0061#BRA#Introduza a loja final para um filtro     
+0062#STR0062#BRA#Loja até

@@ -1,0 +1,44 @@
+0001#STR0001#ALL#Scheduling print
+0002#STR0002#ALL#Z-form
+0003#STR0003#ALL#Management
+0004#STR0004#ALL#Group  Description------------ Insc Cd-------- Description---------------- Time
+0005#STR0005#ALL#Scheduling report
+0006#STR0006#ALL#     Time Box S Key Vehicle               Propr. St. Name                           Status    Plate      Technician Name
+0007#STR0007#ALL#     Address             City              State Phone        Brand     Model    
+0008#STR0008#ALL#Scheduling Relation
+0009#STR0009#ALL#Invalid Initial Hour
+0010#STR0010#ALL#Attention
+0011#STR0011#ALL#Invalid Final Hour
+0012#STR0012#ALL#Scheduled
+0013#STR0013#ALL#Pending S.O.
+0014#STR0014#ALL#Finished
+0015#STR0015#ALL#Canceled
+0016#STR0016#ALL#Pending Budget
+0017#STR0017#ALL#CONSULTANT: 
+0018#STR0018#ALL#Date: 
+0019#STR0019#ALL#MANAGER: 
+0020#STR0020#ALL#Active
+0021#STR0021#ALL#Reactive
+0022#STR0022#ALL#All
+0023#STR0023#ALL#Schedule per Box
+0024#STR0024#ALL#Time Plate Brand Model Customer Service Mechanic Consultant Length Rec.Cd. Type Scheduling
+0025#STR0025#ALL#Schedule per Consultant
+0026#STR0026#ALL#Time Plate Brand Model Customer Service Mechanic Box Length Rec.Cd. Type Scheduling
+0027#STR0027#ALL#Scheduling Relation
+0028#STR0028#ALL#Hour Box Status Key Vehicle Plate Brand Model N.Ident. Service KM Revis Budget Length Arrival Dt Serv.Order Opening Dt. Status Rec.Cd. Scheduling Type
+0029#STR0029#ALL#Customer Address City State Phone
+0030#STR0030#ALL#Scheduling Status
+0031#STR0031#ALL#Description Group----------------- Code-- ------ Description------------------
+0032#STR0032#ALL#Resp. Scheduling:
+0033#STR0033#ALL#Consultant:
+0034#STR0034#ALL#Mechanic:
+0035#STR0035#ALL#Contact:
+0036#STR0036#ALL#Complainant:
+0037#STR0037#ALL#OPEN
+0038#STR0038#ALL#RELEASED
+0039#STR0039#ALL#CLOSED
+0040#STR0040#ALL#CANCELLED
+0041#STR0041#ALL#Box:
+0042#STR0042#ALL#Time Plate Brand Model Customer Service Mechanic Consultant Length Scheduling Type 
+0043#STR0043#ALL#Time Plate Brand Model Customer Service Mechanic Box Length Scheduling Type 
+0044#STR0044#ALL#Hour Box Status Key Vehicle Plate Brand Model Ident.N Service KM Revis Budget Length Arrival Dt Serv.Order Opening Dt. Status Scheduling Type

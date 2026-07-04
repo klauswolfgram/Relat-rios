@@ -1,0 +1,69 @@
+0001#STR0001#ALL#Branch+Reg
+0002#STR0002#ALL#branch+Cc+Reg
+0003#STR0003#ALL#Branch+Name
+0004#STR0004#ALL#Branch+Cc+Name
+0005#STR0005#ALL#GFIP - Form of Collection of FGTS and Information to Social Secutiry
+0006#STR0006#ALL#Will be printed according to the parameters requested by the User. 
+0007#STR0007#ALL#It has to be printed in Matrix Line Printer.
+0008#STR0008#ALL#Z.Form
+0009#STR0009#ALL#Management
+0010#STR0010#ALL#CIEF Stamp
+0011#STR0011#ALL#To use of CAIXA
+0012#STR0012#ALL#G F I P - Form of Collection of FGTS and
+0013#STR0013#ALL#FEDERAL SAVINGS AND LOANS BANK - CEF
+0014#STR0014#ALL#NATIONAL INSTITUTE OF SOCIAL SECURITY
+0015#STR0015#ALL#Information to Social Security
+0016#STR0016#ALL#Reference Month/Year
+0017#STR0017#ALL#Collection Code
+0018#STR0018#ALL#Corp. Name / Name
+0019#STR0019#ALL#Person to Contact /Z.Code/Phone
+0020#STR0020#ALL#FTR/CNPJ/CEI
+0021#STR0021#ALL# OTHER INFORMATION
+0022#STR0022#ALL#Address (Public Place, Nr., floor, apartment)
+0023#STR0023#ALL#Zone/District
+0024#STR0024#ALL#ZIP
+0025#STR0025#ALL#City
+0026#STR0026#ALL#State 
+0027#STR0027#ALL#Lawsuit number      
+0028#STR0028#ALL#FPAS
+0029#STR0029#ALL#Code of 3rd-Party
+0030#STR0030#ALL#SIMPLE
+0031#STR0031#ALL#SAT Rate
+0032#STR0032#ALL#CNAE
+0033#STR0033#ALL#Service Contracting Party(FTR/CNPJ/CEI)
+0034#STR0034#ALL#Service Contracting Party(Corp. Name)
+0035#STR0035#ALL#C.Section/JCJ
+0036#STR0036#ALL#Debit Value Social Secur.
+0037#STR0037#ALL#Contrib. disc. Employee
+0038#STR0038#ALL#Vl.of Family Allowance
+0039#STR0039#ALL#Rural Production Commerce
+0040#STR0040#ALL#Revenue event Exp./Sponsor
+0041#STR0041#ALL#Compensation Soc. Secur.
+0042#STR0042#ALL#Sum
+0043#STR0043#ALL#Period (from-to)
+0044#STR0044#ALL#No.PIS-PASEP/Registrat.
+0045#STR0045#ALL#Admission 
+0046#STR0046#ALL#Employment Book
+0047#STR0047#ALL#Cat.
+0048#STR0048#ALL#Remuneration
+0049#STR0049#ALL#Annual bonus remunerat.
+0050#STR0050#ALL#Event
+0051#STR0051#ALL#Name of Worker
+0052#STR0052#ALL#Activity
+0053#STR0053#ALL#Dt.of Birth
+0054#STR0054#ALL#of individual tax payer
+0055#STR0055#ALL#(date)
+0056#STR0056#ALL#(No./S.Numb.)
+0057#STR0057#ALL#(Installm. nr. of 13th Sal.)
+0058#STR0058#ALL#(only part of 13th Salary.)
+0059#STR0059#ALL#(date)
+0060#STR0060#ALL#Code
+0061#STR0061#ALL#(date)
+0062#STR0062#ALL#Sum
+0063#STR0063#ALL#Sum
+0064#STR0064#ALL#Rem. + 13th.(Cat.1,2,3 and 5)
+0065#STR0065#ALL#Rem. + 13th.(Cat. 4)
+0066#STR0066#ALL#Total of FGTS to collect
+0067#STR0067#ALL#Certification
+0068#STR0068#ALL#Date and Place
+0069#STR0069#ALL#Signature

@@ -1,0 +1,43 @@
+0001#STR0001#ALL#Checklist APQP A6
+0002#STR0002#ALL#Generando Visualizacion, Espere...
+0003#STR0003#ALL# ¿El Diagrama de flujo ilustra la secuencia de 
+0004#STR0004#ALL# produccion y puntos de inspeccion?
+0005#STR0005#ALL# ¿Todos los FMEA apropiados (SFMEA, DFMEA) estaban
+0006#STR0006#ALL# disponibles y utilizados para auxiliar en el
+0007#STR0007#ALL# desarrollo del diagrama de flujo de proceso?
+0008#STR0008#ALL# ¿El Diagrama de flujo sirve para verificar los
+0009#STR0009#ALL# productos y procesos en el plan de control?
+0010#STR0010#ALL# ¿El Diagrama de flujo describe como el producto sera
+0011#STR0011#ALL# transportado esto es, por correa transportadora,
+0012#STR0012#ALL# container deslizante, etc. ?
+0013#STR0013#ALL# ¿Se considero la optimizacion/Sistema de traccion para
+0014#STR0014#ALL# este proceso ?
+0015#STR0015#ALL# ¿Se tomaron medidas para identificar e inspeccionar
+0016#STR0016#ALL# los productos retrabajados antes que sean usados?
+0017#STR0017#ALL# ¿Se identificaron y corrigieron potenciales problemas
+0018#STR0018#ALL#  de calidad debido al transporte y procesamiento
+0019#STR0019#ALL# externo?
+0020#STR0020#ALL#Preparado Por
+0021#STR0021#ALL# A-6 LISTA DE VERIFICACION DEL DIAGRAMA DE FLUJO DEL PROCESO
+0022#STR0022#ALL#Numero de Pieza, Interno o de Cliente
+0023#STR0023#ALL#Pregunta
+0024#STR0024#ALL#Si
+0025#STR0025#ALL#No
+0026#STR0026#ALL#Cometarios / Acccion Requerida
+0027#STR0027#ALL#Persona Responsable
+0028#STR0028#ALL#Flecha Prevista
+0029#STR0029#ALL#Fecha de Revision
+0030#STR0030#ALL#Pagina 
+0031#STR0031#ALL# de 
+0032#STR0032#ALL#¿elevacion de los productos, incluyendo identificacion
+0033#STR0033#ALL#apropiada, se identificaron e implementaron adecuadamente?
+0034#STR0034#ALL#N/a
+0035#STR0035#ALL#¿El flujograma Ilustra todo proceso desde el
+0036#STR0036#ALL#recibimiento a la expedicion, incluyendo procesos y
+0037#STR0037#ALL#Servicios externos?
+0038#STR0038#ALL#¿En el desarrollo del flujograma de proceso, la
+0039#STR0039#ALL#DFMEA se utilizo, cuando disponible, para identificar
+0040#STR0040#ALL#caracteristicas especificas que pueden ser criticas?
+0041#STR0041#ALL#¿El flujograma esta adaptado a las verificaciones del producto
+0042#STR0042#ALL#y proceso en el Plan de control y en la PFMEA?
+0043#STR0043#ALL#¿Los Controles de Material para movimiento y

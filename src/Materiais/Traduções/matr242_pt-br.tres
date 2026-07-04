@@ -1,0 +1,19 @@
+0001#STR0001#ALL#COMPARATIVO DE CUSTOS 
+0002#STR0002#ALL#Este programa ira' emitir um comparativo de custos, em valores e 
+0003#STR0003#ALL#quantidades dos produtos em estoque.
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#Por Produto
+0007#STR0007#ALL#Diferenca
+0008#STR0008#ALL#PRODUTO         DESCRICAO                       TP  UM ARMz     
+0009#STR0009#ALL#CANCELADO PELO OPERADOR
+0010#STR0010#ALL#TOTAL
+0011#STR0011#ALL#Selecionando Registros...
+0012#STR0012#ALL#                                                               QUANTIDADE        VLR. UNIT.          TOTAL     QUANTIDADE        VLR. UNIT.         TOTAL       VLR.UNIT.        VARIACAO(%)
+0013#STR0013#ALL# Data: 
+0014#STR0014#ALL# na Moeda 
+0015#STR0015#ALL#Quantidade
+0016#STR0016#ALL#Valor Unitario
+0017#STR0017#ALL#Variacao(%)
+0018#STR0018#ALL#Comparativo de Custos
+0019#STR0019#ALL#Saldos em Estoque

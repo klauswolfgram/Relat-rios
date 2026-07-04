@@ -1,0 +1,48 @@
+0001#STR0001#ALL#Informe del Plan de Acccion por Riesgo.                              
+0002#STR0002#ALL#El Informe muestra las acciones definidas para eliminar o minimizar los   
+0003#STR0003#ALL#riesgos existentes en la empresa.                                         
+0004#STR0004#ALL#A Rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#Plan de Acion por Riesgo 
+0007#STR0007#ALL#Riesgo      Agente                 Fch.Recon   Fch.Eval   Fch.Elim Fuente Generad  Ctd U.Med.    C.Costo  Funcion Tarea  Ambiente
+0008#STR0008#ALL#    Plan      Nombre del Plan de Accion                Fch.Implan.Inic.Prev  Fim Prev   Inic.Real   Fin Real   Responsable  
+0009#STR0009#ALL#ANULADO POR EL OPERADOR
+0010#STR0010#ALL#TODOS
+0011#STR0011#ALL#TODAS
+0012#STR0012#ALL#Lo que.: 
+0013#STR0013#ALL#Donde..: 
+0014#STR0014#ALL#Porque: 
+0015#STR0015#ALL#Como..: 
+0016#STR0016#ALL#Cuando: Inic.Previsto.: 
+0017#STR0017#ALL#Real.: 
+0018#STR0018#ALL#Fin Previsto.: 
+0019#STR0019#ALL#Cuanto: Valor Previsto.: 
+0020#STR0020#ALL#Ctd. Actual...: 
+0021#STR0021#ALL#Meta.: 
+0022#STR0022#ALL#¿De Cliente ?
+0023#STR0023#ALL#Tienda:
+0024#STR0024#ALL#¿A Cliente ?
+0025#STR0025#ALL#Cliente: 
+0026#STR0026#ALL#¿Agrupar ?
+0027#STR0027#ALL#¿A Empl. Resp.?
+0028#STR0028#ALL#¿De  Empl. Resp.?
+0029#STR0029#ALL#¿A Resp. Sesmt ?
+0030#STR0030#ALL#¿De Resp.Sesmt ?
+0031#STR0031#ALL#¿Acc. ?
+0032#STR0032#ALL#¿A Fch.Implan.Plan?
+0033#STR0033#ALL#¿De Fch.Implan.Plan?
+0034#STR0034#ALL#¿A Riesgo ?
+0035#STR0035#ALL#¿De Riesgo?
+0036#STR0036#ALL#Riesgo Agente Nombre agente Cant U.Med. Fch.Recon Fch.Eval Ch.Borr Fuente generadora C.Costo Función Tarea Entorno Departamento
+0037#STR0037#ALL#    Plan      Nombre del Plan de Accion                 Fch.Imp.     Inic.Prev.  Fin Prev.   Inic.Real   Fin Real    Responsable
+0038#STR0038#ALL#Plan      Nombre del Plan de Accion                Fch.Imp.    Inic.Prev. Fin Prev.  Inic.Real   Fin Real   Responsable
+0039#STR0039#ALL#Riesgo Agente Nombre agente Cant U.Med. Fch.Recon Fch.Eval Ch.Borr Fuente generadora C.Costo Función Tarea Entorno Departamento
+0040#STR0040#ALL#Un. Medida:
+0041#STR0041#ALL#Riesgos Relac.:
+0042#STR0042#ALL#ATEINVALID
+0043#STR0043#ALL#Informe un valor valido para el campo.
+0044#STR0044#ALL#¡El Parametro '¿A riesgo?' esta con un valor invalido! 
+0045#STR0045#ALL#¡El Parametro '¿A Resp. Sesmt?' esta con un valor invalido! 
+0046#STR0046#ALL#¡El Parametro 'A Empl. Resp ?' esta con un valor invalido! 
+0047#STR0047#ALL#Riesgo     Agente        Nombre Agente                      Cant     U.Med.  Fch.Recon    Fch.Eval     Fch.Elim     Fuente generadora                  C.Costo               Función          Tarea  Entorno
+0048#STR0048#ALL#   Riesgo     Agente      Nombre Agente                      Cant     U.Med.  Fch.Recon    Fch.Eval     Fch.Elim     Fuente generadora                  C.Costo               Función          Tarea  Entorno

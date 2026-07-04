@@ -1,0 +1,115 @@
+0001#STR0001#ALL#Informe de examenes programados por empleado. A traves de parametros, el   
+0002#STR0002#ALL#usuario debe informar el num. del PCMSO y podra seleccionar: Examen, Periodo,
+0003#STR0003#ALL#C.Costo, entre otras opciones disponibles para un mejor aprovechamiento.   
+0004#STR0004#ALL#Administracion
+0005#STR0005#ALL#Programacion de Examenes
+0006#STR0006#ALL#Ficha      Mat.    Nombre empleado     Sit.  Examen         Fch.Prog.   Departamento            Función                   Realizado
+0007#STR0007#ALL#ANULADO POR EL OPERADOR
+0008#STR0008#ALL#A Rayas
+0009#STR0009#ALL#Ficha      Mat.    Nombre empleado     Sit.  Examen         Fch.Prog.   Centro Costo            Función                     Realizado
+0010#STR0010#ALL#Cliente :
+0011#STR0011#ALL#Total de examenes por Centro de Costo / Funcion
+0012#STR0012#ALL#Centro de Costo
+0013#STR0013#ALL#Descripcion
+0014#STR0014#ALL#Funcion
+0015#STR0015#ALL#Cantidad Examenes
+0016#STR0016#ALL#Total General:
+0017#STR0017#ALL#Relacion de los codigos listados arriba:
+0018#STR0018#ALL#Resumen de la Programacion de Examenes -
+0019#STR0019#ALL#Examenes Realizados.................:
+0020#STR0020#ALL#Examenes No Realizados - Pendientes.:
+0021#STR0021#ALL#Examenes No Realizados - Atrasados.:
+0022#STR0022#ALL#Total de Examenes Programados.......:
+0023#STR0023#ALL#PCMSO   Médico Responsable                        Fec. ini.   Fec. Fin   Fec. Gener.  Descripc.
+0024#STR0024#ALL#Ficha      Mat.     Nombre Empleado                  Examen                              Fc.Progr.   Centro Costo         Realizado
+0025#STR0025#ALL#Ficha      Mat.   Nombre Empleado                Examen   Fc.Prog.   Centro Costo     Funcion                          Realizado
+0026#STR0026#ALL#Resumen de la Programacion de Examenes
+0027#STR0027#ALL#Cliente/Tienda:
+0028#STR0028#ALL#No hay nada para imprimir en el informe.
+0029#STR0029#ALL#Relacion de los códigos listados anteriormente:
+0030#STR0030#ALL#PCMSO:
+0031#STR0031#ALL#Sucursal
+0032#STR0032#ALL#¿Tipo de Informe?
+0033#STR0033#ALL#¿Enumerar Totalizador ?
+0034#STR0034#ALL#¿Enumerar Despedidos?
+0035#STR0035#ALL#¿Clasificar por ?
+0036#STR0036#ALL#¿Imprimir Todos ?
+0037#STR0037#ALL#¿A Centro de Costo?
+0038#STR0038#ALL#¿De Centro de Costo?
+0039#STR0039#ALL#¿A Fecha programac. ?
+0040#STR0040#ALL#¿De Fecha programac. ?
+0041#STR0041#ALL#¿A Examen?
+0042#STR0042#ALL#¿De Examen?
+0043#STR0043#ALL#¿Numero del PCMSO ?
+0044#STR0044#ALL#¿De  PCMSO ?
+0045#STR0045#ALL#¿De Cliente ?
+0046#STR0046#ALL#Tienda:
+0047#STR0047#ALL#¿A Cliente ?
+0048#STR0048#ALL#¿A PCMSO ?
+0049#STR0049#ALL#Si
+0050#STR0050#ALL#No
+0051#STR0051#ALL#Analitico
+0052#STR0052#ALL#Sintetico
+0053#STR0053#ALL#De Sucursal?
+0054#STR0054#ALL#¿A Sucursal?
+0055#STR0055#ALL#Ficha,Exam,Fecha
+0056#STR0056#ALL#Examen,Fecha
+0057#STR0057#ALL#Nombre,Examen,Fecha
+0058#STR0058#ALL#C.Cos,Empl,Fecha
+0059#STR0059#ALL#Fecha,Ficha,Exam
+0060#STR0060#ALL#Informe a partir de que PCMSO debe constar en el informe. Presione las teclas [F3]+[Enter] para seleccionar un PCMSO.
+0061#STR0061#ALL#Escriba hasta que PCMSO debe constar en el informe. Presione las teclas [F3]+[Enter] para seleccionar el PCMSO deseado o escriba ZZZZZZZZZ en este campo y deje el anterior en blanco para considerar todos los PCMSO.
+0062#STR0062#ALL#Informe a partir de que Examen debe constar en el informe. Presione las teclas [F3]+[Enter] para seleccionar un Examen.
+0063#STR0063#ALL#Escriba hasta que Examen debe constar en el informe. Presione las teclas [F3]+[Enter] para seleccionar el Examen deseado o escriba ZZZZZZZZZ en este campo y deje el anterior en blanco para considerar todas las familias.
+0064#STR0064#ALL#Informe a partir de que Fecha Programac. debe constar en el informe. Presione las teclas [F3]+[Enter] para seleccionar una Fecha Programac.
+0065#STR0065#ALL#Informe hasta que Fecha Programac. debe constar en el informe. Presione las teclas [F3]+[Enter] para seleccionar la Fecha Programac. deseada o escriba ZZZZZZZZZ en este campo y deje el anterior en blanco para considerar todos los modelos.
+0066#STR0066#ALL#Informe a partir de cual centro de costo debe constar el informe. Pulse las teclas [F3]+[Enter] para seleccionar un centro de costo.
+0067#STR0067#ALL#Escriba hasta cual centro de costo debe constar el informe. Presione las teclas [F3]+[Enter] para seleccionar el Centro de Costo deseado o escriba ZZZZZZZZZ en este campo y deje el anterior en blanco para considerar todas los bienes.
+0068#STR0068#ALL#Informe como debera imprimirse el informe.  Todos;No Realizados;Realizados
+0069#STR0069#ALL#Informe de que forma se clasificara el informe. Ficha,Exam,Fecha;Examen,Fecha;Nombre,Examen,Fecha;C.Cos,Empl,Fecha;Fecha,Ficha,Exam
+0070#STR0070#ALL#Diga si el informe listara los despedidos. No;Si
+0071#STR0071#ALL#Diga si el informe listara el totalizador. Si;No
+0072#STR0072#ALL#Indique el tipo de informe que se imprimira. Analitico;Sintetico
+0073#STR0073#ALL#Informe a partir de que Sucursal debe constar en el informe. Presione las teclas [F3]+[Enter] para seleccionar una sucursal.
+0074#STR0074#ALL#Escriba hasta que sucursal debe constar en el informe. Presione las teclas [F3]+[Enter] para seleccionar la sucursal deseada o escriba ZZZZZZZZZ en este campo y deje el anterior en blanco para considerar todos los PCMSO.
+0075#STR0075#ALL#Todos
+0076#STR0076#ALL#No realizados
+0077#STR0077#ALL#Realizados
+0078#STR0078#ALL#Programacion de exames
+0079#STR0079#ALL#Cliente/Tienda
+0080#STR0080#ALL#PCMSO:
+0081#STR0081#ALL#Médico responsable
+0082#STR0082#ALL#Fch. Ini.
+0083#STR0083#ALL#Fch. Fin
+0084#STR0084#ALL#Fch. Greac.
+0085#STR0085#ALL#Descripcion
+0086#STR0086#ALL#Ficha
+0087#STR0087#ALL#Mat.
+0088#STR0088#ALL#Nombre empleado
+0089#STR0089#ALL#Examen
+0090#STR0090#ALL#Fch. Progr.
+0091#STR0091#ALL#C.C.Dep.
+0092#STR0092#ALL#Realizado
+0093#STR0093#ALL#Total de examenes por Centro de costo / Funcion
+0094#STR0094#ALL#Centro de costo
+0095#STR0095#ALL#Cantidad examenes
+0096#STR0096#ALL#Funcion
+0097#STR0097#ALL#Total general
+0098#STR0098#ALL#Total general:
+0099#STR0099#ALL#¿Considerar por ?
+0100#STR0100#ALL#Centro de costo
+0101#STR0101#ALL#Departamento
+0102#STR0102#ALL#Informe si el informe debe mostrar el centro de costo o el departamento del empleado
+0103#STR0103#ALL#Ficha      Mat.     Nombre empleado                  Examen                              Fch.Progr.   Departamento         Realizado
+0104#STR0104#ALL#Ficha      Mat.    Nombre Empleado               Examen       Fch.Prog.  Departamento           Función                  Realizado
+0105#STR0105#ALL#Ficha      Mat.     Nombre empleado                  Examen                              Fch.Progr.   Departamento         Realizado
+0106#STR0106#ALL#Ficha     Mat.   Nombre Empleado               Examen       Fch.Prog.  Departamento           Función                  Realizado
+0107#STR0107#ALL#Departamento
+0108#STR0108#ALL#Total de exámenes por Departamento / Función
+0109#STR0109#ALL#Sit.
+0110#STR0110#ALL#Función
+0111#STR0111#ALL#Atención
+0112#STR0112#ALL#Es obligatorio informar el valor de la pregunta 'A Sucursal'
+0113#STR0113#ALL#Por favor, incluya un valor en la pregunta
+0114#STR0114#ALL#El parámetro 'De Sucursal' solamente puede ser vacío si el parámetro 'A Sucursal' se completara con
+0115#STR0115#ALL#Por favor, incluya un intervalo de sucursales válido

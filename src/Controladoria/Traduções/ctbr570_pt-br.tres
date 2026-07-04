@@ -1,0 +1,13 @@
+0001#STR0001#ALL#DEMONSTRACAO DO VALOR ADICIONADO
+0002#STR0002#ALL#Executar a rotina UPDCTB para criar a consulta padrão SX5SL
+0003#STR0003#ALL#Este programa irá imprimir a Demonstração do Valor Adicionado, 
+0004#STR0004#ALL#de acordo com os parâmetros informados pelo usuário.
+0005#STR0005#ALL#É necessário informar a data de referência !
+0006#STR0006#ALL#Parametro Considera igual a Periodo.
+0007#STR0007#ALL#Data fora do calendário !
+0008#STR0008#ALL#Data de referência.
+0009#STR0009#ALL#Gerando relatorio, aguarde...
+0010#STR0010#ALL#Criando Arquivo Temporario...
+0011#STR0011#ALL#Responsáveis...
+0012#STR0012#ALL#(=) TOTAL
+0013#STR0013#ALL# Filiais: 

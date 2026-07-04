@@ -1,0 +1,29 @@
+0001#STR0001#ALL#Este programa irá imprimir o comparativo de contas contabilísticas de 2 até 
+0002#STR0002#ALL# 6 meses. Os valores são ref. ao movimento do período pedido. 
+0003#STR0003#ALL#Comparativo de contas contabilísticas até 6 meses
+0004#STR0004#ALL#|  código                     |   d  e  s  c  r  i  ç  ã  o    |   mov. período 01   |   mov. período 02   |   mov. período 03   |   mov. período 04   |   mov. período 05   |   mov. período 06   |
+0005#STR0005#ALL#Comparativo analítico de 
+0006#STR0006#ALL# até 
+0007#STR0007#ALL# em 
+0008#STR0008#ALL#Comparativo sintético de 
+0009#STR0009#ALL# atenção 
+0010#STR0010#ALL#***** cancelado pelo operador *****
+0011#STR0011#ALL#Totais do período: 
+0012#STR0012#ALL#Comparativo de 
+0013#STR0013#ALL#Código de barras
+0014#STR0014#ALL#Administração
+0015#STR0015#ALL#A Criar Ficheiro Temporário...
+0016#STR0016#ALL#T o t a i s  d o  g r u p o (
+0017#STR0017#ALL#Caso não actualize os saldos  básicos  na
+0018#STR0018#ALL#Digitação dos movimentos (mv_atusal='n'),
+0019#STR0019#ALL#Correr o procedimento  de actualização de saldos 
+0020#STR0020#ALL#Para todos os períodos solicitados no 
+0021#STR0021#ALL#Relatório.
+0022#STR0022#ALL#O período solicitado ultrapassa o limite de 6 meses.
+0023#STR0023#ALL#Será impresso apenas os 6 meses a partir da data inicial.
+0024#STR0024#ALL#Por favor, verifique se o calend.contabilístico e a associação moeda/calendário 
+0025#STR0025#ALL#Foram registados correctamente...
+0026#STR0026#ALL#Acumulado
+0027#STR0027#ALL#Até
+0028#STR0028#ALL#      total  geral      |
+0029#STR0029#ALL#Conta contabilística

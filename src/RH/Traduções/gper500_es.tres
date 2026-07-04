@@ -1,0 +1,25 @@
+0001#STR0001#ALL#Detalle de movimiento de empleados (Turn-Over)  
+0002#STR0002#ALL#Se imprimira de acuerdo con los parametros solicitados por
+0003#STR0003#ALL#el usuario.
+0004#STR0004#ALL#A rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#DETALLE DE MOVIMIENTOS DE EMPLEADOS 
+0007#STR0007#ALL#                                          MOVIMIENTO DE EMPLEADOS       -  
+0008#STR0008#ALL# A 
+0009#STR0009#ALL#|MES/ANO |  INICIO  | ADMISION | ENT TRANSF | SALI TRANSF| DEMISION |   FIN   |
+0010#STR0010#ALL#Seleccionando registros...
+0011#STR0011#ALL#SUCURSAL
+0012#STR0012#ALL#Movimiento de empleados
+0013#STR0013#ALL#Esta rutina efectua la impresion de la cantidad de movimiento de empleados dentro da empresa, es decir,  la cantidad de empleados dimitidos, admitidos y transferidos.
+0014#STR0014#ALL#Total de Sucur.
+0015#STR0015#ALL#Atencion
+0016#STR0016#ALL#Periodo inicial mayor que el periodo final o periodo informado invalido
+0017#STR0017#ALL#Periodo Invalido
+0018#STR0018#ALL#C.COSTO
+0019#STR0019#ALL#MES/AÑO
+0020#STR0020#ALL#INICIO
+0021#STR0021#ALL#INGRESO
+0022#STR0022#ALL#ENT.TRANSF.
+0023#STR0023#ALL#SAL.TRANSF.
+0024#STR0024#ALL#DESPIDO
+0025#STR0025#ALL#FINAL

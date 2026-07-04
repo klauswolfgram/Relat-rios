@@ -1,0 +1,59 @@
+0001#STR0001#ALL#Cube comparisons - Balances statement by period               
+0002#STR0002#ALL#Code  
+0003#STR0003#ALL#Descript.
+0004#STR0004#ALL#Movements 
+0005#STR0005#ALL#InitialBalance(A1): 
+0006#STR0006#ALL#InitialBalance(A2): 
+0007#STR0007#ALL#Difference(A1-A2):
+0008#STR0008#ALL#Diff.(A2/A1 %):
+0009#STR0009#ALL#Credit Mov. (C1):
+0010#STR0010#ALL#Credit Mov. (C2):
+0011#STR0011#ALL#Difference(C1-C2):
+0012#STR0012#ALL#Diff.(C2/C1 %):
+0013#STR0013#ALL#Debit Mov. (D1)
+0014#STR0014#ALL#Debit Mov. (D2)
+0015#STR0015#ALL#Difference(D1-D2):
+0016#STR0016#ALL#Diff.(D2/D1 %):
+0017#STR0017#ALL#Res.Mov.(C1 - D1):
+0018#STR0018#ALL#Res.Mov.(C2 - D2):
+0019#STR0019#ALL#Difference Res:
+0020#STR0020#ALL#Dif. Res. (%):
+0021#STR0021#ALL#COMPARISON BETWEEN CONFIGURATION: 
+0022#STR0022#ALL# AND CONFIGURATION: 
+0023#STR0023#ALL#Printing cancelled by the operator..
+0024#STR0024#ALL#This report will print the comparison of cubes - balance statement by period according to the parameters requested by the user. For more information about this report, query the Program Help (F1).                       
+0025#STR0025#ALL#Comparison of configurations   
+0026#STR0026#ALL#Movements 
+0027#STR0027#ALL#Weekly
+0028#STR0028#ALL#Fortnightly
+0029#STR0029#ALL#Monthly
+0030#STR0030#ALL#Bimonthly
+0031#STR0031#ALL#Semiannual
+0032#STR0032#ALL#Annual
+0033#STR0033#ALL#Daily
+0034#STR0034#ALL#Quarterly
+0035#STR0035#ALL#Management Cube Code
+0036#STR0036#ALL#Period of
+0037#STR0037#ALL#Which Currency
+0038#STR0038#ALL#Currency 1
+0039#STR0039#ALL#Currency 2
+0040#STR0040#ALL#Currency 3
+0041#STR0041#ALL#Currency 4
+0042#STR0042#ALL#Currency 5
+0043#STR0043#ALL#Period Type
+0044#STR0044#ALL#Retained 
+0045#STR0045#ALL#Yes
+0046#STR0046#ALL#No
+0047#STR0047#ALL#Cube Configuration-1
+0048#STR0048#ALL#Edit Cube Configurations-1
+0049#STR0049#ALL#Cube Configuration-2
+0050#STR0050#ALL#Edit Cube Configurations-2
+0051#STR0051#ALL#It considers Zeroed
+0052#STR0052#ALL#Grand Total in Summary
+0053#STR0053#ALL#Consider Cfg. 1 Cube
+0054#STR0054#ALL#Parameters...
+0055#STR0055#ALL#Period to
+0056#STR0056#ALL#Attention
+0057#STR0057#ALL#User without access to the report. Check configurations.
+0058#STR0058#ALL#Daily period does not print in customized mode. Use not customized module if necessary.
+0059#STR0059#ALL#Consultation limited to a maximum of 100 periods. Check the frequency.

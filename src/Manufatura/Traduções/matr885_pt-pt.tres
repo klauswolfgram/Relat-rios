@@ -1,0 +1,13 @@
+0001#STR0001#ALL#Relatório De Produtividade
+0003#STR0003#ALL#Cálculo de percentual que pode ser alterado pelo utilizador, já que
+0004#STR0004#ALL#A rotina e rdmake.
+0005#STR0005#ALL#Código de barras
+0006#STR0006#ALL#Administração
+0007#STR0007#ALL#Registo(s)
+0008#STR0008#ALL#A Seleccionar Registos...
+0009#STR0009#ALL#Data     Horas   Horas       Ordem De    Produto         Recurso   Quantidade        Quantidade      Eficiencia
+0010#STR0010#ALL#         padrão  trabalhadas produção                              prevista          real                %
+0014#STR0014#ALL#Tempo Padrão
+0017#STR0017#ALL#Eficiência(%)
+0018#STR0018#ALL#Registo De Produção Pcp
+0019#STR0019#ALL#Totais Por Operador

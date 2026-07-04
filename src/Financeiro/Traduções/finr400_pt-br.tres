@@ -1,0 +1,33 @@
+0001#STR0001#ALL#Este relatorio ira imprimir a relaçäo de cheques emitidos,
+0002#STR0002#ALL#em ordem Numerica/Emissäo
+0003#STR0003#ALL#Relaçäo de Cheques emitidos.
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#Relacao de Cheques
+0007#STR0007#ALL#Numero                   Valor  Emissao     Beneficiario                              Historico                                St.Ch
+0008#STR0008#ALL#Por Cheque
+0009#STR0009#ALL#Por Emissao
+0010#STR0010#ALL#Cancelado pelo Operador
+0011#STR0011#ALL#Banco: 
+0012#STR0012#ALL#Agencia: 
+0013#STR0013#ALL#Sub-Total ----> 
+0014#STR0014#ALL#Total Geral --> 
+0015#STR0015#ALL#Total Cheques-> 
+0016#STR0016#ALL#Numero                   Valor  Emissao     Vencto.  Beneficiario                              Historico
+0017#STR0017#ALL#Numero                   Valor  Emissao   Vencto.  Cliente Emitente                             Historico
+0018#STR0018#ALL#Numero                   Valor  Emissao   Vencto.  Cliente Beneficiario/Emitente                Historico                      St.Ch
+0019#STR0019#ALL#Numero                   Valor  Emissao  Vencto.  Beneficiario/Emitente                     Historico                          St.Ch
+0020#STR0020#ALL#Legenda: 
+0021#STR0021#ALL#St.Ch - Status do Cheque
+0022#STR0022#ALL#B - Bloqueado 
+0023#STR0023#ALL#L - Liberado 
+0024#STR0024#ALL#Numero
+0025#STR0025#ALL#Valor
+0026#STR0026#ALL#Emissao
+0027#STR0027#ALL#Vencto.
+0028#STR0028#ALL#Cliente Beneficiario/Emitente
+0029#STR0029#ALL#Historico
+0030#STR0030#ALL#St.Ch
+0031#STR0031#ALL#Descricao do Cheque
+0032#STR0032#ALL#Banco
+0033#STR0033#ALL#Conta: 

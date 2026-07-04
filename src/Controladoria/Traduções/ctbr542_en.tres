@@ -1,0 +1,24 @@
+0001#STR0001#ALL#Generating Report. Wait...
+0002#STR0002#ALL#DRE + AV and AH
+0003#STR0003#ALL#Vertical Analysis
+0004#STR0004#ALL#Horizontal Analysis
+0005#STR0005#ALL#Absolute
+0006#STR0006#ALL#Creating temporary file...
+0007#STR0007#ALL#Relative
+0008#STR0008#ALL#% Tot
+0009#STR0009#ALL#Accrued
+0010#STR0010#ALL#Result Statement with Vertical and Horizontal Analysis
+0011#STR0011#ALL#to
+0012#STR0012#ALL#from
+0013#STR0013#ALL#Period
+0014#STR0014#ALL#%
+0015#STR0015#ALL#Responsible People
+0016#STR0016#ALL#This program prints Result Statement,
+0017#STR0017#ALL#according to parameters configured by the user. 
+0018#STR0018#ALL#Detail
+0019#STR0019#ALL#Account
+0020#STR0020#ALL#Accounting statements must have a management plan associated with the record. Check the record configuration chosen.
+0021#STR0021#ALL#Account
+0022#STR0022#ALL#Higher account
+0023#STR0023#ALL#Prev. Bal.
+0024#STR0024#ALL#Transaction in the Period

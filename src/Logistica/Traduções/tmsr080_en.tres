@@ -1,0 +1,24 @@
+0001#STR0001#ALL#List of Requester's Addresses       
+0002#STR0002#ALL#Issue of Requestor's Addresses      
+0003#STR0003#ALL#It will print info on the Requestor's Addresses   
+0004#STR0004#ALL#according to the user setup.            
+0005#STR0005#ALL#Z.form
+0006#STR0006#ALL#Management   
+0007#STR0007#ALL# DDD Phone           Seq. Address    Address         Distr.          Municip.        State  ZIP     
+0008#STR0008#ALL# - Phone nbr. 
+0009#STR0009#ALL#*** CANCELED BY OPERATOR ***
+0010#STR0010#ALL#Creating index...
+0011#STR0011#ALL#Name:  
+0012#STR0012#ALL#Report of Addresses of Requester
+0013#STR0013#ALL#Issue of Addresses of Requester
+0014#STR0014#ALL#Requester
+0015#STR0015#ALL#Name
+0016#STR0016#ALL#Ar Cd
+0017#STR0017#ALL#Telephone
+0018#STR0018#ALL#Address
+0019#STR0019#ALL#Address Seq.
+0020#STR0020#ALL#District
+0021#STR0021#ALL#City
+0022#STR0022#ALL#State
+0023#STR0023#ALL#Zip
+0024#STR0024#ALL#Req. Code

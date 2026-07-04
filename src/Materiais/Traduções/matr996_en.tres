@@ -1,0 +1,80 @@
+0001#STR0001#ALL#Auxiliary Report 
+0002#STR0002#ALL#Withholdings Issue
+0003#STR0003#ALL#Special
+0004#STR0004#ALL#Management
+0005#STR0005#ALL#WITHHOLDINGS AUXILIARY REPORT
+0006#STR0006#ALL#Withholding Concept :
+0007#STR0007#ALL# Code     Contributor`s Company Name                      NIT/CC                             Base Amount  Rate      Withheld Amnt.
+0008#STR0008#ALL#Total 
+0009#STR0009#ALL#Vendor  
+0010#STR0010#ALL#Customer
+0011#STR0011#ALL#Vendor total:   
+0012#STR0012#ALL#  Total Customer :
+0013#STR0013#ALL#Vendor:                
+0014#STR0014#ALL#Customer              :
+0015#STR0015#ALL# Date                                                                 Document               Base Amount  Rate      Withheld Amnt.
+0016#STR0016#ALL# Withholding Concept                                                                         Base Amount  Rate      Withheld Amnt.
+0017#STR0017#ALL# Date                                                                 Document               Base Amount  Rate      Withheld Amnt.
+0018#STR0018#ALL# Withholding Concept                                                                         Base Amount  Rate      Withheld Amnt.
+0019#STR0019#ALL# Code     Contributor`s Company Name               NIT/CC             Document               Base Amount  Rate      Withheld Amnt.
+0020#STR0020#ALL# Code     Contributor`s Company Name                      NIT/CC                             Base Amount  Rate      Withheld Amnt.
+0021#STR0021#ALL# Withholding Concept                                                  Document               Base Amount  Rate      Withheld Amnt.
+0022#STR0023#ALL#Tax                ?
+0023#STR0024#ALL#Operation Type     ?
+0024#STR0025#ALL#Purchases
+0025#STR0026#ALL#Billing
+0026#STR0027#ALL#From Date          ?
+0027#STR0028#ALL#To Date            ?
+0028#STR0029#ALL#Tax Identif. Type  ?
+0029#STR0030#ALL#NIT
+0030#STR0031#ALL#FORM
+0031#STR0032#ALL#From NIT/CC        ?
+0032#STR0033#ALL#To  NIT/CC         ?
+0033#STR0034#ALL#From Document      ?
+0034#STR0035#ALL#To  Document       ?
+0035#STR0036#ALL#** CANCELLED BY THE OPERATOR **
+0036#STR0037#ALL#Concept + Customer/Supplier + Date
+0037#STR0038#ALL#Customer/Supplier + Concept + Date
+0038#STR0039#ALL#Date + Concept + Customer/Supplier
+0039#STR0040#ALL#Date + Customer/Supplier + Concept
+0040#STR0041#ALL#from
+0041#STR0042#ALL#Ordered by:
+0042#STR0043#ALL#Selecting records...
+0043#STR0044#ALL#Date
+0044#STR0045#ALL#CFO
+0045#STR0046#ALL# Date 
+0046#STR0047#ALL# Continue...
+0047#STR0048#ALL#Gran Total:
+0048#STR0049#ALL#Date
+0049#STR0050#ALL#Supplier :
+0050#STR0051#ALL#Customer: 
+0051#STR0052#ALL#NIT/CC:
+0052#STR0053#ALL#Date:
+0053#STR0054#ALL#CC:
+0054#STR0055#ALL#No information in requested parameters
+0055#STR0056#ALL#NIT:
+0056#STR0057#ALL#Header
+0057#STR0058#ALL#Budget:
+0058#STR0059#ALL#Customer:
+0059#STR0060#ALL#Date:
+0060#STR0061#ALL#Header (Analytic)
+0061#STR0062#ALL#Detail
+0062#STR0063#ALL#Budget
+0063#STR0064#ALL#Code
+0064#STR0065#ALL#Corporate Name
+0065#STR0066#ALL#NIT/CC
+0066#STR0067#ALL#Base Value
+0067#STR0068#ALL#Rate
+0068#STR0069#ALL#Withholding value
+0069#STR0070#ALL#Detail (Analytic)
+0070#STR0071#ALL#Date
+0071#STR0072#ALL#Document
+0072#STR0073#ALL#Totals
+0073#STR0074#ALL#Total Base Value
+0074#STR0075#ALL#Total Withholding Value
+0075#STR0076#ALL#Total (Analytic)
+0076#STR0077#ALL#Total Base
+0077#STR0078#ALL#Total Withholding
+0078#STR0079#ALL#General Total
+0079#STR0080#ALL#Total General Base
+0080#STR0081#ALL#Total General Withholding

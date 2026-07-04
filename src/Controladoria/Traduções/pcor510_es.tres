@@ -1,0 +1,17 @@
+0001#STR0001#ALL#Comparativo de Cubos - Informe de Saldos
+0002#STR0002#ALL#Codigo
+0003#STR0003#ALL#Descripc.
+0004#STR0004#ALL#Saldo Final (F1)
+0005#STR0005#ALL#Saldo Final (F2)
+0006#STR0006#ALL#Diferenc.(F1-F2)
+0007#STR0007#ALL#Diferenc. (F2/F1 %)
+0008#STR0008#ALL#Cubo 1 -->
+0009#STR0009#ALL#    Cubo 2 -->
+0010#STR0010#ALL#Impresion anulada por el operador...
+0011#STR0011#ALL#Saldo Cubo 1
+0012#STR0012#ALL#Saldo Cubo 2
+0013#STR0013#ALL#Diferencia
+0014#STR0014#ALL#Variacion
+0015#STR0015#ALL#Este informe imprimira el Comparativo de Cubos - Estado de Saldos de acuerdo con los parametros solicitados por el usuario. Para mas informaciones sobre este informe consulte el Help del Programa ( F1 ).		
+0016#STR0016#ALL#Atenc. 
+0017#STR0017#ALL#Usuario sin acceso al informe. Verifique las configurac.

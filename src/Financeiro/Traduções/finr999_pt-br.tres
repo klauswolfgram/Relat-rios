@@ -1,0 +1,42 @@
+0001#STR0001#ALL#Imprime Informação das ordens de pagamento
+0002#STR0002#ALL#Emitidas, separadas por Fornecedor.
+0003#STR0003#ALL#ZEBRADO
+0004#STR0004#ALL#Administração
+0005#STR0005#ALL#Ordens de Pagamento Emitidas
+0006#STR0006#ALL#          Tipo   Número Pref Cota  Emissão   Vencimento  Doc        Valor
+0007#STR0007#ALL#Selecionando Registros...
+0008#STR0008#ALL# - Por Fornecedor
+0009#STR0009#ALL#CANCELADO PELO OPERADOR
+0010#STR0010#ALL#Fornecedor : 
+0011#STR0011#ALL#SALDO : 
+0012#STR0012#ALL#Ordem de Pagamento : 
+0013#STR0013#ALL#Titulos pagos : 
+0014#STR0014#ALL#Retenções    : 
+0015#STR0015#ALL#Total Titulos      : 
+0016#STR0016#ALL#Total Retenções    : 
+0017#STR0017#ALL#Total Liquido      : 
+0018#STR0018#ALL#Pago com    : 
+0019#STR0019#ALL#Desconto de Pagamento Adiantado Nº: 
+0020#STR0020#ALL#Vlr : 
+0021#STR0021#ALL#BCO : 
+0022#STR0022#ALL#Ag : 
+0023#STR0023#ALL#Cta : 
+0024#STR0024#ALL#Nro
+0025#STR0025#ALL#(T)
+0026#STR0026#ALL#(De Cliente : 
+0027#STR0027#ALL#¨De Fornecedor      ?
+0028#STR0028#ALL#¨A  Fornecedor      ?
+0029#STR0029#ALL#¨De Ordem de Pagamento   ?
+0030#STR0030#ALL#¨A  Ordem de Pagamento   ?
+0031#STR0031#ALL#¨De Data Emissão   ?
+0032#STR0032#ALL#¨A  Data Emissão   ?
+0033#STR0033#ALL#Valor Total        : 
+0034#STR0034#ALL#CNPJ: 
+0035#STR0035#ALL#Emissão : 
+0036#STR0036#ALL#Venc. : 
+0037#STR0037#ALL#Valor : 
+0038#STR0038#ALL#Parcela : 
+0039#STR0039#ALL#Nao Liberada
+0040#STR0040#ALL#Despesa
+0041#STR0041#ALL#Despesas pagas : 
+0042#STR0042#ALL#Tipo : 

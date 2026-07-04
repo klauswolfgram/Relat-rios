@@ -1,0 +1,52 @@
+0005#STR0005#ALL#Ecrã
+0007#STR0007#ALL#Enviar E-mail
+0008#STR0008#ALL#Inventário Nacional de Resíduos
+0010#STR0010#ALL#Período De Referência
+0015#STR0015#ALL#MORADA DA UNIDADE
+0016#STR0016#ALL#Morada/N.º
+0017#STR0017#ALL#Localidade/Distrito
+0018#STR0018#ALL#Código postal
+0019#STR0019#ALL#Concelho
+0022#STR0022#ALL#Cnpj
+0023#STR0023#ALL#Morada Para Correspondência
+0024#STR0024#ALL#Contacto Técnico
+0027#STR0027#ALL#Telefone De Contacto
+0029#STR0029#ALL#E-mail
+0030#STR0030#ALL#CARACTERÍSTICAS DA ACTIVIDADE
+0031#STR0031#ALL#Actividade principal
+0032#STR0032#ALL#Código CAE
+0037#STR0037#ALL#Número total de empregados nas seguintes áreas da indústria
+0042#STR0042#ALL#Coordenadas geográficas da unidade
+0050#STR0050#ALL#Declaro, sob compromisso de honra, serem verdadeiros os dados fornecidos no presente formulário.
+0053#STR0053#ALL#Matéria Prima
+0055#STR0055#ALL#Matérias-primas E Insumos
+0056#STR0056#ALL#Quantidade actual (por ano)
+0057#STR0057#ALL#Capacidade máxima (por ano)
+0058#STR0058#ALL#Unidade De Medida
+0059#STR0059#ALL#Produção Anual
+0061#STR0061#ALL#Artigos
+0063#STR0063#ALL#Etapas Do Processo De Produção
+0064#STR0064#ALL#Nome Da Etapa
+0066#STR0066#ALL#Ifacturaormação Sobre Os Documentos Sólidos Gerados
+0067#STR0067#ALL#Código Do Resíduo
+0068#STR0068#ALL#Descrição Do Resíduo
+0074#STR0074#ALL#Código Do Destino
+0075#STR0075#ALL#Ou Tratamento
+0076#STR0076#ALL#Descrição Do Destino
+0079#STR0079#ALL#Código Do Destino Ou Tratamento
+0080#STR0080#ALL#Razão Social Ou Nome Do Destino
+0081#STR0081#ALL#Distrito
+0082#STR0082#ALL#Ifacturaormação Sobre Os Documentos Sólidos Gerados Nos Anos Anteriores
+0084#STR0084#ALL#Estado Físico
+0085#STR0085#ALL#Código Do Armazenamento
+0086#STR0086#ALL#Morada De Stock
+0087#STR0087#ALL#O servidor de SMTP não foi cofacturaigurado !!!
+0089#STR0089#ALL#A conta do email não foi cofacturaigurada !!!
+0090#STR0090#ALL#A palavra-passe do email não foi cofacturaigurada !!!
+0091#STR0091#ALL#Dados Do Email
+0094#STR0094#ALL#Cc:
+0097#STR0097#ALL#Aviso
+0100#STR0100#ALL#Não Foi Possível Enviar O Email.
+0101#STR0101#ALL#Erro Na Conexão Com O Servidor SMTP.
+0106#STR0106#ALL#Sólido
+0107#STR0107#ALL#Líquido

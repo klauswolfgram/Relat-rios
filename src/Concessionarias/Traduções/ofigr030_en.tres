@@ -1,0 +1,13 @@
+0001#STR0001#ALL#Thie program will print the status of Not 
+0002#STR0002#ALL#Transmitted Complaints. (Scania)
+0003#STR0003#ALL#Not Transmitted Complaints - Scania
+0004#STR0004#ALL# [SO No.] [Op.Dt.] [Ch.I] [Chassis Number---------] [Model--------------------]
+0005#STR0005#ALL#          [Op.Dt.] [Yr.]  [RR Nr] [Rel.Dt] [Part Vl.] [Serv.Vl.]
+0006#STR0006#ALL#Z.Form
+0007#STR0007#ALL#Management
+0008#STR0008#ALL#Please, wait. Selecting Record to Print
+0009#STR0009#ALL#*** CANCELLED BY THE OPERATOR ***
+0010#STR0010#ALL#Total.: 
+0011#STR0011#ALL#Report Total.: 
+0012#STR0012#ALL#Initial Date      ?
+0013#STR0013#ALL#Final Date        ?

@@ -1,0 +1,20 @@
+0001#STR0001#ALL#List of Copyright Contracts.
+0002#STR0002#ALL#It will print data of the Copyright Contracts 
+0003#STR0003#ALL#according to the user configuration. 
+0004#STR0004#ALL#Copyright Relation (Management)
+0005#STR0005#ALL#Per Supplier Code
+0006#STR0006#ALL#Per Product Code
+0007#STR0007#ALL#Z. Form
+0008#STR0008#ALL#Management
+0009#STR0009#ALL#Supplier
+0010#STR0010#ALL#Contract
+0011#STR0011#ALL#Supplier Code
+0012#STR0012#ALL#Validity Dt
+0013#STR0013#ALL#Dua Date
+0014#STR0014#ALL#Product Code
+0015#STR0015#ALL#Product
+0016#STR0016#ALL#Period
+0017#STR0017#ALL#Warn. Days
+0018#STR0018#ALL#Total of Contracts
+0019#STR0019#ALL#Sequence
+0020#STR0020#ALL#Function available only in TReport

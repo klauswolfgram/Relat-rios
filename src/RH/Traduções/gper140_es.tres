@@ -1,0 +1,21 @@
+0001#STR0001#ALL# Matricula 
+0002#STR0002#ALL# Centro de Costo 
+0003#STR0003#ALL#Documento de liquidacion final 
+0004#STR0004#ALL#Se imprimira de acuerdo con los parametros solicitados por
+0005#STR0005#ALL#el usuario.
+0006#STR0006#ALL#A Rayas
+0007#STR0007#ALL#Administracion
+0008#STR0008#ALL#EMISION DOCUMENTO DE LIQUIDACION FINAL
+0009#STR0009#ALL#Opcion no disponible para el Pais
+0010#STR0010#ALL#1 - no optante 
+0011#STR0011#ALL#2 - optante - facturac. anual hasta R$ 1.200.000,00
+0012#STR0012#ALL#3 - optante - facturacion anual superior a R$ 1.200.000,00
+0013#STR0013#ALL#4 - no optante - productor rural pers. fisica  (CEI y FPAS 604)
+0014#STR0014#ALL#5 - no optante  - Dictamen Prel. de no retenc. de C. Social
+0015#STR0015#ALL#6 - optante - fact anual> R$1.200.000,00 - Dict Pre p/no retenc.C.Social
+0016#STR0016#ALL#Opcion Simple
+0017#STR0017#ALL#EMISION TERM. RESCIS. / EXONERAC.
+0018#STR0018#ALL#Termino de Rescis. / Exonerac.
+0019#STR0019#ALL#Recibo de Liquidacion
+0020#STR0020#ALL#Termino de Rescision de Contrato de Trabajo 
+0021#STR0021#ALL#GRFC - Formulario de Pago Rescisorio del FGTS y  de la Contribucion Social

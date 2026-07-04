@@ -1,0 +1,31 @@
+0001#STR0001#ALL#Relação Dos Orçamentos De Venda
+0003#STR0003#ALL#Conforme os parâmetros solicitados.                          
+0004#STR0004#ALL#Número
+0006#STR0006#ALL#Artigo
+0007#STR0007#ALL#Código de barras
+0008#STR0008#ALL#Administração
+0009#STR0009#ALL# aberto 
+0010#STR0010#ALL#Liquidado 
+0011#STR0011#ALL#Cancel.
+0012#STR0012#ALL#          CLIENTE                                  ARTIGO                                                                              COMPONENTES
+0013#STR0013#ALL#NÚMERO IT CÓDIGO  LJ RAZÃO SOCIAL                   CÓDIGO           DESCRIÇÃO                      QUANTIDADE PREÇO VENDA          TOTAL CÓDIGO           DESCRIÇÃO                         QUANTIDADE    NECESSIDADE SITUAÇÃO   
+0015#STR0015#ALL#Cancelado Pelo Operador
+0016#STR0016#ALL#Total do orçamento: 
+0017#STR0017#ALL#Total do cliente: 
+0018#STR0018#ALL#Total do artigo: 
+0019#STR0019#ALL#T O T A L  C R I A L --> 
+0020#STR0020#ALL#          CLIENTE                                            ARTIGO                                                                         COMPONENTES
+0021#STR0021#ALL#Número It Código -loja               Razao Social             Código           Descrição                 Quantidade Preco Venda          Total Código           Descrição                    Quantidade    Necessidade Situação
+0022#STR0022#ALL#N.orcado
+0023#STR0023#ALL#Autorizado
+0024#STR0024#ALL#Relação Dos Orçamentos De Venda
+0026#STR0026#ALL#Conforme os parâmetros solicitados.                          
+0027#STR0027#ALL#Número
+0029#STR0029#ALL#Artigo
+0030#STR0030#ALL#Número El.
+0032#STR0032#ALL#Descrição Do Componente
+0034#STR0034#ALL#Total do cliente 
+0035#STR0035#ALL#Total crial 
+0036#STR0036#ALL#Total Do Orçamento
+0037#STR0037#ALL#Total Do Artigo
+0038#STR0038#ALL#Orçamentos De Venda

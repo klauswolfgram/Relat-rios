@@ -1,0 +1,16 @@
+0001#STR0001#ALL#This report will print a list of projects, its structure and the financial chronogram estiamted x accomplished to carry out the project.
+0002#STR0002#ALL#Financial Chronogram Estimated x Accomplished.
+0003#STR0003#ALL#Z. Form
+0004#STR0004#ALL#Management
+0005#STR0005#ALL#                  EDT/TASK                        |
+0006#STR0006#ALL#                                                  |       Value        |%Perc.|       Value        |%Perc.|       Value        |%Perc.|       Value        |%Perc.|       Value        |%Perc.|       Value        |%Perc.|
+0007#STR0007#ALL#Project : 
+0008#STR0008#ALL#Customer: 
+0009#STR0009#ALL#Version 
+0010#STR0010#ALL#Date : 
+0011#STR0011#ALL#Period
+0012#STR0012#ALL#Amount
+0013#STR0013#ALL#Perc.
+0014#STR0014#ALL#Project
+0015#STR0015#ALL#EDT/Task  
+0016#STR0016#ALL#*** CANCELLED BY THE USER  ***

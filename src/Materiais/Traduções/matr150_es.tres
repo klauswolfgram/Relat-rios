@@ -1,0 +1,40 @@
+0001#STR0001#ALL#Emision de las cotizaciones de compras
+0002#STR0002#ALL#Detalle de las cotizaciones
+0003#STR0003#ALL#A Rayas
+0004#STR0004#ALL#Administracion
+0005#STR0005#ALL#ESTIMADOS SEÑORES.
+0006#STR0006#ALL#COTIZACION Num
+0007#STR0007#ALL# Vencimiento 
+0008#STR0008#ALL#Por favor mencione este numero para cualquier cambio de
+0009#STR0009#ALL#informaciones referentes a esta cotizacion.
+0010#STR0010#ALL#Telefono: 
+0011#STR0011#ALL#Atentamente.
+0012#STR0012#ALL#Fax : 
+0013#STR0013#ALL#Solicitamos cotizacion de precios de los productos lista-
+0014#STR0014#ALL#dos segun los estandares establecidos a continuacion.
+0015#STR0015#ALL#Continua ...
+0016#STR0016#ALL#It   Num.de su Codigo Descripcion de la Mercaderia     Cantidad  UN Val. Unitario    Valor Total IVA  Valor de IVA Pz y Fc Prev Entrg
+0017#STR0017#ALL#Continuacion...
+0018#STR0018#ALL#Local de Entrega:
+0019#STR0019#ALL#Subtotal
+0020#STR0020#ALL#Condicion de Pago
+0021#STR0021#ALL#Descuentos 
+0022#STR0022#ALL#Local de Pago:
+0023#STR0023#ALL#Total de IVA
+0024#STR0024#ALL#Flete
+0025#STR0025#ALL#Condicion de Reaj.
+0026#STR0026#ALL#Contacto en el Proveedor
+0027#STR0027#ALL#TOTAL DE PEDIDO
+0028#STR0028#ALL#Pertinencia 1
+0029#STR0029#ALL#Pertinencia 2
+0030#STR0030#ALL#Emitido en:
+0031#STR0031#ALL#dias
+0032#STR0032#ALL#Observaciones :
+0033#STR0033#ALL#E-mail :
+0034#STR0034#ALL#Val.Unitario    Valor Total    IVA   Valor de IVA  Plz(dias)
+0035#STR0035#ALL#Pagina  
+0036#STR0036#ALL#Num.de su Cod.
+0037#STR0037#ALL#Item:
+0038#STR0038#PER#ITM   N/Vtro. Codigo Descripc. de Mercaderia        Cantidad    UN Val. Unitario    Valor Total IGV  Valor de IGV Pz y Fch Prev Entr
+0039#STR0039#PER#Total de IGV
+0040#STR0040#PER#Val.Unitario    Valor Total    IGV   Valor de IGV  Plz(dias)

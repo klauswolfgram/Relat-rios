@@ -1,0 +1,17 @@
+0001#STR0001#ALL#Este programa tem como objectivo imprimir o valor actualizado das 
+0002#STR0002#ALL#Aplicações financeiras, conforme os parâmetros solicitados. 
+0003#STR0003#ALL#Recibo De Aplicações
+0004#STR0005#ALL#Código de barras
+0005#STR0006#ALL#Administração
+0006#STR0007#ALL#Cancelado Pelo Operador
+0007#STR0008#ALL#                                                Dados Da Aplicação                                                                             Valores
+0008#STR0009#ALL#Número    Instituição          Mod. Dt.aplic.   Dt.resg.         Principal Quota Util. Apl.     Quota Actual    Rend. Bruto       Perc. Taxa Iof    Valor Iof   Taxa Ir        Valor Ir     Resgate Líquido
+0009#STR0010#ALL#Total Crial
+0010#STR0011#ALL#Indique os valores das cotas diárias
+0013#STR0014#ALL#Agência
+0015#STR0016#ALL#Valor Cota Actual
+0016#STR0017#ALL#Valor cota do dia
+0018#STR0019#ALL#Cota actual
+0021#STR0022#ALL#Taxa De Iof
+0022#STR0023#ALL#Valor Do Iof
+0023#STR0024#ALL#Resgate líquido

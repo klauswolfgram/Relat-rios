@@ -1,0 +1,22 @@
+0001#STR0001#ALL#Ficha de Help-Desk
+0002#STR0002#ALL#Este programa emitira las fichas de Help-Desk segun los 
+0003#STR0003#ALL#parametros solicitados.
+0004#STR0004#ALL#A Rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#FINALIZADO
+0007#STR0007#ALL#EN ABIERTO
+0008#STR0008#ALL#LLAMADO
+0009#STR0009#ALL#REDIRECCIONAMIENTO
+0010#STR0010#ALL#REMINDER
+0011#STR0011#ALL#AGREGA CONOCIMIENTO
+0012#STR0012#ALL#ANULADO POR EL OPERADOR
+0013#STR0013#ALL#|                                  FICHA DE HELP DESK                        | NUM.LLAMADO: ########## SECUENCIA: ## | PLAN.: #####|
+0014#STR0014#ALL#|CLIENTE: ######/## - ########################################                                                        PROVI.:   ## |
+0015#STR0015#ALL#|DIR.   : ########################################CIUDAD : ############### BARRIO: ######################### TEL.: ############### |
+0016#STR0016#ALL#|TECNICO: ###### - ############################## OCURRENCIA/PROBLEMA: ###### - ##############################                     |
+0017#STR0017#ALL#|ORIGEN : ################### TIEMPO DE ATENCION : ####:## SITUACION: #########                                                    |
+0018#STR0018#ALL#|LAUDO: ###########################################################################################################################|
+0019#STR0019#ALL#LAUDO:
+0020#STR0020#ALL#Cliente
+0021#STR0021#ALL#Ficha de Registro
+0022#STR0022#ALL#Registro de Cliente

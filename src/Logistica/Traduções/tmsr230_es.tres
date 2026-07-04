@@ -1,0 +1,18 @@
+0001#STR0001#ALL#Flujo de Carga por Sucursal
+0002#STR0002#ALL#Este informe imprimira el flujo de carga por sucursal.
+0003#STR0003#ALL#A Rayas
+0004#STR0004#ALL#Total
+0005#STR0005#ALL#EMISION             CTRC                PESO REAL           PESO CUBADO         VAL.MERC.           VOLUMENES      VAL          FLETE
+0006#STR0006#ALL#Seleccionando registros...
+0007#STR0007#ALL#CANCELADO POR EL OPERADOR
+0008#STR0008#ALL#Totales: 
+0009#STR0009#ALL#Sucursal de Origen : 
+0010#STR0010#ALL#Sucursal de Destino: 
+0011#STR0011#ALL#No existen datos para la impresion de este relatório.
+0012#STR0012#ALL#Flujo de Carga por Sucursal
+0013#STR0013#ALL#Este infomr imprimira el flujo de carga por sucursal.
+0014#STR0014#ALL#Suc.Origen + Suc.Destino
+0015#STR0015#ALL#Flujo de Carga
+0016#STR0016#ALL#Descripcion
+0017#STR0017#ALL#Documento
+0018#STR0018#ALL#Ctd Docto

@@ -1,0 +1,19 @@
+0001#STR0001#ALL#Ficheiro Texto|*.txt
+0002#STR0002#ALL#Gravar Pesquisa...
+0003#STR0003#ALL#         DGII              | SECRETARIA DE ESTADO DE FINANÇAS                                   
+0004#STR0004#ALL#         IR-4              | DIREÇÃO GERAL DE IMPOSTOS INTERNOS                            
+0005#STR0005#ALL#                           | Formato Para O Cálculo Das Retenções Mensais Do Assalariado
+0006#STR0006#ALL#Agente De Retenção
+0009#STR0009#ALL#Mes: 
+0012#STR0012#ALL#No: 
+0013#STR0013#ALL#       identificacion del asalariado         |                                 remuneraciones percibidas                        |                   liquidacion del impuesto (ley 11-92)
+0014#STR0014#ALL#                              |              | Salários Pag.   |remunerações |outras Rem. Pag. |               |salários E Otros |               |                |saldo A Favor Do|sal. Favor Da
+0015#STR0015#ALL#Apelidos E Nomes           |   Cédula Ou   | Pelo Agente  |pagas  Outros |pelo Agente | Total Pago  |pagamentos Sujeitos A |  Liquidação  |  Saldo A Fav.  |assal. Comp. Fut. Ret|direcção Geral
+0016#STR0016#ALL#      completos               |  passaporte  | de  retenção  | empregadores   |de retenção    |  no mês    |   retenção    |    período    | do assalariado |(se h-1 é neg.) |(se h-1 é pos.)
+0017#STR0017#ALL#           a                  |      b       |        c       |       d       |        e       |        f      |        g       |       h       |       i        |        j        |        k       
+0018#STR0018#ALL#(l) número assalariados      
+0019#STR0019#ALL#(m)sujeitos a retenção    
+0020#STR0020#ALL#Totais(rd€)
+0021#STR0021#ALL#Llevar a la casilla con la letra (a) del form.ir-13 
+0022#STR0022#ALL#Llevar A La Casilla Con La Letra (b) Del Form.ir-13
+0023#STR0023#ALL#O período deve ser introduzido em formato aaaadd

@@ -1,0 +1,37 @@
+0001#STR0001#ALL#Este relatório irá imprimir a movimentacäo de
+0002#STR0002#ALL#Um bem num determinado período.
+0003#STR0003#ALL#Movimentos
+0006#STR0006#ALL#Código do artigo       descrição sintética 
+0007#STR0007#ALL#Dt.movim.  Pedido Movimentação                     Motivo Movim.
+0009#STR0009#ALL#Cancelado Pelo Operador
+0010#STR0010#ALL#Liquidação           
+0011#STR0011#ALL#Substituição    
+0014#STR0014#ALL#Implant. no mês
+0015#STR0015#ALL#Deprecia. no mês
+0016#STR0016#ALL#Correcção no mês 
+0017#STR0017#ALL#Corr. Monet. Deprecia.
+0018#STR0018#ALL#Ampliação 
+0022#STR0022#ALL#Doação       
+0024#STR0024#ALL#Obsolescência
+0025#STR0025#ALL#Falta de conservação 
+0026#STR0026#ALL#Não especif. 
+0027#STR0027#ALL#Tot. Da Conta
+0028#STR0028#ALL#Total geral 
+0031#STR0031#ALL#Equiv Patrimonial
+0032#STR0032#ALL#Inventário
+0033#STR0033#ALL#Liquidação Por Transf.
+0034#STR0034#ALL#Aquis. Por Transf.
+0037#STR0037#ALL#C. custo:  
+0038#STR0038#ALL#Item Contab:
+0039#STR0039#ALL#Cl.valor:  
+0040#STR0040#ALL#Do c.custo 
+0041#STR0041#ALL#Do item    
+0042#STR0042#ALL#Da cl.vlr  
+0043#STR0043#ALL#P/ c.custo 
+0044#STR0044#ALL#P/ it.ctb. 
+0046#STR0046#ALL#Dados Do Bem
+0049#STR0049#ALL#Totais Por Movimento
+0052#STR0052#ALL#Acceleração e Incentivo Negativo ( Espec - SBPS )
+0062#STR0062#ALL#Implantaç no período
+0063#STR0063#ALL#Depreciaç no período
+0064#STR0064#ALL#Correção no período

@@ -1,0 +1,87 @@
+0001#STR0001#ALL#Aguarde
+0002#STR0002#ALL#Procesando las informaciones...
+0003#STR0003#ALL#No hay nada para imprimir en el informe.
+0004#STR0004#ALL#Filtrando los registros, aguarde...
+0005#STR0005#ALL#El parametro MV_DIRACA no se configuro. Este parametro indica el directorio donde deben estar las imagenes que se utilizan en el Mapa de Riesgo.
+0006#STR0006#ALL#El parametro MV_DIREST no se configuro. Este parametro indica el directorio en la estacion donde se copiaran los archivos que se utilizan en el Mapa de Riesgo.
+0007#STR0007#ALL#No se localizaron en el servidor las imagenes necesarias para imprimir el Mapa de Riesgo.
+0008#STR0008#ALL#Las siguientes imagenes deben estar en el directorio configurado en el parametro MV_DIRACA  : 
+0009#STR0009#ALL#Parametro MV_DIRACA = 
+0010#STR0010#ALL#Mapa de Riesgos
+0011#STR0011#ALL#Nº Empl.: 
+0012#STR0012#ALL#Empresa:
+0013#STR0013#ALL#Mapeo de Riesgos:
+0014#STR0014#ALL#Informamos a los empleados sobre los riesgos de accidentes y enfermedades del trabajo a que se someten durante la jornada
+0015#STR0015#ALL#de trabajo.
+0016#STR0016#ALL#Centro de Costo:
+0017#STR0017#ALL#Entorno:
+0018#STR0018#ALL#Fecha: 
+0019#STR0019#ALL#Hora: 
+0020#STR0020#ALL#Leyenda:
+0021#STR0021#ALL#Nº Empl.:
+0022#STR0022#ALL#Número de empleados expuestos al riesgo.
+0023#STR0023#ALL#Físico -
+0024#STR0024#ALL#Ruídos, vibraciones, radiaciones ionizantes/no ionizantes, frio, calor, presiones anormales y humedad.
+0025#STR0025#ALL#Químico -
+0026#STR0026#ALL#Polvo, humos, nieblas, neblinas, gases, vapores, substancias, compuestos o productos quimicos en general.
+0027#STR0027#ALL#Biologico -
+0028#STR0028#ALL#Virus, bacterias, protozoarios, hongos, parasitos y bacilos.
+0029#STR0029#ALL#Ergonomico -
+0030#STR0030#ALL#Esfuerzo físico intenso, análisis, transporte manual de peso, exigencia de postura inadecuada,
+0031#STR0031#ALL#control rigido de productividad, imposicion de ritmos excesivos, trabajo em turno y nocturno,
+0032#STR0032#ALL#jornada de trabajo prolongada, monotonia y repetitividad, otras situaciones.
+0033#STR0033#ALL#Mecanico/Accidente -
+0034#STR0034#ALL#Orden física inadecuada, maquinas y equipos sin proteccion, herramientas inadecuadas
+0035#STR0035#ALL#o defectuosas, iluminacion inadecuada, electricidad, riesgos de explosion, almacenamiento
+0036#STR0036#ALL#inadecuado, animales venenosos, otras situaciones.
+0037#STR0037#ALL#¿De Centro de Costo ?
+0038#STR0038#ALL#Codigo del Centro de Costo El campo 
+0039#STR0039#ALL#puede permanecer vacio para considerar 
+0040#STR0040#ALL#desde el primer codigo.
+0041#STR0041#ALL#¿A Centro de Costo ?
+0042#STR0042#ALL#puede rellenarse con la letra Z hasta el 
+0043#STR0043#ALL#final para considerar el ultimo codigo.
+0044#STR0044#ALL#¿De Entorno ?
+0045#STR0045#ALL#Codigo del Entorno. ¡El campo 
+0046#STR0046#ALL#¿A Entorno ?
+0047#STR0047#ALL#¿De Fecha Evaluacion ?
+0048#STR0048#ALL#Fecha minima de evaluacion del riesgo.
+0049#STR0049#ALL#¿A Fecha Evaluacion  ?
+0050#STR0050#ALL#Fecha maxima de evaluacion del riesgo.
+0051#STR0051#ALL#Mapa de Riesgo:
+0052#STR0052#ALL#CIPA
+0053#STR0053#ALL#SESMT
+0054#STR0054#ALL#Ambos
+0055#STR0055#ALL#Define si deben constar solamente los riesgos que están en el mapa elaborado por la CIPA o CIPATR, 
+0056#STR0056#ALL#o solo los que estan en el mapa elaborado por el SESMT, o los riesgos de ambos casos.
+0057#STR0057#ALL#Considerar
+0058#STR0058#ALL#ASO
+0059#STR0059#ALL#Ningun
+0060#STR0060#ALL#ASO y PPP
+0061#STR0061#ALL#PPP
+0062#STR0062#ALL#Define los tipos de riesgos que se considerarán para cada opción, siendo: 
+0063#STR0063#ALL#ASO: Filtrará todos aquellos que solamente sean 'ASO' y 'ASO y PPP'; Ninguno: Filtrará todos aquellos que solamente sean 'Ninguno' y los riesgos que están con el campo Considerar igual a Vacío. 
+0064#STR0064#ALL#ASO y PPP: Filtrará todos aquellos que solamente sean 'PPP', 'ASO' y 'ASO y PPP'; PPP: Filtrará todos aquellos que solamente sean 'PPP' y 'ASO y PPP'.
+0065#STR0065#ALL#Mapa por:
+0066#STR0066#ALL#Centro de Costo
+0067#STR0067#ALL#Entorno
+0068#STR0068#ALL#Define si el mapa se agrupara por 
+0069#STR0069#ALL#centro de costo o entorno.
+0070#STR0070#ALL#Imprimir Leyenda:
+0071#STR0071#ALL#Si
+0072#STR0072#ALL#No
+0073#STR0073#ALL#Define si la leyenda se imprimira.
+0074#STR0074#ALL#¿Mandato CIPA?
+0075#STR0075#ALL#Informe el mandato que se considerará para imprimir el informe.
+0076#STR0076#ALL#Tipo de impresion:
+0077#STR0077#ALL#Pantalla
+0078#STR0078#ALL#Impresora
+0079#STR0079#ALL#Define si la impresion sera en la pantalla o impresora.
+0080#STR0080#ALL#CIPA:
+0081#STR0081#ALL#CIPATR:
+0082#STR0082#ALL#CIPATR
+0083#STR0083#ALL#Define si deberan constar solo los riesgos que estan en el mapa elaborado por la CIPATR. 
+0084#STR0084#ALL#De Mandato CIPATR
+0085#STR0085#ALL#Indica el mandato de la CIPATR que se considerará para imprimir el informe.
+0086#STR0086#ALL#¿Agrupar por agente?
+0087#STR0087#ALL#Define si la agrupación de los datos debe ser considerado por el agente.

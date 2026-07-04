@@ -1,0 +1,28 @@
+0001#STR0001#ALL#This program will issue the Comparison of Balances             
+0002#STR0002#ALL#according to the parameters required by the user.  
+0003#STR0003#ALL#Account
+0004#STR0004#ALL#Z. Form
+0005#STR0005#ALL#Management
+0006#STR0006#ALL#Comparison of Balances Type   
+0007#STR0007#ALL# VARIATION 
+0008#STR0008#ALL#|DESCRIPTION                               
+0009#STR0009#ALL#***** CANCELLED BY THE OPERATOR****
+0010#STR0010#ALL#Creating Temporary File...
+0011#STR0011#ALL# T O T A L S  O F 
+0012#STR0012#ALL#T O T A L S  O F  P E R I O D   : 
+0013#STR0013#ALL# Comparison of balances
+0014#STR0014#ALL# IN 
+0015#STR0015#ALL# FROM 
+0016#STR0016#ALL# TO  
+0017#STR0017#ALL# DIV. 
+0018#STR0018#ALL#VALUE
+0019#STR0019#ALL#Code  
+0020#STR0020#ALL#Reduced code   
+0021#STR0021#ALL#Descript.
+0022#STR0022#ALL#Movement 1 
+0023#STR0023#ALL#Movement 2 
+0024#STR0024#ALL#%Variation
+0025#STR0025#ALL#Amnt.Variation
+0026#STR0026#ALL#Type
+0027#STR0027#ALL#Level 1
+0028#STR0028#ALL#Balances Comparative

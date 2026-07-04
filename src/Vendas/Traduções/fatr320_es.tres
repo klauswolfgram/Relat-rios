@@ -1,0 +1,25 @@
+0001#STR0001#ALL#Este programa tiene el objetivo de imprimir informe
+0002#STR0002#ALL#segun los parametros informados por el usuario.     
+0003#STR0003#ALL#Area de trabajo
+0004#STR0004#ALL#A rayas
+0005#STR0005#ALL#Administrac. 
+0006#STR0006#ALL#AGENDA - VENDEDOR NOMBRE
+0007#STR0007#ALL#ASUNTO                         FCHA       H. INICIO H. FIN COMENTARIO                             OPORTUNIDAD CLIENTE TIENDA NOM                 PROSPECT TIEN NOM.                 CONTAC. NOM.
+0008#STR0008#ALL#No iniciada 
+0009#STR0009#ALL#En ejecucion
+0010#STR0010#ALL#Completada
+0011#STR0011#ALL#Suspen. 
+0012#STR0012#ALL#Gana
+0013#STR0013#ALL#Baja 
+0014#STR0014#ALL#Normal
+0015#STR0015#ALL#Alta
+0016#STR0016#ALL#*** ANULADO POR EL OPERADOR ***
+0017#STR0017#ALL#TAREA - VENDEDOR NOMBRE
+0018#STR0018#ALL#ASUNTO                         FC. INIC.  FC. TERM.  ESTAT.       PRIORIDAD  %COMPLETO COMENTARIO                               CLIENTE TIEN NOM.
+0019#STR0019#ALL#Area de trabajo
+0020#STR0020#ALL#El objetivo de este programa es imprimir el informe
+0021#STR0021#ALL#segun los parametros informados por el usuario.
+0022#STR0022#ALL#Comentario
+0023#STR0023#ALL#Vendedores
+0024#STR0024#ALL#Agenda (CRM)
+0025#STR0025#ALL#Tareas (CRM)

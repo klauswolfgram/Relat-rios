@@ -1,0 +1,41 @@
+0002#STR0002#ALL#Este Programa Irá Emitir Uma Relação Das Ligações Realizadas Pelo Operador No Atendimento Televendas.
+0004#STR0004#ALL#Obs: Serão Considerados Apenas Os Orçamentos E Pedidos.
+0005#STR0005#ALL#Código de barras
+0007#STR0007#ALL#Cancelado Pelo Operador
+0011#STR0011#ALL#Razão social
+0012#STR0012#ALL#Contacto
+0013#STR0013#ALL#Morada
+0016#STR0016#ALL#Tipo De Serviço
+0017#STR0017#ALL#Tabela De Preço
+0019#STR0019#ALL#Localidade
+0021#STR0021#ALL#Concelho
+0022#STR0022#ALL#Media
+0023#STR0023#ALL#Fone com. 1
+0025#STR0025#ALL#E-mail
+0026#STR0026#ALL#Ocorrência
+0031#STR0031#ALL#Item Artigo         Descricão                      St   Qtdade.    Vl. Unitário        Vl. Item  %Desc    Vl. Desconto  %acrés   Vl. Acréscimo Tes Cfop      Tabela      Base Icms Lp Um Entrega    Lote       Sub-lt Validade
+0032#STR0032#ALL#Valor total negociado em euros para 
+0035#STR0035#ALL#Total de atendimentos em média 
+0036#STR0036#ALL#Atendimentos realizados no período de  
+0037#STR0037#ALL#Valor total em euros de facturação realizado pelo operador
+0040#STR0040#ALL# nos media 
+0041#STR0041#ALL#Não existem dados a serem impressos para este relatório com os parâmetros escolhidos
+0042#STR0042#ALL# Os atendimentos
+0044#STR0044#ALL#Quantidade de artigos vendidos por média
+0046#STR0046#ALL#Mor. Entrega
+0048#STR0048#ALL#Freguesia Entrega
+0050#STR0050#ALL#Distrito Entrega
+0051#STR0051#ALL#|Vencto.   Forma          Valor || Vencto.   Forma          Valor || Vencto.   Forma          Valor || Vencto.   Forma          Valor |
+0052#STR0052#ALL#Data     Orçamentos     Valor Orçamentos    Facturação     Valor Facturação
+0053#STR0053#ALL#Total Crial
+0054#STR0054#ALL#Operador                Valores Em Euros      Atendimentos
+0056#STR0056#ALL#Quantidade De Artigos Vendidos Por Campanha
+0057#STR0057#ALL#ORçamento
+0058#STR0058#ALL#VAlor De Orçamento
+0059#STR0059#ALL#Facturação
+0060#STR0060#ALL#Valor De Facturação
+0061#STR0061#ALL#Valor em euros
+0063#STR0063#ALL#Itens Do Atendimento
+0064#STR0064#ALL#Forma De Pagamento
+0073#STR0073#ALL#%Acrésc.
+0074#STR0074#ALL#Vl.Acréscimo

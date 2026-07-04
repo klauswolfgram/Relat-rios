@@ -1,0 +1,184 @@
+0001#STR0001#ALL#Historial de pasaje
+0002#STR0002#ALL#   Pcs  Num.Req. Grpo Codigo del Repuesto          Descripcion                             Ctd.  ProReq  
+0003#STR0003#ALL#Formul  Vlr Unit  Vlr Total
+0004#STR0004#ALL# Srv  TS. GS Código Servicio  Descripción                      Productivo                      TpoPad TpoTra 
+0005#STR0005#ALL#TpoCob TpoVen   Servicios
+0006#STR0006#ALL#Marca: 
+0007#STR0007#ALL#  Chasis Vehic: 
+0008#STR0008#ALL#      Matricula: 
+0009#STR0009#ALL# Flota: 
+0010#STR0010#ALL#  Chasis Interno: 
+0011#STR0011#ALL#  Fab/Mod: 
+0012#STR0012#ALL#            Modelo Vehic: 
+0013#STR0013#ALL# Compl: 
+0014#STR0014#ALL#       Color: 
+0015#STR0015#ALL#  las  
+0016#STR0016#ALL# Tp Difern: 
+0017#STR0017#ALL# Numero Difern: 
+0018#STR0018#ALL#  Tp Cambio: 
+0019#STR0019#ALL# Numero: 
+0020#STR0020#ALL#            Tipo Motor.: 
+0021#STR0021#ALL# Num. Motor: 
+0022#STR0022#ALL# Potencia.....: 
+0023#STR0023#ALL#Prop. Actual: 
+0024#STR0024#ALL#  Tien 
+0025#STR0025#ALL#   Tel./Fax: 
+0026#STR0026#ALL# Potencia.....: 
+0027#STR0027#ALL#         Fecha Venta: 
+0028#STR0028#ALL#Numero OS: 
+0029#STR0029#ALL#Apertura OS....:  
+0030#STR0030#ALL#   a  
+0031#STR0031#ALL# hs    
+0032#STR0032#ALL#     Kilometraje Vehiculo: 
+0033#STR0033#ALL#Entrada Vehiculo: 
+0034#STR0034#ALL#Salida Vehiculo..: 
+0035#STR0035#ALL#    Permanencia Vehiculo.:
+0036#STR0036#ALL# días, 
+0037#STR0037#ALL#Tp   Factura para Cliente       Td CT Fch Liberada  Cerrada  Anulada   Fact.       
+0038#STR0038#ALL# Piezas
+0039#STR0039#ALL# TpoPad TpoTra 
+0040#STR0040#ALL#TpoCob TpoVen   Servicios
+0041#STR0041#ALL#Observacion:
+0042#STR0042#ALL#Total de Pasadas del Vehiculo: 
+0043#STR0043#ALL#Total General de Pasadas.....: 
+0044#STR0044#ALL#Secc. 1
+0045#STR0045#ALL#Marca
+0046#STR0046#ALL#Chas.
+0047#STR0047#ALL#Matr.
+0048#STR0048#ALL#Flota
+0049#STR0049#ALL#Chas. Int
+0050#STR0050#ALL#Fab/Mod
+0051#STR0051#ALL#Sec. 2
+0052#STR0052#ALL#Modelo
+0053#STR0053#ALL#Compl
+0054#STR0054#ALL#Col
+0055#STR0055#ALL#Descripc.
+0056#STR0056#ALL#Sec. 3
+0057#STR0057#ALL#Renavan
+0058#STR0058#ALL#Tp Difer.
+0059#STR0059#ALL#Nº Difer.
+0060#STR0060#ALL#Tp Cambio
+0061#STR0061#ALL#Numero
+0062#STR0062#ALL#Sec. 4
+0063#STR0063#ALL#Tipo Motor
+0064#STR0064#ALL#Nº Motor
+0065#STR0065#ALL#Potencia
+0066#STR0066#ALL#Sec. 5
+0067#STR0067#ALL#Prop Act.
+0068#STR0068#ALL#Td
+0069#STR0069#ALL#Nomb
+0070#STR0070#ALL#Municipio
+0071#STR0071#ALL#UF
+0072#STR0072#ALL#DDN
+0073#STR0073#ALL#Sec. 16
+0074#STR0074#ALL#Total General de Pasajes 
+0075#STR0075#ALL#Tel.
+0076#STR0076#ALL#Fax
+0077#STR0077#ALL#Sec. 6
+0078#STR0078#ALL#Revendedor
+0079#STR0079#ALL#Ciudad
+0080#STR0080#ALL#Fch Vent
+0081#STR0081#ALL#Sec. 7
+0082#STR0082#ALL#Nº OS
+0083#STR0083#ALL#Fch Aper
+0084#STR0084#ALL#Hr Apert
+0085#STR0085#ALL#Km
+0086#STR0086#ALL#Sec. 8
+0087#STR0087#ALL#Total de Pasaje del Vehiculo
+0088#STR0088#ALL#Sec. 15
+0089#STR0089#ALL#Horas
+0090#STR0090#ALL#Minutos
+0091#STR0091#ALL#Sec. 9
+0092#STR0092#ALL#Fch Aten
+0093#STR0093#ALL#Hr Atenc
+0094#STR0094#ALL#Observac.
+0095#STR0095#ALL#Sec. 14
+0096#STR0096#ALL#Sec. 10
+0097#STR0097#ALL#Fch Sal.
+0098#STR0098#ALL#Hr Sal.
+0099#STR0099#ALL#Dias
+0100#STR0100#ALL#Val
+0101#STR0101#ALL#TpoTra
+0102#STR0102#ALL#Sec. 11
+0103#STR0103#ALL#Tp
+0104#STR0104#ALL#Factura p/Cliente
+0105#STR0105#ALL#Factura para Cliente          Td CT Fec Liberada  Cerrada  Anulada   Factura     
+0106#STR0106#ALL#Tpo Est
+0107#STR0107#ALL#Tpo Tra
+0108#STR0108#ALL#Tpo Cob
+0109#STR0109#ALL#Tpo Ven
+0110#STR0110#ALL#Servic.
+0111#STR0111#ALL#Sec. 12
+0112#STR0112#ALL#Piezas   Nº Req
+0113#STR0113#ALL#Grpo
+0114#STR0114#ALL#Cod pieza
+0115#STR0115#ALL#Cant.
+0116#STR0116#ALL#ProReq
+0117#STR0117#ALL#Formul
+0118#STR0118#ALL#Val Unit
+0119#STR0119#ALL#Val Total
+0120#STR0120#ALL#Sec. 13
+0121#STR0121#ALL#Servic. TS.
+0122#STR0122#ALL#GS
+0123#STR0123#ALL#Cod. Servicio
+0124#STR0124#ALL#Mecanico
+0125#STR0125#ALL#TpoEst
+0126#STR0126#ALL#Piez.
+0127#STR0127#ALL#A Rayas
+0128#STR0128#ALL#Administrac.
+0129#STR0129#ALL#Atenc. Vehic:
+0130#STR0130#ALL#Liberac. Vehic
+0131#STR0131#ALL#TpoCob TpoVen   Servic.
+0132#STR0132#ALL#TpoEst TpoTra 
+0133#STR0133#ALL#Piez.
+0134#STR0134#ALL#Chasis invalido
+0135#STR0135#ALL#Atencion
+0136#STR0136#ALL#Sucursal Inicial
+0137#STR0137#ALL#Informe la Sucursal Final
+0138#STR0138#ALL#Sucursal Final
+0139#STR0139#ALL#Informe la Sucursal Final
+0140#STR0140#ALL#Fecha Inicial
+0141#STR0141#ALL#Informe la fecha inicial.
+0142#STR0142#ALL#Fecha Final
+0143#STR0143#ALL#Informe la fecha final.
+0144#STR0144#ALL#Cliente
+0145#STR0145#ALL#Informe el codigo del cliente
+0146#STR0146#ALL#Tienda
+0147#STR0147#ALL#Informe la tienda del Cliente
+0148#STR0148#ALL#Informe la marca del vehiculo
+0149#STR0149#ALL#Informe el modelo del vehiculo
+0150#STR0150#ALL#Identif Vehiculo
+0151#STR0151#ALL#Informe la marca del vehiculo
+0152#STR0152#ALL#Muestra valor piezas
+0153#STR0153#ALL#Informe Si para mostrar los valores de las piezas
+0154#STR0154#ALL#Muestra Valor Servicios
+0155#STR0155#ALL#Informe Si para mostrar los valores de Servcios
+0156#STR0156#ALL#Muestra Obs de las OSs
+0157#STR0157#ALL#Informe Si para mostrar las Observaciones de las OSs
+0158#STR0158#ALL#¿Tipo de Tiempo      ?
+0159#STR0159#ALL#Tipo de tiempo
+0160#STR0160#ALL# no existe
+0161#STR0161#ALL#Total de piezas ............: 
+0162#STR0162#ALL#Total de servicios ............: 
+0163#STR0163#ALL#Valor total..................: 
+0164#STR0164#ALL#Total general de piezas .........: 
+0165#STR0165#ALL#Total general de servicios .......: 
+0166#STR0166#ALL#Total general..................: 
+0167#STR0167#ALL#Tp
+0168#STR0168#ALL#Cliente
+0169#STR0169#ALL#Td
+0170#STR0170#ALL#CT Fec
+0171#STR0171#ALL#Liberada
+0172#STR0172#ALL#Finaliz
+0173#STR0173#ALL#Anulad
+0174#STR0174#ALL#Fa
+0175#STR0175#ALL#Piez.
+0176#STR0176#ALL#TpoEst
+0177#STR0177#ALL#TpoTra
+0178#STR0178#ALL#TpoCob
+0179#STR0179#ALL#TpoVen
+0180#STR0180#ALL#Servic. 
+0181#STR0181#ALL#Lib. TT
+0182#STR0182#ALL#Total de O.S. en
+0183#STR0183#ALL#Moneda
+0184#STR0184#ALL#Km

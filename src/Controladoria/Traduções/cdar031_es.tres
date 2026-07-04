@@ -1,0 +1,23 @@
+0001#STR0001#ALL#Subtotales
+0002#STR0002#ALL#Lista de Anticipos
+0003#STR0003#ALL#Emision de la Lista de Anticipos
+0004#STR0004#ALL#Proveedores
+0005#STR0005#ALL#Proveedor + Tienda + Producto
+0006#STR0006#ALL#Proveedor
+0007#STR0007#ALL#Nombre del Proveedor
+0008#STR0008#ALL#Anticipo Cantidad
+0009#STR0009#ALL#Anticipo Valor
+0010#STR0010#ALL#Productos
+0011#STR0011#ALL#Producto
+0012#STR0012#ALL#Desc Prod
+0013#STR0013#ALL#Md
+0014#STR0014#ALL#Fecha
+0015#STR0015#ALL#Cant Ven
+0016#STR0016#ALL#Precio Producto
+0017#STR0017#ALL#Valor del D.A.
+0018#STR0018#ALL#Valor Antic.
+0019#STR0019#ALL#Sald Ct
+0020#STR0020#ALL#Saldo Valor
+0021#STR0021#ALL#Total del Proveedor 
+0022#STR0022#ALL#C
+0023#STR0023#ALL#Funcion disponible solo en TReport

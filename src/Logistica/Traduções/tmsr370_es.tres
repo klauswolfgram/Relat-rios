@@ -1,0 +1,32 @@
+0001#STR0001#ALL#Relacion fechas de Entrega en Abierto
+0002#STR0002#ALL#Emite la Relacion fechas de Entrega en Abierto
+0003#STR0003#ALL#conforme los parametros informados
+0004#STR0004#ALL#A Rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#SUC.ORI. DOCTO   SERIE EMISIO.    HORA  REMITENTE                                DESTINATARIO                             REGION DESTINO                   UF  PREVISION   ATRASO SUC.DES.
+0007#STR0007#ALL#Seleccionando Registro en el DT6...
+0008#STR0008#ALL#CANCELADO POR EL OPERADOR
+0009#STR0009#ALL#Nota(s): 
+0010#STR0010#ALL#Lista Fechas de Entrega en Abierto
+0011#STR0011#ALL#Emite la lista c/fechas de entrega en abierto, segun los parametros informados
+0012#STR0012#ALL#Suc.Docum. + Documento + Serie
+0013#STR0013#ALL#Documento
+0014#STR0014#ALL#Suc.Orig.
+0015#STR0015#ALL#Serie
+0016#STR0016#ALL#Emision
+0017#STR0017#ALL#Hora
+0018#STR0018#ALL#Remet.
+0019#STR0019#ALL#Tienda
+0020#STR0020#ALL#Nombre
+0021#STR0021#ALL#Dest.
+0022#STR0022#ALL#Reg.Dest.
+0023#STR0023#ALL#Descripcion
+0024#STR0024#ALL#Estado/Provincia/Region
+0025#STR0025#ALL#Prevision
+0026#STR0026#ALL#Atraso
+0027#STR0027#ALL#Suc.Dest.
+0028#STR0028#ALL#Fch.Ocurrencia
+0029#STR0029#ALL#Sec.Ocurr.
+0030#STR0030#ALL#Cod.Ocurr.
+0031#STR0031#ALL#Factura
+0032#STR0032#ALL#      FCH.OCURR.   SEC.  OCURRENCIA.  

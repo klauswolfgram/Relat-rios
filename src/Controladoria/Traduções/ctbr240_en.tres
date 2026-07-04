@@ -1,0 +1,60 @@
+0001#STR0001#ALL#This program will print the Trial Balance of 2 Entities 
+0002#STR0002#ALL#filtering the balance through the 3rd Entity. Use this 
+0003#STR0003#ALL#report if you use C.C/Item/Cl.Value.
+0004#STR0004#ALL#Trial Balance of 2 Entities filtered by the Third Entity
+0005#STR0005#ALL#|  CODE                       |      D E S C R I P T .                          |    PREVIOUS BALANCE            |    DEBIT        |      CREDIT       |    MOVIMENT OF THE PERIOD     |         CURRENT BALANCE           |
+0005#STR0005#ANG#|  CODE                       |      D E S C R I P T .                          |    PREVIOUS BALANCE            |    DEBIT        |      CREDIT       |    MOVIMENT OF THE PERIOD     |         CURRENT BALANCE           |
+0005#STR0005#EQU#|  CODE                       |      D E S C R I P T .                          |    PREVIOUS BALANCE            |    DEBIT        |      CREDIT       |    MOVIMENT OF THE PERIOD     |         CURRENT BALANCE           |
+0005#STR0005#HAI#|  CODE                       |      D E S C R I P T .                          |    PREVIOUS BALANCE            |    DEBIT        |      CREDIT       |    MOVIMENT OF THE PERIOD     |         CURRENT BALANCE           |
+0005#STR0005#MEX#|  CODE                       |      D E S C R I P T .                          |    PREVIOUS BALANCE            |    DEBIT        |      CREDIT       |    MOVIMENT OF THE PERIOD     |         CURRENT BALANCE           |
+0005#STR0005#PTG#|  CODE                       |      D E S C R I P T .                          |    PREVIOUS BALANCE            |    DEBIT        |      CREDIT       |    MOVIMENT OF THE PERIOD     |         CURRENT BALANCE           |
+0006#STR0006#ALL#|  CODE                 |   D  E  S  C  R  I  P  T  .    | PREVIOUS BALANCE  |      DEBIT     |      CREDIT    |  CURRENT BALANCE  |
+0006#STR0006#ANG#|  CODE                 |   D  E  S  C  R  I  P  T  .    | PREVIOUS BALANCE  |      DEBIT     |      CREDIT    |  CURRENT BALANCE  |
+0006#STR0006#EQU#|  CODE                 |   D  E  S  C  R  I  P  T  .    | PREVIOUS BALANCE  |      DEBIT     |      CREDIT    |  CURRENT BALANCE  |
+0006#STR0006#HAI#|  CODE                 |   D  E  S  C  R  I  P  T  .    | PREVIOUS BALANCE  |      DEBIT     |      CREDIT    |  CURRENT BALANCE  |
+0006#STR0006#MEX#|  CODE                 |   D  E  S  C  R  I  P  T  .    | PREVIOUS BALANCE  |      DEBIT     |      CREDIT    |  CURRENT BALANCE  |
+0006#STR0006#PTG#|  CODE                 |   D  E  S  C  R  I  P  T  .    | PREVIOUS BALANCE  |      DEBIT     |      CREDIT    |  CURRENT BALANCE  |
+0007#STR0007#ALL#DETAILED TRIAL BALANCE OF 
+0008#STR0008#ALL#SUMMARIZED TRIAL BALANCE OF 
+0009#STR0009#ALL#TRIAL BALANCE OF 
+0010#STR0010#ALL# FROM 
+0011#STR0011#ALL# TO  
+0012#STR0012#ALL# IN 
+0013#STR0013#ALL#(BUDGET.)
+0014#STR0014#ALL#(MANAGEMENT)
+0015#STR0015#ALL#Creating Temporary File...
+0016#STR0016#ALL#Z. Form
+0017#STR0017#ALL#Management
+0018#STR0018#ALL#*****CANCELLED BY THE OPERATOR*****
+0019#STR0019#ALL#T O T A L S  O F  P E R I O D : 
+0020#STR0020#ALL#T O T A L S  
+0021#STR0021#ALL#The first and the second Entities cannot be the same!
+0022#STR0022#ALL#Fill in the question of 3rd. Entity Filter...
+0023#STR0023#ALL#The Entity to be filtered cannot be the same as the first and the second Entities!
+0024#STR0024#ALL# FROM 
+0025#STR0025#ALL# TO  
+0026#STR0026#ALL#Config. Parameters
+0027#STR0027#ALL#If you don´t update the balances that are
+0028#STR0028#ALL#in the report issue (MV_SLDCOMP ='N'),   
+0029#STR0029#ALL#run the balances update routine 
+0030#STR0030#ALL# ATTENTION
+0031#STR0031#ALL#CODE  
+0032#STR0032#ALL#D E S C R I P T I O N    
+0033#STR0033#ALL#PREVIOUS BLNCE
+0034#STR0034#ALL#DEBIT 
+0034#STR0034#ANG#DEBIT 
+0034#STR0034#EQU#DEBIT 
+0034#STR0034#HAI#DEBIT 
+0034#STR0034#MEX#DEBIT 
+0034#STR0034#PTG#DEBIT 
+0035#STR0035#ALL#CREDIT 
+0035#STR0035#ANG#CREDIT 
+0035#STR0035#EQU#CREDIT 
+0035#STR0035#HAI#CREDIT 
+0035#STR0035#MEX#CREDIT 
+0035#STR0035#PTG#CREDIT 
+0036#STR0036#ALL#PERIOD MOVEMENTS    
+0037#STR0037#ALL#CURRENT BLN
+0038#STR0038#ALL#1st.Accounting Entity
+0039#STR0039#ALL#2nd.Accounting Entity
+0040#STR0040#ALL#Total

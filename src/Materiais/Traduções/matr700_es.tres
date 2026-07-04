@@ -1,0 +1,62 @@
+0001#STR0001#ALL#Detalle de los pedidos de ventas
+0002#STR0002#ALL#Este programa emitira el detalle de los pedidos de ventas
+0003#STR0003#ALL#Se efectuara la busqueda en el deposito y comprobara
+0004#STR0004#ALL#realmente si existe y esta disponible. 
+0005#STR0005#ALL# Por num. pedido   
+0006#STR0006#ALL# Por producto      
+0007#STR0007#ALL# Por fecha entrega 
+0008#STR0008#ALL#A Rayas
+0009#STR0009#ALL#Administracion
+0010#STR0010#ALL#IT CODIGO PRODUCTO DESCRIPCION DEL PRODUCTO         STOCK       ----------- Pedido -------------      CTD.         CTD.       VALOR    PRECIO UNIT.    SITUACION DE LA          VALOR IVA              VALOR A
+0011#STR0011#ALL#                                                  DISPONIBLE    VENDIDO     ATENDIDO      SALDO     LIBERADA    BLOQUEADA   DESCUENTO     NETO       ORDEN DE PRODUCCION                               FACTURAR      ENTREGA
+0012#STR0012#ALL#Seleccionando registros...
+0013#STR0013#ALL#PEDIDO
+0014#STR0014#ALL#PRODUCTO
+0015#STR0015#ALL#FECHA DE ENTREGA
+0016#STR0016#ALL# PRONTO P/ FACTURAR 
+0017#STR0017#ALL# NO APROBADOS   
+0018#STR0018#ALL# - ORDEN DE 
+0019#STR0019#ALL#ANULADO POR EL OPERADOR
+0020#STR0020#ALL#TOTAL DEL PEDIDO--> 
+0021#STR0022#ALL#TOTAL GENERAL--> 
+0022#STR0023#ALL#PEDIDO : 
+0023#STR0024#ALL#PROVEEDOR  : 
+0024#STR0025#ALL#SUCURSAL: 
+0025#STR0026#ALL#EMISION : 
+0026#STR0027#ALL#TRANSPORTADORA: 
+0027#STR0028#ALL#VENDEDOR(ES): 
+0028#STR0029#ALL#CLIENTE : 
+0029#STR0030#ALL#COND.PAGO: 
+0030#STR0031#ALL#Lista de Pedidos de Ventas  
+0031#STR0032#ALL#Este programa emitira una lista con los Pedidos de Ventas
+0032#STR0033#ALL#Se hara busqueda en el almacen y se comprobara
+0033#STR0034#ALL#si la cantidad esta disponible
+0034#STR0035#ALL#IT
+0035#STR0036#ALL#Stock Disponible
+0036#STR0037#ALL#Vendido
+0037#STR0038#ALL#Atendido
+0038#STR0039#ALL#Saldo
+0039#STR0040#ALL#Ctd.Bloqueada
+0040#STR0041#ALL#Impuestos
+0041#STR0042#ALL#Valor a Entregar
+0042#STR0043#ALL#Pedido
+0043#STR0044#ALL#Producto
+0044#STR0045#ALL#Fecha de Entrega
+0045#STR0046#ALL# - Orden de 
+0046#STR0047#ALL#Pedido 
+0047#STR0048#ALL#Proveedor : 
+0048#STR0049#ALL#Cliente : 
+0049#STR0050#ALL#Tienda
+0050#STR0051#ALL#Emision 
+0051#STR0052#ALL#Transportadora 
+0052#STR0053#ALL#Vendedor(es) 
+0053#STR0054#ALL#Cond.Pago 
+0054#STR0055#ALL#Total del Pedido-->
+0055#STR0056#ALL#Listo p/Facturar 
+0056#STR0057#ALL# No  Aprobados 
+0057#STR0058#ALL#Seleccionando Registros...	
+0058#STR0059#ALL#Situacion Orden de Produccion
+0059#STR0060#ALL#Encabez. del Pedido
+0060#STR0061#ALL#Items de Pedido
+0061#STR0062#ALL#Total delProducto->
+0062#STR0063#ALL#Total de Fecha->

@@ -1,0 +1,46 @@
+0001#STR0001#ALL#RElação Líquidos ITAU
+0002#STR0002#ALL#Sera impresso de acordo com os parâmetro s solicitados pelo
+0003#STR0003#ALL#Utilizador.
+0004#STR0004#ALL#Filial+Bco+Reg
+0005#STR0005#ALL#Filial+Bco+Cc+Reg
+0006#STR0006#ALL#Filial+bco+nome
+0007#STR0007#ALL#Filial+bco+cta
+0008#STR0008#ALL#Filial+bco+cc+nome
+0009#STR0009#ALL#Bco+Reg
+0010#STR0010#ALL#Bco+cc+Reg
+0011#STR0011#ALL#Bco+nome
+0012#STR0012#ALL#Bco+cta
+0013#STR0013#ALL#Bco+cc+nome
+0014#STR0014#ALL#Código de barras
+0015#STR0015#ALL#Administração
+0017#STR0017#ALL#A Seleccionar Registos...
+0018#STR0018#ALL#Total de pagamentos      
+0019#STR0019#ALL#Data Assinatura Do Emitente   Data   Assinatura Do Respons.
+0020#STR0020#ALL#   (empresa)         (autorizada Da Empresa)
+0021#STR0021#ALL#Sub-total de pagamentos  
+0022#STR0022#ALL#Data Assinatura Do Emitente   Data   Assinatura Do Respons.
+0023#STR0023#ALL#   (empresa)         (autorizada Da Empresa)
+0024#STR0024#ALL#Banco itau s/a 
+0025#STR0025#ALL#Emissão De Cheques Pagamento
+0026#STR0026#ALL#Crédito Em Conta Corrente
+0027#STR0027#ALL#Sistema De Pagamentos Itau
+0028#STR0028#ALL#Forma pgt| empresa                       |ag/conta/dac  | DSRC        |folha
+0029#STR0029#ALL#No De Ordem | Data Pgt | Tipo Pgt | Finalidade Do Pagamento
+0030#STR0030#ALL# Pagamento De Salários
+0031#STR0031#ALL#Nome Do Favorecido Valor
+0032#STR0032#ALL#Agência/conta/dac  valor  nome do favorecido
+0035#STR0035#ALL#Adto subsídio Natal
+0036#STR0036#ALL#Subsídio de Natal
+0037#STR0037#ALL#Férias
+0039#STR0039#ALL#Rescisão
+0041#STR0041#ALL#Dados Da Empresa/filial
+0042#STR0042#ALL#Dados Do Pagamento
+0043#STR0043#ALL#Dados e valores dos empregados
+0044#STR0044#ALL#Núm De Ordem
+0045#STR0045#ALL#Data pagt. 
+0046#STR0046#ALL#Tipo pagt. 
+0047#STR0047#ALL#Finalidade Do Pagamento
+0048#STR0048#ALL#Forma De Pagto
+0050#STR0050#ALL#Ag./conta/dac.
+0051#STR0051#ALL#Cnpj
+0053#STR0053#ALL#Esta Operação Efectua A Impressão Dos Valores Líquidos Que Serão Pagos Através Da Base Itau

@@ -1,0 +1,13 @@
+0001#STR0001#ALL#Reemissão De Notas Fiscais
+0002#STR0002#ALL#Este programa tem a funçäo de reemitir Facturas que não
+0003#STR0003#ALL#Foram geradas no momento venda. para tal, será utilizado o
+0004#STR0004#ALL#Texto da factura gravada no parâmetro mv_scrnota (
+0006#STR0006#ALL#Administração
+0007#STR0007#ALL#Emissão De Notas Fiscais
+0008#STR0008#ALL#Este programa tem a função de emitir Facturas.
+0009#STR0009#ALL#Reemissão De Documentos
+0010#STR0010#ALL#Este programa tem a função de reemitir documentos que não
+0011#STR0011#ALL#Script de documento gravado no parâmetro mv_scrnota (
+0012#STR0012#ALL#Emissão De Documentos
+0013#STR0013#ALL#Este Programa Tem A Função De Emitir Documentos.
+0014#STR0014#ALL#Não é permitida a reemissão de factura para 

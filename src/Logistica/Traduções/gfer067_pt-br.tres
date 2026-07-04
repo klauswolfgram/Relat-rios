@@ -1,0 +1,47 @@
+0001#STR0001#ALL#GFE - Relatório Manifesto de Carga
+0002#STR0002#ALL#Emite o Romaneio de Carga para conferência da mercadoria embarcada com base nos parâmetros informados.
+0003#STR0003#ALL#Dados do Romaneio
+0004#STR0004#ALL#Filial
+0005#STR0005#ALL#Nr Romaneio
+0006#STR0006#ALL#Dt. Emis. Romaneio
+0007#STR0007#ALL#Cod. Transp.
+0008#STR0008#ALL#Nome Transp.
+0009#STR0009#ALL#Placas
+0010#STR0010#ALL#Motorista
+0011#STR0011#ALL#Nome Motorista
+0012#STR0012#ALL#Nota Fiscal de Saída
+0013#STR0013#ALL#Lacre
+0014#STR0014#ALL#Sequência de Entrega
+0015#STR0015#ALL#Seq
+0016#STR0016#ALL#Nr Doc
+0017#STR0017#ALL#Serie
+0018#STR0018#ALL#Data Emissao
+0019#STR0019#ALL#Peso Bruto
+0020#STR0020#ALL#Peso Liquido
+0021#STR0021#ALL#Valor Tot. Nota
+0022#STR0022#ALL#Volumes
+0023#STR0023#ALL#Cod. Cliente
+0024#STR0024#ALL#Nome Cliente
+0025#STR0025#ALL#Cidade
+0026#STR0026#ALL#UF
+0027#STR0027#ALL#Tipo Frete
+0028#STR0028#ALL#TOTAIS
+0029#STR0029#ALL#Assinatura
+0030#STR0030#ALL#Declaro ter recebido da empresa 
+0031#STR0031#ALL# as mercadorias e notas fiscais relacionadas a este manifesto de carga.
+0032#STR0032#ALL#NOTA(S)
+0033#STR0033#ALL#Conferente Transportadora
+0034#STR0034#ALL#Conferente 
+0035#STR0035#ALL#Conferente Motorista
+0036#STR0036#ALL#Para imprimir o relatório Manifesto de Carga é necessário parametrizar o modelo como Manifesto. 
+0037#STR0037#ALL#CPF Motorista
+0038#STR0038#ALL#Motorista 02
+0039#STR0039#ALL#Nome Motorista 02
+0040#STR0040#ALL#CPF Motorista 02
+0041#STR0041#ALL#Nr Viagem
+0042#STR0042#ALL#CIF
+0043#STR0043#ALL#CIF Redespacho
+0044#STR0044#ALL#FOB
+0045#STR0045#ALL#FOB Redespacho
+0046#STR0046#ALL#Consignado
+0047#STR0047#ALL#Consig. Redespacho

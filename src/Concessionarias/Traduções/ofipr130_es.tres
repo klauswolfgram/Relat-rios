@@ -1,0 +1,71 @@
+0001#STR0001#ALL#A rayas
+0002#STR0002#ALL#Administracion
+0003#STR0003#ALL#Estado de Items Bloqueados
+0004#STR0004#ALL#Estado de items reservados
+0005#STR0005#ALL#Creando Archivo de Trabajo
+0006#STR0006#ALL#............................ G R U P O   D E   P I E Z A S ...............................
+0007#STR0007#ALL#......................U S U A R I O.......................
+0008#STR0008#ALL#........................... C E N T R O   D E   C O S T O ..............................
+0009#STR0009#ALL#......................M O T I V O.........................
+0010#STR0010#ALL#......................................F  E  C  H  A.........................................
+0011#STR0011#ALL#------------Pieza----------- -----Descripcion----   -Cant.- -Valor---
+0012#STR0012#ALL#Subtotal................................................
+0013#STR0013#ALL#Total del Usuario..........................................................
+0014#STR0014#ALL#Total del Centro de Costo..................................................
+0015#STR0015#ALL#Total del Motivo...........................................................
+0016#STR0016#ALL#Total de la Fecha.............................................................
+0017#STR0017#ALL#Total General...........................................
+0018#STR0018#ALL#Items Bloqueados/Reservados
+0019#STR0019#ALL#Observacion - 
+0020#STR0020#ALL#Items Bloqueados/Reserv.
+0021#STR0021#ALL#Items
+0022#STR0022#ALL#Grupo
+0023#STR0023#ALL#Descripcion
+0024#STR0024#ALL#Codigo
+0025#STR0025#ALL#Local
+0026#STR0026#ALL#Usuario
+0027#STR0027#ALL#C. Costo
+0028#STR0028#ALL#Desc CC
+0029#STR0029#ALL#Motivo
+0030#STR0030#ALL#Des Motiv
+0031#STR0031#ALL#Fecha
+0032#STR0032#ALL#Cliente
+0033#STR0033#ALL#Tel
+0034#STR0034#ALL#Valor
+0035#STR0035#ALL#Cant.
+0036#STR0036#ALL#Obs
+0037#STR0037#ALL#Valor costo
+0038#STR0038#ALL#Valor venta
+0039#STR0039#ALL#Debe informarse el campo formula del precio de la pieza
+0040#STR0040#ALL#  Presupuesto - Mostrador
+0041#STR0041#ALL#  Orden de servicio - Taller
+0042#STR0042#ALL#¿Formula precio pieza?
+0043#STR0043#ALL#¿Tipo de Informe ?
+0044#STR0044#ALL#¿Valor por considerar?
+0045#STR0045#ALL#Item bloqueado
+0046#STR0046#ALL#Item reservado
+0047#STR0047#ALL#Outros
+0048#STR0048#ALL#Subtotal............
+0049#STR0049#ALL#TOTAL GENERAL........
+0050#STR0050#ALL#    Vendedor: 
+0051#STR0051#ALL#Ítems Bloqueados/Reservados/Solicitados
+0052#STR0052#ALL#Pieza
+0053#STR0053#ALL#Núm. Presup. / Núm. OS
+0054#STR0054#ALL#Cant.
+0055#STR0055#ALL#Total piezas
+0056#STR0056#ALL#Total grupo
+0057#STR0057#ALL#Subtotal
+0058#STR0058#ALL#Total general
+0059#STR0059#ALL#Informe de ítems solicitados
+0060#STR0060#ALL#Almacén
+0061#STR0061#ALL#Ítem Solicit.
+0062#STR0062#ALL#Este programa tiene como objetivo imprimir los informes de ítems bloqueados, reservados o solicitados
+0063#STR0063#ALL#Informe de ítems (Todos)
+0064#STR0064#ALL#Todos
+0065#STR0065#ALL#Vendedor / Consultor
+0066#STR0066#ALL#Total Núm. Pres. / Núm. OS
+0067#STR0067#ALL#Total Vendedor / Consultor
+0068#STR0068#ALL#Agrupar por:
+0069#STR0069#ALL#Fecha Ape. / Fecha Req.
+0070#STR0070#ALL#Pres. / OS
+0071#STR0071#ALL#Vent. / Consu.

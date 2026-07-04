@@ -1,0 +1,31 @@
+0001#STR0001#ALL#Este prog emite el detalle de los titulos dados de baja
+0002#STR0002#ALL#por Lote.
+0003#STR0003#ALL#A Rayas
+0004#STR0004#ALL#Administrac.
+0005#STR0005#ALL#Lista de los Titulos cobrados del lote
+0006#STR0006#ALL# a 
+0007#STR0007#ALL#Lista de los Tit. Pagados del lote
+0008#STR0008#ALL#Lote      Prf Numero       PC  Cliente              Valor Original  Fecha Baja        Descuentos            Interes           Multas       Corr Monet     Deduccion   Valor Recibido
+0009#STR0009#ALL#Lote      Prf Numero       PC  Proveedor              Valor Original  Fecha Baja        Descuentos            Interes           Multas       Corr Monet     Deduccion   Valor Pago
+0010#STR0010#ALL#ANULADO POR EL OPERADOR
+0011#STR0011#ALL#Lista de bajas por Lote
+0012#STR0012#ALL#Lote
+0013#STR0013#ALL#Prf
+0014#STR0014#ALL#Numero
+0015#STR0015#ALL#PC
+0016#STR0016#ALL#Cliente/Prov
+0017#STR0017#ALL#Valor Original
+0018#STR0018#ALL#Fch Baja
+0019#STR0019#ALL#Descuent. 
+0020#STR0020#ALL#Int. 
+0021#STR0021#ALL#Multas
+0022#STR0022#ALL#Corr Monet
+0023#STR0023#ALL#Descuentos
+0024#STR0024#ALL#Valor Cobrado
+0025#STR0025#ALL#Valor Pag.
+0026#STR0026#ALL#Codigo
+0027#STR0027#ALL#Empresa
+0028#STR0028#ALL#Unidad de negocio
+0029#STR0029#ALL#Sucursal
+0030#STR0030#ALL#Sucursales seleccionadas para el informe
+0031#STR0031#ALL#Total

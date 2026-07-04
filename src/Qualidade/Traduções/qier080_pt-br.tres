@@ -1,0 +1,13 @@
+0001#STR0001#ALL#Este relatorio apresenta a quantidade de Entradas e o total entregue
+0002#STR0002#ALL#em cada laudo, organizados por fornecedor.
+0003#STR0003#ALL#Lotes por Laudo
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#Periodo : 
+0007#STR0007#ALL# a 
+0008#STR0008#ALL#Selecionando Registros...
+0009#STR0009#ALL#| Nr.Entradas |  Qt Entregue |
+0010#STR0010#ALL#Entradas
+0011#STR0011#ALL#|Quantidade Rejeitada
+0012#STR0012#ALL#|PPM
+0013#STR0013#ALL#| Total

@@ -1,0 +1,62 @@
+0001#STR0001#ALL#Relacao de Pedidos de Vendas
+0002#STR0002#ALL#Este programa ira emitir a relacao  dos Pedidos de Vendas
+0003#STR0003#ALL#Sera feita a pesquisa no armazem e verificado
+0004#STR0004#ALL#se a quantidade esta disponivel
+0005#STR0005#ALL# Por nº pedido      
+0006#STR0006#ALL# Por produto      
+0007#STR0007#ALL# Por data entrega 
+0008#STR0008#ALL#Zebrado
+0009#STR0009#ALL#Administracao
+0010#STR0010#ALL#IT CODIGO - DESCRICAO DO PRODUTO                   ESTOQUE      ----------- PEDIDO -------------      QTD.         QTD.      VALOR DO  PRECO UNIT.      SITUACAO DA              IMPOSTOS              VALOR A
+0011#STR0011#ALL#                                                  DISPONIVEL    VENDIDO     ATENDIDO      SALDO     LIBERADA    BLOQUEADA    DESCONTO    LIQUIDO     ORDEM DE PRODUCAO                                 FATURAR       ENTREGA
+0012#STR0012#ALL#Selecionando Registros...
+0013#STR0013#ALL#PEDIDO
+0014#STR0014#ALL#PRODUTO
+0015#STR0015#ALL#DATA DE ENTREGA
+0016#STR0016#ALL# APTOS A FATURAR 
+0017#STR0017#ALL# NAO LIBERADOS   
+0018#STR0018#ALL# - ORDEM DE 
+0019#STR0019#ALL#CANCELADO PELO OPERADOR
+0020#STR0020#ALL#TOTAL DO PEDIDO--> 
+0021#STR0022#ALL#TOTAL GERAL--> 
+0022#STR0023#ALL#PEDIDO : 
+0023#STR0024#ALL#FORNECEDOR : 
+0024#STR0025#ALL#LOJA : 
+0025#STR0026#ALL#EMISSAO : 
+0026#STR0027#ALL#TRANSPORTADORA: 
+0027#STR0028#ALL#VENDEDOR(ES): 
+0028#STR0029#ALL#CLIENTE : 
+0029#STR0030#ALL#COND.PGTO: 
+0030#STR0031#ALL#Relacao de Pedidos de Vendas
+0031#STR0032#ALL#Este programa ira emitir a relacao  dos Pedidos de Vendas
+0032#STR0033#ALL#Sera feita a pesquisa no armazem e verificado
+0033#STR0034#ALL#se a quantidade esta disponivel
+0034#STR0035#ALL#IT
+0035#STR0036#ALL#Estoque Disponivel
+0036#STR0037#ALL#Vendido
+0037#STR0038#ALL#Atendido
+0038#STR0039#ALL#Saldo
+0039#STR0040#ALL#Qtd.Bloqueada
+0040#STR0041#ALL#Impostos
+0041#STR0042#ALL#Valor a Entregar
+0042#STR0043#ALL#Pedido
+0043#STR0044#ALL#Produto
+0044#STR0045#ALL#Data de Entrega
+0045#STR0046#ALL# - Ordem de 
+0046#STR0047#ALL#Pedido 
+0047#STR0048#ALL#Fornecedor : 
+0048#STR0049#ALL#Cliente : 
+0049#STR0050#ALL#Loja 
+0050#STR0051#ALL#Emissao 
+0051#STR0052#ALL#Transportadora 
+0052#STR0053#ALL#Vendedor(ES) 
+0053#STR0054#ALL#Cond.Pagto 
+0054#STR0055#ALL#Total do Pedido-->
+0055#STR0056#ALL# Aptos a Faturar 
+0056#STR0057#ALL# Nao Liberados  
+0057#STR0058#ALL#Selecionando Registros...	
+0058#STR0059#ALL#Situacao Ordem de Producao
+0059#STR0060#ALL#Cabecalho do Pedido
+0060#STR0061#ALL#Itens do Pedido
+0061#STR0062#ALL#Total do Produto-->
+0062#STR0063#ALL#Total da Data-->

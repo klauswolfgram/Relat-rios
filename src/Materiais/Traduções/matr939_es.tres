@@ -1,0 +1,112 @@
+0001#STR0001#BRA#Valor Adicionado Fiscal (VAF)
+0002#STR0002#BRA#Este informe es una herramienta auxiliar para el rellenado
+0003#STR0003#BRA#del VAF - Valor Adicion. Fiscal
+0004#STR0004#BRA#A Rayas
+0005#STR0005#BRA#Administrac.
+0006#STR0006#BRA#Atenc.
+0007#STR0007#BRA#Rellene correctamente las informac. solicitadas.
+0008#STR0008#BRA#Esta rutina permitira la config. de las informaciones 
+0009#STR0009#BRA#necesarias para la generac. del informe auxiliar para el rellenado del                    
+0010#STR0010#BRA#Asistente de parametrizacion
+0011#STR0011#BRA#Informac. gen.:
+0012#STR0012#BRA#Fch. Inicial:
+0013#STR0013#BRA#Fch. Final:
+0014#STR0014#BRA#¿Genera Informac. de Stock?
+0015#STR0015#BRA#1 - Si
+0016#STR0016#BRA#2 - No
+0017#STR0017#BRA#DAMEF - CFOP utilizados en Entradas de Prov.:
+0018#STR0018#BRA#Compras:
+0019#STR0019#BRA#Transferencias:
+0020#STR0020#BRA#Devoluciones:
+0021#STR0021#BRA#Energ. Electrica:
+0022#STR0022#BRA#Comunicac.:
+0023#STR0023#BRA#Transportes:
+0024#STR0024#BRA#Otras:
+0025#STR0025#BRA#Prod. Agropecuarios:
+0026#STR0026#BRA#DAMEF - CFOP utilizados en Entradas de Otras Prov.:
+0027#STR0027#BRA#DAMEF - CFOP utilizados en Entradas del Exterior:
+0028#STR0028#BRA#DAMEF - CFOP utilizados en Salidas a la Provincia:
+0029#STR0029#BRA#Ventas:
+0030#STR0030#BRA#DAMEF - CFOP utilizados en Salidas a otras Provincias:
+0031#STR0031#BRA#DAMEF - CFOP utilizados en Salidas al Exterior:
+0032#STR0032#BRA#VAF - Borrados en las entradas internas:
+0033#STR0033#BRA#DAMEF - Declaracion del Movim. Economico y Fiscal
+0034#STR0034#BRA#Entrega Futura (Simple Facturacion):
+0035#STR0035#BRA#Activo Fijo:
+0036#STR0036#BRA#Material de Uso y Consumo:
+0037#STR0037#BRA#Mercad. con Excencion de ICMS:
+0038#STR0038#BRA#Simple Remesa (de Tercero):
+0039#STR0039#BRA#Energ. Electrica/Comunicac.:
+0040#STR0040#BRA#Transportes (parte no utilizada):
+0041#STR0041#BRA#Transporte Internacional:
+0042#STR0042#BRA#Subcontratacion de Serv. Transp.:
+0043#STR0043#BRA#Envio/Ret.Almacenamiento/Deposito:
+0044#STR0044#BRA#Informaciones Referentes al VAF
+0045#STR0045#BRA#GI - CFOP para entradas con Sust. Tributaria y Salidas para No Contribuyentes:
+0046#STR0046#BRA#Entradas con Sust. Tributaria - Petroleo:
+0047#STR0047#BRA#Entradas con Sust. Tributaria - Otros:
+0048#STR0048#BRA#Parametro no existe
+0049#STR0049#BRA#El parametro MV_VAFA1 no esta definido en el diccionario de datos o su contenido es invalido. 
+0050#STR0050#BRA#Para que la rutina continue correctamente, 
+0051#STR0051#BRA#sera necesario respetar la siguiente solucion propuesta.
+0052#STR0052#BRA#Incluir el parametro MV_VAFA1 en la tabla SX6 con la siguiente estructura: 
+0053#STR0053#BRA#Campo de la tabla SA1 que indica el codigo del municipio de Minas Gerais del cliente. 
+0054#STR0054#BRA#Para mayores referencias, consultar la documentacion que acompana la rutina.
+0055#STR0055#BRA#El parametro MV_VAFA2 no esta definido en el diccionario de datos o su contenido es invalido. 
+0056#STR0056#BRA#Incluir el parametro MV_VAFA2 en la tabla SX6 con la siguiente estructura: 
+0057#STR0057#BRA#Campo de la tabla SA2 que indica el codigo del municipio de Minas Gerais del proveedor. 
+0058#STR0058#BRA#VAF - Borrados en las Salidas:
+0059#STR0059#BRA#Porcion de ICMS retenido por Sust. Tributaria:
+0060#STR0060#BRA#Porcion IPI (no integra la base de calculo):	
+0061#STR0061#BRA#Transp. Iniciados en otro Pais/UF/Municipio:
+0062#STR0062#BRA#Salidas para No Contribuyentes:
+0063#STR0063#BRA#GI - Guia de Informacion Interprovincial
+0064#STR0064#BRA#Tributados:	
+0065#STR0065#BRA#Sujetos a Subt. Tributaria:
+0066#STR0066#BRA#Exentos:
+0067#STR0067#BRA#Otros:
+0068#STR0068#BRA#Preparando Base 2/5 - Procesando movimiento de IPI
+0069#STR0069#BRA#Preparando Base 1/5 - Procesando movimiento de Entrada/Salida
+0070#STR0070#BRA#Preparando Base 5/5 	- Procesando Stock		
+0071#STR0071#BRA#|                                            RESUMEN DE LAS OPERACIONES Y PRESTACIONES DE ENTRADA                             |
+0072#STR0072#BRA#|                                                         Entradas de la Provincia                                          |
+0073#STR0073#BRA#|                               |                     Oper/Prest. con Credito de ICMS                      | Operaciones y Prestac. |
+0074#STR0074#BRA#|           Modalidad           |--------------------------------------------------------------------------|     sin Credito de     |
+0075#STR0075#BRA#|                               |     Valor Contable     |    Base de Calculo     |          ICMS          |          ICMS          |
+0076#STR0076#BRA#|                                                       Entradas de Otros Estados                                                   |
+0077#STR0077#BRA#|                                                          Entradas del Exterior                                                    |
+0078#STR0078#BRA#|                                             RESUMEN DE LAS OPERACIONES Y PRESTACIONES DE SALIDA                                   |
+0079#STR0079#BRA#|                                                        Salidas a la Provincia                                                     |
+0080#STR0080#BRA#|                               |                     Oper/Prest. con Debito de ICMS                       | Operaciones y Prestac. |
+0081#STR0081#BRA#|           Modalidad           |--------------------------------------------------------------------------|        sin Debito      |
+0082#STR0082#BRA#|                               |     Valor Contable     |    Base de Calculo     |          ICMS          |           ICMS         |
+0083#STR0083#BRA#|   SUBTOTAL                    |   ##################   |   ##################   |   ##################   |   ##################   |
+0084#STR0084#BRA#|                                                       Salidas a Otras Provincias                                                  |
+0085#STR0085#BRA#|                                                         Salidas al Exterior                                                       |
+0086#STR0086#BRA#|                                                BORRADOS DEL VAF                                               |
+0087#STR0087#BRA#|                         Borrados                            |        Entradas        |         Salidas        |
+0088#STR0088#BRA#|   TOTAL DE BORRADOS                                         |   ##################   |   ##################   |
+0089#STR0089#BRA#|           DETALLAMIENTO DEL VAF (OTRAS ENTRADAS) POR MUNICIPIO         |
+0090#STR0090#BRA#|   Codigo  |         Nombre del Municipio       |         Total          |
+0091#STR0091#BRA#|                           << Sin Movimiento>>                           |
+0092#STR0092#BRA#|                                     ENTRADAS DE MERCADERIAS, BIENES Y/O ADQUISICIONES DE SERVICIOS                                |
+0093#STR0093#BRA#| Prov |     Valor Contable      |    Base de Calculo     |     Otras Salidas      |       ST Petroleo      |       ST Otros        |
+0094#STR0094#BRA#|                                                        << Sin Movimiento>>                                                        |
+0095#STR0095#BRA#|                                      SALIDAS DE MERCADERIAS, BIENES Y/O ADQUISICIONES DE SERVICIOS                                |
+0096#STR0096#BRA#| UF | VC (Contribuyente) | VC(N Contribuyente)| BC (Contribuyente) | BC(N Contribuyente)|   Otras Salidas    | Sust. Tributaria    |
+0097#STR0097#BRA#|                          STOCKS DE MERCADERIAS Y PRODUCTOS                           |
+0098#STR0098#BRA#|            Discriminacion          |     Inicial (en R$)    |      Final (en R$)     |
+0099#STR0099#BRA#|   TOTAL                            |   ##################   |   ##################   |
+0100#STR0100#BRA#Preparando Base 3/5 - Procesando movimiento con Suspension ICMS - Entradas
+0101#STR0101#BRA#Preparando Base 4/5 - Procesando movimiento con Suspension ICMS - Salidas
+0102#STR0102#BRA#Transporte tomado:
+0103#STR0103#BRA#Envio/Retorno de consignacion:
+0104#STR0104#BRA#|                                    DETALLE DEL VAF (OTRAS ENTRADAS) POR MUNICIPIO                                    |
+0105#STR0105#BRA#|   Codigo  |         Nombre del Municipio          |    Otras Entr.(80%)    |    Cred. Pres.(20%)   |         TOTAL          |
+0106#STR0106#BRA#|                                                     << Sin Movimiento >>                                                   |
+0107#STR0107#BRA#|  TOTAL                                         |   ##################   |   ###################  |    ################    |
+0108#STR0108#BRA#|-----------+------------------------------------+--------------------------------------------------------------------------|
+0109#STR0109#BRA#¿Contribuyente es Transportadora?
+0110#STR0110#BRA#¿Utiliza la tabla SBZ?
+0111#STR0111#BRA#No se encontró archivo del punto de entrada SPEDALTH para formar parte del Bloque H
+0112#STR0112#BRA#VAF - Borrados en las entradas interestatales e importación:

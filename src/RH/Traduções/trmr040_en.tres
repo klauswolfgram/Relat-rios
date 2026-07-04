@@ -1,0 +1,11 @@
+0001#STR0001#ALL#Report of Material per Course
+0002#STR0002#ALL#It will be printed according to the parameters selected
+0003#STR0003#ALL#by the user.
+0004#STR0004#ALL#Course
+0005#STR0005#ALL#Z.Form
+0006#STR0006#ALL#Management
+0007#STR0007#ALL#Report of Material per Course
+0008#STR0008#ALL#CODE   MATERIAL                       REFERENCE                         OBSERVATIONS
+0009#STR0009#ALL#COURSE: 
+0010#STR0010#ALL#Materials
+0011#STR0011#ALL#This program generates the report of materials by course

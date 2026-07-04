@@ -1,0 +1,153 @@
+0001#STR0001#ANG#This report will print the statement of Financial
+0001#STR0001#ARG#This report will print the statement of Financial 
+0001#STR0001#BOL#This report will print the statement of Financial 
+0001#STR0001#BRA#This report will print the statement of Financial 
+0001#STR0001#CHI#This report will print the statement of Financial 
+0001#STR0001#COL#This report will print the statement of Financial 
+0001#STR0001#COS#This report will print the statement of Financial 
+0001#STR0001#DOM#This report will print the statement of Financial 
+0001#STR0001#EQU#This report will print the statement of Financial 
+0001#STR0001#EUA#This report will print the statement of Financial 
+0001#STR0001#HAI#This report will print the statement of Financial
+0001#STR0001#MEX#This report will print the statement of Financial 
+0001#STR0001#PAN#This report will print the statement of Financial 
+0001#STR0001#PAR#This report will print the statement of Financial 
+0001#STR0001#PER#This report will print the statement of Financial 
+0001#STR0001#POR#This report will print the statement of Financial 
+0001#STR0001#PTG#This report will print the statement of Financial
+0001#STR0001#SAL#This report will print the statement of Financial 
+0001#STR0001#URU#This report will print the statement of Financial 
+0001#STR0001#VEN#This report will print the statement of Financial 
+0002#STR0002#ANG# 
+0002#STR0002#ARG#Settlements. 
+0002#STR0002#BOL#Settlements. 
+0002#STR0002#BRA#Settlements. 
+0002#STR0002#CHI#Settlements. 
+0002#STR0002#COL#Settlements. 
+0002#STR0002#COS#Settlements. 
+0002#STR0002#DOM#Settlements. 
+0002#STR0002#EQU# 
+0002#STR0002#EUA#Settlements. 
+0002#STR0002#HAI# 
+0002#STR0002#MEX#Settlements. 
+0002#STR0002#PAN#Settlements. 
+0002#STR0002#PAR#Settlements. 
+0002#STR0002#PER#Settlements. 
+0002#STR0002#POR#Settlements. 
+0002#STR0002#PTG# 
+0002#STR0002#SAL#Settlements. 
+0002#STR0002#URU#Settlements. 
+0002#STR0002#VEN#Settlements. 
+0003#STR0003#ANG#Financial Settlements
+0003#STR0003#ARG#Financial Settlements
+0003#STR0003#BOL#Financial Settlements
+0003#STR0003#BRA#Financial Settlements
+0003#STR0003#CHI#Financial Settlements
+0003#STR0003#COL#Financial Settlements
+0003#STR0003#COS#Financial Settlements
+0003#STR0003#DOM#Financial Settlements
+0003#STR0003#EQU#Financial Settlements
+0003#STR0003#EUA#Financial Settlements
+0003#STR0003#HAI#Financial Settlements
+0003#STR0003#MEX#Financial Settlements
+0003#STR0003#PAN#Financial Settlements
+0003#STR0003#PAR#Financial Settlements
+0003#STR0003#PER#Financial Settlements
+0003#STR0003#POR#Financial Settlements
+0003#STR0003#PTG#Financial Settlements
+0003#STR0003#SAL#Financial Settlements
+0003#STR0003#URU#Financial Settlements
+0003#STR0003#VEN#Financial Settlements
+0004#STR0004#ALL#Z. Form
+0005#STR0005#ALL#Administration
+0006#STR0006#ALL#Selecting Records...
+0007#STR0007#ANG#SETTLEMENT:
+0007#STR0007#ARG#SETTLEMENT: 
+0007#STR0007#BOL#SETTLEMENT: 
+0007#STR0007#BRA#SETTLEMENT: 
+0007#STR0007#CHI#SETTLEMENT: 
+0007#STR0007#COL#SETTLEMENT: 
+0007#STR0007#COS#SETTLEMENT: 
+0007#STR0007#DOM#SETTLEMENT: 
+0007#STR0007#EQU#SETTLEMENT:
+0007#STR0007#EUA#SETTLEMENT: 
+0007#STR0007#HAI#SETTLEMENT:
+0007#STR0007#MEX#SETTLEMENT: 
+0007#STR0007#PAN#SETTLEMENT: 
+0007#STR0007#PAR#SETTLEMENT: 
+0007#STR0007#PER#SETTLEMENT: 
+0007#STR0007#POR#SETTLEMENT: 
+0007#STR0007#PTG#SETTLEMENT:
+0007#STR0007#SAL#SETTLEMENT: 
+0007#STR0007#URU#SETTLEMENT: 
+0007#STR0007#VEN#SETTLEMENT: 
+0008#STR0008#ALL#Posted
+0009#STR0009#ALL#Generated
+0010#STR0010#ALL#Totals 
+0011#STR0011#ALL#PRF NUMBER                 PRC TYPE ISSUE       ISSUER                                              VALUE        INTRST.  DICOUNT   BANK-AGENCY-ACCOUNT                STATUS
+0012#STR0012#ALL#PRF
+0013#STR0013#ALL#NUMBER
+0014#STR0014#ALL#PRC
+0015#STR0015#ALL#TYPE
+0016#STR0016#ALL#ISSUE  
+0017#STR0017#ALL#ISSUER  
+0018#STR0018#ALL#AMNT.
+0019#STR0019#ALL#INT. 
+0020#STR0020#ALL#DISCOUNTS
+0021#STR0021#ALL#BANK 
+0022#STR0022#ALL#BRANCH 
+0023#STR0023#ALL#ACCT.
+0024#STR0024#ALL#STATUS
+0025#STR0025#ANG#Settlement Nbr.
+0025#STR0025#ARG#Settlement Nbr. 
+0025#STR0025#BOL#Settlement Nbr. 
+0025#STR0025#BRA#Settlement Nbr. 
+0025#STR0025#CHI#Settlement Nbr. 
+0025#STR0025#COL#Settlement Nbr. 
+0025#STR0025#COS#Settlement Nbr. 
+0025#STR0025#DOM#Settlement Nbr. 
+0025#STR0025#EQU#Settlement Nbr.
+0025#STR0025#EUA#Settlement Nbr. 
+0025#STR0025#HAI#Settlement Nbr.
+0025#STR0025#MEX#Settlement Nbr. 
+0025#STR0025#PAN#Settlement Nbr. 
+0025#STR0025#PAR#Settlement Nbr. 
+0025#STR0025#PER#Settlement Nbr. 
+0025#STR0025#POR#Settlement Nbr. 
+0025#STR0025#PTG#Settlement Nbr.
+0025#STR0025#SAL#Settlement Nbr. 
+0025#STR0025#URU#Settlement Nbr. 
+0025#STR0025#VEN#Settlement Nbr. 
+0026#STR0026#ALL#Bill  
+0027#STR0027#ANG#Settled bills
+0027#STR0027#ARG#Settled bills  
+0027#STR0027#BOL#Settled bills  
+0027#STR0027#BRA#Settled bills  
+0027#STR0027#CHI#Settled bills  
+0027#STR0027#COL#Settled bills  
+0027#STR0027#COS#Settled bills  
+0027#STR0027#DOM#Settled bills  
+0027#STR0027#EQU#Settled bills
+0027#STR0027#EUA#Settled bills  
+0027#STR0027#HAI#Settled bills
+0027#STR0027#MEX#Settled bills  
+0027#STR0027#PAN#Settled bills  
+0027#STR0027#PAR#Settled bills  
+0027#STR0027#PER#Settled bills  
+0027#STR0027#POR#Settled bills  
+0027#STR0027#PTG#Settled bills
+0027#STR0027#SAL#Settled bills  
+0027#STR0027#URU#Settled bills  
+0027#STR0027#VEN#Settled bills  
+0028#STR0028#ALL#Payable
+0029#STR0029#ALL#Receivable
+0030#STR0030#ALL#Part. Wt-off 
+0031#STR0031#ALL#Net Tot. 
+0032#STR0032#ALL#Notes: 
+0033#STR0033#ALL#- Written-off bills are printed with original value, regardless of the write-off type. 
+0034#STR0034#ALL#- Totalizers consider the settlement total value or value of generated/written-off bills.
+0035#STR0035#ALL#Code
+0036#STR0036#ALL#Company
+0037#STR0037#ALL#Business Unit
+0038#STR0038#ALL#Branch
+0039#STR0039#ALL#Branches selected for the report

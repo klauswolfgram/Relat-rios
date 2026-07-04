@@ -1,0 +1,47 @@
+0001#STR0001#ALL#GFE - Informe manifiesto de carga
+0002#STR0002#ALL#Emite la Lista de embarque de carga para verificar la mercadería embarcada con base en los parámetros informados.
+0003#STR0003#ALL#Datos de la lista de embarque
+0004#STR0004#ALL#Sucursal
+0005#STR0005#ALL#Nº de lista de embarque
+0006#STR0006#ALL#Fch. Emis. Lista de embarque
+0007#STR0007#ALL#Cód. Transp.
+0008#STR0008#ALL#Nombre Transp.
+0009#STR0009#ALL#Placas
+0010#STR0010#ALL#Conductor
+0011#STR0011#ALL#Nombre del conductor
+0012#STR0012#ALL#Factura de salida
+0013#STR0013#ALL#Sello
+0014#STR0014#ALL#Secuencia de entrega
+0015#STR0015#ALL#Sec
+0016#STR0016#ALL#Nº Doc
+0017#STR0017#ALL#Serie
+0018#STR0018#ALL#Fecha emisión
+0019#STR0019#ALL#Peso bruto
+0020#STR0020#ALL#Peso neto
+0021#STR0021#ALL#Valor Tot. Factura
+0022#STR0022#ALL#Volúmenes
+0023#STR0023#ALL#Cód. Cliente
+0024#STR0024#ALL#Nombre cliente
+0025#STR0025#ALL#Ciudad
+0026#STR0026#ALL#Est/Prov/Reg
+0027#STR0027#ALL#Tipo flete
+0028#STR0028#ALL#TOTALES
+0029#STR0029#ALL#Firma
+0030#STR0030#ALL#Declaro haber recibido de la empresa 
+0031#STR0031#ALL# las mercaderías y facturas vinculadas a este manifiesto de carga.
+0032#STR0032#ALL#FACTURAS
+0033#STR0033#ALL#Verificador de transportador
+0034#STR0034#ALL#Verificador 
+0035#STR0035#ALL#Verificador conductor
+0036#STR0036#ALL#Para imprimir el informe Manifiesto de carga es necesario parametrizar el modelo como Manifiesto. 
+0037#STR0037#ALL#RCPF Conductor
+0038#STR0038#ALL#Conductor 02
+0039#STR0039#ALL#Nombre conductor 02
+0040#STR0040#ALL#RCPF Conductor 02
+0041#STR0041#ALL#Nº Viaje
+0042#STR0042#ALL#CIF
+0043#STR0043#ALL#CIF Redespacho
+0044#STR0044#ALL#FOB
+0045#STR0045#ALL#FOB Redespacho
+0046#STR0046#ALL#Consignado
+0047#STR0047#ALL#Consig. Redespacho

@@ -1,0 +1,9 @@
+0001#STR0001#ALL#The purpose of this program is to list the Products and their 
+0002#STR0002#ALL#respective Suppliers.
+0003#STR0003#ALL#List of Product x Supplier 
+0004#STR0004#ALL#Z.Form 
+0005#STR0005#ALL#Management
+0006#STR0006#ALL#CODE   PRODUCT  PRODUCT DESCRIPTION            TP GROUP UM  CODE   UN  COMPANY NAME                             CODE AT SUPPLIER
+0007#STR0007#ALL#CANCELLED BY THE OPERATOR  
+0008#STR0008#ALL#CODE   PRODUCT  PRODUCT DESCRIPTION            TP GROUP UM  CODE                 UN   COMPANY NAME              CODE AT SUPPLIER
+0009#STR0009#ALL#Product vs. Vendor binding    

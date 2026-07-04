@@ -1,0 +1,64 @@
+0001#STR0001#ALL#Este informe imprimirá el movimiento de 
+0002#STR0002#ALL#un bien en un determinado período.
+0003#STR0003#ALL#MOVIMENTOS
+0004#STR0004#ALL# entre 
+0005#STR0005#ALL# a 
+0006#STR0006#ALL#Código del bien     Descripción sintética
+0007#STR0007#ALL#Fech Mov.  Tipo Movimiento                       Motivo Movim.
+0008#STR0008#ALL#Cant. Ts Med. Ts Depr.
+0009#STR0009#ALL#ANULADO POR EL OPERADOR
+0010#STR0010#ALL#Baja            
+0011#STR0011#ALL#Sustitución     
+0012#STR0012#ALL#De Transf. 
+0013#STR0013#ALL#A Transf. 
+0014#STR0014#ALL#Implantac en el mes
+0015#STR0015#ALL#Deprec en el mes
+0016#STR0016#ALL#Correc en el mes
+0017#STR0017#ALL#Corr Monet Depre
+0018#STR0018#ALL#Ampliación 
+0019#STR0019#ALL#Venta 
+0020#STR0020#ALL#Extravío     
+0021#STR0021#ALL#Robo         
+0022#STR0022#ALL#Donación     
+0023#STR0023#ALL#Avería       
+0024#STR0024#ALL#Obsolescencia
+0025#STR0025#ALL#Deterioro
+0026#STR0026#ALL#No especif.. 
+0027#STR0027#ALL#Tot. de la Cuenta
+0028#STR0028#ALL#Total general
+0029#STR0029#ALL#Acel. Positiva
+0030#STR0030#ALL#Acel. Negativa
+0031#STR0031#ALL#Equiv.Patrimonial
+0032#STR0032#ALL#Inventario
+0033#STR0033#ALL#Baja por Transf
+0034#STR0034#ALL#Adquis por Transf
+0035#STR0035#ALL# Por bien
+0036#STR0036#ALL#Por cuenta
+0037#STR0037#ALL#C. Costo:  
+0038#STR0038#ALL#Ítem Cuenta:
+0039#STR0039#ALL#Cl.Valor:  
+0040#STR0040#ALL#De C.Costo 
+0041#STR0041#ALL#De Ítem    
+0042#STR0042#ALL#Ee Cl.Val  
+0043#STR0043#ALL#A C.Costo 
+0044#STR0044#ALL#A Ít.Ctb. 
+0045#STR0045#ALL#A Cl.Val. 		
+0046#STR0046#ALL#Datos del bien
+0047#STR0047#ALL#Movimientos
+0048#STR0048#ALL#Entes
+0049#STR0049#ALL#Totales por movimiento
+0050#STR0050#ALL#Motivo movimiento
+0051#STR0051#ALL#Tipo de movimiento
+0052#STR0052#ALL#Aceleración e incentivo negativo ( Espec - SBPS )
+0053#STR0053#ALL#Depr. Acelerada
+0054#STR0054#ALL#Depr. Incentiv. Negativa
+0055#STR0055#ALL#Depr. Incentiv. Positiva
+0056#STR0056#ALL#Reservado
+0057#STR0057#ALL#Depr. Correc. Monet. Mensual
+0058#STR0058#ALL#Depr. Acumul. Correc. Monet. Mensual
+0059#STR0059#ALL#Depr. de Gestión
+0060#STR0060#ALL#Tasa Pérdida
+0061#STR0061#ALL#Plusvalía/Minusvalía
+0062#STR0062#ALL#Implantación en el período
+0063#STR0063#ALL#Depreciación en el período
+0064#STR0064#ALL#Correción en el período

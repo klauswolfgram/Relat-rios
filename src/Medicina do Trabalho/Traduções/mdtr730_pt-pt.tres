@@ -1,0 +1,13 @@
+0001#STR0001#ALL#Ficha médica
+0002#STR0002#ALL#De cliente ?
+0003#STR0003#ALL#Código  do cliente. o campo pode permanecer vazio para considerar desde o primeiro código.
+0005#STR0005#ALL#Código  da loja do cliente. o campo pode permanecer vazio para considerar desde o primeiro código.
+0006#STR0006#ALL#Até cliente ?
+0008#STR0008#ALL#Código  da loja do cliente. o campo pode ser preenchido com a letra z até  o final para considerar o último código.
+0015#STR0015#ALL#Indicação de Atendimento?
+0016#STR0016#ALL#Atend. Clínico
+0017#STR0017#ALL#Doença do Trab.
+0019#STR0019#ALL#Avaliação NR7
+0022#STR0022#ALL#D.I. FUNCIONAL
+0031#STR0031#ALL#VIÚVO(A)
+0043#STR0043#ALL#PROGRAMA DE CONTROLO MÉDICO DE SAÚDE OCUPACIONAL

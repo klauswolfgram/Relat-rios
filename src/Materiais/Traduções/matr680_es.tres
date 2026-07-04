@@ -1,0 +1,47 @@
+0001#STR0001#ALL#Detalle de los Pedidos no entregados
+0002#STR0002#ALL#Este programa emitira el detalle de los Pedidos Pendientes,
+0003#STR0003#ALL#imprimiendo el numero del Pedido, Cliente, Fecha de la Entrega,
+0004#STR0004#ALL#Ctd. pedida, Ctd. ya entregada, Saldo del Producto y atraso.
+0005#STR0005#ALL#A Rayas
+0006#STR0006#ALL#Administracion
+0007#STR0007#ALL#Por pedido
+0008#STR0008#ALL#Por producto
+0009#STR0009#ALL#Por cliente
+0010#STR0010#ALL#Por fch.entrega
+0011#STR0011#ALL#NUMERO FECHA      CODIGO/NOMBRE DEL                                  IT CODIGO DEL      DESCRIPCION                    FECHA           CANTIDAD     CANTIDAD     CANTIDAD        VALOR TOTAL
+0012#STR0012#ALL#PEDIDO EMISION    CLIENTE                                               PRODUCTO        MATERIAL                       ENTREGA         PEDIDA       ENTREGADA    PENDIENTE       PENDIENTE  
+0013#STR0013#ALL#CODIGO DEL      DESCRIPCION                    NUMERO IT FECHA        FECHA        CODIGO/NOMBRE DEL                                   CANTIDAD     CANTIDAD     CANTIDAD        VALOR TOTAL
+0014#STR0014#ALL#PRODUCTO        MATERIAL                       PEDIDO    EMISION      ENTREGA      CLIENTE                                             PEDIDA       ENTREGADA    PENDIENTE       PENDIENTE  
+0015#STR0015#ALL#Seleccionando registros...
+0016#STR0016#ALL#CODIGO-SUCURSAL/NOMBRE DEL                         NUMERO IT FECHA        CODIGO DEL       DESCRIPCION DEL                FECHA        CANTIDAD     CANTIDAD     CANTIDAD        VALOR TOTAL
+0017#STR0017#ALL#CLIENTE                                            PEDIDO    EMISION      PRODUCTO         MATERIAL                       ENTREGA      PEDIDA       ENTREGADA    PENDIENTE       PENDIENTE  
+0018#STR0018#ALL# - Por fecha de entrega
+0019#STR0019#ALL# FECHA        NUMERO FECHA        CODIGO/NOMBRE DEL                                  IT CODIGO DEL      DESCRIPCION DEL                CANTIDAD     CANTIDAD     CANTIDAD        VALOR TOTAL
+0020#STR0020#ALL# ENTREGA      PEDIDO EMISION      CLIENTE                                               PRODUCTO        MATERIAL                       PEDIDA       ENTREGADA    PENDIENTE       PENDIENTE  
+0021#STR0021#ALL#ANULADO POR EL OPERADOR
+0022#STR0022#ALL#Por Vendedor
+0023#STR0023#ALL#CODIGO VENDEDOR                                 NUMERO IT  FECHA        CODIGO DEL      DESCRIPCION DEL                FECHA           CANTIDAD     CANTIDAD     CANTIDAD        VALOR TOTAL
+0024#STR0024#ALL#                                                PEDIDO     EMISION      PRODUCTO        MATERIAL                       ENTREGA         PEDIDA       ENTREGADA    PENDIENTE       PENDIENTE  
+0025#STR0025#ALL#TOTAL --------->
+0026#STR0026#ALL#TOTAL GRAL  --->
+0027#STR0027#ALL#Lista de Pedidos sin entregar
+0028#STR0028#ALL#Este programa emitira la lista con los Pedidos Pendientes,
+0029#STR0029#ALL#imprimiendo numero de Pedido, Cliente, Fecha da Entrega, 
+0030#STR0030#ALL#Ctd pedida, Ctd ya entregada, Saldo del Producto y atraso.
+0031#STR0031#ALL#Total del Pedido
+0032#STR0032#ALL#Total del Producto
+0033#STR0033#ALL#Total del Cliente
+0034#STR0034#ALL#Total da Fc.Entrega
+0035#STR0035#ALL#Total del Vendedor
+0036#STR0036#ALL#Cant.Pendiente
+0037#STR0037#ALL#Valor 
+0038#STR0038#ALL#Generando Tabla de Trabajo. Espere...
+0039#STR0039#ALL#TOTAL ----->
+0040#STR0040#ALL#Seleccionando Registros...
+0041#STR0041#ALL#Por Pedido
+0042#STR0042#ALL#Por Produto
+0043#STR0043#ALL#Por Cliente
+0044#STR0044#ALL#Por Fcha
+0045#STR0045#ALL#Por Vendedor
+0046#STR0046#ALL# Total
+0047#STR0047#ALL# Pendiente

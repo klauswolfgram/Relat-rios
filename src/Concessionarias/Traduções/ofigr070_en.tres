@@ -1,0 +1,6 @@
+0001#STR0001#ALL#List of parts to be returned to the assembling cia.
+0002#STR0002#ALL#Return the part    
+0003#STR0003#ALL#Wait for the auditing
+0004#STR0004#ALL#Scrapping         
+0005#STR0005#ALL#Credit Nr. Credit Dt-Osv Nr- Part Code------------------ Part Description-------------- Quant. Ret. Dt.   Sending Status----
+0006#STR0006#ALL#Product Not Registered        

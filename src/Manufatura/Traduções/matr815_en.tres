@@ -1,0 +1,25 @@
+0001#STR0001#ALL#Report of Machine Load 
+0002#STR0002#ALL# This program will print the  Report of the Machine Load
+0003#STR0003#ALL# The value referring  to the time of duration is converted acording
+0004#STR0004#ALL# to the parameter V_TPHR, (C)entesimal or (N)ormal.
+0005#STR0005#ALL#By PO
+0006#STR0006#ALL#By Resource
+0007#STR0007#ALL#By Initial Date
+0008#STR0008#ALL#Z.Form
+0009#STR0009#ALL#Management
+0010#STR0010#ALL#SUNDAY
+0011#STR0011#ALL#MONDAY
+0012#STR0012#ALL#TUESDAY
+0013#STR0013#ALL#WEDNESDAY
+0014#STR0014#ALL#THURSDAY
+0015#STR0015#ALL#FRIDAY
+0016#STR0016#ALL#SATURDAY
+0017#STR0017#ALL#P.O.          PRODUCT         DESCRIPTION                  QUANTITY    RESOURCE                    TOOL                  OPERATION               TYPE  BEGINN.          ALLOCAT. END              ALLOCAT.TIME RANGE     TP
+0018#STR0018#ALL#                                                                                                                                                 OPER. DATE               TIME   DATE               TIME          SETUP  PO
+0019#STR0019#ALL#Selecting Records...
+0020#STR0020#ALL#CANCELLED BY THE OPERATOR
+0021#STR0021#ALL#Name Tool      
+0022#STR0022#ALL#Oper.Tp.
+0023#STR0023#ALL#Durat. 
+0024#STR0024#ALL#Setup
+0025#STR0025#ALL#Allocated operations Machine Load

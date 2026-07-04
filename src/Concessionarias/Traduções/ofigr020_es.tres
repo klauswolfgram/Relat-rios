@@ -1,0 +1,17 @@
+0001#STR0001#ALL#El objetivo de este programa es imprimir la lista de
+0002#STR0002#ALL#Garantias sin Mantenimiento. (Scania)
+0003#STR0003#ALL#Garantias sin Mantenimiento - Scania
+0004#STR0004#ALL# [Nro.OS] [Fc.Abe] [Ch.I] [Chasis del Vehiculo----] [Modelo----------------------]
+0005#STR0005#ALL#A Rayas
+0006#STR0006#ALL#Administracion
+0007#STR0007#ALL#Espere, seleccionando el registro para imprimir
+0008#STR0008#ALL#*** ANULADO POR EL OPERADOR ***
+0009#STR0009#ALL#[Gr] [Codigo de la Pieza-------] [Descripcion-------] [Ctd ] [Valor---] [Esp]
+0010#STR0010#ALL#Total.:
+0011#STR0011#ALL#[Gr] [Codigo del Servicio------] [Descripcion-------] [Tmp-] [Valor---] [Esp]
+0012#STR0012#ALL#Total de OS.: 
+0013#STR0013#ALL#Total Piezas:
+0014#STR0014#ALL# Total Servicios:
+0015#STR0015#ALL# Total: 
+0016#STR0016#ALL#¿Fecha Inicial    ?
+0017#STR0017#ALL#¿Fecha Final      ?

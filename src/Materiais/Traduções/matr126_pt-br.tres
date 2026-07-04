@@ -1,0 +1,18 @@
+0001#STR0001#ALL#Mapa de Contratos de Parceria Demonstrado 
+0002#STR0002#ALL#Emite um mapa para rastreamento dos contratos 
+0003#STR0003#ALL#de parceria ate os titulos emitidos no SE2.
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#CANCELADO PELO OPERADOR
+0007#STR0007#ALL#Por Numero
+0008#STR0008#ALL# - Todos
+0009#STR0009#ALL# - Pendentes
+0010#STR0010#ALL# - Atendidos
+0011#STR0011#ALL#CONTRATO DE PARCERIA                                                                                 AUTORIZACAO DE ENTREGA                                   NOTAS       TITULOS                                           
+0012#STR0012#ALL#Numero Emissao    Fornecedor/Loja              Nome Reduzido        Item   Quantidade      Vlr.Total Numero Fornecedor             Quantidade    Valor Total  Ser.Numero  Prx   Numero Parc Tipo Vencimento            Saldo
+0013#STR0013#ALL#TOTAIS
+0014#STR0014#ALL#Fornecedor
+0015#STR0015#ALL#Saldo
+0016#STR0016#ALL# - Parcialmente Atendidos
+0017#STR0017#ALL#Contrato de Parceria
+0018#STR0018#ALL#Nr.Aut.Entr

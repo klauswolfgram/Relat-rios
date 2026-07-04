@@ -1,0 +1,18 @@
+0001#STR0001#ALL#Map of Partnership Contracts Shown 
+0002#STR0002#ALL#Issue a map for tracking contracts 
+0003#STR0003#ALL#partnership of bills issued in SE2.        
+0004#STR0004#ALL#Z.form 
+0005#STR0005#ALL#Adminstration
+0006#STR0006#ALL#CANCELLED BY OPERATOR
+0007#STR0007#ALL#By Number
+0008#STR0008#ALL# - All
+0009#STR0009#ALL# - Pending
+0010#STR0010#ALL# - Attended
+0011#STR0011#ALL#PARTNERSHIP CONTRACT                                                                                  DELIVERY AUTHORIZATION                                   NOTES       TITLES                                            
+0012#STR0012#ALL#Issue Number      Supplier/Store               Name Reduced         Item    Amount         Total Val. Supplier Number                Amount      Total Value  Ser.Number  Nxt   Number Inst Type Due Date             Balance
+0013#STR0013#ALL#TOTALS
+0014#STR0014#ALL#Vendor  
+0015#STR0015#ALL#Blnce
+0016#STR0016#ALL# - Partially Serviced    
+0017#STR0017#ALL#Partnership Contract
+0018#STR0018#ALL#Entr Aut No.

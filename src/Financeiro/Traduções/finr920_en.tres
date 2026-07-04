@@ -1,0 +1,23 @@
+0001#STR0001#ALL#Print report of bills payable showing what 
+0002#STR0002#ALL#bills were already released or are still 
+0003#STR0003#ALL#awaiting release.
+0004#STR0004#ALL#Release of Bills Payable
+0005#STR0005#ALL#By Supplier Code
+0006#STR0006#ALL#By Supplier Name
+0007#STR0007#ALL#By Issue Date
+0008#STR0008#ALL#Z.form 
+0009#STR0009#ALL#Administratin
+0010#STR0010#ALL#To print this report, the bills must be using control of manual release (MV_CTLIPAG)
+0011#STR0011#ALL#Report deactivated
+0012#STR0012#ALL#Release of Bills Payable - By Supplier Code
+0013#STR0013#ALL#Release of Bills Payable - By Supplier Name
+0014#STR0014#ALL#                                     Prf  Number  Pc Type Issue      D.Date               Value     Rels.Dt.    User   
+0015#STR0015#ALL#Release of Bills Payable - By Issue
+0016#STR0016#ALL# Cod.   Unit   Name                  Pre  Number  Pc Type            Maturity             Value     Rel.Date    User   
+0017#STR0017#ALL#** CANCELLED BY THE OPERATOR**
+0018#STR0018#ALL#Subtotal by supplier:       
+0019#STR0019#ALL#Supplier code:     
+0020#STR0020#ALL#Supplier name:   
+0021#STR0021#ALL#Subtotal by issue:        : 
+0022#STR0022#ALL#Issue date:      
+0023#STR0023#ALL#Grand total              : 

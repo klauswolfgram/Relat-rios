@@ -1,0 +1,34 @@
+0001#STR0001#ALL#R  E  G  I  S  T  O      D  O      M  O  V  I  M  E  N  T  O      E  N  T  R  A  D  A  S      E      S  A  Í  D  A  S      D  E      V  E  Í  C  U  L  O  S
+0006#STR0006#ALL#Insc.Distrital
+0007#STR0007#ALL#Período
+0008#STR0008#ALL#Nr.Contrib.
+0009#STR0009#ALL#                 P R O P R I E T Á R I O                     |      C A R A C T E R Í S T I C A     D O     V E Í C U L O     |                                   C O M P R A D O R                                    
+0010#STR0010#ALL#Data de |Nome                         |Identidade            |Marca / Ano         |Cor              |Chassis                  |Documento|Nome                         |DI                    |Data da |Observação      
+0011#STR0011#ALL#Entrada |Morada                       |Município             |Modelo              |Espécie          |Placa                    |Série    |Morada                       |Município             |Saída   |                
+0012#STR0012#ALL#Hora de |Responsável Entrega          |                      |                    |                 |                         |         |Responsável Retirada         |                      |Hora da |CFOP            
+0013#STR0013#ALL#Entrada |Morada                       |Município             |                    |                 |                         |         |Morada                       |Município             |Saída   |                
+0014#STR0014#ALL#R  E  G  I  S  T  O      D  O      M  O  V  I  M  E  N  T  O      E  N  T  R  A  D  A  S      E      S  A  Í  D  A  S      D  E      V  E  Í  C  U  L  O  S
+0016#STR0016#ALL#Movimento de Entrada e Saída de Veículos
+0017#STR0017#ALL#Código de Barras
+0018#STR0018#ALL#Administração
+0020#STR0020#ALL#Contém este livro
+0023#STR0023#ALL#e servirá para Livro de Registo de Entradas e Saída de Veículos 'Livro Preto' nº , referente ao Período de 
+0024#STR0024#ALL#a
+0028#STR0028#ALL#Morada: 
+0029#STR0029#ALL#Freguesia: 
+0030#STR0030#ALL#Município: 
+0031#STR0031#ALL#Inscrição Distrital: 
+0032#STR0032#ALL#No. Contrib.: 
+0051#STR0051#ALL#Não
+0052#STR0052#ALL#Data inicial
+0053#STR0053#ALL#Data final  
+0054#STR0054#ALL#No.Livro   
+0055#STR0055#ALL#Última folha
+0059#STR0059#ALL#Morada       
+0060#STR0060#ALL#Freguesia      
+0061#STR0061#ALL#Município      
+0062#STR0062#ALL#Insc.Distrital 
+0063#STR0063#ALL#No. Contrib.   
+0065#STR0065#ALL#Nome Sócio     
+0066#STR0066#ALL#No.Contrib.Sócio      
+0068#STR0068#ALL#No.Contrib.Contador   

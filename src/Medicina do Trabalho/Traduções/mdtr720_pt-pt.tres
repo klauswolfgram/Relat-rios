@@ -1,0 +1,27 @@
+0001#STR0001#ALL#Data De Atendimento?
+0003#STR0003#ALL#Até Motivo?
+0004#STR0004#ALL#Tipo de impressão ?
+0007#STR0007#ALL#Não existe informação para imprimir no relatório.
+0008#STR0008#ALL#Atendimento Ambulatório
+0009#STR0009#ALL#Programa de controlo médico de saúde ocupacional
+0010#STR0010#ALL#Controlo de atendimento no ambulatório médico
+0014#STR0014#ALL#* Tc - Tipo De Consulta
+0015#STR0015#ALL# - regresso ao serviço imediatamente
+0016#STR0016#ALL# - dispensado do serviço por ordem médica
+0017#STR0017#ALL# - encaminhado para o hospital/especialista/exames especializados
+0018#STR0018#ALL# - encaminhado para exames complementares/laboratório/perícia
+0019#STR0019#ALL#Assinatura e identificação do profissional:
+0020#STR0020#ALL#Motivo : 
+0021#STR0021#ALL#R.g.
+0022#STR0022#ALL#Nome
+0023#STR0023#ALL#Diagnóstico
+0024#STR0024#ALL#Atestado
+0025#STR0025#ALL#Comentário
+0026#STR0026#ALL#De cliente ?
+0027#STR0027#ALL#Código  do cliente. o campo pode permanecer vazio para considerar desde o primeiro código.
+0029#STR0029#ALL#Código  da loja do cliente. o campo pode permanecer vazio para considerar desde o primeiro código.
+0030#STR0030#ALL#Até cliente ?
+0031#STR0031#ALL#Código  do cliente. o campo pode ser preenchido com a letra z até  o final para considerar o último código.
+0032#STR0032#ALL#Código  da loja do cliente. o campo pode ser preenchido com a letra z até  o final para considerar o último código.
+0034#STR0034#ALL#Até Motivo ?
+0038#STR0038#ALL#NÃO

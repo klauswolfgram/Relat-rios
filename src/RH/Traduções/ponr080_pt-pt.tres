@@ -1,0 +1,36 @@
+0001#STR0001#ALL#Apuração Das Marcações
+0002#STR0002#ALL#Será impresso de acordo com os parâmetros solicitados pelo
+0003#STR0003#ALL#Utilizador.
+0004#STR0004#ALL#Registo
+0005#STR0005#ALL#Centro De Custo
+0008#STR0008#ALL#Código de barras
+0009#STR0009#ALL#Administração
+0010#STR0011#ALL#Data      |                Horas programadas                |                            Horas realizadas                             |              Apuração das horas             | 
+0011#STR0012#ALL#          | Ent.1 saí.1 ent.2 saí.2 ent.3 saí.3 ent.4 saí.4 | ent.1 saí.1 ent.2 saí.2 ent.3 saí.3 ent.4 saí.4 ent.5 saí.5 ent.6 saí.6 | Tot. hr Interv. H.trab H. abon. Hr. dif.  % Dif. |
+0012#STR0013#ALL#Seg
+0013#STR0014#ALL#Seg.
+0014#STR0015#ALL#Ter.
+0015#STR0016#ALL#Quar.
+0016#STR0017#ALL#Quin.
+0017#STR0018#ALL#Sex.
+0018#STR0019#ALL#Sáb.
+0019#STR0020#ALL#Total Do Centro De Custo
+0020#STR0022#ALL#     ** Marc. Ímpar **
+0021#STR0024#ALL#                     ** Data anterior à admissão **                      | 
+0022#STR0025#ALL#                         ** Sem marcações **                            | 
+0023#STR0027#ALL#Registo: 
+0024#STR0028#ALL# nome: 
+0025#STR0029#ALL#Total Do Periodo 
+0028#STR0032#ALL#  período: 
+0029#STR0033#ALL#C. Custo+ Nome
+0030#STR0034#ALL#Seleccionar a opção de impressão: 
+0035#STR0039#ALL#Mapa: 
+0036#STR0040#ALL#Num. pgt: 
+0039#STR0043#ALL#Este programa emite Relação Apuramento das Marcações
+0040#STR0044#ALL#Descrição
+0041#STR0045#ALL#Colaboradores
+0051#STR0055#ALL#Ent.1 Saí.1 Ent.2 Saí.2 Ent.3 Saí.3 Ent.4 Saí.4
+0052#STR0056#ALL#Ent.1 Saí.1 Ent.2 Saí.2 Ent.3 Saí.3 Ent.4 Saí.4 Ent.5 Saí.5 Ent.6 Saí.6
+0056#STR0060#ALL#Apuramento das Horas
+0059#STR0063#ALL#Total Sucursal
+0063#STR0067#ALL#Período

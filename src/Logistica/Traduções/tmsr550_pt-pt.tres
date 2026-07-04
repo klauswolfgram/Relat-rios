@@ -1,0 +1,23 @@
+0002#STR0002#ALL#Este programa irá imprimir o relatório de clientes
+0004#STR0004#ALL#Listado
+0005#STR0005#ALL#Administração
+0009#STR0009#ALL#Período :
+0010#STR0010#ALL#). Devido ao tamanho do relatório é permitida até 5 formas. Ajuste os parâmetros do relatório.
+0012#STR0012#ALL#Total crial
+0015#STR0015#ALL#Este programa irá imprimir o relatório de clientes sem movimento.
+0017#STR0017#ALL#Concelho
+0018#STR0018#ALL#Uf
+0021#STR0021#ALL#Nome Do Cliente
+0022#STR0022#ALL#Cliente/loja
+0023#STR0023#ALL#Facturação
+0024#STR0024#ALL#Média Mês
+0028#STR0028#ALL#Frete Médio
+0030#STR0030#ALL#Frete Med/doc
+0031#STR0031#ALL#Peso Med/doc
+0032#STR0032#ALL#Valor Da Mercadoria
+0033#STR0033#ALL#Valor Da Merc/kg
+0034#STR0034#ALL#Perc.inciden.
+0037#STR0037#ALL#Qtd. Clientes:
+0038#STR0038#ALL#Ini.vigen.
+0043#STR0043#ALL#Tipo de transporte atá
+0044#STR0044#ALL#Tip.fre

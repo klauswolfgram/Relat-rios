@@ -1,0 +1,44 @@
+0001#STR0001#ALL#Listado de Cheques Pendientes de Pago
+0002#STR0002#ALL#Este programa emite un informe de los cheq.
+0003#STR0003#ALL#pendientes de depos.
+0004#STR0004#ALL#A Rayas 80/132
+0005#STR0005#ALL#Administrac.
+0006#STR0006#ALL#Vencim.
+0007#STR0007#ALL#Proveedor
+0008#STR0008#ALL#Orden de Pago
+0009#STR0009#ALL#Numero de Cheque
+0010#STR0010#ALL#Emision
+0011#STR0011#ALL#ENERO
+0012#STR0012#ALL#FEBRERO
+0013#STR0013#ALL#MARZO
+0014#STR0014#ALL#ABRIL
+0015#STR0015#ALL#MAYO
+0016#STR0016#ALL#JUNIO
+0017#STR0017#ALL#JULIO
+0018#STR0018#ALL#AGOSTO
+0019#STR0019#ALL#SEPTIEMB
+0020#STR0020#ALL#OCTUBRE
+0021#STR0021#ALL#NOVIEMBR
+0022#STR0022#ALL#DICIEMBR
+0023#STR0023#ALL#Seleccionando Cheques..
+0024#STR0024#ALL#* Codigo    Nombre                      Numero          Fecha    Estado     Fecha        Importe            Banco           Moneda *
+0025#STR0025#ALL#*                                 (Ord. Pag / Nº)       Emision             Vencto                                                 *
+0026#STR0026#ALL#*** Listado de Cheques a Depositar entre el 
+0027#STR0027#ALL#y el
+0028#STR0028#ALL#Totales Mes de 
+0029#STR0029#ALL# (en PESOS) 
+0030#STR0030#ALL#Total a entrar del proveedor  
+0031#STR0031#ALL#Vencido
+0032#STR0032#ALL#En Fch
+0033#STR0033#ALL#+++ ANULADO POR EL OPERADOR +++
+0034#STR0034#ALL#Total del proveedor 
+0035#STR0035#ALL#TOTAL GRAL........ 
+0036#STR0036#ALL#¿De Proveedor     ?
+0037#STR0037#ALL#¿A  Proveedor     ?
+0038#STR0038#ALL#¿De Emision       ?
+0039#STR0039#ALL#¿A  Emision       ?
+0040#STR0040#ALL#¿De Vencimiento   ?
+0041#STR0041#ALL#¿A  Vencimiento   ?
+0042#STR0042#ALL#Mes
+0043#STR0043#ALL#Titul. p/ Pagar
+0044#STR0044#ALL#Total del mes

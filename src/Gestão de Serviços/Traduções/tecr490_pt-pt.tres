@@ -1,0 +1,20 @@
+0001#STR0001#ALL#Comparação De Atendimento X Ordem De Serviço
+0002#STR0002#ALL#    este programa emite uma comparação dos itens utilizados no atendimento da 
+0003#STR0003#ALL#Ordem de serviço com os itens efectivamente cobrados, cofacturaorme os parâmetros   
+0005#STR0005#ALL#Os
+0007#STR0007#ALL#Artigo/eqt.
+0008#STR0008#ALL#Código de barras
+0009#STR0009#ALL#Administração
+0010#STR0010#ALL#Nº os     cliente   artigo/eqt.    ocorrência/problema         artigo         moeda   <                 utilizado                > <                  cobrado                 > <          diferença         >
+0011#STR0011#ALL#                                                                                          Quantidade          Valor          Total     Quantidade          Valor          Total      Quantidade          Valor
+0012#STR0012#ALL#[ os ]
+0013#STR0013#ALL#[ cliente ]
+0014#STR0014#ALL#[ artigo ]
+0015#STR0015#ALL#Cancelado Pelo Operador
+0016#STR0016#ALL#Cliente: 
+0017#STR0017#ALL#Artigo/eqt.: 
+0018#STR0018#ALL#Total do cliente: 
+0019#STR0019#ALL#Total do artigo: 
+0020#STR0020#ALL#Total crial: 
+0028#STR0028#ALL#Qtde (difer.)
+0029#STR0029#ALL#Valor (difer.)

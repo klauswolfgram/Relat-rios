@@ -1,0 +1,98 @@
+0001#STR0001#ALL#Este relatório apresentara um historico laboral pessoal com proposito
+0002#STR0002#ALL#Previdenciarios para informações relativas a fiscalização do gerenciamento
+0003#STR0003#ALL#De riscos, existencia de agentes nocivos no ambiente de trabalho.
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0007#STR0007#ALL#Perfil Profissiografico Previdenciario - Ppp
+0008#STR0008#ALL#Empresa/estabelecimento:
+0009#STR0009#ALL#Nit(pis/pasep)
+0010#STR0010#ALL#Cae
+0011#STR0011#ALL#Cep:
+0012#STR0012#ALL#CAE
+0013#STR0013#ALL#Ano
+0014#STR0014#ALL#Nif:
+0015#STR0015#ALL#Nome Do Trabalhador
+0016#STR0016#ALL#Data De Nascimento
+0017#STR0017#ALL#Sexo
+0020#STR0020#ALL#Admissão Na Empresa
+0021#STR0021#ALL#Ctps
+0022#STR0022#ALL#Cat emitida: 
+0025#STR0025#ALL#Data Da Emissão:
+0026#STR0026#ALL#Requisitos Da Função:
+0027#STR0027#ALL#Descrição Profissiografica
+0028#STR0028#ALL#Descrição Das Atividades:
+0029#STR0029#ALL#Período
+0030#STR0030#ALL#Sector
+0032#STR0032#ALL#Função
+0033#STR0033#ALL#Exposição
+0036#STR0036#ALL#Técnica
+0037#STR0037#ALL#Proteção Eficaz
+0038#STR0038#ALL#Gfip
+0039#STR0039#ALL#Concentração
+0041#STR0041#ALL#Epi
+0042#STR0042#ALL#Epc
+0043#STR0043#ALL#Código
+0044#STR0044#ALL#Exames Medicos Clinicos E Complementares Ref. Exposição
+0047#STR0047#ALL#Descrição dos resultados (normal/alterado)
+0048#STR0048#ALL#Exame audiometrico de
+0049#STR0049#ALL#Referência
+0058#STR0058#ALL#Exposição a agente
+0062#STR0062#ALL#Nocivo
+0066#STR0066#ALL#Data De Emissão Do Documento
+0067#STR0067#ALL#Responsável Pelas Avaliações/informações
+0068#STR0068#ALL#Crm: 
+0069#STR0069#ALL#Nome e crm/crea do
+0070#STR0070#ALL#Gerente De Rh
+0071#STR0071#ALL#Responsavel Pelo Ltcat
+0072#STR0072#ALL#As Informações São Veridicas E Fundamentadas Por Ltcat/ppra/pgr E Pcmso
+0073#STR0073#ALL#Qualitativa
+0074#STR0074#ALL#Descrição dos resultados (normais/alterados)
+0076#STR0076#ALL#Exposição A Agente Nocivo
+0077#STR0077#ALL#Ausência De Agente Nocivo
+0078#STR0078#ALL#Periódico
+0080#STR0080#ALL#Mudanca Função
+0082#STR0082#ALL#Demissional ® De demissão
+0084#STR0084#ALL#Coordenador Do Pcmso
+0085#STR0085#ALL#Emissão:
+0086#STR0086#ALL#Exame Audiométrico Sequencial
+0087#STR0087#ALL#Não Ocupacional
+0088#STR0088#ALL#Comprovativo de entrega do perfil profissiográfico previdenciário (PPP) 
+0089#STR0089#ALL#Registo......:
+0091#STR0091#ALL#Centro De Custo:
+0092#STR0092#ALL#Função.........:
+0093#STR0093#ALL#Data De Admissão..:
+0094#STR0094#ALL#Conforme resolução nº 1.715, de 8 de Janeiro de 2004, não serão expostos os exames do empregado .
+0098#STR0098#ALL#De cliente ?
+0100#STR0100#ALL#Até cliente ?						
+0102#STR0102#ALL#Foi tentada a implementação  de medidas de proteção  coletiva, de carácter administrativo ou de
+0105#STR0105#ALL#Foram observadas as condições de funcionamento e da utilização   ininterrupto do epi ao longo do tempo,
+0113#STR0113#ALL#Observação EPI \ EPC. ?
+0116#STR0116#ALL#Data Emissão PPP ?
+0117#STR0117#ALL#Até Data Demissão ?
+0118#STR0118#ALL#De Data Demissão ?
+0119#STR0119#ALL#Situação Empregado ?
+0124#STR0124#ALL#Observacão ?
+0125#STR0125#ALL#Tipo de Impressão ?
+0131#STR0131#ALL#Activ.
+0133#STR0133#ALL#Até Função ?
+0134#STR0134#ALL#De Função ?
+0135#STR0135#ALL#Até Centro de Custo?
+0137#STR0137#ALL#Até Matrícula ?
+0138#STR0138#ALL#De Matrícula ?
+0140#STR0140#ALL#Matrícula
+0142#STR0142#ALL#Desc. das Activ.?
+0148#STR0148#ALL#INSTRUCÇÃO NORMATIVA Nº 20/INSSPRES, DE 10 DE OUTUBRO DE 2007
+0163#STR0163#ALL#12.1-Data do Registo
+0168#STR0168#ALL#13.3-Sector
+0176#STR0176#ALL#14.2-Descrição das Actividades
+0194#STR0194#ALL#16.3-Registo Conselho
+0217#STR0217#ALL#18.3-Registo Conselho
+0244#STR0244#ALL#CTPS(Nº, Série e Distrito)
+0252#STR0252#ALL#(Assinatura do Empregado)
+0253#STR0253#ALL#Esse campo deverá ser preenchido com a data de emissão que será exibida no PPP.
+0257#STR0257#ALL#E-mail enviado com sucesso.
+0258#STR0258#ALL#Não foi possível enviar o E-mail.
+0261#STR0261#ALL#O servidor de SMTP não foi configurado!
+0263#STR0263#ALL#A Conta do e-mail não foi configurada !!!
+0264#STR0264#ALL#A Palavra-passe do e-mail não foi configurada !!!
+0271#STR0271#ALL#Imp. resp. monit. biológica ?

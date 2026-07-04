@@ -1,0 +1,49 @@
+0001#STR0001#ALL#Relatorio do Resultado dos exames por Centro de Custo                
+0002#STR0002#ALL#Demonstrativo dos resultados dos exames realizados dentro de um      
+0003#STR0003#ALL#periodo classificados por Centro de Custo e resultado do exame.      
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#Resultado dos Exames Por Centro de Custo
+0007#STR0007#ALL#Centro de Custo          Descrição
+0008#STR0008#ALL#Admiss
+0009#STR0009#ALL#Period
+0010#STR0010#ALL#Mudanc
+0011#STR0011#ALL#Retorn
+0012#STR0012#ALL#Demiss
+0013#STR0013#ALL#       Exame       Descrição                                 Resultado  Descrição                                 Matrícula  Funcionário                               Realização  Natureza
+0014#STR0014#ALL#CANCELADO PELO OPERADOR
+0015#STR0015#ALL#Cliente..: 
+0016#STR0016#ALL#Código
+0017#STR0017#ALL#Centro de Custo
+0018#STR0018#ALL#Exame
+0019#STR0019#ALL#Descrição
+0020#STR0020#ALL#Obs.:
+0021#STR0021#ALL#Resultado
+0022#STR0022#ALL#Matrícula
+0023#STR0023#ALL#Funcionário
+0024#STR0024#ALL#Realização
+0025#STR0025#ALL#Natureza
+0026#STR0026#ALL#Cliente
+0027#STR0027#ALL#Nome
+0028#STR0028#ALL#Observação
+0029#STR0029#ALL#De Cliente ?
+0030#STR0030#ALL#Loja
+0031#STR0031#ALL#Até Cliente ?
+0032#STR0032#ALL#Código do cliente. O campo pode permanecer vazio para considerar desde o primeiro código.
+0033#STR0033#ALL#Código da loja do cliente. O campo pode permanecer vazio para considerar desde o primeiro código.
+0034#STR0034#ALL#Código do cliente. O campo pode ser preenchido com a letra Z até o final para considerar o último código.
+0035#STR0035#ALL#Código da loja do cliente. O campo pode ser preenchido com a letra Z até o final para considerar o último código.
+0036#STR0036#ALL#Exames
+0037#STR0037#ALL#Observação: 
+0038#STR0038#ALL#Não há nada para imprimir no relatório.
+0039#STR0039#ALL#Cliente/Loja: 
+0040#STR0040#ALL#De  Centro de Custo ?
+0041#STR0041#ALL#Ate Centro de Custo ?
+0042#STR0042#ALL#Listar Obs. Exames ?
+0043#STR0043#ALL#Medicina ?
+0044#STR0044#ALL#Ate Data Resultado ?
+0045#STR0045#ALL#De  Data Resultado ?
+0046#STR0046#ALL#Ate Resultado Exame ?
+0047#STR0047#ALL#De  Resultado Exame ?
+0048#STR0048#ALL#Ate Exame ?
+0049#STR0049#ALL#De  Exame ?

@@ -1,0 +1,35 @@
+0001#STR0001#ALL#A Visualizar, Aguarde...
+0003#STR0003#ALL#Aprovação De Peça De Produção
+0004#STR0004#ALL#   resultados dimensionais   
+0005#STR0005#ALL#Ppap Nº.
+0007#STR0007#ALL#Número Da Peça(cliente)
+0008#STR0008#ALL#Revisão/data Desenho
+0009#STR0009#ALL#Local Da Inspecção
+0010#STR0010#ALL#Número/rev Peça(fornecedor)
+0011#STR0011#ALL#Nome Da Peça
+0012#STR0012#ALL#Elemento
+0013#STR0013#ALL#Dimensão/especificação
+0015#STR0015#ALL# esp  
+0016#STR0016#ALL#Resultados Das Medicoes
+0018#STR0018#ALL#Não
+0019#STR0019#ALL#Assinatura Do Fornecedor
+0021#STR0021#ALL#Página :
+0023#STR0023#ALL#Assinatura Do Cliente
+0024#STR0024#ALL#Sequência
+0025#STR0025#ALL#Código/descrição
+0026#STR0026#ALL#Imprime Descrição/característica?
+0027#STR0027#ALL#Impressão
+0028#STR0028#ALL#Código Vendedor
+0029#STR0029#ALL#Instruções De Inspecção
+0030#STR0030#ALL#Nível De Alteração Do Projecto
+0031#STR0031#ALL#Documentos Alterados Pela Engenharia
+0033#STR0033#ALL#Especificação
+0034#STR0034#ALL#    limites  
+0035#STR0035#ALL# freq. 
+0036#STR0036#ALL# teste 
+0037#STR0037#ALL#  qtd.  
+0038#STR0038#ALL#  ens. 
+0042#STR0042#ALL#Médio
+0044#STR0044#ALL#Declarações de conformidade em branco são inaceitáveis para quaisquer resultados de ensaio.
+0049#STR0049#ALL#Não será possível criar a listagem de resultados dimensionais, pois existem alguns campos que precisam de ser 
+0050#STR0050#ALL#Criados de acordo com o boletim técnico do ppap - adequação do ambiente ppap da 4ª edição.  Caso queira 

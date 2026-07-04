@@ -1,0 +1,31 @@
+0001#STR0001#ALL#Emite el informe verificacion de saldos 
+0002#STR0002#ALL#para productos que utilizan el control de  
+0003#STR0003#ALL#Lote/SubLote y/o ubicacion fisica.
+0004#STR0004#ALL#VERIFICACION DE SALDOS EN STOCK
+0005#STR0005#ALL#A rayas
+0006#STR0006#ALL#Administracion
+0007#STR0007#ALL#Actualizar MATXFUNA.PRX
+0008#STR0008#ALL#Actualizar MATA280.PRX
+0009#STR0009#ALL#Actualizar CFGX051.PRW
+0010#STR0010#ALL# SUC PRODUCTO                                    | AMZ    | CONTROL | CONTROL     |         CANTIDAD |         CANTIDAD |         CANTIDAD |         CANTIDAD | ESTATUS    
+0011#STR0011#ALL#                                               | DIRECCION | LOTE/SUBLOTE |        FISICA |      POR DIRECCION |   A DIRECCIONAR | POR LOTE/SUBLOTE |           
+0012#STR0012#ALL#( Saldo Actual )
+0013#STR0013#ALL#( Saldo por Movimiento / Fecha
+0014#STR0014#ALL#( Saldo de Encerramiento / Fecha
+0015#STR0015#ALL#ANULADO POR EL OPERADOR
+0016#STR0016#ALL#Seleccionando Archivos...
+0017#STR0017#ALL#SDA=PENDIENTE
+0018#STR0018#ALL#SI
+0019#STR0019#ALL#NO
+0020#STR0020#ALL#LOTE
+0021#STR0021#ALL#SUBLOTE
+0022#STR0022#ALL#Error en la llamada del Proceso
+0023#STR0023#ALL#Competencia
+0024#STR0024#ALL#La sucursal
+0025#STR0025#ALL#de la empresa corriente ya se esta utilizando en la impresion del informe.
+0026#STR0026#ALL#Saldos por Lote/Sublote
+0027#STR0027#ALL#Saldos por ubicación
+0028#STR0028#ALL#Procedure #1[MAT036]# Proceso #2[17]#
+0029#STR0029#ALL#Error en la llamada de procedimiento almacenado de la base de datos
+0030#STR0030#ALL#Devolución de falla de la base de datos:
+0031#STR0031#ALL#Finalizar

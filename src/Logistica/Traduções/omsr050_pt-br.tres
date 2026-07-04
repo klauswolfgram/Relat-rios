@@ -1,0 +1,43 @@
+0001#STR0001#ALL#Prestacao de Contas
+0002#STR0002#ALL#Este programa ira emitir a Relacao dos Titulos na
+0003#STR0003#ALL#Prestacao de contas de acordo com os parametros es-
+0004#STR0004#ALL#colhidos pelo usuario                      .
+0005#STR0005#ALL#Zebrado
+0006#STR0006#ALL#CARGA   : 
+0007#STR0007#ALL#VEICULO : 
+0008#STR0008#ALL#MOTORISTA : 
+0009#STR0009#ALL#PESO    :
+0010#STR0010#ALL#VOLUME M3 : 
+0011#STR0011#ALL#PTOS ENTREGA : 
+0012#STR0012#ALL#VALOR : 
+0013#STR0013#ALL#DATA    :
+0014#STR0014#ALL# AS 
+0015#STR0015#ALL#Data da Conferencia :
+0016#STR0016#ALL#Usuario :
+0017#STR0017#ALL#PREFIXO NUMERO        TIPO  PARCELA             VALOR           SALDO      VENCIMENTO     TIPO       NUMERO/       BANCO/       AGENCIA/        NUMERO/            VALOR
+0018#STR0018#ALL#                                                                                          BAIXA      CHEQUE        PREFIXO      PARCELA         TIPO  
+0019#STR0019#ALL#Cliente : 
+0020#STR0020#ALL#B     A     I     X     A     S
+0021#STR0021#ALL#BX
+0022#STR0022#ALL#LQ
+0023#STR0023#ALL#CMP
+0024#STR0024#ALL#TOTAL DAS BAIXAS =>
+0025#STR0025#ALL#Prestacao de Contas
+0026#STR0026#ALL#Este programa ira emitir a Relacao dos Titulos na
+0027#STR0027#ALL#Prestacao de contas de acordo com os parametros es-
+0028#STR0028#ALL#colhidos pelo usuario                      .
+0029#STR0029#ALL#TP BAIXA
+0030#STR0030#ALL#NUMERO/CHEQUE
+0031#STR0031#ALL#BANCO/PREFIXO
+0032#STR0032#ALL#AGENCIA/PARCELA
+0033#STR0033#ALL#NUMERO/TIPO
+0034#STR0034#ALL#VALOR
+0035#STR0035#ALL#B   A   I   X   A   S
+0036#STR0036#ALL#BX
+0037#STR0037#ALL#LQ
+0038#STR0038#ALL#CMP
+0039#STR0039#ALL#TOTAL DAS BAIXAS =>
+0040#STR0040#ALL#Carga
+0041#STR0041#ALL#Cliente
+0042#STR0042#ALL#Titulos
+0043#STR0043#ALL#Baixas

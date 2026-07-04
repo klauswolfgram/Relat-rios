@@ -1,0 +1,10 @@
+0001#STR0001#ALL#Detalle de productos con problemas en la baja
+0002#STR0002#ALL#El objetivo de este informe es exhibir detalladamente todos los productos
+0003#STR0003#ALL#con problemas en la baja, en el procesamiento del costo FIFO.                    
+0004#STR0004#ALL#A Rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL# PRODUCTO       DEPOSITO DESCRIPCION                  CANTIDAD    COD. FISCAL  TPO MOVTO.    DOC.   SER  ORDEN PRODUC.  FCH EMISION
+0007#STR0007#ALL#Creando archivo trabajo 1...
+0008#STR0008#ALL#Anulado por el operador
+0009#STR0009#ALL#Prods. 
+0010#STR0010#ALL#¡Actualizar MATA330.PRX!

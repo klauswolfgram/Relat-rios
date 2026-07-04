@@ -1,0 +1,50 @@
+0001#STR0001#ALL#This program will print the Trial Balance  
+0002#STR0002#ALL#according to the parameters required by the User. 
+0003#STR0003#ALL#Trial Balance 
+0004#STR0004#ALL#|  CODE                       |      D E S C R I P T .                          |    PREVIOUS BALANCE            |    DEBIT        |      CREDIT       |    MOVIMENT OF THE PERIOD     |         CURRENT BALANCE           |
+0004#STR0004#ANG#|  CODE                       |      D E S C R I P T .                          |    PREVIOUS BALANCE            |    DEBIT        |      CREDIT       |    MOVIMENT OF THE PERIOD     |         CURRENT BALANCE           |
+0004#STR0004#EQU#|  CODE                       |      D E S C R I P T .                          |    PREVIOUS BALANCE            |    DEBIT        |      CREDIT       |    MOVIMENT OF THE PERIOD     |         CURRENT BALANCE           |
+0004#STR0004#HAI#|  CODE                       |      D E S C R I P T .                          |    PREVIOUS BALANCE            |    DEBIT        |      CREDIT       |    MOVIMENT OF THE PERIOD     |         CURRENT BALANCE           |
+0004#STR0004#MEX#|  CODE                       |      D E S C R I P T .                          |    PREVIOUS BALANCE            |    DEBIT        |      CREDIT       |    MOVIMENT OF THE PERIOD     |         CURRENT BALANCE           |
+0004#STR0004#PTG#|  CODE                       |      D E S C R I P T .                          |    PREVIOUS BALANCE            |    DEBIT        |      CREDIT       |    MOVIMENT OF THE PERIOD     |         CURRENT BALANCE           |
+0005#STR0005#ALL#|  CODE                 |   D  E  S  C  R  I  P  T  .    |  PREVIOUS BALANCE |      DEBIT     |      CREDIT    |  CURRENT BALANCE  |
+0005#STR0005#ANG#|  CODE                 |   D  E  S  C  R  I  P  T  .    |  PREVIOUS BALANCE |      DEBIT     |      CREDIT    |  CURRENT BALANCE  |
+0005#STR0005#EQU#|  CODE                 |   D  E  S  C  R  I  P  T  .    |  PREVIOUS BALANCE |      DEBIT     |      CREDIT    |  CURRENT BALANCE  |
+0005#STR0005#HAI#|  CODE                 |   D  E  S  C  R  I  P  T  .    |  PREVIOUS BALANCE |      DEBIT     |      CREDIT    |  CURRENT BALANCE  |
+0005#STR0005#MEX#|  CODE                 |   D  E  S  C  R  I  P  T  .    |  PREVIOUS BALANCE |      DEBIT     |      CREDIT    |  CURRENT BALANCE  |
+0005#STR0005#PTG#|  CODE                 |   D  E  S  C  R  I  P  T  .    |  PREVIOUS BALANCE |      DEBIT     |      CREDIT    |  CURRENT BALANCE  |
+0006#STR0006#ALL#DETAILED TRAIL BALANCE OF 
+0007#STR0007#ALL#SUMMARIZED TRIAL BALANCE OF 
+0008#STR0008#ALL#TRIAL BALANCE OF 
+0009#STR0009#ALL# FROM 
+0010#STR0010#ALL# TO  
+0011#STR0011#ALL# IN 
+0012#STR0012#ALL# (BUDGET)
+0013#STR0013#ALL# (MANAGEMEN)
+0014#STR0014#ALL#Creating Temporary File...
+0015#STR0015#ALL#Z. Form
+0016#STR0016#ALL#Management
+0017#STR0017#ALL#***** CANCELLED BY THE OPERATOR****
+0018#STR0018#ALL#T O T A L S  O F  P E R I O D  : 
+0019#STR0019#ALL#T O T A L S  O F  G R O U P (
+0020#STR0020#ALL#T O T A L S  
+0021#STR0021#ALL#Code  
+0022#STR0022#ALL#Descript.
+0023#STR0023#ALL#Prev. balance 
+0024#STR0024#ALL#Debit 
+0024#STR0024#ANG#Debit 
+0024#STR0024#EQU#Debit 
+0024#STR0024#HAI#Debit 
+0024#STR0024#MEX#Debit 
+0024#STR0024#PTG#Debit 
+0025#STR0025#ALL#Credit 
+0025#STR0025#ANG#Credit 
+0025#STR0025#EQU#Credit 
+0025#STR0025#HAI#Credit 
+0025#STR0025#MEX#Credit 
+0025#STR0025#PTG#Credit 
+0026#STR0026#ALL#Period movements    
+0027#STR0027#ALL#Curr.Blnce.
+0028#STR0028#ALL#Reduced code   
+0029#STR0029#ALL#Type
+0030#STR0030#ALL#Level 1

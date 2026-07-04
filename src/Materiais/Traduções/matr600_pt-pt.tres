@@ -1,0 +1,25 @@
+0001#STR0001#ALL#Pedidos Por Vendedor/cliente
+0002#STR0002#ALL#Este relatório irá emitir a relação de pedidos por
+0003#STR0003#ALL#Ordem De Vendedor/cliente.
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#Ped.vendas P/vendedor/cliente
+0007#STR0007#ALL#Código  Razao Social             Praca                  Pedido            Total
+0008#STR0008#ALL#A Seleccionar Registos...
+0009#STR0009#ALL#Cancelado Pelo Operador
+0010#STR0010#ALL#Vendedor : 
+0011#STR0011#ALL#Total cliente   ---> 
+0012#STR0012#ALL#Total vendedor  ---> 
+0013#STR0013#ALL#T O T A L  C R I A L : 
+0014#STR0014#ALL#Código                Razao Social         Praca           Pedido           Total
+0015#STR0015#ALL#Pedidos Por Vendedor/cliente
+0016#STR0016#ALL#Este relatório irá emitir a relação de pedidos por
+0017#STR0017#ALL#Ordem De Vendedor/cliente.
+0018#STR0018#ALL#A Seleccionar Registos...
+0021#STR0021#ALL#Total de cliente ---> 
+0022#STR0022#ALL#Total vendedor ---> 
+0023#STR0023#ALL#Ped.vendas p/ vendedor/cliente em 
+0025#STR0025#ALL#Clientes/pedidos
+0026#STR0026#ALL#Cabeçalho Do Pedido De Vendas
+0027#STR0027#ALL#Elem. Do Pedido De Vendas
+0030#STR0030#ALL#T.Crial

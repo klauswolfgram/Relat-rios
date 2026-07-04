@@ -1,0 +1,27 @@
+0001#STR0001#ALL#Relatorio de Funcionarios por Centro de Custo e Funcao
+0002#STR0002#ALL#Zebrado
+0003#STR0003#ALL#Administracao
+0004#STR0004#ALL#Funcionarios por Centro de Custo e Funcao
+0005#STR0005#ALL#De Centro Custo    ?
+0006#STR0006#ALL#Ate Centro Custo   ?
+0007#STR0007#ALL#     Cod. Funcao  Nome Funcao                 Matricula   Nome do Funcionario                             Data Admissao
+0008#STR0008#ALL#Centro de Custo.:
+0009#STR0009#ALL#Total de Funcionarios do Centro de Custo.:
+0010#STR0010#ALL#Total de Funcionarios.:
+0011#STR0011#ALL#Total de Funcionarios do Cliente.:
+0012#STR0012#ALL#Cliente..: 
+0013#STR0013#ALL#     Codigo/Nome Funcao                       Matricula   Nome do Funcionario             Categoria         Data Admissao
+0014#STR0014#ALL#     Codigo/Nome Funcao                       Matricula   Nome do Funcionario             Categoria         Data Admissao Demissao
+0015#STR0015#ALL#De Cliente ?
+0016#STR0016#ALL#Loja
+0017#STR0017#ALL#Até Cliente ?
+0018#STR0018#ALL#Não há nada para imprimir no relatório.	  	  	  	  	
+0019#STR0019#ALL#Ate Categoria ?
+0020#STR0020#ALL#De Categoria ?
+0021#STR0021#ALL#Considerar Funcionario ?
+0022#STR0022#ALL#Afastados
+0023#STR0023#ALL#Ate Centro de Custo ?
+0024#STR0024#ALL#De  Centro de Custo ?
+0025#STR0025#ALL#Todos
+0026#STR0026#ALL#Ativos
+0027#STR0027#ALL#Demitidos

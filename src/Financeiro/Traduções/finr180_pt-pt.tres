@@ -1,0 +1,14 @@
+0001#STR0001#ALL#Este programa irá emitir a relação dos títulos liquidados
+0002#STR0002#ALL#Por Lote.
+0003#STR0003#ALL#Código de barras
+0004#STR0004#ALL#Administração
+0005#STR0005#ALL#Relação dos títulos recebidos do lote 
+0007#STR0007#ALL#Relação dos títulos pagos do lote 
+0008#STR0008#ALL#Lote      Prf Número       PC  Cliente              Valor Original  Data Liq.         Descontos            Juros           Multas       Corr.Monet.     Abatimentos    Valor Recebido
+0009#STR0009#ALL#Lote      Prf Número       PC  Fornecedor           Valor Original  Data Liquid        Descontos            Juros           Multas       Corr.Monet      Abatimentos        Valor Pago
+0010#STR0010#ALL#Cancelado Pelo Operador
+0011#STR0011#ALL#A Relação De Liquidações Por Lote
+0014#STR0014#ALL#Número
+0015#STR0015#ALL#Pc
+0018#STR0018#ALL#Data De Liquidação
+0022#STR0022#ALL#Corr. Monet.

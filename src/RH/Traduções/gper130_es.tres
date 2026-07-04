@@ -1,0 +1,16 @@
+0001#STR0001#ALL# Matricula 
+0002#STR0002#ALL# C.Costos + Matric
+0003#STR0003#ALL#Aviso / Recibo de vacaciones
+0004#STR0004#ALL#Se imprimira de acuerdo con los parametros solicitados por
+0005#STR0005#ALL#el usuario.
+0006#STR0006#ALL#A Rayas
+0007#STR0007#ALL#Administracion
+0008#STR0008#ALL#RECIBO Y AVISO DE VACACIONES
+0009#STR0009#ALL# Nombre 
+0010#STR0010#ALL# C.Costos + Nombre 
+0011#STR0011#ALL#RECIBO DE VACACIONES
+0012#STR0012#ALL#El contenido debe ser mayor o igual a 15 dias
+0013#STR0013#ALL#La Fecha Inicial no puede ser superior a la Fecha Final
+0014#STR0014#ALL#Fch. Solic. Aguinaldo no puede estar vacía si el campo Solic. 1ª cuota es igual a SÍ.
+0015#STR0015#ALL#Ok
+0016#STR0016#ALL#Atención

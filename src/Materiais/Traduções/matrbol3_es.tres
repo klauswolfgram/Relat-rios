@@ -1,0 +1,63 @@
+0001#STR0001#BOL#Libros fiscales
+0002#STR0002#BOL#Preparando informacion para el libro de compras
+0003#STR0003#BOL#Tipo de fact.
+0004#STR0004#BOL#NIT del proveedor
+0005#STR0005#BOL#Nombre o Razon social
+0006#STR0006#BOL#Nº de Factura
+0007#STR0007#BOL#Nº de DUE
+0008#STR0008#BOL#Numero de autorizacion
+0009#STR0009#BOL#Fecha de la factura
+0010#STR0010#BOL#Importe total de venta
+0011#STR0011#BOL#Importe ICE/ IEHD/ Tasas
+0012#STR0012#BOL#Ventas gravadas a Tasa cero
+0013#STR0013#BOL#Credito fiscal
+0014#STR0014#BOL#Importe base para credito fiscal
+0015#STR0015#BOL#Codigo de control
+0016#STR0016#BOL#Preparando la información para el libro de ventas
+0017#STR0017#BOL#Importe base para debito fiscal
+0018#STR0018#BOL#Debito fiscal
+0019#STR0019#BOL#Estado
+0020#STR0020#BOL#Libro de
+0021#STR0021#BOL#Compras
+0022#STR0022#BOL#Ventas
+0023#STR0023#BOL#Nombre o Razon social
+0024#STR0024#BOL#Sucursal
+0025#STR0025#BOL#Direccion
+0026#STR0026#BOL#Periodo
+0027#STR0027#BOL#Presentacion
+0028#STR0028#BOL#Folio
+0029#STR0029#BOL#Nombre completo del responsable
+0030#STR0030#BOL#Impresion del libro fiscal (compras/ventas)
+0031#STR0031#BOL#Total
+0032#STR0032#BOL#Impresion anulada por el usuario
+0033#STR0033#BOL#Notas de credito/debito
+0034#STR0034#BOL#Ano
+0035#STR0035#BOL#Mes
+0036#STR0036#BOL#Nº
+0037#STR0037#BOL#Fecha nota de credito - debito
+0038#STR0038#BOL#Nº de Nota de credito - debito
+0039#STR0039#BOL#Nº de Autorizacion
+0040#STR0040#BOL#NIT/CI Cliente
+0041#STR0041#BOL#Nombre o Razon social cliente
+0042#STR0042#BOL#Valor total de la Devolucion o Rescision
+0043#STR0043#BOL#Credito fiscal
+0044#STR0044#BOL#Codigo de controle de la Nota de credito - debito
+0045#STR0045#BOL#Fecha factura original
+0046#STR0046#BOL#Nº Factura original
+0047#STR0047#BOL#Nº de Autorizacion factura original
+0048#STR0048#BOL#Importe total factura original
+0049#STR0049#BOL#Solamente podra informarse un periodo de fechas dentro del mismo Mes/Ano correspondientes
+0050#STR0050#BOL#Recibida
+0051#STR0051#BOL#Efectuada
+0052#STR0052#BOL#NIT Proveedor
+0053#STR0053#BOL#Nombre o Razón social proveedor
+0054#STR0054#BOL#Debito fiscal
+0055#STR0055#BOL#Fecha de la factura o DUE
+0056#STR0056#BOL#Nº de la Factura
+0057#STR0057#BOL#Importe total de la compra
+0058#STR0058#BOL#Importe no sujeto a credito fiscal
+0059#STR0059#BOL#Subtotal
+0060#STR0060#BOL#Descuentos bonificaciones y rebajas obtenidas
+0061#STR0061#BOL#Exportaciones y operaciones exentas
+0062#STR0062#BOL#Descuentos bonificaciones y rebajas otorgadas
+0063#STR0063#BOL#ANULADA

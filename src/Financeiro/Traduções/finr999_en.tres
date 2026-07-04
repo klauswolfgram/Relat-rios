@@ -1,0 +1,42 @@
+0001#STR0001#ALL#Print payment order information
+0002#STR0002#ALL#Issued, separated by Supplier.
+0003#STR0003#ALL#Z.Form
+0004#STR0004#ALL#Administration
+0005#STR0005#ALL#Issued Payment Orders
+0006#STR0006#ALL#          Type   Quota Pref Number  Issue   Due Date  Doc         Value
+0007#STR0007#ALL#Selecting Records...
+0008#STR0008#ALL# - By Supplier
+0009#STR0009#ALL#CANCELLED BY THE OPERATOR
+0010#STR0010#ALL#Supplier: 
+0011#STR0011#ALL#BALANCE : 
+0012#STR0012#ALL#Payment Order : 
+0013#STR0013#ALL#Bills paid : 
+0014#STR0014#ALL#Withholdings    : 
+0015#STR0015#ALL#Total of the Bills : 
+0016#STR0016#ALL#Withholdings Total    : 
+0017#STR0017#ALL#Net Total          : 
+0018#STR0018#ALL#Paid with    : 
+0019#STR0019#ALL#Advance Payment Discount No.: 
+0020#STR0020#ALL#Vl. : 
+0021#STR0021#ALL#Bank: 
+0022#STR0022#ALL#Brch: 
+0023#STR0023#ALL#Acc : 
+0024#STR0024#ALL#Nbr.
+0025#STR0025#ALL#(T)
+0026#STR0026#ALL#(From Cust. : 
+0027#STR0027#ALL#¨From Supplier      ?
+0028#STR0028#ALL#¨To Supplier      ?
+0029#STR0029#ALL#¨From Payment Order   ?
+0030#STR0030#ALL#¨To Payment Order   ?
+0031#STR0031#ALL#¨From Issue Date   ?
+0032#STR0032#ALL#¨To Issue Date   ?
+0033#STR0033#ALL#Total Value        : 
+0034#STR0034#ALL#CNPJ:
+0035#STR0035#ALL#Issue: 
+0036#STR0036#ALL#Exp.  : 
+0037#STR0037#ALL#Value : 
+0038#STR0038#ALL#Instlm. : 
+0039#STR0039#ALL#Not Released
+0040#STR0040#ALL#Expense
+0041#STR0041#ALL#Expenses paid : 
+0042#STR0042#ALL#Type : 

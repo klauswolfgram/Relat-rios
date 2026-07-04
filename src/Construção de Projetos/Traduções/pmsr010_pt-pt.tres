@@ -1,0 +1,18 @@
+0001#STR0001#ALL#Registo dos recursos compostos 
+0002#STR0002#ALL#Este relatório irá imprimir a relação dos recursos compostos 
+0003#STR0003#ALL#E seus detalhes(itens,despesas,sub-composições) conforme 
+0004#STR0004#ALL#Os parâmetros solicitados
+0005#STR0005#ALL#Código de barras
+0006#STR0006#ALL#Administração
+0007#STR0007#ALL#Cancelado Pelo Operador
+0008#STR0008#ALL#Referência     Descrição                                                                                 Und  Ult.actual.  Utiliza
+0009#STR0009#ALL#Item Produto             Descrição                                    Tipo     Quantidade Und     Custo Padr                    Valor
+0010#STR0010#ALL#Item Descrição                                                        Tipo                                                     Valor
+0011#STR0011#ALL#Item Referência          Descrição                                             Quantidade Und     Custo Padr                    Valor
+0012#STR0012#ALL#Total....................:
+0013#STR0013#ALL#Itens
+0014#STR0014#ALL#Despesas
+0015#STR0015#ALL#Sub-composição
+0018#STR0018#ALL#Sub-composição
+0021#STR0021#ALL#** total da composição **
+0022#STR0022#ALL#A Seleccionar Registos...

@@ -1,0 +1,26 @@
+0001#STR0001#ALL#Imprime os titulos a receber com o número 
+0002#STR0002#ALL#da NF-e
+0003#STR0003#ALL#Zebrado
+0004#STR0004#ALL#Administracao
+0005#STR0005#ALL#Titulos a Receber - NF-e
+0006#STR0006#ALL#Prf-Numero         NF-e      Codigo Lj   Nome do Cliente    TP  Natureza   Data de    Vencto     Vencto     Banco Valor Original
+0007#STR0007#ALL#Parcela                                                                    Emissao    Titulo     Real                           
+0008#STR0008#ALL#Por Cliente
+0009#STR0009#ALL#Por Prefixo/Numero
+0010#STR0010#ALL#Por Banco
+0011#STR0011#ALL#Por Venc/Cli
+0012#STR0012#ALL#Por Natureza
+0013#STR0013#ALL#Por Emissao
+0014#STR0014#ALL#Por NF-e
+0015#STR0015#ALL#Por Cod.Cli.
+0016#STR0016#ALL# - Por NF-e
+0017#STR0017#ALL# - Por Cliente
+0018#STR0018#ALL# - Por Prefixo/Numero
+0019#STR0019#ALL# - Por Cod.Cliente
+0020#STR0020#ALL#Por Numero/Prefixo
+0021#STR0021#ALL# - Numero/Prefixo
+0022#STR0022#ALL#Selecionando Registros...
+0023#STR0023#ALL#CANCELADO PELO OPERADOR
+0024#STR0024#ALL#Posicao dos Titulos a Receber (Filiais selecionadas para o relatorio)
+0025#STR0025#ALL#Código               Empresa                                                      Unidade de Negócio                                           Filial
+0026#STR0026#ALL#Filial : 

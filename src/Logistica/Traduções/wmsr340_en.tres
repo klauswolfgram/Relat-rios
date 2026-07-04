@@ -1,0 +1,19 @@
+0001#STR0001#ALL#LOAD vs. ORDER ANALYSIS 
+0002#STR0002#ALL#Z. form
+0003#STR0003#ALL#Management   
+0004#STR0004#ALL# LOAD    ORDER   PRODUCT                QTTY. LOT         COD  BLC  SERVICE           SEPARAT.          VERIFICAT.      REL.INVOICE
+0005#STR0005#ALL#CANCELLED BY OPERATOR  
+0006#STR0006#ALL#Yes
+0007#STR0007#ALL#No 
+0008#STR0008#ALL#Enter the Service/Task of separation !
+0009#STR0009#ALL#Analysis of cargo x order showing the service status
+0010#STR0010#ALL#Cargo
+0011#STR0011#ALL#Qty.
+0012#STR0012#ALL#Cd.
+0013#STR0013#ALL#Blk
+0014#STR0014#ALL#Service
+0015#STR0015#ALL#Separat. 
+0016#STR0016#ALL#Checking   
+0017#STR0017#ALL#Rel.Billing
+0018#STR0018#ALL#Selecting records ...    
+0019#STR0019#ALL#Released sale order items          

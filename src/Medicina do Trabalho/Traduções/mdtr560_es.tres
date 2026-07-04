@@ -1,0 +1,33 @@
+0001#STR0001#ALL#Informe para imprimir los Examenes relacionados a los riesgos.
+0002#STR0002#ALL#Estos riesgos se filtraran por medio de los parametros informados por el
+0003#STR0003#ALL#usuario.
+0004#STR0004#ALL#A rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#Examemes por Riesgo
+0007#STR0007#ALL#Departamento
+0008#STR0008#ALL#Examenes:
+0009#STR0009#ALL#N° Ries.
+0010#STR0010#ALL#Agente
+0011#STR0011#ALL#Centro de Costo
+0012#STR0012#ALL#Func.
+0013#STR0013#ALL#Tarea
+0014#STR0014#ALL#Exam.
+0015#STR0015#ALL#Nom del Exam.
+0016#STR0016#ALL#¿De Cliente?
+0017#STR0017#ALL#Tienda
+0018#STR0018#ALL#¿A Cliente ?
+0019#STR0019#ALL#Código del cliente. El campo puede permanecer vacio para considerar desde primer codigo.
+0020#STR0020#ALL#Codigo de tienda del cliente. El campo puede permanecer vacio para considerar desde primer codigo.
+0021#STR0021#ALL#Codigo de cliente. El campo puede rellenarse con la letra Z hasta final para considerar ultimo codigo.
+0022#STR0022#ALL#Codigo de tienda de cliente. El campo puede rellenarse con la letra Z hasta final para considerar ultimo codigo.
+0023#STR0023#ALL#No hay nada para imprimir en el informe.
+0024#STR0024#ALL#Cliente
+0025#STR0025#ALL#Nom.
+0026#STR0026#ALL#Todos
+0027#STR0027#ALL#Todas
+0028#STR0028#ALL#Cliente/Tien: 
+0029#STR0029#ALL#¿A Examen ?
+0030#STR0030#ALL#¿De Examen ?
+0031#STR0031#ALL#¿A Riesgo?
+0032#STR0032#ALL#¿De Riesgo ?
+0033#STR0033#ALL#Departamento

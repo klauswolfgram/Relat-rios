@@ -1,0 +1,125 @@
+0001#STR0001#ALL#This program will print all vehicles sales 
+0002#STR0002#ALL#performed along the selected period.       
+0003#STR0003#ALL#The returns may be considered.
+0004#STR0004#ALL#Vehicles Sales in the Period
+0005#STR0005#ALL# [TI Nr./Ser---] [Situation] [Sale Dt] [Invoicing Tp] [Sale Type-----------] [Operation Type] [Customer----------------------] [City------------------State] [Salesman---------][Ent.Trans.]
+0006#STR0006#ALL# [C.In] [Brand------] [Man/Mod] [Chassis Number---------] [Model Code------------------] [Model Description-----------] [Model Complement--] [Vehicle`s Color-----------------------] [Outf.Tr.]
+0007#STR0007#ALL#Z.Form
+0008#STR0008#ALL#Management
+0009#STR0009#ALL# from 
+0010#STR0010#ALL# to 
+0011#STR0011#ALL# (Sales,
+0012#STR0012#ALL# (Simulation,
+0013#STR0013#ALL# (Transfer,
+0014#STR0014#ALL# (Remittance,
+0015#STR0015#ALL# (Return,
+0016#STR0016#ALL# (All Operations,
+0017#STR0017#ALL# with Invoice Canceled)
+0018#STR0018#ALL# with Regular Invoice)
+0019#STR0019#ALL# Invoices Canceled and Regular)
+0020#STR0020#ALL#*** CANCELLED BY THE OPERATOR ***
+0021#STR0021#ALL#Valid
+0022#STR0022#ALL#Returned
+0023#STR0023#ALL#Cancelled
+0024#STR0024#ALL#Brand New Vehicle
+0025#STR0025#ALL#2nd.Hand Vehicle
+0026#STR0026#ALL#Direct Inv.
+0027#STR0027#ALL#Sale
+0028#STR0028#ALL#Simulation
+0029#STR0029#ALL#Transfer
+0030#STR0030#ALL#Remittance
+0031#STR0031#ALL#Return
+0032#STR0032#ALL#Sale Vl.:
+0033#STR0033#ALL#PIS Vl.
+0034#STR0034#ALL#Cofins Vl.:
+0035#STR0035#ALL#ICMS Vl.:
+0036#STR0036#ALL#ICMS Rate:
+0037#STR0037#ALL#Intermed.Commission:
+0038#STR0038#ALL#Gross Profit:
+0039#STR0039#ALL#Payment Terms:
+0040#STR0040#ALL#Number
+0041#STR0041#ALL#Installment
+0042#STR0042#ALL#Due Date
+0043#STR0043#ALL#Value
+0044#STR0044#ALL#Initial Date      ?
+0045#STR0045#ALL#Final Date        ?
+0046#STR0046#ALL#Cons. Operation   ?
+0047#STR0047#ALL#Cons.   Status    ?
+0048#STR0048#ALL#Regular
+0049#STR0049#ALL#All
+0050#STR0050#ALL#[-Invoices Summary-]
+0051#STR0051#ALL#[--Total of Sale--]
+0052#STR0052#ALL#[----PIS Total----]
+0053#STR0053#ALL#[--COFINS Total---]
+0054#STR0054#ALL#[---ICMS Total----]
+0055#STR0055#ALL#[Total Com. Inter.]
+0056#STR0056#ALL#[--Gross Profit---]
+0057#STR0057#ALL#Cancelled......
+0058#STR0058#ALL#Normal.........
+0059#STR0059#ALL#[-Operat. Summary--]
+0060#STR0060#ALL#Sales..........
+0061#STR0061#ALL#Simulation.....
+0062#STR0062#ALL#Transfer.......
+0063#STR0063#ALL#Remittance.....
+0064#STR0064#ALL#Return.........
+0065#STR0065#ALL#Sales(c).......
+0066#STR0066#ALL#Simulation(c)..
+0067#STR0067#ALL#Transfer(c)....
+0068#STR0068#ALL#Remittance(c)..
+0069#STR0069#ALL#Return(c)......
+0070#STR0070#ALL#Brand new vehicles ..........:
+0071#STR0071#ALL#Used vehicles total .......:
+0072#STR0072#ALL#Vehicle grand total ...........:
+0073#STR0073#ALL#Quantity...:
+0074#STR0074#ALL#Cost value: 
+0075#STR0075#ALL#Vehicles sold per period
+0076#STR0076#ALL#Section 1
+0077#STR0077#ALL#Note
+0078#STR0078#ALL#[Nr.NF/Ser---] [Situat] [Sale Dt] [Invoicing Tp] [Sale Type-----------] [Operation Type] [Customer----------------------] [City------------------State] [Salesman---------]
+0079#STR0079#ALL#[InC.] [Brand------] [Man/Mod] [Vehicle Chassis----] [Model Code----------] [Model Description-------] [Model Complement] [Vehicle Color] [Receip.Tran] [Iss.Tran]
+0080#STR0080#ALL#G R A N D   T O T A L
+0081#STR0081#ALL#Number of Vehicles 
+0082#STR0082#ALL#Phone
+0083#STR0083#ALL#Addr
+0084#STR0084#ALL#CEP (Zip Code)
+0085#STR0085#ALL#INFLOW DATE
+0086#STR0086#ALL#IPI Value:
+0087#STR0087#ALL#Start Date
+0088#STR0088#ALL#End Date
+0089#STR0089#ALL#Consider
+0090#STR0090#ALL#List
+0091#STR0091#ALL#All
+0092#STR0092#ALL#New Only
+0093#STR0093#ALL#Used Only
+0094#STR0094#ALL#Sales Representative
+0095#STR0095#ALL#Sales Modality
+0096#STR0096#ALL#Date considered in return
+0097#STR0097#ALL#This report prints sales of vehicles in the period
+0098#STR0098#ALL#[No.Invoice/Ser]
+0099#STR0099#ALL#[Status]
+0100#STR0100#ALL#[Life Dt]
+0101#STR0101#ALL#[Billing Tp.]
+0102#STR0102#ALL#[Sales Type------------------]
+0103#STR0103#ALL#[Operation Type]
+0104#STR0104#ALL#[Customer----------------------]
+0105#STR0105#ALL#[City----------------]
+0106#STR0106#ALL#[State]
+0107#STR0107#ALL#[Sales Representative-------------]
+0108#STR0108#ALL#[Tran.Inp]
+0109#STR0109#ALL#[C.In]
+0110#STR0110#ALL#[Brand------]
+0111#STR0111#ALL#[Man/Mod]
+0112#STR0112#ALL#[Vehicle Chassis------]
+0113#STR0113#ALL#[Model Code---------------]
+0114#STR0114#ALL#[Model Description------------]
+0115#STR0115#ALL#[Model Complement]
+0116#STR0116#ALL#[Vehicle Color------------------------]
+0117#STR0117#ALL#[Tran.Outp]
+0118#STR0118#ALL#Branch from
+0119#STR0119#ALL#Branch to
+0120#STR0120#ALL#[Cond. Pagamen]
+0121#STR0121#ALL#[Forma de Pagamento]
+0122#STR0122#ALL#[Telefone]
+0123#STR0123#ALL#[Endereço / CEP]
+0124#STR0124#ALL#[Data Entr.]
+0125#STR0125#ALL#[Fil. da NF/SER]

@@ -1,0 +1,31 @@
+0001#STR0001#ALL#Registo(s)
+0002#STR0002#ALL#Análise Da Movimentação
+0003#STR0003#ALL#Este relatório emite a análise da movimentaçäo dos stocks dos artigos
+0004#STR0004#ALL#Num determinado período, sendo que este deve estar registado nos fi-
+0005#STR0005#ALL#quivos de movimentação.
+0006#STR0006#ALL# por código         
+0007#STR0007#ALL# por tipo           
+0008#STR0008#ALL# por descrição     
+0009#STR0009#ALL# por grupo        
+0010#STR0010#ALL#Código de barras
+0011#STR0011#ALL#Administração
+0012#STR0012#ALL#Código          Tp Grup Descrição              Um        Saldo   Do   Período         Stock Médio Do Período      Valor Médio
+0013#STR0013#ALL#                                                      Quantidade          Valor      Quantidade          Valor      Das Compras
+0015#STR0015#ALL# até 
+0016#STR0016#ALL#Cancelado Pelo Operador
+0017#STR0017#ALL#Sub-total do 
+0020#STR0020#ALL#Total crial ...
+0021#STR0021#ALL#A Seleccionar Registos
+0022#STR0022#ALL#Código
+0023#STR0023#ALL#Tp.
+0024#STR0024#ALL#Grup
+0025#STR0025#ALL#Descrição
+0026#STR0026#ALL#Um
+0027#STR0027#ALL#Em Quantidade
+0028#STR0028#ALL#Em Valor
+0029#STR0029#ALL#Saldo Do Período
+0030#STR0030#ALL#Stock Médio
+0031#STR0031#ALL#Das Compras
+0032#STR0032#ALL#Valor Médio
+0033#STR0033#ALL#T o t a l   g e r a l :
+0034#STR0034#ALL#Movimentação Dos Artigos

@@ -1,0 +1,13 @@
+0001#STR0001#ALL#DOCUMENTS LIST vs. DEPARTMENTS    
+0002#STR0002#ALL#This program will print a list of documents, with the      
+0003#STR0003#ALL#hard-copies quantity distributed to the corresponding        
+0004#STR0004#ALL#receiving departments.    
+0005#STR0005#ALL#Z.Form
+0006#STR0006#ALL#Management   
+0007#STR0007#ALL#CANCELLED BY OPERATOR
+0008#STR0008#ALL#DOCUMENT          REV  BILL                                                       COPIES DEPARTMENTS                                      COPIES/DEPT.
+0009#STR0009#ALL#Selecting Records..     
+0010#STR0010#ALL#Copies
+0011#STR0011#ALL#Department  
+0012#STR0012#ALL#Document 
+0013#STR0013#ALL#Copies/Dept.

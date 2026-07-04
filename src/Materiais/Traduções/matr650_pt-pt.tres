@@ -1,0 +1,18 @@
+0001#STR0001#ALL#Este programa irá emitir a relação de facturas por
+0002#STR0002#ALL#Ordem De Transportadora.
+0003#STR0003#ALL#Código de barras
+0004#STR0004#ALL#Administração
+0005#STR0005#ALL#Relação Das Facturas Para As Transportadoras
+0006#STR0006#ALL#Relação Das Facturas Para As Transportadoras
+0007#STR0007#ALL#REC.DEP  |EMPRESA FACTURA          VOLUME  N O M E  D O  C L I E N T E QUANTIDADE           VALOR  CONCELHO        DT  PESO BRUTO 
+0008#STR0008#ALL#Data Hora|
+0009#STR0009#ALL#A Seleccionar Registos...
+0010#STR0010#ALL#Cancelado Pelo Operador
+0011#STR0011#ALL#Total ------->
+0012#STR0012#ALL#REC.DEP  |EMPRESA FACTURA           VOLUME NOME DO CLIENTE/FORNECEDOR  QUANTIDADE           VALOR  CONCELHO        DT  PESO BRUTO
+0013#STR0013#ALL#Relação das facturas para as transportadoras	
+0014#STR0014#ALL#Este programa irá emitir a relação de facturas por
+0015#STR0015#ALL#Ordem De Transportadora.
+0018#STR0018#ALL#N o m e  do  c l i e n t e
+0020#STR0020#ALL#Concelho
+0021#STR0021#ALL#Total Da Transportadora

@@ -1,0 +1,26 @@
+0001#STR0001#ALL#Informe de presentacion de las enfermedades de los empleados por centro de costos,
+0002#STR0002#ALL#basado en los diagnostigos emitidos por los medicos.             
+0003#STR0003#ALL#A traves de los parametros se podra seleccionar C.Costo y/o CID.  
+0004#STR0004#ALL#A Rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#CID vs Centro de Costos
+0007#STR0007#ALL#C.Costo    Nombre del Centro de Costos
+0008#STR0008#ALL#C.I.D.   Descripcion                                            Grupo C.I.D.
+0009#STR0009#ALL#Masc.    Fem.   Total
+0010#STR0010#ALL#ANULADO POR EL OPERADOR
+0011#STR0011#ALL#Cliente..:
+0012#STR0012#ALL#¿De Cliente?
+0013#STR0013#ALL#Tienda
+0014#STR0014#ALL#¿A Cliente?
+0015#STR0015#ALL#Codigo del cliente. El campo puede permanecer vacio para considerar desde el primer codigo.
+0016#STR0016#ALL#Código da loja do cliente. O campo pode permanecer vazio para considerar desde o primeiro código.
+0017#STR0017#ALL#Codigo del cliente. El campo puede rellenarse con la letra Z hasta el final para considerar el ultimo codigo.
+0018#STR0018#ALL#Codigo de la tienda del cliente. El campo puede rellenarse con la letra Z hasta el final para considerar el ultimo codigo.
+0019#STR0019#ALL#Cliente/Tienda: 
+0020#STR0020#ALL#No hay nada para imprimir en el informe.
+0021#STR0021#ALL#¿A Fecha Diagnost. ?
+0022#STR0022#ALL#¿De Fecha Diagnost. ?
+0023#STR0023#ALL#¿A CID ?
+0024#STR0024#ALL#¿De  CID ?
+0025#STR0025#ALL#¿Por Centro de Costo ?
+0026#STR0026#ALL#¿De Centro de Costo ?

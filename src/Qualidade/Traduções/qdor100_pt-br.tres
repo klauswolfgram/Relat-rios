@@ -1,0 +1,14 @@
+0001#STR0001#ALL#Devolucao de Revisao Anterior
+0002#STR0002#ALL#Este programa irá imprimir uma relaçäo das pendências de 
+0003#STR0003#ALL#devolucao de revisao anterior de documentos, de acordo com 
+0004#STR0004#ALL#os parâmetros definidos pelo usuário.
+0005#STR0005#ALL#Zebrado
+0006#STR0006#ALL#Administraçäo
+0007#STR0007#ALL#Selecionando Registros..
+0008#STR0008#ALL#USUARIO                              DEPTO                      TOTAL COPIAS  DEVOLVIDAS  NAO DEVOLVIDAS  DATA GERACAO  DATA BAIXA
+0009#STR0009#ALL#CANCELADO PELO OPERADOR
+0010#STR0010#ALL#DOCUMENTO/REVISAO:
+0011#STR0011#ALL#Usuario
+0012#STR0012#ALL#Total Copias
+0013#STR0013#ALL#Devolvidas
+0014#STR0014#ALL#Nao Devolvidas

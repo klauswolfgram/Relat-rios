@@ -1,0 +1,24 @@
+0001#STR0001#ALL#Este programa irá emitir a posição dos fornecedores
+0002#STR0002#ALL#Referente a data base do sistema.
+0003#STR0003#ALL#Código de barras
+0004#STR0004#ALL#Administração
+0005#STR0005#ALL#Posição dos fornecedores 
+0006#STR0006#ALL#Prf número       pc tip  valor original   emissão     vencto      liquidação                                            pagamentos                                                                                     
+0007#STR0007#ALL#                                                                           Lei 10925    Descontos   Abatimentos         Juros         Multa   Corr. Monet      Valor Pago  Pgt.antecip.        Saldo Actual  Motivo
+0008#STR0008#ALL#Cancelado Pelo Operador
+0009#STR0009#ALL#Fornecedor : 
+0011#STR0011#ALL#Total geral ---->
+0012#STR0012#ALL#Por Código
+0014#STR0014#ALL#A Seleccionar Registos...
+0015#STR0015#ALL#Facturado
+0017#STR0017#ALL#Títulos
+0018#STR0018#ALL#Prf Número
+0019#STR0019#ALL#Pc
+0024#STR0024#ALL#Liquidação 
+0032#STR0032#ALL#Pagto.antecip
+0033#STR0033#ALL#Saldo Actual
+0035#STR0035#ALL#T o t a l   f i l i a l ----> 
+0036#STR0036#ALL#Total  filial: 
+0037#STR0037#ALL#Totais Por Filial
+0038#STR0038#ALL#Totais Por Fornecedor
+0039#STR0039#ALL#                                                                                        Descontos   Abatimentos         Juros         Multa   Corr. Monet.      Valor Pagamento  Pagt.antecip.        Saldo Actual  Motivo

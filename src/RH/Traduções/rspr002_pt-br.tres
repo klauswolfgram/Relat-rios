@@ -1,0 +1,9 @@
+0001#STR0001#ALL#Selecione arquivo 
+0002#STR0002#ALL#Nao existe arquivo selecionado
+0003#STR0003#ALL#Arquivo esta sendo usado
+0004#STR0004#ALL#Este arquivo nao pertence a pesquisa
+0005#STR0005#ALL#Modelo de documentos(*.PES)  |*.PES|Modelo de documentos(*.CSV) |*.CSV|
+0006#STR0006#ALL#Selecionar
+0007#STR0007#ALL#Resultados de Pesquisas Salvos em sua Base
+0008#STR0008#ALL#Informe o nome da tabela utilizada!
+0009#STR0009#ALL#Não existem pesquisas efetuadas em sua Base de dados. Caso existam arquivos de pesquisa (.PES ou .CSV) a serem consultados, utilize a rotina RSPM003 para importação dos dados.

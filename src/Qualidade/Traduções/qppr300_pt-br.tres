@@ -1,0 +1,43 @@
+0001#STR0001#ALL#Checklist APQP A6
+0002#STR0002#ALL#Gerando Visualizacao, Aguarde...
+0003#STR0003#ALL# O Fluxograma ilustra a sequencia de producao e
+0004#STR0004#ALL# pontos de inspecao ?
+0005#STR0005#ALL# Todos os FMEA apropriados (SFMEA, DFMEA) estavam
+0006#STR0006#ALL# disponiveis e foram usados como auxilio para
+0007#STR0007#ALL# desenvolver o fluxograma de processo ?
+0008#STR0008#ALL# O Fluxograma esta direcionado as verificacoes de
+0009#STR0009#ALL# produto e processo no plano de controle ?
+0010#STR0010#ALL# O fluxograma descreve como o produto sera
+0011#STR0011#ALL# movimentado isto e, correia transportadora,
+0012#STR0012#ALL# container deslizantes, etc. ?
+0013#STR0013#ALL# A otimizacao/Sistema de tracao foi considerada para
+0014#STR0014#ALL# este processo ?
+0015#STR0015#ALL# Foram tomadas medidas para identificar e inspecionar
+0016#STR0016#ALL# os produtos retrabalhados antes de serem usados ?
+0017#STR0017#ALL# Problemas de qualidade em potenciais devido ao
+0018#STR0018#ALL# manuseio e processamento externo, foram identificados
+0019#STR0019#ALL# e corrigidos ?
+0020#STR0020#ALL#Preparado Por
+0021#STR0021#ALL# A-6 LISTA DE VERIFICACAO DO FLUXOGRAMA DO PROCESSO
+0022#STR0022#ALL#Numero da Peca Interno ou do Cliente
+0023#STR0023#ALL#Pergunta
+0024#STR0024#ALL#Sim
+0025#STR0025#ALL#Nao
+0026#STR0026#ALL#Cometarios / Acao Requerida
+0027#STR0027#ALL#Pessoa Responsavel
+0028#STR0028#ALL#Data Prevista
+0029#STR0029#ALL#Data de Revisao
+0030#STR0030#ALL#Pagina 
+0031#STR0031#ALL# de 
+0032#STR0032#ALL#elevação dos produtos, incluindo identificação
+0033#STR0033#ALL#apropriada, foram identificados e implementados adequadamemte?
+0034#STR0034#ALL#N/a
+0035#STR0035#ALL#O fluxograma Ilustra todo processo desde o
+0036#STR0036#ALL#recebimento até a expedição, incluindo processos e
+0037#STR0037#ALL#Serviços externos?
+0038#STR0038#ALL#No desenvolvimento do fluxograma de processo, a
+0039#STR0039#ALL#DFMEA foi utilizada, se disponível, para identificar
+0040#STR0040#ALL#características especificas que podem ser criticas?
+0041#STR0041#ALL#O fluxograma esta adaptado às verificações do produto
+0042#STR0042#ALL#e processo no Plano de controle e na PFMEA?
+0043#STR0043#ALL#Os Controles de Material para movimentação e

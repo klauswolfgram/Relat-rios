@@ -1,0 +1,13 @@
+0001#STR0001#ALL#LISTA DE DOCUMENTOS VENCIDOS Y A VENCER
+0002#STR0002#ALL#Este programa imprimira un detalle de documentos vencidos y por vencer
+0003#STR0003#ALL#segun los parametros definidos por el usuario.     
+0004#STR0004#ALL#A Rayas
+0005#STR0005#ALL#Administrac. 
+0006#STR0016#ALL#Seleccionando registros..
+0007#STR0017#ALL#DOCUMENTO         REV TITULO                                                                                                                              FC LIM.    DIAS             USR DIGITADOR  DPTO.
+0008#STR0018#ALL#ANULADO POR EL OPERADOR
+0009#STR0019#ALL#A Vencer
+0010#STR0020#ALL#Vencido
+0011#STR0021#ALL#USR DIGITADOR
+0012#STR0022#ALL#DIAS
+0013#STR0023#ALL#Documentos

@@ -1,0 +1,27 @@
+0001#STR0001#ALL#Relaçäo das Sugestöes de Orçamentos
+0002#STR0002#ALL#Este relatorio irá imprimir a relaçäo das Sugestöes
+0003#STR0003#ALL#de Venda conforme os parametros solicitados.       
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#PRODUTO                                         GERAR             COMPONENTE
+0007#STR0007#ALL#CODIGO          DESCRICAO                       PV  OP  OP.IT EMP IT CODIGO          DESCRICAO                            QUANTIDADE
+0008#STR0008#ALL#CANCELADO PELO OPERADOR
+0009#STR0009#ALL#Sim
+0010#STR0010#ALL#Nao
+0011#STR0011#ALL#Relaçäo das Sugestöes de Orçamentos
+0012#STR0012#ALL#Este relatorio irá imprimir a relaçäo das Sugestöes
+0013#STR0013#ALL#de Venda conforme os parametros solicitados.       
+0014#STR0014#ALL#Descrição
+0015#STR0015#ALL#Gerar PV
+0016#STR0016#ALL#Gerar OP
+0017#STR0017#ALL#Gerar OP.IT
+0018#STR0018#ALL#Emp
+0019#STR0019#ALL#Sugestöes de Orçamentos
+0020#STR0020#ALL#CODIGO
+0021#STR0021#ALL#DESCRICAO
+0022#STR0022#ALL#PV
+0023#STR0023#ALL#OP
+0024#STR0024#ALL#OP.IT
+0025#STR0025#ALL#EMP
+0026#STR0026#ALL#IT
+0027#STR0027#ALL#QUANTIDADE

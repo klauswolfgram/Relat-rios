@@ -1,0 +1,19 @@
+0001#STR0001#ALL#Informe de Plaza de Peaje
+0002#STR0002#ALL#Emision de Plaza de Peaje
+0003#STR0003#ALL#Imprimira los datos de Plaza de Peaje
+0004#STR0004#ALL#de acuerdo con la configuracion del usuario.
+0005#STR0005#ALL#A rayas
+0006#STR0006#ALL#Administracion
+0007#STR0007#ALL# Cod. Carret. Nomb Carretera  Sec. Peaje   Kilometro Municipio       Provinc.      Valor Eje
+0008#STR0008#ALL#*** ANULADO POR EL OPERADOR ***
+0009#STR0009#ALL#Lista de Puntos de Peaje
+0010#STR0010#ALL#Emision de Puntos de Peaje
+0011#STR0011#ALL#Carretera
+0012#STR0012#ALL#Cod.Carretera
+0013#STR0013#ALL#Nombre Carretera
+0014#STR0014#ALL#Sec.Peaje
+0015#STR0015#ALL#Kilometro
+0016#STR0016#ALL#Municipio
+0017#STR0017#ALL#Estado
+0018#STR0018#ALL#Valor Eje
+0019#STR0019#ALL#Valor Vehic.

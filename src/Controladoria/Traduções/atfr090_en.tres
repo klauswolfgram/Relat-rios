@@ -1,0 +1,30 @@
+0001#STR0001#ALL#This program will print the list of goods acquired by 
+0002#STR0002#ALL#advanced payment. Can be sorted by Code, Account, Cost
+0003#STR0003#ALL#Center, Project or Acquisition Date.
+0004#STR0004#ALL#Report of Advances
+0005#STR0005#ALL#Per Code
+0006#STR0006#ALL#Per Account
+0007#STR0007#ALL#Per C.Center
+0008#STR0008#ALL#Project
+0009#STR0009#ALL#Date
+0010#STR0010#ALL#Values in 
+0011#STR0011#ALL#Code        Item   Ledger Account         CostCntr                Project                  Date            Amount Advanced     Deprec.Acct            Accum.Depr.Acct        Indexat. Acct.    Ledger Item     Value Class 
+0012#STR0012#ALL#CANCELLED BY THE OPERATOR
+0013#STR0013#ALL#GRAND TOTAL: 
+0014#STR0014#ALL#Z.Form
+0015#STR0015#ALL#Management
+0016#STR0016#ALL#TOTAL 
+0017#STR0017#ALL#Ledger Accnt.
+0018#STR0018#ALL#Value class    
+0019#STR0019#ALL#Code        Item   Ledger Account         CostCntr                Project                  Date            Amount Advanced     Deprec.Acct            Accum.Depr.Acct        Indexat. Acct.       Value Class 
+0020#STR0020#ALL#Code        Item   Ledger Account         CostCntr                Project                  Date            Amount Advanced     Deprec.Acct            Accum.Depr.Acct        Indexat. Acct.     Accntg.Item 
+0021#STR0021#ALL# FROM BASE CODE 
+0022#STR0022#ALL# FROM LEDGER ACCOUNT 
+0023#STR0023#ALL# FROM ACCOUNTING ITEM 
+0024#STR0024#ALL# FROM VALUE CLASS   
+0025#STR0025#ALL# OC COST CENTER     
+0026#STR0026#ALL#Advance amount   
+0027#STR0027#ALL#Item
+0028#STR0028#ALL#Code  
+0029#STR0029#ALL#Order of downpayments  
+0030#STR0030#ALL#Downpayment movements      

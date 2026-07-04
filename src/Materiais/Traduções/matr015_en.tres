@@ -1,0 +1,25 @@
+0001#STR0001#ALL#Original Invoice X Freight/Import Invoice
+0002#STR0002#ALL#This report will print the Freight/Import Invoices
+0003#STR0003#ALL#and the original invoices that generated
+0004#STR0004#ALL#that ones.
+0005#STR0005#ALL#By Freight/Import Invoice
+0006#STR0006#ALL#By Original Inv.
+0007#STR0007#ALL#Z.Form
+0008#STR0008#ALL#Management
+0009#STR0009#ALL#ORIGINAL INV.      SERIES      ISSUE DATE
+0010#STR0010#ALL#                   ORIGINAL
+0011#STR0011#ALL#FREIGHT INV.       SERIES      ISSUE DATE          TYPE
+0012#STR0012#ALL#IMPORT
+0013#STR0013#ALL#Selecting Records...
+0014#STR0014#ALL#CANCELLED BY THE OPERATOR
+0015#STR0015#ALL#Inv.: 
+0016#STR0016#ALL#Series:
+0017#STR0017#ALL#Vendor: 
+0018#STR0018#ALL#Unit : 
+0019#STR0019#ALL#Type : 
+0020#STR0020#ALL#Freight
+0021#STR0021#ALL#Import Expense
+0022#STR0022#ALL#Freight document (Order by freight) 
+0023#STR0023#ALL#Original inflow document (Order by freight)    
+0024#STR0024#ALL#Original inflow document (Order by Original Invoice) 
+0025#STR0025#ALL#Freight document (Order by Original invoice)

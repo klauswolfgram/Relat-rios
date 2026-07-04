@@ -1,0 +1,42 @@
+0001#STR0001#ALL#Este programa tem como objetivo imprimir relatorio 
+0002#STR0002#ALL#de acordo com os parametros informados pelo usuario.
+0003#STR0003#ALL#Apontamentos de Recursos do Projeto
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#|   Data    | Projeto    | Descricao do Projeto                | Tarefa       | Descricao da Tarefa                      | Equipe     | Descricao da Equipe            |             Custo |H.Inicial| H.Final | Qtde.Horas |
+0007#STR0007#ALL#|   Data    | Tarefa       | Descricao da Tarefa            | Recurso         | Descricao do Recurso      | Equipe     | Descricao da Equipe            |             Custo | Hora Inicial |  Hora Final  |  Qtde. de Horas |
+0008#STR0008#ALL#*** CANCELADO PELO OPERADOR ***
+0009#STR0009#ALL#Recurso:
+0010#STR0010#ALL#| Total de horas utilizadas deste recurso ...................................................................................................................................................................:
+0011#STR0011#ALL#Projeto:
+0012#STR0012#ALL#| Total de horas utilizadas deste recurso nesta tarefa ..................................................................................................................................................:
+0013#STR0013#ALL#| Data      | Projeto    | Descricao do Projeto           | Tarefa       | Descricao da Tarefa          | Recurso         | Descricao do Recurso        |             Custo | Hora Inicial |  Hora Final  |  Qtde. de Horas |
+0014#STR0014#ALL#Equipe:
+0015#STR0015#ALL#Total de horas utilizadas desta equipe ................................................................................................................................................................:
+0016#STR0016#ALL#| Custo total deste recurso ..........................................................................................................................................:
+0017#STR0017#ALL#| Custo total deste recurso ..........................................................................................................................:
+0018#STR0018#ALL#Custo total deste recurso ...........................................................................................................................:	
+0019#STR0019#ALL#TOTAIS DO RECURSO 
+0020#STR0020#ALL#TOTAL GERAL DOS RECURSOS 
+0021#STR0021#ALL#TOTAIS DO PROJETO 
+0022#STR0022#ALL#TOTAL GERAL DOS PROJETOS 
+0023#STR0023#ALL#TOTAIS DA EQUIPE 
+0024#STR0024#ALL#TOTAL GERAL DAS EQUIPES 
+0025#STR0025#ALL#|   Data    | Projeto    | Descricao do Projeto                | Tarefa                                             | Descricao da Tarefa                     
+0026#STR0026#ALL#|                                                                                                                  | Equipe     | Descricao da Equipe                 |             Custo |H.Inicial| H.Final | Qtde.Horas |
+0027#STR0027#ALL#|   Data    | Tarefa                                           | Descricao da Tarefa                                                                    | Recurso           | Descricao do Recurso                           
+0028#STR0028#ALL#                                                              | Equipe     | Descricao da Equipe                                                       |             Custo | Hora Inicial |  Hora Final  |  Qtde. de Horas |
+0029#STR0029#ALL#| Data      | Projeto    | Descricao do Projeto                          | Tarefa                                             | Descricao da Tarefa
+0030#STR0030#ALL#                                                                        | Recurso         | Descricao do Recurso                                       |             Custo | Hora Inicial |  Hora Final  |  Qtde. de Horas |
+0031#STR0031#ALL#Recurso
+0032#STR0032#ALL#Projeto
+0033#STR0033#ALL#Equipe
+0034#STR0034#ALL#Apontamentos
+0035#STR0035#ALL#Recurso por dia
+0036#STR0036#ALL#Não disponível
+0037#STR0037#ALL#Ordem 'Recurso por dia' somente disponível para ambiente SQL e relatório personalizável
+0038#STR0038#ALL#Ok
+0039#STR0039#ALL#Ordem 'Recurso por dia' somente disponível para ambiente SQL
+0040#STR0040#ALL#1ro apont.
+0041#STR0041#ALL#Ult. apont.
+0042#STR0042#ALL#Total de Horas

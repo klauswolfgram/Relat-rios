@@ -1,0 +1,72 @@
+0001#STR0001#ALL#Report of Present or Absent Employees
+0002#STR0002#ALL#It is printed according to the parameters selected 
+0003#STR0003#ALL#by the User.
+0004#STR0004#ALL#Registr.
+0005#STR0005#ALL#Cost Center
+0006#STR0006#ALL#Name
+0007#STR0007#ALL#Shift
+0008#STR0008#ALL#Z.Form
+0009#STR0009#ALL#Management
+0010#STR0011#ALL#Report of Presents / Absents
+0011#STR0012#ALL#          |              Scheduled Time                   | |             Attended Time                                 |
+0012#STR0013#ALL#Date      |1.In. 1.Ou.|2.In. 2.Ou.|3.In. 3.Ou.|4.In. 4.Ou.| |1.In. 1.Ou.|2.In. 2.Ou.|3.In. 3.Ou.|4.In. 4.Ou.|5.In. 5.Ou.|
+0013#STR0014#ALL#Report of 
+0014#STR0015#ALL#Absents
+0015#STR0016#ALL#Presents
+0016#STR0018#ALL#           ** Vacat. **            
+0017#STR0019#ALL#          **  Absent  **           
+0018#STR0021#ALL#Branch: 
+0019#STR0022#ALL#    C.C: 
+0020#STR0023#ALL# Shift: 
+0021#STR0024#ALL#C.Cent.+Name
+0022#STR0026#ALL#REG.: 
+0023#STR0027#ALL#NAME: 
+0024#STR0028#ALL#C.CENT.: 
+0025#STR0029#ALL#CURR. SHIFT: 
+0026#STR0030#ALL#Badge
+0027#STR0034#ALL#Select the Day'(s) of work Starting on:
+0028#STR0035#ALL#Select the printing option: 
+0029#STR0036#ALL#By Period
+0030#STR0037#ALL#By Dates
+0031#STR0038#ALL#Process: 
+0032#STR0039#ALL#Period: 
+0033#STR0040#ALL#Procedure: 
+0034#STR0041#ALL#Paym. Nbr.: 
+0035#STR0042#ALL#Department
+0036#STR0043#ALL#DEP.: 
+0037#STR0044#ALL#Occorrences During Printing
+0038#STR0045#ALL#Problem with access mode of the period file (SPO).
+0039#STR0046#ALL#Incorrect period!
+0040#STR0047#ALL#Number of orders higher than the one allowed.
+0041#STR0048#ALL#Problem while loading the standard table shift!
+0042#STR0049#ALL#Invalid Work Shift!
+0043#STR0050#ALL#Invalid Annotation Rule!
+0044#STR0051#ALL#Problem Description - 
+0045#STR0052#ALL#Report Occorrences - (Absents/Presents)
+0046#STR0053#ALL#ATTENTION: 
+0047#STR0054#ALL# There are no annotation rules registered for the following employees: 
+0048#STR0055#ALL#OK
+0049#STR0056#ALL#This program issues Present or Absent Employees List.
+0050#STR0057#ALL#Employees
+0051#STR0058#ALL#Branch Desc
+0052#STR0059#ALL#Selections
+0053#STR0060#ALL#Date
+0054#STR0061#ALL#1a.E. 1a.S.
+0055#STR0062#ALL#2a.E. 2a.S.
+0056#STR0063#ALL#3a.E. 3a.S.
+0057#STR0064#ALL#4a.E. 4a.S.
+0058#STR0065#ALL#1a.E. 1a.S.
+0059#STR0066#ALL#2a.E. 2a.S.
+0060#STR0067#ALL#3a.E. 3a.S.
+0061#STR0068#ALL#4a.E. 4a.S.
+0062#STR0069#ALL#5a.E. 5a.S.
+0063#STR0070#ALL#Badge
+0064#STR0071#ALL#Programmed Schedule
+0065#STR0072#ALL#Performed Schedule
+0066#STR0073#ALL#Process
+0067#STR0074#ALL#Period
+0068#STR0075#ALL#Rot
+0069#STR0076#ALL#NP
+0070#STR0077#ALL#Tno
+0071#STR0078#ALL#Dept
+0072#STR0079#ALL#Cost Center

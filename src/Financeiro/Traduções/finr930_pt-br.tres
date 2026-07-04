@@ -1,0 +1,23 @@
+0001#STR0001#ALL#Imprime relacao de titulos a pagar de impostos 
+0002#STR0002#ALL#(Pis, Cofins e Csll), exibindo os titulos que 
+0003#STR0003#ALL#originaram aglutinacao e o titulo aglutinador.
+0004#STR0004#ALL#Aglutinacao de Impostos a Pagar
+0005#STR0005#ALL#Zebrado
+0006#STR0006#ALL#Administracao
+0007#STR0007#ALL#Selecionando Registros...
+0008#STR0008#ALL#Relação de Titulos Movimentados por Aglutinação
+0009#STR0009#ALL#Prf.Num.      Pc.  Tipo Cd.For.    Lj   Nome Fornecedor      Natureza   Dt.Emissao Dt.Vencto.  Cod.Ret.           Valor
+0010#STR0010#ALL#*** CANCELADO PELO OPERADOR ***
+0011#STR0011#ALL#Processo : 
+0012#STR0012#ALL#Titulo Aglutinado : 
+0013#STR0013#ALL#Titulos Baixados  : 
+0014#STR0014#ALL#           Sub-Total (Processo) 
+0015#STR0015#ALL#           Total Geral :
+0016#STR0016#ALL# Filial
+0017#STR0017#ALL# Fl
+0018#STR0018#ALL#Código
+0019#STR0019#ALL#Empresa
+0020#STR0020#ALL#Unidade de negócio
+0021#STR0021#ALL#Filial
+0022#STR0022#ALL#Filiais selecionadas para o relatorio
+0023#STR0023#ALL#Função disponível apenas para o Brasil.

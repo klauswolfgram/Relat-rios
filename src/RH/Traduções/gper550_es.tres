@@ -1,0 +1,52 @@
+0001#STR0001#ALL#Matricula
+0002#STR0002#ALL#Centro de Costo
+0003#STR0003#ALL#Nomb
+0004#STR0004#ALL#Centro de Costo + Nomb
+0005#STR0005#ALL#Turno
+0006#STR0006#ALL#Emision de valores de vacac.
+0007#STR0007#ALL#Se emitira despues del calculo de vac. normales, colectivas o programadas.
+0008#STR0008#ALL#Se imprimira segun los parametros solicitados por el usuario.
+0009#STR0009#ALL#A rayas
+0010#STR0010#ALL#Administrac.
+0011#STR0011#ALL#Valores de vacac.
+0012#STR0012#ALL#Sucurs.:
+0013#STR0013#ALL#Matricula: 
+0014#STR0014#ALL#Nomb: 
+0015#STR0015#ALL#Periodo adquisitivo:
+0016#STR0016#ALL# A 
+0017#STR0017#ALL#Periodo de Goce: 
+0018#STR0018#ALL#Sueldo Mes:
+0019#STR0019#ALL#Sueldo Dia:
+0020#STR0020#ALL#Sueldo Hora:
+0021#STR0021#ALL#Dias de Vacac.: 
+0022#STR0022#ALL#Total empleados:   
+0023#STR0023#ALL#Cod Descripcion         Ctd       Remuner.  Cod Descripcion         Ctd       Descuentos Cod Descripcion        Ctd            Bases
+0024#STR0024#ALL#Orden: 
+0025#STR0025#ALL#Centro de costo: 
+0026#STR0026#ALL#Turno: 
+0027#STR0027#ALL#Dias de ab. pec.: 
+0028#STR0028#ALL#Total de sucur.:     
+0029#STR0029#ALL#Total Cent de Costo: 
+0030#STR0030#ALL#Total del turno:     
+0031#STR0031#ALL#Total de empresa:    
+0032#STR0032#ALL#Analitico 
+0033#STR0033#ALL#Sintetico 
+0034#STR0034#ALL#(%)1ª Cuota Agui:
+0035#STR0035#ALL#Nº Dep IR:  
+0036#STR0036#ALL#Neto 
+0037#STR0037#ALL#Fch. Recibo: 
+0038#STR0038#ALL#Tipo de Vacac.: 
+0039#STR0039#ALL#Normal  
+0040#STR0040#ALL#Colectiva
+0041#STR0041#ALL#Ref.
+0042#STR0042#ALL#Otr. Ing.
+0043#STR0043#ALL#Descuent.
+0044#STR0044#ALL#Bases
+0045#STR0045#ALL#Cod.
+0046#STR0046#ALL#Descripc.
+0047#STR0047#ALL#Ordenes Matr. y Nombre
+0048#STR0048#ALL#Encabez. de Vacac.
+0049#STR0049#ALL#Items de Vacac.
+0050#STR0050#ALL#Ordenes C. de Costo y Centro de Costo+Nombre
+0051#STR0051#ALL#Empleado
+0052#STR0052#ALL#Orden Turno

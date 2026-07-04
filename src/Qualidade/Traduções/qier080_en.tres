@@ -1,0 +1,13 @@
+0001#STR0001#ALL#This report shows the quantity of invlow and the total delivered    
+0002#STR0002#ALL#in each report, sorted by vendor.         
+0003#STR0003#ALL#Lots per Report
+0004#STR0004#ALL#Z.Form 
+0005#STR0005#ALL#Management   
+0006#STR0006#ALL#Period  : 
+0007#STR0007#ALL#to 
+0008#STR0008#ALL#Selecting Records...
+0009#STR0009#ALL#|Nr.Inflows   |Qty Delivered |
+0010#STR0010#ALL#Inflows 
+0011#STR0011#ALL#|Quantity Rejected   
+0012#STR0012#ALL#|PPM
+0013#STR0013#ALL#|Total

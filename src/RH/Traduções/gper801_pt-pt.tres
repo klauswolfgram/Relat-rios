@@ -1,0 +1,19 @@
+0001#STR0001#ALL#Ajuste De Parâmetros
+0002#STR0002#ALL#Procedimento para geração de ficheiro de texto 
+0003#STR0003#ALL#O sistema irá criar o arquivo de acordo com os parâmetros referidos.
+0004#STR0004#ALL#O ficheiro de nome 
+0005#STR0005#ALL# não pode ser criado! verifique os parâmetros.
+0006#STR0006#ALL#Atenção!
+0007#STR0007#ALL#A processar...
+0008#STR0008#ALL#Ocorreu um erro na gravação do ficheiro. Continua?
+0011#STR0011#ALL#A tabela já existe
+0012#STR0012#ALL#O sistema actualizará a tabela RCC para a criação de ficheiros texto.
+0013#STR0013#ALL#Faça um backup (RCC) antes de iniciar o Processo de Actualização.
+0014#STR0014#ALL#Confirma a actualização das tabelas?
+0015#STR0015#ALL#Ficheiros Texto (*.TXT) |*.txt|
+0017#STR0017#ALL#Seleccione o ficheiro.
+0018#STR0018#ARG#Seleccione os processos
+0019#STR0019#ARG#Registe o tipo de empresa na Tabela S032
+0022#STR0022#ALL#Existe(m) processo(s) onde o campo Critério IAG com conteúdo vazio.
+0025#STR0025#ALL#Dados complementares
+0027#STR0027#ALL#Vínculos familiares

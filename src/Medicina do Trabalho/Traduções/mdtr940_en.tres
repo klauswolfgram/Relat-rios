@@ -1,0 +1,46 @@
+0001#STR0001#ALL#Employee restrictions to work         
+0002#STR0002#ALL#Report of the restriction list the employees have for                 
+0003#STR0003#ALL#workf for health reasons.     
+0004#STR0004#ALL#Restrict.
+0005#STR0005#ALL#Code  
+0006#STR0006#ALL#Employee   
+0007#STR0007#ALL#Med. record 
+0008#STR0008#ALL#Employee's name    
+0009#STR0009#ALL#Start Date
+0010#STR0010#ALL#End Date
+0011#STR0011#ALL#Z. form
+0012#STR0012#ALL#Administrat. 
+0013#STR0013#ALL#Med. Record  Employee Name               Previous Position        Current Position
+0014#STR0014#ALL#Code      Restriction                                 Start Date  End Date
+0015#STR0015#ALL#Code        Restrict.
+0016#STR0016#ALL#   Med. Record  Employee Name               Previous Function       Current Function         Start Date End Date
+0017#STR0017#ALL#From Medical Form?
+0018#STR0018#ALL#To Medical Form?
+0019#STR0019#ALL#From Restriction?
+0020#STR0020#ALL#To Restriction?
+0021#STR0021#ALL#From Restriction Date?
+0022#STR0022#ALL#To Restriction Date?
+0023#STR0023#ALL#List Restrictions?
+0024#STR0024#ALL#Pending
+0025#STR0025#ALL#Finished   
+0026#STR0026#ALL#All  
+0027#STR0027#ALL#Classify by?          
+0028#STR0028#ALL#Med. record 
+0029#STR0029#ALL#Restrict.
+0030#STR0030#ALL#Customer
+0031#STR0031#ALL#Unit
+0032#STR0032#ALL#Name
+0033#STR0033#ALL#No information to print in the report.
+0034#STR0034#ALL#Customer/Unit: 
+0035#STR0035#ALL#Previous Position
+0036#STR0036#ALL#Current Position
+0037#STR0037#ALL#From Customer?
+0038#STR0038#ALL#To Customer?
+0039#STR0039#ALL#Sort
+0040#STR0040#ALL#List Restrictions
+0041#STR0041#ALL#To Restriction Date
+0042#STR0042#ALL#From Restriction Date
+0043#STR0043#ALL#To Restriction
+0044#STR0044#ALL#From Restriction
+0045#STR0045#ALL#To Medical Record
+0046#STR0046#ALL#From Medical Record

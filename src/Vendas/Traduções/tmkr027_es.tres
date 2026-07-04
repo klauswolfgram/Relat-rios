@@ -1,0 +1,101 @@
+0001#STR0001#ALL#Emision de Campañas. 
+0002#STR0002#ALL#Este programa emitira una lista de las Campañas
+0003#STR0003#ALL#de Marketing.
+0004#STR0004#ALL#A Rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#Anulado por el Operador.
+0007#STR0007#ALL#Campaña           : 
+0008#STR0008#ALL#Título            : 
+0009#STR0009#ALL#Objetivo          : 
+0010#STR0010#ALL#Fecha Inicial     : 
+0011#STR0011#ALL#Fecha Final       : 
+0012#STR0012#ALL#Tipo              : 
+0013#STR0013#ALL#Atencion          : 
+0014#STR0014#ALL#Publico Objetivo  : 
+0015#STR0015#ALL#Descripcion       : 
+0016#STR0016#ALL#Responsable       : 
+0017#STR0017#ALL#Coordinador       : 
+0018#STR0018#ALL#Departamento      : 
+0019#STR0019#ALL#Meta de Contacto  : 
+0020#STR0020#ALL#Meta por Operador : 
+0021#STR0021#ALL#Costo             : 
+0022#STR0022#ALL#ROI               : 
+0023#STR0023#ALL#%ROI              : 
+0024#STR0024#ALL#Nuevos Leads Prev.: 
+0025#STR0025#ALL#% Exito           : 
+0026#STR0026#ALL#% Fracaso         : 
+0027#STR0027#ALL#Script            : 
+0028#STR0028#ALL#Título            : 
+0029#STR0029#ALL#T.M.A             : 
+0030#STR0030#ALL#Tipo de Atenc     : 
+0031#STR0031#ALL#Telemercadeo
+0032#STR0032#ALL#Televentas
+0033#STR0033#ALL#Telecobranza
+0034#STR0034#ALL#Todos
+0035#STR0035#ALL#Formato           : 
+0036#STR0036#ALL#Atencion
+0037#STR0037#ALL#Busqueda
+0038#STR0038#ALL#Guarda respuesta  : 
+0039#STR0039#ALL#SI
+0040#STR0040#ALL#NO
+0041#STR0041#ALL#Score Minimo      : 
+0042#STR0042#ALL#Accion Minima     : 
+0043#STR0043#ALL#Score Maximo      : 
+0044#STR0044#ALL#Accion Maxima     : 
+0045#STR0045#ALL#Media             : 
+0046#STR0046#ALL#Llamada           : 
+0047#STR0047#ALL#Receptiva
+0048#STR0048#ALL#Activa
+0049#STR0049#ALL#Ambas
+0050#STR0050#ALL#Producto          : 
+0051#STR0051#ALL#Unidad            : 
+0052#STR0052#ALL#Evento            : 
+0053#STR0053#ALL#Descripcion       : 
+0054#STR0054#ALL#Tema              : 
+0055#STR0055#ALL#Exposicion        : 
+0056#STR0056#ALL#Feria 
+0057#STR0057#ALL#Conferencia
+0058#STR0058#ALL#Seminario
+0059#STR0059#ALL#WorkShop
+0060#STR0060#ALL#Road SHow
+0061#STR0061#ALL#Foro
+0062#STR0062#ALL#Gratuito          : 
+0063#STR0063#ALL#Precio            : 
+0064#STR0064#ALL#Local             : 
+0065#STR0065#ALL#Direccion         : 
+0066#STR0066#ALL#Municipio         : 
+0067#STR0067#ALL#Provincia         : 
+0068#STR0068#ALL#Pais              : 
+0069#STR0069#ALL#Telefone          : 
+0070#STR0070#ALL#Home Page         : 
+0071#STR0071#ALL#E-mail            : 
+0072#STR0072#ALL#Fecha Inicio      : 
+0073#STR0073#ALL#Fecha Termino     : 
+0074#STR0074#ALL#Hora Inicio       : 
+0075#STR0075#ALL#Hora Termino      : 
+0076#STR0076#ALL#Estacionamento    :
+0077#STR0077#ALL#En el local
+0078#STR0078#ALL#En el local/Pagando
+0079#STR0079#ALL# Convenio
+0080#STR0080#ALL# Gratuito
+0081#STR0081#ALL# Convenio/Garajista
+0082#STR0082#ALL# Gratuito c/Garajista
+0083#STR0083#ALL#Cuadricula                 Tema                                      Hr.Ini Hr.Fin  Fecha      Sala       Conferencista                    Empresa
+0084#STR0084#ALL#No existen datos para imprimir para este informe con los parametros informados
+0085#STR0085#ALL#Activo
+0086#STR0086#ALL#Receptivo
+0087#STR0087#ALL#Tipo de Atenc.
+0088#STR0088#ALL#AMBOS
+0089#STR0089#ALL#Informe el tipo de atencion para seleccion
+0090#STR0090#ALL#de los datos.
+0091#STR0091#ALL#Publico Objetivo
+0092#STR0092#ALL#Publico Objetivo 
+0093#STR0093#ALL#Seleccione un publico para restriccion a
+0094#STR0094#ALL#los datos de impresion.
+0095#STR0095#ALL#Campanas
+0096#STR0096#ALL#Script Dinamico vs Campana
+0097#STR0097#ALL#Script Dinamico
+0098#STR0098#ALL#M. C. vinculada a items de la campana
+0099#STR0099#ALL#Prod. 
+0100#STR0100#ALL#Eventos
+0101#STR0101#ALL#Grilla de Event.

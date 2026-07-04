@@ -1,0 +1,33 @@
+0001#STR0001#ALL#Informe del Plan de Acccion por Accidente.                           
+0002#STR0002#ALL#El informe muestra las acciones definidas para eliminar o minimizar los
+0003#STR0003#ALL#accidentes existentes en la empresa.                                   
+0004#STR0004#ALL#A rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#Plan de accion por accidente
+0007#STR0007#ALL#Accidente   Descripcion            Fch. Accid. Hora Accid. Ind. Accid.           Victim. Dias Licen.    Local
+0008#STR0008#ALL#    Plan      Nomb del plan de accion                 Fch. Impl. Inic.Prev. Fin.Prev.  Inic.Real   Fin.Real   Responsable  
+0009#STR0009#ALL#ANULADO POR EL OPERADOR
+0010#STR0010#ALL#Accidente tipico
+0011#STR0011#ALL#Accidente de trayecto
+0012#STR0012#ALL#Enfermedad del trabajo
+0013#STR0013#ALL#Incidente
+0014#STR0014#ALL#Si
+0015#STR0015#ALL#No
+0016#STR0016#ALL#Lo que.:
+0017#STR0017#ALL#Donde..: 
+0018#STR0018#ALL#Porque: 
+0019#STR0019#ALL#Como..: 
+0020#STR0020#ALL#Cuando: Inic. Previsto..: 
+0021#STR0021#ALL#Real.: 
+0022#STR0022#ALL#Fin previsto...: 
+0023#STR0023#ALL#Cuanto: Valor previsto.: 
+0024#STR0024#ALL#Quant. Atual...:
+0025#STR0025#ALL#Meta.: 
+0026#STR0026#ALL#¿De Cliente?
+0027#STR0027#ALL#Tda.
+0028#STR0028#ALL#¿A Cliente ?
+0029#STR0029#ALL#Cliente/Tda.: 
+0030#STR0030#ALL#No hay datos para exhib.
+0031#STR0031#ALL#¿Acciones?
+0032#STR0032#ALL#¿A Accidente?
+0033#STR0033#ALL#¿De Accidente?

@@ -1,0 +1,15 @@
+0001#STR0001#ALL#Relatório com listagem de clientes que possuem
+0002#STR0002#ALL#Títulos de cobranças em aberto, a indicar a
+0003#STR0003#ALL#Sequência e rota de atendimento
+0004#STR0004#ALL#Rota para cobranças
+0005#STR0005#ALL#Rota para cobranças
+0006#STR0006#ALL#Lista para cobranças
+0007#STR0007#ALL#Seq-(clicod/sc) Cliente              Ddd Telefone   Contacto    Endereço                       Freguesia            Concelho     Uf
+0008#STR0008#ALL#  Títulos -> Prf-número         Tp  Natureza   Emissão    Vencto     Md   Valor Original   Valor Vencido    Valor A Vencer   Atraso
+0009#STR0009#ALL#Introduza que credor deseja imprimir a listagem de cobrança.
+0010#STR0010#ALL#Introduza que rota deseja imprimir a listagem de cobrança.
+0011#STR0011#ALL#Credor
+0012#STR0012#ALL#Período Vencimento
+0014#STR0014#ALL#Até
+0016#STR0016#ALL#Total Crial
+0018#STR0018#ALL#A Seleccionar Registos...

@@ -1,0 +1,23 @@
+0001#STR0001#ALL#Imprime relacion de titulos a pagar mostrando cuales 
+0002#STR0002#ALL#titulos ya fueron liberados o que aun estan 
+0003#STR0003#ALL#aguardando liberacion.
+0004#STR0004#ALL#Liberacion de Titulos a Pagar
+0005#STR0005#ALL#Por Fecha
+0006#STR0006#ALL#A Rayas
+0007#STR0007#ALL#Administracion
+0008#STR0008#ALL#Relacion de Titulos Movimentados por Aglutinacion - Orden por Prefijo
+0009#STR0009#ALL#Prf.Num.      Pc.  Tipo Cd.Prov.    Lj   Nombre Proveedor      Naturaleza   Fc.Emision Fc.Vento.  Cod.Ret.           Valor
+0010#STR0010#ALL#Relacion de Titulos Movimentados por Aglutinacion - Orden por Fecha
+0011#STR0011#ALL#     Prf. Num.   Pc.Tipo  Cd.For.Td. Nombre Proveedor      Nac.                  Fc.Vencto.  Cod.Ret.           Valor
+0012#STR0012#ALL#*** CANCELADO POR EL OPERADOR ***
+0013#STR0013#ALL#Proceso : 
+0014#STR0014#ALL#Titulo Aglutinado : 
+0015#STR0015#ALL#Titulos Bajados  : 
+0016#STR0016#ALL# Sucursal
+0017#STR0017#ALL# FL
+0018#STR0018#ALL#Codigo
+0019#STR0019#ALL#Empresa
+0020#STR0020#ALL#Unidad de negocio
+0021#STR0021#ALL#Sucursal
+0022#STR0022#ALL#Sucursales seleccionadas para el informe
+0023#STR0023#ALL#Función disponible únicamente para Brasil.

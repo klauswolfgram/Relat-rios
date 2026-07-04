@@ -1,0 +1,73 @@
+0001#STR0001#ALL#Este programa imprimira un informe de asientos
+0002#STR0002#ALL#por sublote / doc.fiscal.
+0003#STR0003#ALL#Asientos clasificados por sublote / doc.fiscal
+0004#STR0004#ALL#A rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#DOC      CUENTA                                     DOC. FISCAL                                  VALOR DEB             VALOR CRED   HP   HIST
+0006#STR0006#ANG#DOC      CUENTA                                     DOC. FISCAL                                  VALOR DEB             VALOR CRED   HP   HIST
+0006#STR0006#EQU#DOC      CUENTA                                     DOC. FISCAL                                  VALOR DEB             VALOR CRED   HP   HIST
+0006#STR0006#HAI#DOC      CUENTA                                     DOC. FISCAL                                  VALOR DEB             VALOR CRED   HP   HIST
+0006#STR0006#MEX#POLIZA   CUENTA                                     POLIZA FISCAL                                VALOR CARG            VALOR ABON   HP   HIST
+0006#STR0006#PTG#DOC      CUENTA                                     DOC. FISCAL                                  VALOR DEB             VALOR CRED   HP   HIST
+0007#STR0007#ALL#Emision de Infor. SubLote/Doc.Fiscal
+0008#STR0008#ALL#Creando Archivo Temporal...
+0009#STR0009#ALL#***** ANULADO POR EL OPERADOR *****
+0010#STR0010#ALL#DIFERENCIA
+0011#STR0011#ALL#TOTAL LOTE: 
+0012#STR0012#ALL#INFORMADO
+0013#STR0013#ALL#DIGITADO
+0014#STR0014#ALL#T O T A L  G E N E R A L ==> 
+0015#STR0015#ALL#SUBLOTE: 
+0016#STR0016#ALL#Seleccionando Registros...
+0017#STR0017#ALL#FECHA: 
+0018#STR0018#ALL#LOTE: 
+0019#STR0019#ALL#TOTAL DOCUMENTO: 
+0019#STR0019#ANG#TOTAL POLIZA: 
+0019#STR0019#EQU#TOTAL POLIZA: 
+0019#STR0019#HAI#TOTAL POLIZA: 
+0019#STR0019#MEX#TOTAL POLIZA: 
+0019#STR0019#PTG#TOTAL POLIZA: 
+0020#STR0020#ALL#TOTAL SUBLOTE: 
+0021#STR0021#ALL# en 
+0022#STR0022#ALL# de 
+0023#STR0023#ALL# a 
+0024#STR0024#ALL#Ese informe necesita del campo CT2_KEY. Favor crearlo con tipo caracter de 100
+0025#STR0025#ALL#Lote
+0026#STR0026#ALL#Asiento
+0027#STR0027#ALL#Fch.
+0028#STR0028#ALL#Sublote
+0029#STR0029#ALL#Documento
+0030#STR0030#ALL#Cta.
+0031#STR0031#ALL#Doc. fiscal
+0032#STR0032#ALL#Valor debito
+0032#STR0032#ANG#Valor debito
+0032#STR0032#EQU#Valor debito
+0032#STR0032#HAI#Valor debito
+0032#STR0032#MEX#Valor cargo
+0032#STR0032#PTG#Valor debito
+0033#STR0033#ALL#Valor credito
+0033#STR0033#ANG#Valor credito
+0033#STR0033#EQU#Valor credito
+0033#STR0033#HAI#Valor credito
+0033#STR0033#MEX#Valor abono
+0033#STR0033#PTG#Valor credito
+0034#STR0034#ALL#HP
+0035#STR0035#ALL#Historial
+0036#STR0036#ALL#Total
+0037#STR0037#ALL#Total valor deb
+0037#STR0037#ANG#Total valor deb
+0037#STR0037#EQU#Total valor deb
+0037#STR0037#HAI#Total valor deb
+0037#STR0037#MEX#Total valor car
+0037#STR0037#PTG#Total valor deb
+0038#STR0038#ALL#Total valor cred
+0038#STR0038#ANG#Total valor cred
+0038#STR0038#EQU#Total valor cred
+0038#STR0038#HAI#Total valor cred
+0038#STR0038#MEX#Total valor abon
+0038#STR0038#PTG#Total valor cred
+0039#STR0039#ALL#Total documento: 
+0040#STR0040#ALL#Total lote: 
+0041#STR0041#ALL#Total sublote: 
+0042#STR0042#ALL#Total general =>
+0043#STR0043#ALL#Historial de Documento Contable

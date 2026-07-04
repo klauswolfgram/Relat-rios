@@ -1,0 +1,35 @@
+0001#STR0001#ALL#Ficha De Atendimento Do SO
+0002#STR0002#ALL#     este programa irá emitir as fichas de atendimento do SO cofacturaorme os 
+0003#STR0003#ALL#Parâmetros solicitados.
+0005#STR0005#ALL#Código de barras
+0006#STR0006#ALL#Administração
+0007#STR0007#ALL#Cancelado Pelo Operador
+0008#STR0008#ALL#|                            ficha de atendimento do SO                               | nr.os: ###### | folha: ######|
+0009#STR0009#ALL#|cliente  : ######/## - ########################################                                                      estado:   ## |
+0010#STR0010#ALL#|end.     : ######################################## cidade: #################### localidade : ################### tel.:############## |
+0011#STR0011#ALL#|contacto  : #################### ligação: ######## dt.ligação ########## hora: #####                                               |
+0012#STR0012#ALL#|observ.  : ###################################################################################################################### |
+0013#STR0013#ALL#|artigo  : ############### nr.série : #################### ocorrência/problema: ###### - ##############################           |
+0014#STR0014#ALL#|garantia: ### contrato: ### acumulador:                                                                                           |
+0015#STR0015#ALL#|data chegada:     /     /        hora chegada:      :       hs   data saída:        /      /       hora saida:         :      hs  |
+0016#STR0016#ALL#|data início :     /     /        hora início:       :       hs   data fim:      /      /       hora fim:       :      hs  |
+0017#STR0017#ALL#|defeito visualizado:                                                                                                               |
+0018#STR0018#ALL#|Causa Provável:                                                                                                                   |
+0019#STR0019#ALL#|serviço executado:                                                                                                                |
+0020#STR0020#ALL#|artigo        |nr. série           |fabricante|descrição                     ³quantidade|observação                              |
+0021#STR0021#ALL#|sugestão :                                                                                                                        |
+0022#STR0022#ALL#|              cliente                     |                 técnico                    |                 gerente                  |
+0024#STR0024#ALL#Não
+0025#STR0025#ALL#|                          ficha de atendimento do SO - conjunto de atendimento                          | nr.SO: ###### | folha: ######|
+0026#STR0026#ALL#|artigo        |descrição                     |quantidade                                                                         |
+0032#STR0032#ALL#Descrição
+0034#STR0034#ALL#Data Chegada:     /     /        Hora Chegada:      :       Hs   Data Saída:        /      /       Hora Saída:         :      Hs
+0035#STR0035#ALL#Data Início :     /     /        Hora Início:       :       Hs   Data Término:      /      /       Hora Término:       :      Hs
+0036#STR0036#ALL#Defeito constatado: 
+0037#STR0037#ALL#Causa provável: 
+0038#STR0038#ALL#Serviço executado: 
+0039#STR0039#ALL#Artigo         nr. série            fabricante     descrição                     quantidade     observação 
+0040#STR0040#ALL#Sugestão : 
+0041#STR0041#ALL#                        cliente                                               técnico                                              gerente                  
+0042#STR0042#ALL#Kit de atendimento 
+0043#STR0043#ALL#Ficha De Atendimento Do SO

@@ -1,0 +1,9 @@
+0001#STR0001#ALL#Relação de vencimento dos iqs(s) de fornecedores
+0002#STR0002#ALL#Com os seus respectvos artigos.
+0003#STR0003#ALL#Vencimento De Iqs(s)
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#Código           Loja fornecedor               Dt. aval.   Dt. venc. Aval. Factor
+0007#STR0007#ALL#     Artigo                              Descrição                 Sit. Descrição        IQI Inf.          IQI Sup. 
+0008#STR0008#ALL#Cancelado Pelo Operador
+0010#STR0010#ALL#Classes/situação

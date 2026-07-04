@@ -1,0 +1,25 @@
+0001#STR0001#ALL#Printing of Quotation 
+0002#STR0002#ALL#     This program will print Quotations according to the parameter 
+0003#STR0003#ALL#selected. 
+0004#STR0004#ALL# 
+0005#STR0005#ALL#Z.Form 
+0006#STR0006#ALL#Management   
+0007#STR0007#ALL#CANCELLED BY OPERATOR
+0008#STR0008#ALL#|                                TECHNICAL QUOTATION                                         | Quotation No.:###### | Page:  ######|
+0009#STR0009#ALL#|Customer : ######/## - ########################################                                                                   |
+0010#STR0010#ALL#|Issuee on: ##########                                                                                                             |
+0011#STR0011#ALL#|Attendant: ####################                                                                                                   |
+0012#STR0012#ALL#|Paym.Term: ### - ##################################                                 Discount(s): ###### + ###### + ###### + ######|
+0013#STR0013#ALL#|It|   Type   |    Product    |      Serial No.    |                Problem                |    Contract   | Warranty |    S.O.    |
+0014#STR0014#ALL#|  |IT|Product        |Description                   |Service|  Quantity    | Unit Value   |    T o t a l      | Value in Manuf.   |
+0015#STR0015#ALL#|                                                                            SUB-TOTAL    | ##################| ##################|
+0016#STR0016#ALL#|                                                                            GRAND TOTAL   | ##################| ##################|
+0017#STR0017#ALL#|Currency:  ##                                                                                                                     |
+0018#STR0018#ALL#GRAND TOTAL
+0019#STR0019#ALL#Custom.Amount
+0020#STR0020#ALL#Manufact. Amount
+0021#STR0021#ALL#SUB-TOTAL
+0022#STR0022#ALL#TECHNICAL QUOTATION
+0023#STR0023#ALL#Quotation header      
+0024#STR0024#ALL#Quotation items   
+0025#STR0025#ALL#Annotation 

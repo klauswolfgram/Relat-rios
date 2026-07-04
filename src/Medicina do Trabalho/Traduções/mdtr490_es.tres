@@ -1,0 +1,37 @@
+0001#STR0001#ALL#Informe de Costos del PCMSO. 
+0002#STR0002#ALL#El progr. muestra el costo de los exam. gener. por el PCMSO
+0003#STR0003#ALL#elegido.
+0004#STR0004#ALL#A Rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#Costos del PCMSO
+0007#STR0007#ALL#Codigo         Centro de Costo 
+0008#STR0008#ALL#Examen    Nombre del Examen                    Cantidad                 Costo
+0009#STR0009#ALL#ANULADO POR EL OPERADOR
+0010#STR0010#ALL#Total de la sucursal
+0011#STR0011#ALL#Total de Centro de Costo
+0012#STR0012#ALL#Cliente:
+0013#STR0013#ALL#Total del cliente
+0014#STR0014#ALL#Centro de Costo
+0015#STR0015#ALL#Descripc.
+0016#STR0016#ALL#Exam.
+0017#STR0017#ALL#Nom. del Exa.
+0018#STR0018#ALL#Cantidad
+0019#STR0019#ALL#Costo
+0020#STR0020#ALL#Procesando Examenes...
+0021#STR0021#ALL#Espere
+0022#STR0022#ALL#Nomb del Cliente
+0023#STR0023#ALL#Cliente
+0024#STR0024#ALL#Exam.
+0025#STR0025#ALL#El PCMSO informado no esta registrado.
+0026#STR0026#ALL#Atenc.
+0027#STR0027#ALL#Este centro de costo no pertenece al intervalo
+0028#STR0028#ALL#de centros de costo del PCMSO seleccion.
+0029#STR0029#ALL#Nombre de la Sucursal:
+0030#STR0030#ALL#No existen datos para imprimir en el informe.
+0031#STR0031#ALL#Total General
+0032#STR0032#ALL#¿De Sucursal?
+0033#STR0033#ALL#¿A Sucursal    ?
+0034#STR0034#ALL#¿De fecha progr. ?
+0035#STR0035#ALL#¿A fecha progr. ?
+0036#STR0036#ALL#Realizados
+0037#STR0037#ALL#No realizados

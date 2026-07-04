@@ -1,0 +1,26 @@
+0001#STR0001#ALL#Detalle de las devoluciones de ventas
+0002#STR0002#ALL#Este informe emite el detalle de los itemes
+0003#STR0003#ALL#referentes a las devoluciones de ventas.
+0004#STR0004#ALL#A Rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#FACT.        PRODUC.         DESCRIPC.                    CANTIDAD   UM    PR.UNITARIO IVA            VALOR ICM CODIGO/RAZON SOCIAL DEL CLIENTE               TP TE  TIPO GRUPO FCH.REGISTRO          COSTO FC ORIG SERIE
+0007#STR0007#ALL#Seleccionando registros ... 
+0008#STR0008#ALL#ANULADO POR EL OPERADOR
+0009#STR0009#ALL#TOTAL DESCUENTOS --> 
+0010#STR0010#ALL#TOTAL FACTURA     --> 
+0011#STR0011#ALL#Fact.Negoc.   Factura de Salida   
+0012#STR0012#ALL#No hubo titulos generados en la salida
+0013#STR0013#ALL#Prf Numero               Cuota    Venc.              Saldo
+0014#STR0014#ALL#Lista con las Devoluciones de Ventas
+0015#STR0015#ALL#Este informe imprimira la lista de items
+0016#STR0016#ALL#referentes a devoluciones de ventas.
+0017#STR0017#ALL#TOTAL DESCUENTOS--> 
+0018#STR0018#ALL#TOTAL FACTURA     --> 
+0019#STR0019#ALL#Titulos de la Factura de Salida
+0020#STR0020#ALL#No hubieron titulos generados en la salida
+0021#STR0021#ALL#Fac. de Devolucion
+0022#STR0022#ALL#Titulos
+0023#STR0023#ALL#TOTAL GENERAL     --> 
+0024#STR0024#ALL#FACTURA              PRODUCTO        DESCRIPCION                CANTIDAD     UM    PR.UNITARIO IPI            VALOR CODIGO/RAZON SOCIAL DEL CLIENTE   TP TE  TIPO GRUPO FC.DIGITACION         COSTO FACT ORIG          SERIE
+0025#STR0025#ALL#IPI
+0026#STR0026#ALL#ICMS

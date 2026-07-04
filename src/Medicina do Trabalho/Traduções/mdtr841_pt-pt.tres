@@ -1,0 +1,17 @@
+0001#STR0001#ALL#Relatório do plano de acção  por acidente.                           
+0002#STR0002#ALL#O relatório mostra as ações definidas para eliminar ou minimizar os
+0003#STR0003#ALL#Acidentes existentes na empresa.                                   
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#Plano De Acção  Por Acidente
+0009#STR0009#ALL#Cancelado Pelo Operador
+0011#STR0011#ALL#Acidente De Trajeto
+0012#STR0012#ALL#Doenca Do Trabalho
+0015#STR0015#ALL#Não
+0020#STR0020#ALL#Quando: inic.previsto..: 
+0022#STR0022#ALL#Fim previsto...: 
+0023#STR0023#ALL#Quanto: valor previsto.: 
+0026#STR0026#ALL#De cliente ?
+0028#STR0028#ALL#Até cliente ?
+0029#STR0029#ALL#Cliente/loja: 
+0030#STR0030#ALL#Não existem dados para apresentar.

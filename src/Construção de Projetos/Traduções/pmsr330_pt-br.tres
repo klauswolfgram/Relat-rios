@@ -1,0 +1,18 @@
+0001#STR0001#ALL#Este relatorio ira imprimir uma relacao de despesas da consulta gerencial solicitada considerando todas despesas (pedido de compra,autorizacao de entrega,nota fiscal de entrada,titulos a pagar e movimentos bancarios) vinculadas aos projetos.
+0002#STR0002#ALL#Consultas Gerenciais - Relação de Despesas
+0003#STR0003#ALL#Zebrado
+0004#STR0004#ALL#Administracao
+0005#STR0005#ALL#Diario
+0006#STR0006#ALL#Semanal
+0007#STR0007#ALL#Decendial
+0008#STR0008#ALL#Quinzenal
+0009#STR0009#ALL#Mensal
+0010#STR0010#ALL#Periodo 
+0011#STR0011#ALL#       Vld.Prev.PC           Despesas        Despesas Acum.
+0012#STR0012#ALL#Código do Plano
+0013#STR0013#ALL#Saldo Inicial : 
+0014#STR0014#ALL#Total a Pagar : 
+0015#STR0015#ALL#Vld.Prev.PC
+0016#STR0016#ALL#Despesas
+0017#STR0017#ALL#Despesas Acum.
+0018#STR0018#ALL#Plano Gerencial

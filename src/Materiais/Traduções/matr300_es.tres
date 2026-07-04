@@ -1,0 +1,56 @@
+0001#STR0001#ALL#Detalle de los Movimientos Internos
+0002#STR0002#ALL#Detalla los movimientos internos de la empresa, es decir, solicitudes,
+0003#STR0003#ALL#Devoluciones y producciones.
+0004#STR0004#ALL# Codigo Producto  
+0005#STR0005#ALL# Orden Produccion 
+0006#STR0006#ALL# Clasificacion    
+0007#STR0007#ALL# Tipo Producto    
+0008#STR0008#ALL# Grupo Producto   
+0009#STR0009#ALL# Centro de Costo  
+0010#STR0010#ALL# Cuenta Contable  
+0011#STR0011#ALL# Num.Documento 
+0012#STR0012#ALL#A Rayas
+0013#STR0013#ALL#Administracion
+0014#STR0014#ALL#MOVIMIENTO(S)
+0015#STR0015#ALL#DEPOSITO                   CANTIDAD                              COSTO                 COSTO
+0016#STR0016#ALL#                 ENTRADA                   SALIDA             UNITARIO                 TOTAL
+0017#STR0017#ALL#......... Total Producto   
+0018#STR0018#ALL#......... Total Orden de Produccion  
+0019#STR0019#ALL#Seleccionando Registros...
+0020#STR0020#ALL#......... Total de Clasificacion
+0021#STR0021#ALL#......... Total del Tipo
+0022#STR0022#ALL#......... Total del Grupo
+0023#STR0023#ALL#......... Total del Centro de Costo
+0024#STR0024#ALL#......... Total de Cuenta
+0025#STR0025#ALL#......... Total del Documento
+0026#STR0026#ALL#ANULADO POR EL OPERADOR
+0027#STR0027#ALL#Codigo : 
+0028#STR0028#ALL#   Descripcion:
+0029#STR0029#ALL#   Tipo : 
+0030#STR0030#ALL#   Grupo : 
+0031#STR0031#ALL#   UM : 
+0032#STR0032#ALL#<- Total Producto
+0033#STR0033#ALL#Cantidad en la 2a UM  (
+0034#STR0034#ALL#): Entrada -> 
+0035#STR0035#ALL#Salida -> 
+0036#STR0036#ALL#<- TOTAL GENERAL ->
+0037#STR0037#ALL# **  CC no registrado** 
+0038#STR0038#ALL#    TIPO DE     TIPO    ORDEN DE IT SEC SECUENCIA CENTRO                  CUENTA           DOCUMENTO   EMISION    NOMBRE DEL
+0039#STR0039#ALL#    MOVIMIENTO   RE/DE   PRODUCCION                  COSTO                  CONTABLE                                USUARIO
+0040#STR0040#ALL# (Por 
+0041#STR0041#ALL# ,en 
+0042#STR0042#ALL#   Descr. Almacen : 
+0043#STR0043#ALL#ENTRADA
+0044#STR0044#ALL#SALIDA  
+0045#STR0045#ALL#Costo Unitario
+0046#STR0046#ALL#Costo Total
+0047#STR0047#ALL#Orden Produccion
+0048#STR0048#ALL#Item
+0049#STR0049#ALL#Sec
+0050#STR0050#ALL#Total Producto
+0051#STR0051#ALL#Prod. 
+0052#STR0052#ALL#Items de Movimiento Interno
+0053#STR0053#ALL#  TIPO TIPO   ORDEN DE IT SEC  SECUENCIA CENTRO                  CUENTA            DOCUMENTO            EMISION      NOMBRE DE
+0054#STR0054#ALL#  MOV. RE/DE  PRODUCCION                  COSTO                  CONTABLE                                              USUARIO
+0055#STR0055#ALL#Total General Cant. 2ª UM:
+0056#STR0056#ALL#Formato de impresión Tabla es compatible únicamente con el tipo Analítico, verifique el parámetro.

@@ -1,0 +1,38 @@
+0001#STR0001#ALL#Contrato
+0002#STR0002#ALL#Cliente
+0003#STR0003#ALL#Numero de serie
+0004#STR0004#ALL#Verificacion de facturacion
+0005#STR0005#ALL#Estatus
+0006#STR0006#ALL#Cod. Cliente
+0007#STR0007#ALL#Vlr. Dia
+0008#STR0008#ALL#Ctd. mediciones
+0009#STR0009#ALL#Informe el cliente inicial
+0010#STR0010#ALL#¿De cliente?
+0011#STR0011#ALL#Informe la tienda inicial
+0012#STR0012#ALL#¿De tienda?
+0013#STR0013#ALL#Informe el cliente final
+0014#STR0014#ALL#¿A cliente?
+0015#STR0015#ALL#Informe la tienda final
+0016#STR0016#ALL#¿A tienda?
+0017#STR0017#ALL#Informe el producto inicial
+0018#STR0018#ALL#¿De Producto?
+0019#STR0019#ALL#Informe el producto final
+0020#STR0020#ALL#¿A producto?
+0021#STR0021#ALL#Informe el num. serie inicial
+0022#STR0022#ALL#¿De num. serie?
+0023#STR0023#ALL#Informe el num. serie final
+0024#STR0024#ALL#¿A num. serie?
+0025#STR0025#ALL#Informe la separacion inicial
+0026#STR0026#ALL#¿De fch. separacion?
+0027#STR0027#ALL#Informe la separacion final
+0028#STR0028#ALL#¿A fch. separacion?
+0029#STR0029#ALL#Informe el calculo inicial
+0030#STR0030#ALL#¿De fch. calculo?
+0031#STR0031#ALL#Informe el calculo final
+0032#STR0032#ALL#¿A fch. calculo?
+0033#STR0033#ALL#Informe la situacion
+0034#STR0034#ALL#¿Situacion?
+0035#STR0035#ALL#No iniciado
+0036#STR0036#ALL#Asignado
+0037#STR0037#ALL#Finalizado
+0038#STR0038#ALL#Todos

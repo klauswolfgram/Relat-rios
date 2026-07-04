@@ -1,0 +1,37 @@
+0001#STR0001#ALL#Relatório para impressão dos resultados de exame de audiometria.
+0002#STR0002#ALL#Através Dos Parâmetro S O Utilizador Poderá Selecionar: Período Desejado
+0003#STR0003#ALL#E os centros de custo que serão impressos
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#Resultados Dos Exames De Audiometria
+0007#STR0007#ALL#Mat.    Nome                            Dt.nasc.  Admissão  Dt.exame  Orelha Direita                   Orelha Esquerda
+0008#STR0008#ALL#Centro de custo: 
+0009#STR0009#ALL#Limites Aceitáveis
+0010#STR0010#ALL#Sugestivo De PAIR (Perda Auditiva Induzida Por Ruído)
+0011#STR0011#ALL#Não Sugestivo De PAIR
+0013#STR0013#ALL#Sugestivo De Agravamento
+0014#STR0014#ALL#Total de exames no sector.........: 
+0015#STR0015#ALL#Limites aceitáveis........: 
+0016#STR0016#ALL#Sugestivo de pair.........: 
+0017#STR0017#ALL#Não sugestivo de pair.....: 
+0018#STR0018#ALL#Sugestivo de desencadeamento.: 
+0019#STR0019#ALL#Sugestivo de agravamento.....: 
+0020#STR0020#ALL#Total de exames na filial.........: 
+0021#STR0021#ALL#Total de exames no cliente........: 
+0022#STR0022#ALL#Não existe informação para imprimir no relatório.
+0023#STR0023#ALL#Cliente/loja: 
+0025#STR0025#ALL#Condições Aceitáveis
+0026#STR0026#ALL#Sugestivo De PAIR (Perda Auditiva Induzida Por Ruído)
+0027#STR0027#ALL#Não Sugestivo Do Pair
+0028#STR0028#ALL#Sugestivo De Desencadeamento
+0029#STR0029#ALL#Perda de audição
+0030#STR0030#ALL#Requer interpretação......: 
+0031#STR0031#ALL#Limiares aceitáveis.......: 
+0032#STR0032#ALL#Sugestivo de pair.........: 
+0033#STR0033#ALL#Não sugestivo de pair.....: 
+0034#STR0034#ALL#Sugestivo de desencadeamento.: 
+0035#STR0035#ALL#Sugestivo de agravamento..: 
+0036#STR0036#ALL#Perda de audição..........: 
+0037#STR0037#ALL#Até Data ?
+0039#STR0039#ALL#Até Centro de Custo?
+0040#STR0040#ALL#De Centro de Custo?

@@ -1,0 +1,51 @@
+0001#STR0001#ALL#Planificada
+0002#STR0002#ALL#Pendiente
+0003#STR0003#ALL#Finalizada
+0004#STR0004#ALL#Receptiva
+0005#STR0005#ALL#Activa
+0006#STR0006#ALL#Entidad
+0007#STR0007#ALL#Clave
+0008#STR0008#ALL#Nombre
+0009#STR0009#ALL#Direccion
+0010#STR0010#ALL#Pagina
+0011#STR0011#ALL#Ciudad
+0012#STR0012#ALL#Provincia
+0013#STR0013#ALL#CP
+0014#STR0014#ALL#Telefono
+0015#STR0015#ALL#Atencion Telemarketing
+0016#STR0016#ALL#Informe de atenciones Telemaketing
+0017#STR0017#ALL#Pregunta
+0018#STR0018#ALL#Buscando datos...
+0019#STR0019#ALL#Atencion
+0020#STR0020#ALL#Fecha
+0021#STR0021#ALL#Llamada
+0022#STR0022#ALL#Estado
+0023#STR0023#ALL#Retorno
+0024#STR0024#ALL#Hora
+0025#STR0025#ALL#Contacto
+0026#STR0026#ALL#Operador
+0027#STR0027#ALL#Med.Comunic.
+0028#STR0028#ALL#Comunicacion
+0029#STR0029#ALL#Campaña
+0030#STR0030#ALL#Observacion
+0031#STR0031#ALL#Asunto
+0032#STR0032#ALL#Ocurrencia
+0033#STR0033#ALL#Accion
+0034#STR0034#ALL#Responsable
+0035#STR0035#ALL#Fecha accion
+0036#STR0036#ALL#FINALIZADO
+0037#STR0037#ALL#OBSERVACION DE 
+0038#STR0038#ALL#No se encontraron las configuraciones de la impresora. Por favor, verifique las configuraciones para utilizar este informe. 
+0039#STR0039#ALL#Impresora
+0040#STR0040#ALL#Tel. Com.1
+0041#STR0041#ALL#Descripc.
+0042#STR0042#ALL#Barrio
+0043#STR0043#ALL#Observac. 
+0044#STR0044#ALL#Produc 
+0045#STR0045#ALL#Ejecuc.
+0046#STR0046#ALL#Atenciones TMK
+0047#STR0047#ALL#Emision : 
+0048#STR0048#ALL#Hora    : 
+0049#STR0049#ALL#Encabezam. - Atencion Telemarketing
+0050#STR0050#ALL#Items - Atencion Telemarketing
+0051#STR0051#ALL#Telemarketing

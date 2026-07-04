@@ -1,0 +1,33 @@
+0001#STR0001#ALL#Listado de Entregas sin Ocurrencia
+0002#STR0002#ALL#Emite Listado de Entregas sin Ocurrencia
+0003#STR0003#ALL#segun los parametros informados  
+0004#STR0004#ALL#A rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#Seleccionado Registr....
+0007#STR0007#ALL#Seleccionando Reg. en el DUV...
+0008#STR0008#ALL#Selecc. Registro en el DTQ...
+0009#STR0009#ALL#SUC.ORIGEN DOCTO  SERIE         PESO    VALOR FLETE VOLUM. VEHIC.                             1.REMOLQ.                          2.REMOLQ.                          LLEG.    CONDUCTOR 
+0010#STR0010#ALL#CANCELADO POR EL OPERADOR
+0011#STR0011#ALL#TOTAL POR LLEG. ===> 
+0012#STR0012#ALL#TOTAL GENERAL ===> 
+0013#STR0013#ALL#Lista de entregas sin ocurrencia
+0014#STR0014#ALL#Emite lista de entregas sin ocurrencia, segun los parametros informados
+0015#STR0015#ALL#Suc.Origen + Viaje + Prevision
+0016#STR0016#ALL#Descripcion
+0017#STR0017#ALL#Nombre
+0018#STR0018#ALL#Suc.Origen
+0019#STR0019#ALL#Viaje
+0020#STR0020#ALL#Suc.Doc.
+0021#STR0021#ALL#Documento
+0022#STR0022#ALL#Serie
+0023#STR0023#ALL#Peso
+0024#STR0024#ALL#Flete
+0025#STR0025#ALL#Volumen
+0026#STR0026#ALL#Prevision
+0027#STR0027#ALL#Vehiculo
+0028#STR0028#ALL#1. Remolque
+0029#STR0029#ALL#2. Remolque
+0030#STR0030#ALL#Conductor
+0031#STR0031#ALL#Llegada
+0032#STR0032#ALL#Total por llegada
+0033#STR0033#ALL#3º Remolque

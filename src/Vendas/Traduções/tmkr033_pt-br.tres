@@ -1,0 +1,10 @@
+0001#STR0001#ALL#Listagem de Clientes x Segmentos
+0002#STR0002#ALL#Este Programa ira emitir listagens de Clientes x Segmentos de Negócios
+0003#STR0003#ALL# obedecendo os parametros e diferente das regras de validação de segmento
+0004#STR0004#ALL# para manutenção da base de dados de clientes em relação aos segmentos
+0005#STR0005#ALL#Zebrado
+0006#STR0006#ALL#Administração
+0007#STR0007#ALL#Código    Razão Social                             Endereço                                 Cidade          UF DDD Telefone
+0008#STR0008#ALL#CANCELADO PELO OPERADOR
+0009#STR0009#ALL#Não há informações para imprimir este relatório de acordo com os parâmetros informados
+0010#STR0010#ALL#Clientes

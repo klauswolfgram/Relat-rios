@@ -1,0 +1,30 @@
+0001#STR0001#ALL#Código de barras
+0002#STR0002#ALL#Administração
+0003#STR0003#ALL#Matr916 - relação das entradas e saídas de mercadorias em estabelecimento de artigo.
+0004#STR0004#ALL#Este procedimento tem como objectivo gerar um relatório conforme artigo 17 da portaria cat 
+0005#STR0005#ALL#De 20/02/2003, lei (6.374/89, art. 67, 1.).
+0010#STR0010#ALL#| 2 |                  dados relativos ao estabelecimento                        |
+0011#STR0011#ALL#|nome artigo: ########################################                         |
+0013#STR0013#ALL#|tipo: ####################|nome: ########################################       |
+0015#STR0015#ALL#|endereço: ########################################        |ie: ##############   |
+0017#STR0017#ALL#|concelho: ####################                           |número de contribuinte: ###########     |
+0019#STR0019#ALL#| 3 |saldo credor anterior:                                     ################ |
+0021#STR0021#ALL#| 4 |doc. fiscais relativos a aquisições de mercadorias e de serviços utilizados    |
+0023#STR0023#ALL#|   N. Factura      | Dia/mês | Ie Fornecedor  | Distrito |  Valor(€)   |icms Destacado(€)|
+0026#STR0026#ALL#|total dos créditos escriturados no mês:                          ############## |
+0028#STR0028#ALL#| 5 |créd.  utilizado para abatimento de imposto recolhido em seu próprio nome   |
+0030#STR0030#ALL#|  nfp n.  |dia/mês| valor nfp(€)|valor imp. dev.{€}|   gr n.  |créd. util(€)   |
+0032#STR0032#ALL#|total dos créditos utilizados em grs:                            ############## |
+0034#STR0034#ALL#| 6 |                          saídas de mercadorias                             |
+0036#STR0036#ALL#|  N. Nfp      | Dia/mês | Ie Destinatario | Uf |  Vlr. Nfp(euros) | Icms Transf.(euros)|
+0038#STR0038#ALL#|total dos créditos transferidos:                                  ############## |
+0040#STR0040#ALL#| 7 |créditos estornados no período:                              ############## |
+0042#STR0042#ALL#| 8 |saldo credor do período(quadros: 3+4-5-6-7):                 ############## |
+0045#STR0045#ALL#| 9 |         signatário              | | 10 |           protocolo               |
+0046#STR0046#ALL#|nome: ############################## | |local e data                            |
+0048#STR0048#ALL#|BI: #########|data entrega:##########| |                                        |
+0049#STR0049#ALL#|assinatura:                          | |                                        |
+0054#STR0054#ALL#|            |  relação das entradas e saídas das mercadorias | 1 |ref.mês/ano   |
+0056#STR0056#ALL#|            |         em estabelecimento de artigor         |    #######       |
+0060#STR0060#ALL#Selec.notas fiscais...
+0061#STR0061#ALL#Este relatório imprime a listagem de acompanhamento dos meios-magnéticos

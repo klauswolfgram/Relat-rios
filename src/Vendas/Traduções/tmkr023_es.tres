@@ -1,0 +1,44 @@
+0001#STR0001#ALL#Plazo de Finalizacion - Telemarketing
+0002#STR0002#ALL#Este programa emitira una lista de las llamadas
+0003#STR0003#ALL#realizadas por el operador en la atencion Telemarketing
+0004#STR0004#ALL#de acuerdo con los parametros previamente definidos
+0005#STR0005#ALL#A rayas
+0006#STR0006#ALL#Administracion
+0007#STR0007#ALL#ANULADO POR EL OPERADOR
+0008#STR0008#ALL#No localizado en archivo...  
+0009#STR0009#ALL#No informado en atencion...    
+0010#STR0010#ALL#No hay datos por imprimir para este informe con los parametros informados           
+0011#STR0011#ALL#Total de atenciones registradas para el periodo de  
+0012#STR0012#ALL# a 
+0013#STR0013#ALL#EVALUACION TIEMPOS DEL PERIODO (DIAS)
+0014#STR0014#ALL#Tiempo maximo finalizacion  
+0015#STR0015#ALL#Tiempo minimo finalizacion  
+0016#STR0016#ALL#Tiempo promed. finalizacion
+0017#STR0017#ALL#MOTIVO DE FINALIZACION                                                          ACTIV       %
+0018#STR0018#ALL#MOTIVO DE FINALIZACION                                                      RECEPTIVO       %
+0019#STR0019#ALL#MOTIVO DE FINALIZACION                                                          ACTIV       %          RECEPTIVO       %            TOTAL       %
+0020#STR0020#ALL#FCHA      MOTIVO DE FINALIZACION                                                ACTIV
+0021#STR0021#ALL#FCHA      MOTIVO DE FINALIZACION                                            RECEPTIVO
+0022#STR0022#ALL#FCHA      MOTIVO DE FINALIZACION                                                ACTIV                  RECEPTIVO                    TOTAL
+0023#STR0023#ALL#OPERADOR                                                                        PROM.  DESVIO             MAXIMO                   MINIMO
+0024#STR0024#ALL#                                                                               (DIAS)  (DIAS)             (DIAS)                   (DIAS)
+0025#STR0025#ALL#OPERADOR                                                                        MOTIVO DE FINALIZACION                                                          ACTIV       %
+0026#STR0026#ALL#OPERADOR                                                                        MOTIVO DE FINALIZACION                                                      RECEPTIVO       %
+0027#STR0027#ALL#OPERADOR                                                                        MOTIVO DE FINALIZACION                                             ACTIV       %          RECEPTIVO       %            TOTAL       %
+0028#STR0028#ALL#TOTAL
+0029#STR0029#ALL#MOTIVO DEL CIERRE
+0030#STR0030#ALL#ACTIV
+0031#STR0031#ALL#RECEPTIVO
+0032#STR0032#ALL#FCH.
+0033#STR0033#ALL#OPERADOR
+0034#STR0034#ALL#PROM. (DIAS)
+0035#STR0035#ALL#DESVIO (DIAS)
+0036#STR0036#ALL#MAXIMO (DIAS)
+0037#STR0037#ALL#MINIMO (DIAS)
+0038#STR0038#ALL#PROM. GEN. 
+0039#STR0039#ALL#Encabez. de Telemarketing
+0040#STR0040#ALL#Items de Telemarketing
+0041#STR0041#ALL#Motivo
+0042#STR0042#ALL#Fc. vs Motivo
+0043#STR0043#ALL#Oper. vs Maximo vs Minimo
+0044#STR0044#ALL#Mot. vs Activo

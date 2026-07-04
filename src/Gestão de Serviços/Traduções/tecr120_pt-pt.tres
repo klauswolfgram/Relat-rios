@@ -1,0 +1,19 @@
+0001#STR0001#ALL#Pendências Da Base Instalada
+0002#STR0002#ALL#Este relatório irá imprimir a relação de pendências
+0003#STR0003#ALL#Da Base Instalada
+0005#STR0005#ALL#Código de barras
+0006#STR0006#ALL#Administração
+0007#STR0007#ALL#Cancelado Pelo Operador
+0008#STR0008#ALL#                    Pendência                      Ocorr.   Descrição Ocorrência            Data      Situação    Data Baixa
+0009#STR0009#ALL#                    Pendência                      Ocorr.   Descrição Ocorrência            Cód.cliente       Nome Cliente                    Situação    Data Baixa
+0010#STR0010#ALL#                 Cód.equip        Nome Equipamento              Fabricante          Loja Fabr  Pendência                      Ocorr.   Descrição Ocorrência            Situação    Data Baixa
+0014#STR0014#ALL# - loja fabr: 
+0015#STR0015#ALL#- num. série: 
+0017#STR0017#ALL# - quebra :
+0018#STR0018#ALL#Cliente E Equipamento
+0019#STR0019#ALL#Cliente E Data
+0020#STR0020#ALL#Data E Cliente
+0021#STR0021#ALL#Data E Equipamento
+0023#STR0023#ALL#Liquidado
+0024#STR0024#ALL#Cliente/lj
+0027#STR0027#ALL#Dados Pendentes

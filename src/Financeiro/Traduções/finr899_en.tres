@@ -1,0 +1,62 @@
+0001#STR0001#ALL#Print report of the receipts 
+0002#STR0002#ALL#issued summarized.       
+0003#STR0003#ALL#Z.Form
+0004#STR0004#ALL#MANAGEMENT
+0005#STR0005#ALL#Receipt  Code  -Br Name Custom.                          Issue        Total Value   Tot. Checks      Deposits    Adv. Receipts.  Withhold.           Card       Compensated      Discounts
+0006#STR0006#ALL#                                                                        Bills        and Money       Bank           Genrted                          Credit  
+0007#STR0007#ALL#Code  -Br Company Name Custom.                                        Total Value   Check total      Deposits    Receipts Adv.   Withhold.           Card       Compensated      Discounts
+0008#STR0008#ALL#                   Receip         Issue Date                            Bills        and Money       Bank           Genera.                          Credit  
+0009#STR0009#ALL#Collection Report - 
+0010#STR0010#ALL# by Receipt
+0011#STR0011#ALL# by Customer (Summarized)
+0012#STR0012#ALL# by Customer (Detailed)
+0013#STR0013#ALL#Filtering records...
+0014#STR0014#ALL#CANCELLED BY THE OPERATOR
+0015#STR0015#ALL#Customer Receipts   -> 
+0016#STR0016#ALL#Customer Totals --->
+0017#STR0017#ALL#Issued Receipts   -> 
+0018#STR0018#ALL#GROSS TOTAL       ----> 
+0019#STR0019#ALL#TOTAL EFFECTIVE   ----> 
+0020#STR0020#ALL#TOTAL DEPOSITED   ----> 
+0021#STR0021#ALL#TOTAL PAYM. ADV.  ----> 
+0022#STR0022#ALL#TOTAL WITHHOLDING ----> 
+0023#STR0023#ALL#TOTAL RECEIPT     ----> 
+0024#STR0024#ALL#Sorted by          ?
+0025#STR0025#ALL#Receipt
+0026#STR0026#ALL#Customer(Sum.)
+0027#STR0027#ALL#Customer(Det.)
+0028#STR0028#ALL#From Customer    ?
+0029#STR0029#ALL#To Customer      ?
+0030#STR0030#ALL#From Receipt       ?
+0031#STR0031#ALL#To Receipt         ?
+0032#STR0032#ALL#From Issue         ?
+0033#STR0033#ALL#To Issue           ?
+0034#STR0034#ALL#Currency?
+0035#STR0035#ALL#Date 
+0036#STR0036#ALL# By Date 
+0037#STR0037#ALL#TOTAL CHECK TO DATE---> 
+0038#STR0038#ALL#TOTAL CHCK.ADVANC. ---> 
+0039#STR0039#ALL#  - In  
+0040#STR0040#ALL#CREDIT CARD         --> 
+0041#STR0041#ALL#TOTAL PR CHECK    --> 
+0042#STR0042#ALL#TOTAL DISCOUNTS   ---> 
+0043#STR0043#ALL#TOTAL OFFSET      ----> 
+0044#STR0044#ALL#Code  
+0045#STR0045#ALL#Stor
+0046#STR0046#ALL#Company name
+0047#STR0047#ALL#Total amount 
+0048#STR0048#ALL#  Bills  
+0049#STR0049#ALL#Check total 
+0050#STR0050#ALL# and cash  
+0051#STR0051#ALL#Deposits 
+0052#STR0052#ALL#Bank     
+0053#STR0053#ALL#AdvancedChecks
+0054#STR0054#ALL#  Generated
+0055#STR0055#ALL#Withholdings
+0056#STR0056#ALL#Card  
+0057#STR0057#ALL#Offset     
+0058#STR0058#ALL#Discounts
+0059#STR0059#ALL#Credit 
+0060#STR0060#ALL#Customers
+0061#STR0061#ALL#Receipt inform.
+0062#STR0062#ALL#DEBIT CARD TOTAL -->

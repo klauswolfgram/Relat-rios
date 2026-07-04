@@ -1,0 +1,26 @@
+0001#STR0001#ALL#Informe de presentacion de los medicamentos, el usuario podra listar todos
+0002#STR0002#ALL#o solo aquellos con la cantidad actual en stock menor que la             
+0003#STR0003#ALL#cantidad minima. Opcion disponible mediante el boton de parametros.      
+0004#STR0004#ALL#A rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#Validez de medicamentos
+0007#STR0007#ALL#De Matricula?
+0008#STR0008#ALL#A Matricula?
+0009#STR0009#ALL#A Fch. Vencimento:
+0010#STR0010#ALL#Para utilizar esta rutina, es necesario crear el campo:
+0011#STR0011#ALL#Tabla...: TM1
+0012#STR0012#ALL#Campo....: TM1_DTVALI
+0013#STR0013#ALL#Tipo.....: D
+0014#STR0014#ALL#Tamaño..: 8
+0015#STR0015#ALL#Decimal..: 0
+0016#STR0016#ALL#Titulo...:FechaValidez
+0017#STR0017#ALL#Descripcion:FechaValidez
+0018#STR0018#ALL#Picture..: 99/99/9999
+0019#STR0019#ALL#ATENCION
+0020#STR0020#ALL#Codigo          Nombre Medicamento          Fecha Venc.    Cant.  Actual  Un. Med.
+0021#STR0021#ALL#ANULADO POR EL OPERADOR
+0022#STR0022#ALL#Codigo
+0023#STR0023#ALL#Nombre medicamento
+0024#STR0024#ALL#Fecha venc.
+0025#STR0025#ALL#Cant. Actual
+0026#STR0026#ALL#Un. Med.

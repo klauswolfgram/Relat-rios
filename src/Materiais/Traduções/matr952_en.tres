@@ -1,0 +1,35 @@
+0001#STR0001#ALL#Partnership Contracts
+0002#STR0002#ALL#Issue a list holding information referring to  
+0003#STR0003#ALL#Partnership Contracts.    
+0004#STR0004#ALL#Z. form
+0005#STR0005#ALL#Management   
+0006#STR0006#ALL#CANCELLED BY OPERATOR  
+0007#STR0007#ALL#By Number 
+0008#STR0008#ALL#By Vendor     
+0009#STR0009#ALL#By Product 
+0010#STR0010#ALL#Item  Product         Descript.                        Quantity        Prc. Unit.      Vlr. Total  Ini.Date    Fin.Date  Wareh.           Blc.   Elim.Res.  Notes      
+0011#STR0011#ALL#Item  Product         Descript.                        Quantity        Prc. Unit.      Vlr. Total  Ini.Date    Fin.Date  Wareh.           Blc.   Elim.Res.  Notes                           Contract  Issue    In.Brc.  Freig
+0012#STR0012#ALL#Item    Quantity        Prc. Unit.      Vlr. Total  Ini.Date    Fin.Date  Wareh.           Balc.  Elim.Res.  Notes                           Contract  issue    Paym.Md. Currc In.Brc.  Freig Supplier         
+0013#STR0013#ALL# - All  
+0014#STR0014#ALL# - Pending
+0015#STR0015#ALL# - Partial
+0016#STR0016#ALL# - Attended
+0017#STR0017#ALL#Contract No.: 
+0018#STR0018#ALL#Issue  : 
+0019#STR0019#ALL#Payment Mode  : 
+0020#STR0020#ALL#Brach.for Deliv.: 
+0021#STR0021#ALL#Curr.: 
+0022#STR0022#ALL#Vendor......: 
+0023#STR0023#ALL#Contact: 
+0024#STR0024#ALL#Type of Freig.: 
+0025#STR0025#ALL#Product: 
+0026#STR0026#ALL#Yes
+0027#STR0027#ALL#No
+0028#STR0028#ALL#Total of Items : 
+0029#STR0029#ALL#Descript.
+0030#STR0030#ALL#Blnce
+0031#STR0031#ALL#Partnership Contract
+0032#STR0032#ALL#Vendor    
+0033#STR0033#ALL#Partnership contract item   
+0034#STR0034#ALL#Product (By product)   
+0035#STR0035#ALL#Partnership contract item (By product)      

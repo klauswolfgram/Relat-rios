@@ -1,0 +1,7 @@
+0001#STR0001#ALL#Plano Referencial
+0002#STR0002#ALL#Este programa ira  imprimir o cadastro de plano de contas referencial e as contas do plano padrão associadas a ela.
+0003#STR0003#ALL#Contas
+0004#STR0004#ALL#Sintética
+0005#STR0005#ALL#Analítica
+0006#STR0006#ALL#Função disponível apenas TReport, verificar parametro MV_TREPORT
+0007#STR0007#ALL#Descrição Conta

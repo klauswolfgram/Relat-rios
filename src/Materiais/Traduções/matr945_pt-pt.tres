@@ -1,0 +1,34 @@
+0001#STR0001#ALL#Contribuição Seguridade Social - Entradas
+0002#STR0002#ALL#Este programa tem como objetivo, emitir uma relação dos
+0003#STR0003#ALL#valores referentes à Contribuiçäo Seguridade Social
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0008#STR0008#ALL# criando indice ...    
+0009#STR0009#ALL#Total Do Dia...................................................................................
+0010#STR0010#ALL#Contribuição Segurança Social - Saídas
+0013#STR0013#ALL#Não Cons.
+0015#STR0015#ALL#Total Do Dia Consumidor........................................................................
+0016#STR0016#ALL#Total Do Dia Não Consumidor....................................................................
+0017#STR0017#ALL#Total Crial Entradas...........................................................................
+0018#STR0018#ALL#Total Crial Saídas Consumidor..................................................................
+0019#STR0019#ALL#Total Crial Saídas Não Consumidor..............................................................
+0020#STR0020#ALL#Contribuição Seguridade Social
+0021#STR0021#ALL#Dt Emissão
+0022#STR0022#ALL#Dt Contabilístico
+0023#STR0023#ALL#Factura
+0024#STR0024#ALL#Série
+0025#STR0025#ALL#Cód Fornec.
+0028#STR0028#ALL#Perc.oper
+0029#STR0029#ALL#Cnpj
+0030#STR0030#ALL#Vlr.total Nf
+0033#STR0033#ALL#Total Geral Entradas
+0034#STR0034#ALL#Cód. Cliente
+0036#STR0036#ALL#Tp.cliente
+0039#STR0039#ALL#Valor Total Da Factura
+0041#STR0041#ALL#Notas Fiscais De Entrada
+0042#STR0042#ALL#Notas Fiscais De Saida
+0043#STR0043#ALL#Total Geral De Saídas
+0044#STR0044#ALL#Valor Total Da Factura Consumidor
+0045#STR0045#ALL#Valor Total Da Factura Não Consumidor
+0049#STR0049#ALL#A imprimir...
+0050#STR0050#ALL#- filial 

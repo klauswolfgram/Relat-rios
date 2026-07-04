@@ -1,0 +1,28 @@
+0001#STR0001#ALL#LISTA DE CAPACITACIONES POR ALUMNO 
+0002#STR0002#ALL#Este programa imprimira una lista de capacitaciones por   
+0003#STR0003#ALL#alumno y detalla las capacitaciones realizadas              
+0004#STR0004#ALL#segun los parametros definidos por el usuario.     
+0005#STR0005#ALL#A Rayas
+0006#STR0006#ALL#Administracion
+0007#STR0007#ALL#Seleccionando registros
+0008#STR0008#ALL#NUMERO/ANO DOCUMENTO/REVISION           TITULO                                                        PARTIC. FECHA        HORA      HORA     TOTAL   JUSTIFICACION
+0009#STR0009#ALL#                                                                                                              REALIZACAO   INICIAL   FINAL    HORA                 
+0010#STR0010#ALL#ANULADO POR EL OPERADOR
+0011#STR0011#ALL#Usuario: 
+0012#STR0012#ALL#Departamento: 
+0013#STR0013#ALL#Funcion: 
+0014#STR0014#ALL#Capacitacion:
+0015#STR0015#ALL#Realizado
+0016#STR0016#ALL#Pendiente
+0017#STR0017#ALL#Si
+0018#STR0018#ALL#No
+0019#STR0019#ALL#¿De sucur. alumno?  
+0020#STR0020#ALL#¿A  sucur. alumno?  
+0021#STR0021#ALL#Partic.
+0022#STR0022#ALL#Fch.Realizac.
+0023#STR0023#ALL#Justificativa
+0024#STR0024#ALL#Capacitac.
+0025#STR0025#ALL#Usuario
+0026#STR0026#ALL#Hr.Inicio
+0027#STR0027#ALL#Hr.Final
+0028#STR0028#ALL#Tot.Horas

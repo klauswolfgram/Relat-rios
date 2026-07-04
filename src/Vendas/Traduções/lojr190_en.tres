@@ -1,0 +1,11 @@
+0001#STR0001#ALL#This program has as purpose issue a list on Returned Cheques.         
+0002#STR0002#ALL#Returned Checkes 
+0003#STR0003#ALL# Bank      Branch      Accnt    No.Check    Bill-Installm.   Custom.-Unit                               Telephone     Reas.1     Date    Redeposited     Reas.2     Date    History
+0004#STR0004#ALL#Z.Form 
+0005#STR0005#ALL#Management   
+0006#STR0006#ALL# Bank    Branch   Accnt       No.Check          Bill-Installm. Custom.-Unit                               Telephone      Reas.1   Date         Redeposited    Reas.2    Date                   Value    History
+0007#STR0007#ALL#CANCELLED BY THE OPERATOR  
+0008#STR0008#ALL#No informations for this report       
+0009#STR0009#ALL#TOTAL OF RETURNED CHECKS.......:
+0010#STR0010#ALL#Customer
+0011#STR0011#ALL#Returned checkds items  

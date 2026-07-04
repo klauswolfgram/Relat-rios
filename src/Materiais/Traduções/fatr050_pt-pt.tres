@@ -1,0 +1,17 @@
+0001#STR0001#ALL#Relação de metas de vendas x vendas realizadas
+0002#STR0002#ALL#Este relatório vai imprimir a relação das metas de vendas
+0003#STR0003#ALL#Em relação às vendas realizadas de acordo com os parâmetros
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#Número  Seq.  Descrição                  Data        Vendedor  área  Artigo          Grupo  Tipo          Valor/meta      Qtd./objectivo          Valor/real      Qtd./real     Diferença Valor   Diferença Qtd.
+0007#STR0007#ALL#Relação de metas de vendas x vendas realizadas
+0008#STR0008#ALL#Este relatório vai imprimir a relação das metas de vendas
+0009#STR0009#ALL#Em relação às vendas realizadas de acordo com os parâmetros
+0010#STR0010#ALL#Valor/objectivo
+0014#STR0014#ALL#Valor/real
+0015#STR0015#ALL#Quant/real
+0016#STR0016#ALL#Diferença Valor
+0017#STR0017#ALL#Diferença Qtd
+0018#STR0018#ALL#Quant/objectivo
+0019#STR0019#ALL#Número
+0020#STR0020#ALL#Meta De Vendas

@@ -1,0 +1,23 @@
+0001#STR0001#ALL#Dynamic Scripts Results
+0002#STR0002#ALL#This program will issue a list of Dynamic Scripts
+0003#STR0003#ALL#adding up all given answers according to the
+0004#STR0004#ALL#period and established Campaigns. 
+0005#STR0005#ALL#Z-Form
+0006#STR0006#ALL#Administration
+0007#STR0007#ALL#CANCELLED BY OPERATOR
+0008#STR0008#ALL#OPEN ANSWER
+0009#STR0009#ALL#Campaign : 
+0010#STR0010#ALL#Script : 
+0011#STR0011#ALL#Score
+0012#STR0012#ALL#Total
+0013#STR0013#ALL#Query : 
+0014#STR0014#ALL#Answers : 
+0015#STR0015#ALL#There are no data to be printed for this report based on the informed parameters
+0016#STR0029#ALL#Query
+0017#STR0030#ALL#The Script Parameters do not belong to the established campaign. Please, check the informed data.
+0018#STR0031#ALL#Dissertative answer 
+0019#STR0032#ALL#Campaign script information
+0020#STR0033#ALL#Questions associated to script
+0021#STR0034#ALL#Answers to questions 
+0022#STR0035#ALL#Failure: 
+0023#STR0036#ALL#Check parameters to print report. 

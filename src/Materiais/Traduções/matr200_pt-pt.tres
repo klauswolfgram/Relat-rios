@@ -1,0 +1,16 @@
+0001#STR0001#ALL#Emissão Da Relação De Itens Para Compras
+0002#STR0002#ALL#Com divergências
+0003#STR0003#ALL#Relação De Divergências De Sc E Pedidos De Compras
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#Divergências Entre Sc E Pedido De Compras
+0007#STR0007#ALL# Sc    Item Emissão   Código Lj Fornecedor       Produto         Um   Quantidade C.c.                Conta                Dt.necess
+0008#STR0008#ALL#Pedido
+0009#STR0009#ALL#Divergências
+0010#STR0010#ALL#Cancelado Pelo Operador
+0011#STR0011#ALL#Não há pedido de compra colocado
+0012#STR0012#ALL# Sc    Item Emissão   Código               Lj   Fornecedor                                                      Produto        Um    Quantidade C.c.                 Conta                Dt.necess.
+0013#STR0013#ALL#Solicitação De Compras
+0014#STR0014#ALL#Pedido De Compras
+0015#STR0015#ALL#Número SC
+0017#STR0017#ALL#Número PC

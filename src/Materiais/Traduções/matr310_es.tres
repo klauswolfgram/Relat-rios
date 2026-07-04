@@ -1,0 +1,42 @@
+0001#STR0001#ALL#Detalle de Productos Vendidos
+0002#STR0002#ALL#Este informe exhibe el valor total de las ventas de cada producto
+0003#STR0003#ALL#calculando su participacion dentro del total de las ventas. Muestra
+0004#STR0004#ALL#tambien el costo de cada venta y el costo de reposicion del producto.
+0005#STR0005#ALL#A Rayas
+0006#STR0006#ALL#Administracion
+0007#STR0007#ALL#REGISTRO(S)     Formula del Margen 
+0008#STR0008#ALL#TP CODIGO                         DESCRIPCION                       CANTIDAD UM       (A)COSTO       COSTO POR      VALOR FACT.       (B)VALOR    IMPUESTOS NO    VAL FACTURADO     MAR    MIX     MIX        COSTO DE  VARIA
+0009#STR0009#ALL#                                                                                         TOTAL         UNIDAD         BRUTO        FACTURADO      FACTURADOS    IMP. NO FACT.     GEM   *MAR               REPOSICION    CAO
+0010#STR0010#ALL#Seleccionando Registros...
+0011#STR0011#ALL#ANULADO POR EL OPERADOR
+0012#STR0012#ALL#Subtotal : 
+0013#STR0013#ALL#T O T A L ---> 
+0014#STR0014#ALL#¿Desc.Imp No Fact?
+0015#STR0015#ALL#No
+0016#STR0016#ALL#Si
+0017#STR0017#ALL#Porc. Descuento
+0018#STR0018#ALL#Seleccionando Registros...
+0019#STR0019#ALL#TP
+0020#STR0020#ALL#Codigo
+0021#STR0021#ALL#Cantidad
+0022#STR0022#ALL#(A)Costo
+0023#STR0023#ALL#Total
+0024#STR0024#ALL#Costo por
+0025#STR0025#ALL#Unidad
+0026#STR0026#ALL#Val Facturado
+0027#STR0027#ALL#Bruto
+0028#STR0028#ALL#(B)Valor
+0029#STR0029#ALL#Facturado
+0030#STR0030#ALL#Impuestos no
+0031#STR0031#ALL#Facturados
+0032#STR0032#ALL#Imp. No Fact.
+0033#STR0033#ALL#Margen
+0034#STR0034#ALL#Mix
+0035#STR0035#ALL#*Mar
+0036#STR0036#ALL#Costo de
+0037#STR0037#ALL#Reposicion
+0038#STR0038#ALL#Variacion
+0039#STR0039#ALL#Prod. 
+0040#STR0040#ALL#TP CODIGO                         DESCRIPCION                       CANTIDAD UM       (A)COSTO       COSTO POR      VALOR FACT.       (B)VALOR    IMPUESTOS NO    VAL FACTURADO     MAR    MIX     MIX        COSTO DE  VARIA
+0041#STR0041#ALL#Cant.
+0042#STR0042#ALL#Movim.

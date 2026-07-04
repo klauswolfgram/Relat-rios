@@ -1,0 +1,28 @@
+0001#STR0001#ALL#Lista de los Movimientos
+0002#STR0002#ALL#   - Tipo de Saldo: 
+0003#STR0003#ALL#* Total de la Cuenta Presupuestaria *
+0004#STR0004#ALL#* Total de la Fecha *
+0005#STR0005#ALL#* Total de la Clase *
+0006#STR0006#ALL#* Total Operacion *
+0007#STR0007#ALL#* Total de la Clase Presupuestaria *
+0008#STR0008#ALL#Cuenta Presupuestaria
+0009#STR0009#ALL# - PerÌodo de: 
+0010#STR0010#ALL# a 
+0011#STR0011#ALL#Fch.Movim.
+0012#STR0012#ALL#Clase
+0013#STR0013#ALL#Operacion
+0014#STR0014#ALL#Historial
+0015#STR0015#ALL#Proc.
+0016#STR0016#ALL#Valor
+0017#STR0017#ALL#Este informe imprimira la Lista de Movimientos de acuerdo con los parametros solicitados por el usuario. Para mas informaciones sobre este informe consulte el Help del Programa ( F1 ).
+0018#STR0018#ALL#C.P.+Fecha
+0019#STR0019#ALL#C.P.+Clase+Operacion
+0020#STR0020#ALL#Clase+Operacion
+0021#STR0021#ALL#Operacion
+0022#STR0022#ALL#Fecha+C.P.+Clase+Operacion
+0023#STR0023#ALL#Atencion
+0024#STR0024#ALL#No existen datos para los parametros especificados.
+0025#STR0025#ALL#Movim. por 
+0026#STR0026#ALL#Tipo de Saldo no Informado. Verifique.
+0027#STR0027#ALL#Orden no informada. Verifique.
+0028#STR0028#ALL# - »Ì‰ÂÍÒ ÔÓ: 

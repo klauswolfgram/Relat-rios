@@ -1,0 +1,18 @@
+0001#STR0001#ALL#PENDIENTES
+0002#STR0002#ALL#Este programa imprimira una lista de los pendientes de cada  
+0003#STR0003#ALL#responsable, mencionando el tipo de pendiente y su fecha de
+0004#STR0004#ALL#generacion, segun los parametros definidos por el usuario.  
+0005#STR0005#ALL#A Rayas
+0006#STR0006#ALL#Administracion
+0007#STR0007#ALL#Seleccionando registros..
+0008#STR0008#ALL#DOCUMENTO/REVISION   TITULO                                                                                               PENDIENTE                FCH. DE     FCH. DE    ESTADO     DIAS
+0009#STR0009#ALL#                                                                                                                                                   CREACION    LA BAJA    DE BAJA
+0010#STR0010#ALL#ANULADO POR EL OPERADOR
+0011#STR0011#ALL#Departamento: 
+0012#STR0012#ALL#Responsable : 
+0013#STR0013#ALL#Pendiente
+0014#STR0014#ALL#De baja
+0015#STR0015#ALL#Depto
+0016#STR0016#ALL#Pendencias
+0017#STR0017#ALL#SUCURSAL: 
+0018#STR0018#ALL#CODIGO: 

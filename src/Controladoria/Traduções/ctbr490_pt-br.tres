@@ -1,0 +1,53 @@
+0001#STR0001#ALL#Este programa ira imprimir o Razao por 
+0002#STR0002#ALL# de acordo com os parametros sugeridos pelo usuario. 
+0003#STR0004#ALL#Zebrado
+0004#STR0005#ALL#Administracao
+0005#STR0006#ALL#Emissao do Razao Contabil por 
+0006#STR0007#ALL#RAZAO POR 
+0007#STR0008#ALL# ANALITICO EM 
+0008#STR0009#ALL#DE
+0009#STR0010#ALL#ATE
+0010#STR0011#ALL#(ORCADO)
+0011#STR0012#ALL#(GERENCIAL)
+0012#STR0013#ALL#LOTE/SUB/DOC/LINHA H I S T O R I C O                        C/PARTIDA
+0013#STR0014#ALL#LOTE/SUB/DOC/LINHA H I S T O R I C O                        C/PARTIDA                      DEBITO          CREDITO       SALDO ATUAL
+0013#STR0014#ANG#LOTE/SUB/DOC/LINHA H I S T O R I C O                        C/PARTIDA                      DEBITO          CREDITO       SALDO ATUAL
+0013#STR0014#EQU#LOTE/SUB/DOC/LINHA H I S T O R I C O                        C/PARTIDA                      DEBITO          CREDITO       SALDO ATUAL
+0013#STR0014#HAI#LOTE/SUB/DOC/LINHA H I S T O R I C O                        C/PARTIDA                      DEBITO          CREDITO       SALDO ATUAL
+0013#STR0014#MEX#LOTE/SUB/DOC/LINHA H I S T O R I C O                        C/PARTIDA                      DEBITO          CREDITO       SALDO ATUAL
+0013#STR0014#PTG#LOTE/SUB/DOC/LINHA H I S T O R I C O                        C/PARTIDA                      DEBITO          CREDITO       SALDO ATUAL
+0014#STR0015#ALL#***** CANCELADO PELO OPERADOR *****
+0015#STR0016#ALL#CLASSE DE VALOR  - 
+0016#STR0017#ALL#T o t a i s  
+0017#STR0018#ALL#Criando Arquivo Temporario...
+0018#STR0019#ALL#DATA
+0019#STR0020#ALL#T o t a i s  d a  C o n t a  ==> 
+0020#STR0021#ALL# SINTETICO EM 
+0021#STR0022#ALL#A TRANSPORTAR : 
+0022#STR0023#ALL#DE TRANSPORTE : 
+0023#STR0024#ALL#CONTA - 
+0024#STR0025#ALL#DATA                                                                            DEBITO               CREDITO            SALDO ATUAL
+0024#STR0025#ANG#DATA                                                                            DEBITO               CREDITO            SALDO ATUAL
+0024#STR0025#EQU#DATA                                                                            DEBITO               CREDITO            SALDO ATUAL
+0024#STR0025#HAI#DATA                                                                            DEBITO               CREDITO            SALDO ATUAL
+0024#STR0025#MEX#DATA                                                                            DEBITO               CREDITO            SALDO ATUAL
+0024#STR0025#PTG#DATA                                                                            DEBITO               CREDITO            SALDO ATUAL
+0025#STR0026#ALL#DEBITO         CREDITO      SALDO ATUAL
+0025#STR0026#ANG#DEBITO         CREDITO      SALDO ATUAL
+0025#STR0026#EQU#DEBITO         CREDITO      SALDO ATUAL
+0025#STR0026#HAI#DEBITO         CREDITO      SALDO ATUAL
+0025#STR0026#MEX#DEBITO         CREDITO      SALDO ATUAL
+0025#STR0026#PTG#DEBITO         CREDITO      SALDO ATUAL
+0026#STR0027#ALL#SALDO ANTERIOR:
+0027#STR0028#ALL#DATA
+0028#STR0029#ALL#LOTE/SUB/DOC/LINHA
+0029#STR0030#ALL#HISTORICO
+0030#STR0031#ALL#C/PARTIDA
+0031#STR0032#ALL#DEBITO
+0032#STR0033#ALL#CREDITO
+0033#STR0034#ALL#SALDO ATUAL
+0034#STR0035#ALL#DESCRICAO
+0035#STR0036#ALL#Total
+0036#STR0037#ALL#Conta
+0037#STR0038#ALL#Complemento
+0038#STR0039#ALL#COMPL.HISTORICO

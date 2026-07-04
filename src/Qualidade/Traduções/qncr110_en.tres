@@ -1,0 +1,25 @@
+0001#STR0001#ALL#LIST OF STAGES DUE AND FALLING DUE
+0002#STR0002#ALL#This program will print a list of Users with Stages that are 
+0003#STR0003#ALL#Due or Falling Due according to the parameters defined by the user.
+0004#STR0004#ALL#Z.Form
+0005#STR0005#ALL#Administration
+0006#STR0006#ALL#Selecting Records...
+0007#STR0007#ALL#PLAN            ACTION TYPE REV                                            RESPONSIBLE                     DAYS
+0008#STR0008#ALL#CANCELLED BY THE OPERATOR
+0009#STR0009#ALL#Falling Due
+0010#STR0010#ALL#Due
+0011#STR0011#ALL#Branch From       ?
+0012#STR0012#ALL#Branch To         ?
+0013#STR0013#ALL#Year From         ?
+0014#STR0014#ALL#Year To           ?
+0015#STR0015#ALL#Action Plan From  ?
+0016#STR0016#ALL#Action Plan To    ?
+0017#STR0017#ALL#Revision Plan From?
+0018#STR0018#ALL#Revision Olan To  ?
+0019#STR0019#ALL#User From         ?
+0020#STR0020#ALL#User To           ?
+0021#STR0021#ALL#Stage From        ?
+0022#STR0022#ALL#Stage To          ?
+0023#STR0023#ALL#Stage Deadline From?
+0024#STR0024#ALL#Stage Deadline To ?
+0025#STR0025#ALL#Plan stages    

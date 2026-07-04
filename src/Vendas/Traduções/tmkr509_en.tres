@@ -1,0 +1,77 @@
+0001#STR0001#ALL#Productivity by analyst and team
+0002#STR0002#ALL#It shows information about team's and analyst's productivity in the queried period
+0003#STR0003#ALL#Area calls
+0004#STR0004#ALL#Analyst calls
+0005#STR0005#ALL#Solved calls
+0006#STR0006#ALL#Pending calls
+0007#STR0007#ALL#interactions
+0008#STR0008#ALL#Analyst indicators
+0009#STR0009#ALL#Calls solved in up to 24 hours
+0010#STR0010#ALL#Calls solved in up to 48 hours
+0011#STR0011#ALL#Calls solved after 48 hours
+0012#STR0012#ALL#Team
+0013#STR0013#ALL#Analyst
+0014#STR0014#ALL#Critic
+0015#STR0015#ALL#Discharge
+0016#STR0016#ALL#Average
+0017#STR0017#ALL#Low
+0018#STR0018#ALL#Improvement
+0019#STR0019#ALL#Open FNC
+0020#STR0020#ALL#Total
+0021#STR0021#ALL#Solved in SLA (%)
+0022#STR0022#ALL#Customer
+0023#STR0023#ALL#Productive
+0024#STR0024#ALL#Non-Productive
+0025#STR0025#ALL#Calls registered
+0026#STR0026#ALL#Customer reopening
+0027#STR0027#ALL#FNC rejected
+0028#STR0028#ALL#Days worked
+0029#STR0029#ALL#Average of solved calls
+0030#STR0030#ALL#Total of Team's solved calls
+0031#STR0031#ALL#Total of Team's pending calls
+0032#STR0032#ALL#Total of Team's interactions
+0033#STR0033#ALL#Total of analyst indicators
+0034#STR0034#ALL#Total of calls solved in up to 24 hours
+0035#STR0035#ALL#Total of calls solved in up to 48 hours
+0036#STR0036#ALL#Total of calls solved after 48 hours
+0037#STR0037#ALL#Classifying
+0038#STR0038#ALL#From?
+0039#STR0039#ALL#Indicate date to be searched.
+0040#STR0040#ALL#To?
+0041#STR0041#ALL#From Group?
+0042#STR0042#ALL#Indicate group to be searched.
+0043#STR0043#ALL#To Group?
+0044#STR0044#ALL#From Analyst?
+0045#STR0045#ALL#Indicate group to be searched.
+0046#STR0046#ALL#To Analyst?
+0047#STR0047#ALL#Indicate analyst to be searched.
+0048#STR0048#ALL#Type of report?
+0049#STR0049#ALL#Analytical
+0050#STR0050#ALL#Indicate type of report. The Analytical report shows a detailed report and the Summarized one shows a report with only the total investigated.
+0051#STR0051#ALL#Indicator ( Solved Calls)
+0052#STR0052#ALL#Inform the indicator used to identify calls solved during service.
+0053#STR0053#ALL#Indicator ( Productive Inter.)
+0054#STR0054#ALL#Inform the indicator used to identify service productive interactions.
+0055#STR0055#ALL#Indicator ( Non-Productive)
+0056#STR0056#ALL#Inform the indicator used to identify service non-productive interactions.
+0057#STR0057#ALL#Indicator (Call Reopening)
+0058#STR0058#ALL#Inform indicator used to identify call reopening during service.
+0059#STR0059#ALL#Indicator (FNC Rejection)
+0060#STR0060#ALL#Inform indicator used to identify a FNC rejection.
+0061#STR0061#ALL#Indicator (Call Opening)
+0062#STR0062#ALL#Inform indicator used to identify call opening.
+0063#STR0063#ALL#Calls Solved
+0064#STR0064#ALL#Calls solved within the SLA time
+0065#STR0065#ALL#Calls with FNC
+0066#STR0066#ALL#Calls solved within the SLA time with FNC
+0067#STR0067#ALL#Pending Calls
+0068#STR0068#ALL#Productive Interactions
+0069#STR0069#ALL#Non-productive Interactions
+0070#STR0070#ALL#Open Calls
+0071#STR0071#ALL#Reopening of Customer
+0072#STR0072#ALL#FNC Rejections
+0073#STR0073#ALL#Days Worked
+0074#STR0074#ALL#Calls Solved (Service Time)
+0075#STR0075#ALL#Calls Solved with FNC (Service Time)
+0076#STR0076#ALL#Calls solved by the team without FNC
+0077#STR0077#ALL#Calls with FNC

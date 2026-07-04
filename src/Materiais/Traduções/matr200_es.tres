@@ -1,0 +1,20 @@
+0001#STR0001#ALL#Emision del detalle de itemes para compras
+0002#STR0002#ALL#con Divergencias
+0003#STR0003#ALL#Detalle de Divergencias de SC y Pedidos de Compras
+0004#STR0004#ALL#A Rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#DIVERGENCIAS ENTRE SC Y PEDIDO DE COMPRAS
+0007#STR0007#ALL# SC    IT  EMISION    CODIGO NEG PROVEEDOR            PRODUCTO        UM   CANTIDAD   C.C.           CUENTA                FC.NECES.
+0008#STR0008#ALL#PEDIDO
+0009#STR0009#ALL#DIVERGENCIAS
+0010#STR0010#ALL#ANULADO POR EL OPERADOR
+0011#STR0011#ALL#No hay pedido de compra colocado
+0012#STR0012#ALL# SC    IT  EMISION   CODIGO               NEG  PROVEEDOR                                                         PRODUCTO       UM    CANTIDAD   C.C.            CUENTA               FC.NECES.
+0013#STR0013#ALL#Solicitud de Compras
+0014#STR0014#ALL#Pedido de Compras
+0015#STR0015#ALL#Numero SC
+0016#STR0016#ALL#Item SC
+0017#STR0017#ALL#Numero PC
+0018#STR0018#ALL#Item PC
+0019#STR0019#ALL#Tienda
+0020#STR0020#ALL#UM

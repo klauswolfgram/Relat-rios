@@ -1,0 +1,14 @@
+0001#STR0001#ALL#Este Programa Irá Imprimir O Livro De Inventário E Balanços.
+0002#STR0002#ALL#Livro De Inventário E Balancete
+0003#STR0003#ALL#Código de barras
+0004#STR0004#ALL#Administração
+0005#STR0005#ALL#|   código da conta                                   |   d  e  s  c  r  i  c  a  o               |   saldo anterior   |   débito do período  |  crédito do período  |   saldo do devedor   |   saldo do credor    |  saldo acumulado   |
+0006#STR0006#ALL#Livro de inventário e balanço 
+0007#STR0007#ALL# até 
+0008#STR0008#ALL# em 
+0009#STR0009#ALL#A Criar Ficheiro Temporário...
+0010#STR0010#ALL#***** cancelado pelo operador *****
+0011#STR0011#ALL#Razão social: 
+0012#STR0012#ALL#Rut: 
+0014#STR0014#ALL#Direcção:
+0015#STR0015#ALL#T O T A I S  D O  P E R í O D O:

@@ -1,0 +1,14 @@
+0001#STR0001#ALL#Lista de Facturas Previas
+0002#STR0002#ALL#Este programa imprimira una relacion de Facturas Previas
+0003#STR0003#ALL#de acuerdo con los parametros del usuario.
+0004#STR0004#ALL#A Rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#Seleccionando Registros..
+0007#STR0007#ALL#REMITENTE          FACT.    SERIE COD.DEP NOMB CLIENTE   COD.TRP FAC PRE TIPO FLETE MODAL VENCTO        VAL BRUTO INI CIER   FIN CIER   VAL BLQ AC. VAL DESBLOQ. PROTOCOLO PLACA    SALID CTRC     VOLS     PESO   VAL FACTURA
+0008#STR0008#ALL#  FLETE PESO     VLR TASA VLR IMPUESTO  VLR PEAJE   VLR ADEME     VLR ICMS    VLR TOTAL FRT URB EMISION     PESO NF  VLR MERCAD. ITINERARIO    DESTINATARIO                                                      NUESTRO TOTAL
+0009#STR0009#ALL#ANULADO POR EL OPERADOR
+0010#STR0010#ALL#Lista de Prefacturas
+0011#STR0011#ALL#Este programa imprimira una lista de Prefacturas segun los parametros del usuario.
+0012#STR0012#ALL#Remitente + Factura + Serie
+0013#STR0013#ALL#Prefactura
+0014#STR0014#ALL#Nuestro Total

@@ -1,0 +1,36 @@
+0001#STR0001#ALL#Totales de los codigos de reloj
+0002#STR0002#ALL#Se imprimira de acuerdo con los parametros solicitados por
+0003#STR0003#ALL#el usuario.
+0004#STR0004#ALL#Matricula
+0005#STR0005#ALL#Centro de costo
+0006#STR0006#ALL#Nombre
+0007#STR0007#ALL#Turno
+0008#STR0008#ALL#A Rayas
+0009#STR0009#ALL#Administracion
+0010#STR0011#ALL#Codigos del reloj
+0011#STR0012#ALL#Periodo de: 
+0012#STR0013#ALL#Empl..: 
+0013#STR0014#ALL#   Placa: 
+0014#STR0015#ALL#C.C.: 
+0015#STR0016#ALL#Funcion: 
+0016#STR0017#ALL#Hr.Mes: 
+0017#STR0018#ALL# Categ.: 
+0018#STR0019#ALL#Tur.: 
+0019#STR0020#ALL#Sucursal: 
+0020#STR0021#ALL# C.Costo: 
+0021#STR0022#ALL# Turno: 
+0022#STR0023#ALL#Empresa: 
+0023#STR0024#ALL#A U T O R I Z A D O
+0024#STR0025#ALL#N O   A U T O R I Z A D O
+0025#STR0026#ALL# Cod Descripcion      Calc.    Infor.|
+0026#STR0027#ALL# Cod Descripcion      Calc.    Infor.
+0027#STR0028#ALL#C.Costo+Nombre
+0028#STR0029#ALL#Seleccione la opcion de impresion: 
+0029#STR0030#ALL#Por Periodo
+0030#STR0031#ALL#Por Fechas: 
+0031#STR0032#ALL#Proceso: 
+0032#STR0033#ALL#Periodo: 
+0033#STR0034#ALL#Procedim.: 
+0034#STR0035#ALL#Num. Pago: 
+0035#STR0036#ALL#Departamento 
+0036#STR0037#ALL#Depto.: 

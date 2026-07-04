@@ -1,0 +1,26 @@
+0001#STR0001#ALL#Transfer from Location
+0002#STR0002#ALL#Generates a list of transferred assets selected.
+0003#STR0003#ALL#Asset code
+0004#STR0004#ALL#Description:
+0005#STR0005#ALL#Transf. Date
+0006#STR0006#ALL#Code of source location:
+0007#STR0007#ALL#Code of destination location:
+0008#STR0008#ALL#Description:
+0009#STR0009#ALL#Function available only to environments TopConnect.
+0010#STR0010#ALL#Function available only to TReport.
+0011#STR0011#ALL#Item
+0012#STR0012#ALL#This report is available in customizable mode only.
+0013#STR0013#ALL#Item
+0014#STR0014#ALL#Transf. Dt.
+0015#STR0015#ALL#Origin Branch
+0016#STR0016#ALL#Target Branch
+0017#STR0017#ALL#Source Location
+0018#STR0018#ALL#Target Location
+0019#STR0019#ALL#Code
+0020#STR0020#ALL#Company
+0021#STR0021#ALL#Business Unit
+0022#STR0022#ALL#Branch
+0023#STR0023#ALL#Branch: 
+0024#STR0024#ALL#Branches selected for the report
+0025#STR0025#ALL#This report is only available for Top Connect environment
+0026#STR0026#ALL#No found with the branches selected

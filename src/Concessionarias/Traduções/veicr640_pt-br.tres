@@ -1,0 +1,10 @@
+0001#STR0001#ALL#Visita CEV
+0002#STR0002#ALL#Vendas
+0003#STR0003#ALL#Zebrado
+0004#STR0004#ALL#Administracao
+0005#STR0005#ALL# a 
+0006#STR0006#ALL#Vendedor                  Qtd 
+0007#STR0007#ALL#   Cliente               Visit
+0008#STR0008#ALL#--- VENDA BALCAO ---- --- VENDA OFICINA --- -- VENDA VEICULOS --- - VDA OUTROS- ---- VENDA TOTAL ----
+0009#STR0009#ALL#Qtd     Valor LucBrut Qtd     Valor LucBrut Qtd     Valor LucBrut Qtd     Valor Qtd Vlr.Venda LucBrut
+0010#STR0010#ALL#Total Geral

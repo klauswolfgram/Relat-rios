@@ -1,0 +1,13 @@
+0001#STR0001#ALL#Este programa tem como objetivo imprimir a posicao de 
+0002#STR0002#ALL#das Reclamacoes nao Transmitidas. (Scania)
+0003#STR0003#ALL#Relclamacoes nao Transmitidas - Scania
+0004#STR0004#ALL# [Nro.OS] [Dt.Abe] [Ch.I] [Chassi do Veiculo------] [Modelo-------------------]
+0005#STR0005#ALL#          [Dt.Abe] [Ano]  [Nr.RR] [Dt.Lib] [Vlr Pec.] [Vlr Srv.]
+0006#STR0006#ALL#Zebrado
+0007#STR0007#ALL#Administracao
+0008#STR0008#ALL#Aguarde Selecionando Registro para Impressao
+0009#STR0009#ALL#*** CANCELADO PELO OPERADOR ***
+0010#STR0010#ALL#Total.: 
+0011#STR0011#ALL#Total do Relatorio.: 
+0012#STR0012#ALL#Data Inicial      ?
+0013#STR0013#ALL#Data Final        ?

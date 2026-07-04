@@ -1,0 +1,73 @@
+0001#STR0001#ALL#Este programa ira imprimir o Relatorio de Lancamentos
+0002#STR0002#ALL#por Sublote/Doc.Fiscal.
+0003#STR0003#ALL#Lancamentos Classificados por Sublote/Doc.Fiscal
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#DOC      CONTA                                      DOC. FISCAL                                  VALOR DEB             VALOR CRED   HP   HIST
+0006#STR0006#ANG#DOC      CONTA                                      DOC. FISCAL                                  VALOR DEB             VALOR CRED   HP   HIST
+0006#STR0006#EQU#DOC      CONTA                                      DOC. FISCAL                                  VALOR DEB             VALOR CRED   HP   HIST
+0006#STR0006#HAI#DOC      CONTA                                      DOC. FISCAL                                  VALOR DEB             VALOR CRED   HP   HIST
+0006#STR0006#MEX#DOC      CONTA                                      DOC. FISCAL                                  VALOR DEB             VALOR CRED   HP   HIST
+0006#STR0006#PTG#DOC      CONTA                                      DOC. FISCAL                                  VALOR DEB             VALOR CRED   HP   HIST
+0007#STR0007#ALL#Emissao do Relat. SubLote/Doc.Fiscal
+0008#STR0008#ALL#Criando Arquivo Temporário...
+0009#STR0009#ALL#***** CANCELADO PELO OPERADOR *****
+0010#STR0010#ALL#DIFERENCA
+0011#STR0011#ALL#TOTAL LOTE: 
+0012#STR0012#ALL#INFORMADO
+0013#STR0013#ALL#DIGITADO
+0014#STR0014#ALL#T O T A L  G E R A L ==> 
+0015#STR0015#ALL#SUB-LOTE: 
+0016#STR0016#ALL#Selecionando Registros...
+0017#STR0017#ALL#DATA: 
+0018#STR0018#ALL#LOTE: 
+0019#STR0019#ALL#TOTAL DOCUMENTO: 
+0019#STR0019#ANG#TOTAL DOCUMENTO: 
+0019#STR0019#EQU#TOTAL DOCUMENTO: 
+0019#STR0019#HAI#TOTAL DOCUMENTO: 
+0019#STR0019#MEX#TOTAL DOCUMENTO: 
+0019#STR0019#PTG#TOTAL DOCUMENTO: 
+0020#STR0020#ALL#TOTAL SUB-LOTE: 
+0021#STR0021#ALL# em 
+0022#STR0022#ALL# de 
+0023#STR0023#ALL# ate 
+0024#STR0024#ALL#Esse relatorio necessita do campo CT2_KEY. Favor criá-lo com tipo caracter de 100
+0025#STR0025#ALL#Lote
+0026#STR0026#ALL#Lancamento
+0027#STR0027#ALL#Data
+0028#STR0028#ALL#Sub-lote
+0029#STR0029#ALL#Documento
+0030#STR0030#ALL#Conta
+0031#STR0031#ALL#Doc. fiscal
+0032#STR0032#ALL#Valor débito
+0032#STR0032#ANG#Valor débito
+0032#STR0032#EQU#Valor débito
+0032#STR0032#HAI#Valor débito
+0032#STR0032#MEX#Valor débito
+0032#STR0032#PTG#Valor débito
+0033#STR0033#ALL#Valor crédito
+0033#STR0033#ANG#Valor crédito
+0033#STR0033#EQU#Valor crédito
+0033#STR0033#HAI#Valor crédito
+0033#STR0033#MEX#Valor crédito
+0033#STR0033#PTG#Valor crédito
+0034#STR0034#ALL#HP
+0035#STR0035#ALL#Histórico
+0036#STR0036#ALL#Total
+0037#STR0037#ALL#Total valor deb
+0037#STR0037#ANG#Total valor deb
+0037#STR0037#EQU#Total valor deb
+0037#STR0037#HAI#Total valor deb
+0037#STR0037#MEX#Total valor deb
+0037#STR0037#PTG#Total valor deb
+0038#STR0038#ALL#Total valor cred
+0038#STR0038#ANG#Total valor cred
+0038#STR0038#EQU#Total valor cred
+0038#STR0038#HAI#Total valor cred
+0038#STR0038#MEX#Total valor cred
+0038#STR0038#PTG#Total valor cred
+0039#STR0039#ALL#Total documento: 
+0040#STR0040#ALL#Total lote: 
+0041#STR0041#ALL#Total sub-lote: 
+0042#STR0042#ALL#Total geral =>
+0043#STR0043#ALL#Histórico do Documento Contábil

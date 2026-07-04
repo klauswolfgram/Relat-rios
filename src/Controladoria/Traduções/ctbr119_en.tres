@@ -1,0 +1,19 @@
+0001#STR0001#ALL#Reference Chart of Accounts Journal
+0002#STR0002#ALL#This program prints the reference chart of accounts journal
+0003#STR0003#ALL#Deb Ref Acc
+0004#STR0004#ALL#Cred Ref Acc
+0005#STR0005#ALL#Account
+0006#STR0006#ALL#Ref Account
+0007#STR0007#ALL#Batch/Sub-batch/Doc/Row
+0008#STR0008#ALL#Type
+0009#STR0009#ALL#Ref Plan and Version not registered in Referential Plan Register.
+0010#STR0010#ALL#Referential Plan and/or Version not filled out. 
+0011#STR0011#ALL#Function available TReport only. Check MV_TREPORT parameter
+0012#STR0012#ALL#T O T A L
+0013#STR0013#ALL# Report Total 
+0014#STR0014#ALL# Total Deb:
+0015#STR0015#ALL#Total Crd:
+0016#STR0016#ALL# Day total 
+0017#STR0017#ALL#Entry Date
+0018#STR0018#ALL#Tot.Ger.D:
+0019#STR0019#ALL#Tot.Ger.C:

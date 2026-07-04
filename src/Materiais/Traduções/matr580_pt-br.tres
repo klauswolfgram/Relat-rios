@@ -1,0 +1,31 @@
+0001#STR0001#ALL#Faturamento por Vendedor
+0002#STR0002#ALL#Este relatorio emite a relacao de faturamento. Podera ser
+0003#STR0003#ALL#emitido por ordem de Cliente ou por Valor (Ranking).     
+0004#STR0004#ALL#Se no TES estiver gera duplicata (N), nao sera computado.
+0005#STR0005#ALL#Zebrado
+0006#STR0006#ALL#Administracao
+0007#STR0007#ALL#FATURAMENTO POR VENDEDOR  (ORDEM DECRESCENTE POR CODIGO) - 
+0008#STR0008#ALL#FATURAMENTO POR VENDEDOR  (RANKING) - 
+0009#STR0009#ALL#CODIGO   NOME DO VENDEDOR                                FATURAMENTO          VALOR DA                 VALOR  RANKING
+0010#STR0010#ALL#                                                         SEM ICM/IPI         MERCADORIA                TOTAL         
+0011#STR0011#ALL#Selecionando Registros...
+0012#STR0012#ALL#CANCELADO PELO OPERADOR
+0013#STR0013#ALL#Venda Sem Vendedor
+0014#STR0014#ALL#T O T A L --->
+0015#STR0015#ALL#Faturamento por Vendedor
+0016#STR0016#ALL#Este relatorio emite a relacao de faturamento. Podera ser
+0017#STR0017#ALL#emitido por ordem de Cliente ou por Valor (Ranking).     
+0018#STR0018#ALL#Se no TES estiver gera duplicata (N), nao sera computado.
+0019#STR0019#ALL#Faturamento S/ ICM/IPI
+0020#STR0020#ALL#Valor da Mercadoria
+0021#STR0021#ALL#Valor Total
+0022#STR0022#ALL#Ranking
+0023#STR0023#ALL#(Ordem Decrescente de Vendedor)
+0024#STR0024#ALL#(Ordem Crescente de Ranking)
+0025#STR0025#ALL#Vendas sem Vendedor
+0026#STR0026#ALL#Vendedores
+0027#STR0027#ALL#Notas de Saida
+0028#STR0028#ALL#Devolucoes
+0029#STR0029#ALL#Faturamento sem impostos
+0030#STR0030#ALL#Campo L2_VEND não encontrado na Base
+0031#STR0031#ALL#Aviso

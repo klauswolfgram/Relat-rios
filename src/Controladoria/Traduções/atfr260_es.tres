@@ -1,0 +1,17 @@
+0001#STR0001#ALL#Este informe imprimirá las ampliaciones de los bienes dentro 
+0002#STR0002#ALL#de los parámetros especificados.
+0003#STR0003#ALL#AMPLIACIONES
+0004#STR0004#ALL#Cód. Base  Ítem Tp Descripción Sintética    Fecha Ampli Cta. Contable Bien   Valor de ampliacion   Valor actualizado     Valor original
+0005#STR0005#ALL# entre 
+0006#STR0006#ALL#Seleccionando registros...
+0007#STR0007#ALL#ANULADO POR EL OPERADOR
+0008#STR0008#ALL#Valor actualizado
+0009#STR0009#ALL#Ampliación  en 
+0010#STR0010#ALL#Original en 
+0011#STR0011#ALL#Bienes ampliados
+0012#STR0012#ALL#Sucursal: 
+0013#STR0013#ALL#Código
+0014#STR0014#ALL#Empresa
+0015#STR0015#ALL#Unidad de negocio
+0016#STR0016#ALL#Sucursal
+0017#STR0017#ALL#Sucursales seleccionadas para el informe

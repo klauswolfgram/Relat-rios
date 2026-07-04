@@ -1,0 +1,42 @@
+0001#STR0001#ALL#Demonstrativos Contábeis Múltiplas Visões Gerenciais
+0002#STR0002#ALL#Apresentação
+0003#STR0003#ALL#Bem-Vindo 
+0004#STR0004#ALL#Esta ferramenta irá auxiliar a preencher as informações necessárias para configuração da emissão de demonstrativos contábeis utilizando múltiplas visões gerenciais
+0005#STR0005#ALL#Parâmetros Iniciais
+0006#STR0006#ALL#Definição de parâmetros inicias do relatório
+0007#STR0007#ALL#Seleção de Filiais
+0008#STR0008#ALL#Filtro por Filiais/Unid.Negócio/Empresa
+0009#STR0009#ALL#Calendário Contábil X Periodicidade
+0010#STR0010#ALL#Visões Gerenciais
+0011#STR0011#ALL#Sim
+0012#STR0012#ALL#Não
+0013#STR0013#ALL#Quant. Visões Gerenciais:
+0014#STR0014#ALL#Moeda: 
+0015#STR0015#ALL#Taxa de Moeda: 
+0016#STR0016#ALL#Considera Filiais ?
+0017#STR0017#ALL#Calendário
+0018#STR0018#ALL#Periodicidade
+0019#STR0019#ALL#Quinzenal
+0020#STR0020#ALL#Mensal
+0021#STR0021#ALL#Trimestral
+0022#STR0022#ALL#Semestral
+0023#STR0023#ALL#Anual
+0024#STR0024#ALL#&Marca/Demarca Todos
+0025#STR0025#ALL#Conf. Livro
+0026#STR0026#ALL#Descrição
+0027#STR0027#ALL#Tipo Saldo
+0028#STR0028#ALL#Informe a configuração do livro contábil da linha 
+0029#STR0029#ALL#Informe o tipo de saldo contábil da linha 
+0030#STR0030#ALL#Defina se serão consideradas as filiais/Und.Negócio/Empresa no relatório
+0031#STR0031#ALL#Deve ser definida uma quantidade de visões gerenciais que serão utilizadas no relatório, pelo menos uma deve ser definida
+0032#STR0032#ALL#Deve ser definida a moeda dos saldos do relatório de demonstrativos contábeis.
+0033#STR0033#ALL#Moeda definida inválida.
+0034#STR0034#ALL#Quinzena
+0035#STR0035#ALL#Trimestre
+0036#STR0036#ALL#Semestre
+0037#STR0037#ALL#Quantidade de períodos superou o limite de #1[Limite Colunas]# colunas. Altere os calendários e períodos desejados.
+0038#STR0038#ALL#Defina pelo menos um calendário e periodicidade.
+0039#STR0039#ALL#Total
+0040#STR0040#ALL#Pict. Tot.
+0041#STR0041#ALL#Tp. Val. Tot.
+0042#STR0042#ALL#Relatório não disponível para utilizar com as entidades adicionais.

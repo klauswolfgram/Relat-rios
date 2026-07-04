@@ -1,0 +1,24 @@
+0001#STR0001#ALL#Generando Informe. Espere...
+0002#STR0002#ALL#DRE + AV y AH
+0003#STR0003#ALL#Analisis Vertical
+0004#STR0004#ALL#Analisis Horizontal
+0005#STR0005#ALL#Absoluto
+0006#STR0006#ALL#Creando archivo temporario...
+0007#STR0007#ALL#Relativos
+0008#STR0008#ALL#% Tot
+0009#STR0009#ALL#Acumulado
+0010#STR0010#ALL#Demostrativo de Resultado con Analisis Vertical y Horizontal
+0011#STR0011#ALL#a
+0012#STR0012#ALL#de
+0013#STR0013#ALL#Periodo
+0014#STR0014#ALL#%
+0015#STR0015#ALL#Responsables
+0016#STR0016#ALL#Este programa imprime el Demostrativo de Resultado,
+0017#STR0017#ALL#de acuerdo con los parametros informados por el usuario. 
+0018#STR0018#ALL#Detalle
+0019#STR0019#ALL#Cuenta
+0020#STR0020#ALL#Los demostrativos contables obligatoriamente deben tener un plan gerencial asociado al libro.Verifique la configuración de libros escogida.
+0021#STR0021#ALL#Cuenta
+0022#STR0022#ALL#Cuenta Superior
+0023#STR0023#ALL#Sld Ant
+0024#STR0024#ALL#Mov. en Periodo

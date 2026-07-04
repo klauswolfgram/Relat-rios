@@ -1,0 +1,17 @@
+0001#STR0001#ALL#Plano De Movimentação
+0002#STR0002#ALL#Este programa emite a movimentação dos instrumentos para aferição
+0003#STR0003#ALL#Cofacturaorme os parâmetros solicitados.
+0005#STR0005#ALL#Familia/instrumento
+0006#STR0006#ALL#Familia/depto
+0007#STR0007#ALL#Depto/instrumento
+0008#STR0008#ALL#Código de barras
+0009#STR0009#ALL#Administração
+0010#STR0010#ALL#Instrumento                                        			        freq                     
+0011#STR0011#ALL#Tipo             Instrumento          Depto         Resp.  	  Dias Fabricante       Sg | Previsão  R. Retir  Devolução| Previsão  R. Retir  Devolução| Previsão  R. Retir  Devolução| Previsão  R. Retir  Devolução
+0012#STR0012#ALL#Cancelado Pelo Operador
+0013#STR0013#ALL#A seleccionar registos. . .
+0014#STR0014#ALL#Não é permitida data superior a 4 meses do período inicial.
+0015#STR0015#ALL#O módulo irá sugerir o período limite
+0020#STR0020#ALL#Orgão
+0022#STR0022#ALL#Sg
+0035#STR0035#ALL#Previsão   R. Retir Devol

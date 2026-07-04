@@ -1,0 +1,37 @@
+0001#STR0001#ALL#Imprimiendo DAV
+0002#STR0002#ALL#Documento Auxiliar de Venta - DAV
+0003#STR0003#ALL#DOCUMENTO AUXILIAR DE VENTA - PRESUPUESTO
+0004#STR0004#ALL#NO ES DOCUMENTO FISCAL - NO ES VALIDO COMO RECIBO NI COMO GARANTIA DE MERCADERIA
+0005#STR0005#ALL# NO COMPRUEBA PAGO
+0006#STR0006#ALL#Identificacion del Establecimiento Emisor 
+0007#STR0007#ALL#Denominacion: 
+0008#STR0008#ALL#Identificacion del Destinatario
+0009#STR0009#ALL#Nombre: 
+0010#STR0010#ALL#CNPJ/CPF: 
+0011#STR0011#ALL#Nº del Documento: 
+0012#STR0012#ALL#Nº del Documento Fiscal: 
+0013#STR0013#ALL#Item:
+0014#STR0014#ALL#Codigo
+0015#STR0015#ALL#Descripcion
+0016#STR0016#ALL#Cant.
+0017#STR0017#ALL#U.M.
+0018#STR0018#ALL#Vlr.Unit.
+0019#STR0019#ALL#Vlr.Desc.
+0020#STR0020#ALL#Vlr.Total
+0021#STR0021#ALL#Se prohibe la autenticacion de este documento
+0022#STR0022#ALL#Conforme previsto en el ACTO COTEPE/ICMS 14, DEL 16 DE MARZO DE 2011, se prohibe la reimpresion del DAV
+0023#STR0023#ALL#Ya se emitio Comprobante Fiscal para esta cuenta, se prohibe la impresion del DAV
+0024#STR0024#ALL#Aguarde. Abriendo la Impresora Fiscal...
+0025#STR0025#ALL#Aguarde. Cerrando la Impresora Fiscal...
+0026#STR0026#ALL#ORDEN DE SERVICIOS (DAV-OS)
+0027#STR0027#ALL#DAV-OS Origen: 
+0028#STR0028#ALL#DAV Anulada. Impresion no permitida
+0029#STR0029#ALL#Punto de entrada LJR210DAV compilado de forma indebida. Retorno esperado:Array.
+0030#STR0030#ALL#Para el estado de Paraíba y Espírito Santo no se permite imprimir en impresora laser
+0031#STR0031#ALL#Configure el parámetro MV_LJDAVEC para .T. (Impresión en ECF)
+0032#STR0032#ALL#Este presupuesto no se generó como DAV en entorno PAF-ECF, por lo tanto, no se generará el informe
+0033#STR0033#ALL#¡Informe sin información para visualización, no se generará! 
+0034#STR0034#ALL#Sin comunicación con el ECF. ¡Verifique!
+0035#STR0035#ALL#¡Informe sin información, no se imprimirá! 
+0036#STR0036#ALL#Espere. Abriendo la impresora no fiscal...
+0037#STR0037#ALL#Según se ha previsto en la legislación (REQUISITO IV - Inciso IV del PAF-NFC-e), está vedada la reimpresión del DAV después de emitir el Documento Fiscal Electrónico de la venta.

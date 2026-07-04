@@ -1,0 +1,26 @@
+0001#STR0001#ALL#Este programa ira emitir a relacao dos valores que
+0002#STR0002#ALL#ainda faltam depreciar para cada bem
+0003#STR0003#ALL#Saldo a depreciar
+0004#STR0004#ALL#Saldos a Depreciar por Bens
+0005#STR0005#ALL#Codigo  Descricao
+0006#STR0006#ALL#Codigo     Item Descricao
+0007#STR0007#ALL# por 
+0008#STR0008#ALL#CANCELADO PELO OPERADOR
+0009#STR0009#ALL#S U B T O T A I S
+0010#STR0010#ALL#T O T A I S
+0011#STR0011#ALL#Conta
+0012#STR0012#ALL#C Custo
+0013#STR0013#ALL#Zebrado
+0014#STR0014#ALL#Administracao
+0015#STR0015#ALL#Item Contabil
+0016#STR0016#ALL#Classe de Valor
+0017#STR0017#ALL#Dados da Entidade
+0018#STR0018#ALL#Dados do Bem
+0019#STR0019#ALL#Total da Conta: 
+0020#STR0020#ALL#Total do Centro de Custo: 
+0021#STR0021#ALL#O agrupador selecionado 
+0022#STR0022#ALL# está inativo ou fora da validade.
+0023#STR0023#ALL#Atenção
+0024#STR0024#ALL#VAZIO
+0025#STR0025#ALL#Quando considera filias for Sim (Filial até) não pode ser vazio.
+0026#STR0026#ALL# não foi encontrado na base de dados.

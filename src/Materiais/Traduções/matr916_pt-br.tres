@@ -1,0 +1,61 @@
+0001#STR0001#ALL#Zebrado
+0002#STR0002#ALL#Administra‡„o
+0003#STR0003#ALL#Matr916 - Relacao das entradas e saidas de mercadorias em estabelecimento de produtor.
+0004#STR0004#ALL#Esta rotina tem como objetivo gerar um relatorio conforme artigo 17 da portaria CAT 
+0005#STR0005#ALL#de 20/02/2003, Lei (6.374/89, art. 67, 1.).
+0006#STR0006#ALL#
+0007#STR0007#ALL#
+0008#STR0008#ALL#2
+0009#STR0009#ALL#+---+----------------------------------------------------------------------------+
+0010#STR0010#ALL#| 2 |                  DADOS RELATIVOS AO ESTABELECIMENTO                        |
+0011#STR0011#ALL#|NOME PRODUTOR: ########################################                         |
+0012#STR0012#ALL#+--------------------------+-----------------------------------------------------+
+0013#STR0013#ALL#|TIPO: ####################|NOME: ########################################       |
+0014#STR0014#ALL#+--------------------------+-------------------------------+---------------------+
+0015#STR0015#ALL#|ENDERECO: ########################################        |IE: ##############   |
+0016#STR0016#ALL#+----------------------------------------------------------+---------------------+
+0017#STR0017#ALL#|MUNICIPIO: ####################                           |CPF: ###########     |
+0018#STR0018#ALL#3
+0019#STR0019#ALL#| 3 |SALDO CREDOR ANTERIOR:                                     ################ |
+0020#STR0020#ALL#4
+0021#STR0021#ALL#| 4 |DOC. FISCAIS RELATIVOS A AQUISICOES DE MERCADORIAS E DE SERVICOS TOMADOS    |
+0022#STR0022#ALL#+---+----------+---------+----------------+----+--------------+------------------+
+0023#STR0023#ALL#|   N. NF      | DIA/MES | IE FORNECEDOR  | UF |  VALOR(R$)   |ICMS DESTACADO(R$)|
+0024#STR0024#ALL#+--------------+---------+----------------+----+--------------+------------------+
+0025#STR0025#ALL#+--------------------------------------------------------------------------------+
+0026#STR0026#ALL#|TOTAL DOS CREDITOS ESCRITURADOS NO MES:                          ############## |
+0027#STR0027#ALL#5
+0028#STR0028#ALL#| 5 |CRED.  UTILIZADO PARA ABATIMENTO DE IMPOSTO RECOLHIDO EM SEU PROPRIO NOME   |
+0029#STR0029#ALL#+---+------+-------+--------------+-----------------+----------+-----------------+
+0030#STR0030#ALL#|  NFP N.  |DIA/MES| VALOR NFP(R$)|VLR IMP. DEV.{R$}|   GR N.  |CRED. UTIL(R$)   |
+0031#STR0031#ALL#+----------+-------+--------------+-----------------+----------+-----------------+
+0032#STR0032#ALL#|TOTAL DOS CREDITOS UTILIZADOS EM GRS:                            ############## |
+0033#STR0033#ALL#6
+0034#STR0034#ALL#| 6 |                          SAIDAS DE MERCADORIAS                             |
+0035#STR0035#ALL#+---+----------+---------+-----------------+----+--------------+-----------------+
+0036#STR0036#ALL#|  N. NFP      | DIA/MES | IE DESTINATARIO | UF |  VLR NFP(R$) | ICMS TRANSF.(R$)|
+0037#STR0037#ALL#+--------------+---------+-----------------+----+--------------+-----------------+
+0038#STR0038#ALL#|TOTAL DOS CREDITOS TRANSFERIDO:                                  ############## |
+0039#STR0039#ALL#7
+0040#STR0040#ALL#| 7 |CREDITOS ESTORNADOS NO PERIODO:                              ############## |
+0041#STR0041#ALL#8
+0042#STR0042#ALL#| 8 |SALDO CREDOR DO PERIODO(QUADROS: 3+4-5-6-7):                 ############## |
+0043#STR0043#ALL#9
+0044#STR0044#ALL#+---+---------------------------------+ +----+-----------------------------------+
+0045#STR0045#ALL#| 9 |         SIGNATARIO              | | 10 |           PROTOCOLO               |
+0046#STR0046#ALL#|NOME: ############################## | |LOCAL E DATA                            |
+0047#STR0047#ALL#+-------------+-----------------------+ |                                        |
+0048#STR0048#ALL#|RG: #########|DATA ENTREGA:##########| |                                        |
+0049#STR0049#ALL#|ASSINATURA:                          | |                                        |
+0050#STR0050#ALL#|                                     | |                                        |
+0051#STR0051#ALL#+-------------------------------------+ +----------------------------------------+
+0052#STR0052#ALL#|##############|  #####  | ############## | ## |##############|   ############## |
+0053#STR0053#ALL#+------------+------------------------------------------------+---+--------------+
+0054#STR0054#ALL#|            |  RELACAO DAS ENTRADAS E SAIDAS DAS MERCADORIAS | 1 |REF.MES/ANO   |
+0055#STR0055#ALL#|            |                                                +---+--------------+
+0056#STR0056#ALL#|            |         EM ESTABELECIMENTO DE PRODUTOR         |    #######       |
+0057#STR0057#ALL#+------------+------------------------------------------------+------------------+
+0058#STR0058#ALL#|##########| ##### |##############|################ |##########|  ############## |
+0059#STR0059#ALL#|##############|  #####  |  ############## | ## |##############|  ############## |
+0060#STR0060#ALL#Selec.Notas fiscais...
+0061#STR0061#ALL#Este relatorio imprime a listagem de acompanhamento dos meios-magnetivos

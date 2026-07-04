@@ -1,0 +1,56 @@
+0001#STR0001#ALL#Este programa irá imprimir o Fluxo de Caixa, informando      
+0002#STR0002#ALL#ao usuário quais as suas contas a receber e a pagar dia a    
+0003#STR0003#ALL#dia e tambem seu disponível de acordo com os saldos bancários
+0004#STR0004#ALL#Fluxo de Caixa Analitico
+0005#STR0005#ALL#Zebrado
+0006#STR0006#ALL#Administracao
+0007#STR0007#ALL#Data Ref   Prf Numero-PC     Tipo Dt Emiss   Cli/For  Nome Cliente/Fornecedor     Historico                        Valor Original                a Pagar              a Receber             Disponivel Observacoes
+0008#STR0008#ALL#Selecionando Registros...
+0009#STR0009#ALL#Data Ref   Prf Numero-PC     Tipo Dt Emiss   Cli/For  Nome Cliente/Fornecedor     Historico                        Valor Original                a Pagar              a Receber             Disponivel   Taxa do Dia Obs.   
+0010#STR0010#ALL#Movimentacao na data ate a hora da emissao
+0011#STR0011#ALL#Aplicacoes 
+0012#STR0012#ALL#Resgates 
+0013#STR0013#ALL#Outras Saidas 
+0014#STR0014#ALL#Outras Entradas 
+0015#STR0015#ALL#Totais ate a hora da emissao 
+0016#STR0016#ALL#Disponibilidade imediata
+0017#STR0017#ALL#Total Disponivel 
+0018#STR0018#ALL#Total de Titulos Vencidos
+0019#STR0019#ALL#Total de Comissoes A Pagar
+0020#STR0021#ALL#Projecao Resgate Aplicacao 
+0021#STR0022#ALL#Projecao Pagamento Emprestimo 
+0022#STR0023#ALL#Pedidos de Vendas
+0023#STR0024#ALL#Pedidos de Compras
+0024#STR0025#ALL#Total Do Dia ---> 
+0025#STR0026#ALL#Total Geral  --->
+0026#STR0027#ALL#Limite de Credito 
+0027#STR0028#ALL#Cheques pendentes de liberação
+0028#STR0029#ALL#Data Ref
+0029#STR0030#ALL#Prf
+0030#STR0031#ALL#Numero-PC
+0031#STR0032#ALL#Tipo
+0032#STR0033#ALL#Dt Emiss
+0033#STR0034#ALL#Cli/For
+0034#STR0035#ALL#Nome Cliente/Fornecedor
+0035#STR0036#ALL#Historico
+0036#STR0037#ALL#Valor Original
+0037#STR0038#ALL#a Pagar
+0038#STR0039#ALL#a Receber
+0039#STR0040#ALL#Disponivel
+0040#STR0041#ALL#Taxa do Dia
+0041#STR0042#ALL#Observacoes
+0042#STR0043#ALL#Descricao
+0043#STR0044#ALL#Total
+0044#STR0045#ALL#Títulos Baixados com Previsão de Movimentação Bancária Futura
+0045#STR0046#ALL#Tit.Baixado p/Rec. Futuro
+0046#STR0047#ALL#Código
+0047#STR0048#ALL#Empresa
+0048#STR0049#ALL#Unidade de negócio
+0049#STR0050#ALL#Filial
+0050#STR0051#ALL#Filiais selecionadas para o relatório
+0051#STR0052#ALL#PV
+0052#STR0053#ALL#PC
+0053#STR0054#ALL#pedido(s)
+0054#STR0055#ALL#Filiais
+0055#STR0056#ALL#Visão gerencial
+0056#STR0057#ALL#Títulos vencidos

@@ -1,0 +1,15 @@
+0001#STR0001#ALL#Matricula
+0002#STR0002#ALL#Centro de Costo
+0003#STR0003#ALL#Lista de vacac. vencidas en el mes
+0004#STR0004#ALL#Se imprimira de acuerdo con los param. solicitados por el
+0005#STR0005#ALL#usuario.
+0006#STR0006#ALL#A Rayas
+0007#STR0007#ALL#Administrac.
+0008#STR0008#ALL#LISTA DE VACAC VENCIDAS EN EL MES
+0009#STR0009#ALL# SUCURSAL       C. COSTO             MATRICULA       NOMBRE                             FCH. BASE   DÍAS VACACIONES    DÍAS      VACACIONES
+0010#STR0010#ALL#LISTA DE VACAC VENCIDAS EN EL MES
+0011#STR0011#ALL# FECHA REFERENCIA: 
+0012#STR0012#ALL#Dias Faltas
+0013#STR0013#ALL#Valor Descont
+0014#STR0014#ALL#Emision del Informe de Vacac. Vencidas del mes
+0015#STR0015#ALL#                                                                                     VACACIONES      VENCIDAS    FALTAS   ANTICIPADAS

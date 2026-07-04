@@ -1,0 +1,30 @@
+0001#STR0001#ALL#Este programa vai imprimir o balancete comparativo 
+0002#STR0002#ALL#De acordo com os parâmetros solicitados pelo utilizador. 
+0004#STR0004#ALL#|  código                     |   d  e  s  c  r  i  ç  ã  o    |   mov. período 01   |   mov. período 02   |   mov. período 03   |   mov. período 04   |   mov. período 05   |   mov. período 06   |      total  crial      |
+0005#STR0005#ALL#Comparativo analítico de  
+0006#STR0006#ALL#Comparativo sintético de  
+0007#STR0007#ALL#Comparativo de  
+0008#STR0008#ALL# de 
+0009#STR0009#ALL# até 
+0010#STR0010#ALL# em 
+0011#STR0011#ALL# (orcado)
+0012#STR0012#ALL# (de gestão)
+0013#STR0013#ALL#A Criar Ficheiro Temporário...
+0014#STR0014#ALL#Código de barras
+0015#STR0015#ALL#Administração
+0016#STR0016#ALL#***** cancelado pelo operador *****
+0017#STR0017#ALL#Totais do período: 
+0018#STR0018#ALL#Totais do 
+0019#STR0019#ALL#O período solicitado ultrapassa o limite de 6 meses.
+0020#STR0020#ALL#Será impresso apenas os 6 meses a partir da data inicial.
+0021#STR0021#ALL#Caso não actualize os saldos compostos na
+0022#STR0022#ALL#Emissão dos relatórios(mv_sldcomp ='n'),
+0023#STR0023#ALL#Correr o procedimento  de actualização de saldos 
+0024#STR0024#ALL#Código
+0025#STR0025#ALL#Descrição
+0026#STR0026#ALL#Mov. Período
+0027#STR0027#ALL#Total Crial
+0028#STR0028#ALL#Total Da Coluna
+0029#STR0029#ALL#A visão de gestão ainda não está disponível para este relatório.
+0030#STR0030#ALL#Alterar a configuração de livros...
+0031#STR0031#ALL#Config. De Livros...

@@ -1,0 +1,14 @@
+0001#STR0001#ALL#List of Departments     
+0002#STR0002#ALL#Issue of Departments Files          
+0003#STR0003#ALL#Will print the data related to the Departments,    
+0004#STR0004#ALL#according to the user configuration.    
+0005#STR0005#ALL#Z. Form
+0006#STR0006#ALL#Management   
+0007#STR0007#ALL#List of Departments Files           
+0008#STR0008#ALL# Department Code   
+0009#STR0009#ALL#User Branch + Resposible User     
+0010#STR0010#ALL#Text 
+0011#STR0011#ALL#Field
+0012#STR0012#ALL#Total Printed Records       
+0013#STR0013#ALL#Department  
+0014#STR0014#ALL#Totallizer 

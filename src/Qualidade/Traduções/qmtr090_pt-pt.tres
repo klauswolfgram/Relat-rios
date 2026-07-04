@@ -1,0 +1,12 @@
+0001#STR0001#ALL#Este programa irá emitir o relatório de referencia 
+0002#STR0002#ALL#Cruzada entre instrumentos e pradrões secundarios.
+0004#STR0004#ALL#Instrumento      Rev Familia          Depto.        Resp.      Faixa Pad.sec.   Ponto Pad. Sec.  Padrão Secundario Famila Pad. Sec.
+0005#STR0005#ALL#Código de barras
+0006#STR0006#ALL#Administração
+0007#STR0007#ALL#Cancelado Pelo Operador
+0009#STR0009#ALL#Rev.
+0010#STR0010#ALL#Família
+0013#STR0013#ALL#Escala Pad.sec.
+0015#STR0015#ALL#Padrão Secundário
+0016#STR0016#ALL#Família Pad. Sec.
+0017#STR0017#ALL#Sequência..:

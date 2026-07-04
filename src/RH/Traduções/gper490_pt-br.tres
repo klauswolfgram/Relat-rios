@@ -1,0 +1,20 @@
+0001#STR0001#ALL#Relatorio de Admitidos e Demitidos.
+0002#STR0002#ALL#Será impresso de acordo com os parametros solicitados pelo
+0003#STR0003#ALL#usuário.
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administraçäo
+0006#STR0006#ALL#RELATORIO DE ADMITIDOS E DEMITIDOS
+0007#STR0007#ALL#    1 = CGC              2 = CEI       3 = Tot.Folhas     4 = No Folha     5 = Referencia              MTPS - MINISTERIO DO TRABALHO
+0008#STR0008#ALL# 6 = CEP      7 = ATIVIDADE ECONOMICA (CNAE)      8 = 1a DECLARACAO      9 = ENCERRAMENTO                 E DA PREVIDENCIA SOCIAL
+0009#STR0009#ALL#10 = MUDOU ENDERECO     11 = MUDOU ATIVIDADE     12 = CORRIGE ANTERIOR     13 = TOTAL 1o DIA           SISTEMA CADASTRO  LEI 4923/65
+0010#STR0010#ALL#            14 = ADMISSOES NO MES - 1o EMPREGO + REEMPREGO + ENT.TRANSF. + REINTEG. =  TOTAL              CARIMBO PADRONIZADO  CGC
+0011#STR0011#ALL#15 = DESLIGAMENTOS
+0012#STR0012#ALL#S.JUSTA CAUSA + C.JUSTA CAUSA + A PEDIDO + APOS. + MORTE + SAI.TRANSF. + TERM.CONTR. = TOTAL
+0013#STR0013#ALL#                                            16 = TOTAL EMPREGADOS NO ULTIMO DIA        
+0014#STR0014#ALL#   PIS/PASEP  SEXO RACA GRAU CBO   DEF  NOME COMPLETO                  CTPS    SER   UF   DATA      REMUNERACAO HRS DATA     DESL TIPO
+0015#STR0015#ALL#    1 = CGC              2 = CEI       3 = Tot.Folhas     4 = No Folha     5 = Referencia              MTPS - MINISTERIO DO TRABALHO
+0016#STR0016#ALL#                                                                                                          E DA PREVIDENCIA SOCIAL
+0017#STR0017#ALL#                                                                                                       SISTEMA CADASTRO  LEI 4923/65
+0018#STR0018#ALL#                                                                                                          CARIMBO PADRONIZADO  CGC
+0019#STR0019#ALL#   PIS/PASEP  SEXO RACA GRAU CBO   DEF  NOME COMPLETO                  CTPS    SER   UF   DATA      REMUNERACAO HRS DATA     DESL TIPO
+0020#STR0020#ALL#                   COR  INST       FIS                                                    NASCIM.                   ADMISSAO      MVTO

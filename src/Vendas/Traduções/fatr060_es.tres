@@ -1,0 +1,30 @@
+0001#STR0001#ALL#Informe de Oportunidad vs. Proc. Venta
+0002#STR0002#ALL#Proceso de Ventas
+0003#STR0003#ALL#Proceso
+0004#STR0004#ALL#Oportunidad de Venta
+0005#STR0005#ALL#Cod.Opor
+0006#STR0006#ALL#Rev.
+0007#STR0007#ALL#Vendedor
+0008#STR0008#ALL#Entidad
+0009#STR0009#ALL#Codigo
+0010#STR0010#ALL#Tienda
+0011#STR0011#ALL#Descripcion
+0012#STR0012#ALL#Total:   
+0013#STR0013#ALL#Fondo:   
+0014#STR0014#ALL#Codigo del proceso de venta a ser
+0015#STR0015#ALL#Fecha de referencia inicial a ser
+0016#STR0016#ALL#Fecha de referencia final a ser
+0017#STR0017#ALL#Informe se considerara las
+0018#STR0018#ALL#Informe la moneda estandar
+0019#STR0019#ALL#De Fecha:
+0020#STR0020#ALL#A Fecha:
+0021#STR0021#ALL#Proceso de Ventas
+0022#STR0022#ALL#Considerar oportunidades finalizadas
+0023#STR0023#ALL#Vendedor
+0024#STR0024#ALL#Moneda Estandar
+0025#STR0025#ALL#Si
+0026#STR0026#ALL#No
+0027#STR0027#ALL#considerada.
+0028#STR0028#ALL#oportunidades finalizadas.
+0029#STR0029#ALL#Cliente
+0030#STR0030#ALL#Prospect

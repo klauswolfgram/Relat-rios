@@ -1,0 +1,13 @@
+0001#STR0001#ALL#Balance Parcial
+0002#STR0002#ALL#Codigo
+0003#STR0003#ALL#Descripcion
+0004#STR0004#ALL#Saldo Anterior
+0005#STR0005#ALL#Movimiento Credito
+0006#STR0006#ALL#Movimento Debito
+0007#STR0007#ALL#Saldo Final
+0008#STR0008#ALL#Impresion anulada por el operador...
+0009#STR0009#ALL#Credito-Debito
+0010#STR0010#ALL#Este informe imprimira el Balance parcial de acuerdo con los parametros solicitados por el usuario. Para mas informaciones sobre este informe consulte el Help del Programa ( F1 ).
+0011#STR0011#ALL#Atencion
+0012#STR0012#ALL#Estructura del cubo no encontrada. Verifique.
+0013#STR0013#ALL#Usuario sin acceso al informe. Verifique las configurac.

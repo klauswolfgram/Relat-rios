@@ -1,0 +1,12 @@
+0001#STR0001#ALL#Recursividade por Movimentacao
+0002#STR0002#ALL#Este relatorio tem como objetivo listar as movimentacoes
+0003#STR0003#ALL#que geram recursividade no processamento do recalculo do
+0004#STR0004#ALL#custo medio.
+0005#STR0005#ALL#Zebrado
+0006#STR0006#ALL#Administracao
+0007#STR0007#ALL#PRODUTO         ARMAZEM MOV DOCUMENTO  DATA DE     ORDEM DE     PRODUTO DA ORDEM
+0008#STR0008#ALL#                                       EMISSAO     PRODUCAO       DE PRODUCAO
+0009#STR0009#ALL#CANCELADO PELO OPERADOR
+0010#STR0010#ALL#Produto da 
+0011#STR0011#ALL#Ordem de Producao
+0012#STR0012#ALL#Itens de Movimentação Interna

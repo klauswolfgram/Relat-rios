@@ -1,0 +1,34 @@
+0001#STR0001#ALL#Este informe imprimirá la lista de bienes dados de baja 
+0002#STR0002#ALL#dentro de un determinado período. Puede imprimirse por 
+0003#STR0003#ALL#Cuenta o Centro de costo.
+0004#STR0004#ALL#LISTA DE LOS BIENES DADOS DE BAJA
+0005#STR0005#ALL#Cuenta
+0006#STR0006#ALL#C.Costo
+0007#STR0009#ALL# por 
+0008#STR0010#ALL# en 
+0009#STR0011#ALL# entre 
+0010#STR0012#ALL# a 
+0011#STR0013#ALL#ANULADO POR EL OPERADOR
+0012#STR0014#ALL#PROVEEDOR  
+0013#STR0016#ALL#TOT GENERAL:
+0014#STR0017#ALL#A Rayas
+0015#STR0018#ALL#Administrac. 
+0016#STR0020#ALL#Datos del bien
+0017#STR0021#ALL#Fcha de la baja
+0018#STR0022#ALL#Valor actual
+0019#STR0023#ALL#Valor residual
+0020#STR0024#ALL#Ganancia/Pérdida
+0021#STR0025#ALL#Motivo no registrado
+0022#STR0026#ALL#Total sucursal 
+0023#STR0027#ALL#Total cuenta 
+0024#STR0028#ALL#Total centro de costo
+0025#STR0029#ALL#Ganancia/Pérdida
+0026#STR0030#ALL#Depr Acumul
+0027#STR0031#ALL#Valor baja
+0028#STR0032#ALL#Val Ampliación
+0029#STR0033#ALL#Cuenta                         C.C                Base       Ítem TP  Descripción                  Adquisic.    Fch.Baja  Factura     Motivo
+0030#STR0034#ALL#Cantidad dada de baja      Val Actual  Deprec. Acumulada Corr. Depr Acumul    Valor residual       Valor baja    Ganancia/Pérdida VI Ampliación
+0031#STR0035#ALL#Cuenta                         C.C                Base       Ítem TP  Descripción           Adquisic.    Fch.Baja  Factura            Motivo
+0032#STR0036#ALL#Total
+0033#STR0037#ALL#Total general
+0034#STR0038#ALL#Total empresa

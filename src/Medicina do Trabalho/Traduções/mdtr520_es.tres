@@ -1,0 +1,48 @@
+0001#STR0001#ALL#Mostrar todos los riesgos al que el empleado se expone actualmente,
+0002#STR0002#ALL#como tambien los riesgos que existen en el nuevo ambiente donde
+0003#STR0003#ALL#trabajara el empleado.
+0004#STR0004#ALL#A Rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#Riesgos Actuales del empleado y existentes en el nuevo ambiente
+0007#STR0007#ALL#SI
+0008#STR0008#ALL#NO
+0009#STR0009#ALL#Empleado..........:
+0010#STR0010#ALL#Fecha Nacimiento..:
+0011#STR0011#ALL#Fecha de Admision.:
+0012#STR0012#ALL#Ambiente Actual
+0013#STR0013#ALL#Centro de Costos:
+0014#STR0014#ALL#a partir de: 
+0015#STR0015#ALL#Funcion.........:
+0016#STR0016#ALL#Tareas..........:
+0017#STR0017#ALL#Riesgos
+0018#STR0018#ALL#Num. Riesg Agente                      Fuente generadora             Evaluacion Intensidad U.M.   C.Costos  Funcion Tarea
+0019#STR0019#ALL#Todas
+0020#STR0020#ALL#Ambiente nuevo
+0021#STR0021#ALL#Num. Riesg Agente                      Fuente generadora             Evaluacion Intensidad U.M.   C.Costos  Funcion Tarea Nuevo
+0022#STR0022#ALL#EPI necesarios....:
+0023#STR0023#ALL#El centro de costo debe pertenecer al mismo cliente donde el empleado esta localizado.
+0024#STR0024#ALL#Cliente/Tienda....:
+0025#STR0025#ALL#Nº Riesgo Agente Fuente generadora Evaluación Intensid. U.M. C.Costo Función Tarea Departamento
+0026#STR0026#ALL#Nº Riesgo Agente Fuente generadora Evaluación Intensid. U.M. C. Costo Función Tarea Departamento nuevo
+0027#STR0027#ALL#La funcion seleccionada no pertenece al cliente donde el empleado esta localizado.
+0028#STR0028#ALL#La tarea seleccionada no pertenece al cliente donde el empleado esta localizado.
+0029#STR0029#ALL#Codigo
+0030#STR0030#ALL#Nombre
+0031#STR0031#ALL#Codigo
+0032#STR0032#ALL#Marcados
+0033#STR0033#ALL#Seleccione el nuevo entorno para el empleado
+0034#STR0034#ALL#Matricula
+0035#STR0035#ALL#Nuevo Centro de Costo
+0036#STR0036#ALL#Nueva Funcion
+0037#STR0037#ALL#Nuevas Tareas
+0038#STR0038#ALL#Ordenar Por
+0039#STR0039#ALL#Ubicar Tarea
+0040#STR0040#ALL#No fue posible ubicar esta tarea.
+0041#STR0041#ALL#Atencion
+0042#STR0042#ALL#Departamento....:
+0043#STR0043#ALL#Nuevo departamento
+0044#STR0044#ALL#¿Nuevo departamento?
+0045#STR0045#ALL#Código del departamento del nuevo entorno del empleado.
+0046#STR0046#ALL#Núm.Riesgo  Agente               Fuente Generadora     Evaluación Intensid.  U.M.    C.Costo               Función          Tarea
+0047#STR0047#ALL#Núm.Riesgo  Agente               Fuente Generadora     Evaluación Intensid.  U.M.    C.Costo               Función          Tarea  Nuevo
+0048#STR0048#ALL#Todos

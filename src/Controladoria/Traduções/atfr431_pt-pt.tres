@@ -1,0 +1,8 @@
+0002#STR0002#ALL#Função disponível apenas para TReport. Por favor, actualize ambiente e verifique o parâmetro MV_TREPORT
+0003#STR0003#ALL#A data inicial deve ser o primeiro dia de um mês e a data final deve ser o último dia de um mês
+0005#STR0005#ALL#Demonstrativo Projecto 12 meses
+0006#STR0006#ALL#Este programa emitirá a posição valorizada dos projectos em até 12 períodos 
+0007#STR0007#ALL#Projecto do Imobilizado
+0008#STR0008#ALL#Etapa do Projecto
+0010#STR0010#ALL#Total por Filial
+0011#STR0011#ALL#Total Projecto

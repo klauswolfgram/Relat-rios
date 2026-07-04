@@ -1,0 +1,45 @@
+0001#STR0001#ALL#Atendimentos do Telecobrança
+0002#STR0002#ALL#Este programa irá emitir a relação dos atendimentos efetuados pelo atendimento de Telecobrança
+0003#STR0003#ALL#Os dados serão emitidos conforme os parâmetros informados.
+0004#STR0004#ALL#Serão considerados os atendimentos Ativos e Receptivos.
+0005#STR0005#ALL#Zebrado
+0006#STR0006#ALL#Administração
+0007#STR0007#ALL#CANCELADO PELO OPERADOR
+0008#STR0008#ALL#Data do Atendimento
+0009#STR0009#ALL#Código do Atendimento
+0010#STR0010#ALL#Tipo de Ligação
+0011#STR0011#ALL#Não Informado
+0012#STR0012#ALL#Retornar em
+0013#STR0013#ALL#às
+0014#STR0014#ALL#Não Localizado no cadastro...
+0015#STR0015#ALL#Não Informado no atendimento...
+0016#STR0016#ALL#Código Cliente/Loja
+0017#STR0017#ALL#Razão Social
+0018#STR0018#ALL#Código do Contato
+0019#STR0019#ALL#Nome do Contato
+0020#STR0020#ALL#Código do Operador
+0021#STR0021#ALL#Nome do Operador
+0022#STR0022#ALL#Código da Ocorrência
+0023#STR0023#ALL#Descrição da Ocorrência
+0024#STR0024#ALL#Observação
+0025#STR0025#ALL#Prf Título-P Tip Natureza   Vencto   V. Real         Valor   Acrésc  Decrésc Núm Banco       Histórico                  %Per  Val Jur     IRRF      ISS     CSLL   COFINS      PIS Status          Resp.  Nome do Resp.
+0026#STR0026#ALL#TOTAIS DO ATENDIMENTO
+0027#STR0027#ALL#TOTAIS POR STATUS
+0028#STR0028#ALL#PAGO: 
+0029#STR0029#ALL#NEGOCIADO: 
+0030#STR0030#ALL#CARTÓRIO: 
+0031#STR0031#ALL#Não existem dados a serem impressos para este relatório com os parâmetros informados
+0032#STR0032#ALL#Prf
+0033#STR0033#ALL#P
+0034#STR0034#ALL#Tp
+0035#STR0035#ALL#Vencto
+0036#STR0036#ALL#V. Real
+0037#STR0037#ALL#Acres
+0038#STR0038#ALL#Decres
+0039#STR0039#ALL#Bco
+0040#STR0040#ALL#Hist
+0041#STR0041#ALL#%Per
+0042#STR0042#ALL#Val Jur
+0043#STR0043#ALL#Cabecalho do Atendimento
+0044#STR0044#ALL#Itens do Atendimento
+0045#STR0045#ALL#Responsável

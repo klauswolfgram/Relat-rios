@@ -1,0 +1,24 @@
+0001#STR0001#ALL#Relacion de viajes
+0002#STR0002#ALL#Emite Relacion de viajes
+0003#STR0003#ALL#conforme los parametros informados
+0004#STR0004#ALL#A Rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#                                             *---VEHICULO---* *---REMOLOQUE1---* *---REMOLOQUE2---*
+0007#STR0007#ALL#FECHA      HORA SUC.ORI VIAJE SUC.DES VACIA CODIGO   PLACA   CODIGO   PLACA   CODIGO   PLACA   CODUCTOR
+0008#STR0008#ALL#Seleccionando Registro en el DTQ...
+0009#STR0009#ALL#CANCELADO POR EL OPERADOR
+0010#STR0010#ALL#Viajes 
+0011#STR0011#ALL# ===> 
+0012#STR0012#ALL#TOTAL DE 
+0013#STR0013#ALL#(
+0014#STR0014#ALL# Viaje(s)
+0015#STR0015#ALL#No
+0016#STR0016#ALL#Si
+0017#STR0017#ALL#Lista de viajes
+0018#STR0018#ALL#Emite lista de viajes segun los parametros informados
+0019#STR0019#ALL#Estatus + Suc.Origen + Viaje
+0020#STR0020#ALL#Estatus
+0021#STR0021#ALL#Total del Estatus
+0022#STR0022#ALL#Viaje
+0023#STR0023#ALL#Matricula
+0024#STR0024#ALL#Conductor

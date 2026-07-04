@@ -1,0 +1,60 @@
+0001#STR0001#ALL#Relatorio de Resultados
+0002#STR0002#ALL#Será impresso de acordo com os parametros solicitados pelo
+0003#STR0003#ALL#usuario.
+0004#STR0004#ALL#Matricula
+0005#STR0005#ALL#Centro de Custo
+0006#STR0006#ALL#Nome
+0007#STR0007#ALL#Zebrado
+0008#STR0008#ALL#Administraçäo
+0009#STR0010#ALL#Abandona
+0010#STR0011#ALL#Confirma
+0011#STR0012#ALL#RESULTADOS POR CODIGO
+0012#STR0013#ALL#RESULTADOS DO PONTO ELETRONICO
+0013#STR0016#ALL#E' preciso Compactar a Impressora para 18 CPI ?
+0014#STR0017#ALL#É preciso Compactar a Impressora para 18 CPI ?
+0015#STR0018#ALL#                                                                          |-      VERBA        -|
+0016#STR0019#ALL#FL C.CUSTO              MATR.  NOME                                         COD DESCRICAO           HORAS                  
+0017#STR0020#ALL#FL C.CUSTO              MATR.  NOME
+0018#STR0021#ALL#    HORAS
+0019#STR0022#ALL#T O T A L
+0020#STR0023#ALL#Empresa: 
+0021#STR0024#ALL#D O     F U N C I O N A R I O      
+0022#STR0025#ALL#D O     C E N T R O  D E  C U S T O
+0023#STR0026#ALL#D A     F I L I A L                
+0024#STR0027#ALL#D A     E M P R E S A              
+0025#STR0028#ALL#C.Custo+Nome
+0026#STR0029#ALL#Funcionários
+0027#STR0030#ALL#TOTAL 
+0028#STR0031#ALL#DE HORAS
+0029#STR0032#ALL#Codigo
+0030#STR0033#ALL#Horas
+0031#STR0034#ALL#COD 01
+0032#STR0035#ALL#COD 02
+0033#STR0036#ALL#COD 03
+0034#STR0037#ALL#COD 04
+0035#STR0038#ALL#COD 05
+0036#STR0039#ALL#COD 06
+0037#STR0040#ALL#COD 07
+0038#STR0041#ALL#COD 08
+0039#STR0042#ALL#COD 09
+0040#STR0043#ALL#COD 10
+0041#STR0044#ALL#Processando....
+0042#STR0045#ALL#T O T A L     
+0043#STR0046#ALL#Emite Relação de resultados do Ponto Eletrônico.
+0044#STR0047#ALL#Formato Vertical - Dados dos funcionários
+0045#STR0048#ALL#Formato Vertical - Resultados por código
+0046#STR0049#ALL#Formato Horizontal - Dados de Funcionários e Resultados
+0047#STR0050#ALL#TOTAL DO FUNCIONÁRIO: 
+0048#STR0051#ALL#TOTAL DO CENTRO DE CUSTO: 
+0049#STR0052#ALL#TOTAL DA FILIAL: 
+0050#STR0053#ALL#Selecione a opcao de impressao:
+0051#STR0054#ALL#Por Periodo
+0052#STR0055#ALL#Por Datas
+0053#STR0056#ALL#Departamento
+0054#STR0057#ALL#Atenção
+0055#STR0058#ALL#A data inicial é maior que a data final.
+0056#STR0059#ALL#A data atual é maior que o período de apontamento aberto.
+0057#STR0060#ALL#Dias
+0058#STR0061#ALL#Valor
+0059#STR0062#ALL#DE DIAS
+0060#STR0063#ALL#DE VALOR

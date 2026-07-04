@@ -1,0 +1,79 @@
+0001#STR0001#ALL#Este programa imprimira la cuenta T de clientes  
+0002#STR0002#ALL#o proveedores. Se puede emitir todo el movim. de los 
+0003#STR0003#ALL#mismos o solamente los valores originales. 
+0004#STR0004#ALL#Cuenta T de Ctas. Corrientes
+0005#STR0005#ALL#A Rayas
+0006#STR0006#ALL#Administrac.
+0007#STR0007#ALL#CTA. T DE CUENTAS CORRIENTES DE 
+0008#STR0008#ALL#CLIENTES
+0009#STR0009#ALL#PROVEEDORES
+0010#STR0010#ALL#FECHA       HISTORIAL                PRF NUMERO     PC  TP EMISION    VENCTO     BAJA           DEBITO       CREDITO       SALDO ACTUAL
+0011#STR0011#ALL#Seleccionando registros..
+0012#STR0012#ALL#P/ Emis. de Tit.
+0013#STR0013#ALL#BJ EMIS FACT
+0014#STR0014#ALL#***** Anulado por el Operador *****
+0015#STR0015#ALL#A TRANSPORTAR : 
+0016#STR0016#ALL#SALDO ANTERIOR : 
+0017#STR0017#ALL#T o t a l e s  d e
+0018#STR0018#ALL#C l i e n t e
+0019#STR0019#ALL#P r o v e e d o r
+0020#STR0020#ALL#T o t a l   G r a l.  d e  
+0021#STR0021#ALL#C l i e n t e s
+0022#STR0022#ALL#P r o v e e d o r e s
+0023#STR0023#ALL#S a l d o   F i n a l   d e l  I n f o r m e : 
+0024#STR0024#ALL#Ref. a Baja del Titulo
+0025#STR0025#ALL#Dscto. sobre el Titulo
+0026#STR0026#ALL#Multa / Inter. s/ Tit.
+0027#STR0027#ALL#Corr. Monet. s/ Titulo
+0028#STR0028#ALL#DE TRANSPORTE : 
+0029#STR0029#ALL#POR LA EMIS FACTURA
+0030#STR0030#ALL#NOTA DE CREDITO Nº
+0031#STR0031#ALL#NOTA DE DEBITO Nº
+0032#STR0032#ALL#FACTURA Nº
+0033#STR0033#ALL#ANTICIPO
+0034#STR0034#ALL#NOTA DE CRED. INTERNA
+0035#STR0035#ALL#NOTA DE DEB. INTERNA
+0036#STR0036#ALL#NOTA DE CRED. EXTERNA
+0037#STR0037#ALL#NOTA DE DEB. EXTERNA
+0038#STR0038#ALL#VENDEDOR: 
+0039#STR0039#ALL#COMPRADOR: 
+0040#STR0040#ALL#Recibo
+0041#STR0041#ALL#RECIBO Nº : 
+0042#STR0042#ALL#O Pago
+0043#STR0043#ALL#Baja de titulo
+0044#STR0044#ALL#CLIENTE                                                           SALDO ANTERIOR            DEBITO       CREDITO       SALDO ACTUAL
+0045#STR0045#ALL#PROVEEDOR                                                           SALDO ANTERIOR            DEBITO       CREDITO       SALDO ACTUAL
+0046#STR0046#ALL#T o t a l e s  d e  c t a.   
+0047#STR0047#ALL#Desc. Impto.
+0048#STR0048#ALL#Decr. de 
+0049#STR0049#ALL#BJ EMIS FACT
+0050#STR0050#ALL#Inter. s/ Baja
+0051#STR0051#ALL#Multa s/ Baja
+0052#STR0052#ALL#Descuento s/ Baja
+0053#STR0053#ALL#C. Monetaria s/ Baja
+0054#STR0054#ALL#Baja por Compensac.	
+0055#STR0055#ALL#Registros
+0056#STR0056#ALL#FCH.
+0057#STR0057#ALL#HISTORIAL
+0058#STR0058#ALL#PRF NUMERO PC
+0059#STR0059#ALL#EMISION
+0060#STR0060#ALL#VENCTO
+0061#STR0061#ALL#BAJA 
+0062#STR0062#ALL#DEBITO
+0063#STR0063#ALL#CREDITO
+0064#STR0064#ALL#SALDO ACT. 
+0065#STR0065#ALL#CLIENTE
+0066#STR0066#ALL#PROVEEDOR 
+0067#STR0067#ALL#SALDO ANTERIOR
+0068#STR0068#ALL#Analitico
+0069#STR0069#ALL#Sintetico
+0070#STR0070#ALL#Codigo
+0071#STR0071#ALL#Empresa
+0072#STR0072#ALL#Unidad de negocio
+0073#STR0073#ALL#Sucursal
+0074#STR0074#ALL#Sucursales que se seleccionaron para el informe
+0075#STR0075#ALL#Valor adicional s/ Baja
+0076#STR0076#ALL#La agrupación de tiendas no funciona con el filtro de cuentas contables. ¡Filtro desactivado!
+0077#STR0077#ALL#La agrupación de tiendas no funciona con el filtro de cuentas contables. ¡Agrupación desactivada!
+0078#STR0078#ALL#Sr.(a) Usuario(a), infelizmente no se encuentra a disposición la generación de Planillas Excel, en el formato de Tabla y en la opción Sintético.
+0079#STR0079#ALL#Por favor, seleccione otras opciones.

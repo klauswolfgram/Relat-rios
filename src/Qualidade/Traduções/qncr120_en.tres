@@ -1,0 +1,21 @@
+0001#STR0001#ALL#Non-conformance list per Product        
+0002#STR0002#ALL#issues Non-conformances per Product   
+0003#STR0003#ALL#according to the parameters entered
+0004#STR0004#ALL#Z.Form
+0005#STR0005#ALL#Administration
+0006#STR0006#ALL#Non-conformances per Product 
+0007#STR0007#ALL#FNC Code      FNC Review     Occurr. Date     Registr.Date    NC Classif.            Status
+0008#STR0008#ALL#TOTAL ===>    Product                                  Posted     Pending     TOTAL
+0009#STR0009#ALL#Selecting Record in QI2...     
+0010#STR0010#ALL#Product: 
+0011#STR0011#ALL#CANCELLED BY OPERATOR  
+0012#STR0012#ALL#Pending  
+0013#STR0013#ALL#Posted 
+0014#STR0014#ALL#TOTAL PER PRODUCT ===> 
+0015#STR0015#ALL# CARD(S) 
+0016#STR0016#ALL#GRAND TOTAL  ==> 
+0017#STR0017#ALL#Product
+0018#STR0018#ALL#Posted 
+0019#STR0019#ALL#Pending 
+0020#STR0020#ALL#Total
+0021#STR0021#ALL#GRAND TOTAL:

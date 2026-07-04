@@ -1,0 +1,81 @@
+0001#STR0001#ALL#Centro de costo 
+0002#STR0002#ALL#Matricula
+0003#STR0003#ALL#Lista de program. de vacaciones
+0004#STR0004#ALL#Se imprimira de acuerdo con los param. solicitados por el
+0005#STR0005#ALL#usuario.
+0006#STR0006#ALL#A rayas
+0007#STR0007#ALL#Administrac.
+0008#STR0008#ALL#LISTA DE PROGRAM. DE VACACIONES
+0009#STR0009#ALL#                                                                            FECHA      FCH BASE       P E R I O D O       FCH LIMITE  FCH LIMITE     VACAC.    FALTAS    VACAC.    FALTAS   TOTAL   AGUINALDO   FIRMA DEL   
+0010#STR0010#ALL#SUC   CENTRO COSTO               MAT.     NOMBRE DEL EMPLEADO              INGRESO      VACAC.    A D Q U I S I T I V O     IDEAL       MAXIMA      VENCIDAS  VENCIDAS  PROPORC.  PROPORC.  VACAC.   PORC.	      EMPLEADO   
+0011#STR0011#ALL#LISTA DE PROGRAMACION VACACIONES 
+0012#STR0012#ALL#(C. COSTO )
+0013#STR0013#ALL#( MATRICULA )
+0014#STR0014#ALL#  A  
+0015#STR0015#ALL#___/___/___ A ___/___/___
+0016#STR0016#ALL#Nomb
+0017#STR0017#ALL#C Costo + Nomb
+0018#STR0018#ALL#Sucur + Fch Base
+0019#STR0019#ALL#Sucur + Fch Inicio
+0020#STR0020#ALL#( NOMB )
+0021#STR0021#ALL#(C. COSTO + NOMB )
+0022#STR0022#ALL#( FCH. BASE )
+0023#STR0023#ALL#( FCH. INICIO )
+0024#STR0024#ALL#Seleccionando registros..
+0025#STR0025#ALL#        1ª -  P R O G R .  D E   V A C A C I O N E S 
+0026#STR0026#ALL#        2ª -  P R O G R .  D E   V A C A C I O N E S 
+0027#STR0027#ALL#        3ª -  P R O G R .  D E   V A C A C I O N E S 
+0028#STR0028#ALL#F VAC
+0029#STR0029#ALL#F AUS
+0030#STR0030#ALL#SI 
+0031#STR0031#ALL#Fecha           
+0032#STR0032#ALL#Ingreso    
+0033#STR0033#ALL#Fch. Base 
+0034#STR0034#ALL#P e r i o d o 
+0035#STR0035#ALL#A d q u i s i t. 
+0036#STR0036#ALL#Fch Limit
+0037#STR0037#ALL#  Ideal   
+0038#STR0038#ALL# Maxima 
+0039#STR0039#ALL#    Vacac. 
+0040#STR0040#ALL#Vencidas 
+0041#STR0041#ALL#Proporc. 
+0042#STR0042#ALL#  Faltas 
+0043#STR0043#ALL#    TOTAL
+0044#STR0044#ALL#Aguinal.
+0045#STR0045#ALL#Porcent. 
+0046#STR0046#ALL#Firma del
+0047#STR0047#ALL#Empleado 
+0048#STR0048#ALL#Firma 
+0049#STR0049#ALL#Encab. de Vacac.
+0050#STR0050#ALL#Emite lista de empleados que tienen programacion de vacaciones previstas
+0051#STR0051#ALL#Lista de Programacion de Receso
+0052#STR0052#ALL#Emite lista de los pasantes que tienen programacion de receso previstas
+0053#STR0053#ALL#                                                                            FECHA       FCH.BASE       P E R I O D O       FCH.LIMITE  FCH.LIMITE    RECESO    RECESO     TOTAL   FIRMA DE 
+0054#STR0054#ALL#SUC   CENTRO COSTO               MAT.     NOMBRE                           INGRESO      RECESO      D E   D E R E C H O      IDEAL       MAXIMA      VENCIDO   PROPORC.  RECESO    PASANTE 
+0055#STR0055#ALL#  Receso 
+0056#STR0056#ALL#Vencidos
+0057#STR0057#ALL#         P R O G R A M A C I O N   D E   R E C E S O
+0058#STR0058#ALL#Pasante
+0059#STR0059#ALL#F.REC.
+0060#STR0060#ALL#d e   D e r e c h o 
+0061#STR0061#ALL# De: ______/______/______  A:  ______/______/______
+0062#STR0062#ALL# SUCURSAL: 
+0063#STR0063#ALL# CCTO: 
+0064#STR0064#ALL# TOTAL 
+0065#STR0065#ALL#FECHA INICIAL
+0066#STR0066#ALL#FECHA FINAL
+0067#STR0067#ALL#CANT REF
+0068#STR0068#ALL#VENC.
+0069#STR0069#ALL#PROP.
+0070#STR0070#ALL#PAGOS
+0071#STR0071#ALL#La configuración de los períodos está incorrecta. Verifique el archivo de períodos.
+0072#STR0072#ALL#d e   R e c e s o 
+0073#STR0073#ALL#No existe procedimiento de vacaciones registrado para los siguientes períodos: 
+0074#STR0074#ALL#No existe procedimiento de vacaciones registrado para las siguientes sucursales y períodos: 
+0075#STR0075#ALL#Sucursal
+0076#STR0076#ALL#Período
+0077#STR0077#ALL#Log de períodos no registrados
+0078#STR0078#ALL#D.Abat.
+0079#STR0079#ALL#Antic.
+0080#STR0080#ALL#Matrículas que no tienen período programado de vacaciones en la fecha informada en el parámetro 10 - ¿Programadas hasta?
+0081#STR0081#ALL#Sucursal | Matrícula | Fecha

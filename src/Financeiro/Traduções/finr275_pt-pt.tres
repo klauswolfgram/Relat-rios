@@ -1,0 +1,12 @@
+0001#STR0001#ALL#Código de barras
+0002#STR0002#ALL#Administração
+0005#STR0005#ALL# em dinheiro no período de: 
+0006#STR0006#ALL# até 
+0007#STR0007#ALL#Código    Razão Social                                          Cgc               Morada                                             Concelho                  Estado         Núm. Pgts        Total Pago
+0007#STR0007#ANG#Código    Razão Social                                           RFC               Morada                                               Concelho                   Distrito       Nr. Pagts        Total Pago
+0007#STR0007#EQU#Código    Razão Social                                           RFC               Morada                                               Concelho                   Distrito       Nr. Pagts        Total Pago
+0007#STR0007#HAI#Código    Razão Social                                           RFC               Morada                                               Concelho                   Distrito       Nr. Pagts        Total Pago
+0007#STR0007#MEX#Código    Razão Social                                           Rfc               Endereco                                             Concelho                  Estado         Núm. Pgts        Total Pago
+0007#STR0007#PTG#Código    Razão Social                                           Rfc               Endereco                                             Concelho                  Estado         Núm. Pgts        Total Pago
+0008#STR0008#ALL#Total De Pagamentos:
+0009#STR0009#ALL#Total da filial: 

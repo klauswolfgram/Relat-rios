@@ -1,0 +1,39 @@
+0001#STR0001#ALL#Cheq. Especiales
+0002#STR0002#ALL#Cheque
+0003#STR0003#ALL#Administrac.
+0004#STR0004#ALL#Este programa imprimira los cheques del banco seleccionado
+0005#STR0005#ALL#en la impres. estandar selecc.
+0006#STR0006#ALL#Impresoras disponib. en el sistema
+0007#STR0007#ALL#Modelo
+0008#STR0008#ALL#ANULADO POR EL OPERADOR
+0009#STR0009#ALL#Datos bancarios
+0010#STR0010#ALL#Incluya cheque
+0011#STR0011#ALL#Voltee el cheque en la impresora y pulse OK,
+0012#STR0012#ALL#para imprimir el hist. en el dorso.                   
+0013#STR0013#ALL#Enero      
+0014#STR0014#ALL#Febrero    
+0015#STR0015#ALL#Marzo      
+0016#STR0016#ALL#Abril      
+0017#STR0017#ALL#Mayo       
+0018#STR0018#ALL#Junio      
+0019#STR0019#ALL#Julio      
+0020#STR0020#ALL#Agosto     
+0021#STR0021#ALL#Septiembre 
+0022#STR0022#ALL#Octubre    
+0023#STR0023#ALL#Noviembre  
+0024#STR0024#ALL#Diciembre  
+0025#STR0025#ALL#Coloque el ch. en la impresora
+0026#STR0026#ALL#para imprimir el hist. en el dorso.
+0027#STR0027#ALL#El cheq. se imprimio correctamente
+0028#STR0028#ALL#Para numeracion automatica, debe informarse el numero del primer cheque
+0029#STR0029#ALL#Atenc. 
+0030#STR0030#ALL#¡No se impr. el cheque, pues el campo ciudad en el arch. bancos esta en blanco!
+0031#STR0031#ALL#De acuerdo con los param. informados, no se encontro ningun cheque para impresion
+0032#STR0032#ALL#El operador informo que el cheque no se imprimio. Esse cheque continuara en la base de datos para futura impresion.
+0033#STR0033#ALL#SmartClient incompatible
+0034#STR0034#ALL#Ocurrencia:
+0035#STR0035#ALL#El SmartClient utilizado está en la versión 64 bits.
+0036#STR0036#ALL#Solución:
+0037#STR0037#ALL#Para el correcto funcionamiento de esta rutina, será necesario modificar la versión del
+0038#STR0038#ALL#SmartClient para Lobo Guará 32 bits.
+0039#STR0039#ALL#Obs. Los archivos están disponibles en el Portal del Cliente.

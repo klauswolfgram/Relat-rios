@@ -1,0 +1,83 @@
+0001#STR0001#ALL#Relatório do pcmso - programa de controle medico e saude ocupacional           
+0002#STR0002#ALL#Código de barras
+0003#STR0003#ALL#Administração
+0004#STR0004#ALL#Nome da empresa :
+0005#STR0005#ALL#Morada :
+0006#STR0006#ALL#Código postal :
+0007#STR0007#ALL#Cidade :
+0008#STR0008#ALL#Distrito :
+0009#STR0009#ALL#Tel :
+0010#STR0010#ALL#Fax :
+0011#STR0011#ALL#Cnpj/cgc :
+0012#STR0012#ALL#Ramo de atividade :
+0013#STR0013#ALL#Grau de risco :
+0014#STR0014#ALL#Funções               N.   Ho   Mu   Me   Riscos                         Epi                           Exames
+0015#STR0015#ALL#Seleccionar O Modelo Do Relatório
+0016#STR0016#ALL#Modelo da listagem
+0017#STR0017#ALL#Programa de controlo médico de saúde ocupacional - pcmso
+0018#STR0018#ALL#Período de 
+0019#STR0019#ALL# até 
+0020#STR0020#ALL#Inscrição distrital : 
+0021#STR0021#ALL#Cae : 
+0022#STR0022#ALL#Responsáveis técnicos
+0023#STR0023#ALL#Médico coordenador:
+0024#STR0024#ALL#Reg.sshst:
+0025#STR0025#ALL#Telefone:
+0026#STR0026#ALL#Morada:
+0027#STR0027#ALL#Data:
+0028#STR0028#ALL#Seleccionar ficheiro 
+0031#STR0031#ALL#Fonte Criadora De Risco:
+0033#STR0033#ALL#Todos
+0036#STR0036#ALL#Ambiente Físico Do Risco:
+0040#STR0040#ALL#Equipamentos:  nome                           fabricante            data de calibração  data de aferição
+0041#STR0041#ALL#Programa de controlo médico de saúde ocupacional
+0042#STR0042#ALL#Estatistica de exames - período : 
+0043#STR0043#ALL#Totais Do Sector
+0044#STR0044#ALL#Sector: 
+0045#STR0045#ALL#Exame                         Volume Realizado   Resultados Normais   Resultados Anormais   Percentagens Anormais
+0049#STR0049#ALL#Resumo de histórico de empregado
+0052#STR0052#ALL#Médicos do trabalho
+0053#STR0053#ALL#Médicos do trabalho: 
+0054#STR0054#ALL#Enfermeiros Do Trabalho
+0055#STR0055#ALL#Enfermeiros do trabalho: 
+0056#STR0056#ALL#Auxiliares De Enfermagem No Trabalho
+0057#STR0057#ALL#Auxiliares de enfermagem no trabalho: 
+0058#STR0058#ALL#Engenheiros de segurança no trabalho
+0059#STR0059#ALL#Engenheiros de segurança no trabalho: 
+0060#STR0060#ALL#Técnicos de segurança no trabalho
+0061#STR0061#ALL#Técnicos de segurança no trabalho: 
+0062#STR0062#ALL#Alternar para o programa do ms-word para visualizar o documento ou clicar no botão para fechar.
+0064#STR0064#ALL#Todos
+0073#STR0073#ALL#MORADA
+0081#STR0081#ALL#Data Calibragem
+0089#STR0089#ALL#Percentagem
+0091#STR0091#ALL#Nome do Empregado
+0097#STR0097#ALL#Quadro de Empregados: Masculino  Feminino  Menor Aprendiz
+0098#STR0098#ALL#QUADRO DE EMPREGADOS
+0119#STR0119#ALL#AÇÕES DE PREVENÇÃO, CONTROLE E DIAGNÓSTICO DE DOENÇAS OCUPACIONAIS E 
+0120#STR0120#ALL#NÃO OCUPACIONAIS
+0126#STR0126#ALL#ACÇÕES DE PROMOÇÃO À SAÚDE
+0127#STR0127#ALL#PROTECÇÃO ESPECÍFICA
+0128#STR0128#ALL#ACÇÕES DE PROMOÇÃO À
+0130#STR0130#ALL#PROTECÇÃO
+0154#STR0154#ALL#Médico Coordenador ?
+0155#STR0155#ALL#Até PCMSO ?
+0161#STR0161#ALL#Até Filial ?
+0162#STR0162#ALL#Ficheiro Saída ?
+0163#STR0163#ALL#Impressão ?
+0188#STR0188#ALL#ACÇÕES / MÊS
+0189#STR0189#ALL#Planeado
+0191#STR0191#ALL#Cód. Vacina   Nome da Vacina        Data Progr. Matrícula   Nome do Colaborador           Centro de Custo      Dose Aplicada
+0194#STR0194#ALL#Nome da vacina
+0195#STR0195#ALL#Data progr.
+0196#STR0196#ALL#Matrícula
+0198#STR0198#ALL#Centro de custo
+0202#STR0202#ALL#Tema da lei
+0209#STR0209#ALL#Data emissão
+0212#STR0212#ALL#Término da vigência
+0213#STR0213#ALL#Distrito
+0214#STR0214#ALL#Dias vencimento
+0216#STR0216#ALL#Controlos
+0217#STR0217#ALL#Plano de acções do requisito
+0219#STR0219#ALL#Requisitos legais
+0220#STR0220#ALL#Medidas de controlo

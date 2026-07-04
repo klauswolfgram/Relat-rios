@@ -1,0 +1,16 @@
+0001#STR0001#ALL#Relação De Helpdesk
+0002#STR0002#ALL#Este programa irá emitir a relação de helpdesk cofacturaorme os 
+0003#STR0003#ALL#Parâmetros solicitados.
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#Encerrado
+0007#STR0007#ALL#Em Aberto
+0008#STR0008#ALL#Ligação
+0009#STR0009#ALL#Redireccionamento
+0010#STR0010#ALL#Lembrete
+0011#STR0011#ALL#Agrega Conhecimento
+0012#STR0012#ALL#NR.CHAMADO SEQ CLIENTE   NOME                                     TÉCNICO NOME                           OCOR.  DESCRIÇÃO                      ORIGEM              T.ATEND. SITUAÇÃO
+0013#STR0013#ALL#Relatório
+0014#STR0014#ALL#Cancelado Pelo Operador
+0015#STR0015#ALL#Cliente
+0016#STR0016#ALL#Registo De Clientes

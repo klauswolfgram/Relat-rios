@@ -1,0 +1,46 @@
+0001#STR0001#ALL#¿De Lugar          ?
+0002#STR0002#ALL#¿A Lugar           ?
+0003#STR0003#ALL#¿De Fecha          ?
+0004#STR0004#ALL#¿A Fecha?
+0005#STR0005#ALL#Historial de Eventos de la Estructura Organizacional
+0006#STR0006#ALL#Informe de Historial de los eventos ocurridos en la Estructura Organizacional
+0007#STR0007#ALL#El usuario podra utilizar la opcion Parametros para la obtencion 
+0008#STR0008#ALL#de los Items de la Estructura Organizacional de su interes.
+0009#STR0009#ALL#Item: 
+0010#STR0010#ALL#Item:
+0011#STR0011#ALL#Descripcion
+0012#STR0012#ALL#Orden
+0013#STR0013#ALL#Niv. Sup.
+0014#STR0014#ALL#Fecha
+0015#STR0015#ALL#Hora
+0016#STR0016#ALL#Tipo Evento
+0017#STR0017#ALL#A Rayas
+0018#STR0018#ALL#Administracion
+0019#STR0019#ALL#             Nivel superior                                  Fecha        Hora   Tipo Evento
+0020#STR0020#ALL#ANULADO POR EL OPERADOR
+0021#STR0021#ALL#*** Primer   Nivel ***
+0022#STR0022#ALL#Realizada Modif. del Orden 
+0023#STR0023#ALL#Realiz. Borrado del Item 
+0024#STR0024#ALL#Realiz. Inclus. del Item 
+0025#STR0025#ALL#Realiz. Modif. del Bien a Activo    
+0026#STR0026#ALL#Realiz. Modific. del Bien a Inactivo  
+0027#STR0027#ALL#Realiz. Transf. de Sucursal del Bien   
+0028#STR0028#ALL#Situac. Act. del Item 
+0029#STR0029#ALL#¿De Local/Bien?
+0030#STR0030#ALL#¿A Local/Bien      ?
+0031#STR0031#ALL#¿Lista Modulo       ?
+0032#STR0032#ALL#Todos
+0033#STR0033#ALL#Nivel
+0034#STR0034#ALL#Util. SGA
+0035#STR0035#ALL#Util. MDT
+0036#STR0036#ALL#Util. MNT
+0037#STR0037#ALL#Si
+0038#STR0038#ALL#No
+0039#STR0039#ALL#Efectuada Modificacion de los Modulos
+0040#STR0040#ALL#                               Nivel      Util. SGA   Util. MDT   Util. MNT
+0041#STR0041#ALL#Escriba a partir de que Lugar/Bien desea visualizar la informacion. Pulse la tecla [F3] para seleccionar un Lugar/Bien.
+0042#STR0042#ALL#Escriba hasta que Lugar/Bien se desea visualizar la informacion. Pulse la tecla [F3] para seleccionar un Lugar/Bien o digite ZZ en este campo para considerar todos los Lugares/Bienes.
+0043#STR0043#ALL#Escriba a partir de que Fecha desea visualizar la informacion.
+0044#STR0044#ALL#Escriba hasta que Fecha desea visualizar la informacion.
+0045#STR0045#ALL#Indica de que Modulo debe imprimir los Lugares/Bienes. Opciones: SGA, MDT, MNT o Todos.
+0046#STR0046#ALL#Proceso principal

@@ -1,0 +1,25 @@
+0001#STR0001#ALL#Report on Emplyees Transactions       (Turn-Over)
+0002#STR0002#ALL#It will be printed according to the parameters selected 
+0003#STR0003#ALL#by the User.   
+0004#STR0004#ALL#Z.Form 
+0005#STR0005#ALL#Management   
+0006#STR0006#ALL#REPORT ON EMPLOYEES TRANSACTIONS     
+0007#STR0007#ALL#                                          EMPLOYEES TRANSACTIONS        -  
+0008#STR0008#ALL# A 
+0009#STR0009#ALL#|MTH/YR. |  START   | ADMISSION| ENT.TRANSF.| EXITTRANSF.| DISMISSAL|   END   |
+0010#STR0010#ALL#Selecting Records...     
+0011#STR0011#ALL#BRANCH: 
+0012#STR0012#ALL#Employees movements         
+0013#STR0013#ALL#This routine prints the number of movements of employees within the company, i.e., the number of employees dismissed, admitted and transferred.                         
+0014#STR0014#ALL#Branch total    
+0015#STR0015#ALL#Attention
+0016#STR0016#ALL#Initial period must be longer than final period or entered period void
+0017#STR0017#ALL#Void Period
+0018#STR0018#ALL#C.CENTER
+0019#STR0019#ALL#MONTH/YEAR
+0020#STR0020#ALL#START
+0021#STR0021#ALL#ADMISSION
+0022#STR0022#ALL#TRANSF.IN.
+0023#STR0023#ALL#TRANSF.OUT.
+0024#STR0024#ALL#DISMISSAL
+0025#STR0025#ALL#END

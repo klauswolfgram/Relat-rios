@@ -1,0 +1,34 @@
+0001#STR0001#ALL#This report will show a list of Written Off Goods
+0002#STR0002#ALL#in a certain period. It can be sorted by Account
+0003#STR0003#ALL#or Cost Center.
+0004#STR0004#ALL#REPORT OF POSTED GOODS
+0005#STR0005#ALL#Account
+0006#STR0006#ALL#CCenter
+0007#STR0009#ALL# by 
+0008#STR0010#ALL# in 
+0009#STR0011#ALL# between 
+0010#STR0012#ALL# to 
+0011#STR0013#ALL#CANCELLED BY THE OPERATOR
+0012#STR0014#ALL#SUPPLIER 
+0013#STR0016#ALL#GRAND TOTAL:
+0014#STR0017#ALL#Z.Form
+0015#STR0018#ALL#Management
+0016#STR0020#ALL#Asset info  
+0017#STR0021#ALL#Posting date 
+0018#STR0022#ALL#Curr. Amnt.
+0019#STR0023#ALL#Residue amnount
+0020#STR0024#ALL#Profit/Loss   
+0021#STR0025#ALL#Reason not registered
+0022#STR0026#ALL#Branch Total  
+0023#STR0027#ALL#Account Total 
+0024#STR0028#ALL#Cost Center Total 
+0025#STR0029#ALL#Profit/Loss
+0026#STR0030#ALL#Accrued Depr
+0027#STR0031#ALL#Write-off Value
+0028#STR0032#ALL#Increase Value
+0029#STR0033#ALL#Account                        C.C                Basis      Item TP  Description                  Acquisic.    Wrt-off    Invoice  Reason
+0030#STR0034#ALL#Amt.Wrt off                Deprec Current Value Accrued Curr. Accrued Depr   Residual Value       Wrt-off Val.   Profit/Loss  Increase Val.
+0031#STR0035#ALL#Account                        C.C                Basis      Item TP  Description                  Acquisic.    Wrt-off    Invoice         Reason
+0032#STR0036#ALL#Total
+0033#STR0037#ALL#Grand Total
+0034#STR0038#ALL#Company total

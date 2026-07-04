@@ -1,0 +1,19 @@
+0001#STR0001#ALL#Movimiento del Plan de Mantenimiento
+0002#STR0002#ALL#Este informe imprimira el detalle de movimientos del 
+0003#STR0003#ALL#plan de mantenimiento segun los parametros solicitados
+0004#STR0004#ALL#
+0005#STR0005#ALL#A Rayas
+0006#STR0006#ALL#Administracion
+0007#STR0007#ALL#ANULADO POR EL OPERADOR
+0008#STR0008#ALL#                    PLAN      ITEM    FECHA     FCHORIGEN  SECUENCIA  O.S.
+0009#STR0009#ALL#                    PLAN      ITEM    FECHA     FCHORIGEN  SECUENCIA    COD.CLIENTE      NOM. CLIENTE                   O.S.
+0010#STR0010#ALL#         COD.EQUIP       NOM. EQUIPO                   FABRICANTE    NUMERO DE SERIE       PLAN    ITEM FCHORIGEN   SECUEN  O.S.
+0011#STR0011#ALL#
+0012#STR0012#ALL#Cliente y Equipo
+0013#STR0013#ALL#Cliente y Fecha
+0014#STR0014#ALL#Fecha y Cliente
+0015#STR0015#ALL#Fecha y Equipo
+0016#STR0016#ALL#Movimiento de Planes - Separa por 
+0017#STR0017#ALL#Cliente
+0018#STR0018#ALL#Equipam. 
+0019#STR0019#ALL#Plan

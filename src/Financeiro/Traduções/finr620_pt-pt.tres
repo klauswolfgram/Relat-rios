@@ -1,0 +1,30 @@
+0001#STR0001#ALL#Este programa irá emitir a relação da movimentação bancária
+0002#STR0002#ALL#De acordo com os parâmetros definidos pelo utilizador. podera ser
+0003#STR0003#ALL#impresso em ordem de data disponivel, banco, natureza ou dt.digitaçäo.
+0004#STR0004#ALL#Por Dt.dispo
+0005#STR0005#ALL#Por Banco
+0006#STR0006#ALL#Por Natureza
+0007#STR0007#ALL#Dt.digitação
+0008#STR0008#ALL#Relação da movimentação bancária em 
+0012#STR0012#ALL#A Seleccionar Registos...
+0013#STR0013#ALL# Por Banco
+0014#STR0014#ALL# Por Natureza
+0015#STR0015#ALL#  Por Data De Digitação
+0016#STR0016#ALL#Cancelado Pelo Operador
+0017#STR0017#ALL#Total crial : 
+0018#STR0018#ALL#Não existem movimentos neste período
+0019#STR0019#ALL#Código de barras
+0020#STR0020#ALL#Administração
+0021#STR0021#ALL#Relação Da Movimentação Bancária
+0022#STR0022#ALL# Analítico
+0023#STR0023#ALL# Sintético
+0026#STR0026#ALL#Movimentação bancária em 
+0027#STR0027#ALL#                                                                  Entrada         Saida         Saldo Atual
+0029#STR0029#ALL#Analítico
+0030#STR0030#ALL#Sintético
+0032#STR0032#ALL# (todos os bancos): 
+0034#STR0034#ALL#Por Dt. Moviment Acção
+0035#STR0035#ALL#Saldo anterior das bases
+0036#STR0036#ALL#Movimentação Bancária
+0039#STR0039#ALL#Saída
+0040#STR0040#ALL#Saldo actual

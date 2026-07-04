@@ -1,0 +1,61 @@
+0001#STR0001#ALL#Print Comparative report between Budgeted x Real.   
+0002#STR0002#ALL#The reference month of the base date will be analysed
+0003#STR0003#ALL#Z.Form 
+0004#STR0004#ALL#Management   
+0005#STR0005#ALL#Comparative Map  - Budgeted x Real Values in  
+0006#STR0006#ALL#Cod Class       Descr.   
+0007#STR0007#ALL#To Realize                Realized          Budgetet            %   
+0008#STR0008#ALL#Selecting Records ...
+0009#STR0009#ALL#Total -
+0010#STR0010#ALL#[ TOTALS - REALIZE  / REALIZED  ]
+0011#STR0011#ALL#Receive
+0012#STR0012#ALL#Pay  
+0013#STR0013#ALL#Balanc
+0014#STR0014#ALL#To Realize  : 
+0015#STR0015#ALL#Realized    : 
+0016#STR0016#ALL#Total:
+0017#STR0017#ALL#[ TOTALS - Budgeted]
+0018#STR0018#ALL#Receivable  : 
+0019#STR0019#ALL#Payable     : 
+0020#STR0020#ALL#Balance     : 
+0021#STR0021#ALL#[ COMPARATIVE - BUDGETED/REAL  ]
+0022#STR0022#ALL#Realized ...:
+0023#STR0023#ALL#Total.......:
+0024#STR0024#ALL# (  Debtor    )
+0025#STR0025#ALL# (  Creditor  )
+0026#STR0026#ALL#Accrued         Accrued
+0027#STR0027#ALL#Realized       Budgeted
+0028#STR0028#ALL#[ ACCUMULATED TOTALS ]
+0029#STR0029#ALL#Budgeted     : 
+0030#STR0030#ALL#   (A)                      (B)                          (C)               (A+B)/C
+0031#STR0031#ALL#Month
+0032#STR0032#ALL#Accrued
+0033#STR0033#ALL#Class code  
+0034#STR0034#ALL#Descript.
+0035#STR0035#ALL#To realize
+0036#STR0036#ALL#Realized 
+0037#STR0037#ALL#Quoted
+0038#STR0038#ALL#%
+0039#STR0039#ALL#Accumul. 
+0040#STR0040#ALL#(A)
+0041#STR0041#ALL#(B)
+0042#STR0042#ALL#(C)
+0043#STR0043#ALL#(A+B)/C B/C
+0044#STR0044#ALL#To realize (D)
+0045#STR0045#ALL#Realized  (E)
+0046#STR0046#ALL#Quoted (F)
+0047#STR0047#ALL#(D+E)/F E/F
+0048#STR0048#ALL#To realize
+0049#STR0049#ALL#Realized 
+0050#STR0050#ALL#Total
+0051#STR0051#ALL#Quoted
+0052#STR0052#ALL#Month totals 
+0053#STR0053#ALL#Comparison 
+0054#STR0054#ALL#Class   
+0055#STR0055#ALL#Comparative Map-Budgeted vs. Actual amounts
+0056#STR0056#ALL#Branch: 
+0057#STR0057#ALL#Code
+0058#STR0058#ALL#Company
+0059#STR0059#ALL#Business Unit
+0060#STR0060#ALL#Branch
+0061#STR0061#ALL#Branches selected for the report

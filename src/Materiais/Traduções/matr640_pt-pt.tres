@@ -1,0 +1,30 @@
+0001#STR0001#ALL#Relação De Duplicatas
+0002#STR0002#ALL#Este programa irá emitir a relação de duplicatas
+0003#STR0003#ALL#Emitidas.poderá ser emitida por ordem de data+número, 
+0004#STR0004#ALL#Por Vendedor.
+0005#STR0005#ALL#Número
+0006#STR0006#ALL#Emissão
+0010#STR0012#ALL#Relação das duplicatas emitidas - 
+0011#STR0013#ALL#Prf Número       P Código  Lj Razao Social                      Emissão     Vencto                 Valor   Superv. Vendedor    Pedido
+0012#STR0014#ALL#                                                                                                  Total
+0013#STR0015#ALL#Cancelado Pelo Operador
+0014#STR0016#ALL#Total do vendedor   ==> 
+0015#STR0017#ALL#Total dos emitidos em ==> 
+0016#STR0018#ALL#Total dos vencidos em ==> 
+0017#STR0019#ALL#Total do cliente ==> 
+0018#STR0020#ALL#Total ---------------->
+0019#STR0021#ALL#Prf Número       P Código                Loja Razao Social              Emissão     Vencto                Valor Superv. Vend.  Pedido
+0020#STR0022#ALL#                                                                                                         Total
+0021#STR0023#ALL#Total Líquido
+0022#STR0024#ALL#Total Líquido
+0023#STR0025#ALL#Relação De Duplicatas
+0024#STR0026#ALL#Este programa irá emitir a relação de duplicatas
+0025#STR0027#ALL#Emitidas.poderá ser emitida por ordem de título, 
+0026#STR0028#ALL#Emissão, Vencimento, Vendedor Ou Cliente.
+0027#STR0029#ALL#Número
+0028#STR0030#ALL#Emissão
+0032#STR0034#ALL#Total dos emitidos em ==> 
+0033#STR0035#ALL#Total dos vencidos em ==> 
+0034#STR0036#ALL#Total do cliente ==> 
+0035#STR0037#ALL#Total Líquido
+0036#STR0038#ALL#Total do vendedor ==> 

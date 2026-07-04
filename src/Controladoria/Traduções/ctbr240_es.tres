@@ -1,0 +1,60 @@
+0001#STR0001#ALL#Este programa imprimira el balance de 2 entidades 
+0002#STR0002#ALL#filtrando el saldo por la tercera entidad. Utilice este
+0003#STR0003#ALL#informe, si utiliza C.C/Item/Cl.Valor.
+0004#STR0004#ALL#Balance de 2 entidades filtrada por la tercera entidad
+0005#STR0005#ALL#|  CODIGO                     |  D E S C R I P C I O N                          |    SALDO ANTERIOR              |    DEBITO       |      CREDITO      |   MOVIMIENTO DEL PERIODO      |         SALDO ACTUAL              |
+0005#STR0005#ANG#|  CODIGO                     |  D E S C R I P C I O N                          |    SALDO ANTERIOR              |    DEBITO       |      CREDITO      |   MOVIMIENTO DEL PERIODO      |         SALDO ACTUAL              |
+0005#STR0005#EQU#|  CODIGO                     |      D E S C R I P C I O N                      |    SALDO ANTERIOR              |    DEBITO       |      CREDITO      |    MOVIMENTO DEL PERIODO      |         SALDO ACTUAL              |
+0005#STR0005#HAI#|  CODIGO                     |  D E S C R I P C I O N                          |    SALDO ANTERIOR              |    DEBITO       |      CREDITO      |   MOVIMIENTO DEL PERIODO      |         SALDO ACTUAL              |
+0005#STR0005#MEX#|  CODIGO                     |  D E S C R I P C I O N                          |    SALDO ANTERIOR              |    CARGO        |      ABONO       |    MOVIMIENTO DEL PERIODO      |         SALDO ACTUAL              |
+0005#STR0005#PTG#|  CODIGO                     |  D E S C R I P C I O N                          |    SALDO ANTERIOR              |    DEBITO       |      CREDITO      |   MOVIMIENTO DEL PERIODO      |         SALDO ACTUAL              |
+0006#STR0006#ALL#|  CODIGO               |D  E  S  C  R  I  P  C  I  O  N |   SALDO ANTERIOR  |      DEBITO    |      CREDITO   |   SALDO ACTUAL    |
+0006#STR0006#ANG#|  CODIGO               |D  E  S  C  R  I  P  C  I  O  N |   SALDO ANTERIOR  |      DEBITO    |      CREDITO   |   SALDO ACTUAL    |
+0006#STR0006#EQU#|  CODIGO               |D  E  S  C  R  I  P  C  I  O  N |   SALDO ANTERIOR  |      DEBITO    |      CREDITO   |   SALDO ACTUAL    |
+0006#STR0006#HAI#|  CODIGO               |D  E  S  C  R  I  P  C  I  O  N |   SALDO ANTERIOR  |      DEBITO    |      CREDITO   |   SALDO ACTUAL    |
+0006#STR0006#MEX#|  CODIGO               |D  E  S  C  R  I  P  C  I  O  N |   SALDO ANTERIOR  |      CARGO     |       ABONO    |   SALDO ACTUAL    |
+0006#STR0006#PTG#|  CODIGO               |D  E  S  C  R  I  P  C  I  O  N |   SALDO ANTERIOR  |      DEBITO    |      CREDITO   |   SALDO ACTUAL    |
+0007#STR0007#ALL#DE BAL. PARC. ANALITICO 
+0008#STR0008#ALL#DE BAL. PARC. SINTETICO 
+0009#STR0009#ALL#DE BAL. PARC. 
+0010#STR0010#ALL# DE 
+0011#STR0011#ALL# A  
+0012#STR0012#ALL# EN 
+0013#STR0013#ALL# (PRESUP)
+0014#STR0014#ALL# (DE GEST. )
+0015#STR0015#ALL#Creando archivo temporal...
+0016#STR0016#ALL#A Rayas
+0017#STR0017#ALL#Administracion
+0018#STR0018#ALL#***** ANULADO POR EL OPERADOR *****
+0019#STR0019#ALL#T O T A L E S  D E L  P E R I O D O: 
+0020#STR0020#ALL#T O T A L E S  
+0021#STR0021#ALL#ÌÌLa segunda entidad no puede ser la misma que la primera Entidad!!
+0022#STR0022#ALL#Por Favor responda la pregunta de filtro 3a. Entidad...
+0023#STR0023#ALL#ÌÌLa Entidad que se filtrara no puede ser la misma que la primera ni la segunda Entidad!!
+0024#STR0024#ALL# DE 
+0025#STR0025#ALL# A  
+0026#STR0026#ALL#Config. Parametros
+0027#STR0027#ALL#Si no se actualizan los saldos compuestos en 
+0028#STR0028#ALL#la emision de los informes (MV_SLDCOMP ='N'),
+0029#STR0029#ALL#ejecute la rutina de actualizacion de saldos 
+0030#STR0030#ALL# ATENCION 
+0031#STR0031#ALL#CODIGO
+0032#STR0032#ALL#D  E  S  C  R  I  P  C  .
+0033#STR0033#ALL#SALDO ANTERIOR
+0034#STR0034#ALL#DEBITO
+0034#STR0034#ANG#DEBITO
+0034#STR0034#EQU#DEBITO
+0034#STR0034#HAI#DEBITO
+0034#STR0034#MEX#CARGO
+0034#STR0034#PTG#DEBITO
+0035#STR0035#ALL#CREDITO
+0035#STR0035#ANG#CREDITO
+0035#STR0035#EQU#CREDITO
+0035#STR0035#HAI#CREDITO
+0035#STR0035#MEX#ABONO
+0035#STR0035#PTG#CREDITO
+0036#STR0036#ALL#MOVIM. PERIODO
+0037#STR0037#ALL#SALDO ACT.
+0038#STR0038#ALL#1∫ Ente Contable
+0039#STR0039#ALL#2∫ Ente Contable
+0040#STR0040#ALL#Total

@@ -1,0 +1,21 @@
+0001#STR0001#ALL#Pending / Carried Out Services
+0002#STR0002#ALL#List of Services X Tasks X Pending and/or carried out
+0003#STR0003#ALL#activities. The items will be filtered according
+0004#STR0004#ALL#to the parameters used by the user.
+0005#STR0005#ALL#Z. Form
+0006#STR0006#ALL#Management
+0007#STR0007#ALL#DOCUMENT     PRODUCT SER         AR QUANTITY      MU LOT        SUB    SERVICE                     TASK                        ACTIVITY                    HUMAN  PHYSI  ORIGIN ORIGIN          DESTIN  DESTIN        
+0008#STR0008#ALL#                                                                LOT                                                                                        RESOU  RESOUR STRUCT ADDRE.          STRUCTU ADDRES.       
+0009#STR0009#ALL#Selecting Files...
+0010#STR0010#ALL#CANCELLED BY THE OPERATOR
+0011#STR0011#ALL#Movements by address   
+0012#STR0012#ALL#Doc. 
+0013#STR0013#ALL#Wrh
+0014#STR0014#ALL#MU
+0015#STR0015#ALL#Serv
+0016#STR0016#ALL#Task  
+0017#STR0017#ALL#Act.
+0018#STR0018#ALL#Hum.Res
+0019#STR0019#ALL#Phy.Rec
+0020#STR0020#ALL#Tax St
+0021#STR0021#ALL#Des.St

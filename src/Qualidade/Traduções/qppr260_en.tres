@@ -1,0 +1,139 @@
+0001#STR0001#ALL#Checklist APQP A2
+0002#STR0002#ALL#Generating Update. Wait...
+0003#STR0003#ALL#  A. GENERAL
+0004#STR0004#ALL#Project requires:
+0005#STR0005#ALL# New Materials ?
+0006#STR0006#ALL# Special tools ?
+0007#STR0007#ALL# Was the analysis of assembly variation considere ?
+0008#STR0008#ALL# Was the Delineation of Experiments considered ?
+0009#STR0009#ALL# Is there any plan for prototypes in progress ?
+0010#STR0010#ALL# Was the DFMEA completed ?
+0011#STR0011#ALL# Was the DFMA completed ?
+0012#STR0012#ALL# Were questions related to technical assistence and  
+0013#STR0013#ALL# maintenance considered?
+0014#STR0014#ALL# Was the Projects Checking Plan completed ?
+0015#STR0015#ALL# If yes, was it completed by a multifunctional 
+0016#STR0016#ALL#team ?
+0017#STR0017#ALL# Were all tests, methods, equipments andaccepptance 
+0018#STR0018#ALL# criteria clearly defined and committed ?
+0019#STR0019#ALL# Were the Special Characteristics selected ?
+0020#STR0020#ALL# Is the materials/parts list complete ?
+0021#STR0021#ALL# Are the Special Characteristics properly
+0022#STR0022#ALL# documented ?
+0023#STR0023#ALL#  B. ENGINEERING DRAWINGS
+0024#STR0024#ALL# Were the dimension that affect the adjustment, functions
+0025#STR0025#ALL# and durability identified?
+0026#STR0026#ALL# Did anybody identify the dimensions of reference to
+0027#STR0027#ALL# minimize the inspection layout time ?
+0028#STR0028#ALL# Are there points of control and surface of reference
+0029#STR0029#ALL# sufficiently identified to protect functional
+0030#STR0030#ALL# devices ?
+0031#STR0031#ALL# Are the tolerances compatible with the acceptable
+0032#STR0032#ALL# manufacture rules ?
+0033#STR0033#ALL# Are there any specified requisite that can´t be
+0034#STR0034#ALL# evaluated through the known inspections
+0035#STR0035#ALL# technics ?
+0036#STR0036#ALL#  C. ENGINEERING PERFORMANCE SPECIFICATIONS
+0037#STR0037#ALL# Were all the Special Characteristics
+0038#STR0038#ALL# identified ?
+0039#STR0039#ALL# Is the Analysis Quantity enough to offer all the 
+0040#STR0040#ALL# condition, that is, validation of production and 
+0041#STR0041#ALL# final use ?
+0042#STR0042#ALL# Did anybody test the parts that were manufactured
+0043#STR0043#ALL# within the minimum and maximum specifications?
+0044#STR0044#ALL# Can extra samples be tested when any reaction plan 
+0045#STR0045#ALL# demands so and just the same lead the regular 
+0046#STR0046#ALL# tests in progress ?
+0047#STR0047#ALL# Will all Analysis of product be internally carried out?
+0048#STR0048#ALL# If no, will they be carried out by an approved 
+0049#STR0049#ALL# sub-supplier ?
+0050#STR0050#ALL# Are the frequence and sample size feasible to the
+0051#STR0051#ALL# analysis?
+0052#STR0052#ALL# Was it necessary to have the customer approval for 
+0053#STR0053#ALL# the analysis equipment ?
+0054#STR0054#ALL#  D. MATERIALS SPECIFICATIONS
+0055#STR0055#ALL# The special characteristics of the material are
+0056#STR0056#ALL# Are the materials, thermo treatment and treatment
+0057#STR0057#ALL# of the specified surface compatible with the 
+0058#STR0058#ALL# durability in the identified environment?
+0059#STR0059#ALL# Are the suppliers of estimated material in the list
+0060#STR0060#ALL# of approved customers ?
+0061#STR0061#ALL# Will it be necessary to require a certification from 
+0062#STR0062#ALL# the material supplier every time he delivers a lot?
+0063#STR0063#ALL# Does it form identified characteristics of materials
+0064#STR0064#ALL# that need inspection ?
+0065#STR0065#ALL# If yes, 
+0066#STR0066#ALL#* Will the characteristics be checked internally ?
+0067#STR0067#ALL#* Is the test equipment available ?
+0068#STR0068#ALL#* Will training be necessary in order to assure 
+0069#STR0069#ALL# accurate results ?
+0070#STR0070#ALL# Will external laboratories be used ?
+0071#STR0071#ALL# Are all laboratories used accredited
+0072#STR0072#ALL# (if necessary) ?
+0073#STR0073#ALL# Were the following requisites considered ?
+0074#STR0074#ALL#* Handling? 
+0075#STR0075#ALL#* Stock?    
+0076#STR0076#ALL#* Environment?
+0077#STR0077#ALL#Prepared by
+0078#STR0078#ALL# A-2 CHECKING LIST OF PROJECT´S INFORMATION
+0079#STR0079#ALL#Internal part or customer´s number
+0080#STR0080#ALL#Question
+0081#STR0081#ALL#Yes
+0082#STR0082#ALL#No
+0083#STR0083#ALL#Comments / Required Action
+0084#STR0084#ALL#Responsible person
+0085#STR0085#ALL#Estimated date
+0086#STR0086#ALL#Revision date
+0087#STR0087#ALL#Page 
+0088#STR0088#ALL# of 
+0089#STR0089#ALL#tests and documentation, if necessary?
+0090#STR0090#ALL#New Technologies or Processes? 
+0091#STR0091#ALL#Can known inspection techniques 
+0092#STR0092#ALL#measure all project requirements?
+0093#STR0093#ALL#Is the management process of engineering changes 
+0094#STR0094#ALL#designed by the customer used to 
+0095#STR0095#ALL#manage engineering changes?
+0096#STR0096#ALL#Are enough Test Parameters to provide 
+0097#STR0097#ALL#all conditions of use, that is, production validation 
+0098#STR0098#ALL#and final use?
+0099#STR0099#ALL#Is the frequency and/or sampling size for  
+0100#STR0100#ALL#specified performance tests consistent 
+0101#STR0101#ALL#with manufacture volumes?
+0102#STR0102#ALL#Did the Organization develop and implement a 
+0103#STR0103#ALL#process to control quality of materials 
+0104#STR0104#ALL#received?
+0105#STR0105#ALL# If they are made internally, are there 
+0106#STR0106#ALL#skilled people to assure accurate 
+0107#STR0107#ALL#tests?
+0108#STR0108#ALL# Does the Organization have a process deployed to ensure 
+0109#STR0109#ALL#the laboratory competence, such as accreditation?  GRADE: A
+0110#STR0110#ALL#Competence must be certified.
+0111#STR0111#ALL#test is available?
+0112#STR0112#ALL# Handling, including environmental aspects?
+0113#STR0113#ALL#Storage, including environmental aspects?
+0114#STR0114#ALL#Was the composition of materials / substances 
+0115#STR0115#ALL#reported according to customer requirements, 
+0116#STR0116#ALL#such as IMDS? 
+0117#STR0117#ALL#Were Polymetric parts identified / checked 
+0118#STR0118#ALL#according to customer requirements?
+0119#STR0119#ALL#New Materials?
+0120#STR0120#ALL#Special Tool?
+0121#STR0121#ALL#N/a
+0122#STR0122#ALL#Did the customer approve 
+0123#STR0123#ALL#tests and documentation, if necessary?
+0124#STR0124#ALL# Was DFMEA completed?
+0125#STR0125#ALL#Was DFMA (Design for Manufacture and Assembly) 
+0126#STR0126#ALL#completed?
+0127#STR0127#ALL#Are there enough control points and reference  
+0128#STR0128#ALL#surfaces identified to project 
+0129#STR0129#ALL#functional measurement devices?
+0130#STR0130#ALL#Were Special Features identified?
+0131#STR0131#ALL#maximum specifications were tested as necessary?
+0132#STR0132#ALL# Will all product tests be made internally?
+0133#STR0133#ALL#supplier approved?
+0134#STR0134#ALL#When Organization is in charge of the project, are materials of 
+0135#STR0135#ALL#thermal treatment and surface treatment specified 
+0136#STR0136#ALL#compatible with durability requirements in the environment identified?
+0137#STR0137#ALL#When necessary, are material suppliers on the list  
+0138#STR0138#ALL#approved by customer?
+0139#STR0139#ALL#Whether they are checked internally, is the test equipment 

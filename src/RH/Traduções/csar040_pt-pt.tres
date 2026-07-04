@@ -1,0 +1,21 @@
+0001#STR0001#ALL#Relação de Pontos do Cargo e do Empregado
+0002#STR0002#ALL#Sera impresso de acordo com os parâmetro s solicitados pelo
+0003#STR0003#ALL#Utilizador.
+0004#STR0004#ALL#Filial + Registo
+0006#STR0006#ALL#C. Custo+ Nome
+0007#STR0007#ALL#Função + Nome
+0009#STR0009#ALL#Código de barras
+0010#STR0010#ALL#Administração
+0011#STR0011#ALL#                                             pontuação    no.   
+0012#STR0012#ALL#Fil. registo   nome do empregado            cargo  funç anos   % empr
+0013#STR0013#ALL# pontuação de empregados 
+0014#STR0014#ALL#Total de empregados           : 
+0015#STR0015#ALL#Total de pontos do cargo        : 
+0016#STR0016#ALL#A Seleccionar Registos...
+0017#STR0017#ALL#Total de pontos dos empregados  : 
+0018#STR0018#ALL#A Seleccionar Registos...
+0019#STR0019#ALL#Empregado
+0021#STR0021#ALL#Pontos Empr.
+0023#STR0023#ALL#% Empr.
+0024#STR0024#ALL#Total de empregados
+0025#STR0025#ALL#Este relatório emite a relação de pontos do categoria e do empregado.

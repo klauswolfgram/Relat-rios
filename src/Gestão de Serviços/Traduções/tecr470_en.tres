@@ -1,0 +1,22 @@
+0001#STR0001#ALL#SO/Product list       
+0002#STR0002#ALL#   This program will print the list of SOs by Product,    
+0003#STR0003#ALL#according to parameters selected. 
+0004#STR0004#ALL#
+0005#STR0005#ALL#Product
+0006#STR0006#ALL#Occurrence/Problem 
+0007#STR0007#ALL#Z.Form 
+0008#STR0008#ALL#Management   
+0009#STR0009#ALL#SERV.ORD.   TYPE     CUSTOMER  ISSUED     CPG PRODUCT         SERIAL NBR.          PROBLEM                                 S.O.       CURRENCY                                                                            
+0010#STR0010#ALL#          IT PRODUCT         DESCRIPTION                                                                           ORDER       QUANTITY   UNIT PRICE          CUSTOMER AMNT   MANUFACTURER AMNT       WARRANTY TOTAL AMNT.
+0011#STR0011#ALL# [ PRODUCT ] 
+0012#STR0012#ALL# [ OCCURRENCE/PROBLEM  ] 
+0013#STR0013#ALL#CANCELLED BY OPERATOR  
+0014#STR0014#ALL#PRODUCT TOTAL    
+0015#STR0015#ALL#OCCURRENCE/PROBLEM TOTAL    
+0016#STR0016#ALL#GRAND TOTAL
+0017#STR0017#ALL#Occurrence
+0018#STR0018#ALL#Customer amnt
+0019#STR0019#ALL#Manufacturer amn
+0020#STR0020#ALL#Total amnt.
+0021#STR0021#ALL#Service order items      
+0022#STR0022#ALL#Service order sub-items      

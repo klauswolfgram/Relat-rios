@@ -1,0 +1,18 @@
+0001#STR0001#ALL#Acompanhamento - Ordens De Produção
+0002#STR0002#ALL#Este programa irá imprimir a Relação das Ordens de Produção.
+0003#STR0003#ALL#Cancelado Pelo Operador
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#Sem Defeito
+0007#STR0007#ALL#Ensaio                               Carta Tot. Med. Autorizados. Reprovados Plano Amostragem
+0008#STR0008#ALL#Inspeccionar
+0009#STR0009#ALL#Certificar
+0011#STR0011#ALL#Número       P R O D U T O                                                Un. Med.    Emissão      Entrega     Entrega       Quantidade          Saldo A      St Tp  Roteiro  Insp. / Certif.  Relatório
+0012#STR0012#ALL# PRevista        Real         Original         Entregar 
+0013#STR0013#ALL#Relatório da operação:
+0014#STR0014#ALL#Relatório laboratório:
+0015#STR0015#ALL#Total de medições:
+0016#STR0016#ALL#Plano de amostragem
+0018#STR0018#ALL#Sem Relatório
+0019#STR0019#ALL#Saldo A Entregar
+0020#STR0020#ALL#Histórico

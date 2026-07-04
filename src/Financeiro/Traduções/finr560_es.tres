@@ -1,0 +1,47 @@
+0001#STR0001#ALL#El objetivo de este programa es imprimir un 
+0002#STR0002#ALL#informe de movimientos de Caja Chica de acuerdo con
+0003#STR0003#ALL#los parametros informados por el usuario.
+0004#STR0004#ALL#Movimiento de caja chica
+0005#STR0005#ALL#A Rayas
+0006#STR0006#ALL#Administracion
+0007#STR0007#ALL#Descripcion                     Usuario          Comprobante  Num. Interno  Numero de   Fecha de             Valor
+0008#STR0008#ALL#           Rendido
+0009#STR0009#ALL#                                                              de Movimiento Anticipo    Registro                       
+0010#STR0010#ALL#*** ANULADO POR EL OPERADOR ***
+0011#STR0011#ALL#Caja chica 
+0012#STR0012#ALL#Detalles del anticipo
+0013#STR0013#ALL#Saldo de Movimientos de Caja Chica
+0014#STR0014#ALL#Total Gastos ---->
+0015#STR0015#ALL#Total General Gastos ---->
+0016#STR0016#ALL#Gasto
+0017#STR0017#ALL#Anticipo
+0018#STR0018#ALL#Ant. 
+0019#STR0019#ALL#Dev. Anticipo
+0020#STR0020#ALL#Reposicion
+0021#STR0021#ALL#Transf. por cierre
+0022#STR0022#ALL#Dev. por cierre caja subordinada
+0023#STR0023#ALL#Repos. caja subordinada
+0024#STR0024#ALL#Reposicion anulada
+0025#STR0025#ALL#Reposicion - esperando autorizacion
+0026#STR0026#ALL#Reposicion - esperando baja de titulo
+0027#STR0027#ALL#Reversion de Gasto
+0028#STR0028#ALL#Descripcion
+0029#STR0029#ALL#Usuario
+0030#STR0030#ALL#Comprobante
+0031#STR0031#ALL#Nro. Interno
+0032#STR0032#ALL#de Movimiento
+0033#STR0033#ALL#Numero de
+0034#STR0034#ALL#Antici.
+0035#STR0035#ALL#Fecha de
+0036#STR0036#ALL#Digitacion
+0037#STR0037#ALL#Valor
+0038#STR0038#ALL#Dado de baja
+0039#STR0039#ALL#Saldo Anterior de la Caja Menor
+0040#STR0040#ALL#Saldo de la Caja menor en el Dia
+0041#STR0041#ALL#Codigo
+0042#STR0042#ALL#Empresa
+0043#STR0043#ALL#Unidad de Negocio
+0044#STR0044#ALL#Sucursal
+0045#STR0045#ALL#Sucursales seleccionadas para el informe
+0046#STR0046#ALL#Sucursal : 
+0047#STR0047#ALL#Saldo

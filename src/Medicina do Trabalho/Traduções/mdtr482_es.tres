@@ -1,0 +1,49 @@
+0001#STR0001#ALL#Informe del resultado de los examenes por centro de costos        
+0002#STR0002#ALL#Demostrativo de resultados de exames realizados dentro de un      
+0003#STR0003#ALL#periodo, clasificados por Centro de Costo y resultado del examen. 
+0004#STR0004#ALL#A Rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#Resultado de Examenes Por C. de Costo
+0007#STR0007#ALL#Centro de Costo          Descripcion
+0008#STR0008#ALL#Admis.
+0009#STR0009#ALL#Period
+0010#STR0010#ALL#Cambio
+0011#STR0011#ALL#Retorn
+0012#STR0012#ALL#Despid
+0013#STR0013#ALL#       Examen       Descripcion                                Resultado  Descripcion                                 Matricula  Funcionario                               Realizacion  Modalidad
+0014#STR0014#ALL#ANULADO POR EL OPERADOR
+0015#STR0015#ALL#Cliente..: 
+0016#STR0016#ALL#Codigo
+0017#STR0017#ALL#Centro de Costo
+0018#STR0018#ALL#Exam.
+0019#STR0019#ALL#Descripcion
+0020#STR0020#ALL#Obs.:
+0021#STR0021#ALL#Resultado
+0022#STR0022#ALL#Matricula
+0023#STR0023#ALL#Empleado
+0024#STR0024#ALL#Realizac.
+0025#STR0025#ALL#Modalid.
+0026#STR0026#ALL#Cliente
+0027#STR0027#ALL#Nomb
+0028#STR0028#ALL#Observac.
+0029#STR0029#ALL#¿De Cliente ?
+0030#STR0030#ALL#Tienda
+0031#STR0031#ALL#¿A Cliente ?
+0032#STR0032#ALL#Codigo del cliente. Elcampo puede permanecer vacio para considerar desde el primer codigo.
+0033#STR0033#ALL#Codigo de la tienda del cliente. El campo puede permanecer vacio para considerar desde el primer codigo.
+0034#STR0034#ALL#Codigo del cliente. El campo puede rellenarse con la letra Z hasta el final para considerar el ultimo codigo.
+0035#STR0035#ALL#Codigo de la tienda del cliente. El campo puede rellenarse con la letra Z hasta el final para considerar el ultimo codigo.
+0036#STR0036#ALL#Examenes
+0037#STR0037#ALL#Observacion: 
+0038#STR0038#ALL#No hay nada para imprimir en el informe.
+0039#STR0039#ALL#Cliente/Tienda: 
+0040#STR0040#ALL#¿De Centro de Costo ?
+0041#STR0041#ALL#¿A Centro de Costo ?
+0042#STR0042#ALL#Listar Obs. ¿Examenes ?
+0043#STR0043#ALL#¿Medicina ?
+0044#STR0044#ALL#¿A Fecha Resultado     ?
+0045#STR0045#ALL#¿De Fecha Resultado ?
+0046#STR0046#ALL#¿A Resultado Examen ?
+0047#STR0047#ALL#¿De Resultado Examen ?
+0048#STR0048#ALL#¿A Examen ?
+0049#STR0049#ALL#¿De Examen ?

@@ -1,0 +1,49 @@
+0001#STR0001#ALL#Informe de Costos de los Examenes realizados. Por medio de los parametros
+0002#STR0002#ALL#el usuario podra seleccionar el centro de costo, proveedor, examen,
+0003#STR0003#ALL#y obtener los costos de los examenes realizados en el periodo.
+0004#STR0004#ALL#A Rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#Costos de Examenes realizados
+0007#STR0007#ALL#Codigo Nombre del Proveedor
+0008#STR0008#ALL#  Examen  Nombre del Examen                          Cantidad              Costo
+0009#STR0009#ALL#ANULADO POR EL OPERADOR
+0010#STR0010#ALL#Total del Proveedor
+0011#STR0011#ALL#Empresa...: 
+0012#STR0012#ALL#C.Costo...: 
+0013#STR0013#ALL#Total del Centro de Costo
+0014#STR0014#ALL#Total de la Empresa
+0015#STR0015#ALL#Total general
+0016#STR0016#ALL#¿De Cliente?
+0017#STR0017#ALL#Codigo del cliente. El campo puede permanecer vacio para considerar desde el primer codigo.	
+0018#STR0018#ALL#Tienda
+0019#STR0019#ALL#Codigo de la tienda del cliente. El campo puede permanecer vacio para considerar desde el primer codigo.	
+0020#STR0020#ALL#¿A Cliente?
+0021#STR0021#ALL#Codigo del cliente. El campo puede rellenarse con la letra Z hasta el final para considerar el ultimo codigo.	
+0022#STR0022#ALL#Codigo de la tienda del cliente. El campo puede rellenarse con la letra Z hasta el final para considerar el ultimo codigo.
+0023#STR0023#ALL#Cliente/Tienda: 
+0024#STR0024#ALL#¿A Fecha de Resul. ?
+0025#STR0025#ALL#¿De Fecha de Resul. ?
+0026#STR0026#ALL#¿A Examen ?
+0027#STR0027#ALL#¿De Examen ?
+0028#STR0028#ALL#¿A  Proveedor ?
+0029#STR0029#ALL#¿De Proveedor ?
+0030#STR0030#ALL#¿A Centro de Costo ?
+0031#STR0031#ALL#¿De Centro de Costo ?
+0032#STR0032#ALL#Codigo de la Tienda del Proveedor. El campo puede permanecer vacio para considerar desde el primer codigo.
+0033#STR0033#ALL#Codigo de la Tienda del Proveedor. El campo puede rellenarse con la letra Z hasta el final para considerar el ultimo codigo.
+0034#STR0034#ALL#Cliente
+0035#STR0035#ALL#Nombre
+0036#STR0036#ALL#Centro de Costo
+0037#STR0037#ALL#C.Costo
+0038#STR0038#ALL#Descripcion
+0039#STR0039#ALL#Proveedor
+0040#STR0040#ALL#Examenes
+0041#STR0041#ALL#¿De Examen ?
+0042#STR0042#ALL#Nombre del Examen
+0043#STR0043#ALL#Cantidad
+0044#STR0044#ALL#Costo
+0045#STR0045#ALL#Total del Cliente:
+0046#STR0046#ALL#Empresa
+0047#STR0047#ALL#Procesando Archivo...
+0048#STR0048#ALL#Codigo  Tienda  Nombre del Proveedor
+0049#STR0049#ALL#No existen nada para imprimir en el informe

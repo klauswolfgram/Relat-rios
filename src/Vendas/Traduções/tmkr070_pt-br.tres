@@ -1,0 +1,26 @@
+0001#STR0001#ALL#Chamados relacionados
+0002#STR0002#ALL#Telemarketing
+0003#STR0003#ALL#Itens - Atendimento
+0004#STR0004#ALL#Itens compartilhados
+0005#STR0005#ALL#Informe o chamado inicial               
+0006#STR0006#ALL#Do chamado
+0007#STR0007#ALL#Informe o chamado final                 
+0008#STR0008#ALL#Até o chamado
+0009#STR0009#ALL#Data inicial para a consulta            
+0010#STR0010#ALL#Da data
+0011#STR0011#ALL#Data final para a consulta              
+0012#STR0012#ALL#Até a data
+0013#STR0013#ALL#Relação de operadores a considerar      
+0014#STR0014#ALL#Operadores
+0015#STR0015#ALL#Codigo do cliente inicial a ser conside-
+0016#STR0016#ALL#rado no relatorio.                      
+0017#STR0017#ALL#Cliente inicial
+0018#STR0018#ALL#Loja do cliente inicial a ser considera-
+0019#STR0019#ALL#do no relatorio.                        
+0020#STR0020#ALL#Loja inicial
+0021#STR0021#ALL#Codigo do cliente final a ser considera-
+0022#STR0022#ALL#Cliente final
+0023#STR0023#ALL#Loja do cliente final a ser considerado 
+0024#STR0024#ALL# no relatorio.                          
+0025#STR0025#ALL#Loja final
+0026#STR0026#ALL#Execute o compatibilizador U_UPDTMK45 antes de utilizar este relatório

@@ -1,0 +1,26 @@
+0001#STR0001#ALL#Lista de aumentos de sueldo programados para los empleados.
+0002#STR0002#ALL#Se imprimira segun los parametros solicitados por el      
+0003#STR0003#ALL#usuario.
+0004#STR0004#ALL#Matricula
+0005#STR0005#ALL#Func. 
+0006#STR0006#ALL#Centro de Costo
+0007#STR0007#ALL#A Rayas
+0008#STR0008#ALL#Administrac. 
+0009#STR0009#ALL#Aumentos de sueldo program.  
+0010#STR0010#ALL#Seleccion. Registros...  
+0011#STR0011#ALL#FIL     MATRIC NOMBRE DEL EMPLEADO                  SUELDO CAT FUNCIÓN                    CENTRO DE COSTO
+0012#STR0012#ALL#SUC     MATRIC NOMBRE DEL EMPLEADO                  SUELDO CAT CENTRO DE COSTO
+0013#STR0013#ALL#SUC     MATRIC NOMBRE DEL EMPLEADO                  SUELDO CAT FUNCIÓN
+0014#STR0014#ALL#Seleccion. Registros...  
+0015#STR0015#ALL#FUNCION:
+0016#STR0016#ALL#CENTRO DE COSTO: 
+0017#STR0017#ALL#    DT.AUMENTO TP.AUMENTO         AUMENTO EN %        SUELDO CAT FUNCION                     CARGO                      ACTUALIZADO
+0018#STR0018#ALL#SI
+0019#STR0019#ALL#NO
+0020#STR0020#ALL#Empleado   
+0021#STR0021#ALL#Cat
+0022#STR0022#ALL#Func. 
+0023#STR0023#ALL#Fc.Aumento
+0024#STR0024#ALL#Tp.Aumento
+0025#STR0025#ALL#Cargo
+0026#STR0026#ALL#Favor utilizar el compatibilizador RHUPDCSA, opcion 'Ajustar Campos para sueldo' para ajuste da tabla RB7

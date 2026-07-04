@@ -1,0 +1,24 @@
+0001#STR0001#ALL#Relaçäo dos Enderecos do Solicitante
+0002#STR0002#ALL#Emissao dos Enderecos do Solicitante
+0003#STR0003#ALL#Ira imprimir os dados dos Enderecos do Solicitante
+0004#STR0004#ALL#de acordo com a configuracao do usuario.
+0005#STR0005#ALL#Zebrado
+0006#STR0006#ALL#Administracao
+0007#STR0007#ALL# DDD Telefone        Seq. Endereco   Endereco        Bairro          Municipio       Estado Cep     
+0008#STR0008#ALL# - Telefone : 
+0009#STR0009#ALL#*** CANCELADO PELO OPERADOR ***
+0010#STR0010#ALL#Criando Índice...
+0011#STR0011#ALL#Nome : 
+0012#STR0012#ALL#Relacao dos Enderecos do Solicitante
+0013#STR0013#ALL#Emissao dos Enderecos do Solicitante
+0014#STR0014#ALL#Solicitante
+0015#STR0015#ALL#Nome
+0016#STR0016#ALL#DDD
+0017#STR0017#ALL#Telefone
+0018#STR0018#ALL#Endereco
+0019#STR0019#ALL#Seq.Endereco
+0020#STR0020#ALL#Bairro
+0021#STR0021#ALL#Municipio
+0022#STR0022#ALL#UF
+0023#STR0023#ALL#Cep
+0024#STR0024#ALL#Cod.Sol.

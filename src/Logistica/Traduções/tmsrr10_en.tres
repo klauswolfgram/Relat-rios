@@ -1,0 +1,43 @@
+0001#STR0001#BRA#Good with rebroker
+0002#STR0002#BRA#Documents indicated to delivery and delivered
+0003#STR0003#BRA#Documents delivered
+0004#STR0004#BRA#Documents indicated to delivery
+0005#STR0005#BRA#Selected documents
+0006#STR0006#BRA#Attention
+0007#STR0007#BRA#There is no information for indicated parameters!
+0008#STR0008#BRA#*** CANCELLED BY OPERATOR ***
+0009#STR0009#BRA#Rebroker:
+0010#STR0010#BRA#Code 
+0011#STR0011#BRA#Unit 
+0012#STR0012#BRA#Name 
+0013#STR0013#BRA#Branch
+0014#STR0014#BRA#Doc.
+0015#STR0015#BRA#Series
+0016#STR0016#BRA#Sender Name
+0017#STR0017#BRA#Recip. Name
+0018#STR0018#BRA#Entry Dt.
+0019#STR0019#BRA#Deliv.Term
+0020#STR0020#BRA#Delivery Date
+0021#STR0021#BRA#Due days
+0022#STR0022#BRA#Volume Amount
+0023#STR0023#BRA#Value of Good
+0024#STR0026#BRA#Enter initial rebroker
+0025#STR0027#BRA#Rebroker from 
+0026#STR0028#BRA#Enter unit of initial rebroker
+0027#STR0029#BRA#Enter final rebroker
+0028#STR0030#BRA#Rebroker to 
+0029#STR0031#BRA#Enter unit of final rebroker
+0030#STR0032#BRA#Enter initial period
+0031#STR0033#BRA#Period from 
+0032#STR0034#BRA#Enter final period
+0033#STR0035#BRA#Period to 
+0034#STR0036#BRA#Enter document status
+0035#STR0037#BRA#Document Status
+0036#STR0038#BRA#Unit from 
+0037#STR0039#BRA#Unit to 
+0038#STR0040#ALL#Dt. Issue
+0039#STR0041#ALL#Redisp.Dt.
+0040#STR0042#ALL#Redisp.Nr.
+0041#STR0043#ALL#Last Occurrence
+0042#STR0044#ALL#Redispatch Branch
+0043#STR0045#ALL#Protected Data - Restrict Access: This user does not have permission to access the data of this routine. For further details, contact the system administrator.

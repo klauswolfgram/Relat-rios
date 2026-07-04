@@ -1,0 +1,33 @@
+0001#STR0001#ALL#Position Report
+0002#STR0002#ALL#The Positions Report displays all the information registered for  
+0003#STR0003#ALL#employees according to the parameters entered by the user.        
+0004#STR0004#ALL#Position
+0005#STR0005#ALL#Z.Form
+0006#STR0006#ALL#Management
+0007#STR0007#ALL#Report of Positions by Functional Group
+0008#STR0008#ALL#POSITION DESCRIPTION                      GROUP DESCRIPTION                      DEPT     DESCRIPTION                      COST CENTER     
+0009#STR0009#ALL#POSITION DETAILED DESCRIPTION
+0010#STR0010#ALL# *** No Detailed Description of Position *** 
+0011#STR0011#ALL#GRADUAT. OF POSITION
+0012#STR0012#ALL#FACTOR DESCRIPTION                   DEGREE DESCRIPTION 
+0013#STR0013#ALL#DETAILED DESCRIPT. OF FACTOR
+0014#STR0014#ALL# *** No Detailed Description for this Factor *** 
+0015#STR0015#ALL#POSIT. COURSES
+0016#STR0016#ALL#COURSE DESCRIPTION                   VALIDIDY  MIN HOUR MIN MARK MIN FREQ  PRIORITY      
+0017#STR0017#ALL#*** No Course in this Position ***
+0018#STR0018#ALL#*** No Graduation for this Position ***
+0019#STR0019#ALL#POINTS
+0020#STR0020#ALL#T O T A L:
+0021#STR0021#ALL#DESCRIPTION OF THE POSITION RESPONSIBILITIES
+0022#STR0022#ALL# *** There is no Description of the Position Responsibilities *** 
+0023#STR0023#ALL#DESCRIPTION OF THE POSITION INTERNAL RELATIONSHIP
+0024#STR0024#ALL# *** There is no Description of the Position Internal Relationship *** 
+0025#STR0025#ALL#DESCRIPTION OF THE POSITION SKILLS
+0026#STR0026#ALL# *** There is no Description of the Position Skills** 
+0027#STR0027#ALL#COMPETENCE/ABILITIES    
+0028#STR0028#ALL#COD.     ITEM     COD.     DESCRIPT.                                                       SCALE   DESCRIPT.              ITEM     DESCRIPT.              DEGR   DESCRIPT.              ITEM   DESCRIPT.
+0029#STR0029#ALL#COMPET   COMPET    ABIL.   OF  ABILITY                                                             OF SCALE                SCALE   ITEM  SCALE            IMP.   DEGR IMPORTANCE        IMP.   ITEM IMPORTANCE 
+0030#STR0030#ALL#*** There is no Competence/Ability for this position  ***
+0031#STR0031#ALL#Dept.
+0032#STR0032#ALL#Score total    
+0033#STR0033#ALL#Course

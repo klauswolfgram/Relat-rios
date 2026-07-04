@@ -1,0 +1,51 @@
+0001#STR0001#ALL#This program will print the Trial Balance of 
+0002#STR0002#ALL#according to the parameters entered by the user.      
+0003#STR0003#ALL#Checking Trial Balance   
+0004#STR0004#ALL#|  CODE                       |      D E S C R I P T .                          |    PREVIOUS BALANCE            |    DEBIT        |      CREDITO      |    PERIOD MOVEMENT            |         CURR.BALANCE               |
+0004#STR0004#MEX#|  CODE                     |      D E S C R I P T.                             |    PREVIOUS BALANCE            |    DEBIT        |      CREDIT      |    PERIOD MOVEMENT       |         CURR. BALANCE               |
+0005#STR0005#ALL#|  CODE                 |   D  E  S  C  R  I  P  T  .    |   PREVIOUS BALANCE|      DEBIT     |      CREDIT    |   CURR.BALANCE    |
+0005#STR0005#MEX#|  CODE               |   D  E  S  C  R  I  P  T.        |   PREVIOUS BALANCE   |      DEBIT    |      CREDIT   |   CURR. BALANCE     |
+0006#STR0006#ALL#DETAILED TRIAL BALANCE OF 
+0007#STR0007#ALL#SUMMARIZED TRIAL BALANCE OF 
+0008#STR0008#ALL#TRIAL BALANCE OF 
+0009#STR0009#ALL# FROM 
+0010#STR0010#ALL# TO  
+0011#STR0011#ALL# ON 
+0012#STR0012#ALL# (BUDGET)
+0013#STR0013#ALL#(MANAGERIAL)
+0014#STR0014#ALL#Creating temporary file ...  
+0015#STR0015#ALL#Z. form
+0016#STR0016#ALL#Management   
+0017#STR0017#ALL#*****CANCELLED BY THE OPERATOR*****
+0018#STR0018#ALL#Period totals:     
+0019#STR0019#ALL#G R O U P   T O T A L S     (
+0020#STR0020#ALL#Totals of 
+0021#STR0021#ALL# Account 
+0022#STR0022#ALL#DIV.
+0023#STR0023#ALL#Please, fill in the parameters Revenues/Expenses GroupS and Prev. Revenues/Expenses Bln Dt or 
+0024#STR0024#ALL#leave the parameter IgnorPrev.Rev./Exp.Dt= No  
+0025#STR0025#ALL#Ignor Prev.Rec/DesBln
+0026#STR0026#ALL#Acct.
+0027#STR0027#ALL#Reduced code 
+0028#STR0028#ALL#Descript.
+0029#STR0029#ALL#Code  
+0030#STR0030#ALL#Previous blnce
+0031#STR0031#ALL#Debit 
+0031#STR0031#MEX#Debit
+0032#STR0032#ALL#Credit 
+0032#STR0032#MEX#Credit
+0033#STR0033#ALL#Period movement     
+0034#STR0034#ALL#Current bln
+0035#STR0035#ALL#higher  
+0036#STR0036#ALL#Group
+0037#STR0037#ALL#Type 
+0038#STR0038#ALL#Level 1
+0039#STR0039#ALL#Total
+0040#STR0040#ALL#P R E V I O U S
+0041#STR0041#ALL#D E B I T      
+0041#STR0041#MEX#D E B I T    
+0042#STR0042#ALL#C R E D I T    
+0042#STR0042#MEX#C R E D I T  
+0043#STR0043#ALL#M O V E M E N T  
+0044#STR0044#ALL#CURRENT  
+0045#STR0045#ALL#The parameter -Print Cost Center ? - is marked as synthetic. Thereby, Analytical Cost Center transactions will not be printed, only their sum.

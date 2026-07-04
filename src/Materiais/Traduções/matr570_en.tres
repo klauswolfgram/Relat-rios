@@ -1,0 +1,32 @@
+0001#STR0001#ALL#Billing - Executed/Estimated
+0002#STR0002#ALL#This report will show the Invoicing list,
+0003#STR0003#ALL#separated into Estimated and Real.
+0004#STR0004#ALL#Z.Form
+0005#STR0005#ALL#Management
+0006#STR0006#ALL#BILLING - EXECUTED x ESTIMATED
+0007#STR0007#ALL# (Deduc.ICM)
+0008#STR0008#ALL#BRAN.CODE          NAME       REAL         AMOUNT          PRICE     T O T A L                   V A R I A T I O N
+0009#STR0009#ALL#                                      ESTIMATED                                               AMOUNT         PRICE          VALUE
+0010#STR0010#ALL#CANCELLED BY THE OPERATOR
+0011#STR0011#ALL#G R A N D  T O T A L ---> 
+0012#STR0012#ALL#FREIGHT : 
+0013#STR0013#ALL#INSUR. : 
+0014#STR0014#ALL#Selecting records ...
+0015#STR0015#ALL#BRANCH TOTAL   
+0016#STR0016#ALL#Estimated/Actual billing 
+0017#STR0017#ALL#This report will list the billing,                 
+0018#STR0018#ALL#Estimated Billing and Actual Billing.    
+0019#STR0019#ALL#ActualQty.
+0020#STR0020#ALL#ActualPric
+0021#STR0021#ALL#ActualTota
+0022#STR0022#ALL#Estim. Qty.
+0023#STR0023#ALL#Estim.Price
+0024#STR0024#ALL#Estim.Total
+0025#STR0025#ALL#Var.Qty.
+0026#STR0026#ALL#Price Var.
+0027#STR0027#ALL#Amount Var.
+0028#STR0028#ALL#Branch total    
+0029#STR0029#ALL#Frght
+0030#STR0030#ALL#Insur.
+0031#STR0031#ALL#Selecting records ...    
+0032#STR0032#ALL#Product information

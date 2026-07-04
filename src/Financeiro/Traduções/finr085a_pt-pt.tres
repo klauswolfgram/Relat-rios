@@ -1,0 +1,38 @@
+0001#STR0001#ALL#Este Programa Imprime As Ordens De Pagamento
+0002#STR0002#ALL#Impressão Das Ordens De Pagamento
+0003#STR0003#ALL#Código de barras
+0004#STR0004#ALL#Administração
+0005#STR0005#ALL#A Seleccionar Registos...
+0006#STR0006#ALL#*** cancelado pelo operador ***
+0007#STR0007#ALL#Ordem de pgt nr 
+0008#STR0008#ALL#Beneficiário: 
+0009#STR0009#ALL#Ordem De Pagamento Dos Seguintes Documentos:
+0010#STR0010#ALL#Pre/número                      valor pago  mda   vencto      valor em 
+0011#STR0011#ALL#Lucros
+0012#STR0012#ALL#Ent. Br.
+0013#STR0013#ALL#I.v.a.
+0014#STR0014#ALL#Emitido certificado de retenção de 
+0015#STR0015#ALL# nr 
+0016#STR0016#ALL#Descontados Os Seguintes Adiantamentos/créditos:
+0017#STR0017#ALL#Número                               valor  mda   emissão     valor em 
+0018#STR0018#ALL#No seguinte detalhe (cheques-efectivo-transferências):
+0020#STR0020#ALL#Cheques De Terceiros Entregues:
+0021#STR0021#ALL#Número                     Valor   Mda   Banco   Agência   Conta         Cliente
+0022#STR0022#ALL#Por Valor De Pagamento Antecipado De Títulos:
+0023#STR0023#ALL#Número                     Valor   Mda
+0024#STR0024#ALL#Total em 
+0025#STR0025#ALL#Taxas em 
+0026#STR0026#ALL#I.R.C.
+0027#STR0027#ALL#Segurança Social
+0028#STR0028#ALL#*** documento cancelado ***
+0029#STR0029#ALL#Pgt.cancelado
+0031#STR0031#ALL#Despesas do pagamento : 
+0032#STR0032#ALL#Tipo de despesa           valor pago  mda 
+0033#STR0033#ALL#Títulos a receber compensados
+0034#STR0034#ALL#PAGO POR MEIO DE CBU
+0039#STR0039#ALL#VALOR EN 
+0042#STR0042#ALL#EMISION
+0046#STR0046#ALL#CUENTA
+0048#STR0048#ALL#SUCURSAL
+0050#STR0050#ALL#TIPO DE GASTO
+0051#STR0051#ALL#VAL PAGADO

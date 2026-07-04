@@ -1,0 +1,32 @@
+0001#STR0001#ALL#This program will print the Ledger Account Comparative from 2 to 6    
+0002#STR0002#ALL#months. The values are related to the movemet of the required period. 
+0003#STR0003#ALL#Ledger Accountd Comparative up to 6 months
+0004#STR0004#ALL#|  CODE                       |   D  E  S  C  R  I  P  T  .    |   MOV. PERIOD  01   |   MOV. PERIOD  02   |   MOV. PERIOD  03   |   MOV. PERIOD  04   |   MOV. PERIOD  05   |   MOV. PERIOD  06   |      GRAND TOTAL       |
+0005#STR0005#ALL#DETAILED COMPARATIVE OF  
+0006#STR0006#ALL# TO  
+0007#STR0007#ALL# IN 
+0008#STR0008#ALL#SUMMARIZED COMPARATIVE OF 
+0009#STR0009#ALL# ATTENTION 
+0010#STR0010#ALL#***** CANCELLED BY OPERATOR  *****
+0011#STR0011#ALL#T O T A L S  O F  P E R I O D  : 
+0012#STR0012#ALL#COMPARATIVE OF 
+0013#STR0013#ALL#Z. Form
+0014#STR0014#ALL#Management
+0015#STR0015#ALL#Creating Temporary File...
+0016#STR0016#ALL#T O T A L S  O F  G R O U P (
+0017#STR0017#ALL#If it doesn´t updates the basic balances
+0018#STR0018#ALL#when typing the entries   (MV_ATUSAL='N'),
+0019#STR0019#ALL#run the balances updating rouitne for 
+0020#STR0020#ALL#all periods required in this 
+0021#STR0021#ALL#report.
+0022#STR0022#ALL#The required period exceeds the limit of 6 months.
+0023#STR0023#ALL#Only the period of 6 months from the initial date will be printed.
+0024#STR0024#ALL#Please, check if the accounting calendar and currency X calendar link 
+0025#STR0025#ALL#were registered correctly...
+0026#STR0026#ALL#ACCRUED  
+0027#STR0027#ALL#TO 
+0028#STR0028#ALL#      GRAND TOTAL       |
+0029#STR0029#ALL#Ledger Account
+0030#STR0030#ALL#Position Prev LP = Yes. 
+0031#STR0031#ALL#Enter date of Results Calculation 
+0032#STR0032#ALL#Consider Results Calculation 

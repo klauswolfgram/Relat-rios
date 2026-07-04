@@ -1,0 +1,13 @@
+0001#STR0001#ALL#Emite o relatório de cotações em aberto por ordem
+0002#STR0002#ALL#De número, artigo e valor do menor para o maior.
+0003#STR0003#ALL#Cotações Em Aberto
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#Relação Das Cotações Em Aberto
+0007#STR0007#ALL#    Produto     Fornec Lj   Valor Presente  Pe Desvio| Fornec Lj   Valor Presente  Pe Desvio| Fornec Lj   Valor Presente  Pe Desvio
+0008#STR0008#ALL#A Seleccionar Registos...
+0009#STR0009#ALL#Cotação n.º 
+0010#STR0010#ALL# vencimento 
+0011#STR0011#ALL#    Não Cotado
+0012#STR0012#ALL#    produto     fornec               lj   valor presente   pe desvio | fornec               lj   valor presente   pe desvio | fornec               lj   valor presente   pe desvio |                  
+0015#STR0015#ALL#Artigo e fornecedor da cotação

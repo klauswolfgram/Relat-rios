@@ -1,0 +1,11 @@
+0001#STR0001#ALL#This will print the List of Products, calculating the Turnover of   
+0002#STR0002#ALL#stock and sales. Should be entered the
+0003#STR0003#ALL#from/to and number the months to be considered.     
+0004#STR0004#ALL#Inventory Turnover
+0005#STR0005#ALL#Z.form 
+0006#STR0006#ALL#Management   
+0007#STR0007#ALL#Product code    Descript.                  SU Group Balan Invent.   Invent.Turnover 
+0008#STR0008#ALL#Sell 
+0009#STR0009#ALL#Month 
+0010#STR0010#ALL#Products
+0011#STR0011#ALL#Number of month higher than 12 months is not allowed.

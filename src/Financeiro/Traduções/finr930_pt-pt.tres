@@ -1,0 +1,14 @@
+0001#STR0001#ALL#Imprime relação de títulos a pagar de impostos 
+0002#STR0002#ALL#(pis, cofins e csll), exibindo os títulos que 
+0003#STR0003#ALL#Originaram aglutinação e o título aglutinador.
+0004#STR0004#ALL#Aglutinação De Impostos A Pagar
+0005#STR0005#ALL#Código de barras
+0006#STR0006#ALL#Administração
+0007#STR0007#ALL#A Seleccionar Registos...
+0008#STR0008#ALL#Relação De Títulos Movimentados Por Aglutinação
+0009#STR0009#ALL#Prf.Nr.      Pç.Tipo Cd.For.    Lj   Nome Fornecedor      Natureza   Dt.Emissão Dt.Venc.  Cód.Ret.           Valor
+0010#STR0010#ALL#*** cancelado pelo operador ***
+0012#STR0012#ALL#Título aglutinado : 
+0013#STR0013#ALL#Títulos liquidados  : 
+0014#STR0014#ALL#           sub-total (processo) 
+0015#STR0015#ALL#           total geral :

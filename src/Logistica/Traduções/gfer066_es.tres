@@ -1,0 +1,28 @@
+0001#STR0001#ALL#GFE - Saldo de flete
+0002#STR0002#ALL#Emite el listado del saldo de conocimientos de fleete según los parámetros informados.
+0003#STR0003#ALL#Emisores de transporte
+0004#STR0004#ALL#Emisor
+0005#STR0005#ALL#Nombre
+0006#STR0006#ALL#Teléfono
+0007#STR0007#ALL#Email
+0008#STR0008#ALL#Documentos de flete
+0009#STR0009#ALL#Sucursal
+0010#STR0010#ALL#Especie
+0011#STR0011#ALL#Emisor
+0012#STR0012#ALL#Serie
+0013#STR0013#ALL#Nº Doc Flete
+0014#STR0014#ALL#Fch Emisión
+0015#STR0015#ALL#Fch Entrada
+0016#STR0016#ALL#Remitente
+0017#STR0017#ALL#Nombre remitente
+0018#STR0018#ALL#Destinatario
+0019#STR0019#ALL#Nombre destinatario
+0020#STR0020#ALL#Sucursal factura
+0021#STR0021#ALL#Emisor factura
+0022#STR0022#ALL#Nombre emisor factura
+0023#STR0023#ALL#Serie factura
+0024#STR0024#ALL#Nº Factura
+0025#STR0025#ALL#Fch Integra Fin
+0026#STR0026#ALL#Valor
+0027#STR0027#ALL#Total emisor
+0028#STR0028#ALL#Total general

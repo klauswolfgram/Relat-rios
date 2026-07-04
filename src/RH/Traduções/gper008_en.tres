@@ -1,0 +1,40 @@
+0001#STR0001#ALL#Health Plan Calculation Report
+0002#STR0002#ALL#It will be printed in accordance with the parameters requested 
+0003#STR0003#ALL#by the user.
+0004#STR0004#ALL#Cost Center + Registration
+0005#STR0005#ALL#Company: 
+0006#STR0006#ALL#Registration
+0007#STR0007#ALL#Name
+0008#STR0008#ALL#Enter a Reference date smaller or equal to Payroll Jurisdiction!
+0009#STR0009#ALL#Type          Registr/Sequ Name                           Entry          Suppl.Type          Supplier               Plan Type              Plan Code             Value Empl   Value Company           Total
+0010#STR0010#ALL#Branch: 
+0011#STR0011#ALL#C. Center: 
+0012#STR0012#ALL#Sitting Member
+0013#STR0013#ALL#Dependant
+0014#STR0014#ALL#Hired
+0015#STR0015#ALL#Plans
+0016#STR0016#ALL#Co-participation
+0017#STR0017#ALL#Refund
+0018#STR0018#ALL#Medical Assistance
+0019#STR0019#ALL#Dental Assistance
+0020#STR0020#ALL#Salary Range
+0021#STR0021#ALL#Age Range
+0022#STR0022#ALL#Fixed Value per life
+0023#STR0023#ALL#% on salary
+0024#STR0024#ALL#C O S T  C E N T E R  T O T A L
+0025#STR0025#ALL# C O M P A N Y  T O T A L       
+0026#STR0026#ALL# B R A N C H    T O T A L         
+0027#STR0027#ALL#Jurisdiction: 
+0028#STR0028#ALL#Attention
+0029#STR0029#ALL#Run the compatibilizer option related to the New Health Plan. For more information, check the respective Technical Newsletter.
+0030#STR0030#ALL#OK
+0031#STR0031#ALL#Entered period not registered! 
+0032#STR0032#ALL#Period: 
+0033#STR0033#ALL#THERE IS NO REGISTERED COST CENTER
+0034#STR0034#ALL#Salary/Age
+0035#STR0035#ALL#Salary/Time
+0036#STR0036#ALL#Reg Type/Seq Name Entry Supp Tp Plan Tp Plan Cd Func Vl Company Vl. Total Remaining
+0037#STR0037#ALL#Period not found!
+0038#STR0038#ALL#Remaining co-payment balance: BRL
+0039#STR0039#ALL#Collective Labor Convention:
+0040#STR0040#ALL#CCT + Branch + Cost Center

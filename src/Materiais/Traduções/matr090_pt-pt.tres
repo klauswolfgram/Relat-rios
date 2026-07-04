@@ -1,0 +1,33 @@
+0001#STR0001#ALL#Itens de Facturas
+0002#STR0002#ALL#Este relatório irá imprimir a relação de itens
+0003#STR0003#ALL#Referentes a compras efectuadas.
+0004#STR0004#ALL# fornecedor         
+0005#STR0005#ALL# data de digitação  
+0006#STR0006#ALL# tipo+grupo+código  
+0007#STR0007#ALL# grupo+código   
+0008#STR0008#ALL#Código de barras
+0009#STR0009#ALL#Administração
+0010#STR0010#ALL#A Seleccionar Registos...
+0011#STR0011#ALL#Cancelado Pelo Operador
+0012#STR0012#ALL#-devoluções:
+0013#STR0013#ALL#Total crial       --> 
+0014#STR0014#ALL#Total produto     --> 
+0015#STR0015#ALL#Total grupo 
+0016#STR0016#ALL#Total tipo  
+0017#STR0017#ALL#Total factura   --> 
+0018#STR0018#ALL#Total fornecedor  --> 
+0019#STR0019#ALL#Tot. na data 
+0020#STR0020#ALL#Factura         Produto         Descrição                            Quantidade Um      Pr.unitário  Iva             Valor Icms  Código Razão Social                             Tp Tes Tp  Grupo  Data Dig.          Custo Amz
+0021#STR0021#ALL#Factura         Produto         Descrição                            Quantidade Um      Pr.unitário  Iva             Valor Icms  Código               Razão Social               Tp Tes Tp  Grupo  Data Dig.          Custo Amz
+0022#STR0022#ALL#Factura         Produto         Descrição                            Quantidade Um      Pr.unitário    Imp.ninc.            Valor     Imp.inc. Código Nome Reduzido              Tp Tes Tp  Grupo  Data Dig.          Custo Amz
+0023#STR0023#ALL#Preço Unitário
+0024#STR0024#ALL#Imp.ninc.
+0025#STR0025#ALL#Imp.inc.
+0029#STR0029#ALL#Itens Do Documento De Entrada
+0030#STR0030#ALL#Itens De Devolução De Compra
+0031#STR0031#ALL#Um
+0032#STR0032#ALL#Cod.for/cli
+0034#STR0034#ALL#Tes
+0036#STR0036#ALL#Dt.dig.
+0037#STR0037#ALL#AMz
+0038#STR0038#ALL#Nota                 Artigo         Descrição                            Quantidade Um      Pr.unitário    Imp.ninc.            Valor     Imp.inc. Código Nome Reduzido      Tp Tês. Tp  Grupo  Data Dig.          Custo Armaz.

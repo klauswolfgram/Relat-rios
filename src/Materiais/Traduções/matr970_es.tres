@@ -1,0 +1,30 @@
+0001#STR0001#ALL#Emision del detalle trimestral de ventas interprovinciales
+0002#STR0002#ALL#totalizada por provincia.
+0003#STR0003#ALL#Rel.Trimestral de Operaciones Interprovinciales
+0004#STR0004#ALL#A Rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#NOTA      SR.  EMISION    DESTINATARIO                                                                                                                           VALOR            VALOR              VALOR             TOTAL
+0007#STR0007#ALL#FISCAL    RAZON                                                                                                                           SOCIAL            DIRECCION              CEP             INSCR ESTATAL    C.N.P.J.                   MERCADERIA              IPI                ICM
+0008#STR0008#ALL#Seleccionando Registros...
+0009#STR0009#ALL#TOTAL GRAL. --->
+0010#STR0010#ALL#TOTAL Prov.-> 
+0011#STR0011#ALL#Estado
+0012#STR0012#ALL#Descripcion
+0013#STR0013#ALL#Fact.
+0014#STR0014#ALL#SR.
+0015#STR0015#ALL#EMISION
+0016#STR0016#BRA#RAZON SOCIAL
+0017#STR0017#BRA#DIRECCION
+0018#STR0018#BRA#CP
+0019#STR0019#BRA#INSC.ESTATAL
+0020#STR0020#BRA#C.N.P.J
+0021#STR0021#BRA#VALOR MERCADERIA
+0022#STR0022#BRA#VALOR DE IPI
+0023#STR0023#BRA#VALOR DE ICMS
+0024#STR0024#BRA#VALOR TOTAL
+0025#STR0025#BRA#Total Estado 
+0026#STR0026#BRA#SUCUR. 
+0027#STR0027#BRA#Unidad Federacion 
+0028#STR0028#BRA#Estado + Emision + Documento
+0029#STR0029#BRA#Docum. de Salida 
+0030#STR0030#BRA#Total Sucursal

@@ -1,0 +1,15 @@
+0001#STR0001#ALL#Este Relatório Tem Por Objectivo Imprimir A Lista De Não-conformidades
+0002#STR0002#ALL#Separadas por áreas
+0003#STR0003#ALL#Lista De Não-conformidades
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#Número     Data                                         Pontos               Auditor
+0007#STR0007#ALL#Auditoria  Início     Encerram   Ref.   Real        Pos.    Obtidos   Código   Nome
+0008#STR0008#ALL#Descrição Da Auditoria
+0009#STR0009#ALL#Esta auditoria destina-se às seguintes áreas
+0010#STR0010#ALL#ÁRea                                            Norma       Item      Descrição 
+0011#STR0011#ALL#Total de não-conformidades na área ->
+0012#STR0012#ALL#Total de não-conformidades na auditoria ->
+0013#STR0013#ALL#área
+0014#STR0014#ALL#Total De Nc área
+0015#STR0015#ALL#Total De Nc Auditoria

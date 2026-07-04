@@ -1,0 +1,19 @@
+0001#STR0001#ALL#Este relatório tem como objetivo demonstrar as retenções de
+0002#STR0002#ALL#Pis, Cofins e Csll de acordo com os parametros informados pelo usuário.
+0003#STR0003#ALL#Relatorio Demonstrativo das Retencoes ref.Pis, Cofins e Csll
+0004#STR0004#ALL# Pref. Numero    Pc. Tipo  Borderô     Dt Bord.    Dt Baixa         Valor PIS       Valor COF      Valor CSL       Ret. PIS      Ret. COF       Ret. CSL       Base PCC    Processo Verif. PCC
+0005#STR0005#ALL#Rel. Demonstrativo Pis, Cofins, Csll
+0006#STR0006#ALL#ZebraDo
+0007#STR0007#ALL#Administracao
+0008#STR0008#ALL#Selecionando Registros...
+0009#STR0009#ALL#*** CANCELADO PELO OPERADOR ***
+0010#STR0010#ALL#Total --> 
+0011#STR0011#ALL#Total Geral: 
+0012#STR0012#ALL#Fornecedor : 
+0013#STR0013#ALL# (continuação...)
+0014#STR0014#ALL#Código
+0015#STR0015#ALL#Rel. Demonstrativo Pis, Cofins, Csll (Filiais selecionadas para o relatorio)
+0016#STR0016#ALL#Filial : 
+0017#STR0017#ALL#Empresa
+0018#STR0018#ALL#Unidade de Negócio
+0019#STR0019#ALL#Filial

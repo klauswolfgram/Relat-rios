@@ -1,0 +1,52 @@
+0001#STR0001#ALL#Impressao da Averbação de Seguro
+0002#STR0002#ALL#Emite a relacao de Averbação de Seguro
+0003#STR0003#ALL#conforme os parâmetros informados.
+0004#STR0004#ALL#Averbação de Seguro
+0005#STR0005#ALL#Zebrado
+0006#STR0006#ALL#Administracao
+0007#STR0007#ALL#Aguarde. Gerando arquivo de trabalho...
+0008#STR0008#ALL#Selecionando Registros...
+0009#STR0009#ALL#  EMISSAO  NUMERO   SERIE FRT  DEVEDOR                        VLR.MERC.  SERVICO             REGIAO ORIGEM                  REGIAO DESTINO                 RAMO SEG.                   TARIFA            PREMIO
+0010#STR0010#ALL#CANCELADO PELO OPERADOR
+0011#STR0011#ALL#Averbação de Seguro - Ramo de Seguro : 
+0012#STR0012#ALL#Região 
+0013#STR0013#ALL# - 
+0014#STR0014#ALL#Total Regiao 
+0015#STR0015#ALL#Total : 
+0016#STR0016#ALL#TOTAL GERAL  -->
+0017#STR0017#ALL#Averbação de Seguro por parte do Cliente
+0018#STR0018#ALL#TOTAL AVERBAÇÃO POR PARTE DO CLIENTE  -->
+0019#STR0019#ALL#Filial de Origem de ?
+0020#STR0020#ALL#Filial de Origem até ?
+0021#STR0021#ALL#Data de emissão de ?
+0022#STR0022#ALL#Data de emissão até ?
+0023#STR0023#ALL#Componente de seguro de ?
+0024#STR0024#ALL#Componente de seguro até ?
+0025#STR0025#ALL#Impressao da Averbação de Seguro
+0026#STR0026#ALL#Emite a relacao de Averbação de Seguro conforme os parâmetros informados.
+0027#STR0027#ALL#Ramo + Origem + Destino
+0028#STR0028#ALL#Documento
+0029#STR0029#ALL#Emissão
+0030#STR0030#ALL#Fil.Doc.
+0031#STR0031#ALL#Docto
+0032#STR0032#ALL#Serie
+0033#STR0033#ALL#Frete
+0034#STR0034#ALL#Devedor
+0035#STR0035#ALL#Loja
+0036#STR0036#ALL#Nome
+0037#STR0037#ALL#Val.Merc.
+0038#STR0038#ALL#Serv.
+0039#STR0039#ALL#Desc.Serv.
+0040#STR0040#ALL#Cod.Orig.
+0041#STR0041#ALL#Reg.Orig.
+0042#STR0042#ALL#Cod.Dest.
+0043#STR0043#ALL#Reg.Dest.
+0044#STR0044#ALL#Ramo
+0045#STR0045#ALL#Descrição
+0046#STR0046#ALL#Tarifa
+0047#STR0047#ALL#Prêmio
+0048#STR0048#ALL#Total da Região
+0049#STR0049#ALL#Total do Ramo
+0050#STR0050#ALL#Ramo de Seguro
+0051#STR0051#ALL#Total por parte do Cliente
+0052#STR0052#ALL#Aglutinar Prêmio?

@@ -1,0 +1,122 @@
+0001#STR0001#ALL#Registro del reloj
+0002#STR0002#ALL#Se imprimira de acuerdo con los parametros solicitados por el
+0003#STR0003#ALL#usuario.
+0004#STR0004#ALL#Matricula
+0005#STR0005#ALL#Centro de costo
+0006#STR0006#ALL#Nombre
+0007#STR0007#ALL#Turno
+0008#STR0008#ALL#A Rayas
+0009#STR0009#ALL#Administracion
+0010#STR0013#ALL#Firma del empleado
+0011#STR0014#ALL#T O T A L E S
+0012#STR0015#ALL#Cod Descripcion              Calc.            Cod Descripcion              Calc.          
+0013#STR0016#ALL#Cod Descripcion                       Infor.  Cod Descripcion                       Infor.
+0014#STR0017#ALL#Cod Descripcion              Calc.    Infor.  Cod Descripcion              Calc.    Infor.
+0015#STR0018#ALL#** Excepcion no Trabajada **
+0016#STR0019#ALL#** Feriado **
+0017#STR0020#ALL#** Ausente **
+0018#STR0021#ALL#** D.S.R. **
+0019#STR0022#ALL#** Compensado **
+0020#STR0023#ALL#** No Trabajado **
+0021#STR0024#ALL#Emp...: 
+0022#STR0025#ALL# Matr..: 
+0023#STR0026#ALL#  Nº de tarjeta: 
+0024#STR0027#ALL#Direcc: 
+0025#STR0028#ALL# Nombre: 
+0026#STR0029#ALL#RCPJ...: 
+0027#STR0030#ALL# Función: 
+0028#STR0031#ALL#C.C...: 
+0029#STR0032#ALL# Categ.: 
+0030#STR0033#ALL#Turno.: 
+0031#STR0034#ALL#   FECHA   DIA     
+0032#STR0035#ALL#a E. 
+0033#STR0036#ALL#a S. 
+0034#STR0037#ALL#Motivo de Abono           Horas  Tipo da marcacion
+0035#STR0038#ALL#C.Costo + Nombre
+0036#STR0039#ALL#Periodo de apunte no valido.
+0037#STR0040#ALL#Consultar marcaciones
+0038#STR0041#ALL#Motivo de abono
+0039#STR0042#ALL#Fecha
+0040#STR0043#ALL#Dia
+0041#STR0044#ALL#&#170;E.
+0042#STR0045#ALL#&#170;S.
+0043#STR0046#ALL#Observaciones
+0044#STR0047#ALL#Horas  Tipo de marcacion
+0045#STR0048#ALL#Turno 
+0046#STR0049#ALL#Turnos: 
+0047#STR0050#ALL#Proceso + Matricula
+0048#STR0051#ALL#Depto.: 
+0049#STR0052#ALL#Seleccione la opcion de impresion: 
+0050#STR0053#ALL#Por Periodo
+0051#STR0054#ALL#Por Fechas
+0052#STR0055#ALL#Proceso: 
+0053#STR0056#ALL#Periodo: 
+0054#STR0057#ALL#Procedim.: 
+0055#STR0058#ALL#Num.Pago: 
+0056#STR0059#ALL#Informado                 Horas
+0057#STR0060#ALL#Departamento
+0058#STR0061#ALL#Departamento + Nombre
+0059#STR0062#ALL#Abono
+0060#STR0063#ALL#Observación
+0061#STR0064#ALL#Código
+0062#STR0065#ALL#Descripción
+0063#STR0066#ALL#Cálc.
+0064#STR0067#ALL#Infor.
+0065#STR0068#ALL#H.E.
+0066#STR0069#ALL#Absent.
+0067#STR0070#ALL#Ad. Noct.
+0068#STR0071#ALL#Empresa: 
+0069#STR0072#ALL#Matrícula: 
+0070#STR0073#ALL#Nº de tarjeta: 
+0071#STR0074#ALL#Nombre: 
+0072#STR0075#ALL#RCPJ: 
+0073#STR0076#ALL#Función: 
+0074#STR0077#ALL#C.C.: 
+0075#STR0078#ALL#Categoría 
+0076#STR0079#ALL#Turno: 
+0077#STR0080#ALL#Para este informe el parámetro MV_COLMARC debe ser inferior o igual a 5.
+0078#STR0081#ALL#Banco de horas
+0079#STR0082#ALL#Saldo anterior
+0080#STR0083#ALL#Débito
+0081#STR0084#ALL#Crédito
+0082#STR0085#ALL#Saldo actual
+0083#STR0086#ALL#Atención
+0084#STR0087#ALL#El período informado no corresponde con el período actual. ¿Aun así, desea continuar?
+0085#STR0088#ALL#Sit...: 
+0086#STR0089#ALL#Período: 
+0087#STR0090#ALL#CON LICENCIA
+0088#STR0091#ALL#VACACIONES
+0089#STR0092#ALL#TRANSFERIDO
+0090#STR0093#ALL#DESPEDIDO
+0091#STR0094#ALL#NORMAL
+0092#STR0095#ALL#CEI : 
+0093#STR0096#ALL#RCPF: 
+0094#STR0097#ALL#Motivo de abono horas
+0095#STR0098#ALL#Hr.Val
+0096#STR0099#ALL#Saldo valorizado
+0097#STR0100#ALL#Nombre social:
+0098#STR0101#ALL#Log de ocurrencias en la integración con TAE
+0099#STR0102#ALL#No fue posible efectuar la autenticación en el TAE
+0100#STR0103#ALL#Verifique los parámetros MV_SIGNURL, MV_RHTAEUS y MV_RHTAEPW
+0101#STR0104#ALL#LIB desactualizada
+0102#STR0105#ALL#Para ejecutar la integración con el Totvs Firma electrónica es necesario que la LIB esté actualizada con una versión igual o superior al 02/12/2021
+0103#STR0106#ALL#Impresiones de relojes registradores enviados:
+0104#STR0107#ALL#Impresiones de relojes registradores no enviados:
+0105#STR0108#ALL#E-mail no registrado. No se envió la solicitud de firma al colaborador.
+0106#STR0109#ALL#Solicitud enviada a
+0107#STR0110#ALL#Acceda a la opción "Config. Firma Electr." en la rutina Control de Impresión del Reloj Registrador para configurar el usuario y contraseña de integración con el Totvs Firma Electrónica
+0108#STR0111#ALL#Horarios
+0109#STR0112#ALL#Admisión:
+0110#STR0113#ALL#Jornada
+0111#STR0114#ALL#No se pudo realizar el upload del archivo para el TAE.
+0112#STR0115#ALL#Registros no considerados
+0113#STR0116#ALL#Hora del registro
+0114#STR0117#ALL#Motivo
+0115#STR0118#ALL#Leyenda de los registros: O: Original, I: incluida, P: Predefinida
+0116#STR0119#ALL#Exento de registro
+0117#STR0120#ALL#Verifique si el usuario utilizado para la integración tiene permiso para enviar archivos.
+0118#STR0121#ALL#El archivo fue bloqueado por el firewall del servidor donde está hospedado el TAE.
+0119#STR0122#ALL#Al utilizar la notificación vía WhatsAPP/SMS podrá generarse un costo adicional, verifique si su contrato ya tiene esta funcionalidad. ¿Desea continuar?
+0120#STR0123#ALL#La notificación se envió al celular del colaborador.
+0121#STR0124#ALL#Saldo anterior valorizado
+0122#STR0125#ALL#Saldo actual valorizado

@@ -1,0 +1,27 @@
+0001#STR0001#ALL#Este programa emitira la situacion valorizada de
+0002#STR0002#ALL#bienes hasta en 5 (cinco)mon.
+0003#STR0003#ALL#situac. Valorizada Bienes  
+0004#STR0004#ALL#C. Costo             Cod. Base  Item Tp Descripc. sintetica               Adquis. Fc.Baja  Cantidad Placa        Vlr. Ampliac.   Vlr. Original   Vlr. Actualiz.  Deprec. al mes Deprec. al Ejerc.  Deprec. Acumulada Ts Dep.  
+0005#STR0005#ALL#Cta.                 Cod. Base  Item Tp Descripc. sintetica               Adquis. Fch.Baja   Cant.   Placa        Vlr. Ampliac.   Valor Orig.     Vlr. Actual.   Deprec. al Mes Deprec. al Ejerc. Deprec. Acumulada Ts. Dep. 
+0006#STR0006#ALL#      VLR AMPLIACION    VALOR ORIGINAL    VALOR ACTUALIZADO  DEPREC AL MES  DEPREC.AL EJERC.    DEPREC. ACUMULADA   CORR.MON. MES  CORR. MON.EJERC.  CORR. MONET. ACUM.  CORR.DEPR. MES  CORR.DEPR.EJERC.  CORR. DEPR.  ACUM.
+0007#STR0007#ALL#Cuenta  : 
+0008#STR0008#ALL#C.Costo : 
+0009#STR0009#ALL#ANULADO POR EL OPERADOR
+0010#STR0010#ALL#TOTAL 
+0011#STR0011#ALL#CANTIDAD  
+0012#STR0012#ALL#* *   T O T A L   G E N E R A L  * *
+0013#STR0013#ALL#CANTIDAD  
+0014#STR0014#ALL#A Rayas
+0015#STR0015#ALL#Administrac. 
+0016#STR0016#ALL#Cta. 
+0017#STR0017#ALL#C Costo
+0018#STR0018#ALL# por 
+0019#STR0019#ALL# - TIPO 
+0020#STR0020#ALL#Para utilizac. crear indice SN4 - Clave N4_FILIAL + N4_CBASE + N4_ITEM + N4_TIPO + N4_OCORR + DTOS(N4_DATA).
+0021#STR0021#ALL#Item Contable
+0022#STR0022#ALL#Clase de Valor
+0023#STR0023#ALL#Cta.                 Cod. Base  Item Tp Descripc. sintetica                 Adquis.    Fc.Baja     Cantidad    Chapa  C.Costo   Cl.Valor.   
+0024#STR0024#ALL#Cta.                 Cod. Base  Item Tp Descripc. sintetica                 Adquis.    Fc.Baja     Cantidad    Placa  Item Ctb  C.Costo     
+0025#STR0025#ALL# - Fcha de Referencia: 
+0026#STR0026#ALL#Procesando... 
+0027#STR0027#ALL#Imprimiendo..

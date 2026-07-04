@@ -1,0 +1,102 @@
+0001#STR0001#ALL#Report of health certificates issued
+0002#STR0002#ALL#Z-Form
+0003#STR0003#ALL#Administration
+0004#STR0004#ALL#Clinical Certificate
+0005#STR0005#ALL#Name                            Registration   Medical Form     Leave St Date   Leave End Date  Doctor    Issuer         Total of Days
+0006#STR0006#ALL#Name                            Registration   Medical Form     Leave St Date   Leave End Date    Doctor  Issuer       Total Days        Total Hours
+0007#STR0007#ALL#        Cost Center    
+0008#STR0008#ALL#Cost Center Total:    
+0009#STR0009#ALL#Grand Total:
+0010#STR0010#ALL#CANCELLED BY OPERATOR  
+0011#STR0011#ALL#Total per ?
+0012#STR0012#ALL#Total:
+0013#STR0013#ALL#Name
+0014#STR0014#ALL#Registration
+0015#STR0015#ALL#Med. Form
+0016#STR0016#ALL#Leave Date
+0017#STR0017#ALL#End Date
+0018#STR0018#ALL#Issuing Practitioner
+0019#STR0019#ALL#Total of Days
+0020#STR0020#ALL#Cost center    
+0021#STR0021#ALL#Descript.
+0022#STR0022#ALL#Time Total
+0023#STR0023#ALL#Branch total   
+0024#STR0024#ALL#Cost center total       
+0025#STR0025#ALL#Wait   
+0026#STR0026#ALL#Processing health certificates ...
+0027#STR0027#ALL#There is nothing to print in the report.
+0028#STR0028#ALL#From Customer?
+0029#STR0029#ALL#Customer code. Field can remain blank to consider from the first code on.
+0030#STR0030#ALL#Unit
+0031#STR0031#ALL#Customer's unit code. Field can remain blank to consider from the first code on.
+0032#STR0032#ALL#Until Customer?
+0033#STR0033#ALL#Customer code. Field can be filled with Z until the end in order to consider the last code.
+0034#STR0034#ALL#Customer's unit code. Field can be filled with Z until the end in order to consider the last code.
+0035#STR0035#ALL#ICD
+0036#STR0036#ALL#Description
+0037#STR0037#ALL#Totalize by: ?
+0038#STR0038#ALL#To Doctor?
+0039#STR0039#ALL#From Doctor?
+0040#STR0040#ALL#To Cost Center?
+0041#STR0041#ALL#From Cost Center?
+0042#STR0042#ALL#To Date?
+0043#STR0043#ALL#From Date?
+0044#STR0044#ALL#To Medical Form?
+0045#STR0045#ALL#From Medical Form?
+0046#STR0046#ALL#Customer
+0047#STR0047#ALL#Doctor
+0048#STR0048#ALL#Initial date of the period in which system checks whether leave exists.
+0049#STR0049#ALL#Final date of the period in which system checks whether leave exists.
+0050#STR0050#ALL#Branch
+0051#STR0051#ALL#Name                           Registration   Med. Record Leave Date End Dt       Issuing Doctor    Ind. Doctor    Day Total   Hours Total    CID           Description                   CID                      Additional
+0052#STR0052#ALL#Name                           Registration   Med. Record Leave Date End Date    Issuing Doctor   Day Total   Hours Total    CID           Description                   CID                      Additional
+0053#STR0053#ALL#Customer/Store: 
+0054#STR0054#ALL#Total of Days........................:  
+0055#STR0055#ALL#Total of Certificates - Company....:  
+0056#STR0056#ALL#Total of Certificates - SUS....:  
+0057#STR0057#ALL#Cost Center Total............:  
+0058#STR0058#ALL#Grand Total................:  
+0059#STR0059#ALL#        Doctor
+0060#STR0060#ALL#Name                            Registration   Medical Form     Leave Date Ind End Date Doctor    Day Total   Hours Total    CID           Description                   CID                      Additional
+0061#STR0061#ALL#Name                            Registration   Medical Form     Leave Date End Date    Day Total   Hours Total    CID           Description                   CID                      Additional
+0062#STR0062#ALL#Total per Doctor......................:  
+0063#STR0063#ALL#Total per Doctor:    
+0064#STR0064#ALL#Grand Total:    
+0065#STR0065#ALL#Ind. Doctor
+0066#STR0066#ALL#Summary
+0067#STR0067#ALL#Customer Summary:
+0068#STR0068#ALL#Total of Certificates - Private:  
+0069#STR0069#ALL#Total of Certificates - Health care Plan...:  
+0070#STR0070#ALL#Cost Center Summary:
+0071#STR0071#ALL#Doctor Summary:
+0072#STR0072#ALL#Branch Summary:
+0073#STR0073#ALL#Company
+0074#STR0074#ALL#SUS
+0075#STR0075#ALL#Name                           Registration   Med. Record Leave Date End Dt       Eminent Doctor    Ind. Doctor    Day Total   Hours Total    CID           Description                   CID                      Additional
+0076#STR0076#ALL#Name                           Registration   Med. Record Leave Date End Date    Eminent Doctor    Day Total   CID         Description                    CID                   Additional
+0077#STR0077#ALL#Name                            Registration   Medical Form     Leave Date Ind End Date Doctor    Day Total   Hours Total    CID           Description                   CID                      Additional
+0078#STR0078#ALL#Name                            Registration   Medical Form     Leave Date End Date    Day Total    CID           Description                   CID                      Additional
+0079#STR0079#ALL#Yes
+0080#STR0080#ALL#No
+0081#STR0081#ALL#Additional ICD
+0082#STR0082#ALL#Name                           Registration   Med. Record Leave Date End Dt       Eminent Doctor    Ind. Doctor    Day Total   Hours Total    CID           Description
+0083#STR0083#ALL#Name                           Registration   Med. Record Leave Date End Date    Eminent Doctor   Day Total   Hours Total    CID           Description
+0084#STR0084#ALL#Name                           Registration   Med. Record Leave Date End Dt       Eminent Doctor    Ind. Doctor    Day Total      CID           Description
+0085#STR0085#ALL#Name                           Registration   Med. Record Leave Date End Date    Issuing Doctor   Day Total    CID           Description
+0086#STR0086#ALL#Name                            Registration   Medical Form     Leave Date Ind End Date Doctor    Day Total    CID           Description
+0087#STR0087#ALL#Name                            Registration   Medical Form     Leave Date End Date  Day Total    CID           Description
+0088#STR0088#ALL#Name                            Registration   Medical Form     Leave Date Ind End Date Doctor    Day Total   Hours Total    CID           Description
+0089#STR0089#ALL#Name                            Registration   Medical Form     Leave Date End Date   Total   Hours Total    CID           Description
+0090#STR0090#ALL#Private
+0091#STR0091#ALL#Agreement
+0092#STR0092#ALL#Company Certificates
+0093#STR0093#ALL#SUS Certificates
+0094#STR0094#ALL#Private Certificates
+0095#STR0095#ALL#Health care Plan Certificates
+0096#STR0096#ALL#Total of Certificates - Internal...:  
+0097#STR0097#ALL#Total of Certificates - External...:  
+0098#STR0098#ALL#Internal
+0099#STR0099#ALL#External
+0100#STR0100#ALL#Internal Certificates
+0101#STR0101#ALL#External Certificates
+0102#STR0102#ALL#It indicates whether additional CID is displayed.

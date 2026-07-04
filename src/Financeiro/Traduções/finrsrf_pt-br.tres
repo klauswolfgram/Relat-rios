@@ -1,0 +1,42 @@
+0001#STR0001#ALL#Processando - DARF
+0002#STR0002#ALL#Mensagem
+0003#STR0003#ALL#Nao há dados no periodo informado
+0004#STR0004#ALL#Ok
+0005#STR0005#ALL#Vencimento inicial
+0006#STR0006#ALL#Vencimento final
+0007#STR0007#ALL#Codigo SRF inicial
+0008#STR0008#ALL#Codigo SRF final
+0009#STR0009#ALL#Agrupa por
+0010#STR0010#ALL#Período de apuração
+0011#STR0011#ALL#Numero de referência
+0012#STR0012#ALL#Filial centralizadora
+0013#STR0013#ALL#Modelo
+0014#STR0014#ALL#Receita bruta
+0015#STR0015#ALL#Percentual
+0016#STR0016#ALL#Periodicidade
+0017#STR0017#ALL#CNPJ da incorporadora
+0018#STR0018#ALL#1.Fornec./Cod.SRF
+0019#STR0019#ALL#2.Apenas Cod. SRF
+0020#STR0020#ALL#1.Comum
+0021#STR0021#ALL#2.Simples
+0022#STR0022#ALL#1.Diário
+0023#STR0023#ALL#2.Semanal
+0024#STR0024#ALL#3.Decendial
+0025#STR0025#ALL#4.Quinzenal
+0026#STR0026#ALL#5.Mensal
+0027#STR0027#ALL#6.Trimestral
+0028#STR0028#ALL#7.Quadrimestral
+0029#STR0029#ALL#8.Semestral
+0030#STR0030#ALL#9.Anual
+0031#STR0031#ALL#Seleciona Filiais ?
+0032#STR0032#ALL#1.Sim
+0033#STR0033#ALL#2.Não
+0034#STR0034#ALL#Filial : 
+0035#STR0035#ALL#DARF não pode ser gerada com valor igual ou inferior ao minimo definido no parâmetro MV_VLRETIR.
+0036#STR0036#ALL#Para emissão da DARF será considerado o CNPJ da filial centralizadora. Confirma a operação?
+0037#STR0037#ALL#CNPJ não foi localizado do cadastro da empresa, DARF será emitida na  filial Centralizadora, Confirma a operação
+0038#STR0038#ALL#CNPJ informado não confere com o CNPJ da Filial Centralizadora, DARF será emitida na  filial correspondente ao CNPJ informado, Confirma a operação
+0039#STR0039#ALL#Considera CNPJ do título?
+0040#STR0040#ALL#1.Filtrar
+0041#STR0041#ALL#2.Substituido
+0042#STR0042#ALL#Emissão DARF

@@ -1,0 +1,39 @@
+0001#STR0001#ALL#Feasibility
+0002#STR0002#ALL#Generating view. Please, wait...
+0003#STR0003#ALL#Considerations About Feasibility
+0004#STR0004#ALL#Our product quality planning team has considered the following questions, which do not intend to be fully part of the feasibility evaluation execution.
+0005#STR0005#ALL#The obtained charts and/or specifications were used to base the analysis on the capability of meeting all the specified requirements.
+0006#STR0006#ALL#All "negative" answers are supported by attached comments, which identify our concerns and/or proposed modifications, helping us to meet the specified requirements."
+0007#STR0007#ALL#YES
+0008#STR0008#ALL#CONSIDERATION
+0009#STR0009#ALL#Is the product properly defined (application requirement, etc.) to make the feasibility evaluation possible?
+0010#STR0010#ALL#Are the Engineering Performance Specifications supported as described?
+0011#STR0011#ALL#Can the product be manufactured according to the tolerances specified in design?
+0012#STR0012#ALL#Can the product be manufactured with Cpk`s that meet the specifications?
+0013#STR0013#ALL#Is there enough capacity to manufacture the product?
+0014#STR0014#ALL#Does the project allow the use of efficient material handling techniques?
+0015#STR0015#ALL#Can the product be manufactured without incurring unexpected:
+0016#STR0016#ALL#- Transforming equipment costs?
+0017#STR0017#ALL#- Tools costs?
+0018#STR0018#ALL#- Alternative manufacturing methods?
+0019#STR0019#ALL#Is it necessary to the product to use process statistic control?
+0020#STR0020#ALL#Is the process statistic control being applied on similar products?
+0021#STR0021#ALL#For similar products using statistic process control:
+0022#STR0022#ALL#- Are the processes under control and stable?
+0023#STR0023#ALL#- Can the process fullfil customer´s requirements?
+0024#STR0024#ALL#Conclusion
+0025#STR0025#ALL#Feasible
+0026#STR0026#ALL#The product can be produced according to the specifications, with no revisions.
+0027#STR0027#ALL#Updatings are recommended (see appendix).
+0028#STR0028#ALL#Not viable
+0029#STR0029#ALL#A project revision is required to manufacture the product according to the specifications.
+0030#STR0030#ALL#Approval
+0031#STR0031#ALL#Team Member/Position/Date
+0032#STR0032#ALL#Explanations/Comments
+0033#STR0033#ALL#TEAM ENGAGING WITH FEASIBILITY
+0034#STR0034#ALL#Date :
+0035#STR0035#ALL#Customer :
+0036#STR0036#ALL#Part Name :
+0037#STR0037#ALL#Part Nr. :
+0038#STR0038#ALL#Part Rev. :
+0039#STR0039#ALL#NO

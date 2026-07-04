@@ -1,0 +1,39 @@
+0001#STR0001#ALL#Report of Simulation Plan Orders.
+0002#STR0002#ALL#Through parameters, the user can perform the desired selection.
+0003#STR0003#ALL#Z-form
+0004#STR0004#ALL#Administration
+0005#STR0005#ALL#Simulation Order Report
+0006#STR0006#ALL#From Simulation Plan?
+0007#STR0007#ALL#To Simulation Plan?
+0008#STR0008#ALL#From Est. Date?
+0009#STR0009#ALL#To Est. Date? ?
+0010#STR0010#ALL#Orders finished?
+0011#STR0011#ALL#Yes
+0012#STR0012#ALL#No
+0013#STR0013#ALL#Status?
+0014#STR0014#ALL#Canceled
+0015#STR0015#ALL#Pending
+0016#STR0016#ALL#Approved
+0017#STR0017#ALL#All
+0018#STR0018#ALL#Display Checklists?
+0019#STR0019#ALL#Enter from which Simulation Plan you want to view Simulation Orders.
+0020#STR0020#ALL#Enter up to which Simulation Plan you want to view Simulation Orders. Press [F3] to select a Plan or enter 
+0021#STR0021#ALL# in this field and leave the field above blank to consider all Plans.
+0022#STR0022#ALL#Enter from which estimated date you want to view Simulation Orders.
+0023#STR0023#ALL#Enter up to which estimated date you want to view Simulation Orders.
+0024#STR0024#ALL#Indicate if you want finished Simulation Orders to be displayed.
+0025#STR0025#ALL#Enter which Simulation Order status you want to see in the report
+0026#STR0026#ALL#Indicate if you want Simulation Order checklists to be displayed.
+0027#STR0027#ALL#CANCELED BY OPERATOR
+0028#STR0028#ALL#Simulation Plan
+0029#STR0029#ALL#Date
+0030#STR0030#ALL#Status
+0031#STR0031#ALL#Finished
+0032#STR0032#ALL#Initial Date
+0033#STR0033#ALL#Initial Plan
+0034#STR0034#ALL#Canc. Date
+0035#STR0035#ALL#Final Plan
+0036#STR0036#ALL#Order
+0037#STR0037#ALL#Checklist
+0038#STR0038#ALL#Answer
+0039#STR0039#ALL#There is nothing to be printed in the report.

@@ -1,0 +1,34 @@
+0001#STR0001#ALL#Impressão das fórmulas e das tabelas utilizadas nos cálculos
+0002#STR0002#ALL#Do índice De Qualidade
+0003#STR0003#ALL#Fórmulas
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#Classes:
+0007#STR0007#ALL#Factores do Iqs:
+0008#STR0008#ALL#Factores do Iqp:
+0009#STR0009#ALL#Critérios do ignorar lote:
+0010#STR0010#ALL#Factores do Iqf:
+0011#STR0011#ALL#Não Foi Registado Nenhum índice Para Compor O Iqf.
+0012#STR0012#ALL#Sendo Iqf..: índice De Qualidade Do Fornecedor
+0013#STR0013#ALL#Iqp = ( 100 - K ) - Factor De Criticismo
+0014#STR0014#ALL#Sendo FC: Factor De Correcção, Tabulado Em Função Do IQS
+0015#STR0015#ALL#K..: Qtd. obtida em função do índice de aceitação (IA)
+0016#STR0016#ALL# QX.: Quantidade entregue com o factor x.
+0017#STR0017#ALL#Ipo = ( 1 - (somatório Ni * Di / (
+0019#STR0019#ALL#Sendo Ni: quantidade entregue em atraso (lote a lote)
+0020#STR0020#ALL#            Di: Número de dias em atraso (lote a lote)
+0021#STR0021#ALL#            NT: Quantidade total entregue no mês
+0022#STR0022#ALL#           obs: no cálculo do ipo, se o nº de dias em atraso real for maior que o nº 
+0023#STR0023#ALL#                dias definido no parâmetro MV_QDIAIPO, será utilizado este último.
+0024#STR0024#ALL#Classes de não-conformidades:
+0025#STR0025#ALL#Factor De Criticismo
+0026#STR0026#ALL#Factor K:
+0027#STR0027#ALL#Factor de correcção (Fc):
+0028#STR0028#ALL#Fórmulas do Iqf:
+0029#STR0029#ALL#Aulas
+0030#STR0030#ALL#Factores Do Iqs
+0031#STR0031#ALL#Factores Do Iqp
+0032#STR0032#ALL#Critérios Do Skip-lote
+0033#STR0033#ALL#Classes de não conformidades 
+0034#STR0034#ALL#Factor K
+0035#STR0035#ALL#Factores De Correcção

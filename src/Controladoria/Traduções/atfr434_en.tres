@@ -1,0 +1,14 @@
+0001#STR0001#ALL#Function available only for TopConnect environments.
+0002#STR0002#ALL#Function available for TReport only, please update environment and check MV_TREPORT parameter
+0003#STR0003#ALL#Initial date must be earlier than final date
+0004#STR0004#ALL#STATEMENT OF FIXED ASSET PROJECT REALIZATION
+0005#STR0005#ALL#This program prints the Statement of Fixed Asset Project Realization
+0006#STR0006#ALL#Fixed Asset Project
+0007#STR0007#ALL#Project Stage
+0008#STR0008#ALL#Project Executions
+0009#STR0009#ALL#Total
+0010#STR0010#ALL#Branch Total
+0011#STR0011#ALL#Project Total
+0012#STR0012#ALL#Stage Total
+0013#STR0013#ALL#Value to Realize
+0014#STR0014#ALL#Value Realized

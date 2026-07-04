@@ -1,0 +1,14 @@
+0001#STR0001#ALL#Este programa emitira una Clasificacion de Productos por
+0002#STR0002#ALL#Precio o Cantidad en Moneda Corriente.          
+0003#STR0003#ALL#A Rayas
+0004#STR0004#ALL#Administracion
+0005#STR0005#ALL#CLASIFICACION DE PRODUCTOS
+0006#STR0006#ALL#Clas  Codigo Producto    Descripcion del Producto                                    Cantidad    Un                 Valor
+0007#STR0007#ALL#Valor
+0008#STR0008#ALL#Cantidad
+0009#STR0009#ALL#ANULADO POR EL OPERADOR
+0010#STR0010#ALL#Total General:                                                                    Cantidad                         Valor
+0011#STR0011#ALL#Clasificando...
+0012#STR0012#ALL#Codigo 
+0013#STR0013#ALL#Detalles de Productos
+0014#STR0014#ALL#Clas  Codigo del Producto      Descripcion del Producto                                  Cantidad      Un                 Valor

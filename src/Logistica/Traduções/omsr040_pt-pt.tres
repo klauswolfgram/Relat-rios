@@ -1,0 +1,38 @@
+0001#STR0001#ALL#Prestação de contas (conferência)
+0002#STR0002#ALL#Este relatório irá imprimir a conferência realizada nas
+0003#STR0003#ALL#Cargas de acordo com os parâmetros introduzidos pelo utilizador
+0004#STR0004#ALL#Forma  Descrição                         Total              Devolução          Total A             Realizado       Diferença
+0005#STR0005#ALL#Pagto                                                                          Receber
+0006#STR0006#ALL#Carga   : 
+0007#STR0007#ALL#Veiculo : 
+0008#STR0008#ALL#Condutor : 
+0009#STR0009#ALL#Peso    :
+0010#STR0010#ALL#Volume m3 : 
+0011#STR0011#ALL#Ptos entrega : 
+0012#STR0012#ALL#Valor : 
+0013#STR0013#ALL#Data    :
+0014#STR0014#ALL# as 
+0015#STR0015#ALL#Emissão : 
+0016#STR0016#ALL#Utilizador :
+0017#STR0017#ALL#Condutor :
+0018#STR0018#ALL#Total => 
+0020#STR0020#ALL#Por Emissão
+0021#STR0021#ALL#Por Condutor
+0022#STR0022#ALL#Devoluções indefinidas :
+0023#STR0023#ALL#Cancelado Pelo Operador
+0024#STR0024#ALL#-tesouraria
+0025#STR0025#ALL#Prestação de Contas (Conferência)	
+0026#STR0026#ALL#Este relatório irá imprimir a conferência realizada nas
+0027#STR0027#ALL#Cargas de acordo com os parâmetros introduzidos pelo utilizador
+0029#STR0029#ALL#Descrição
+0030#STR0030#ALL#Devolução
+0031#STR0031#ALL#Total A Receber
+0032#STR0032#ALL#Diferença
+0034#STR0034#ALL#Por Emissão
+0035#STR0035#ALL#Por Condutor
+0036#STR0036#ALL#T o t a l =>
+0037#STR0037#ALL#Forma De Pgt
+0038#STR0038#ALL#-tesouraria
+0039#STR0039#ALL#Devoluções indefinidas :
+0041#STR0041#ALL#Detalhes Da Carga
+0042#STR0042#ALL#Conferência

@@ -1,0 +1,71 @@
+0001#STR0001#ALL#Notice of Beginning/End of Services
+0002#STR0002#ALL#If it will print according to parameters requested by the user.
+0003#STR0003#ALL#Notice of Beginning of Services
+0004#STR0004#ALL#Notice of End of Services
+0005#STR0005#ALL#NOTICE OF BEGINNING OF SERVICES
+0006#STR0006#ALL#(Art. 5 Law Nr.19.728)
+0007#STR0007#ALL#DATE
+0008#STR0008#ALL#Day
+0009#STR0009#ALL#Mon.
+0010#STR0010#ALL#Yr.
+0011#STR0011#ALL#BACKGROUND OF MEMBER
+0012#STR0012#ALL#Father Fam.Name
+0013#STR0013#ALL#Mother Fam.Name
+0014#STR0014#ALL#Names
+0015#STR0015#ALL#Identity Card
+0016#STR0016#ALL#Date from
+0017#STR0017#ALL#Birthday
+0018#STR0018#ALL#Gender
+0019#STR0019#ALL#Male = 1
+0020#STR0020#ALL#Female = 2
+0021#STR0021#ALL#Address - 
+0022#STR0022#ALL#Number
+0023#STR0023#ALL#District
+0024#STR0024#ALL#City
+0025#STR0025#ALL#Region
+0026#STR0026#ALL#Forecast
+0027#STR0027#ALL#Institution
+0028#STR0028#ALL#
+0029#STR0029#ALL#
+0030#STR0030#ALL#
+0031#STR0031#ALL#
+0032#STR0032#ALL#
+0033#STR0033#ALL#
+0034#STR0034#ALL#
+0035#STR0035#ALL#EMPLOYER IDENTIFICATION
+0036#STR0036#ALL#START DATE
+0037#STR0037#ALL#SERVICES
+0038#STR0038#ALL#Name or Company Name
+0039#STR0039#ALL#RUT
+0040#STR0040#ALL#Contract Type
+0041#STR0041#ALL#1. Undefined Term
+0042#STR0042#ALL#2. Fixed Term
+0043#STR0043#ALL#3. Construction, Work or Determined Service
+0044#STR0044#ALL#Nr. of Workers
+0045#STR0045#ALL#Nr. of Work Hours
+0046#STR0046#ALL#Company Dependents
+0047#STR0047#ALL#Weekly
+0048#STR0048#ALL#AFC EXCLUSIVE USE
+0049#STR0049#ALL#Employee Name
+0050#STR0050#ALL#Branch Name
+0051#STR0051#ALL#Date, Signature and Stamp
+0052#STR0052#ALL#AFP Receptor
+0053#STR0053#ALL#EMPLOYER DECLARATION
+0054#STR0054#ALL#I state that consigned data of this
+0055#STR0055#ALL#document are true.
+0056#STR0056#ALL#Legal Representative Signature
+0057#STR0057#ALL#Distribution: 
+0058#STR0058#ALL#Original: A.F.C.
+0059#STR0059#ALL#Copy: Employer
+0060#STR0060#ALL#NOTICE OF SERVICE INTERRUPTION
+0061#STR0061#ALL#NOTICE
+0062#STR0062#ALL#Contract type: (1)Undefined; (2)Term; (3) By construction, work or determ. service
+0063#STR0063#ALL#Service interrption date
+0064#STR0064#ALL#Cause
+0065#STR0065#ALL#(*) (1)Art. 159-1 (mutual agreement); 2)Art. 159-2 (renouncement); (3)Art. 159-4 (maturity term); (4)Art. 159-5 (finish of construction, work or service);
+0066#STR0066#ALL#(5)Art. 159-6 (fortuituos event or act of God); (6)Art. 160 (imputable to work); (7)Art. 161 (company needs); (8)Art. 171, item 1.
+0067#STR0067#ALL#National Identity
+0068#STR0068#ALL#Bill
+0069#STR0069#ALL#Contract
+0070#STR0070#ALL#Type
+0071#STR0071#ALL#Interruption (*)

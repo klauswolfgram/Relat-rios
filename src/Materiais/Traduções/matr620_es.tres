@@ -1,0 +1,23 @@
+0001#STR0001#ALL#Detalle de los pedidos por producto
+0002#STR0002#ALL#Este informe emitira el detalle de las ventas por
+0003#STR0003#ALL#orden del producto.
+0004#STR0004#ALL#A Rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#DETALLE DE LAS VENTAS POR PRODUCTO
+0007#STR0007#ALL#CODIGO          DENOMINACION                              CANTIDAD            CANTIDAD UM            DESCUENTO                 VALOR
+0008#STR0008#ALL#PRODUCTO                                                   VENDIDA           FACTURADA                                         TOTAL
+0009#STR0009#ALL#Seleccionando registros 
+0010#STR0010#ALL#ANULADO POR EL OPERADOR
+0011#STR0011#ALL#TOTAL GENERAL: 
+0012#STR0012#ALL#Lista de Pedidos por Producto
+0013#STR0013#ALL#Este informe emitira la lista de Ventas por
+0014#STR0014#ALL#orden de Produc.
+0015#STR0015#ALL#Produc.
+0016#STR0016#ALL#Denominac. 
+0017#STR0017#ALL#Ctd.Vendida
+0018#STR0018#ALL#Ctd. Factur.
+0019#STR0019#ALL#UM
+0020#STR0020#ALL#Descuen.
+0021#STR0021#ALL#Valor Total
+0022#STR0022#ALL#Selecion de Registros 	
+0023#STR0023#ALL#Pedidos por Producto

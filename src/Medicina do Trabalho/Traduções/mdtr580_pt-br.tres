@@ -1,0 +1,35 @@
+0001#STR0001#ALL#Mostrar todos os riscos a que o funcionario esta exposto atualmente.
+0002#STR0002#ALL#Zebrado
+0003#STR0003#ALL#Administracao
+0004#STR0004#ALL#Riscos por Funcionario
+0005#STR0005#ALL#      Num. Risco Agente                 Fonte Geradora          Avaliacao     Intensidade U.M.   C.Custo              Funcao Tarefa
+0006#STR0006#ALL#Funcionario.......:
+0007#STR0007#ALL#Centro de Custo...:
+0008#STR0008#ALL#Funcao............:
+0009#STR0009#ALL#Tarefas...........:
+0010#STR0010#ALL#Riscos:
+0011#STR0011#ALL#Cliente/Loja......:
+0012#STR0012#ALL#Não há nada para imprimir no relatório.
+0013#STR0013#ALL#    Num. Risco Agente                 Fonte Geradora           Avaliacao  Intensid.  U.M.   C.Custo                         Funcao                Tarefa                Ambiente
+0014#STR0014#ALL#Situacao Funcionario ?
+0015#STR0015#ALL#Ate Funcao?
+0016#STR0016#ALL#De  Funcao?
+0017#STR0017#ALL#Ate Centro Custo ?
+0018#STR0018#ALL#De  Centro Custo ?
+0019#STR0019#ALL#Considerar Risco ?
+0020#STR0020#ALL#Ate Funcionario ?
+0021#STR0021#ALL#De Funcionario ?
+0022#STR0022#ALL#De Cliente ?
+0023#STR0023#ALL#Loja
+0024#STR0024#ALL#Até Cliente ?
+0025#STR0025#ALL#Ativos
+0026#STR0026#ALL#Demitidos
+0027#STR0027#ALL#Ativos e Afast.
+0028#STR0028#ALL#Todos
+0029#STR0029#ALL#Imprimir Descrição Tarefa ?
+0030#STR0030#ALL#Todas
+0031#STR0031#ALL#Normal
+0032#STR0032#ALL#Indica se imprime a descrição da tarefa.
+0033#STR0033#ALL#    Num. Risco Agente                 Fonte Geradora           Avaliacao  Intensid.  U.M.   C.Custo                         Funcao                Tarefa                Departamento           Ambiente
+0034#STR0034#ALL#Indica se na impressão será considerado ou não os riscos que já foram eliminados.
+0035#STR0035#ALL#Departamento......:

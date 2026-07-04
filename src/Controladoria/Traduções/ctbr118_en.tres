@@ -1,0 +1,78 @@
+0001#STR0001#ALL#This program will print the Journal according 
+0002#STR0002#ALL#to parameters suggested by the user. This model is perfect 
+0003#STR0003#ALL#for Charts of Accounts whose codes are not too long.
+0004#STR0004#ALL#Z-form
+0005#STR0005#ALL#Administration
+0006#STR0006#ALL# Issue of Accounting Journal 
+0007#STR0007#ALL#Totalizers Doc / General
+0008#STR0008#ALL#Accounting entries
+0009#STR0009#ALL# Totalizer of Page Transport
+0010#STR0010#ALL#Debit Value
+0011#STR0011#ALL#Credit Value
+0012#STR0012#ALL# From Transportation====>
+0013#STR0013#ALL# GENERAL JOURNAL OF 
+0014#STR0014#ALL# TO 
+0015#STR0015#ALL#  IN 
+0016#STR0016#ALL# Grand Total============> 
+0017#STR0017#ALL# Date: 
+0018#STR0018#ALL# Total per Date 
+0019#STR0019#ALL# To be transported=======> 
+0020#STR0020#PER#FORMAT 5.1: JOURNAL
+0021#STR0021#PER#Period: 
+0022#STR0022#PER#RUC: 
+0023#STR0023#PER#Operation Reference
+0024#STR0024#PER#Ledger account related to operation
+0025#STR0025#PER#Transaction
+0026#STR0026#ALL#TOTVS
+0027#STR0027#ALL#Parámetros de Fecha Inicial y Fecha Final, están vacíos.
+0028#STR0028#ALL#Número
+0029#STR0029#ALL#Correlativo
+0030#STR0030#ALL#del Asiento
+0031#STR0031#ALL#o código
+0032#STR0032#ALL#único de la
+0033#STR0033#ALL#operación
+0034#STR0034#ALL#Fecha
+0035#STR0035#ALL#de la 
+0036#STR0036#ALL#Glosa o descripción de la operación 
+0037#STR0037#ALL#Código del
+0038#STR0038#ALL# libro 
+0039#STR0039#ALL#o registro
+0040#STR0040#ALL#Número del 
+0041#STR0041#ALL#documento
+0042#STR0042#ALL#sustentario
+0043#STR0043#ALL#Código
+0044#STR0044#ALL#Denominación
+0045#STR0045#ALL#Debe
+0046#STR0046#ALL#Haber
+0047#STR0047#ALL#COD UNICO
+0048#STR0048#ALL#FECHA OPER
+0049#STR0049#ALL#GLOSA O DESCRIPCION DE LA OPERACION
+0050#STR0050#ALL#CUENTA CONTABLE
+0051#STR0051#ALL#DESC. CUENTA
+0052#STR0052#ALL#DEBE
+0053#STR0053#ALL#HABER
+0054#STR0054#ALL#Diario Geral.
+0055#STR0055#ALL#Ha ocurrido un error durante la generación del archivo. Intente nuevamente.
+0056#STR0056#ALL#Doc Anulado
+0057#STR0057#ALL#PLAN CONTABLE GENERAL 
+0058#STR0058#ALL#EMPRESARIAL
+0059#STR0059#ALL#REVISADO
+0060#STR0060#ALL#PLAN DE CUENTAS PARA 
+0061#STR0061#ALL#EMPRESAS DEL SISTEMA FINANCIERO
+0062#STR0062#ALL#ENTIDADES PRESTADORAS DE SALUD
+0063#STR0063#ALL#EMPRESAS DEL SISTEMA ASEGURADOR
+0064#STR0064#ALL#PLAN DE CUENTAS, ADMIN. PRIVADAS DE FONDOS DE PENSIONES
+0065#STR0065#ALL#PLAN CONTABLE GUBERNAMENTAL
+0066#STR0066#ALL#OTROS
+0067#STR0067#ALL#Parameter of blank date.
+0068#STR0068#ALL#An error occurred when creating a register.
+0069#STR0069#ALL#Generating chart of accounts file...
+0070#STR0070#ALL#Generating TXT file...
+0071#STR0071#ALL#No information with the selected parameters
+0072#STR0072#ALL#Process finished.
+0073#STR0073#ALL#Total per entry
+0074#STR0074#ALL#Selecting Information...
+0075#STR0075#ALL#The text file can only be generated in PEN, change the value of question 03-Currency to '01'.
+0076#STR0076#ALL#Directorio no válido (#FERROR#). El archivo será creado en SYSTEM.
+0077#STR0077#ALL#To use a Reference Accounts Plan, specify the corresponding parameters.
+0078#STR0078#ALL#The Reference Accounts Plan parameters are not valid or do not exist.

@@ -1,0 +1,44 @@
+0001#STR0001#ALL#Este programa emitira Libro de Caja y Bancos  - Detalle de los Movimientos del Efectivo
+0002#STR0002#ALL# DE FECHA 
+0003#STR0003#ALL#Verific. del Extracto.
+0004#STR0004#ALL#Periodo: 
+0005#STR0005#ALL#RUC: 
+0006#STR0006#ALL#Apellidos y Nombres, Denominación o Razón Social: 
+0007#STR0007#ALL#Descripción
+0008#STR0008#ALL#CODIGO DE 
+0009#STR0009#ALL#Fecha de la
+0010#STR0010#ALL#Operación
+0011#STR0011#ALL#    OPERAC. 
+0012#STR0012#ALL#Codigo
+0013#STR0013#ALL#Cuenta Contable Asociada
+0014#STR0014#ALL#Denominación
+0015#STR0015#ALL#Deudor
+0016#STR0016#ALL#Saldos y Movimientos
+0017#STR0017#ALL#ACREE.
+0018#STR0018#ALL#Acreedor
+0019#STR0019#ALL#Totales
+0020#STR0020#ALL#FORMATO 1.1: 'LIBRO CAJA Y BANCOS - DETALLE DE LOS MOVIMIENTOS DEL EFECTIVO'
+0021#STR0021#ALL#Fecha Movim.
+0022#STR0022#ALL#Numero Documento
+0023#STR0023#ALL#Periodo del Informe
+0024#STR0024#ALL#Informe
+0025#STR0025#ALL#Limp.
+0026#STR0026#ALL#Sal.
+0027#STR0027#ALL#Número Correlativo del
+0028#STR0028#ALL#Registro o Código
+0029#STR0029#ALL#Por favor configurar param. MV_CXFIN e MV_CARTEIR
+0030#STR0030#ALL#No existe Movim. Efectivo en Cajas en el periodo
+0031#STR0031#ALL#Periodo sin Movim. Caja
+0032#STR0032#ALL#Seleccionando Registros - Caja
+0033#STR0033#ALL#    -     De sucursal: 
+0034#STR0034#ALL#    -     A sucursal: 
+0035#STR0035#ALL#Saldo Inicial
+0036#STR0036#ALL#Saldo final en 
+0037#STR0037#ALL#Único de la Operación
+0038#STR0038#ALL#de la
+0039#STR0039#ALL#Atención
+0040#STR0040#ALL#Archivo plano, de Libro en Efectivo, generado con éxito en 
+0041#STR0041#ALL#Generando Archivo Electrónico
+0042#STR0042#ALL#Generando Informe
+0043#STR0043#ALL#Por favor, configurar el parámetro MV_CAJALF.
+0044#STR0044#ALL#ENTIDAD: 

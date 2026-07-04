@@ -1,0 +1,80 @@
+0001#STR0001#ALL#Relatório de  projeção para substituição dos EPI's. Através dos parâmetros o    
+0002#STR0002#ALL#usuario deve informar o periodo desejado e se desejar o EPI, o programa mostrara
+0003#STR0003#ALL#uma relação com os EPI's por Funcionário e a data da Próxima Substituição.      
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#Projeção para substituição dos EPI's
+0007#STR0007#ALL#Matrícula  Nome Funcionário                           Sexo    Admissão  Idade  C.Custo              Função Entrega                     Função Atual
+0008#STR0008#ALL#     EPI                             Nome do EPI                         Data Entr.  Hora Entr. Quant. Ent. Un. Data Subst. Hora Subst. Fornecedor
+0009#STR0009#ALL#EPI                             Nome do EPI                           Fornecedor                                                
+0010#STR0010#ALL#     Matrícula  Nome Funcionário               Sexo Entrega   Qtde    Un. Dt.Subs.  Admissão  Idade   C.Custo               Função
+0011#STR0011#ALL#     Matrícula  Nome Funcionário                           Sexo  Data Entr.  Hora Entr. Quant. Ent. Un.  Data Subst. Hora Subst. Admissao Idade  C.Custo                    Função Atual
+0012#STR0012#ALL#CANCELADO PELO OPERADOR
+0013#STR0013#ALL#Funcao Entrega - 
+0014#STR0014#ALL#De Cliente ?
+0015#STR0015#ALL#Loja
+0016#STR0016#ALL#Até Cliente ?
+0017#STR0017#ALL#Cliente/Loja: 
+0018#STR0018#ALL#Matrícula  Nome Funcionário                           Sexo    Admissão Idade  C.Custo                         Função Entrega                     Função Atual
+0019#STR0019#ALL#Classificacao ?
+0020#STR0020#ALL#Até Função ?
+0021#STR0021#ALL#De Função ?
+0022#STR0022#ALL#Até Data ?
+0023#STR0023#ALL#De  Data ?
+0024#STR0024#ALL#Até EPI ?
+0025#STR0025#ALL#De  EPI ?
+0026#STR0026#ALL#    Matrícula  Nome Funcionário                     Sexo  Entrega   Qtde   Un  Dt.Subst. Admissão  Idade C.Custo                Função
+0027#STR0027#ALL#    Matrícula  Nome Funcionário                   Sexo  Entrega   Qtde   Un  Dt.Subst. Admissão  Idade C.Custo                          Função
+0028#STR0028#ALL#    Matrícula  Nome Funcionário           Sexo  Entrega   Qtde   Un  Dt.Subst. Admissão  Idade C.Custo                          Função
+0029#STR0029#ALL#    Matrícula  Nome Funcionário                     Sexo  Entrega   Qtde   Un  Dt.Subst. Admissão  Idade C.Custo     Função
+0030#STR0030#ALL#    Matrícula  Nome Funcionário                   Sexo  Entrega   Qtde   Un  Dt.Subst. Admissão  Idade C.Custo               Função
+0031#STR0031#ALL#     Matrícula  Nome Funcionário                           Sexo  Data Entr.  Hora Entr. Quant. Ent. Un.  Data Subst. Hora Subst. Admissão Idade  C.Custo  Função Entrega      Função Atual
+0032#STR0032#ALL#Ordenar Func. ?
+0033#STR0033#ALL#Matrícula
+0034#STR0034#ALL#Nome
+0035#STR0035#ALL#Informe se deseja ordenar os Funcionários pelo Número da Matrícula ou pelo Nome.
+0036#STR0036#ALL#De Filial ?
+0037#STR0037#ALL#Até Filial ?
+0038#STR0038#ALL#Não existem dados para montar o relatório.
+0039#STR0039#ALL#Filial
+0040#STR0040#ALL#Listar Epi´s que devem ser: 
+0041#STR0041#ALL#Substituídos
+0042#STR0042#ALL#Devolvidos
+0043#STR0043#ALL#Ambos
+0044#STR0044#ALL#Informe se deseja listar apenas os epi's a serem devolvidos, os que devem ser substituídos ou ambos.
+0045#STR0045#ALL#SUBSTITUÍDO
+0046#STR0046#ALL#DEVOLVIDO
+0047#STR0047#ALL#Epi não encontrado
+0048#STR0048#ALL#     EPI                             Nome do EPI                         Data Entr.  Hora Entr. Quant. Ent. Un. Data Subst. Hora Subst. Fornecedor                          Situação
+0049#STR0049#ALL#     Matrícula  Nome Funcionário                           Sexo  Data Entr.  Hora Entr. Quant. Ent. Un.  Data Subst. Hora Subst. Admissão Idade  C.Custo  Função Entrega      Função Atual         Situação
+0050#STR0050#ALL#     Matrícula  Nome Funcionário                           Sexo  Data Entr.  Hora Entr. Quant. Ent. Un.  Data Subst. Hora Subst. Admissao Idade  C.Custo                    Função Atual                    Situação
+0051#STR0051#ALL#SUBSTITUIR
+0052#STR0052#ALL#DEVOLVER
+0053#STR0053#ALL#A SUBSTITUIR
+0054#STR0054#ALL#A DEVOLVER
+0055#STR0055#ALL#Situação do EPI ?
+0056#STR0056#ALL#Substituir
+0057#STR0057#ALL#Devolver
+0058#STR0058#ALL#Nome Funcionário
+0059#STR0059#ALL#Sexo
+0060#STR0060#ALL#Admissão
+0061#STR0061#ALL#Idade
+0062#STR0062#ALL#Centro Custo
+0063#STR0063#ALL#Função Entrega
+0064#STR0064#ALL#Função Atual
+0065#STR0065#ALL#EPI
+0066#STR0066#ALL#Nome do EPI
+0067#STR0067#ALL#Data Entr.
+0068#STR0068#ALL#Hora Entr.
+0069#STR0069#ALL#Quant. Ent.
+0070#STR0070#ALL#Un.
+0071#STR0071#ALL#Data Subst.
+0072#STR0072#ALL#Hora Subst.
+0073#STR0073#ALL#Situação
+0074#STR0074#ALL#Fornecedor
+0075#STR0075#ALL#Descrição
+0076#STR0076#ALL#Filial
+0077#STR0077#ALL#Funcionários
+0078#STR0078#ALL#EPIs
+0079#STR0079#ALL#Função
+0080#STR0080#ALL#Descrição

@@ -1,0 +1,13 @@
+0001#STR0001#ALL#Price List
+0002#STR0002#ALL#This routine will print a list of prices selected
+0003#STR0003#ALL#by the User.              
+0004#STR0004#ALL# By Sort           
+0005#STR0005#ALL# By Group        
+0006#STR0006#ALL#Z.Form 
+0007#STR0007#ALL#Management   
+0008#STR0008#ALL#PRICE LIST      
+0009#STR0009#ALL# CODE             DESCRIPT. OF THE PRODUCT       UM       QTY FOR
+0010#STR0010#ALL#                                                          PACKAGE
+0011#STR0011#ALL#CANCELLED BY THE OPERATOR  
+0012#STR0012#ALL#Type
+0013#STR0013#ALL#Group

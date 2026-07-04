@@ -1,0 +1,17 @@
+0001#STR0001#ALL#This Program will print a daily Kardex with all the 
+0002#STR0002#ALL#Inventory transactions by Location ansd Serial Number.
+0003#STR0003#ALL#Kardex by Location (per product)
+0004#STR0004#ALL#Z.Form
+0005#STR0005#ALL#Management
+0006#STR0006#ALL#PRODUCT         DESCRIPTION                    WRH   LOCATION        SERIAL NUMBER        LOT        SUBLOT  DATE TRANS.   DOCUMENT   SERI. ST  OPENING BALANCE        INFLOW         OUTFLOW      BALANCE
+0007#STR0007#ALL#CANCELLED BY THE OPERATOR
+0008#STR0008#ALL#Selecting Records...
+0009#STR0009#ALL#Document
+0010#STR0010#ALL#Series
+0011#STR0011#ALL#Sto
+0012#STR0012#ALL#Initial Balan
+0013#STR0013#ALL#Inflow 
+0014#STR0014#ALL#Outflow
+0015#STR0015#ALL#Balance
+0016#STR0016#ALL#Movements by address   
+0017#STR0017#ALL#No transactions for this product

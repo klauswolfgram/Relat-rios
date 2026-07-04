@@ -1,0 +1,19 @@
+0001#STR0001#ALL#Inventario Diario
+0002#STR0002#ALL#Zebrado
+0003#STR0003#ALL#Administracao
+0004#STR0004#ALL# Inventario Diario: 
+0005#STR0005#ALL# a 
+0006#STR0006#ALL#Itens Movimentados
+0007#STR0007#ALL#Itens Nao Movimentados
+0008#STR0008#ALL#Todos os Itens
+0009#STR0009#ALL# Localiz   Grp Código            Descrição              Abc            Disponível
+0010#STR0010#ALL#Local     Grupo Codigo              Descricao                 ABC Ven/Cus  Qtdade
+0011#STR0011#ALL#Pecas sem movimentos E/S
+0012#STR0012#ALL#Secao 1
+0013#STR0013#ALL#Este programa tem como objetivo imprimir o Inventario Diario
+0014#STR0014#ALL#Localizacao
+0015#STR0015#ALL#Grupo
+0016#STR0016#ALL#Codigo
+0017#STR0017#ALL#Descricao
+0018#STR0018#ALL#ABC
+0019#STR0019#ALL#Disponivel

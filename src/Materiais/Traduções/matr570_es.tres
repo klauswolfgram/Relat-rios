@@ -1,0 +1,32 @@
+0001#STR0001#ALL#Facturacion Real/Previsto
+0002#STR0002#ALL#Este informe emitira el detalle de la Facturacion,
+0003#STR0003#ALL#emitiendo la Facturacion Prevista y la Real.
+0004#STR0004#ALL#A Rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#FACTURACION REAL vs. PREVISTA
+0007#STR0007#ALL# (Deduce.IVA-CM)
+0008#STR0008#ALL#SUC CODIGO              DENOMINACION    REAL         CANT           PRECIO     T O T A L                   V A R I A C I O N
+0009#STR0009#ALL#                                      PREVISTO                                                CANT.          PRECIO         VALOR
+0010#STR0010#ALL#ANULADO POR EL OPERADOR
+0011#STR0011#ALL#T O T A L  G E N E R A L ---> 
+0012#STR0012#ALL#FLETE : 
+0013#STR0013#ALL#SEGURO : 
+0014#STR0014#ALL#Seleccionando registros ...
+0015#STR0015#ALL#TOTAL DE LA SUCURSAL
+0016#STR0016#ALL#Facturacion Real/Prevista
+0017#STR0017#ALL#Este informe emitira la lista de facturacion, 
+0018#STR0018#ALL#con la facturacion Prevista y la Realizada.
+0019#STR0019#ALL#Cant.Real
+0020#STR0020#ALL#Precio Real
+0021#STR0021#ALL#ToTal Real
+0022#STR0022#ALL#Cant.Prev.
+0023#STR0023#ALL#Precio Prev.
+0024#STR0024#ALL#ToTal Prev.
+0025#STR0025#ALL#Cant.Var.
+0026#STR0026#ALL#Precio Var.
+0027#STR0027#ALL#Valor Var.
+0028#STR0028#ALL#Total de la Sucursal
+0029#STR0029#ALL#Flete
+0030#STR0030#ALL#Seguro
+0031#STR0031#ALL#Eligiendo Registros ...
+0032#STR0032#ALL#Datos de Productos

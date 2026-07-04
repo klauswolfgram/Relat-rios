@@ -1,0 +1,29 @@
+0001#STR0001#ALL#This program will print the Instrument Repeat./Reprod. Plan   
+0002#STR0002#ALL#Family           Instrument       Rev. Depart.  Responsible          Days  Manufacturer     Calibrat. Body   SG  |E.  R. |E.  R.   |E.  R.  |E.  R.   |E.  R.   |E.  R.   |E.  R.   |E.  R.   |E.  R.   |E.  R.   |E.  R.   |E.  R.
+0003#STR0003#ALL#Z.Form 
+0004#STR0004#ALL#Management   
+0005#STR0005#ALL#Repeat/Reprod. Plan
+0006#STR0006#ALL#Family+ Instr.+CCent.
+0007#STR0007#ALL#Family+CCenter+Instr.
+0008#STR0008#ALL#CCenter+Instr.+Family
+0009#STR0009#ALL#CANCELLED BY OEPRATOR  
+0010#STR0010#ALL#                                                                     Freq.                                     |
+0011#STR0011#ALL#Jan
+0012#STR0012#ALL#Feb
+0013#STR0013#ALL#Mar
+0014#STR0014#ALL#Apr
+0015#STR0015#ALL#May
+0016#STR0016#ALL#Jun
+0017#STR0017#ALL#Jul
+0018#STR0018#ALL#Aug
+0019#STR0019#ALL#Sep
+0020#STR0020#ALL#Oct
+0021#STR0021#ALL#Nov
+0022#STR0022#ALL#Dec
+0023#STR0023#ALL#P.   R.
+0024#STR0024#ALL#SG
+0025#STR0025#ALL#Rev.
+0026#STR0026#ALL#Depto.
+0027#STR0027#ALL#Freq.
+0028#STR0028#ALL#Days
+0029#STR0029#ALL#Calibrating Org.

@@ -1,0 +1,138 @@
+0001#STR0001#ALL#Status of Sales and Results    
+0002#STR0002#ALL#  Sale  Total  -- Taxes    --I.C.M.S.  ---I.S.S.  ---P.I.S.  ---COFINS  -----Costs   Gross Profit % LB  --JInt.Stck  ---Disb Var  --Commiss.   --Net Profit Cst/Fix Dsb  Dep Dsb/Adm  -Fin Result 
+0003#STR0003#ALL#  Sale  Total  --Taxes     --I.C.M.S.             ---P.I.S.  ---COFINS  -Cost  Vehi  Gross Prof.  % LB  --int. Stck  ---Var Disb  --Commiss.   --Net Prof.  Cst/Dsb Fix  Dep Dsb/Adm  -Fin Result 
+0004#STR0004#ALL#  Sale  Total  --Taxes     --I.C.M.S.             ---P.I.S.  ---COFINS  -----C.M.V.  Gross Profit % LB  --Int. Stck  ---Var. Dsb  --Commiss.   --Net Profit Cst/FixDsb.  Dep Dsb/Adm  -Fin Result 
+0005#STR0005#ALL#  Sale  Total  --Taxes                 ---I.S.S.  ---P.I.S.  ---COFINS  --Cost  Srv  Gross Profit % LB               ---Var.Dsib  --Commiss.   --Net Profit Cst/Fx Dsb.  Dep Dsb/Adm  -Fin Result 
+0006#STR0006#ALL# S A L E S    T O T A L    
+0007#STR0007#ALL#      G E N E R A L       
+0008#STR0008#ALL#  V  E  H  I  C  L  E  S   
+0009#STR0009#ALL# ======================== 
+0010#STR0010#ALL#New national ...     
+0011#STR0011#ALL#Old national ...     
+0012#STR0012#ALL#New imported ...     
+0013#STR0013#ALL#Used Imported ...    
+0014#STR0014#ALL#Vehicles............ 
+0015#STR0015#ALL#     P  A  R  T  S         
+0016#STR0016#ALL#    ===============        
+0017#STR0017#ALL#Parts COUNTER............. 
+0018#STR0018#ALL#Parts WORKSHOP............ 
+0019#STR0019#ALL#Public..................
+0020#STR0020#ALL#Guarantee...............
+0021#STR0021#ALL#Internal................
+0022#STR0022#ALL#Review..................
+0023#STR0023#ALL#  S  E  R  V  I  C  E  S   
+0024#STR0024#ALL# ========================  
+0025#STR0025#ALL#S U M M A R Y  O F   S A L E S   B Y    P A Y M E N T  C O N D I T I O N                       
+0026#STR0026#ALL#  P A Y M E N T            
+0027#STR0027#ALL#   C O N D I T I O N       
+0028#STR0028#ALL#XXX - CONDITION           
+0029#STR0029#ALL#Vehicles.............................
+0030#STR0030#ALL#Workshop.............................
+0031#STR0031#ALL#Counter..............................
+0032#STR0032#ALL# ------- VALUES OF PAYMENT  INFLOWS         -------- 
+0033#STR0033#ALL#  Pymnt Value
+0034#STR0034#ALL#Inflow Total Value..................... 
+0035#STR0035#ALL# O T H E R    S A L E S    
+0036#STR0036#ALL#===========================
+0037#STR0037#ALL#Services..............
+0038#STR0038#ALL#Other.................
+0039#STR0039#ALL#    R E T U R N S          
+0040#STR0040#ALL#   =====================   
+0041#STR0041#ALL#  Total Value  -- Taxes    --I.C.M.S.  ---I.S.S.  ---P.I.S.  ---COFINS  ------Cost   Gross Value  % LB
+0042#STR0042#ALL#  A C C E S.  D I S B .    
+0043#STR0043#ALL# ========================= 
+0044#STR0044#ALL#  ------Total                                     ---P.I.S.  ---Cofins
+0045#STR0045#ALL#      N E T               
+0046#STR0046#ALL#  F I X E D   A S S E T S  
+0047#STR0047#ALL# ========================= 
+0048#STR0048#ALL#  ------Total  --Taxes     --I.C.M.S.             ---P.I.S.  ---COFINS  ------Cost 
+0049#STR0049#ALL#Vehicles..............
+0050#STR0050#ALL#Other.................
+0051#STR0051#ALL#Vehicles..............
+0052#STR0052#ALL#Counter...............
+0053#STR0053#ALL#Workshop..............
+0054#STR0054#ALL# - Managerial   
+0055#STR0055#ALL# - Acctg.      
+0056#STR0056#ALL# to 
+0057#STR0057#ALL#XXX  Other         
+0058#STR0058#ALL#* * *   O P E R A T I O N   C A N C E L E D   B Y  T H E   U S E R      * * *
+0059#STR0059#ALL# S U M M A R Y -   C O S T  C E N T E R   B Y  S A L E S  R E P R E S .   
+0060#STR0060#ALL#  G R A N D   T O T A L    
+0061#STR0061#ALL# BY   SALES REPRESENTATIVE 
+0062#STR0062#ALL#Direct Invoicing ... 
+0063#STR0063#ALL#SERVICES WRKSHP       
+0064#STR0064#ALL#PARTS WRKSHP          
+0065#STR0065#ALL#PARTS COUNTER         
+0066#STR0066#ALL#OTHER  
+0067#STR0067#ALL#NEW NATIONAL VEHICLES    
+0068#STR0068#ALL#USED NATIONAL VEHICLES    
+0069#STR0069#ALL#NEW IMPORTED CARS        
+0070#STR0070#ALL#USED IMPORTED CARS        
+0071#STR0071#ALL#COUNTER 
+0072#STR0072#ALL#Public WORKSHOP 
+0073#STR0073#ALL#GuaranteeWORKSHOP 
+0074#STR0074#ALL#Internal WORKSHOP 
+0075#STR0075#ALL#Review WORKSHOP 
+0076#STR0076#ALL#         Sale Total      
+0077#STR0077#ALL#      (A)         (B)         (C)        (D)        (E)         (F)         (G)         (H)       (I)      (J)          (K)           (L)          (M)         (N)           (O)         (P)         (Q)  .
+0078#STR0078#ALL#Z-form
+0079#STR0079#ALL#Management
+0080#STR0080#ALL#Start...
+0081#STR0081#ALL#Company:
+0082#STR0082#ALL#Branch:
+0083#STR0083#ALL#Sheet:
+0084#STR0084#ALL#File:
+0085#STR0085#ALL#Printing...
+0086#STR0086#ALL#Clients ***
+0087#STR0087#ALL#SeqNr CPF/RG         Name                             Sales Total  %Sale %Retain. Total GrossPr %GrP %Retain.
+0088#STR0088#ALL#GRAND TOTAL: - Sales.....:
+0089#STR0089#ALL#             - Gross Profit:
+0090#STR0090#ALL#Items ***
+0091#STR0091#ALL#SeqNr Grp Code                      Description                Sales Amt   Sales Total  %Sale %Retain. Total GrossPr  %GrP %Retain.
+0092#STR0092#ALL#Clients ***
+0093#STR0093#ALL#Items ***
+0094#STR0094#ALL#Columns
+0095#STR0095#ALL#do not exist in this report.
+0096#STR0096#ALL#Possible options are
+0097#STR0097#ALL#Attention: Check PARAMETER 10
+0098#STR0098#ALL#Selecting Other Operations...
+0099#STR0099#ALL#Totalizing Other Operations...
+0100#STR0100#ALL#Selecting Returns...
+0101#STR0101#ALL#Totalizing Returns...
+0102#STR0102#ALL#Company:
+0103#STR0103#ALL#Branch:
+0104#STR0104#ALL#Sheet:
+0105#STR0105#ALL#File:
+0106#STR0106#ALL#Ext - External Total       
+0107#STR0107#ALL#Int - Internal Total       
+0108#STR0108#ALL# Ext - External Total      
+0109#STR0109#ALL# Int - Internal Total      
+0110#STR0110#ALL#Selecting Vehicles...
+0111#STR0111#ALL#Totalizing Vehicles...
+0112#STR0112#ALL#Selecting Counter Parts...
+0113#STR0113#ALL#Selecting Repair-Shop Parts...
+0114#STR0114#ALL#Totalizing Counter Parts...
+0115#STR0115#ALL#Totalizing Repair-Shop Parts...
+0116#STR0116#ALL#Selecting Services...
+0117#STR0117#ALL#Totalizing Services...
+0118#STR0118#ALL#Z-form
+0119#STR0119#ALL#Management
+0120#STR0120#ALL#Company: 
+0121#STR0121#ALL#   Branch: 
+0122#STR0122#ALL#Sheet:
+0123#STR0123#ALL#Vehicles..............
+0124#STR0124#ALL#Counter..............
+0125#STR0125#ALL#Repair Shop..............
+0126#STR0126#ALL# Customers *** 
+0127#STR0127#ALL#SeqNr CPF/RG Seq#         Name                             Sales Total  %Sale %Retain. Total GrossPr %GrP %Retain.
+0128#STR0128#ALL#GRAND TOTAL: - Sales.....:
+0129#STR0129#ALL#             - Gross Profit:
+0130#STR0130#ALL# Items *** 
+0131#STR0131#ALL#SeqNr Grp Code                      Description                Sales Amt   Sales Total  %Sale %Retain. Total GrossPr  %GrP %Retain.
+0132#STR0132#ALL#Ext - External Total      
+0133#STR0133#ALL#Int - Internal Total      
+0134#STR0134#ALL# Ext - External Total     
+0135#STR0135#ALL# Int - Internal Total     
+0136#STR0136#ALL#  I C M S   W I T H H E L D    
+0137#STR0137#ALL# ========================= 
+0138#STR0138#ALL#  ------Total              

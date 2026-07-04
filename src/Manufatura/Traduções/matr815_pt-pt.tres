@@ -1,0 +1,22 @@
+0001#STR0001#ALL#Relação da carga maquina 
+0002#STR0002#ALL#ESte Programa Irá Imprimir A Relaçäo Da Carga Máquina.
+0003#STR0003#ALL# o valor referente ao tempo de duração esta convertido conforme
+0004#STR0004#ALL# o parâmetro   mv_tphr, (c)entesimal ou (n)ormal.
+0005#STR0005#ALL#Por Op
+0008#STR0008#ALL#Código de barras
+0009#STR0009#ALL#Administração
+0010#STR0010#ALL#Domingo
+0011#STR0011#ALL#Segunda
+0012#STR0012#ALL#Terça
+0013#STR0013#ALL#Quarta-feira
+0014#STR0014#ALL#Quinta-feira
+0015#STR0015#ALL#Sexta-feira
+0016#STR0016#ALL#Sábado
+0017#STR0017#ALL#O.p.          Produto         Descrição                    Quantidade  Recurso                     Ferramenta            Operação                Tipo Inicio           Alocado Termino          Alocado Duração   Tempo Tp
+0018#STR0018#ALL#                                                                                                                                                 Oper Data                Hora Data                Hora           Setup Op
+0019#STR0019#ALL#A Seleccionar Registos...
+0020#STR0020#ALL#Cancelado Pelo Operador
+0021#STR0021#ALL#Nome Da Ferramenta
+0023#STR0023#ALL#Duração
+0024#STR0024#ALL#Instalar
+0025#STR0025#ALL#Operações Alocadas Carga Equipamento

@@ -1,0 +1,29 @@
+0001#STR0001#ALL#Lista de vacantes
+0002#STR0002#ALL#Se imprimirá de acuerdo con los parámetros solicitados por el
+0003#STR0003#ALL#usuario.
+0004#STR0004#ALL#Vacante
+0005#STR0005#ALL#Área
+0006#STR0006#ALL#Cliente
+0007#STR0007#ALL#A rayas
+0008#STR0008#ALL#Administración
+0009#STR0009#ALL#Lista de vacantes
+0010#STR0010#ALL#Vacante                                                       Solicitante                   Vacantes Plazo Fch Apert. Fch.Cierre Fech. Valor           Área                       Cliente  Proceso de selección
+0011#STR0011#ALL#Incluyendo saltos de centro de costo...
+0012#STR0012#ALL#CENTRO DE COSTO: 
+0013#STR0013#ALL#** No registrado **
+0014#STR0014#ALL#Vac.
+0015#STR0015#ALL#Fch.Aper.
+0016#STR0016#ALL#Fch.Final.
+0017#STR0017#ALL#Fina.
+0018#STR0018#ALL#Valor
+0019#STR0019#ALL#Proceso de Selec.
+0020#STR0020#ALL#Función
+0021#STR0021#ALL#Cant. Vacantes
+0022#STR0022#ALL#Responsable
+0023#STR0023#ALL#Plazo
+0024#STR0024#ALL#Costo de la vacante
+0025#STR0025#ALL#Solicitante
+0026#STR0026#ALL#Proceso
+0027#STR0027#ALL#Puesto
+0028#STR0028#ALL#Tipo de vacante
+0029#STR0029#ALL#Vacantes cerradas

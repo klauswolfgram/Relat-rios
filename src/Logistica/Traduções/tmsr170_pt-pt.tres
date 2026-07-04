@@ -1,0 +1,32 @@
+0003#STR0003#ALL#Código de barras
+0005#STR0005#ALL#------------------documento--------------------                                                                                   -----------------peso-----------------
+0007#STR0007#ALL#A selecionar registos ...
+0008#STR0008#ALL#Cancelado Pelo Operador
+0009#STR0009#ALL#Filial de origem : 
+0010#STR0010#ALL#Cif
+0011#STR0011#ALL#Fob
+0012#STR0012#ALL#Total Geral                     Qtde           Peso Real         Peso Cubado        Peso Cobrado          Volumes          Valor Frete
+0013#STR0013#ALL#Pagar remetente     :
+0014#STR0014#ALL#Pagar destinatario  :
+0015#STR0015#ALL#Pagar consignatario :
+0016#STR0016#ALL#Pagar despachante   :
+0017#STR0017#ALL#Pago remetente      :
+0018#STR0018#ALL#Pago destinatario   :
+0019#STR0019#ALL#Pago consignatario  :
+0020#STR0020#ALL#Pago despachante    :
+0022#STR0022#ALL#Filial + Documento + Série
+0023#STR0023#ALL#Filial + Emissão + Documento + Série
+0025#STR0025#ALL#Filial De Origem
+0029#STR0029#ALL#Série
+0031#STR0031#ALL#Fil.dest.
+0035#STR0035#ALL#Frete/cobrado
+0036#STR0036#ALL#Total Crial
+0039#STR0039#ALL#Peso Bruto
+0042#STR0042#ALL#Pago Pelo Remetente
+0043#STR0043#ALL#Pago Pelo Destinatário
+0044#STR0044#ALL#Pago Pelo Consignatário
+0045#STR0045#ALL#Pago Pelo Despachante
+0046#STR0046#ALL#Pagar Pelo Remetente
+0047#STR0047#ALL#Pagar Pelo Destinatário
+0048#STR0048#ALL#Pagar Pelo Consignatário
+0049#STR0049#ALL#Pagar Pelo Despachante

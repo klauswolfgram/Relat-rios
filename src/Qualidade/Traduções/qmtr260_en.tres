@@ -1,0 +1,12 @@
+0001#STR0001#ALL#This program will issue the inflow worksheet - Service Order     
+0002#STR0002#ALL#Inflow Workshet    
+0003#STR0003#ALL#Z.Form
+0004#STR0004#ALL#Administration
+0005#STR0005#ALL#Service Order
+0006#STR0006#ALL#Customer
+0007#STR0007#ALL#Inflow Worksheet
+0008#STR0008#ALL#|           Service order    | Inflow date     | Outflow date  | C U S T O M E R   C O D E / N A M E       | I N S T R U M E N T (S) / M A T E R I A L(S)  / N O T E S                          |Item |Inspect. 
+0009#STR0009#ALL#CANCELLED BY THE OPERATOR
+0010#STR0010#ALL#Instrument/Material 
+0011#STR0011#ALL#Notes     
+0012#STR0012#ALL#Inspection

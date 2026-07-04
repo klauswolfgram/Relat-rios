@@ -1,0 +1,40 @@
+0001#STR0001#ALL#El objetivo de este progrma es imprimir la lista de  
+0002#STR0002#ALL#vehiculos atendidos en el taller segun los parametros
+0003#STR0003#ALL#seleccionados. 
+0004#STR0004#ALL#Vehiculos Atendidos en el Taller
+0005#STR0005#ALL# [Cliente] [Nom.--------------] [Direcc. ------------------------------] [Municipio---------------Pr] [Telefono-----] [Placa-] [Revendedor--------------------------] [Municipio---------------Pr] [Region] [Telefono-----]
+0006#STR0006#ALL# ---------Chasis---------- Ch.Int -Flota- Mca -Fab/Mod- --------Modelo---------- --Descrip. Modelo--     SegMod ---Color---Combust Tipo Difer Nro Difer. RelDif Tip.Cambio Nro Cambio -Tipo de Motor- -Nro de Motor-- Permanencia
+0007#STR0007#ALL#A rayas
+0008#STR0008#ALL#Administracion
+0009#STR0009#ALL#Espere, seleccionando registro para impresion
+0010#STR0010#ALL# Marca: 
+0011#STR0011#ALL#Todas
+0012#STR0012#ALL# Familia: 
+0013#STR0013#ALL# Modelo: 
+0014#STR0014#ALL#Todos
+0015#STR0015#ALL# Propietario: 
+0016#STR0016#ALL# De: 
+0017#STR0017#ALL# a 
+0018#STR0018#ALL#*** ANULADO POR EL OPERADOR ***
+0019#STR0019#ALL#Total de Pasajes en el Periodo.: 
+0020#STR0020#ALL#¿Marca             ?
+0021#STR0021#ALL#¿Grupo             ?
+0022#STR0022#ALL#¿Modelo            ?
+0023#STR0023#ALL#¿Propietario       ?
+0024#STR0024#ALL#¿Tienda            ?
+0025#STR0025#ALL#¿Fch. Inicial      ?
+0026#STR0026#ALL#¿Fch. Final        ?
+0027#STR0027#ALL# [--OS--] [Cliente] [Nombre--------------] [Direccion-----------------------------] [Municipio---------------UF] [Telefono-----] [Placa-] [Revendedor------------------] [Municipio---------------UF] [Region] [Telefono-----]
+0028#STR0028#ALL# ---------Chasis---------- Ch.Int -Flota- Mca -Fab/Mod- --------Modelo---------- --Descripcion Modelo-- SegMod ---Color---- Combust Tipo Difer Nro Difer. RelDif Tip.Cambio Nro Cambio -Tipo de Motor- -Nro de Motor-- Permanencia
+0029#STR0029#ALL# dias
+0030#STR0030#ALL#¿Marca             ?
+0031#STR0031#ALL#¿Familia           ?
+0032#STR0032#ALL#¿Modelo            ?
+0033#STR0033#ALL#¿Propietario      ?
+0034#STR0034#ALL#¿Tienda              ?
+0035#STR0035#ALL#¿Fecha Inicial      ?
+0036#STR0036#ALL#¿Fecha Final        ?
+0037#STR0037#ALL#¿Consultor         ?
+0038#STR0038#ALL#¿Vendedor          ?
+0039#STR0039#ALL#Total de Pasajes (Contrato/Acuerdo): 
+0040#STR0040#ALL#Total de Pasajes (Sin Contr/Acuerdo): 

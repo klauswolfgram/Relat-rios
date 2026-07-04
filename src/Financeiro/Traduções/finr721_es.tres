@@ -1,0 +1,56 @@
+0001#STR0001#ALL#Emis. del inf. comparativo entre Presup. vs. Reales.
+0002#STR0002#ALL#Se analizara el mes de refer. de la fecha base
+0003#STR0003#ALL#A Rayas
+0004#STR0004#ALL#Administrac.
+0005#STR0005#ALL#Mapa Comparat. - Valores Presup. vs. Reales en
+0006#STR0006#ALL#Cod Modalidad   Descripc.
+0007#STR0007#ALL#A Realizar          Realizado       Presupuestado              %   
+0008#STR0008#ALL#Seleccionando registros..
+0009#STR0009#ALL#Total - 
+0010#STR0010#ALL#[ TOT. DEL MES  ]
+0011#STR0011#ALL#Cobrar
+0012#STR0012#ALL#Pagar
+0013#STR0013#ALL#Saldos
+0014#STR0014#ALL#A Realizar  : 
+0015#STR0015#ALL#Realizado   : 
+0016#STR0016#ALL#Total       : 
+0017#STR0017#ALL#[ TOTALES - PRESUP.]
+0018#STR0018#ALL#Por Cobrar  : 
+0019#STR0019#ALL#Por Pagar   : 
+0020#STR0020#ALL#Saldo       : 
+0021#STR0021#ALL#[ COMPARAT. - PRESUP. / REALES ]
+0022#STR0022#ALL#Realizado...:
+0023#STR0023#ALL#Total.......:
+0024#STR0024#ALL# (   Deudor   )
+0025#STR0025#ALL# (   Acreedor )
+0026#STR0026#ALL#Acumulado          Acumulado            Acumulado            %
+0027#STR0027#ALL#A Realizar (D)     Realizado (E)        Presup(F)    (D+E)/ F E / F
+0028#STR0028#ALL#[TOTALES ACUMULADOS ]
+0029#STR0029#ALL#Presupuest. : 
+0030#STR0030#ALL#   (A)                 (B)                (C)       (A+B)/ C  B / C
+0031#STR0031#ALL#Mes
+0032#STR0032#ALL#Acumulado
+0033#STR0033#ALL#Creacion de arch. temporal de trabajo
+0034#STR0034#ALL#Cobrar
+0035#STR0035#ALL#Pagar
+0036#STR0036#ALL#Saldos
+0037#STR0037#ALL#P/ Realiz.
+0038#STR0038#ALL#Realizado
+0039#STR0039#ALL#Total
+0040#STR0040#ALL#Prtado
+0041#STR0041#ALL#Acumulado
+0042#STR0042#ALL#P/ Realizar(D)
+0043#STR0043#ALL#Realizado (E)
+0044#STR0044#ALL#Prtado (F)
+0045#STR0045#ALL#Mapa Compar. - Valores Presup. vs. Reales 
+0046#STR0046#ALL#Modal. de 
+0047#STR0047#ALL#Subtotal de Modalid.
+0048#STR0048#ALL#Totales Mes
+0049#STR0049#ALL#Comparativo
+0050#STR0050#ALL#Tot. Acumulados	
+0051#STR0051#ALL#Sucursal: 
+0052#STR0052#ALL#Codigo
+0053#STR0053#ALL#Empresa
+0054#STR0054#ALL#Unidad de negocio
+0055#STR0055#ALL#Sucursal
+0056#STR0056#ALL#Sucursales seleccionadas para el informe

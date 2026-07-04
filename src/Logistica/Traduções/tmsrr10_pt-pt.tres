@@ -1,0 +1,23 @@
+0001#STR0001#BRA#Mercadoria em poder de redespachante.
+0002#STR0002#BRA#Documentos indicados para entrega e entregue.
+0003#STR0003#BRA#Documentos entregues.
+0004#STR0004#BRA#Documentos indicados para entrega.
+0005#STR0005#BRA#Documentos seleccionados.
+0007#STR0007#BRA#Não existe informação para os parâetros indicados!
+0021#STR0021#BRA#Dias Atraso
+0022#STR0022#BRA#Qtd. Volume
+0024#STR0026#BRA#Introduza o redespachante inicial.
+0026#STR0028#BRA#Introduza a loja do redespachante inicial.
+0027#STR0029#BRA#Introduza o redespachante final.
+0028#STR0030#BRA#Até Redespachante
+0029#STR0031#BRA#Introduza a loja do redespachante final.
+0030#STR0032#BRA#Introduza o período inicial.
+0031#STR0033#BRA#De Período
+0032#STR0034#BRA#Introduza o período final.
+0033#STR0035#BRA#Até Período
+0034#STR0036#BRA#Introduza o estado do documento.
+0035#STR0037#BRA#Estado do Documento
+0036#STR0038#BRA#De Loja
+0037#STR0039#BRA#Até Loja
+0038#STR0040#ALL#Dt. Emissão
+0041#STR0043#ALL#Última Ocorrência

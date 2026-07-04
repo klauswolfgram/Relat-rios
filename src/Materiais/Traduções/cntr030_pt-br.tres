@@ -1,0 +1,26 @@
+0001#STR0001#ALL#Medições
+0002#STR0002#ALL#Este relatório irá emitir uma relação de medições, exibindo suas respectivas 
+0003#STR0003#ALL#multas/bonificações, descontos e cauções retidas. Favor verificar os  
+0004#STR0004#ALL#parâmetros do relatório.
+0005#STR0005#ALL#Processando
+0006#STR0006#ALL#Medições
+0007#STR0007#ALL#Multas/Bonificações
+0008#STR0008#ALL#Descontos
+0009#STR0009#ALL#Retenção-Cauções
+0010#STR0010#ALL#Multas
+0011#STR0011#ALL#Bonificações
+0012#STR0012#ALL#Total de Multas:
+0013#STR0013#ALL#Total de Bonificações:
+0014#STR0014#ALL#Total:
+0015#STR0015#ALL#Num. Medição:
+0016#STR0016#ALL# - (Valores em 
+0017#STR0017#ALL#Medição
+0018#STR0018#ALL#Itens da Medição
+0019#STR0019#ALL#Multas e Bonificações
+0020#STR0020#ALL#Descontos
+0021#STR0021#ALL#Cauções Retidas
+0022#STR0022#ALL#Forn./Cliente
+0023#STR0023#ALL#Total Retido
+0024#STR0024#ALL#Total Baixado
+0025#STR0025#ALL#Total de Descontos
+0026#STR0026#ALL#Planilha Med. de Contratos

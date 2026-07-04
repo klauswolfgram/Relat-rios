@@ -1,0 +1,27 @@
+0001#STR0001#ALL#Relatório de Prestação de Contas
+0002#STR0002#ALL#moeda 1
+0003#STR0003#ALL#moeda 2
+0004#STR0004#ALL#moeda 3
+0005#STR0005#ALL#Saldo 1
+0006#STR0006#ALL#Saldo 2
+0007#STR0007#ALL#Saldo 3
+0008#STR0008#ALL#Não contém prestação de conta.
+0009#STR0009#ALL#Tipo de Pedido/Reserva
+0010#STR0010#ALL#Valor de Pedido/Reserva
+0011#STR0011#ALL#ID(s) Reserve
+0012#STR0012#ALL#O participante deve receber R$
+0013#STR0013#ALL#O participante deve devolver R$
+0014#STR0014#ALL#O participante deve receber US$
+0015#STR0015#ALL#O participante deve devolver US$
+0016#STR0016#ALL#O participante deve receber €
+0017#STR0017#ALL#O participante deve devolver €
+0018#STR0018#ALL#Não será necessário realizar acertos nesta moeda
+0019#STR0019#ALL#Cabeçalho
+0020#STR0020#ALL#Detalhes
+0021#STR0021#ALL#Reservas
+0022#STR0022#ALL#Resumo M1
+0023#STR0023#ALL#Resumo M2
+0024#STR0024#ALL#Resumo M3
+0025#STR0025#ALL#Pedidos
+0026#STR0026#ALL#Prestação de Contas
+0027#STR0027#ALL#A execução desse relatório deve ser somente através da rotina FINA677 (Prestação de Contas).

@@ -1,0 +1,24 @@
+0001#STR0001#ALL#Lista de la Plantilla de empleados de una empresa
+0002#STR0002#ALL#Se imprimira segun los parametros solicitados por el      
+0003#STR0003#ALL#usuario.
+0004#STR0004#ALL#Centro de Costo
+0005#STR0005#ALL#A Rayas
+0006#STR0006#ALL#Administrac. 
+0007#STR0007#ALL#     AÑO/MES     VL ACTUAL    VL PREVISTO  VL ACTUAL+CARGAS VL PREV+CARGAS  Nº ACTUAL Nº PREVISTO
+0008#STR0008#ALL#Plantilla de Empleados  
+0009#STR0009#ALL#Centro de Costo: 
+0010#STR0010#ALL#Sucurs: 
+0011#STR0011#ALL#  AÑO/MES       FUNCION                   VL.ACTUAL   VL.PREV.   ACTUAL+CARGAS PREV+CARGAS  VL.APROBADO  CTD.ACT. CTD.PREV.CTD. APR.
+0012#STR0012#ALL#Total Periodo: 
+0013#STR0013#ALL#Total Centro Costo: 
+0014#STR0014#ALL#Total Gen:   
+0015#STR0015#ALL#Plant. Empleado por Funcion
+0016#STR0016#ALL#Vl Actual+Carga
+0017#STR0017#ALL#Vl Prev.+Carga
+0018#STR0018#ALL#Total de Periodo: 
+0019#STR0019#ALL#Archivo Plantilla de Empleados    
+0020#STR0020#ALL#Nº.Act. 
+0021#STR0021#ALL#Nº.Previsto
+0022#STR0022#ALL#Este Programa emite el Informe de Plantilla de Empleados 
+0023#STR0023#ALL#Analitico
+0024#STR0024#ALL#Sintetico

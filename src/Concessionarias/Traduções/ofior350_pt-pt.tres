@@ -1,0 +1,31 @@
+0002#STR0002#ALL#De planos de revisão conforme os parâmetro s 
+0003#STR0003#ALL#Selecionados. 
+0004#STR0004#ALL#Planos De Revisão
+0005#STR0005#ALL#Código de barras
+0006#STR0006#ALL#Administração
+0007#STR0007#ALL#Aguarde A Seleccionar Registo Para Impressão
+0013#STR0013#ALL#*** cancelado pelo operador ***
+0015#STR0015#ALL# plano: 
+0016#STR0016#ALL# modelo: 
+0017#STR0017#ALL#[Grupo] [Descrição-------] [Inconveniente------] [Descrição inconv-------------] 
+0018#STR0018#ALL#[padrão] 
+0019#STR0019#ALL#[conces] 
+0020#STR0020#ALL#[padrão] [conces] 
+0021#STR0021#ALL#[valor Padrão]
+0022#STR0022#ALL#[valor Conces]
+0023#STR0023#ALL#[valor Padrão] [valor Conces]
+0024#STR0024#ALL#[seq] [cod.serviço  --] [descrição-------------------] 
+0025#STR0025#ALL#[gru] [código  Peca--------------] [descrição-------------------] [qtde] [valor Total]
+0026#STR0026#ALL#[grupo---] [descrição-------------------] [ferram. ] [descrição-------------------]
+0027#STR0027#ALL#Custo total revisão (fab).:
+0028#STR0028#ALL#Custo total revisão (con).:
+0029#STR0029#ALL#Custo total plano   (fab).:
+0030#STR0030#ALL#Custo total plano   (con).:
+0034#STR0034#ALL#Tipo de operação  ?
+0035#STR0035#ALL#Tipo de tempo     ?
+0036#STR0036#ALL#Obter tempo da    ?
+0037#STR0037#ALL#Fábrica
+0038#STR0038#ALL#Concessionária
+0040#STR0040#ALL#Data referencia   ?
+0041#STR0041#ALL#Pçs  Grp  Código do item              Descrição                    Qtd.Req.
+0042#STR0042#ALL#Srv  Tp  Grupo   Secção     Cód. Serviço    Descrição

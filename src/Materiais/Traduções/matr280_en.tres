@@ -1,0 +1,27 @@
+0001#STR0001#ALL#Inventory list
+0002#STR0002#ALL#This program will print a report that makes it easier to type
+0003#STR0003#ALL#the inventoried quantities.
+0004#STR0004#ALL#It is printed according to the selected parameters.
+0005#STR0005#ALL# By Code           
+0006#STR0006#ALL# By Type           
+0007#STR0007#ALL# By Description  
+0008#STR0008#ALL# By Group        
+0009#STR0009#ALL#Z.Form
+0010#STR0010#ALL#Management
+0011#STR0011#ALL#PRODUCT(S)
+0012#STR0012#ALL#CODE            TP GROUP DESCRIPTION                    UM WRH WAREHOUSE       LOCATION        LOT        SUB    SERIAL           ______1a. COUNTING______       ______2a. COUNTING______       ______3a. COUNTING______
+0013#STR0013#ALL#                                                               DESCRIPTION                                LOT    NUMBER           QUANTITY           LABEL       QUANTITY           LABEL       QUANTITY        LABEL   
+0014#STR0014#ALL#CANCELLED BY THE OPERATOR
+0015#STR0015#ALL#CODE            TP GRP  DESCRIPTION                    UM WRH LOCATION         __1a. COUNTING__  __2a. COUNTING__  __3a. COUNTING__ 
+0016#STR0016#ALL#                                                                               QUANTITY   LABEL  QUANTITY   LABEL  QUANTITY   LABEL 
+0017#STR0017#ALL# Per Address     
+0018#STR0018#ALL# _______1st
+0019#STR0019#ALL#Quantity
+0020#STR0020#ALL#Counting
+0021#STR0021#ALL#Label
+0022#STR0022#ALL# _______2nd
+0023#STR0023#ALL# _______3rd
+0024#STR0024#ALL#Products
+0025#STR0025#ALL#Balances by address
+0026#STR0026#ALL#CODE            TP GRP  DESCRIPTION                    UM WRH                  __1st. COUNT____  __2nd COUNT_____  __3rd COUNT_____ 
+0027#STR0027#ALL#***********End of Report************

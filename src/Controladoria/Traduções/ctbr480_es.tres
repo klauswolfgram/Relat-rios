@@ -1,0 +1,69 @@
+0001#STR0001#ALL#Este programa imprimira el mayor por
+0002#STR0002#ALL# de acuerdo con los parametros sugeridos por el usuario.
+0003#STR0004#ALL#A Rayas
+0004#STR0005#ALL#Administracion
+0005#STR0006#ALL#Emision del mayor contable por 
+0006#STR0007#ALL#MAYOR POR 
+0007#STR0008#ALL# ANALITICO EN 
+0008#STR0009#ALL#DE
+0009#STR0010#ALL#A 
+0010#STR0011#ALL#(PRESUP)
+0011#STR0012#ALL#(DE GEST. )
+0012#STR0013#ALL#LOTE/SUB/DOC/LINEA H I S T O R I A L                         XPARTIDA
+0012#STR0013#ANG#LOTE/SUB/DOC/LINEA H I S T O R I A L                         XPARTIDA
+0012#STR0013#EQU#LOTE/SUB/DOC/LINEA H I S T O R I A L                         XPARTIDA
+0012#STR0013#HAI#LOTE/SUB/DOC/LINEA H I S T O R I A L                         XPARTIDA
+0012#STR0013#MEX#LOTE/SUB/DOC/LINEA H I S T O R I A L                         XPARTIDA
+0012#STR0013#PTG#LOTE/SUB/DOC/LINEA H I S T O R I A L                         XPARTIDA
+0013#STR0014#ALL#LOTE/SUB/DOC/LINEA H I S T O R I A L                         XPARTIDA                      DEBITO          CREDITO       SALDO ACTUAL
+0013#STR0014#ANG#LOTE/SUB/DOC/LINEA H I S T O R I A L                         XPARTIDA                      DEBITO          CREDITO       SALDO ACTUAL
+0013#STR0014#EQU#LOTE/SUB/DOC/LINEA H I S T O R I A L                         XPARTIDA                      DEBITO          CREDITO       SALDO ACTUAL
+0013#STR0014#HAI#LOTE/SUB/DOC/LINEA H I S T O R I A L                         XPARTIDA                      DEBITO          CREDITO       SALDO ACTUAL
+0013#STR0014#MEX#LOTE/SUB/DOC/LINEA H I S T O R I A L                         XPARTIDA                      DEBITO          CREDITO       SALDO ACTUAL
+0013#STR0014#PTG#LOTE/SUB/DOC/LINEA H I S T O R I A L                         XPARTIDA                      DEBITO          CREDITO       SALDO ACTUAL
+0014#STR0015#ALL#***** ANULADO POR EL OPERADOR *****
+0015#STR0016#ALL#ITEM  - 
+0016#STR0017#ALL#T o t a l  
+0017#STR0018#ALL#Creando archivo temporal...
+0018#STR0019#ALL#FECHA
+0019#STR0020#ALL#T o t a l  de la  C u e n t a ==> 
+0020#STR0021#ALL# SINTETICO EN 
+0021#STR0022#ALL#POR TRANSPORTAR : 
+0022#STR0023#ALL#DE TRANSPORTE : 
+0023#STR0024#ALL#CUENTA - 
+0024#STR0025#ALL#FECHA                                                                           DEBITO               CREDITO            SALDO ACT. 
+0024#STR0025#ANG#FECHA                                                                           DEBITO               CREDITO            SALDO ACT. 
+0024#STR0025#EQU#FECHA                                                                           DEBITO               CREDITO            SALDO ACT. 
+0024#STR0025#HAI#FECHA                                                                           DEBITO               CREDITO            SALDO ACT. 
+0024#STR0025#MEX#FECHA                                                                           CARGO                ABONO              SALDO ACT. 
+0024#STR0025#PTG#FECHA                                                                           DEBITO               CREDITO            SALDO ACT. 
+0025#STR0026#ALL#DEBITO         CREDITO      SALDO ACT. 
+0025#STR0026#ANG#DEBITO         CREDITO      SALDO ACT. 
+0025#STR0026#EQU#DEBITO         CREDITO      SALDO ACT. 
+0025#STR0026#HAI#DEBITO         CREDITO      SALDO ACT. 
+0025#STR0026#MEX#CARGO          ABONO        SALDO ACT. 
+0025#STR0026#PTG#DEBITO         CREDITO      SALDO ACT. 
+0026#STR0027#ALL#SALDO ANTERIOR:
+0027#STR0028#ALL#Item
+0028#STR0029#ALL#Asientos Contables   
+0029#STR0030#ALL#FCHA		
+0030#STR0031#ALL#LOTE/SUB/PLZ/LINEA
+0031#STR0032#ALL#HISTORIAL
+0032#STR0033#ALL#XPARTIDA
+0033#STR0034#ALL#DEBITO
+0033#STR0034#ANG#DEBITO
+0033#STR0034#EQU#DEBITO
+0033#STR0034#HAI#DEBITO
+0033#STR0034#MEX#CARGO
+0033#STR0034#PTG#DEBITO
+0034#STR0035#ALL#CREDITO
+0034#STR0035#ANG#CREDITO
+0034#STR0035#EQU#CREDITO
+0034#STR0035#HAI#CREDITO
+0034#STR0035#MEX#ABONO
+0034#STR0035#PTG#CREDITO
+0035#STR0036#ALL#SALDO ACT. 
+0036#STR0037#ALL#Total.
+0037#STR0038#ALL#Complemento
+0038#STR0039#ALL#DESCRIPC.
+0039#STR0040#ALL#No hay datos p/ mostrar, De Item - A Item en blanco

@@ -1,0 +1,40 @@
+0001#STR0001#ALL#Relacao dos Orcamentos de Venda
+0002#STR0002#ALL#Este relatorio irá imprimir a relaçäo dos Orçamentos de Venda
+0003#STR0003#ALL#conforme os parametros solicitados.                          
+0004#STR0004#ALL#Numero
+0005#STR0005#ALL#Cliente
+0006#STR0006#ALL#Produto
+0007#STR0007#ALL#Zebrado
+0008#STR0008#ALL#Administracao
+0009#STR0009#ALL# ABERTO 
+0010#STR0010#ALL#BAIXADO 
+0011#STR0011#ALL#CANCEL.
+0012#STR0012#ALL#          CLIENTE                                  PRODUTO                                                                              COMPONENTES
+0013#STR0013#ALL#NUMERO IT CODIGO LJ RAZAO SOCIAL                   CODIGO          DESCRICAO                      QUANTIDADE PRECO VENDA          TOTAL CODIGO          DESCRICAO                         QUANTIDADE    NECESSIDADE SITUACAO   
+0014#STR0014#ALL#Ordem: 
+0015#STR0015#ALL#CANCELADO PELO OPERADOR
+0016#STR0016#ALL#Total do Orcamento: 
+0017#STR0017#ALL#Total do Cliente: 
+0018#STR0018#ALL#Total do Produto: 
+0019#STR0019#ALL#T O T A L  G E R A L --> 
+0020#STR0020#ALL#          CLIENTE                                            PRODUTO                                                                         COMPONENTES
+0021#STR0021#ALL#NUMERO IT CODIGO-LOJA               RAZAO SOCIAL             CODIGO          DESCRICAO                 QUANTIDADE PRECO VENDA          TOTAL CODIGO          DESCRICAO                    QUANTIDADE    NECESSIDADE SITUACAO
+0022#STR0022#ALL#N.ORCADO
+0023#STR0023#ALL#APROVADO
+0024#STR0024#ALL#Relacao dos Orcamentos de Venda
+0025#STR0025#ALL#Este relatorio irá imprimir a relaçäo dos Orçamentos de Venda
+0026#STR0026#ALL#conforme os parametros solicitados.                          
+0027#STR0027#ALL#Numero
+0028#STR0028#ALL#Cliente
+0029#STR0029#ALL#Produto
+0030#STR0030#ALL#Numero It
+0031#STR0031#ALL#Componente
+0032#STR0032#ALL#Descricao do Componente
+0033#STR0033#ALL#Necessidade
+0034#STR0034#ALL#Total do Cliente 
+0035#STR0035#ALL#Total Geral 
+0036#STR0036#ALL#Total do Orçamento
+0037#STR0037#ALL#Total do Produto
+0038#STR0038#ALL#Orcamentos de Venda
+0039#STR0039#ALL#Quantidade
+0040#STR0040#ALL#BLOQUEADO

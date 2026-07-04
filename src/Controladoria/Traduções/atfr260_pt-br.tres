@@ -1,0 +1,17 @@
+0001#STR0001#ALL#Este relatorio irá  imprimir as ampliacoes dos bens dentro
+0002#STR0002#ALL#dos parametros especificados.
+0003#STR0003#ALL#AMPLIACOES
+0004#STR0004#ALL#Cod. Base  Item Tp Descricao Sintetica      Data Ampli Conta Contabil Bem   Valor da Ampliaçao   Valor Atualizado     Valor original
+0005#STR0005#ALL# entre 
+0006#STR0006#ALL#Selecionando Registros...
+0007#STR0007#ALL#CANCELADO PELO OPERADOR
+0008#STR0008#ALL#Valor Atualizado
+0009#STR0009#ALL#Ampliação em 
+0010#STR0010#ALL#Original em 
+0011#STR0011#ALL#Bens Ampliados
+0012#STR0012#ALL#Filial : 
+0013#STR0013#ALL#Código
+0014#STR0014#ALL#Empresa
+0015#STR0015#ALL#Unidade de negócio
+0016#STR0016#ALL#Filial
+0017#STR0017#ALL#Filiais selecionadas para o relatorio

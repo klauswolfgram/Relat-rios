@@ -1,0 +1,23 @@
+0001#STR0001#ALL#Relação De Aniversariantes Do Mês
+0002#STR0002#ALL#Sera impresso de acordo com os parâmetro s solicitados pelo
+0003#STR0003#ALL#Utilizador.
+0004#STR0004#ALL#Registo
+0005#STR0005#ALL#Centro De Custo
+0007#STR0007#ALL#Cartão Reg.
+0009#STR0009#ALL#Código de barras
+0010#STR0010#ALL#Administração
+0011#STR0011#ALL# relação de aniversariantes do mês 
+0012#STR0012#ALL#Filial   c. custo              reg.    nome                                  data de      estado                  
+0013#STR0013#ALL#                                                                             nascimento    civil                   
+0014#STR0014#ALL#Filial   c. custo              número reg.     nome                                data de      estado             
+0015#STR0015#ALL#                                                                                   nascimento    civil              
+0016#STR0016#ALL#REMUNERAÇÃO
+0017#STR0017#ALL#A Seleccionar Registos...
+0018#STR0018#ALL#Solteiro
+0019#STR0019#ALL#Casado
+0020#STR0020#ALL#Viúvo
+0021#STR0021#ALL#Divorciado
+0022#STR0022#ALL#Divorciado
+0023#STR0023#ALL#Marital
+0024#STR0024#ALL#Este Programa Emite Relação De Aniversariantes Do Mês.
+0026#STR0026#ALL#Empregados

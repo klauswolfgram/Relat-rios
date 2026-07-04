@@ -1,0 +1,24 @@
+0001#STR0001#ALL#This program will issue a list of call center operators in the system
+0002#STR0002#ALL#able to access the Telemarketing, Telesales and Telecollection routine
+0003#STR0003#ALL#This issue will be based on the report parameters
+0004#STR0004#ALL#Z-Form
+0005#STR0005#ALL#Administration
+0006#STR0006#ALL#CANCELLED BY OPERATOR
+0007#STR0007#ALL#Operator´s Code
+0008#STR0008#ALL#Operator´s Name
+0009#STR0009#ALL#Short Name
+0010#STR0010#ALL#Address
+0011#STR0011#ALL#Zone
+0012#STR0012#ALL#City
+0013#STR0013#ALL#State
+0014#STR0014#ALL#ZIP CODE
+0015#STR0015#ALL#Service Type
+0016#STR0016#ALL#Operation Stand
+0017#STR0017#ALL#Salesperson / Code
+0018#STR0018#ALL#Country Area
+0019#STR0019#ALL#Hability
+0020#STR0020#ALL#Pending Tasks
+0021#STR0021#ALL#There is no information to print this report
+0022#STR0022#ALL#Operator´s File
+0023#STR0023#ALL#Operators 
+0024#STR0024#ALL#Operator inform. 

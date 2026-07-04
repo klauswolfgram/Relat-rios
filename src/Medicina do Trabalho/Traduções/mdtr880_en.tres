@@ -1,0 +1,28 @@
+0001#STR0001#ALL#    Standard questionnaire displaying report.              
+0002#STR0002#ALL#    The fields questionnaire are blank, so the employees
+0003#STR0003#ALL# employees can fill them in manually.                              
+0004#STR0004#ALL#Z.Form
+0005#STR0005#ALL#Administration
+0006#STR0006#ALL#Standard Questionnaire
+0007#STR0007#ALL#CANCELLED BY THE OPERATOR
+0008#STR0008#ALL#Code: 
+0009#STR0009#ALL#Question                                      Resp.  Qty. Complement
+0010#STR0010#ALL#Registration.:___________ Name.:____________________________________ Date.:__/__/__
+0011#STR0011#ALL#Position.:______________________ Role.:__________________________________________
+0012#STR0012#ALL#Signature.:___________________________
+0013#STR0013#ALL#Customer/Unit: 
+0014#STR0014#ALL#No information to print in the report.
+0015#STR0015#ALL#Liability Statement: 
+0016#STR0016#ALL#Disclaimer?
+0017#STR0017#ALL#Number of Copies?
+0018#STR0018#ALL#To Questionnaire?
+0019#STR0019#ALL#From Questionnaire?
+0020#STR0020#ALL#From Customer?
+0021#STR0021#ALL#Store
+0022#STR0022#ALL#To Customer?
+0023#STR0023#ALL#Yes
+0024#STR0024#ALL#No
+0025#STR0025#ALL#No Answer
+0026#STR0026#ALL#All questions must be answered as specified below:
+0027#STR0027#ALL#The questions must be answered according to answer indications.
+0028#STR0028#ALL#Answers: 

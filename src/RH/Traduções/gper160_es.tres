@@ -1,0 +1,40 @@
+0001#STR0001#ALL#Extracto de Tareas                
+0002#STR0002#ALL#Se imprimira de acuerdo con los param. solicitados por el
+0003#STR0003#ALL#usuario.
+0004#STR0004#ALL#Matricula
+0005#STR0005#ALL#Centro de costo
+0006#STR0006#ALL#A Rayas
+0007#STR0007#ALL#Administrac.
+0008#STR0008#ALL#E X T R A C T O   D E   T A R E A
+0009#STR0009#ALL# SUC.    MATRICULA  NOMBRE EMPLEADO                 C. COSTO -            DESCRIPCION          CODIGO - CARGO                       
+0010#STR0010#ALL#  ( FECHA ) 
+0011#STR0011#ALL#  ( TAREA  )  
+0012#STR0012#ALL#|  FECHA    |  CODIGO  |    DESCRIPCION          |        VALOR        |     CANTIDAD     |        VALOR           |
+0013#STR0013#ALL#| DD/MM/AA  |  TAREA   |       TAREA             |       UNITARIO      |                  |        TOTAL           |
+0014#STR0014#ALL#TOTAL FECHA --> 
+0015#STR0015#ALL#TOTAL DE TAREA --> 
+0016#STR0016#ALL#|  FECHA    |  CODIGO  |    DESCRIPCION          |        VALOR        |     CANTIDAD     |        VALOR           |
+0017#STR0017#ALL#| DD/MM/AA  |  TAREA   |       TAREA             |       UNITARIO      |                  |        TOTAL           |
+0018#STR0018#ALL#TOTAL FECHA --> 
+0019#STR0019#ALL#TOTAL EMPLEADO    --> 
+0020#STR0020#ALL#TOTAL TAREA --> 
+0021#STR0021#ALL#TOTAL EMPLEADO    --> 
+0022#STR0022#ALL#                                                 |        VALOR        |     CANTIDAD     |        VALOR           |
+0023#STR0023#ALL#                                                 |       UNITARIO      |                  |        TOTAL           |
+0024#STR0024#ALL#TOTAL GENERAL ------> 
+0025#STR0025#ALL#                                                 |        VALOR        |     CANTIDAD     |        VALOR           |
+0026#STR0026#ALL#                                                 |       UNITARIO      |                  |        TOTAL           |
+0027#STR0027#ALL#TOTAL GENERAL ------> 
+0028#STR0028#ALL#SUCURS
+0029#STR0029#ALL#NOMBRE DEL EMPLEADO
+0030#STR0030#ALL#DESCRIPC.
+0031#STR0031#ALL#CODIGO - 
+0032#STR0032#ALL#CARGO
+0033#STR0033#ALL#FCH.
+0034#STR0034#ALL#TAREA 
+0035#STR0035#ALL#DESC. TAREA 
+0036#STR0036#ALL#VALOR UNITARIO
+0037#STR0037#ALL#CANTIDAD 
+0038#STR0038#ALL#VALOR TOTAL
+0039#STR0039#ALL#TOTAL
+0040#STR0040#ALL#Este informe lista el extracto de tareas segun la configuracion de parametros 

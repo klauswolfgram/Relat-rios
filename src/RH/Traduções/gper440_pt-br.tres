@@ -1,0 +1,42 @@
+0001#STR0001#ALL#Ficha de Salario-Familia.
+0002#STR0002#ALL#Será impresso de acordo com os parametros solicitados pelo
+0003#STR0003#ALL#usuario.
+0004#STR0004#ALL#Matricula
+0005#STR0005#ALL#Centro de Custo
+0006#STR0006#ALL#Zebrado
+0007#STR0007#ALL#Administraçäo
+0008#STR0008#ALL#FICHA DE SALARIO - FAMILIA
+0009#STR0009#ALL#FICHA DE SALARIO - FAMILIA
+0010#STR0010#ALL#Empresa: 
+0011#STR0011#ALL#CGC/Matricula No INPS: 
+0012#STR0012#ALL#Endereco: 
+0013#STR0013#ALL#Bairro: 
+0014#STR0014#ALL#  CEP: 
+0015#STR0015#ALL#  Cidade: 
+0016#STR0016#ALL#  UF: 
+0017#STR0017#ALL#CTPS: 
+0018#STR0018#ALL# Serie: 
+0019#STR0019#ALL#    Dt.Admissao: 
+0020#STR0020#ALL#Dt.Demissao: 
+0021#STR0021#ALL#Endereco: 
+0022#STR0022#ALL#  Bairro: 
+0023#STR0023#ALL#CEP: 
+0024#STR0024#ALL#  Cidade: 
+0025#STR0025#ALL#UF: 
+0026#STR0026#ALL#FILHOS MENORES DE 14 ANOS - (Dados extraidos das certidoes)
+0027#STR0027#ALL#|No. |          NOME DO FILHO         | DT.NASC. |  LOCAL DO  |  CARTORIO  | N.REG. |  No.  |   No. | DT.   | DT.DA |    VISTO     |
+0028#STR0028#ALL#|Ord.|                                |          | NASCIMENTO |            |        | LIVRO | FOLHA | ENTR. | BAIXA | FISCAL IAPAS |
+0029#STR0029#ALL#| VALOR DE UM SALARIO-FAMILIA                                     | VALOR TOTAL DOS SALARIOS-FAMILIA A PAGAR                       |
+0030#STR0030#ALL#| Em          ___ de __________________ de _____  R$ ____________ | A partir de ___ de _________________ de _____  R$ ____________ |
+0031#STR0031#ALL#| Alterado em ___ de __________________ de _____  R$ ____________ | A partir de ___ de _________________ de _____  R$ ____________ |
+0032#STR0032#ALL#RECEBI OS DOCUMENTOS ACIMA
+0033#STR0033#ALL#ASSINATURA
+0034#STR0034#ALL#Empregado: 
+0035#STR0035#ALL#FILHOS MENORES DE IDADE   - (Dados extraidos das certidoes)
+0036#STR0036#ALL#|No. |             NOME DO FILHO              | DT.NASC. |            LOCAL DO            |  CARTORIO  | N.REG. |  No.  |   No. |               MATRICULA             | DT.      | DT.DA    |            VISTO             |
+0037#STR0037#ALL#|Ord.|                                        |          |           NASCIMENTO           |            |        | LIVRO | FOLHA |                                     | ENTR.    | BAIXA    |          FISC.INSS           |
+0038#STR0038#ALL#| Em          _____ de ___________________ de _____  R$ _________________ | A partir de _____ de ___________________ de ______  R$ ______________ | A partir de _____ de ___________________ de ______  R$ _______________ |
+0039#STR0039#ALL#| Alterado em _____ de ___________________ de _____  R$ _________________ | A partir de _____ de ___________________ de ______  R$ ______________ | A partir de _____ de ___________________ de ______  R$ _______________ |
+0040#STR0040#ALL#COMPROVAÇAO DA ENTREGA ANUAL DOS ATESTADOS DE VACINAS - Filhos até 6 anos (Art. 67 da Lei 8.213/91 - Redação Dada pela Lei nº 9.876, de 26.11.99 )
+0041#STR0041#ALL#|           Filho           |     Data de Entrega      |           Filho           |     Data de Entrega      |           Filho           |     Data de Entrega      |           Filho           |     Data de Entrega     |
+0042#STR0042#ALL#| VALOR DE UM SALARIO-FAMILIA                                             | VALOR TOTAL DOS SALARIOS-FAMILIA A PAGAR                              |VALOR TOTAL DOS SALARIOS-FAMILIA A PAGAR                                |

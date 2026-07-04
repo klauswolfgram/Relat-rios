@@ -1,0 +1,118 @@
+0001#STR0001#ALL#Relatorio de Analise do Estoque
+0002#STR0002#ALL#Zebrado
+0003#STR0003#ALL#Administracao
+0004#STR0004#ALL#A N A L I S E    D O    E S T O Q U E
+0005#STR0005#ALL#Custo
+0006#STR0006#ALL#Repos
+0007#STR0007#ALL#   Itens                           Localização Almx  Dispon. 
+0008#STR0008#ALL# Unit. 
+0009#STR0009#ALL# Total  Preco Venda  Ult.cmp. Ult.vda.
+0010#STR0010#ALL#Grupos: 
+0011#STR0011#ALL#  0 a  30
+0012#STR0012#ALL# 31 a  60
+0013#STR0013#ALL# 61 a  90
+0014#STR0014#ALL# 91 a 120
+0015#STR0015#ALL#121 a 180
+0016#STR0016#ALL#181 a 240
+0017#STR0017#ALL#241 a 365
+0018#STR0018#ALL#366 a 730
+0019#STR0019#ALL# + de 730
+0020#STR0020#ALL#de Custo
+0021#STR0021#ALL#Reposic.
+0022#STR0022#ALL# dias
+0023#STR0023#ALL# ===============  -Qtde-  ---------- SALDO ESTOQUE ---------  ---------- SALDO OFICINA ---------  --------- SALDO GARANTIA ---------
+0024#STR0024#ALL#   V E N D A S    Produt   Preco 
+0025#STR0025#ALL#    Preco de Venda    Preco 
+0026#STR0026#ALL#    Preco Garantia 
+0027#STR0027#ALL# ===============  ------  ----------------------------------  ----------------------------------  ----------------------------------
+0028#STR0028#ALL#*** T O T A L ***
+0029#STR0029#ALL#Data da Ultima Venda:
+0030#STR0030#ALL#Data da Ultima Compra:
+0031#STR0031#ALL#OBS.: No SALDO ESTOQUE nao constam SALDO OFICINA nem SALDO GARANTIA
+0032#STR0032#ALL#Vendas nos Ultimos 30 dias  
+0033#STR0033#ALL#  - Qtde de Vendas................:
+0034#STR0034#ALL#  - Custo das Vendas..............:
+0035#STR0035#ALL#Estoque Total
+0036#STR0036#ALL#- Disponibilidade..........:
+0037#STR0037#ALL#- Giro Anual...............:
+0038#STR0038#ALL#- Giro Mensal..............:
+0039#STR0039#ALL# meses
+0040#STR0040#ALL# vezes
+0041#STR0041#ALL#Estoque a Preco 
+0042#STR0042#ALL#  - Estoque Total.................:
+0043#STR0043#ALL#  - Estoque sem Oficina e Garantia:
+0044#STR0044#ALL#Estoque sem Oficina e Garantia
+0045#STR0045#ALL# ===============  ------  -------------  -------------------------------------- ULTIMA COMPRA ------------------------------------
+0046#STR0046#ALL#   V E N D A S     Qtde       Preco         0 a 30   31 a 60   61 a 90  91 a 120 121 a 180 181 a 240 241 a 365 366 a 730  + de 730
+0047#STR0047#ALL#                  Produt     
+0048#STR0048#ALL# Qtd.%Cust
+0049#STR0049#ALL# ===============  ------  -------------  ---(A)--- ---(B)--- ---(C)--- ---(D)--- ---(E)--- ---(F)--- ---(G)--- ---(H)--- ---(I)---
+0050#STR0050#ALL#*** VENDAS *** 
+0051#STR0051#ALL#*** COMPRAS ***
+0052#STR0052#ALL# - Compra: 
+0053#STR0053#ALL# dias 
+0054#STR0054#ALL# a 
+0055#STR0055#ALL#INICIAL
+0056#STR0056#ALL#NAO
+0057#STR0057#ALL#SIM
+0058#STR0058#ALL#  0 a  30 dias(1)
+0059#STR0059#ALL# 31 a  60 dias(2)
+0060#STR0060#ALL# 61 a  90 dias(3)
+0061#STR0061#ALL# 91 a 120 dias(4)
+0062#STR0062#ALL#121 a 180 dias(5)
+0063#STR0063#ALL#181 a 240 dias(6)
+0064#STR0064#ALL#241 a 365 dias(7)
+0065#STR0065#ALL#366 a 730 dias(8)
+0066#STR0066#ALL# + de 730 dias(9)
+0067#STR0067#ALL# ===============  -Qtde-  ---------- SALDO ESTOQUE ---------  ---------- SALDO OFICINA ---------  --------- SALDO GARANTIA ---------
+0068#STR0068#ALL#   V E N D A S    Produt   Preco
+0069#STR0069#ALL#Preco de Venda    Preco
+0070#STR0070#ALL#Preco Garantia
+0071#STR0071#ALL#T O T A L
+0072#STR0072#ALL#Data da Ultima Venda:
+0073#STR0073#ALL#Data da Ultima Compra:
+0074#STR0074#ALL#OBS.: No SALDO ESTOQUE nao constam SALDO OFICINA nem SALDO GARANTIA
+0075#STR0075#ALL#Vendas nos Ultimos 30 dias
+0076#STR0076#ALL#Qtd.%Cust Qtd.%Cust Qtd.%Cust Qtd.%Cust Qtd.%Cust Qtd.%Cust Qtd.%Cust Qtd.%Cust Qtd.%Cust
+0077#STR0077#ALL#VENDAS
+0078#STR0078#ALL#COMPRAS
+0079#STR0079#ALL#Compra:
+0080#STR0080#ALL#dias
+0081#STR0081#ALL#                                  E S T O Q U E   E S T R A T E G I C O   -   D S M   N O R M A L
+0082#STR0082#ALL#                                    E S T O Q U E   E S T R A T E G I C O   -   D S M   C A N A
+0083#STR0083#ALL#                                 E S T O Q U E   E S T R A T E G I C O   -   D S M   M O T O R E S
+0084#STR0084#ALL#                         E S T O Q U E   E S T R A T E G I C O   -   P R O J E T O S   E S P E C I A I S
+0085#STR0085#ALL#                         E S T O Q U E   E S T R A T E G I C O   -   R E T O R N O                      
+0086#STR0086#ALL#                          E S T O Q U E   E S T R A T E G I C O   -   S E M   C L A S S I F I C A C A O
+0087#STR0087#ALL#                          E S T O Q U E   E S T R A T E G I C O   -   S U P E R    Z E R A D O         
+0088#STR0088#ALL#Grupos Peças a Considerar
+0089#STR0089#ALL#Informe os Grupos de Peças a considerar.
+0090#STR0090#ALL#Linhas de Vendas
+0091#STR0091#ALL#Informe as Linhas de Vendas de 1 a 9
+0092#STR0092#ALL#para mostrar analiticamente os Itens.
+0093#STR0093#ALL#Se * mostra todas as Linhas de Vendas.
+0094#STR0094#ALL#Ex.: 1257, Mostra:
+0095#STR0095#ALL#Linhas 1, 2, 5 e 7.
+0096#STR0096#ALL#Valores
+0097#STR0097#ALL#Preço de Custo
+0098#STR0098#ALL#Preço Reposição
+0099#STR0099#ALL#Informe o tipo de preço.
+0100#STR0100#ALL#Ordem
+0101#STR0101#ALL#Item (Grp+Cod)
+0102#STR0102#ALL#Vlr (Cust/Rep)
+0103#STR0103#ALL#Informe a ordem do relatório.
+0104#STR0104#ALL#LinhaColuna Compras
+0105#STR0105#ALL#Informe as LinhasColunas para mostrar
+0106#STR0106#ALL#analiticamente os Itens.
+0107#STR0107#ALL#Linhas = Vendas ( 1 a 9 )
+0108#STR0108#ALL#Colunas = Compras ( A a I )
+0109#STR0109#ALL#Se Linha* mostra a Linha informada e
+0110#STR0110#ALL#todas as Colunas correspondentes.
+0111#STR0111#ALL#Se *Coluna mostra a Coluna informada
+0112#STR0112#ALL#e todas as Linhas correspondentes.
+0113#STR0113#ALL#Se * ou ** mostra todas as Linhas
+0114#STR0114#ALL#e todas as Colunas.
+0115#STR0115#ALL#Ex.: 1*2B*C. Mostra:
+0116#STR0116#ALL#Linha 1 com todas as Colunas,
+0117#STR0117#ALL#Linha 2 com Coluna B,
+0118#STR0118#ALL#Todas as Linhas da Coluna C.

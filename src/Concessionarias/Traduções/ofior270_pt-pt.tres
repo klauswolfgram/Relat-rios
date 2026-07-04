@@ -1,0 +1,31 @@
+0001#STR0001#ALL#Análise do Produtivo
+0002#STR0002#ALL#Código de barras
+0003#STR0003#ALL#Administração
+0004#STR0004#ALL#T  o  t  a  l 
+0006#STR0006#ALL#01 - tempo disponivel, de acordo com a escala
+0009#STR0009#ALL#04 - tempo sem aplicação ou parado
+0010#STR0010#ALL#05 - Tempo Aplicado Ou Trabalhado
+0011#STR0011#ALL#06 - tempo extra, ou tempo aplicado fora da escala normal
+0012#STR0012#ALL#07 - tempo estourado, ou total do tempo de execução fora da tabela
+0013#STR0013#ALL#08 - Tempo Padrão
+0014#STR0014#ALL#09 - Tempo Cobrado, Ou Tempo Padrão Com Acrescimos Ou Descontos
+0015#STR0015#ALL#10 - Tempo Que Realmente Foi Vendido
+0023#STR0023#ALL#19 - % Produtividade Sobre Tempo Efetivo (tempo Aplicado/tempo Efetivo)
+0024#STR0024#ALL#20 - % Produtividade Sobre Tempo Efetivo ((tempo Aplicado+tempo Extra)/tempo Efetivo)
+0028#STR0028#ALL# Tempo   Tempo   Tempo   Tempo   Tempo   Tempo   Tempo   Tempo   Tempo   Tempo  Fórmula ------------- E f i c i e n c i a -------------- -------- Produtividade -------- Stock  Horas
+0029#STR0029#ALL#Produtivo------------ Função------- Dispon. Ausente Efectivo -Parado Trabalh  Extra  Estour. -Padrão Cobrado Vendido Utiliz. Padr.SE -Padr.CE Cobr.SE Cobr.CE Vend.SE Vend.CE Efet SE Efect CE Cob/Pad Aprovei Nao Lib Liberad
+0033#STR0033#ALL#Total Por Tipo De Tempo + Tipo De Serviço  
+0034#STR0034#ALL#Tp Ts.  Descrição             Padrão  Trabalh  Cobrado  Vendido
+0035#STR0035#ALL#T o t a l................... 
+0036#STR0036#ALL#12 - % eficiencia sobre tempo padrão (tempo padrão/(tempo aplicado+tempo extra)) * 100
+0037#STR0037#ALL#Total Crial Por Tipo De Tempo + Tipo De Serviço
+0053#STR0053#ALL#Análise do Mec.
+0057#STR0057#ALL#Apresentação horas
+0058#STR0058#ALL#Dois pontos
+0060#STR0060#ALL#Directório Folha de Cálculo
+0061#STR0061#ALL#Código
+0062#STR0062#ALL#Seq.
+0064#STR0064#ALL#Função
+0065#STR0065#ALL#Disponível
+0068#STR0068#ALL#Efectivo
+0073#STR0073#ALL#Eficiência

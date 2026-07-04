@@ -1,0 +1,30 @@
+0002#STR0002#ALL#Centro De Custo
+0004#STR0004#ALL#RELAÇÃO DOS SALÁRIOS DE CONTRIBUIÇÃO
+0005#STR0005#ALL#Sera impresso de acordo com os parâmetro s solicitados pelo
+0006#STR0006#ALL#Utilizador.
+0007#STR0007#ALL#Código de barras
+0008#STR0008#ALL#Administração
+0009#STR0009#ALL#RELAÇÃO DOS SALÁRIOS DE CONTRIBUIÇÃO
+0010#STR0011#ALL#| 1-mês/ano | valor remuneração contribuição  | data recolha | 1-mês/ano | valor remuneração contribuição  | data recolha |
+0011#STR0012#ALL#Total da página  |
+0012#STR0014#ALL#Não cad. tab. 41
+0013#STR0015#ALL#Aumentos  Salariais
+0014#STR0016#ALL#|   2-mês/ano   |                                        motivo                                        |     percentagem     |
+0015#STR0017#ALL#Localidade e data 
+0016#STR0018#ALL#Assinatura Do Responsável E Carimbo Da Empresa
+0017#STR0019#ALL#Documento emitido conforme autorização da moedao de concessão de benefícios de acordo com o pt 
+0018#STR0020#ALL#A Inexactidão Das Declarações Constantes Deste Documento Constitui Crime Previsto Nos Artigos 171 E 299 Do Código Penal.
+0019#STR0021#ALL#|    empresa                                                                                           |    no nr. contribuinte         |
+0020#STR0023#ALL#|    morada                                                                                          |    registo Seg. Social      |
+0021#STR0024#ALL#|    nome do segurado                                                                                  |    no nr. contribuinte          |
+0022#STR0025#ALL#Fil: 
+0023#STR0026#ALL# - mat: 
+0024#STR0027#ALL# - cc: 
+0025#STR0028#ALL#|    doc.inscrição no e série    |    data admissão / inicio da contribuição    |    data desligamento    |    no pis/pasep    |
+0026#STR0029#ALL#|   2-mês/ano   |                                       descrição                                      |       valor        |
+0027#STR0030#ALL#Relação Dos Salários
+0028#STR0031#ALL#Remuneração Do Mês
+0029#STR0032#ALL#Total geral |
+0030#STR0033#ALL#Continua Na Proxima Página...
+0031#STR0034#ALL#|    nome do segurado                             |
+0032#STR0035#ALL#|    no número de contribuinte          |

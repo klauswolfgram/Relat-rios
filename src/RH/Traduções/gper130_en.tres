@@ -1,0 +1,16 @@
+0001#STR0001#ALL# Registrat. 
+0002#STR0002#ALL# C.Center+Registr. 
+0003#STR0003#ALL#Notice/ Vacat. Receipt   
+0004#STR0004#ALL#Will be printed according to the parameters selected by  
+0005#STR0005#ALL#the User.
+0006#STR0006#ALL#Z.Form 
+0007#STR0007#ALL#Management   
+0008#STR0008#ALL#RECEIPT AND VACAT. NOTICE
+0009#STR0009#ALL# Name 
+0010#STR0010#ALL# C.Center+Name 
+0011#STR0011#ALL#VACATION RECEIPT
+0012#STR0012#ALL#The content must be GREATER than or EQUAL to 15 days
+0013#STR0013#ALL#Start Date cannot be after End Date
+0014#STR0014#ALL#YrEnd B. Req. Date must not be blank when field 1st Inst. YrEnd B. Req. is equal to YES.
+0015#STR0015#ALL#Ok
+0016#STR0016#ALL#Attention

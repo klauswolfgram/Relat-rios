@@ -1,0 +1,13 @@
+0001#STR0001#ALL#This program will issue a list of competitors´s products
+0002#STR0002#ALL#comparing with the database products.
+0003#STR0003#ALL#The issue will be based on the report parameters
+0004#STR0004#ALL#Z-Form
+0005#STR0005#ALL#Administration
+0006#STR0006#ALL#CANCELLED BY THE OPERATOR
+0007#STR0007#ALL#Our Product
+0008#STR0008#ALL#Our Price
+0009#STR0009#ALL#Competitor´s Name                                Price Search     City                           ST Observat. 
+0010#STR0010#ALL#There is no information to print this report
+0011#STR0011#ALL#Competitors´s File
+0012#STR0012#ALL#Our products   
+0013#STR0013#ALL#Competitors list     

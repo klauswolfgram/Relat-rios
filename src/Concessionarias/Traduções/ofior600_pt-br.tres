@@ -1,0 +1,44 @@
+0001#STR0001#ALL#Impressao do agendamento
+0002#STR0002#ALL#Zebrado
+0003#STR0003#ALL#Administracao
+0004#STR0004#ALL#Grupo  Descricao-------------- Cod Inc-------- Descricao------------------ Tempo
+0005#STR0005#ALL#Relatorio de agendamento
+0006#STR0006#ALL#     Hora  Box S Chv Veículo               Propr. Lj. Nome                           Status           Placa      Nome do técnico
+0007#STR0007#ALL#     Endereco             Cidade              UF Telefone        Marca     Modelo    
+0008#STR0008#ALL#Relacao de Agendamentos
+0009#STR0009#ALL#Hora Inicial Invalida
+0010#STR0010#ALL#Atencao
+0011#STR0011#ALL#Hora Final Invalida
+0012#STR0012#ALL#Agendado
+0013#STR0013#ALL#OS Aberta
+0014#STR0014#ALL#Finalizado
+0015#STR0015#ALL#Cancelado
+0016#STR0016#ALL#Orçamento Aberto
+0017#STR0017#ALL#CONSULTOR: 
+0018#STR0018#ALL#Data: 
+0019#STR0019#ALL#GESTOR: 
+0020#STR0020#ALL#Ativo
+0021#STR0021#ALL#Reativo
+0022#STR0022#ALL#Todos
+0023#STR0023#ALL# Agenda por Box
+0024#STR0024#ALL#        Hora  Placa      Marca     Modelo               Cliente                                   Serviço                                   Mecânico                         Consultor                        Duração Cd.Recup  Tipo Agendto
+0025#STR0025#ALL# Agenda por Consultor
+0026#STR0026#ALL#        Hora  Placa      Marca     Modelo               Cliente                                   Serviço                                  Mecânico                         Box Duração Cd.Recup  Tipo Agendto
+0027#STR0027#ALL#Relação de Agendamento
+0028#STR0028#ALL#     Hora  Box Satus            Chv Veículo               Placa.     Marca     Modelo               N.Ident. Serviço                             KM Revis Orçamento Duração Dt.Chegada Ord.Srv. Dt.Abertura Status    Cd.Recup  Tipo Agendto
+0029#STR0029#ALL#     Cliente                                  Endereco             Cidade               UF Telefone
+0030#STR0030#ALL#Status dos Agendamentos
+0031#STR0031#ALL#Grupo  Descricao----------------- Codigo-- ------ Descricao------------------ 
+0032#STR0032#ALL#Resp. Agendamento:
+0033#STR0033#ALL#Consultor:
+0034#STR0034#ALL#Mecânico:
+0035#STR0035#ALL#Contato: 
+0036#STR0036#ALL#Reclamação:
+0037#STR0037#ALL#ABERTA
+0038#STR0038#ALL#LIBERADA
+0039#STR0039#ALL#FECHADA
+0040#STR0040#ALL#CANCELADA
+0041#STR0041#ALL#Box: 
+0042#STR0042#ALL#        Hora  Placa      Marca     Modelo               Cliente                                   Serviço                    Mecânico                         Consultor                        Duração  Tipo Agendto
+0043#STR0043#ALL#        Hora  Placa      Marca     Modelo               Cliente                                   Serviço                                  Mecânico                         Box Duração  Tipo Agendto
+0044#STR0044#ALL#     Hora  Box Satus            Chv Veículo               Placa.     Marca     Modelo               N.Ident. Serviço                   KM Revis Orçamento Duração Dt.Chegada Ord.Srv. Dt.Abertura Status     Tipo Agendto

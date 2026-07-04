@@ -1,0 +1,23 @@
+0001#STR0001#ALL#Arquivo Texto|*.TXT
+0002#STR0002#ALL#Salvar Pesquisa...
+0003#STR0003#ALL#         DGII              | RECEITA FEDERAL                                   
+0004#STR0004#ALL#         IR-4              | DIREÇÃO GERAL DE IMPOSTOS INTERNOS                             
+0005#STR0005#ALL#                           | FORMATO PARA O CÁLCULO DAS RETENÇÕES MENSAIS DO ASSALARIADO
+0006#STR0006#ALL#Agente de Retenção
+0007#STR0007#ALL#Período
+0008#STR0008#ALL#Folha
+0009#STR0009#ALL#Mês: 
+0010#STR0010#ALL#Ano: 
+0011#STR0011#ALL#De: 
+0012#STR0012#ALL#Nº: 
+0013#STR0013#ALL#       IDENTIFICAÇÃO DO ASSALARIADO          |                                 REMUNERAÇÕES RECEBIDAS                           |                   LIQUIDAÇÃO DO IMPOSTO (LEI 11-92)
+0014#STR0014#ALL#                              |              | SALÁRIOS PAG.   |REMUNERAÇÕES |OUTRAS REM. PAG. |               |SALÁRIOS E OUTROS |             |                |SALDO A FAVOR DO|SAL. FAVOR DA
+0015#STR0015#ALL#SOBRENOMES E NOMES            |   RG OU      | PELO AGENTE    |PAGAS  OUTROS  |PELO   AGENTE   | TOTAL PAGO   |PAGOS SUJEITOS A |  LIQUIDAÇÃO  |  SALDO A FAV.  |ASSAL.COMP.FUT.RET|DIREÇÃO GERAL
+0016#STR0016#ALL#      COMPLETOS               |  PASSAPORTE  | DE  RETENÇÃO  | EMPREGADORES   |DE RETENÇÃO    |  NO MÊS    |   RETENÇÃO    |    PERÍODO    | DO ASSALARIADO |(Se H-1 for neg.) |(Se H-1 for pos.)
+0017#STR0017#ALL#           A                  |      B       |        C       |       D       |        E       |        F      |        G       |       H       |       I        |        J        |        K       
+0018#STR0018#ALL#(L)Número assalariados      
+0019#STR0019#ALL#(M)Sujeitos a Retenção     
+0020#STR0020#ALL#TOTAIS(RD$)
+0021#STR0021#ALL#Incluir na célula com a letra (A) no Form.IR-13 
+0022#STR0022#ALL#Incluir na célula com a letra (B) no Form.IR-13
+0023#STR0023#ALL#O período deve ser informado no formato aaaadd

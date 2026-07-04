@@ -1,0 +1,62 @@
+0001#STR0001#ALL#Sales Order Report - Ordered by Order Number
+0002#STR0002#ALL#This program will print the Sales Orders list
+0003#STR0003#ALL#Perform a search in the warehouse to check
+0004#STR0004#ALL#whether the quantity is available.
+0005#STR0005#ALL# By order number    
+0006#STR0006#ALL# By product       
+0007#STR0007#ALL# By delivery date 
+0008#STR0008#ALL#Z.Form 
+0009#STR0009#ALL#Management
+0010#STR0010#ALL#IT CODE   PRODUCT  DESCRIPTION                    AVAILABLE     ----------- ORDER  -------------      QTY.         QTY.      VALUE OF  NET UNIT         SITUATION OF                                   VALUE TO
+0011#STR0011#ALL#                                                  STOCK         SOLD       ATTENDED      BALANCE    RELEASED     BLOCKED     DISCOUNT    PRICE       ORDER OF PRODUCT.                                 INVOICE      DELIVERY
+0012#STR0012#ALL#Selecting Records...
+0013#STR0013#ALL#ORDER 
+0014#STR0014#ALL#PRODUCT
+0015#STR0015#ALL#DELIVERY DATE
+0016#STR0016#ALL# READY TO INVOICE 
+0017#STR0017#ALL# NOT RELEASED    
+0018#STR0018#ALL# - ORDER OF 
+0019#STR0019#ALL#CANCELLED BY THE OPERATOR
+0020#STR0020#ALL#TOTAL OF ORDER --> 
+0021#STR0022#ALL#GRAND TOTAL---> 
+0022#STR0023#ALL#ORDER: 
+0023#STR0024#ALL#VENDOR:   
+0024#STR0025#ALL#STORE : 
+0025#STR0026#ALL#ISSUE: 
+0026#STR0027#ALL#CARRIER: 
+0027#STR0028#ALL#SALES REP. : 
+0028#STR0029#ALL#CUSTOMER : 
+0029#STR0030#ALL#PAYM.TERMS: 
+0030#STR0031#ALL#List of sales orders        
+0031#STR0032#ALL#This program will list sales orders                      
+0032#STR0033#ALL#A search will be made in warehouse and check
+0033#STR0034#ALL#for quantity available         
+0034#STR0035#ALL#IT
+0035#STR0036#ALL#Stock available   
+0036#STR0037#ALL#Sold   
+0037#STR0038#ALL#Attended
+0038#STR0039#ALL#Blnce
+0039#STR0040#ALL#Qty. blocked 
+0040#STR0041#ALL#Taxes   
+0041#STR0042#ALL#Amnt. to deliver
+0042#STR0043#ALL#Order 
+0043#STR0044#ALL#Product
+0044#STR0045#ALL#Delivery date  
+0045#STR0046#ALL# - Order of 
+0046#STR0047#ALL#Order  
+0047#STR0048#ALL#Vendor:      
+0048#STR0049#ALL#Customer: 
+0049#STR0050#ALL#Store 
+0050#STR0051#ALL#Issue   
+0051#STR0052#ALL#Carrier        
+0052#STR0053#ALL#Sales Rep. 
+0053#STR0054#ALL#Payment Term 
+0054#STR0055#ALL#Order total    -->
+0055#STR0056#ALL#Ready to invoice 
+0056#STR0057#ALL# Not released   
+0057#STR0058#ALL#Selecting records ...    	
+0058#STR0059#ALL#Production order status   
+0059#STR0060#ALL#Order header       
+0060#STR0061#ALL#Order items    
+0061#STR0062#ALL#Product total   -->
+0062#STR0063#ALL#Date total   -->

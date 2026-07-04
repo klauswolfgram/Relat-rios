@@ -1,0 +1,30 @@
+0001#STR0001#ALL#ESTADO DE GESTION DETALLADO
+0002#STR0002#ALL#Generando informe, espere......
+0003#STR0003#ALL#cien
+0004#STR0004#ALL#mil
+0005#STR0005#ALL#millon
+0006#STR0006#ALL#Creando Archivo Temporal DRE....
+0007#STR0007#ALL#Responsables....
+0008#STR0008#ALL#Es necesario informar la fecha de referencia
+0009#STR0009#ALL#Parametro 'Considera igual a Periodo
+0010#STR0010#ALL#Fecha fuera del periodo
+0011#STR0011#ALL#Fecha de Referencia
+0012#STR0012#ALL#Cuentas/Saldos
+0013#STR0013#ALL#(En 
+0014#STR0014#ALL#Este programa imprimira el DRE Gestion Detallada,
+0015#STR0015#ALL# de acuerdo con los parametros informados por el usuario.
+0016#STR0016#ALL#Detalle da Vision
+0017#STR0017#ALL#Descripcion
+0018#STR0018#ALL#Codigo
+0019#STR0019#ALL#Periodo Actual
+0020#STR0020#ALL#Periodo Anterior
+0021#STR0021#ALL#Items del Detalle
+0022#STR0022#ALL#Cuenta Contable
+0023#STR0023#ALL#C. Costo
+0024#STR0024#ALL#Item Contable
+0025#STR0025#ALL#Cl. Valor
+0026#STR0026#ALL#Cuadros Contables
+0027#STR0027#ALL#Items del Cuadro Contable
+0028#STR0028#ALL#Creando archivo temporal Detallado..
+0029#STR0029#ALL#Creando archivo temporal de los Cuadros..
+0030#STR0030#ALL#Informe disponible solo en TReport.

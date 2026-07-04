@@ -1,0 +1,18 @@
+0001#STR0001#ALL#Relatorio com listagem de clientes que possuem
+0002#STR0002#ALL#titulos de cobrancas em aberto, informando a
+0003#STR0003#ALL#sequencia e rota de atendimento
+0004#STR0004#ALL#Rota para cobrancas
+0005#STR0005#ALL#Rota para cobrancas
+0006#STR0006#ALL#Lista para cobrancas
+0007#STR0007#ALL#Seq-(CliCod/Sc) Cliente              DDD Telefone   Contato    Endereco                       Bairro                Municipio     UF
+0008#STR0008#ALL#  Titulos -> Prf-Numero         TP  Natureza   Emissao    Vencto     MD   Valor Original   Valor Vencido    Valor a Vencer   Atraso
+0009#STR0009#ALL#Informe qual cobrador deseja imprimir a listagem de cobranca.
+0010#STR0010#ALL#Informe qual rota deseja imprimir a listagem de cobranca.
+0011#STR0011#ALL#Cobrador
+0012#STR0012#ALL#Periodo Vencimento
+0013#STR0013#ALL#De
+0014#STR0014#ALL#Ate
+0015#STR0015#ALL#Sub-total
+0016#STR0016#ALL#TOTAL GERAL
+0017#STR0017#ALL#Rota
+0018#STR0018#ALL#Selecionando Registros...

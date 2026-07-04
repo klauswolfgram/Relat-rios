@@ -1,0 +1,32 @@
+0001#STR0001#ALL#Este programa tem como objetivo imprimir relatório 
+0002#STR0002#ALL#De acordo com os parâmetro s informados pelo utilizador.
+0003#STR0003#ALL#Mapa De Vendas
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0007#STR0007#ALL#A seleccionar os registos para impressão...
+0008#STR0008#ALL#Seleccione correctamente as formas de pagamento para serem impressas no relatório.
+0010#STR0010#ALL#Cx. 
+0012#STR0012#ALL#N.fisc.
+0013#STR0013#ALL#Sér.
+0015#STR0015#ALL#Nome vend       
+0017#STR0017#ALL#Nome cliente        
+0020#STR0020#ALL#Crédito
+0024#STR0024#ALL#Cartão
+0025#STR0025#ALL#Convénio
+0029#STR0029#ALL#Débito
+0030#STR0030#ALL#*** cancelado pelo operador ***
+0031#STR0031#ALL#A imprimir, aguarde...
+0032#STR0032#ALL#*************** devoluções ***************
+0033#STR0033#ALL#S u b  -  t o t a l ---- > caixa: 
+0034#STR0034#ALL#S u b  -  t o t a l ---- > data: 
+0035#STR0035#ALL#S u b  -  t o t a l ---- > filial: 
+0036#STR0036#ALL#T o t a l     g e r a l ---- > 
+0037#STR0037#ALL#Imps.discr.
+0038#STR0038#ALL#Retenções
+0039#STR0039#ALL#Troco           ---- > caixa: 
+0040#STR0040#ALL#Troco           ---- > data: 
+0041#STR0041#ALL#Troco           ---- > filial: 
+0043#STR0043#ALL#Entrada de troco: 
+0051#STR0051#ALL#Dia X Caixa
+0056#STR0056#ALL#Não
+0061#STR0061#ALL#A preparar registos

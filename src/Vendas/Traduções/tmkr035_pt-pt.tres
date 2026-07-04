@@ -1,0 +1,29 @@
+0001#STR0001#ALL#Emissão de eventos de marketing. 
+0002#STR0002#ALL#Este programa irá emitir uma relação dos eventos 
+0003#STR0003#ALL#De Marketing Registados No Call Center.
+0004#STR0004#ALL#Código de barras
+0006#STR0006#ALL#Cancelado Pelo Operador.
+0014#STR0014#ALL#Workshop
+0016#STR0016#ALL#Fórum
+0018#STR0018#ALL#Sim
+0019#STR0019#ALL#Não
+0022#STR0022#ALL#Morada      : 
+0023#STR0023#ALL#Concelho     : 
+0024#STR0024#ALL#Distrito        : 
+0027#STR0027#ALL#Homepage     : 
+0028#STR0028#ALL#Email        : 
+0029#STR0029#ALL#Data início  : 
+0030#STR0030#ALL#Data fim  : 
+0031#STR0031#ALL#Hora início   : 
+0032#STR0032#ALL#Hora fim  : 
+0035#STR0035#ALL# No local/pago
+0036#STR0036#ALL# Convénio
+0038#STR0038#ALL# Convénio/manobrista
+0039#STR0039#ALL# Gratuito C/ Manobrista
+0040#STR0040#ALL#Grelha                      Tema                                      Hr.iní. Hr.fim Data      Sala         Palestrador                     Empresa
+0041#STR0041#ALL#Não existem dados a serem impressos para este relatório com os parâmetros escolhidos
+0043#STR0043#ALL#Escolha a campanha inicial para selecção.
+0044#STR0044#ALL#Até Campanha
+0045#STR0045#ALL#Escolha a campanha final para selecção.
+0046#STR0046#ALL#Registo De Eventos
+0047#STR0047#ALL#Grelha De Eventos

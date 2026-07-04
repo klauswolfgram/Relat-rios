@@ -1,0 +1,28 @@
+0001#STR0001#ALL#This report will print the list of items 
+0002#STR0002#ALL#relating to purchases and returns. 
+0003#STR0003#ALL#List of purchases (supplier) 
+0004#STR0004#ALL#Z Form 
+0005#STR0005#ALL#Administration 
+0006#STR0006#ALL#INVOICE                 PRODUCT         DESCRIPTION                   AMOUNT UM    UNIT PR.       TAXES            VALUE        CODE COMPANY NAME                       TP TE  TYPE GROUP TYPING DT.         COST    
+0007#STR0007#ALL#CANCELED BY OPERATOR 
+0008#STR0008#ALL#INVOICE                 PRODUCT         DESCRIPTION                   AMOUNT UM    UNIT PR.       TAXES            VALUE        CODE COMPANY NAME                       TP TE  TYPE GROUP TYPING DT.         COST    
+0009#STR0009#ALL#Invoice total -> 
+0010#STR0010#ALL#Total of inflows -> 
+0011#STR0011#ALL#Total of outflows -> 
+0012#STR0012#ALL#DIFFERENCE -> 
+0013#STR0013#ALL#<-I N F L O W S-> 
+0014#STR0014#ALL#<-OUTFLOWS -> 
+0015#STR0015#ALL#Taxes   
+0016#STR0016#ALL#Value
+0017#STR0017#ALL#Code  
+0018#STR0018#ALL#Tp
+0019#STR0019#ALL#TE
+0020#STR0020#ALL#Tp
+0021#STR0021#ALL#Inflow/Return inflow document items      
+0022#STR0022#ALL#INVOICE         PRODUCT         DESCRIPTION                   AMOUNT UM    UNIT PR.       TAXES            VALUE        CODE COMPANY NAME                       TP TE  TYPE GROUP TYPING DT.         COST    
+0023#STR0023#ALL#INVOICE         PRODUCT         DESCRIPTION                   AMOUNT UM    UNIT PR.       TAXES            VALUE        CODE COMPANY NAME                       TP TE  TYPE GROUP TYPING DT.         COST    
+0024#STR0024#ALL#MU
+0025#STR0025#ALL#Grp
+0026#STR0026#ALL#Entered Dt.
+0027#STR0027#ALL#Doc
+0028#STR0028#ALL#Lista detallada de compras por proveedor

@@ -1,0 +1,39 @@
+0001#STR0001#ALL#Este Programa tiene como objetivo Imprimir un detalle para comparacion
+0002#STR0002#ALL#de los asientos generados por la RUTINA DE CONTROL DE GANANCIAS/PERDIDAS
+0003#STR0003#ALL#CON LA CUENTA PUENTE.
+0004#STR0004#ALL#Asientos generados por el control de ganancias/perdidas con la cuenta puente
+0005#STR0005#ALL#A rayas
+0006#STR0006#ALL#Administracion
+0007#STR0007#ALL#LI  SEC CUENTA                                                         
+0008#STR0008#ALL#VALOR DEBITO                               VALOR CREDITO
+0008#STR0008#ANG#VALOR DEBITO                               VALOR CREDITO
+0008#STR0008#EQU#VALOR DEBITO                               VALOR CREDITO
+0008#STR0008#HAI#VALOR DEBITO                               VALOR CREDITO
+0008#STR0008#MEX#VALOR CARGO                                VALOR ABONO
+0008#STR0008#PTG#VALOR DEBITO                               VALOR CREDITO
+0009#STR0009#ALL#***** ANULADO POR EL OPERADOR *****
+0010#STR0010#ALL#TOTAL :
+0011#STR0011#ALL#SUBLOTE: 
+0012#STR0012#ALL#FECHA: 
+0013#STR0013#ALL#LOTE: 
+0014#STR0014#ALL#DOC: 
+0014#STR0014#ANG#DOC: 
+0014#STR0014#EQU#DOC: 
+0014#STR0014#HAI#DOC: 
+0014#STR0014#MEX#PLZ: 
+0014#STR0014#PTG#DOC: 
+0015#STR0015#ALL#Valor Debito
+0015#STR0015#ANG#Valor Debito
+0015#STR0015#EQU#Valor Debito
+0015#STR0015#HAI#Valor Debito
+0015#STR0015#MEX#Valor Cargo
+0015#STR0015#PTG#Valor Debito
+0016#STR0016#ALL#Valor Credito
+0016#STR0016#ANG#Valor Credito
+0016#STR0016#EQU#Valor Credito
+0016#STR0016#HAI#Valor Credito
+0016#STR0016#MEX#Valor Abono
+0016#STR0016#PTG#Valor Credito
+0017#STR0017#ALL#Lote
+0018#STR0018#ALL#Detalle
+0019#STR0019#ALL#Seleccionando Registros..

@@ -1,0 +1,12 @@
+0001#STR0001#ALL#Generating report, please wait...
+0002#STR0002#ALL#|  P E N D I N G    |
+0003#STR0003#ALL#|  F I N I S H E D  |
+0004#STR0004#ALL#Insufficient space to print report             
+0005#STR0005#ALL#Error in passing the parameter aCabCamp or aRelTipo
+0006#STR0006#ALL#ERROR SX3
+0007#STR0007#ALL#Z.Form 
+0008#STR0008#ALL#Management   
+0009#STR0009#ALL#Generates a list of NCP requests         	
+0010#STR0010#ALL#Minimum Val.
+0011#STR0011#ALL#Reason
+0012#STR0012#ALL#Request for Credit Note       

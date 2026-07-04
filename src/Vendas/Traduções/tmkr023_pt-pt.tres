@@ -1,0 +1,41 @@
+0001#STR0001#ALL#Prazo De Encerramento - Telemarketing
+0002#STR0002#ALL#Este Programa Irá Emitir Uma Relação Das Ligações
+0003#STR0003#ALL#Realizadas Pelo Operador No Atendimento Telemarketing
+0004#STR0004#ALL#Cofacturaorme os parâmetros previamente definidos
+0005#STR0005#ALL#Código de barras
+0007#STR0007#ALL#Cancelado Pelo Operador
+0008#STR0008#ALL#Não localizado no registo...
+0009#STR0009#ALL#Não indicado no atendimento...
+0010#STR0010#ALL#Não existem dados a serem impressos para este relatório com os parâmetros escolhidos
+0011#STR0011#ALL#Total de atendimentos registados para o período de 
+0013#STR0013#ALL#AVALIAÇÃO DE TEMPOS DO PERÍODO (DIAS)
+0014#STR0014#ALL#Tempo máximo de encerramento
+0015#STR0015#ALL#Tempo mínimo de encerramento
+0016#STR0016#ALL#Tempo médio de encerramento
+0017#STR0017#ALL#Motivo do encerramento                                                          Activo       %
+0018#STR0018#ALL#Motivo do encerramento                                                      Receptivo       %
+0019#STR0019#ALL#Motivo do encerramento                                                          Activo       %          Receptivo       %            Total       %
+0020#STR0020#ALL#Data      Motivo Do Encerramento                                                Activo
+0021#STR0021#ALL#Data      Motivo Do Encerramento                                            Receptivo
+0022#STR0022#ALL#Data      Motivo Do Encerramento                                                Activo                  Receptivo                    Total
+0023#STR0023#ALL#Operador                                                                        Média  Desvio             Máximo                   Mínimo
+0024#STR0024#ALL#                                                                               (dias)  (dias)             (dias)                   (dias)
+0025#STR0025#ALL#Operador                                                                        Motivo do encerramento                                                          Activo       %
+0026#STR0026#ALL#Operador                                                                        Motivo do encerramento                                                      Receptivo       %
+0027#STR0027#ALL#Operador                                                                        Motivo do encerramento                                             Activo       %          Receptivo       %            Total       %
+0028#STR0028#ALL#Total
+0029#STR0029#ALL#Motivo Do Fecho
+0030#STR0030#ALL#Activo
+0031#STR0031#ALL#Receptivo
+0032#STR0032#ALL#Data
+0033#STR0033#ALL#Operador
+0034#STR0034#ALL#Média (dias)
+0035#STR0035#ALL#Desvio (dias)
+0036#STR0036#ALL#Máximo (dias)
+0037#STR0037#ALL#Mínimo (dias)
+0038#STR0038#ALL#Média Geral
+0039#STR0039#ALL#Cabeçalho Do Telemarketing
+0040#STR0040#ALL#Itens Do Telemarketing
+0042#STR0042#ALL#Data X Motivo
+0043#STR0043#ALL#Operador X Máximo X Mínimo
+0044#STR0044#ALL#Motivo X Activo

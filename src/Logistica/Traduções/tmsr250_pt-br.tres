@@ -1,0 +1,27 @@
+0001#STR0001#ALL#Relatorio Diario de Contratos Emitidos
+0002#STR0002#ALL#Este programa ira emitir o relatorio diario de con-
+0003#STR0003#ALL#tratos emitidos de acordo com os parametros escolhi-
+0004#STR0004#ALL#dos pelo usuario
+0005#STR0005#ALL#Zebrado
+0006#STR0006#ALL#Administracao
+0007#STR0007#ALL#CONTRATO DESTINO  NUMERO            VALOR           PESO     CAPACIDADE           KM        CUSTO POR
+0008#STR0008#ALL#                  VIAGEM          CARRETO         TRANSP.      VEICULO    PERCORRIDO         TONELADA
+0009#STR0009#ALL#CANCELADO PELO OPERADOR
+0010#STR0010#ALL#DATA EMISSAO :
+0011#STR0011#ALL#FILIAL ORIGEM :
+0012#STR0012#ALL#TIPO FROTA :
+0013#STR0013#ALL#TERCEIRO
+0014#STR0014#ALL#AGREGADO
+0015#STR0015#ALL#TOTAL DO TIPO ==>>
+0016#STR0016#ALL#TOTAL DA FILIAL ==>>
+0017#STR0017#ALL#Relatorio Diario de Contratos Emitidos
+0018#STR0018#ALL#Este programa ira emitir o relatorio diario de contratos emitidos de acordo com os parametros escolhidos pelo usuario
+0019#STR0019#ALL#Data Contr. + Fil. Origem
+0020#STR0020#ALL#Data Contrato
+0021#STR0021#ALL#Filial Origem
+0022#STR0022#ALL#Frota
+0023#STR0023#ALL#Contrato
+0024#STR0024#ALL#KM Percorrido
+0025#STR0025#ALL#Custo p/ Tonelada
+0026#STR0026#ALL#Total do Tipo
+0027#STR0027#ALL#Total da Filial

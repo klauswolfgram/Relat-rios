@@ -1,0 +1,37 @@
+0001#STR0001#ALL#Billing by Customer
+0002#STR0002#ALL#This report will print the billing list. It can be
+0003#STR0003#ALL#ordered by Customer or by Value (Ranking).    
+0004#STR0004#ALL#considered if 'Generate Trade Note'='(N)' (in TIO)
+0005#STR0005#ALL#Z.Form
+0006#STR0006#ALL#Management
+0007#STR0007#ALL#BILLING BY CUSTOMER  (CODE) -       
+0008#STR0008#ALL#BILLING BY CUSTOMER  (RANKING) -     
+0009#STR0009#ALL#BILLING BY CUSTOMER  (STATE) -      
+0010#STR0010#ALL#CODE/UNIT                 CORPORATE NAME                                 VALUE             VALUE OF                RANKING VALUE
+0011#STR0011#ALL#                                                                         W/o TAXES           GOODS                 TOTAL        
+0012#STR0012#ALL#Selecting Records...
+0013#STR0013#ALL#CANCELLED BY THE OPERATOR
+0014#STR0014#ALL#Total of State of 
+0015#STR0015#ALL#State: 
+0016#STR0016#ALL#T O T A L --->
+0017#STR0017#ALL#Billing by customer    
+0018#STR0018#ALL#This report list billing. It can be                      
+0019#STR0019#ALL#issued by Customer or Amount (Ranking) order.            
+0020#STR0020#ALL#If in TIO is generate trade note (N),will not be computed.
+0021#STR0021#ALL#Value W/o Tax
+0022#STR0022#ALL#Goods Vl.
+0023#STR0023#ALL#TotalAmount
+0024#STR0024#ALL#Ranking
+0025#STR0025#ALL#T O T A L --->
+0026#STR0026#ALL#(Code)  
+0027#STR0027#ALL#(Ranking)
+0028#STR0028#ALL#(State) 
+0029#STR0029#ALL#State:  
+0030#STR0030#ALL#Total for State of 
+0031#STR0031#ALL#Customers
+0032#STR0032#ALL#Billing totalling section        
+0033#STR0033#ALL#Returns totalling section        
+0034#STR0034#ALL#Bill.-Return totalling sect.
+0035#STR0035#ALL#Customer total  
+0036#STR0036#ALL#Total per Ranking
+0037#STR0037#ALL#Total of the State

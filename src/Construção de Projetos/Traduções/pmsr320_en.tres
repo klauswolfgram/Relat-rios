@@ -1,0 +1,19 @@
+0001#STR0001#ALL#This report will print the requested managerial receipt query list, taking into account all the receipts (sales order, receivable bills and bank transaction) linked to the projects.
+0002#STR0002#ALL#Managerial queries - List of revenues     
+0003#STR0003#ALL#Daily
+0004#STR0004#ALL#Weekly
+0005#STR0005#ALL#Ten Days
+0006#STR0006#ALL#Fortnight
+0007#STR0007#ALL#Monthly
+0008#STR0008#ALL#Period 
+0009#STR0009#ALL#       Estm.PV.Vl.           Receipts        Accru. Entries
+0010#STR0010#ALL#Plan code      
+0011#STR0011#ALL#Initial Balance : 
+0012#STR0012#ALL#Receivable Total : 
+0013#STR0013#ALL#Z.Form
+0014#STR0014#ALL#Administration
+0015#STR0015#ALL#Amt.Fore.PV
+0016#STR0016#ALL#Revenues
+0017#STR0017#ALL#Accum.Inflows
+0018#STR0018#ALL#Managerial plan
+0019#STR0019#ALL#Revenue

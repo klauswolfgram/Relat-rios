@@ -1,0 +1,25 @@
+0001#STR0001#ALL#Programação Diária
+0002#STR0002#ALL#Emite a relação das viagens programadas conforme os parâmetro s informados
+0003#STR0003#ALL#Código de barras
+0004#STR0004#ALL#Administração
+0005#STR0005#ALL#Cancelado Pelo Operador
+0006#STR0006#ALL#Viagem    Dt.inicio  Prz.entreg No.docto  Serie Cliente/solicitante  Destinatario         Origem                    Destino                   Veiculo            1o.reboque          2o.reboque         Condutor 
+0007#STR0007#ALL#                                                                                          Produto                   Embalagem                 Volume             Unitizadores        Peso               Peso Cubado
+0008#STR0008#ALL#Total de documentos......: 
+0009#STR0009#ALL#Total geral de documentos: 
+0010#STR0010#ALL#Total de viagens.........: 
+0011#STR0011#ALL#Serviço   de transporte : 
+0012#STR0012#ALL#Programação Diária
+0013#STR0013#ALL#Emite a relação das viagens programadas conforme os parâmetro s informados
+0014#STR0014#ALL#Serv.transp. + Fil.origem + Viagem
+0015#STR0015#ALL#Serv.transp.
+0018#STR0018#ALL#Fil.orig.
+0019#STR0019#ALL#Dt.início
+0020#STR0020#ALL#Prz.entrega
+0023#STR0023#ALL#Série
+0024#STR0024#ALL#Cliente/solicitante
+0037#STR0037#ALL#Peso Bruto
+0038#STR0038#ALL#Total De Viagens
+0039#STR0039#ALL#Total De Documentos
+0040#STR0040#ALL#Total Geral De Documentos
+0041#STR0041#ALL#Total De Viagens

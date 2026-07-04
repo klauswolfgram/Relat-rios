@@ -1,0 +1,15 @@
+0001#STR0001#ALL#Este relatorio tem o objetivo de imprimir a lista de Nao-conformidades
+0002#STR0002#ALL#separadas por areas
+0003#STR0003#ALL#Listagem de Nao-conformidades
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#NUMERO     DATA                                         PONTOS               AUDITOR
+0007#STR0007#ALL#AUDITORIA  INICIO     ENCERRAM   REFERENC   REAL        POSSIV.    OBTIDOS   CODIGO   NOME
+0008#STR0008#ALL#Descricao da Auditoria
+0009#STR0009#ALL#Esta auditoria se destina a seguintes areas
+0010#STR0010#ALL#AREA                                      NORMA       ITEM   DESCRICAO
+0011#STR0011#ALL#Total de nao-conformidades na area -> 
+0012#STR0012#ALL#Total de nao-conformidades na Auditoria -> 
+0013#STR0013#ALL#Area
+0014#STR0014#ALL#Total de NC Area
+0015#STR0015#ALL#Total de NC Auditoria

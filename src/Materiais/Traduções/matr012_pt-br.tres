@@ -1,0 +1,11 @@
+0001#STR0001#ALL#Relatorio de Correlacao
+0002#STR0002#ALL#Este relatorio irá imprimir o Relatorio de Correla-
+0003#STR0003#ALL#ções em ordem cronológica de acordo com o NSU.     
+0004#STR0004#ALL#Vr.Bruto (Saida)
+0005#STR0005#ALL#Vr.Bruto (Entrada)
+0006#STR0006#ALL#Saldo R$
+0007#STR0007#ALL#Zebrado
+0008#STR0008#ALL#Administracao
+0009#STR0009#ALL#NSU        Serie Documento Data Uso Hr Uso Motivo                                        V.Bruto (Saida) V. Bruto (Entrada)
+0010#STR0010#ALL#Codigo          Descricao                                                                                          Saldo R$
+0011#STR0011#ALL#Selecionando Registros...

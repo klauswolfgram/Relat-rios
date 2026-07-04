@@ -1,0 +1,14 @@
+0001#STR0001#ALL#Este programa irá imprimir o Balancete de Inventário
+0002#STR0002#ALL#conta é impressa limitando a 20 caracteres e sua descrição está limitada a 30 caracteres.
+0003#STR0003#ALL#Balancete de Inventário
+0004#STR0004#ALL#BALANCETE DE INVENTARIO DE 
+0005#STR0005#ALL#Plano de Contas
+0006#STR0006#ALL#Conta
+0007#STR0007#ALL#Descricao
+0008#STR0008#ALL# Saldo 
+0009#STR0009#ALL#Favor preencher os parametros Grupos de Receitas/Despesas e Data Sld. Ant. Receitas/Despesas  ou
+0010#STR0010#ALL#Deixar o parametro  Ignora Sld. Ant. Receita/Despesa = Nao 
+0011#STR0011#ALL#Ignora Sld. Ant. Receita/Despesa
+0012#STR0012#ALL# ATE 
+0013#STR0013#ALL# EM 
+0014#STR0014#ALL#Criando arquivo temporario.....

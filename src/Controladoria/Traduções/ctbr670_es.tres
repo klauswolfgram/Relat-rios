@@ -1,0 +1,27 @@
+0001#STR0001#ALL#Este programa tiene el objetivo de emitir la relacion
+0002#STR0002#ALL#de lotes/documentos donde el debito es diferente del credito.
+0003#STR0003#ALL#A Rayas
+0004#STR0004#ALL#Administracion
+0005#STR0005#ALL#Relacion de Asientos con Diferencia
+0006#STR0006#ALL#Relacion de Pre-Asientos con Diferencia
+0007#STR0007#ALL#Fecha      Lote   Sublote
+0008#STR0008#ALL#***** ANULADO POR EL OPERADOR *****
+0009#STR0009#ALL#Selecionando Registros...
+0010#STR0010#ALL#Total Credito:
+0010#STR0010#MEX#Total Abono
+0011#STR0011#ALL#Total Debito:
+0011#STR0011#MEX#Total Cargo
+0012#STR0012#ALL#Diferencia DC:
+0013#STR0013#ALL#Docto.  Linea DC Cta.Debito            Cta.Credito                       Valor Historial
+0013#STR0013#MEX#Docto.  Linea DC Cta.Cargo             Cta.Abono                         Valor Historial
+0014#STR0014#ALL#Total General
+0015#STR0015#ALL#Leyenda: DC (1=Debito/2=Credito/3=Partida Doble)
+0016#STR0016#ALL#Total Informado:
+0017#STR0017#ALL#Total:
+0018#STR0018#ALL#Dif. Informado:
+0019#STR0019#ALL#¡No se localizo registro con diferencia ! Si fuera necesario ejecute el reprocesamiento.
+0020#STR0020#ALL#Documento
+0021#STR0021#ALL#Lote
+0022#STR0022#ALL#Asientos
+0023#STR0023#ALL#Total
+0024#STR0024#ALL#Historial de Documento Contable

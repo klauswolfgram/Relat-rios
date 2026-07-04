@@ -1,0 +1,32 @@
+0001#STR0001#ALL#Este programa irá imprimir o balancete de verificação modelo 2 (220 colunas), onde
+0002#STR0002#ALL#A conta é impressa, limitando-se a 70 caracteres e a sua descrição a 40 caracteres,
+0003#STR0003#ALL#Balancete De Verificação
+0004#STR0004#ALL#|                                                                       |                                                            |                     |             movimento do mês              |                   |
+0005#STR0005#ALL#|             c ó d i g o   d a    c o n t a                            |             d e s c r i ç ã o                              |   saldo anterior    |      débito        |     crédito          |     saldo actual   |
+0005#STR0005#ANG#|             C Ó D I G O   D A    C O N T A                            |             D E S C R I Ç Ã O                              |   SALDO ANTERIOR    |      DÉBITO        |     CRÉDITO          |     SALDO ATUAL   |
+0005#STR0005#EQU#|             C Ó D I G O   D A    C O N T A                            |             D E S C R I Ç Ã O                              |   SALDO ANTERIOR    |      DÉBITO        |     CRÉDITO          |     SALDO ATUAL   |
+0005#STR0005#HAI#|             C Ó D I G O   D A    C O N T A                            |             D E S C R I Ç Ã O                              |   SALDO ANTERIOR    |      DÉBITO        |     CRÉDITO          |     SALDO ATUAL   |
+0005#STR0005#MEX#|             c ó d i g o   d a    c o n t a                            |             d e s c r i ç ã o                              |   saldo anterior    |      débito        |     crédito          |     saldo actual   |
+0005#STR0005#PTG#|             c ó d i g o   d a    c o n t a                            |             d e s c r i ç ã o                              |   saldo anterior    |      débito        |     crédito          |     saldo actual   |
+0006#STR0006#ALL#D o  b a l a n c e t e   d e   v e r i f i c a ç ã o   a n a l í t i c o   
+0007#STR0007#ALL#  até  
+0008#STR0008#ALL#  em  
+0009#STR0009#ALL#D o  b a l a n c e t e   d e   v e r i f i c a ç ã o   s i n t é t i c o  
+0010#STR0010#ALL#***** cancelado pelo operador *****
+0011#STR0011#ALL#T O T A I S  D O  P E R í O D O:
+0012#STR0012#ALL#A Seleccionar Registos...
+0013#STR0013#ALL#Código de barras
+0014#STR0014#ALL#Administração
+0015#STR0015#ALL#A Criar Ficheiro Temporário...
+0016#STR0016#ALL#Sendo, Assim, Ideal Para Códigos De Contas Extensos.
+0017#STR0017#ALL#D  o   b a l a n c e t e   d e   v e r i f i c a ç ã o  
+0018#STR0018#ALL#T o t a i s  d o  g r u p o (
+0019#STR0019#ALL#|             c ó d i g o   d a    c o n t a                            |      d e s c r i ç ã o                |  saldo anterior      |     débito         |     crédito        | movimento período   |   saldo actual     |
+0019#STR0019#ANG#|             C Ó D I G O   D A    C O N T A                            |      D E S C R I Ç Ã O                |  SALDO ANTERIOR      |     DÉBITO         |     CRÉDITO        | MOVIMENTO PERÍODO   |   SALDO ATUAL     |
+0019#STR0019#EQU#|             C Ó D I G O   D A    C O N T A                            |      D E S C R I Ç Ã O                |  SALDO ANTERIOR      |     DÉBITO         |     CRÉDITO        | MOVIMENTO PERÍODO   |   SALDO ATUAL     |
+0019#STR0019#HAI#|             C Ó D I G O   D A    C O N T A                            |      D E S C R I Ç Ã O                |  SALDO ANTERIOR      |     DÉBITO         |     CRÉDITO        | MOVIMENTO PERÍODO   |   SALDO ATUAL     |
+0019#STR0019#MEX#|             c ó d i g o   d a    c o n t a                            |      d e s c r i ç ã o                |  saldo anterior      |     débito         |     crédito        | movimento período   |   saldo actual     |
+0019#STR0019#PTG#|             c ó d i g o   d a    c o n t a                            |      d e s c r i ç ã o                |  saldo anterior      |     débito         |     crédito        | movimento período   |   saldo actual     |
+0020#STR0020#ALL#Div.
+0021#STR0021#ALL#Favor preencher os parâmetros grupos receitas/despesas e data sld ant. receitas/despesas ou 
+0022#STR0022#ALL#Deixar o parâmetro ignora sl ant.rec/des = não 

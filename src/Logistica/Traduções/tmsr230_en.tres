@@ -1,0 +1,18 @@
+0001#STR0001#ALL#Cargo flow by branch
+0002#STR0002#ALL#This report will print the cargo flow per branch.
+0003#STR0003#ALL#Z.form
+0004#STR0004#ALL#Management
+0005#STR0005#ALL#ISSUE             CTRC                REAL WEIGHT         CUBIC WEIGHT        GOODS VAL.           VOLUMES             FREIGHT VAL.
+0006#STR0006#ALL#Selecting records...
+0007#STR0007#ALL#CANCELED BY OPERATOR
+0008#STR0008#ALL#Totals: 
+0009#STR0009#ALL#Origin branch: 
+0010#STR0010#ALL#Destinat. branch: 
+0011#STR0011#ALL#There is no data for printing this report.
+0012#STR0012#ALL#Cargo flow per branch
+0013#STR0013#ALL#This report prints cargo flow per branch.
+0014#STR0014#ALL#Origin Bra.+ Destin Bra.
+0015#STR0015#ALL#Cargo flow
+0016#STR0016#ALL#Description
+0017#STR0017#ALL#Document
+0018#STR0018#ALL#Num. Doct.

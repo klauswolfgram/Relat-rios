@@ -1,0 +1,11 @@
+0001#STR0001#ALL#Este programa irá emitir uma relação dos artigos dos concorrentes
+0002#STR0002#ALL#Comparando com os artigos da base de dados.
+0003#STR0003#ALL#A emissão irá ocorrer baseada nos parâmetros do relatório
+0004#STR0004#ALL#Código de barras
+0006#STR0006#ALL#Cancelado Pelo Operador
+0007#STR0007#ALL#Nosso Artigo
+0009#STR0009#ALL#Nome Do Concorrente                              Preço Pesquisa   Concelho                         BI Observação
+0010#STR0010#ALL#Não há informações para imprimir este relatório
+0011#STR0011#ALL#Registo De Concorrentes
+0012#STR0012#ALL#Nossos Artigos
+0013#STR0013#ALL#Lista De Concorrentes

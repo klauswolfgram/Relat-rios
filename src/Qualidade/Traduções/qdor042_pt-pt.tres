@@ -1,0 +1,13 @@
+0001#STR0001#ALL#Lista Mestra De Documentos Por Departamento
+0002#STR0002#ALL#Este programa irá imprimir uma relação dos documentos,
+0003#STR0003#ALL#Os seus criadores, revisores, aprovadores com quebra
+0004#STR0004#ALL#por departamento e parâmetros seleccionados pelo utilizador.
+0005#STR0005#ALL#Código de barras
+0006#STR0006#ALL#Administração
+0007#STR0007#ALL#A Seleccionar Registos..
+0009#STR0009#ALL#Cancelado Pelo Operador
+0010#STR0010#ALL#Documento          Rev. Título
+0011#STR0011#ALL#Criadores    revisores       aprovadores     
+0012#STR0012#ALL#Vigência
+0013#STR0013#ALL#De filial dept.    ?
+0014#STR0014#ALL#Até filial dept.   ?

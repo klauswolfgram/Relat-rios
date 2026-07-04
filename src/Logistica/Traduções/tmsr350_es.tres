@@ -1,0 +1,21 @@
+0001#STR0001#ALL#Lista de Direcciones para Embarque
+0002#STR0002#ALL#Emite Lista de direcciones para Embarque
+0003#STR0003#ALL#conforme los parametros informados
+0004#STR0004#ALL#A Rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#Seleccionando Registros...
+0007#STR0007#ALL#Seleccionando Registro en el DUH...
+0008#STR0008#ALL#REGION DE ORIGEN               ALMACEN DIRECCION        FACTURAS DOCUMENTOS VOLUMEN FECHA     HORA          PESO VALOR DE MERCADERIA 
+0009#STR0009#ALL#SUCURSAL DE DESTINO: 
+0010#STR0010#ALL# - 
+0011#STR0011#ALL#CANCELADO POR EL OPERADOR
+0012#STR0012#ALL#TOTAL POR SUCURSAL DE DESTINO ===> 
+0013#STR0013#ALL#TOTAL GENERAL DEL INFORME ===> 
+0014#STR0014#ALL#Lista de Direcciones para embarque
+0015#STR0015#ALL#Emite lista de direcciones para embarque segun los parametros informados
+0016#STR0016#ALL#Sucursal Destino + Región Origen
+0017#STR0017#ALL#Sucursal Destino
+0018#STR0018#ALL#Region Origen
+0019#STR0019#ALL#Direcciones
+0020#STR0020#ALL#Notas
+0021#STR0021#ALL#Documentos

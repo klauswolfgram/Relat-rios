@@ -1,0 +1,23 @@
+0001#STR0001#ALL#Cronograma - APQP
+0002#STR0002#ALL#Generando Visualizacion, Espere...
+0003#STR0003#ALL#OBSERVACIONES GENERALES DEL CRONOGRAMA
+0004#STR0004#ALL#Numero de Pieza(Cliente)
+0005#STR0005#ALL#Rev/Fecha de Diseno
+0006#STR0006#ALL#Nombre de la Pieza
+0007#STR0007#ALL#Cliente
+0008#STR0008#ALL#Pagina
+0009#STR0009#ALL#Proveedor
+0010#STR0010#ALL#Aprobado Por
+0011#STR0011#ALL#Numero/Rev Pieza(Proveedor)
+0012#STR0012#ALL#Fecha
+0013#STR0013#ALL#Actividad
+0014#STR0014#ALL#Responsable
+0015#STR0015#ALL#Inicio
+0016#STR0016#ALL#Fin
+0017#STR0017#ALL#Risco
+0018#STR0018#ALL#Prev
+0019#STR0019#ALL#Observaciones
+0020#STR0020#ALL#Real
+0021#STR0021#ALL#Previsto
+0022#STR0022#ALL#Realizado
+0023#STR0023#ALL#La tabla QKP (ETAPAS DEL CRONOGRAMA) debe ser actualizada para emision de este informe. Favor entrar en contacto con soporte Microsiga.

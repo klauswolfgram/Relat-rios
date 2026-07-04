@@ -1,0 +1,14 @@
+0001#STR0001#ALL# Este programa irá imprimir o Balancete de Verificação (MODO PAISAGEM), a
+0002#STR0002#ALL#conta é impressa limitando-se a 20 caracteres e sua descrição 40 caracteres,
+0004#STR0004#ALL#Listagem impressa somente em modo gráfico
+0017#STR0017#ALL#Por favor, preencha os parâmetros Grupos Receitas/Despesas e Data Sld Ant. Receitas/Despesas ou
+0018#STR0018#ALL#deixar o parâmetro Ignora Sl.Ant.Rec/Des = Não 
+0019#STR0019#ALL#A Seleccionar Registos...
+0020#STR0020#ALL#A Criar Ficheiro Temporário...
+0021#STR0021#ALL#Saldo Fin. Balanço
+0022#STR0022#ALL#Saldo Fin.Função
+0023#STR0023#ALL#Activo
+0031#STR0031#ALL#¿Generar archivo TXT?
+0032#STR0032#ALL#Generando archivo...
+0033#STR0033#ALL#Archivo Txt generado con éxito.
+0034#STR0034#ALL#Ocurrió un error al crear el archivo Txt.

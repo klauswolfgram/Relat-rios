@@ -1,0 +1,30 @@
+0001#STR0001#ALL#Destino/Saída
+0002#STR0002#ALL#Impressora
+0003#STR0003#ALL#Salvar em Disco
+0004#STR0004#ALL#Salvar como
+0005#STR0005#ALL#PDF
+0006#STR0006#ALL#DOC
+0007#STR0007#ALL#Versão MS Word
+0008#STR0008#ALL#Word 97/2003
+0009#STR0009#ALL#Word 2010/2013
+0010#STR0010#ALL#Este programa tem por objetivo realizar a impressao do Termo de Entrega de Uniformes
+0011#STR0011#ALL#utilizando a integracao com o Microsoft Word. O modelo para impressão deverá
+0012#STR0012#ALL#estar disponível na pasta: 
+0013#STR0013#ALL#Parâmetros
+0014#STR0014#ALL#Impressão Termo de Entrega De Uniformes
+0015#STR0015#ALL#Aguarde...
+0016#STR0016#ALL#Realizando a impressao do documento...
+0017#STR0017#ALL#ATENÇÃO
+0018#STR0018#ALL#Não é possível realizar a geração do documento no formato "PDF" para versao 97/2003 do Microsoft Word. O formato do documento será reajustado para "DOC"
+0019#STR0019#ALL#OK
+0020#STR0020#ALL#O arquivo 
+0021#STR0021#ALL# não existe! Entre em contato com o Administrador do sistema.
+0022#STR0022#ALL#Arquivo
+0023#STR0023#ALL#Selecione a pasta para gravação.
+0024#STR0024#ALL#Processo cancelado pelo usuário!
+0025#STR0025#ALL#Você não possuí permissão de gravação para pasta selecionada. Tente Selecionar outra pasta.
+0026#STR0026#ALL#Não foi possível transferir o modelo Word do Servidor para sua estação de trabalho! Tente reiniciar o computador. Caso o problema persista, entre em contato com o Administrador do sistema
+0027#STR0027#ALL#Não foi possível estabelecer a conexao com o MS-Word!
+0028#STR0028#ALL#Impressão/Geração realizada com sucesso!
+0029#STR0029#ALL#Não há dados para impressão. Verifique os parâmetros informados!
+0030#STR0030#ALL#Não foi possível estabelecer a conexao com o MS-Word!

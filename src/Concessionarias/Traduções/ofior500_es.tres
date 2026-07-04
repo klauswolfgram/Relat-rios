@@ -1,0 +1,25 @@
+0001#STR0001#ALL#Estado de Contrato/Acuerdo Mantenimiento
+0002#STR0002#ALL#A rayas
+0003#STR0003#ALL#Administracion
+0004#STR0004#ALL#Informe de Posventa - Scania
+0005#STR0005#ALL#                        -------------Preditiva -------------  -------------Preventiva-------------  ----------------Corretiva---------------------
+0006#STR0006#ALL#                        Estand -Trabaj -H.Valores --Piezas  Estand -Trabaj -H.Valores --Piezas  Estand -Trabaj  -H.Valores  Piezas   -Lubrican     --Srv.Terc. ---Odometro -------Total --Pago      Costo p/ Km
+0007#STR0007#ALL#Maxima
+0008#STR0008#ALL#Media
+0009#STR0009#ALL#Minima
+0010#STR0010#ALL#Total General
+0011#STR0011#ALL#                       ---------------------Garantia---------------------- ---------------------Cliente-----------------------
+0012#STR0012#ALL#	                       -Estand -Trabaj --H.Valores --Piezas --Srv.Terc. -Estand -Trabaj --H.Valores --Piezas --Srv.Terc.
+0013#STR0013#ALL#Vendedor 
+0014#STR0014#ALL#Tp Tpo p/MOB Publi-Serv.
+0015#STR0015#ALL#Cliente  
+0016#STR0016#ALL#Tienda     
+0017#STR0017#ALL#Chasis   
+0018#STR0018#ALL#Consultor
+0019#STR0019#ALL#Fecha Inicial
+0020#STR0020#ALL#Fecha Final
+0021#STR0021#ALL#Tipo de Informe
+0022#STR0022#ALL#Listar
+0023#STR0023#ALL#Valores
+0024#STR0024#ALL#Tp Tpo p/MOB Publi-Pec
+0025#STR0025#ALL#Formula p/ Piezas

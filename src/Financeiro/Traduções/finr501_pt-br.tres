@@ -1,0 +1,36 @@
+0001#STR0001#ALL#Liquidacoes Financeiras
+0002#STR0002#ALL#Este relatorio irá imprimir o extrato de Liquidacoes 
+0003#STR0003#ALL#Financeiras.
+0004#STR0004#ALL#LIQUIDACAO : 
+0005#STR0005#ALL#No. da Liquidação
+0006#STR0006#ALL#Titulos Liquidados
+0007#STR0007#ALL#PRF
+0008#STR0008#ALL#NUMERO
+0009#STR0009#ALL#PARCELA
+0010#STR0010#ALL#TIPO
+0011#STR0011#ALL#EMISSAO
+0012#STR0012#ALL#EMITENTE
+0013#STR0013#ALL#VALOR
+0014#STR0014#ALL#JUROS
+0015#STR0015#ALL#DESCONTOS
+0016#STR0016#ALL#BANCO
+0017#STR0017#ALL#AGENCIA
+0018#STR0018#ALL#CONTA
+0019#STR0019#ALL#Selecionando Registros...
+0020#STR0020#ALL#A Receber
+0021#STR0021#ALL#Baixa Parc. 
+0022#STR0022#ALL#Baixado
+0023#STR0023#ALL#Gerado
+0024#STR0024#ALL#Total Liq. 
+0025#STR0025#ALL#Totais 
+0026#STR0026#ALL#Observações: 
+0027#STR0027#ALL#- Os títulos baixados são impressos com o valor original, independente da forma da baixa. 
+0028#STR0028#ALL#- Os totalizadores consideram o valor total da liquidação ou dos títulos gerados/baixados.
+0029#STR0029#ALL#STATUS
+0030#STR0030#ALL#Código
+0031#STR0031#ALL#Empresa
+0032#STR0032#ALL#Unidade de negócio
+0033#STR0033#ALL#Filial
+0034#STR0034#ALL#Filiais selecionadas para o relatorio
+0035#STR0035#ALL#VALOR LIQUIDADO
+0036#STR0036#ALL#Vlr. Acessorio

@@ -1,0 +1,14 @@
+0002#STR0002#ALL#Este programa irá emitir uma relação das
+0003#STR0003#ALL#Atendimentos de cobrança separados por
+0004#STR0004#ALL#Ocorrências.
+0005#STR0005#ALL#Código de barras
+0008#STR0008#ALL#Data      Hora    Código  Ocorrência                Contr.                 Telefone         Razão Social                          Valor
+0009#STR0009#ALL#Cancelado Pelo Operador
+0011#STR0011#ALL#A seleccionar as ocorrências...
+0012#STR0012#ALL#Total Do Operador
+0013#STR0013#ALL#Quantidade Da Ocorrência
+0014#STR0014#ALL#Total Crial
+0015#STR0015#ALL#Quantidade Da Ocorrência
+0016#STR0016#ALL#Ocorrência não indicada
+0017#STR0017#ALL#Total cobrado pelo operador 
+0023#STR0023#ALL#Ocorrências Registadas

@@ -1,0 +1,39 @@
+0001#STR0001#ALL#Frota dos Clientes CEV
+0002#STR0002#ALL#Cliente                             Segmento        Cidade-UF                    
+0003#STR0003#ALL#R  E  S  U  M  O
+0004#STR0004#ALL# [Outras]  TOTAL
+0005#STR0005#ALL#Cliente                              Qtde.IMd Qtde.IMd Qtde.IMd Qtde.IMd Qtde.IMd Qtde.IMd Qtde.IMd Qtde.IMd Qtde.IMd Qtde.IMd Qtde.IMd
+0006#STR0006#ALL#Marca/Modelo              Categoria       Operacao        Fab./Mod.  Qtde Dt.Atualiz
+0007#STR0007#ALL#Idade Media:
+0008#STR0008#ALL# anos      Total...:
+0009#STR0009#ALL#T O T A L   G E R A L
+0010#STR0010#ALL#Cliente
+0011#STR0011#ALL#Loja
+0012#STR0012#ALL#Zebrado
+0013#STR0013#ALL#Administração
+0014#STR0014#ALL#Nivel Importancia Cliente
+0015#STR0015#ALL#Segmento do Cliente
+0016#STR0016#ALL#Região de atuação
+0017#STR0017#ALL#Filtra apenas a Marca
+0018#STR0018#ALL#Tipo de Relatorio
+0019#STR0019#ALL#Resumido
+0020#STR0020#ALL#Sintetico
+0021#STR0021#ALL#Analitico
+0022#STR0022#ALL#Marca 1a Coluna
+0023#STR0023#ALL#Marca 2a Coluna
+0024#STR0024#ALL#Marca 3a Coluna
+0025#STR0025#ALL#Marca 4a Coluna
+0026#STR0026#ALL#Marca 5a Coluna
+0027#STR0027#ALL#Marca 6a Coluna
+0028#STR0028#ALL#Marca 7a Coluna
+0029#STR0029#ALL#Marca 8a Coluna
+0030#STR0030#ALL#Marca 9a Coluna
+0031#STR0031#ALL#Veiculos ou Equipamentos
+0032#STR0032#ALL#Veiculos
+0033#STR0033#ALL#Equipamentos
+0034#STR0034#ALL#Vendedor de Peças
+0035#STR0035#ALL#Vendedor de Serviços
+0036#STR0036#ALL#Vendedor de Veic.Novos
+0037#STR0037#ALL#Vendedor de Veic.Usados
+0038#STR0038#ALL#Vendedor de Pneus
+0039#STR0039#ALL#Vendedor de Outros

@@ -1,0 +1,42 @@
+0001#STR0001#ALL#Cenário de Telecobrança
+0002#STR0002#ALL#Este programa irá emitir uma relação dos Grupos de Atendimento e as regras que cada Grupo possui.
+0003#STR0003#ALL#A emissão ocorrerá baseada nos parâmetros do relatório
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#CANCELADO PELO OPERADOR
+0007#STR0007#ALL#GRUPO DE ATENDIMENTO
+0008#STR0008#ALL#Código do Grupo de Atendimento:
+0009#STR0009#ALL#Descrição do Grupo de Atendimento:
+0010#STR0010#ALL#Código da regra de Seleção:
+0011#STR0011#ALL#Descrição da Regra de Seleção:
+0012#STR0012#ALL#Código da Regra de Negociação:
+0013#STR0013#ALL#Descrição da Regra de Negociação:
+0014#STR0014#ALL#Tipo de Grupo Interno/Externo:
+0015#STR0015#ALL#Envia e-mail no Telecobrança:
+0016#STR0016#ALL#REGRA DE SELEÇÃO
+0017#STR0017#ALL#Ordem:
+0018#STR0018#ALL#Prazo:
+0019#STR0019#ALL#Prefixo:
+0020#STR0020#ALL#Natureza:
+0021#STR0021#ALL#Situação:
+0022#STR0022#ALL#Portador:
+0023#STR0023#ALL#REGRA DE NEGOCIAÇÃO
+0024#STR0024#ALL#Título
+0025#STR0025#ALL#Crédito
+0026#STR0026#ALL#Seleção
+0027#STR0027#ALL#Reagendar
+0028#STR0028#ALL#Prorrogação
+0029#STR0029#ALL#Prz. Desconto
+0030#STR0030#ALL#Desc. Nominal
+0031#STR0031#ALL#Desc. Juros
+0032#STR0032#ALL#Acréscimo
+0033#STR0033#ALL#Decréscimo
+0034#STR0034#ALL#Operador  Nome Reduzido      Nome                                        Atendimento        Região   Valido   Tipo          Habilidade
+0035#STR0035#ALL#Arquivo de Referências atualizado em: 
+0036#STR0036#ALL#PROMOÇÃO DE COBRANÇA
+0037#STR0037#ALL#Código      Descrição                           Inicio        Fim           Vencto Ini    Vencto Fim    Prz Desc    Desc Nom.  Desc Jur
+0038#STR0038#ALL#Não há informações a serem impressas neste relatório com os parâmetros informados
+0039#STR0039#ALL#Detalhes do Grupo de Atendimento
+0040#STR0040#ALL#Operadores
+0041#STR0041#ALL#Detalhes da promoção de cobrança
+0042#STR0042#ALL#Itens da promoçaõ de cobrança

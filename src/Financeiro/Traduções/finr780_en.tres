@@ -1,0 +1,28 @@
+0001#STR0001#ALL#This program has the purpose of printing the history 
+0002#STR0002#ALL#rical cash transactions.                           
+0003#STR0003#ALL#Historical Transactions
+0004#STR0004#ALL#Date          Entry            Exit               Document 
+0005#STR0005#ALL#Z.Form 
+0006#STR0006#ALL#Management   
+0007#STR0007#ALL#Selecting Records     
+0008#STR0008#ALL#CASH TRANSACTION  
+0009#STR0009#ALL#PRIOR BALANCE................:
+0010#STR0010#ALL#CASH INFLOWS.................:
+0011#STR0011#ALL#SUBTOTAL....................:
+0012#STR0012#ALL#CASH OUTFLOW.................:
+0013#STR0013#ALL#BALANCE......................:
+0014#STR0014#ALL#BALANCE COMPOSITION                            PAYABLE               RECEIVABLE
+0015#STR0015#ALL#SPECIES......................:
+0016#STR0016#ALL#DEPOSIT CHECK................:
+0017#STR0017#ALL#ADVANCE PAYMENTS.............:
+0018#STR0018#ALL#TEMPORARY RECEIPTS...........:
+0019#STR0019#ALL#CHECKS F/ PAYMENT...........:
+0020#STR0020#ALL#INVOICING....................:
+0021#STR0021#ALL#OTHERS.......................:
+0022#STR0023#ALL#   Issue 
+0023#STR0024#ALL#   Time: 
+0024#STR0025#ALL#   Page: 
+0025#STR0026#ALL#Historical Activities   
+0026#STR0027#ALL#Sequence of Cash No.    
+0027#STR0028#ALL#Company: 
+0028#STR0029#ALL#Transactions of Day 

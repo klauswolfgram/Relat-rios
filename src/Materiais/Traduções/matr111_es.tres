@@ -1,0 +1,65 @@
+0001#STR0001#ALL#Emision de los pedidos de compras o autorizaciones de entrega
+0002#STR0002#ALL#registrados y que aun no se imprimieron
+0003#STR0003#ALL#Emision de los Pedidos de Compras o Autorizaciones de Entrega
+0004#STR0004#ALL#A Rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#ANULADO POR EL OPERADOR
+0007#STR0007#ALL#D E S C U E N T O S ->
+0008#STR0008#ALL#Local de Entrega  : 
+0009#STR0009#ALL#CP :
+0010#STR0010#ALL#Local de Cobranza:
+0011#STR0011#ALL#Condicion de pago 
+0012#STR0012#ALL#| Fecha emision
+0013#STR0013#ALL#Total de las mercaderias:
+0014#STR0014#ALL#Reajuste :
+0015#STR0015#ALL#| I V A: 
+0016#STR0016#ALL#| Observaciones:
+0017#STR0017#ALL#| Grupo :
+0018#STR0018#ALL#| Total general:
+0019#STR0019#ALL#Aprobacion del pedido
+0020#STR0020#ALL#Obs. del flete:
+0021#STR0021#ALL#Comprador
+0022#STR0022#ALL#Gerencia
+0023#STR0023#ALL#Directoria
+0024#STR0024#ALL#|   NOTA: Solo aceptaremos la mercaderia si en su Factura consta el numero de nuestro Pedido de Compras.
+0025#STR0025#ALL#| Observaciones
+0026#STR0026#ALL#| Comprador    
+0027#STR0027#ALL#| Gerencia     
+0028#STR0028#ALL#| Directoria   
+0029#STR0029#ALL#|   NOTA: Solo aceptaremos la mercaderia si en su Factura consta el numero de la Autorizacion de Entrega.
+0030#STR0030#ALL#Continua ...
+0031#STR0031#ALL#| P E D I D O  D E  C O M P R A S
+0032#STR0032#ALL#| A U T.   D E   E N T R E G A   
+0033#STR0033#ALL# - continuacion
+0034#STR0034#ALL#a.Emision 
+0035#STR0035#ALL#a.Cop
+0036#STR0036#ALL#I.E.:
+0037#STR0037#ALL#TEL:  
+0038#STR0038#ALL#FAX:  
+0039#STR0039#ALL#Num.Contrib.: 
+0040#STR0040#ALL#Num.Contrib.: 
+0041#STR0041#ALL#IE :
+0042#STR0042#ALL#TEL.: 
+0043#STR0043#ALL#Item|
+0044#STR0044#ALL#Codigo      
+0045#STR0045#ALL#|Descripcion del Material
+0046#STR0046#ALL#|UM|  Cant.
+0047#STR0047#ALL#|Valor Unitario|IVA  |  Valor Total   | Entrega  |  CCOSTO            | S.C. |
+0048#STR0048#ALL#|Valor Unitario|  Valor Total   | Entrega  | Numero de la OP
+0049#STR0049#ALL#| Flete :
+0050#STR0050#ALL# P E D I D O   A P R O B A D O
+0051#STR0051#ALL# P E D I D O   B L O Q U E A D O 
+0052#STR0052#ALL#Comprador Responsable :
+0053#STR0053#ALL#Compradores Alternativos :
+0054#STR0054#ALL#Aprobador(es) :
+0055#STR0055#ALL#|Valor Unitario|IVA  |  Valor Total   | Entrega  |  CCOSTO | S.C. |
+0056#STR0056#ALL#|Valor Unitario|      Valor Total     | Entrega  |  CCOSTO            | S.C. |
+0057#STR0057#ALL#|Valor Unitario|      Valor Total     | Entrega  |  CCOSTO | S.C. |
+0058#STR0058#ALL#| COSTOS :
+0059#STR0059#ALL#| SEGURO :
+0060#STR0060#ALL#BLQ:Bloqueado
+0061#STR0061#ALL#Ok:Aprobado
+0062#STR0062#ALL#??:Esper.Lib
+0063#STR0063#ALL#Total de los Impuestos:
+0064#STR0064#ALL#Total com Impuestos:
+0065#STR0065#ALL#Imp.  Alic.    Vlr.Impuesto

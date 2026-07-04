@@ -1,0 +1,14 @@
+0001#STR0001#BRA#Este programa tiene como objetivo imprimir informe 
+0002#STR0002#BRA#estado demostr. para empresas bajo el regimen de  
+0003#STR0003#BRA#sustitucion tributaria de Minas Gerais
+0004#STR0004#BRA#Demostrativo Regimen ICMS ST - MG
+0005#STR0005#BRA#A Rayas
+0006#STR0006#BRA#Administrac.
+0007#STR0007#BRA#Cod. NCM    Cod.EAN13        Cod.Propio                      Un. Descripcion                       Cantidad       VLUnitario       Vl. Total    MVA  Base de Calculo  Alicuota       Vl.ICMS  Fc.Corte   CNPJ Sucursal
+0008#STR0008#BRA#TOTAL ENTRADAS ------------------------------------->      
+0009#STR0009#BRA#TOTAL SALIDAS  ------------------------------------->      
+0010#STR0010#BRA#Datos no encontrados
+0011#STR0011#BRA#*** ANULADO POR EL OPERADOR ***
+0012#STR0012#BRA#TOTAL GENERAL ENTRADAS ----------------------------->      
+0013#STR0013#BRA#TOTAL GENERAL SALIDAS ------------------------------>      
+0014#STR0014#BRA#---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

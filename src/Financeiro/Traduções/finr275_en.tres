@@ -1,0 +1,14 @@
+0001#STR0001#ALL#Z-Form
+0002#STR0002#ALL#Management   
+0003#STR0003#ALL#Summary of customers who paid in cash.
+0004#STR0004#ALL#Summary of customers who paid more than 
+0005#STR0005#ALL# in cash in the period from: 
+0006#STR0006#ALL# to 
+0007#STR0007#ALL#Code      Company Name                                          CGC               Address                                              City                       State          Paym.No           Total Paid
+0007#STR0007#ANG#Code      Company Name                                           RFC               Address                                              City                       State  
+0007#STR0007#EQU#Code      Company Name                                           RFC               Address                                              City                       State  
+0007#STR0007#HAI#Code      Company Name                                           RFC               Address                                              City                       State  
+0007#STR0007#MEX#Code      Company Name                                           RFC               Address                                              City                       State  
+0007#STR0007#PTG#Code      Company Name                                           RFC               Address                                              City                       State  
+0008#STR0008#ALL#Total of Payments:
+0009#STR0009#ALL#Branch Total: 

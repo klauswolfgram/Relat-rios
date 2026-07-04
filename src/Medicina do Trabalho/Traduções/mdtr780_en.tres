@@ -1,0 +1,45 @@
+0001#STR0001#ALL# FAP Indexes (Accident Factor of Prevention)
+0002#STR0002#ALL#Chart
+0003#STR0003#ALL#Print
+0004#STR0004#ALL#Year
+0005#STR0005#ALL#Period
+0006#STR0006#ALL#Frequency
+0007#STR0007#ALL#Var.
+0008#STR0008#ALL#Severity
+0009#STR0009#ALL#Cost
+0010#STR0010#ALL#Rotation
+0011#STR0011#ALL#FAP calculation started in 2009. Do you want to view information of the year indicated?
+0012#STR0012#ALL#Year not valid
+0013#STR0013#ALL#Information is not enough to calculate FAP of the year indicated because there must be information of two previous years.
+0014#STR0014#ALL# to 
+0015#STR0015#ALL#From Year or To Year not valid.
+0016#STR0016#ALL#Indicate cost of benefits by leave covered by Social Security (Benefits) and
+0017#STR0017#ALL#indicate total value of remuneration paid by the establishment to insured (Remuneration).
+0018#STR0018#ALL#Year
+0019#STR0019#ALL#Period
+0020#STR0020#ALL#Benefits (R$)
+0021#STR0021#ALL#Remuneration (R$)
+0022#STR0022#ALL#Cost (R$)
+0023#STR0023#ALL#FAP Indexes
+0024#STR0024#ALL#From Year?
+0025#STR0025#ALL#To Year?
+0026#STR0026#ALL#Calculate Cost Index?
+0027#STR0027#ALL#Yes
+0028#STR0028#ALL#No
+0029#STR0029#ALL#Costs Part.1
+0030#STR0030#ALL#Costs Part.2
+0031#STR0031#ALL#Costs Part.3
+0032#STR0032#ALL#FAP:
+0033#STR0033#ALL#Period:
+0034#STR0034#ALL#Number of Accidents with CAT / Benefits without CAT:
+0035#STR0035#ALL#Number of Labor Contract (Employees per month):
+0036#STR0036#ALL#Number of Benefits
+0037#STR0037#ALL#Number of Admissions
+0038#STR0038#ALL#Number of Terminations
+0039#STR0039#ALL#Number of Labor Contracts at the beginning of
+0040#STR0040#ALL#Amount paid in benefits:
+0041#STR0041#ALL#Value of employees wage:
+0042#STR0042#ALL#Determines start year.
+0043#STR0043#ALL#Determines end year.
+0044#STR0044#ALL#Determines whether the Index is calculated by Cost.
+0045#STR0045#ALL#Data dictionary is outdated, apply updating in the package of the issue DNG-1847

@@ -1,0 +1,56 @@
+0001#STR0001#ALL#El programa imprimira el Flujo de Caja, informando 
+0002#STR0002#ALL#al usuar. cuales son sus cuentas a cobrar y pagar diariamente
+0003#STR0003#ALL#y de cuanto dispone de acuerdo con los saldos bancarios.
+0004#STR0004#ALL#Flujo de Caja Analitico
+0005#STR0005#ALL#A Rayas
+0006#STR0006#ALL#Administrac.
+0007#STR0007#ALL#Fecha Ref  Prf Numero-PC     Tipo Fc Emis    Cli/Pro  Nombre Cliente/Proveedor    Historial                        Valor Original                a Pagar              por Cobrar            Disponible Observaciones
+0008#STR0008#ALL#Seleccion. Registros...
+0009#STR0009#ALL#Fecha Ref  Prf Numero-PC     Tipo Fc Emis    Cli/Pro  Nombre Cliente/Proveedor    Historial                        Valor Original                a Pagar              a Cobrar              Disponible   Tasa del dia Obs.  
+0010#STR0010#ALL#Movimient en la fecha hasta hora de emis.
+0011#STR0011#ALL#Invers. 
+0012#STR0012#ALL#Retiros 
+0013#STR0013#ALL#Otras Salidas 
+0014#STR0014#ALL#Otras Entradas 
+0015#STR0015#ALL#Totales hasta hora de emision
+0016#STR0016#ALL#Disponibilidad inmediata
+0017#STR0017#ALL#Total Disponible 
+0018#STR0018#ALL#Total de Titulos Vencidos
+0019#STR0019#ALL#Total de Com. a Pagar
+0020#STR0021#ALL#Proyección rescate aplicación
+0021#STR0022#ALL#Proyección pago préstamo
+0022#STR0023#ALL#Pedidos de Venta
+0023#STR0024#ALL#Pedidos de Compra
+0024#STR0025#ALL#Total Del Dia---> 
+0025#STR0026#ALL#Total Gral.  --->
+0026#STR0027#ALL#Limite de Credito 
+0027#STR0028#ALL#Cheques pendientes de aprob.
+0028#STR0029#ALL#Fch. Ref
+0029#STR0030#ALL#Prf
+0030#STR0031#ALL#Numero-PC
+0031#STR0032#ALL#Tipo
+0032#STR0033#ALL#Fch Emis
+0033#STR0034#ALL#Cli/Pro
+0034#STR0035#ALL#Nombre Clien. / Prov.
+0035#STR0036#ALL#Historial
+0036#STR0037#ALL#Valor Original
+0037#STR0038#ALL#p/pagar
+0038#STR0039#ALL#p/ Cobrar
+0039#STR0040#ALL#Disponib.
+0040#STR0041#ALL#Tasa Dia
+0041#STR0042#ALL#Observac.
+0042#STR0043#ALL#Descripc.
+0043#STR0044#ALL#Total
+0044#STR0045#ALL#Titulos dados de baja con prevision de Movim. Bancario futuro
+0045#STR0046#ALL#Tit.Dado de B.p/Cob. Fut.
+0046#STR0047#ALL#Codigo
+0047#STR0048#ALL#Empresa
+0048#STR0049#ALL#Unidad de negocio
+0049#STR0050#ALL#Sucursal
+0050#STR0051#ALL#Sucursales seleccionadas para el informe
+0051#STR0052#ALL#PV
+0052#STR0053#ALL#PC
+0053#STR0054#ALL#pedido(s)
+0054#STR0055#ALL#Sucursales
+0055#STR0056#ALL#Visualización de gestión
+0056#STR0057#ALL#Títulos vencidos

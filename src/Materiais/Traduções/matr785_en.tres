@@ -1,0 +1,21 @@
+0001#STR0001#ALL#Detailed 
+0002#STR0002#ALL#Analytical
+0003#STR0003#ALL#Synthetic
+0004#STR0004#ALL#Summarized 
+0005#STR0005#ALL#Price List per Client
+0006#STR0006#ALL#This report is meant for the users who adopt sales price in the 
+0007#STR0007#ALL#binding Product X Client, where only the last price is presented
+0008#STR0008#ALL#price
+0009#STR0009#ALL#Z.Form 
+0010#STR0010#ALL#Management   
+0011#STR0011#ALL#CANCELLED BY THE OPERATOR  
+0012#STR0012#ALL#Customer: 
+0013#STR0013#ALL#Product                        Product Description            Cod in Customer    Unit Weight    MU                           Last Reaj        Sale Price
+0013#STR0013#BRA#Product                        Product Description            Cod in Customer    Unit Weight    MU   IPI     IPI Item    Last Reaj        Sale Price
+0014#STR0014#ALL#Price list by customer      
+0015#STR0015#ALL#This report is for users that use sale price
+0016#STR0016#ALL#in the Product / Customer binding, where only the last is shown
+0017#STR0017#ALL#Lst.Read.
+0018#STR0018#ALL#Sale price    
+0019#STR0019#ALL#Customers
+0020#STR0020#ALL#Products

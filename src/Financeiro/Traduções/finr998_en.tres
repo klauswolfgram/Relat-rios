@@ -1,0 +1,46 @@
+0001#STR0001#ALL#Print Payment Orders report,
+0002#STR0002#ALL#in summarized form.
+0003#STR0003#ALL#Z.Form
+0004#STR0004#ALL#Management
+0005#STR0005#ALL#Num. PO  Code-Sc Supplier Name                 Issue Dt.           Total Value         Tot. Paym.           Tot. Paym.          Discounts of      Withholdings          Supplier Nr.
+0006#STR0006#ALL#                                                                           Bills                 Own                  3rd Part            Ad. Pay and C.N.            
+0007#STR0007#ALL#Code-Sc Supplier Company Name                                         Total Value          Tot. Paym.           Tot. Paym.          Discounts of      Withholdings          Supplier Nr.
+0008#STR0008#ALL#              Payment Order                         Issue Date             Bills                 Own                  3rd Part            Ad. Pay. and C.N.           
+0009#STR0009#ALL#Payment Orders report
+0010#STR0010#ALL# per Payment Orders
+0011#STR0011#ALL# per Summarized Supplier
+0012#STR0012#ALL# per Detailed Supplier
+0013#STR0013#ALL#Filtering records...
+0014#STR0014#ALL#CANCELLED BY THE OPERATOR
+0015#STR0015#ALL#Supplier's Orders  -> 
+0016#STR0016#ALL#Supplier Totals ------>
+0017#STR0017#ALL#Orders issued    -> 
+0018#STR0018#ALL#GROSS TOTAL       ----> 
+0019#STR0019#ALL#OWN CHECKS TOTAL..---> 
+0020#STR0020#ALL#3RD PARTY CHECKS TOTAL..---> 
+0021#STR0021#ALL#TOTAL WITHHOLDING ----> 
+0022#STR0022#ALL#TOTAL COMPENSATED ----> 
+0023#STR0023#ALL#TOTAL PAID        ----> 
+0024#STR0024#ALL#Print by           ?
+0025#STR0025#ALL#Payment Order
+0026#STR0026#ALL#Company Name
+0027#STR0027#ALL#From Payment Order ?
+0028#STR0028#ALL#To Payment Order   ?
+0029#STR0029#ALL#From Issue Date    ?
+0030#STR0030#ALL#To Issue Date      ?
+0031#STR0031#ALL#Currency           ?
+0032#STR0032#ALL#Not Released
+0033#STR0033#ALL#TotalAmount
+0034#STR0034#ALL# Bills  
+0035#STR0035#ALL#Paid Total
+0036#STR0036#ALL#   Own     
+0037#STR0037#ALL#Paid Total
+0038#STR0038#ALL#  Third Parties
+0039#STR0039#ALL#Discounts of 
+0040#STR0040#ALL#Pag At & N.C.
+0041#STR0041#ALL#Withhold.
+0042#STR0042#ALL#Supplier number
+0043#STR0043#ALL#Supplier
+0044#STR0044#ALL#Payment Order
+0045#STR0045#ALL#Expenses
+0046#STR0046#ALL#TOTAL EXPENSES    ----> 

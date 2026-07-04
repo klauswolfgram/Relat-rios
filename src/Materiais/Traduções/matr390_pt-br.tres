@@ -1,0 +1,14 @@
+0001#STR0001#ALL#Diferencas de Estoque
+0002#STR0002#ALL#Este relatorio tem o objetivo de alertar o usuario para o problema
+0003#STR0003#ALL#da inconsistencia dos saldos. Deve ser emitido sempre que surgirem
+0004#STR0004#ALL#duvidas quanto `a integridade dos saldos em estoque.              
+0005#STR0005#ALL#Zebrado
+0006#STR0006#ALL#Administracao
+0007#STR0007#ALL#REGISTRO(S)
+0008#STR0008#ALL#CODIGO          DESCRICAO                      TP GRUP AMZ  SALDO CALCULADO          SALDO NO         DIFERENCA
+0009#STR0009#ALL#                                                              NESTE MOMENTO           ARQUIVO                  
+0010#STR0010#ALL#Nao foi encontrado nenhum item com diferenca no estoque.
+0011#STR0011#ALL#  DESCR. ALMOX.
+0012#STR0012#ALL#Saldo Calculado
+0013#STR0013#ALL#Diferenca
+0014#STR0014#ALL#Produtos

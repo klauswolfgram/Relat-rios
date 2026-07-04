@@ -1,0 +1,18 @@
+0001#STR0001#ALL#Relação De Divergências De Pedidos De Compras
+0002#STR0002#ALL#Emissão Da Relação De Itens Para Compras
+0003#STR0003#ALL#Com divergências
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#Divergências Entre Factura De Compras E Pedidos
+0007#STR0007#ALL#Factura         emissão    código lj fornecedor                       produto         um   quantidade   valor unitário  dt.entrega cond 
+0008#STR0008#ALL#Pedido
+0009#STR0009#ALL#Cancelado Pelo Operador
+0010#STR0010#ALL#Não há pedido de compra colocado
+0011#STR0011#ALL#Não existe guia de remessa colocada          
+0012#STR0012#ALL#Factura         Emissão    Código               Lj   Fornecedor       Produto         Um   Quantidade   Valor Unitário  Dt.entrega Cond.
+0014#STR0014#ALL#Que não constam na factura 
+0015#STR0015#ALL#Elementos do(s) pedido(s) que não constam na factura 
+0016#STR0016#ALL#Itens Do Documento De Entrada
+0017#STR0017#ALL#Pedidos De Compra
+0018#STR0018#ALL#Nota                   Emissão    Código                Lj   Fornecedor       Artigo         Um   Quantidade   Valor Unitário  Dt.entrega Cond.
+0019#STR0019#ALL#Nota                   emissão    código  lj fornecedor                       artigo         um   quantidade   valor unitário  dt.entrega cond 

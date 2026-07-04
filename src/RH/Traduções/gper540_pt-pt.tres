@@ -1,0 +1,53 @@
+0001#STR0001#ALL#Filial+mat
+0002#STR0002#ALL#Filial+cc+mat
+0003#STR0003#ALL#Filial+nome
+0004#STR0004#ALL#Filial+cc+nome
+0006#STR0006#ALL#Sera impresso de acordo com os parâmetro s solicitados pelo utilizador.
+0007#STR0007#ALL#Devera ser impresso em impressora matricial.
+0008#STR0008#ALL#Código de barras
+0009#STR0009#ALL#Administração
+0010#STR0010#ALL#Carimbo Cief
+0011#STR0011#ALL#Para Utilização  Da Caixa
+0012#STR0012#ALL#G f i p - guia de recolhimento do fgts e
+0013#STR0013#ALL#Caixa Economica Federal - Caixa
+0014#STR0014#ALL#Instituto Nacional Do Seguro Social - Inss
+0015#STR0015#ALL#Informações A Previdencia Social
+0017#STR0017#ALL#Código  recolhimento
+0018#STR0018#ALL#Razao Social/nome
+0019#STR0019#ALL#Pessoa para contacto/ddd/telefone
+0020#STR0020#ALL#Cgc/cnpj/cei
+0021#STR0021#ALL# Outras Informacoes
+0022#STR0022#ALL#Morada (logradouro,no.,andar,apartamento)
+0023#STR0023#ALL#Localidade/Distrito
+0024#STR0024#ALL#Código postal
+0025#STR0025#ALL#Concelho
+0026#STR0026#ALL#Distrito 
+0027#STR0027#ALL#No.processo Judicial
+0028#STR0028#ALL#Fpas
+0029#STR0029#ALL#Código  terceiros
+0030#STR0030#ALL#Simples
+0031#STR0031#ALL#Taxa Sat
+0032#STR0032#ALL#Cae
+0033#STR0033#ALL#Tomador de serviço  (cgc/cnpj/cei)
+0034#STR0034#ALL#Tomador de serviço   (razao social)
+0035#STR0035#ALL#Tribunal/jcj
+0036#STR0036#ALL#Valor Devido Prev. Social
+0038#STR0038#ALL#Valor salário-familia
+0039#STR0039#ALL#Comerc.de produção rural
+0041#STR0041#ALL#Compensação Prev.social
+0043#STR0043#ALL#Período (de-ate)
+0044#STR0044#ALL#No.pis-pasep/inscrição
+0045#STR0045#ALL#Admissão 
+0046#STR0046#ALL#Carteira profissional
+0048#STR0048#ALL#Remuneração
+0049#STR0049#ALL#Remuneração 13o.salário
+0052#STR0052#ALL#Movimento
+0054#STR0054#ALL#Do contrib. individual
+0056#STR0056#ALL#(no./serie)
+0057#STR0057#ALL#(sem parcela do 13o.salário)
+0060#STR0060#ALL#Cód.
+0063#STR0063#ALL#Somar
+0064#STR0064#ALL#Rem + 13o.(cat.1,2,3 e 5)
+0065#STR0065#ALL#Rem + 13o.(cat. 4)
+0066#STR0066#ALL#Total A Recolher Fgts
+0067#STR0067#ALL#Autenticação

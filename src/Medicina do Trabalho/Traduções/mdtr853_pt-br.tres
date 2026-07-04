@@ -1,0 +1,49 @@
+0001#STR0001#ALL#FICHA DE RECONHECIMENTO DOS AMBIENTES DE TRABALHO
+0002#STR0002#ALL#Através dos parâmetros selecionar os itens que devem ser considerados
+0003#STR0003#ALL#no relatório.
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#Cliente ?
+0007#STR0007#ALL#Loja
+0008#STR0008#ALL#Laudo ?
+0009#STR0009#ALL#Observações ?
+0010#STR0010#ALL#Imp. Luminosidade ?
+0011#STR0011#ALL#Sim
+0012#STR0012#ALL#Nao
+0013#STR0013#ALL#Imp. Ruido ?
+0014#STR0014#ALL#Informe o código do cliente para impressão da Ficha de Reconhecimento dos Ambientes de Trabalho.
+0015#STR0015#ALL#Informe a loja relacionada ao cliente para impressão da Ficha de Reconhecimento dos Ambientes de Trabalho.
+0016#STR0016#ALL#Informe o laudo a ser considerado na impressão.
+0017#STR0017#ALL#Informe o código do termo descritivo a ser utilizado como observação na impressão.
+0018#STR0018#ALL#Indique se deseja imprimir a quantidade de agente para riscos luminosidade.
+0019#STR0019#ALL#Indique se deseja imprimir a quantidade de agente para riscos ruído.
+0020#STR0020#ALL#Luminosidade
+0021#STR0021#ALL#Ruido
+0022#STR0022#ALL#Centro de Custo
+0023#STR0023#ALL#Data Lev.
+0024#STR0024#ALL#Ruído
+0025#STR0025#ALL#Observações
+0026#STR0026#ALL#Riscos Detectados
+0027#STR0027#ALL#Físico
+0028#STR0028#ALL#Ecológico
+0029#STR0029#ALL#Biológico
+0030#STR0030#ALL#Ergonômico
+0031#STR0031#ALL#Acidente
+0032#STR0032#ALL#Descrição dos Riscos
+0033#STR0033#ALL#Fontes Geradoras
+0034#STR0034#ALL#QUÍMICOS
+0035#STR0035#ALL#BIOLÓGICOS
+0036#STR0036#ALL#ERGONÔMICOS
+0037#STR0037#ALL#Funções Existentes
+0038#STR0038#ALL#Trabalhadores
+0039#STR0039#ALL#Masculino
+0040#STR0040#ALL#Feminino
+0041#STR0041#ALL#Medidas de Controle Existentes no Local de Trabalho
+0042#STR0042#ALL#Agente
+0043#STR0043#ALL#Descrição
+0044#STR0044#ALL#Selecionando Registros...
+0045#STR0045#ALL#Luminosidade/Ruido
+0046#STR0046#ALL#Selecione Agentes válidos como 
+0047#STR0047#ALL#Luminosidade/Ruído
+0048#STR0048#ALL#ATENÇÃO
+0049#STR0049#ALL#Deve ser selecionado ao menos um agente

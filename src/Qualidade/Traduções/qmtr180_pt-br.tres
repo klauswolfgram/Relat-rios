@@ -1,0 +1,27 @@
+0001#STR0001#ALL#Este programa ira emitir o relatorio de Referencia 
+0002#STR0002#ALL#cruzada entre instrumentos utilizados e instrumentos.
+0003#STR0003#ALL#Ref.Cruzada: Instrumento Utilizado x Instrumento
+0004#STR0004#ALL#Inst.Utilizado   Sequencia  Faixa                    Ponto                    Famila Inst.Util          Instrumento           Rev         Familia                  Departamento                Responsavel
+0005#STR0005#ALL#Zebrado
+0006#STR0006#ALL#Administracao
+0007#STR0007#ALL#CANCELADO PELO OPERADOR
+0008#STR0008#ALL#Selecionando Registros. . .
+0009#STR0009#ALL#Informe o instrumento inicial do intervalo de selecao
+0010#STR0010#ALL#Informe o instrumento final do intervalo de selecao ou preencha todo o campo com a letra 'z' para todos
+0011#STR0011#ALL#Informe a data inicial do periodo de selecao dos instrumentos
+0012#STR0012#ALL#Informe a data final do periodo de selecao dos instrumentos
+0013#STR0013#ALL#Informe o departamento inicial do intervalo de selecao ou deixe em branco para todos.
+0014#STR0014#ALL#Informe o departamento final do intervalo de selecao ou preencha todo o campo com a letra 'z' para todos.
+0015#STR0015#ALL#Selecione o orgao calibrador desejado: Somente as calibracoes realizadas internamente, externamente, ou ambos
+0016#STR0016#ALL#Se sua escolha foi orgao calibrador interno ou ambos, informe o orgao calibrador interno inicial, caso contrario, deixe em branco para todos
+0017#STR0017#ALL#Se sua escolha foi orgao calibrador interno ou ambos, informe o orgao calibrador interno final ou preencha todo o campo com a letra 'z' para todos
+0018#STR0018#ALL#Se sua escolha foi orgao calibrador externo ou ambos, informe o orgao calibrador externo inicial, caso contrario, deixe em branco para todos
+0019#STR0019#ALL#Se sua escolha foi orgao calibrador externo ou ambos, informe o orgao calibrador externo final ou preencha todo o campo com a letra 'z' para todos
+0020#STR0020#ALL#Informe a familia inicial de intervalo de selecao ou deixe em branco para todos
+0021#STR0021#ALL#Informe a familia final de intervalo de selecao ou preencha todo o campo com a letra 'z' para todos
+0022#STR0022#ALL#Informe o usuario inicial de intervalo de selecao ou deixe em branco para todos
+0023#STR0023#ALL#Informe o usuario final de intervalo de selecao ou preencha todo o campo com a letra 'z' para todos
+0024#STR0024#ALL#Informe o fabricante inicial de intervalo de selecao ou deixe em branco para todos
+0025#STR0025#ALL#Informe o fabricante final de intervalo de selecao ou preencha todo o campo com a letra 'z' para todos
+0026#STR0026#ALL#Inst. Utilizado
+0027#STR0027#ALL#Familia Instr.Util.

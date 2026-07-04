@@ -1,0 +1,29 @@
+0002#STR0002#ALL#Dos artigos/fornecedores.
+0003#STR0003#ALL#Tempo de Execução
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#Período : 
+0008#STR0008#ALL#Entradas Em Trânsito
+0009#STR0009#ALL#Entradas Em Laboratório
+0010#STR0010#ALL#Entradas Com Documento
+0011#STR0011#ALL#A Seleccionar Registos...
+0012#STR0012#ALL#Cálculos Das Médias
+0014#STR0014#ALL#Lt. transp.
+0015#STR0015#ALL#Lt. relatório 
+0016#STR0016#ALL#Lt. total 
+0017#STR0017#ALL#Lt. dispon.
+0018#STR0018#ALL#Lt. lab.
+0019#STR0019#ALL#Geral
+0020#STR0020#ALL#Lead-Time Trânsito: tempo decor. desde a Entrada ou Data Entrada em Laboratório até hoje.
+0021#STR0021#ALL#Lead-Time Laudo ..: tempo decorrido desde a Entrada até a Saída do Laboratório.
+0022#STR0022#ALL#Lead-Time Total ..: tempo decorrido desde a Entrada do Artigo até a Saída Laboratório.
+0023#STR0023#ALL#Lead-Time Disp. ..: tempo decor. desde Saída Laboratório até Disponibilização Laudo.
+0024#STR0024#ALL#Lead-Time Trânsito: tempo decor. desde a Entrada do Artigo até a data de hoje.
+0025#STR0025#ALL#Lead-Time: tempo decorrido desde a Entrada Laboratório até a data de hoje.
+0027#STR0027#ALL#Saída Laborat.
+0028#STR0028#ALL#Disp. Documento
+0029#STR0029#ALL#Total Trânsito
+0030#STR0030#ALL#Total Relatório
+0031#STR0031#ALL#Total Crial
+0032#STR0032#ALL#Total Laboratório
+0033#STR0033#ALL#Total Disponibilidade

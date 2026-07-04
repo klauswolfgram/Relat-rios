@@ -1,0 +1,47 @@
+0001#STR0001#ALL#Este programa tem como objetivo imprimir um 
+0002#STR0002#ALL#relatorio de movimentos do Caixinha, de acordo com 
+0003#STR0003#ALL#os parametros informados pelo usuario.
+0004#STR0004#ALL#Movimento do Caixinha
+0005#STR0005#ALL#Zebrado
+0006#STR0006#ALL#Administracao
+0007#STR0007#ALL#Descricao                       Usuario          Comprovante  Nro. Interno  Numero de   Data de              Valor
+0008#STR0008#ALL#           Rendido
+0009#STR0009#ALL#                                                              do Movimento  Adiant.     Digitacao                      
+0010#STR0010#ALL#*** CANCELADO PELO OPERADOR ***
+0011#STR0011#ALL#Caixinha   
+0012#STR0012#ALL#Detalhes do Adiantamento
+0013#STR0013#ALL#Saldo dos Movimentos do Caixinha->
+0014#STR0014#ALL#Total Despesas -->
+0015#STR0015#ALL#Total Geral Despesas -->
+0016#STR0016#ALL#Despesa
+0017#STR0017#ALL#Adiantamento
+0018#STR0018#ALL#Adt. 
+0019#STR0019#ALL#Dev. Adiantam
+0020#STR0020#ALL#Reposicao
+0021#STR0021#ALL#Transf. p/Fechamen
+0022#STR0022#ALL#Dev.p/Fechamento Cx Menor
+0023#STR0023#ALL#Repos. Caixa Menor
+0024#STR0024#ALL#Reposicao cancelada
+0025#STR0025#ALL#Reposicao - esperando autorizacao
+0026#STR0026#ALL#Reposicao - esperando baixa de titulo
+0027#STR0027#ALL#Estorno de Despesa
+0028#STR0028#ALL#Descricao
+0029#STR0029#ALL#Usuario
+0030#STR0030#ALL#Comprovante
+0031#STR0031#ALL#Nro. Interno
+0032#STR0032#ALL#do Movimento
+0033#STR0033#ALL#Numero de
+0034#STR0034#ALL#Adiant.
+0035#STR0035#ALL#Data de
+0036#STR0036#ALL#Digitacao
+0037#STR0037#ALL#Valor
+0038#STR0038#ALL#Baixado
+0039#STR0039#ALL#Saldo Anterior do Caixinha
+0040#STR0040#ALL#Saldo do Caixinha no Dia
+0041#STR0041#ALL#Código
+0042#STR0042#ALL#Empresa
+0043#STR0043#ALL#Unidade de Negócio
+0044#STR0044#ALL#Filial
+0045#STR0045#ALL#Filiais selecionadas para o relatorio
+0046#STR0046#ALL#Filial : 
+0047#STR0047#ALL#      Saldo   

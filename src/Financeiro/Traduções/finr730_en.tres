@@ -1,0 +1,43 @@
+0001#STR0001#ALL#Issue of comparative report between Budgeted x Real    
+0002#STR0002#ALL#The YEAR of reference of the base date will be analyzed.
+0003#STR0003#ALL#Z.Form 
+0004#STR0004#ALL#Management   
+0005#STR0005#ALL#Comparative Map  - Budgeted x Real Values  in  
+0006#STR0006#ALL#Cod Class       Descr.                              January     February          March         April          May          June          July         August      September      October      November      December
+0007#STR0007#ALL#Selecting Records .......
+0008#STR0008#ALL#    Quoted
+0009#STR0009#ALL# Actual   
+0010#STR0010#ALL#To be     
+0011#STR0011#ALL#    Actual
+0012#STR0012#ALL#%Variation
+0013#STR0013#ALL#T o t a l
+0014#STR0014#ALL#Summary
+0015#STR0015#ALL#Revenues
+0016#STR0016#ALL#Expenses 
+0017#STR0017#ALL#Balances
+0018#STR0018#ALL#Collection Status
+0019#STR0019#ALL#Map 
+0020#STR0020#ALL#Class code  
+0021#STR0021#ALL#Descript.
+0022#STR0022#ALL#January
+0023#STR0023#ALL#February 
+0024#STR0024#ALL#March
+0025#STR0025#ALL#April
+0026#STR0026#ALL#May 
+0027#STR0027#ALL#June 
+0028#STR0028#ALL#July 
+0029#STR0029#ALL#August
+0030#STR0030#ALL#Septemb.
+0031#STR0031#ALL#October
+0032#STR0032#ALL#November
+0033#STR0033#ALL#December
+0034#STR0034#ALL#Summary
+0035#STR0035#ALL# of 
+0036#STR0036#ALL#Creating temporary work file          
+0037#STR0037#ALL#Comparative Map-Budgeted vs. Actual amounts Yr
+0038#STR0038#ALL#Branch: 
+0039#STR0039#ALL#Code
+0040#STR0040#ALL#Company
+0041#STR0041#ALL#Business Unit
+0042#STR0042#ALL#Branch
+0043#STR0043#ALL#Branches selected for the report

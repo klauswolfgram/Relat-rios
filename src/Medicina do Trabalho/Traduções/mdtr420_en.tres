@@ -1,0 +1,43 @@
+0001#STR0001#ALL#Presentation report of diseases per function. Based on  the        
+0002#STR0002#ALL#diagnoses issued by the doctors to the employees.                             
+0003#STR0003#ALL#Through the parameters the function and/or CID can be selected.  
+0004#STR0004#ALL#Z. Form
+0005#STR0005#ALL#Management
+0006#STR0006#ALL#ICD x Function
+0007#STR0007#ALL#Function  Description                             
+0008#STR0008#ALL#CANCELLED BY OPERATOR
+0009#STR0009#ALL#Customer..:
+0010#STR0010#ALL#        I.C.D.     Descr.                   Group I.C.D.   Male       Female
+0011#STR0011#ALL#Total attendances:     
+0012#STR0012#ALL#Total of Servicings:      
+0013#STR0013#ALL#GRAND TOTAL.: 
+0014#STR0014#ALL#Role  
+0015#STR0015#ALL#Descript.
+0016#STR0016#ALL#I.C.D.
+0017#STR0017#ALL#Male     
+0018#STR0018#ALL#Female  
+0019#STR0019#ALL#Wait   
+0020#STR0020#ALL#Processing diagnosys ...      
+0021#STR0021#ALL#Grand total: 
+0022#STR0022#ALL#Total attendances:     
+0023#STR0023#ALL#I.C.D.: 
+0024#STR0024#ALL#Customer
+0025#STR0025#ALL#Name
+0026#STR0026#ALL#From Customer ?
+0027#STR0027#ALL#Unit
+0028#STR0028#ALL#To Customer ?
+0029#STR0029#ALL#Customer code. Leave the field blank to consider since the first code.
+0030#STR0030#ALL#Customer unit code. Leave the field blank to consider since the first code.
+0031#STR0031#ALL#Customer code. Fill in the field with Z up to its limit to consider the last code.
+0032#STR0032#ALL#Customer unit code. Fill in the field with Z up to its limit to consider the last code.
+0033#STR0033#ALL#No data to print in the report.
+0034#STR0034#ALL#Customer/Unit: 
+0035#STR0035#ALL#To Customer?
+0036#STR0036#ALL#To Diagn. Date?
+0037#STR0037#ALL#From Diagn. Date?
+0038#STR0038#ALL#To ICD?
+0039#STR0039#ALL#From ICD?
+0040#STR0040#ALL#To Function ?
+0041#STR0041#ALL#From Function ?
+0042#STR0042#ALL#Group I.C.D.
+0043#STR0043#ALL#Total Services

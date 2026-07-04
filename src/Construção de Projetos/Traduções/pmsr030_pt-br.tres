@@ -1,0 +1,41 @@
+0001#STR0001#ALL#Este relatorio ira imprimir o orcamentos 
+0002#STR0002#ALL#conforme os parametros solicitados
+0003#STR0003#ALL#                                      DADOS DA EDT/TAREFA                |                   PREVISTO                      |
+0004#STR0004#ALL#TP.  Codigo        Descricao                                          UN |     QUANT PREV    DURACAO         CUSTO PREVISTO| 
+0005#STR0005#ALL#Cadastro dos Orcamentos
+0006#STR0006#ALL#Zebrado
+0007#STR0007#ALL#Administracao
+0008#STR0008#ALL#*** CANCELADO PELO OPERADOR ***
+0009#STR0009#ALL#Orcamento : 
+0010#STR0010#ALL#Cliente   : 
+0011#STR0011#ALL#EDT
+0012#STR0012#ALL#Trf.
+0013#STR0013#ALL#PRODUTO
+0014#STR0014#ALL#Descrição
+0015#STR0015#ALL#UM
+0016#STR0016#ALL#QUANTIDADE
+0017#STR0017#ALL#UNITARIO MEDIO
+0018#STR0018#ALL#CUSTO PREVISTO
+0019#STR0019#ALL#Despesa
+0020#STR0020#ALL#Tipo Despesa
+0021#STR0021#ALL#Valor Previsto
+0022#STR0022#ALL#Predecessora
+0023#STR0023#ALL#Tipo Relacionamento
+0024#STR0024#ALL#Retardo (Horas)
+0025#STR0025#ALL#Fim-no-Inicio
+0026#STR0026#ALL#Inicio-no-Inicio
+0027#STR0027#ALL#Fim-no-Fim
+0028#STR0028#ALL#Inicio-no-Fim
+0029#STR0029#ALL#TP.  Codigo                                                           UN |     QUANT PREV    DURACAO         CUSTO PREVISTO|
+0030#STR0030#ALL#TP.  Descricao                                                        UN |     QUANT PREV    DURACAO         CUSTO PREVISTO|	
+0031#STR0031#ALL#Previsto
+0032#STR0032#ALL#Custo
+0033#STR0033#ALL#Duracao
+0034#STR0034#ALL#Quantidade
+0035#STR0035#ALL#Unitário
+0036#STR0036#ALL#Médio
+0037#STR0037#ALL#Produto/Recurso
+0038#STR0038#ALL#EDT
+0039#STR0039#ALL#Orçamento
+0040#STR0040#ALL#Cliente
+0041#STR0041#ALL#Tarefa

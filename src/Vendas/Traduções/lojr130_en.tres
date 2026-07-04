@@ -1,0 +1,107 @@
+0001#STR0001#ALL#Issue of Invoice for Tax Ticket         
+0002#STR0002#ALL#This program has the purpose of issuing an Invoice, based on a Fiscal Ticket   
+0003#STR0003#ALL#already issued, according to the Decree 4.373-N of 12/02/1998. To do so, will  
+0004#STR0004#ALL#be used the script of Invoice registered in MV_SCRNOTA parameter  ( + GetMv ( MV_SCRNFCP ) + )
+0005#STR0005#ALL#Special 
+0006#STR0006#ALL#Management   
+0007#STR0007#ALL#Invoice    
+0008#STR0008#ALL#You cannot generate an invoice for a coupon that belongs to a global invoice (
+0009#STR0009#ALL#There is already an Invoice(
+0010#STR0010#ALL#) generated for the Coupon 
+0011#STR0011#ALL# It is not possible to generate another Invoice for the same Fiscal Invoice
+0012#STR0012#ALL#Warning
+0013#STR0013#ALL#Invoice already generated for this tax voucher.      
+0014#STR0014#ALL#OK
+0015#STR0015#ALL#Enter customer for invoice  
+0016#STR0016#ALL#Customer?   
+0017#STR0017#ALL#Customer does not have RCF. Unable to issue invoice.     
+0018#STR0018#ALL#Attn.!
+0019#STR0019#ALL#Customer/store code not exist in the Customers register.
+0020#STR0020#ALL#Enter store for invoice  
+0021#STR0021#ALL#Store?      
+0022#STR0022#ALL#Formula (F4_FORMULA) used in TES (
+0023#STR0023#ALL#) of product, informed in parameter MV_TESNOTA,
+0024#STR0024#ALL# must be set as 'S' or blank.
+0025#STR0025#ALL#Formula field (F4_FORMULA) of TES record (
+0026#STR0026#ALL# must have a formula registered.
+0027#STR0027#ALL#Field Tax Rec. ICMS (F4_LFICM) in TES register (
+0028#STR0028#ALL#must be different from 'N'.
+0029#STR0029#ALL#TIO
+0030#STR0030#ALL#, informed in parameter MV_TESNOTA, is not registered in Types of Inflow and Outflow table.
+0031#STR0031#ALL#) of service, informed in parameter MV_LJNCUPS, 
+0032#STR0032#ALL#Field ISS Calculation (F4_ISS) from TES register (
+0033#STR0033#ALL# must be set as 'S'.
+0034#STR0034#ALL#Field ISS Tax Rec. (F4_LFISS) from TES register (
+0035#STR0035#ALL#, informed in parameter MV_LJNCUPS, is not registered in Types of Inflow and Outflow table.
+0036#STR0036#ALL#Parameters MV_TESNOTA and MV_LJNCUPS are not filled correctly.
+0037#STR0037#ALL#TES configurations of product and service are not correct. Check:
+0038#STR0038#ALL#Please, regularize situations above in order to continue voucher issue over coupon.
+0039#STR0039#ALL#Voucher Issue over Coupon - OnLine Tax Record
+0040#STR0040#ALL#Issue of Invoice related to Voucher
+0041#STR0041#ALL#Search
+0042#STR0042#ALL#Process
+0043#STR0043#ALL#There are no records to be displayed with these parameters.
+0044#STR0044#ALL#Generate Invoice related to Voucher
+0045#STR0045#ALL#Reverse Invoice related to Voucher
+0046#STR0046#ALL#Do you really want to execute: 
+0047#STR0047#ALL#Wait... executing process...
+0048#STR0048#ALL#No record selected.
+0049#STR0049#ALL#Confirm generation of digital fiscal statement?
+0050#STR0050#ALL# - Do you want to reverse/delete this NF over Receipt?
+0051#STR0051#ALL#Exclusion completed.
+0052#STR0052#ALL#Invoice over Receipt was deleted successfully!
+0053#STR0053#ALL#Enter customer and unit regarding the tax coupon number: 
+0054#STR0054#ALL# You can only change the customer and the unit if the tax coupon was generated for the customer and the default unit. 
+0055#STR0055#ALL#For customer
+0056#STR0056#ALL#For unit
+0057#STR0057#ALL#Not allowed to print Invoice to the default client
+0058#STR0058#ALL#You cannot delete the invoice. The due date established for cancellation was 
+0059#STR0059#ALL# hour(s).
+0060#STR0060#ALL#Do you wish to print the sales invoice?
+0061#STR0061#ALL#Wait...Restoring records.
+0062#STR0062#ALL#Structure of MDL table not updated.
+0063#STR0063#ALL#Date of UPDLOJ31 must be equal to or higher than 
+0064#STR0064#ALL#. Request package of ticket TURBD2.
+0065#STR0065#ALL#Run U_UPDLOJ31 to update table structure. 
+0066#STR0066#ALL#Reversal of Invoice related to Voucher
+0067#STR0067#ALL#Select invoices to reverse:
+0068#STR0068#ALL#Details
+0069#STR0069#ALL#Confirm
+0070#STR0070#ALL#Branch
+0071#STR0071#ALL#Series
+0072#STR0072#ALL#Invoice Number
+0073#STR0073#ALL#Qty. Voucher
+0074#STR0074#ALL#Invoice X Voucher
+0075#STR0075#ALL#Vouchers related to Invoice: 
+0076#STR0076#ALL# Series: 
+0077#STR0077#ALL#Close
+0078#STR0078#ALL#Voucher Number
+0079#STR0079#ALL#Issue
+0080#STR0080#ALL#Message NF (MV_LJMENNO):
+0081#STR0081#ALL#Enter message for Invoice:
+0082#STR0082#ALL#Issue of Invoice not allowed by Legislation
+0083#STR0083#ALL#The parameter MV_LJMENNO is active, and for its proper operation, field F2_MENNOTA of SF2 table must be set in the data dictionary.
+0084#STR0084#ALL#DANFE pub.org. - Hospitality
+0085#STR0085#ALL#Unable to add bill receivable related to DANFE for public company. Error:
+0086#STR0086#ALL#Unable to add bill receivable related to DANFE for public company. Error:
+0087#STR0087#ALL#Check bill receivable: 
+0088#STR0088#ALL#Use of CFDI and Relationship Type will apply to all Certificates selected in the next screen.
+0089#STR0089#ALL#Warning
+0090#STR0090#ALL#This sales is registered for customer/store:
+0091#STR0091#ALL#The following print is for verification purposes.
+0092#STR0092#ALL#Transmit the invoice using the NF-e Sefaz routine (SPEDNFE).
+0093#STR0093#ALL#Document
+0094#STR0094#ALL#Customer
+0095#STR0095#ALL#Store
+0096#STR0096#ALL#Cash
+0097#STR0097#ALL#State
+0098#STR0098#ALL#Paym. Term
+0099#STR0099#ALL#Inv. Value
+0100#STR0100#ALL#Do you want to print for verification?
+0101#STR0101#ALL#Unable to delete the invoice, as the deadline for cancellation for the outbound document is
+0102#STR0102#ALL#hours. According to the what is set in parameter MV_SPEDEXC
+0103#STR0103#ALL#Invoice out of payment deadline!
+0104#STR0104#BRA#Invoice cancellation on Voucher
+0105#STR0105#BRA#Unable to Void / Cancel the Invoice On Voucher.
+0106#STR0106#BRA#Reason:
+0107#STR0107#ALL#Cliente não está ativo.

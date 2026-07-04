@@ -1,0 +1,64 @@
+0001#STR0001#ALL#Relatorio dos Acidentes de Trabalho ocorridos na Empresa.      
+0002#STR0002#ALL#Através dos parametros o usuário poderá selecionar o periodo,  
+0003#STR0003#ALL#C.Custo entre outras opcoes disponíveis para um melhor aproveitamento.     
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#Acidentes de Trabalho
+0007#STR0007#ALL#Acid. Data Acid. Descrição Acidente              Matric Nome Funcionario         C.Custo              Funcao T.Aci Objeto Data CAT
+0008#STR0008#ALL#CANCELADO PELO OPERADOR
+0009#STR0009#ALL#Acidente
+0010#STR0010#ALL#Data Acid.
+0011#STR0011#ALL#Descrição Acidente
+0012#STR0012#ALL#Matrícula
+0013#STR0013#ALL#Nome do Funcionário
+0014#STR0014#ALL#C.Custo
+0015#STR0015#ALL#Função
+0016#STR0016#ALL#Obj. Causador
+0017#STR0017#ALL#Tipo Acidente
+0018#STR0018#ALL#Data CAT
+0019#STR0019#ALL#Afastamento
+0020#STR0020#ALL#Despesa
+0021#STR0021#ALL#Valor (R$)
+0022#STR0022#ALL#Aguarde
+0023#STR0023#ALL#Processando os Acidentes de Trabalho...
+0024#STR0024#ALL#Total de despesas com esse acidente
+0025#STR0025#ALL#Total geral de despesas
+0026#STR0026#ALL#De Cliente ?
+0027#STR0027#ALL#Loja
+0028#STR0028#ALL#Até Cliente ?
+0029#STR0029#ALL#Loja						
+0030#STR0030#ALL#Relatório dos Acidentes de Trabalho ocorridos na Empresa. 
+0031#STR0031#ALL#Através dos parametros o usuário poderá selecionar o período, 
+0032#STR0032#ALL#C.Custo entre outras opcões disponíveis para um melhor aproveitamento.			
+0033#STR0033#ALL#Cliente
+0034#STR0034#ALL#Loja
+0035#STR0035#ALL#Nome
+0036#STR0036#ALL#Total de Despesas do Cliente
+0037#STR0037#ALL#De Ficha Médica ?
+0038#STR0038#ALL#Até Ficha Médica ?
+0039#STR0039#ALL#Até Tipo Acidente ?
+0040#STR0040#ALL#De Tipo Acidente ?
+0041#STR0041#ALL#Listar Despesas ?
+0042#STR0042#ALL#Todos ?
+0043#STR0043#ALL#Até Função ?
+0044#STR0044#ALL#De Função ?
+0045#STR0045#ALL#Até Centro de Custo ?
+0046#STR0046#ALL#De  Centro de Custo ?
+0047#STR0047#ALL#Até Data Acidente ?
+0048#STR0048#ALL#De Data de Acidente ?
+0049#STR0049#ALL#Até Acidente ?
+0050#STR0050#ALL#De  Acidente ?
+0051#STR0051#ALL# Dias
+0052#STR0052#ALL#Não Houve
+0053#STR0053#ALL#Cliente/Loja: 
+0054#STR0054#ALL#         Nome: 
+0055#STR0055#ALL#Total de despesas com esse acidente............: 
+0056#STR0056#ALL#Total de despesas do cliente...................: 
+0057#STR0057#ALL#Total geral de despesas........................: 
+0058#STR0058#ALL#Indicativo
+0059#STR0059#ALL#Determina a partir de qual ficha médica, será realizado o filtro.
+0060#STR0060#ALL#Determina até qual ficha médica, será realizado o filtro.
+0061#STR0061#ALL#Acidente   Data Acidente   Descrição Acidente                                  Matricula   Nome Funcionario                 Centro de Custo       Função         Indicativo                Data CAT    Afastamento
+0062#STR0062#ALL#         Despesa                                        Valor(R$)						                                  Obj. Causador Descrição                                 Tipo Acidente  Descrição
+0063#STR0063#ALL#                                                                 						                                  Obj. Causador Descrição                                 Tipo Acidente  Descrição
+0064#STR0064#ALL#Descrição

@@ -1,0 +1,27 @@
+0001#STR0001#ALL#Pendencias da Base de Atendimento
+0002#STR0002#ALL#Este relatorio ira imprimir a relacao de pendencias
+0003#STR0003#ALL#da Base de Atendimento
+0004#STR0004#ALL#
+0005#STR0005#ALL#Zebrado
+0006#STR0006#ALL#Administracao
+0007#STR0007#ALL#CANCELADO PELO OPERADOR
+0008#STR0008#ALL#                    PENDENCIA                      OCORR.   DESCRICAO OCORRENCIA            DATA      SITUACAO    DATA BAIXA
+0009#STR0009#ALL#                    PENDENCIA                      OCORR.   DESCRICAO OCORRENCIA            COD.CLIENTE       NOME CLIENTE                    SITUACAO    DATA BAIXA
+0010#STR0010#ALL#                 COD.EQUIP        NOME EQUIPAMENTO              FABRICANTE          LOJA FABR  PENDENCIA                      OCORR.   DESCRICAO OCORRENCIA            SITUACAO    DATA BAIXA
+0011#STR0011#ALL#Cliente => 
+0012#STR0012#ALL#Data => 
+0013#STR0013#ALL#Equipamento => 
+0014#STR0014#ALL# - Loja Fabr: 
+0015#STR0015#ALL#- Id. Unico: 
+0016#STR0016#ALL#Detalhes:
+0017#STR0017#ALL# - Quebra :
+0018#STR0018#ALL#Cliente e Equipamento
+0019#STR0019#ALL#Cliente e Data
+0020#STR0020#ALL#Data e Cliente
+0021#STR0021#ALL#Data e Equipamento
+0022#STR0022#ALL#Pendente
+0023#STR0023#ALL#Baixado
+0024#STR0024#ALL#Cliente/Lj
+0025#STR0025#ALL#Cliente
+0026#STR0026#ALL#Equipamento
+0027#STR0027#ALL#Dados Pendência

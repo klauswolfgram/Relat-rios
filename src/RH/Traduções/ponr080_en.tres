@@ -1,0 +1,65 @@
+0001#STR0001#ALL#Marks Annotation
+0002#STR0002#ALL#It will be printed according to the parameters selected 
+0003#STR0003#ALL#by the User.
+0004#STR0004#ALL#Registr.
+0005#STR0005#ALL#Cost Center
+0006#STR0006#ALL#Name
+0007#STR0007#ALL#Shift
+0008#STR0008#ALL#Z.Form
+0009#STR0009#ALL#Management
+0010#STR0011#ALL#Date      |                Programming Hours                |                            Factual Hours                                |              Annotation of Hours            |
+0011#STR0012#ALL#          | Ent.1 Exi.1 Ent.2 Exi.2 Ent.3 Exi.3 Ent.4 Exi.4 | Ent.1 Exi.1 Ent.2 Exi.2 Ent.3 Exi.3 Ent.4 Exi.4 Ent.5 Exi.5 Ent.6 Exi.6 | Tot.Hr Interv Work.H Bon.H. Dif.H.   % Dif. |
+0012#STR0013#ALL#Sun
+0013#STR0014#ALL#Mon
+0014#STR0015#ALL#Tue
+0015#STR0016#ALL#Wed
+0016#STR0017#ALL#Thu
+0017#STR0018#ALL#Fri
+0018#STR0019#ALL#Sat
+0019#STR0020#ALL#Total of Cost Center
+0020#STR0022#ALL#     ** ODD MARK. **
+0021#STR0024#ALL#                     ** ADMISSION PREVIOUS DATE  **                      | 
+0022#STR0025#ALL#                         **  NO MARKINGS  **                            | 
+0023#STR0027#ALL#Registr.: 
+0024#STR0028#ALL# Name: 
+0025#STR0029#ALL#Total of Period
+0026#STR0030#ALL#Branch: 
+0027#STR0031#ALL#  C.C.
+0028#STR0032#ALL#  Period: 
+0029#STR0033#ALL#C.Cent.+Name
+0030#STR0034#ALL#Select the printing option: 
+0031#STR0035#ALL#By Period
+0032#STR0036#ALL#By Dates
+0033#STR0037#ALL#Process: 
+0034#STR0038#ALL#Period: 
+0035#STR0039#ALL#Procedure: 
+0036#STR0040#ALL#Paym. Nbr.: 
+0037#STR0041#ALL#Department
+0038#STR0042#ALL#Dep.: 
+0039#STR0043#ALL#This program issues Marking Control List
+0040#STR0044#ALL#Description
+0041#STR0045#ALL#Employees
+0042#STR0046#ALL#Branch Desc.
+0043#STR0047#ALL#Tno
+0044#STR0048#ALL#Tot.Hr
+0045#STR0049#ALL#Range
+0046#STR0050#ALL#H.Wrk
+0047#STR0051#ALL#H.Grt
+0048#STR0052#ALL#Hr.Dif.
+0049#STR0053#ALL#Dif. %
+0050#STR0054#ALL#Date
+0051#STR0055#ALL#Ent.1 Exit1 Ent.2 Exit2 Ent.3 Exit3 Ent.4 Exit4
+0052#STR0056#ALL#Ent.1 Exit1 Ent.2 Exit2 Ent.3 Exit3 Ent.4 Exit4 Ent.5 Exit5 Ent.6 Exit6
+0053#STR0057#ALL#Markings
+0054#STR0058#ALL#Hours Scheduled
+0055#STR0059#ALL#Hours Completed
+0056#STR0060#ALL#Hours Calculation
+0057#STR0061#ALL#Totalizers
+0058#STR0062#ALL#Work Shift Total
+0059#STR0063#ALL#Branch Total
+0060#STR0064#ALL#Company total
+0061#STR0065#ALL#Dept
+0062#STR0066#ALL#Process
+0063#STR0067#ALL#Period
+0064#STR0068#ALL#Rot
+0065#STR0069#ALL#NP

@@ -1,0 +1,77 @@
+0001#STR0001#ALL#Relatório de encaminhamento de empregados para a realização de  exames no     
+0002#STR0002#ALL#Fornecedor definido. nesta ficha de encaminhamento constam dados do  empregado
+0003#STR0003#ALL#Dados do fornecedor e dos exames que devem ser realizados. através de seleccionar
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#Encaminhamento para realização dos exames
+0007#STR0007#ALL#Cancelado Pelo Operador
+0009#STR0009#ALL#Emissão:
+0010#STR0010#ALL#|empregado.....:
+0012#STR0012#ALL#|centro De Custo.:
+0013#STR0013#ALL#|função..........:
+0014#STR0014#ALL#|nascimento......:
+0015#STR0015#ALL#Admissão.:
+0017#STR0017#ALL#|fornecedor.:
+0018#STR0018#ALL#|morada...:
+0019#STR0019#ALL#|freguesia.....:
+0020#STR0020#ALL#Cidade.:
+0021#STR0021#ALL#|telefone...:
+0022#STR0022#ALL#|médico...:
+0023#STR0023#ALL#|crm......:
+0024#STR0024#ALL#|  realização : ____/____/____           responsável:  ____________________    |
+0025#STR0025#ALL#|candidato.......:
+0026#STR0026#ALL#|morada........:
+0027#STR0027#ALL#|localidade..........:
+0028#STR0028#ALL#|registo Crial..:
+0029#STR0029#ALL#|código postal.............:
+0030#STR0030#ALL#|carteira Profissional:
+0031#STR0031#ALL#Morada........:
+0032#STR0032#ALL#Localidade..........:
+0033#STR0033#ALL#Registo Crial..:
+0034#STR0034#ALL#Código postal.............:
+0037#STR0037#ALL#Demissional ® De demissão
+0040#STR0040#ALL#Pedido De Exame:
+0041#STR0041#ALL#Modelo impressão?
+0044#STR0044#ALL#Dados Do Empregado
+0045#STR0045#ALL#Dados Do Fornecedor De Exames
+0046#STR0046#ALL#Ordem de encaminhamento para
+0048#STR0048#ALL#Dados Do Empregado
+0051#STR0051#ALL#Centro De Custo:
+0055#STR0055#ALL#      idade: 
+0056#STR0056#ALL#Registo Geral:
+0057#STR0057#ALL#Contr.:
+0059#STR0059#ALL#Morada:
+0060#STR0060#ALL#Localidade:
+0067#STR0067#ALL#Crm: 
+0069#STR0069#ALL#Realização: _____/_____/_____  responsável: ___________________________________   assinatura: _______________________ 
+0070#STR0070#ALL#Dados Do Exame
+0073#STR0073#ALL#Empregados
+0076#STR0076#ALL#Centro De Custo
+0079#STR0079#ALL#Médico responsável
+0080#STR0080#ALL#Assinatura: _________________________                    realização: ______/______/______
+0082#STR0082#ALL#Encaminhamento para exames
+0086#STR0086#ALL#Realização : ____/____/____
+0087#STR0087#ALL#|Médico.....:
+0091#STR0091#ALL#De cliente ?
+0093#STR0093#ALL#Até cliente ?
+0094#STR0094#ALL#Código  do cliente. o campo pode permanecer vazio para considerar desde o primeiro código.
+0095#STR0095#ALL#Código  da loja do cliente. o campo pode permanecer vazio para considerar desde o primeiro código.
+0096#STR0096#ALL#Código  do cliente. o campo pode ser preenchido com a letra z até  o final para considerar o último código.
+0097#STR0097#ALL#Código  da loja do cliente. o campo pode ser preenchido com a letra z até  o final para considerar o último código.
+0098#STR0098#ALL#Para visualizar o listagem  colectivo, deve se escolher apenas um exame
+0099#STR0099#ALL#Não existe informação para imprimir no relatório.
+0100#STR0100#ALL#Filtrar por natureza?
+0105#STR0105#ALL# De retorno ao trabalho
+0106#STR0106#ALL# De mudança de função
+0115#STR0115#ALL#|Filial..........:
+0116#STR0116#ALL#|----------------------------------Responsável---------------------------------|
+0117#STR0117#ALL#|   -------Exames------------------------------------------Natureza---------   |
+0118#STR0118#ALL#|   -------------------------------Exames-----------------------------------   |
+0119#STR0119#ALL#|                                        Assinatura: _______________________   |
+0121#STR0121#ALL#Concelho...:
+0122#STR0122#ALL#|----------------------------------Empregados----------------------------------|
+0125#STR0125#ALL#|-------------------------------Médico Responsável-------------------------------|
+0131#STR0131#ALL#De  Exame ?
+0132#STR0132#ALL#Não
+0134#STR0134#ALL#Até Filial ?
+0136#STR0136#ALL#Imprimir preparação ?

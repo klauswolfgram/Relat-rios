@@ -1,0 +1,16 @@
+0001#STR0001#ALL#Relação de viagens
+0002#STR0002#ALL#Emite relação de viagens
+0003#STR0003#ALL#Cofacturaorme os parâmetros escolhidos
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#                                             *---veiculo---* *---reboque1---* *---reboque2---*
+0007#STR0007#ALL#Data      Hora Fil.ori Viagem Fil.des Vazia Código    Placa   Código    Placa   Código    Placa   Condutor 
+0008#STR0008#ALL#A Seleccionar Registo No Dtq...
+0009#STR0009#ALL#Cancelado Pelo Operador
+0012#STR0012#ALL#Total de 
+0017#STR0017#ALL#Relação de viagens
+0018#STR0018#ALL#Emite relação de viagens de acordo com os parâmetros indicados
+0019#STR0019#ALL#Estado + Fil.origem + Viagem
+0020#STR0020#ALL#Estado
+0021#STR0021#ALL#Total Do Estado
+0023#STR0023#ALL#Matrícula

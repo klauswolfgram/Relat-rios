@@ -1,0 +1,61 @@
+0001#STR0001#ALL#Emitir o resumo de acidentes com vitima 
+0002#STR0002#ALL#conforme o Quadro III da NR4.
+0003#STR0003#ALL#Zebrado
+0004#STR0004#ALL#Administracao
+0005#STR0005#ALL#Quadro de Acidentes com Vitima
+0006#STR0006#ALL#CANCELADO PELO OPERADOR
+0007#STR0007#ALL#|ACIDENTES C/VITIMA______________________________________________  PERIODO DE
+0008#STR0008#ALL#|RESPONSAVEL:________________________________________________                              ASS:____________________________________|
+0009#STR0009#ALL#|                  Setor                  | Numero |Afastam.|Afastam.|  Sem   |  Indice  |  Dias/   |   Taxa   | Obitos |  Indice  |
+0010#STR0010#ALL#|                                         |Absoluto|Menor ou| Maior  |Afastam.| Relativo |  Homem   |    de    |        | de Aval. |
+0011#STR0011#ALL#|                                         |        |Igual a | Que 
+0012#STR0012#ALL#|                                         |        |   
+0013#STR0013#ALL#Total do Estabelecimento
+0014#STR0014#ALL#De Data ?
+0015#STR0015#ALL#Ate Data?
+0016#STR0016#ALL#Não há dados para exibir.
+0017#STR0017#ALL#De Cliente ?
+0018#STR0018#ALL#Loja
+0019#STR0019#ALL#Até Cliente ?
+0020#STR0020#ALL#Responsável
+0021#STR0021#ALL#|RESPONSAVEL:
+0022#STR0022#ALL#ASS:____________________________________|
+0023#STR0023#ALL#Código do responsável. Esta pergunta pode permanecer vazia caso se opte por informar manualmente o nome do responsável.
+0024#STR0024#ALL#Data do Mapa do relatório de Acidentes Com Vítimas.
+0025#STR0025#ALL#DADOS DA EMPRESA
+0026#STR0026#ALL#EMPRESA.: 
+0027#STR0027#ALL#CIDADE..: 
+0028#STR0028#ALL#ENDERECO: 
+0029#STR0029#ALL#TELEFONE: 
+0030#STR0030#ALL#Dias uteis no ano ?
+0031#STR0031#ALL#Jornada de trabalho ?
+0032#STR0032#ALL#Ate Data ?
+0033#STR0033#ALL#Data do Mapa
+0034#STR0034#ALL#De Filial ?
+0035#STR0035#ALL#Ate Filial ?
+0036#STR0036#ALL#|                  Setor                  | Numero |Afastam.|Afastam.|  Sem   |  Indice  |  Dias/   |   Taxa   | Obitos |   Taxa   |
+0037#STR0037#ALL#|                                         |Absoluto|Menor ou| Maior  |Afastam.| Relativo |  Homem   |    de    |        |    de    |
+0038#STR0038#ALL#|                                         |        |Igual a | Que 
+0039#STR0039#ALL#|                                         |        |   
+0040#STR0040#ALL#ATE
+0041#STR0041#ALL#DATA DO MAPA: __/__/___   |
+0042#STR0042#ALL#DATA DO MAPA:
+0043#STR0043#ALL# |        | Total de | Perdidos | Frequen. |        |Gravidade |
+0044#STR0044#ALL#   |        |        | Emprega. |          |          |        |          |
+0045#STR0045#ALL# |        | Total de | Perdidos | Frequen. |        |    da    |
+0046#STR0046#ALL#   |        |        | Emprega. |          |          |        | Gravida. |
+0047#STR0047#ALL#Considera Acid. Traj.?
+0048#STR0048#ALL#Indica se deve ser considerados os acidentes de trajeto.
+0049#STR0049#ALL#Por Setor ?
+0050#STR0050#ALL#Indica se a contagem será feita por setor ou não.
+0051#STR0051#ALL#Setor S/ Acid. ?
+0052#STR0052#ALL#Indica se será impresso setor sem acidente.
+0053#STR0053#ALL#Sim
+0054#STR0054#ALL#Não
+0055#STR0055#ALL#Tipo de Horas ?
+0056#STR0056#ALL#Média das Horas
+0057#STR0057#ALL#Verbas
+0058#STR0058#ALL#Indica se a quantidade de horas trabalhadas, quando houver integração com o SIGAGPE, será calculada sobre a média das horas mês (RA_HRSMES / 30) ou se será somente contabilizado de acordo com as verbas selecionadas no parâmetro MV_MDTVERB.
+0059#STR0059#ALL#Atenção
+0060#STR0060#ALL#Esta opção só está disponível para ambientes com integração com o módulo SIGAPON
+0061#STR0061#ALL#Escolha outra opção para este parâmetro

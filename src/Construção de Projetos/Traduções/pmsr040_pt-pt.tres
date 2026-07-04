@@ -1,0 +1,27 @@
+0001#STR0001#ALL#Este relatório irá imprimir as curvas abc do orçamento conforme os parâmetros solicitados
+0002#STR0002#ALL#Curvas Abc Dos Orçamentos
+0003#STR0003#ALL#Orçamento+produto+despesa
+0004#STR0004#ALL#Tarefa+produto+despesa
+0005#STR0005#ALL#Tarefa
+0006#STR0006#ALL#Composição
+0007#STR0007#ALL#Sub-composição
+0008#STR0008#ALL#Código de barras
+0009#STR0009#ALL#Administração
+0010#STR0010#ALL#Código E Descrição                                            Um       Quantidade Valor Unitário Valor    Total Percentagem % Acumulado
+0011#STR0011#ALL#Tp.      código                  descrição                       um         quantidade             valor         %proj.     %acum.
+0012#STR0012#ALL#Curva Abc Dos Recursos Dos Orçamentos
+0013#STR0013#ALL#Tarefa       descrição            tp. código           descrição            um      quantidade           valor      %proj.  %acum.
+0014#STR0014#ALL#Tarefa         descrição                                                      um    quantidade           custo      %proj.  %acum.
+0015#STR0015#ALL#Curva Abc Das Tarefas Dos Orçamentos
+0016#STR0016#ALL#Recurso composto     descrição                                                      um    quantidade           custo      %proj.  %acum.
+0017#STR0017#ALL#Curva Abc Dos Recursos Compostos Dos Orçamentos
+0018#STR0018#ALL#Sub-compos.    descrição                                                      um                         custo      %proj.  %acum.
+0019#STR0019#ALL#Curva Abc Das Sub-composições Dos Orçamentos
+0022#STR0022#ALL#Outros
+0023#STR0023#ALL#Código da tarefa                  tp. código           descrição            um      quantidade           valor      %proj.  %acum.
+0024#STR0024#ALL#Descrição da tarefa               tp. código           descrição            um      quantidade           valor      %proj.  %acum.
+0025#STR0025#ALL#Código da tarefa                                                              um    quantidade           custo      %proj.  %acum.
+0026#STR0026#ALL#Descrição da tarefa                                                           um    quantidade           custo      %proj.  %acum.
+0032#STR0032#ALL#Orçamento + Artigo + Despesa
+0033#STR0033#ALL#Tarefa + Artigo + Despesa
+0038#STR0038#ALL#*** cancelado pelo utilizador ***

@@ -1,0 +1,24 @@
+0001#STR0001#ALL#Relação Para Analise Dos Stocks
+0002#STR0002#ALL#Este relatório demonstra a situação de cada item em relação ao
+0003#STR0003#ALL#Seu saldo , seu alocação , suas entradas previstas e sua classe
+0004#STR0004#ALL#Abc.
+0005#STR0005#ALL# por código         
+0006#STR0006#ALL# por tipo           
+0007#STR0007#ALL# por descrição     
+0008#STR0008#ALL# por grupo        
+0009#STR0009#ALL#Código de barras
+0010#STR0010#ALL#Administração
+0012#STR0012#ALL#                                                                  stock req/pv/reserva      colocadas      colocados      colocadas      colocados         pedido    económico entrega em meses     médio      saída       
+0013#STR0013#ALL#Cancelado Pelo Operador
+0014#STR0014#ALL#T o t a l  d o   t i p o : 
+0015#STR0015#ALL#T o t a l   d o   g r u p o : 
+0016#STR0016#ALL#T o t a l   g e r a l :
+0017#STR0020#ALL# por consumo       
+0018#STR0021#ALL#A Seleccionar Registos...
+0019#STR0022#ALL#Artigo(s)
+0020#STR0023#ALL#Actualizar 
+0027#STR0030#ALL#Stock
+0028#STR0031#ALL#Em Meses
+0029#STR0032#ALL#  N/d
+0030#STR0033#ALL#Cl
+0031#STR0034#ALL#Artigos

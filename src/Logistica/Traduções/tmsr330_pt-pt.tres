@@ -1,0 +1,30 @@
+0001#STR0001#ALL#Relação Da Posição De Veiculo
+0002#STR0002#ALL#Emite Relação Da Posição De Veiculo
+0003#STR0003#ALL#Cofacturaorme os parâmetros escolhidos
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#                                                                             * autorização *  ** chegada **
+0007#STR0007#ALL#Veiculo  Placa   Descrição                 Capacidade Estado    Fil.atual  Data     Hora  Data     Hora  Condutor                            Fil.origem Viagem Rota
+0008#STR0008#ALL#A Seleccionar Registo No Da3...
+0009#STR0009#ALL#Tipo de veiculo: 
+0010#STR0010#ALL#Frota: 
+0011#STR0011#ALL#Cancelado Pelo Operador
+0012#STR0012#ALL#Total de veiculo da frota ( 
+0014#STR0014#ALL#Total de veiculo do tipo ( 
+0015#STR0015#ALL#Total geral da quantidade de veiculo ===> 
+0016#STR0016#ALL#Relação Da Posição De Veiculo
+0017#STR0017#ALL#Emitir relação da posição do veículo, conforme os parâmetros digitados
+0018#STR0018#ALL#Veículos
+0019#STR0019#ALL#Tipo De Veículos
+0020#STR0020#ALL#Tipo De Frota
+0021#STR0021#ALL#Veículo
+0022#STR0022#ALL#Matrícula
+0025#STR0025#ALL#Fil.ori.
+0027#STR0027#ALL#Estado
+0028#STR0028#ALL#Fil. actu.
+0029#STR0029#ALL#Data Aprov.
+0030#STR0030#ALL#Hora Aprov.
+0031#STR0031#ALL#Data Prev.
+0032#STR0032#ALL#Hora Prev.
+0034#STR0034#ALL#Total Da Frota
+0035#STR0035#ALL#Total Do Tipo De Veículos

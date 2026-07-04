@@ -1,0 +1,18 @@
+0001#STR0001#ALL#PENDING   
+0002#STR0002#ALL#This program will print a list of pending issues of each      
+0003#STR0003#ALL#responsible, mentioning the type of pending and its date of 
+0004#STR0004#ALL#creation ccording to the parameters selected by the user.   
+0005#STR0005#ALL#Z.Form 
+0006#STR0006#ALL#Management    
+0007#STR0007#ALL#Selecting Records...    
+0008#STR0008#ALL#DOCUMENT /REVISION   BILL                                                                                                 PENDING                  CREATION    POSTING    POSTING    DAYS
+0009#STR0009#ALL#                                                                                                                                                   DATE        DATE       STATUS  
+0010#STR0010#ALL#CANCELLED BY OPERATOR 
+0011#STR0011#ALL#Department: 
+0012#STR0012#ALL#Person in charge: 
+0013#STR0013#ALL#Pending
+0014#STR0014#ALL#Posted
+0015#STR0015#ALL#Dept.
+0016#STR0016#ALL#Pending   
+0017#STR0017#ALL#BRANCH: 
+0018#STR0018#ALL#CODE:   

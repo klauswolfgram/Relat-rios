@@ -1,0 +1,19 @@
+0001#STR0001#ALL#De Objectivo       ?
+0002#STR0002#ALL#Até Objectivo      ?
+0004#STR0004#ALL#Até Meta          ?
+0006#STR0006#ALL#Até Responsável   ?
+0008#STR0008#ALL#Até Prazo         ?
+0009#STR0009#ALL#Tipo de Impressão ?
+0012#STR0012#ALL#Informe a partir de qual objectivo deseja visualizar no relatório.
+0013#STR0013#ALL#Informe até qual objectivo deseja visualizar no relatório. Pressione a tecla [F3] para seleccionar um objectivo ou digite ZZZZZZ neste campo e deixe o campo acima em branco para considerar todos os objectivos.
+0014#STR0014#ALL#Informe a partir de qual meta deseja visualizar no relatório.
+0016#STR0016#ALL#Informe a partir de qual responsável deseja visualizar no relatório.
+0017#STR0017#ALL#Informe até qual responsável deseja visualizar no relatório. Pressione a tecla [F3] para seleccionar um Responsável ou digite ZZZZZZ neste campo e deixe o campo acima em branco para considerar todos os Responsáveis.
+0018#STR0018#ALL#Informe a partir de qual prazo os objectivos devem ser considerados no relatório.
+0019#STR0019#ALL#Informe até qual prazo os objectivos devem ser considerados no relatório.
+0021#STR0021#ALL#Objectivos
+0022#STR0022#ALL#Relatório de Objectivos e Metas
+0023#STR0023#ALL#Objectivo:
+0031#STR0031#ALL#Estado: 
+0053#STR0053#ALL#Fórmula compilado:
+0054#STR0054#ALL#Compilado geral:

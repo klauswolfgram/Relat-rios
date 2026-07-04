@@ -1,0 +1,59 @@
+0001#STR0001#ALL#From Objective    ?
+0002#STR0002#ALL#To Objective     ?
+0003#STR0003#ALL#From Goal     ?
+0004#STR0004#ALL#To Goal     ?
+0005#STR0005#ALL#From Responsible   ?
+0006#STR0006#ALL#To Responsible     ?
+0007#STR0007#ALL#From deadline  ?
+0008#STR0008#ALL#To deadline     ?
+0009#STR0009#ALL#Print Type?
+0010#STR0010#ALL#Screen
+0011#STR0011#ALL#Printer
+0012#STR0012#ALL#Enter from which Objective it must be displayed in the report.
+0013#STR0013#ALL#Enter to which Objective it must be displayed in the report. Press [F3] to select an Objective or, to consider them all, type ZZZZZZ in this field and leave the field above blank.
+0014#STR0014#ALL#Enter from which Goal it must be displayed in the report.
+0015#STR0015#ALL#Enter to which Objective it must be displayed in the report. Press [F3] to select a Goal or, to consider them all, type ZZZZZZ in this field and leave the field above blank.
+0016#STR0016#ALL#Enter from which Responsible it must be displayed in the report.
+0017#STR0017#ALL#Enter to which Responsible it must be displayed in the report. Press [F3] to select a Responsible or, to consider them all, type ZZZZZZ in this field and leave the field above blank.
+0018#STR0018#ALL#Enter from which Deadline objectives must be considered in the report.
+0019#STR0019#ALL#Enter to which Deadline objectives must be considered in the report.
+0020#STR0020#ALL#Enter type of report for survey 1=Screen;2=Printer
+0021#STR0021#ALL#Objectives
+0022#STR0022#ALL#Objectives and Goals Report
+0023#STR0023#ALL#Purpose:
+0024#STR0024#ALL#Term: 
+0025#STR0025#ALL#Opening: 
+0026#STR0026#ALL#Closing: 
+0027#STR0027#ALL#Responsible: 
+0028#STR0028#ALL#Status: 
+0029#STR0029#ALL#Priority: 
+0030#STR0030#ALL#Target:
+0031#STR0031#ALL#Status: 
+0032#STR0032#ALL#Pending
+0033#STR0033#ALL#Goal Type: 
+0034#STR0034#ALL#Increasing
+0035#STR0035#ALL#Target: 
+0036#STR0036#ALL#Qty. Current: 
+0037#STR0037#ALL#Deployment: 
+0038#STR0038#ALL#Initial Prev: 
+0039#STR0039#ALL#Final Prev.: 
+0040#STR0040#ALL#Initial Real: 
+0041#STR0041#ALL#Final Real: 
+0042#STR0042#ALL#Results:
+0043#STR0043#ALL#Date: 
+0044#STR0044#ALL#Amount: 
+0045#STR0045#ALL#There is no data to set up the report.
+0046#STR0046#ALL#Attention
+0047#STR0047#ALL#Sheet:
+0048#STR0048#ALL#Issue:
+0049#STR0049#ALL#Time:
+0050#STR0050#ALL#Formula:
+0051#STR0051#ALL#Detailing:
+0052#STR0052#ALL#Finish Prev. Dt.:
+0053#STR0053#ALL#Compiled Formula:
+0054#STR0054#ALL#General Compiled:
+0055#STR0055#ALL#Considers Notes?
+0056#STR0056#ALL#Yes
+0057#STR0057#ALL#No
+0058#STR0058#ALL#Enter whether notes are considered in the report printing. 1=Yes;2=No
+0059#STR0059#ALL#Notes:

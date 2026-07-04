@@ -1,0 +1,14 @@
+0001#STR0001#BRA#Function available for TopConnect environments only
+0002#STR0002#BRA#Function available for TReport only, please update environment and check MV_TREPORT parameter
+0003#STR0003#BRA#Transaction History
+0004#STR0004#BRA#SERASA transaction records report.
+0005#STR0005#BRA#CUSTOMER
+0006#STR0006#BRA#Error
+0007#STR0007#BRA#Source Branch Total: 
+0008#STR0008#BRA#Batch total: 
+0009#STR0009#BRA#Bills
+0010#STR0010#BRA#Transactions
+0011#STR0011#BRA#Batches
+0012#STR0012#BRA#Original Value
+0013#STR0013#BRA#Bill Value in Batch
+0014#STR0014#BRA#Rebates

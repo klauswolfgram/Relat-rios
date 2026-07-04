@@ -1,0 +1,14 @@
+0001#STR0001#BRA#Este programa tem como objetivo imprimir relatorio 
+0002#STR0002#BRA#demonstrativo para empresas sujeitas ao regime de  
+0003#STR0003#BRA#substituicao tributaria de Minas Gerais
+0004#STR0004#BRA#Demonstrativo Regime ICMS ST - MG
+0005#STR0005#BRA#Zebrado
+0006#STR0006#BRA#Administracao
+0007#STR0007#BRA#Cod. NCM    Cod.EAN13        Cod.Próprio                     Un. Descrição                        Quantidade      VLUnitário       Vl. Total    MVA  Base de Cálculo  Alíquota       Vl.ICMS  Dt.Corte    CNPJ Filial
+0008#STR0008#BRA#TOTAL ENTRADAS ------------------------------------->      
+0009#STR0009#BRA#TOTAL SAIDAS   ------------------------------------->      
+0010#STR0010#BRA#Dados nao encontrados
+0011#STR0011#BRA#*** CANCELADO PELO OPERADOR ***
+0012#STR0012#BRA#TOTAL GERAL ENTRADAS ------------------------------->      
+0013#STR0013#BRA#TOTAL GERAL SAIDAS   ------------------------------->      
+0014#STR0014#BRA#---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

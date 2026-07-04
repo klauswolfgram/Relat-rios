@@ -1,0 +1,64 @@
+0001#STR0001#ALL#Checklist APQP A3
+0002#STR0002#ALL#Gerando Visualizacao, Aguarde...
+0003#STR0003#ALL#  O PROJETO DE FERRAMENTAS E EQUIPAMENTOS FOI
+0004#STR0004#ALL# PREVISTO PARA :
+0005#STR0005#ALL#* Sistema flexivel, por exemplo, celulas de manufatura ?
+0006#STR0006#ALL#* Troca rapida ?
+0007#STR0007#ALL#* Flutuacoes de volume ?
+0008#STR0008#ALL#* Prova de erros ?
+0009#STR0009#ALL#  FORAM PREPARADAS LISTAS PARA IDENTIFICAR :
+0010#STR0010#ALL#* Novos equipamentos ?
+0011#STR0011#ALL#* Novas ferramentas ?
+0012#STR0012#ALL#* Novos equipamentos de testes ?
+0013#STR0013#ALL#  HOUVE ACORDO SOBRE OS CRITERIOS DE ACEITACAO
+0014#STR0014#ALL#  PARA :
+0015#STR0015#ALL#* Novas ferrramentas ?
+0016#STR0016#ALL# Sera conduzido um estudo preliminar de capabilidade no
+0017#STR0017#ALL# fabricante de ferramentas e/ou equipamentos ?
+0018#STR0018#ALL# Foram estabelecidas a viabilidade e precisao dos
+0019#STR0019#ALL# equipamentos de testes ?
+0020#STR0020#ALL# Foi completado um plano de manutencao preventiva
+0021#STR0021#ALL# para os equipamentos e ferramental ?
+0022#STR0022#ALL# As instrucoes de instalacao/ajuste para os novos
+0023#STR0023#ALL# equipamentos e ferramental estao completas e sao
+0024#STR0024#ALL# compreensiveis ?
+0025#STR0025#ALL# Estarao disponiveis dispositivos de medicao capazes
+0026#STR0026#ALL# para se fazer estudos preliminares da capabilidade do
+0027#STR0027#ALL# processo nas instalacoes do fornecedor do equipamento?
+0028#STR0028#ALL# Os estudos preliminares de capabilidade do processo
+0029#STR0029#ALL# serao efetuados na planta de producao ?
+0030#STR0030#ALL# As caracteristicas de processo que afetam as
+0031#STR0031#ALL# caracteristicas especiais do produto foram
+0032#STR0032#ALL# identificadas ?
+0033#STR0033#ALL# As caracteristicas especiais do produto foram usadas
+0034#STR0034#ALL# para se determinar os criterios de aceitacao ?
+0035#STR0035#ALL# O equipamento de manufatura possui capacidade
+0036#STR0036#ALL# suficiente para absorver os volumes estimados para
+0037#STR0037#ALL# producao e servicos ?
+0038#STR0038#ALL# A capacidade de teste e suficiente para oferecer
+0039#STR0039#ALL# testes adequados ?
+0040#STR0040#ALL#Preparado Por
+0041#STR0041#ALL#A-3 LISTA DE VERIFICACAO DE NOVOS EQUIPAMENTOS, FERRAMENTAL E EQUIPAMENTOS DE TESTE
+0042#STR0042#ALL#Numero da Peca Interno ou do Cliente
+0043#STR0043#ALL#Pergunta
+0044#STR0044#ALL#Sim
+0045#STR0045#ALL#Nao
+0046#STR0046#ALL#Cometarios / Acao Requerida
+0047#STR0047#ALL#Pessoa Responsavel
+0048#STR0048#ALL#Data Prevista
+0049#STR0049#ALL#Data de Revisao
+0050#STR0050#ALL#Pagina 
+0051#STR0051#ALL# de 
+0052#STR0052#ALL#* Novos Materiais?
+0053#STR0053#ALL#O Equipamento de medição foi verificado e
+0054#STR0054#ALL#documentado estando qualificado para a 
+0055#STR0055#ALL#abrangência necessária da medições e testes?
+0056#STR0056#ALL#N/a
+0057#STR0057#ALL#O projeto requer: 
+0058#STR0058#ALL#(inclui todos fornecedores)
+0059#STR0059#ALL#(incluindo recursos para verificação)?
+0060#STR0060#ALL#Houve acordo sobre os critérios de aceitação para:
+0061#STR0061#ALL#serão efetuados na planta de processamento?
+0062#STR0062#ALL#Novos equipamentos de teste (Incluindo recursos
+0063#STR0063#ALL#para verificação) ?
+0064#STR0064#ALL#Os estudos preliminares de capabilidade do processo

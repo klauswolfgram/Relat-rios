@@ -1,0 +1,47 @@
+0001#STR0001#ALL#Este programa vai imprimir o relatório de movimentos por 
+0002#STR0002#ALL# de acordo com os parâmetros sugeridos  
+0003#STR0003#ALL#  pelo utilizador.
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#Emissão do relatório de movimentos por 
+0007#STR0007#ALL#Relatório de movimentos por  
+0008#STR0008#ALL# analítico em 
+0009#STR0009#ALL#De
+0010#STR0010#ALL#Até
+0011#STR0011#ALL#(orçamentado)
+0012#STR0012#ALL#(de gestão)
+0013#STR0013#ALL#Conta                     Descrição                            C/partida               Tipo    Número              Data        Histórico                               Valor Do Movimento             Saldo Actual
+0014#STR0014#ALL# sintético em 
+0015#STR0015#ALL#***** cancelado pelo operador *****
+0016#STR0016#ALL#Centro de custo - 
+0017#STR0017#ALL#Total  
+0018#STR0018#ALL#A Criar Ficheiro Temporário...
+0019#STR0019#ALL#Data
+0020#STR0020#ALL#Total  d a   c o n t a  => 
+0021#STR0021#ALL#S a l d o  a n t e r i o r  d a  c o n t a  => 
+0022#STR0022#ALL#Total   g e r a l  
+0023#STR0023#ALL#De transporte : 
+0024#STR0024#ALL#Conta - 
+0025#STR0025#ALL#Data                                                                            Débito               Crédito            Saldo Actual
+0026#STR0026#ALL#Saldo Anterior:
+0027#STR0027#ALL#Lote/sub/doc/linha h i s t ó r i c o                        c/partida                                                              
+0028#STR0028#ALL#Débito         Crédito      Saldo Actual
+0029#STR0029#ALL#Data                                                                            Débito               Crédito            Saldo Actual
+0030#STR0030#ALL#A visão de gestão não está disponível neste relatório.
+0031#STR0031#ALL#Descrição
+0032#STR0032#ALL#Centro De Custo
+0034#STR0034#ALL#Movimentos
+0038#STR0038#ALL#Descrição
+0039#STR0039#ALL#Contrapartida
+0041#STR0041#ALL#Número
+0042#STR0042#ALL#Histórico
+0043#STR0043#ALL#Valor do movimento
+0044#STR0044#ALL#Saldo actual
+0046#STR0046#ALL#Sub-lote
+0049#STR0049#ALL#Sequência Do Movimento
+0050#STR0050#ALL#Seq. Do Histórico
+0053#STR0053#ALL#Atenção
+0054#STR0054#ALL#Este relatório deve ser emitido em paisagem. Confirma impressão ?
+0057#STR0057#ALL#Serão excluídas as colunas de descrição e histórico do relatório. Confirma Exclusão ?
+0059#STR0059#ALL#Não
+0060#STR0060#ALL#Este relatório somente é emitido em modo paisagem.

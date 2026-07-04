@@ -1,0 +1,35 @@
+0001#STR0001#ALL#Pré-impresso
+0002#STR0002#ALL#Administração
+0003#STR0003#ALL#Estado De Contas A Pagar
+0004#STR0004#ALL#A processar responsável 
+0005#STR0005#ALL#A Processar Ordens De Pagamento
+0006#STR0006#ALL#Não foram encontrados dados segundo os parâmetros introduzidos
+0007#STR0007#ALL#A imprimir 
+0008#STR0008#ALL#Cód.   Nome / Razão Social                    Tipo  Comprovativo   Fecho    Fecho De Fecho          Débitos         Créditos           Saldo
+0009#STR0009#ALL#                                                Cpte.               Emissão  Registo Vencto.                                          Acumulado
+0010#STR0010#ALL#Cód.   Nome / Razão Social                                                                Débitos         Créditos           Saldo
+0012#STR0012#ALL#Outros saldos: 
+0013#STR0013#ALL#Sub-totais do responsável 
+0014#STR0014#ALL#Totais Criais:
+0015#STR0015#ALL#Desde fornecedor   
+0016#STR0016#ALL#Até fornecedor   
+0017#STR0017#ALL#Desde fecho       
+0018#STR0018#ALL#Até fecho       
+0019#STR0019#ALL#Analítico         
+0020#STR0020#ALL#Fecha referência  
+0021#STR0021#ALL#Ordenado por      
+0022#STR0022#ALL#Pag. Por Responsável
+0024#STR0024#ALL#Imprime Saldo Certo
+0025#STR0025#ALL#Analítico
+0026#STR0026#ALL#Resumo
+0027#STR0027#ALL#Emissão
+0028#STR0028#ALL#Vencimento
+0029#STR0029#ALL#Registo
+0032#STR0032#ALL#Sim
+0035#STR0035#ALL#Arquivo
+0037#STR0037#ALL#Registo
+0039#STR0039#ALL#Débitos
+0040#STR0040#ALL#Créditos
+0044#STR0044#ALL#Movimentos
+0045#STR0045#ALL# - em 
+0046#STR0046#ALL#Diário Ctb

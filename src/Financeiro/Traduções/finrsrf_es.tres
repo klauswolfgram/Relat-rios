@@ -1,0 +1,42 @@
+0001#STR0001#ALL#Procesando - DARF
+0002#STR0002#ALL#Mensaje
+0003#STR0003#ALL#No existen datos en el periodo informado
+0004#STR0004#ALL#OK
+0005#STR0005#ALL#Vencimiento inicial
+0006#STR0006#ALL#Vencimiento final
+0007#STR0007#ALL#Código SRF inicial
+0008#STR0008#ALL#Código SRF final
+0009#STR0009#ALL#Agrupa por
+0010#STR0010#ALL#Periodo de cálculo
+0011#STR0011#ALL#Número de referencia
+0012#STR0012#ALL#Sucursal centralizadora
+0013#STR0013#ALL#Modelo
+0014#STR0014#ALL#Ingreso bruto
+0015#STR0015#ALL#Porcentaje
+0016#STR0016#ALL#Periodicidad
+0017#STR0017#ALL#CNPJ de la incorporadora
+0018#STR0018#ALL#1.Proveed./Cod.SRF
+0019#STR0019#ALL#2.Apenas Cod. SRF
+0020#STR0020#ALL#1. Comun
+0021#STR0021#ALL#2. Sencillo
+0022#STR0022#ALL#1. Diario
+0023#STR0023#ALL#2. Semanal
+0024#STR0024#ALL#3. Cada diez dias
+0025#STR0025#ALL#4. Quincenal
+0026#STR0026#ALL#5. Mensual
+0027#STR0027#ALL#6. Trimestral
+0028#STR0028#ALL#7. Cuatrimestral
+0029#STR0029#ALL#8. Semestral
+0030#STR0030#ALL#9. Anual
+0031#STR0031#ALL#Selecciona Sucursales ?
+0032#STR0032#ALL#1.Si
+0033#STR0033#ALL#2.No
+0034#STR0034#ALL#Sucursal: 
+0035#STR0035#ALL#El DARF no puede generarse con valor igual o inferior al mínimo definido en el parámetro MV_VLRETIR.
+0036#STR0036#ALL#Para la emisión de la DARF se considerará el RCPJ de la sucursal centralizadora. ¿Confirma la operación?
+0037#STR0037#ALL#RCPJ no se ubicó el registro de la empresa, el DARF se emitirá en la sucursal Centralizadora. Confirma la operación.
+0038#STR0038#ALL#RCPJ informado no coincide con el RCPJ de la Sucursal centralizadora, el DARF se emitirá en la sucursal correspondiente al RCPJ informado. Confirma la operación.
+0039#STR0039#ALL#¿Considera el RCPJ del título?
+0040#STR0040#ALL#1.Filtrar
+0041#STR0041#ALL#2.Sustituido
+0042#STR0042#ALL#Emisión DARF

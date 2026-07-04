@@ -1,0 +1,24 @@
+0001#STR0001#ALL#LISTA DE DOCUMENTOS
+0002#STR0002#ALL#Este programa irá imprimir uma relaçäo dos documentos, seus 
+0003#STR0003#ALL#elaboradores, revisores, aprovadores e homologadores, 
+0004#STR0004#ALL#de acordo com os parâmetros definidos pelo usuário.
+0005#STR0005#ALL#Zebrado
+0006#STR0006#ALL#Administraçäo
+0007#STR0007#ALL#Selecionando Registros..
+0008#STR0008#ALL#CANCELADO PELO OPERADOR
+0009#STR0009#ALL#Publicado
+0010#STR0010#ALL#DOCUMENTO         REV  TITULO                                                                                                
+0011#STR0011#ALL#ELABORADORES     REVISORES        APROVADORES      
+0012#STR0012#ALL#HOMOLOGADORES    STATUS        VIGENCIA
+0013#STR0013#ALL#De Fil Depto Distr ?
+0014#STR0014#ALL#Ate Fil Depto Distr?
+0015#STR0015#ALL#De Fil Depto Digit ?
+0016#STR0016#ALL#Ate Fil Depto Digit?
+0017#STR0017#ALL#De Fil Usr Destino ?
+0018#STR0018#ALL#Ate Fil Usr Destino?
+0019#STR0019#ALL#Elaboradores
+0020#STR0020#ALL#Revisores
+0021#STR0021#ALL#Aprovadores
+0022#STR0022#ALL#Homologador
+0023#STR0023#ALL#Status
+0024#STR0024#ALL#Documento

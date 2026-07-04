@@ -1,0 +1,19 @@
+0001#STR0001#ALL#Relação De Veiculos A Receber Por Filial
+0002#STR0002#ALL#Emite relação de veiculos a receber por filial,
+0003#STR0003#ALL#Cofacturaorme os parâmetros escolhidos
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#A Seleccionar Registos...
+0007#STR0007#ALL#A Seleccionar Registos Dtw...
+0008#STR0008#ALL#----viagem----                 destino --prev chegada--  perc ----veiculo----   --1o. reboque--    --2o. reboque--   condutor       
+0009#STR0009#ALL#Origem  número tipo rota       final   data       hora   ocup cod      placa    cod      placa     cod      placa                   
+0010#STR0010#ALL#Escala : 
+0011#STR0011#ALL#Cancelado Pelo Operador
+0012#STR0012#ALL#Relação de veiculos a receber por filial
+0013#STR0013#ALL#Emitir relação de veículos a receber por filial, conforme os parâmetros introduzidos
+0014#STR0014#ALL#Fil. Actividade + Fil. Origem + Viagem
+0015#STR0015#ALL#Fil. Actividade
+0017#STR0017#ALL#Uf
+0019#STR0019#ALL#Perc.ocup.
+0021#STR0021#ALL#Matrícula
+0025#STR0025#ALL#Tipo De Rota

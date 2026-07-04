@@ -1,0 +1,37 @@
+0001#STR0001#ALL#Imprimindo DAV
+0002#STR0002#ALL#Documento Auxiliar de Venda - DAV
+0003#STR0003#ALL#DOCUMENTO AUXILIAR DE VENDA - ORCAMENTO
+0004#STR0004#ALL#NÃO É DOCUMENTO FISCAL - NÃO É VALIDO COMO RECIBO E COMO GARANTIA DE MERCADORIA
+0005#STR0005#ALL# NÃO COMPROVA PAGAMENTO
+0006#STR0006#ALL#Identificacao do Estabelecimento Emitente
+0007#STR0007#ALL#Denominação: 
+0008#STR0008#ALL#Identificacao do Destinatário
+0009#STR0009#ALL#Nome: 
+0010#STR0010#ALL#CNPJ/CPF: 
+0011#STR0011#ALL#Nº do Documento: 
+0012#STR0012#ALL#Nº do Documento Fiscal: 
+0013#STR0013#ALL#Item
+0014#STR0014#ALL#Código
+0015#STR0015#ALL#Descrição
+0016#STR0016#ALL#Quant.
+0017#STR0017#ALL#U.M.
+0018#STR0018#ALL#Vlr.Unit.
+0019#STR0019#ALL#Vlr.Desc.
+0020#STR0020#ALL#Vlr.Total
+0021#STR0021#ALL#É vedada a autenticação deste documento
+0022#STR0022#ALL#Conforme previsto no ATO COTEPE/ICMS 14, DE 16 DE MARÇO DE 2011, é vedada a reimpressão do DAV
+0023#STR0023#ALL#Já foi emitido Cupom Fiscal para essa conta, é vedada a impressão do DAV
+0024#STR0024#ALL#Aguarde. Abrindo a Impressora Fiscal...
+0025#STR0025#ALL#Aguarde. Fechando a Impressora Fiscal...
+0026#STR0026#ALL#ORDEM DE SERVIÇO (DAV-OS)
+0027#STR0027#ALL#DAV-OS Origem: 
+0028#STR0028#ALL#DAV Cancelada. Impressão não permitida
+0029#STR0029#ALL#Ponto de Entrada LJR210DAV compilado de forma indevida. Retorno esperado:Array.
+0030#STR0030#ALL#Para o Estado da Paraíba e Espírito Santo não é permitido a impressão em impressora laser
+0031#STR0031#ALL#Configure o parametro MV_LJDAVEC para .T. (Impressão em ECF)
+0032#STR0032#ALL#Este orçamento não foi gerado como DAV em ambiente PAF-ECF portanto relatório não será gerado
+0033#STR0033#ALL#Relatório sem informações para visualização, não será gerado ! 
+0034#STR0034#ALL#Sem comunicação com o ECF. Verifique!
+0035#STR0035#ALL#Relatório sem informações, não será impresso ! 
+0036#STR0036#ALL#Aguarde. Abrindo a Impressora Não Fiscal...
+0037#STR0037#ALL#Conforme previsto em legislação (REQUISITO IV - Inciso IV do PAF-NFC-e), é vedada a reimpressão do DAV após emitido o Documento Fiscal Eletrônico da venda.

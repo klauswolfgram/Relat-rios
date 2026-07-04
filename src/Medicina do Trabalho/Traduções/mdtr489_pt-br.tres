@@ -1,0 +1,40 @@
+0001#STR0001#ALL#Mat.     Nome Funcionario              Funcao                              Centro de Custo
+0002#STR0002#ALL#Data Exame  Via   Resultado Port. 19 - OD                                                                Referencial?  Resultado Port. 19 - OE                                                                Referencial?
+0003#STR0003#ALL#O Exame selecionado não é de AudioMetria
+0004#STR0004#ALL#De Cliente ?
+0005#STR0005#ALL#Até Cliente ?
+0006#STR0006#ALL#Loja ?
+0007#STR0007#ALL#Loja do cliente.
+0008#STR0008#ALL#Exame ?
+0009#STR0009#ALL#De Matricula ?
+0010#STR0010#ALL#Ate Matricula ?
+0011#STR0011#ALL#De C. Custo ?
+0012#STR0012#ALL#Ate C. Custo ?
+0013#STR0013#ALL#De Funcao ?
+0014#STR0014#ALL#Ate Funcao ?
+0015#STR0015#ALL#De Data ?
+0016#STR0016#ALL#Até Data ?
+0017#STR0017#ALL#Não há nada para imprimir no relatório.
+0018#STR0018#ALL#Código do cliente. O campo pode permanecer vazio para considerar desde o primeiro código.
+0019#STR0019#ALL#Código da loja do cliente. O campo pode permanecer vazio para considerar desde o primeiro código.
+0020#STR0020#ALL#Código do cliente. O campo pode ser preenchido com a letra Z até o final para considerar o último código.
+0021#STR0021#ALL#Código da loja do cliente. O campo pode ser preenchido com a letra Z até o final para considerar o último código.
+0022#STR0022#ALL#Relatório da evolução audiométrica.
+0023#STR0023#ALL#Frequências - Orelha Direita (KHz)
+0024#STR0024#ALL#Frequências - Orelha Esquerda (KHz)
+0025#STR0025#ALL#Aerea
+0026#STR0026#ALL#Ossea
+0027#STR0027#ALL#Requer Interpretação
+0028#STR0028#ALL#Limiares Aceitaveis
+0029#STR0029#ALL#Sugestivo de PAIR
+0030#STR0030#ALL#Não Sugestivo de PAIR
+0031#STR0031#ALL#Sugestivo de Desencadeamento
+0032#STR0032#ALL#Sugestivo de Agravamento
+0033#STR0033#ALL#Perda de Audição
+0034#STR0034#ALL#Limiares(dB):
+0035#STR0035#ALL#Sim
+0036#STR0036#ALL#Não
+0037#STR0037#ALL#Cliente/Loja:
+0038#STR0038#ALL#Zebrado
+0039#STR0039#ALL#Administração
+0040#STR0040#ALL#Médias

@@ -1,0 +1,15 @@
+0001#STR0001#ALL#Este programa tiene el objetivo de imprimir el informe
+0002#STR0002#ALL#segun los parametros informados por el usuario.
+0003#STR0003#ALL#Planilla del
+0004#STR0004#ALL#A Rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#Tamaño
+0007#STR0007#ALL#El total de columnas seleccionadas sobrepaso el tamaño maximo del informe.
+0008#STR0008#ALL#Anular
+0009#STR0009#ALL#Resumido
+0010#STR0010#ALL#Completo
+0011#STR0011#ALL#Informe Resumido
+0012#STR0012#ALL#El informe se ajustara sustrayendose algunos campos para que se impriman los registros obedeciendo el tamaño de la pagina.
+0013#STR0013#ALL#OK
+0014#STR0014#ALL#Informe completo
+0015#STR0015#ALL#El informe se imprimira conteniendo saltos de paginas para impresion de todos los datos de los registros.

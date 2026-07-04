@@ -1,0 +1,28 @@
+0001#STR0001#ALL#Este programa ira imprimir el Comparativo de Movimiento o Saldos Acumulados 
+0002#STR0002#ALL#de las 4 entidades contables posibilitando elegir el orden de las entidades.
+0003#STR0003#ALL#Comparativo de Saldos/Mov. de 4 Entidades
+0004#STR0004#ALL#|                  |  PERIODO 01  |  PERIODO 02  |  PERIODO 03  |  PERIODO 04  |  PERIODO 05  |  PERIODO 06  |  PERIODO 07  |  PERIODO 08  |  PERIODO 09  |  PERIODO 10  |  PERIODO 11  |  PERIODO 12  | TOTAL             |
+0005#STR0005#ALL#|                          |  PERIODO 01   |  PERIODO 02   |  PERIODO 03   |  PERIODO 04   |  PERIODO 05   |  PERIODO 06   |  PERIODO 07   |  PERIODO 08   |  PERIODO 09   |  PERIODO 10   |  PERIODO 11   |  PERIODO 12   |
+0006#STR0006#ALL# A 
+0007#STR0007#ALL# EN 
+0008#STR0008#ALL#COMPARATIVO DE 
+0009#STR0009#ALL# ATENCION 
+0010#STR0010#ALL#***** ANULADO POR EL OPERADOR *****
+0011#STR0011#ALL#T O T A L E S  D E L  P E R I O D O: 
+0012#STR0012#ALL# MOVIMIENTO 
+0013#STR0013#ALL#A Rayas
+0014#STR0014#ALL#Administracion
+0015#STR0015#ALL#Creando Archivo Temporario...
+0016#STR0016#ALL#TOTALES 
+0017#STR0017#ALL#En caso que no actualice los saldos  basicos  en la
+0018#STR0018#ALL#digitacion de los asientos (MV_ATUSAL='N'),
+0019#STR0019#ALL#ejecutar la rotina de actualizacion de saldos 
+0020#STR0020#ALL#para todos los periodos solicitados en ese 
+0021#STR0021#ALL#informe.
+0022#STR0022#ALL#Por favor, verifique si el calend.contable es el vinculo moneda/calendario 
+0023#STR0023#ALL#fueron registrados correctamente...
+0024#STR0024#ALL#TOTAL DEL PERIODO: 
+0025#STR0025#ALL#TOTAL DEL GRUPO (
+0026#STR0026#ALL# SALDO ACUMULADO
+0027#STR0027#ALL#  DE 
+0028#STR0028#ALL#Favor verificar las entidades contables elegidas. No pueden repetirse.

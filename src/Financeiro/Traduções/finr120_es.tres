@@ -1,0 +1,44 @@
+0001#STR0001#ALL#A Rayas
+0002#STR0002#ALL#Administrac.
+0003#STR0003#ALL#Por Fch
+0004#STR0004#ALL#Por Efectivo
+0005#STR0005#ALL#Por Banco
+0006#STR0006#ALL#Por Modalid
+0007#STR0007#ALL#Movimiento diario de caja, de forma analitica (detallada) o 
+0008#STR0008#ALL#sintetica (solo los totales). Informa los valores pagados y/o cobrados
+0009#STR0009#ALL#en el interv. definido
+0010#STR0010#ALL#Movimiento diario de caja
+0011#STR0011#ALL#Fecha      Efectivo  Modalidad  Banco Agencia Cuenta                Cheque          Documento           Vencimiento Beneficiario                Historial                       Pagos           Cobranzas   
+0012#STR0012#ALL#Analitico
+0013#STR0013#ALL#Sintetico
+0014#STR0014#ALL#Seleccionando Registros..
+0015#STR0015#ALL#ANULADO POR EL OPERADOR
+0016#STR0016#ALL#Total - 
+0017#STR0017#ALL#Total gral. :
+0018#STR0018#ALL#BANCO INDEFINIDO   ( 
+0019#STR0019#ALL#MODALIDAD INDEFINIDA  ( 
+0020#STR0020#ALL#Saldos iniciales:
+0021#STR0021#ALL#Fecha      Efectivo  Modalidad  Banco Agencia Cuenta               Cheque          Documento              OP / Rec   Vencimento  Beneficiario           Historial                Pagos      Cobranzas
+0022#STR0022#ALL#Fecha      Efectivo  Modalidad  Banco Agencia Cuenta               Cheque          Documento              OP / Plan  Vencimiento Beneficiario           Historial                Pagos           Cobranzas   
+0023#STR0023#ALL#Fcha
+0024#STR0024#ALL#Banco
+0025#STR0025#ALL#Agencia
+0026#STR0026#ALL#Cuen.
+0027#STR0027#ALL#Saldo
+0028#STR0028#ALL#Orden
+0029#STR0029#ALL#Movimtos.
+0030#STR0030#ALL#Efectivo 
+0031#STR0031#ALL#Modalid.
+0032#STR0032#ALL#Cheque
+0033#STR0033#ALL#Documento
+0034#STR0034#ALL#OP/Rec
+0035#STR0035#ALL#OP/Plan
+0036#STR0036#ALL#Vencimto. 
+0037#STR0037#ALL#Beneficiario
+0038#STR0038#ALL#Historial
+0039#STR0039#ALL#Pagos (A)    
+0040#STR0040#ALL#Cobranzas(B)  
+0041#STR0041#ALL#B - A
+0042#STR0042#ALL#Total
+0043#STR0043#ALL#en 
+0044#STR0044#ALL#Moned

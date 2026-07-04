@@ -1,0 +1,13 @@
+0001#STR0001#ALL#Lista De Treinandos Por Documento
+0002#STR0002#ALL#Este programa irá imprimir uma relação de treinandos por
+0003#STR0003#ALL#Documento, relacionando quem foi treinado em cada documento.
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#A Seleccionar Registos..
+0007#STR0007#ALL#TREINANDO            FUNÇÃO          DEPARTAMENTO    NÚMERO/ANO DT.SOLICITAÇÃO DT.REALIZAÇÃO PARTICIPANTE JUSTIFICATIVA
+0009#STR0009#ALL#Cancelado Pelo Operador
+0011#STR0011#ALL#Treino:
+0015#STR0015#ALL#Não
+0016#STR0016#ALL#Formação
+0017#STR0017#ALL#Formandos
+0018#STR0018#ALL#Em formação

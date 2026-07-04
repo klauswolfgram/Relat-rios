@@ -1,0 +1,35 @@
+0001#STR0001#ALL#Display all the risks of which the employee is exposed at the present time.
+0002#STR0002#ALL#Z-Form
+0003#STR0003#ALL#Administration
+0004#STR0004#ALL#Risks per Employee
+0005#STR0005#ALL#      Num. Risk  Agent                  Generator Source        Evaluation  Intensity   M.U.   C.Center             Funct. Task  
+0006#STR0006#ALL#Employee..........:
+0007#STR0007#ALL#Cost Center.......:
+0008#STR0008#ALL#Function..........:
+0009#STR0009#ALL#Tasks.............:
+0010#STR0010#ALL#Risks:
+0011#STR0011#ALL#Customer/Unit......:
+0012#STR0012#ALL#There is nothing to print in the report.
+0013#STR0013#ALL#    Risk No. Agent               Generating Source    Evaluation Intensity Evaluation   U.M.    C.Center              Function        Task           Environment
+0014#STR0014#ALL#Employee Status?
+0015#STR0015#ALL#To Function?
+0016#STR0016#ALL#From Function??
+0017#STR0017#ALL#To Cost Center?
+0018#STR0018#ALL#From Cost Center?
+0019#STR0019#ALL#Consider Risk?
+0020#STR0020#ALL#To Employee?
+0021#STR0021#ALL#From Employee?
+0022#STR0022#ALL#From Customer?
+0023#STR0023#ALL#Unit
+0024#STR0024#ALL#To Customer?
+0025#STR0025#ALL#Active
+0026#STR0026#ALL#Discharged
+0027#STR0027#ALL#Active and On Leave
+0028#STR0028#ALL#All
+0029#STR0029#ALL#Do you want to print Task Description?
+0030#STR0030#ALL#All
+0031#STR0031#ALL#Regular
+0032#STR0032#ALL#Indicates whether the task description is printed.
+0033#STR0033#ALL#    Number Risk Agent                 Generating Source           Intensity Evaluation  M.U   C.Center                         Role                Task                Department           Environment
+0034#STR0034#ALL#Indicates if on the print it will consider or not the risks that were already eliminated.
+0035#STR0035#ALL#Department......:

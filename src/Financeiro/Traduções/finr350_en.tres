@@ -1,0 +1,45 @@
+0001#STR0001#ALL#This program will print the Suppliers' Situation,  
+0002#STR0002#ALL#refering to the current date.    
+0003#STR0003#ALL#Z.Form 
+0004#STR0004#ALL#Management   
+0005#STR0005#ALL#Suppliers status         
+0006#STR0006#ALL#Prf Number       PC Tp   Original Value    Issue     Due Dt     Pstng                                              P  A  Y  M  E  N  T  S                                                                                           
+0007#STR0007#ALL#                                                                          Law 10925     Discounts   Rebates             Int.          Fine    Monet.Indx.      Amnt. paid  Adv. payment          Crrnt blnce  Reason
+0008#STR0008#ALL#CANCELLED BY THE OPERATOR  
+0009#STR0009#ALL#SUPPLIER :   
+0010#STR0010#ALL#Totals : 
+0011#STR0011#ALL#T O T A L :             
+0012#STR0012#ALL#By Code
+0013#STR0013#ALL#By Name
+0014#STR0014#ALL#Selecting Records...
+0015#STR0015#ALL#Invoiced
+0016#STR0016#ALL#Supplier  
+0017#STR0017#ALL#Bills  
+0018#STR0018#ALL#Prf Number
+0019#STR0019#ALL#PC
+0020#STR0020#ALL#Tp.
+0021#STR0021#ALL#Original amnt.
+0022#STR0022#ALL#Issue
+0023#STR0023#ALL#Due date
+0024#STR0024#ALL#Pstng 
+0025#STR0025#ALL#Law 10925
+0026#STR0026#ALL#Discounts
+0027#STR0027#ALL#Deductions 
+0028#STR0028#ALL#Inter
+0029#STR0029#ALL#Pnlty
+0030#STR0030#ALL#Crrcy.Index
+0031#STR0031#ALL#Amnt. paid
+0032#STR0032#ALL#Adv. payment 
+0033#STR0033#ALL#Crrnt.Blnce
+0034#STR0034#ALL#Reason
+0035#STR0035#ALL#B R A N C H  T O T A L  ----> 
+0036#STR0036#ALL#BRANCH TOTAL:  
+0037#STR0037#ALL#Total by Branch
+0038#STR0038#ALL#Total by Supplier
+0039#STR0039#ALL#                                                                                        Discounts   Rebates             Inter.        Fin     Monte.Corr.      Paid amnt.  Advanced pymn.        Curr. blnce  Reason
+0040#STR0040#ALL#Company total
+0041#STR0041#ALL#Table printing format not supported in this report
+0042#STR0042#ALL#Compensation
+0043#STR0043#ALL#Accessory Value
+0044#STR0044#ALL#Issue
+0045#STR0045#ALL#Accessory Value

@@ -1,0 +1,42 @@
+0001#STR0001#ALL#Función disponible solamente en TReport
+0002#STR0002#ALL#Rutina disponible solamente para entornos TopConnect
+0003#STR0003#ALL#Procesamiento del costo de préstamo
+0004#STR0004#ALL#Este programa emitirá la información de los procesos de capitalización de los costos de préstamo, de acuerdo con los parámetros.
+0005#STR0005#ALL#Datos del proceso
+0006#STR0006#ALL#Datos de la financiación
+0007#STR0007#ALL#Datos de las transacciones
+0008#STR0008#ALL#Datos de los rendimientos
+0009#STR0009#ALL#Costos de los préstamos
+0010#STR0010#ALL#Total proceso
+0011#STR0011#ALL#Total del proceso
+0012#STR0012#ALL#Val Contrato
+0013#STR0013#ALL#Sld Contrato
+0014#STR0014#ALL#Interés Comp
+0015#STR0015#ALL#Tasa de capitalización
+0016#STR0016#ALL#Amortización
+0017#STR0017#ALL#Total sucursal
+0018#STR0018#ALL#Total de la sucursal
+0019#STR0019#ALL#Total general
+0020#STR0020#ALL#Proceso
+0021#STR0021#ALL#Contratos
+0022#STR0022#ALL#Transacciones
+0023#STR0023#ALL#Inversiones
+0024#STR0024#ALL#Resumen
+0025#STR0025#ALL#Las tablas FN1, FN2, FN3 y FN4 que son fundamentales para la ejecución de la rutina no están actualizadas en el entorno. Por favor, ejecute la última versión del Actualizador UPDATF.
+0026#STR0026#ALL#Atribución
+0027#STR0027#ALL#Cód Base Cost Trans
+0028#STR0028#ALL#Ítem Cost Trans
+0029#STR0029#ALL#Tipo Cost Trans
+0030#STR0030#ALL#Tipo Saldo Cost Trans
+0031#STR0031#ALL#Valor de la amortización
+0032#STR0032#ALL#Descripcion del rendimiento
+0033#STR0033#ALL#Rendimiento
+0034#STR0034#ALL#Código base origen
+0035#STR0035#ALL#Ítem origen
+0036#STR0036#ALL#Cód Base Cost Prest
+0037#STR0037#ALL#Ítem Cost Prest
+0038#STR0038#ALL#Tasa de capitalización
+0039#STR0039#ALL#Atribución
+0040#STR0040#ALL#Adquisic Orig
+0041#STR0041#ALL#Tipo origen
+0042#STR0042#ALL#Saldo origen

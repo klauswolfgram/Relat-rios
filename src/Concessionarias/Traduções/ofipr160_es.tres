@@ -1,0 +1,19 @@
+0001#STR0001#ALL#Lista de las Divergencias del Inventario
+0002#STR0002#ALL#A Rayas
+0003#STR0003#ALL#Administracion
+0004#STR0004#ALL#Inventario
+0005#STR0005#ALL#Inicio: 
+0006#STR0006#ALL#Final: 
+0007#STR0007#ALL#Anulado: 
+0008#STR0008#ALL#hs
+0009#STR0009#ALL#NroSec Grup Item                   Almacen Asignacion         Descripcion Item      Ctd. Digitada Ctd.Sistema  Divergencia     Vlr.Costo
+0010#STR0010#ALL#Positivo (+)
+0011#STR0011#ALL#Negativo (-)
+0012#STR0012#ALL#Total General Absoluto
+0013#STR0013#ALL#Items
+0014#STR0014#ALL#¿Codigo del inventario?
+0015#STR0015#ALL#Lista por:
+0016#STR0016#ALL#Grupo y codigo
+0017#STR0017#ALL#Asignacion
+0018#STR0018#ALL#Descripcion
+0019#STR0019#ALL#Cant.Digitada  Cant.Sistema  Divergencia         Val.Costo

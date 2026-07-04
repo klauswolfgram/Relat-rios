@@ -1,0 +1,49 @@
+0001#STR0001#ALL#Relatorio de apresentacao dos funcionarios que receberam EPI      
+0002#STR0002#ALL#Atraves dos parametros o usuario pode selecionar Funcionarios que 
+0003#STR0003#ALL#receberam EPI's em um determinado Periodo.                
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#EPI's por Funcionário
+0007#STR0007#ALL#Matrícula  Nome Funcionário                          Sexo       Admissão Idade C.Custo              Função Descrição   
+0008#STR0008#ALL#           EPI             Nome do EPI                              Data Entrega Fornec  Descricao  
+0009#STR0009#ALL#CANCELADO PELO OPERADOR
+0010#STR0010#ALL#De Cliente ?
+0011#STR0011#ALL#Loja
+0012#STR0012#ALL#Até Cliente ?
+0013#STR0013#ALL#Cliente: 
+0014#STR0014#ALL#Não há nada para imprimir no relatório.	
+0015#STR0015#ALL#Lista Funcionários Demitidos?
+0016#STR0016#ALL#Até Data Entrega ?
+0017#STR0017#ALL#De  Data Entrega ?
+0018#STR0018#ALL#Até EPI ?
+0019#STR0019#ALL#De  EPI ?
+0020#STR0020#ALL#Até Funcionário ?
+0021#STR0021#ALL#De Funcionário ?
+0022#STR0022#ALL#Sim
+0023#STR0023#ALL#Não
+0024#STR0024#ALL#Matrícula  Nome Funcionário                                               Sexo  Admissão    Demissão    Idade  C.Custo                Descrição
+0025#STR0025#ALL#      EPI                            Nome do EPI                    Data Entrega Quant. Fornec - Descrição                 C.A.
+0026#STR0026#ALL#      EPI                              Nome do EPI                                                    Data Entrega Quant.  Fornecedor            Descrição                          C.A.
+0027#STR0027#ALL#FUNÇÃO: 
+0028#STR0028#ALL#De Filial ?
+0029#STR0029#ALL#Até Filial ?
+0030#STR0030#ALL#Filial
+0031#STR0031#ALL#Determina se será listado os funcionário demitidos.
+0032#STR0032#ALL#Nome
+0033#STR0033#ALL#Descrição
+0034#STR0034#ALL#Sexo
+0035#STR0035#ALL#Admissão
+0036#STR0036#ALL#Demissão
+0037#STR0037#ALL#Idade
+0038#STR0038#ALL#C. Custo
+0039#STR0039#ALL#Nome do EPI
+0040#STR0040#ALL#Data Entr.
+0041#STR0041#ALL#Quant.
+0042#STR0042#ALL#Fornecedor
+0043#STR0043#ALL#C.A.
+0044#STR0044#ALL#Cliente
+0045#STR0045#ALL#Filial
+0046#STR0046#ALL#Função
+0047#STR0047#ALL#Funcionários
+0048#STR0048#ALL#Matrícula
+0049#STR0049#ALL#EPI

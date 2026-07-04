@@ -1,0 +1,19 @@
+0001#STR0001#ALL#Reemision de Facturas     
+0002#STR0002#ALL# La funcion de este programa es reemitir facturas que no fueron
+0003#STR0003#ALL#generadas durante la venta. Para esto se utilizara el script
+0004#STR0004#ALL#de factura grabado en el parametro MV_SCRNOTA (
+0005#STR0005#ALL#Especial
+0006#STR0006#ALL#Administracion
+0007#STR0007#ALL#Emision de facturas
+0008#STR0008#ALL#Este programa tiene la funcion de emitir facturas.
+0009#STR0009#ALL#Reemision de Documentos
+0010#STR0010#ALL#Este programa tiene la funcion de reemitir Documentos que no
+0011#STR0011#ALL#script de Documento grabado en el Parametro MV_SCRNOTA (
+0012#STR0012#ALL#Emision de Documentos
+0013#STR0013#ALL#Este programa tiene la funcion de emitir Documentos.
+0014#STR0014#ALL#No se permite la Reemision de Factura para 
+0015#STR0015#ALL#  Chile 
+0016#STR0016#ALL# Colombia
+0017#STR0017#ALL#La función indicada en el parámetro MV_SCRNOTA no está compilada en el RPO.
+0018#STR0018#ALL#Función:
+0019#STR0019#ALL#Compile esta función y repita la operación.

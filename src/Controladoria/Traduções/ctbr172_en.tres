@@ -1,0 +1,17 @@
+0001#STR0001#ALL#This program will print the Tax Balance Sheet Record.    
+0002#STR0002#ALL#Tax Balance Sheet Record       
+0003#STR0003#ALL#Z.form 
+0004#STR0004#ALL#Management   
+0005#STR0005#ALL#|   ACCOUNT CODE                  |   NAME                     |    DEBIT          |   CREDIT         |  DEBIT BALANCE   |  CREDIT BALANCE  |     ASSETS       |     LIABILITIES   |      LOSS         |      PROFIT       |
+0006#STR0006#ALL#Tax Balance Sheet Record    
+0007#STR0007#ALL# TO  
+0008#STR0008#ALL# ON 
+0009#STR0009#ALL#Creating temporary file ...  
+0010#STR0010#ALL#*****CANCELLED BY THE OPERATOR*****
+0011#STR0011#ALL#Company name: 
+0012#STR0012#ALL#RUT:
+0013#STR0013#ALL#Segment: 
+0014#STR0014#ALL#Address:
+0015#STR0015#ALL#Subtotals
+0016#STR0016#ALL#Fiscal Year Result    
+0017#STR0017#ALL#Equal addit.

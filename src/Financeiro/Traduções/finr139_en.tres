@@ -1,0 +1,26 @@
+0001#STR0001#ALL#Prints bills receivable with the number   
+0002#STR0002#ALL#of NF-e
+0003#STR0003#ALL#Z. form
+0004#STR0004#ALL#Management   
+0005#STR0005#ALL#Bills Receivable - NF-e 
+0006#STR0006#ALL#Prf-Number         Invoice      Store Code   Customer Name    TP  Nature   Date from    Exp     Exp     Bank Value Original
+0007#STR0007#ALL#Install.                                                                   Issue      Bill       Actual                         
+0008#STR0008#ALL#By customer
+0009#STR0009#ALL#By prefix/number  
+0010#STR0010#ALL#By bank  
+0011#STR0011#ALL#By DueDt/Cus
+0012#STR0012#ALL#By class    
+0013#STR0013#ALL#By issue dt
+0014#STR0014#ALL#By NF-e 
+0015#STR0015#ALL#Bu Cust.Code
+0016#STR0016#ALL# - By NF-e 
+0017#STR0017#ALL# - By customer
+0018#STR0018#ALL# - By prefix/number  
+0019#STR0019#ALL# -By customer code
+0020#STR0020#ALL#By number/prefix  
+0021#STR0021#ALL# - Number/Prefix 
+0022#STR0022#ALL#Selecting records ...    
+0023#STR0023#ALL#CANCELLED BY OPERATOR  
+0024#STR0024#ALL#Position of Bills Receivable (Branches selected for the report)
+0025#STR0025#ALL#Code              Company                                                      Business Unit                                           Branch
+0026#STR0026#ALL#Branch: 

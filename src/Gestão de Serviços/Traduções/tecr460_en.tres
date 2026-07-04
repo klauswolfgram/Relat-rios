@@ -1,0 +1,25 @@
+0001#STR0001#ALL#SO list      
+0002#STR0002#ALL#   This program will print a list of SOs, according to the   
+0003#STR0003#ALL#parameters selected.  
+0004#STR0004#ALL#
+0005#STR0005#ALL#Number
+0006#STR0006#ALL#Custom.
+0007#STR0007#ALL#Issued 
+0008#STR0008#ALL#Z.Form 
+0009#STR0009#ALL#Management   
+0010#STR0010#ALL#SERV.ORD.   TYPE     CUSTOM.   ISSUE      PT. PRODUCT               SERIAL No.           PROBLEM                                 S.O.       OCCURRENCE                                                                           
+0011#STR0011#ALL#          IT PRODUCT         DESCRIPTION                                                                           ORDER       QUANTITY   UNIT VALUE          CUSTOMER AMNT.  MANUFACTURER AMNT.      WARRANTY TOTAL AMNT.
+0012#STR0012#ALL# [ SERVICE ORDER    ] 
+0013#STR0013#ALL# [ CUSTOMER ] 
+0014#STR0014#ALL# [ISSUED ON] 
+0015#STR0015#ALL#CANCELLED BY THE OPERATOR  
+0016#STR0016#ALL#SO TOTAL
+0017#STR0017#ALL#CUSTOMER TOTAL 
+0018#STR0018#ALL#TOTAL OF 
+0019#STR0019#ALL#GRAND TOTAL 
+0020#STR0020#ALL#Occurrence
+0021#STR0021#ALL#Customer amnt
+0022#STR0022#ALL#Manufacturer amn
+0023#STR0023#ALL#Total amnt.
+0024#STR0024#ALL#Service order   
+0025#STR0025#ALL#Service order sub-items      

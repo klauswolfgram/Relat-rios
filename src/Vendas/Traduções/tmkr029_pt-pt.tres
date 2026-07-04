@@ -1,0 +1,20 @@
+0001#STR0001#ALL#Emissão de respostas de guiões 
+0002#STR0002#ALL#Este programa irá emitir uma relação dos atendimentos 
+0003#STR0003#ALL#Call center relacionados com os guiões trabalhados e suas
+0004#STR0004#ALL#Respectivas respostas.
+0005#STR0005#ALL#Código de barras
+0007#STR0007#ALL#Cancelado Pelo Operador.
+0011#STR0011#ALL#Resultado Total
+0012#STR0012#ALL#Contacto 
+0015#STR0015#ALL#Data da execução 
+0016#STR0016#ALL# - Telemarketing
+0017#STR0017#ALL# - Televendas
+0023#STR0023#ALL#Guião
+0024#STR0024#ALL#Perguntas/respostas                                                                                                                                                                               RRsultado
+0025#STR0025#ALL#Não existem dados a serem impressos para este relatório com os parâmetros escolhidos
+0026#STR0026#ALL# - Telecobrança
+0030#STR0030#ALL#Concelho
+0031#STR0031#ALL#Perguntas/respostas
+0032#STR0032#ALL#Pontuação
+0033#STR0033#ALL#Dados Do Atendimento
+0034#STR0034#ALL#Itens Do Script Dinâmico

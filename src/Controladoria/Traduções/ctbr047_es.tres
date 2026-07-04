@@ -1,0 +1,34 @@
+0001#STR0001#ALL# Este programa imprimira el Balance Parcial de Verificacion (MODO HORIZONTAL), la
+0002#STR0002#ALL#cuenta se imprime limitando a 20 caracteres y su descripcion esta limitada a 40 caracteres.
+0003#STR0003#ALL#BALANCE PARCIAL DE VERIFICACION
+0004#STR0004#ALL#Informe Impreso solamente en modo grafico
+0005#STR0005#ALL#DE
+0006#STR0006#ALL#A
+0007#STR0007#ALL#Cuenta
+0008#STR0008#ALL#Denominación
+0009#STR0009#ALL#Saldos iniciales
+0010#STR0010#ALL#Movimientos
+0011#STR0011#ALL#Saldos Finales
+0012#STR0012#ALL#Saldo
+0013#STR0013#ALL#Deudor
+0014#STR0014#ALL#Acreedor
+0015#STR0015#ALL#TOTALES
+0016#STR0016#ALL#RESULTADO DEL EJERCICIO O PERIODO:
+0017#STR0017#ALL#Favor rellenar los parametros Grupos de Ingresos/Egresos y Fecha Sld. Ant. Ingresos/Egresos  o
+0018#STR0018#ALL#dejar el parametro Ignora Sl Ant.Ing/Egr = No 
+0019#STR0019#ALL#Seleccionando Registros...
+0020#STR0020#ALL#Creando Archivo Temporario...
+0021#STR0021#ALL#Saldo Fin Balance
+0022#STR0022#ALL#Saldo Fin Funcion
+0023#STR0023#ALL#Activo
+0024#STR0024#ALL#Pasivo
+0025#STR0025#ALL#Perdidas
+0026#STR0026#ALL#Ganancias
+0027#STR0027#ALL#Balance de comprobacion
+0028#STR0028#ALL#Código
+0029#STR0029#ALL#Debe
+0030#STR0030#ALL#Haber
+0031#STR0031#ALL#¿Generar archivo TXT?
+0032#STR0032#ALL#Generando archivo...
+0033#STR0033#ALL#Archivo Txt generado con éxito.
+0034#STR0034#ALL#Ocurrió un error al crear el archivo Txt.

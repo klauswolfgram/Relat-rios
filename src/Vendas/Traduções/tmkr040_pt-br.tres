@@ -1,0 +1,19 @@
+0001#STR0001#ALL#Historico de Cobradores - Telecobrança
+0002#STR0002#ALL#Este programa irá emitir o Historico de Cobradores
+0003#STR0003#ALL#realizadas pelo operador no atendimento Televendas
+0004#STR0004#ALL#conforme os parâmetros previamente definidos
+0005#STR0005#ALL#Zebrado
+0006#STR0006#ALL#Administração
+0007#STR0007#ALL#CANCELADO PELO OPERADOR
+0008#STR0008#ALL#                                            Saldo Inicial                Enviado                 Recuperado                Não Realizado               Cancelado                 Saldo Final             Participação (%)
+0009#STR0009#ALL#Filial                                    Qtd.           Valor      Qtd.           Valor      Qtd.           Valor      Qtd.           Valor      Qtd.           Valor      Qtd.           Valor            Env.    Rec. 
+0010#STR0010#ALL#Grupo de Atendimento : 
+0011#STR0011#ALL#TOT. DO COBRADOR
+0012#STR0012#ALL#TOTAIS GERAIS
+0013#STR0013#ALL#Cancelado pelo Operador
+0014#STR0014#ALL#Relatório dos Cobradores
+0015#STR0015#ALL#Este progama tem por fim emitir um histórico das  
+0016#STR0016#ALL#cobranças por grupo de operadores.
+0017#STR0017#ALL#conforme os parametros previamente definidos
+0018#STR0018#ALL#Administração
+0019#STR0019#ALL#Empresa/Filial 

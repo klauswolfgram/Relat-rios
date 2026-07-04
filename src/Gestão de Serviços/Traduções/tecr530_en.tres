@@ -1,0 +1,16 @@
+0001#STR0001#ALL#Histogram of Attendance  
+0002#STR0002#ALL#    This program will issue a Histogram of Attendance, showing the  
+0003#STR0003#ALL#time of the Attendances, from a technician call, according to  
+0004#STR0004#ALL#parameters selected.  
+0005#STR0005#ALL#Z.Form
+0006#STR0006#ALL#Management   
+0007#STR0007#ALL#Customer                                 Call Numb.  Received in      Designated  in   Status     Bud.Nr.   Received in      Designated  in   Status     SO.Nr.    Received in      Designated  in   Status         Time of 
+0008#STR0008#ALL#Code      Name                                       Date       Hour  Date       Hour  of Call              Date       Hour  Date Hour        of Bud.              Date       Hour  Date Hour        of SO.     Attend.in HS
+0009#STR0009#ALL#CANCELLED BY OPERATOR  
+0010#STR0010#ALL#TOTAL OF CUSTOMER: 
+0011#STR0011#ALL#AVER.: 
+0012#STR0012#ALL#GEN. TOTAL:  
+0013#STR0013#ALL#AVER.: 
+0014#STR0014#ALL#Date forwarded  
+0015#STR0015#ALL#Time forwarded  
+0016#STR0016#ALL#Time of service(HS)

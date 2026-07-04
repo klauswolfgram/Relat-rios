@@ -1,0 +1,22 @@
+0001#STR0001#ALL#Relation of Movements - Managerial Cube
+0002#STR0002#ALL#   - Manager.Cube  : 
+0003#STR0003#ALL#* Budget Account Total *
+0004#STR0004#ALL#* Date Total    *
+0005#STR0005#ALL#* Categ.Total     *
+0006#STR0006#ALL#* Operation Total*
+0007#STR0007#ALL#* Budgetary Category Total     *
+0008#STR0008#ALL#Budgetary Account 
+0009#STR0009#ALL# - Period from 
+0010#STR0010#ALL#to 
+0011#STR0011#ALL#Mov.Date 
+0012#STR0012#ALL#Categ.
+0013#STR0013#ALL#Operat. 
+0014#STR0014#ALL#History  
+0015#STR0015#ALL#Process 
+0016#STR0016#ALL#Debit 
+0017#STR0017#ALL#Credit 
+0018#STR0018#ALL#Enter an existing managerial cube to continue!          
+0019#STR0019#ALL#<Grand> total
+0020#STR0020#ALL#Total
+0021#STR0021#ALL#Movements
+0022#STR0022#ALL#This report will print the Movement List according to the parameters requested by the user. For further information related to this report check the Help of the Program (F1).

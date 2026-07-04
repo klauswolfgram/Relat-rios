@@ -1,0 +1,52 @@
+0001#STR0001#ALL#Issued Documents   
+0002#STR0002#ALL#This report will print the list of issued documents.          
+0003#STR0003#ALL#Z.form
+0004#STR0004#ALL#Management
+0005#STR0005#ALL#------------------DOCUMENT---------------------                                                                                   -----------------WEIGHT---------------
+0006#STR0006#ALL#ISSUE     NUMBER   SERIES        TYPE            DEST.BR  TRANSPORT   FREIGHT  DEBTOR                                           REAL         CUBED            COLLECTED        VOLUME       VALUE FREIGHT    FREIGHT/COLLECTED
+0007#STR0007#ALL#Selecting records ...
+0008#STR0008#ALL#CANCELED BY OPERATOR  
+0009#STR0009#ALL#Source Branch:     
+0010#STR0010#ALL#CIF
+0011#STR0011#ALL#FOB
+0012#STR0012#ALL#GRAND TOTAL                     QTT.           REAL WEIGHT       CUBIC WEIGHT       CHARGED WEIGHT        VOLUMES          FREIGHT VAL
+0013#STR0013#ALL#Paid by Remitter    :
+0014#STR0014#ALL#Paid by Addressee   :
+0015#STR0015#ALL#Paid by Consignee   :
+0016#STR0016#ALL#Paid by dispatcher  :
+0017#STR0017#ALL#Paid by Remitter    :
+0018#STR0018#ALL#Paid by Addressee  :
+0019#STR0019#ALL#Paid by Consignee   :
+0020#STR0020#ALL#Paid by dispatcher  :
+0021#STR0021#ALL#There is no data for printing this report.
+0022#STR0022#ALL#Branch + Document + Series
+0023#STR0023#ALL#Branch + Issue + Document + Series
+0024#STR0024#ALL#Branch
+0025#STR0025#ALL#Origin Branch
+0026#STR0026#ALL#Description
+0027#STR0027#ALL#Document
+0028#STR0028#ALL#Issue
+0029#STR0029#ALL#Series
+0030#STR0030#ALL#Type
+0031#STR0031#ALL#Dest.Bra.
+0032#STR0032#ALL#Transport
+0033#STR0033#ALL#Freight
+0034#STR0034#ALL#Debtor
+0035#STR0035#ALL#Freight/Charged
+0036#STR0036#ALL#Gross Total
+0037#STR0037#ALL#Quantity
+0038#STR0038#ALL#Actual Weight
+0039#STR0039#ALL#Cubed Weight
+0040#STR0040#ALL#Packets
+0041#STR0041#ALL#Freight Amt
+0042#STR0042#ALL#Sender Pays
+0043#STR0043#ALL#Recipient Pays
+0044#STR0044#ALL#Consignee Pays
+0045#STR0045#ALL#Forwarder Pays
+0046#STR0046#ALL#Pay Sender
+0047#STR0047#ALL#Pay Recipient
+0048#STR0048#ALL#Pay Consignee
+0049#STR0049#ALL#Pay Forwarder
+0050#STR0050#ALL#Weight charged
+0051#STR0051#ALL#Documents Issued
+0052#STR0052#ALL#This report prints the list of documents issued.

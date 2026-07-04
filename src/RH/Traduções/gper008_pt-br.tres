@@ -1,0 +1,40 @@
+0001#STR0001#ALL#Relatório do Cálculo de Planos de Saúde
+0002#STR0002#ALL#Será impresso de acordo com os parametros solicitados 
+0003#STR0003#ALL#pelo usuário.
+0004#STR0004#ALL#Centro de Custo+Matricula
+0005#STR0005#ALL#Empresa: 
+0006#STR0006#ALL#Matricula
+0007#STR0007#ALL#Nome
+0008#STR0008#ALL#Informe uma data de Referência menor ou igual à Competência da Folha de Pagamento!
+0009#STR0009#ALL#Tipo          Matr/Seq Nome                           Lancamento          Tp Fornec          Fornecedor               Tp Plano              Cod Plano                           Vlr. Func   Vlr. Empresa           Total
+0010#STR0010#ALL#Filial: 
+0011#STR0011#ALL#C.Custo: 
+0012#STR0012#ALL#Titular
+0013#STR0013#ALL#Dependente
+0014#STR0014#ALL#Agregado
+0015#STR0015#ALL#Planos
+0016#STR0016#ALL#Co-participação
+0017#STR0017#ALL#Reembolso
+0018#STR0018#ALL#Ass. Médica
+0019#STR0019#ALL#Ass. Odontol.
+0020#STR0020#ALL#Faixa Salarial
+0021#STR0021#ALL#Faixa Etaria
+0022#STR0022#ALL#Vlr Fixo por vida
+0023#STR0023#ALL#% Sobre salario
+0024#STR0024#ALL#T O T A L  C E N T R O  D E  C U S T O S
+0025#STR0025#ALL# T O T A L    D A    E M P R E S A       
+0026#STR0026#ALL# T O T A L    D A    F I L I A L         
+0027#STR0027#ALL#Competência: 
+0028#STR0028#ALL#Atenção
+0029#STR0029#ALL#Execute a opção do compatibilizador referente ao Novo Plano de Saúde. Para maiores informações, verifique respectivo Boletim Técnico.
+0030#STR0030#ALL#OK
+0031#STR0031#ALL#Periodo Informado nao Cadastrado! 
+0032#STR0032#ALL#Periodo: 
+0033#STR0033#ALL#NAO HA CENTRO DE CUSTO CADASTRADO
+0034#STR0034#ALL#Salarial/Etária
+0035#STR0035#ALL#Salarial/Tempo
+0036#STR0036#ALL#Tipo            Matr/Seq Nome                           Lancamento          Tp Fornec          Fornecedor               Tp Plano              Cod Plano         Vlr. Func      Vlr. empresa     Remanescente    Total
+0037#STR0037#ALL#Período não encontrado!
+0038#STR0038#ALL#  Saldo remanescente de coparticipação: R$ 
+0039#STR0039#ALL#Convenção Coletiva de Trabalho: 
+0040#STR0040#ALL#CCT + Filial + Centro Custo

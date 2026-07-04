@@ -1,0 +1,22 @@
+0001#STR0001#ALL#Ficha de Help-Desk
+0002#STR0002#ALL#Este programa ira emitir as Ficha de Help-Desk conforme os 
+0003#STR0003#ALL#parametros solicitados.
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#ENCERRADO
+0007#STR0007#ALL#EM ABERTO
+0008#STR0008#ALL#CHAMADO
+0009#STR0009#ALL#REDIRECIONAMENTO
+0010#STR0010#ALL#REMINDER
+0011#STR0011#ALL#AGREGA CONHECIMENTO
+0012#STR0012#ALL#CANCELADO PELO OPERADOR
+0013#STR0013#ALL#|                                  FICHA DE HELP DESK                        | NR.CHAMADO: ########## SEQUENCIA: ## | FOLHA: ######|
+0014#STR0014#ALL#|CLIENTE: ######/## - ########################################                                                        ESTADO:   ## |
+0015#STR0015#ALL#|END.   : ######################################## CIDADE: ############### BAIRRO: ######################### TEL.: ############### |
+0016#STR0016#ALL#|ATENDENTE: ###### - ############################## OCORRENCIA/PROBLEMA: ###### - ##############################                     |
+0017#STR0017#ALL#|ORIGEM : ################### TEMPO DE ATENDIMENTO: ####:## SITUACAO: #########                                                    |
+0018#STR0018#ALL#|LAUDO: ###########################################################################################################################|
+0019#STR0019#ALL#LAUDO:
+0020#STR0020#ALL#Cliente
+0021#STR0021#ALL#Ficha de Cadastro
+0022#STR0022#ALL#Cadastro de Cliente

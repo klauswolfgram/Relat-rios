@@ -1,0 +1,19 @@
+0001#STR0001#ALL#Relatório De Pmps
+0002#STR0002#ALL#Emite a relação dos pmp registados, de acordo com a filtragem e a
+0003#STR0003#ALL#ordem selecionada pelo utilizador. Relaciona os PMP´s com as OP´s/SC´s
+0004#STR0004#ALL#Que foram criadas pelos mesmos.
+0006#STR0006#ALL#Por Artigo
+0007#STR0007#ALL#Código de barras
+0008#STR0008#ALL#Administração
+0009#STR0009#ALL#Registo(s)
+0010#STR0010#ALL#Do Dia
+0011#STR0011#ALL#Do Artigo
+0012#STR0012#ALL#A Seleccionar Registos...
+0013#STR0013#ALL#Produto                                                            Quantidade     Data     Status
+0014#STR0014#ALL#Ordem De Produção    Produto            Quantidade   Armaz   Inic. Previsto   Fim Previsto    Emissão
+0015#STR0015#ALL#Executado
+0016#STR0016#ALL#Em Aberto
+0017#STR0017#ALL#Totais 
+0018#STR0018#ALL#Planeado
+0019#STR0019#ALL#Planos Mestre De Produção
+0020#STR0020#ALL#Ordens de produção

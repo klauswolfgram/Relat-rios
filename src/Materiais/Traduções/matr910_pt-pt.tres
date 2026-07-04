@@ -1,0 +1,59 @@
+0001#STR0001#ALL#Este programa emitira uma relação com as movimentacoes
+0002#STR0002#ALL#Dos Produtos Selecionados,ordenados Por Dia.
+0003#STR0003#ALL#Kardex fisico-financeiro (dia)
+0004#STR0004#ALL# código produto 
+0005#STR0005#ALL# Tipo Do Produto
+0006#STR0006#ALL#Código de barras
+0007#STR0007#ALL#Administração
+0008#STR0008#ALL#    operação      
+0009#STR0009#ALL#  documento    
+0010#STR0010#ALL#   sequência   
+0011#STR0011#ALL# |              E  N  T  R  A  D  A  S            |        Custo Medio |                S  A  I  D  A  S                |             S   A   L   D   O           |   P.v.,for,
+0012#STR0012#ALL#    Data   Tes C.f   Número       |           Quantidade             Custo Total   |       Do Movimento |          Quantidade              Custo Total   |     Quantidade               Valor Total|   Cc ,pj Ou Op
+0013#STR0013#ALL#Kardex fisico-financeiro (dia) l o c a l :
+0014#STR0014#ALL# (por 
+0016#STR0016#ALL#Cancelado Pelo Operador
+0017#STR0017#ALL#T o t a i s  :
+0018#STR0018#ALL#Qtd. na segunda um: 
+0019#STR0019#ALL#Não Houve Movimentação Para Este Artigo
+0021#STR0021#ALL# edição do termo de abertura 
+0022#STR0022#ALL# edição do termo de encerramento 
+0023#STR0023#ALL#Um : 
+0024#STR0024#ALL#Tipo : 
+0025#STR0025#ALL#Grupo : 
+0026#STR0026#ALL#Custo medio : 
+0027#STR0027#ALL#Posição ipi : 
+0029#STR0029#ALL#A Seleccionar Registos
+0030#STR0030#ALL#(sequência)
+0031#STR0031#ALL#(calculo)
+0032#STR0032#ALL#   data    tes c.f   número       |             quantidade           custo total   |     do  movimiento |            quantidade            custo total   |            quantidade             valor total   
+0033#STR0033#ALL# |              e  n  t  r  a  d  a  s            |        custo medio |                s  a  i  d  a  s                |                s   a   l   d   o                |   
+0034#STR0034#ALL#Atenção
+0035#STR0035#ALL#Ao alterar o armazém o custo medio unificado será desconsiderado.
+0037#STR0037#ALL#Abandonar
+0038#STR0038#ALL#Operação
+0039#STR0039#ALL#Data
+0040#STR0040#ALL#Tes
+0041#STR0041#ALL#C.f
+0042#STR0042#ALL#Documento
+0043#STR0043#ALL#Número
+0044#STR0044#ALL#Entradas
+0045#STR0045#ALL#Quantidade
+0046#STR0046#ALL#Custo Total
+0047#STR0047#ALL#Custo Médio
+0048#STR0048#ALL#Do Movimento
+0049#STR0049#ALL#Saídas
+0050#STR0050#ALL#Saldo
+0051#STR0051#ALL#Valor Total
+0052#STR0052#ALL#P.v.,for,
+0054#STR0054#ALL#Qtd. Saldo
+0055#STR0055#ALL#Vlr.total Saldo
+0056#STR0056#ALL#Um
+0057#STR0057#ALL#Tipo
+0058#STR0058#ALL#Grupo
+0059#STR0059#ALL#Custo Médio
+0060#STR0060#ALL#Posição Ipi
+0061#STR0061#ALL#Morada
+0062#STR0062#ALL#Artigo (parte 1)
+0063#STR0063#ALL#Artigo (parte 2)
+0064#STR0064#ALL#Movimentação Dos Artigos

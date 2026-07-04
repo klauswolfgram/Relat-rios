@@ -1,0 +1,14 @@
+0001#STR0001#ALL#Zebrado
+0002#STR0002#ALL#Administracao
+0003#STR0003#ALL#Resumo de clientes que pagaram em dinheiro
+0004#STR0004#ALL#Resumo de clientes que pagaram mais de 
+0005#STR0005#ALL# em dinheiro no periodo de: 
+0006#STR0006#ALL# ate 
+0007#STR0007#ALL#Codigo    Razao Social                                          CGC               Endereco                                             Municipio                  Estado         No. Pagtos        Total Pago
+0007#STR0007#ANG#Codigo    Razao Social                                           RFC               Endereco                                             Municipio                  Estado         No. Pagtos        Total Pago
+0007#STR0007#EQU#Codigo    Razao Social                                           RFC               Endereco                                             Municipio                  Estado         No. Pagtos        Total Pago
+0007#STR0007#HAI#Codigo    Razao Social                                           RFC               Endereco                                             Municipio                  Estado         No. Pagtos        Total Pago
+0007#STR0007#MEX#Codigo    Razao Social                                           RFC               Endereco                                             Municipio                  Estado         No. Pagtos        Total Pago
+0007#STR0007#PTG#Codigo    Razao Social                                           RFC               Endereco                                             Municipio                  Estado         No. Pagtos        Total Pago
+0008#STR0008#ALL#Total de Pagamentos:
+0009#STR0009#ALL#Total da Filial: 

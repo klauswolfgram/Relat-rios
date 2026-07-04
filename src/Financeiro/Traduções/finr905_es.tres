@@ -1,0 +1,8 @@
+0001#STR0001#ALL#Titulos por cobrar en proceso de AVP
+0002#STR0002#ALL#Proceso disponible solo para entorno TOPCONNECT / TOTVSDBACCESS
+0003#STR0003#ALL#Este informe tiene el objetivo de listar los titulos por cobrar en proceso de ajuste de valor presente, mostrando el valor presente del titulo y sus movimientos
+0004#STR0004#ALL#Título em AVP
+0005#STR0005#ALL#Movimientos AVP
+0006#STR0006#ALL#Función disponible únicamente para que el TReport verifique el parámetro MV_TREPORT
+0007#STR0007#ALL#Prorrateo de la factura
+0008#STR0008#ALL#Valor prorrateado

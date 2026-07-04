@@ -1,0 +1,17 @@
+0001#STR0001#ALL#This program will issue the Cross Reference report 
+0002#STR0002#ALL#among instruments and used instruments.
+0003#STR0003#ALL#Cross Ref.: Instrument vs. Used Instrument       
+0004#STR0004#ALL#Instrument       Family Rev.          Dept.     Resp.    Range Inst.Used Point Inst.Used  Intrum. Used  Family Inst.Used
+0005#STR0005#ALL#Z.Form 
+0006#STR0006#ALL#Management   
+0007#STR0007#ALL#CANCELLED BY OPERATOR  
+0008#STR0008#ALL#Selecting Records. . .
+0009#STR0009#ALL#Inst. used range 
+0010#STR0010#ALL#Inst. used point 
+0011#STR0011#ALL#Instrument used  
+0012#STR0012#ALL#Family Inst. Used  
+0013#STR0013#ALL#Instrument 
+0014#STR0014#ALL#Rev
+0015#STR0015#ALL#Family 
+0016#STR0016#ALL#Dept. 
+0017#STR0017#ALL#Resp.

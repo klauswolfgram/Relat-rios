@@ -1,0 +1,21 @@
+0001#STR0001#ALL#Freight Table
+0002#STR0002#ALL#Issues the Freight Table list according to parameters defined.
+0003#STR0003#ALL#Code
+0004#STR0004#ALL#Link Freight Table
+0005#STR0005#ALL#Negotiation
+0006#STR0006#ALL#Components
+0007#STR0007#ALL#Routes
+0008#STR0008#ALL#Vehicle Ranges/Types
+0009#STR0009#ALL#Freight Table Rates
+0010#STR0010#ALL#Components of Freight Table Rates
+0011#STR0011#ALL#Rate Components by Freight Table Issuer
+0012#STR0012#ALL#Additional Delivery from Freight Table
+0013#STR0013#ALL#Final Amount
+0014#STR0014#ALL#Unit of Meas.
+0015#STR0015#ALL#Sum Range
+0016#STR0016#ALL#Vehicle Type
+0017#STR0017#ALL#Veh. Tp. Desc.
+0018#STR0018#ALL#Code
+0019#STR0019#ALL#Name
+0020#STR0020#ALL#Origin State
+0021#STR0021#ALL#Dest. State

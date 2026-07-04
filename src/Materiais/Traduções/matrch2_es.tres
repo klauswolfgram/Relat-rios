@@ -1,0 +1,32 @@
+0001#STR0001#CHI#Emision del Libro Fiscal de Ventas
+0002#STR0002#CHI#Se solicitara la fecha inicial y la fecha final para la emision
+0003#STR0003#CHI#del libro Fiscal de Ventas
+0004#STR0004#CHI#Especial
+0005#STR0005#CHI#Administracion
+0006#STR0006#CHI#Tipo en el Reg.
+0007#STR0007#CHI#Filtrando registros...
+0008#STR0008#CHI#** ANULADO POR EL OPERADOR **
+0009#STR0009#CHI#LIBRO DE I. V. A. 
+0010#STR0010#CHI#V E N T A S
+0011#STR0011#CHI#Empresa: 
+0012#STR0012#CHI#Pagina Num.: 
+0013#STR0013#CHI#Tipo  Serie Comprobante   Razon Social         R.U.T.                   Net. Grabado                IVA R.G                IVA INCL.              IVA C/RET.                  EXENTO                   TOTAL
+0014#STR0014#CHI#Totales Generales:
+0015#STR0015#CHI#Totales por Condicion Fiscal: 
+0016#STR0016#CHI#Totales Facturas         : 
+0017#STR0017#CHI#Totales Notas de Crédito: 
+0018#STR0018#CHI#Totales Notas de Debito : 
+0019#STR0019#CHI#Totales por Tipo de Documento:
+0020#STR0020#CHI# Formulario 
+0021#STR0021#CHI#¿Formulario esta en la posicion?
+0022#STR0022#CHI#Si
+0023#STR0023#CHI#No
+0024#STR0024#CHI#Anula la impresion
+0025#STR0025#CHI#¿Intenta Nuevamente? 
+0026#STR0026#CHI# - De    : 
+0027#STR0027#CHI#   A     : 
+0028#STR0028#CHI#Sub 
+0029#STR0029#CHI#Total General:
+0030#STR0030#CHI#Totales por Zona Fiscal: 
+0031#STR0031#CHI#Totales por Tipo de Producto: 
+0032#STR0032#CHI#A N U L A D A     

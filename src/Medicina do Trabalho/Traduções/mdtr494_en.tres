@@ -1,0 +1,63 @@
+0001#STR0001#ALL#Report of Exams Costs per Supplier                        
+0002#STR0002#ALL#Through the parameters the user can select the supplier or the 
+0003#STR0003#ALL#exam  and obtain the costs of exams executed within the period.  
+0004#STR0004#ALL#Z. Form
+0005#STR0005#ALL#Management
+0006#STR0006#ALL#Exams Costs per Supplier
+0007#STR0007#ALL#Code                Unit  Supplier Name
+0008#STR0008#ALL#  Exam.........Exam Name                                                Quantity            Cost
+0009#STR0009#ALL#CANCELED BY OPERATORDOR
+0010#STR0010#ALL#Supplier´s Total   
+0011#STR0011#ALL#Print report:      
+0012#STR0012#ALL#Summarized
+0013#STR0013#ALL#Detailed 
+0014#STR0014#ALL#Code                Unit  Supplier Name
+0015#STR0015#ALL#         Registration...Medical File   Name                                      Cost C.               Execution
+0016#STR0016#ALL#Quantity of exam:   
+0017#STR0017#ALL#Cost of Exam:  
+0018#STR0018#ALL#Exam:  
+0019#STR0019#ALL#Name of Exam:  
+0020#STR0020#ALL#Quantity of exam:   
+0021#STR0021#ALL#Cost of Exam:  
+0022#STR0022#ALL#Grand total:
+0023#STR0023#ALL#Processing files...
+0024#STR0024#ALL#Supplier
+0025#STR0025#ALL#Code
+0026#STR0026#ALL#UNit
+0027#STR0027#ALL#Supplier Name
+0028#STR0028#ALL#Exam
+0029#STR0029#ALL#Exam Name
+0030#STR0030#ALL#Quantity
+0031#STR0031#ALL#Cost
+0032#STR0032#ALL#Reg.Number
+0033#STR0033#ALL#Med. Record
+0034#STR0034#ALL#Name
+0035#STR0035#ALL#C.Center
+0036#STR0036#ALL#Description
+0037#STR0037#ALL#Accomplishment
+0038#STR0038#ALL#Exam Cost
+0039#STR0039#ALL#Exam Total
+0040#STR0040#ALL#Qty.
+0041#STR0041#ALL#From Customer?
+0042#STR0042#ALL#Customer code. Field can remain blank to consider from the first code on.
+0043#STR0043#ALL#Unit
+0044#STR0044#ALL#Customer unit code. Field can remain blank to consider from the first code on.
+0045#STR0045#ALL#To Customer?
+0046#STR0046#ALL#Customer code. Field can be filled with Z until the end in order to consider the last code.
+0047#STR0047#ALL#Customer's unit code. Field can be filled with Z until the end in order to consider the last code.
+0048#STR0048#ALL#Print report ?
+0049#STR0049#ALL#To Cost Center?
+0050#STR0050#ALL#From Cost Center?
+0051#STR0051#ALL#To Result Date?
+0052#STR0052#ALL#From Result Date?
+0053#STR0053#ALL#To Exam?
+0054#STR0054#ALL#From Exam?
+0055#STR0055#ALL#To Supplier?
+0056#STR0056#ALL#From Supplier?
+0057#STR0057#ALL#From Branch?
+0058#STR0058#ALL#To Branch?
+0059#STR0059#ALL#There is nothing to print in the report.
+0060#STR0060#ALL#Custom./Unit: 
+0061#STR0061#ALL#Customer Total:
+0062#STR0062#ALL#Customer
+0063#STR0063#ALL#Employee

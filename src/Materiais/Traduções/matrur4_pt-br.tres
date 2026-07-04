@@ -1,0 +1,40 @@
+0001#STR0001#ALL#Este programa tem como objetivo imprimir relatorio 
+0002#STR0002#ALL#de Livro de Compras de Fazenda para o Uruguai.
+0003#STR0003#ALL#Livro Fiscal de Compras Fazenda
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#Livro de Compras de Fazendas - Periodo :
+0007#STR0007#ALL#a
+0008#STR0008#ALL#Data
+0009#STR0009#ALL#Documento
+0010#STR0010#ALL#Fornecedor
+0011#STR0011#ALL#Valor Fazenda
+0012#STR0012#ALL#
+0013#STR0013#ALL#Fazenda Liquido
+0014#STR0014#ALL#Empresa:
+0015#STR0015#ALL#Pagina:
+0016#STR0016#ALL#Endereco:
+0017#STR0017#ALL#Selecionando registros...
+0018#STR0018#ALL#*** CANCELADO PELO OPERADOR ***
+0019#STR0019#ALL#TOTAIS GERAIS
+0020#STR0020#ALL#Desc./Gastos
+0021#STR0021#ALL#Retencao
+0022#STR0022#ALL#Basico
+0023#STR0023#ALL#Livro Fiscal de Compras de Fazenda
+0024#STR0024#ALL#Este programa tem como objetivo imprimir o relatório de Livro de Compras de Fazenda.
+0025#STR0025#ALL# - Periodo: 
+0026#STR0026#ALL# a 
+0027#STR0027#ALL#Data
+0028#STR0028#ALL#Documento
+0029#STR0029#ALL#Fornecedor
+0030#STR0030#ALL#Valor Fazenda
+0031#STR0031#ALL#IMEBA Básico
+0032#STR0032#ALL#IMEBA 2/100
+0033#STR0033#ALL#IMEBA 4/100
+0034#STR0034#ALL#Desc./Gastos
+0035#STR0035#ALL#Retenção
+0036#STR0036#ALL#Fazenda Líquido
+0037#STR0037#ALL#Empresa
+0038#STR0038#ALL#Endereço
+0039#STR0039#ALL#CNJP
+0040#STR0040#ALL#Detalhe

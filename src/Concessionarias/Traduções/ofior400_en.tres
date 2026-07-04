@@ -1,0 +1,48 @@
+0001#STR0001#ALL#Production Print
+0002#STR0002#ALL#Z.Form
+0003#STR0003#ALL#Management   
+0004#STR0004#ALL#Production
+0005#STR0005#ALL#Invoice Copy
+0006#STR0006#ALL#Production Report
+0007#STR0007#ALL#Cost/Function Center
+0008#STR0008#ALL#Parts R$ ---- Parts MF ----- Serv R$ ----- Serv MF ----- Vehic R$ --- Vehic MF
+0009#STR0009#ALL#Grand Total 
+0010#STR0010#ALL#Total   
+0011#STR0011#ALL#Parts   
+0012#STR0012#ALL#Services
+0013#STR0013#ALL#Vehicles
+0014#STR0014#ALL#Total of the Day 
+0015#STR0015#ALL#Inv. Total 
+0016#STR0016#ALL#Values of Services without Labor Force Annotated
+0017#STR0017#ALL# ......................
+0018#STR0018#ALL#Continued on next page...
+0019#STR0019#ALL#Total of Services not Annotated                 
+0020#STR0020#ALL#Start Date?
+0021#STR0021#ALL#End Date?
+0022#STR0022#ALL#Initial Cost Center?
+0023#STR0023#ALL#Final Cost Center?
+0024#STR0024#ALL#Initial Function?
+0025#STR0025#ALL#Final Function?
+0026#STR0026#ALL#Initial Employee?
+0027#STR0027#ALL#Final Employee?
+0028#STR0028#ALL#Values?
+0029#STR0029#ALL#Currency
+0030#STR0030#ALL#Hard Currency
+0031#STR0031#ALL#Third Currency
+0032#STR0032#ALL#Fourth Currency
+0033#STR0033#ALL#Fifth Currency
+0034#STR0034#ALL#Report Type?
+0035#STR0035#ALL#Summarized
+0036#STR0036#ALL#Summarized
+0037#STR0037#ALL#Detailed
+0038#STR0038#ALL#Sales Type?
+0039#STR0039#ALL#Parts
+0040#STR0040#ALL#Services
+0041#STR0041#ALL#Vehicles
+0042#STR0042#ALL#Commission Entry
+0043#STR0043#ALL#Payment Term Tot?
+0044#STR0044#ALL#Yes
+0045#STR0045#ALL#No
+0046#STR0046#ALL# from 
+0047#STR0047#ALL# to 
+0048#STR0048#ALL#All

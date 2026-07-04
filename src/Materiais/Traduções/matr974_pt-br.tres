@@ -1,0 +1,43 @@
+0001#STR0001#BRA#Restituição de ICMS ST e ICMS OP - Minas Gerais
+0002#STR0002#BRA#Este programa ira emitir a listagem necessária aos pedidos de
+0003#STR0003#BRA#restituição de ICMS Substituição Tributária à Secretaria da Fazenda de
+0004#STR0004#BRA#Minas Gerais, conforme solicitação da fiscalização fazendária.
+0005#STR0005#BRA#Zebrado
+0006#STR0006#BRA#Administracao
+0007#STR0007#BRA#*** NAO HOUVE MOVIMENTO ***
+0008#STR0008#BRA#RESTITUICAO DE ICMS ST E ICMS OP
+0009#STR0009#BRA#Razao Social: ########################################
+0010#STR0010#BRA#IE:           ##############
+0011#STR0011#BRA#CNPJ:         ##################
+0012#STR0012#BRA#Periodo:      ########## a ##########
+0013#STR0013#BRA#RESUMO GERAL POR PRODUTO                                                                                                                                                                                     Pagina: ###### 
+0014#STR0014#BRA#|     PRODUTO     |     Quantidade |  Valor ICMS ST |  Valor ICMS Op |    Quantidade |  Valor ICMS ST |  Valor ICMS Op |     Quantidade |     Quantidade |  Valor ICMS ST |  Valor ICMS Op |       VALOR A |      VALOR DO |
+0015#STR0015#BRA#|                 |                |                |        Propria |               |                |        Propria |                |                |                |        Propria |     RESTITUIR |       CREDITO |
+0016#STR0016#BRA#| ############### | ############## | ############## | ############## | ############# | ############## | ############## | ############## | ############## | ############## | ############## | ############# | ############# |
+0017#STR0017#BRA#|                                                                                                                                                                                    Total | ############# | ############# |
+0018#STR0018#BRA#|                                                                                                                                                                            A Transportar | ############# | ############# |
+0019#STR0019#BRA#| NAO EXISTEM VALORES DE RESTITUICAO NO PERIODO                                                                                                                                                                            |
+0020#STR0020#BRA#Produto
+0021#STR0021#BRA#Código
+0022#STR0022#BRA#NBM
+0023#STR0023#BRA#Descrição
+0024#STR0024#BRA#Un.
+0025#STR0025#BRA#Quantidade
+0026#STR0026#BRA#ICMS ST Ressarcível
+0027#STR0027#BRA#ICMS OP Própria a Creditar
+0028#STR0028#BRA#Dados do contribuinte
+0029#STR0029#BRA#Razão Social
+0030#STR0030#BRA#IE
+0031#STR0031#BRA#CNPJ
+0032#STR0032#BRA#Período
+0033#STR0033#BRA#Resumo Geral por Produto
+0034#STR0034#BRA#Total
+0035#STR0035#BRA#Inventario:   ##########
+0036#STR0036#BRA#|    CODIGO DO    |----------------+----------------+----------------+---------------+----------------+----------------+----------------+----------------+----------------+----------------+-------------------------------|
+0037#STR0037#BRA#|                 |                   INVENTARIO                     |               ENTRADAS DO PERIODO               | SAIDAS PERIODO |                      TOTAIS                      |         RESSARCIMENTO         |
+0038#STR0038#BRA#ICMS Op Entrada
+0039#STR0039#BRA#Saídas
+0040#STR0040#BRA#Qtde.Total
+0041#STR0041#BRA#ICMS ST Total
+0042#STR0042#BRA#ICMS Op Total
+0043#STR0043#BRA#Data Inventário:

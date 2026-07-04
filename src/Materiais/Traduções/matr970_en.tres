@@ -1,0 +1,30 @@
+0001#STR0001#ALL#Quarterly interstate sales report
+0002#STR0002#ALL#totalized by state.
+0003#STR0003#ALL#Quarterly interstate sales report
+0004#STR0004#ALL#Z.Form
+0005#STR0005#ALL#Management
+0006#STR0006#ALL#INVOICE      MR.  ISSUE    RECIPIENT                                                                                                                           VALUE            VALUE              VALUE             TOTAL
+0007#STR0007#ALL#FISCAL                    COMPANY NAME                     ADDRESS                                 CEP       STATE  INSCR.       C.N.P.J.                   GOODS              IPI                ICM
+0008#STR0008#ALL#Selecting Records...
+0009#STR0009#ALL#GRAND TOTAL --->
+0010#STR0010#ALL#TOTAL (State) -> 
+0011#STR0011#ALL#State 
+0012#STR0012#ALL#Descript.
+0013#STR0013#ALL#INV
+0014#STR0014#ALL#SR.
+0015#STR0015#ALL#ISSUE  
+0016#STR0016#BRA#COMPANY NAME
+0017#STR0017#BRA#ADDRESS 
+0018#STR0018#BRA#ZIP
+0019#STR0019#BRA#STATE REGISTR
+0020#STR0020#BRA#E.I.N.
+0021#STR0021#BRA#MERCHANDISE AMNT
+0022#STR0022#BRA#IPI AMOUNT  
+0023#STR0023#BRA#ICMS AMOUNT  
+0024#STR0024#BRA#TOTAL AMNT.
+0025#STR0025#BRA#State total     
+0026#STR0026#BRA#BRANCH 
+0027#STR0027#BRA#State             
+0028#STR0028#BRA#State + Issue Dt.+ Document 
+0029#STR0029#BRA#Outflow document   
+0030#STR0030#BRA#Branch total   

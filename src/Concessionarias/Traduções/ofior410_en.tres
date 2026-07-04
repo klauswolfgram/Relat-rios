@@ -1,0 +1,32 @@
+0001#STR0001#ALL#Lost Sales Relation
+0002#STR0002#ALL#Z-Form 
+0003#STR0003#ALL#Management   
+0004#STR0004#ALL#Creating Work File         
+0005#STR0005#ALL#Grand Total.............................................................
+0006#STR0006#ALL#...............P A R T S  G R O U P.........................................
+0007#STR0007#ALL#......................U S E R...........................................
+0008#STR0008#ALL#..............C O S T  C E N T E R......................................
+0009#STR0009#ALL#......................R E A S O N.......................................
+0010#STR0010#ALL#........................D A T E.........................................
+0011#STR0011#ALL#Purchase Request Relation
+0012#STR0012#ALL#     Part Code Group              Description            Item Qty St.Qty Purchase Order Qty     Value   Customer                    Phone       Note       Date
+0013#STR0013#ALL#Start Date?
+0014#STR0014#ALL#End Date?
+0015#STR0015#ALL#Formula for spare parts price?
+0016#STR0016#ALL#Group by?
+0017#STR0017#ALL#Spare parts group
+0018#STR0018#ALL#User
+0019#STR0019#ALL#Cost Center
+0020#STR0020#ALL#Reason
+0021#STR0021#ALL#Date
+0022#STR0022#ALL#Type  ?
+0023#STR0023#ALL#Purchase Order
+0024#STR0024#ALL#Lost Sales
+0025#STR0025#ALL#Calculation Method?
+0026#STR0026#ALL#Formula
+0027#STR0027#ALL#Value saved
+0028#STR0028#ALL#Reasons not considered
+0029#STR0029#ALL#Tp Sales Lost
+0030#STR0030#ALL#Manual
+0031#STR0031#ALL#Quotation
+0032#STR0032#ALL#All

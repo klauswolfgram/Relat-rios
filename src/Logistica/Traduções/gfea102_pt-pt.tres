@@ -1,0 +1,16 @@
+0001#STR0001#ALL#REGISTO DE FACTURAÇÃO
+0002#STR0002#ALL#Código de barras
+0003#STR0003#ALL#Administração
+0004#STR0004#ALL#Este relatório imprimirá o contrato
+0006#STR0006#ALL#Contrato com p. liberal   
+0009#STR0009#ALL#Veículos: Placa      Dist.      Tipo              Carga Útil              Volume
+0010#STR0010#ALL#Proprietário:                                               Condutor: 
+0011#STR0011#ALL#Nr. Contribuinte: 
+0013#STR0013#ALL#Data               Origem            Dist.           Destino            Dist.                Valor Frete
+0016#STR0016#ALL#(+) Frete contratado
+0018#STR0018#ALL#Total do fretamento
+0022#STR0022#ALL#(-) INSS P. Liberal
+0025#STR0025#ALL#Valor líquido a recolher no destino:
+0026#STR0026#ALL#Recebi(emos) a importância de 
+0027#STR0027#ALL#proveniente de Fretamento de Carga acima caracterizado.
+0032#STR0032#ALL#pelo proprietário

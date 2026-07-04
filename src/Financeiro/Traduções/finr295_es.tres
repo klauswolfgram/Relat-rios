@@ -1,0 +1,16 @@
+0001#STR0001#ALL#No disponible
+0002#STR0002#ALL#Esta funcionalidad solamente esta disponible para los informes personalizables
+0003#STR0003#ALL#Cerrar
+0004#STR0004#ALL#Esta funcionalidad solamente esta disponible para usar con bases de datos relacionales
+0005#STR0005#ALL#Lista de facturas
+0006#STR0006#ALL#Este programa emitira la Lista de las facturas por pagar, y el detalle de los titulos que forman cada factura.
+0007#STR0007#ALL#Facturas
+0008#STR0008#ALL#Proveedor
+0009#STR0009#ALL#Prefijo+Num
+0010#STR0010#ALL#Composicion de la Factura
+0011#STR0011#ALL#Sucursal: 
+0012#STR0012#ALL#Codigo
+0013#STR0013#ALL#Empresa
+0014#STR0014#ALL#Unidad de negocio
+0015#STR0015#ALL#Sucursal
+0016#STR0016#ALL#Sucursales seleccionadas para el informe

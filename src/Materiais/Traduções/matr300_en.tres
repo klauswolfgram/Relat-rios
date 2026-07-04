@@ -1,0 +1,56 @@
+0001#STR0001#ALL#Report of Internal Transactions  
+0002#STR0002#ALL#List  of internal transactions of the company: Requisitions, Return 
+0003#STR0003#ALL#Returns and Productions.
+0004#STR0004#ALL# Product Code   
+0005#STR0005#ALL# Order Product. 
+0006#STR0006#ALL# Classification 
+0007#STR0007#ALL# Product Type   
+0008#STR0008#ALL# Product Group  
+0009#STR0009#ALL# Cost Center    
+0010#STR0010#ALL# Ledger Account 
+0011#STR0011#ALL# Document No. 
+0012#STR0012#ALL#Z.Form
+0013#STR0013#ALL#Management   
+0014#STR0014#ALL#TRANSACT.)
+0015#STR0015#ALL#WAREHOUSE                  QUANTITY                               COST                 COST 
+0016#STR0016#ALL#                 INFLOW                    OUTFLOW                UNIT                 TOTAL
+0017#STR0017#ALL#......... Total of Product 
+0018#STR0018#ALL#......... Total of Production Order 
+0019#STR0019#ALL#Selecting Records...
+0020#STR0020#ALL#......... Total of Classification 
+0021#STR0021#ALL#......... Total of Type 
+0022#STR0022#ALL#......... Total of Group 
+0023#STR0023#ALL#......... Total of Cost Center    
+0024#STR0024#ALL#......... Total of Account 
+0025#STR0025#ALL#......... Total of Document  
+0026#STR0026#ALL#CANCELLED BY THE OPERATOR  
+0027#STR0027#ALL#Code  : 
+0028#STR0028#ALL#   Descript. : 
+0029#STR0029#ALL#   Type : 
+0030#STR0030#ALL#   Group : 
+0031#STR0031#ALL#   a: 
+0032#STR0032#ALL#<- Product Total
+0033#STR0033#ALL#Qtty. 2nd.Unit.Meas. (
+0034#STR0034#ALL#): Inflow  -> 
+0035#STR0035#ALL#Outflow  -> 
+0036#STR0036#ALL#<- GRAND TOTAL ->
+0037#STR0037#ALL# **   CC not found    ** 
+0038#STR0038#ALL#    TYPE OF     TYPE    IT ORDER SEQ SEQUENCE CENTER                  ACCOUNT           DOCUMENT   ISSUE    NAME OF
+0039#STR0039#ALL#    TRANSACTION   RE/DE   PRODUCTION                  COST                  ACCOUNTING                                USER
+0040#STR0040#ALL# (Per 
+0041#STR0041#ALL# , in 
+0042#STR0042#ALL#   Warehouse descr: 
+0043#STR0043#ALL#INFLOW 
+0044#STR0044#ALL#OUTFLOW 
+0045#STR0045#ALL#Unit Cost
+0046#STR0046#ALL#Total Cost 
+0047#STR0047#ALL#Production Order
+0048#STR0048#ALL#Item
+0049#STR0049#ALL#Seq
+0050#STR0050#ALL#Product Total
+0051#STR0051#ALL#Products
+0052#STR0052#ALL#Internal movement items      
+0053#STR0053#ALL#  TYPE TYPE   ORDER                       SEQUENCE               CENTER                                              NAME     
+0054#STR0054#ALL#  MOV. RE/FRM PRODUCT. IT SEQ  COST      ACCTG.                  ACCT.             DOCUMENT             ISSUE        USER     
+0055#STR0055#ALL#Grand Total of 2nd. UM Qty.:
+0056#STR0056#ALL#Table printing format supports only analytical type. Check parameter.

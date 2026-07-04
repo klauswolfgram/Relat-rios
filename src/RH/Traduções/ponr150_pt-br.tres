@@ -1,0 +1,14 @@
+0001#STR0001#BRA#Relatório de Espelhos Não Baixados
+0002#STR0002#BRA#Este programa realiza  a impressão do Relatório de Espelhos Não Baixados
+0003#STR0003#BRA#Filial + Departamento + Funcionário
+0004#STR0004#BRA#Filial + Responsável + Departamento + Funcionário
+0005#STR0005#BRA#Filial + Centro de Custo + Funcionário
+0006#STR0006#BRA#Nome Responsável
+0007#STR0007#BRA#Total Departamento
+0008#STR0008#BRA#Total Responsável
+0009#STR0009#BRA#Total Centro de Custo
+0010#STR0010#BRA#Total Filial
+0011#STR0011#BRA#Total Unidade de Negócio
+0012#STR0012#BRA#Total Empresa
+0013#STR0013#BRA#Consulta de Responsáveis
+0014#STR0014#BRA#Observação

@@ -1,0 +1,19 @@
+0001#STR0001#ALL#Products Characteristics
+0002#STR0002#ALL#This program will issue a list of products and its specific
+0003#STR0003#ALL#characteristics and also alternative products.
+0004#STR0004#ALL#Enter the parameters to issue the products.
+0005#STR0005#ALL#Z-Form
+0006#STR0006#ALL#Administration
+0007#STR0007#ALL#Product         Description                    Tp MU        Price        Cost     Lst Price Lst Purch. Situation  Similarity  
+0008#STR0008#ALL#CANCELLED BY OPERATOR
+0009#STR0009#ALL#There is no information to print this report. Check the parameters informed
+0010#STR0010#ALL#Product
+0011#STR0011#ALL#Description
+0012#STR0012#ALL#Tp
+0013#STR0013#ALL#MU
+0014#STR0014#ALL#Price
+0015#STR0015#ALL#Center
+0016#STR0016#ALL#Last Price
+0017#STR0017#ALL#Last Acquisition
+0018#STR0018#ALL#Status
+0019#STR0019#ALL#Similarity

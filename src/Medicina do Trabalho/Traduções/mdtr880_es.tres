@@ -1,0 +1,28 @@
+0001#STR0001#ALL#    Informe de presentacion del cuestionario estandar.              
+0002#STR0002#ALL#    Los campos de los cuestionarios estaran vacios para que los emple-
+0003#STR0003#ALL# empleados puedan llenarlos manualmente.                           
+0004#STR0004#ALL#A rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#Cuestionario estandar
+0007#STR0007#ALL#ANULADO POR EL OPERADOR
+0008#STR0008#ALL#Codigo: 
+0009#STR0009#ALL#Preguntas                                      Resp.  Cant. Complemento
+0010#STR0010#ALL#Matrícula.:___________ Nombre:____________________________________ Fecha.:__/__/__
+0011#STR0011#ALL#Cargo.:______________________ Funcion:__________________________________________
+0012#STR0012#ALL#Firma:________________________________
+0013#STR0013#ALL#Cliente/Tda.: 
+0014#STR0014#ALL#No existe nada para imprimir en el Inf.
+0015#STR0015#ALL#Termino de Responsabilidad: 
+0016#STR0016#ALL#¿Termino de Responsab.?
+0017#STR0017#ALL#¿Cantidad copias?
+0018#STR0018#ALL#A cuestionario
+0019#STR0019#ALL#¿De Cuestionario?
+0020#STR0020#ALL#¿De Cliente?
+0021#STR0021#ALL#Tda
+0022#STR0022#ALL#¿A Cliente?
+0023#STR0023#ALL#Si
+0024#STR0024#ALL#No
+0025#STR0025#ALL#Sin Respuesta
+0026#STR0026#ALL#Todas las preguntas deben responderse de la siguiente forma:
+0027#STR0027#ALL#Las preguntas deben responderse segun las indicaciones de respuesta.
+0028#STR0028#ALL#Respuestas: 

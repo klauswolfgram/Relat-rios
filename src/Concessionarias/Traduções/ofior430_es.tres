@@ -1,0 +1,16 @@
+0001#STR0001#ALL#Lista de itemes para recuento fisico
+0002#STR0002#ALL#Alquiler   Descripcion del Item          Grp Codigo del Item    Disp Res.  Ctd
+0003#STR0003#ALL#Conteo Fisico
+0004#STR0004#ALL#Conteo Fisico 
+0005#STR0005#ALL# a 
+0006#STR0006#ALL#Generando Archivo.
+0007#STR0007#ALL#Control de Ventas Perdidas
+0008#STR0008#ALL#Seccion 1
+0009#STR0009#ALL#Ubicacion
+0010#STR0010#ALL#Grupo
+0011#STR0011#ALL#Cod Item
+0012#STR0012#ALL#Descripcion
+0013#STR0013#ALL#Cant. Disp
+0014#STR0014#ALL#Cant. Res
+0015#STR0015#ALL#Cant.
+0016#STR0016#ALL#Este programa tiene como objetivo imprimir los ítems para conteo físico

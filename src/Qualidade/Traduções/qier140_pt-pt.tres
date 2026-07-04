@@ -1,0 +1,49 @@
+0001#STR0001#ALL#Serão Impressos Os índices Gerais De Fornecimento
+0002#STR0002#ALL#índices Criais de Fornecimento
+0003#STR0003#ALL#Código de barras
+0004#STR0004#ALL#Administração
+0005#STR0005#ALL#Janeiro
+0006#STR0006#ALL#Fevereiro
+0007#STR0007#ALL#Março
+0008#STR0008#ALL#Abril
+0009#STR0009#ALL#Maio
+0010#STR0010#ALL#Junho
+0011#STR0011#ALL#Julho
+0012#STR0012#ALL#Agosto
+0013#STR0013#ALL#Setembro
+0014#STR0014#ALL#Outubro
+0015#STR0015#ALL#Novembro
+0016#STR0016#ALL#Dezembro
+0017#STR0017#ALL#Período :
+0018#STR0018#ALL#Qualificação De Fornecedores E Artigos
+0019#STR0019#ALL#| classificação               | fornecedores        |
+0020#STR0020#ALL#Qualificação de fornecedores (iqs)
+0021#STR0021#ALL#| Classificação            | Fornecedores                              |
+0022#STR0022#ALL#Estatísticas
+0023#STR0023#ALL#| Tópico                              |   Número   |    % Sobre total   |
+0024#STR0024#ALL#| Número total de entradas no período
+0025#STR0025#ALL#| Entradas com relatório
+0026#STR0026#ALL#| entradas sem documento
+0027#STR0027#ALL#| Entradas Em Skip-lote
+0028#STR0028#ALL#| Entradas Em Permuta
+0029#STR0029#ALL#| notificações de não-conformidade emitidas
+0031#STR0031#ALL#| Artigos notificados
+0032#STR0032#ALL#| Fornecedores com entradas no período
+0033#STR0033#ALL#| Artigos entregues no período
+0034#STR0034#ALL#| Tempo de execução máximo em trânsito
+0035#STR0035#ALL#| tempo total máximo em laboratório
+0036#STR0036#ALL#| Tempo Total Máximo Com Documento
+0037#STR0037#ALL#| número total de fornecedores
+0038#STR0038#ALL#| número total de artigos
+0039#STR0039#ALL#Descrição Das Não-conformidades
+0041#STR0041#ALL#| Data entr. | N.º lote        | Tam. lote | N.º NNC      | N/c       |
+0042#STR0042#ALL#Resumo Dos Iqis
+0044#STR0044#ALL#| iqpm  |  iqs  |  iqim | iqiac | classif. actual | classif. regist. |
+0045#STR0045#ALL# - factor 
+0046#STR0046#ALL#A Seleccionar Registos...
+0047#STR0047#ALL#| iqpm  |  iqs  |  iqfm | iqfac | classif. actual | classif. regist. |
+0048#STR0048#ALL#| Entradas Com Desbloqueio Urgente
+0049#STR0049#ALL#A criar índice tmp for... 
+0050#STR0050#ALL#A criar índice tmp pro... 
+0051#STR0051#ALL#A criar índice tmp iqs... 
+0052#STR0052#ALL#Resumo Dos Iqfs

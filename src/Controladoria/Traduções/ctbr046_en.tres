@@ -1,0 +1,14 @@
+0001#STR0001#ALL#This program prints the Inventory Trial Balance
+0002#STR0002#ALL#account is printed with up to 20 characters and its description with up to 30 characters.
+0003#STR0003#ALL#Inventory Trial Balance
+0004#STR0004#ALL#INVENTORY TRIAL BALANCE OF 
+0005#STR0005#ALL#Chart of Accounts
+0006#STR0006#ALL#Account
+0007#STR0007#ALL#Description
+0008#STR0008#ALL# Balance 
+0009#STR0009#ALL#Fill out parameters Income/Expense Groups and Prev. Bal. Date of  Incomes/Expenses or 
+0010#STR0010#ALL#leave parameter Ignore Prev. Bal.  of Income/Expense = No 
+0011#STR0011#ALL#Ignore Prev. Bal.  of Income/Expense
+0012#STR0012#ALL# TO 
+0013#STR0013#ALL# IN 
+0014#STR0014#ALL#Creating temporary file...

@@ -1,0 +1,14 @@
+0001#STR0001#ALL#**DETALLE DE OPERACIONES CON RETENCION DE ICMS POR PROV.**
+0002#STR0002#ALL#Emision de Documentos Fiscales que obtuvieron retencion de 
+0003#STR0003#ALL#ICMS por cada provincia emisora.                           
+0004#STR0004#ALL#A Rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#RAZON SOCIAL                           MUNICIPIO       UF INSC. ESTATAL     NOTA      SERIE FECHA DE       BASE ICMS     BASE ICMS      VALOR ICMS     VALOR ICMS      BASE ICMS      BASE ICMS     VALOR ICMS    VALOR ICMS
+0007#STR0007#ALL#                                                                             RAZON EMISION                           RETENIDO       RETENIDO  DEVUEL.         RETENIDO  RETENIDO DEVUEL.         NORMAL  NORMAL DEVUEL.         NORMAL  NORMAL DEVUEL.
+0008#STR0008#ALL#Seleccionando Registros...
+0009#STR0009#ALL#ANULADO POR EL OPERADOR
+0010#STR0010#ALL#Total de CP  -> 
+0011#STR0011#ALL#Total de Municip. -> 
+0012#STR0012#ALL#Total de Prov.-> 
+0013#STR0013#ALL#Total Gral. ->
+0014#STR0014#ALL#Valor Neto (SALIDAS - DEVOLUCIONES)

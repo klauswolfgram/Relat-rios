@@ -1,0 +1,31 @@
+0001#STR0001#ALL#Este relatorio ira imprimir a movimentacao de transferencia
+0002#STR0002#ALL#dos bens em um período.
+0003#STR0003#ALL#TRANSFERENCIAS
+0004#STR0004#ALL#Cod. Base  Item Tp Descricao Sintetica                      Aquisic.   Transf.  Baixa                                   Valor Transf
+0005#STR0005#ALL#          Conta do Bem         Correcao Monet.      Despesa Depr.        Depr. Acumulada      Corr.Mon.Depr.       C. Custo Endereco
+0006#STR0006#ALL# entre 
+0007#STR0007#ALL#CANCELADO PELO OPERADOR
+0008#STR0008#ALL#Transf. de
+0009#STR0009#ALL#Transf. p/
+0010#STR0010#ALL#Zebrado
+0011#STR0011#ALL#Administracao
+0012#STR0012#ALL#TOTAL TRANSFERIDO  ---->
+0013#STR0013#ALL# a 
+0014#STR0014#ALL# e Valores em 
+0015#STR0015#ALL#<INEXISTENTE>
+0016#STR0016#ALL#C.Custo de
+0017#STR0017#ALL#C.Custo p/
+0018#STR0018#ALL#It.Ctb. de
+0019#STR0019#ALL#It.Ctb. p/
+0020#STR0020#ALL#Cl.Vlr. de
+0021#STR0021#ALL#Cl.Vlr. p/
+0022#STR0022#ALL#Item     		
+0023#STR0023#ALL#Tp    			
+0024#STR0024#ALL#Valor da Transferência
+0025#STR0025#ALL#Dados do Bem
+0026#STR0026#ALL#Conta
+0027#STR0027#ALL#Conta do Bem
+0028#STR0028#ALL#Centro de Custo
+0029#STR0029#ALL#Item contabil
+0030#STR0030#ALL#Classe de valor
+0031#STR0031#ALL#Relatório somente disponivel para Treport

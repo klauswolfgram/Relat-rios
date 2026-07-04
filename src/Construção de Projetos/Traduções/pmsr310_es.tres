@@ -1,0 +1,28 @@
+0001#STR0001#ALL#Este relatorio ira imprimir o fluxo de caixa da consulta gerencial solicitada considerando todas receitas (pedido de venda,titulos a receber e movimentacao bancaria) e despesas (pedido de compra,autorizacao de entrega,nota fiscal de entrada,titulos a pagar
+0002#STR0002#ALL#Consultas de Gestion - Flujo de caja
+0003#STR0003#ALL#Diario
+0004#STR0004#ALL#Semanal
+0005#STR0005#ALL#Decendial
+0006#STR0006#ALL#Quincenal
+0007#STR0007#ALL#Mensual
+0008#STR0008#ALL#Periodo 
+0009#STR0009#ALL#       Vld.Prev.PC           Gastos          Vlr.Prev.PV           Reditos             Saldo del Dia     Var. Dia           Saidas. Acum.              Entradas Acum.      Saldo Acumulado     Var. Acum. 
+0010#STR0010#ALL#Codigo del Plan : 
+0011#STR0011#ALL#Saldo Inicial : 
+0012#STR0012#ALL#Total a Pagar : 
+0013#STR0013#ALL#Total por Cobrar : 
+0014#STR0014#ALL#Saldo Final : 
+0015#STR0015#ALL#A Rayas
+0016#STR0016#ALL#Administracion
+0017#STR0017#ALL#Vld.Prev.PC
+0018#STR0018#ALL#Gastos
+0019#STR0019#ALL#Vlr.Prev.PV
+0020#STR0020#ALL#Ingresos
+0021#STR0021#ALL#Saldo Dia
+0022#STR0022#ALL#Var. Dia
+0023#STR0023#ALL#Salidas Acum.
+0024#STR0024#ALL#Entradas Acum.
+0025#STR0025#ALL#Saldo Acumulado
+0026#STR0026#ALL#Var. Acum. 
+0027#STR0027#ALL#Plan de Gestion
+0028#STR0028#ALL#Consulta de Gestion - Flujo de Caja

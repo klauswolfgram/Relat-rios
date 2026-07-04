@@ -1,0 +1,42 @@
+0001#STR0001#ALL#Processing - DARF
+0002#STR0002#ALL#Message
+0003#STR0003#ALL#There are no data within the period informed
+0004#STR0004#ALL#Ok
+0005#STR0005#ALL#Initial Due Date
+0006#STR0006#ALL#Final Due Date
+0007#STR0007#ALL#Initial SRF Code
+0008#STR0008#ALL#Final SRF Code
+0009#STR0009#ALL#Groups by
+0010#STR0010#ALL#Calculation Period
+0011#STR0011#ALL#Reference Number
+0012#STR0012#ALL#Center branch
+0013#STR0013#ALL#Model
+0014#STR0014#ALL#Gross Income
+0015#STR0015#ALL#Percentage
+0016#STR0016#ALL#Periodicity
+0017#STR0017#ALL#CNPJ of merging company
+0018#STR0018#ALL#1.SRF Cod./Supplier
+0019#STR0019#ALL#2.only Code SRF
+0020#STR0020#ALL#1.Common
+0021#STR0021#ALL#2.Simple
+0022#STR0022#ALL#1.Daily
+0023#STR0023#ALL#2.Weekly
+0024#STR0024#ALL#3.Every 10 days
+0025#STR0025#ALL#4.Every 15 days
+0026#STR0026#ALL#5.Monthly
+0027#STR0027#ALL#6.Quarterly
+0028#STR0028#ALL#7.Every 4 months
+0029#STR0029#ALL#8.Semiannually
+0030#STR0030#ALL#9.Annually
+0031#STR0031#ALL#Select Branches ?
+0032#STR0032#ALL#1.Yes
+0033#STR0033#ALL#2.No
+0034#STR0034#ALL#Branch: 
+0035#STR0035#ALL#DARF cannot be generated with value equal to or lower than the minimum set in parameter MV_VLRETIR
+0036#STR0036#ALL#CNPJ of centralizing branch is considered for issue of DARF. Confirm operation?
+0037#STR0037#ALL#CNPJ not located in the company's register. DARF is issued in centralizing branch. Confirm operation
+0038#STR0038#ALL#CNPJ entered does not match the CNPJ of centralizing branch. DARF is issued in the branch corresponding to the CNPJ entered. Confirm operation
+0039#STR0039#ALL#Consider CNPJ of bill?
+0040#STR0040#ALL#1.Filter
+0041#STR0041#ALL#2.Replaced
+0042#STR0042#ALL#DARF Issue

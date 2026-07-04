@@ -1,0 +1,62 @@
+0001#STR0001#ALL#Invoice attachment
+0002#STR0002#ALL#Code
+0003#STR0003#ALL#Location Desc.
+0004#STR0004#ALL#Inv. Number
+0005#STR0005#ALL#Series
+0006#STR0006#ALL#Human Resources
+0007#STR0007#ALL#Product
+0008#STR0008#ALL#Description
+0009#STR0009#ALL#Qty. Resources
+0010#STR0010#ALL#Vl. Regular Hours
+0011#STR0011#ALL#Vl. Overtime
+0012#STR0012#ALL#Fines
+0013#STR0013#ALL#Bonus
+0014#STR0014#ALL#Discounts
+0015#STR0015#ALL#Taxes Value
+0016#STR0016#ALL#Total Value
+0017#STR0017#ALL#Human Resources TOTAL
+0018#STR0018#ALL#INSS Total    
+0019#STR0019#ALL#IR Totals      
+0020#STR0020#ALL#ISS Total     
+0021#STR0021#ALL#PIS Total     
+0022#STR0022#ALL#COFINS Total  
+0023#STR0023#ALL#CSLL Total    
+0024#STR0024#ALL#Total without Taxes
+0025#STR0025#ALL#Total         
+0026#STR0026#ALL#Deploy Material
+0027#STR0027#ALL#TOTAL Deployment Material
+0028#STR0028#ALL#ICMS Total    
+0029#STR0029#ALL#Consumption Materials
+0030#STR0030#ALL#TOTAL Consumption Material
+0031#STR0031#ALL#Equipment Rental
+0032#STR0032#ALL#Availability
+0033#STR0033#ALL#Use             
+0034#STR0034#ALL#Mobilization
+0035#STR0035#ALL#TOTAL Equipment Rental
+0036#STR0036#ALL#Additional Expenses
+0037#STR0037#ALL#TOTAL Additional Expenses
+0038#STR0038#ALL#Quantity
+0039#STR0039#ALL#3 - Consumption Material
+0040#STR0040#ALL#2 - Implementation Material
+0041#STR0041#ALL#1 - Human Resources
+0042#STR0042#ALL#4 - Rental of Equipment
+0043#STR0043#ALL#5 - Additional Expenses
+0044#STR0044#ALL#Order/Invoice Total
+0045#STR0045#ALL#Code
+0046#STR0046#ALL#Order
+0047#STR0047#ALL#Inv. Series
+0048#STR0048#ALL#Item
+0049#STR0049#ALL#Product Description
+0050#STR0050#ALL#Unit Price
+0051#STR0051#ALL#Total Price
+0052#STR0052#ALL#Total of Item
+0053#STR0053#ALL#Human Resources Total
+0054#STR0054#ALL#Qty.
+0055#STR0055#ALL#Measured value
+0056#STR0056#ALL#Materials of Implementation Total
+0057#STR0057#ALL#Materials of Consumption Total
+0058#STR0058#ALL#Rental of Equipment Total
+0059#STR0059#ALL#Billing
+0060#STR0060#ALL#Additional Expenses Total
+0061#STR0061#ALL#Total Taxes
+0062#STR0062#ALL#Income Tax Total     

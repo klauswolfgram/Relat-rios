@@ -1,0 +1,24 @@
+0001#STR0001#ALL#Collection occurrences 
+0002#STR0002#ALL#This programs will generate a list of   
+0003#STR0003#ALL#collection attendances separated by   
+0004#STR0004#ALL#occurrences.
+0005#STR0005#ALL#Z-form 
+0006#STR0006#ALL#Administration
+0007#STR0007#ALL#Summarized Report  
+0008#STR0008#ALL#Date      Time    Code  Occurrence                  CPF                 Telephone        Company Name                           Value
+0009#STR0009#ALL#CANCELED BY OPERATOR   
+0010#STR0010#ALL#Operator: 
+0011#STR0011#ALL#Selecting occurrences ...     
+0012#STR0012#ALL#Operator Total
+0013#STR0013#ALL#Occurrence quantity   
+0014#STR0014#ALL#Grand total
+0015#STR0015#ALL#Occurrence quantity   
+0016#STR0016#ALL#Occurrence not entered  
+0017#STR0017#ALL#Total Collected by operator 
+0018#STR0018#ALL#Quantity  
+0019#STR0019#ALL#Occurrence
+0020#STR0020#ALL#Amnt.
+0021#STR0021#ALL#Total quantity  
+0022#STR0022#ALL#Operator
+0023#STR0023#ALL#Events registered      
+0024#STR0024#ALL#Description of the events

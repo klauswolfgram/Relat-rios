@@ -1,0 +1,33 @@
+0001#STR0001#ALL#Relacao de contratos
+0002#STR0002#ALL#Esta programa tem como objetivo demonstrar a relacao de contratos de 
+0003#STR0003#ALL#parceria, conforme os parametros definidos pelo usuario.
+0004#STR0004#ALL#Numero
+0005#STR0005#ALL#Cliente/Loja
+0006#STR0006#ALL#Emissao
+0007#STR0007#ALL#Administracao
+0008#STR0008#ALL#CONTRATO                                                            STATUS          PRODUTOS CONTRATOS
+0009#STR0009#ALL#NUMERO EMISSAO    CLIENTE                                                           ITEM PRODUTO                                                  UN QTD.CONTRATADA   SLD.CONTRATO   PRECO VENDA            VALOR   DESCONTO
+0010#STR0010#ALL#CANCELADO PELO OPERADOR
+0011#STR0011#ALL#Total do contrato nr.: 
+0012#STR0012#ALL#Total do cliente.: 
+0013#STR0013#ALL#Total da emissao.: 
+0014#STR0014#ALL#Total geral.: 
+0015#STR0015#ALL#Relacao de contratos
+0016#STR0016#ALL#Esta programa tem como objetivo demonstrar a relacao de contratos de 
+0017#STR0017#ALL#parceria, conforme os parametros definidos pelo usuario.
+0018#STR0018#ALL#Numero
+0019#STR0019#ALL#Cliente/Loja
+0020#STR0020#ALL#Emissao
+0021#STR0021#ALL#Sld.Contrato
+0022#STR0022#ALL#Total do Contrato
+0023#STR0023#ALL#Total do Cliente
+0024#STR0024#ALL#Total do dia
+0025#STR0025#ALL#Cabecalho do Contrato
+0026#STR0026#ALL#Itens do Contrato
+0027#STR0027#ALL#     Cliente   Pedido   Emissao   Qtd.Pedido        Nota/Serie   Emissao          Qtd Nota Fiscal
+0028#STR0028#ALL#Analitico-Detalhes do Contrato
+0029#STR0029#ALL#Encerrado Manualmente
+0030#STR0030#ALL#Parcialmente Entregue
+0031#STR0031#ALL#Contrato em Aberto
+0032#STR0032#ALL#Contrato Entregue
+0033#STR0033#ALL#Contrato Aprovado

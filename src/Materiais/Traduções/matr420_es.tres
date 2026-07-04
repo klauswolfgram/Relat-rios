@@ -1,0 +1,36 @@
+0001#STR0001#ALL#Resumen Diario de Kardex
+0002#STR0002#ALL#Este programa emite un detalle, resumido por dia, de los movimientos
+0003#STR0003#ALL#de los productos y materiales de stock. Agrupa las entradas y
+0004#STR0004#ALL#las salidas en una unica linea.
+0005#STR0005#ALL# Codigo Producto 
+0006#STR0006#ALL# Tipo del Producto
+0007#STR0007#ALL#A Rayas
+0008#STR0008#ALL#Administracion
+0009#STR0009#ALL#FECHA DEL  |         E  N  T  R  A  D  A  S        |            S  A  L I D  A  S          |            S   A   L   D   O           
+0010#STR0010#ALL#MOVIMIENTO |     CANTIDAD              COSTO TOTAL |      CANTIDAD             COSTO TOTAL |      CANTIDAD            VALOR TOTAL   
+0011#STR0011#ALL# (Por 
+0012#STR0012#ALL# , en 
+0013#STR0013#ALL#ANULADO POR EL OPERADOR
+0014#STR0014#ALL#T O T A L E S :
+0015#STR0015#ALL#CTD. EN LA 2¦ UM:   
+0016#STR0016#ALL#NO HUBO MOVIMIENTOS PARA ESTE PRODUCTO
+0017#STR0017#ALL#Cod: 
+0018#STR0018#ALL#UM: 
+0019#STR0019#ALL#TIPO: 
+0020#STR0020#ALL#GRUPO: 
+0021#STR0021#ALL#Almacen : 
+0022#STR0022#ALL#Saldo Cantidad
+0023#STR0023#ALL#Saldo Valor Total
+0024#STR0024#ALL#Fch. del Movim. 
+0025#STR0025#ALL#Cantidad de Entrada
+0026#STR0026#ALL#Costo Total de Entrada
+0027#STR0027#ALL#Cantidad de Salida
+0028#STR0028#ALL#Costo Tot. de Salida
+0029#STR0029#ALL#Saldo de Cantidad
+0030#STR0030#ALL#Saldo Valor Total
+0031#STR0031#ALL#Prod. 
+0032#STR0032#ALL#Movimiento de Productos
+0033#STR0033#ALL#Atencion
+0034#STR0034#ALL#Se desconsiderara al modificar el almacen o costo medio unificado.
+0035#STR0035#ALL#Confirma
+0036#STR0036#ALL#Anular

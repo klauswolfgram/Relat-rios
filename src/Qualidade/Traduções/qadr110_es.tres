@@ -1,0 +1,15 @@
+0001#STR0001#ALL#El objetivo de este informe es imprimir la lista de no conformidades  
+0002#STR0002#ALL#separadas por areas
+0003#STR0003#ALL#Listado de No Conformidades  
+0004#STR0004#ALL#A Rayas
+0005#STR0005#ALL#Administrac. 
+0006#STR0006#ALL#NUMERO     FECHA                                        PUNTOS               AUDITOR 
+0007#STR0007#ALL#AUDITORIA  INICIO     TERMINO    REFERENC   REAL        POSIB.     OBTENID.  CODIGO   NOMB
+0008#STR0008#ALL#Descrip. de Auditoria
+0009#STR0009#ALL#Esta auditoria se destina a las sig. areas 
+0010#STR0010#ALL#AREA                                      NORMA       ITEM   DESCRIPC.
+0011#STR0011#ALL#Total de no conformidades en el area ->
+0012#STR0012#ALL#Total de no conformidades en la Auditoria ->
+0013#STR0013#ALL#Area
+0014#STR0014#ALL#Total de NC Area
+0015#STR0015#ALL#Total de NC Auditoria

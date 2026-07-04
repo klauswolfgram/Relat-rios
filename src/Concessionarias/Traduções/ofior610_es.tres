@@ -1,0 +1,42 @@
+0001#STR0001#ALL#50x30 - 2 columnas
+0002#STR0002#ALL#90x40 - 1 columna
+0003#STR0003#ALL#Etiquetas con Cod.Barras
+0004#STR0004#ALL#Fact. Entrada:
+0005#STR0005#ALL#Proveedor:
+0006#STR0006#ALL#Fact. Entrada
+0007#STR0007#ALL#Item/Stock Depos.
+0008#STR0008#ALL#Asignación
+0009#STR0009#ALL#Incluir
+0010#STR0010#ALL#Refhacer
+0011#STR0011#ALL#Etiquetas por:
+0012#STR0012#ALL#De Item:
+0013#STR0013#ALL#A Item:
+0014#STR0014#ALL#De asignacion:
+0015#STR0015#ALL#A asignacion:
+0016#STR0016#ALL#Deposito:
+0017#STR0017#ALL#OK
+0018#STR0018#ALL#FILTRAR
+0019#STR0019#ALL#Grupo
+0020#STR0020#ALL#Cod. Item
+0021#STR0021#ALL#Descripcion
+0022#STR0022#ALL#Cant. Etiquetas
+0023#STR0023#ALL#Cant.:
+0024#STR0024#ALL#Etiqueta:
+0025#STR0025#ALL#IMPRIMIR ETIQUETAS
+0026#STR0026#ALL#SALIR
+0027#STR0027#ALL#¡Grupo no encontrado!
+0028#STR0028#ALL#Atencion
+0029#STR0029#ALL#Fact/Proveedor no encontrado.
+0030#STR0030#ALL#Seleccionados
+0031#STR0031#ALL# Items
+0032#STR0032#ALL#¿Desea emitir las etiquetas con Codigo de Barras?
+0033#STR0033#ALL#¡Etiquetas emitidas con exito!
+0034#STR0034#ALL# - Modelo de etiqueta no encontrado.
+0035#STR0035#ALL#items
+0036#STR0036#ALL#Filtro
+0037#STR0037#ALL#Orden
+0038#STR0038#ALL#Productos
+0039#STR0039#ALL#Cantidad de impresión
+0040#STR0040#ALL#Impresión
+0041#STR0041#ALL#Todos los ítems
+0042#STR0042#ALL#Solamente el seleccionado

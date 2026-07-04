@@ -1,0 +1,41 @@
+0001#STR0001#ALL#Emissão De Factura Para Cartão De Contribuinte
+0002#STR0002#ALL#Este programa tem a função de emitir Factura com base em um Talão Fiscal já
+0003#STR0003#ALL#Emitido na venda, tendo em conta o decreto 4.373-n de 02/12/1998. para tal, será
+0004#STR0004#ALL#Utilizado o script de factura gravado no parâmetro  mv_scrnfcp ( + getmv ( mv_scrnfcp ) + )
+0006#STR0006#ALL#Administração
+0007#STR0007#ALL#Factura
+0008#STR0008#ALL#Não se pode gerar uma factura para um cartão que já pertence a uma factura global (
+0009#STR0009#ALL#Já existe uma factura (
+0010#STR0010#ALL#) gerada para o cartão 
+0011#STR0011#ALL# Não E Possível Gerar Outra Factura Para O Mesmo Cartão De Contribuinte
+0012#STR0012#ALL#Atenção
+0013#STR0013#ALL#Já foi criada uma factura para esse cartão de contribuinte.
+0015#STR0015#ALL#Digite o cliente para a notificação
+0017#STR0017#ALL#O cliente não tem rcf.; não será possível passar factura.
+0020#STR0020#ALL#Digite a loja para notificação
+0023#STR0023#ALL#) de artigo, informado no parâmetro MV_TESNOTA,
+0025#STR0025#ALL#O campo de Fórmula (F4_FORMULA), do registo de TES (
+0027#STR0027#ALL#O campo L.Fisc. ICMS (F4_LFICM) do registo da TES (
+0029#STR0029#ALL#TES, 
+0030#STR0030#ALL#informado no parâmetro MV_TESNOTA, não está cadastrada na tabela de Tipos de Entrada e Saídas.
+0031#STR0031#ALL#) de artigo, informado no parâmetro MV_LJNCUPS, 
+0034#STR0034#ALL#O campo L.Fisc. ISS (F4_LFISS) do registo da TES (
+0035#STR0035#ALL#informado no parâmetro MV_LJNCUPS, não está registrada na tabela de Tipos de Entrada e Saídas.
+0036#STR0036#ALL#Os parâmetros MV_TESNOTA e MV_LJNCUPS não estão preenchidos correctamente.
+0037#STR0037#ALL#A configuração das TES de artigo e serviço não estão corretas. Verificar:
+0038#STR0038#ALL#Por favor, regularize as situações acima para prosseguir na emissão da fact.sobre cupom.
+0039#STR0039#ALL#Emissão de nota sobre cupom - Livro Fiscal OnLine
+0040#STR0040#ALL#Emissão de Factura Sobre Talão
+0043#STR0043#ALL#Não existem registos para serem apresentados com esses parâmetros.
+0044#STR0044#ALL#Gerar Factura Sobre Talão
+0045#STR0045#ALL#Estornar Factura Sobre Talão
+0047#STR0047#ALL#Aguarde...a executar processo...
+0048#STR0048#ALL#Nenhum registo seleccionado...
+0049#STR0049#ALL#Confirma a geração do comprovante fiscal digital ?
+0050#STR0050#ALL# - Deseja estornar/excluir esta Fact. sobre Cupão?
+0052#STR0052#ALL#Factura sobre Cupão excluída com Sucesso !
+0053#STR0053#ALL#Por favor, informe o cliente e a loja referentes ao número do cupão fiscal: 
+0054#STR0054#ALL# Somente é possível alterar o cliente e a loja caso o cupão fiscal tenha sido gerado para o cliente e loja padrão. 
+0057#STR0057#ALL#Não é permitida a impressão de Factura para o cliente padrão
+0058#STR0058#ALL#Não foi possível excluir a factura pois o prazo definido para cancelamento foi de 
+0088#STR0088#ALL#El Uso de CFDI y Tipo de Relación, aplicará para todos los Comprobantes que seleccione en la próxima pantalla.

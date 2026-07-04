@@ -1,0 +1,74 @@
+0001#STR0001#ALL#Amostras Iniciais PSA
+0002#STR0002#ALL#Gerando Relatorio, Aguarde...
+0003#STR0003#ALL#RELATORIO DE CONTROLE AMOSTRAS INICIAIS
+0004#STR0004#ALL#No.
+0005#STR0005#ALL#IDENTIFICACAO
+0006#STR0006#ALL#Cod. Fornecedor
+0007#STR0007#ALL#Razao Social
+0008#STR0008#ALL#Endereco
+0009#STR0009#ALL#Tel/Fax
+0010#STR0010#ALL#IDENTIFICACAO PRODUTO
+0011#STR0011#ALL#No. Pedido Compras
+0012#STR0012#ALL#Designacao
+0013#STR0013#ALL#Ref. PSA No.
+0014#STR0014#ALL#Indice:
+0015#STR0015#ALL#OCM:
+0016#STR0016#ALL#Data:
+0017#STR0017#ALL#Desenho PSA No.
+0018#STR0018#ALL#Desenho Forn. No.
+0019#STR0019#ALL#Nome do Arquivo da Definicao Numerica:
+0020#STR0020#ALL#Indice
+0021#STR0021#ALL#Peca de Seguranca e/ou sujeita a regulamentacao
+0022#STR0022#ALL#Sim
+0023#STR0023#ALL#Nao
+0024#STR0024#ALL#Materia referencia comercial
+0025#STR0025#ALL#Fornecedor
+0026#STR0026#ALL#Norma CDC
+0027#STR0027#ALL#Referencia No.
+0028#STR0028#ALL#Esp. tecnica PSA
+0029#STR0029#ALL#Padrao de aspecto - tinta + grao
+0030#STR0030#ALL#IDENTIFICACAO DO ENVIO
+0031#STR0031#ALL#MOTIVO DO ENVIO
+0032#STR0032#ALL#Produto Novo
+0033#STR0033#ALL#Produto Modificado
+0034#STR0034#ALL#Produto proviniente de um novo molde
+0035#STR0035#ALL#Produto proviniente de um molde retocado
+0036#STR0036#ALL#Produto proviniente de um equipamento retocado
+0037#STR0037#ALL#Produto fabricado em uma nova fabrica
+0038#STR0038#ALL#Produto fabricado em uma nova linha
+0039#STR0039#ALL#Reapresentacao de uma fabricacao do grupo PSA
+0040#STR0040#ALL#Produto entregue em uma nova planta PSA
+0041#STR0041#ALL#Processo modificado
+0042#STR0042#ALL#Novo procedimento de fabricacao
+0043#STR0043#ALL#Outro motivo
+0044#STR0044#ALL#QUANTIDADE
+0045#STR0045#ALL#No. Registro de Entrega
+0046#STR0046#ALL#No. Etiqueta GALIA
+0047#STR0047#ALL#MEIO DE FABRICACAO
+0048#STR0048#ALL#Seriado validado
+0049#STR0049#ALL#Seriado nao validado
+0050#STR0050#ALL#Nao seriado
+0051#STR0051#ALL#Validacao para montadora
+0052#STR0052#ALL#Data do equipamento definitivo
+0053#STR0053#ALL#Indice modificacao do equipamento
+0054#STR0054#ALL#AMOSTRAS
+0055#STR0055#ALL#No. da apresentacao dentro do indice
+0056#STR0056#ALL#Ref. relatorio precedente
+0057#STR0057#ALL#COMENTARIOS
+0058#STR0058#ALL#Massa de um produto:
+0059#STR0059#ALL#Acondicionamento em serie:
+0060#STR0060#ALL#COMPOSICAO DO RELATORIO
+0061#STR0061#ALL#ELEMENTOS ANEXOS
+0062#STR0062#ALL#RESPONSAVEL QUALIDADE
+0063#STR0063#ALL#Relatorio dimensional
+0064#STR0064#ALL#Relatorio materia prima
+0065#STR0065#ALL#Relatorio especificacoes
+0066#STR0066#ALL#Relatorio especificacoes mat.
+0067#STR0067#ALL#Copia P.V. do ensaio oficial
+0068#STR0068#ALL#Placas amostras
+0069#STR0069#ALL#PV de aceitacao da 1a planta utilizadaora
+0070#STR0070#ALL#Nome:
+0071#STR0071#ALL#Endereco:
+0072#STR0072#ALL#Tel:
+0073#STR0073#ALL#Ass.:
+0074#STR0074#ALL#Estado de utilizacao estimado

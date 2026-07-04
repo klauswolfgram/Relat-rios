@@ -1,0 +1,30 @@
+0001#STR0001#ALL#Este progr. tiene como objetivo imprimir el comprob.
+0002#STR0002#ALL#segun los parametros informados por el usuario.
+0003#STR0003#ALL#Compr. de ingreso
+0004#STR0004#ALL#Comprob. de ingreso
+0005#STR0005#ALL#A Rayas
+0006#STR0006#ALL#Administrac.
+0007#STR0007#ALL#Leyendo impuestos...
+0008#STR0008#ALL#¿Comp. Ingreso  ?
+0009#STR0009#ALL#¿Concepto       ?
+0010#STR0010#ALL#Pago Factura
+0011#STR0011#ALL#Abono
+0012#STR0012#ALL#Anulacion Factura
+0013#STR0013#ALL#Para Nvo. Concepto
+0014#STR0014#ALL#Para Nvo. Concepto
+0015#STR0015#ALL#*** ANULADO POR EL OPERADOR ***
+0016#STR0016#ALL#Emision   :
+0017#STR0017#ALL#Nº        :
+0018#STR0018#ALL#Concepto: 
+0019#STR0019#ALL#Valor     :
+0020#STR0020#ALL#Cliente : 
+0021#STR0021#ALL#DOCUMENTO                 VALOR     VLR IVA  VLR RET FTE     COMISION
+0022#STR0022#ALL#PAGOS                     VALOR
+0023#STR0023#ALL#PAGOS ANTICIPADOS         VALOR
+0024#STR0024#ALL#Pago Anticipado
+0025#STR0025#ALL#TOTAL........
+0026#STR0026#ALL#Banco: 
+0027#STR0027#ALL#FIRMA RECIBO / IDENTIFICAC.
+0028#STR0028#ALL#Cheque
+0029#STR0029#ALL#Tarj. Crédito
+0030#STR0030#ALL#Dinero

@@ -1,0 +1,13 @@
+0001#STR0001#ALL#BANK RECONCILIATION
+0002#STR0002#ALL#This program will print the Bank Reconciliation 
+0003#STR0003#ALL#according to preferences configured by the user.
+0004#STR0004#ALL#State
+0005#STR0005#ALL#Sequence
+0006#STR0006#ALL#Transaction Date
+0007#STR0007#ALL#Transaction Value
+0008#STR0008#ALL#Document Code
+0009#STR0009#ALL#Transaction Type
+0010#STR000A#ALL#Description
+0011#STR000B#ALL#D/C
+0012#STR000C#ALL#History
+0013#STR000D#ALL#Bank Reconciliation

@@ -1,0 +1,39 @@
+0001#STR0001#ALL#Este informe imprimirá las Adquisiciones por Transf 
+0002#STR0002#ALL#dentro de los parámetros especificados
+0003#STR0003#ALL#Adquisiciones por Transf
+0004#STR0004#ALL#Adquisiciones por transferencia
+0005#STR0005#ALL# Fecha
+0006#STR0006#ALL#CÓD. BASE  ÍTEM  DESCRIPCIÓN                         FC. ADQUIS  PLACA   C.COSTO    CUENTA                DESCRIPC. CUENTA         
+0007#STR0007#ALL#                                             ***MONEDA 1 ***   ***MONEDA 2 ***   ***MONEDA 3 ***   ***MONEDA 4 ***    ***MONEDA 5 ***
+0008#STR0009#ALL#Organizando archivo
+0009#STR0010#ALL#Ítems de origen
+0010#STR0011#ALL#  -  Movimiento Nº 
+0011#STR0012#ALL#  -  Fch.: 
+0012#STR0013#ALL#Ítems de destino
+0013#STR0014#ALL#Valor original         --->
+0014#STR0015#ALL#Depreciación acumulada --->
+0015#STR0016#ALL#Corrección             --->
+0016#STR0017#ALL#Residual               --->
+0017#STR0018#ALL#TOTAL MOVIMIENTOS DEL DÍA 
+0018#STR0019#ALL#TOTAL (Ítems origen) Valor original   --->
+0019#STR0020#ALL#TOTAL (Ítems origen) Depr. Acumulada  --->
+0020#STR0021#ALL#TOTAL (Ítems origen) Corrección       --->
+0021#STR0022#ALL#TOTAL (Ítmes origen) Residual         --->
+0022#STR0023#ALL#TOTAL (Ítems destino) Valor original  --->
+0023#STR0024#ALL#TOTAL (Ítems destino) Depr. Acumulada --->
+0024#STR0025#ALL#TOTAL (Ítems destino) Corrección      --->
+0025#STR0026#ALL#TOTAL (Ítems destino) Residual        --->
+0026#STR0027#ALL#DESC. VALOR
+0027#STR0028#ALL#Movimiento total en la fecha 
+0028#STR0029#ALL#Origen/Destino
+0029#STR0030#ALL#Texto de la fecha
+0030#STR0031#ALL#Datos del activo
+0031#STR0032#ALL#*** Moneda 1 ***
+0032#STR0033#ALL#*** Moneda 2 ***
+0033#STR0034#ALL#*** Moneda 3 ***
+0034#STR0035#ALL#*** Moneda 4 ***
+0035#STR0036#ALL#*** Moneda 5 ***
+0036#STR0037#ALL#A - Valor original
+0037#STR0038#ALL#B - Depreciación acumulada
+0038#STR0039#ALL#C - Corrección
+0039#STR0040#ALL#D - Residual

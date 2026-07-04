@@ -1,0 +1,28 @@
+0001#STR0001#ALL#This program will print the Movements Comparative or Accrued Balances      
+0002#STR0002#ALL#of the 4 entities enabling the choice of the order of entities.
+0003#STR0003#ALL#Balances/Movements Comparative of 4 entities
+0004#STR0004#ALL#|                  |  PERIOD 01  |  PERIOD 02  |  PERIOD 03  |  PERIOD 04  |  PERIOD 05  |  PERIOD 06  |  PERIOD 07  |  PERIOD 08  |  PERIOD 09  |  PERIOD 10  |  PERIOD 11  |  PERIOD 12  | TOTAL             |
+0005#STR0005#ALL#|                          |  PERIOD 01   |  PERIOD 02   |  PERIOD 03   |  PERIOD 04   |  PERIOD 05   |  PERIOD 06   |  PERIOD 07   |  PERIOD 08   |  PERIOD 09   |  PERIOD 10   |  PERIOD 11   |  PERIOD 12   |
+0006#STR0006#ALL#TILL 
+0007#STR0007#ALL# IN 
+0008#STR0008#ALL#COMPARISON OF 
+0009#STR0009#ALL# NOTE 
+0010#STR0010#ALL#***** CANCELED BY OPERATOR*****
+0011#STR0011#ALL#P E R I O D   T O T A L S : 
+0012#STR0012#ALL# MOVEMENT  
+0013#STR0013#ALL#Z. Form
+0014#STR0014#ALL#Management   
+0015#STR0015#ALL#Creating Temporary File...   
+0016#STR0016#ALL#TOTALS 
+0017#STR0017#ALL#If the basic balances are not updated   
+0018#STR0018#ALL#when setting the entries  (MV_ATUSAL='N'),
+0019#STR0019#ALL#run the balances update routine 
+0020#STR0020#ALL#the periods required in this             
+0021#STR0021#ALL#report.   
+0022#STR0022#ALL#Check if the accounting calendar and the currency/calendar binding was   
+0023#STR0023#ALL#properly registered.             
+0024#STR0024#ALL#PERIOD TOTAL    : 
+0025#STR0025#ALL#GROUP TOTAL    (
+0026#STR0026#ALL# ACCRUED BALANCE
+0027#STR0027#ALL#  FROM 
+0028#STR0028#ALL#Check the chosen accounting entities. They cannot be repeated...         

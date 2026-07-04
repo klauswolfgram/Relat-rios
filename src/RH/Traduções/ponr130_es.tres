@@ -1,0 +1,33 @@
+0001#STR0001#ALL#Informe de Visitas  
+0002#STR0002#ALL#Se imprimira de acuerdo con los parametros solicitados por
+0003#STR0003#ALL#usuario.
+0004#STR0006#ALL#Espere ...
+0005#STR0007#ALL#Seleccionando Visitantes..
+0006#STR0008#ALL#A Rayas
+0007#STR0009#ALL#Administracion
+0008#STR0011#ALL#Informe de Control de Visitas   
+0009#STR0012#ALL#Credenc:
+0010#STR0013#ALL#Codigo: 
+0011#STR0014#ALL#Visitante: 
+0012#STR0015#ALL#  Total Visitas
+0013#STR0016#ALL#Sucursal: 
+0014#STR0017#ALL#Visitantes: 
+0015#STR0020#ALL#Empresa: 
+0016#STR0022#ALL#Visitante                         |Credencial |  Fecha    |  Entrada         |  Salida          |   Baja    |  Contacto            | C. Costo                          
+0017#STR0023#ALL#                                                           * Accesos *       |  Reloj  
+0018#STR0024#ALL#Visitante
+0019#STR0025#ALL#Identificacion
+0020#STR0026#ALL#Fecha
+0021#STR0027#ALL#Entrada
+0022#STR0028#ALL#Salida
+0023#STR0029#ALL#Baja
+0024#STR0030#ALL#Contacto
+0025#STR0031#ALL#C.Costo
+0026#STR0032#ALL#Fecha Visita
+0027#STR0033#ALL#Fecha de Baja
+0028#STR0104#ALL#Codigo Visitante + Fecha de Visita 
+0029#STR0105#ALL#Cred. + Fecha de Visita
+0030#STR0106#ALL#Fecha Visita + Credencial
+0031#STR0107#ALL#Baixa + Cracha
+0032#STR0108#ALL#Empresa + Fecha
+0033#STR0109#ALL#Este informe muestra la lista de visitas recibidas en un determinado periodo.      

@@ -1,0 +1,53 @@
+0001#STR0001#ALL#Este programa irá imprimir o Razão de Gestão de Conta,
+0002#STR0002#ALL#De acordo com os parâmetros pedidos pelo
+0003#STR0003#ALL#Utilizador.
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#Emissão do Razão de Gestão de Conta
+0007#STR0007#ALL#Razão analítico em 
+0008#STR0008#ALL#Razão sintético em 
+0009#STR0009#ALL# de 
+0010#STR0010#ALL# até 
+0011#STR0011#ALL#(orçamentado)
+0012#STR0012#ALL#(de gestão)
+0013#STR0013#ALL#Lote/sub/doc/linha  h i s t ó r i c o                                                       
+0014#STR0014#ALL#Lote/sub/doc/linha H I S T ó R I C O                                                       Débito          Crédito       Saldo Actual
+0015#STR0015#ALL#***** cancelado pelo operador *****
+0016#STR0016#ALL#Conta - 
+0017#STR0017#ALL#A Seleccionar Registos...
+0018#STR0018#ALL#A Criar Ficheiro Temporário...
+0019#STR0019#ALL#Data
+0020#STR0020#ALL#T o t a i s  d a  c o n t a  ==> 
+0021#STR0021#ALL#Conta Sem Movimento No Período
+0022#STR0022#ALL#A transportar :
+0023#STR0023#ALL#De transporte :
+0024#STR0024#ALL#Data                                                                             Débito               Crédito            Saldo Actual
+0025#STR0025#ALL#T o t a l  g e r a l ==> 
+0026#STR0026#ALL#Sem Movimento No Período
+0027#STR0027#ALL#Devem ser criados os parâmetros mv_lrazabe e mv_lrazenc. 
+0028#STR0028#ALL#Utilize Como Base O Parâmetro Mv_ldiarab.
+0029#STR0029#ALL#Débito               crédito           saldo actual        
+0030#STR0030#ALL#O plano de gestão não está disponível neste relatório.
+0031#STR0031#ALL#Lote/sub/doc/linha H I S T ó R I C O                                                        Débito         Crédito       Saldo Actual
+0032#STR0032#ALL#Lote/sub/doc/linha H I S T ó R I C O                                                                                                                                                   Débito               Crédito         Saldo Actual
+0033#STR0033#ALL#Saldo Anterior:
+0034#STR0034#ALL#Lote/sub/doc/linha H I S T ó R I C O                                                       Débito          Crédito       Saldo Actual
+0035#STR0035#ALL#Data                                                                             Débito               Crédito            Saldo Actual
+0036#STR0036#ALL#Débito               crédito           saldo actual        
+0037#STR0037#ALL#Lote/sub/doc/linha H I S T ó R I C O                                                        Débito         Crédito       Saldo Actual
+0038#STR0038#ALL#Lote/sub/doc/linha H I S T ó R I C O                                                                                                                                                   Débito               Crédito         Saldo Actual
+0039#STR0039#ALL#Lote/sub/doc/linha  h i s t ó r i c o                                                       
+0040#STR0040#ALL#Lote/sub/doc/linea correlat. h i s t o r i a l                                             
+0041#STR0041#ALL#Lote/sub/doc/linea Correlat. H I S T O R I A L                                              Débito         Crédito       Saldo Actual
+0042#STR0042#ALL#Lote/sub/doc/linea Correlat. H I S T O R I A L                                                                                                                                       Débito               Crédito         Saldo Actual
+0043#STR0043#ALL#Favor preencher a pergunta com o Código do Set of Books (Configuração de Livros) do plano de gestão desejado.
+0044#STR0044#ALL#O set of books (configuração de livros) deverá ter um plano de gestão associado.
+0045#STR0045#ALL#Verificar se o set of books (configuração de livros) está registado.
+0047#STR0047#ALL#H I S T ó R I C O
+0048#STR0048#ALL#Débito
+0049#STR0049#ALL#Crédito
+0050#STR0050#ALL#Saldo Actual
+0051#STR0051#ALL#Movimentos
+0052#STR0052#ALL#Total Da Conta
+0054#STR0054#ALL#Total Crial
+0055#STR0055#ALL#Atenção

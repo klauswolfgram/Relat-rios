@@ -1,0 +1,44 @@
+0001#STR0001#ALL#Print the Payment Order.
+0002#STR0002#ALL#Print the Payment Orders   
+0003#STR0003#ALL#It will be requested parameters of 
+0004#STR0004#ALL#date and interval of POs.   
+0005#STR0005#ALL#Z.Form
+0006#STR0006#ALL#Management
+0007#STR0007#ALL#** CANCELLED BY THE OPERATOR **
+0008#STR0008#ALL#Inscripted Responsible
+0009#STR0009#ALL#Non-Inscripted Responsible
+0010#STR0010#ALL#Exempt
+0011#STR0011#ALL#Final Consumer
+0012#STR0012#ALL#Export
+0013#STR0013#ALL#Monotributer
+0014#STR0014#ALL#Payment order of the following Documents:
+0015#STR0015#ALL#|-Serie-Number-----------Value Paid-----Curren---Due Dt------Value in 
+0016#STR0016#ALL#Profits  
+0017#STR0017#ALL#Ing. Br.
+0018#STR0018#ALL#V.A.T.
+0019#STR0019#ALL#Issued the certificate of withholding of 
+0020#STR0020#ALL# No. 
+0021#STR0021#ALL#Deducted the following advanced payments : 
+0022#STR0022#ALL#|-Number------------------------Value---Curren---Issued---------Value 
+0023#STR0023#ALL#| Deducted the following advanced payments     : 
+0024#STR0024#ALL#|-Number------------------------Value---Curren---Issued---------Value 
+0025#STR0025#ALL#In the following detail (Checks-Cash-Transferences)
+0026#STR0026#ALL#|-VL-Number-----------------Value-Curren---Bnk--Brc.--Account------Dep Date--|
+0027#STR0027#ALL#| 3rd Parties Checks delivered : 
+0028#STR0028#ALL#|-VL-Number-----------------Value-Curren---Bnk--Brc.--Account------Custom.-Br|
+0029#STR0029#ALL#| Per budget of advanced payment of bills 
+0030#STR0030#ALL#|-Number--------------------Value-Curren-------------------------------------|
+0031#STR0031#ALL#|                             Total in 
+0032#STR0032#ALL#Form correctly positioned? 
+0033#STR0033#ALL#Try again?        
+0034#STR0034#ALL#From Order?       
+0035#STR0035#ALL#To order?         
+0036#STR0036#ALL#From Date?        
+0037#STR0037#ALL#To date?          
+0038#STR0038#ALL#PAYMENT ORDER NO.: 
+0039#STR0039#ALL#Date: 
+0040#STR0040#ALL#| Payee: 
+0041#STR0041#ALL#| Account No.: 
+0042#STR0042#ALL#|                                                Continue....................|
+0043#STR0043#ALL#|Rates of 
+0044#STR0044#ALL#Paym.cancelled

@@ -1,0 +1,145 @@
+0001#STR0001#ALL#Checklist APQP A4
+0002#STR0002#ALL#Generating View. Please, wait...
+0003#STR0003#ALL# Is it necessary assistance of the customer´s insured 
+0004#STR0004#ALL# quality or prodicts engineering activity to develop
+0005#STR0005#ALL# or approve the control plan ?
+0006#STR0006#ALL# Did the supplier identify who will be the contact
+0007#STR0007#ALL# of the quality with the customer?
+0008#STR0008#ALL# Did the supplier identify who will be the contact
+0009#STR0009#ALL# of the quality with the suppliers ?
+0010#STR0010#ALL# Was the quality system critically analysed through
+0011#STR0011#ALL# the use of the Chrysler, Ford e General Motors´ Quality System
+0012#STR0012#ALL# Evaluation Manual?
+0013#STR0013#ALL# Are there enough people identified to cover the following items?
+0014#STR0014#ALL#* Control Plan Requisite 
+0015#STR0015#ALL#* Dimensional inspction
+0016#STR0016#ALL#* Engineering performance tests
+0017#STR0017#ALL#* Problems solution analysis 
+0018#STR0018#ALL# Is there any documented training programs that :
+0019#STR0019#ALL#* Comprise all employees ?
+0020#STR0020#ALL#* Describe those who were trained ?
+0021#STR0021#ALL#* Offer a training schedule ?
+0022#STR0022#ALL# Were the follow trainings completed?
+0023#STR0023#ALL#* Process Statistic Control
+0024#STR0024#ALL#* Capability Studies
+0025#STR0025#ALL#* Problems Solution
+0026#STR0026#ALL#* Errors proof
+0027#STR0027#ALL#* Other topics, as identified
+0028#STR0028#ALL#* Does each operation present process instructions
+0029#STR0029#ALL# related to the control plan ?
+0030#STR0030#ALL#* Are the standard instructions available to the operator
+0031#STR0031#ALL# during each operation?
+0032#STR0032#ALL#* Did any operation/team leaders take part in the
+0033#STR0033#ALL# development of the operation standard instructions?
+0034#STR0034#ALL# Do the inspection intructions comprise:
+0035#STR0035#ALL#* Engineering performance specifications
+0036#STR0036#ALL# easily understood ?
+0037#STR0037#ALL#* Tests frequence ?
+0038#STR0038#ALL#* Samples size ?
+0039#STR0039#ALL#* Reaction plan ?
+0040#STR0040#ALL#* Documentation?
+0041#STR0041#ALL# Are the visual instructions:
+0042#STR0042#ALL#* Easily understood ?
+0043#STR0043#ALL#* Available ?
+0044#STR0044#ALL#* Accessible?
+0045#STR0045#ALL#* Approved ?
+0046#STR0046#ALL#* Dated and updated ?
+0047#STR0047#ALL# Is there a procedure to implement, keep and 
+0048#STR0048#ALL# establish reaction plans for statistical control
+0049#STR0049#ALL# letters ?
+0050#STR0050#ALL# Is there any effective root cause analysis system ?
+0051#STR0051#ALL# Were provision made in order to let the drawings 
+0052#STR0052#ALL# and specifications in their last level of revision 
+0053#STR0053#ALL# ready for inspection?
+0054#STR0054#ALL# Are forms/files available for the proper people
+0055#STR0055#ALL# to register the results of inspection ?
+0056#STR0056#ALL# Were provisions made in order to put the following material
+0057#STR0057#ALL# in monitored operation?
+0058#STR0058#ALL#* Inspection instruments
+0059#STR0059#ALL#* Instructions about instruments
+0060#STR0060#ALL#* Reference samples
+0061#STR0061#ALL#* Inspection registration ?
+0062#STR0062#ALL# Were provisions made in order to certify and calibrate
+0063#STR0063#ALL# the measurement devices and test equipment 
+0064#STR0064#ALL#in a routine way ?
+0065#STR0065#ALL# Were the necessary capability analysis of measurement
+0066#STR0066#ALL# system :
+0067#STR0067#ALL#* Completed?
+0068#STR0068#ALL#* Accepted?
+0069#STR0069#ALL# Are the facilities and inspection equipments
+0070#STR0070#ALL# suitable to provide an initial and continuos dimensional
+0071#STR0071#ALL# inspection over all details and components ?
+0072#STR0072#ALL# Is there any procedure for the control of products
+0073#STR0073#ALL# receiving that identifies :
+0074#STR0074#ALL#* Characteristics to be inspected ?
+0075#STR0075#ALL#* Inspection sequence ?
+0076#STR0076#ALL#* Sample size ?
+0077#STR0077#ALL#* Designated place for the approved product?
+0078#STR0078#ALL#* Distribution of non-conformance products?
+0079#STR0079#ALL# Is there any procedure to identify, segregate and
+0080#STR0080#ALL# control non-conformance products in order to avoid
+0081#STR0081#ALL# its delivery?
+0082#STR0082#ALL# Are procedures of rework/repair available ?
+0083#STR0083#ALL# Is there any procedure to requalify repaired/reworked
+0084#STR0084#ALL# material ?
+0085#STR0085#ALL# Is there a suitable system of lots trackability
+0086#STR0086#ALL#follow-up
+0087#STR0087#ALL# Were periodical audit of finished product
+0088#STR0088#ALL# planned and implemented ?
+0089#STR0089#ALL# Were periodic surveys of quality system
+0090#STR0090#ALL# planned and implemented ?
+0091#STR0091#ALL# Did the customer approved the packing specifications?
+0092#STR0092#ALL#Prepared by
+0093#STR0093#ALL# A-4 CHECKING LIST OF PRODUCT/PROCESS QUALITY
+0094#STR0094#ALL#Internal part or customer´s number
+0095#STR0095#ALL#Question
+0096#STR0096#ALL#Yes
+0097#STR0097#ALL#No
+0098#STR0098#ALL#Comments / Required Action
+0099#STR0099#ALL#Responsible person
+0100#STR0100#ALL#Estimated Date
+0101#STR0101#ALL#Revision date
+0102#STR0102#ALL#Page 
+0103#STR0103#ALL# from 
+0104#STR0104#ALL#part of the part approval process?
+0105#STR0105#ALL#Was a master sample retained, if necessary, as 
+0106#STR0106#ALL#N/a
+0107#STR0107#ALL#and approved according to customer requirements?
+0108#STR0108#ALL#Response to problems and analysis of troubleshooting?
+0109#STR0109#ALL#Response Plans?
+0110#STR0110#ALL#Do instructions to operator include pictures and diagrams?
+0111#STR0111#ALL#Were engineering tests (dimension, material, appearance 
+0112#STR0112#ALL#and performance) finished and documented, according  
+0113#STR0113#ALL#to customer requirements?
+0114#STR0114#ALL#Monitoring and measurement devices?
+0115#STR0115#ALL#Instructions about measurement devices
+0116#STR0116#ALL#Were initial capability tests of the process 
+0117#STR0117#ALL#conducted according to customer requirements?
+0118#STR0118#ALL#Were production sample parts provided  
+0119#STR0119#ALL#according to customer requirements?
+0120#STR0120#ALL#Is the customer assistance or approval required 
+0121#STR0121#ALL#to develop the control plan?
+0122#STR0122#ALL#package? 
+0123#STR0123#ALL#Did the Organization identify the contact   
+0124#STR0124#ALL#of Troubleshooting?
+0125#STR0125#ALL#Are standard instructions accessible 
+0126#STR0126#ALL#to the operator in each work station?
+0127#STR0127#ALL#Documentation requirements?
+0128#STR0128#ALL#Appropriate, intelligible and legible?
+0129#STR0129#ALL#Is there a procedure to implement, keep and establish 
+0130#STR0130#ALL#response plans for issues such as out-of-control conditions 
+0131#STR0131#ALL#based on process statistical control? 
+0132#STR0132#ALL#Is there a process identified for troubleshooting  
+0133#STR0133#ALL#that include root cause analysis?
+0134#STR0134#ALL#Are the most up-to-date drawings and specifications 
+0135#STR0135#ALL#available to operator, specially in  
+0136#STR0136#ALL#inspection points?
+0137#STR0137#ALL#Are items below available and placed  
+0138#STR0138#ALL#in appropriate points of the operation?
+0139#STR0139#ALL#Finished?
+0140#STR0140#ALL#Are facilities and layout inspection equipment appropriate 
+0141#STR0141#ALL#to provide an initial and continuous layout of all 
+0142#STR0142#ALL#details and components, according to customer requirements?
+0143#STR0143#ALL#Are procedures of rework / repair available 
+0144#STR0144#ALL#to assure suitable products?
+0145#STR0145#ALL#Did the customer approve the package and specification of  

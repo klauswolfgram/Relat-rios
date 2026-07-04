@@ -1,0 +1,31 @@
+0001#STR0001#ALL#Este programa vai imprimir o comparativo de 
+0002#STR0002#ALL# de 2 até 6 filiais. os valores são ref. a movimentação do período solicitado. 
+0004#STR0004#ALL#|  código                     |   descrição    |    mov filial 01    |    mov filial 02    |    mov filial 03    |    mov filial 04    |    mov filial 05    |    mov filial 06    |     total  crial      |
+0005#STR0005#ALL#Comparativo de filiais analítico de 
+0006#STR0006#ALL# até 
+0007#STR0007#ALL# em 
+0008#STR0008#ALL#Comparativo de filiais sintético de 
+0009#STR0009#ALL# atenção 
+0010#STR0010#ALL#***** cancelado pelo operador *****
+0011#STR0011#ALL#Totais do período: 
+0012#STR0012#ALL#Comparativo de 
+0013#STR0013#ALL#Código de barras
+0014#STR0014#ALL#Administração
+0015#STR0015#ALL#A Criar Ficheiro Temporário...
+0016#STR0016#ALL#T o t a i s  d o  g r u p o (
+0017#STR0017#ALL#Caso não actualize os saldos compostos na
+0018#STR0018#ALL#Emissão dos relatórios(mv_sldcomp ='n'),
+0019#STR0019#ALL#Correr o procedimento  de actualização de saldos 
+0020#STR0020#ALL#Para todas as filiais requeridas nesse 
+0021#STR0021#ALL#Relatório.
+0022#STR0022#ALL# Com Filiais.
+0023#STR0023#ALL#Código
+0024#STR0024#ALL#D E S C R I ç ã O
+0025#STR0025#ALL#Mov. fil. 01
+0026#STR0026#ALL#Mov. fil. 02
+0027#STR0027#ALL#Mov. fil. 03
+0028#STR0028#ALL#Mov. fil. 04
+0029#STR0029#ALL#Mov. fil. 05
+0030#STR0030#ALL#Mov. fil. 06
+0031#STR0031#ALL#Total Crial
+0033#STR0033#ALL#Verifica se o cad. c.custo é compartilhado.POR DEFINIÇÃO, não será possível emitir o relatório com C.CUSTO EXCLUSIVO!

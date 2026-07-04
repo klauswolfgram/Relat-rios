@@ -1,0 +1,17 @@
+0001#STR0001#ALL#Este programa ira emitir o relatorio de Referencia 
+0002#STR0002#ALL#cruzada entre instrumentos e pradroes secundarios.
+0003#STR0003#ALL#Ref. Cruzada: Instrumento x Padräo Secundário
+0004#STR0004#ALL#Instrumento      Rev Familia          Depto.        Resp.      Faixa Pad.Sec.   Ponto Pad. Sec.  Padrao Secundario Famila Pad. Sec.
+0005#STR0005#ALL#Zebrado
+0006#STR0006#ALL#Administraçäo
+0007#STR0007#ALL#CANCELADO PELO OPERADOR
+0008#STR0008#ALL#Instrumento
+0009#STR0009#ALL#Rev
+0010#STR0010#ALL#Familia
+0011#STR0011#ALL#Depto.
+0012#STR0012#ALL#Resp.
+0013#STR0013#ALL#Escala Pad.Sec.
+0014#STR0014#ALL#Ponto Pad. Sec.
+0015#STR0015#ALL#Padrao Secundario
+0016#STR0016#ALL#Famila Pad. Sec.
+0017#STR0017#ALL#Sequencia..:

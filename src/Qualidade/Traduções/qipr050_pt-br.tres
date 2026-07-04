@@ -1,0 +1,43 @@
+0001#STR0001#ALL#Certificado de Qualidade
+0002#STR0002#ALL#Neste relatorio sera impresso o Certificado de Qualidade
+0003#STR0004#ALL# Texto Superior 
+0004#STR0005#ALL# Texto Inferior 
+0005#STR0006#ALL# Impressao 
+0006#STR0007#ALL#Certificado de Qualidade
+0007#STR0008#ALL#Itens de Configuracao
+0008#STR0009#ALL#Neste relatorio sera impresso os Certificados
+0009#STR0010#ALL#Certificado Qualidade
+0010#STR0011#ALL#Zebrado
+0011#STR0012#ALL#Administracao
+0012#STR0013#ALL#Selecionando Registros...
+0013#STR0014#ALL# de 
+0014#STR0015#ALL#LABORATORIO : 
+0015#STR0016#ALL#Especificado
+0016#STR0017#ALL#Encontrados
+0017#STR0018#ALL#Minimo
+0018#STR0019#ALL#Maximo
+0019#STR0020#ALL#Encontrado
+0020#STR0021#ALL#Janeiro
+0021#STR0022#ALL#Fevereiro
+0022#STR0023#ALL#Marco
+0023#STR0024#ALL#Abril
+0024#STR0025#ALL#Maio
+0025#STR0026#ALL#Junho
+0026#STR0027#ALL#Julho
+0027#STR0028#ALL#Agosto
+0028#STR0029#ALL#Setembro
+0029#STR0030#ALL#Outubro
+0030#STR0031#ALL#Novembro
+0031#STR0032#ALL#Dezembro
+0032#STR0033#ALL#OPERACAO : 
+0033#STR0034#ALL# Informacoes Complementares 
+0034#STR0035#ALL#Devido o laudo estar com Liberacao Urgente, nao será possivel emitir o Certificado de Qualidade.
+0035#STR0036#ALL#Atencao
+0036#STR0037#ALL#Impr. Ensaio Texto ?
+0037#STR0038#ALL#Uma Medicao
+0038#STR0039#ALL#Todas Medicoes
+0039#STR0040#ALL#Nota Fiscal
+0040#STR0041#ALL#Serie
+0041#STR0042#ALL#Media
+0042#STR0043#ALL#Identificada inconsistencia, favor verificar (Ordem de Producao + Lote + Num Serie + Produto + Revisao)
+0043#STR0044#ALL#Identificada inconsistencia, favor verificar a chave (Produto + Data Producao)

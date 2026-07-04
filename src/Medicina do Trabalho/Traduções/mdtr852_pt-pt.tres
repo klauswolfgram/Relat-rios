@@ -1,0 +1,30 @@
+0001#STR0001#ALL#Para utilizar este relatório é necessário executar a função UPDMDT28.
+0002#STR0002#ALL#Para mais informações consulte o Boletim Técnico de número: 
+0005#STR0005#ALL#Seleccione o Modelo do Relatório
+0010#STR0010#ALL#O Centro de Custo informado no Laudo não está registado como Obra.
+0012#STR0012#ALL#Através dos parâmetros seleccionar os elementos que devem ser considerados
+0013#STR0013#ALL#no Relatório.                                                        
+0014#STR0014#ALL#Código de Barras
+0015#STR0015#ALL#Administração
+0017#STR0017#ALL#Morada da Obra
+0019#STR0019#ALL#Nr. Contrib. do Contratante
+0020#STR0020#ALL#Morada do Contratante
+0029#STR0029#ALL#TEL.:
+0030#STR0030#ALL#MORADA:
+0036#STR0036#ALL#Nr.Contrib.
+0037#STR0037#ALL#CONCELHO
+0042#STR0042#ALL#Alterne para o programa do Ms-Word para visualizar o documento ou clique no botão para fechar.
+0043#STR0043#ALL#Objectivo do Cargo
+0044#STR0044#ALL#Objectivo do Cargo: 
+0045#STR0045#ALL#ACTIVIDADES E OPERAÇÕES
+0049#STR0049#ALL#O centro de custo deve pertencer ao cliente seleccionado.
+0050#STR0050#ALL#Tipo de Protecção:              C.A. Ref.:    Tipo de EPI:                              Tarefa Executada:
+0051#STR0051#ALL#Tipo de Protecção
+0055#STR0055#ALL#ACÇÕES / MÊS
+0062#STR0062#ALL#Impressão          ?
+0064#STR0064#ALL#Ficheiro
+0065#STR0065#ALL#Ficheiro Saída      ?
+0082#STR0082#ALL#Impressão?
+0083#STR0083#ALL#Ficheiro saída ?
+0084#STR0084#ALL#Coordenador?
+0085#STR0085#ALL#Ficheiro saída?

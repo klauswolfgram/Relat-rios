@@ -1,0 +1,31 @@
+0001#STR0001#ALL#Lista De Transferência
+0002#STR0002#ALL#Este programa vai imprimir uma relação de transferências
+0003#STR0003#ALL#De acordo com os parâmetros definidos pelo utilizador.
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#De documento       ?
+0007#STR0007#ALL#Até documento      ?
+0008#STR0008#ALL#De revisão         ?
+0009#STR0009#ALL#Até revisão        ?
+0010#STR0010#ALL#De dt. transf.      ?
+0011#STR0011#ALL#Até dt transf.     ?
+0012#STR0012#ALL#De utilizador         ?
+0013#STR0013#ALL#Até utilizador        ?
+0014#STR0014#ALL#De departamento    ?
+0015#STR0015#ALL#Até departamento   ?
+0016#STR0016#ALL#De utilizador destino ?
+0017#STR0017#ALL#Até Utilizador Destino?
+0018#STR0018#ALL#De dpt. destino         ?
+0019#STR0019#ALL#Até depto destino  ?
+0020#STR0020#ALL#A Seleccionar Registos...
+0021#STR0021#ALL#Dt. Transf. Responsável        Dpt.                    Motivo                    Tipo
+0022#STR0022#ALL#DE                                Dpt.                      Para                             Dpt. 
+0023#STR0023#ALL#Cancelado Pelo Operador
+0024#STR0024#ALL#Documento:
+0025#STR0025#ALL#Rev.:
+0027#STR0027#ALL#Util. Destino:
+0029#STR0029#ALL#Críticas Por Documento
+0030#STR0030#ALL#Pedidos
+0032#STR0032#ALL#Destinatários
+0034#STR0034#ALL#Legenda Dos Utilizadores:
+0035#STR0035#ALL#FILIAL        CÓDIGO          NOME REDUZ.         NOME

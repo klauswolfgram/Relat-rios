@@ -1,0 +1,41 @@
+0001#STR0001#ALL#Ligações Encerradas x Tipo de Comunicação
+0002#STR0002#ALL#Este programa emitirá uma relação das Ligações
+0003#STR0003#ALL# encerradas ordenadas por data.
+0004#STR0004#ALL#Conforme os parâmetros previamente definidos
+0005#STR0005#ALL#Zebrado
+0006#STR0006#ALL#Administração
+0007#STR0007#ALL#CANCELADO PELO OPERADOR
+0008#STR0008#ALL#**Näo Informado.**
+0009#STR0009#ALL#Näo localizado no cadastro...
+0010#STR0010#ALL#Total de atendimentos computados para o periodo de 
+0011#STR0011#ALL#TIPO DE COMUNICACÄO                                          ATIVO       %
+0012#STR0012#ALL#TIPO DE COMUNICACÄO                                      RECEPTIVO       %
+0013#STR0013#ALL#TIPO DE COMUNICACÄO                                          ATIVO       %  RECEPTIVO       %    TOTAL       %
+0014#STR0014#ALL#MOTIVO DO ENCERRAMENTO                                       ATIVO       %
+0015#STR0015#ALL#MOTIVO DO ENCERRAMENTO                                   RECEPTIVO       %
+0016#STR0016#ALL#MOTIVO DO ENCERRAMENTO                                       ATIVO       %  RECEPTIVO       %    TOTAL       %
+0017#STR0017#ALL#DATA      OPERADOR                                           ATIVO
+0018#STR0018#ALL#DATA      OPERADOR                                       RECEPTIVO
+0019#STR0019#ALL#DATA      OPERADOR                                           ATIVO          RECEPTIVO            TOTAL
+0020#STR0020#ALL#OPERADOR                                                     ATIVO
+0021#STR0021#ALL#OPERADOR                                                 RECEPTIVO
+0022#STR0022#ALL#OPERADOR                                                     ATIVO          RECEPTIVO            TOTAL
+0023#STR0023#ALL#MOTIVO DO ENCERRAMENTO                                       TIPO DE COMUNICACÄO                                       ATIVO       %
+0024#STR0024#ALL#MOTIVO DO ENCERRAMENTO                                   TIPO DE COMUNICACÄO                                   RECEPTIVO       %
+0025#STR0025#ALL#MOTIVO DO ENCERRAMENTO                                       TIPO DE COMUNICACÄO                                       ATIVO       %  RECEPTIVO       %    TOTAL       %
+0026#STR0026#ALL#Nao Existem dados a serem impressos para este relatorio com os parametros informados
+0027#STR0027#ALL#TOTAL
+0028#STR0028#ALL# a 
+0029#STR0029#ALL#Tipo de Comunicação
+0030#STR0030#ALL#ATIVO
+0031#STR0031#ALL#RECEPTIVO
+0032#STR0032#ALL#Data
+0033#STR0033#ALL#Motivo do Encerramento
+0034#STR0034#ALL#Operador
+0035#STR0035#ALL#Cabeçalho do telemarketing
+0036#STR0036#ALL#Itens do telemarketing
+0037#STR0037#ALL#Total dos atendimentos por tipo
+0038#STR0038#ALL#Tot. dos atendimentos por motivo
+0039#STR0039#ALL#Total dos atendimentos por data e operador
+0040#STR0040#ALL#Total dos atendimentos por operador
+0041#STR0041#ALL#Total dos atendimentos por motivo e por tipo

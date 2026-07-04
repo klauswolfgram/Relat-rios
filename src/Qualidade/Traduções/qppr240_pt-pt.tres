@@ -1,0 +1,52 @@
+0001#STR0001#ALL#Aprovação Interina Gm
+0002#STR0002#ALL#A Visualizar, Aguarde...
+0003#STR0003#ALL#Ppap:
+0004#STR0004#ALL#Nome Do Fornecedor:
+0005#STR0005#ALL#Código Do Fornecedor:
+0006#STR0006#ALL#Nível De Submissão:
+0009#STR0009#ALL#Data Expiração:
+0010#STR0010#ALL#Ewo#:
+0011#STR0011#ALL#Número Da Peça:
+0012#STR0012#ALL#Nome Da Peça:
+0013#STR0013#ALL#Número Do Desenho:
+0014#STR0014#ALL#Alteração De Engenharia:
+0015#STR0015#ALL#Peso(kg):
+0016#STR0016#ALL#Nº. Amostras:
+0018#STR0018#ALL#(     ) classe a - peças foram produzidas usando 100% ferramental , 
+0019#STR0019#ALL#Porém nem todos os requisitos foram satisfeitos
+0020#STR0020#ALL#(     ) classe b - peças foram produzidas usando 100% ferramental , 
+0021#STR0021#ALL#E requerem retrabalho para satisfazer os requisitos
+0022#STR0022#ALL#(     ) classe c - peças não são produzidas usando 100% ferramental 
+0023#STR0023#ALL#De produção, porém satisfaz as especificações
+0024#STR0024#ALL#(     ) classe d - peças não satisfazem especificações de registo de projecto
+0025#STR0025#ALL#(     ) classe e - peças não satisfazem especificações de registo de projecto, 
+0026#STR0026#ALL#Peças classe e exigem substituição para venda
+0027#STR0027#ALL#Classe Interina
+0028#STR0028#ALL#Estado:
+0031#STR0031#ALL#N = Não Realizado
+0032#STR0032#ALL#Dim
+0033#STR0033#ALL#Apar
+0034#STR0034#ALL#Lab
+0035#STR0035#ALL#Proc.
+0036#STR0036#ALL#Eng.
+0037#STR0037#ALL#Resumo Das Razões
+0038#STR0038#ALL#Assuntos(relacione Dim, App, Questões De Lançamento)
+0039#STR0039#ALL#Plano de acção(fornecer com prazos)
+0040#STR0040#ALL#Estão os assuntos referentes à interina mencionadas no plano gp-12 (explique)
+0041#STR0041#ALL#Representante Gmb:
+0043#STR0043#ALL#Fornecedor:
+0047#STR0047#ALL#Nome Legível
+0050#STR0050#ALL#Aprovações Do Cliente:     Assinatura
+0052#STR0052#ALL#Engenheiro De Qualidade Do Fornecedor
+0053#STR0053#ALL#Engenheiro de produto (dre)
+0054#STR0054#ALL#Engenheiro De Materiais/lab.
+0055#STR0055#ALL#Engenheiro De Aparência/pintura
+0056#STR0056#ALL#Outros(comprador, Unidade De Montagem)
+0057#STR0057#ALL#Processo De Aprovação De Peça De Produção
+0058#STR0058#ALL#Formulário de aprovação interina (gm 1411)
+0059#STR0059#ALL#General Motors Portugal Lda.
+0060#STR0060#ALL#Data Ressubmissão:
+0061#STR0061#ALL#Módulo
+0062#STR0062#ALL#Ecl.:
+0063#STR0063#ALL#Insp./eqf :
+0064#STR0064#ALL#Pkg:

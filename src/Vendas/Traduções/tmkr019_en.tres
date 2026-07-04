@@ -1,0 +1,31 @@
+0001#STR0001#ALL#Z. Form
+0002#STR0002#ALL#Management
+0003#STR0003#ALL#CANCELLED BY OPERATOR
+0004#STR0004#ALL#Telemarketing - Communication Type
+0005#STR0005#ALL#This program will issue a list of communication types used by the operator
+0006#STR0006#ALL#Total will be presented per day and a main total on the last page of the report
+0007#STR0007#ALL#No information to print this report. - Check if the parameters were filled in correctly.                   
+0008#STR0008#ALL#Total of servicings registered for the period from 
+0009#STR0009#ALL# to 
+0010#STR0010#ALL#**Not Informed  **
+0011#STR0011#ALL#Not found in file...         
+0012#STR0012#ALL#Not informed during servicing..
+0013#STR0013#ALL#COMMUNICATION TYPE                                           ACTIV.      %  RECEPTIVE       %    TOTAL       %
+0014#STR0014#ALL#DATE      OPERATOR                                           ACTIV.         RECEPTIVE            TOTAL
+0015#STR0015#ALL#OPERATOR                                                     ACTIV.         RECEPTIVE            TOTAL
+0016#STR0016#ALL#TOTAL
+0017#STR0017#ALL#COMMUNICATION TYPE                                           ACTIV.      %
+0018#STR0018#ALL#COMMUNICATION TYPE                                       RECEPTIVE       %
+0019#STR0019#ALL#DATE      OPERATOR                                           ACTIV
+0020#STR0020#ALL#DATE      OPERATOR                                       RECEPTIVE
+0021#STR0021#ALL#OPERATOR                                                     ACTIV
+0022#STR0022#ALL#OPERATOR                                                 RECEPTIVE
+0023#STR0023#ALL#Communication type 
+0024#STR0024#ALL#Active
+0025#STR0025#ALL#Receptive
+0026#STR0026#ALL#Operator
+0027#STR0027#ALL#Date
+0028#STR0028#ALL#Telemarketing
+0029#STR0029#ALL#Telemarketing items   
+0030#STR0030#ALL#Active/Passive operators    
+0031#STR0031#ALL#period 

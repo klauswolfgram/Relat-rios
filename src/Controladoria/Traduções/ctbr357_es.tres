@@ -1,0 +1,21 @@
+0001#STR0001#ALL#Informe de Log de Contabilidad
+0002#STR0002#ALL#Suc+FchAsto+NumLote+Sublote+NumDoc
+0003#STR0003#ALL#Cta Debito+Fecha Asto
+0004#STR0004#ALL#Cta Credito+Fecha Asiento
+0005#STR0005#ALL#Este programa emite la Impresion del informe de log de contabilidad.
+0006#STR0006#ALL#Tipo saldo
+0007#STR0007#ALL#Tipo
+0008#STR0008#ALL#Usuario
+0009#STR0009#ALL#Fecha
+0010#STR0010#ALL#Función disponible solo para que TReport, verifique parámetro MV_TREPORT
+0011#STR0011#ALL#Manual
+0012#STR0012#ALL#Sistema
+0013#STR0013#ALL#Lote
+0014#STR0014#ALL#Documento
+0015#STR0015#ALL#Línea
+0016#STR0016#ALL#Tp Saldo
+0017#STR0017#ALL#Tp Asto
+0018#STR0018#ALL#Ciclo de vida de software
+0019#STR0019#ALL#Esta rutina se descontinuará en el release  12.1.2410
+0020#STR0020#ALL#Para sustituir esta funcionalidad, utilice la nueva rutina de Conciliación (CTBA940)
+0021#STR0021#ALL#Esta rutina se descontinuó en el release  12.1.2410

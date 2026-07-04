@@ -1,0 +1,39 @@
+0001#STR0001#ALL#Esse programa tem como objetivo imprimir uma relacao para conferencia 
+0002#STR0002#ALL#dos lancamentos gerados pela ROTINA DE APURACAO DE LUCROS/PERDAS 
+0003#STR0003#ALL#COM CONTA PONTE.
+0004#STR0004#ALL#Lancamentos Gerados pela Apuracao de Lucros/Perdas com Conta Ponte
+0005#STR0005#ALL#Zebrado
+0006#STR0006#ALL#Administracao
+0007#STR0007#ALL#LI  SEQ CONTA                                                         
+0008#STR0008#ALL#VALOR DEBITO                               VALOR CREDITO
+0008#STR0008#ANG#VALOR DEBITO                               VALOR CREDITO
+0008#STR0008#EQU#VALOR DEBITO                               VALOR CREDITO
+0008#STR0008#HAI#VALOR DEBITO                               VALOR CREDITO
+0008#STR0008#MEX#VALOR DEBITO                               VALOR CREDITO
+0008#STR0008#PTG#VALOR DEBITO                               VALOR CREDITO
+0009#STR0009#ALL#***** CANCELADO PELO OPERADOR *****
+0010#STR0010#ALL#TOTAL :
+0011#STR0011#ALL#SUB-LOTE: 
+0012#STR0012#ALL#DATA: 
+0013#STR0013#ALL#LOTE: 
+0014#STR0014#ALL#DOC: 
+0014#STR0014#ANG#DOC: 
+0014#STR0014#EQU#DOC: 
+0014#STR0014#HAI#DOC: 
+0014#STR0014#MEX#DOC: 
+0014#STR0014#PTG#DOC: 
+0015#STR0015#ALL#Valor Débito
+0015#STR0015#ANG#Valor Débito
+0015#STR0015#EQU#Valor Débito
+0015#STR0015#HAI#Valor Débito
+0015#STR0015#MEX#Valor Débito
+0015#STR0015#PTG#Valor Débito
+0016#STR0016#ALL#Valor Crédito
+0016#STR0016#ANG#Valor Crédito
+0016#STR0016#EQU#Valor Crédito
+0016#STR0016#HAI#Valor Crédito
+0016#STR0016#MEX#Valor Crédito
+0016#STR0016#PTG#Valor Crédito
+0017#STR0017#ALL#Lote
+0018#STR0018#ALL#Detalhe
+0019#STR0019#ALL#Selecionando Registros...

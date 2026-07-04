@@ -1,0 +1,24 @@
+0001#STR0001#ALL#Ocorrências de cobrança
+0002#STR0002#ALL#Este programa ira emitir uma relacao dos
+0003#STR0003#ALL#atendimentos de cobranca separados por
+0004#STR0004#ALL#ocorrencias.
+0005#STR0005#ALL#Zebrado
+0006#STR0006#ALL#Administração
+0007#STR0007#ALL#Relatório Sintético
+0008#STR0008#ALL#Data      Hora    Código  Ocorrência                CPF                 Telefone         Razão Social                          Valor
+0009#STR0009#ALL#CANCELADO PELO OPERADOR
+0010#STR0010#ALL#Operador: 
+0011#STR0011#ALL#Selecionando as ocorrências...
+0012#STR0012#ALL#Total do Operador
+0013#STR0013#ALL#Quantidade  Ocorrência
+0014#STR0014#ALL#Total Geral
+0015#STR0015#ALL#Quantidade  Ocorrência
+0016#STR0016#ALL#Ocorrência não informada
+0017#STR0017#ALL#Total Cobrado pelo operador 
+0018#STR0018#ALL#Quantidade
+0019#STR0019#ALL#Ocorrência
+0020#STR0020#ALL#Valor
+0021#STR0021#ALL#Quantidade Total
+0022#STR0022#ALL#Operador
+0023#STR0023#ALL#Ocorrências Registradas
+0024#STR0024#ALL#Descrição das ocorrências

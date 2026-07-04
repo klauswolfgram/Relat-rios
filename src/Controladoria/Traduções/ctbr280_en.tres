@@ -1,0 +1,28 @@
+0001#STR0001#ALL#This program will print a list of Transactions    
+0002#STR0002#ALL#Accrued by     
+0003#STR0003#ALL#specified by the user.
+0004#STR0004#ALL#Z.Form
+0005#STR0005#ALL#Management
+0006#STR0006#ALL#List of Transactions Accrued for Extra CC, Fiscal Year -    
+0007#STR0007#ALL#Code 
+0008#STR0008#ALL#Account Code        Description               
+0009#STR0009#ALL#***** CANCELLED BY THE OPERATOR *****
+0010#STR0010#ALL# Extra Accounting for the accounts
+0011#STR0011#ALL# Description           
+0012#STR0012#ALL#Total of 
+0013#STR0013#ALL#Grand Total: 
+0014#STR0014#ALL#Cost Center Code     Description                                     
+0015#STR0015#ALL#Account Code         Description                                     
+0016#STR0016#ALL#You must specify in the parameters, the currency to be used in this report   
+0017#STR0017#ALL#Please, check if the accounting calendar and currency X calendar link 
+0018#STR0018#ALL#were registered correctly...
+0019#STR0019#ALL#ACCUMULAT
+0020#STR0020#ALL#Dsc.
+0021#STR0021#ALL#Amounts
+0022#STR0022#ALL#To 
+0023#STR0023#ALL#Managerial plan not available for this report, yet.             
+0024#STR0024#ALL#Modify the configuration of books.
+0025#STR0025#ALL#Config. of Books ...
+0026#STR0026#ALL#Building query ...  
+0027#STR0027#ALL#Executing query ...   
+0028#STR0028#ALL#Referential Plan unavailable in this report. The report will be processed disregarding book configuration.

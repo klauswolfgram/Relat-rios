@@ -1,0 +1,25 @@
+0001#STR0001#ALL#This program will print the Warranty status 
+0002#STR0002#ALL#(Debits/Credits) (Scania)
+0003#STR0003#ALL#Debits/Credits Status - Scania
+0004#STR0004#ALL# [SO Nr.] [Op.Dt.] [Ch.I] [Chassis Number---------] [Model-----------------------] [Customer-----------------------------]
+0005#STR0005#ALL#Z.Form
+0006#STR0006#ALL#Management
+0007#STR0007#ALL#          [Yr.]  [RR Nr] [Rt.Dt.] [Tr.Dt.] [Cr.Dt.] [St.Dt.] [Trans.% ] [Prt.Paid] [Prt.St. ] [Srv.Tran] [Srv.Paid] [Srv.St. ]
+0008#STR0008#ALL#Please, wait. Selecting Record to Print
+0009#STR0009#ALL#Parts.....................: 
+0010#STR0010#ALL#Indirect Expenses.........: 
+0011#STR0011#ALL#Permanence Period.........: 
+0012#STR0012#ALL#ICMS Difference...........: 
+0013#STR0013#ALL#Services (Labour Force)...: 
+0014#STR0014#ALL#Special Cost..............: 
+0015#STR0015#ALL#Transportation............: 
+0016#STR0016#ALL# Detailed
+0017#STR0017#ALL# Summarized
+0018#STR0018#ALL#*** CANCELLED BY THE OPERATOR ***
+0019#STR0019#ALL#[Analyst Position---------] [Transmitted] [Paid-------]
+0020#STR0020#ALL#SO Totals.: 
+0021#STR0021#ALL#Initial Date      ?
+0022#STR0022#ALL#Final Date        ?
+0023#STR0023#ALL#Report Type       ?
+0024#STR0024#ALL#Detailed
+0025#STR0025#ALL#Summarized

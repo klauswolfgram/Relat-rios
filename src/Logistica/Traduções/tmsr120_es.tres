@@ -1,0 +1,27 @@
+0001#STR0001#ALL#RECOLECCIONES NO EFECTUADAS POR OCURRENCIA
+0002#STR0002#ALL#Emite listado recolecciones no efectuadas por ocurrencia,
+0003#STR0003#ALL#segun los parametros informados
+0004#STR0004#ALL#a rayas
+0005#STR0005#ALL#Administrac. 
+0006#STR0006#ALL#Seleccionan. Registros...
+0007#STR0007#ALL#Seleccionan. registros DUA...
+0008#STR0008#ALL#FCH.       HORA  SUCUR. DOC    SERIE SOLICITANTE                              TIP COLECTA           VOLS                  PESO
+0009#STR0009#ALL#Ocurrencia: 
+0010#STR0010#ALL#Total: 
+0011#STR0011#ALL#Total Gral.: 
+0012#STR0012#ALL#ANULADO POR EL OPERADOR
+0013#STR0013#ALL#De DDN  ?
+0014#STR0014#ALL#¿ A DDN   ?
+0015#STR0015#ALL#Recolecciones no efectuadas por ocurrencia
+0016#STR0016#ALL#Emite la lista de recolecciones no efectuadas por ocurrencia
+0017#STR0017#ALL#Ocurrencia
+0018#STR0018#ALL#Desc.Ocurrencia
+0019#STR0019#ALL#Documento
+0020#STR0020#ALL#Fecha
+0021#STR0021#ALL#Hora
+0022#STR0022#ALL#Suc.Doc
+0023#STR0023#ALL#Serie
+0024#STR0024#ALL#Solicitante
+0025#STR0025#ALL#Tip.Col.
+0026#STR0026#ALL#Vols.
+0027#STR0027#ALL#Peso

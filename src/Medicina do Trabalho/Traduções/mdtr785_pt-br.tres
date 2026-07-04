@@ -1,0 +1,26 @@
+0001#STR0001#ALL#Relatorio de apresentacao dos medicamentos, o usuario podera listar todos
+0002#STR0002#ALL#ou apenas aqueles com a quantidade atual em estoque menor do que a       
+0003#STR0003#ALL#quantidade minima.   Opcao disponivel atraves do botao de  parametros.   
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#Validade de Medicamentos
+0007#STR0007#ALL#De Matricula?
+0008#STR0008#ALL#Ate Matricula?
+0009#STR0009#ALL#Ate Dt. Vencimento:
+0010#STR0010#ALL#Para a utilização dessa rotina, é necessário a criação do campo:
+0011#STR0011#ALL#Tabela...: TM1
+0012#STR0012#ALL#Campo....: TM1_DTVALI
+0013#STR0013#ALL#Tipo.....: D
+0014#STR0014#ALL#Tamanho..: 8
+0015#STR0015#ALL#Decimal..: 0
+0016#STR0016#ALL#Titulo...: Dt. Validade
+0017#STR0017#ALL#Descricao: Data Validade
+0018#STR0018#ALL#Picture..: 99/99/9999
+0019#STR0019#ALL#ATENCAO
+0020#STR0020#ALL#Código          Nome Medicamento            Data Venc.     Quant. Atual  Un. Med.
+0021#STR0021#ALL#CANCELADO PELO OPERADOR
+0022#STR0022#ALL#Código
+0023#STR0023#ALL#Nome Medicamento
+0024#STR0024#ALL#Data Venc.
+0025#STR0025#ALL#Quant. Atual
+0026#STR0026#ALL#Un. Med.

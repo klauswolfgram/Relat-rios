@@ -1,0 +1,14 @@
+0001#STR0001#ALL#A rayas
+0002#STR0002#ALL#Administrac. 
+0003#STR0003#ALL#Resumen de clientes que pagaron con dinero
+0004#STR0004#ALL#Resumen clientes que pagaron mas que   
+0005#STR0005#ALL# en dinero en el periodo de:
+0006#STR0006#ALL# a 
+0007#STR0007#ALL#Codigo    Razon Social                                          CGC               Direcc.                                              Municipio                  Estado         Nº Pagos          Total Pago
+0007#STR0007#ANG#Codigo    Razon Social                                           RFC               Direcc.                                              Municipio                  Estado         Cant Pagos        Total Pago
+0007#STR0007#EQU#Codigo    Razon Social                                           RFC               Direcc.                                              Municipio                  Estado         Cant Pagos        Total Pago
+0007#STR0007#HAI#Codigo    Razon Social                                           RFC               Direcc.                                              Municipio                  Estado         Cant Pagos        Total Pago
+0007#STR0007#MEX#Codigo    Razon Social                                           RFC               Direcc.                                              Municipio                  Estado         Cant Pagos        Total Pago
+0007#STR0007#PTG#Codigo    Razon Social                                           RFC               Direcc.                                              Municipio                  Estado         Cant Pagos        Total Pago
+0008#STR0008#ALL#Total de Pagos:     
+0009#STR0009#ALL#Total de Sucurs: 

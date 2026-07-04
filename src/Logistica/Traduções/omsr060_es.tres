@@ -1,0 +1,28 @@
+0001#STR0001#ALL#Intinerarios
+0002#STR0002#ALL#Este programa emitira el detalle de intinerarios distri-
+0003#STR0003#ALL#buidos por Rutas, Zonas, Sectores y Clientes por Sector
+0004#STR0004#ALL#de acuerdo con los parametros elegidos por el usuario.
+0005#STR0005#ALL#A Rayas
+0006#STR0006#ALL#Administracion
+0007#STR0007#ALL#Por intinerario
+0008#STR0008#ALL#Por Clientes
+0009#STR0009#ALL#RUTA   DESCRIPCION                    SECUENCIA ZONA   DESCRIPCION                    SECTOR DESCRIP. 
+0010#STR0010#ALL#SECUENCIA CLIENTE TDA.  NOMBRE                                   DIRECCION                                CIUDAD          EST/PRO CP        REFERENCIA
+0011#STR0011#ALL#CLIENTE TIENDA NOMBRE                                   DIRECCION                                CIUDAD          REGION CP
+0012#STR0012#ALL#CLIENTE SIN INTINERARIO  - SIN REGISTRO EN NINGUNA ZONA/SECTOR
+0013#STR0013#ALL#ZONA   DESCRIPCION                      SECTOR DESCRIPCION                              SECUENCIA   RUTA   DESCRIPCION                    SECUENCIA
+0014#STR0014#ALL#ZONA Y SECTOR NO ARCHIVADOS EN NINGUNA RUTA
+0015#STR0015#ALL#SECUENCIA	 CP INICIAL    CP FINAL    REFERENCIA
+0016#STR0016#ALL#ZONA / SECTOR =>
+0017#STR0017#ALL#Planificaciones	
+0018#STR0018#ALL#Este programa emitira la Lista de la Planificacion
+0019#STR0019#ALL#distrib. por Rutas, Zonas, Sectores y Clientes por Sector
+0020#STR0020#ALL#segun los parametros seleccionados por el usuario.
+0021#STR0021#ALL#Por Planificac.
+0022#STR0022#ALL#Por Clientes
+0023#STR0023#ALL#Ruta
+0024#STR0024#ALL#Zona
+0025#STR0025#ALL#Secuencia
+0026#STR0026#ALL#Cliente
+0027#STR0027#ALL#Secuencia del Cliente
+0028#STR0028#ALL#Campo no existe en la base de datos o debe ser del tipo numérico, carácter o fecha:

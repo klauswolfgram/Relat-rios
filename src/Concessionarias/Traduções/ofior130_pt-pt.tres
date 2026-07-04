@@ -1,0 +1,24 @@
+0001#STR0001#ALL#Este programa tem como objectivo imprimir a relação
+0002#STR0002#ALL#Dos veículos atendidos na oficina de acordo com os parâmetros
+0003#STR0003#ALL#Selecionados. 
+0004#STR0004#ALL#Veículos Atendidos Na Oficina
+0005#STR0005#ALL# [cliente] [nome--------------] [morada------------------------------] [concelho---------------uf] [telefone-----] [placa-] [revendedor--------------------------] [concelho---------------uf] [região] [telefone-----]
+0006#STR0006#ALL# ---------chassi---------- Ch.int -frota- Mca -fab/mod- --------modelo---------- --descrição Modelo-- Segmod ---cor---- Combust Tipo Difer Nro Difer. Reldif Tip.cambio Nro Cambio -tipo Do Motor- -nro Do Motor-- Permanencia
+0007#STR0007#ALL#Código de barras
+0008#STR0008#ALL#Administração
+0009#STR0009#ALL#Aguarde A Seleccionar Registo Para Impressão
+0010#STR0010#ALL# marca: 
+0012#STR0012#ALL# família: 
+0013#STR0013#ALL# modelo: 
+0015#STR0015#ALL# proprietário: 
+0016#STR0016#ALL# de: 
+0018#STR0018#ALL#*** cancelado pelo operador ***
+0019#STR0019#ALL#Total de passagens no período.: 
+0025#STR0025#ALL#Data inicial      ?
+0026#STR0026#ALL#Data final        ?
+0027#STR0027#ALL# [--OS--] [Cliente] [Nome--------------] [Morada-----------------------------] [Munícipio---------------Dist] [Telefone-----] [Placa-] [Revendedor------------------] [Municipio---------------UF] [Região] [Telefone-----]
+0028#STR0028#ALL# ---------Chassis---------- Ch.Int -Frota- Mca -Fab/Mod- --------Modelo---------- --Descrição Modelo-- SegMod ---Cor---- Combust Tipo Difer No.Difer. RelDif Tip.Câmbio No.Câmbio -Tipo do Motor- -No.do Motor-- Permanência
+0031#STR0031#ALL#Família           ?
+0033#STR0033#ALL#Proprietário      ?
+0035#STR0035#ALL#Data inicial      ?
+0036#STR0036#ALL#Data final        ?

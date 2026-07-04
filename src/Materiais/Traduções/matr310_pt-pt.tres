@@ -1,0 +1,27 @@
+0001#STR0001#ALL#Relação Dos Produtos Vendidos
+0002#STR0002#ALL#Este relatório apresenta o valor total das vendas de cada produto,
+0003#STR0003#ALL#Calculando a sua participação dentro do total das vendas.mostra tam-
+0004#STR0004#ALL#Bem o custo de cada venda e o custo de reposição do produto.
+0005#STR0005#ALL#Código de barras
+0006#STR0006#ALL#Administração
+0007#STR0007#ALL#Registo(s)     fórmula da margem 
+0010#STR0010#ALL#A Seleccionar Registos...
+0011#STR0011#ALL#Cancelado Pelo Operador
+0012#STR0012#ALL#Sub total : 
+0013#STR0013#ALL#T o t a l ---> 
+0014#STR0014#ALL#Abate imp não fact ?
+0015#STR0015#ALL#Não
+0018#STR0018#ALL#A Seleccionar Registos...
+0019#STR0019#ALL#Tp.
+0020#STR0020#ALL#Código
+0022#STR0022#ALL#(a)custo
+0026#STR0026#ALL#Val Facturado
+0028#STR0028#ALL#(b)valor
+0029#STR0029#ALL#Facturado
+0030#STR0030#ALL#Impostos não
+0031#STR0031#ALL#Facturados
+0032#STR0032#ALL#Imp. Não Fact.
+0035#STR0035#ALL#*mar
+0037#STR0037#ALL#Reposição
+0038#STR0038#ALL#Variação
+0039#STR0039#ALL#Artigos

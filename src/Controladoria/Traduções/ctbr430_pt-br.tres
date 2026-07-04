@@ -1,0 +1,56 @@
+0001#STR0001#ALL#Este programa ir  imprimir o Razao Gerencial de Conta,
+0002#STR0002#ALL#de acordo com os parametros solicitados pelo
+0003#STR0003#ALL#usuario.
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#Emissao do Razao Gerencial de Conta
+0007#STR0007#ALL#RAZAO ANALITICO EM 
+0008#STR0008#ALL#RAZAO SINTETICO EM 
+0009#STR0009#ALL# DE 
+0010#STR0010#ALL# ATE 
+0011#STR0011#ALL#(ORCADO)
+0012#STR0012#ALL#(GERENCIAL)
+0013#STR0013#ALL#LOTE/SUB/DOC/LINHA  H I S T O R I C O                                                       
+0014#STR0014#ALL#LOTE/SUB/DOC/LINHA H I S T O R I C O                                                       DEBITO          CREDITO       SALDO ATUAL
+0015#STR0015#ALL#***** CANCELADO PELO OPERADOR *****
+0016#STR0016#ALL#CONTA - 
+0017#STR0017#ALL#Selecionando Registros...
+0018#STR0018#ALL#Criando Arquivo Tempor rio...
+0019#STR0019#ALL#DATA
+0020#STR0020#ALL#T o t a i s  d a  C o n t a  ==> 
+0021#STR0021#ALL#CONTA SEM MOVIMENTO NO PERIODO
+0022#STR0022#ALL#A TRANSPORTAR :
+0023#STR0023#ALL#DE TRANSPORTE :
+0024#STR0024#ALL#DATA                                                                             DEBITO               CREDITO            SALDO ATUAL
+0025#STR0025#ALL#T O T A L  G E R A L ==> 
+0026#STR0026#ALL#SEM MOVIMENTO NO PERIODO
+0027#STR0027#ALL#Devem ser criados os parametros MV_LRAZABE e MV_LRAZENC. 
+0028#STR0028#ALL#Utilize como base o parametro MV_LDIARAB.
+0029#STR0029#ALL#DEBITO               CREDITO           SALDO ATUAL        
+0030#STR0030#ALL#O plano gerencial nao esta disponivel nesse relatorio.
+0031#STR0031#ALL#LOTE/SUB/DOC/LINHA H I S T O R I C O                                                        DEBITO         CREDITO       SALDO ATUAL
+0032#STR0032#ALL#LOTE/SUB/DOC/LINHA H I S T O R I C O                                                                                                                                                   DEBITO               CREDITO         SALDO ATUAL
+0033#STR0033#ALL#SALDO ANTERIOR:
+0034#STR0034#ALL#LOTE/SUB/DOC/LINHA H I S T O R I C O                                                       DEBITO          CREDITO       SALDO ATUAL
+0035#STR0035#ALL#DATA                                                                             DEBITO               CREDITO            SALDO ATUAL
+0036#STR0036#ALL#DEBITO               CREDITO           SALDO ATUAL        
+0037#STR0037#ALL#LOTE/SUB/DOC/LINHA H I S T O R I C O                                                        DEBITO         CREDITO       SALDO ATUAL
+0038#STR0038#ALL#LOTE/SUB/DOC/LINHA H I S T O R I C O                                                                                                                                                   DEBITO               CREDITO         SALDO ATUAL
+0039#STR0039#ALL#LOTE/SUB/DOC/LINHA  H I S T O R I C O                                                       
+0040#STR0040#ALL#LOTE/SUB/DOC/LINEA CORRELAT. H I S T O R I A L                                             
+0041#STR0041#ALL#LOTE/SUB/DOC/LINEA CORRELAT. H I S T O R I A L                                              DEBITO         CREDITO       SALDO ATUAL
+0042#STR0042#ALL#LOTE/SUB/DOC/LINEA CORRELAT. H I S T O R I A L                                                                                                                                       DEBITO               CREDITO         SALDO ACTUAL
+0043#STR0043#ALL#Favor preencher a pergunta com o Codigo do Set Of Books (Configuracao de Livros) do plano gerencial desejado.
+0044#STR0044#ALL#O set of books (configuracao de livros) devera ter um plano gerencial associado.
+0045#STR0045#ALL#Verificar se o Set of Books (configuracao de livros) esta cadastrado.
+0046#STR0046#ALL#LOTE/SUB/DOC/LINHA 		
+0047#STR0047#ALL#H I S T O R I C O
+0048#STR0048#ALL#DEBITO
+0049#STR0049#ALL#CREDITO
+0050#STR0050#ALL#SALDO ATUAL
+0051#STR0051#ALL#Lançamentos
+0052#STR0052#ALL#Total da Conta
+0053#STR0053#ALL#Complemento
+0054#STR0054#ALL#Total Geral
+0055#STR0055#ALL#Atencao
+0056#STR0056#ALL#Nao existem dados para os parâmetros especificados.

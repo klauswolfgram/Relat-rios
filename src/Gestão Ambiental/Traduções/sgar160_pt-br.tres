@@ -1,0 +1,39 @@
+0001#STR0001#ALL#Relatório das Ordens dos Planos de Simulação.
+0002#STR0002#ALL#Através dos parâmetros o usuário poderá efetuar a seleção desejada.
+0003#STR0003#ALL#Zebrado
+0004#STR0004#ALL#Administração
+0005#STR0005#ALL#Relatório das Ordens de Simulação
+0006#STR0006#ALL#De Plano Simulação ?
+0007#STR0007#ALL#Até Plano Simulação ?
+0008#STR0008#ALL#De Data Prev. ?
+0009#STR0009#ALL#Até Data Prev. ?
+0010#STR0010#ALL#Ordens Terminadas ?
+0011#STR0011#ALL#Sim
+0012#STR0012#ALL#Não
+0013#STR0013#ALL#Situação ?
+0014#STR0014#ALL#Canceladas
+0015#STR0015#ALL#Pendentes
+0016#STR0016#ALL#Liberadas
+0017#STR0017#ALL#Todas
+0018#STR0018#ALL#Mostrar CheckLists ?
+0019#STR0019#ALL#Informe a partir de qual Plano de Simulação deseja visualizar as Ordens de Simulação.
+0020#STR0020#ALL#Informe até qual Plano de Simulação deseja visualizar as Ordens de Simulação. Pressione a tecla [F3] para selecionar um Plano ou digite 
+0021#STR0021#ALL# neste campo e deixe o campo acima em branco para considerar todos os Planos.
+0022#STR0022#ALL#Informe a partir de qual data prevista deseja visualizar as Ordens de Simulação.
+0023#STR0023#ALL#Informe até qual data prevista deseja visualizar as Ordens de Simulação.
+0024#STR0024#ALL#Informe se deseja apresentar Ordens de Simulação terminadas.
+0025#STR0025#ALL#Informe qual situação das Ordens de Simulação deseja apresentar no relatório.
+0026#STR0026#ALL#Informe se deseja apresentar os checklists das Ordens de Simulação.
+0027#STR0027#ALL#CANCELADO PELO OPERADOR
+0028#STR0028#ALL#Plano de Simulação
+0029#STR0029#ALL#Data
+0030#STR0030#ALL#Situação
+0031#STR0031#ALL#Terminado
+0032#STR0032#ALL#Data Inicial
+0033#STR0033#ALL#Plano Inicial
+0034#STR0034#ALL#Data Cancel.
+0035#STR0035#ALL#Plano Final
+0036#STR0036#ALL#Ordem
+0037#STR0037#ALL#CheckList
+0038#STR0038#ALL#Resposta
+0039#STR0039#ALL#Não há nada para imprimir no relatório.

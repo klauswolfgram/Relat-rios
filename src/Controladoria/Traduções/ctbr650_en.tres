@@ -1,0 +1,13 @@
+0001#STR0001#ALL#This program will issue the history report.
+0002#STR0002#ALL#.
+0003#STR0003#ALL#History file
+0004#STR0004#ALL#| CODE    | TYPE | DESCRIPTION                                                  |
+0005#STR0005#ALL#CANCELLED BY THE OPERATOR  
+0006#STR0006#ALL#Z. Form
+0007#STR0007#ALL#Management
+0008#STR0008#ALL#Selecting Records........
+0009#STR0009#ALL#Code
+0010#STR0010#ALL#Description
+0011#STR0011#ALL# - Order per: 
+0012#STR0012#ALL#Type
+0013#STR0013#ALL# - By  

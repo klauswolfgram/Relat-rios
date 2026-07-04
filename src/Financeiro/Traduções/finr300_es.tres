@@ -1,0 +1,23 @@
+0001#STR0001#ALL#Este programa emitira el detalle de los mayores 
+0002#STR0002#ALL#deudores/atrasos
+0003#STR0003#ALL#A Rayas
+0004#STR0004#ALL#Administracion
+0005#STR0005#ALL#Detalle de los mayores deudores
+0006#STR0006#ALL#Detalle del mayor deudor
+0007#STR0007#ALL#Detalle de los 
+0008#STR0008#ALL#Codigo del cliente        Nomb del cliente                 Valor atrasado  Valor total adeud. N.Tit    %Tot  Dias Atrasados
+0009#STR0009#ALL#Seleccionando registros...
+0010#STR0010#ALL#ANULADO POR EL OPERADOR
+0011#STR0011#ALL#Detalle del mayor atraso
+0012#STR0012#ALL#Total de los 
+0013#STR0013#ALL#Mayores atrasos
+0014#STR0014#ALL#Mayores deudores
+0015#STR0015#ALL# Mayores Deudores
+0016#STR0016#ALL# Mayores Atrasos
+0017#STR0017#ALL#Codigo del Cliente
+0018#STR0018#ALL#Valor en Atraso
+0019#STR0019#ALL#Valor Total Debido
+0020#STR0020#ALL#N.Tit
+0021#STR0021#ALL#%Tot
+0022#STR0022#ALL#Dias en Atraso
+0023#STR0023#ALL#Items de atraso

@@ -1,0 +1,32 @@
+0001#STR0001#ALL#Autorizacion para conducir vehiculo
+0002#STR0002#ALL#Este programa listara la autorizacion para conducir vehiculos
+0003#STR0003#ALL#A rayas
+0004#STR0004#ALL#Administracion
+0005#STR0005#ALL#Enero
+0006#STR0006#ALL#Feberero
+0007#STR0007#ALL#Marzo
+0008#STR0008#ALL#Abril
+0009#STR0009#ALL#Mayo
+0010#STR0010#ALL#Junio
+0011#STR0011#ALL#Julio
+0012#STR0012#ALL#Agosto
+0013#STR0013#ALL#Septiembre
+0014#STR0014#ALL#Octubre
+0015#STR0015#ALL#Noviembre
+0016#STR0016#ALL#Diciembre
+0017#STR0017#ALL#NOMBRE SUPERVISOR - MATR. SUPERVISOR
+0018#STR0018#ALL#Continua...
+0019#STR0019#ALL#De conductor ?
+0020#STR0020#ALL#A conductor ?	
+0021#STR0021#ALL#¿De vehiculo ?
+0022#STR0022#ALL#¿A vehiculo	 ?	
+0023#STR0023#ALL#¿De sucursal base ?
+0024#STR0024#ALL#A sucursal base ?	
+0025#STR0025#ALL#LISTA DE CONDUCTORES
+0026#STR0026#ALL#Nombre
+0027#STR0027#ALL#CPF
+0028#STR0028#ALL#Licencia de conducir
+0029#STR0029#ALL#Vehiculos
+0030#STR0030#ALL#Ano fabricacion
+0031#STR0031#ALL#Placa
+0032#STR0032#ALL#Datos protegidos - Acceso restringido: este usuario no tiene permiso de acceso a los datos de esta rutina. Para más información, entre en contacto con el Administrador del sistema.

@@ -1,0 +1,18 @@
+0001#STR0001#ALL#Report of Courses per Entity
+0002#STR0002#ALL#It will be printed according to the parameters selected
+0003#STR0003#ALL#by the user.
+0004#STR0004#ALL#Course
+0005#STR0005#ALL#Z.Form
+0006#STR0006#ALL#Management
+0007#STR0007#ALL#Courses by Entity
+0008#STR0008#ALL#CODE   COURSE                                 DURAT.  UN    VALUE 
+0009#STR0009#ALL#CODE   ENTITY                                 DURAT.  UN    VALUE 
+0010#STR0010#ALL#ENTITY: 
+0011#STR0011#ALL#COURSE: 
+0012#STR0012#ALL#     PROGRAM 
+0013#STR0013#ALL# *** Program has been not entered *** 
+0014#STR0014#ALL#Entity  
+0015#STR0015#ALL#This report prints the available courses by entity.
+0016#STR0016#ALL#Total
+0017#STR0017#ALL#By Entity/Course
+0018#STR0018#ALL#By course/entity 

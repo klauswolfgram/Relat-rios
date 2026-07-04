@@ -1,0 +1,16 @@
+0001#STR0001#ALL#Report of holdovers by User.
+0002#STR0002#ALL#It will be printed according to the parameters required by the User.
+0003#STR0003#ALL#Registration
+0004#STR0004#ALL#Name
+0005#STR0005#ALL#Z. Form
+0006#STR0006#ALL#Management
+0007#STR0007#ALL#HOLDOVERS BY USER
+0008#STR0008#ALL#Selecting records ...    
+0009#STR0009#ALL#User:
+0010#STR0010#ALL#Action Plan         Open.Dt  Prev.Clos.Dt.  Status          Type
+0011#STR0011#ALL#N.Conf.Form        Open.Dt.  Prev.Clos.Dt.  Status          Type
+0012#STR0034#ALL#CANCELLED BY THE OPERATOR
+0013#STR0035#ALL#Plans/Stages  Type Action                           % Action  Anticipation
+0014#STR0036#ALL#Plans/Stages 
+0015#STR0037#ALL#Action plan  
+0016#STR0038#ALL#Non-conf.Card

@@ -1,0 +1,37 @@
+0001#STR0001#ALL#Balances statement by period       
+0002#STR0002#ALL#Code  
+0003#STR0003#ALL#Descript.
+0004#STR0004#ALL#Movements 
+0005#STR0005#ALL#Initial Balance: 
+0006#STR0006#ALL#Credit Mov. (C):
+0007#STR0007#ALL#Debit Mov. (D)
+0008#STR0008#ALL#Final balance(C- D):
+0009#STR0009#ALL#Printing cancelled by the operator..
+0010#STR0010#ALL#Warning
+0011#STR0011#ALL#User with no access to this managerial view configuration. 
+0012#STR0012#ALL#Close 
+0013#STR0013#ALL#Weekly
+0014#STR0014#ALL#Fortnightly
+0015#STR0015#ALL#Monthly
+0016#STR0016#ALL#Bimonthly
+0017#STR0017#ALL#Semiannual
+0018#STR0018#ALL#Annual
+0019#STR0019#ALL#Daily
+0020#STR0020#ALL#Quarterly
+0021#STR0021#ALL#View
+0022#STR0022#ALL#Initial Date
+0023#STR0023#ALL#Final Date
+0024#STR0024#ALL#Currency
+0025#STR0025#ALL#Currency 1
+0026#STR0026#ALL#Currency 2
+0027#STR0027#ALL#Currency 3
+0028#STR0028#ALL#Currency 4
+0029#STR0029#ALL#Currency 5
+0030#STR0030#ALL#Period Type
+0031#STR0031#ALL#Retained
+0032#STR0032#ALL#Yes
+0033#STR0033#ALL#No
+0034#STR0034#ALL#Cube Configuration
+0035#STR0035#ALL#Edit Cube Configurations
+0036#STR0036#ALL#Detail Cubes
+0037#STR0037#ALL#Parameters...

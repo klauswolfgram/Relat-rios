@@ -1,0 +1,25 @@
+0001#STR0001#ALL#Informe de Efectivos
+0002#STR0002#ALL#Clientes
+0003#STR0003#ALL#Cod. Local
+0004#STR0004#ALL#Descripcion
+0005#STR0005#ALL#Participantes
+0006#STR0006#ALL#Funcion
+0007#STR0007#ALL#Descripcion Funcion
+0008#STR0008#ALL#Matricula
+0009#STR0009#ALL#Nombre del Empleado
+0010#STR0010#ALL#Turno
+0011#STR0011#ALL#Descripcion Turno
+0012#STR0012#ALL#Admision
+0013#STR0013#ALL#Total de Participantes
+0014#STR0014#ALL#Informe la Fecha Inicial para           
+0015#STR0015#ALL#seleccion de efetivos					   
+0016#STR0016#ALL#Informe la Fecha Final para           
+0017#STR0017#ALL#seleccion de efectivos					   
+0018#STR0018#ALL#Selecione el lugar de atencion en el que  
+0019#STR0019#ALL#se realizara la busqueda de los efectivos       
+0020#STR0020#ALL#Seleccione la funcion que 				  
+0021#STR0021#ALL#se realizara la busqueda de los efectivos       
+0022#STR0022#ALL#CNV
+0023#STR0023#ALL#Cliente
+0024#STR0024#ALL#Sucursal Orig.
+0025#STR0025#ALL#Sucursal Dest.

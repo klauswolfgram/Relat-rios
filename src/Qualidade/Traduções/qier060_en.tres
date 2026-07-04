@@ -1,0 +1,33 @@
+0001#STR0001#ALL#This report displays the lead-time referring to inflows of Products/
+0002#STR0002#ALL#Vendors.                  
+0003#STR0003#ALL#Lead-Time
+0004#STR0004#ALL#Z.Form 
+0005#STR0005#ALL#Management
+0006#STR0006#ALL#Period  : 
+0007#STR0007#ALL#to   
+0008#STR0008#ALL#Inflows in Transit  
+0009#STR0009#ALL#Inflows in Laboratory  
+0010#STR0010#ALL#Inflows with Report
+0011#STR0011#ALL#Selecting Records...      
+0012#STR0012#ALL#Average Calculation
+0013#STR0013#ALL#Group
+0014#STR0014#ALL#Tran.Lot
+0015#STR0015#ALL#Rep.Lot 
+0016#STR0016#ALL#Tot.Lot 
+0017#STR0017#ALL#Avail.Lo
+0018#STR0018#ALL#Lab Lot  
+0019#STR0019#ALL#GENERAL
+0020#STR0020#ALL#Transit Lead-Time : time elapsed since Delivery or Date Entrance in Lab.until current date
+0021#STR0021#ALL#Report Lead-Time..: time elapsed from Entrance to Exit of Laboratory.
+0022#STR0022#ALL#Total Time-Lead ..: time elapsed from Product Delivery until Exit Laboratory.
+0023#STR0023#ALL#Avail Time-Lead ..: time elapsed from Laboratory Exit until Report Availability.
+0024#STR0024#ALL#Transit Lead -Time: time elapsed from Product Delivery until current date.
+0025#STR0025#ALL#Lead-Time: time elapsed from Entrance in Lab until current date.
+0026#STR0026#ALL#Lab Inflow    
+0027#STR0027#ALL#Lab outflow   
+0028#STR0028#ALL#Report Avail
+0029#STR0029#ALL#TRANSIT TOTAL 
+0030#STR0030#ALL#REPORT TOTAL
+0031#STR0031#ALL#GRAND TOTAL
+0032#STR0032#ALL#LABORATORY TOTAL 
+0033#STR0033#ALL#AVAILABILITY TOTAL   

@@ -1,0 +1,26 @@
+0001#STR0001#ALL#Este relatório irá imprimir o orçamentos 
+0002#STR0002#ALL#Conforme os parâmetros solicitados
+0003#STR0003#ALL#                                      dados da edt/tarefa                |                   previsto                      |
+0004#STR0004#ALL#Tp.  código        descrição                                          un |     quant prev    duração         custo previsto| 
+0005#STR0005#ALL#Registo Dos Orçamentos
+0006#STR0006#ALL#Código de barras
+0007#STR0007#ALL#Administração
+0008#STR0008#ALL#*** cancelado pelo operador ***
+0009#STR0009#ALL#Orçamento : 
+0011#STR0011#ALL#Edt
+0013#STR0013#ALL#Produto
+0015#STR0015#ALL#Um
+0016#STR0016#ALL#Quantidade
+0017#STR0017#ALL#Unitário Médio
+0018#STR0018#ALL#Custo Previsto
+0022#STR0022#ALL#Antecessora
+0024#STR0024#ALL#Atraso (horas)
+0025#STR0025#ALL#Fim-no-início
+0026#STR0026#ALL#Início-no-início
+0027#STR0027#ALL#Fim-no-fim
+0028#STR0028#ALL#Início-no-fim
+0029#STR0029#ALL#Tp.  Código                                                           Un |     Quant Prev    Duração         Custo Previsto|
+0030#STR0030#ALL#TP.  Descrição                                                        UN |     QUANT PREV    DURAÇÃO         CUSTO PREVISTO|	
+0033#STR0033#ALL#Duração
+0037#STR0037#ALL#Artigo/recurso
+0038#STR0038#ALL#Edt

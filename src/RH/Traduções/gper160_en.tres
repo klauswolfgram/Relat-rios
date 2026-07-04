@@ -1,0 +1,40 @@
+0001#STR0001#ALL#Statement of Tasks                
+0002#STR0002#ALL#Will be printed according to parameters requested by the 
+0003#STR0003#ALL#User .  
+0004#STR0004#ALL#Registration
+0005#STR0005#ALL#Cost Center    
+0006#STR0006#ALL#Z.Form 
+0007#STR0007#ALL#Management   
+0008#STR0008#ALL#T A S K S    S T A T E M E N T    
+0009#STR0009#ALL# BRANCH  REGISTRATION EMPLOYEE NAME                 C. CENTER-            DESCRIPT.            CODE   - FUNCTION                    
+0010#STR0010#ALL#  ( DATE )  
+0011#STR0011#ALL#  ( TASK   )  
+0012#STR0012#ALL#|   DATE    |  TASK    |    DESCRIPTION          |         UNIT        |    QUANTITY      |       TOTAL            |
+0013#STR0013#ALL#| DA/MO/YR  |  CODE    |    OF TASK              |         VALUE       |                  |       AMOUNT           |
+0014#STR0014#ALL#TOTAL ON DAY  --> 
+0015#STR0015#ALL#TOTAL OF TASK   --> 
+0016#STR0016#ALL#|   DATE    |  TASK    |    DESCRIPT.            |        UNIT         |    QUANTITY      |        TOTAL           |
+0017#STR0017#ALL#| DA/MO/YR  |  CODE    |    OF TASK              |         VALUE       |                  |                        |
+0018#STR0018#ALL#TOTAL OF DAY  --> 
+0019#STR0019#ALL#TOTAL EMPLOYEE    --> 
+0020#STR0020#ALL#TOTAL OF TASK   --> 
+0021#STR0021#ALL#TOTAL EMPLOYEE    --> 
+0022#STR0022#ALL#                                                 |        UNIT         |    QUANTITY      |        TOTAL           |
+0023#STR0023#ALL#                                                 |        VALUE        |                  |                        |
+0024#STR0024#ALL#GRAND TOTAL -------> 
+0025#STR0025#ALL#                                                 |        UNIT         |    QUANTITY      |        TOTAL           |
+0026#STR0026#ALL#                                                 |        VALUE        |                  |                        |
+0027#STR0027#ALL#GRAND TOTAL -------> 
+0028#STR0028#ALL#BRANCH
+0029#STR0029#ALL#NAME OF EMPLOYEE   
+0030#STR0030#ALL#DESCRIPT.
+0031#STR0031#ALL#CODE   - 
+0032#STR0032#ALL#ROLE  
+0033#STR0033#ALL#DATE
+0034#STR0034#ALL#TASK  
+0035#STR0035#ALL#TASK DESCR. 
+0036#STR0036#ALL#UNIT VALUE    
+0037#STR0037#ALL#QUANTITY  
+0038#STR0038#ALL#TOTAL AMNT.
+0039#STR0039#ALL#TOTAL
+0040#STR0040#ALL#This report lists the task summary according to the configuration or parameters 

@@ -1,0 +1,16 @@
+0003#STR0003#ALL#Administração
+0004#STR0004#ALL#Este Programa Irá Imprimir Os Cheques Do Banco Seleccionado
+0005#STR0005#ALL#Na impressora padrão seleccionada.
+0006#STR0006#ALL#Impressoras disponíveis no módulo
+0008#STR0008#ALL#Cancelado Pelo Operador
+0009#STR0009#ALL#Dados Bancários
+0010#STR0010#ALL#Insira O Cheque
+0011#STR0011#ALL#Vire O Cheque Na Impressora E Clique No Botão Ok
+0012#STR0012#ALL#Para imprimir o histórico no verso.                      
+0015#STR0015#ALL#Março      
+0026#STR0026#ALL#Para imprimir o histórico no verso.
+0027#STR0027#ALL#O cheque foi impresso correctamente
+0028#STR0028#ALL#Para numeração automática, deve-se introduzir o número do primeiro cheque
+0030#STR0030#ALL#O cheque não será impresso, pois o concelho no registo de bancos está em branco!
+0031#STR0031#ALL#Conforme os parâmetros introduzidos, nenhum cheque foi encontrado para ser impresso
+0032#STR0032#ALL#O operador informou que o cheque não foi impresso. este cheque continuará na base de dados para impressão futura.

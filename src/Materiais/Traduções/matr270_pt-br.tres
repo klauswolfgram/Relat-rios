@@ -1,0 +1,26 @@
+0001#STR0001#ALL#Etiquetas para Inventario
+0002#STR0002#ALL#Este programa ira emitir etiquetas para contagem do estoque.
+0003#STR0003#ALL#Sera emitido em 3 colunas para cada produto.
+0004#STR0004#ALL# Por Codigo       
+0005#STR0005#ALL# Por Tipo         
+0006#STR0006#ALL# Por Descricao    
+0007#STR0007#ALL# Por Grupo        
+0008#STR0008#ALL#Zebrado
+0009#STR0009#ALL#Administracao
+0010#STR0010#ALL#CANCELADO PELO OPERADOR
+0011#STR0011#ALL#Codigo:
+0012#STR0012#ALL# Tp:
+0013#STR0013#ALL# Gr:
+0014#STR0014#ALL# Um:
+0015#STR0015#ALL#| Descri.: 
+0016#STR0016#ALL#| Armaz:
+0017#STR0017#ALL# Ender.:
+0018#STR0018#ALL#| Data da 1a. contagem : ____/____/____
+0019#STR0019#ALL#| Data da 2a. contagem : ____/____/____
+0020#STR0020#ALL#| Data da 3a. contagem : ____/____/____
+0021#STR0021#ALL#| Quantidade apurada:
+0022#STR0022#ALL#  Visto funcionario     Visto Conferente  |
+0023#STR0023#ALL#|          A-INVENTARIO No. 
+0024#STR0024#ALL#|          B-INVENTARIO No. 
+0025#STR0025#ALL#|          C-INVENTARIO No. 
+0026#STR0026#ALL# Por Endereco     

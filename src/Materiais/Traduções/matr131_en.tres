@@ -1,0 +1,90 @@
+0001#STR0001#ALL#Print list of the Purchase Orders
+0002#STR0002#ALL#Packing Slips / Invoices
+0003#STR0003#ALL#Issue Date
+0004#STR0004#ALL#Supplier
+0005#STR0005#ALL#Product
+0006#STR0006#ALL#Z.Form
+0007#STR0007#ALL#Management
+0008#STR0008#ALL#List of Purchase Orders/Remitos/Facturas
+0009#STR0009#ALL#List of Remitos/Purchase Orders/Facturas
+0010#STR0010#ALL#List of Facturas/Remitos/Purchase Orders
+0011#STR0011#ALL#Supplier  Product         
+0012#STR0012#ALL#Date       Product         
+0013#STR0013#ALL#Date       Supplier
+0014#STR0014#ALL#PURCHASE ORDER DATA                             
+0015#STR0015#ALL#Num.PO/Item     Unit Price         Quantity Deliv. Date 
+0016#STR0016#ALL#REMITO DATA                        
+0017#STR0017#ALL#Remito    /Item       Quantity Deliv.Date 
+0018#STR0018#ALL#FACTURA DATA                                  
+0019#STR0019#ALL#Factura   /Item         Unit Price         Quantity 
+0020#STR0020#ALL#Price Diff/Deliv.Dt?
+0021#STR0021#ALL#Selecting Records...
+0022#STR0022#ALL#CANCELLED BY THE OPERATOR
+0023#STR0023#ALL#Total Date -> 
+0024#STR0024#ALL#Total Supplier -> 
+0025#STR0025#ALL#Total Product -> 
+0026#STR0026#ALL#Date: 
+0027#STR0027#ALL#Supplier: 
+0028#STR0028#ALL#Product: 
+0029#STR0029#ALL#THERE IS NO FACTURA 
+0030#STR0030#ALL#THERE IS NO REMITO 
+0031#STR0031#ALL#THERE IS NO PURCHASE ORDER
+0032#STR0032#ALL#Based on          ?
+0033#STR0033#ALL#From Supplier     ?
+0034#STR0034#ALL#To   Supplier     ?
+0035#STR0035#ALL#From Product      ?
+0036#STR0036#ALL#To   Product      ?
+0037#STR0037#ALL#From Group        ?
+0038#STR0038#ALL#To   Group        ?
+0039#STR0039#ALL#From Issue Date   ?
+0040#STR0040#ALL#To   Issue Date   ?
+0041#STR0041#ALL#Purchase Order
+0042#STR0042#ALL#Remittance
+0043#STR0043#ALL#Invoice
+0044#STR0044#ALL#Grand Total -> 
+0045#STR0045#ALL#guias de despacho & factura
+0046#STR0046#ALL#remisiones & facturas
+0047#STR0047#ALL#delivery facturas & facturas
+0048#STR0048#ALL#List of Purchase Orders/Guias de Despacho/Facturas
+0049#STR0049#ALL#List of Guias de Despacho/Purchase Orders/Facturas
+0050#STR0050#ALL#List of Facturas/Guias de Despacho/Purchase Orders
+0051#STR0051#ALL#List of Purchase Orders/Remisiones/Facturas
+0052#STR0052#ALL#List of Remisiones/Purchase Orders/Facturas
+0053#STR0053#ALL#List of Facturas/Remisiones/Purchase Orders
+0054#STR0054#ALL#List of Purchase Orders/Facturas de Entrega/Facturas
+0055#STR0055#ALL#List of Facturas de Entrega/Purchase Orders/Facturas
+0056#STR0056#ALL#List of Facturas/Facturas de Entrega/Purchase Orders
+0057#STR0057#ALL#GUIA DE DESPACHO DATA              
+0058#STR0058#ALL#REMISION DATA                     
+0059#STR0059#ALL#FACTURA DE ENTREGA DATA           
+0060#STR0060#ALL#N.Guia Dsp/Item       Quantity Deliv. Dt. 
+0061#STR0061#ALL#N.Remision/Item       Quantity Deliv. Dt. 
+0062#STR0062#ALL#N.Fct.Entr/Item       Quantity Deliv. Dt. 
+0063#STR0063#ALL#THERE IS NO GUIA DE DESPACHO 
+0064#STR0064#ALL#THERE IS NO REMISION 
+0065#STR0065#ALL#THERE IS NO FACTURA DE ENTREGA 
+0066#STR0066#ALL#Shipping instruction
+0067#STR0067#ALL#Remision
+0068#STR0068#ALL#Delivery Invoice
+0069#STR0069#ALL#Yes
+0070#STR0070#ALL#No
+0071#STR0071#ALL# and Facturas
+0072#STR0072#ALL#List of Purchase Orders/
+0073#STR0073#ALL#s(es)/
+0074#STR0074#ALL#Invoices
+0075#STR0075#ALL#List of 
+0076#STR0076#ALL#/Purchase Orders
+0077#STR0077#ALL#Data of the 
+0078#STR0078#ALL#/Item               Quantity Deliv. Dt.  
+0079#STR0079#ALL#Remittance
+0080#STR0080#ALL#Rem.It
+0081#STR0081#ALL#Rem.Qty
+0082#STR0082#ALL#Delivery Dt.
+0083#STR0083#ALL#Price Div
+0084#STR0084#ALL#Delivery Div
+0085#STR0085#ALL#Purchase order (Based on purchase order)        
+0086#STR0086#ALL#Purchase order vs. Remito vs. Inflow Document (Based on Purchase Order)         
+0087#STR0087#ALL#Remito (Based on Remito)  
+0088#STR0088#ALL#Remito vs. Purchase Order vs. Inflow Document (Based on Remito)      
+0089#STR0089#ALL#Inflow document (Based on Inflow Document)            
+0090#STR0090#ALL#Inflow Document vs. Remito vs. Purchase Order (Based on Inflow Document)           

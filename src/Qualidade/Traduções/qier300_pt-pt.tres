@@ -1,0 +1,46 @@
+0002#STR0002#ALL#Emissão Dos índices Acumulados Por Mês
+0003#STR0003#ALL#Vai imprimir os índices acumulados por fornecedor, de acordo
+0004#STR0004#ALL#Com a configuração do utilizador.
+0005#STR0005#ALL#Código de barras
+0006#STR0006#ALL#Administração
+0007#STR0007#ALL#Entradas no período                
+0008#STR0008#ALL#Nº Entradas Alteradas No Período
+0009#STR0009#ALL#No. entradas inspeccionadas         
+0010#STR0010#ALL#No. entradas em skip-lote          
+0011#STR0011#ALL#Qtd. inspeccionada 
+0012#STR0012#ALL#Qtd. em ignorar lote
+0013#STR0013#ALL#Qtd. Rejeitada
+0014#STR0014#ALL#Resultados das entradas (Iqp)
+0015#STR0015#ALL#Factor de criticidade
+0016#STR0016#ALL#Módulo da qualidade (iqs)         
+0017#STR0017#ALL#índice de qualidade do item (iqi)  
+0018#STR0018#ALL#Pontualidade (ipo)                 
+0019#STR0019#ALL#Ppm                                
+0020#STR0020#ALL#A Seleccionar Os índices No Período...
+0021#STR0021#ALL#A Seleccionar Os Relatórios No Período...
+0022#STR0022#ALL#Total/Média
+0023#STR0023#ALL#Iqi:
+0024#STR0024#ALL#Mês/ano
+0025#STR0025#ALL#Do fornecedor       
+0026#STR0026#ALL#Indique o fornecedor inicial que será 
+0027#STR0027#ALL#Utilizado  para  filtro na emissão do 
+0028#STR0028#ALL#Relatório.                            
+0029#STR0029#ALL#Até fornecedor      
+0030#STR0030#ALL#Indicar o fornecedor final que será
+0031#STR0031#ALL#Utilizado para filtro na emissão do
+0032#STR0032#ALL#Relatório.
+0033#STR0033#ALL#Do ano
+0034#STR0034#ALL#Indique o ano que será utilizado no 
+0035#STR0035#ALL#Filtro na emissão do relatório.
+0036#STR0036#ALL#Do mês              
+0037#STR0037#ALL#Indique o mês que será utilizado no 
+0038#STR0038#ALL#Filtro na emissão do relatório.
+0039#STR0039#ALL#Idioma
+0040#STR0040#ALL#Português
+0041#STR0041#ALL#Inglês
+0043#STR0043#ALL#Indicar o idioma que será utilizado na
+0044#STR0044#ALL#Impressão do relatório.
+0045#STR0045#ALL#Imprimir gráfico
+0047#STR0047#ALL#Não
+0048#STR0048#ALL#Indicar se o gráfico irá ser impresso quando
+0049#STR0049#ALL#O Dispositivo Seleccionado Fôr A Impressora.

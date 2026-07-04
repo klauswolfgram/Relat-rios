@@ -1,0 +1,25 @@
+0001#STR0001#ALL#Listado
+0002#STR0002#ALL#Administração
+0003#STR0003#ALL#Endereço origem                estru. morada destino      documento  série   
+0004#STR0004#ALL#A Seleccionar Registos...
+0005#STR0005#ALL#Cancelado Pelo Operador
+0010#STR0010#ALL#Serviços/tarefas/actividades
+0011#STR0011#ALL#Emite relatório de
+0012#STR0012#ALL# 1ª. U.m.
+0013#STR0013#ALL# 2ª. U.m.
+0014#STR0014#ALL# Unificador         2ª. U.m.           1ª. U.m.
+0015#STR0015#ALL#Morada origem                estru. morada destino      carga      unitiz. 
+0018#STR0018#ALL#Sub-lote:
+0019#STR0019#ALL#Artigo:
+0020#STR0020#ALL#Um:
+0021#STR0021#ALL#Lote        sub-lote   cód.artigo      un artigo                        
+0022#STR0022#ALL#Movimentos por morada
+0023#STR0023#ALL#End.origem
+0024#STR0024#ALL#Estr.
+0025#STR0025#ALL#Cód.produto
+0027#STR0027#ALL#1ª Um
+0028#STR0028#ALL#2ª Um
+0029#STR0029#ALL#Unificador
+0030#STR0030#ALL#2ª Um
+0031#STR0031#ALL#1ª Um
+0032#STR0032#ALL#Morada

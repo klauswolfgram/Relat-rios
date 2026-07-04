@@ -1,0 +1,26 @@
+0001#STR0001#ALL#Código de barras
+0003#STR0003#ALL#Este programa imprimira o relatório para anjalise do contas a receber - aging
+0004#STR0004#ALL#Analise do contas a receber - aging
+0005#STR0005#ALL#Cliente                                  Cgc Cliente      Origem      Docto        C/f   Emissão    Vencto.  Debito       A Vencer   01 A 30 Dias   31 A 60 Dias   61 A 90 Dias  91 A 120 Dias  + De 120 Dias Ult Ocorrencia
+0007#STR0007#ALL#Origem      Docto        C/f   Emissão    Vencto.  Debito       A Vencer    %      01 A 30 Dias    %      31 A 60 Dias    %      61 A 90 Dias    %     91 A 120 Dias    %     + De 120 Dias   %              Total
+0010#STR0010#ALL#Factura
+0014#STR0014#ALL#Total geral 
+0016#STR0016#ALL#Total Geral Facturas
+0017#STR0017#ALL#Total Crial
+0018#STR0018#ALL#                                                                                                                                     |                            vencidos                                  |               
+0019#STR0019#ALL#Cliente                                  N. Contrib. Do Cliente      Origem      Docto        C/f   Emissão    Vencto.  Débito       A Vencer   01 A 30 Dias   31 A 60 Dias   61 A 90 Dias  91 A 120 Dias  + De 120 Dias Ult Ocorr Blq
+0020#STR0020#ALL#                                                                                   |                                                vencidos                                              |
+0021#STR0021#ALL#Analise do contas a receber - aging
+0022#STR0022#ALL#Este programa imprimira o relatório para anjalise do contas a receber - aging
+0024#STR0024#ALL#Total Do Cliente
+0025#STR0025#ALL#Total Crial
+0029#STR0029#ALL#Cgc
+0035#STR0035#ALL#C/f
+0038#STR0038#ALL#Déb.
+0046#STR0046#ALL#Blq.ali.
+0047#STR0047#ALL#Total Contratos
+0048#STR0048#ALL#Total Facturas
+0049#STR0049#ALL#Total Da Filial
+0053#STR0053#ALL#Factura
+0054#STR0054#ALL#Ctrc
+0057#STR0057#ALL#Para melhorar o desempenho do relatório, foi criado o índice 2 na tabela dvv. caso tenha problemas de lentidão no relatório, utilize a actualização updtms78 para criar o índice do 2 na tabela dvv, ou entre em contacto com o administrador de módulo.

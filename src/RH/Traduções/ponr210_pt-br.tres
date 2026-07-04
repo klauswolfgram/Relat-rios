@@ -1,0 +1,37 @@
+0001#STR0001#ALL#Matrícula
+0002#STR0002#ALL#Centro de Custo
+0003#STR0003#ALL#Nome
+0004#STR0004#ALL#Turno
+0005#STR0005#ALL#C.Custo + Nome
+0006#STR0006#ALL#Relatório de Absenteísmo
+0007#STR0007#ALL#Funcionários
+0008#STR0008#ALL#Desc. C. Custo
+0009#STR0009#ALL#Períodos
+0010#STR0010#ALL#Período de Apontamento
+0011#STR0011#ALL#Hrs. Prev.
+0012#STR0012#ALL#Hrs. Real.
+0013#STR0013#ALL#%Hrs. Real.
+0014#STR0014#ALL#Hrs. N. Trab.
+0015#STR0015#ALL#%Hrs. N. Trab.
+0016#STR0016#ALL#Hrs. Abonadas
+0017#STR0017#ALL#%Hrs. Abonadas
+0018#STR0018#ALL#Hrs. Afast.
+0019#STR0019#ALL#%Hrs. Afast.
+0020#STR0020#ALL#Lançamentos
+0021#STR0021#ALL#Cod
+0022#STR0022#ALL#Evento
+0023#STR0023#ALL#Horas
+0024#STR0024#ALL#%Horas
+0025#STR0025#ALL#Abono
+0026#STR0026#ALL#Motivo
+0027#STR0027#ALL#Hrs. Abonadas
+0028#STR0028#ALL#%Hrs. Abonadas
+0029#STR0029#ALL#Afastamento
+0030#STR0030#ALL#Descrição
+0031#STR0031#ALL#Hrs. Afast.
+0032#STR0032#ALL#%Hrs. Afast.
+0033#STR0033#ALL#Total para o Centro de Custo: 
+0034#STR0034#ALL#Total para a Filial: 
+0035#STR0035#ALL#Total por Evento
+0036#STR0036#ALL#Total por Motivo de Abono
+0037#STR0037#ALL#Total por Tipo de Afastamento

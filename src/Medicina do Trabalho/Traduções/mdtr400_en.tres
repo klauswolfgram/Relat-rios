@@ -1,0 +1,133 @@
+0001#STR0001#ALL#Medical form with medical record.
+0002#STR0002#ALL#Through parameters, user can select: Desired Period
+0003#STR0003#ALL#health programs, examination, medication, diagnosis, restrictions and questionnaire
+0004#STR0004#ALL#Z. Form
+0005#STR0005#ALL#Administration
+0006#STR0006#ALL#Medical Form and Record 
+0007#STR0007#ALL#CANCELED BY OPERATOR
+0008#STR0008#ALL#Medical Form...: 
+0009#STR0009#ALL#Deployment: 
+0010#STR0010#ALL#Registration...........: 
+0011#STR0011#ALL#Dep.: 
+0012#STR0012#ALL#Candidate......: 
+0013#STR0013#ALL#Birth Date: 
+0014#STR0014#ALL#Gender.....: 
+0015#STR0015#ALL#Male
+0016#STR0016#ALL#Female
+0017#STR0017#ALL#Blood Type: 
+0018#STR0018#ALL#Donor.....: 
+0019#STR0019#ALL#Yes
+0020#STR0020#ALL#No
+0021#STR0021#ALL#Lst.Donation: 
+0022#STR0022#ALL#Weight..............: 
+0023#STR0023#ALL#Height....: 
+0024#STR0024#ALL#Smoker......: 
+0025#STR0025#ALL#Cig/Day...: 
+0026#STR0026#ALL#Smoker for how long: 
+0027#STR0027#ALL#Years
+0028#STR0028#ALL#Prev.Pront.: 
+0029#STR0029#ALL#Antecedents.: 
+0030#STR0030#ALL#Health Programs                                       Start     End
+0031#STR0031#ALL#Accomplish. Exams                                       	  Accomp.    End    
+0032#STR0032#ALL#Restrictions                                           	     Perform.    End
+0033#STR0033#ALL#Diseases                                                   Exec.    End
+0034#STR0034#ALL#Diagnosis                                              Exec.    End
+0035#STR0035#ALL#Examination Executed                         Exec.    End    Cod. Result  Description            Ind. Res.        Nature
+0036#STR0036#ALL#Examination Executed                                         Exec.    End
+0037#STR0037#ALL#Regular
+0038#STR0038#ALL#Changed
+0039#STR0039#ALL#Admission
+0040#STR0040#ALL#Periodical
+0041#STR0041#ALL#Change of role
+0042#STR0042#ALL#Return to work
+0043#STR0043#ALL#Dismissal
+0044#STR0044#ALL#Diagnosis                     Exec.     
+End     Ind. Attend.         Diagnosis        Attend. Doctor      Main Complain
+0045#STR0045#ALL#Clinical attnd
+0046#STR0046#ALL#Occupat. disease  
+0047#STR0047#ALL#Typical accid. 
+0048#STR0048#ALL#En route accident
+0049#STR0049#ALL#Other attend.
+0050#STR0050#ALL#EvaluationNR7
+0051#STR0051#ALL#Positive
+0052#STR0052#ALL#Negative
+0053#STR0053#ALL#MEDICAL FORM AND RECORD
+0054#STR0054#ALL#Medical Rep:
+0055#STR0055#ALL#Implement. :
+0056#STR0056#ALL#Registr. :
+0057#STR0057#ALL#Candidate:
+0058#STR0058#ALL#Gen.: 
+0059#STR0059#ALL#Blood :
+0060#STR0060#ALL#Donor : 
+0061#STR0061#ALL#Lt.Donat.:
+0062#STR0062#ALL#Weig: 
+0063#STR0063#ALL#Height:
+0064#STR0064#ALL#Smoker :
+0065#STR0065#ALL#Cigare./Day:
+0066#STR0066#ALL#Smoker for how hong:
+0067#STR0067#ALL#Prv.Report    :
+0068#STR0068#ALL#Health Program    
+0069#STR0069#ALL#Begin.
+0070#STR0070#ALL#End    
+0071#STR0071#ALL#Accompl.Exams    
+0072#STR0072#ALL#Date
+0073#STR0073#ALL#Description of Result 
+0074#STR0074#ALL#Res. Ind.
+0075#STR0075#ALL#Class  
+0076#STR0076#ALL#Exam Date 
+0077#STR0077#ALL#Restric.  
+0078#STR0078#ALL#Disease
+0079#STR0079#ALL#Diagnoses   
+0080#STR0080#ALL#Srvd. Ind. 
+0081#STR0081#ALL#Doctor Diagnosis  
+0082#STR0082#ALL#Doctor Appoin
+0083#STR0083#ALL#Main Complaint  
+0084#STR0084#ALL#Appoint.Date 
+0085#STR0085#ALL#Address......:
+0086#STR0086#ALL#District..:
+0087#STR0087#ALL#Address Supplement:     
+0088#STR0088#ALL#Address: 
+0089#STR0089#ALL#District
+0090#STR0090#ALL#Customer/Unit: 
+0091#STR0091#ALL#From Customer ?
+0092#STR0092#ALL#Unit
+0093#STR0093#ALL#To Customer ?
+0094#STR0094#ALL#Customer code. Leave the field blank to consider since the first code.
+0095#STR0095#ALL#Customer unit code. Leave the field blank to consider since the first code.
+0096#STR0096#ALL#Customer code. Fill in the field with Z up to its limit to consider the last code.
+0097#STR0097#ALL#Customer unit code. Fill in the field with Z up to its limit to consider the last code.
+0098#STR0098#ALL#No data to print in the report.
+0099#STR0099#ALL#No. of Copies?
+0100#STR0100#ALL#Print Model?
+0101#STR0101#ALL#Diagnosis Details? 
+0102#STR0102#ALL#Exam Result?
+0103#STR0103#ALL#Medical Care Type?
+0104#STR0104#ALL#Diagnosis?
+0105#STR0105#ALL#Diseases?
+0106#STR0106#ALL#Restrictions?
+0107#STR0107#ALL#Exams Performed?
+0108#STR0108#ALL#Health Programs?
+0109#STR0109#ALL#To Period?
+0110#STR0110#ALL#From Period?
+0111#STR0111#ALL#To Form?
+0112#STR0112#ALL#From Record?
+0113#STR0113#ALL#Doctor Signature
+0114#STR0114#ALL#Print Vaccines?
+0115#STR0115#ALL#Yes
+0116#STR0116#ALL#No
+0117#STR0117#ALL#Enter 'Yes' if you want to print the vaccine(s). If they are not printed, it is because there are not registered records.
+0118#STR0118#ALL#Vaccines Applied                                     Date                  Dose
+0119#STR0119#ALL#Vaccines Applied
+0120#STR0120#ALL#Date
+0121#STR0121#ALL#Dose
+0122#STR0122#ALL#Nursing Care?
+0123#STR0123#ALL#Enter 'Yes' if you wish to print the nursing service(s) and its(their) medication(s).
+0124#STR0124#ALL#Med.  Diagnosis?
+0125#STR0125#ALL#Enter 'Yes' if you wish to print the medication(s) related to the medical diagnostic.
+0126#STR0126#ALL#Medication                                              Unit        Quantity
+0127#STR0127#ALL#Nursing Care Procedure     Reason                              Medication                    Med. Unit     Quantity
+0128#STR0128#ALL#Medication
+0129#STR0129#ALL#Measur. Un.
+0130#STR0130#ALL#Quantity
+0131#STR0131#ALL#Reason
+0132#STR0132#ALL#Nursing Care

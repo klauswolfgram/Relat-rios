@@ -1,0 +1,14 @@
+0001#STR0001#ALL#Generacion CSI/SCANIA
+0002#STR0002#ALL#A rayas
+0003#STR0003#ALL#Administrac.
+0004#STR0004#ALL#Genera informac. de clientes
+0005#STR0005#ALL#para enviar planilla CSI.
+0006#STR0006#ALL#Arch. generado con exito
+0007#STR0007#ALL#Vehiculos - ¿Fch. Inic?
+0008#STR0008#ALL#Vehiculos - ¿Fch Final?
+0009#STR0009#ALL#¿OFI F / Bal-Fc Inicial?
+0010#STR0010#ALL#¿OFI F / Bal-Fc Final?
+0011#STR0011#ALL#¿OFI Abierta - Fc Inicial?
+0012#STR0012#ALL#¿OFI Abierta - Fc Final  ?
+0013#STR0013#ALL#Nombe del Cliente                                    Direccion                                                  Telefono       CP      Municipio                 R/E/P V F A B
+0014#STR0014#ALL#Leyenda del encabez.:  V = Vehiculo /  F = OS CERRADAS    /  A = OS ABIERTAS   /  B = MOSTR.

@@ -1,0 +1,70 @@
+0001#STR0001#ALL#Taxa Mensal de Acidentes
+0002#STR0002#ALL#Ano ?
+0003#STR0003#ALL#Centro de Custo ?
+0004#STR0004#ALL#Tipo de Impressão ?
+0005#STR0005#ALL#Tela
+0006#STR0006#ALL#Impressora
+0007#STR0007#ALL#JANEIRO
+0008#STR0008#ALL#FEVEREIRO
+0009#STR0009#ALL#MARÇO
+0010#STR0010#ALL#ABRIL
+0011#STR0011#ALL#MAIO
+0012#STR0012#ALL#JUNHO
+0013#STR0013#ALL#JULHO
+0014#STR0014#ALL#AGOSTO
+0015#STR0015#ALL#SETEMBRO
+0016#STR0016#ALL#OUTUBRO
+0017#STR0017#ALL#NOVEMBRO
+0018#STR0018#ALL#DEZEMBRO
+0019#STR0019#ALL#TOTAL
+0020#STR0020#ALL#EMPRESA:
+0021#STR0021#ALL#ANO:
+0022#STR0022#ALL#NAVIO:
+0023#STR0023#ALL#HORAS HOMEM DE EXPOSIÇÃO AO RISCO
+0024#STR0024#ALL#NÚMERO DE ACIDENTES OCORRIDOS
+0025#STR0025#ALL#TAXA DE ACIDENTADOS
+0026#STR0026#ALL#MÊS
+0027#STR0027#ALL#QUANTIDADE
+0028#STR0028#ALL#SEM AFASTAMENTO
+0029#STR0029#ALL#COM AFASTAMENTO
+0030#STR0030#ALL#TFSA
+0031#STR0031#ALL#TFCA
+0032#STR0032#ALL#HORAS HOMEM DE EXPOSIÇÃO AO RISCO - Total de horas à disposição do empregador.
+0033#STR0033#ALL#NÚMERO DE ACIDENTES OCORRIDOS SEM AFASTAMENTO - Aquele em que o empregado retorna as suas atividades normais no mesmo
+0034#STR0034#ALL#dia do acidente ou no dia seguinte no início da próxima jornada de trabalho.
+0035#STR0035#ALL#NÚMERO DE ACIDENTES OCORRIDOS COM AFASTAMENTO - Aquele em que o empregado não retorna as suas atividades normais no
+0036#STR0036#ALL#mesmo dia do acidente ou no dia seguinte no início da próxima jornada de trabalho.
+0037#STR0037#ALL#TFSA - Número de acidentes sem afastamento x 1.000.000 / número de horas homem de exposição.
+0038#STR0038#ALL#TFCA - Número de acidentes com afastamento x 1.000.000 / número de horas homem de exposição.
+0039#STR0039#ALL#O ano informado deve conter 4 dígitos.
+0040#STR0040#ALL#Imprimir Conforme NR-30?
+0041#STR0041#ALL#Sim
+0042#STR0042#ALL#Não
+0043#STR0043#ALL#Define se o relatório será impresso conforme a NR-30.
+0044#STR0044#ALL#HORAS HOMEM DE EXPOSIÇÃO AO RISCO - Total de horas à disposição do empregador.
+0045#STR0045#ALL#CENTRO DE CUSTO:
+0046#STR0046#ALL#GRAVIDADE
+0047#STR0047#ALL#TG - Tempo Computado x 1.000.000 / número de horas homem de exposição.
+0048#STR0048#ALL#De Centro Custo ?
+0049#STR0049#ALL#Ate Centro Custo ?
+0050#STR0050#ALL#De Filial ?
+0051#STR0051#ALL#Ate Filial ?
+0052#STR0052#ALL#Listar acidentes ?
+0053#STR0053#ALL#Tipico
+0054#STR0054#ALL#Trajeto
+0055#STR0055#ALL#Trabalho
+0056#STR0056#ALL#Incidente
+0057#STR0057#ALL#Todas
+0058#STR0058#ALL#Define qual tipo de Acidente será impresso no relatório.
+0059#STR0059#ALL#Filtro Avançado Centro Custo ?
+0060#STR0060#ALL#Filtro Avançado de Centro de Custo
+0061#STR0061#ALL#Indica se deseja utilizar filtro avançado para Centro de Custo.
+0062#STR0062#ALL#Imp. Centro Custo s/ Acid. ?
+0063#STR0063#ALL#Indica se deseja imprimir Centro de Custo sem Acidentes.
+0064#STR0064#ALL#Imprimir Total por Filial ?
+0065#STR0065#ALL#Informe se deseja imprimir o totalizador por filial.
+0066#STR0066#ALL#FILIAL:
+0067#STR0067#ALL#Selecione o Código da Filial Final para filtrar os funcionários.O campo pode ser preenchido com a letra Z até o final para considerar o último código.
+0068#STR0068#ALL#Selecione o Código da Filial Inicial para filtrar os funcionários. O campo pode permanecer vazio para considerar desde o primeiro código.
+0069#STR0069#ALL#Define se o relatório será impresso no diretamente na Impressora ou será exibido em Tela.
+0070#STR0070#ALL#Não há dados para a impressão do relatório.

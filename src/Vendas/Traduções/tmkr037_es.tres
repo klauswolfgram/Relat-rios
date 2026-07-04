@@ -1,0 +1,18 @@
+0001#STR0001#ALL#Situacion de los Titulos en Cobranza
+0002#STR0002#ALL#Este programa emitira la lista de los titulos con cobranza efectuada por la atencion de Telecobranza.
+0003#STR0003#ALL#Solo se consideraran los titulos por cobrar efectuadas por la atencion de Telecobranza.
+0004#STR0004#ALL#La emision del informe se apoyara en los parametros informados.
+0005#STR0005#ALL#A Rayas
+0006#STR0006#ALL#Administracion
+0007#STR0007#ALL#ANULADO POR EL OPERADOR
+0008#STR0008#ALL#Cliente: 
+0009#STR0009#ALL#Contacto: 
+0010#STR0010#ALL#Atend. Fch.Atend  Retorno Atencion            Prf  Título  Par  Tip  Modalidad   Vencto    V.Real             Valor       Acrescimo      Decrescimo  Num. Banco      Valor de Interes% Int.  Estado
+0011#STR0011#ALL#a las 
+0012#STR0012#ALL#TOTAL PAGO: 
+0013#STR0013#ALL#TOTAL NEGOCIADO: 
+0014#STR0014#ALL#TOTAL NOTARIO: 
+0015#STR0015#ALL#No hay datos para imprimir en este informe segun los parametros informados
+0016#STR0016#ALL#No informado
+0017#STR0017#ALL#Datos Cliente
+0018#STR0018#ALL#Items de Titulos en Cobranza

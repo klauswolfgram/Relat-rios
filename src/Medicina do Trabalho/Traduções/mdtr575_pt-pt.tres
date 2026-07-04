@@ -1,0 +1,34 @@
+0001#STR0001#ALL#Convocação dos funcionários do programa de saúde
+0002#STR0002#ALL#último exame: 
+0006#STR0006#ALL#Hr. Início ?
+0007#STR0007#ALL#Dt. Início ?
+0008#STR0008#ALL#calendário ?
+0009#STR0009#ALL#Até Centro de Custo?
+0010#STR0010#ALL#De Centro de Custo?
+0012#STR0012#ALL#Relatório ?
+0015#STR0015#ALL#Médico ?
+0019#STR0019#ALL#Programa de Saúde ?
+0020#STR0020#ALL#Tipo Impressão ?
+0024#STR0024#ALL#Problema: O calendário seleccionado não foi encontrado.
+0025#STR0025#ALL#Solução: Verificar no registo de Calendários se o código
+0026#STR0026#ALL#existe na tabela. Caso não exista, registe-lo.
+0028#STR0028#ALL#CONVOCAMOS EMPREGADO
+0037#STR0037#ALL#CONVOCAMOS EMPREGADO DO PROGRAMA DE SAÚDE
+0040#STR0040#ALL#Morada:
+0041#STR0041#ALL#Nr.Contrib.
+0042#STR0042#ALL#Nr.Contrib
+0044#STR0044#ALL#EMPREGADO
+0050#STR0050#ALL#Doc.Identidade:
+0057#STR0057#ALL#Local
+0058#STR0058#ALL#Freguesia:
+0065#STR0065#ALL#CONVOCAMOS OS EMPREGADOS DO PROGRAMA DE SAÚDE - 
+0066#STR0066#ALL#CONVOCAMOS OS EMPREGADOS DO PROGRAMA DE SAÚDE 
+0067#STR0067#ALL#EMPREGADOS
+0078#STR0078#ALL#Problema: O calendário seleccionado não é válido.
+0079#STR0079#ALL#existe na tabela. Caso não exista, registe-lo. Caso exista, verificar se 
+0080#STR0080#ALL#os dados do calendário estão correctos
+0081#STR0081#ALL#O servidor de SMTP não foi configurado!
+0082#STR0082#ALL#A Conta do e-mail não foi configurada !!!
+0083#STR0083#ALL#A Palavra-passe do e-mail não foi configurada !!!
+0091#STR0091#ALL#E-mail enviado com sucesso.
+0092#STR0092#ALL#Não foi possível enviar o E-mail.

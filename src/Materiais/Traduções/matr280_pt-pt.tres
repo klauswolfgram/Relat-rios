@@ -1,0 +1,19 @@
+0001#STR0001#ALL#Listagem Para Inventário
+0002#STR0002#ALL#Este programa emite um relatório que facilita a digitação
+0003#STR0003#ALL#Das quantidades inventariadas.
+0005#STR0005#ALL# por código       
+0006#STR0006#ALL# por tipo         
+0007#STR0007#ALL# por descrição    
+0008#STR0008#ALL# por grupo        
+0009#STR0009#ALL#Código de barras
+0010#STR0010#ALL#Administração
+0011#STR0011#ALL#Artigo(s)
+0012#STR0012#ALL#Código          Tp Grupo Descrição                      Um Amz Descrição       Endereço        Lote       Sub    Número           ______1a. Contagem______       ______2a. Contagem______       ______3a. Contagem______
+0013#STR0013#ALL#                                                               Armazém                                    Lote   Série            Quantidade      Etiqueta       Quantidade      Etiqueta       Quantidade      Etiqueta
+0014#STR0014#ALL#Cancelado Pelo Operador
+0015#STR0015#ALL#Código          tp grup descrição                      um amz endereço         __1a. contagem__  __2a. contagem__  __3a. contagem__ 
+0016#STR0016#ALL#                                                                               Quantidade Etiqu. Quantidade Etiqu. Quantidade Etiqu.
+0017#STR0017#ALL# por endereço     
+0024#STR0024#ALL#Artigos
+0025#STR0025#ALL#Saldos Por Morada
+0026#STR0026#ALL#Código          tp grup descrição                      um amz                  __1a. Contagem__  __2a. Contagem__  __3a. Contagem__ 

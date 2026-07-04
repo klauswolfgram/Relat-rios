@@ -1,0 +1,114 @@
+0001#STR0001#ALL#This program will print the Inflow Bulletin.  
+0002#STR0002#ALL#Inflow Bulletin   
+0003#STR0003#ALL#Z.Form 
+0004#STR0004#ALL#Management   
+0005#STR0005#ALL#CANCELLED BY OPERATOR  
+0006#STR0006#ALL#------------------------------------------------------- INVOICE DATA ---------------------------------------------------------------
+0007#STR0007#ALL#Material Code  |Un|Descr.of the Goods  |Quantity   |Unit Value  |Total Value |IPI  |ICMS |
+0008#STR0009#ALL#Ledger Account
+0009#STR0010#ALL#Cost Center  
+0010#STR0011#ALL#TIO|CFOP |
+0011#STR0012#ALL#Unit Cost   
+0012#STR0013#ALL#Total Cost  
+0013#STR0014#ALL#W/o Purchase Order  
+0014#STR0015#ALL#------------------------------------------- PRODUCT(s) SENT(s) TO QUALITY CONTROL --------------------------------------------------
+0015#STR0016#ALL#Product              |        Originat.From          |        Destination       |      Transfer Date          |     QC Number       
+0016#STR0019#ALL#--------------------------------------------- DIVERGENCES FROM THE PURCHASE ORDER --------------------------------------------------
+0017#STR0020#ALL#Div|Number     |Prod. Description|Amount |Unit Price| Issue  | Delivery  |   S.C.  |Requestor    | Cost Center |Paym. Term   
+0018#STR0023#ALL#------------------------------------------------------- INVOICE TOTALS -------------------------------------------------------------
+0019#STR0024#ALL# ICMS TAX BASIS      |  ICMS VALUE         |ICMS SUBST.TAX BASIS |  ICMS SUBST. VALUE   |PRODUCTS TOTAL VALUE    |    DISCOUNTS     
+0020#STR0025#ALL#  FREIGHT VALUE         |      INSURANCE VALUE    | OTHER ACESS. EXPENSES  |   IPI TOTAL VALUE       |   INVOICE TOTAL VALUE       
+0021#STR0026#ALL#--------------------------------------------------- TRADE NOTES BREAKDOWN ----------------------------------------------------------
+0022#STR0027#ALL#Ser|Bill/Instal. | Due Dt   |Bill큦 Value     | Class             ||Ser|Bill/Instal. | Due Dt   |Bill큦 Value     | Class           
+0023#STR0030#ALL#----------------------------------------------- TAX RECORDS STATEMENT --------------------------------------------------------------
+0024#STR0031#ALL#|                                |   Operations with Tax Credit        |            Operations without Tax Credit                   |
+0025#STR0032#ALL#|    |CFOP |Rate| Accounting Val.| Tax Basis        |     Tax          |     Exempts      |      Other       |     Notes            |
+0026#STR0033#ALL#------------------------------------------------------------------- VISAS ----------------------------------------------------------
+0027#STR0034#ALL#| Fiscal Receipt                | Accounting/Costs               | Fiscal Department                | Management                   |
+0028#STR0035#ALL#User:    
+0029#STR0036#ALL# Base Date: 
+0030#STR0037#ALL#INFLOW BULLETIN         Goods received in:    
+0031#STR0038#ALL# - (Return)  
+0032#STR0039#ALL#Customer Data                                                        |Invoice       | Spec.| Invoice Type      | Generat. | Due Dt
+0033#STR0040#ALL#Others  
+0034#STR0041#ALL#| Total Value   
+0035#STR0042#ALL#-------------------------------------------------- TAX RECORDS BY ITENS ------------------------------------------------------------
+0036#STR0043#ALL#Supplier Data                                                        |Invoice       | Spec.| Invoice Type       | Generat. | Due Dt
+0037#STR0044#ALL#Goods Code     |UN|Goods Description   |Quantity   |Unit Value  | Total Value            | 
+0038#STR0045#ALL#  FREIGHT VALUE         |      INSURANCE VALUE    | OTHER ACESS. EXPENSES  |   INVOICE TOTAL VALUE   |                              
+0039#STR0046#ALL# TAX BASIS           |  TAX VALUE         |                                             |PRODUCTS TOTAL VALUE    |    DISCOUNTS     
+0040#STR0047#ALL#N. 
+0041#STR0048#ALL#Printing Date  
+0042#STR0049#ALL#Ref. Time 
+0043#STR0050#ALL#|     PRODUCT      |               DESCRIPTION                | TAX |  RATE  |     TAX BASIS VALUE     |      TAX VALUE             
+0044#STR0051#ALL#Regular            
+0045#STR0052#ALL#Return            
+0046#STR0053#ALL#Processing        
+0047#STR0054#ALL#ICMS Compl.       
+0048#STR0055#ALL#IPI Compl.        
+0049#STR0056#ALL#Price/Freig Compl. 
+0050#STR0057#ALL#Supplier`s Data                                                      |Invoice           | Speci| Invoice Type     | Emission | D.Date
+0051#STR0058#ALL#Div|Number     |Product Description |Quantity   |Unit Price   | Issue | Delivery |   P.O.     |Requester      | C.Center|Payment Terms 
+0052#STR0059#ALL#----------------------------------------------- OTHER TAXES STATEMENT --------------------------------------------------------------
+0053#STR0060#ALL#|                   | Calculation Base |     Tax          |                                                                          
+0054#STR0061#ALL#------------------------------------------------------- ACCOUNTING ENTITIES --------------------------------------------------------
+0055#STR0062#ALL#Item NF | Item | % Rat | Cost Center     | Ledger Account       | Ledger Item| Value Class  
+0056#STR0063#ALL#Code   Material|UN|Descr.Merchandise|Az|Quantity   |Unit value  |Total value |IPI  |ICMS |	
+0057#STR0064#ALL#Code   Material|UN|Descr.Merchandise|Wr| Quantity  |Unit value  | Total value            | 
+0058#STR0065#ALL#Goods Received on:    
+0059#STR0066#ALL#Supplyer Data      
+0060#STR0067#ALL#Tax Calculation Base
+0061#STR0068#ALL#Tax Value         
+0062#STR0069#ALL#Calculat. Base 
+0063#STR0070#ALL#Tax    
+0064#STR0071#ALL#Exempt 
+0065#STR0072#ALL#Others
+0066#STR0073#ALL#Note      
+0067#STR0074#ALL#Descript.
+0068#STR0075#ALL#Tax
+0069#STR0076#ALL#T.Rt
+0070#STR0077#ALL#Tax Value       
+0071#STR0078#ALL#Customer Data   
+0072#STR0079#ALL#Err
+0073#STR0080#ALL#With. 
+0074#STR0081#ALL#Comp
+0075#STR0082#ALL#NOTE 
+0076#STR0083#ALL#PIS CALCUL. 
+0077#STR0084#ALL#COFINS CALCUL. 
+0078#STR0085#ALL#------------------------------------------------------- INVOICE ITEMS --------------------------------------------------------------
+0079#STR0086#ALL#IPI
+0080#STR0087#ALL#ISS
+0081#STR0088#ALL#ICMS
+0082#STR0089#ALL#Newsletter header (Part 2)    
+0083#STR0090#ALL#Newsletter header (Part 1)    
+0084#STR0091#ALL#Company/Branch information
+0085#STR0092#ALL#Vendor (Part 1)     
+0086#STR0093#ALL#Vendor (Part 2)     
+0087#STR0094#ALL#Customer (Part 1)
+0088#STR0095#ALL#Customer (Part 2)
+0089#STR0096#ALL#Inflow document headers            
+0090#STR0097#ALL#Inflow document items         
+0091#STR0098#ALL#Accounting Entities
+0092#STR0099#ALL#Products sent to QC    
+0093#STR0100#ALL#Divergence with Purchase Order  
+0094#STR0101#ALL#Invoice totals (Part 1)        
+0095#STR0102#ALL#Invoice totals (Part 2)        
+0096#STR0103#ALL#Accts. Payable
+0097#STR0104#ALL#Tax records   
+0098#STR0105#ALL#Other taxes    
+0099#STR0106#ALL#Tax Records (Localized)    
+0100#STR0107#ALL#Customer Data                                            |Invoice                   | Spec.| Invoice Type      | Issue | Due Dt
+0101#STR0108#ALL#Supplier   Data                                              |Invoice                   | Speci| Invoice Type     | Emission | D.Date
+0102#STR0109#ALL#Ser|Bill/Instal.         | Due Dt   |Bill큦 Value     | Class     ||Ser|Bill/Instal.         | Due Dt   |Bill큦 Value     | Class   
+0103#STR0110#ALL#TIO
+0104#STR0111#ALL#ONE
+0105#STR0112#ALL#% IPI
+0106#STR0113#ALL#% ICMS
+0107#STR0114#ALL#CFO
+0108#STR0115#ALL#None
+0109#STR0116#ALL#Amt.
+0110#STR0117#ALL#Attention
+0111#STR0118#ALL#Functionality not available for report.
+0112#STR0119#ALL#Compl. Price
+0113#STR0120#ALL#Compl. Quantity
+0114#STR0121#ALL#Compl. Freight

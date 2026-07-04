@@ -1,0 +1,42 @@
+0001#STR0001#ALL#Este programa irá emitir a posição geral da cobrança no mês
+0002#STR0002#ALL#referente à data base do sistema.
+0003#STR0003#ALL#Código de Barras
+0004#STR0004#ALL#Administração
+0005#STR0005#ALL#Posição Geral do Contas a Receber
+0006#STR0006#ALL#                                             Valores
+0009#STR0009#ALL#A seleccionar registos ...
+0010#STR0010#ALL#FACTURAÇÃO (no mês)
+0011#STR0011#ALL#Pronto Pagamento
+0014#STR0014#ALL#Taxa Permanência
+0016#STR0016#ALL#Correcção
+0019#STR0019#ALL#TÍTULOS A VENCER
+0021#STR0021#ALL#Notas de Crédito
+0022#STR0022#ALL#Até 30 Dias
+0026#STR0026#ALL#TÍTULOS VENCIDOS
+0027#STR0027#ALL#DISTRIBUIÇÃO DA COBRANÇA
+0029#STR0029#ALL#Cobrança Simples
+0030#STR0030#ALL#Cobrança Descontada
+0031#STR0031#ALL#Cobrança Caucionada
+0032#STR0032#ALL#Cobrança Vinculada
+0033#STR0033#ALL#Cobrança Extra-Judicial
+0034#STR0034#ALL#Cobrança Cartório
+0037#STR0037#ALL#Duplicados
+0038#STR0038#ALL#Facturas
+0039#STR0039#ALL#Cheques Pré-Datados
+0040#STR0040#ALL#Caderneta de Pagamento
+0046#STR0046#ALL#ÍNDICES
+0050#STR0050#ALL#Eficiencia De Cobrança
+0051#STR0051#ALL#VALORES.BAIXADOS
+0052#STR0052#ALL#Até 15 Dias
+0056#STR0056#ALL#RECEBIMENTO NOTAS DE CRÉDITO
+0057#STR0057#ALL#PRAZOS MÉDIOS E QUOCIENTE DE ATRASO
+0058#STR0058#ALL#Descrição
+0059#STR0059#ALL#Dados do cliente
+0060#STR0060#ALL#Facturação (no mês)
+0061#STR0061#ALL#VALORES.BAIXADOS
+0062#STR0062#ALL#Títulos a vencer
+0063#STR0063#ALL#TÍTULOS VENCIDOS
+0064#STR0064#ALL#Recebimento e notas de crédito
+0065#STR0065#ALL#Distribuição da cobrança
+0066#STR0066#ALL#Por tipo de título
+0068#STR0068#ALL#Prazos médios e quociente de atraso

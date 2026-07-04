@@ -1,0 +1,26 @@
+0001#STR0001#ALL#Medicine presentation report, the user can list all 
+0002#STR0002#ALL#or only the ones with present quantity in stock lower than the 
+0003#STR0003#ALL#minimum quantity.  Option available using the parameters button.         
+0004#STR0004#ALL#Z.Form
+0005#STR0005#ALL#Administration
+0006#STR0006#ALL#Medication Expiration Date
+0007#STR0007#ALL#From Registration?
+0008#STR0008#ALL#To Registration?
+0009#STR0009#ALL#To Due Date:
+0010#STR0010#ALL#To use this routine, it is necessary to create the field:
+0011#STR0011#ALL#Table....: TM1
+0012#STR0012#ALL#Field....: TM1_DTVALI
+0013#STR0013#ALL#Type.....: D
+0014#STR0014#ALL#Size.....: 8
+0015#STR0015#ALL#Decimal..: 0
+0016#STR0016#ALL#Bill.....: Validity date
+0017#STR0017#ALL#Descript.: Validity date
+0018#STR0018#ALL#Picture..: 99/99/9999
+0019#STR0019#ALL#ATTENTION
+0020#STR0020#ALL#Code          Medication Name            Due Date     Amt. Current Unit Meas.
+0021#STR0021#ALL#CANCELLED BY THE OPERATOR
+0022#STR0022#ALL#Code  
+0023#STR0023#ALL#Medication Name
+0024#STR0024#ALL#Due Date
+0025#STR0025#ALL#Current Amt.
+0026#STR0026#ALL#Un.Meas.

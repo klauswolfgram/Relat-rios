@@ -1,0 +1,15 @@
+0001#STR0001#ALL#Análise De Carga X Pedido
+0002#STR0002#ALL#Código de barras
+0003#STR0003#ALL#Administração
+0004#STR0004#ALL# Carga   Pedido  Produto                Qtd  Lote        Cód  Blq  Serviço           Separação         Conferência     Apr.facturar
+0005#STR0005#ALL#Cancelado Pelo Operador
+0007#STR0007#ALL#Não
+0008#STR0008#ALL#Introduza o serviço/tarefa de separação !
+0009#STR0009#ALL#Análise de carga x pedido apresentando o estado do serviço
+0012#STR0012#ALL#Cód
+0014#STR0014#ALL#Serviço
+0015#STR0015#ALL#Separação
+0016#STR0016#ALL#Conferência
+0017#STR0017#ALL#Lib.facturar
+0018#STR0018#ALL#A seleccionar registos...
+0019#STR0019#ALL#Itens de pedidos de venda desbloqueados

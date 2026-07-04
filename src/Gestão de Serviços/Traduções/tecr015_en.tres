@@ -1,0 +1,38 @@
+0001#STR0001#ALL#Field TFF_TABXML not found in your data dictionary. Unable to extract data from this report.
+0002#STR0002#ALL#Warning
+0003#STR0003#ALL#Pricing statement
+0004#STR0004#ALL#Product
+0005#STR0005#ALL#Service Location
+0006#STR0006#ALL#Description
+0007#STR0007#ALL#Quantity
+0008#STR0008#ALL#Start Per
+0009#STR0009#ALL#End Per
+0010#STR0010#ALL#Price
+0011#STR0011#ALL#Field
+0012#STR0012#ALL#Value
+0013#STR0013#ALL#Formula
+0014#STR0014#ALL#Statement
+0015#STR0015#ALL#XML|*.xml File
+0016#STR0016#ALL#Save Spreadsheet
+0017#STR0017#ALL#Do you want to view file generated?
+0018#STR0018#ALL#Opening file generated
+0019#STR0019#ALL#Wait...
+0020#STR0020#ALL#The file could not be created in the entered directory
+0021#STR0021#ALL#No data to be displayed for parameters entered
+0022#STR0022#ALL#Service Location
+0023#STR0023#ALL#Location
+0024#STR0024#ALL#Confirm
+0025#STR0025#ALL#Cancel
+0026#STR0026#ALL#Branch
+0027#STR0027#ALL#Code
+0028#STR0028#ALL#Location
+0029#STR0029#ALL#Description
+0030#STR0030#ALL#St Dt
+0031#STR0031#ALL#End Dt
+0032#STR0032#ALL#HR Total
+0033#STR0033#ALL#DM Total
+0034#STR0034#ALL#CM Total
+0035#STR0035#ALL#Total LE
+0036#STR0036#ALL#Products
+0037#STR0037#ALL#Product
+0038#STR0038#ALL#Quantity

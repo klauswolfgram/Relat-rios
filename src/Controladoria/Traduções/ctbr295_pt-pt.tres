@@ -1,0 +1,32 @@
+0001#STR0001#ALL#Este Programa Irá Imprimir O Comparativo De Saldo Mês A Mês
+0002#STR0002#ALL#De acordo com os parâmetros solicitados pelo utilizador. 
+0003#STR0003#ALL#Comparativo De Saldo Mês A Mês
+0004#STR0004#ALL#|tipo de saldo      |  período 01  |  período 02  |  período 03  |  período 04  |  período 05  |  período 06  |  período 07  |  período 08  |  período 09  |  período 10  |  período 11  |  período 12  |
+0005#STR0005#ALL#Comparativo de saldo analítico de  
+0006#STR0006#ALL#Comparativo de saldo sintético de  
+0007#STR0007#ALL#Comparativo De Saldo
+0008#STR0008#ALL# de 
+0009#STR0009#ALL# até 
+0010#STR0010#ALL# em 
+0011#STR0011#ALL#Conta
+0012#STR0012#ALL#A versão de gestão ainda não está disponível para este relatório.
+0013#STR0013#ALL#A Criar Ficheiro Temporário...
+0014#STR0014#ALL#Código de barras
+0015#STR0015#ALL#Administração
+0016#STR0016#ALL#***** cancelado pelo operador *****
+0017#STR0017#ALL#Totais do período: 
+0018#STR0018#ALL#Totais do 
+0019#STR0019#ALL#O período solicitado ultrapassa o limite de 6 meses.
+0020#STR0020#ALL#Será impresso apenas os 6 meses a partir da data inicial.
+0021#STR0021#ALL#Caso não actualize os saldos compostos na
+0022#STR0022#ALL#Emissão dos relatórios(mv_sldcomp ='n'),
+0023#STR0023#ALL#Correr o procedimento  de actualização de saldos 
+0024#STR0024#ALL#Alterar a configuração de livros...
+0025#STR0025#ALL#Config. De Livros...
+0026#STR0026#ALL#Totais 
+0027#STR0027#ALL#Totais Do Período:
+0028#STR0028#ALL#Total Do Período
+0031#STR0031#ALL#As perguntas 'tipo de saldo' e 'saldo a comparar' não podem ficar em branco
+0035#STR0035#ALL#Seleccione entidades diferentes
+0037#STR0037#ALL# está igual a ordem 
+0038#STR0038#ALL#Seleccione ao menos uma Entidade para o relatório

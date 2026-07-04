@@ -1,0 +1,24 @@
+0001#STR0001#ALL#Informe de Plazos de Regiones
+0002#STR0002#ALL#Emision de Plazos de Regiones
+0003#STR0003#ALL#Imprimira los datos de Plazos y Regiones 
+0004#STR0004#ALL#de acuerdo con la configuracion del usuario
+0005#STR0005#ALL#Listado de Plazos de Regiones
+0006#STR0006#ALL#A rayas
+0007#STR0007#ALL#Administracion
+0008#STR0008#ALL# Reg.Ori. Desc.Origen     Reg.Des. Desc.Destino    Tp.Transporte       Emb.De  Emb.A Traf.De Traf.A  Dist.De Dist.A
+0009#STR0009#ALL#*** ANULADO POR EL OPERADOR ***
+0010#STR0010#ALL#Lista de Plazos de Regiones
+0011#STR0011#ALL#Emision de Plazos de Regiones
+0012#STR0012#ALL#Regiones
+0013#STR0013#ALL#Reg.Ori.
+0014#STR0014#ALL#Desc.Ori.
+0015#STR0015#ALL#Reg.Des.
+0016#STR0016#ALL#Desc.Dest
+0017#STR0017#ALL#Tp.Transp.
+0018#STR0018#ALL#Desc.Tp.Trans.
+0019#STR0019#ALL#De Emb.
+0020#STR0020#ALL#A Emb.
+0021#STR0021#ALL#De Traf.
+0022#STR0022#ALL#A Traf.
+0023#STR0023#ALL#De Dist.
+0024#STR0024#ALL#A Dist.

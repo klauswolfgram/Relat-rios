@@ -1,0 +1,9 @@
+0001#STR0001#ALL#Este programa tem como objetivo imprimir relatório 
+0002#STR0002#ALL#Dos títulos retentores e retidos pela lei n.10.925.
+0003#STR0003#ALL#Relação de títulos retentores e retidos pela lei n.10.925
+0004#STR0004#ALL#Título Retentor                                               Títulos Com Impostos Retidos No Título Retentor
+0005#STR0005#ALL#Prf Número    P   Tpo Cód.fo Lj Nome Fornecedor                    Prf Número    P Tpo Cód.fo Lj Nome Fornecedor                           Vlr Pis         Vlr Cofins           Vlr Csll
+0006#STR0006#ALL#A Seleccionar Registos...
+0007#STR0007#ALL#*** cancelado pelo operador ***
+0009#STR0009#ALL#Qtde Tít. Retidos
+0010#STR0010#ALL#Parâmetro mv_bx10925 inexistente, favor rodar o procedimento u_atump10925 para criá-lo.

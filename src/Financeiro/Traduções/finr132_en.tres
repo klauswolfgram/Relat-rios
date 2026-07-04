@@ -1,0 +1,49 @@
+0001#STR0001#ALL#This program will print Customers'/Suppliers' accounting 
+0002#STR0002#ALL#statements. You can issue all transactions 
+0003#STR0003#ALL# theirs, or only the original values. 
+0004#STR0004#ALL#Customers Debts Due or Overdue
+0005#STR0005#ALL#
+0006#STR0006#ALL#Management
+0007#STR0007#ALL#Customers debts due or overdue
+0008#STR0008#ALL#FROM CUSTOMERS
+0009#STR0009#ALL#From suppliers
+0010#STR0010#ALL#Selecting Records...
+0011#STR0011#ALL#Selecting Records...
+0012#STR0012#ALL#For issuing the bill
+0013#STR0013#ALL#Ce EMIS FACT
+0014#STR0014#ALL#***** Canceled by Operator *****
+0015#STR0015#ALL#TO TRANSPORT : 
+0016#STR0016#ALL#PREVIOUS BALANCE. : 
+0017#STR0017#ALL#T o t a l s  o f 
+0018#STR0018#ALL#C U S T O M E R S
+0019#STR0019#ALL#S u p p l i e r
+0020#STR0020#ALL#Grand Total of 
+0021#STR0021#ALL#Customers  --->
+0022#STR0022#ALL#Suppliers   --->
+0023#STR0023#ALL#End    B a l a n c e    of    R e p o r t : 
+0024#STR0024#ALL#Ref. to Bill Write-off
+0025#STR0025#ALL#Discount on Bill
+0026#STR0026#ALL#Fine/Interest on Bill
+0027#STR0027#ALL#Indexation on Bill
+0028#STR0028#ALL#FROM TRANSPORT : 
+0029#STR0029#ALL#BY INVOICE ISSUE
+0030#STR0030#ALL#Formula                                 PREV.      180         150         120          90          60          30        System        30          60          90         120         150         180          SPOS  
+0031#STR0031#ALL#Customer/Receipt                    To          Al          Al          Al          Al          Al          Al        System       Al          Al          Al          Al          Al          Al         To    
+0032#STR0032#ALL#Date    Serial Number   Type   Quotas
+0033#STR0033#ALL# From Customer: 
+0034#STR0034#ALL# To Customer: 
+0035#STR0035#ALL# From Issue: 
+0036#STR0036#ALL#  To: 
+0037#STR0037#ALL#Detailed
+0038#STR0038#ALL#Summary
+0039#STR0039#ALL#Current
+0040#STR0040#ALL#History
+0041#STR0041#ALL#Selecting Records...
+0042#STR0042#ALL#Preparing Transitory....
+0043#STR0043#ALL#Customer Total: 
+0044#STR0044#ALL#G r a n d   T o t a l 
+0045#STR0045#ALL#Customer : 
+0046#STR0046#ALL#. Address : 
+0047#STR0047#ALL#SALES REP.: 
+0048#STR0048#ALL#Phone: 
+0049#STR0049#ALL#Processing customer 

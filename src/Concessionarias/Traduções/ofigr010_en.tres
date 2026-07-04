@@ -1,0 +1,22 @@
+0001#STR0001#ALL#This program will print a list of 
+0002#STR0002#ALL#Complaints Reports
+0003#STR0003#ALL#Complaints Report
+0004#STR0004#ALL#Z.Form
+0005#STR0005#ALL#Management
+0006#STR0006#ALL#Please, wait. Selecting Record to Print
+0007#STR0007#ALL#*** CANCELLED BY THE OPERATOR ***
+0008#STR0008#ALL#[Gr] [Part Code----------------] [Description-------] [Qtty] [Value---] [Sp ]
+0009#STR0009#ALL#Total.:
+0010#STR0010#ALL#[Gr] [Service Code-------------] [Description-------] [Tmp-] [Value---] [Sp ]
+0011#STR0011#ALL#Total of SO.: 
+0012#STR0012#ALL#Total Parts: 
+0013#STR0013#ALL# Total Services: 
+0014#STR0014#ALL# Total: 
+0015#STR0015#ALL#Initial Date      ?
+0016#STR0016#ALL#Final Date        ?
+0017#STR0017#ALL#Report Type       ?
+0018#STR0018#ALL#All RR
+0019#STR0019#ALL#Only Deleted Ones
+0020#STR0020#ALL#Reason
+0021#STR0021#ALL#[Osv Nr-][Open. Dt.] [Ch.I] [Vehicle Chassis------] [Model----------------------] [Model Description-----------] [Owner Cod] [Owner------------------------]
+0022#STR0022#ALL#          [Year] [RR Nr] [Rec] [GarCd] [T] [R] [NF 1-----] [NF 2-----] [Ser] [GS] [Service Cod---] [Grp-] [Part Cod----------------] [Def] [SerGrp] [ConTp] [CamCod] [TesCam] [Km Pick] [KmGui-] 

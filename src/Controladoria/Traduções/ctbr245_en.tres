@@ -1,0 +1,46 @@
+0001#STR0001#ALL#This program will print an entity trial balance filtering it by       
+0002#STR0002#ALL#other entities according to the parameters requested by the user.      
+0003#STR0003#ALL#An entity trial balance filtered by another entity.  
+0004#STR0004#ALL#|  CODE                       |      D E S C R I P T .                          |    PRIOR BALANCE               |    DEBIT        |      CREDIT       |    PERIOD MOVEMENT            |         ACT.BALANCE               |
+0005#STR0005#ALL#|  CODE                 |   D  E  S  C  R  I  P  T  .    |   PRIOT BALANCE   |      DEBIT     |      CREDIT    |   ACT.BALANCE     |
+0006#STR0006#ALL#DET.TRIAL BLC.FROM      
+0007#STR0007#ALL#SUM.TRIAL BLC.FROM      
+0008#STR0008#ALL#TRIAL BAL.FR  
+0009#STR0009#ALL# FR 
+0010#STR0010#ALL# TO  
+0011#STR0011#ALL# IN 
+0012#STR0012#ALL# (BUDGET)
+0013#STR0013#ALL# (MANAGERIA)
+0014#STR0014#ALL#Creating Temporary File......
+0015#STR0015#ALL#Z-Form 
+0016#STR0016#ALL#Management   
+0017#STR0017#ALL#***** CANCELLED BY OPERATOR   *****
+0018#STR0018#ALL#P E R I O D  T O T A L:          
+0019#STR0019#ALL#G R O U P   T O T A L       (
+0020#STR0020#ALL#T O T A L   O F   
+0021#STR0021#ALL#DIV.
+0022#STR0022#ALL#If compound balances are not updated in 
+0023#STR0023#ALL#the report issuance   (MV_SLDCOMP ='N'),
+0024#STR0024#ALL#run the balances update routine.        
+0025#STR0025#ALL#WARNING
+0026#STR0026#ALL#|  CODE                       |      D E S C R I P T .                          |    PRIOR BALANCE               |    DEBIT        |      CREDIT       |    PERIOD MOVEMENT            |         ACT.BALANCE               |
+0026#STR0026#MEX#|  CODE                     |      D E S C R I P T I O N                          |    PREVIOUS BALANCE             |     DEBIT       |      CREDIT      |    MOVEMENT IN THE PERIOD       |         CURRENT BALANCE               |
+0027#STR0027#ALL#|  CODE                 |   D  E  S  C  R  I  P  T  .    |   PRIOR BALANCE   |      DEBIT     |      CREDIT    |   ACT.BALANCE     |
+0027#STR0027#MEX#|  CODE                     |      D E S C R I P T I O N                          |    PREVIOUS BALANCE             |     DEBIT       |      CREDIT      |          CURRENT BALANCE               |
+0028#STR0028#ALL#Please, fill out parameters Groups Incomes/Expenses and Date Prev.Blnc.Incomes/Expenses or  
+0029#STR0029#ALL#leave the parameter Ignor PrvBlncInc/Exp = No  
+0030#STR0030#ALL#P E R I O D
+0031#STR0031#ALL#CODE
+0032#STR0032#ALL#REDUCED CODE
+0033#STR0033#ALL#D E S C R I P T I O N
+0034#STR0034#ALL#PREVIOUS BALANCE      .
+0035#STR0035#ALL#DEBIT              .
+0035#STR0035#MEX#DEBIT              .
+0036#STR0036#ALL#CREDIT             .
+0036#STR0036#MEX#CREDIT             .
+0037#STR0037#ALL#MOVEMENT PERIOD   .
+0038#STR0038#ALL#CURRENT BALANCE         .
+0039#STR0039#ALL#TYPEOCC
+0040#STR0040#ALL#TYPEITEM	
+0041#STR0041#ALL#TYPECLVL
+0042#STR0042#ALL#LEVEL1

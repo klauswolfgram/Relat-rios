@@ -1,0 +1,37 @@
+0001#STR0001#ALL#Cost Center    
+0002#STR0002#ALL#Registrat
+0003#STR0003#ALL#Name
+0004#STR0004#ALL#Issue of Worked Hours Statement.
+0005#STR0005#ALL#It will be printed according to the parameters selected by 
+0006#STR0006#ALL#the User
+0007#STR0007#ALL#Z.Form 
+0008#STR0008#ALL#Management   
+0009#STR0009#ALL#WORKED HOURS REPORT
+0010#STR0010#ALL#FI REG.   N A M E                        * QUANTY *   REGULAR   * OVERTIME   * OVERTIME   * OVERTIME   *  T O T A L  * PERC.    *   HOURS   *  DOCTOR   *    PERC.   *    HOURS   * PERC.    * DAY  *  H O U R S *
+0011#STR0011#ALL#                                         * EMPLOYEE   HOURS     *  COLUMN 1  *  COLUMN 2  *  COLUMN 3  *  OVERTIME   * OVERTIME *  REST     *  ALLOWANCE*    PREMIUM *    ABSENT  * ABSENCES *      *  P A Y E D *
+0012#STR0012#ALL#LIST OF WORKED HOURS STATEMENT 
+0013#STR0013#ALL#DETAILED
+0014#STR0014#ALL#SUMMARIZED
+0015#STR0015#ALL#Qt.Empl.
+0016#STR0016#ALL#Norm Hr.
+0017#STR0017#ALL#Overt.1
+0018#STR0018#ALL#Overt.2
+0019#STR0019#ALL#Overtime3
+0020#STR0020#ALL#Total
+0021#STR0021#ALL#Perc.O.T.
+0022#STR0022#ALL#Hr Rep.
+0023#STR0023#ALL#Med.Bo.
+0024#STR0024#ALL#Perc.Bo.
+0025#STR0025#ALL#Abse Tm 
+0026#STR0026#ALL#Perc.Absen
+0027#STR0027#ALL#Days
+0028#STR0028#ALL#Paid Hrs
+0029#STR0029#ALL#Brch
+0030#STR0030#ALL#Regt.
+0031#STR0031#ALL#Qty.
+0032#STR0032#ALL#Cost Center Total: 
+0033#STR0033#ALL#Branch total: 
+0034#STR0034#ALL#Attention
+0035#STR0035#ALL#Summarized Rep. not available for Worksheet generation.
+0036#STR0036#ALL#Period not calculated.
+0037#STR0037#ALL#This report is available in custom mode only.

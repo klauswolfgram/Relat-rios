@@ -1,0 +1,60 @@
+0001#STR0001#ALL#The aim of this report is to print the prospects of    
+0002#STR0002#ALL#this file.              
+0003#STR0003#ALL#Issue will occurr based on the report parameters       
+0004#STR0004#ALL#Z. form
+0005#STR0005#ALL#Management   
+0006#STR0006#ALL#CANCELLED BY OPERATOR  
+0007#STR0007#ALL#Branch code     
+0008#STR0008#ALL#Prospect 
+0009#STR0009#ALL#Unit code      
+0010#STR0010#ALL#Prospect name    
+0011#STR0011#ALL#Short name    
+0012#STR0012#ALL#Type 
+0013#STR0013#ALL#Address  
+0014#STR0014#ALL#City   
+0015#STR0015#ALL#District 
+0016#STR0016#ALL#Zip 
+0017#STR0017#ALL#State  
+0018#STR0018#ALL#Country code 
+0019#STR0019#ALL#Area code 
+0020#STR0020#ALL#Telephone 
+0021#STR0021#ALL#FAX 
+0022#STR0022#ALL#E-mail 
+0023#STR0023#ALL#Website 
+0024#STR0024#ALL#Date of last call  
+0025#STR0025#ALL#C.G.C. 
+0026#STR0026#ALL#CONTACT                                     DDD    TEL.       CELL PH    FAX        BUS. TEL. 1  BUS. TEL. 2  STATE   E-MAIL
+0027#STR0027#ALL#Source
+0028#STR0028#ALL#Status
+0029#STR0029#ALL#TOTALIZERS:   
+0030#STR0030#ALL#PROSPECT TOTAL    
+0031#STR0031#ALL#PROSPECTS WITH RELATIONSHIP TOTAL    
+0032#STR0032#ALL#1=Mailing
+0033#STR0033#ALL#2=Campaign
+0034#STR0034#ALL#3=Web
+0035#STR0035#ALL#4=Referral 
+0036#STR0036#ALL#5=Event 
+0037#STR0037#ALL#1=Classified  
+0038#STR0038#ALL#2=Development    
+0039#STR0039#ALL#3=Manager
+0040#STR0040#ALL#4=Standby 
+0041#STR0041#ALL#5=Cancelled
+0042#STR0042#ALL#SOURCE
+0043#STR0043#ALL#STATUS
+0044#STR0044#ALL#No information available to print this report. Please, check the parameters entered.
+0045#STR0045#ALL#List of Prospects
+0046#STR0046#ALL#FrmProspect
+0047#STR0047#ALL#Prospect initial code to         
+0048#STR0048#ALL#select data.      
+0049#STR0049#ALL#To prospect   
+0050#STR0050#ALL#Prospect final code for        	
+0051#STR0051#ALL#Display contac
+0052#STR0052#ALL#Yes
+0053#STR0053#ALL#No 
+0054#STR0054#ALL#Show contacts related to the      
+0055#STR0055#ALL#prospect.
+0056#STR0056#ALL#From unit
+0057#STR0057#ALL#Initial unit code for        
+0058#STR0058#ALL#To Unit 
+0059#STR0059#ALL#Unit final code for        
+0060#STR0060#ALL#6=Custom.

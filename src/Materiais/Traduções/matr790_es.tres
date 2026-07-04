@@ -1,0 +1,21 @@
+0001#STR0001#ALL#Lista de mercaderias para despacho (Expedicion)
+0002#STR0002#ALL#Emision de lista de mercaderias de despacho para la expedicion, deposito
+0003#STR0003#ALL#a traves del intervalo de Pedidos informado en la opcion Parametros.
+0004#STR0004#ALL#A Rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#LISTA DE MERCADERIAS PARA DESPACHO
+0007#STR0007#ALL#It Codigo          Desc. Material  UM Cantidad  Valor Unitario IPI ICM/ISS Valor Merc. Entrega   Dep Direccion     Fact./Serie
+0008#STR0008#ALL#ANULADO POR EL OPERADOR
+0009#STR0009#ALL#PEDIDO : 
+0010#STR0010#ALL#EMISION : 
+0011#STR0011#ALL#CLIENTE : 
+0012#STR0012#ALL#TRANSPORTADORA : 
+0013#STR0013#ALL#VIA : 
+0014#STR0014#ALL# T O T A L E S
+0015#STR0015#ALL#DIRECCION: 
+0016#STR0016#ALL#Lista de Embarque (Expedicion)
+0017#STR0017#ALL#Emision de Lista de Embarque a la Expedicion, Almacen
+0018#STR0018#ALL#a traves del intervalo de pedidos informado en la opcion Parametros.
+0019#STR0019#ALL# T O T A L E S 
+0020#STR0020#ALL#Encabez.
+0021#STR0021#ALL#Items

@@ -1,0 +1,37 @@
+0001#STR0001#ALL#Faturamento por Cliente
+0002#STR0002#ALL#Este relatorio emite a relacao de faturamento. Podera ser
+0003#STR0003#ALL#emitido por ordem de Cliente ou por Valor (Ranking).     
+0004#STR0004#ALL#Se no TES estiver gera duplicata (N), nao sera computado.
+0005#STR0005#ALL#Zebrado
+0006#STR0006#ALL#Administracao
+0007#STR0007#ALL#FATURAMENTO POR CLIENTE  (CODIGO) - 
+0008#STR0008#ALL#FATURAMENTO POR CLIENTE  (RANKING) - 
+0009#STR0009#ALL#FATURAMENTO POR CLIENTE  (ESTADO) - 
+0010#STR0010#ALL#CODIGO/LOJA               RAZAO SOCIAL                                   VALOR             VALOR DA                VALOR RANKING
+0011#STR0011#ALL#                                                                         S/IMPOSTOS        MERCADORIA              TOTAL        
+0012#STR0012#ALL#Selecionando Registros...
+0013#STR0013#ALL#CANCELADO PELO OPERADOR
+0014#STR0014#ALL#Total do Estado de 
+0015#STR0015#ALL#Estado: 
+0016#STR0016#ALL#T O T A L --->
+0017#STR0017#ALL#Faturamento por Cliente
+0018#STR0018#ALL#Este relatorio emite a relacao de faturamento. Podera ser
+0019#STR0019#ALL#emitido por ordem de Cliente ou por Valor (Ranking).     
+0020#STR0020#ALL#Se no TES estiver gera duplicata (N), nao sera computado.
+0021#STR0021#ALL#Vl. S/ Imposto
+0022#STR0022#ALL#Vl.Mercador.
+0023#STR0023#ALL#Valor Total
+0024#STR0024#ALL#Ranking
+0025#STR0025#ALL#T O T A L --->
+0026#STR0026#ALL#(Codigo)
+0027#STR0027#ALL#(Ranking)
+0028#STR0028#ALL#(Estado)
+0029#STR0029#ALL#Estado: 
+0030#STR0030#ALL#Total do Estado de 
+0031#STR0031#ALL#Clientes
+0032#STR0032#ALL#Secao Totalizadora do Faturamento
+0033#STR0033#ALL#Secao Totalizadora das Devolucoes
+0034#STR0034#ALL#Secao Totalizadora Fat - Dev
+0035#STR0035#ALL#Total do Cliente
+0036#STR0036#ALL#Total por Ranking
+0037#STR0037#ALL#Total do Estado

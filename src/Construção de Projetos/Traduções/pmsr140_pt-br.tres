@@ -1,0 +1,44 @@
+0001#STR0001#ALL#Este relatorio ira imprimir as curvas ABC dos custos previstos para a execucao do projeto de acordo com parametros solicitados.
+0002#STR0002#ALL#Curvas ABC do Projeto
+0003#STR0003#ALL#PROJETO+PRODUTO+DESPESA
+0004#STR0004#ALL#TAREFA+PRODUTO+DESPESA
+0005#STR0005#ALL#Zebrado
+0006#STR0006#ALL#Administracao
+0007#STR0007#ALL#Tp.      Codigo       Descricao                                 UM       Quantidade               Valor   %Proj.   %Acum.
+0008#STR0008#ALL#Tarefa       Descricao          Tp. Codigo          Descricao          UM     Quantidade             Valor  %Proj.  %Acum.
+0009#STR0009#ALL#Projeto :
+0010#STR0010#ALL#Versao  :
+0011#STR0011#ALL#Total.....
+0012#STR0012#ALL#TAREFA
+0013#STR0013#ALL#COMPOSICAO
+0014#STR0014#ALL#SUB-COMPOSICAO
+0015#STR0015#ALL#Tarefa       Descricao                                               UM      Quantidade              Custo  %Proj.  %Acum.
+0016#STR0016#ALL#Curva ABC das Tarefas dos Orcamentos
+0017#STR0017#ALL#Composicao   Descricao                                               UM      Quantidade              Custo  %Proj.  %Acum.
+0018#STR0018#ALL#Curva ABC das Composicoes dos Orcamentos
+0019#STR0019#ALL#Sub-Compos.  Descricao                                               UM                              Custo  %Proj.  %Acum. 
+0020#STR0020#ALL#Curva ABC das Sub-Composicoes dos Orcamentos
+0021#STR0021#ALL#OUTROS
+0022#STR0022#ALL#Curva ABC dos Grupos de Composicoes dos Orcamentos
+0023#STR0023#ALL#Grupo Compos.  Descricao                                                     Quantidade              Custo  %Proj.  %Acum.
+0024#STR0024#ALL#GRUPO DE COMPOSICAO
+0025#STR0025#ALL#Codigo da tarefa                  Tp. Codigo           Descricao            UM      Quantidade           Valor      %Proj.  %Acum.
+0026#STR0026#ALL#Descricao da tarefa               Tp. Codigo           Descricao            UM      Quantidade           Valor      %Proj.  %Acum.
+0027#STR0027#ALL#Codigo da Tarefa                                                              UM    Quantidade           Custo      %Proj.  %Acum.
+0028#STR0028#ALL#Descricao da Tarefa                                                           UM    Quantidade           Custo      %Proj.  %Acum.
+0029#STR0029#ALL#Projeto
+0030#STR0030#ALL#Ordem: 
+0031#STR0031#ALL#Projeto + Produto
+0032#STR0032#ALL#Tarefa + Produto
+0033#STR0033#ALL#Tarefa
+0034#STR0034#ALL#Composição
+0035#STR0035#ALL#Sub-composição
+0036#STR0036#ALL#Grupo de Composição
+0037#STR0037#ALL#Proj.
+0038#STR0038#ALL#Acum.
+0039#STR0039#ALL#Valor
+0040#STR0040#ALL#Sub-Compos.
+0041#STR0041#ALL#*** CANCELADO PELO USUARIO ***
+0042#STR0042#ALL#Tp.      Codigo       Descricao                                 UM       Quantidade               Valor   %Proj.   %Acum.
+0043#STR0043#ALL#Ferr.
+0044#STR0044#ALL#FERRAMENTA

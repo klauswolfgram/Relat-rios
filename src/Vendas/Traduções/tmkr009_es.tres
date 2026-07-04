@@ -1,0 +1,24 @@
+0001#STR0001#ALL#Este programa emitira una lista de los operadores del sistema call center
+0002#STR0002#ALL#con acceso a las rutinas de Telemarketing, Televentas y Telecobranza
+0003#STR0003#ALL#La emision se basara en los parametros del informe
+0004#STR0004#ALL#A rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#ANULADO POR EL OPERADOR
+0007#STR0007#ALL#Codigo del operador
+0008#STR0008#ALL#Nombre del operador
+0009#STR0009#ALL#Nombre reducido
+0010#STR0010#ALL#Direccion
+0011#STR0011#ALL#Nombre del barrio
+0012#STR0012#ALL#Nombre del municipio
+0013#STR0013#ALL#Provincia
+0014#STR0014#ALL#CP
+0015#STR0015#ALL#Tipo de Atencion
+0016#STR0016#ALL#Puesto de operacion
+0017#STR0017#ALL#Vendedor / Codigo
+0018#STR0018#ALL#Region del país
+0019#STR0019#ALL#Habilidad
+0020#STR0020#ALL#Tareas pendientes
+0021#STR0021#ALL#No hay informaciones para imprimir este informe
+0022#STR0022#ALL#Archivo de operadores
+0023#STR0023#ALL#Operadores
+0024#STR0024#ALL#Datos del operad.

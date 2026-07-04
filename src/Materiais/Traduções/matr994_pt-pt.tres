@@ -1,0 +1,62 @@
+0001#STR0001#ALL#Tabela De Lucros/fundo Cooperativo
+0002#STR0002#ALL#Impressão Da Tabela De Lucros/fundo Cooperativo
+0003#STR0003#ALL#Este programa vai imprimir os impostos nacionais, 
+0004#STR0004#ALL#Valores de lucros/fundo cooperativo, quadro nº 4
+0006#STR0006#ALL#Administração
+0007#STR0007#ALL#** cancelado pelo operador **
+0008#STR0008#ALL#S./escala(1)
+0009#STR0009#ALL#                     e s c a l a     a p l i c a v e l (1)                      
+0010#STR0010#ALL#              importes            |                 retenção                    
+0011#STR0011#ALL#   de mais de $  |        a $     |       $        | mais o % |   excedente  $  
+0013#STR0013#ALL# (1) escala aplicavel uma vez deducido o minimo não sujeito a retenção        
+0014#STR0014#ALL# (2) embora a rg 2892 no estabeleca especificamente nenhum minimo não sujeito 
+0015#STR0015#ALL#     a retenção para as verbas incluidas nesta coluna, entendemos que corres- 
+0016#STR0016#ALL#     ponde a aplicação do minimo estabelecido para locação de serviço  s        
+0018#STR0018#ALL# (3) embora a rg 2892 não estabeleca especificamente nenhum minimo não sujeito
+0019#STR0019#ALL#     a retenção para as verbas incluidas, entendemos que quando o preco seja  
+0020#STR0020#ALL#     abonado en forma de gratificações será aplicado o minimo correspondente  
+0022#STR0022#ALL#Impostos Nacionais                                    Lucros/fundo çãoperativo
+0023#STR0023#ALL#                                   l u c r o s                                  
+0024#STR0024#ALL#                               q u a d r o no. 04                               
+0025#STR0025#ALL#              retenções gerais. 
+0026#STR0026#ALL#  E Ss.
+0027#STR0027#ALL#                                    |        taxas        |    importe não  
+0028#STR0028#ALL#              concepto              |-------------------------|      sujeito    
+0029#STR0029#ALL#                                    | inscrito % | não insc.% |    a retenção   
+0032#STR0032#ALL#Da tabela      ?
+0033#STR0033#ALL#A  tabela      ?
+0035#STR0035#ALL#Janeiro  
+0036#STR0036#ALL#Fevereiro
+0037#STR0037#ALL#Marco    
+0038#STR0038#ALL#Abril    
+0039#STR0039#ALL#Maio     
+0040#STR0040#ALL#Junho    
+0041#STR0041#ALL#Julho    
+0042#STR0042#ALL#Agosto   
+0043#STR0043#ALL#Setembro 
+0044#STR0044#ALL#Outubro  
+0045#STR0045#ALL#Novembro 
+0046#STR0046#ALL#Dezembro 
+0047#STR0047#ALL#Tabela De Lucros/fundo Cooperativo
+0048#STR0048#ALL#Este programa tem como objectivo imprimir os impostos nacionais, valores de lucros/fundo cooperativo, quadro núm. 4.
+0049#STR0049#ALL#Importância Não Sujeita A Retencção
+0050#STR0050#ALL#S./escala(1)
+0051#STR0051#ALL#Impostos Nacionais                                                                                  Lucros/fundo Cooperativo
+0053#STR0053#ALL#                                                   q u a d r o   núm. 04
+0054#STR0054#ALL#                                            retenções gerais. 
+0055#STR0055#ALL#  E Ss.
+0056#STR0056#ALL#De mais de €
+0057#STR0057#ALL#Mais a %
+0058#STR0058#ALL#Excedente  €
+0059#STR0059#ALL#                                           e s c a l a     a p l i c á v e l (1)
+0060#STR0060#ALL#Em diante
+0061#STR0061#ALL#                Quantias            |                           Retenção
+0062#STR0062#ALL# (1) escala aplicavel uma vez deducido o minimo não sujeito a retenção        
+0063#STR0063#ALL# (2) embora a rg 2892 no estabeleca especificamente nenhum minimo não sujeito 
+0064#STR0064#ALL#     a retenção para as verbas incluidas nesta coluna, entendemos que corres- 
+0065#STR0065#ALL#     ponde a aplicação do minimo estabelecido para locação de serviço  s        
+0067#STR0067#ALL# (3) embora a rg 2892 não estabeleca especificamente nenhum minimo não sujeito
+0068#STR0068#ALL#     a retenção para as verbas incluidas, entendemos que quando o preco seja  
+0069#STR0069#ALL#     abonado en forma de gratificações será aplicado o minimo correspondente  
+0071#STR0071#ALL#Taxas
+0073#STR0073#ALL#Elemento

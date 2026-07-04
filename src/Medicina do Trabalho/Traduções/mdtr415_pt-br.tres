@@ -1,0 +1,60 @@
+0001#STR0001#ALL#Relatório de apresentação dos funcionários por tipo de doença, 
+0002#STR0002#ALL#conforme definição feita pelo médico através do diagnóstico.
+0003#STR0003#ALL#As doenças são classificadas pela tabela CID.
+0004#STR0004#ALL#CID x Funcionários
+0005#STR0005#ALL#Masculino
+0006#STR0006#ALL#Feminino
+0007#STR0007#ALL#Resumo do Relatório
+0008#STR0008#ALL#Total de Diagnósticos Pesquisados: 
+0009#STR0009#ALL#Total
+0010#STR0010#ALL#C.I.D.
+0011#STR0011#ALL#Descrição
+0012#STR0012#ALL#Matrícula
+0013#STR0013#ALL#Nome
+0014#STR0014#ALL#Sexo
+0015#STR0015#ALL#Admissão
+0016#STR0016#ALL#Idade
+0017#STR0017#ALL#Data Diagn.
+0018#STR0018#ALL#C.Custo
+0019#STR0019#ALL#Função
+0020#STR0020#ALL#Aguarde
+0021#STR0021#ALL#Processando os diagnósticos...
+0022#STR0022#ALL#Filtrando os registros, aguarde...
+0023#STR0023#ALL#Funcionários
+0024#STR0024#ALL#Cliente: 
+0025#STR0025#ALL#Resumo do Cliente
+0026#STR0026#ALL#Cliente
+0027#STR0027#ALL#Zebrado
+0028#STR0028#ALL#Administracao
+0029#STR0029#ALL#C.I.D.    Descricao                                                                 Grupo C.I.D.
+0030#STR0030#ALL#Matrícula    Ficha Médica     Nome Funcionário                    Sexo          Data Admissão   Idade
+0031#STR0031#ALL#CANCELADO PELO OPERADOR
+0032#STR0032#ALL#Cliente..:
+0033#STR0033#ALL#C.I.D.   Descricao                                               Grupo C.I.D.
+0034#STR0034#ALL#Masculinos  Femininos    Total
+0035#STR0035#ALL#De Cliente ?
+0036#STR0036#ALL#Loja
+0037#STR0037#ALL#Até Cliente ?
+0038#STR0038#ALL#Código do cliente. O campo pode permanecer vazio para considerar desde o primeiro código.
+0039#STR0039#ALL#Código da loja do cliente. O campo pode permanecer vazio para considerar desde o primeiro código.
+0040#STR0040#ALL#Código do cliente. O campo pode ser preenchido com a letra Z até o final para considerar o último código.
+0041#STR0041#ALL#Código da loja do cliente. O campo pode ser preenchido com a letra Z até o final para considerar o último código.
+0042#STR0042#ALL#Cliente/Loja: 
+0043#STR0043#ALL#Ate Cliente ?
+0044#STR0044#ALL#Ate Ficha ?
+0045#STR0045#ALL#De Ficha ?
+0046#STR0046#ALL#Ate Data Diagnost. ?
+0047#STR0047#ALL#De  Data Diagnost. ?
+0048#STR0048#ALL#Ate CID ?
+0049#STR0049#ALL#De  CID ?
+0050#STR0050#ALL#Grupo C.I.D.
+0051#STR0051#ALL#CID Comp.
+0052#STR0052#ALL#Grupo CID Comp.
+0053#STR0053#ALL#C.I.D.  Descricao                                  Grupo C.I.D. C.I.D. Comp.   Grupo C.I.D. Comp.
+0054#STR0054#ALL#Agrupar Por ?
+0055#STR0055#ALL#CID
+0056#STR0056#ALL#CID + CID Complementar
+0057#STR0057#ALL#Informe a forma de agrupamento do relatório.
+0058#STR0058#ALL#Data Diagn.   Hora Diagn.    Idade  C. Custo                Função
+0059#STR0059#ALL#Hora Diagn.
+0060#STR0060#ALL#Ficha Médica

@@ -1,0 +1,27 @@
+0001#STR0001#ALL#Janela de Entregas Previsto x Realizado
+0002#STR0002#ALL#Este programa ira emitir a relacao Previsto x Realizado da
+0003#STR0003#ALL#Janela de Entregas de acordo com os parametros escolhidos 
+0004#STR0004#ALL#pelo usuario
+0005#STR0005#ALL#Zebrado
+0006#STR0006#ALL#Administracao
+0007#STR0007#ALL#CARGA   : 
+0008#STR0008#ALL#VEICULO : 
+0009#STR0009#ALL#MOTORISTA : 
+0010#STR0010#ALL#PESO    :
+0011#STR0011#ALL#VOLUME M3 : 
+0012#STR0012#ALL#PTOS ENTREGA : 
+0013#STR0013#ALL#VALOR : 
+0014#STR0014#ALL#DATA    :
+0015#STR0015#ALL# AS 
+0016#STR0016#ALL#SEQUENCIA   CLIENTE LOJA  NOME                           CHEGADA    TIME SERVICE   SAIDA      CHEGADA  TIME SERVICE   SAIDA
+0017#STR0017#ALL#ENTREGA                                                  PREVISTA   PREVISTO       PREVISTA   REAL     REAL           REAL
+0018#STR0018#ALL#Janela de Entregas Previsto x Realizado
+0019#STR0019#ALL#Este programa ira emitir a relacao Previsto x Realizado da
+0020#STR0020#ALL#Janela de Entregas de acordo com os parametros escolhidos 
+0021#STR0021#ALL#pelo usuario
+0022#STR0022#ALL#Chegada Prevista
+0023#STR0023#ALL#Time Service Previsto
+0024#STR0024#ALL#Saida Prevista
+0025#STR0025#ALL#Chegada Real
+0026#STR0026#ALL#Time Service Real
+0027#STR0027#ALL#Saida Real

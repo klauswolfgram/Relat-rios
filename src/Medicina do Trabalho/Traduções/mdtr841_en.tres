@@ -1,0 +1,33 @@
+0001#STR0001#ALL#Report of Action Plan per Accident.                                
+0002#STR0002#ALL#The Report shows the actions defined to eliminate or minimize the  
+0003#STR0003#ALL#existing accidents in the company.                                 
+0004#STR0004#ALL#Z. Form
+0005#STR0005#ALL#Management
+0006#STR0006#ALL#Action Plan per Accident
+0007#STR0007#ALL#Accident    Description                Accid Date  Acc. Time  Accid. Ind            Victim Leave Days    Location
+0008#STR0008#ALL#    Plan     Action Plan Name                   Imp. Date    St.Fcst.  End. Fcst.  Real St.    Real End    Responsible Party  
+0009#STR0009#ALL#CANCELED BY OPERATOR
+0010#STR0010#ALL#Typical Accident
+0011#STR0011#ALL#Commuting Accident
+0012#STR0012#ALL#Work Disease
+0013#STR0013#ALL#Incident
+0014#STR0014#ALL#Yes
+0015#STR0015#ALL#No
+0016#STR0016#ALL#What..:
+0017#STR0017#ALL#Where.: 
+0018#STR0018#ALL#Why...: 
+0019#STR0019#ALL#How...: 
+0020#STR0020#ALL#When..: Estimat. Start..: 
+0021#STR0021#ALL#Actual: 
+0022#STR0022#ALL#Estimated End..: 
+0023#STR0023#ALL#H.Much: Estimated Value: 
+0024#STR0024#ALL#Current Qty....:
+0025#STR0025#ALL#Goal.: 
+0026#STR0026#ALL#From Customer?
+0027#STR0027#ALL#Unit
+0028#STR0028#ALL#To Customer ?
+0029#STR0029#ALL#Customer/Unit: 
+0030#STR0030#ALL#No data to display.
+0031#STR0031#ALL#Actions?
+0032#STR0032#ALL#To Accident?
+0033#STR0033#ALL#From Accident?

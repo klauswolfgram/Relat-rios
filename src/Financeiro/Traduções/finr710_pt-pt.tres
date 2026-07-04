@@ -1,0 +1,48 @@
+0001#STR0001#ALL#Este programa tem a função de emitir os borderaux de pagamen-
+0002#STR0002#ALL#Tos.
+0003#STR0003#ALL#Emissão De Borderaux De Pagamentos
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#Cancelado Pelo Operador
+0007#STR0007#ALL#Total geral ..... 
+0008#STR0008#ALL#Autorizamos V.Sas. A Emitir Os Cheques Nominativos Aos Beneficiários Em Referência,
+0009#STR0009#ALL#A debitar em nossa conta corrente no dia 
+0010#STR0010#ALL#Pelo Valor Acima Totalizado.
+0011#STR0011#ALL#Autorizamos V.Sas. A Pagar Os Títulos Acima Relacionados Em Nossa
+0012#STR0012#ALL#Conta movimento no dia 
+0013#STR0013#ALL#, Pelo Valor Acima Totalizado.
+0014#STR0014#ALL#Autorizamos V.exas. A Pagar Os Títulos Em Referência, Levando A Débito Da Nossa
+0015#STR0015#ALL#Conta corrente nº 
+0016#STR0016#ALL# no dia 
+0017#STR0017#ALL# Pelo Valor Acima Totalizado.
+0018#STR0018#ALL#Autorizamos V.Sas. A Emitirem Ordem De Pagamento, Ou Doc Para Os Bancos/contas Acima.
+0019#STR0019#ALL#Dos títulos respectivos a debitar na nossa c/corrente nr. 
+0020#STR0020#ALL#No dia 
+0021#STR0021#ALL# Pelo Valor Acima Totalizado.
+0022#STR0022#ALL#Autorizamos V.exas. A Pagar Os Títulos Em Referência, Levando A Débito Da Nossa
+0023#STR0023#ALL#Conta corrente nº 
+0024#STR0025#ALL#Prf. Número       Pc  B E N E F I C I á R I O           Base           Dt.venct.    Histórico              Valor A Pagar
+0025#STR0027#ALL#Prf Número       Pc  Beneficiário          Dt.venc                                  Valor A Pagar
+0026#STR0029#ALL#Prf Número       Pc  Beneficiário          Banco           Dt.venc     Num.cheque         Valor A Pagar
+0027#STR0031#ALL#Prf Número       Pc  B A N C O      Bco Agenc Número Conta  Beneficiário              Nr. Contribuinte/nr. Contribuinte          Dt.venc        Valor A Pagar
+0028#STR0033#ALL#Prf Número       Pc  Beneficiário          Banco           Dt.venc      Num.cheque         Valor A Pagar
+0029#STR0034#ALL#Autorização Para Pagamento De Compromissos
+0030#STR0035#ALL#Emissão : 
+0031#STR0036#ALL#Relação : 
+0032#STR0037#ALL#Ao 
+0033#STR0038#ALL#Agência : 
+0035#STR0040#ALL# - c/c 
+0036#STR0041#ALL#Borderaux 
+0037#STR0042#ALL#Prf
+0038#STR0043#ALL#Número
+0039#STR0044#ALL#Pc
+0040#STR0045#ALL#B E N E F I C I á R I O
+0041#STR0046#ALL#Banco
+0042#STR0047#ALL#Histórico
+0043#STR0048#ALL#Bco
+0044#STR0049#ALL#Agênc.
+0045#STR0050#ALL#Número Conta
+0046#STR0051#ALL#Nr. contribuinte
+0047#STR0052#ALL#Dt.venc.
+0048#STR0053#ALL#Valor A Pagar
+0049#STR0054#ALL#Cabeçalho

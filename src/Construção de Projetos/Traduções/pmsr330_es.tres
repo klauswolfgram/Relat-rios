@@ -1,0 +1,18 @@
+0001#STR0001#ALL#Este informe imprimira una lista de gastos de consulta de gestión solicitada considerando todos los gastos (pedido de compra,autorizacion de entrega,nota fiscal de entrada,titulos a pagar y movimientos bancarios) vinculados a los proyectos.
+0002#STR0002#ALL#Consultas de Gestion - Lista de Gastos
+0003#STR0003#ALL#A Rayas
+0004#STR0004#ALL#Administracion
+0005#STR0005#ALL#Diario
+0006#STR0006#ALL#Semanal
+0007#STR0007#ALL#Decendial
+0008#STR0008#ALL#Quincenal
+0009#STR0009#ALL#Mensual
+0010#STR0010#ALL#Periodo 
+0011#STR0011#ALL#       Vld.Prev.PC           Gastos        Gastos Acum.
+0012#STR0012#ALL#Codigo del Plan
+0013#STR0013#ALL#Saldo Inicial : 
+0014#STR0014#ALL#Total a Pagar : 
+0015#STR0015#ALL#Vld.Prev.PC
+0016#STR0016#ALL#Gastos  
+0017#STR0017#ALL#Gastos acum.  
+0018#STR0018#ALL#Plan de Gestion

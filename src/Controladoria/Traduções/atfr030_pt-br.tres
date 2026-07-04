@@ -1,0 +1,70 @@
+0001#STR0001#ALL#Este programa ira emitir a ficha dos ativos
+0002#STR0002#ALL#imobilizados, apresentando todas as ocorrencias
+0003#STR0003#ALL#desde sua aquisicao.
+0004#STR0004#ALL#Ficha do Ativo Imobilizado
+0005#STR0005#ALL#Codigo      Item  Descricao Sintetica                       N. Chapa    Grupo   Enderecamento Aquis      Baixa       Projeto          Fornecedor               N.F.-Ser.   Quantidade     Placa     
+0006#STR0006#ALL#                  Cia Seguro                      Apolice Seg.       Vencto       Tipo                                                                                              
+0007#STR0007#ALL#CANCELADO PELO OPERADOR
+0008#STR0008#ALL#FORNECEDOR 
+0009#STR0009#ALL#Aquisicao
+0010#STR0010#ALL#Reavaliacao
+0011#STR0011#ALL#Adiantamento
+0012#STR0012#ALL#Lei 8200
+0013#STR0013#ALL#Tipo              Historico                      Conta do Bem         
+0014#STR0014#ALL#*---------------------- NO MES --------------------*
+0015#STR0015#ALL#*-------------------------- NO EXERCICIO ------------------*
+0016#STR0016#ALL#*-------------------------- ACUMULADO ------------------------*
+0017#STR0017#ALL#MOEDA
+0018#STR0018#ALL#V.ORIG+V.AMPLIACAO 
+0019#STR0019#ALL#TX DEPR.
+0020#STR0020#ALL#INDICE
+0021#STR0021#ALL#         CORRECAO
+0022#STR0022#ALL#      DEPRECIACAO
+0023#STR0023#ALL#   CORR. DEPREC.
+0024#STR0024#ALL#            CORRECAO
+0025#STR0025#ALL#         DEPRECIACAO
+0026#STR0026#ALL#CORR. DEPRECIACAO
+0027#STR0027#ALL#             CORRECAO
+0028#STR0028#ALL#          DEPRECIACAO
+0029#STR0029#ALL# CORR. DEPRECIACAO
+0030#STR0030#ALL#Descricao:
+0031#STR0031#ALL#Vlr Residual 
+0032#STR0032#ALL# Por Bem
+0033#STR0033#ALL# Por Conta
+0034#STR0034#ALL# Por C.Custo
+0035#STR0035#ALL#Zebrado
+0036#STR0036#ALL#Administracao
+0037#STR0037#ALL# por 
+0038#STR0038#ALL#TOTAL DO CODIGO BASE - 
+0039#STR0039#ALL#RESUMO GERAL
+0040#STR0040#ALL#Conta Correcao       
+0041#STR0041#ALL#Cta Desp. Depr.      
+0042#STR0042#ALL#Cta Depr. Acum.      
+0043#STR0043#ALL#Cta Corr. Depr.      
+0044#STR0044#ALL#C. Custo             In. Depr.  Dt.Baixa   Quant. Baixa  Índ.Cálc.
+0045#STR0045#ALL#Item Contabil        
+0046#STR0046#ALL#Classe de Valor      
+0047#STR0047#ALL# Por Item Contabil
+0048#STR0048#ALL# Por Classe de Valor
+0049#STR0049#ALL#Movimentação
+0050#STR0050#ALL#Quant. Baixa
+0051#STR0051#ALL#Valores na moeda 
+0052#STR0052#ALL#Vl Orig.+Ampliação
+0053#STR0053#ALL#Tx. Depr
+0054#STR0054#ALL#Indice
+0055#STR0055#ALL#Correção
+0056#STR0056#ALL#no mês
+0057#STR0057#ALL#Depreciação
+0058#STR0058#ALL#Correção da 
+0059#STR0059#ALL#Deprec. no mês
+0060#STR0060#ALL#Correção no 
+0061#STR0061#ALL#no Exercício
+0062#STR0062#ALL#Correção da 
+0063#STR0063#ALL#Deprec. no Exerc
+0064#STR0064#ALL#Acumulada
+0065#STR0065#ALL#Depreciação Acum.
+0066#STR0066#ALL#Só é possível sub-totalizar na ordem de codigo base.
+0067#STR0067#ALL#As colunas para Item Contabil e Classe de Valor não podem ser iguais !
+0068#STR0068#ALL#Dados do Ativo
+0069#STR0069#ALL#Não encontrado
+0070#STR0070#ALL#Formato de impressão tabela não suportado neste relatório

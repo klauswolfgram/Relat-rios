@@ -1,0 +1,79 @@
+0001#STR0001#ALL#Este programa tiene el objetivo de imprimir el informe de
+0002#STR0002#ALL#Notas Credito segun los parametros informados
+0003#STR0003#ALL#por el usuario.
+0004#STR0004#ALL#Informe de Notas de Credito
+0005#STR0005#ALL#Factura
+0006#STR0006#ALL#Fecha de Emision 
+0007#STR0007#ALL#Cliente
+0008#STR0008#ALL#Fecha Registro
+0009#STR0009#ALL#Numero               Ser Fecha      Fecha      Codigo  Nombre                              Esp   Impuesto           Impuesto       Total de
+0010#STR0010#ALL#Factura                  Emision    Registro   Cliente Cliente                                   No Incluido        Incluido       Factura
+0011#STR0011#ALL#Factura                  Emision    Registro   Prove.  Proveedor                                 No Incluido        Incluido       Factura
+0012#STR0012#ALL#LISTA DE LOS ITEMS DE LAS NOTAS DE CREDITO
+0013#STR0013#ALL#Numero               Serie  Fecha       Codigo  Nombre                               Esp       Impuesto         Impuesto        Total de
+0014#STR0014#ALL#Factura                     Registro    Cliente Cliente                                     No Incluido         Incluido         Factura
+0015#STR0015#ALL#Factura                     Registro    Prove.  Proveedor                                   No Incluido         Incluido         Factura
+0016#STR0016#ALL#Numero               Serie    Fecha         Fecha         Esp         Impuesto            Impuesto         Total de
+0017#STR0017#ALL#Factura                       Emision       Registro               No Incluido           Incluido           Factura
+0018#STR0018#ALL#Factura                     Emision     Cliente Cliente                                     No Incluido         Incluido         Factura
+0019#STR0019#ALL#Factura                     Emision     Prove.  Proveedor                                     No Incluido      Incluido          Factura
+0020#STR0020#ALL#*** ANULADO POR EL OPERADOR ***
+0021#STR0021#ALL#CODIGO DEL  MATERIAL            DESCRIPCION                      TE   IMP. NO INC.     IMP. INCL. LOCAL  CANTIDAD   VALOR UNIT.    VALOR TOTAL
+0022#STR0022#ALL#NUMERO: 
+0023#STR0023#ALL#EMISION: 
+0024#STR0024#ALL#REG: 
+0025#STR0025#ALL#ESPECIE: 
+0026#STR0026#ALL#CLIENTE: 
+0027#STR0027#ALL#PROVEE.: 
+0028#STR0028#ALL#REGISTRO:  
+0029#STR0029#ALL#COND.PAGO: 
+0030#STR0030#ALL#TOT.IMP. NO INC. : 
+0031#STR0031#ALL#TOT.IMP.INCL.: 
+0032#STR0032#ALL#TOTAL FACTURA: 
+0033#STR0033#ALL#F E C H A  E M I S I O N > 
+0034#STR0034#ALL#C L I E N T E  ==> 
+0035#STR0035#ALL#P R O V E E D O R   ==> 
+0036#STR0036#ALL#F E C H A  R E G I S T R O==> 
+0037#STR0037#ALL#TOTAL GENERAL=> 
+0038#STR0038#ALL#Generando informe, espere ...
+0039#STR0039#ALL#Informe de Facturas de Credito
+0040#STR0040#ALL#Factura 
+0041#STR0041#ALL#Fecha de Emision
+0042#STR0042#ALL#Cliente
+0043#STR0043#ALL#Fecha de Registro
+0044#STR0044#ALL#Informe de Facturas de Credito
+0045#STR0045#ALL#Serie
+0046#STR0046#ALL#Emision
+0047#STR0047#ALL#Fc.Registro
+0048#STR0048#ALL#Nombre Cliente
+0049#STR0049#ALL#Esp
+0050#STR0050#ALL#Imp.no Incluido
+0051#STR0051#ALL#Imp.Incluido
+0052#STR0052#ALL#Total de Factura 
+0053#STR0053#ALL#Especie
+0054#STR0054#ALL#Tienda
+0055#STR0055#ALL#Prov:
+0056#STR0056#ALL#Producto
+0057#STR0057#ALL#Descripcion
+0058#STR0058#ALL#TES
+0059#STR0059#ALL#Imp N. Incl.
+0060#STR0060#ALL#Imp Incl.
+0061#STR0061#ALL#Local
+0062#STR0062#ALL#Cantidad
+0063#STR0063#ALL#Valor Unit.
+0064#STR0064#ALL#Valor Total
+0065#STR0065#ALL#Registro
+0066#STR0066#ALL#Cond.Pag.
+0067#STR0067#ALL#Tot.Imp.No Incl
+0068#STR0068#ALL#Tot.Imp.Incl
+0069#STR0069#ALL#Total Factura
+0070#STR0070#ALL#Sintetico por Factura
+0071#STR0071#ALL#Sintetico por Emision
+0072#STR0072#ALL#Sintetico por Cliente
+0073#STR0073#ALL#Sintetico por Fch. de Registro
+0074#STR0074#ALL#Analitico por Factura
+0075#STR0075#ALL#Items
+0076#STR0076#ALL#Pie de Pag Items
+0077#STR0077#ALL#Total Gen.
+0078#STR0078#ALL#Total S/ Descto.
+0079#STR0079#ALL#Informe de Facturas de Credito

@@ -1,0 +1,25 @@
+0001#STR0001#ALL#Relatório De Analise De Carregamento
+0002#STR0002#ALL#Este programa irá emitir o relatório diario de con-
+0003#STR0003#ALL#Tratos emitidos de acordo com os parâmetro s escolhi-
+0004#STR0004#ALL#Dos pelo utilizador
+0005#STR0005#ALL#Código de barras
+0006#STR0006#ALL#Administração
+0007#STR0007#ALL#Filial   Tipo  Filial   Filial    Número      Qtde   ------------------ Peso ------------------    Perc   --------- Frete ----------   -------- Carreto --------    Perc
+0008#STR0008#ALL#Origem         Destino  Descarga  Manifesto   Ctrcs     Real  Directo Fracionado  Cobrado   Pago    Util         Directo    Fracionado        Directo    Fracionado    Util
+0009#STR0009#ALL#Cancelado Pelo Operador
+0010#STR0010#ALL#Filial viagem : 
+0013#STR0013#ALL#  placa : 
+0014#STR0014#ALL#    1o. reboque :
+0015#STR0015#ALL#    2o. reboque :
+0023#STR0023#ALL#Relatório De Analise De Carregamento
+0024#STR0024#ALL#Este programa irá emitir a listagem de análise do carregamento, de acordo com os parâmetros escolhidos pelo utilizador
+0029#STR0029#ALL#Veículo
+0031#STR0031#ALL#Matrícula
+0034#STR0034#ALL#Fil.origem
+0036#STR0036#ALL#Fil.destino
+0037#STR0037#ALL#Fil.descarga
+0039#STR0039#ALL#Quantidade Ctrc
+0041#STR0041#ALL#Peso Directo
+0045#STR0045#ALL#Frt directo
+0047#STR0047#ALL#Camionagem directa
+0048#STR0048#ALL#Camionagem frac.

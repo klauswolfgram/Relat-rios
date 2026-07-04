@@ -1,0 +1,33 @@
+0002#STR0002#ALL#A Visualizar, Aguarde...
+0003#STR0003#ALL#Considerações Sobre A Viabilidade
+0004#STR0004#ALL#A nossa equipa de planeamento da qualidade do artigo considerou as seguintes questões, que não pretendem ser totalmente incluídas na execução de uma avaliação
+0005#STR0005#ALL#De viabilidade. os desenhos e/ou especificações fornecidos foram usados como base para analisar a capacidade de atender a todos os requisitos especificados.
+0006#STR0006#ALL#tOdas as respostas "não" são suportadas por comentários  anexo identificando nossas preocupações e/ou alterações propostas para nos activar a atender os requisitos especificados.
+0007#STR0007#ALL#Sim
+0008#STR0008#ALL#Consideração
+0009#STR0009#ALL#O artigo está adequadamente definido (requisito de aplicação, etc.) para possibilitar a avaliação da viabilidade?
+0010#STR0010#ALL#As especificações de desempenho de engenharia podem ser atendidas, como descritas?
+0011#STR0011#ALL#O produto pode ser manufacturado de acordo com as tolerancias especificadas no desenho?
+0012#STR0012#ALL#O Produto pode ser manufaturado com Cpk´s que atendem às especificações?
+0013#STR0013#ALL#Existe capacidade adequada para a fabricação do artigo?
+0014#STR0014#ALL#O projecto permite a utilização de técnicas eficientes de manuseio de material?
+0015#STR0015#ALL#O produto pode ser manufacturado sem incorrer em inesperados:
+0016#STR0016#ALL#- custos de equipamentos de transformação ?
+0017#STR0017#ALL#- custos de ferramentas?
+0018#STR0018#ALL#- métodos de manufactura alternativos ?
+0019#STR0019#ALL#é necessário controlo estatístico do processo para o artigo ?
+0020#STR0020#ALL#O controlo estatístico do processo está a ser actualmente utilizado em artigos similares ?
+0021#STR0021#ALL#Onde for utilizado controlo estatístico do processo em artigos similares:
+0022#STR0022#ALL#- os processos estão sob controlo e estáveis?
+0024#STR0024#ALL#Conclusão
+0027#STR0027#ALL#Alterações são recomendadas (conculte anexo).
+0028#STR0028#ALL#Não viável
+0029#STR0029#ALL#Revisão de projecto requerida para a manufactura do artigo dentro dos requisitos especificados.
+0030#STR0030#ALL#Aprovação
+0031#STR0031#ALL#Membro Da Equipa/cargo/data
+0032#STR0032#ALL#Explicações/comentários
+0033#STR0033#ALL#Compromisso Da Equipa Com A Viabilidade
+0036#STR0036#ALL#Nome da peça :
+0037#STR0037#ALL#Nº. da peça :
+0038#STR0038#ALL#Rev. da peça :
+0039#STR0039#ALL#Não

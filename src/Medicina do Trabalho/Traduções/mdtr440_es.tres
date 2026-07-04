@@ -1,0 +1,67 @@
+0001#STR0001#ALL#Informe de presentación de Certificados de Salud Ocupacional emitidos.
+0002#STR0002#ALL#A través de los parámetros, el usuario puede seleccionar: Período deseado
+0003#STR0003#ALL#A Rayas
+0004#STR0004#ALL#Administración
+0005#STR0005#ALL#Certificados de Salud Ocupacional
+0006#STR0006#ALL#ASO    Ficha     Matríc. Nombre del empleado                     Program.   Emisión    Anulado    Parecer              Modalid 
+0007#STR0007#ALL#ANULADO POR EL OPERADOR
+0008#STR0008#ALL#Admisional
+0009#STR0009#ALL#Periódico
+0010#STR0010#ALL#Cambio de función
+0011#STR0011#ALL#Retorno al trabajo
+0012#STR0012#ALL#Despido
+0013#STR0013#ALL#Anulado
+0014#STR0014#ALL#Apto
+0015#STR0015#ALL#Inapto
+0016#STR0016#ALL#Apto con Restricc.
+0017#STR0017#ALL#Resumen del informe
+0018#STR0018#ALL#Aptos.................:
+0019#STR0019#ALL#Inaptos...............:
+0020#STR0020#ALL#Apto con Restricc..:
+0021#STR0021#ALL#Anulado...............:
+0022#STR0022#ALL#Cliente..:
+0023#STR0023#ALL#Resumen del cliente
+0024#STR0024#ALL#¿De Cliente ?
+0025#STR0025#ALL#Tienda
+0026#STR0026#ALL#¿A Cliente ?
+0027#STR0027#ALL#Código del cliente. El campo puede permanecer vacío para considerar desde el primer código.
+0028#STR0028#ALL#Código de la tienda del cliente. El campo puede permanecer vacío para considerar desde el primer código.
+0029#STR0029#ALL#Código del cliente. El campo puede completarse con la letra Z hasta el final para considerar el último código.
+0030#STR0030#ALL#Código de la tienda del cliente. El campo puede completarse con la letra Z hasta el final para considerar el último código.
+0031#STR0031#ALL#Certificados de Salud Ocupacional
+0032#STR0032#ALL#Cliente
+0033#STR0033#ALL#Nombre
+0034#STR0034#ALL#ASO
+0035#STR0035#ALL#Ficha
+0036#STR0036#ALL#Matrícula
+0037#STR0037#ALL#Nombre del Empleado
+0038#STR0038#ALL#Program.
+0039#STR0039#ALL#Emisión
+0040#STR0040#ALL#Anul.
+0041#STR0041#ALL#Parecer
+0042#STR0042#ALL#Modalidad
+0043#STR0043#ALL#Certificado (ASO)
+0044#STR0044#ALL#Resum. por Cliente
+0045#STR0045#ALL#Resumen de Informe: 
+0046#STR0046#ALL#Aptos
+0047#STR0047#ALL#Inaptos
+0048#STR0048#ALL#Aptos con Restricc. 
+0049#STR0049#ALL#Anulados  
+0050#STR0050#ALL#Resum.
+0051#STR0051#ALL#Procesando Archivo...
+0052#STR0052#ALL#Cliente/tienda:
+0053#STR0053#ALL#No hay nada para imprimir en el informe.
+0054#STR0054#ALL#¿A Cliente ?
+0055#STR0055#ALL#¿A Fecha emisión ?
+0056#STR0056#ALL#¿De Fecha emisión ?
+0057#STR0057#ALL#¿A ASO ?
+0058#STR0058#ALL#¿De  ASO ?
+0059#STR0059#ALL#Función
+0060#STR0060#ALL#ATENCIÓN
+0061#STR0061#ALL#Parámetro 'De ASO' no puede ser superior a 'A ASO'.
+0062#STR0062#ALL#Por favor, informe un valor inferior para el parámetro 'De ASO'.
+0063#STR0063#ALL#Función              Centro de costo                          Tarea 
+0064#STR0064#ALL#Cambio de función
+0065#STR0065#ALL#Centro de costo
+0066#STR0066#ALL#Tarea
+0067#STR0067#ALL#Nombre social

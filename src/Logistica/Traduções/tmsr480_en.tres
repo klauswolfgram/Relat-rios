@@ -1,0 +1,29 @@
+0001#STR0001#ALL#Z.form
+0002#STR0002#ALL#Management
+0003#STR0003#ALL#This program aims at printing the clients with adjustment      
+0004#STR0004#ALL#Clients w/ adjustm.
+0005#STR0005#ALL#Legends
+0006#STR0006#ALL#Negotiation Bran.:
+0007#STR0007#ALL#Total of Table   Cif:  
+0008#STR0008#ALL#Fob:  
+0009#STR0009#ALL#Total of Branch  Cif:  
+0010#STR0010#ALL#Grand Total      Cif:  
+0011#STR0011#ALL#Frght.Tab:  
+0012#STR0012#ALL#+------------------------------------------------+---+--------Area of the client-----------+--------------------+------------------Agreeme.-------------------+
+0013#STR0013#ALL#|Client                                          |C/F|City                              |ST|Sal. Rep            |Number         |Val.Beg.  |Servic|Aut|Cub.Inv|
+0014#STR0014#ALL#Coll|Wght|
+0015#STR0015#ALL#Coll|
+0016#STR0016#ALL#Select the components to be printed
+0017#STR0017#ALL#Component
+0018#STR0018#ALL#Descript.
+0019#STR0019#ALL#Freight components
+0020#STR0020#ALL#This program prints the customers with adjustment
+0021#STR0021#ALL#Customers with adjust.
+0022#STR0022#ALL#Customer
+0023#STR0023#ALL#Region
+0024#STR0024#ALL#Salesrep
+0025#STR0025#ALL#CIF
+0026#STR0026#ALL#FOB
+0027#STR0027#ALL#Charged
+0028#STR0028#ALL#Yes
+0029#STR0029#ALL#No

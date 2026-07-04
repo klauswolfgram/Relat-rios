@@ -1,0 +1,15 @@
+0001#STR0001#ALL#The aim of this program is to print the report 
+0002#STR0002#ALL#according to the parameters informed by the user.
+0003#STR0003#ALL#Worksheet of 
+0004#STR0004#ALL#Z.Form
+0005#STR0005#ALL#Administration
+0006#STR0006#ALL#Size
+0007#STR0007#ALL#The selected columns total exceeded the report maximum size.
+0008#STR0008#ALL#Cancel
+0009#STR0009#ALL#Summarized
+0010#STR0010#ALL#Complete
+0011#STR0011#ALL#Summarized Report
+0012#STR0012#ALL#The report will be adjusted, removing some fields so the records can be printed obeying the page size.
+0013#STR0013#ALL#Ok
+0014#STR0014#ALL#Complete Report
+0015#STR0015#ALL#The report will be printed containing page breaks, so all the records data can be printed.

@@ -1,0 +1,53 @@
+0001#STR0001#ALL#This routine prints a Trial Balance of Customers/
+0002#STR0002#ALL#Suppliers. All the transactions can be issued 
+0003#STR0003#ALL#refering to them, or only the original values.
+0004#STR0004#ALL#Trial Balance Current Accnts
+0005#STR0005#ALL#Z.Form 
+0006#STR0006#ALL#Management
+0007#STR0007#ALL#TRIAL BALANCE OF CHECKING ACCOUNTS OF 
+0008#STR0008#ALL#CUSTOMERS
+0009#STR0009#ALL#SUPPLIERS   
+0010#STR0010#ALL#Code - Brc Company Name                  Phone                              Debit                   Credit                     Balance
+0011#STR0011#ALL#Selecting Records...
+0012#STR0012#ALL#By the Bill Issue
+0013#STR0013#ALL#WRT INV ISS 
+0014#STR0014#ALL#***** Cancelled by The Operator *****
+0015#STR0015#ALL#TO TRANSPORT  : 
+0016#STR0016#ALL#LAST BALANCE   : 
+0017#STR0017#ALL#T o t a l s   o f 
+0018#STR0018#ALL#C u s t o m e r
+0019#STR0019#ALL#S u p p l i e r    
+0020#STR0020#ALL#G e n.  T o t a l  o f        
+0021#STR0021#ALL#C u s t o m e r s
+0022#STR0022#ALL#S u p p l i e r s      
+0023#STR0023#ALL#E n d i n g   B a l a n c e   R e p o r t :       
+0024#STR0024#ALL#Ref. to Bill Posting
+0025#STR0025#ALL#Discount on Bill       
+0026#STR0026#ALL#Fine/Interests on Bill 
+0027#STR0027#ALL#Monetary Adjustm. of Bill 
+0028#STR0028#ALL#OF TRANSPORT :  
+0029#STR0029#ALL#BY INVOICE ISSUANCE
+0030#STR0030#ALL#
+0031#STR0031#ALL#
+0032#STR0032#ALL#
+0033#STR0033#ALL#
+0034#STR0034#ALL#
+0035#STR0035#ALL#
+0036#STR0036#ALL#
+0037#STR0037#ALL#
+0038#STR0038#ALL#
+0039#STR0039#ALL#
+0040#STR0040#ALL#
+0041#STR0041#ALL#
+0042#STR0042#ALL#
+0043#STR0043#ALL#
+0044#STR0044#ALL#
+0045#STR0045#ALL#
+0046#STR0046#ALL#
+0047#STR0047#ALL#
+0048#STR0048#ALL#
+0049#STR0049#ALL#
+0050#STR0050#ALL#Close Totals by    ?
+0051#STR0051#ALL#Skip Page/Closing  ?
+0052#STR0052#ALL#Columns of Values  ?
+0053#STR0053#ALL#Date       History               Number              Issued     Due Date                     Debit          Credit         Balance

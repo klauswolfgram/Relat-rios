@@ -1,0 +1,13 @@
+0002#STR0002#ALL#Este Programa Irá Imprimir A Carga Acumulativa Sintética.
+0003#STR0003#ALL#Os valores referentes a horas estão convertidos de acordo com
+0004#STR0004#ALL#O parâmetro  mv_tphr, (c)entesimais ou (n)ormais.
+0005#STR0005#ALL#Código de barras
+0006#STR0006#ALL#Administração
+0007#STR0007#ALL#Centro             centro de descrição                     horas    horas   (%)
+0008#STR0008#ALL#De Custo           Trabalho                               Utiliz.   Uteis  Util.
+0009#STR0009#ALL#Cancelado Pelo Operador
+0010#STR0010#ALL#Total centro de custo: 
+0011#STR0011#ALL#(%)utilizado
+0012#STR0012#ALL#Horas utilizadas :
+0013#STR0013#ALL#Horas úteis      :
+0014#STR0014#ALL#(%)utilizado     :

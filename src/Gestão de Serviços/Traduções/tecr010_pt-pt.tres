@@ -1,0 +1,10 @@
+0005#STR0005#ALL#Código de barras
+0007#STR0007#ALL#Cancelado Pelo Operador
+0008#STR0008#ALL#Cliente   nome                 artigo         desc.artigo                   n.série              venda      instalação garantia   fornecedor desc.fornecedor      fabricante desc.fabr.      modelo                        
+0009#STR0009#ALL#                               Acessório       Desc.acess.                    N.série Acessório
+0010#STR0010#ALL#Cliente                   nome                 artigo              desc.artigo    n.série              venda      instalação garantia   fornecedor                fabricante                modelo                        
+0011#STR0011#ALL#                                               Acessório            Desc.acess.     N.série Acessório
+0013#STR0013#ALL#Grupo até          ?
+0014#STR0014#ALL#Cliente X Artigo
+0015#STR0015#ALL#Base Instalada
+0016#STR0016#ALL#Acessórios Da Base Instalada

@@ -1,0 +1,23 @@
+0001#STR0001#ALL#Relatório dos exames programados por empregado. através dos parâmetro s o 
+0002#STR0002#ALL#Utilizador Deve Informar O Número Do Pcmso, E Poderá Selecionar: Exame, Período,
+0003#STR0003#ALL#C.custo entre outras opções disponiveis para um melhor aproveitamento.     
+0004#STR0004#ALL#Administração
+0005#STR0005#ALL#Programação De Exames
+0007#STR0007#ALL#Cancelado Pelo Operador
+0008#STR0008#ALL#Código de barras
+0011#STR0011#ALL#Total De Exames Por Centro De Custo / Função
+0012#STR0012#ALL#Centro De Custo
+0016#STR0016#ALL#Total Crial:
+0018#STR0018#ALL#Resumo da programação dos exames - 
+0019#STR0019#ALL#Exames realizados.................: 
+0020#STR0020#ALL#Exames não realizados - pendentes.: 
+0021#STR0021#ALL#Exames não realizados - atrasados.: 
+0022#STR0022#ALL#Total de exames programados.......: 
+0023#STR0023#ALL#Pcmso   Médico Responsável                        Dt. Inic.   Dt. Fin.   Dt. .  Descrição
+0024#STR0024#ALL#Ficha      Mat.     Nome Colaborador                  Exame                              Dt.Progr.  Centro Custo          Realizado
+0025#STR0025#ALL#Ficha     Mat.   Nome Colaborador                Exame   Dt.Prog.  Centro Custo          Função                             Realizado
+0026#STR0026#ALL#Resumo Da Programação Dos Exames
+0027#STR0027#ALL#Cliente/loja: 
+0028#STR0028#ALL#Não existe informação para imprimir no relatório.
+0030#STR0030#ALL#Pcmso: 
+0043#STR0043#ALL#Número do PCMSO ?

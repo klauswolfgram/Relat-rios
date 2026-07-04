@@ -1,0 +1,52 @@
+0001#STR0001#ALL#Relação De Pedidos De Vendas
+0002#STR0002#ALL#Este Programa Irá Emitir A Relação  Dos Pedidos De Vendas
+0003#STR0003#ALL#Sera feita a pesquisa no armazém e verificado
+0004#STR0004#ALL#Se a quantidade esta disponivel
+0005#STR0005#ALL# por nº pedido      
+0006#STR0006#ALL# Por artigo      
+0007#STR0007#ALL# por data entrega 
+0008#STR0008#ALL#Código de barras
+0009#STR0009#ALL#Administração
+0010#STR0010#ALL#EL CODIGO ARTIGO  DESCRICAO DO ARTIGO            STOCK      ----------- PEDIDO -------------      QTD.         QTD.      VALOR DO  PRECO UNIT.      SITUACAO DA              IMPOSTOS              VALOR A
+0011#STR0011#ALL#                                                  Disponivel    Vendido     Atendido      Saldo     Autorizada    Bloqueada    Desconto    Liquido     Ordem De Produção                                 Facturar       Entrega
+0012#STR0012#ALL#A Seleccionar Registos...
+0013#STR0013#ALL#Pedido
+0014#STR0014#ALL#ARTIGO
+0015#STR0015#ALL#Data De Entrega
+0016#STR0016#ALL# aptos a facturar 
+0017#STR0017#ALL# não autorizados   
+0018#STR0018#ALL# - ordem de 
+0019#STR0019#ALL#Cancelado Pelo Operador
+0020#STR0020#ALL#Total do pedido--> 
+0021#STR0022#ALL#TOTAL CRIAL--> 
+0022#STR0023#ALL#Pedido : 
+0023#STR0024#ALL#Fornecedor : 
+0024#STR0025#ALL#Loja : 
+0025#STR0026#ALL#Emissão : 
+0026#STR0027#ALL#Transportadora: 
+0027#STR0028#ALL#Vendedor(es): 
+0028#STR0029#ALL#Cliente : 
+0029#STR0030#ALL#Cond.pgt: 
+0030#STR0031#ALL#Relação De Pedidos De Vendas
+0031#STR0032#ALL#Este Programa Irá Emitir A Relação  Dos Pedidos De Vendas
+0032#STR0033#ALL#Sera feita a pesquisa no armazém e verificado
+0033#STR0034#ALL#Se a quantidade esta disponivel
+0034#STR0035#ALL#EL
+0035#STR0036#ALL#Stock Disponível
+0039#STR0040#ALL#Qtd.bloqueada
+0041#STR0042#ALL#Valor A Entregar
+0043#STR0044#ALL#Artigo
+0044#STR0045#ALL#Data De Entrega
+0045#STR0046#ALL# - ordem de 
+0050#STR0051#ALL#Emissão 
+0052#STR0053#ALL#Vendedor(es) 
+0053#STR0054#ALL#Cond.pagto 
+0054#STR0055#ALL#Total Do Pedido-->
+0055#STR0056#ALL# aptos a facturar 
+0056#STR0057#ALL# não autorizados  
+0057#STR0058#ALL#A seleccionar registos...	
+0058#STR0059#ALL#Situação Ordem De Produção
+0059#STR0060#ALL#Cabeçalho Do Pedido
+0060#STR0061#ALL#Elem. Do Pedido
+0061#STR0062#ALL#Total Do Artigo-->
+0062#STR0063#ALL#Total Da Data-->

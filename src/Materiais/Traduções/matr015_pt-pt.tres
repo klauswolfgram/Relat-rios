@@ -1,0 +1,19 @@
+0001#STR0001#ALL#Relação Entre Fs Originais X Fs Frete/importação
+0002#STR0002#ALL#Este relatório irá imprimir a relação entre as facturas
+0003#STR0003#ALL#De frete/importação e as facturas que
+0004#STR0004#ALL#Originaram as mesmas.
+0005#STR0005#ALL#Por Factura Frete/importação
+0006#STR0006#ALL#Por Factura Original
+0007#STR0007#ALL#Código de barras
+0008#STR0008#ALL#Administração
+0009#STR0009#ALL#Factura Original        Série Factura    Data Emissão
+0010#STR0010#ALL#                   Original
+0011#STR0011#ALL#Factura Frete/          Série Factura    Data Emissão        Tipo
+0012#STR0012#ALL#Importação
+0013#STR0013#ALL#A Seleccionar Registos...
+0014#STR0014#ALL#Cancelado Pelo Operador
+0016#STR0016#ALL#Série:
+0022#STR0022#ALL#Documento De Transportar (ordem Por Transportar)
+0023#STR0023#ALL#Documento De Entrada Original (ordem Por Transportar)
+0024#STR0024#ALL#Documento De Entrada Original (ordem Por Factura Original)
+0025#STR0025#ALL#Documento De Transportar (ordem Por Factura Original)

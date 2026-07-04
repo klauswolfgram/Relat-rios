@@ -1,0 +1,19 @@
+0001#STR0001#ALL#Reemissäo de Notas Fiscais
+0002#STR0002#ALL#Este programa tem a funçäo de reemitir Notas Fiscais que nao
+0003#STR0003#ALL#foram Geradas quando da Venda. Para tanto, será utilizado o
+0004#STR0004#ALL#script de Nota Fiscal gravado no Parametro MV_SCRNOTA (
+0005#STR0005#ALL#Especial
+0006#STR0006#ALL#Administracao
+0007#STR0007#ALL#Emissäo de Notas Fiscais
+0008#STR0008#ALL#Este programa tem a funçäo de emitir Notas Fiscais.
+0009#STR0009#ALL#Reemissao de Documentos
+0010#STR0010#ALL#Este programa tem a funcao de reemitir Documentos que nao
+0011#STR0011#ALL#script de Documento gravado no Parametro MV_SCRNOTA (
+0012#STR0012#ALL#Emissao de Documentos
+0013#STR0013#ALL#Este programa tem a funcao de emitir Documentos.
+0014#STR0014#ALL#Não é permitida a Reemissão de Nota Fiscal para 
+0015#STR0015#ALL# o Chile 
+0016#STR0016#ALL# a Colômbia
+0017#STR0017#ALL#A função indicada no parâmetro MV_SCRNOTA não esta compilada no RPO.
+0018#STR0018#ALL#Função: 
+0019#STR0019#ALL#Compile esta função e repita a operação.

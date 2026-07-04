@@ -1,0 +1,31 @@
+0001#STR0001#ALL#Saldos en Stock
+0002#STR0002#ALL#Este programa emitira un resumen de los saldos con la cantidad 
+0003#STR0003#ALL#de los productos en stock.
+0004#STR0004#ALL# Por Codigo         
+0005#STR0005#ALL# Por Tipo           
+0006#STR0006#ALL# Por Descripcion  
+0007#STR0007#ALL# Por Grupo        
+0008#STR0008#ALL#A Rayas
+0009#STR0009#ALL#Administracion
+0010#STR0010#ALL#CODIGO                         TP GRUP DESCRIPCION                      UM FL AMZ   CANTIDAD
+0011#STR0011#ALL#Tipo..........
+0012#STR0012#ALL#Grupo.........
+0013#STR0013#ALL#ANULADO POR EL OPERADOR
+0014#STR0014#ALL#Total del Producto
+0015#STR0015#ALL#Seleccionando registros...
+0016#STR0016#ALL#Total del 
+0017#STR0017#ALL#Cant.
+0018#STR0018#ALL#Disponible   
+0019#STR0019#ALL#No disponible 
+0020#STR0020#ALL#CODIGO                  TP GRUP DESCRIPCIO                 UM FL AMZ   CANTIDAD1a.U.M.   UM  CTD.2a.U.M.
+0021#STR0021#ALL#    DESC DEPOS.
+0022#STR0022#ALL#Ctd.1a.U.M.
+0023#STR0023#ALL#Ctd.2a.U.M.
+0024#STR0024#ALL#REG(S)
+0025#STR0025#ALL#CODIGO                      TP GRUP DESCRIPCION               UM SU
+0026#STR0026#ALL#AMC   CANTIDAD                  
+0027#STR0027#ALL#CODIGO                         TP GRUP DESCRIPCION               UM SU
+0028#STR0028#ALL#AMC  CTD.1a.U.M.  UM   CTD.2a.U.M.
+0029#STR0029#ALL#Ctd.Disp
+0030#STR0030#ALL#Ctd.Indisp
+0031#STR0031#ALL#Total general

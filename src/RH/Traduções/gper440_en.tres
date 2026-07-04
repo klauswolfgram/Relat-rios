@@ -1,0 +1,42 @@
+0001#STR0001#ALL#Family Allowance Card    
+0002#STR0002#ALL#Will be printed according to the parameters selected 
+0003#STR0003#ALL#by the User.   
+0004#STR0004#ALL#Registration
+0005#STR0005#ALL#Cost Center    
+0006#STR0006#ALL#Z.Form 
+0007#STR0007#ALL#Management   
+0008#STR0008#ALL#FAMILY ALLOWANCE CARD     
+0009#STR0009#ALL#FAMILY ALLOWANCE CARD     
+0010#STR0010#ALL#Company: 
+0011#STR0011#ALL#CGC/Registr.in INPS: 
+0012#STR0012#ALL#Address : 
+0013#STR0013#ALL#Area  : 
+0014#STR0014#ALL#  ZIP: 
+0015#STR0015#ALL#  City  : 
+0016#STR0016#ALL#  ST: 
+0017#STR0017#ALL#CTPS: 
+0018#STR0018#ALL# Series: 
+0019#STR0019#ALL#    Admission Date: 
+0020#STR0020#ALL#Dismissal Date: 
+0021#STR0021#ALL#Address : 
+0022#STR0022#ALL#  Area  : 
+0023#STR0023#ALL#ZIP: 
+0024#STR0024#ALL#  City  : 
+0025#STR0025#ALL#ST: 
+0026#STR0026#ALL#SONS BELOW AGE 14 - Data extracted from Certificates   )   
+0027#STR0027#ALL#|No. |          SON'S NAME            | DT.BIRTH |  PLACE OF  |NOTARY PUBL.|REG.NO. | BOOK  | SHEET | DT.   |WR.OFF | IAPAS INSPECT|
+0028#STR0028#ALL#|Ord.|                                |          |     BIRTH  |            |        |  NO.  |  NO.  | DELIV.|  DATE | CHECKING     |
+0029#STR0029#ALL#| AMOUNT OF A FAMILY ALLOWANCE                                    | TOTAL AMOUNT OF FAMILY ALLOWANCES TO PAY                       |
+0030#STR0030#ALL#| On          ___    __________________    _____  R$ ____________ | From ___ of ________________________ of _____  R$ ____________ |
+0031#STR0031#ALL#| Modified on ___ of __________________    _____  R$ ____________ | From ___ of ________________________ of _____  R$ ____________ |
+0032#STR0032#ALL#I RECEIVED THE DOCUMENT ABOVE
+0033#STR0033#ALL#SIGNATURE 
+0034#STR0034#ALL#Employee : 
+0035#STR0035#ALL#UNDER-AGED CHILDREN   - (Data extracted from Certificates) 
+0036#STR0036#ALL#|No. |             NAME OF CHILD              | B-DAY |            PLACE OF            |  REGISTRY  | REG N. |  No.  |   No. |               REGISTRATION             | DT.      | DA DT.    |            CHECK             |
+0037#STR0037#ALL#|Ord.|                                        |          |           BIRTH           |            |        | BOOK | PAGE |                                     | ENTR.    | WRITE-OFF    |          FISC.INSS           |
+0038#STR0038#ALL#| On         ___________________  _____, _____  R$ _________________ | From ___________________  _____, ______  R$ ______________ | From ___________________  _____, ______  R$ _______________ |
+0039#STR0039#ALL#| Edited on         ___________________  _____, _____  R$ _________________ | From ___________________  _____, ______  R$ ______________ | From ___________________  _____, ______  R$ _______________ |
+0040#STR0040#ALL#ANNUAL DELIVERY OF VACCINE CERTIFICATES - Children up to 6 years of age (Art. 67 of Law 8,213/91 - Composition given by Law no. 9,876 from 11/26/1999)
+0041#STR0041#ALL#|           Child           |     Date of Delivery      |           Child           |     Date of Delivery      |           Child           |     Date of Delivery      |           Child           |     Date of Delivery     |
+0042#STR0042#ALL#| VALUE OF A FAMILY ALLOWANCE                                             | VALUE OF FAMILY ALLOWANCE PAYABLE                              |VALUE OF FAMILY ALLOWANCE PAYABLE TOTAL                                |

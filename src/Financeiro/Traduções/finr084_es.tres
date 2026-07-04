@@ -1,0 +1,33 @@
+0001#STR0001#ALL#El objetivo de este programa es imprimir un informe 
+0002#STR0002#ALL#segun los parametros informados por el usuario.      
+0003#STR0003#ALL#Informe de diferencias de cambio  
+0004#STR0004#ALL#Informe de diferenc. de cambio de cuentas por pagar
+0005#STR0005#ALL#Prov./Fil      Venc.    Emision    Registro      Modalid.    Prefijo/Numero/Parc.   Tipo      Valor 
+0006#STR0006#ALL#Proveedor 
+0007#STR0007#ALL#Prefijo+Numero
+0008#STR0008#ALL#Modalid.
+0009#STR0009#ALL#Emision
+0010#STR0010#ALL#Vencimien.
+0011#STR0011#ALL#Registro
+0012#STR0012#ALL#Lineas
+0013#STR0013#ALL#Administrac. 
+0014#STR0014#ALL#     Valor Orig Mon.    Tasa
+0015#STR0015#ALL#   Aj. Anterior         Ajuste
+0016#STR0016#ALL#***ANULADO POR EL OPERADOR***
+0017#STR0017#ALL#Diferencia de cambio->
+0018#STR0018#ALL#Documento ajustado->
+0019#STR0019#ALL#No disp. 
+0020#STR0020#ALL#Valor ajustado : 
+0021#STR0021#ALL#Prov./Suc
+0022#STR0022#ALL#Venc.
+0023#STR0023#ALL#Emision
+0024#STR0024#ALL#Registro
+0025#STR0025#ALL#Modalidad
+0026#STR0026#ALL#Prefijo/Numero/Cuot
+0027#STR0027#ALL#Tipo
+0028#STR0028#ALL#Valor
+0029#STR0029#ALL#Valor Orig
+0030#STR0030#ALL#Tasa
+0031#STR0031#ALL#Mon.
+0032#STR0032#ALL#Aj. Anterior
+0033#STR0033#ALL#Ajuste

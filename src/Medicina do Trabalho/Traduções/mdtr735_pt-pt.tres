@@ -1,0 +1,91 @@
+0001#STR0001#ALL#Número do acidente não existente.
+0002#STR0002#ALL#Registo Inválido
+0003#STR0003#ALL#Investigação e análise de acidente
+0004#STR0004#ALL#Domingo
+0005#STR0005#ALL#Segunda-feira
+0006#STR0006#ALL#Terça-feira
+0007#STR0007#ALL#Quarta-feira
+0008#STR0008#ALL#Quinta-feira
+0009#STR0009#ALL#Sexta-feira
+0010#STR0010#ALL#Sábado
+0011#STR0011#ALL# Janeiro
+0012#STR0012#ALL#Fevereiro
+0013#STR0013#ALL#  março
+0014#STR0014#ALL#  Abril
+0015#STR0015#ALL#   Maio
+0016#STR0016#ALL#  Junho
+0017#STR0017#ALL#  Julho
+0018#STR0018#ALL#  Agosto
+0019#STR0019#ALL# Setembro
+0020#STR0020#ALL# Outubro
+0021#STR0021#ALL# Novembro
+0022#STR0022#ALL# Dezembro
+0023#STR0023#ALL#Programa de controlo médico de saúde ocupacional
+0025#STR0025#ALL#Data
+0026#STR0026#ALL#Dia Da Semana
+0027#STR0027#ALL#Horário
+0028#STR0028#ALL#Nome
+0029#STR0029#ALL#R.g. Funcional
+0030#STR0030#ALL#Solteiro(a)
+0031#STR0031#ALL#Casado(a)
+0032#STR0032#ALL#Divorciado(a)
+0033#STR0033#ALL#Marital
+0034#STR0034#ALL#Divorciado(a)
+0035#STR0035#ALL#Viúvo(a)
+0036#STR0036#ALL#Masculino
+0037#STR0037#ALL#Feminino
+0038#STR0038#ALL#Data de admissão
+0039#STR0039#ALL#Idade
+0040#STR0040#ALL# Anos
+0041#STR0041#ALL#Estado Civil
+0042#STR0042#ALL#Sexo
+0043#STR0043#ALL#Instrução
+0044#STR0044#ALL#Centro De Custo
+0045#STR0045#ALL#Cargo
+0046#STR0046#ALL#Superior Imediato
+0047#STR0047#ALL#Função
+0048#STR0048#ALL#Horário de trabalho
+0049#STR0049#ALL#Intervalo
+0050#STR0050#ALL#Para utilização da área de medicina do trabalho
+0051#STR0051#ALL#Partes Do Corpo Atingidas
+0052#STR0052#ALL#Dt.Iníc.Afast.
+0054#STR0054#ALL#Ausência
+0055#STR0055#ALL#Tempo provável de afastamento
+0056#STR0056#ALL#Sim
+0057#STR0057#ALL# Dias
+0058#STR0058#ALL#Não
+0059#STR0059#ALL#Comunicação de acidente de trabalho
+0060#STR0060#ALL#Não
+0061#STR0061#ALL#C.i.d. Principal:
+0062#STR0062#ALL#C.i.d. Complementar:
+0063#STR0063#ALL#Diagnóstico provisório
+0064#STR0064#ALL#Diagnóstico definitivo
+0065#STR0065#ALL#Observações
+0066#STR0066#ALL#Médico
+0067#STR0067#ALL#Para utilização da área de segurança do trabalho
+0068#STR0068#ALL#Dados Do Acidente
+0069#STR0069#ALL#Actividade Executada No Acto Do Acidente
+0070#STR0070#ALL#Local
+0071#STR0071#ALL#Recebeu treino ?
+0072#STR0072#ALL#Tipo Acidente
+0073#STR0073#ALL#Agente da lesão
+0074#STR0074#ALL#Parte Atingida
+0075#STR0075#ALL#Causas Do Acidente:
+0076#STR0076#ALL#Descrição e análise do acidente:
+0077#STR0077#ALL#Custo Do Acidente
+0078#STR0078#ALL#Meses
+0079#STR0079#ALL#Valor diário
+0080#STR0080#ALL#Dias
+0081#STR0081#ALL#Valor total do mês
+0082#STR0082#ALL#Para Uso Da Cipa
+0083#STR0083#ALL#Causa(s) Do Acidente
+0084#STR0084#ALL#Medida(s) Proposta(s)
+0085#STR0085#ALL#Cipeiro
+0087#STR0087#ALL#Tramitação e vistos
+0088#STR0088#ALL#área de pessoal
+0089#STR0089#ALL#Segurança
+0090#STR0090#ALL#Medicina Do Trabalho
+0091#STR0091#ALL#Cliente?
+0093#STR0093#ALL#O acidente seleccionado não existe para o cliente.
+0094#STR0094#ALL#Número do Acidente ?
+0104#STR0104#ALL#       VALOR DO CUSTO INDIRECTO

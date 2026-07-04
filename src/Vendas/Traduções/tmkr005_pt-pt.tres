@@ -1,0 +1,60 @@
+0002#STR0002#ALL#Este programa irá emitir uma relação de análise da vendas
+0003#STR0003#ALL#Realizadas Pelos Vendedores No Atendimento Televendas
+0004#STR0004#ALL#Conforme os parâmetros previamente definidos
+0005#STR0005#ALL#Código de barras
+0007#STR0007#ALL#Cancelado Pelo Operador
+0008#STR0008#ALL#Item Artigo         Descricão                      St   Qtdade.    Vl. Unitário        Vl. Item  %Desc    Vl. Desconto  %acrés   Vl. Acréscimo Tes Cfop      Tabela      Base Icms Lp Um Entrega    Lote       Sub-lt Validade
+0009#STR0009#ALL#Não existem dados a serem impressos para este relatório com os parâmetros escolhidos
+0010#STR0010#ALL#Total
+0011#STR0011#ALL#Total de atendimentos estimados para o período de 
+0014#STR0014#ALL#Vendedor                                          Atendimentos        Orçamentos           Valor           Facturados            Valor
+0015#STR0015#ALL#Artigo Facturado                                    Quantidade                 %           Valor
+0016#STR0016#ALL#Media                                             Atendimentos                 %
+0017#STR0017#ALL#Artigo Facturado                                  Media                                                   Quantidade            Valor
+0018#STR0018#ALL#Campanha                                          Atendimentos                 %
+0019#STR0019#ALL#Artigo Facturado                                  Campanha                                                Quantidade            Valor
+0020#STR0020#ALL#Data      Vendedor                                           Atendimentos        Orçamentos           Valor           Facturados            Valor
+0021#STR0021#ALL#Data      Media                                              Atendimentos        Orçamentos           Valor           Facturados            Valor
+0022#STR0022#ALL#Data      Campanha                                           Atendimentos        Orçamentos           Valor           Facturados            Valor
+0023#STR0023#ALL#T.M.A. por operação de Atendimento
+0024#STR0024#ALL#T.M.A. por operação de Atendimento X Vendedor
+0025#STR0025#ALL#T.M.A. por operação de Orçamento
+0026#STR0026#ALL#T.M.A. por operação de Orçamento X Vendedor
+0027#STR0027#ALL#T.M.A. por operação de Facturação
+0028#STR0028#ALL#T.M.A. por operação de Facturação X Vendedor
+0029#STR0029#ALL#T.m.a. Geral
+0030#STR0030#ALL#T.m.a. Geral X Vendedor
+0031#STR0031#ALL#Valor de orçamento x atendimento (media)
+0032#STR0032#ALL#Valor de facturação x atendimento (media)
+0033#STR0033#ALL#Valor de facturação x atendimento (media)
+0034#STR0034#ALL#Vendedor                                                Orçamento        Desvio                  Facturação        Desvio
+0036#STR0036#ALL#Orçamento
+0037#STR0037#ALL#Desvio
+0038#STR0038#ALL#Facturação
+0039#STR0039#ALL#Operação
+0040#STR0040#ALL#Atendimentos
+0041#STR0041#ALL#Valor Negociado
+0042#STR0042#ALL#Valor
+0043#STR0043#ALL#Facturados
+0044#STR0044#ALL#Valor Total
+0045#STR0045#ALL#Artigo Facturado
+0046#STR0046#ALL#Quantidade
+0047#STR0047#ALL#Media
+0048#STR0048#ALL#Campanha
+0049#STR0049#ALL#Data
+0050#STR0050#ALL#Orçamentos
+0051#STR0051#ALL#Total De Atendimentos Do Período
+0052#STR0052#ALL#Totalização dos tempos de atendimento (t.m.a)
+0053#STR0053#ALL#Valor De Orçamento X Média De Atendimento
+0054#STR0054#ALL#Valor De Facturação X Média De Atendimento
+0055#STR0055#ALL#Valor De Facturação Por Vendedor
+0056#STR0056#ALL#Valor Negociado E Números De Atendimento Por Operação
+0057#STR0057#ALL#Números De Atendimentos, Orçamentos E Facturações Por Vendedor
+0058#STR0058#ALL#Quantidade E Valor Por Artigo Facturado
+0059#STR0059#ALL#Total De Atendimentos Por Média
+0060#STR0060#ALL#Quantidade E Valor De Artigos Facturados Por Média
+0061#STR0061#ALL#Total De Atendimentos Por Campanha
+0062#STR0062#ALL#Quantidade E Valor De Artigos Facturados Por Campanha
+0063#STR0063#ALL#Números De Atendimentos, Orçamentos E Facturação Por Vendedor
+0064#STR0064#ALL#Números De Atendimentos, Orçamentos E Facturação Por Média
+0065#STR0065#ALL#Números De Atendimentos, Orçamentos E Facturação Por Campanha

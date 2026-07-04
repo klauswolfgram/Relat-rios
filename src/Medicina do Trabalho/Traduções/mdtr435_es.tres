@@ -1,0 +1,73 @@
+0001#STR0001#ALL#Informe de Empleados de Licencia.          
+0002#STR0002#ALL#A través de los parámetros, puede seleccionarse el código 
+0003#STR0003#ALL#de licencia y el período deseado.                          
+0004#STR0004#ALL#A Rayas
+0005#STR0005#ALL#Administración
+0006#STR0006#ALL#Empleados de Licencia
+0007#STR0007#ALL#Cód. Descripcion de la Licencia
+0008#STR0008#ALL#   Mat.    Empleado                       CIE         Fch Licenc.  Fch. Ret.  Días
+0009#STR0009#ALL#ANULADO POR EL OPERADOR
+0010#STR0010#ALL#Total Días de Licencia
+0011#STR0011#ALL#Situación del Empleado?
+0012#STR0012#ALL#En licencia
+0013#STR0013#ALL#Despedido
+0014#STR0014#ALL#¿De Cliente?
+0015#STR0015#ALL#Código del cliente. El campo puede permanecer vacío para considerar desde el primer código.
+0016#STR0016#ALL#Tienda
+0017#STR0017#ALL#Código de la tienda del cliente. El campo puede permanecer vacío para considerar desde el primer código.
+0018#STR0018#ALL#¿A Cliente?
+0019#STR0019#ALL#Código del cliente. El campo puede completarse con la letra Z hasta el final para considerar el último código.
+0020#STR0020#ALL#Código de la tienda del cliente. El campo puede completarse con la letra Z hasta el final para considerar el último código.
+0021#STR0021#ALL#Empleados de Licencia
+0022#STR0022#ALL#Cliente
+0023#STR0023#ALL#Nombre
+0024#STR0024#ALL#Tipo Licencia
+0025#STR0025#ALL#Licencia
+0026#STR0026#ALL#Descripción
+0027#STR0027#ALL#Empleados
+0028#STR0028#ALL#Matricula
+0029#STR0029#ALL#Empleado
+0030#STR0030#ALL#CIE
+0031#STR0031#ALL#Fch. Licenc.
+0032#STR0032#ALL#Fch. Ret.
+0033#STR0033#ALL#Días
+0034#STR0034#ALL#Total días licencia
+0035#STR0035#ALL#Procesando archivo...
+0036#STR0036#ALL#Cliente/Tienda: 
+0037#STR0037#ALL#No hay nada para imprimir en el informe.
+0038#STR0038#ALL#Vacaciones
+0039#STR0039#ALL#Activos
+0040#STR0040#ALL#Todas
+0041#STR0041#ALL#Total de la Licencia
+0042#STR0042#ALL#Total días licencia
+0043#STR0043#ALL#Total Empleados
+0044#STR0044#ALL#Total General
+0045#STR0045#ALL#Total General de días
+0046#STR0046#ALL#Total General Empleados
+0047#STR0047#ALL#Indica si debe considerar solamente los empleados de licencia, despedidos, de vacaciones, activos o todos.
+0048#STR0048#ALL#¿Imprimir?
+0049#STR0049#ALL#Tipo F,O,P,S,Y
+0050#STR0050#ALL#Todos
+0051#STR0051#ALL#Indica si debe considerar solamente las licencias de tipo F, O, P, S e Y o todos.
+0052#STR0052#ALL#¿A Fecha Licenc. ?
+0053#STR0053#ALL#¿De Fecha Licenc. ?
+0054#STR0054#ALL#¿A Cód. Licencia ?
+0055#STR0055#ALL#¿De  Cód. Licencia ?
+0056#STR0056#ALL#¿A Centro de Costo?
+0057#STR0057#ALL#¿De Centro de Costo?
+0058#STR0058#ALL#¿A CIE?
+0059#STR0059#ALL#¿De CIE?
+0060#STR0060#ALL#¿A Cód.Licencia?
+0061#STR0061#ALL#¿De Cód.Licencia?
+0062#STR0062#ALL#Código del centro de costo El campo puede permanecer vacío para que se tenga en cuenta desde el primer código.
+0063#STR0063#ALL#Código del centro de costo El campo puede completarse con la letra Z hasta el final para considerar el último código.
+0064#STR0064#ALL#Código del CIE. El campo puede permanecer vacío para que se tenga en cuenta desde el primer código.
+0065#STR0065#ALL#Código del CIE. El campo puede completarse con la letra Z hasta el final para considerar el último código.
+0066#STR0066#ALL#¿Todas las licencias?
+0067#STR0067#ALL#Sí
+0068#STR0068#ALL#No
+0069#STR0069#ALL#Indica si se debe imprimir todas las licencias o solamente la última.
+0070#STR0070#ALL#¿De Tipo ausencia ?
+0071#STR0071#ALL#¿A Tipo ausencia ?
+0072#STR0072#ALL#Código del Tipo de ausencia. El campo puede permanecer vacío para considerar desde el primer código.
+0073#STR0073#ALL#Código del Tipo de ausencia. El campo puede completarse con la letra Z hasta el final para considerar el último código.

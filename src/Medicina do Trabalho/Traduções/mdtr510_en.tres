@@ -1,0 +1,53 @@
+0001#STR0001#ALL#Health Certificate
+0002#STR0002#ALL#From Medical Rep.  ?
+0003#STR0003#ALL#To Medical Rep.    ?
+0004#STR0004#ALL#From Date          ?
+0005#STR0005#ALL#To Date            ?
+0006#STR0006#ALL#From CID             ?
+0007#STR0007#ALL#To CID            ?
+0008#STR0008#ALL#OCCUPATIONAL HEALTH MEDICAL CONTROL PROGRAM
+0009#STR0009#ALL#MEDICAL REPORTS INTERNAL COMMUNICATION FOR WORK ABSENCE
+0010#STR0010#ALL#Unit:
+0011#STR0011#ALL#Date:
+0012#STR0012#ALL#I.D.
+0013#STR0013#ALL#NAME
+0014#STR0014#ALL#ABSENCE PERIOD
+0015#STR0015#ALL#NOTES
+0016#STR0016#ALL#DOCTOR
+0017#STR0017#ALL#NURSING ASSISTANT
+0018#STR0018#ALL#REGISTRAT
+0019#STR0019#ALL#From Customer ?
+0020#STR0020#ALL#Customer Code. Leave the field blank to consider since the first code.	
+0021#STR0021#ALL#Unit
+0022#STR0022#ALL#Customer code unit. Leave the field blank to consider since the first code.	
+0023#STR0023#ALL#To Customer ?
+0024#STR0024#ALL#Customer code. Fill in the field with Z up to its limit to consider the last code.	
+0025#STR0025#ALL#Customer unit code. Fill in the field with Z up to its limit to consider the last code.
+0026#STR0026#ALL#To ICD?
+0027#STR0027#ALL#From ICD?
+0028#STR0028#ALL#To Date?
+0029#STR0029#ALL#From Date?
+0030#STR0030#ALL#To Medical Record?
+0031#STR0031#ALL#From Medical Record?
+0032#STR0032#ALL#INTERNAL COMMUNICATION OF CERTIFICATES DUE TO LACK OF WORK
+0033#STR0033#ALL#Indicate from which cost center you want to filter. The field can remain empty to consider from the first code.
+0034#STR0034#ALL#Indicate until which cost center you want to filter. The field can be filled in with the letter Z until the end in order to consider the last code.
+0035#STR0035#ALL#From Cost Center?
+0036#STR0036#ALL#To Cost Center?
+0037#STR0037#ALL#From Function?
+0038#STR0038#ALL#To Function ?
+0039#STR0039#ALL#Enter until which Function you want to filter. The field can remain empty to consider from the first code.
+0040#STR0040#ALL#Select until which Function you want to filter. The field can be filled in with the letter Z until the end in order to consider the last code.
+0041#STR0041#ALL#Consider Certif or Leave
+0042#STR0042#ALL#Certificate
+0043#STR0043#ALL#Leave
+0044#STR0044#ALL#Set to consider the Date of Medical Certificate or Leave Date.
+0045#STR0045#ALL#COST CENTER
+0046#STR0046#ALL#LEAVE PERIOD
+0047#STR0047#ALL#LOST HOURS
+0048#STR0048#ALL#LOST DAYS
+0049#STR0049#ALL#There is no statement to print.
+0050#STR0050#ALL#                                         RESPONSIBLE                                                                                   HEALTH PHYSICIAN         
+0051#STR0051#ALL# to 
+0052#STR0052#ALL#ICD Group
+0053#STR0053#ALL#ICD

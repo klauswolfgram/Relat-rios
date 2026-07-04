@@ -1,0 +1,22 @@
+0001#STR0001#ALL#LIST OF TRAINEES BY DOCUMENT     
+0002#STR0002#ALL#This program will print a list of trainees by           
+0003#STR0003#ALL#document and list who has been trained in each document.    
+0004#STR0004#ALL#Z.Form 
+0005#STR0005#ALL#Management
+0006#STR0006#ALL#Selecting Records...    
+0007#STR0007#ALL#TRAINNING                       FUNCTION           DEPARTMENT  NUMBER/YEAR DT.REQUEST      DT.ACCOMPLISHMENT  PARTICIPANT JUSTIFICATION
+0008#STR0008#ALL#                                                                 DATE          DATE                                    
+0009#STR0009#ALL#CANCELLED BY OPERATOR
+0010#STR0010#ALL#Document: 
+0011#STR0011#ALL#Training:   
+0012#STR0012#ALL#Accompl. 
+0013#STR0013#ALL#Pending 
+0014#STR0014#ALL#Yes
+0015#STR0015#ALL#No
+0016#STR0016#ALL#Training   
+0017#STR0017#ALL#Trainees 
+0018#STR0018#ALL#Trainee  
+0019#STR0019#ALL#Function
+0020#STR0020#ALL#Department  
+0021#STR0021#ALL#Participant 
+0022#STR0022#ALL#Justification

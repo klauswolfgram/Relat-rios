@@ -1,0 +1,62 @@
+0001#STR0001#ALL#Report showing the sales quantities (consumptions) of 
+0002#STR0002#ALL#inventory products by Area and Customer.  
+0003#STR0003#ALL#This report will be printed in the 132 column form.           
+0004#STR0004#ALL#Inventory ABC Curve  - Order of 
+0005#STR0005#ALL# / % of Participation
+0006#STR0006#ALL#Z.Form 
+0007#STR0007#ALL#Management   
+0008#STR0008#ALL#Selecting Records...      
+0009#STR0009#ALL#Part Number    C Denomination                      Unit Value     % Part %Accum
+0010#STR0010#ALL#CANCELLED BY THE OPERATOR  
+0011#STR0011#ALL#Region:  
+0012#STR0012#ALL#Jan
+0013#STR0013#ALL#Feb
+0014#STR0014#ALL#Mar
+0015#STR0015#ALL#Apr
+0016#STR0016#ALL#May
+0017#STR0017#ALL#Jun
+0018#STR0018#ALL#Jul
+0019#STR0019#ALL#Aug
+0020#STR0020#ALL#Sep
+0021#STR0021#ALL#Oct
+0022#STR0022#ALL#Nov
+0023#STR0023#ALL#Dec
+0024#STR0024#ALL#    C.M.M. Cons.Tot.
+0025#STR0025#ALL#Total:
+0026#STR0026#ALL#Grand Total:
+0027#STR0027#ALL#Stock ABC curve - Order of      
+0028#STR0028#ALL#Report to display the amount of sales (consumptions) of       
+0029#STR0029#ALL#products in stock by region and customer.    
+0030#STR0030#ALL#This report must be printed in the 132-column form.             
+0031#STR0031#ALL# /Participation %   
+0032#STR0032#ALL#Region: 
+0033#STR0033#ALL#Participation: 
+0034#STR0034#ALL#Unit value    
+0035#STR0035#ALL#Part %
+0036#STR0036#ALL#Accum%
+0037#STR0037#ALL#Class 
+0038#STR0038#ALL#C.M.M.
+0039#STR0039#ALL#Cons.Tot.
+0040#STR0040#ALL#Grand total:
+0041#STR0041#ALL#Selecting records ...    	
+0042#STR0042#ALL#Jan
+0043#STR0043#ALL#Feb
+0044#STR0044#ALL#Mar
+0045#STR0045#ALL#Apr
+0046#STR0046#ALL#May
+0047#STR0047#ALL#Jun
+0048#STR0048#ALL#Jul
+0049#STR0049#ALL#Aug
+0050#STR0050#ALL#Sep
+0051#STR0051#ALL#Oct
+0052#STR0052#ALL#Nov
+0053#STR0053#ALL#Dec
+0054#STR0054#ALL#(C.M.S.* Unit Val)
+0055#STR0055#ALL#Participat. %
+0056#STR0056#ALL#Monthly Accrued
+0057#STR0057#ALL#Custom.
+0058#STR0058#ALL#Product
+0059#STR0059#ALL#Monthly amounts
+0060#STR0060#ALL#Month
+0061#STR0061#ALL#ABC Stock Curve
+0062#STR0062#ALL#Order from

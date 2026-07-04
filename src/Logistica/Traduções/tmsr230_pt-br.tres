@@ -1,0 +1,18 @@
+0001#STR0001#ALL#Fluxo de Carga por Filial
+0002#STR0002#ALL#Este relatório irá imprimir o fluxo de carga por filial.
+0003#STR0003#ALL#Zebrado
+0004#STR0004#ALL#Administração
+0005#STR0005#ALL#EMISSÃO             CTRC                PESO REAL           PESO CUBADO         VAL.MERC.           VOLUMES             VAL.FRETE
+0006#STR0006#ALL#Selecionando registros...
+0007#STR0007#ALL#CANCELADO PELO OPERADOR
+0008#STR0008#ALL#Totais: 
+0009#STR0009#ALL#Filial de Origem : 
+0010#STR0010#ALL#Filial de Destino: 
+0011#STR0011#ALL#Não existem dados para a impressão deste relatório.
+0012#STR0012#ALL#Fluxo de Carga por Filial
+0013#STR0013#ALL#Este relatório irá imprimir o fluxo de carga por filial.
+0014#STR0014#ALL#Fil.Origem + Fil.Destino
+0015#STR0015#ALL#Fluxo de Carga
+0016#STR0016#ALL#Descrição
+0017#STR0017#ALL#Documento
+0018#STR0018#ALL#Qtde Docto

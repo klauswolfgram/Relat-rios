@@ -1,0 +1,26 @@
+0001#STR0001#ALL#Relatório Da Base De Dados De Horas
+0002#STR0002#ALL#Será impresso de acordo com os parâmetros solicitados pelo utilizador.
+0003#STR0003#ALL#Registo
+0004#STR0004#ALL#Centro De Custo
+0006#STR0006#ALL#Código de barras
+0007#STR0007#ALL#Administração
+0008#STR0008#ALL#Relatório Da Base De Dados De Horas
+0010#STR0010#ALL#Total c. custo
+0011#STR0011#ALL#Total filial
+0012#STR0012#ALL#Total empresa
+0013#STR0013#ALL#Fil Reg.   Empregado                               Data     Evento                        Debito    Crédito       Saldo  Status
+0014#STR0014#ALL#** cancelado pelo operador **
+0015#STR0015#ALL#Fil Reg.   Empregado                                                   Saldo Anterior     Debito    Crédito       Saldo  Status
+0016#STR0016#ALL#C. Custo+ Nome
+0017#STR0017#ALL#                                                     Data     Evento                        Débito    Crédito       Saldo  Status
+0018#STR0018#ALL#                                                                         Saldo Anterior     Débito    Crédito       Saldo  Status
+0019#STR0019#ALL#Empregados
+0027#STR0027#ALL#Total Por Filial
+0028#STR0028#ALL#Total Por Empresa
+0029#STR0029#ALL#Total Por Centro De Custo
+0030#STR0030#ALL#Liquidado
+0032#STR0032#ALL#Total por Empregado  
+0033#STR0033#ALL#Emite relatório de banco de horas.
+0036#STR0036#ALL#Saldo Empregado
+0037#STR0037#ALL#Seleccionar a opção  de impressao: 
+0038#STR0038#ALL#Por período

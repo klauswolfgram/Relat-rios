@@ -1,0 +1,61 @@
+0001#STR0001#ALL#Issue the summary of accidents w/ victim 
+0002#STR0002#ALL#according to Chart III of NR4.
+0003#STR0003#ALL#Z. Form
+0004#STR0004#ALL#Management
+0005#STR0005#ALL#Chart of accidents with victim
+0006#STR0006#ALL#CANCELLED BY THE OPERATOR
+0007#STR0007#ALL#|ACCIDENTS W/VICTIM______________________________________________  PERIOD FROM
+0008#STR0008#ALL#|RESPONSIBLE:________________________________________________                              SIGN.:____________________________________|
+0009#STR0009#ALL#|                  Sector                 | Number |Leave    |Leave  | Without  |  Index |  Days/   |   Rate   | Deaths |  Index  |
+0010#STR0010#ALL#|                                         |Absolute|Smaller or| Larger |Leave | Relative |  Man     |    of    |        | of Eval. |
+0011#STR0011#ALL#|                                         |        |Equal to | Than 
+0012#STR0012#ALL#|                                         |        |   
+0013#STR0013#ALL#Total of Establishment
+0014#STR0014#ALL#Fr Date ?
+0015#STR0015#ALL#To Date ?
+0016#STR0016#ALL#No information to display
+0017#STR0017#ALL#From Customer?
+0018#STR0018#ALL#Unit
+0019#STR0019#ALL#To Customer ?
+0020#STR0020#ALL#Responsible
+0021#STR0021#ALL#|RESPONSIBLE:
+0022#STR0022#ALL#SIG:____________________________________|
+0023#STR0023#ALL#Responsible code. This question can remain blank if responsible name is entered manually.
+0024#STR0024#ALL#Date of Map of report of Accidents with Victims.
+0025#STR0025#ALL#COMPANY DATE
+0026#STR0026#ALL#COMPANY: 
+0027#STR0027#ALL#CITY: 
+0028#STR0028#ALL#ADDRESS: 
+0029#STR0029#ALL#PHONE: 
+0030#STR0030#ALL#Working days in year?
+0031#STR0031#ALL#Working hours?
+0032#STR0032#ALL#To Date?
+0033#STR0033#ALL#Map Date
+0034#STR0034#ALL#From Branch?
+0035#STR0035#ALL#To Branch?
+0036#STR0036#ALL#|                  Sector                 | Number |Leave   |Leave   | Without|  Index   |  Days/   |   Rate   | Deaths |   Rate   |
+0037#STR0037#ALL#|                                         |Absolute |Less or | Greater|Leave   | Relative |   Man    |    of    |        |    of    |
+0038#STR0038#ALL#|                                         |        |Equal to | Than 
+0039#STR0039#ALL#|                                         |        |   
+0040#STR0040#ALL#TO
+0041#STR0041#ALL#MAP DATE: __/__/___   |
+0042#STR0042#ALL#MAP DATE:
+0043#STR0043#ALL# |        | Total of | Lost | Frequency |        |Severity |
+0044#STR0044#ALL#   |        |        | Hiring |          |          |        |          |
+0045#STR0045#ALL# |        | Total of | Lost | Frequency |        |    of    |
+0046#STR0046#ALL#   |        |        | Hiring |          |          |        | Pregnant |
+0047#STR0047#ALL#Consid. Traj. Accid.?
+0048#STR0048#ALL#It indicates whether to consider the route accidents.
+0049#STR0049#ALL#Per Sector?
+0050#STR0050#ALL#Indicates whether the counting is executed per sector.
+0051#STR0051#ALL#Sector w/o Acc.  ?
+0052#STR0052#ALL#Indicates if sector without accident will be issued.
+0053#STR0053#ALL#Yes
+0054#STR0054#ALL#No
+0055#STR0055#ALL#Type of Hours?
+0056#STR0056#ALL#Average Hours
+0057#STR0057#ALL#Payroll Items
+0058#STR0058#ALL#Indicates whether the number of worked hours, when there is integration with SIGAGPE, is calculated on the average of the hours month (RA_HRSMES / 30), or whether it is accounted according to the payroll items selected in the parameter MV_MDTVERB.
+0059#STR0059#ALL#Attention
+0060#STR0060#ALL#This option is only available for environments with integration with SIGAPON module
+0061#STR0061#ALL#Select another option for this parameter

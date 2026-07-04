@@ -1,0 +1,28 @@
+0001#STR0001#ALL#Roteirizacoes
+0002#STR0002#ALL#Este programa ira emitir a Relacao da Roteirizacao
+0003#STR0003#ALL#distribuida por Rotas, Zonas, Setores e Clientes por Setor
+0004#STR0004#ALL#de acordo com os parametros escolhidos pelo usuario.
+0005#STR0005#ALL#Zebrado
+0006#STR0006#ALL#Administracao
+0007#STR0007#ALL#Por Roteirizacao
+0008#STR0008#ALL#Por Clientes
+0009#STR0009#ALL#ROTA   DESCRICAO                      SEQUENCIA ZONA   DESCRICAO                      SETOR  DESCRICAO
+0010#STR0010#ALL#SEQUENCIA CLIENTE LOJA  NOME                                     ENDERECO                                 CIDADE          ESTADO  CEP       REFERENCIA
+0011#STR0011#ALL#CLIENTE LOJA   NOME                                     ENDERECO                                 CIDADE          ESTADO CEP
+0012#STR0012#ALL#CLIENTE SEM ROTEIRIZACAO - NAO CADASTRADO EM NENHUMA ZONA / SETOR
+0013#STR0013#ALL#ZONA   DESCRICAO                        SETOR  DESCRICAO                                SEQUENCIA   ROTA   DESCRICAO                      SEQUENCIA
+0014#STR0014#ALL#ZONA E SETOR NAO CADASTRADO EM NENHUMA ROTA
+0015#STR0015#ALL#SEQUENCIA	 CEP INICIAL    CEP FINAL    REFERENCIA
+0016#STR0016#ALL#ZONA / SETOR =>
+0017#STR0017#ALL#Roteirizacoes	
+0018#STR0018#ALL#Este programa ira emitir a Relacao da Roteirizacao
+0019#STR0019#ALL#distribuida por Rotas, Zonas, Setores e Clientes por Setor
+0020#STR0020#ALL#de acordo com os parametros escolhidos pelo usuario.
+0021#STR0021#ALL#Por Roteirizacao
+0022#STR0022#ALL#Por Clientes
+0023#STR0023#ALL#Rota
+0024#STR0024#ALL#Zona
+0025#STR0025#ALL#Sequencia
+0026#STR0026#ALL#Cliente
+0027#STR0027#ALL#Sequencia do Cliente
+0028#STR0028#ALL#Campo não existe no banco de dados ou precisa ser do tipo numérico, caracter ou data: 

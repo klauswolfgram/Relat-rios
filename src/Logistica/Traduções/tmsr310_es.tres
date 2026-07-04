@@ -1,0 +1,26 @@
+0001#STR0001#ALL#RELAC. DE VEHICULOS A RECIBIR POR SUCURSAL
+0002#STR0002#ALL#Emite relac. de vehiculos a recibir por sucursal
+0003#STR0003#ALL#conforme    parametros informados
+0004#STR0004#ALL#A Rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#Seleccionando Registros...
+0007#STR0007#ALL#Seleccionando registros DTW...
+0008#STR0008#ALL#----VIAJE----                 DESTINO --PREV LLEGADA--  RUTA ----VEHICULO----   --1o. REBOQUE--    --2o. REBOQUE--   MOTORISTA      
+0009#STR0009#ALL#ORIGEN  NUMERO TIPO ROTA       FINAL   DATA       HORA   OCUP COD      PLACA    COD      PLACA     COD      PLACA                   
+0010#STR0010#ALL#ORIGEN  NUMERO TIPO RUTA       FINAL   FECHA       HORA   OCUP COD      PLACA    COD      PLACA     COD      PLACA                   
+0011#STR0011#ALL#CANCELADO POR EL OPERADOR
+0012#STR0012#ALL#Lista de vehiculos por cobrar por sucursal
+0013#STR0013#ALL#Emite lista de vehiculos por cobrar por sucursal, segun los parametros informados
+0014#STR0014#ALL#Suc.Actividad + Suc.Origen + Viaje
+0015#STR0015#ALL#Suc. Actividad
+0016#STR0016#ALL#Descripcion
+0017#STR0017#ALL#Es
+0018#STR0018#ALL#Viaje
+0019#STR0019#ALL#Perc.Ocup.
+0020#STR0020#ALL#Vehiculo
+0021#STR0021#ALL#matricula
+0022#STR0022#ALL#1. Remolque
+0023#STR0023#ALL#2 Remolque
+0024#STR0024#ALL#Conductor
+0025#STR0025#ALL#Tipo Ruta
+0026#STR0026#ALL#3º Remolque

@@ -1,0 +1,39 @@
+0001#STR0001#ALL#Report of projection for cleaning / maintenance of IPEs. Through    
+0002#STR0002#ALL#parameters, user must inform a period to view a relation 
+0003#STR0003#ALL#with IPEs of employees that need maintenance.  
+0004#STR0004#ALL#Z-form
+0005#STR0005#ALL#Administration
+0006#STR0006#ALL#Cleaning / Maintenance of Equipment (IPE)
+0007#STR0007#ALL#Name Employee                    Registration   Cost Center                  Function                          Birth date  Admission
+0008#STR0008#ALL#     EPI                              Description                                  Delivery Date  Quantity  Last Man.   Next Man.
+0009#STR0009#ALL#Enrollment  Employee Name                        Cost Center                      Position                       Birth Dt.  Admission
+0010#STR0010#ALL#IPE                              Description
+0011#STR0011#ALL#     Employee                          Reg.    Cost Center       Role                Delivery Date Qty.  Last Man.  Next Man.
+0012#STR0012#ALL#Cost Center            Descript.
+0013#STR0013#ALL#     Employee                          Reg.     EPI                              Description                        Delivery Dt   Qty.    Last Man.  Next Man.
+0014#STR0014#ALL#Employee
+0015#STR0015#ALL#Name
+0016#STR0016#ALL#Enrollment
+0017#STR0017#ALL#Cost Center
+0018#STR0018#ALL#Position
+0019#STR0019#ALL#Birth Date
+0020#STR0020#ALL#Admission
+0021#STR0021#ALL#Equipment (IPE)
+0022#STR0022#ALL#IPE
+0023#STR0023#ALL#Description
+0024#STR0024#ALL#Delivery Date
+0025#STR0025#ALL#Quantity
+0026#STR0026#ALL#Last Maint.
+0027#STR0027#ALL#Next Maint.
+0028#STR0028#ALL#From IPE?
+0029#STR0029#ALL#To PPE?
+0030#STR0030#ALL#From Maintenance Date    ?
+0031#STR0031#ALL#To Maintenance Date   ?
+0032#STR0032#ALL#From Registration?
+0033#STR0033#ALL#To Registration?
+0034#STR0034#ALL#From Cost Center?
+0035#STR0035#ALL#To Cost Center?
+0036#STR0036#ALL#Order by?
+0037#STR0037#ALL#Employee
+0038#STR0038#ALL#Registration
+0039#STR0039#ALL#There is nothing to be printed in the report.

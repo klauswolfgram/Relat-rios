@@ -1,0 +1,42 @@
+0001#STR0001#ALL#Relacao dos Produtos Vendidos
+0002#STR0002#ALL#Este relatorio apresenta o valor total das vendas de cada produto,
+0003#STR0003#ALL#calculando sua participacao dentro do total das vendas.Mostra tam-
+0004#STR0004#ALL#bem o custo de cada venda e o custo de reposicao do produto.
+0005#STR0005#ALL#Zebrado
+0006#STR0006#ALL#Administracao
+0007#STR0007#ALL#REGISTRO(S)     Formula da Margem 
+0008#STR0008#ALL#TP CODIGO                         DESCRICAO                       QUANTIDADE UM       (A)CUSTO       CUSTO POR      VALOR FAT.       (B)VALOR    IMPOSTOS NAO    VAL FATURADO     MAR    MIX     MIX        CUSTO DE  VARIA
+0009#STR0009#ALL#                                                                                         TOTAL         UNIDADE          BRUTO        FATURADO      FATURADOS    IMP. NAO FAT.     GEM   *MAR               REPOSICAO    CAO
+0010#STR0010#ALL#Selecionando Registros...
+0011#STR0011#ALL#CANCELADO PELO OPERADOR
+0012#STR0012#ALL#Sub Total : 
+0013#STR0013#ALL#T O T A L ---> 
+0014#STR0014#ALL#Abate Imp Nao Fat ?
+0015#STR0015#ALL#Nao
+0016#STR0016#ALL#Sim
+0017#STR0017#ALL#Perc. Abatimento
+0018#STR0018#ALL#Selecionando Registros...
+0019#STR0019#ALL#TP
+0020#STR0020#ALL#Codigo
+0021#STR0021#ALL#Quantidade
+0022#STR0022#ALL#(A)Custo
+0023#STR0023#ALL#Total
+0024#STR0024#ALL#Custo por
+0025#STR0025#ALL#Unidade
+0026#STR0026#ALL#Val Faturado
+0027#STR0027#ALL#Bruto
+0028#STR0028#ALL#(B)Valor
+0029#STR0029#ALL#Faturado
+0030#STR0030#ALL#Impostos nao
+0031#STR0031#ALL#Faturados
+0032#STR0032#ALL#Imp. Nao Fat.
+0033#STR0033#ALL#Margem
+0034#STR0034#ALL#Mix
+0035#STR0035#ALL#*Mar
+0036#STR0036#ALL#Custo de
+0037#STR0037#ALL#Reposicao
+0038#STR0038#ALL#Variacao
+0039#STR0039#ALL#Produtos
+0040#STR0040#ALL#TP CODIGO                         DESCRICAO                  QUANTIDADE      UM       (A)CUSTO       CUSTO POR      VALOR FAT.       (B)VALOR    IMPOSTOS NAO    VAL FATURADO     MAR    MIX     MIX        CUSTO DE  VARIA
+0041#STR0041#ALL#Qtd.
+0042#STR0042#ALL#Movim.

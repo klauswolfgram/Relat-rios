@@ -1,0 +1,23 @@
+0001#STR0001#ALL#Cronograma - APQP
+0002#STR0002#ALL#Gerando Visualizacao, Aguarde...
+0003#STR0003#ALL#OBSERVACOES GERAIS DO CRONOGRAMA
+0004#STR0004#ALL#Numero da Peca(Cliente)
+0005#STR0005#ALL#Rev/Data do Desenho
+0006#STR0006#ALL#Nome da Peca
+0007#STR0007#ALL#Cliente
+0008#STR0008#ALL#Pagina
+0009#STR0009#ALL#Fornecedor
+0010#STR0010#ALL#Aprovado Por
+0011#STR0011#ALL#Numero/Rev Peca(Fornecedor)
+0012#STR0012#ALL#Data
+0013#STR0013#ALL#Atividade
+0014#STR0014#ALL#Responsavel
+0015#STR0015#ALL#Inicio
+0016#STR0016#ALL#Fim
+0017#STR0017#ALL#Prazo
+0018#STR0018#ALL#Comp.(%)
+0019#STR0019#ALL#Observacoes
+0020#STR0020#ALL#Atividade em dia
+0021#STR0021#ALL#Atividade Expirando nos proximos dias
+0022#STR0022#ALL#Atividade Atrasada
+0023#STR0023#ALL#Atividade Encerrada

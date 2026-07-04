@@ -1,0 +1,30 @@
+0001#STR0001#ALL#Detalle de las ordenes de Produccion
+0002#STR0002#ALL#Este programa imprime el detalle de las ordenes de Produccion
+0003#STR0003#ALL#Por O.P.         
+0004#STR0004#ALL#Por producto     
+0005#STR0005#ALL#Por centro costo 
+0006#STR0006#ALL#A Rayas
+0007#STR0007#ALL#Administracion
+0008#STR0008#ALL# - Por O.P.
+0009#STR0009#ALL# - Por Producto
+0010#STR0010#ALL# - Por Centro Costo
+0011#STR0011#ALL#NUMERO         P R O D U C T O                                                CENTRO    EMISION     ENTREGA      ENTREGA         CANTIDAD          SALDO A      ST TP
+0012#STR0012#ALL#                                                                               COSTO                PREVISTA        REAL         ORIGINAL         ENTREGAR
+0013#STR0013#ALL#ANULADO POR EL OPERADOR
+0014#STR0014#ALL#Total ---->
+0015#STR0015#ALL#NUMERO         P R O D U C T O                                                CENTRO    EMISION     ENTREGA      ENTREGA         CANTIDAD          SALDO A      
+0016#STR0016#ALL#NUMERO         P R O D U C .                                 CENTRO  EMISION  ENTREGA  ENTREGA     CANTIDAD          SALDO A ST TP
+0017#STR0017#ALL#                                                           DE COSTO          PREVISTA     REAL       ORIGINAL       ENTREGAR
+0018#STR0018#ALL#NUMERO         P R O D U C .                                 CENTRO  EMISION  ENTREGA  ENTREGA     CANTIDAD          SALDO A      
+0019#STR0019#ALL#NUMERO
+0020#STR0020#ALL#PRODUC.
+0021#STR0021#ALL#DESCRIPC.
+0022#STR0022#ALL#CENTRO COSTO
+0023#STR0023#ALL#EMIS.
+0024#STR0024#ALL#FC.PREVISTA
+0025#STR0025#ALL#FC. REAL
+0026#STR0026#ALL#CANT. ORIGINAL
+0027#STR0027#ALL#SALDO P ENTREGAR
+0028#STR0028#ALL#ESTAT.
+0029#STR0029#ALL#TIPO
+0030#STR0030#ALL#Ordenes de Prod. 

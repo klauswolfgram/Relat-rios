@@ -1,0 +1,29 @@
+0001#STR0001#ALL#VOUCHER OF DOCUMENTS DELIVERY AND QUALITY RECORDS          
+0002#STR0002#ALL#This program will print the delivery voucher of documents and  
+0003#STR0003#ALL#and quality records, assuring the receipt of documents by all     
+0004#STR0004#ALL# parties ninvolved in its implementation    
+0005#STR0005#ALL#Z.Form 
+0006#STR0006#ALL#Management
+0007#STR0007#ALL#Selecting Records...    
+0008#STR0008#ALL#RESPONSIBLE             TYPE    COPIES                     DATE     SIGNATURE
+0009#STR0009#ALL#CANCELLED BY OPERATOR 
+0010#STR0010#ALL#Department: 
+0011#STR0011#ALL# Electronic 
+0012#STR0012#ALL# Printed 
+0013#STR0013#ALL# Electronic/Printed
+0014#STR0014#ALL# Do not Receive
+0015#STR0015#ALL#Document: 
+0016#STR0016#ALL#Title :
+0017#STR0017#ALL#User
+0018#STR0018#ALL#Folder
+0019#STR0019#ALL#Document 
+0020#STR0020#ALL#Review 
+0021#STR0021#ALL#Title 
+0022#STR0022#ALL#Voucher text      
+0023#STR0023#ALL#Dept.
+0024#STR0024#ALL#Sect.
+0025#STR0025#ALL#Responsible
+0026#STR0026#ALL#Type
+0027#STR0027#ALL#Copies
+0028#STR0028#ALL#Date
+0029#STR0029#ALL#Signature 

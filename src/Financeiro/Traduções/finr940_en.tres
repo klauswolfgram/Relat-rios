@@ -1,0 +1,42 @@
+0001#STR0001#ALL#List of Receivable Bills with PIS / COFINS and CSLL Withholding
+0002#STR0002#ALL#Report used by the user to gather PIS / COFINS and CSLL withholdings of customers in order to confirm withholding values
+0003#STR0003#ALL#Branch
+0004#STR0004#ALL#Customer Data
+0005#STR0005#ALL#Code
+0006#STR0006#ALL#Store
+0007#STR0007#ALL#Customer Name
+0008#STR0008#ALL#CNPJ
+0009#STR0009#ALL#Bills
+0010#STR0010#ALL#ID
+0011#STR0011#ALL#Prf
+0012#STR0012#ALL#Number
+0013#STR0013#ALL#Pc
+0014#STR0014#ALL#Type
+0015#STR0015#ALL#Issue Dt.
+0016#STR0016#ALL#Due Date
+0017#STR0017#ALL#Original Value
+0018#STR0018#ALL#IRRF Value
+0019#STR0019#ALL#ISS Value
+0020#STR0020#ALL#INSS Value
+0021#STR0021#ALL#PIS Value
+0022#STR0022#ALL#COFINS Value
+0023#STR0023#ALL#CSLL Value
+0024#STR0024#ALL#Net Value
+0025#STR0025#ALL#Total of bills
+0026#STR0026#ALL#Corporate Name
+0027#STR0027#ALL#Address
+0028#STR0028#ALL#City
+0029#STR0029#ALL# - STATE
+0030#STR0030#ALL#State Registr.
+0031#STR0031#ALL#Per Customer Code
+0032#STR0032#ALL#Per Customer name
+0033#STR0033#ALL#Bills Receivable with Taxes withholding (Branches selected for the report)
+0034#STR0034#ALL#Selecting Records...
+0035#STR0035#ALL#CANCELED BY OPERATOR
+0036#STR0036#ALL#Branch: 
+0037#STR0037#ALL#A = Pis,Cofins and Csll values of this bill have been withheld in another bill.
+0038#STR0038#ALL#Customer Total -> 
+0039#STR0039#ALL#BILLS
+0040#STR0040#ALL#BILL
+0041#STR0041#ALL#GRAND TOTAL ----> 
+0042#STR0042#ALL#BRANCH TOTAL ----> 

@@ -1,0 +1,35 @@
+0001#STR0001#ALL#Registration
+0002#STR0002#ALL#C.Center
+0003#STR0003#ALL#Name  
+0004#STR0004#ALL#REMUNERATIONS BOOK
+0005#STR0005#ALL#Code      Name                          R.U.T.
+0006#STR0006#ALL#Remunerations Book Issue.
+0007#STR0007#ALL#Will be printed according to the parameters requested by
+0008#STR0008#ALL#the user.
+0009#STR0009#ALL#Z.form
+0010#STR0010#ALL#Administration
+0011#STR0011#ALL#REMUNERATIONS BOOK ISSUE
+0012#STR0012#ALL#Page : 
+0013#STR0013#ALL#Date   : 
+0014#STR0014#ALL#REMUNERATIONS BOOK TOTALS
+0015#STR0015#ALL#TOTAL
+0016#STR0016#ALL#Issued by: 
+0017#STR0017#ALL#Hour   :
+0018#STR0018#ALL#Period: Month Remuneration 
+0019#STR0019#ALL#Group by: 
+0020#STR0020#ALL#Select.: 
+0021#STR0021#ALL#Employee Name 
+0022#STR0022#ALL#Position
+0023#STR0023#ALL#Days 
+0024#STR0024#ALL#Rut.Empl
+0025#STR0025#ALL#The reference date is posterior to the current transaction
+0026#STR0026#ALL#Attention
+0027#STR0027#ALL#Empty Field
+0028#STR0028#ALL#The field Process is empty
+0029#STR0029#ALL#The field Payroll Type is empty
+0030#STR0030#ALL#The field Period is empty
+0031#STR0031#ALL#The field Payment Number is empty
+0032#STR0032#ALL#from
+0033#STR0033#ALL#Canceled by operator
+0034#STR0034#ALL#No period found
+0035#STR0035#ALL#Check Printing Parameters

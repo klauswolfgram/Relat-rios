@@ -1,0 +1,79 @@
+0001#STR0001#ALL#This routine will print a Trial Balance of Customers/
+0002#STR0002#ALL#Suppliers. Also can be issued all the transactions   
+0003#STR0003#ALL#refering to them, or the original values.   
+0004#STR0004#ALL#Trial Balance Current Accnts
+0005#STR0005#ALL#Z.Form 
+0006#STR0006#ALL#Management   
+0007#STR0007#ALL#TRIAL BALANCE OF CHECKING ACCOUNTS OF 
+0008#STR0008#ALL#CUSTOMERS
+0009#STR0009#ALL#SUPPLIERS   
+0010#STR0010#ALL#DATE       HISTORY             PRF NUMBER        PC  ISSUE  TP    DUE DATE     WRITE-OFF          DEBIT       CREDIT          CURRENT BALANCE
+0011#STR0011#ALL#Selecting Records........ 
+0012#STR0012#ALL#Through Bill Issue    
+0013#STR0013#ALL#WRTOFF INV ISS 
+0014#STR0014#ALL#***** Cancelled by the Operator *****
+0015#STR0015#ALL#TO TRANSPORT  : 
+0016#STR0016#ALL#LAST BALANCE   : 
+0017#STR0017#ALL#T o t a l s   o f 
+0018#STR0018#ALL#C u s t o m e r
+0019#STR0019#ALL#S u p p l i e r    
+0020#STR0020#ALL#G r a n d   T o t a l  o f 
+0021#STR0021#ALL#C u s t o m e r s
+0022#STR0022#ALL#S u p p l i e r s      
+0023#STR0023#ALL#C l o s i n g   B a l a n c e   R e p o r t :     
+0024#STR0024#ALL#Ref. to Bill Post.
+0025#STR0025#ALL#Discount on Bill       
+0026#STR0026#ALL#Fine/Interests on Bill 
+0027#STR0027#ALL#Restatement of Bill 
+0028#STR0028#ALL#TO TRANSPORT :  
+0029#STR0029#ALL#BY INVOICE ISSUE
+0030#STR0030#ALL#CREDIT NOTE No. 
+0031#STR0031#ALL#DEBIT NOTE No. 
+0032#STR0032#ALL#INVOICE No. 
+0033#STR0033#ALL#ADVANCE
+0034#STR0034#ALL#INTERNAL CREDIT NOTE
+0035#STR0035#ALL#INTERNAL DEBIT NOTE
+0036#STR0036#ALL#EXTERNAL CREDIT NOTE
+0037#STR0037#ALL#EXTERNAL DEBIT NOTE
+0038#STR0038#ALL#SL.REPR.: 
+0039#STR0039#ALL#PURCHASER: 
+0040#STR0040#ALL#Receipt
+0041#STR0041#ALL#RECEIPT No.: 
+0042#STR0042#ALL#Paym.Order 
+0043#STR0043#ALL#Bill Post
+0044#STR0044#ALL#CUSTOMER                                                           PREVIOUS BALANCE            DEBIT       CREDIT       CURRENT BALANCE
+0045#STR0045#ALL#SUPPLIER                                                           PREVIOUS BALANCE            DEBIT       CREDIT       CURRENT BALANCE
+0046#STR0046#ALL#A c c o u n t  t o t a l s   
+0047#STR0047#ALL#Tax descript
+0048#STR0048#ALL#Descr.of 
+0049#STR0049#ALL#PST ISS INV 
+0050#STR0050#ALL#Interest on pst
+0051#STR0051#ALL#Fine on postng
+0052#STR0052#ALL#Discount on/pstng
+0053#STR0053#ALL#MonetaryC. on/pstng 
+0054#STR0054#ALL#Posting by off-set       
+0055#STR0055#ALL#Records  
+0056#STR0056#ALL#DATE
+0057#STR0057#ALL#HISTORY  
+0058#STR0058#ALL#PRF NUMBER PC
+0059#STR0059#ALL#ISSUE  
+0060#STR0060#ALL#DUE DT
+0061#STR0061#ALL#PSTNG
+0062#STR0062#ALL#DEBIT 
+0063#STR0063#ALL#CREDIT
+0064#STR0064#ALL#CURR. BLNCE
+0065#STR0065#ALL#CUSTOM.
+0066#STR0066#ALL#SUPPLIER  
+0067#STR0067#ALL#PREVIOUS BLNCE
+0068#STR0068#ALL#Detailed 
+0069#STR0069#ALL#Summarized
+0070#STR0070#ALL#Code
+0071#STR0071#ALL#Company
+0072#STR0072#ALL#Business Unit
+0073#STR0073#ALL#Branch
+0074#STR0074#ALL#Branches selected for the report
+0075#STR0075#ALL#Accessory value w/o write-off
+0076#STR0076#ALL#Store cluster does not work with the ledger account filter Filter disabled
+0077#STR0077#ALL#Store cluster does not work with the ledger account filter Cluster disabled
+0078#STR0078#ALL#Dear User, unfortunately it is not possible to generate Excel Spreadsheets in Table format and in the Synthetic option.
+0079#STR0079#ALL#Select other options.

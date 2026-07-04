@@ -1,0 +1,33 @@
+0001#STR0001#ALL#Report of Operations Follow-up 
+0002#STR0002#ALL#This routine will print the list of Operations Follow-up.            
+0003#STR0003#ALL#The Values refering to the time spent will be converted according to  
+0004#STR0004#ALL#MV_TPHR parameter. In using Prod.Mod. 2, some divergences may exist.  
+0005#STR0005#ALL#By PO
+0006#STR0006#ALL#By Resource
+0007#STR0007#ALL#By Init. Date 
+0008#STR0008#ALL#Z. Form
+0009#STR0009#ALL#Management   
+0010#STR0010#ALL#Open File    
+0011#STR0011#ALL#Opening Files...   
+0012#STR0012#ALL#SUNDAY 
+0013#STR0013#ALL#MONDAY 
+0014#STR0014#ALL#TUESDAY
+0015#STR0015#ALL#WEDNESDAY
+0016#STR0016#ALL#THURSDAY
+0017#STR0017#ALL#FRIDAY
+0018#STR0018#ALL#SATURDAY
+0019#STR0019#ALL#PRODUCTION  O. RESOUR.    TOOL     P R O D U C T                                                        S  T  A  R  T                       *                 F  I  N  I  S  H                *    D U R A T I O N 
+0020#STR0020#ALL#ORDER                                                                           A L L O C A T E D         E F F E C T I V E     VARIATION   *   A L L O C A T .    E F F E C T.    VARIATION  *  ALLOC.  EFFEC.   VAR.
+0021#STR0021#ALL#Selecting Records...     
+0022#STR0022#ALL#CANCELLED BY THE OPERATOR  
+0023#STR0023#ALL#Product does not exist in the file
+0024#STR0024#ALL#Start alloc.
+0025#STR0025#ALL#Actual start
+0026#STR0026#ALL#Variat. 
+0027#STR0027#ALL#Alloc.End
+0028#STR0028#ALL#Real End
+0029#STR0029#ALL#Time alloc. 
+0030#STR0030#ALL#Allocated operations Machine Load
+0031#STR0031#ALL#Parameter configuration
+0032#STR0032#ALL#Parameter not configured
+0033#STR0033#ALL#Set data of parameter MV_DIRPCP through the configurator

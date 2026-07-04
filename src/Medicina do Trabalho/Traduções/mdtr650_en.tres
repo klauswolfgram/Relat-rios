@@ -1,0 +1,87 @@
+0001#STR0001#ALL#Wait
+0002#STR0002#ALL#Processing information...
+0003#STR0003#ALL#There is no information to print in the report.
+0004#STR0004#ALL#Filtering records, wait...
+0005#STR0005#ALL#Parameter MV_DIRACA was not set. This parameter indicates directory where images to be used in Risk Map are saved.
+0006#STR0006#ALL#Parameter MV_DIRACA was not set. This parameter indicates directory in work station where files to be used in Risk Map will be copied.
+0007#STR0007#ALL#Images needed to print Risk Map were not found in server.
+0008#STR0008#ALL#The following images must be saved in directory set in parameter MV_DIRACA: 
+0009#STR0009#ALL#Parameter MV_DIRACA = 
+0010#STR0010#ALL#Risk Map
+0011#STR0011#ALL#Employee No.: 
+0012#STR0012#ALL#Company
+0013#STR0013#ALL#Mapping of Risks:
+0014#STR0014#ALL#We inform employees about risks of accidents and accupational diseases to which they are subject during work shift
+0015#STR0015#ALL#of work.
+0016#STR0016#ALL#Cost Center
+0017#STR0017#ALL#Environment:
+0018#STR0018#ALL#Date: 
+0019#STR0019#ALL#Hour: 
+0020#STR0020#ALL#Caption:
+0021#STR0021#ALL#Empl. Nr.:
+0022#STR0022#ALL#Number of employees exposed to risk.
+0023#STR0023#ALL#Physical -
+0024#STR0024#ALL#Noises, vibrations, ionic or non-ionic radiation, cold, heat, uncommon pressure and humidity.
+0025#STR0025#ALL#Chemical -
+0026#STR0026#ALL#Dust, smoke, fog, haze, gases, steam, substances, coumpounds or chemical products in general.
+0027#STR0027#ALL#Biological -
+0028#STR0028#ALL#Viruses, bacterias, protozoans, fungus, parasites and bacillus.
+0029#STR0029#ALL#Ergonomic -
+0030#STR0030#ALL#Heavy physical exertion, lifting, manual weight transportation, demand of umproper posture,
+0031#STR0031#ALL#severe productivity control, excessive pace imposition, day and night shift,
+0032#STR0032#ALL#long work shift, monotony, repetition and other situations.
+0033#STR0033#ALL#Mechanical/Accident -
+0034#STR0034#ALL#Inappropriate physical arrangement, machinery and equipment with no protection, improper or defective
+0035#STR0035#ALL#tools, innapropriate illumination, electricity, risks of explosion, improper
+0036#STR0036#ALL#storage, venomous animals and other situations.
+0037#STR0037#ALL#From Cost Center?
+0038#STR0038#ALL#Cost center code. The field 
+0039#STR0039#ALL#can be left empty to consider 
+0040#STR0040#ALL#codes since the first one.
+0041#STR0041#ALL#To Cost Center?
+0042#STR0042#ALL#can be filled out with Z up to  
+0043#STR0043#ALL#the end to consider codes until the last one.
+0044#STR0044#ALL#From Environment?
+0045#STR0045#ALL#Environment code. The field 
+0046#STR0046#ALL#To Environment?
+0047#STR0047#ALL#From Evaluation Date?
+0048#STR0048#ALL#Minimum date of risk evaluation.
+0049#STR0049#ALL#To Evaluation Date?
+0050#STR0050#ALL#Maximum date of risk evaluation.
+0051#STR0051#ALL#Risk Map:
+0052#STR0052#ALL#CIPA
+0053#STR0053#ALL#SESMT
+0054#STR0054#ALL#Both
+0055#STR0055#ALL#Defines if risks to be considered are only the ones in map developed by CIPA or CIPATR, 
+0056#STR0056#ALL#or only those in map developed by SESMT, or risks of both cases.
+0057#STR0057#ALL#Consider:
+0058#STR0058#ALL#OHC
+0059#STR0059#ALL#None
+0060#STR0060#ALL#ASO and PPP
+0061#STR0061#ALL#PPP
+0062#STR0062#ALL#Defines the type of risks considered for each option, being: 
+0063#STR0063#ALL#ASO: will filter the ones that are only 'ASO' and 'ASO and PPP'; None: will filter the ones that are only 'None' and the risks that have field Consider equal to Blank. 
+0064#STR0064#ALL#ASO and PPP: will filter the ones that are only 'PPP', 'ASO' and 'ASO and PPP'; PPP: will filter the ones that only 'PPP' and 'ASO and PPP'.
+0065#STR0065#ALL#Map by:
+0066#STR0066#ALL#Cost Center
+0067#STR0067#ALL#Environment
+0068#STR0068#ALL#Defines if map will be grouped by 
+0069#STR0069#ALL#cost center or environment.
+0070#STR0070#ALL#Print caption:
+0071#STR0071#ALL#Yes
+0072#STR0072#ALL#No
+0073#STR0073#ALL#Defines if the caption will be printed.
+0074#STR0074#ALL#CIPA Term?
+0075#STR0075#ALL#Enter the Term used to print report.
+0076#STR0076#ALL#Print type:
+0077#STR0077#ALL#Screen
+0078#STR0078#ALL#Printer
+0079#STR0079#ALL#Defines whether print is on screen or printer.
+0080#STR0080#ALL#CIPA
+0081#STR0081#ALL#CIPATR:
+0082#STR0082#ALL#CIPATR
+0083#STR0083#ALL#Defines if risks to be considered are only the ones in map developed by CIPATR, 
+0084#STR0084#ALL#CIPATR Term of Office?
+0085#STR0085#ALL#Indicate CIPATR Term of Office considered for printing report.
+0086#STR0086#ALL#Group by Agent?
+0087#STR0087#ALL#Defines whether grouping data must be considered by Agent.

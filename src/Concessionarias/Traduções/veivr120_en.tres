@@ -1,0 +1,44 @@
+0001#STR0001#ALL#Vehicle Stock      
+0002#STR0002#ALL#Z.Form
+0003#STR0003#ALL#Management   
+0004#STR0004#ALL#New total   
+0005#STR0005#ALL#Used total  
+0006#STR0006#ALL# to 
+0007#STR0007#ALL#==============================================================================
+0008#STR0008#ALL#T O T A L    O F    V E H I C L E S    I N    S T O C K    
+0009#STR0009#ALL#=============================== NEW ===== USED =====
+0010#STR0010#ALL#|   AVAILABLE FOR SALE........: 
+0011#STR0011#ALL#|   IN STOCK AT THE COMPANY...: 
+0012#STR0012#ALL#|   IN THIRD PARTY POSSESSION.: 
+0013#STR0013#ALL#|   RESERVED..................: 
+0014#STR0014#ALL#CONSIGNEE.................:
+0015#STR0015#ALL#|   FISCAL STOCK..............: 
+0016#STR0016#ALL#====================================================
+0017#STR0017#ALL#***   NEW ONES AVAILABLE FOR SALE    ***                  Total:
+0018#STR0018#ALL#***   NEW ONES AVAILABLE FOR SALE    ***                Continuation..
+0019#STR0019#ALL#***   USED ONES AVAILABLE FOR SALE    ***                 Total:
+0020#STR0020#ALL#***   USED ONES AVAILABLE FOR SALE    ***               Continuation..
+0021#STR0021#ALL#             Model total:     
+0022#STR0022#ALL# days  
+0023#STR0023#ALL#***   NEW VEHICLES IN STOCK AT THE COMPANY        ***     Total:
+0024#STR0024#ALL#***   NEW VEHICLES IN STOCK AT THE COMPANY        ***   Continuation..
+0025#STR0025#ALL#***   USED VEHICLES IN STOCK AT THE COMPANY        ***         Total..
+0026#STR0026#ALL#***   USED VEHICLES IN STOCK AT THE COMPANY        ***    Total: 
+0027#STR0027#ALL#***   NEW VEHICLES IN THIRD PARTY POSSESSION      ***     Total: 
+0028#STR0028#ALL#***   NEW VEHICLES IN THIRD PARTY POSSESSION      ***   Continuation..
+0029#STR0029#ALL#***   USED VEHICLES IN THIRD PARTY POSSESSION      ***    Total: 
+0030#STR0030#ALL#***   USED VEHICLES IN THIRD PARTY POSSESSION      ***  Continuation..
+0031#STR0031#ALL#***   NEW VEHICLES RESERVED         ***                   Total: 
+0032#STR0032#ALL#***   NEW VEHICLES RESERVED         ***                 Continuation..
+0033#STR0033#ALL#***   USED VEHICLES RESERVED         ***                  Total: 
+0034#STR0034#ALL#***   USED VEHICLES RESERVED         ***                Continuation..
+0035#STR0035#ALL#***   NEW VEHICLES CONSIGNEE         ***                  Total: 
+0036#STR0036#ALL#***   NEW VEHICLES CONSIGNEE         ***                Continuation..
+0037#STR0037#ALL#***   USED VEHICLES CONSIGNEE         ***                 Total:
+0038#STR0038#ALL#***   USED VEHICLES CONSIGNEE         ***               Continuation..
+0039#STR0039#ALL#Calculation identifier   
+0040#STR0040#ALL#***   NEW FISCAL STOCK       ***                        Continuation..
+0041#STR0041#ALL#***   USED FISCAL STOCK       ***                         Total:
+0042#STR0042#ALL#***   USED FISCAL STOCK       ***                       Continuation..
+0043#STR0043#ALL#General Vehicle Stock
+0044#STR0044#ALL#Section 1

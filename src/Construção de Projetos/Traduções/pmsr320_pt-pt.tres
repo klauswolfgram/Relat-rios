@@ -1,0 +1,12 @@
+0001#STR0001#ALL#Este relatório irá imprimir a relação de receitas da consulta analítica solicitada considerando todas as receitas (pedido de venda,títulos a receber e movimentação bancária) vinculadas aos projectos.
+0002#STR0002#ALL#Consultas De Gestão - Relação De Receitas
+0003#STR0003#ALL#Diário
+0008#STR0008#ALL#Período 
+0009#STR0009#ALL#       Vld.prev.pv           Receitas        Entradas Acum.
+0010#STR0010#ALL#Código Do Plano
+0011#STR0011#ALL#Saldo inicial : 
+0012#STR0012#ALL#Total a receber : 
+0013#STR0013#ALL#Código de barras
+0014#STR0014#ALL#Administração
+0015#STR0015#ALL#Vld.prev.pv
+0018#STR0018#ALL#Plano Analítico

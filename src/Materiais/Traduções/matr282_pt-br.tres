@@ -1,0 +1,31 @@
+0001#STR0001#ALL#Emite o relatorio de conferencia de saldos 
+0002#STR0002#ALL#para produtos que utilizam o controle de  
+0003#STR0003#ALL#Lote/SubLote e/ou Localização fisica.
+0004#STR0004#ALL#CONFERENCIA DE SALDOS EM ESTOQUE
+0005#STR0005#ALL#Zebrado
+0006#STR0006#ALL#Administracao
+0007#STR0007#ALL#Atualizar MATXFUNA.PRX
+0008#STR0008#ALL#Atualizar MATA280.PRX
+0009#STR0009#ALL#Atualizar CFGX051.PRW
+0010#STR0010#ALL# FL PRODUTO                                    | AMZ    | CONTROLE | CONTROLE     |         QUANTIDADE |         QUANTIDADE |         QUANTIDADE |         QUANTIDADE | STATUS    
+0011#STR0011#ALL#                                               |        | ENDERECO | LOTE/SUBLOTE |             FISICA |       POR ENDERECO |        A ENDERECAR |   POR LOTE/SUBLOTE |           
+0012#STR0012#ALL#( Saldo Atual )
+0013#STR0013#ALL#( Saldo por Movimento / Data
+0014#STR0014#ALL#( Saldo de Fechamento / Data
+0015#STR0015#ALL#CANCELADO PELO OPERADOR
+0016#STR0016#ALL#Selecionando Registros
+0017#STR0017#ALL#SDA=PENDENTE
+0018#STR0018#ALL#SIM
+0019#STR0019#ALL#NAO
+0020#STR0020#ALL#LOTE
+0021#STR0021#ALL#SUBLOTE
+0022#STR0022#ALL#Erro na chamada do Processo
+0023#STR0023#ALL#Concorrência
+0024#STR0024#ALL#A filial
+0025#STR0025#ALL#da empresa corrente já esta sendo utilizada na impressão do relatorio.
+0026#STR0026#ALL#Saldos por Lote/SubLote
+0027#STR0027#ALL#Saldos por Endereço
+0028#STR0028#ALL#Procedure #1[MAT036]# Processo #2[17]#
+0029#STR0029#ALL#Erro na chamada de procedimento armazenado do banco de dados
+0030#STR0030#ALL#Retorno de falha do banco de dados:
+0031#STR0031#ALL#Finalizar

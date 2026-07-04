@@ -1,0 +1,38 @@
+0001#STR0001#ALL#Plano de Inspeção
+0002#STR0002#ALL#Neste relatório seräo relacionados os ensaios a serem realizados em ca-
+0003#STR0003#ALL#da laboratório, para a validaçäo da Entrada.
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administraçäo
+0006#STR0006#ALL#Sim
+0007#STR0007#ALL#Nao
+0008#STR0008#ALL#LABORATORIO ==> 
+0009#STR0009#ALL#Un. Med.
+0010#STR0010#ALL#Nominal
+0011#STR0011#ALL#L.I.E.
+0012#STR0012#ALL#L.S.E.
+0013#STR0013#ALL#Pl 
+0014#STR0014#ALL#A/I
+0015#STR0015#ALL#ST
+0016#STR0016#ALL#Selecionando Registros...
+0017#STR0017#ALL#Ultimas Entradas:
+0018#STR0018#ALL#Data Entrada
+0019#STR0019#ALL#Lote
+0020#STR0020#ALL#Skip-Lote
+0021#STR0021#ALL#Laudo
+0022#STR0022#ALL#Doc.Entrada
+0023#STR0023#ALL#Lote Amostragem........: 
+0024#STR0024#ALL#     Ensaiador     
+0025#STR0025#ALL#                                     M E D I C O E S                           
+0026#STR0026#ALL#Laudo : 
+0027#STR0027#ALL#Fornecedor         ?
+0028#STR0028#ALL#Loja Fornecedor    ?
+0029#STR0029#ALL#Produto            ?
+0030#STR0030#ALL#Do Laboratorio     ?
+0031#STR0031#ALL#Ate Laboratorio    ?
+0032#STR0032#ALL#Considera Entradas ?
+0033#STR0033#ALL#Linhas p/ Medicoes ?
+0034#STR0034#ALL#Normal
+0035#STR0035#ALL#Beneficiamento
+0036#STR0036#ALL#Devolucao
+0037#STR0037#ALL#Cabecalho
+0038#STR0038#ALL#Ultimas Entradas

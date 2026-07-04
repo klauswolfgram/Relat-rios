@@ -1,0 +1,23 @@
+0001#STR0001#ALL#Lista De Contactos
+0002#STR0002#ALL#Este programa irá emitir a selecção da lista de contactos que será trabalhada na agenda do operador.
+0003#STR0003#ALL#Os dados serão apresentados cofacturaorme os parâmetros especificados pelo utilizador do módulo.
+0004#STR0004#ALL#As listas mostradas neste relatório estão separadas e totalizadas por data de execução.
+0005#STR0005#ALL#Código de barras
+0006#STR0006#ALL#Administração
+0007#STR0007#ALL#Cancelado Pelo Operador
+0008#STR0008#ALL#Total de ligações em
+0009#STR0009#ALL#Total geral de ligações  ---->
+0010#STR0010#ALL#Não existem dados a serem impressos para este relatório com os parâmetros escolhidos
+0011#STR0011#ALL#Data Da Lista
+0014#STR0014#ALL#Descrição
+0015#STR0015#ALL#Tipo De Lista
+0016#STR0016#ALL#Tipo De Contacto
+0018#STR0018#ALL#Cofacturaiguração Tmk
+0019#STR0019#ALL#Tipo Do Telefone
+0020#STR0020#ALL#Ficheiro
+0021#STR0021#ALL#Morada
+0024#STR0024#ALL#Guião
+0026#STR0026#ALL#Código  Contacto                         Empresa                           Telefone         Data      Hr.iní.  Hr.fim  Estado
+0027#STR0027#ALL#T o t a l   d e   l i g a ç õ e s   n o   d i a  ---->
+0029#STR0029#ALL#Lista de contactos
+0030#STR0030#ALL#Itens da lista de contacto

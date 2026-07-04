@@ -1,0 +1,24 @@
+0001#STR0001#ALL#This program will print a list of Entries per Value
+0002#STR0002#ALL#Class.
+0003#STR0003#ALL#Entries per Value Class
+0004#STR0004#ALL#Value Class          Accounting Item	     C.Center             Ledger Account                    Current Value    Accum Depreciation Month Deprec   Accum Depr.Adjust Accum Monet.Adjust
+0005#STR0005#ALL#CANCELLED BY THE OPERATOR  
+0006#STR0006#ALL#Tot Value Class 
+0007#STR0007#ALL#GRAND TOTAL:     
+0008#STR0008#ALL#Amount in 
+0009#STR0009#ALL#Currency symbol 
+0010#STR0010#ALL#Space 
+0011#STR0011#ALL#CurrentValue
+0012#STR0012#ALL#Accr Deprec
+0013#STR0013#ALL#Depr in Month
+0014#STR0014#ALL#Accr Depr Curr
+0015#STR0015#ALL#Accr Monet Corr
+0016#STR0016#ALL#BRANCH TOTAL: 
+0017#STR0017#ALL#No data to be displayed
+0018#STR0018#ALL#Branch: 
+0019#STR0019#ALL#Branches selected for the report
+0020#STR0020#ALL#Code
+0021#STR0021#ALL#Company
+0022#STR0022#ALL#Business Unit
+0023#STR0023#ALL#Branch
+0024#STR0024#ALL#Although there is a Selection by Branch, this report only prints Current Branch!

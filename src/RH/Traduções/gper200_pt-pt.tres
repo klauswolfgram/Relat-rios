@@ -1,0 +1,48 @@
+0001#STR0001#ALL#Emissão Do Aumento Salarial.
+0002#STR0002#ALL#Sera impresso de acordo com os parâmetro s solicitados pelo
+0003#STR0003#ALL#Utilizador.
+0004#STR0004#ALL#Registo
+0005#STR0005#ALL#Centro De Custo
+0006#STR0006#ALL#Função
+0008#STR0008#ALL#Código de barras
+0009#STR0009#ALL#Administração
+0010#STR0010#ALL#Base de dados: 
+0017#STR0017#ALL#Faixa Mensal Até
+0019#STR0019#ALL#Valor Do Aumento
+0021#STR0021#ALL#  (despedimento)  
+0022#STR0022#ALL#  (antecipação)  
+0023#STR0023#ALL#  (aumento real)  
+0027#STR0027#ALL#Abandonar
+0028#STR0028#ALL# calcular para remunerações 
+0029#STR0029#ALL#Módulo
+0030#STR0030#ALL#Remuneração Base
+0031#STR0031#ALL#Filial: 
+0032#STR0032#ALL# ccto: 
+0033#STR0033#ALL# REG.:
+0034#STR0034#ALL# nome: 
+0035#STR0035#ALL# dt.admissão: 
+0036#STR0036#ALL# categoria: 
+0037#STR0037#ALL# sindicato: 
+0038#STR0038#ALL# função: 
+0040#STR0040#ALL# Remuneração Antigo  Remuneração Hora Antigo  Percentagem + Valor Adicional   =   Reajuste  Remuneração Novo  Remuneração Hora Novo  Arredondamento
+0041#STR0041#ALL# Remuneração Antigo  Percentagem + Valor Adicional   =   Reajuste  Remuneração Novo  Arredondamento
+0042#STR0042#ALL#Data admissão de
+0043#STR0043#ALL#Data Admissão Até
+0044#STR0044#ALL#Salário base: valores calculados considerando 220h/mes.
+0045#STR0045#ALL#Base/mês    :
+0046#STR0046#ALL#Base/hora   :
+0047#STR0047#ALL#Base/dia    :
+0049#STR0049#ALL#Preencha a data de admissão
+0050#STR0050#ALL#A Data Está Em Branco
+0051#STR0051#ALL#Indique uma data ou faixa que esteja fora dos períodos já indicados.
+0052#STR0052#ALL#Data Inválida.
+0053#STR0053#ALL#Data de admissão inicial superior à data final
+0054#STR0054#ALL#== > t o t a i s  p a r a  
+0055#STR0055#ALL#  E M P R E G A D O (S):
+0056#STR0056#ALL#Relação das funções reajustadas ( não atribuidas aos empregados)
+0057#STR0057#ALL#Remuneração   antiga  rem. diária  int.  ant   percentagem+valor adicionar l   =  reajuste  nova remuneração    rem.diá.int.  novo   arredondamento
+0058#STR0058#ALL#Ocorreram inconsistencias durante o processo e não foi efetivada a gravação  de alguns empregados. deseja consultar o diário? 
+0060#STR0060#ALL#Diário De Ocorrências
+0061#STR0061#ALL# REMUNER.ANTIGA  REMUNER HORA ANTIGA + VALOR ADICIONAL   =   REAJUSTE  REMUNER.NOVA  REMUNER.HORA NOVA  ARREDONDAMENTO
+0062#STR0062#ALL# REMUNER.ANTIGA  REM. DIÁRIA  INT.  ANT  + VALOR ADICIONAL   =   REAJUSTE  REMUNER.NOVA  REM.DIA.INT.  NOVO   ARREDONDAMENTO
+0063#STR0063#ALL# REMUNER.ANTIGA   + VALOR ADICIONAL   =   REAJUSTE  REMUNER.NOVA  ARREDONDAMENTO

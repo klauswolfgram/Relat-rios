@@ -1,0 +1,45 @@
+0001#STR0001#ALL#Este programa ira emitir a relacao de
+0002#STR0002#ALL#Fichas de Calibracao de acordo com os
+0003#STR0003#ALL#Parametros selecionados.
+0004#STR0004#ALL#FICHA DE CALIBRACAO
+0005#STR0005#ALL#Zebrado
+0006#STR0006#ALL#Administraçäo
+0007#STR0007#ALL#INSTRUMENTO..: 
+0008#STR0008#ALL#DEPARTAMENTO.: 
+0009#STR0009#ALL#FREQ.AFERICAO: 
+0010#STR0010#ALL#VALIDADE: 
+0011#STR0011#ALL#PROCEDIMENTO.: 
+0012#STR0012#ALL#LOCALIZACAO..: 
+0013#STR0013#ALL#No. DE SERIE.:
+0014#STR0014#ALL#FAIXA.: 
+0015#STR0015#ALL#UNIDADE DE MEDIDA: 
+0016#STR0016#ALL#PADRAO SECUNDARIO: 
+0017#STR0017#ALL#INSTRUMENTO UTILIZADO: 
+0018#STR0018#ALL#Padrao
+0019#STR0019#ALL#Revisao
+0020#STR0020#ALL#| Especificado | Tol.Minima | Tol.Maxima |Tp.Calc.Tol| Valor       | Obs.                                   |
+0021#STR0021#ALL#| Especificado | Tol.Minima | Tol.Maxima |Tp.Calc.Tol| Vlr Inicial | Vlr Final  | Obs.                      |
+0022#STR0022#ALL#|                |     |              |            |            |           |  Valor Inicial   |   Valor Final    |                |
+0023#STR0023#ALL#|Padrao          | Rev | Especificado | Tol.Minima | Tol.Maxima |Tp.Calc.Tol| Subida | Descida | Subida | Descida |Obs.          |
+0024#STR0024#ALL#|Ponto           | Especificado | LIE        | LSE        |Tp.Calc.Tol| Unid.Med. | Valor       | Obs.:                            |
+0025#STR0025#ALL#|Ponto           | Especificado | LIE        | LSE        |Tp.Calc.Tol| Vlr Final   | Vlr Final  | Obs.:                           |
+0026#STR0026#ALL#|[ ] APROVADO |
+0027#STR0027#ALL#|[ ] REPROVADO|
+0028#STR0028#ALL#|[ ] APROVADO [ ] REPROVADO|
+0029#STR0029#ALL#|[ ] APROVADO [ ] REPROVADO|
+0030#STR0030#ALL#|[ ] APROVADO      |[ ] REPROVADO     |
+0031#STR0031#ALL#* * * * * *   M E D I C O E S   R E A L I Z A D A S   P O R   L A B O R A T O R I O   E X T E R N O   * * * * * *
+0032#STR0032#ALL#| Data :    /    /
+0033#STR0033#ALL#| Hora Inicial:      :
+0034#STR0034#ALL#| Hora Final  :      :
+0035#STR0035#ALL#| Metrologista : 
+0036#STR0036#ALL#EMISSOR......: 
+0037#STR0037#ALL# Dias     
+0038#STR0038#ALL#Escolha a opcao a ser impresso
+0039#STR0039#ALL#Dados do Responsavel
+0040#STR0040#ALL#N.Reduz
+0041#STR0041#ALL#Codigo
+0042#STR0042#ALL#Nome Completo
+0043#STR0043#ALL#DESC.FAMILIA.: 
+0044#STR0044#ALL#TEMPERATURA..: 
+0045#STR0045#ALL#REV.: 

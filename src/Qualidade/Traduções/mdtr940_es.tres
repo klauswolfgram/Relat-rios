@@ -1,0 +1,46 @@
+0001#STR0001#ALL#Restricc. de Trabajo de los Empleados
+0002#STR0002#ALL#Informe de listado de las restricc. que los empleados tienen para el 
+0003#STR0003#ALL#trabajo por motivos de salud.
+0004#STR0004#ALL#Restricc.
+0005#STR0005#ALL#Codigo
+0006#STR0006#ALL#Empleado
+0007#STR0007#ALL#Ficha Med.
+0008#STR0008#ALL#Nombre del Empleado
+0009#STR0009#ALL#Fecha inicial
+0010#STR0010#ALL#Fecha termino
+0011#STR0011#ALL#A Rayas
+0012#STR0012#ALL#Administrac.
+0013#STR0013#ALL#Ficha Med.  Nombre del Empleado               Funcion Anterior        Funcion Actual
+0014#STR0014#ALL#Código      Restrição                                 Data Início  Data Término
+0015#STR0015#ALL#Codigo      Restricc.
+0016#STR0016#ALL#   Ficha Med.  Nome do Funcionário               Função Anterior        Função Atual         Data Início  Data Término
+0017#STR0017#ALL#¿De Ficha medica?
+0018#STR0018#ALL#¿A Ficha medica?
+0019#STR0019#ALL#¿De Restriccion?
+0020#STR0020#ALL#¿A Restriccion?
+0021#STR0021#ALL#¿De Fecha de restriccion?
+0022#STR0022#ALL#¿A Fecha de restriccion?
+0023#STR0023#ALL#¿Lista de restricciones?
+0024#STR0024#ALL#Pendientes
+0025#STR0025#ALL#Finalizadas
+0026#STR0026#ALL#Todas
+0027#STR0027#ALL#Clasificar por      
+0028#STR0028#ALL#Ficha Medica
+0029#STR0029#ALL#Restriccion
+0030#STR0030#ALL#Cliente
+0031#STR0031#ALL#Tienda
+0032#STR0032#ALL#Nombre
+0033#STR0033#ALL#No hay nada para imprimir en el informe.
+0034#STR0034#ALL#Cliente/Tienda: 
+0035#STR0035#ALL#Funcion Anterior
+0036#STR0036#ALL#Funcion Actual
+0037#STR0037#ALL#¿De Cliente?
+0038#STR0038#ALL#¿A Cliente ?
+0039#STR0039#ALL#Clasificar
+0040#STR0040#ALL#Listar Restricc.
+0041#STR0041#ALL#A Fch. Restricc.
+0042#STR0042#ALL#De Fecha Restricc.
+0043#STR0043#ALL#A Restricc.
+0044#STR0044#ALL#De  Restricc.
+0045#STR0045#ALL#A Ficha Medica
+0046#STR0046#ALL#De Ficha Medica

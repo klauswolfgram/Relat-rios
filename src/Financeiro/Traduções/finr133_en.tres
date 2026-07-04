@@ -1,0 +1,88 @@
+0001#STR0001#ALL#This program will print the Customers aging according 
+0002#STR0002#ALL#to the selected parameters.
+0003#STR0003#ALL#Aging
+0004#STR0004#ALL#Customers' Overdue and not Overdue Debts
+0005#STR0005#ALL#
+0006#STR0006#ALL#Management
+0007#STR0007#ALL#From Customer      
+0008#STR0008#ALL#To Customer        
+0009#STR0009#ALL#From Issue Date    
+0010#STR0010#ALL#To Issue Date      
+0011#STR0011#ALL#Report             
+0012#STR0012#ALL#Detailed
+0013#STR0013#ALL#Summarized
+0014#STR0014#ALL#Reference Date
+0015#STR0015#ALL#Previous Periods 
+0016#STR0016#ALL#Interval Ttype  
+0017#STR0017#ALL#Days
+0018#STR0018#ALL#Months
+0019#STR0019#ALL#Entered
+0020#STR0020#ALL#Interval       
+0021#STR0021#ALL#Currency
+0022#STR0022#ALL#Currency 1
+0023#STR0023#ALL#Currency 2
+0024#STR0024#ALL#Currency 3
+0025#STR0025#ALL#Currency 4
+0026#STR0026#ALL#Currency 5
+0027#STR0027#ALL#Other Currencies ?
+0028#STR0028#ALL#Convert
+0029#STR0029#ALL#Ignore
+0030#STR0030#ALL#Format            
+0031#STR0031#ALL#Report
+0032#STR0032#ALL#Worksheet
+0033#STR0033#ALL#Separate Checks ?
+0034#STR0034#ALL#Yes
+0035#STR0035#ALL#No
+0036#STR0036#ALL#At least one date must be equal to the Reference date
+0037#STR0037#ALL#Sequence Error
+0038#STR0038#ALL# From Iss.Dt.: 
+0039#STR0039#ALL# To : 
+0040#STR0040#ALL#Selecting Records...
+0041#STR0041#ALL#Preparing Transitory...
+0042#STR0042#ALL#Total Customer: 
+0043#STR0043#ALL#Checks Balance in 
+0044#STR0044#ALL#G r a n d   T o t a l 
+0045#STR0045#ALL#C h e c k s   G r a n d   T o t a l   i n 
+0046#STR0046#ALL#Overdue << >> Falling due  
+0047#STR0047#ALL#Customer/Voucher               Sl.Repr.     Until           To            To            To            To            To            To            To            To            To            To           Post.         Balance
+0048#STR0048#ALL#Date     Type Seri. Number      Inst. 
+0049#STR0049#ALL#Customer: 
+0050#STR0050#ALL#. Location : 
+0051#STR0051#ALL#PH.: 
+0052#STR0052#ALL#SL.REPR.: 
+0053#STR0053#ALL#Date Interval 01 
+0054#STR0054#ALL#Date Interval 02 
+0055#STR0055#ALL#Date Interval 03 
+0056#STR0056#ALL#Date Interval 04 
+0057#STR0057#ALL#Date Interval 05 
+0058#STR0058#ALL#Date Interval 06 
+0059#STR0059#ALL#Date Interval 07 
+0060#STR0060#ALL#Date Interval 08 
+0061#STR0061#ALL#Date Interval 09 
+0062#STR0062#ALL#Date Interval 10 
+0063#STR0063#ALL#Date Interval 11 
+0064#STR0064#ALL#Processing customer 
+0065#STR0065#ALL#CREDIT NOTE No. 
+0066#STR0066#ALL#DEBIT NOTE No. 
+0067#STR0067#ALL#INVOICE No. 
+0068#STR0068#ALL#ADVANCE 
+0069#STR0069#ALL#INTERNAL CRED. NOTE
+0070#STR0070#ALL#INTERNAL DEBIT NOTE
+0071#STR0071#ALL#CHECK
+0072#STR0072#ALL#NOT CLASSIFIED...
+0073#STR0073#ALL#Due Date
+0074#STR0074#ALL#Prefix+Bill
+0075#STR0075#ALL#Issue Dt
+0076#STR0076#ALL#Invoice    
+0077#STR0077#ALL#Type Serie Number      Inst
+0078#STR0078#ALL#Blnce
+0079#STR0079#ALL#to 
+0080#STR0080#ALL#  To
+0081#STR0081#ALL#Post
+0082#STR0082#ALL#Custom.
+0083#STR0083#ALL#Bills Receivable
+0084#STR0084#ALL#Due D.<< 
+0085#STR0085#ALL#>>On due  
+0086#STR0086#ALL#Tp
+0087#STR0087#ALL#Pref
+0088#STR0088#ALL#Installment

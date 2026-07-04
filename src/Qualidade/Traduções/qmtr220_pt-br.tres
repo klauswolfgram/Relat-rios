@@ -1,0 +1,49 @@
+0001#STR0001#ALL#Este programa ira emitir o
+0002#STR0002#ALL#Resultado Individual de Repe/Repro.
+0003#STR0003#ALL#Zebrado
+0004#STR0004#ALL#Administraçäo
+0005#STR0005#ALL#CANCELADO PELO OPERADOR
+0006#STR0006#ALL#Medias
+0007#STR0007#ALL#Amplitude
+0008#STR0008#ALL#Medias
+0009#STR0009#ALL#da Peca
+0010#STR0010#ALL#Media de todas as amplitudes (RBa+RBb+...)/# de avaliadores
+0011#STR0011#ALL#ANALISE DA GRANDEZA DE MEDICAO
+0012#STR0012#ALL#% VARIACAO DO PROCESSO
+0013#STR0013#ALL#Repetitividade - Variacao do equipamento (VE)
+0014#STR0014#ALL#Reprodutibilidade-Variacao do Avaliador(VA)
+0015#STR0015#ALL#n = numero de pecas
+0016#STR0016#ALL#r = numero de ciclos
+0017#STR0017#ALL#Repetitividade e Reprodutibilidade (R&R)
+0018#STR0018#ALL#Variacao Peca a Peca (VP)
+0019#STR0019#ALL#Variacao Total (VT)
+0020#STR0020#ALL#Resultado
+0021#STR0021#ALL#Amplitude
+0022#STR0022#ALL#Amplitude Média
+0023#STR0023#ALL#Soma das amplitudes / # de avaliadores
+0024#STR0024#ALL#G R&R
+0025#STR0025#ALL#% R&R
+0026#STR0026#ALL#Variaçäo do Processo/Tolerância
+0027#STR0027#ALL#Resultado
+0028#STR0028#ALL#Limites
+0029#STR0029#ALL#Limites
+0030#STR0030#ALL#Tolerancia
+0031#STR0031#ALL#Resultados
+0032#STR0032#ALL#Metodo
+0033#STR0033#ALL#Tolerancia de Especificacao
+0034#STR0034#ALL#Tolerancia de Processo
+0035#STR0035#ALL#Ensaiador
+0036#STR0036#ALL#Pecas
+0037#STR0037#ALL#Medias
+0038#STR0038#ALL#Amostra
+0039#STR0039#ALL#Curto
+0040#STR0040#ALL#Data de Validade: 
+0041#STR0041#ALL#REPETITIVIDADE / REPRODUTIBILIDADE
+0042#STR0042#ALL#Data do ensaio: 
+0043#STR0043#ALL#Total de Leitura(s): 
+0044#STR0044#ALL#Leitura(s) Capaz(es): 
+0045#STR0045#ALL#Leitura(s) Nao Capaz(es): 
+0046#STR0046#ALL#Atributo - Curto
+0047#STR0047#ALL#Passa  
+0048#STR0048#ALL#N.Passa
+0049#STR0049#ALL#Resultados

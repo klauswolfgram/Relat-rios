@@ -1,0 +1,26 @@
+0001#STR0001#ALL#Relatório de resultado dos exames quantitativos por centro de custo  
+0002#STR0002#ALL#Demonstra exames realizados em um determinado período, permitindo    
+0003#STR0003#ALL#Selecionar as quantidades apuradas nos resultados dos exames.        
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#Resultado Dos Exames Quantitativos
+0007#STR0007#ALL#Código                 Nome Do Centro De Custo
+0009#STR0009#ALL#Cancelado Pelo Operador
+0013#STR0013#ALL#C.custo
+0015#STR0015#ALL#Matrícula
+0016#STR0016#ALL#Empregado
+0025#STR0025#ALL#De cliente ?
+0027#STR0027#ALL#Até cliente ?
+0028#STR0028#ALL#Código  do cliente. o campo pode permanecer vazio para considerar desde o primeiro código.
+0029#STR0029#ALL#Código  da loja do cliente. o campo pode permanecer vazio para considerar desde o primeiro código.
+0030#STR0030#ALL#Código  do cliente. o campo pode ser preenchido com a letra z até  o final para considerar o último código.
+0031#STR0031#ALL#Código  da loja do cliente. o campo pode ser preenchido com a letra z até  o final para considerar o último código.
+0034#STR0034#ALL#Centro De Custo
+0036#STR0036#ALL#Cliente/loja: 
+0037#STR0037#ALL#Não existe informação para imprimir no relatório.
+0038#STR0038#ALL#Até Data Resultado ?
+0040#STR0040#ALL#Até Quantidade ?
+0042#STR0042#ALL#Até Sub-Item ?
+0044#STR0044#ALL#Até Exame ?
+0046#STR0046#ALL#Até Centro de Custo?
+0047#STR0047#ALL#De Centro de Custo?

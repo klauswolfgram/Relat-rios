@@ -1,0 +1,14 @@
+0001#STR0001#ALL#Inventory Divergences
+0002#STR0002#ALL#This report has the purpose of alerting the user about the problem
+0003#STR0003#ALL#of inconsistence of balances. It must be issued each time a doubt 
+0004#STR0004#ALL#on the integrity of stock balances arise.                         
+0005#STR0005#ALL#Z.Form 
+0006#STR0006#ALL#Management   
+0007#STR0007#ALL#RECORD  (S)
+0008#STR0008#ALL#CODE            DESCRIPTION                    TP GRP  WRH  CALCUL.BALANCE           BALANCE         DIFFERENCE
+0009#STR0009#ALL#                                                            AT THIS MOMENT           IN FILE                   
+0010#STR0010#ALL#No items with inventory divergences were found .
+0011#STR0011#ALL# DESCR. ST.ROOM
+0012#STR0012#ALL#Calcul. Balance
+0013#STR0013#ALL#Differ.  
+0014#STR0014#ALL#Products

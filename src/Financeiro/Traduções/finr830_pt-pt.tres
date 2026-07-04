@@ -1,0 +1,17 @@
+0001#STR0001#ALL#Este programa tem como objectivo imprimir as movimentações das aplica-
+0002#STR0002#ALL#ções financeiras, conforme os parâmetros solicitados. 
+0003#STR0003#ALL#Relação De Liquidações De Aplicações Financeiras
+0004#STR0005#ALL#Código de barras
+0005#STR0006#ALL#Administração
+0006#STR0007#ALL#Cancelado Pelo Operador
+0007#STR0008#ALL#                  Dados Da Aplicação                                                                                        Movimentação
+0008#STR0009#ALL#Número    Instituição          Mod Dt.digit        Valor Nominal Natureza   Bco Agê.  Conta      Tip Mot Histórico                                     Valor Resgatado       Impostos          Juros  Valor Creditado Situação
+0009#STR0010#ALL#Total Crial
+0010#STR0011#ALL#Cancel.
+0011#STR0012#ALL#Número
+0012#STR0013#ALL#Instituição
+0014#STR0015#ALL#Dt.digit
+0021#STR0022#ALL#Cond
+0022#STR0023#ALL#Histórico
+0027#STR0028#ALL#Situação
+0028#STR0029#ALL#Registos

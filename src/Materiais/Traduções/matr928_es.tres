@@ -1,0 +1,9 @@
+0001#STR0001#BRA#Comprobante de las Prestaciones de Servicio de Transporte y del Credito Otorgado
+0002#STR0002#BRA#Este programa emitira el Informe Estado de las Cuotas de Servicio de
+0003#STR0003#BRA#Transporte y del Credito Otorgado.
+0004#STR0004#BRA#A rayas
+0005#STR0005#BRA#Administracion
+0006#STR0006#BRA#|                   CTRC                |                Tomador do Servicio Paulista                          |                 |                    |                    |                    |
+0007#STR0007#BRA#|---------------------------------------|---------------------------------------------------------------------|Valor del Servicio |    ICMS Normal     |       ICMS ST      |       Credito      |
+0008#STR0008#BRA#|    Fecha   | Numero | Serie | CFOP | Razon Social                             | Inscripc. Estatal    |R/D|                    |                    |                    |      Otorgado      |
+0009#STR0009#BRA# - Periodo: 

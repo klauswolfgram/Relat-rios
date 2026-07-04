@@ -1,0 +1,16 @@
+0001#STR0001#ALL#Relação De Os/artigo
+0002#STR0002#ALL#   este programa irá imprimir a relação de os por artigo, 
+0003#STR0003#ALL#Cofacturaorme os parâmetros solicitados.
+0006#STR0006#ALL#Ocorrência/problema
+0007#STR0007#ALL#Código de barras
+0008#STR0008#ALL#Administração
+0009#STR0009#ALL#O.serviço   pedido     cliente   emissão    cpg artigo         nº série             problema                                o.s.       moeda                                                                               
+0010#STR0010#ALL#          It Artigo         Descrição                                                                             Pedido      Quantidade Valor Unitário      Valor Cliente   Valor Fabricante        Valor Total Garantia
+0011#STR0011#ALL# [ artigo ] 
+0012#STR0012#ALL# [ ocorrência/problema ] 
+0013#STR0013#ALL#Cancelado Pelo Operador
+0014#STR0014#ALL#Total do artigo 
+0015#STR0015#ALL#Total Da Ocorrência/problema
+0016#STR0016#ALL#Total Crial
+0017#STR0017#ALL#Ocorrência
+0022#STR0022#ALL#Sub-itens da ordem de serviço

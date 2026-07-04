@@ -1,0 +1,54 @@
+0001#STR0001#BRA#Impressão RPS
+0002#STR0002#BRA#Impressão do Recibo Provisório de Serviços - RPS
+0003#STR0003#BRA#Implementação não efetuada
+0004#STR0004#BRA#A implementação do processo da Nota 
+0005#STR0005#BRA#Fiscal Eletrônica não foi efetuada corretamente, 
+0006#STR0006#BRA#visto que existem tabelas e campos que 
+0007#STR0007#BRA#não estão disponíveis no dicionário de dados.
+0008#STR0008#BRA#Verifique a documentação que acompanha a rotina e 
+0009#STR0009#BRA#execute todos os procedimentos indicados e processe 
+0010#STR0010#BRA#esta rotina novamente.
+0011#STR0011#BRA#Tabela SFT - 
+0012#STR0012#BRA# Campos: 
+0013#STR0013#BRA#Telefone: 
+0014#STR0014#BRA#C.N.P.J.: 
+0015#STR0015#BRA#I.M.: 
+0016#STR0016#BRA#Número / Série RPS
+0017#STR0017#BRA#Data Emissão
+0018#STR0018#BRA#Hora Emissão
+0019#STR0019#BRA#DADOS DO DESTINATÁRIO
+0020#STR0020#BRA#Nome/Razão Social:
+0021#STR0021#BRA#C.P.F./C.N.P.J.:
+0022#STR0022#BRA#Inscrição Municipal:
+0023#STR0023#BRA#Impressão
+0024#STR0024#BRA#Endereço:
+0025#STR0025#BRA#CEP:
+0026#STR0026#BRA#Município:
+0027#STR0027#BRA#E-mail:
+0028#STR0028#BRA#UF:
+0029#STR0029#BRA#DISCRIMINAÇÃO DOS SERVIÇOS		
+0030#STR0030#BRA#VALOR TOTAL DA NOTA = 
+0031#STR0031#BRA#Código do Serviço
+0032#STR0032#BRA#Total deduções (R$)		
+0033#STR0033#BRA#Base de cálculo (R$)
+0034#STR0034#BRA#Alíquota (%)
+0035#STR0035#BRA#Valor do ISS (R$)
+0036#STR0036#BRA#INFORMAÇÕES SOBRE A NOTA FISCAL ELETRÔNICA
+0037#STR0037#BRA#Número
+0038#STR0038#BRA#Emissão
+0039#STR0039#BRA#Código Verificação
+0040#STR0040#BRA#Crédito IPTU (R$)
+0041#STR0041#BRA#OUTRAS INFORMAÇÕES
+0042#STR0042#BRA#RPS gerado por emissor de cupom fiscal (ECF)
+0043#STR0043#BRA#Código da Atividade
+0044#STR0044#BRA#Des.Incond. (R$)
+0045#STR0045#BRA#INTERMEDIÁRIO DE SERVIÇOS
+0046#STR0046#BRA#INSS (R$)
+0047#STR0047#BRA#IRPF (R$)
+0048#STR0048#BRA#CSLL (R$)
+0049#STR0049#BRA#COFINS (R$)
+0050#STR0050#BRA#PIS/PASEP (R$)
+0051#STR0051#BRA#Crédito (R$)
+0052#STR0052#BRA#Municipio da Prestação do Serviço
+0053#STR0053#BRA#Número da Inscrição da Obra
+0054#STR0054#BRA#Valor Aproximado dos Tributos/Fonte

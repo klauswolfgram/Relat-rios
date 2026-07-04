@@ -1,0 +1,70 @@
+0001#STR0001#ALL#Generate PPA report (Parts and Accessories Performance)
+0002#STR0002#ALL#for Trucks and Buses VW/MAN
+0003#STR0003#ALL#Version 04/2013
+0004#STR0004#ALL#Parts and Accessories Performance
+0005#STR0005#ALL#Start Date
+0006#STR0006#ALL#End Date
+0007#STR0007#ALL#Government
+0008#STR0008#ALL#Insurance Company
+0009#STR0009#ALL#Parts Store
+0010#STR0010#ALL#Indeped. Workshop
+0011#STR0011#ALL#Network
+0012#STR0012#ALL#Fleet Owner
+0013#STR0013#ALL#Accessories
+0014#STR0014#ALL#Storage Area (m2)
+0015#STR0015#ALL#Wholesale/Over the Counter/Telesales
+0016#STR0016#ALL#Freelancers
+0017#STR0017#ALL#Bonus Month (%)
+0018#STR0018#ALL#C.Sales
+0019#STR0019#ALL#CFOPs Entry Fee
+0020#STR0020#ALL#CFOPs Output Fee
+0021#STR0021#ALL#Customer not found:
+0022#STR0022#ALL#Purchases
+0023#STR0023#ALL#Internal Consumption
+0024#STR0024#ALL#Data
+0025#STR0025#ALL#Version 04/2013
+0026#STR0026#ALL#VW
+0027#STR0027#ALL#Other Clients
+0028#STR0028#ALL#Disconsiders Group Type
+0029#STR0029#ALL#DSH
+0030#STR0030#ALL#Other Storages
+0031#STR0031#ALL#Storage P&A Not Origin
+0032#STR0032#ALL#Storage P&A Origin MAN
+0033#STR0033#ALL#Storage P&A Origin VW
+0034#STR0034#ALL#Manufacturer
+0035#STR0035#ALL#Fleet Owner
+0036#STR0036#ALL#Warranty
+0037#STR0037#ALL#Transf-Output P&A
+0038#STR0038#ALL#Net Value
+0039#STR0039#ALL#Value
+0040#STR0040#ALL#Lub/Fuel Group
+0041#STR0041#ALL#Other Assets Group
+0042#STR0042#ALL#Parts Store
+0043#STR0043#ALL#Parts Store/Distr.
+0044#STR0044#ALL#MAN Brands
+0045#STR0045#ALL#VW Brands
+0046#STR0046#ALL#Mode
+0047#STR0047#ALL#Repair Shop
+0048#STR0048#ALL#Indeped. Workshop
+0049#STR0049#ALL#Other Purchases
+0050#STR0050#ALL#Other Sales
+0051#STR0051#ALL#Others
+0052#STR0052#ALL#for Trucks and Buses VW/MAN
+0053#STR0053#ALL#Parts and Accessories Performance
+0054#STR0054#ALL#PPA - Parts and Accessories Performance
+0055#STR0055#ALL#Repurchase(Bon.Year $)
+0056#STR0056#ALL#Network
+0057#STR0057#ALL#Insurance Company
+0058#STR0058#ALL#Type of time was not found
+0059#STR0059#ALL#Transf-Entries Others
+0060#STR0060#ALL#Transf-Entries P&A
+0061#STR0061#ALL#Transf-Outputs Others
+0062#STR0062#ALL#Pending Sales
+0063#STR0063#ALL#Accessory Group
+0064#STR0064#ALL#Inventory
+0065#STR0065#ALL#Do you want to view stock information? (This gathering may take a few minutes.)
+0066#STR0066#ALL#Attention
+0067#STR0067#ALL#Consider:
+0068#STR0068#ALL#1-Except Tires
+0069#STR0069#ALL#2-Only Tires
+0070#STR0070#ALL#3-All

@@ -1,0 +1,28 @@
+0001#STR0001#ALL#Facturação Real/previsto
+0002#STR0002#ALL#Este Relatório Irá Emitir A Relação De Facturação,
+0003#STR0003#ALL#Emitindo O Facturação Previsto E O Real.
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#Facturação Real X Previsto
+0007#STR0007#ALL# (deduz.icm)
+0008#STR0008#ALL#FIL CÓDIGO              DENOMINAÇÃO    REAL         QTD           PREÇO     T O T A L                   V A R I A Ç Ã O
+0010#STR0010#ALL#Cancelado Pelo Operador
+0011#STR0011#ALL#T O T A L  C R I A L ---> 
+0012#STR0012#ALL#Frete : 
+0013#STR0013#ALL#Seguro : 
+0014#STR0014#ALL#A selecionar registos ...
+0015#STR0015#ALL#Total Da Filial
+0016#STR0016#ALL#Facturação Real/previsto
+0017#STR0017#ALL#Este Relatório Irá Emitir A Relação De Facturação,
+0018#STR0018#ALL#Emitindo O Facturação Previsto E O Real.
+0019#STR0019#ALL#Quant.real
+0020#STR0020#ALL#Preço Real
+0021#STR0021#ALL#Total Real
+0022#STR0022#ALL#Quant.prev.
+0023#STR0023#ALL#Preço Prev.
+0024#STR0024#ALL#Total Prev.
+0025#STR0025#ALL#Quant.var.
+0026#STR0026#ALL#Preço Var.
+0028#STR0028#ALL#Total da filial 
+0031#STR0031#ALL#A Seleccionar Registos...
+0032#STR0032#ALL#Dados Dos Artigos

@@ -1,0 +1,39 @@
+0001#STR0001#ALL#Viabilidade
+0002#STR0002#ALL#Gerando Visualizacao, Aguarde...
+0003#STR0003#ALL#Consideracoes Sobre a Viabilidade
+0004#STR0004#ALL#Nossa equipe de planejamento da qualidade do produto considerou as seguintes questoes, que nao pretendem ser totalmente incluidas na execucao de uma avaliacao
+0005#STR0005#ALL#de viabilidade. Os desenhos e/ou especificacoes fornecidos foram usados como base para analisar a capacidade de atender a todos os requisitos especificados.
+0006#STR0006#ALL#Todas as respostas "nao" sao suportadas por comentarios anexo identificando nossas preocupacoes e/ou alteracoes propostas para nos habilitar a atender os requisitos especificados.
+0007#STR0007#ALL#SIM
+0008#STR0008#ALL#CONSIDERACAO
+0009#STR0009#ALL#O produto esta adequadamente definido (requisito de aplicacao, etc.) para habilitar a avaliacao da viabilidade?
+0010#STR0010#ALL#As Especificacoes de Desempenho de Engenharia podem ser atendidas, como descritas?
+0011#STR0011#ALL#O produto pode ser manufaturado de acordo com as tolerancias especificadas no desenho?
+0012#STR0012#ALL#O produto pode ser manufaturado com Cpk's que atendem as especificacoes?
+0013#STR0013#ALL#Existe capacidade adequada para a fabricacao do produto?
+0014#STR0014#ALL#O projeto permite o uso de tecnicas  eficientes de manuseio de material?
+0015#STR0015#ALL#O produto pode ser manufaturado sem incorrer em inesperados:
+0016#STR0016#ALL#- Custos de equipamentos de transformacao ?
+0017#STR0017#ALL#- Custos de ferramental?
+0018#STR0018#ALL#- Metodos de manufatura alternativos ?
+0019#STR0019#ALL#E necessario controle estatistico do processo para o produto ?
+0020#STR0020#ALL#O controle estatistico do processo esta sendo atualmente utilizado em produtos similares ?
+0021#STR0021#ALL#Onde for utilizado controle estatistico do processo em produtos similares:
+0022#STR0022#ALL#- Os processos estao sob controle e estaveis?
+0023#STR0023#ALL#- O processo tem a capacidade de cumprir os requisitos do cliente?
+0024#STR0024#ALL#Conclusao
+0025#STR0025#ALL#Viavel
+0026#STR0026#ALL#O produto pode ser produzido conforme especificado, sem revisoes.
+0027#STR0027#ALL#Alteracoes sao recomendadas (veja anexo).
+0028#STR0028#ALL#Não viavel
+0029#STR0029#ALL#Revisao de projeto requerida para a manufatura do produto dentro dos requisitos especificados.
+0030#STR0030#ALL#Aprovacao
+0031#STR0031#ALL#Membro da Equipe/Cargo/Data
+0032#STR0032#ALL#Explicacoes/Comentarios
+0033#STR0033#ALL#COMPROMETIMENTO DA EQUIPE COM A VIABILIDADE
+0034#STR0034#ALL#Data :
+0035#STR0035#ALL#Cliente :
+0036#STR0036#ALL#Nome da Peca :
+0037#STR0037#ALL#No. da Peca :
+0038#STR0038#ALL#Rev. da Peca :
+0039#STR0039#ALL#NAO

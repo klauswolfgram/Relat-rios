@@ -1,0 +1,46 @@
+0001#STR0001#ALL#It PrintS a list of Approved/Rejected Products by the Quality
+0002#STR0002#ALL#Control, with the respective appraisal.
+0003#STR0003#ALL# By Number     
+0004#STR0004#ALL# By Product         
+0005#STR0005#ALL#List of Q.C. Postings
+0006#STR0006#ALL#Z.Form 
+0007#STR0007#ALL#Management
+0008#STR0008#ALL#RECORD(S)
+0009#STR0009#ALL#NUMBER  CODE            DESCRIPTION                    UM  LC ORIGIN  DOCUMENT      ORIGIN    CODE        COMPANY NAME
+0010#STR0010#ALL#DATE       TYPE              QUANTITY    USER            APPRAISAL                  WR REJECTION REASON            LOT       SUB-LOT
+0011#STR0011#ALL#CODE             DESCRIPTION                     UM  ORIGIN
+0012#STR0012#ALL#NUMBER   DATE     TYPE             QUANTITY     USER             APPRAISAL               DOCUMENT      WR REJECT.  LOT       SUB-LOT    CODE    COMPANY NAME
+0013#STR0013#ALL#Selecting Records...
+0014#STR0014#ALL#CANCELLED BY THE OPERATOR
+0015#STR0015#ALL#Original Qtty.
+0016#STR0016#ALL#Approved
+0017#STR0017#ALL#Rejected
+0018#STR0018#ALL#Approv. Rev.
+0019#STR0019#ALL#Reject. Rev.
+0020#STR0020#ALL#Balance 
+0021#STR0021#ALL#[TYPE:
+0022#STR0022#ALL#/SEQ:
+0023#STR0023#ALL#NUMBER  CODE            DESCRIPTION                    UM  ORIGIN     DOCUMENT      ORIGIN    CODE                      COMPANY NAME
+0024#STR0024#ALL#NUMBER   DATE     TYPE             QUANTITY     USER             APPRAISAL               DOCUMENT      LC REJECT.  LOT       SUBLOT     CODE                  COMPANY NAME
+0025#STR0025#ALL#NUMBER   DATE     TYPE             QUANTITY     USER             APPRAISAL               DOCUMENT      WR REJECT.                       CODE    COMPANY NAME
+0026#STR0026#ALL#NUMBER   DATE     TYPE             QUANTITY     USER             APPRAISAL               DOCUMENT      LC REJECT.                       CODE                  COMPANY NAME
+0027#STR0027#ALL#DATE       TYPE              QUANTITY    USER            APPRAISAL                  WR REJECTION REASON                             
+0028#STR0028#ALL#Rel. Ret.  
+0029#STR0029#ALL#Rej. Ret.
+0030#STR0030#ALL#Added Disb. 
+0031#STR0031#ALL#Est. Disb.
+0032#STR0032#ALL#Type
+0033#STR0033#ALL#Quantity
+0034#STR0034#ALL#Analysis
+0035#STR0035#ALL#Reas
+0036#STR0036#ALL#Reject.
+0037#STR0037#ALL#QC movements (Product)       
+0038#STR0038#ALL#QC movements (Entries)           
+0039#STR0039#ALL#NUMBER  CODE            DESCRIPTION                    UM  ORIGIN     DOCUMENT               ORIGIN    CODE                      COMPANY NAME
+0040#STR0040#ALL#NUMBER  CODE            DESCRIPTION                    UM  LC ORIGIN  DOCUMENT               ORIGIN    CODE        COMPANY NAME
+0041#STR0041#ALL#DATE       TYPE              QUANTITY    USER            APPRAISAL                           WR REJECTION REASON            LOT       SUB-LOT
+0042#STR0042#ALL#DATE       TYPE              QUANTITY    USER            APPRAISAL                           WR REJECTION REASON                             
+0043#STR0043#ALL#NUMBER   DATE     TYPE             QUANTITY     USER             APPRAISAL               DOCUMENT               LC REJECT.  LOT       SUBLOT     CODE                  COMPANY NAME
+0044#STR0044#ALL#NUMBER   DATE     TYPE             QUANTITY     USER             APPRAISAL               DOCUMENT               LC REJECT.                       CODE                  COMPANY NAME
+0045#STR0045#ALL#NUMBER   DATE     TYPE             QUANTITY     USER             APPRAISAL               DOCUMENT               WR REJECT.  LOT       SUB-LOT    CODE    COMPANY NAME
+0046#STR0046#ALL#NUMBER   DATE     TYPE             QUANTITY     USER             APPRAISAL               DOCUMENT               WR REJECT.                       CODE    COMPANY NAME

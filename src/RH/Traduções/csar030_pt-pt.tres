@@ -1,0 +1,29 @@
+0001#STR0001#ALL#Emissão Do Aumento Salarial.
+0002#STR0002#ALL#Será impresso de acordo com os parâmetros solicitados pelo
+0003#STR0003#ALL#Utilizador.
+0004#STR0004#ALL#Registo
+0005#STR0005#ALL#Centro De Custo
+0006#STR0006#ALL#Função
+0007#STR0007#ALL#Código de barras
+0008#STR0008#ALL#Administração
+0009#STR0009#ALL#Data Base:  
+0010#STR0010#ALL#Relação De Aumento Salarial Conforme Tabela
+0011#STR0011#ALL#Relação De Aumento Salarial
+0012#STR0012#ALL#Filial: 
+0013#STR0013#ALL# ccto: 
+0014#STR0014#ALL# Reg.: 
+0015#STR0015#ALL# nome: 
+0016#STR0016#ALL# dt.admissão: 
+0017#STR0017#ALL#Filial: 
+0018#STR0018#ALL# função: 
+0019#STR0019#ALL#Filial: 
+0020#STR0020#ALL# ccto: 
+0021#STR0021#ALL#Filial: 
+0022#STR0022#ALL#Empresa: 
+0023#STR0023#ALL# Remuneração Antigo  Remuneração Hora Antigo  Percentagem + Valor Adicional   =   Reajuste  Remuneração Novo  Remuneração Hora Novo  Arredondamento
+0024#STR0024#ALL# Remuneração Antigo  Percentagem + Valor Adicional   =   Reajuste  Remuneração Novo  Arredondamento
+0025#STR0025#ALL#Por Função
+0026#STR0026#ALL#Tabela de remuneração: 
+0027#STR0027#ALL#% aumento: 
+0028#STR0028#ALL#Valor aumento: 
+0029#STR0029#ALL#Nível Faixa   Val. Re-acordado   Val. Anterior

@@ -1,0 +1,19 @@
+0001#STR0001#ALL#List of Tolls              
+0002#STR0002#ALL#Issue of Tolls             
+0003#STR0003#ALL#Iit will print info on Tolls according to
+0004#STR0004#ALL#according to the user setup.
+0005#STR0005#ALL#Z.formo
+0006#STR0006#ALL#Management   
+0007#STR0007#ALL# Highway Code Highway Name    Toll seq.    Kilometer City            State         Axle value
+0008#STR0008#ALL#*** CANCELED BY OPERATOR ***
+0009#STR0009#ALL#Report of Tollbooths
+0010#STR0010#ALL#Issue of Tollbooths
+0011#STR0011#ALL#Highway
+0012#STR0012#ALL#Highway Cod.
+0013#STR0013#ALL#Highway Name
+0014#STR0014#ALL#Toll seq.
+0015#STR0015#ALL#Kilometer
+0016#STR0016#ALL#City
+0017#STR0017#ALL#State
+0018#STR0018#ALL#Axle Value
+0019#STR0019#ALL#Vehic Value

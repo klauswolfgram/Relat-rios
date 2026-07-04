@@ -1,0 +1,34 @@
+0001#STR0001#ALL#Transportation Cost Movement    
+0002#STR0002#ALL#Issue Transportation Cost Movement List 
+0003#STR0003#ALL#according to the parameters entered.
+0004#STR0004#ALL#Z.form 
+0005#STR0005#ALL#Management 
+0006#STR0006#ALL#Doc.    Issued      Expense                               Vehicle                         Trip        Ledger Account        Acctg. Item  Cost C.    Status                    Total             Owner's Balance   
+0007#STR0007#ALL#EXPENSE TOTAL    
+0008#STR0008#ALL#VEHICLE TOTAL    
+0009#STR0009#ALL#TRIP TOTAL      
+0010#STR0010#ALL#LEDGER ACCOUNT TOTAL    
+0011#STR0011#ALL#OWNER'S TOTAL         
+0012#STR0012#ALL#CANCELLED BY OPERATOR  
+0013#STR0013#ALL#GRAND TOTAL 
+0014#STR0014#ALL#Movement of Transport Cost
+0015#STR0015#ALL#Issue Report of Movement of Transport Cost according to the parameters entered.
+0016#STR0016#ALL#Origin Bra.+ Expense + Issue + Document
+0017#STR0017#ALL#Origin Bra.+ Vehicle + Issue + Document
+0018#STR0018#ALL#Origin Bra.+ Trip + Issue + Document
+0019#STR0019#ALL#Origin Bra.+ Ledger Account + Issue + Document
+0020#STR0020#ALL#Origin Bra.+ Owner + Issue + Document
+0021#STR0021#ALL#Transport Cost
+0022#STR0022#ALL#Total Expenses
+0023#STR0023#ALL#Total of Vehicle
+0024#STR0024#ALL#Total of Trip
+0025#STR0025#ALL#Total of Ledger Account
+0026#STR0026#ALL#Total of Owner
+0027#STR0027#ALL#Doct
+0028#STR0028#ALL#Issue
+0029#STR0029#ALL#Expense
+0030#STR0030#ALL#Description
+0031#STR0031#ALL#Vehicle
+0032#STR0032#ALL#Item
+0033#STR0033#ALL#CC
+0034#STR0034#ALL#Ori.Bra

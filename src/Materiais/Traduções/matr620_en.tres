@@ -1,0 +1,23 @@
+0001#STR0001#ALL#List of Orders per Product    
+0002#STR0002#ALL#This report will print the Sales list ordered by
+0003#STR0003#ALL#Product.
+0004#STR0004#ALL#Z.Form 
+0005#STR0005#ALL#Management   
+0006#STR0006#ALL#LIST OF SALES PER PRODUCT
+0007#STR0007#ALL#CODE            DENOMINATION                              QUANTITY            QUANTITY UM             DISCOUNT                 TOTAL
+0008#STR0008#ALL#PRODUCT                                                     SOLD              INVOICED                                         VALUE
+0009#STR0009#ALL#Selecting Products     
+0010#STR0010#ALL#CANCELLED BY THE OPERATOR  
+0011#STR0011#ALL#G R A N D  T O T A L : 
+0012#STR0012#ALL#List of orders by product     
+0013#STR0013#ALL#This report will generate the list of sales by   
+0014#STR0014#ALL#order of product.
+0015#STR0015#ALL#Product
+0016#STR0016#ALL#Name       
+0017#STR0017#ALL#Qty. sold  
+0018#STR0018#ALL#Qty. billed 
+0019#STR0019#ALL#MU
+0020#STR0020#ALL#Discount
+0021#STR0021#ALL#Total amnt.
+0022#STR0022#ALL#Selecting records      	
+0023#STR0023#ALL#Orders by product  

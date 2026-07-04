@@ -1,0 +1,19 @@
+0001#STR0001#ALL#Detalle de divergencias de pedidos de compras
+0002#STR0002#ALL#Emision del detalle de los itemes para compras
+0003#STR0003#ALL#con divergencias
+0004#STR0004#ALL#A Rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#DIVERGENCIAS ENTRE FACT. DE COMPRAS Y PEDIDOS
+0007#STR0007#ALL#FACTURA      EMISION    CODIGO TD PROVEEDOR                        PRODUCTO        UN     CANTIDAD   VALOR UNITARIO FCH.ENTREGA  COND.
+0008#STR0008#ALL#PEDIDO/REMITO
+0009#STR0009#ALL#ANULADO POR EL OPERADOR
+0010#STR0010#ALL#No hay pedido de compra colocado
+0011#STR0011#ALL#No hay remito colocado          
+0012#STR0012#ALL#FACTURA      EMISION    CODIGO               TD   PROVEEDOR        PRODUCTO        UN   CANTIDAD     VALOR UNITARIO  FCH.ENTR.  COND.
+0013#STR0013#ALL#Itens do pedido 
+0014#STR0014#ALL#que nao constam na nota 
+0015#STR0015#ALL#Items del(os) pedido(s) que no constan en la Factura 
+0016#STR0016#ALL#Items de Doc. de Entrada
+0017#STR0017#ALL#Pedidos de Compra
+0018#STR0018#ALL#FACTURA                EMISION    CODIGO               TD   PROVEEDOR        PRODUCTO        UN   CANTIDAD     VALOR UNITARIO  FCH.ENTR.  COND.
+0019#STR0019#ALL#FACTURA                EMISION    CODIGO TD PROVEEDOR                        PRODUCTO        UN     CANTIDAD   VALOR UNITARIO FCH.ENTREGA  COND.

@@ -1,0 +1,19 @@
+0001#STR0001#ALL#List of Purchase Order Differences
+0002#STR0002#ALL#Issue of the Items to Purchase list
+0003#STR0003#ALL#with Divergencies
+0004#STR0004#ALL#Z.Form 
+0005#STR0005#ALL#Management
+0006#STR0006#ALL#DIVERGENCIES OF PURCHASE FACTURAS AND ORDERS
+0007#STR0007#ALL#INVO         ISSUE      CODE   SUPPLIER UNIT                       PRODUCT         UM   QUANTITY     UNIT VALUE      DELIV.DATE TERM 
+0008#STR0008#ALL#ORDER 
+0009#STR0009#ALL#CANCELLED BY THE OPERATOR
+0010#STR0010#ALL#There is no Purchase Order placed
+0011#STR0011#ALL#There is no Remito placed      
+0012#STR0012#ALL#INVOICE      ISSUE DT   CODE                 UN    VENDOR          PRODUCT         UM    QUANTITY    UNIT VALUE      DELIV.DATE COND.
+0013#STR0013#ALL#Order items 
+0014#STR0014#ALL#that are not listed in the invoice 
+0015#STR0015#ALL#Items of orders that are not part of the Invoice     
+0016#STR0016#ALL#Inflow document items         
+0017#STR0017#ALL#Purchase Orders  
+0018#STR0018#ALL#INVOICE                ISSUE DT   CODE                 UN    VENDOR          PRODUCT         UM    QUANTITY    UNIT VALUE      DELIV.DATE COND.
+0019#STR0019#ALL#INVO                   ISSUE      CODE   SUPPLIER UNIT                       PRODUCT         UM   QUANTITY     UNIT VALUE      DELIV.DATE TERM 

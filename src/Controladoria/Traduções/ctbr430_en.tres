@@ -1,0 +1,56 @@
+0001#STR0001#ALL#The program will print the Account Managerial Reason, 
+0002#STR0002#ALL#according to the parameters requested by the
+0003#STR0003#ALL# user.  
+0004#STR0004#ALL#Z.Form 
+0005#STR0005#ALL#Management   
+0006#STR0006#ALL#Account Managerial Reason Issue    
+0007#STR0007#ALL#DETAILED REASON IN 
+0008#STR0008#ALL#SUMMARY REASON IN  
+0009#STR0009#ALL# FROM 
+0010#STR0010#ALL# TO  
+0011#STR0011#ALL#(BUDGT.)
+0012#STR0012#ALL#(MANAGER. )
+0013#STR0013#ALL#LOT/SUB/DOC/H I S T O R Y  ROW                                                              
+0014#STR0014#ALL#LOT/SUB/DOC/H I S T O R Y  ROW                                                             DEBIT           CREDIT        CURRENT BAL
+0015#STR0015#ALL#***** CANCELLED BY OPERATOR *******
+0016#STR0016#ALL#ACCT. - 
+0017#STR0017#ALL#Selecting Records........
+0018#STR0018#ALL#Creating Temporary File......
+0019#STR0019#ALL#DATE
+0020#STR0020#ALL#A c c o u n t   T o t a l    ==> 
+0021#STR0021#ALL#ACCOUNT NO TRANSACTIONS PERD. 
+0022#STR0022#ALL#TO TRANSPORT:  
+0023#STR0023#ALL#FROM TRANSPORT:
+0024#STR0024#ALL#DATE                                                                             DEBIT                CREDIT             CURRENT BAL
+0025#STR0025#ALL#G R A N D  T O T A L ==> 
+0026#STR0026#ALL#NO TRANSACTION IN PERIOD
+0027#STR0027#ALL#The parameters MV_LRAZABE and MV_LRAZENC must be created. 
+0028#STR0028#ALL#As a base, use the parameter MV_LDIARAB. 
+0029#STR0029#ALL#DEBIT                CREDIT            CURRENT BALANCE    
+0030#STR0030#ALL#The managerial plan is not available on this report.  
+0031#STR0031#ALL#LOT/SUB/DOC/H I S T O R Y  ROW                                                              DEBIT          CREDIT        CURRENT BAL
+0032#STR0032#ALL#LOT/SUB/DOC/H I S T O R Y  ROW                                                                                                                                                         DEBIT                CREDIT          CURRENT BAL
+0033#STR0033#ALL#PREVIOUS BALN.:
+0034#STR0034#ALL#LOT/SUB/DOC/H I S T O R Y  ROW                                                             DEBIT           CREDIT        CURRENT BAL
+0035#STR0035#ALL#DATE                                                                             DEBIT                CREDIT             CURRENT BAL
+0036#STR0036#ALL#DEBIT                CREDIT            CURRENT BALANCE    
+0037#STR0037#ALL#LOT/SUB/DOC/H I S T O R Y  ROW                                                              DEBIT          CREDIT        CURRENT BAL
+0038#STR0038#ALL#LOT/SUB/DOC/H I S T O R Y  ROW                                                                                                                                                         DEBIT                CREDIT          CURRENT BAL
+0039#STR0039#ALL#LOT/SUB/DOC/H I S T O R Y  ROW                                                              
+0040#STR0040#ALL#LOT/SUB/DOC/H I S T O R Y  CORRELT. ROW                                                    
+0041#STR0041#ALL#LOT/SUB/DOC/H I S T O R Y  CORRELT. ROW                                                     DEBIT          CREDIT        CURRENT BAL
+0042#STR0042#ALL#LOT/SUB/DOC/H I S T O R Y  CORRELT. ROW                                                                                                                                              DEBIT                CREDIT          CURRENT BAL.
+0043#STR0043#ALL#Please fill out the question with the Set of Books Code (Books Configurator) of the wanted managerial plan.  
+0044#STR0044#ALL#The set of books (books configurator) should have an allied managerial plan.    
+0045#STR0045#ALL#Check if the Set of Books (books configurator) is registered.        
+0046#STR0046#ALL#LOT/SUB/DOC/LINE
+0047#STR0047#ALL#H I S T O R Y
+0048#STR0048#ALL#DEBIT
+0049#STR0049#ALL#CREDIT
+0050#STR0050#ALL#CURRENT BLC
+0051#STR0051#ALL#Entries
+0052#STR0052#ALL#Account Total
+0053#STR0053#ALL#Complement
+0054#STR0054#ALL#Grand Total
+0055#STR0055#ALL#Attention
+0056#STR0056#ALL#There are no data for parameters specified.

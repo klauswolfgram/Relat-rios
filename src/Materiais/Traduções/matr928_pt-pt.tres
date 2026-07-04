@@ -1,0 +1,7 @@
+0001#STR0001#BRA#Demonstrativo Das Prestações De Serviço De Transporte E Do Crédito Outorgado
+0002#STR0002#BRA#Este programa emitirá o relatório demonstrativo das prestações de serviço de
+0003#STR0003#BRA#Transporte E Crédito Outorgados.
+0004#STR0004#BRA#Código de barras
+0005#STR0005#BRA#Administração
+0008#STR0008#BRA#|    data    | número | serie | cfop | razao social                             | inscrição estadual   |r/d|                    |                    |                    |      outorgado     |
+0009#STR0009#BRA# - período: 

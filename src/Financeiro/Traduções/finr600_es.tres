@@ -1,0 +1,26 @@
+0001#STR0001#ALL#El  objetivo  de  este programa es imprimir los 
+0002#STR0002#ALL#talones de pago del banco seleccionado,segun layout 
+0003#STR0003#ALL#configurado previamente.
+0004#STR0004#ALL#Impresion del talon en 
+0005#STR0005#ALL#A Rayas
+0006#STR0006#ALL#Administracion
+0007#STR0007#ALL#ANULADO POR EL OPERADOR
+0008#STR0008#ALL#Antes de iniciar la impresion, compruebe que el formulario continuo esta ajustado.
+0009#STR0009#ALL#La prueba se imprimira en la columna de lugar de pagos.
+0010#STR0010#ALL#Haga clic en el boton impresora para la prueba de posicion.
+0011#STR0011#ALL#¿Formulario colocado correctamente?
+0012#STR0012#ALL#Antes de iniciar la impresion, compruebe que el formulario continuo este 
+0013#STR0013#ALL#ajustado. La prueba se imprimira en la columna de lugar de pagos. 
+0014#STR0014#ALL#¿Formulario colocado correctamente?
+0015#STR0015#ALL#Confirmar
+0016#STR0016#ALL#Reescribir
+0017#STR0017#ALL#Salir
+0018#STR0018#ALL#Fact. por Cobrar
+0019#STR0019#ALL#Mensajes
+0020#STR0020#ALL#Linea 1
+0021#STR0021#ALL#Linea 2
+0022#STR0022#ALL#Linea 3
+0023#STR0023#ALL#¿Graba? 
+0024#STR0024#ALL#¿Graba? 
+0025#STR0025#ALL#¿Bordero Generico?
+0026#STR0026#ALL#Existen otros mensajes configurados para el talon, ¿confirma sustitucion?

@@ -1,0 +1,10 @@
+0001#STR0001#ALL#The aim of this report is to print the list of       
+0002#STR0002#ALL#Audit Agendas        
+0003#STR0003#ALL#List of Audit Agendas           
+0004#STR0004#ALL#Z.Form
+0005#STR0005#ALL#Management   
+0006#STR0006#ALL#AGENDA CD.          DESCRIPTION                     ALLOCAT.  ALLOCAT. END  AUD.BRC.  MAIN AUDITOR 
+0007#STR0007#ALL#DEPT.         AUDIT DEST.                        BRN.AUD. AUDITOR 
+0008#STR0008#ALL#Audit    
+0009#STR0009#ALL#Area
+0010#STR0010#ALL#DEPT.         DEST. AUDIT                        BRN.AUD. AUDITOR                                   BEGINNING      END     

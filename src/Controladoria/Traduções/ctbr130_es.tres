@@ -1,0 +1,37 @@
+0001#STR0001#ALL#Este programa imprimira Balance Parcial de 
+0002#STR0002#ALL#de acuerdo con parametros solicitados por el Usuario. 
+0003#STR0003#ALL#Balance Parcial de Verif. por
+0004#STR0004#ALL#|  CODIGO                     |      D E S C R I P C I O N                      |    SALDO ANTERIOR              |    DEBITO       |      CREDITO      |    MOVIMIENTO DEL PERIODO     |         SALDO ACTUAL              |
+0004#STR0004#MEX#|  CODIGO                     |      D E S C R I P C I O N                      |    SALDO ANTERIOR              |    CARGO        |      ABONO        |    MOVIMIENTO DEL PERIODO     |         SALDO ACTUAL              |
+0005#STR0005#ALL#|  CODIGO               |   D  E  S  C  R  I  P C I O N  |   SALDO ANTERIOR  |      DEBITO    |      CREDITO   |   SALDO ACTUAL    |
+0005#STR0005#MEX#|  CODIGO               |   D  E  S  C  R  I  P C.       |   SALDO ANTERIOR  |      CARGO     |      ABONO     |   SALDO ACTUAL    |
+0006#STR0006#ALL#BALANCE PARC. ANALIT. DE
+0007#STR0007#ALL#BALANCE PARC. SINTET. DE
+0008#STR0008#ALL#BAL. PARC. DE 
+0009#STR0009#ALL# DE 
+0010#STR0010#ALL# A   
+0011#STR0011#ALL# EN 
+0012#STR0012#ALL# (PRESUP)
+0013#STR0013#ALL# (DE GEST. )
+0014#STR0014#ALL#Creando Archivo Temporal...  
+0015#STR0015#ALL#A rayas
+0016#STR0016#ALL#Administrac. 
+0017#STR0017#ALL#***** ANULADO POR EL OPERADOR *****
+0018#STR0018#ALL#T O T A L E S   P E R I O D O:   
+0019#STR0019#ALL#T O T A L E S     G R U P O (
+0020#STR0020#ALL#T O T A L E S
+0021#STR0021#ALL#Si no se actualizan saldos compuestos en
+0022#STR0022#ALL#emision de informes(MV_SLDCOMP ='N'),   
+0023#STR0023#ALL#ejec. la rutina actualizacion de saldos 
+0024#STR0024#ALL#ATENC. 
+0025#STR0025#ALL#Codigo
+0026#STR0026#ALL#Cod. reducido
+0027#STR0027#ALL#Descripc.
+0028#STR0028#ALL#Saldo anterior
+0029#STR0029#ALL#Debito
+0029#STR0029#MEX#Cargo 
+0030#STR0030#ALL#Credito
+0030#STR0030#MEX#Abono  
+0031#STR0031#ALL#Movimiento periodo  
+0032#STR0032#ALL#Saldo act. 
+0033#STR0033#ALL#BALANCE PARCIAL C.COSTO / ÍTEM

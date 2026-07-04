@@ -1,0 +1,36 @@
+0001#STR0001#ALL#Impressão Do Documento De Recebtos.diversos.
+0002#STR0002#ALL#Impressão Dos Documentos De Recebtos.diversos
+0004#STR0004#ALL#Administração
+0005#STR0005#ALL#** cancelado pelo operador **
+0007#STR0007#ALL#Efectivo
+0010#STR0010#ALL#Responsável Inscrito
+0011#STR0011#ALL#Responsável Não Inscrito
+0014#STR0014#ALL#Exportação
+0016#STR0016#ALL#Afecto Iva
+0017#STR0017#ALL#  a soma de 
+0018#STR0018#ALL#  (convertidos) : 
+0019#STR0019#ALL#Entradas
+0021#STR0021#ALL#Recebimentos antecipados 
+0023#STR0023#ALL#Títulos recebidos                         
+0024#STR0024#ALL#|-pref.-número--------------valor recebido--moeda----vencto-----------valor em 
+0025#STR0025#ALL#|                             total em 
+0027#STR0027#ALL#Tenta novamente ? 
+0028#STR0028#ALL#Do recibo      ?
+0029#STR0029#ALL#Até            ?
+0030#STR0030#ALL#Recibo núm: 
+0031#STR0031#ALL#R.u.t    
+0032#STR0032#ALL#R.u.c    
+0033#STR0033#ALL#R.f.c. 
+0034#STR0034#ALL#C.u.i.t. 
+0036#STR0036#ALL#| telefone : 
+0037#STR0037#ALL#     fax : 
+0038#STR0038#ALL#| recebemos de: 
+0040#STR0040#ALL#| morada : 
+0044#STR0044#ALL#|taxas em 
+0045#STR0045#ALL#N.i.t    
+0046#STR0046#ALL#Nit/cc   
+0047#STR0047#ALL#Np/ss    
+0048#STR0048#ALL#Fed.id.  
+0049#STR0049#ALL#Cartão De Crédito
+0050#STR0050#ALL#Não houve recepção de títulos
+0051#STR0051#ALL#*** documento cancelado ***

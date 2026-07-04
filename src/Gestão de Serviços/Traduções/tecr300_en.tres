@@ -1,0 +1,16 @@
+0001#STR0001#ALL#Printing of Technician Call 
+0002#STR0002#ALL#     This program will print the Technician Calls in accordance
+0003#STR0003#ALL#to parameters selected.
+0004#STR0004#ALL#
+0005#STR0005#ALL#Z.Form 
+0006#STR0006#ALL#Management   
+0007#STR0007#ALL#CANCELLED BY THE OPERATOR  
+0008#STR0008#ALL#|                                TECHNICIAN CALL                                             | No.of Call: ######## | Sheet: ######|
+0009#STR0009#ALL#|Customer : ######/## - ########################################                                                                   |
+0010#STR0010#ALL#|Issue    : ##########                                                                                Contact: ####################|
+0011#STR0011#ALL#|Attendant: ####################                                                                                     Time: ########|
+0012#STR0012#ALL#|It|   Type   |    Product    |      Serial No.    |                Problem                |    Contract   | Warranty | Budget/SO  |
+0013#STR0013#ALL#|  |                                    Occurrency:################################################################################|
+0014#STR0014#ALL#Comment   
+0015#STR0015#ALL#Call header         
+0016#STR0016#ALL#Call items      

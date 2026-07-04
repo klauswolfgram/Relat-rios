@@ -1,0 +1,24 @@
+0001#STR0001#ALL#Relatorio disponível apenas em TReport
+0002#STR0002#ALL#Emissao do Relat. Plan. Ref. 
+0003#STR0003#ALL#Este programa ira imprimir o Balancete baseado na amarração do plano de contas com o plano de contas referencial
+0004#STR0004#ALL#Plano de contas referencial
+0005#STR0005#ALL#Conta
+0006#STR0006#ALL#Descricao
+0007#STR0007#ALL#Saldo anterior
+0008#STR0008#ALL#Debito
+0009#STR0009#ALL#Credito
+0010#STR0010#ALL#Mov  periodo
+0011#STR0011#ALL#Saldo atual
+0012#STR0012#ALL#BALANCETE PLANO REFERENCIAL: 
+0013#STR0013#ALL# DE 
+0014#STR0014#ALL# ATE 
+0015#STR0015#ALL# EM 
+0016#STR0016#ALL# E 
+0017#STR0017#ALL# - FILIAIS: 
+0018#STR0018#ALL# - FILIAL: 
+0019#STR0019#ALL#Criando Arquivo Temporario...
+0020#STR0020#ALL#Balancete Verificacao
+0021#STR0021#ALL# T O T A I S 
+0022#STR0022#ALL#Selecionando Registros...
+0023#STR0023#ALL#Plano Referencial e/ou Versão não preenchidos. 
+0024#STR0024#ALL#Plano Ref. e Versao não cadastrados no Cad. Plano Referencial.

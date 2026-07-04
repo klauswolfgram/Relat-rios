@@ -1,0 +1,14 @@
+0001#STR0001#ALL#Este programa tem como objetivo imprimir relatório 
+0002#STR0002#ALL#De acordo com os parâmetro s informados pelo utilizador.
+0003#STR0003#ALL#Relatório de transacções de vendas 
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#  - Facturas Tributadas
+0007#STR0007#ALL#  -  Facturas Isentas
+0008#STR0008#ALL#  -  Facturas Isentas E Tributadas
+0009#STR0009#ALL#Data       Número Doc /série    Cliente       Nome.cliente                  Vendedor                       Valor Total       Valor Imposto
+0010#STR0010#ALL#Data       número doc /série    cliente       nome.cliente                  vendedor                       valor total       valor imposto       código de exoneração    
+0011#STR0011#ALL#*** cancelado pelo operador ***
+0013#STR0013#ALL#Total filial.: 
+0014#STR0014#ALL#Total: 
+0015#STR0015#ALL#Total geral.: 

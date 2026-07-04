@@ -1,0 +1,41 @@
+0001#STR0001#ALL#Romaneio de Separacao por Carga
+0002#STR0002#ALL#Emite Relatorio de Romaneio de Separacao ordenado por
+0003#STR0003#ALL#Carga+Sequencia de Carga. Em cada Carga os itens sao 
+0004#STR0004#ALL#ordenados por Pedido+Cliente/Fornecedor+Loja+Item    
+0005#STR0005#ALL#Zebrado
+0006#STR0006#ALL#Administração
+0007#STR0007#ALL#Item Produto         Lote       Sub-Lote Endereco Origem                    1aUM
+0008#STR0008#ALL#     Descricao                                                                  
+0009#STR0009#ALL#Item Produto         Lote       Sub-Lote Endereco Origem                    2aUM
+0010#STR0010#ALL#Item Produto         Lote       Sub-Lote Endereco Origem  Unitiz.   1aUM    2aUM
+0011#STR0011#ALL#Item Produto         Lote       Sub-Lote Endereco Origem              Quantidade
+0012#STR0012#ALL#Carga....: 
+0013#STR0013#ALL#Chegada....: [______] Saida: [______]
+0014#STR0014#ALL#Veiculo..: 
+0015#STR0015#ALL#Motorista..: 
+0016#STR0016#ALL#Peso.....: 
+0017#STR0017#ALL#Data.....: 
+0018#STR0018#ALL# Hora: 
+0019#STR0019#ALL#End.Destino: 
+0020#STR0020#ALL#Pedido...: 
+0021#STR0021#ALL#Cliente....: 
+0022#STR0022#ALL#Fornecedor.: 
+0023#STR0023#ALL#Selecionando Registros...
+0024#STR0024#ALL#Aguarde... Preparando Registros para Impressao...
+0025#STR0025#ALL#Ordenando as Cargas
+0026#STR0026#ALL#Aguarde...
+0027#STR0027#ALL#Ordenando os Pedidos
+0028#STR0028#ALL#Aguarde... Ordenando Registros para Impressao...
+0029#STR0029#ALL#Chegada
+0030#STR0030#ALL#Saida
+0031#STR0031#ALL#Unitizada
+0032#STR0032#ALL#1aUM
+0033#STR0033#ALL#2aUM
+0034#STR0034#ALL#Cargas
+0035#STR0035#ALL#Itens da Carga
+0036#STR0036#ALL#Movimentos por endereco
+0037#STR0037#ALL#Seq
+0038#STR0038#ALL#Veiculo
+0039#STR0039#ALL#Valor
+0040#STR0040#ALL#Pedido
+0041#STR0041#ALL#Item

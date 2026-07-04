@@ -1,0 +1,8 @@
+0001#STR0001#ALL#Este programa tem a função de emitir a relação dos cheques devolvidos.
+0003#STR0003#ALL# Banco     Agência     Conta    Nr.cheque  Título-parcela   Cliente-loja                               Telefone      Alínea1    Data    Reapresentado   Alínea2    Data    Histórico
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL# Banco   Agência  Conta       Nrº. De Cheque        Título-parcela Cliente-loja                               Telefone       Alínea1  Data         Apresentado Novamente  Alínea2   Data                   Valor    Histórico
+0007#STR0007#ALL#Cancelado Pelo Operador
+0008#STR0008#ALL#Não há informações para este relatório
+0009#STR0009#ALL#Total de cheques devolvidos ....:

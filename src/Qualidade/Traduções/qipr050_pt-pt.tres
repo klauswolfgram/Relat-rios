@@ -1,0 +1,27 @@
+0001#STR0001#ALL#Certificado De Qualidade
+0002#STR0002#ALL#Neste Relatório Será Impresso O Certificado De Qualidade
+0003#STR0004#ALL# texto superior 
+0004#STR0005#ALL# texto inferior 
+0005#STR0006#ALL# impressão 
+0006#STR0007#ALL#Certificado De Qualidade
+0007#STR0008#ALL#Itens De Configuração
+0008#STR0009#ALL#Neste Relatório Será Impresso Os Certificados
+0009#STR0010#ALL#Certificado De Qualidade
+0010#STR0011#ALL#Código de barras
+0011#STR0012#ALL#Administração
+0012#STR0013#ALL#A Seleccionar Registos...
+0014#STR0015#ALL#Laboratorio : 
+0017#STR0018#ALL#Mínimo
+0018#STR0019#ALL#Máximo
+0032#STR0033#ALL#Operação : 
+0033#STR0034#ALL# informações complementares 
+0034#STR0035#ALL#Devido o laudo estar com autorização urgente, não será possivel emitir o certificado de qualidade.
+0035#STR0036#ALL#Atenção
+0036#STR0037#ALL#Impr. Ensaio texto ?
+0037#STR0038#ALL#Uma Medição
+0038#STR0039#ALL#Todas As Medições
+0039#STR0040#ALL#Factura
+0040#STR0041#ALL#Série
+0041#STR0042#ALL#Média
+0042#STR0043#ALL#Identificada A Inconsistência, Deve Verificar (ordem De Produção + Lote + Núm Série + Artigo + Revisão)
+0043#STR0044#ALL#Identificada A Inconsistência, Deve Verificar A Chave (artigo + Data De Produção)

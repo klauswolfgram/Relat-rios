@@ -1,0 +1,23 @@
+0001#STR0004#ALL#Monitor de Servicos
+0002#STR0005#ALL#Zebrado
+0003#STR0006#ALL#Administracao
+0004#STR0007#ALL# Movimento                   Origem           Produto          Lote        Destino          Status
+0005#STR0008#ALL#Selecionando enderecos...
+0006#STR0009#ALL#SERVICO DE 
+0007#STR0010#ALL#Carga: 
+0008#STR0011#ALL#Documento: 
+0009#STR0012#ALL#Qtde 1a.U.M. -->
+0010#STR0013#ALL#Qtde 2a.U.M. -->
+0011#STR0014#ALL#Qtde U.M.I. -->
+0012#STR0015#ALL#Qtde -->
+0013#STR0025#ALL#Este relatorio pode ser utilizado quando o cliente näo possui radio freqüencia 
+0014#STR0026#ALL#ou por algum motivo a radio freqüencia estiver desabilitada.
+0015#STR0027#ALL#O layout e como se o usuario estivesse utilizando radio freqüencia.
+0016#STR0028#ALL#Movimentos por endereco - Documento
+0017#STR0029#ALL#Movimentos por endereco - Atividades
+0018#STR0030#ALL#Movimentos por endereco - Quantidades
+0019#STR0031#ALL#Movimento
+0020#STR0032#ALL#Traco
+0021#STR0033#ALL#Lacuna
+0022#STR0034#ALL#Qtd Unitiz
+0023#STR0035#ALL#Unitizador

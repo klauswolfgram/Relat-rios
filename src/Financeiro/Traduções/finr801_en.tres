@@ -1,0 +1,27 @@
+0001#STR0001#ALL#This program will print the Comparative of Customer´s movements 
+0002#STR0002#ALL#up to 6 months. The values are related to the bill´s movements  
+0003#STR0003#ALL# within the required period. 
+0004#STR0004#ALL#Comparative of Customer´s movements up to 6 months
+0005#STR0005#ALL#Z. Form
+0006#STR0006#ALL#Management
+0007#STR0007#ALL#The required period doesn´t match with the accounting calendar. Please, do the accounting calendar again.
+0008#STR0008#ALL#The required period exceeds the limit of 6 months. Only the 6 months from the initial date will be printed.
+0009#STR0009#ALL# from 
+0010#STR0010#ALL# to 
+0011#STR0011#ALL#CODE
+0012#STR0012#ALL#N  A  M  E
+0013#STR0013#ALL#   MOV. PERIOD  01   |   MOV. PERIOD  02   |   MOV. PERIOD  03   |   MOV. PERIOD  04   |   MOV. PERIOD  05   |   MOV. PERIOD  06   |      GRAND  TOTAL |
+0014#STR0014#ALL#      GRAND  TOTAL |
+0015#STR0015#ALL#Estimated->
+0016#STR0016#ALL#Accomplis->
+0017#STR0017#ALL#In code order
+0018#STR0018#ALL#In order of ´Estimated´
+0019#STR0019#ALL#In order of ´Accomplished´
+0020#STR0020#ALL#In order of ´Estimated+Accomplished´
+0021#STR0021#ALL#Forecast
+0022#STR0022#ALL#Actual   
+0023#STR0023#ALL#Code
+0024#STR0024#ALL#Company
+0025#STR0025#ALL#Business Unit
+0026#STR0026#ALL#Branch
+0027#STR0027#ALL#Branches selected for the report

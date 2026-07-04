@@ -1,0 +1,28 @@
+0001#STR0001#ALL#Este programa emitirá uma relacao com a posiçäo de 
+0002#STR0002#ALL#estoque por Lote/Sub-Lote.
+0003#STR0003#ALL#Posicao de Estoque por Lote/Sub-Lote
+0004#STR0004#ALL# Por Produto
+0005#STR0005#ALL# Por Lote/Sub-Lote
+0006#STR0006#ALL#Zebrado
+0007#STR0007#ALL#Administracao
+0008#STR0008#ALL#POSICAO DE ESTOQUE POR LOTE/SUBLOTE (POR PRODUTO)
+0009#STR0009#ALL#PRODUTO         DESCRICAO                      SUB-LOTE LOTE       ARMZ              SALDO             EMPENHO    DATA      DATA
+0010#STR0010#ALL#POSICAO DE ESTOQUE POR LOTE/SUB-LOTE (POR LOTE)
+0011#STR0011#ALL#SUB-LOTE   LOTE   PRODUTO         DESCRICAO                        ARMZ              SALDO             EMPENHO    DATA      DATA
+0012#STR0012#ALL#CANCELADO PELO OPERADOR
+0013#STR0013#ALL#Total do Produto ->
+0014#STR0014#ALL#                                                                                                                          VALIDADE 
+0015#STR0015#ALL#Total do Lote ->
+0016#STR0016#ALL#Total do Lote/SubLote ->
+0017#STR0017#ALL#Selecionando Registros...
+0018#STR0018#ALL# Por Armazem
+0019#STR0019#ALL#POSICAO DE ESTOQUE POR LOTE/SUB-LOTE (POR ARMAZEM)
+0020#STR0020#ALL#PRODUTO         DESCRICAO                      SUB-LOTE LOTE       ARMZ              SALDO             EMPENHO               SALDO             EMPENHO    DATA      DATA
+0021#STR0021#ALL#                                                                                   1a.U.M.             1a.U.M.             2a.U.M.             2a.U.M.            VALIDADE 
+0022#STR0022#ALL#SUB-LOTE   LOTE   PRODUTO         DESCRICAO                        ARMZ              SALDO             EMPENHO               SALDO             EMPENHO    DATA      DATA
+0023#STR0023#ALL#    DESCR. ARMAZ.
+0024#STR0024#ALL#Saldo
+0025#STR0025#ALL#Empenho
+0026#STR0026#ALL#1a.U.M.
+0027#STR0027#ALL#2a.U.M.
+0028#STR0028#ALL#Saldos por Lote

@@ -1,0 +1,42 @@
+0001#STR0001#ALL#Relación de Títulos por cobrar con retención PIS / COFINS y CSLL
+0002#STR0002#ALL#Informe utilizado por el usuario para analizar las retenciones de PIS / COFINS y CSLL de los clientes con el propósito de confirmar los valores de las retenciones.
+0003#STR0003#ALL#Sucursal
+0004#STR0004#ALL#Datos del cliente
+0005#STR0005#ALL#Código
+0006#STR0006#ALL#Tienda
+0007#STR0007#ALL#Nombre del cliente
+0008#STR0008#ALL#RCPJ
+0009#STR0009#ALL#Títulos
+0010#STR0010#ALL#ID
+0011#STR0011#ALL#Prf.
+0012#STR0012#ALL#Número
+0013#STR0013#ALL#PC
+0014#STR0014#ALL#Tipo
+0015#STR0015#ALL#Fch. Emisión
+0016#STR0016#ALL#Fch. Vencto.
+0017#STR0017#ALL#Valor original
+0018#STR0018#ALL#Valor IRRF
+0019#STR0019#ALL#Valor ISS
+0020#STR0020#ALL#Valor INSS
+0021#STR0021#ALL#Valor PIS
+0022#STR0022#ALL#Valor COFINS
+0023#STR0023#ALL#Valor CSLL
+0024#STR0024#ALL#Valor neto
+0025#STR0025#ALL#Total de títulos
+0026#STR0026#ALL#Razón social
+0027#STR0027#ALL#Dirección
+0028#STR0028#ALL#Ciudad
+0029#STR0029#ALL# - Est/Prov/Reg
+0030#STR0030#ALL#Inscr. Estatal
+0031#STR0031#ALL#Por código cliente
+0032#STR0032#ALL#Por nombre cliente
+0033#STR0033#ALL#Títulos por cobrar con retención de impuestos (Sucursales seleccionadas para el informe)
+0034#STR0034#ALL#Seleccionando registros...
+0035#STR0035#ALL#ANULADO POR EL OPERADOR
+0036#STR0036#ALL#Sucursal: 
+0037#STR0037#ALL#A = Los valores de PIS,COFINS y CSLL de este título se retuvieron en otro título.
+0038#STR0038#ALL#Total cliente  - 
+0039#STR0039#ALL#TÍTULOS
+0040#STR0040#ALL#TÍTULO
+0041#STR0041#ALL#TOTAL GENERAL      ----> 
+0042#STR0042#ALL#TOTAL SUCURSAL    ----> 

@@ -1,0 +1,91 @@
+0001#STR0001#ALL#Emissäo do Aumento Salarial.
+0002#STR0002#ALL#Será impresso de acordo com os parametros solicitados pelo
+0003#STR0003#ALL#usuário.
+0004#STR0004#ALL#Matricula
+0005#STR0005#ALL#Centro de Custo
+0006#STR0006#ALL#Funçäo
+0007#STR0007#ALL#Função
+0008#STR0008#ALL#Zebrado
+0009#STR0009#ALL#Administraçäo
+0010#STR0010#ALL#Data Base: 
+0011#STR0011#ALL#Pesquisar
+0012#STR0012#ALL#Visualizar
+0013#STR0013#ALL#Incluir
+0014#STR0014#ALL#Alterar
+0015#STR0015#ALL#Excluir
+0016#STR0016#ALL#Faixa Mensal De
+0017#STR0017#ALL#Faixa Mensal Ate
+0018#STR0018#ALL#% Aumento
+0019#STR0019#ALL#Valor do Aumento
+0020#STR0020#ALL#Cálculo/Relatório Reajuste Salarial 
+0021#STR0021#ALL#  (DISSIDIO)  
+0022#STR0022#ALL#  (ANTECIPACAO)  
+0023#STR0023#ALL#  (AUMENTO REAL)  
+0024#STR0024#ALL#Cálculo/Relatório Reajuste Salarial por Função
+0025#STR0025#ALL#Confirma
+0026#STR0026#ALL#Redigita
+0027#STR0027#ALL#Abandona
+0028#STR0028#ALL# Calcular para Salários 
+0029#STR0029#ALL#Sistema
+0030#STR0030#ALL#SALARIO BASE
+0031#STR0031#ALL#FILIAL: 
+0032#STR0032#ALL# CCTO: 
+0033#STR0033#ALL# MAT: 
+0034#STR0034#ALL# NOME: 
+0035#STR0035#ALL# DT.ADM.: 
+0036#STR0036#ALL# CATEGORIA: 
+0037#STR0037#ALL# SINDICATO: 
+0038#STR0038#ALL# FUNCAO: 
+0039#STR0039#ALL#Empresa: 
+0040#STR0040#ALL# SALARIO ANTIGO  SALARIO HORA ANTIGO  PERCENTUAL + VALOR ADICIONAL   =   REAJUSTE  SALARIO NOVO  SALARIO HORA NOVO  ARREDONDAMENTO
+0041#STR0041#ALL# SALARIO ANTIGO  PERCENTUAL + VALOR ADICIONAL   =   REAJUSTE  SALARIO NOVO  ARREDONDAMENTO
+0042#STR0042#ALL#Data Admissao de 
+0043#STR0043#ALL#Data Admissao Ate
+0044#STR0044#ALL#Piso Salarial: Valores calculados considerando 220h/mês.
+0045#STR0045#ALL#Piso/Mes    :
+0046#STR0046#ALL#Piso/Hora   :
+0047#STR0047#ALL#Piso/Dia    :
+0048#STR0048#ALL#Atenção
+0049#STR0049#ALL#Preencha a data de admissao
+0050#STR0050#ALL#Data em Branco
+0051#STR0051#ALL#Informe uma data ou faixa que esteja fora dos periodos ja informados.
+0052#STR0052#ALL#Data Invalida.
+0053#STR0053#ALL#Data de Admissao Inicial maior que a data final
+0054#STR0054#ALL#== > T O T A I S  P A R A  
+0055#STR0055#ALL#  F U N C I O N A R I O(S):
+0056#STR0056#ALL#RELACAO DAS FUNCOES REAJUSTADAS ( nao atribuidas aos funcionarios)
+0057#STR0057#ALL# SALÁRIO ANTIGO  SAL. DIARIO  INT.  ANT   PERCENTUAL + VALOR ADICIONAL   =   REAJUSTE  SALÁRIO NOVO  SAL.DIA.INT.  NOVO   ARREDONDAMENTO
+0058#STR0058#ALL#Ocorreram Inconsistências durante o Processo e não foi efetivada a gravação de alguns Empregados. Deseja consultar o LOG? 
+0059#STR0059#ALL#Atenção
+0060#STR0060#ALL#Log de Ocorrências
+0061#STR0061#ALL# SALARIO ANTIGO  SALARIO HORA ANTIGO + VALOR ADICIONAL   =   REAJUSTE  SALARIO NOVO  SALARIO HORA NOVO  ARREDONDAMENTO
+0062#STR0062#ALL# SALÁRIO ANTIGO  SAL. DIARIO  INT.  ANT  + VALOR ADICIONAL   =   REAJUSTE  SALÁRIO NOVO  SAL.DIA.INT.  NOVO   ARREDONDAMENTO
+0063#STR0063#ALL# SALARIO ANTIGO   + VALOR ADICIONAL   =   REAJUSTE  SALARIO NOVO  ARREDONDAMENTO
+0064#STR0064#ALL#Para Gestão Pública é obrigatório que as perguntas 'Atualiza Cadastro' e 'Atualiz.Base Dissidio' estejam configuras da mesma forma.
+0065#STR0065#ALL#Para todos os sindicatos, deixe o campo em branco.
+0066#STR0066#ALL#OK
+0067#STR0067#ALL#Salario não atualizado pois o reg. de admissão do funcionário, S-2100/S-2200, ainda não foi integrado com o TAF.
+0068#STR0068#ALL#Salario não atualizado pois o reg. de admissão do funcionário, S-2100/S-2200, está em trânsito TAF x RET
+0069#STR0069#ALL#Salario não atualizado pois o reg. de admissão do funcionário, S-2100/S-2200, ainda não foi transmitido ao RET.
+0070#STR0070#ALL#Monitoramento - Aumento Salarial e geraçao Registro de Alteração Contratual do TAF
+0071#STR0071#ALL#Funcionário não possui Código de Matricula Única definida. Realize a carga inicial antes de efetuar o ajuste salárial
+0072#STR0072#ALL#Atenção
+0073#STR0073#ALL#As alterações salariais serão integradas com o TAF através da execução do JOB, conforme orientações no link abaixo.
+0074#STR0074#ALL#Não exibir novamente
+0075#STR0075#ALL#Data do Aumento: 
+0076#STR0076#ALL# - Funcionários Processados:
+0077#STR0077#ALL#Deseja gerar Log?
+0078#STR0078#ALL#Log de registros processados
+0079#STR0079#ALL#Valor inicial menor ou igual o valor final da faixa anterior
+0080#STR0080#ALL#O valor inicial deve ser maior que o valor final da faixa anterior
+0081#STR0081#ALL#Filial: 
+0082#STR0082#ALL# - Matrícula: 
+0083#STR0083#ALL# - Nome: 
+0084#STR0084#ALL#Salário antigo: 
+0085#STR0085#ALL# | Salário atualizado: 
+0086#STR0086#ALL#Salário dissídio antigo: 
+0087#STR0087#ALL# | Salário dissídio atualizado: 
+0088#STR0088#ALL#Salário da função 
+0089#STR0089#ALL# antigo: 
+0090#STR0090#ALL# | Salário da função 
+0091#STR0091#ALL# atualizado: 

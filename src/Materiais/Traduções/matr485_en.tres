@@ -1,0 +1,24 @@
+0001#STR0001#ALL#Report of Invoices From / At Third Parties
+0002#STR0002#ALL#Issues a list of all invoices involved in the control process
+0003#STR0003#ALL#of Third Parties.
+0004#STR0004#ALL# Invoice 
+0005#STR0005#ALL# Customer/Supplier 
+0006#STR0006#ALL# Product 
+0007#STR0007#ALL#Z.Form
+0008#STR0008#ALL#Management
+0009#STR0009#ALL#RECORD(S)
+0010#STR0010#ALL#of Invoice:
+0011#STR0011#ALL#of Customer/Supplier:
+0012#STR0012#ALL#of Product:
+0013#STR0013#ALL#Selecting Records...
+0014#STR0014#ALL#INVOICE     SERIES CUSTOMER/  PRODUCT          QUANTITY                   UNIT              VALUE     ISSUE  FRO/IN  TIO   INV
+0015#STR0015#ALL#                   SUPPLIER                                              PRICE                         DATE  3RD PAR      TYPE
+0016#STR0016#ALL#Total 
+0017#STR0017#ALL#Value
+0018#STR0018#ALL#Third party balances    
+0019#STR0019#ALL#INVOICE                  SERI.  CUST.  /    PRODUCT            QUANTITY               PRICE               VALUE     DATE    FR/ON  TIO  TYPE
+0020#STR0020#ALL#                                SUPPLIER                                            UNIT                          ISSUE     OUT.        INV 
+0021#STR0021#ALL#INV.        SERIES CUSTOM./                 PRODUCT            AMOUNT                  PRICE              VALUE      DATE   OF/IN  TIO  TYPE
+0022#STR0022#ALL#FISCAL              SUPPLIER                                                        UNIT                           ISSUE    THIRD         NF
+0023#STR0023#ALL#INV.                     SERIES CUSTOM./                  PRODUCT             AMOUNT                PRICE              VALUE     DATE    OF/IN   TIO  TYPE
+0024#STR0024#ALL#FISCAL                            SUPPLIER                                                       UNIT                            ISSUE    THIRD         NF

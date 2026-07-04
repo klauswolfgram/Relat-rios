@@ -1,0 +1,18 @@
+0001#STR0001#ALL#Situação dos Títulos em Cobrança
+0002#STR0002#ALL#Este programa irá emitir a relação dos títulos com cobrança efetuada pelo atendimento de Telecobrança.
+0003#STR0003#ALL#Apenas os Títulos a receber que foram pelo atendimento de Telecobrança serão considerados.
+0004#STR0004#ALL#A emissão do relatório será baseada nos parâmetros informados.
+0005#STR0005#ALL#Zebrado
+0006#STR0006#ALL#Administração
+0007#STR0007#ALL#CANCELADO PELO OPERADOR
+0008#STR0008#ALL#Cliente: 
+0009#STR0009#ALL#Contato: 
+0010#STR0010#ALL#Atend.  Dt.Atend    Retorno Atendimento       Prf  Título   Par    Tip  Natureza    Vencto      V.Real               Valor       Acréscimo      Decréscimo  Núm. Banco      Valor dos Juros % Jur.  Status
+0011#STR0011#ALL# às 
+0012#STR0012#ALL#TOTAL PAGO: 
+0013#STR0013#ALL#TOTAL NEGOCIADO: 
+0014#STR0014#ALL#TOTAL CARTÓRIO: 
+0015#STR0015#ALL#Nao existem dados a serem impressos para este relatorio com os parametros informados
+0016#STR0016#ALL#Não Informado
+0017#STR0017#ALL#Dados Cliente
+0018#STR0018#ALL#Itens dos Titulos em Cobranca

@@ -1,0 +1,30 @@
+0001#STR0001#ALL#Zebrado
+0002#STR0002#ALL#Administração
+0003#STR0003#ALL#Este programa imprimirá o Livro Registro de duplicatas
+0004#STR0004#ALL#Livro do registro de duplicatas
+0005#STR0005#ALL#Devem ser criados os parametros MV_LDUPABE e MV_LDUPENC.
+0006#STR0006#ALL#Utilize como base o parametro MV_LDIARAB.
+0007#STR0007#ALL#Livro de Duplicatas
+0008#STR0008#ALL#R E G I S T R O   D E   D U P L I C A T A S
+0009#STR0009#ALL#                           FOLHA: ####### |
+0010#STR0010#ALL#| EMPRESA:#############################################################################################################################                                                                          |
+0011#STR0011#ALL#| INSC.EST.: ################   C.N.P.J: ################################                                                                                                                                        |
+0012#STR0012#ALL#|No. de Ordem |Data da Emissão|Data da  Expedição |           Valor|Nome do Comprador                       | Domicilio         |Data do Vencto |Data do Pagto.|                  Anotacoes das reformas         |
+0013#STR0013#ALL#|             |               |                   |                |                                        |                   |               |              |prorrogações e outras circunstâncias necessárias |
+0014#STR0014#ALL#No de Ordem
+0015#STR0015#ALL#Data da
+0016#STR0016#ALL#Emissao
+0017#STR0017#ALL#Expedicao
+0018#STR0018#ALL#Valor
+0019#STR0019#ALL#Nome do Comprador
+0020#STR0020#ALL#Domicilio
+0021#STR0021#ALL#Data do
+0022#STR0022#ALL#Vencimento
+0023#STR0023#ALL#Pagto.
+0024#STR0024#ALL#Anotacoes das reformas
+0025#STR0025#ALL#Prorrogacoes e outras circunstancias necessarias
+0026#STR0026#ALL#EMPRESA:
+0027#STR0027#ALL#INSC EST.:
+0028#STR0028#ALL#C.N.P.J.:
+0029#STR0029#ALL#Folha
+0030#STR0030#ALL#Registros de duplicatas

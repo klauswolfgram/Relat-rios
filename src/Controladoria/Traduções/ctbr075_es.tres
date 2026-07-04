@@ -1,0 +1,81 @@
+0001#STR0001#ALL#Este programa imprimira el informe para verificacion
+0002#STR0002#ALL#de digitacion. Podra imprimirse por documento fiscal o
+0003#STR0003#ALL#por Cuenta / Documento fiscal.
+0004#STR0004#ALL#A Rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#Emision del informe. conf. dig. 
+0007#STR0007#ALL# de 
+0008#STR0008#ALL# a 
+0009#STR0009#ALL#DOC. FISCAL                                           VALOR DEB               VALOR CRED    HP   HIST
+0009#STR0009#ANG#DOC. FISCAL                                           VALOR DEB               VALOR CRED    HP   HIST
+0009#STR0009#EQU#DOC. FISCAL                                           VALOR DEB               VALOR CRED    HP   HIST
+0009#STR0009#HAI#DOC. FISCAL                                           VALOR DEB               VALOR CRED    HP   HIST
+0009#STR0009#MEX#POLIZA FISCAL                                         VALOR CARGO             VALOR ABONO   HP   HIST
+0009#STR0009#PTG#DOC. FISCAL                                           VALOR DEB               VALOR CRED    HP   HIST
+0010#STR0010#ALL#***** ANULADO POR EL OPERADOR *****
+0011#STR0011#ALL# en 
+0012#STR0012#ALL#Creando archivo temporal...
+0013#STR0013#ALL#T O T A L  G E N E R A L ==> 
+0014#STR0014#ALL#CUENTA                                     DOC. FISCAL                                           VALOR DEB               VALOR CRED    HP  HIST
+0014#STR0014#ANG#CUENTA                                     DOC. FISCAL                                           VALOR DEB               VALOR CRED    HP  HIST
+0014#STR0014#EQU#CUENTA                                     DOC. FISCAL                                           VALOR DEB               VALOR CRED    HP  HIST
+0014#STR0014#HAI#CUENTA                                     DOC. FISCAL                                           VALOR DEB               VALOR CRED    HP  HIST
+0014#STR0014#MEX#CUENTA                                     POLIZA FISCAL                                         VALOR CARGO             VALOR ABONO   HP  HIST
+0014#STR0014#PTG#CUENTA                                     DOC. FISCAL                                           VALOR DEB               VALOR CRED    HP  HIST
+0015#STR0015#ALL#Verificacion de Digitacion
+0016#STR0016#ALL# por Cuenta/Doc.Fiscal
+0017#STR0017#ALL# por Doc. Fiscal
+0018#STR0018#ALL#FECHA: 
+0019#STR0019#ALL#LOTE: 
+0020#STR0020#ALL#DOC: 
+0020#STR0020#ANG#DOC: 
+0020#STR0020#EQU#DOC: 
+0020#STR0020#HAI#DOC: 
+0020#STR0020#MEX#PLZ: 
+0020#STR0020#PTG#DOC: 
+0021#STR0021#ALL#SUBLOTE:
+0022#STR0022#ALL#DIF A DEBITO
+0022#STR0022#ANG#DIF A DEBITO
+0022#STR0022#EQU#DIF A CARGO
+0022#STR0022#HAI#DIF A DEBITO
+0022#STR0022#MEX#DIF A CARGO
+0022#STR0022#PTG#DIF A DEBITO
+0023#STR0023#ALL#DIF A CREDITO
+0023#STR0023#ANG#DIF A CREDITO
+0023#STR0023#EQU#DIF A CREDITO
+0023#STR0023#HAI#DIF A CREDITO
+0023#STR0023#MEX#DIF A ABONO
+0023#STR0023#PTG#DIF A CREDITO
+0024#STR0024#ALL#INFORMADO
+0025#STR0025#ALL#DIGITADO 
+0026#STR0026#ALL#DIFERENCIA
+0027#STR0027#ALL#TOTAL DOCUMENTO
+0027#STR0027#ANG#TOTAL DOCUMENTO
+0027#STR0027#EQU#TOTAL DOCUMENTO
+0027#STR0027#HAI#TOTAL DOCUMENTO
+0027#STR0027#MEX#TOTAL POLIZA
+0027#STR0027#PTG#TOTAL DOCUMENTO
+0028#STR0028#ALL#TOTAL LOTE
+0029#STR0029#ALL#Este informe necesita el campo CT2_KEY. Por favor crearlo con tipo caracter de 100
+0030#STR0030#ALL#Lote
+0031#STR0031#ALL#Fch.
+0032#STR0032#ALL#Sublote
+0033#STR0033#ALL#Documento
+0034#STR0034#ALL#Cta.
+0035#STR0035#ALL#Doc. Fiscal
+0036#STR0036#ALL#Valor debito
+0036#STR0036#ANG#Valor debito
+0036#STR0036#EQU#Valor debito
+0036#STR0036#HAI#Valor debito
+0036#STR0036#MEX#Valor cargo
+0036#STR0036#PTG#Valor debito
+0037#STR0037#ALL#Valor credito
+0037#STR0037#ANG#Valor credito
+0037#STR0037#EQU#Valor credito
+0037#STR0037#HAI#Valor credito
+0037#STR0037#MEX#Valor abono
+0037#STR0037#PTG#Valor credito
+0038#STR0038#ALL#HP
+0039#STR0039#ALL#Historial
+0040#STR0040#ALL#Asiento
+0041#STR0041#ALL#Historial de Documento Contable

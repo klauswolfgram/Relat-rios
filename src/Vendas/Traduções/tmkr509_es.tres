@@ -1,0 +1,77 @@
+0001#STR0001#ALL#Productividad por analista y equipo
+0002#STR0002#ALL#Muestra las informaciones de productividad del analista y equipo en el periodo consultado
+0003#STR0003#ALL#Llamadas del area
+0004#STR0004#ALL#Llamadas del analista
+0005#STR0005#ALL#Llamadas solucionadas
+0006#STR0006#ALL#Llamadas pendientes
+0007#STR0007#ALL#Interacciones
+0008#STR0008#ALL#Indicadores del analista
+0009#STR0009#ALL#Llamadas solucionadas hasta en 24 horas
+0010#STR0010#ALL#Llamadas solucionadas hasta en 48 horas
+0011#STR0011#ALL#Llamadas solucionadas superiores a 48 horas
+0012#STR0012#ALL#Equipo
+0013#STR0013#ALL#Analista
+0014#STR0014#ALL#Critico
+0015#STR0015#ALL#Alta
+0016#STR0016#ALL#Media
+0017#STR0017#ALL#Baja
+0018#STR0018#ALL#Mejora
+0019#STR0019#ALL#Apertura FNC
+0020#STR0020#ALL#Total
+0021#STR0021#ALL#Solucionados en el SLA(%)
+0022#STR0022#ALL#Cliente
+0023#STR0023#ALL#Productivas
+0024#STR0024#ALL#No Productivas
+0025#STR0025#ALL#Llamadas registradas
+0026#STR0026#ALL#Reaperturas de cliente
+0027#STR0027#ALL#FNC rechazadas
+0028#STR0028#ALL#Dias trabajados
+0029#STR0029#ALL#Promedio de llamadas solucionadas
+0030#STR0030#ALL#Total de llamadas solucionadas del Equipo
+0031#STR0031#ALL#Total de llamadas pendientes del Equipo
+0032#STR0032#ALL#Total de interacciones del Equipo
+0033#STR0033#ALL#Total de indicadores de los analistas
+0034#STR0034#ALL#Total de llamadas solucionadas hasta en 24 horas
+0035#STR0035#ALL#Total de llamadas solucionadas hasta en 48 horas
+0036#STR0036#ALL#Total de llamadas solucionadas superiores a 48 horas
+0037#STR0037#ALL#Clasificando
+0038#STR0038#ALL#¿De ?
+0039#STR0039#ALL#Informe la fecha que se buscara.
+0040#STR0040#ALL#¿A ?
+0041#STR0041#ALL#¿De Grupo ?
+0042#STR0042#ALL#Informe el grupo que se buscara.
+0043#STR0043#ALL#¿A Grupo ?
+0044#STR0044#ALL#¿De Analista ?
+0045#STR0045#ALL#Informe el analista que se buscara.
+0046#STR0046#ALL#¿A Analista ?
+0047#STR0047#ALL#Informe el analista que se buscara.
+0048#STR0048#ALL#¿Tipo de informe ?
+0049#STR0049#ALL#Analitico
+0050#STR0050#ALL#Informe el tipo de informe. Analitico muestra un informe detallado y Sintetico muestra un informe solamente con los totales calculados.
+0051#STR0051#ALL#Indicador (Ll. Solucionada)
+0052#STR0052#ALL#Informe el indicador utilizado para identificar las llamadas solucionadas durante la atencion.
+0053#STR0053#ALL#Indicador (Iter. Productivas)
+0054#STR0054#ALL#Informe el indicador utilizado para identificar las interacciones productivas en la atencion.
+0055#STR0055#ALL#Indicador (Iter. No Productivas)
+0056#STR0056#ALL#Informe el indicador utilizado para identificar las interacciones no productivas en la atencion.
+0057#STR0057#ALL#Indicador (Reapertura Ll.)
+0058#STR0058#ALL#Informe el indicador utilizado para identificar la reapertura de llamadas durante la atencion.
+0059#STR0059#ALL#Indicador (Rechazo FNC)
+0060#STR0060#ALL#Informe el indicador utilizado para identificar el rechazo de una Fnc.
+0061#STR0061#ALL#Indicador (Apertura de Ch.)
+0062#STR0062#ALL#Informe el indicador utilizado para identificar la apertura de llamados.
+0063#STR0063#ALL#Llamados Solucionados
+0064#STR0064#ALL#Llamados Solucionados en el plazo del SLA
+0065#STR0065#ALL#Llamados con FNC
+0066#STR0066#ALL#Llamados Solucionados en el plazo del SLA con FNC
+0067#STR0067#ALL#Llamados Pendientes
+0068#STR0068#ALL#Interacciones Productivas
+0069#STR0069#ALL#Interacciones no Productivas
+0070#STR0070#ALL#Llamados Abiertos
+0071#STR0071#ALL#Reaperturas de Cliente
+0072#STR0072#ALL#Rechazos de FNC
+0073#STR0073#ALL#Dias Trabajados
+0074#STR0074#ALL#Llamados Solucionados (Plazo de Atencion)
+0075#STR0075#ALL#Llamados Solucionados con FNC (Plazo de Atencion)
+0076#STR0076#ALL#Llamados Solucionados por el equipo sin FNC
+0077#STR0077#ALL#Llamados con FNC

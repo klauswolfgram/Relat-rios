@@ -1,0 +1,21 @@
+0002#STR0002#ALL#Listado
+0003#STR0003#ALL#Administração
+0004#STR0004#ALL# cliente   artigo                                              qtd.            qtd. bem. armaz.    arm. 
+0005#STR0005#ALL#Cancelado Pelo Operador
+0006#STR0006#ALL#Nº mapa         :
+0007#STR0007#ALL#Nºseparador     : _______________              nº erros        : __________
+0008#STR0008#ALL#Nº conferente    : _______________              nº erros        : __________
+0009#STR0009#ALL#Nº embalador     : _______________              nº erros        : __________
+0010#STR0010#ALL#C/
+0012#STR0012#ALL#Morada destino :
+0013#STR0013#ALL#Nº de itens     :
+0014#STR0014#ALL#Peso total (kg) :
+0016#STR0016#ALL#Nº de volumes   :
+0017#STR0017#ALL#Matrícula do veículo :
+0018#STR0018#ALL#Movimentos por morada
+0020#STR0020#ALL#Qtd.
+0021#STR0021#ALL#Qtd. Emb.
+0023#STR0023#ALL#Nº De Itens
+0024#STR0024#ALL#Peso total (kg)
+0027#STR0027#ALL#Nº De Volumes
+0028#STR0028#ALL#Registo do Veículo

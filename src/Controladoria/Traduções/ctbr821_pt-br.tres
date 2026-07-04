@@ -1,0 +1,50 @@
+0001#STR0001#COL#CTBR821
+0002#STR0002#COL#Valor informado inválido
+0003#STR0003#COL#'Número de Linhas p/Motivo '
+0004#STR0004#COL#Por favor, inclua uma quantidade 
+0005#STR0005#COL# mínimo 10 linhas
+0006#STR0006#COL#Este programa irá imprimir o Livro Razão,
+0007#STR0007#COL# conforme os parâmetros solicitados 
+0008#STR0008#COL#pelo usuário.
+0009#STR0009#COL#Emissão do Livro Razão
+0010#STR0010#COL#Conta
+0011#STR0011#COL#CONTA
+0012#STR0012#COL#DESCRIÇÃO
+0013#STR0013#COL#Custo
+0014#STR0014#COL#DATA
+0015#STR0015#COL#LOTE/SUB/DOC/LINHA
+0016#STR0016#COL#HISTÓRICO
+0017#STR0017#COL#XPARTIDA
+0018#STR0018#COL#DÉBITO
+0019#STR0019#COL#CRÉDITO
+0020#STR0020#COL#SALDO ATUAL
+0021#STR0021#COL#Total 
+0022#STR0022#COL#Total Transporte
+0023#STR0023#COL#Atenção, as colunas das entidades Valor CI, C. Custo e Item Contábil não serão impressas no modo Vertical ou pela opção Resumido
+0024#STR0024#COL#RAZÃO ANALÍTICO EM
+0025#STR0025#COL#RAZÃO SINTÉTICO EM
+0026#STR0026#COL# DE 
+0027#STR0027#COL# ATÉ 
+0028#STR0028#COL#Criando cadastro temporário...
+0029#STR0029#COL#Emissão do Motivo
+0030#STR0030#COL#Total NIT
+0031#STR0031#COL#Total Conta
+0032#STR0032#COL#T O T A L  G E R A L ==> 
+0033#STR0033#COL#SALDO ANTERIOR: 
+0034#STR0034#COL#Atenção
+0035#STR0035#COL#Não existem dados para os parâmetros especificados.
+0036#STR0036#COL#Ok
+0037#STR0037#COL#Transporte
+0038#STR0038#COL#CONTA - 
+0039#STR0039#COL#Devem ser criados os parâmetros MV_LRAZABE e MV_LRAZEN. 
+0040#STR0040#COL#Utilize como base o parâmetro MV_LDIARAB.
+0041#STR0041#COL#Livro Razão
+0042#STR0042#COL#O Plano Gerencial não está disponível nesse relatório.
+0043#STR0043#COL#Selecionando Registros...
+0044#STR0044#COL#CONTA SEM MOVIMENTO NO PERÍODO
+0045#STR0045#COL#SEM MOVIMENTO NO PERÍODO
+0046#STR0046#COL#Ocorreu um erro ao criar o cadastro
+0047#STR0047#COL#Cl.Valor
+0048#STR0048#COL#N.I.T.
+0049#STR0049#COL#Sld. Ini
+0050#STR0050#COL#Conta

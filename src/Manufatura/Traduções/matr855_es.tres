@@ -1,0 +1,15 @@
+0001#STR0001#ALL#Carga Acumulativa - Sintetica
+0002#STR0002#ALL#Este programa imprime la carga acumulativa sintetica.
+0003#STR0003#ALL#Los valores referentes a las horas estan convertidos conforme
+0004#STR0004#ALL#el parametro MV_TPHR, (C)entesimales o (N)ormales.
+0005#STR0005#ALL#A Rayas
+0006#STR0006#ALL#Administracion
+0007#STR0007#ALL#CENTRO     CENTRO DE   DESCRIPCION                          HORAS   HORAS  (%)
+0008#STR0008#ALL#COSTO      TRABAJO                                         UTILIZ.  UTILES UTIL.
+0009#STR0009#ALL#ANULADO POR EL OPERADOR
+0010#STR0010#ALL#TOTAL CENTRO COSTO: 
+0011#STR0011#ALL#(%)Utilizado
+0012#STR0012#ALL#Horas Utilizadas :
+0013#STR0013#ALL#Horas Utiles     :
+0014#STR0014#ALL#(%)Utilizado     :
+0015#STR0015#ALL#Centros de trabajo

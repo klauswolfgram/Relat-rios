@@ -1,0 +1,31 @@
+0001#STR0001#ALL#Print a list of Bills Receivable with INSS withholding
+0002#STR0002#ALL#INSS.
+0003#STR0003#ALL#Z.Form
+0004#STR0004#ALL#Management
+0005#STR0005#ALL#List of Bills Receivable with INSS withholding
+0006#STR0006#ALL#CGC/CPF             Customer Name                             Prx Number  Pc  Type Issue Date     Base Value            INSS Value     Net Value
+0007#STR0007#ALL#CANCELLED BY THE OPERATOR
+0008#STR0008#ALL#BILLS
+0009#STR0009#ALL#BILL
+0010#STR0010#ALL#G R A N D   T O T A L ----> 
+0011#STR0011#ALL#CGC/CPF             Customer Name                             Prx Number        Pc  Type  Issue Date     Base Value            INSS Value     Net Value
+0012#STR0012#ALL#CGC/CPF
+0013#STR0013#ALL#Customer Name  
+0014#STR0014#ALL#Prf
+0015#STR0015#ALL#Number
+0016#STR0016#ALL#Pc
+0017#STR0017#ALL#Type
+0018#STR0018#ALL#Issue date  
+0019#STR0019#ALL#Original amnt.
+0020#STR0020#ALL#INSS amnt.
+0021#STR0021#ALL#Net amount   
+0022#STR0022#ALL#Section total 
+0023#STR0023#ALL#Grand total
+0024#STR0024#ALL#Customers
+0025#STR0025#ALL#Accts.Receivable
+0026#STR0026#ALL#Code
+0027#STR0027#ALL#Company
+0028#STR0028#ALL#Business Unit
+0029#STR0029#ALL#Branch
+0030#STR0030#ALL#Branches selected for the report
+0031#STR0031#ALL#Selecting records...

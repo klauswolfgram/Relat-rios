@@ -1,0 +1,39 @@
+0001#STR0001#ALL#Issue the summary of accidents without victims 
+0002#STR0002#ALL#according to Chart VI of NR4.
+0003#STR0003#ALL#Z. Form
+0004#STR0004#ALL#Management
+0005#STR0005#ALL#Chart of accidents w/o Victim
+0006#STR0006#ALL#CANCELLLED BY THE OPERATOR
+0007#STR0007#ALL#|ACCIDENTS W/O VICTIM___________________________________ PERIOD FROM
+0008#STR0008#ALL#|RESPONSIBLE:________________________________________________________________  SIGN.:___________________________________ |
+0009#STR0009#ALL#|          Sector                         |   Number  |  Material Loss   |  Accid. W/O Victim  |    Observations        |
+0010#STR0010#ALL#|                                         | Accidents | Estimate in Reais | ________________ |                         |
+0011#STR0011#ALL#|                                         |           |                   |  Accid. W/Victim  |                         |
+0012#STR0012#ALL#Total of establishment
+0013#STR0013#ALL#Fr Date ?
+0014#STR0014#ALL#To Date ?
+0015#STR0015#ALL#From Customer ?
+0016#STR0016#ALL#Unit
+0017#STR0017#ALL#To Customer ?
+0018#STR0018#ALL#Map date?
+0019#STR0019#ALL#Map date. This question can remain blank if map date is entered manually.
+0020#STR0020#ALL#Responsible ?
+0021#STR0021#ALL#Responsible code. This question can remain blank if responsible name is entered manually.
+0022#STR0022#ALL#|ACCIDENTS WITHOUT VICTIM____________________________________________________________________   DATE OF MAP:
+0023#STR0023#ALL#|RESPONSIBLE:
+0024#STR0024#ALL#SIG:___________________________________ |
+0025#STR0025#ALL#Customer code. This question can remain blank in order to consider from the first code on.
+0026#STR0026#ALL#Customer's unit code. This question can remain blank in order to consider from the first code on.
+0027#STR0027#ALL#Customer code. This field can be filled with Z until the end to consider the last code.
+0028#STR0028#ALL#Customer's unit code. This field can be filled with Z until the end to consider the last code.
+0029#STR0029#ALL#COMPANY DATA
+0030#STR0030#ALL#COMPANY: 
+0031#STR0031#ALL#CITY: 
+0032#STR0032#ALL#ADDRESS: 
+0033#STR0033#ALL#TELEPHONE: 
+0034#STR0034#ALL#To Date?
+0035#STR0035#ALL#From Branch?
+0036#STR0036#ALL#To Branch?
+0037#STR0037#ALL#TO
+0038#STR0038#ALL#MAP DATE: ___/__/___ |
+0039#STR0039#ALL#MAP DATE:

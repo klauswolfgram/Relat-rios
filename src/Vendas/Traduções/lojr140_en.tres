@@ -1,0 +1,22 @@
+0001#STR0001#ALL#This program will print Inflow Invoices for financial 
+0002#STR0002#ALL#increase credit of sales accomplished in the period.
+0003#STR0003#ALL#Financial Increase Credit Invoice
+0004#STR0004#ALL#Program Purpose
+0005#STR0005#ALL#Initial Date:
+0006#STR0006#ALL#End:
+0007#STR0007#ALL#Selecting Records ...
+0008#STR0008#ALL#Please wait... Generating Inflow Invoice number: 
+0009#STR0009#ALL#The Supplier must be entered.
+0010#STR0010#ALL#The Product must be entered.
+0011#STR0011#ALL#The Unit must be entered.
+0012#STR0012#ALL#Supplier and Unit not found.
+0013#STR0013#ALL#The Payment Terms must be entered.
+0014#STR0014#ALL#Product not found.
+0015#STR0015#ALL#Payment Terms not found.
+0016#STR0016#ALL#Product presents a TIO that Generates Trade note. It cannot be used.
+0017#STR0017#ALL#The conditions to issue the financial increase credit Inflow Invoice
+0018#STR0018#ALL#have not been met. This routine cannot be performed.
+0019#STR0019#ALL#Inflow Type not defined to the product: 
+0020#STR0020#ALL#There are no sales with finacial increase within the entered period.
+0021#STR0021#ALL#There are no sales items with financial increase credit value within the entered period.
+0022#STR0022#ALL#Selecting files ...

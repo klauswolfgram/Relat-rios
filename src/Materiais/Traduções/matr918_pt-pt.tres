@@ -1,0 +1,32 @@
+0001#STR0001#ALL#Relatório De Conferência Da Factura - Recibo De Facturas.
+0002#STR0002#ALL#Este relatório exibe uma prévia do meio-magnético a ser gerado.
+0003#STR0003#ALL#Código de barras
+0004#STR0004#ALL#Administração
+0005#STR0005#ALL#Dnf
+0006#STR0006#ALL#Este Programa Cria Ficheiro Pré-formatado Para Importação Do Dnf - Recibo De Facturas.
+0007#STR0007#ALL#Informações do contribuinte - registo tipo 0.
+0008#STR0008#ALL#|nr. Contribuinte/mf:           |empresa:                                |mês/ano Ref.: |ver Desenho|
+0010#STR0010#ALL#|          |                   |          |          |          |    |            |            |            |    |    |documentos Vinculados|
+0011#STR0011#ALL#|ident  Reg|nr. Contribuinte/mf Adquirente |nr  Factura/ser|dt Emissão|dt Entrada|cód. Fiscal|      Valor Factura|     Valor IVA|      Isento|canc|comp|nr  Factura/ser|emissão Factura|
+0012#STR0012#ALL#|##########|###################|######/###|##########|##########|####|############|############|############|### |### |######/###|##########|
+0013#STR0013#ALL#Dados de controlo - registo tipo 9.
+0014#STR0014#ALL#|total de registos: ############  |
+0015#STR0015#ALL#|ident  Reg|it.|cód. Mercadoria|descont. Mercadoria                             |ncm     |cp |cód. Fiscal|um        |  Quantidade|   Valor  Unit|  Valor Tot It|    Base IVA|     Valor IVA| Fact Convers|qtd Um Estat|
+0019#STR0019#ALL#Número  Di|
+0021#STR0021#ALL#A Indexar O Ficheiro
+0023#STR0023#ALL#Mestre dos documentos fiscais de entrada - registo tipo 1.
+0024#STR0024#ALL#Mestre dos documentos fiscais de saída - registo tipo 1.
+0028#STR0028#ALL#Elementos dos documentos fiscais de entrada - registo tipo 3.
+0029#STR0029#ALL#Elementos dos documentos fiscais de saída - registo tipo 2.
+0030#STR0030#ALL#Dados da factura - registo tipo 0.
+0031#STR0031#ALL#Dados dos elementos (artigos) da factura - registo tipo 1.
+0032#STR0032#ALL#Informações do contribuinte.
+0033#STR0033#ALL#Ident.Reg.|Nr.Cont./MF Emitente    | NR  Fact/SER  |DT Emissao|IT.|COD.|CP   |CFOP        |Unidade                       |Quantidade  | VLR Unit.   | VLR Total  |A. IPI|QTD UM Estat|
+0034#STR0034#ALL#|##########|###################|######/###|##########|###|####|#####|############|##############################|############|############|############|######|############|
+0035#STR0035#ALL#|          |                   |          |          |   |    |     |            |                              |            |            |            |      |            |
+0036#STR0036#ALL#+----------+-------------------+----------+----------+---+----+-----+------------+------------------------------+------------+------------+------------+------+------------+
+0037#STR0037#ALL#|nr. Contrib./mf Emissor   |nr  Fact./ser|dt Emissão|dt Saída  |nr. Contrib./mf Destinatário|
+0038#STR0038#ALL#|                   |          |          |          |                    |
+0039#STR0039#ALL#|###################|######/###|##########|##########|####################|
+0040#STR0040#ALL#+-------------------+----------+----------+----------+--------------------|
+0041#STR0041#ALL#|qtd Registo 0|qtd Registo 1|nr Volume|qtd De Volumes|

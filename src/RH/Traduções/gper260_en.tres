@@ -1,0 +1,29 @@
+0001#STR0001#ALL#Report of Birthdays in the Month
+0002#STR0002#ALL#Will be printed according to parameters requested by the 
+0003#STR0003#ALL#User.   
+0004#STR0004#ALL#Registration
+0005#STR0005#ALL#Cost Center    
+0006#STR0006#ALL#Name
+0007#STR0007#ALL#Number
+0008#STR0008#ALL#Date of Birth  
+0009#STR0009#ALL#Z.Form 
+0010#STR0010#ALL#Management   
+0011#STR0011#ALL# REPORT OF BIRTHDAYS DURING MONTH  
+0012#STR0012#ALL#BRANCH   C. CENTER             REGIS.  NAME                                  DATE OF      MARITAL                 
+0013#STR0013#ALL#                                                                             BIRTH        STATUS                  
+0014#STR0014#ALL#BRANCH   C. CENTER             NUMR.  REGIS.   NAME                                DATE OF      MARITAL            
+0015#STR0015#ALL#                                                                                    BIRTH       STATUS             
+0016#STR0016#ALL#SALARY 
+0017#STR0017#ALL#Selecting Records .......
+0018#STR0018#ALL#SINGLE  
+0019#STR0019#ALL#MARRIED
+0020#STR0020#ALL#WIDOW
+0021#STR0021#ALL#DIVORCED  
+0022#STR0022#ALL#JUD.SEPARA
+0023#STR0023#ALL#MARITAL
+0024#STR0024#ALL#This program generates A List of Birthdays of the Month.
+0025#STR0025#ALL#Birthdays  
+0026#STR0026#ALL#Employees   
+0027#STR0027#ALL#OTHERS
+0028#STR0028#ALL#COMMON LAW RELATIONSHIP
+0029#STR0029#ALL#Descr. Cost Center

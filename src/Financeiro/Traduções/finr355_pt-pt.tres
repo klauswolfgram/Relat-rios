@@ -1,0 +1,26 @@
+0002#STR0002#ALL#estado da retenção dos impostos,
+0003#STR0003#ALL#quando efectuados na liquidação.
+0004#STR0004#ALL#Impostos por fornecedor 
+0005#STR0005#ALL#Código/Loja 
+0006#STR0006#ALL#Prf.Número
+0008#STR0008#ALL#Valor original
+0009#STR0009#ALL#Tp.
+0010#STR0010#ALL#Saldo fornecedor
+0012#STR0012#ALL#Por código
+0013#STR0013#ALL#Por nome
+0014#STR0014#ALL#Emissão
+0017#STR0017#ALL#Títulos
+0022#STR0022#ALL#ISS
+0025#STR0025#ALL#PROV.INSS
+0026#STR0026#ALL#PROV.ISS
+0027#STR0027#ALL#Valor líquido
+0028#STR0028#ALL#Valor pago
+0029#STR0029#ALL#Saldo actual
+0030#STR0030#ALL#Detalhamento de liquidação
+0031#STR0031#ALL#Data da liquidação
+0036#STR0036#ALL#Valor de liquidação
+0037#STR0037#ALL#A = Os valores de impostos deste título foram retidos em outro título.
+0038#STR0038#ALL#P = Os valores de impostos deste título se referem a uma previsão, ainda não foram retidos.
+0039#STR0039#ALL#R = Os valores de impostos deste título foram retidos.
+0040#STR0040#ALL#Razão social
+0041#STR0041#ALL#Nome comercial

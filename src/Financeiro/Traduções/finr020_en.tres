@@ -1,0 +1,30 @@
+0001#STR0001#ALL#Z-Form
+0002#STR0002#ALL#Administration
+0003#STR0003#ALL#This program will print the trade notes Register
+0004#STR0004#ALL#Trade notes register
+0005#STR0005#ALL#The parameters MV_LDUPABE and MV_LDUPENC must be created.
+0006#STR0006#ALL#Use the parameter MV_LDIARAB as basis.
+0007#STR0007#ALL#Trade Note Register
+0008#STR0008#ALL#T R A D E  N O T E   R E G I S T R A T I O N
+0009#STR0009#ALL#                           SHEET: ####### |
+0010#STR0010#ALL#| COMPANY:#############################################################################################################################                                                                          |
+0011#STR0011#ALL#ST.REG.: ################   C.N.P.J: ################################                                                                                                                                        |
+0012#STR0012#ALL#|Order No.    |Issuance|Shipment  |           Value|Purchaser´s Name                        | Domicile          |Due       |Paymt.  |                  Changes registrations          |
+0013#STR0013#ALL#|             |Date    |Date      |                |                                        |                   |Date      |Date    |Postponement and other required conditions       |
+0014#STR0014#ALL#OrderNumber
+0015#STR0015#ALL#From Dt
+0016#STR0016#ALL#Issue  
+0017#STR0017#ALL#Issue    
+0018#STR0018#ALL#Amnt.
+0019#STR0019#ALL#Buyer name       
+0020#STR0020#ALL#Address  
+0021#STR0021#ALL#From Dt
+0022#STR0022#ALL#Due date  
+0023#STR0023#ALL#Pymnt.
+0024#STR0024#ALL#Reformations annotat. 
+0025#STR0025#ALL#Extensions and other circumstances necessary    
+0026#STR0026#ALL#COMPANY:
+0027#STR0027#ALL#STATE REG:
+0028#STR0028#ALL#C.N.P.J.:
+0029#STR0029#ALL#Page 
+0030#STR0030#ALL#Trade Note Records     

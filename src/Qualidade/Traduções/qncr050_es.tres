@@ -1,0 +1,41 @@
+0001#STR0001#ALL#FICHA DE OCURRENCIAS/NO CONFORMIDADES
+0002#STR0002#ALL#No conformidad potencial
+0003#STR0003#ALL#No conformidad existencial
+0004#STR0004#ALL#Mejoria
+0005#STR0005#ALL#Registrada
+0006#STR0006#ALL#En analisis
+0007#STR0007#ALL#Procede
+0008#STR0008#ALL#No procede
+0009#STR0009#ALL#Anulada
+0010#STR0010#ALL#Descrip. detallada
+0011#STR0011#ALL#Comentarios
+0012#STR0012#ALL#Disposicion
+0013#STR0013#ALL#Analisis
+0014#STR0014#ALL#Disposicion: 
+0015#STR0015#ALL#Origen: 
+0016#STR0016#ALL#Causa: 
+0017#STR0017#ALL#Efecto: 
+0018#STR0018#ALL#Categoria FNC: 
+0019#STR0019#ALL#Plan de acciones relacionadas
+0020#STR0020#ALL#Num.Pl.accion Rv
+0021#STR0021#ALL#Originador
+0022#STR0022#ALL#Fecha apertura: 
+0023#STR0023#ALL#Fecha cierre: 
+0024#STR0024#ALL#Fch.cierre real
+0025#STR0025#ALL#Pag.
+0026#STR0026#ALL#Num. 
+0027#STR0027#ALL#Fch. de registro
+0028#STR0028#ALL#Fch. de ocurrencia
+0029#STR0029#ALL#Fch. conclus. prevista
+0030#STR0030#ALL#Fch. conclus. real
+0031#STR0031#ALL#Estado
+0032#STR0032#ALL#Prioridad
+0033#STR0033#ALL#Tipo
+0034#STR0034#ALL#Cliente
+0035#STR0035#ALL#Proveedor
+0036#STR0036#ALL#Contacto
+0037#STR0037#ALL#¡En entorno Linux, no se enviara el informe por e-mail! Esta opcion esta en desarrollo.
+0038#STR0038#ALL#Responsable
+0039#STR0039#ALL#Datos Confidenciales
+0040#STR0040#ALL#Acceso permitido a 
+0041#STR0041#ALL# y 

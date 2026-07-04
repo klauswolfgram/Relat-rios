@@ -1,0 +1,22 @@
+0001#STR0001#ALL#Este programa imprimira la variacion entre la moneda estandar y la moneda solicitada
+0002#STR0002#ALL#segun los parametros solicitados por el usuario. La fecha de referencia indica
+0003#STR0003#ALL#Cuenta
+0004#STR0004#ALL#A Rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#Demostrativo de la variacion monetaria
+0007#STR0007#ALL# VARIACION
+0008#STR0008#ALL#|CUENTA                         |DESCRIPCION                                
+0009#STR0009#ALL#***** ANULADO POR EL OPERADOR *****
+0010#STR0010#ALL#Creando archivo temporal...
+0011#STR0011#ALL# T O T A L E S  D E L  G R U P O: 
+0012#STR0012#ALL#T O T A L E S  D E L  P E R I O D O : 
+0013#STR0014#ALL# EN 
+0014#STR0015#ALL#la fecha para buscar los asientos de variacion.
+0015#STR0016#ALL# A 
+0016#STR0017#ALL#DIV.
+0017#STR0019#ALL#SALDO EN 
+0018#STR0020#ALL#Plan de Cuentas
+0019#STR0021#ALL#Total
+0020#STR0022#ALL#CTA. 
+0021#STR0023#ALL#CODIGO REDUCIDO
+0022#STR0024#ALL#DESCRIPC.

@@ -1,0 +1,7 @@
+0001#STR0001#ALL#This report will print the Dockets using the xBase 
+0002#STR0002#ALL#interpreter (rdmake) defined by the user. The standard 
+0003#STR0003#ALL#System installs an rdmake. Example:  (Bolfin.prg)
+0004#STR0004#ALL#Z.Form
+0005#STR0005#ALL#Management
+0006#STR0006#ALL#Print Dockets
+0007#STR0007#ALL#CANCELLED BY THE OPERATOR

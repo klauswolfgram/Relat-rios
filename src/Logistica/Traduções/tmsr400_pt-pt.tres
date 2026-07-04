@@ -1,0 +1,27 @@
+0001#STR0001#ALL#Contas Correntes De Camionista
+0002#STR0002#ALL#Emite As Contas Correntes De Camionista,
+0003#STR0003#ALL#Cofacturaorme os parâmetros escolhidos
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#A seleccionar documentos ...
+0007#STR0007#ALL#Viagem      Dt.cria    Dt.enc.    No.contrato   Rota                             Frete Previsto           Pedagio      Adiantamento    Desc. Adiantamento                Saldo A Receber
+0008#STR0008#ALL#A Seleccionar Registos...
+0010#STR0010#ALL#Cod. veiculo.: 
+0011#STR0011#ALL#Placa veiculo: 
+0012#STR0012#ALL#Desc. veiculo: 
+0013#STR0013#ALL#Total viagem 
+0014#STR0014#ALL#Total previsto para o veiculo: 
+0015#STR0015#ALL#Despesas Em Aberto Para O Veiculo
+0016#STR0016#ALL#Emissão   Vencimento  Despesa                                     Valor
+0017#STR0017#ALL#Total de despesas em aberto para o veiculo : 
+0018#STR0018#ALL#Cancelado Pelo Operador
+0019#STR0019#ALL#Contas Correntes De Camionista
+0020#STR0020#ALL#Emite as contas correntes de condutor de acordo com os parâmetros indicados
+0024#STR0024#ALL#Total previsto para o veículo
+0025#STR0025#ALL#Fil.origem
+0027#STR0027#ALL#Data de criação
+0028#STR0028#ALL#Data de finalização
+0033#STR0033#ALL#Portagem
+0035#STR0035#ALL#Saldo A Receber
+0036#STR0036#ALL#Total Da Viagem
+0038#STR0038#ALL#Total De Despesas Em Aberto

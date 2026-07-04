@@ -1,0 +1,95 @@
+0001#STR0001#ALL#Este programa imprimira el estado de las deudas 
+0002#STR0002#ALL#Vencidas y a vencer (Aging) de proveedores, segun
+0003#STR0003#ALL#los parametros seleccionad.
+0004#STR0004#ALL#Aging de proveedores 
+0005#STR0005#ALL#
+0006#STR0006#ALL#Administrac.
+0007#STR0007#ALL#De Cliente         
+0008#STR0008#ALL#A Cliente          
+0009#STR0009#ALL#De fch. de emision
+0010#STR0010#ALL#A fecha de emision 
+0011#STR0011#ALL#Informe            
+0012#STR0012#ALL#Analitico
+0013#STR0013#ALL#Resum.
+0014#STR0014#ALL#Fch.  ref.
+0015#STR0015#ALL#Periodos ant.   
+0016#STR0016#ALL#Tipo Intervalo  
+0017#STR0017#ALL#Dias
+0018#STR0018#ALL#Meses
+0019#STR0019#ALL#Informado
+0020#STR0020#ALL#Intervalo       
+0021#STR0021#ALL#Moned
+0022#STR0022#ALL#Moned 1
+0023#STR0023#ALL#Moned 2
+0024#STR0024#ALL#Moned 3
+0025#STR0025#ALL#Moned 4
+0026#STR0026#ALL#Moned 5
+0027#STR0027#ALL#¿Otras Monedas ?
+0028#STR0028#ALL#Convertir
+0029#STR0029#ALL#Ignorar
+0030#STR0030#ALL#Formato            
+0031#STR0031#ALL#Informe
+0032#STR0032#ALL#Planilla
+0033#STR0033#ALL#¿Separar Cheques?
+0034#STR0034#ALL#Si
+0035#STR0035#ALL#No
+0036#STR0036#ALL#Una de las fechas debe coincidir con la de referencia
+0037#STR0037#ALL#Error de secuen. en fechas
+0038#STR0038#ALL# De Emision: 
+0039#STR0039#ALL#  A:      
+0040#STR0040#ALL#Seleccionando Registros..
+0041#STR0041#ALL#Preparando Transitorio...
+0042#STR0042#ALL#Total Proveedor: 
+0043#STR0043#ALL#Saldo de Cheques en 
+0044#STR0044#ALL#T o t a l   G r a l. 
+0045#STR0045#ALL#S a l d o   G r a l.   d e   C h e q u e s  e n 
+0046#STR0046#ALL#Vencidos << >> A Vencer
+0047#STR0047#ALL#Proveedor/Factura                           A               A             A             A             A             A             A             A             A             A             A            Post.           Saldo
+0048#STR0048#ALL#Fecha    Tipo Serie Numero      Cuot.
+0049#STR0049#ALL#Proveedor : 
+0050#STR0050#ALL#. Direccion : 
+0051#STR0051#ALL#TEL: 
+0052#STR0052#ALL#VENDEDOR: 
+0053#STR0053#ALL#Fch. Intervalo 01  
+0054#STR0054#ALL#Fch. Intervalo 02  
+0055#STR0055#ALL#Fch. Intervalo 03  
+0056#STR0056#ALL#Fch. Intervalo 04  
+0057#STR0057#ALL#Fch. Intervalo 05  
+0058#STR0058#ALL#Fch. Intervalo 06  
+0059#STR0059#ALL#Fch. Intervalo 07  
+0060#STR0060#ALL#Fch. Intervalo 08  
+0061#STR0061#ALL#Fch. Intervalo 09  
+0062#STR0062#ALL#Fch. Intervalo 10  
+0063#STR0063#ALL#Fch. Intervalo 11  
+0064#STR0064#ALL#Procesando proveedor 
+0065#STR0065#ALL#FACT. DE CREDITO Nº 
+0066#STR0066#ALL#FACT. DE DEBITO Nº 
+0067#STR0067#ALL#FACTURA Nº 
+0068#STR0068#ALL#ANTICIPO
+0069#STR0069#ALL#FACT DE CRED INTERNA
+0070#STR0070#ALL#FACT DE DEB INTERNA
+0071#STR0071#ALL#CHEQUE
+0072#STR0072#ALL#NO CLASIFICADO...
+0073#STR0073#ALL#Vencimient
+0074#STR0074#ALL#Prefijo+Titulo
+0075#STR0075#ALL#Emision
+0076#STR0076#ALL#Fch.
+0077#STR0077#ALL#Factura
+0078#STR0078#ALL#Tipo Serie Numero      Cuot
+0079#STR0079#ALL#Saldo
+0080#STR0080#ALL#a
+0081#STR0081#ALL#    A
+0082#STR0082#ALL#Post
+0083#STR0083#ALL#Proveedor 
+0084#STR0084#ALL#Venc.<<
+0085#STR0085#ALL#>>A Vencer
+0086#STR0086#ALL#Titulos a pagar
+0087#STR0087#ALL#Vcto.Real
+0088#STR0088#ALL#Codigo
+0089#STR0089#ALL#Empresa
+0090#STR0090#ALL#Unidad de negocio
+0091#STR0091#ALL#Sucursal
+0092#STR0092#ALL#Sucursales seleccionadas para el informe
+0093#STR0093#ALL#Título
+0094#STR0094#ALL#Äåá./Êðåä.
+0095#STR0095#ALL#Ôèëèàë

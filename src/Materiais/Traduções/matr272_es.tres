@@ -1,0 +1,15 @@
+0001#STR0001#ALL#Lote vs Etiquetas de Inventario
+0002#STR0002#ALL#Emite informe comparativo entre los valores
+0003#STR0003#ALL#totales lote vs. etiquetas
+0004#STR0004#ALL#A rayas
+0005#STR0005#ALL#Administrac.
+0006#STR0006#ALL#ANULADO POR EL OPERADOR
+0007#STR0007#ALL#No.Lote   Fc.Lote    Etq.Ini.   Etq.Fin.    Cant. de Lote    Cant. Regist.   Etiquetas de Lote   Etiquetas Regist.    Estatus
+0008#STR0008#ALL# - Todos
+0009#STR0009#ALL# -Pendientes
+0010#STR0010#ALL# -Abiertos
+0011#STR0011#ALL# -Finalizados
+0012#STR0012#ALL#Pendien.
+0013#STR0013#ALL#Pendiente
+0014#STR0014#ALL#Finaliz. 
+0015#STR0015#ALL#La rutina MATR272 está obsoleta.

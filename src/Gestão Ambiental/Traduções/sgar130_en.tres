@@ -1,0 +1,46 @@
+0001#STR0001#ALL#From Location      ?
+0002#STR0002#ALL#Until Location     ?
+0003#STR0003#ALL#From Date          ?
+0004#STR0004#ALL#Until Date        ?
+0005#STR0005#ALL#History of Events of the Organizational Structure
+0006#STR0006#ALL#Report of history of events occurred in the Organizational Structure
+0007#STR0007#ALL#You can use option Parameters to obtain 
+0008#STR0008#ALL#Items of the Organizational Structure.
+0009#STR0009#ALL#Item: 
+0010#STR0010#ALL#Item
+0011#STR0011#ALL#Description
+0012#STR0012#ALL#Order
+0013#STR0013#ALL#Hig. Lev.
+0014#STR0014#ALL#Date
+0015#STR0015#ALL#Time
+0016#STR0016#ALL#Event Type
+0017#STR0017#ALL#Z-form
+0018#STR0018#ALL#Administration
+0019#STR0019#ALL#             Level Superior                                  Date        Time   Event Type
+0020#STR0020#ALL#CANCELED BY OPERATOR
+0021#STR0021#ALL#*** First Level   ***
+0022#STR0022#ALL#Changing Order
+0023#STR0023#ALL#Excluding Item
+0024#STR0024#ALL#Including Item
+0025#STR0025#ALL#Changing Assets to Active
+0026#STR0026#ALL#Changing Assets to Inactive
+0027#STR0027#ALL#Transfer of Assets Branch was made.
+0028#STR0028#ALL#Item Current Status
+0029#STR0029#ALL#From Locat./Assets      ?
+0030#STR0030#ALL#To Local./Assets      ?
+0031#STR0031#ALL#Module List       ?
+0032#STR0032#ALL#All
+0033#STR0033#ALL#Level
+0034#STR0034#ALL#Use SGA
+0035#STR0035#ALL#Use MDT
+0036#STR0036#ALL#Use MNT
+0037#STR0037#ALL#Yes
+0038#STR0038#ALL#No
+0039#STR0039#ALL#Modules changed
+0040#STR0040#ALL#                               Level      Util. SGA   Util. MDT   Util. MNT
+0041#STR0041#ALL#Enter from which Location/Asset  you want to view information. Press [F3] to select a Location/Asset.
+0042#STR0042#ALL#Enter which Location/Asset you want to view information. Press [F3] to select a Location/Asset or type ZZZZZ in this field to consider Location/Assets.
+0043#STR0043#ALL#Inform from which Date you want to view information.
+0044#STR0044#ALL#Inform until which Date you want to view information.
+0045#STR0045#ALL#Indicates the Location/Assets the Module must print. Options: SGA, MDT, MNT or All.
+0046#STR0046#ALL#Main Process

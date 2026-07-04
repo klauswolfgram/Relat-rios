@@ -1,0 +1,21 @@
+0001#STR0001#ALL#Markup Por Os
+0002#STR0002#ALL#    este programa emíte o demonstrativo de markup por ordem de
+0003#STR0003#ALL#Serviço, cofacturaorme os parâmetros solicitados.
+0005#STR0005#ALL#Código de barras
+0006#STR0006#ALL#Administração
+0007#STR0007#ALL#Nr.os     Cliente   Produto/eqto    Ocorrência/problema                 Produto                Cobrado         Custos         Markup
+0009#STR0009#ALL# [ ordem de serviço ] 
+0010#STR0010#ALL# [ cliente ] 
+0011#STR0011#ALL# [ artigo ] 
+0012#STR0012#ALL#Cancelado Pelo Operador
+0013#STR0013#ALL#Total do cliente: 
+0014#STR0014#ALL#Total do artigo: 
+0015#STR0015#ALL#Total crial: 
+0016#STR0016#ALL#Produto
+0017#STR0017#ALL#Cobrado
+0018#STR0018#ALL#Custo
+0019#STR0019#ALL#Markup
+0020#STR0020#ALL#Nr Os
+0021#STR0021#ALL#Total cobrado 
+0022#STR0022#ALL#Total custo       
+0023#STR0023#ALL#Total markup     

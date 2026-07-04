@@ -1,0 +1,26 @@
+0001#STR0001#ALL#Este programa va a imprimir el Balance Parcial Modelo 5, a 
+0002#STR0002#ALL#cuenta se imprime limitandose a 20 caracteres y su descripcion a 40 caracteres, 
+0003#STR0003#ALL#BALANCE PARCIAL MODELO 5
+0004#STR0004#ALL#Informe impreso solamente en modo grafico
+0005#STR0005#ALL# DE 
+0006#STR0006#ALL# A 
+0007#STR0007#ALL#Cuenta
+0008#STR0008#ALL#Descripcion de la Cuenta
+0009#STR0009#ALL#Mov.del Mes
+0010#STR0010#ALL#Mov. Anterior
+0011#STR0011#ALL#Mov. General
+0012#STR0012#ALL#Saldo
+0013#STR0013#ALL#Debito
+0013#STR0013#MEX#Cargo
+0014#STR0014#ALL#Credito
+0014#STR0014#MEX#Abono
+0015#STR0015#ALL#T O T A L E S  D E L  P E R I O D O: 
+0016#STR0016#ALL#T O T A L E S  D E L  G R U P O (
+0017#STR0017#ALL#Favor rellenar los parametros Grupos Ingresos/Gastos y Fecha Sld Ant. Ingresos/Gastos o
+0018#STR0018#ALL# dejar el parametro Ignora Sl Ant.Rec/Des = No 
+0019#STR0019#ALL#Seleccionando Archivos...
+0020#STR0020#ALL#Creando Archivo Temporal...
+0021#STR0021#ALL#Totalizadores
+0022#STR0022#ALL#T O T A L E S =====================>
+0023#STR0023#ALL#en
+0024#STR0024#RUS#â

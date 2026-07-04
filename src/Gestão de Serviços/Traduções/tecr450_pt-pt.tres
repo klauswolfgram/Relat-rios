@@ -1,0 +1,22 @@
+0001#STR0001#ALL#Impressão Da Ordem De Serviço
+0002#STR0002#ALL#     este programa irá emitir as ordem de serviços cofacturaorme os parâmetros
+0003#STR0003#ALL#Solicitados.
+0005#STR0005#ALL#Código de barras
+0006#STR0006#ALL#Administração
+0007#STR0007#ALL#Cancelado Pelo Operador
+0008#STR0008#ALL#|                                ordem de serviço                                                   | nº os: ###### | folha: ######|
+0009#STR0009#ALL#|cliente  : ######/## - ########################################                                                                   |
+0010#STR0010#ALL#|emissão  : ##########                                                                                                             |
+0011#STR0011#ALL#|atendente: ####################                                                                                                   |
+0012#STR0012#ALL#|cond.pag.: ### - ##################################                                 desconto(s): ###### + ###### + ###### + ######|
+0013#STR0013#ALL#|it|   tipo   |    artigo    |      nr.série      |                problema               |    contrato   | garantia |            |
+0014#STR0014#ALL#|  |it|artigo        |descrição                     |serviço|  quantidade  |valor unitário|    valor total    | valor fabricante  |
+0015#STR0015#ALL#|                                                                            sub-total     | ##################| ##################|
+0016#STR0016#ALL#|                                                                            total geral   | ##################| ##################|
+0017#STR0017#ALL#|moeda    : #                                                                                                                      |
+0018#STR0018#ALL#Total Crial
+0021#STR0021#ALL#Sub-total
+0022#STR0022#ALL#Ordem De Serviço
+0023#STR0023#ALL#Ordem de serviço
+0024#STR0024#ALL#Itens Da Ordem De Serviço
+0025#STR0025#ALL#Subitens Da Ordem De Serviço

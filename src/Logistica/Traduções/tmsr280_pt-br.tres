@@ -1,0 +1,24 @@
+0001#STR0001#ALL#Relacao de viagens
+0002#STR0002#ALL#Emite Relacao de viagens
+0003#STR0003#ALL#conforme os parametros informados
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#                                             *---VEICULO---* *---REBOQUE1---* *---REBOQUE2---*
+0007#STR0007#ALL#DATA      HORA FIL.ORI VIAGEM FIL.DES VAZIA CODIGO   PLACA   CODIGO   PLACA   CODIGO   PLACA   MOTORISTA
+0008#STR0008#ALL#Selecionando Registro no DTQ...
+0009#STR0009#ALL#CANCELADO PELO OPERADOR
+0010#STR0010#ALL#Viagens 
+0011#STR0011#ALL# ===> 
+0012#STR0012#ALL#TOTAL DE 
+0013#STR0013#ALL#(
+0014#STR0014#ALL# Viagem(s))
+0015#STR0015#ALL#Não
+0016#STR0016#ALL#Sim
+0017#STR0017#ALL#Relacao de viagens
+0018#STR0018#ALL#Emite Relacao de viagens conforme os parametros informados
+0019#STR0019#ALL#Status + Fil.Origem + Viagem
+0020#STR0020#ALL#Status
+0021#STR0021#ALL#Total do Status
+0022#STR0022#ALL#Viagem
+0023#STR0023#ALL#Placa
+0024#STR0024#ALL#Motorista

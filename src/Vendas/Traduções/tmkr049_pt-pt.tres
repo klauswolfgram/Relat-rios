@@ -1,0 +1,52 @@
+0001#STR0001#ALL#Este relatório tem como objectivo imprimir os prospectos 
+0002#STR0002#ALL#Existentes no registo. 
+0003#STR0003#ALL#A emissão ocorrerá baseada nos parâmetros do relatório 
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#Cancelado Pelo Operador
+0007#STR0007#ALL#Código Da Filial
+0008#STR0008#ALL#Prospecto 
+0009#STR0009#ALL#Código da loja 
+0010#STR0010#ALL#Nome do prospecto 
+0011#STR0011#ALL#Nome reduzido 
+0013#STR0013#ALL#Endereço 
+0015#STR0015#ALL#Localidade 
+0016#STR0016#ALL#Código postal 
+0017#STR0017#ALL#Distrito 
+0018#STR0018#ALL#Ddi 
+0019#STR0019#ALL#Indicativo 
+0021#STR0021#ALL#Fax 
+0024#STR0024#ALL#Data última visita 
+0025#STR0025#ALL#C.g.c 
+0026#STR0026#ALL#Contacto                                     Indicativo    Telefone       Celular    Fax        Telef Com. 1  Telef Com. 2  Distrito  E-mail
+0028#STR0028#ALL#Estado
+0029#STR0029#ALL#Totalizadores:
+0030#STR0030#ALL#Total De Prospectos
+0031#STR0031#ALL#Total De Prospectos Com Relacionamento
+0032#STR0032#ALL#1=mailing
+0033#STR0033#ALL#2=campanha
+0034#STR0034#ALL#3=web
+0035#STR0035#ALL#4=indicação
+0036#STR0036#ALL#5=evento
+0037#STR0037#ALL#1=classificado
+0038#STR0038#ALL#2=desenvolvimento
+0039#STR0039#ALL#3=gerente
+0040#STR0040#ALL#4=em Espera
+0041#STR0041#ALL#5=cancelado
+0042#STR0042#ALL#Origem
+0043#STR0043#ALL#Estado
+0044#STR0044#ALL#Não ha ifacturaormações para imprimir este relatório. verifique os parâmetros ifacturaormados.
+0045#STR0045#ALL#Relação De Prospectos
+0046#STR0046#ALL#Do Prospecto
+0047#STR0047#ALL#Código inicial do prospecto para a
+0048#STR0048#ALL#Selecção dos dados.
+0049#STR0049#ALL#Até Ao Prospecto
+0050#STR0050#ALL#Código final do prospect para a	
+0051#STR0051#ALL#Exibe Contactos
+0053#STR0053#ALL#Não
+0054#STR0054#ALL#Exibe contactos relacionados com o 
+0055#STR0055#ALL#Prospecto.
+0057#STR0057#ALL#Código inicial da loja para a
+0058#STR0058#ALL#Até Loja
+0059#STR0059#ALL#Código final da loja para a
+0060#STR0060#ALL#6=cliente

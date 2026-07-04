@@ -1,0 +1,42 @@
+0001#STR0001#ALL#PrePrinted
+0002#STR0002#ALL#Management
+0003#STR0003#ALL#Status of Accounts Receivable
+0004#STR0004#ALL#No data found matching the parameters entered          
+0005#STR0005#ALL#Code       Name/Company Name                 Document type          Issue       Valid.             Debits        Credits           Bal.
+0006#STR0006#ALL#                                             Vouc.                   Date       Date                                          Accumulat.
+0007#STR0007#ALL#Code       Name/Company Name                                                                       Debits        Credits          Balance
+0008#STR0008#ALL#                                                                                                                              Accumulated
+0009#STR0009#ALL#Balances at: 
+0010#STR0010#ALL#SUBTOTALS OF CUSTOMER 
+0011#STR0011#ALL#GRAND TOTALS:
+0012#STR0012#ALL#From Customer     
+0013#STR0013#ALL#To Customer       
+0014#STR0014#ALL#From Date         
+0015#STR0015#ALL#To Date           
+0016#STR0016#ALL#Detailed          
+0017#STR0017#ALL#Print Balance Zero
+0018#STR0018#ALL#Ordered by        
+0019#STR0019#ALL#Page per Customer 
+0020#STR0020#ALL#Format            
+0021#STR0021#ALL#Reference Date    
+0022#STR0022#ALL#Detailed
+0023#STR0023#ALL#Yes
+0024#STR0024#ALL#Code
+0025#STR0025#ALL#No
+0026#STR0026#ALL#Regular
+0027#STR0027#ALL#Issue
+0028#STR0028#ALL#Summary
+0029#STR0029#ALL#Comp.Name
+0030#STR0030#ALL#File
+0031#STR0031#ALL#Due Date
+0032#STR0032#ALL#Beginning Balance
+0033#STR0033#ALL#Date from 
+0034#STR0034#ALL#Due date  
+0035#STR0035#ALL#Debits 
+0036#STR0036#ALL# Credits 
+0037#STR0037#ALL#Accumul. 
+0038#STR0038#ALL#Blnce
+0039#STR0039#ALL#Customers
+0040#STR0040#ALL#Movements
+0041#STR0041#ALL# - On 
+0042#STR0042#ALL#CTB Tax Record

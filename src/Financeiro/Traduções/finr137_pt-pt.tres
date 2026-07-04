@@ -1,0 +1,25 @@
+0001#STR0001#ALL#Posição Dos Títulos A Receber Por Vendedor
+0002#STR0002#ALL#Código de barras
+0003#STR0003#ALL#Administração
+0004#STR0004#ALL#PRF NÚMERO                  PARC TIP CLIENTE    LOJA   NOME DO CLIENTE          EMISSÃO      VENCIMENTO         VALOR             SALDO          JUROS          SALDO CORR. NATUREZA      DESCRIÇÃO                  ATRASO
+0005#STR0005#ALL# valores em  
+0006#STR0006#ALL#A Seleccionar Registos...
+0007#STR0007#ALL#Total do vendedor : 
+0008#STR0008#ALL#Total crial : 
+0009#STR0009#ALL#Prf
+0010#STR0010#ALL#Número
+0011#STR0011#ALL#Parc
+0012#STR0012#ALL#Tipo
+0013#STR0013#ALL#Cliente
+0014#STR0014#ALL#Loja
+0015#STR0015#ALL#Nome Do Cliente
+0016#STR0016#ALL#Emissão
+0017#STR0017#ALL#Vencimento
+0018#STR0018#ALL#Valor
+0019#STR0019#ALL#Saldo
+0020#STR0020#ALL#Juros
+0021#STR0021#ALL#Saldo Corr.
+0022#STR0022#ALL#Natureza
+0023#STR0023#ALL#Descrição
+0024#STR0024#ALL#Atraso
+0026#STR0026#ALL#Títulos a receber

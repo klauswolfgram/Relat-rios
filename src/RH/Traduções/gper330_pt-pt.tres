@@ -1,0 +1,24 @@
+0001#STR0001#ALL#Centro De Custo
+0002#STR0002#ALL#Registo
+0004#STR0004#ALL#Emissão Do Recibo Horas Trabalhadas.
+0005#STR0005#ALL#Sera impresso de acordo com os parâmetro s solicitados pelo
+0006#STR0006#ALL#Utilizador.
+0007#STR0007#ALL#Código de barras
+0008#STR0008#ALL#Administração
+0009#STR0009#ALL#Demonstrativo De Horas Trabalhadas
+0010#STR0010#ALL#Fi Reg.   n o m e                        * quantd *   horas     * hora extra * hora extra * hora extra *  t o t a l  * perc.hr. *   horas   *   abono   *    perc.   *    horas   * perc.    * dias *  h o r a s *
+0011#STR0011#ALL#                                         * empreg. *  normais    *  coluna 1  *  coluna 2  *  coluna 3  *  e x t r a  *  extras  *  repouso  *  médico   *    abono   *    falta   * faltas   *      *  p a g a s *
+0012#STR0012#ALL#Relação do recibo horas trabalhadas 
+0013#STR0013#ALL#Analítica
+0014#STR0014#ALL#Sintética
+0015#STR0015#ALL#Qt.Emp.
+0017#STR0017#ALL#Hrext.1
+0018#STR0018#ALL#Hrext.2
+0019#STR0019#ALL#Hrext.3
+0021#STR0021#ALL#Perc.h.e.
+0023#STR0023#ALL#Ab.med.
+0024#STR0024#ALL#Perc.ab.
+0026#STR0026#ALL#Perc.falta
+0030#STR0030#ALL#Reg.
+0033#STR0033#ALL#Total filial: 
+0035#STR0035#ALL#Relat. Sintético não disponível para geração em folha de cálculo.

@@ -1,0 +1,19 @@
+0001#STR0001#ALL#Este relatório imprimirá o fluxo de caixa do projecto considerando todas receitas (pedido de venda,títulos a receber e movimentação bancária) e despesas (pedido de compra,autorização de entrega,factura de entrada,títulos a pagar e movimentos bancários.
+0003#STR0003#ALL#Código de barras
+0004#STR0004#ALL#Administração
+0005#STR0005#ALL#Data              Vlr. Prev. Pc       Vlr. Despesas        Vlr. Prev Pv       Vlr. Receitas        Saldo Do Dia     Saldo Acumulado
+0006#STR0006#ALL#Projecto : 
+0007#STR0007#ALL#Saldo inicial : 
+0008#STR0008#ALL#Total a pagar : 
+0009#STR0009#ALL#Total a receber : 
+0010#STR0010#ALL#Saldo final : 
+0011#STR0011#ALL#Diário
+0016#STR0016#ALL#Período 
+0017#STR0017#ALL#Vld.prev.pc           despesas        vlr.prev.pv           receitas            saldo do dia      var. do dia           saídas. acum.              entradas acum.      saldo acumulado     var. acum. 
+0019#STR0019#ALL#Vlr. Prev. Pc
+0021#STR0021#ALL#Vlr. Prev Pv
+0023#STR0023#ALL#Saldo Do Dia
+0026#STR0026#ALL#Saídas. Acum.
+0029#STR0029#ALL#Projecto
+0030#STR0030#ALL#Fluxo De Caixa
+0034#STR0034#ALL#*** cancelado pelo utilizador ***

@@ -1,0 +1,25 @@
+0001#STR0001#ALL#Arquivo Texto|*.TXT
+0002#STR0002#ALL#Salvar Pesquisa...
+0003#STR0003#ALL#         DGII              | RECEITA FEDERAL                                                                                                  # PÁGINA   
+0004#STR0004#ALL#         IR-13             | DIREÇÃO GERAL DE IMPOSTOS INTERNOS                                                                                           ANO FISCAL 
+0005#STR0005#ALL#Aprovado pelo Procurador  | DECLARAÇÃO JURADA ANUAL DO AGENTE DE RETENÇÃO
+0006#STR0006#ALL# Geral da República   | DE ASSALARIADOS
+0007#STR0007#ALL#DADOS GERAIS DO AGENTE DE RETENÇÃO
+0008#STR0008#ALL#  SOBRENOMES E NOMES    |     RG OU      |TOTAL DE SALÁRIOS|     OUTRAS       | TOTAL PAGO     |  OUTROS PAGAMENTOS    |   IMPOSTO     |   IMPOSTO      |   SALDO A FAV.  |   DIFERENÇA   
+0009#STR0009#ALL#                         |    PASSAPORTE     |PAGOS NO ANO| REMUNERAÇÕES  |   NO ANO      | SUJ. A RETENÇÃO|   LIQUIDADO    |  RET. E PAGO  |  DO FUNCIONÁRIO   |     A PAGAR    
+0010#STR0010#ALL#           A             |        B          |        C        |       D         |        E         |         F       |        G       |       H         |        I        |        J       
+0011#STR0011#ALL#Número assalariados
+0012#STR0012#ALL#Sujeitos a retenção
+0013#STR0013#ALL#EU, 
+0014#STR0014#ALL#NA MINHA QUALIDADE DE AGENTE DE RETENÇÃO, DECLARO SOB JURAMENTO, QUE OS DADOS
+0015#STR0015#ALL#REGISTRADOS NA PRESENTE DECLARAÇÃO, SÃO CORRETOS E COMPLETOS, E QUE NÃO FOI OMITIDO DADO
+0016#STR0016#ALL#ALGUM, SENDO EM CONSEQUÊNCIA TODO O SEU CONTEÚDO, A FIEL
+0017#STR0017#ALL#EXPRESSÃO DA VERDADE.
+0018#STR0018#ALL#ASSINATURA DO DECLARANTE
+0019#STR0019#ALL#RG-SÉRIE
+0020#STR0020#ALL#IMPOSTO A PAGAR
+0021#STR0021#ALL#ADICIONAIS ART. 252 (   )%
+0022#STR0022#ALL#JUROS INDENIZATÓRIOS ART. 27(  )%
+0023#STR0023#ALL#TOTAL A PAGAR RD$
+0024#STR0024#ALL#                         |                   |                 |                 |                  |   SALÁRIOS E    |                |                 |                 |                
+0025#STR0025#ALL#RESUMO PARA O PAGAMENTO

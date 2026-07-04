@@ -1,0 +1,74 @@
+0001#STR0001#ALL#L I S T A S   C O M   P A R T I C I P A Ç Ã O   D O   C O N T A T O
+0002#STR0002#ALL#Data da Lista
+0003#STR0003#ALL#Operador
+0004#STR0004#ALL#Lista
+0005#STR0005#ALL#Descrição
+0006#STR0006#ALL#Tipo de Lista
+0007#STR0007#ALL#Tipo de Contato
+0008#STR0008#ALL#Atendimento
+0009#STR0009#ALL#Configuração TMK
+0010#STR0010#ALL#Tipo do Telefone
+0011#STR0011#ALL#Arquivo
+0012#STR0012#ALL#Endereço
+0013#STR0013#ALL#Etiqueta
+0014#STR0014#ALL#Campanha
+0015#STR0015#ALL#Script
+0016#STR0016#ALL#Evento
+0017#STR0017#ALL#C A M P A N H A S   D O   C O N T A T O
+0018#STR0018#ALL#Campanha               : 
+0019#STR0019#ALL#Título                 : 
+0020#STR0020#ALL#Objetivo               : 
+0021#STR0021#ALL#Data Inicial           : 
+0022#STR0022#ALL#Data Final             : 
+0023#STR0023#ALL#Tipo                   : 
+0024#STR0024#ALL#Ativo
+0025#STR0025#ALL#Receptivo
+0026#STR0026#ALL#Atendimento            : 
+0027#STR0027#ALL#Publico Alvo           : 
+0028#STR0028#ALL#Descrição              : 
+0029#STR0029#ALL#Responsável            : 
+0030#STR0030#ALL#Coordenador            : 
+0031#STR0031#ALL#Departamento           : 
+0032#STR0032#ALL#Meta de Contato        : 
+0033#STR0033#ALL#Meta por Operador      : 
+0034#STR0034#ALL#Custo                  : 
+0035#STR0035#ALL#ROI                    : 
+0036#STR0036#ALL#%ROI                   : 
+0037#STR0037#ALL#Novos Leads Previstos  : 
+0038#STR0038#ALL#% Sucesso              : 
+0039#STR0039#ALL#% Fracasso             : 
+0040#STR0040#ALL#Script                 : 
+0041#STR0041#ALL#Tempo Médio Atendimento: 
+0042#STR0042#ALL#Tipo de Atendimento    : 
+0043#STR0043#ALL#Formato                : 
+0044#STR0044#ALL#Armazena Resposta      : 
+0045#STR0045#ALL#Score Minimo           : 
+0046#STR0046#ALL#Ação para score Minimo : 
+0047#STR0047#ALL#Score Maximo           : 
+0048#STR0048#ALL#Ação para score Maximo : 
+0049#STR0049#ALL#Mídia                  : 
+0050#STR0050#ALL#Tipo de Ligação        : 
+0051#STR0051#ALL#Produto                : 
+0052#STR0052#ALL#Unidade                : 
+0053#STR0053#ALL#Evento                 : 
+0054#STR0054#ALL#Tema                   : 
+0055#STR0055#ALL#Exposição              : 
+0056#STR0056#ALL#Gratuito               : 
+0057#STR0057#ALL#Sim
+0058#STR0058#ALL#Não
+0059#STR0059#ALL#Preço                  : 
+0060#STR0060#ALL#Local                  : 
+0061#STR0061#ALL#Endereço               : 
+0062#STR0062#ALL#Município              : 
+0063#STR0063#ALL#Estado                 : 
+0064#STR0064#ALL#País                   : 
+0065#STR0065#ALL#Telefone               : 
+0066#STR0066#ALL#Home Page              : 
+0067#STR0067#ALL#E-mail                 : 
+0068#STR0068#ALL#Data Inicio            : 
+0069#STR0069#ALL#Data Termino           : 
+0070#STR0070#ALL#Hora Inicio            : 
+0071#STR0071#ALL#Hora Termino           : 
+0072#STR0072#ALL#Estacionamento         : 
+0073#STR0073#ALL#Grade                Tema                                       Hr.Ini Hr.Fim Data      Sala         Palestrante                     Empresa
+0074#STR0074#ALL#Marketing

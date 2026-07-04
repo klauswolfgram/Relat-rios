@@ -1,0 +1,12 @@
+0001#STR0001#ALL#Report of all the Distribution Movements registered in the warehouse with all information
+0002#STR0002#ALL#used in the warehouse
+0003#STR0003#ALL#Z.Form
+0004#STR0004#ALL#Management
+0005#STR0005#ALL#Productivity Indicators - Unitizer / Hour
+0006#STR0006#ALL#           Product         Quantity           Initial Date   Initial Time   Final Date   Final Time   Total of Hours
+0007#STR0007#ALL#                           Quantity                                                                   Total of Hours
+0008#STR0008#ALL#Selecting Records ...
+0009#STR0009#ALL#CANCELLED BY THE OPERATOR
+0010#STR0010#ALL#Warehouse: 
+0011#STR0011#ALL#Unitizer: 
+0012#STR0012#ALL#Grand total: 

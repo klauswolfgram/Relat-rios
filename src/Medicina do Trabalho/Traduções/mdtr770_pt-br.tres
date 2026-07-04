@@ -1,0 +1,17 @@
+0001#STR0001#ALL#Relatorio dos funcionarios com estabilidade num determinado periodo.
+0002#STR0002#ALL#De acordo com a NR-5, um funcionário membro da CIPA tem estabilidade
+0003#STR0003#ALL#da data de sua candidatura ate 1 ano após o fim do mandato.
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#Estabilidade no Periodo
+0007#STR0007#ALL#De Funcionário ?
+0008#STR0008#ALL#Até Funcionário ?
+0009#STR0009#ALL#De Funcao?
+0010#STR0010#ALL#Ate Funcao?
+0011#STR0011#ALL#De Centro Custo ?
+0012#STR0012#ALL#Até Centro Custo ?
+0013#STR0013#ALL#De Data ?
+0014#STR0014#ALL#Até Data ?
+0015#STR0015#ALL#Mat.    Nome                            Centro de Custo          Função                       Mandat. Data Fim  Período Estabilidade
+0016#STR0016#ALL#CANCELADO PELO OPERADOR
+0017#STR0017#ALL#De acordo com a NR-31, um funcionário membro da CIPATR tem estabilidade

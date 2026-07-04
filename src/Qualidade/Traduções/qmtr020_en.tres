@@ -1,0 +1,45 @@
+0001#STR0001#ALL#This program will print a list of
+0002#STR0002#ALL#Calibration Cards according to the
+0003#STR0003#ALL#selected parameters.
+0004#STR0004#ALL#CALIBRATION CARD
+0005#STR0005#ALL#Z.Form
+0006#STR0006#ALL#Management
+0007#STR0007#ALL#INSTRUMENT...: 
+0008#STR0008#ALL#DEPARTMENT...: 
+0009#STR0009#ALL#FREQ.GAUGING.: 
+0010#STR0010#ALL#VALIDITY:
+0011#STR0011#ALL#PROCEDURE....: 
+0012#STR0012#ALL#LOCATION.....: 
+0013#STR0013#ALL#SERIAL NUMBER:
+0014#STR0014#ALL#RANGE.: 
+0015#STR0015#ALL#UNIT OF MEASUREM.: 
+0016#STR0016#ALL#SECOND. STANDARD : 
+0017#STR0017#ALL#INSTRUMENT USED  : 
+0018#STR0018#ALL#Standard
+0019#STR0019#ALL#Revision
+0020#STR0020#ALL#| Specified    | Min.Toler. | Max.Toler. |Tp.Calc.Tol| Value       | Obs.                                   |
+0021#STR0021#ALL#| Specified    | Min.Toler. | Max.Toler. |Tp.Calc.Tol| Initial Vl. | Final Vl.  | Obs.                      |
+0022#STR0022#ALL#|                |     |              |            |            |           |  Initial Value   |   Final Value    |                |
+0023#STR0023#ALL#|Standard        | Rev | Especificado | Min.Toler. | Max.Toler. |Tp.Calc.Tol|   Up   |  Down   |  Up    |  Down   |Obs.          |
+0024#STR0024#ALL#|Point           | Specified    | LIE        | LSE        |Tol.Calc.Tp| Unit Mea. | Value       | Note:                            |
+0025#STR0025#ALL#|Point           | Specified    | LIE        | LSE        |Tp.Calc.Tol| Final Vl.   | Final Vl.  | Obs.:                           |
+0026#STR0026#ALL#|[ ] APPROVED |
+0027#STR0027#ALL#|[ ] REJECTED |
+0028#STR0028#ALL#|[ ] APPROVED [ ] REJECTED |
+0029#STR0029#ALL#|[ ] APPROVED [ ] REJECTED |
+0030#STR0030#ALL#|[ ] APPROVED      |[ ] REJECTED      |
+0031#STR0031#ALL#* * * * * *   M E A S U R E M E N T S   M A D E   B Y   E X T E R N A L  L A B O R A T O R Y   * * * * * *
+0032#STR0032#ALL#| Date :    /    /
+0033#STR0033#ALL#| Initial Time:      :
+0034#STR0034#ALL#| Final Time  :      :
+0035#STR0035#ALL#| Metrologist  : 
+0036#STR0036#ALL#ISSUED BY...: 
+0037#STR0037#ALL# Days     
+0038#STR0038#ALL#Select an option to be printed
+0039#STR0039#ALL#Responsible Data
+0040#STR0040#ALL#Shrt.Nm
+0041#STR0041#ALL#Code
+0042#STR0042#ALL#Full Name
+0043#STR0043#ALL#FAMILY DESCR.: 
+0044#STR0044#ALL#TEMPERATURE..: 
+0045#STR0045#ALL#REV.: 

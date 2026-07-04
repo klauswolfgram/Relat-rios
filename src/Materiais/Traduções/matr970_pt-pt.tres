@@ -1,0 +1,28 @@
+0002#STR0002#ALL#Totalizada por distrito.
+0003#STR0003#ALL#Rel.trimestral Das Operações Interestaduais
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#FACT.      SR.  EMISSÃO    DESTINATÁRIO                                                                                                                           VALOR            VALOR              VALOR             TOTAL
+0007#STR0007#ALL#FISCAL                    RAZÃO SOCIAL                     MORADA                                  CP        INSCR. ESTATAL    NR.CONTRIB.                  MERCADORIA              IPI                ICM
+0008#STR0008#ALL#A Seleccionar Registos...
+0009#STR0009#ALL#Total crial --->
+0010#STR0010#ALL#Total de distritos-> 
+0011#STR0011#ALL#Distrito
+0012#STR0012#ALL#Descrição
+0013#STR0013#ALL#N.f
+0014#STR0014#ALL#Sr.
+0015#STR0015#ALL#Emissão
+0016#STR0016#BRA#Razão Social
+0017#STR0017#BRA#Morada
+0018#STR0018#BRA#Código postal
+0019#STR0019#BRA#Insc.estadual
+0020#STR0020#BRA#C.n.p.j
+0021#STR0021#BRA#Valor Da Mercadoria
+0022#STR0022#BRA#Valor Do Iva
+0023#STR0023#BRA#Valor Do Contribuinte
+0024#STR0024#BRA#Valor Total
+0025#STR0025#BRA#Total do estado 
+0026#STR0026#BRA#Filial 
+0028#STR0028#BRA#Distrito + Emissão + Documento
+0029#STR0029#BRA#Documentos de saída
+0030#STR0030#BRA#Total Da Filial

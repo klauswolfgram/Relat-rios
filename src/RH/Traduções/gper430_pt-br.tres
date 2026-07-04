@@ -1,0 +1,61 @@
+0001#STR0001#ALL#Declaracao de Encargos de Familia para fins de I.R.
+0002#STR0002#ALL#Será impresso de acordo com os parametros solicitados pelo
+0003#STR0003#ALL#usuario.
+0004#STR0004#ALL#Matricula
+0005#STR0005#ALL#Centro de Custo
+0006#STR0006#ALL#Zebrado
+0007#STR0007#ALL#Administraçäo
+0008#STR0008#ALL# DECLARACAO DE ENCARGOS DE FAMILIA PARA FINS DE I.R. 
+0009#STR0009#ALL#DECLARACAO DE ENCARGOS DE FAMILIA PARA FINS DE I.R.
+0010#STR0010#ALL#Conjuge   
+0011#STR0011#ALL#Filho(a)  
+0012#STR0012#ALL#Outros    
+0013#STR0013#ALL#Casado(a) 
+0014#STR0014#ALL#Divorciado
+0015#STR0015#ALL#Marital   
+0016#STR0016#ALL#Desquitado
+0017#STR0017#ALL#Solteiro
+0018#STR0018#ALL#Viuvo(a)
+0019#STR0019#ALL#                 DECLARACAO DE ENCARGOS DE FAMILIA PARA FINS DE                 
+0020#STR0020#ALL#                                IMPOSTO DE RENDA                                
+0021#STR0021#ALL#| Empresa: 
+0022#STR0023#ALL#| Endereco: 
+0023#STR0024#ALL#| Cidade: 
+0024#STR0025#ALL#| UF: 
+0025#STR0026#ALL#    | CEP:  
+0026#STR0027#ALL#| C.G.C.: 
+0027#STR0028#ALL#             | Inscricao Estadual: 
+0028#STR0029#ALL#| Em obediencia a legislacao do Imposto de Renda,venho pela presente informar- |
+0029#STR0030#ALL#| lhes que tenho como encargo de familia, as pessoas abaixo relacionadas:      |
+0030#STR0031#ALL#|              DEPENDENTES CONSIDERADOS COMO ENCARGOS DE FAMILIA               |
+0031#STR0032#ALL#|  No  |     NOME COMPLETO DOS DEPENDENTES     |  REL. DEPEND.  |  DATA NASC.  |
+0032#STR0033#ALL#| declaro sob pena da lei, que as informacoes aqui prestadas sao verdadeiras e |
+0033#STR0034#ALL#| de minha inteira responsabilidade, nao cabendo a V. Sa.(s)  (fonte pagadora) |
+0034#STR0035#ALL#| qualquer responsabilidade perante a fiscalizacao.                            |
+0035#STR0036#ALL#|                      ____________________,____de___________________de ______ |
+0036#STR0037#ALL#|(CONJUGE, NO CASO DE DEPENDENTES COMUNS)            ( DECLARANTE )            |
+0037#STR0038#ALL#| Nome do Declarante: 
+0038#STR0039#ALL#| Matricula: 
+0039#STR0040#ALL#| End.: 
+0040#STR0041#ALL# | Filial: 
+0041#STR0042#ALL#| Bairro: 
+0042#STR0043#ALL# | Cidade: 
+0043#STR0044#ALL# | UF: 
+0044#STR0045#ALL#| CEP: 
+0045#STR0046#ALL#| Est.Civil: 
+0046#STR0047#ALL#    | CTPS: 
+0047#STR0048#ALL#| Serie: 
+0048#STR0049#ALL#| C.P.F. ( C.I.C. ): 
+0049#STR0050#ALL#| R.G.: 
+0050#STR0051#ALL#|     RENOVAR ESTA DECLARACAO SEMPRE QUE OCORRER ALTERACAO NOS DADOS ACIMA.    |
+0051#STR0052#ALL#  continua...  __|
+0052#STR0053#ALL#|     NO CASO DE DEPENDENTES COMUNS (FILHOS), ESTA DECLARACAO DEVERA SER       |
+0053#STR0054#ALL#|     ASSINADA POR AMBOS OS CONJUGES.                                          |
+0054#STR0055#ALL#| Ciente da proibicao da deducao de um mesmo dependente por ambos os conjuges, |
+0055#STR0056#ALL#                            IMPOSTO DE RENDA                                    
+0056#STR0057#ALL#| C.C.: 
+0057#STR0058#ALL#| C.E.I.: 
+0058#STR0059#ALL#Enteado   
+0059#STR0060#ALL#Pai/Mãe   
+0060#STR0061#ALL#Un. Estável
+0061#STR0062#ALL#Outros

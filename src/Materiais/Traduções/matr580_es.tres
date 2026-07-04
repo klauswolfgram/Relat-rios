@@ -1,0 +1,31 @@
+0001#STR0001#ALL#Facturacion por vendedor
+0002#STR0002#ALL#Este informe emitira un listado de la facturacion. Podra 
+0003#STR0003#ALL#emitirse ordenado por cliente o por el valor (Ranking).  
+0004#STR0004#ALL#No se computara si el TES tiene el campo genera duplicata (N).
+0005#STR0005#ALL#A Rayas
+0006#STR0006#ALL#Administracion
+0007#STR0007#ALL#FACTURACION POR VENDEDOR  (ORDEN DECRECIENTE POR CODIGO) - 
+0008#STR0008#ALL#FACTURACION POR VENDEDOR  (RANKING) - 
+0009#STR0009#ALL#CODIGO   NOMBRE DEL VENDEDOR                             FACTURACION         VALOR DE LA               VALOR  RANKING
+0010#STR0010#ALL#                                                         SIN IMPUEST.        MERCADERIA                TOTAL         
+0011#STR0011#ALL#Seleccionando registros...
+0012#STR0012#ALL#ANULADO POR EL OPERADOR
+0013#STR0013#ALL#Venta sin vendedor
+0014#STR0014#ALL#T O T A L --->
+0015#STR0015#ALL#Facturacion por Vendedor
+0016#STR0016#ALL#Este informe emite la lista de facturacion. Podra ser
+0017#STR0017#ALL#emitido por orden de Cliente o por Valor (Ranking).     
+0018#STR0018#ALL#Si en el TES esta genera titulo (N), no se computara.
+0019#STR0019#ALL#Facturacion S/ ICM/IPI
+0020#STR0020#ALL#Valor de la Mercaderia
+0021#STR0021#ALL#Valor Total
+0022#STR0022#ALL#Ranking
+0023#STR0023#ALL#(Orden Decreciente de Vendedor)
+0024#STR0024#ALL#(Orden Creciente de Ranking)
+0025#STR0025#ALL#Ventas sin Vendedor
+0026#STR0026#ALL#Vendedores
+0027#STR0027#ALL#Fac. de Salida
+0028#STR0028#ALL#Devoluc.  
+0029#STR0029#ALL#Facturacion sin impuestos
+0030#STR0030#ALL#Campo L2_VEND no encontrado en la Base
+0031#STR0031#ALL#Aviso

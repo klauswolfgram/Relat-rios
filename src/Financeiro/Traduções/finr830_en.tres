@@ -1,0 +1,35 @@
+0001#STR0001#ALL#This program has the purpose of printing the financial investment 
+0002#STR0002#ALL#transactions, according to the requested parameters. 
+0003#STR0003#ALL#Report on Financial Investment Postings 
+0004#STR0005#ALL#Z.Form
+0005#STR0006#ALL#Management
+0006#STR0007#ALL#CANCELLED BY THE OPERATOR
+0007#STR0008#ALL#                  Investment Data                                                                                           Transaction 
+0008#STR0009#ALL#Number    Institution          Mod Typing Dt.      Nominal Value Class      Bnk Brch  Accnt      Ty  Rea History                                       Redemp. Value       Taxes             Inter. Credited Val. Status
+0009#STR0010#ALL#Grand Total
+0010#STR0011#ALL#CANCELLED
+0011#STR0012#ALL#Number
+0012#STR0013#ALL#Institution
+0013#STR0014#ALL#Mod
+0014#STR0015#ALL#Typ.Date
+0015#STR0016#ALL#Nominal value
+0016#STR0017#ALL#Class   
+0017#STR0018#ALL#Bnk
+0018#STR0019#ALL#Brn.
+0019#STR0020#ALL#Acct.
+0020#STR0021#ALL#Tp.
+0021#STR0022#ALL#Rea
+0022#STR0023#ALL#History  
+0023#STR0024#ALL#Amnt.redeemed
+0024#STR0025#ALL#Taxes   
+0025#STR0026#ALL#Int. 
+0026#STR0027#ALL#Amnt.credited
+0027#STR0028#ALL#Status  
+0028#STR0029#ALL#Records  
+0029#STR0030#ALL#Branch: 
+0030#STR0031#ALL#Code
+0031#STR0032#ALL#Company
+0032#STR0033#ALL#Business Unit
+0033#STR0034#ALL#Branch
+0034#STR0035#ALL#Branches selected for the report
+0035#STR0036#ALL#Branch Total: 

@@ -1,0 +1,28 @@
+0001#STR0001#COL#Fixed Asset Balance
+0002#STR0002#COL#Issue of Dig. Verif. Report
+0003#STR0003#COL#This program prints the Verification Report
+0004#STR0004#COL#G E N E R A L  T O T A L -->>
+0005#STR0005#COL#Chart of Accounts
+0006#STR0006#COL#VERIFICATION BALANCE OF 
+0007#STR0007#COL#TO
+0008#STR0008#COL#CURRENCY
+0009#STR0009#COL#Creating temporary register...
+0010#STR0010#COL#Verification of Balance
+0011#STR0011#COL#Account Total
+0012#STR0012#COL# T O T A L 
+0013#STR0013#COL#Notification
+0014#STR0014#COL#No data for specified parameters.
+0015#STR0015#COL#The management plan is not available in this report.
+0016#STR0016#COL#Balances composed are not updated. Please, update
+0017#STR0017#COL# through routine of Composed Balance
+0018#STR0018#COL#Selecting Records...
+0019#STR0019#COL#Error creating temporary table
+0020#STR0020#COL#Account
+0021#STR0021#COL#ACCOUNT
+0022#STR0022#COL#DESCRIPTION
+0023#STR0023#COL#NIT
+0024#STR0024#COL#PREVIOUS BALANCE
+0025#STR0025#COL#DEBIT
+0026#STR0026#COL#CREDIT
+0027#STR0027#COL#TRANSACTION
+0028#STR0028#COL#CURRENT BALANCE

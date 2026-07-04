@@ -1,0 +1,54 @@
+0001#STR0001#ARG#EMISSAO DA FOLHA DE PAGAMENTO
+0002#STR0002#ARG#Emissão da Folha de Pagamento. 
+0003#STR0003#ARG#Será impresso de acordo com os parametros solicitados 
+0004#STR0004#ARG# pelo usuario. 
+0005#STR0005#ARG#Zebrado
+0006#STR0006#ARG#Administraçäo
+0007#STR0007#ARG#Atencao
+0008#STR0008#ARG#O periodo selecionado ainda nao foi fechado, deseja imprimir os movimentos em aberto?
+0009#STR0009#ARG#Sim
+0010#STR0010#ARG#Nao
+0011#STR0011#ARG#O periodo selecionado e posterior ao mes de competencia.
+0012#STR0012#ARG#OK
+0013#STR0013#ARG#Funcionarios
+0014#STR0014#ARG#Dependentes
+0015#STR0015#ARG#Lancamentos
+0016#STR0016#ARG#Proventos
+0017#STR0017#ARG#Descontos
+0018#STR0018#ARG#P.Liq
+0019#STR0019#ARG#Data
+0020#STR0020#ARG#Tp. Doc.
+0021#STR0021#ARG#Liquido:
+0022#STR0022#ARG#Masc
+0023#STR0023#ARG#Fem.
+0024#STR0024#ARG#CONJUGE
+0025#STR0025#ARG#FILHO
+0026#STR0026#ARG#OUTROS
+0027#STR0027#ARG#D.Cas: 
+0028#STR0028#ARG#D.Nas: 
+0029#STR0029#ARG#13o. Salario
+0030#STR0030#ARG#Data Adm.
+0031#STR0031#ARG#Data Dem.
+0032#STR0032#ARG#Empresas de Pessoal Eventual 
+0033#STR0033#ARG#Pessoal Eventual 
+0034#STR0034#ARG#Empresa de Pessoal Eventual 
+0035#STR0035#ARG#CGC: 
+0036#STR0036#ARG#Razão Social: 
+0037#STR0037#ARG#Endereço: 
+0038#STR0038#ARG#Número: 
+0039#STR0039#ARG#Bairro: 
+0040#STR0040#ARG#Estado: 
+0041#STR0041#ARG#Município: 
+0042#STR0042#ARG#CEP: 
+0043#STR0043#ARG#CUIL: 
+0044#STR0044#ARG#Nome: 
+0045#STR0045#ARG#Categoria: 
+0046#STR0046#ARG#Tarefa: 
+0047#STR0047#ARG#Remuneração Bruta Faturamento: 
+0048#STR0048#ARG#Emissão de funcionários eventuais. 
+0049#STR0049#ARG#Será impresso de acordo com os parâmetros informados 
+0050#STR0050#ARG#na Folha de pagamentos.
+0051#STR0051#ALL#HABILITAÇÃO DO REGISTRO DE FOLHAS MÓVEIS EM SUBSTITUIÇÃO DO LIVRO ESPECIAL ART. 52§ LEI 20744 (T.O.)
+0052#STR0052#ALL#C.U.I.T.: 
+0053#STR0053#ALL#Data Pagamento:
+0054#STR0054#ALL#Folha:

@@ -1,0 +1,96 @@
+0001#STR0001#PER#FORMAT 7.1: FIXED ASSET REGISTER - ASSET DETAIL
+0002#STR0002#PER#PERIOD 
+0003#STR0003#PER#RUC
+0004#STR0004#PER#Last names and names, company name 
+0005#STR0005#PER#Code
+0006#STR0006#PER#relat. with
+0007#STR0007#PER#fixed asset
+0008#STR0008#PER#Account
+0009#STR0009#PER#Accounting
+0010#STR0010#PER#Asset
+0011#STR0011#PER#Description
+0012#STR0012#PER#Brand
+0013#STR0013#PER#of the asset
+0014#STR0014#PER#Fixed
+0015#STR0015#PER#Model
+0016#STR0016#PER#of the asset
+0017#STR0017#PER#Fixed
+0018#STR0018#PER#Series number
+0019#STR0019#PER#and/or plate
+0020#STR0020#PER#of the asset
+0021#STR0021#PER#Balance
+0022#STR0022#PER#Initial
+0023#STR0023#PER#Acquisition
+0024#STR0024#PER#Additional
+0025#STR0025#PER#Improvements
+0026#STR0026#PER#Withdraw
+0027#STR0027#PER#and/or
+0028#STR0028#PER#Write-off
+0029#STR0029#PER#Others
+0030#STR0030#PER#Adjustments
+0031#STR0031#PER#Volunteer
+0032#STR0032#PER#By
+0033#STR0033#PER#Reorganiz.
+0034#STR0034#PER#of Society
+0035#STR0035#PER#Others
+0036#STR0036#PER#Historical Value
+0037#STR0037#PER#of Fixed Asset
+0038#STR0038#PER#to 31.12
+0039#STR0039#PER#Adjustment
+0040#STR0040#PER#by
+0041#STR0041#PER#Inflation
+0042#STR0042#PER#Adjusted Value
+0043#STR0043#PER#from
+0044#STR0044#PER#Fixed Asset
+0045#STR0045#PER#Date
+0046#STR0046#PER#from
+0047#STR0047#PER#Acquisition
+0048#STR0048#PER#Initial Date
+0049#STR0049#PER#of use of 
+0050#STR0050#PER#Fixed Asset
+0051#STR0051#PER#Method
+0052#STR0052#PER#Applied
+0053#STR0053#PER#Doc number
+0054#STR0054#PER#from
+0055#STR0055#PER#Authorization
+0056#STR0056#PER#Percent
+0057#STR0057#PER#from
+0058#STR0058#PER#Depreciation
+0059#STR0059#PER#Accum. Deprectn. to
+0060#STR0060#PER#Termination of
+0061#STR0061#PER#Previous Fiscal Year
+0062#STR0062#PER#Depreciation
+0063#STR0063#PER#of the period
+0064#STR0064#PER#Fiscal Year Deprctn.
+0065#STR0065#PER#relat. with the
+0066#STR0066#PER#withdrawals and/or write-offs
+0067#STR0067#PER#Depr. Relat
+0068#STR0068#PER#with others
+0069#STR0069#PER#Adjustments
+0070#STR0070#PER#Volunteer
+0071#STR0071#PER#By
+0072#STR0072#PER#Reorganiz.
+0073#STR0073#PER#of Society
+0074#STR0074#PER#Others
+0075#STR0075#PER#Depreciation
+0076#STR0076#PER#Accrued
+0077#STR0077#PER#Historical
+0078#STR0078#PER#Adjustment by
+0079#STR0079#PER#Inflation of
+0080#STR0080#PER#depreciation
+0081#STR0081#PER#Accr. deprec.
+0082#STR0082#PER#adjusted by
+0083#STR0083#PER#inflation
+0084#STR0084#PER#Details of Fixed Asset
+0085#STR0085#PER#Vle Reevaluation Performed
+0086#STR0086#PER#Depreciation
+0087#STR0087#PER#Depreciation vl
+0088#STR0088#PER#Reeval.Vl Performed
+0089#STR0089#PER#Totals
+0090#STR0090#PER#Printing only in A3 paper sheet. Edit selected paper type
+0091#STR0091#PER#To print TXT, the period must be equal to or later than 2010
+0092#STR0092#PER#Txt file successfully generated
+0093#STR0093#PER#Confirm Txt file generation?
+0094#STR0094#PER#Generating Txt file
+0095#STR0095#PER#Error creating Txt file
+0096#STR0096#PER#The printing type Spreadsheet is not available.

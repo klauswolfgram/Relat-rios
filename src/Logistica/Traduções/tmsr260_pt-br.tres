@@ -1,0 +1,23 @@
+0001#STR0001#ALL#RELACAO DE MOTORISTAS (TELERISCO)
+0002#STR0002#ALL#Emite relacao de motoristas (Telerisco),
+0003#STR0003#ALL#conforme os parametros informados
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#Selecionando Registros...
+0007#STR0007#ALL#Selecionando registros DUP...
+0008#STR0008#ALL#Selecionando registros DTQ...
+0009#STR0009#ALL#MOTORISTA                                  R.G.              C.P.F.                UF  COD   FIL                      VL MERCADORIA/
+0010#STR0010#ALL#                                                                                  DES  SEG  DEST   MANISFESTO         ACOMPANHAMENTO
+0011#STR0011#ALL#Filial Viagem : 
+0012#STR0012#ALL#Total Veiculo
+0013#STR0013#ALL#Total Origem 
+0014#STR0014#ALL#CANCELADO PELO OPERADOR
+0015#STR0015#ALL#Relacao de Motoristas (Telerisco)
+0016#STR0016#ALL#Emite relacao de motoristas (Telerisco), conforme os parametros informados
+0017#STR0017#ALL#Motorista
+0018#STR0018#ALL#Fil.Viagem
+0019#STR0019#ALL#Descrição
+0020#STR0020#ALL#Motorista
+0021#STR0021#ALL#UF Dest.
+0022#STR0022#ALL#Cod.Seg.
+0023#STR0023#ALL#Total Motorista

@@ -1,0 +1,40 @@
+0001#STR0001#ALL#Centro de custo 
+0002#STR0002#ALL#Registo
+0003#STR0003#ALL#Relação De Programação De Férias.
+0004#STR0004#ALL#Sera impresso de acordo com os parâmetro s solicitados pelo
+0005#STR0005#ALL#Utilizador.
+0006#STR0006#ALL#Código de barras
+0007#STR0007#ALL#Administração
+0008#STR0008#ALL#Relação De Programação De Férias
+0009#STR0009#ALL#                                                                            Data       Dta.base       Período       Dt.limite   Dt.limite      Férias    Faltas    Férias    Faltas   Total   Subsídio De Natal   Assinatura Do
+0010#STR0010#ALL#Fil   Centro Custo               Reg.     Nome Do Empregado              Admissão     Férias     Aquisitivo      Ideal       Máxima      Vencidas  Vencidas  Proporç.  Proporç.  Férias   Perc.       Empregado
+0011#STR0011#ALL#Relação de programação de férias 
+0012#STR0012#ALL#( c.custo )
+0013#STR0013#ALL#( registo )
+0014#STR0014#ALL#  a  
+0017#STR0017#ALL#C.custo + Nome
+0018#STR0018#ALL#Filial + Dt.base
+0019#STR0019#ALL#Filial + Dt.início
+0020#STR0020#ALL#( nome )
+0021#STR0021#ALL#( c.custo + nome )
+0022#STR0022#ALL#( data base )
+0023#STR0023#ALL#( data início )
+0024#STR0024#ALL#A Seleccionar Registos...
+0025#STR0025#ALL#        1a -  P R O G R A M A ç ã O  D E  F é R I A S
+0026#STR0026#ALL#        2ª -  Programação De  Férias
+0027#STR0027#ALL#        3a -  Programação De Férias
+0028#STR0028#ALL#D.fer.
+0029#STR0029#ALL#D.ab.
+0030#STR0030#ALL#Sim
+0033#STR0033#ALL#Data base 
+0036#STR0036#ALL#Dt.limite
+0037#STR0037#ALL#  ideal   
+0038#STR0038#ALL# máxima 
+0039#STR0039#ALL#    férias 
+0042#STR0042#ALL#  faltas 
+0043#STR0043#ALL#    Total
+0044#STR0044#ALL#Sub.Natal
+0047#STR0047#ALL#Empregado 
+0049#STR0049#ALL#Cabeçalho De Férias
+0050#STR0050#ALL#Emite relação dos empregados que possuem programação de férias previstas
+0054#STR0054#ALL#FIL   CENTRO CUSTO               MAT.     NOME                             ADMISSÃO     RECESSO     D E   D I R E I T O      IDEAL       MÁXIMA      VENCIDO   PROPORC.  RECESSO   ESTAGIÁRIO

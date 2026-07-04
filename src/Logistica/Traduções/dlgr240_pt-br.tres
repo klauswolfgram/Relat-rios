@@ -1,0 +1,12 @@
+0001#STR0001#ALL#Relatorio de todos os Movimentos de Distribuicao cadastrados no armazem com as informacoes
+0002#STR0002#ALL#utilizadas no armazem
+0003#STR0003#ALL#Zebrado
+0004#STR0004#ALL#Administracao
+0005#STR0005#ALL#Indicadores de Produtividade - Homem / Hora
+0006#STR0006#ALL#Produto         Quantidade       Data Inicial   Hora Inicial   Data Final   Hora Final   Total de Horas
+0007#STR0007#ALL#                Quantidade                                                               Total de Horas
+0008#STR0008#ALL#Selecionando Registros ...
+0009#STR0009#ALL#CANCELADO PELO OPERADOR
+0010#STR0010#ALL#Centro de Distribuicao : 
+0011#STR0011#ALL#Recurso Humano : 
+0012#STR0012#ALL#Total Geral: 

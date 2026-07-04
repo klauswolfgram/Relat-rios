@@ -1,0 +1,73 @@
+0001#STR0001#ALL#Accomplished Calls - Telemarketing
+0002#STR0002#ALL#This program will issue a list of Calls
+0003#STR0003#ALL#accomplished by the operator during Telemarketing servicing
+0004#STR0004#ALL#according to the parameters previously defined
+0005#STR0005#ALL#Z. Form
+0006#STR0006#ALL#Management
+0007#STR0007#ALL#CANCELLED BY THE OPERATOR
+0008#STR0008#ALL#Total of Accomplished Servicings
+0009#STR0009#ALL#Total of
+0010#STR0010#ALL#Media
+0011#STR0011#ALL#Campaign
+0012#STR0012#ALL#Operator
+0013#STR0013#ALL#Service
+0014#STR0014#ALL#Date
+0015#STR0015#ALL#Contact
+0016#STR0018#ALL#Company
+0017#STR0019#ALL#Operator
+0018#STR0020#ALL#Media
+0019#STR0021#ALL#Call
+0020#STR0024#ALL#Status
+0021#STR0028#ALL#Communication
+0022#STR0029#ALL#Campaign
+0023#STR0030#ALL#Return
+0024#STR0031#ALL#Return Hour
+0025#STR0032#ALL#Observation
+0026#STR0033#ALL#Item  Subject                              Product                         Occurrence                      Action                                              In-Charge        Dt Action   Status        Executi.
+0027#STR0036#ALL#Servicing Observation
+0028#STR0037#ALL#Execution complement
+0029#STR0038#ALL#Grand total of active servicings accomplished by Telemarketing
+0030#STR0039#ALL#Contact´s Name
+0031#STR0040#ALL#Entity Description
+0032#STR0041#ALL#Operator´s Name
+0033#STR0042#ALL#Media Description
+0034#STR0043#ALL#Communication Description
+0035#STR0044#ALL#Campaign Description
+0036#STR0045#ALL#There are no data to be printed for this report with the informed parameters
+0037#STR0046#ALL#Not found in file...
+0038#STR0047#ALL#Not informed during servicing...
+0039#STR0048#ALL#OPERATOR TOTAL SERVICINGS         
+0040#STR0049#ALL#DATE      TOTAL           % PERCENTAGE
+0041#STR0050#ALL#Comm. No.1
+0042#STR0051#ALL#E-Mail
+0043#STR0052#ALL#Address 
+0044#STR0053#ALL#City  
+0045#STR0054#ALL#DATE                     TOTAL           % PERCENTAGE
+0046#STR0055#ALL#GRAND TOTAL
+0047#STR0056#ALL#DAILY AVERAGE 
+0048#STR0057#ALL#OPERATORS RANKING AND SERVICING AVERAGE     
+0049#STR0058#ALL#OPERATOR                                             TOTAL                  AVRG. T.M.A
+0050#STR0059#ALL#MEDIA W/ HIGHEST RECOGNITION 
+0051#STR0060#ALL#MEDIA                                                                             TOTAL 
+0052#STR0061#ALL#MEDIA W/ HIGHEST RECOGNITION PER CAMPAIGN 
+0053#STR0062#ALL#CAMPAIGN W/ HIGHEST EXECUT.
+0054#STR0063#ALL#CAMPAIGN                                                                          TOTAL 
+0055#STR0064#ALL#OPERATORS SERVICING AVERAGE (T.M.A) PER CAMPAIGN        
+0056#STR0065#ALL#CAMPAIGN                                             TOTAL                  AVG. T.M.A.
+0057#STR0066#ALL#Subject
+0058#STR0067#ALL#Event     
+0059#STR0068#ALL#Action
+0060#STR0069#ALL#Responsible
+0061#STR0070#ALL#Date
+0062#STR0071#ALL#Total
+0063#STR0072#ALL#Percentage
+0064#STR0073#ALL#Average TMA
+0065#STR0074#ALL#Operators 
+0066#STR0075#ALL#Customer service header - Telemarketing 
+0067#STR0076#ALL#Customer service items-Telemarketing
+0068#STR0077#ALL#Operator Calls Total
+0069#STR0078#ALL#Total by operator's date  
+0070#STR0079#ALL#Calls General Total
+0071#STR0080#ALL#Ranking by operator 
+0072#STR0081#ALL#TOTAL AVERAGE 
+0073#STR0082#ALL#MEDIA GREATER RECOGNITION FOR CAMPAIGN

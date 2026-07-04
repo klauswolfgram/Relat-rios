@@ -1,0 +1,32 @@
+0001#STR0001#ALL#This program will print the Trial Balance Sheet Model 2 (220 columns), where the 
+0002#STR0002#ALL#account is printed within the limit of 70 characters and its description 40 characters,
+0003#STR0003#ALL#Trial Balance Sheet
+0004#STR0004#ALL#|                                                                       |                                                            |                     |     MOVEMENT OF THE MONTH                 |                   |
+0005#STR0005#ALL#|             A C C O U N T ´S  C O D E                                 |             D E S C R I P T I O N                          |  PREVIOUS BALANCE   |      DEBIT         |     CREDIT           |  CURRENT BALANCE  |
+0005#STR0005#ANG#|             A C C O U N T ´S  C O D E                                 |             D E S C R I P T I O N                          |  PREVIOUS BALANCE   |      DEBIT         |     CREDIT           |  CURRENT BALANCE  |
+0005#STR0005#EQU#|             A C C O U N T ´S  C O D E                                 |             D E S C R I P T I O N                          |  PREVIOUS BALANCE   |      DEBIT         |     CREDIT           |  CURRENT BALANCE  |
+0005#STR0005#HAI#|             A C C O U N T ´S  C O D E                                 |             D E S C R I P T I O N                          |  PREVIOUS BALANCE   |      DEBIT         |     CREDIT           |  CURRENT BALANCE  |
+0005#STR0005#MEX#|             A C C O U N T ´S  C O D E                                 |             D E S C R I P T I O N                          |  PREVIOUS BALANCE   |      DEBIT         |     CREDIT           |  CURRENT BALANCE  |
+0005#STR0005#PTG#|             A C C O U N T ´S  C O D E                                 |             D E S C R I P T I O N                          |  PREVIOUS BALANCE   |      DEBIT         |     CREDIT           |  CURRENT BALANCE  |
+0006#STR0006#ALL#D E T A I L E D  T R I A L  B A L A N C E  S H E E T  R E L A T E D  T O   
+0007#STR0007#ALL#  TO   
+0008#STR0008#ALL#  IN  
+0009#STR0009#ALL#S U M M A R I Z E D  V E R I F I C A T I O N  T R I A L  B A L A N C E  OF 
+0010#STR0010#ALL#*****CANCELLED BY THE OPERATOR*****
+0011#STR0011#ALL#T O T A L S  O F  P E R I O D  :
+0012#STR0012#ALL#Selecting Files...
+0013#STR0013#ALL#Z. Form
+0014#STR0014#ALL#Management
+0015#STR0015#ALL#Creating Temporary File...
+0016#STR0016#ALL#being ideal for Extended Codes of Accounts.
+0017#STR0017#ALL#V E R I F I C A T I O N  T R I A L  B A L A N C E  OF  
+0018#STR0018#ALL#T O T A L S  O F  G R O U P (
+0019#STR0019#ALL#|             A C C O U N T ´S   C O D E                                |      D E S C R I P T I O N            |  PREVIOUS BALANCE    |     DEBIT          |     CREDIT         |MOVEMENTS OF PERIOD  | CURRENT BALANCE   |
+0019#STR0019#ANG#|             A C C O U N T ´S   C O D E                                |      D E S C R I P T I O N            |  PREVIOUS BALANCE    |     DEBIT          |     CREDIT         |MOVEMENTS OF PERIOD  | CURRENT BALANCE   |
+0019#STR0019#EQU#|             A C C O U N T ´S   C O D E                                |      D E S C R I P T I O N            |  PREVIOUS BALANCE    |     DEBIT          |     CREDIT         |MOVEMENTS OF PERIOD  | CURRENT BALANCE   |
+0019#STR0019#HAI#|             A C C O U N T ´S   C O D E                                |      D E S C R I P T I O N            |  PREVIOUS BALANCE    |     DEBIT          |     CREDIT         |MOVEMENTS OF PERIOD  | CURRENT BALANCE   |
+0019#STR0019#MEX#|             A C C O U N T ´S   C O D E                                |      D E S C R I P T I O N            |  PREVIOUS BALANCE    |     DEBIT          |     CREDIT         |MOVEMENTS OF PERIOD  | CURRENT BALANCE   |
+0019#STR0019#PTG#|             A C C O U N T ´S   C O D E                                |      D E S C R I P T I O N            |  PREVIOUS BALANCE    |     DEBIT          |     CREDIT         |MOVEMENTS OF PERIOD  | CURRENT BALANCE   |
+0020#STR0020#ALL#DIV.
+0021#STR0021#ALL#Please, fill out the parameters Groups Incomes/Expenses& Date Prv Blnc Incomes/Expenses or 
+0022#STR0022#ALL#leave the parameter Ignor Prv.BlnInc/Exp = No  

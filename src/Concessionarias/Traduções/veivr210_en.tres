@@ -1,0 +1,25 @@
+0001#STR0001#ALL#Vehicle Expenses
+0002#STR0002#ALL#Z-FORM
+0003#STR0003#ALL#MANAGEMENT
+0004#STR0004#ALL#Stock Vehicles
+0005#STR0005#ALL#No data for this chassis
+0006#STR0006#ALL#Operation Tp          Description                       Date          Value
+0007#STR0007#ALL#Lic.Plate       
+0008#STR0008#ALL#Chassis
+0009#STR0009#ALL#Color         
+0010#STR0010#ALL#Model
+0011#STR0011#ALL#Year/Model  
+0012#STR0012#ALL#Fuel
+0013#STR0013#ALL#Expenses Total....................... 
+0014#STR0014#ALL#Gas   
+0015#STR0015#ALL#Alcohol     
+0016#STR0016#ALL#Diesel     
+0017#STR0017#ALL#Natural Gas
+0018#STR0018#ALL#Flex
+0019#STR0019#ALL#License plate is blank or not registered; inform a registered plate!
+0020#STR0020#ALL#License plate not found; inform a registered plate!
+0021#STR0021#ALL#Vehicle Data
+0022#STR0022#ALL#Vehicle License Plate?
+0023#STR0023#ALL#Vehicle key?
+0024#STR0024#ALL#Chassis?
+0025#STR0025#ALL#Chassis not found, enter a registered one.

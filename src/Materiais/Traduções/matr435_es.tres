@@ -1,0 +1,28 @@
+0001#STR0001#ALL#Este programa emitira un Kardex con todos los movimientos del stock
+0002#STR0002#ALL#por Lote/Sublote, diariamente. Observacion: el primer movimiento de
+0003#STR0003#ALL#cada Lote/Sublote se refiere a la creacion del mismo.
+0004#STR0004#ALL#Kardex por Lote/Sublote (por producto)
+0005#STR0005#ALL#A Rayas
+0006#STR0006#ALL#Administracion
+0007#STR0007#ALL#Almacen Fch. Movim.   Valid. Lote    Documento               Origen Asto.    Revertido           Entrada             Salida            Saldo
+0008#STR0008#ALL#ANULADO POR EL OPERADOR
+0009#STR0009#ALL#Producto:
+0010#STR0010#ALL#Descrip.: 
+0011#STR0011#ALL#Tipo: 
+0012#STR0012#ALL#Unidad: 
+0013#STR0013#ALL#Sublote: 
+0014#STR0014#ALL#Lote: 
+0015#STR0015#ALL#Saldo Inicial: 
+0016#STR0016#ALL#Total del Sublote -> 
+0017#STR0017#ALL#Total del Lote -> 
+0018#STR0018#ALL#Total del Producto
+0019#STR0019#ALL#Seleccionando registros...
+0020#STR0020#ALL#Descr. Arm.: 
+0021#STR0023#ALL#Documento
+0022#STR0024#ALL#Tipo
+0023#STR0025#ALL#Entrada
+0024#STR0026#ALL#Salida
+0025#STR0027#ALL#Saldo
+0026#STR0028#ALL#Prod. 
+0027#STR0029#ALL#Saldos por Lote
+0028#STR0030#ALL#Movim. por Lote

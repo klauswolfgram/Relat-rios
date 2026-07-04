@@ -1,0 +1,49 @@
+0001#STR0001#ALL#Informe de resultados de examenes cuantitativos por centro de costos
+0002#STR0002#ALL#Lista examenes realizados en un determinado periodo, permitiendo    
+0003#STR0003#ALL#seleccionar las cantidades calculadas en sus resultados.            
+0004#STR0004#ALL#A Rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#Resultado de exames cuantitativos
+0007#STR0007#ALL#Codigo        Nomb de Centro de Costo
+0008#STR0008#ALL#Matrícula Empleado                       Realizado  Examen      Nombre Examen                               Subítem                   Sexo       Cantidad Unid. Obs.
+0009#STR0009#ALL#ANULADO POR EL OPERADOR
+0010#STR0010#ALL#Normal
+0011#STR0011#ALL#Abajo
+0012#STR0012#ALL#Arriba
+0013#STR0013#ALL#C.Costo
+0014#STR0014#ALL#Descripc.
+0015#STR0015#ALL#Matricula
+0016#STR0016#ALL#Empleado
+0017#STR0017#ALL#Realizac.
+0018#STR0018#ALL#Exam.
+0019#STR0019#ALL#Nombre Ex.
+0020#STR0020#ALL#Subitem
+0021#STR0021#ALL#Cantidad
+0022#STR0022#ALL#Unid.
+0023#STR0023#ALL#Obs.
+0024#STR0024#ALL#Procesando Archivo...
+0025#STR0025#ALL#¿De Cliente ?
+0026#STR0026#ALL#Tienda
+0027#STR0027#ALL#¿A Cliente ?
+0028#STR0028#ALL#Codigo del cliente. El campo puede permanecer vacio para considerar desde el primer codigo.
+0029#STR0029#ALL#Codigo de la tienda del cliente. El campo puede permanecer vacio para considerar desde el primero codigo.
+0030#STR0030#ALL#Codigo del cliente. El campo puede rellenarse con la letra Z hasta el final para considerar el ultimo codigo.
+0031#STR0031#ALL#Codigo de la tienda del cliente. El campo puede rellenarse con la letra Z hasta el final para considerar el ultimo codigo.
+0032#STR0032#ALL#Cliente
+0033#STR0033#ALL#Nombre
+0034#STR0034#ALL#Centro de Costo
+0035#STR0035#ALL#Examenes
+0036#STR0036#ALL#Cliente/Tienda: 
+0037#STR0037#ALL#No hay nada para imprimir en el informe.
+0038#STR0038#ALL#¿A Fecha Resultado     ?
+0039#STR0039#ALL#¿De Fecha Resultado ?
+0040#STR0040#ALL#¿A Cantidad ?
+0041#STR0041#ALL#¿De  Cantidad ?
+0042#STR0042#ALL#¿A Sub-Item ?
+0043#STR0043#ALL#¿De  Sub-Item ?
+0044#STR0044#ALL#¿A Examen ?
+0045#STR0045#ALL#¿De Examen ?
+0046#STR0046#ALL#¿A Centro de Costo ?
+0047#STR0047#ALL#¿De Centro de Costo ?
+0048#STR0048#ALL#Sexo
+0049#STR0049#ALL#Matrícula Empleado                       Realizado  Examen      Nombre Examen                               Subítem                   Sexo       Cantidad Unid. Obs.

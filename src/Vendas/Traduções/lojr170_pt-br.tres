@@ -1,0 +1,22 @@
+0001#STR0001#ALL#Este programa tem a funçäo de emitir os borderos de cobrança
+0002#STR0002#ALL#gerados pelo usuario.
+0003#STR0003#ALL#Emissäo de Borderos
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#CANCELADO PELO OPERADOR
+0007#STR0007#ALL#|   TOTAL DA RELACAO A CREDITO DE NOSSA CONTA CORRENTE         |
+0008#STR0008#ALL#|   QUANTIDADE  DE TITULOS IMPRESSOS                           |
+0009#STR0009#ALL#Data: 
+0010#STR0010#ALL#Atenciosamente
+0011#STR0011#ALL#AO 
+0012#STR0012#ALL#AGENCIA 
+0013#STR0013#ALL# C/C 
+0014#STR0014#ALL#BORDERO NRO 
+0015#STR0015#ALL#Solicitamos proceder o recebimento das duplicatas abaixo relacionadas 
+0016#STR0016#ALL#CREDITANDO-NOS os valores correspondentes.
+0017#STR0017#ALL#NUM DUPLIC|P|CODIGO|R A Z A O   S O C I A L        |  VENCTO  |         VALOR   |
+0018#STR0018#ALL#NUM CHEQUE|P|CODIGO|R A Z A O   S O C I A L        |  VENCTO  |         VALOR   |
+0019#STR0019#ALL#Total da relação a crédito de nossa conta corrente 
+0020#STR0020#ALL#Quantidade de títulos impressos 
+0021#STR0021#ALL#Bancos - Emissão de Borderôs
+0022#STR0022#ALL#Titulos - Emissäo de Borderôs

@@ -1,0 +1,68 @@
+0001#STR0001#ALL#Kardex Fisico FIFO
+0002#STR0002#ALL#Este programa emite un detalle de los movimientos de
+0003#STR0003#ALL#los productos seleccionados, ordenados en secuencia.
+0004#STR0004#ALL# Codigo producto 
+0005#STR0005#ALL# Tipo de producto
+0006#STR0006#ALL#A Rayas
+0007#STR0007#ALL#Administracion
+0008#STR0008#ALL#Kardex Fisico-Financiero FIFO (Calculo) D E P O S I T O : 
+0009#STR0009#ALL#    Operacion     
+0010#STR0010#ALL#Documento
+0011#STR0011#ALL#Secuencia
+0012#STR0012#ALL#OPERACION           DOCUMENTO    |            E  N  T  R  A  D  A  S        |        COSTO FIFO    |             S  A  L  I  D  A  S          |                   S   A   L   D   O          |  CLI,PRO,
+0013#STR0013#ALL#FECHA      TES C.F  NUMERO       |         CANTIDAD            COSTO TOTAL  |      DEL MOVIMENTO   |         CANTIDAD            COSTO TOTAL  |         CANTIDAD              VALOR TOTAL   |  CC u OP
+0014#STR0014#ALL# (Por 
+0015#STR0015#ALL# ,en 
+0016#STR0016#ALL#Seleccionando registros
+0017#STR0017#ALL#Anulado por el operador
+0018#STR0018#ALL#UM : 
+0019#STR0019#ALL#Tipo : 
+0020#STR0020#ALL#Grupo : 
+0021#STR0021#ALL#Costo Fifo  : 
+0022#STR0022#ALL#Posic.  IVA : 
+0023#STR0023#ALL#Direccion    : 
+0024#STR0024#ALL#T O T A L E S :
+0025#STR0025#ALL#CTD. EN SEGUNDA UM: 
+0026#STR0026#ALL#NO HUBO MOVIMIENTO PARA ESTE PRODUCTO
+0027#STR0027#ALL#OPERACION           LOTE FIFO    |            E  N  T  R  A  D  A  S        |        COSTO FIFO    |            S  A  L  I  D  A  S           |                   S   A   L   D   O          |  CLI,FOR,
+0028#STR0028#ALL#SubTotal:
+0029#STR0029#ALL#Lote Fifo:
+0030#STR0030#ALL#Saldo Fifo Inicial:
+0031#STR0031#ALL#No hubo movimiento para este lote
+0032#STR0032#ALL#Kardex Fisico LIFO
+0033#STR0033#ALL#Kardex Fisico-Financiero LIFO (Calculo) A L M A C E N : 
+0034#STR0034#ALL#OPERACION           DOCUMENTO    |            E  N  T  R  A  D  A  S        |        COSTO LIFO    |               S  A  L I  D  A  S         |                   S   A   L   D   O          |  CLI,FOR,
+0035#STR0035#ALL#Costo Lifo  : 
+0036#STR0036#ALL#OPERACION           LOTE LIFO    |            E  N  T  R  A  D  A  S        |        COSTO LIFO    |               S  A  L  I  D  A  S        |                   S   A   L   D   O          |  CLI,FOR,
+0037#STR0037#ALL#Lote Lifo:
+0038#STR0038#ALL#Saldo Lifo Inicial:
+0039#STR0039#ALL#OPERACION
+0040#STR0040#ALL#FECHA
+0041#STR0041#ALL#TES
+0042#STR0042#ALL#C.F
+0043#STR0043#ALL#NUMERO
+0044#STR0044#ALL#ENTRADAS
+0045#STR0045#ALL#CANTIDAD
+0046#STR0046#ALL#COSTO TOTAL
+0047#STR0047#ALL#COSTO FIFO
+0048#STR0048#ALL#DEL MOVIMIENTO
+0049#STR0049#ALL#SALIDAS
+0050#STR0050#ALL#SALDO
+0051#STR0051#ALL#VALOR TOTAL
+0052#STR0052#ALL#CLI,FOR,
+0053#STR0053#ALL#CC u OP
+0054#STR0054#ALL#CTD. SALDO
+0055#STR0055#ALL#VAL.TOTAL SALDO
+0056#STR0056#ALL#COSTO LIFO
+0057#STR0057#ALL#UM
+0058#STR0058#ALL#TIPO
+0059#STR0059#ALL#GRUPO
+0060#STR0060#ALL#COSTO FIFO
+0061#STR0061#ALL#POSICION IPI
+0062#STR0062#ALL#DIRECCION
+0063#STR0063#ALL#Productos(Parte 1)
+0064#STR0064#ALL#Productos(Parte 2)
+0065#STR0065#ALL#Movimiento de productos  
+0066#STR0066#ALL#OPERACION           DOCUMENTO           |            E  N  T  R  A  D  A  S        |        COSTO FIFO    |             S  A  L  I  D  A  S          |                   S   A   L   D   O          |  CLI,PRO,
+0067#STR0067#ALL#OPERACION           DOCUMENTO           |            E  N  T  R  A  D  A  S        |        COSTO LIFO    |               S  A  L I  D  A  S         |                   S   A   L   D   O          |  CLI,FOR,
+0068#STR0068#ALL#FECHA      TES C.F  NUMERO              |         CANTIDAD            COSTO TOTAL  |      DEL MOVIMENTO   |         CANTIDAD            COSTO TOTAL  |         CANTIDAD              VALOR TOTAL    |  CC u OP

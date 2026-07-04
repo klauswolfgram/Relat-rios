@@ -1,0 +1,17 @@
+0001#STR0001#ALL#Serão relacionados os fornecedores com os seus
+0002#STR0002#ALL#Respectivos Artigos.
+0003#STR0003#ALL#Restrição Artigo X Fornecedor
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#CÓDIGO ARTIGO                 SITUAÇÃO             SKIP-LOTE                       RIAI            VAL.RIAI
+0007#STR0007#ALL#DESCRIÇÃO DO ARTIGO                 REFERÊNCIA FORNECEDOR               F/R/P        TEMPO LIM.
+0008#STR0008#ALL#Cancelado Pelo Operador
+0009#STR0009#ALL#Fornecedor: 
+0010#STR0010#ALL#Fabric.
+0011#STR0011#ALL#Revend.
+0012#STR0012#ALL#Permuta
+0013#STR0013#ALL#Ensaio
+0014#STR0014#ALL#Desc. Pl. Amostragem
+0015#STR0015#ALL#Plano Amostragem
+0016#STR0016#ALL#Nív. qual. aceitável
+0017#STR0017#ALL#Nível

@@ -1,0 +1,10 @@
+0001#STR0001#ALL#Relação De Ferramentas
+0002#STR0002#ALL#Este Programa Irá Imprimir A Relação Do Registo
+0003#STR0003#ALL#De Ferramentas.
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#Código   Descrição Da Ferramenta        Vida Util  Tp.vida  Dt. Aquisição  Vida Acumulativa       Quantidade   Vencimento
+0007#STR0007#ALL#Quantidade    Motivo                          Data Inicio    Hora Inicio    Data Fim     Hora Fim
+0008#STR0008#ALL#Criando indice ....
+0010#STR0010#ALL#Cancelado Pelo Operador
+0013#STR0013#ALL#Bloqueios E Excepções De Calendário

@@ -1,0 +1,16 @@
+0001#STR0001#ALL#Este programa tem como objectivo imprimir a relação de 
+0002#STR0002#ALL#Garantias sem manutenção. (scania)
+0003#STR0003#ALL#Garantias Sem Manutenção - Scania
+0004#STR0004#ALL# [nro.os] [dt.abe] [ch.i] [chassis do veículo------] [modelo----------------------]
+0005#STR0005#ALL#Código de barras
+0006#STR0006#ALL#Administração
+0007#STR0007#ALL#Aguarde A Seleccionar Registo Para Impressão
+0008#STR0008#ALL#*** cancelado pelo operador ***
+0009#STR0009#ALL#[gr] [código da peca-----------] [descrição---------] [qtde] [valor---] [esp]
+0011#STR0011#ALL#[gr] [código do serviço--------] [descrição---------] [tmp-] [valor---] [esp]
+0012#STR0012#ALL#Total da os.: 
+0013#STR0013#ALL#Total pecas: 
+0014#STR0014#ALL# total serviços: 
+0015#STR0015#ALL# total: 
+0016#STR0016#ALL#Data inicial      ?
+0017#STR0017#ALL#Data final        ?

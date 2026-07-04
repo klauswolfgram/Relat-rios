@@ -1,0 +1,23 @@
+0001#STR0001#ALL#Este programa tem o objectivo de emitir a relação de
+0002#STR0002#ALL#Lotes/documentos onde o débito não bate com o crédito.
+0003#STR0003#ALL#Código de barras
+0004#STR0004#ALL#Administração
+0005#STR0005#ALL#Relação De Movimentos Com Diferença
+0006#STR0006#ALL#Relação De Pré-movimentos Com Diferença
+0007#STR0007#ALL#Data       Lote   Sub-lote
+0008#STR0008#ALL#***** cancelado pelo operador *****
+0009#STR0009#ALL#A Seleccionar Registos...
+0010#STR0010#ALL#Total Do Crédito:
+0010#STR0010#MEX#Total Crédito
+0011#STR0011#ALL#Total Do Débito:
+0011#STR0011#MEX#Total Débito
+0012#STR0012#ALL#Diferença Dc:
+0013#STR0013#ALL#Docto.  Linha Dc Cta.débito            Cta.crédito                       Valor Histórico
+0013#STR0013#MEX#Docto.  Linha DC Cta.Débito            Cta.Crédito                       Valor Histórico
+0014#STR0014#ALL#Total Crial
+0015#STR0015#ALL#Legenda: Dc (1=débito/2=crédito/3=partida Dobrada)
+0016#STR0016#ALL#Total Introduzido:
+0018#STR0018#ALL#Dif. Introduzido:
+0019#STR0019#ALL#Não foi localizado nenhum registo com diferença ! se necessário execute o reprocessamento.
+0022#STR0022#ALL#Movimentos
+0024#STR0024#ALL#Histórico do Documento Contabilístico

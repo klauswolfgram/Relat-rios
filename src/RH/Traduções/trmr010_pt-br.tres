@@ -1,0 +1,33 @@
+0001#STR0001#ALL#Relatorio de Cargos.
+0002#STR0002#ALL#O relatório de Cargos apresenta todos os dados cadastrados para os
+0003#STR0003#ALL#funcionários de acordo com os parâmetros solicitados pelo usuário.
+0004#STR0004#ALL#Cargo
+0005#STR0005#ALL#Zebrado
+0006#STR0006#ALL#Administraçäo
+0007#STR0007#ALL#Relatorio de Cargos por Grupo Funcional
+0008#STR0008#ALL#CARGO DESCRICAO                      GRUPO DESCRICAO                      DEPTO     DESCRICAO                      CENTRO DE CUSTO     
+0009#STR0009#ALL#DESCRICAO DETALHADA DO CARGO
+0010#STR0010#ALL# *** Nao existe Descricao detalhada do Cargo *** 
+0011#STR0011#ALL#GRADUACAO DOS CARGOS
+0012#STR0012#ALL#FATOR DESCRICAO                      GRAU DESCRICAO     
+0013#STR0013#ALL#DESCRICAO DETALHADA DO FATOR
+0014#STR0014#ALL# *** Nao existe Descricao detalhada do Fator *** 
+0015#STR0015#ALL#CURSOS DO CARGO
+0016#STR0016#ALL#CURSO DESCRICAO                      VALIDADE   HRS MIN  NOTA MIN FREQ MIN  PRIORIDADE    
+0017#STR0017#ALL#*** Nao existe Curso para este cargo ***
+0018#STR0018#ALL#*** Nao existe Graduacao para este cargo ***
+0019#STR0019#ALL#PONTOS
+0020#STR0020#ALL#T O T A L :
+0021#STR0021#ALL#DESCRICAO DAS RESPONSABILIDADES DO CARGO
+0022#STR0022#ALL# *** Nao existe Descricao das Responsabilidades do Cargo *** 
+0023#STR0023#ALL#DESCRICAO RELACIONAMENTO INTERNO DO CARGO
+0024#STR0024#ALL# *** Nao existe Descricao do Relacionamento Interno do Cargo *** 
+0025#STR0025#ALL#DESCRICAO DAS HABILIDADES DO CARGO
+0026#STR0026#ALL# *** Nao existe Descricao das Habilidades do Cargo *** 
+0027#STR0027#ALL#COMPETENCIAS/HABILIDADES
+0028#STR0028#ALL#COD.     ITEM     COD.     DESCRICAO                                                      ESCALA   DESCRICAO              ITEM     DESCRICAO              GRAU   DESCRICAO              ITEM   DESCRICAO
+0029#STR0029#ALL#COMPET   COMPET   HABIL.   DA HABILIDADE                                                           DA ESCALA              ESCALA   ITEM ESCALA            IMP.   GRAU IMPORTANCIA       IMP.   ITEM IMPORTANCIA
+0030#STR0030#ALL#*** Nao existe Competencia/Habilidade para este cargo ***
+0031#STR0031#ALL#Depto
+0032#STR0032#ALL#Total de Pontos
+0033#STR0033#ALL#Curso

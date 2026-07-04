@@ -1,0 +1,53 @@
+0001#STR0001#ALL#Detalle de la Situacion del Stock
+0002#STR0002#ALL#Este informe emite la situacion de los saldos y reservas de cada producto
+0003#STR0003#ALL#en stock. Tambien  muestra el saldo  disponible, o sea el saldo obtenido 
+0004#STR0004#ALL#de las reservas.
+0005#STR0005#ALL# Por Codigo         
+0006#STR0006#ALL# Por Tipo           
+0007#STR0007#ALL# Por Descripcion    
+0008#STR0008#ALL# Por Grupo          
+0009#STR0009#ALL# Por Deposito       
+0010#STR0010#ALL#A Rayas
+0011#STR0011#ALL#Administracion
+0012#STR0012#ALL#Seleccionando registros...
+0013#STR0013#ALL#Organizando archivo...
+0014#STR0014#ALL#CODIGO          TP GRUP DESCRIPCION           UM FL DEP.  SALDO       RESERVA PARA     STOCK         ____________VALOR ___________
+0015#STR0015#ALL#                                                          EN STOCK    REQ/PV/RESERVA   DISPONIBLE       EN STOCK        RESERVADO 
+0016#STR0016#ALL#Total del 
+0017#STR0017#ALL#Tipo
+0018#STR0018#ALL#Grupo
+0019#STR0019#ALL#Total unidad medida  : 
+0020#STR0020#ALL#Total general: 
+0021#STR0021#ALL#ANULADO POR EL OPERADOR.
+0022#STR0022#ALL#Registro(s) procesado(s)
+0023#STR0023#ALL#: Preparacion...
+0024#STR0024#ALL#Costo Unificado
+0025#STR0025#ALL#Con el parametro MV_CUSFIL activado se debe observar el completamiento de las siguintes preguntas:
+0026#STR0026#ALL#Agrupa Por Deposito/Sucursal/Empresa? -> Pueden utilizarse solo las opciones "Sucursal" o "Empresa"
+0027#STR0027#ALL#Deposito De? -> Solamente "**"
+0028#STR0028#ALL#Deposito A? -> Solamente "**"
+0029#STR0029#ALL#Orden de Impresion -> Todas, excepto "DEPOSITO"
+0030#STR0030#ALL#Los parametros no estan debidamente configurados. ¿Imprime informe de esa Forma ?
+0031#STR0031#ALL#Imprime
+0032#STR0032#ALL#Cancela
+0033#STR0033#ALL#Subtotal por Almacen
+0034#STR0034#ALL#    DESCRIPCION
+0035#STR0035#ALL#    DE ALMACEN
+0036#STR0036#ALL#CODIGO
+0037#STR0037#ALL#TP
+0038#STR0038#ALL#GRUPO
+0039#STR0039#ALL#DESCRIPCION
+0040#STR0040#ALL#U.M.
+0041#STR0041#ALL#SC
+0042#STR0042#ALL#ALMC
+0043#STR0043#ALL#SALDO
+0044#STR0044#ALL#EN STOCK
+0045#STR0045#ALL#RESERVA PARA
+0046#STR0046#ALL#REQ/PV/RESERVA
+0047#STR0047#ALL#STOCK
+0048#STR0048#ALL#DISPONIBLE
+0049#STR0049#ALL#VALOR
+0050#STR0050#ALL#RESERVADO
+0051#STR0051#ALL#DESCRIPCION
+0052#STR0052#ALL#DEL ALMACEN
+0053#STR0053#ALL#Saldos en Stock

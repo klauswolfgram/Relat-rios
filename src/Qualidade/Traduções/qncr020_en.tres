@@ -1,0 +1,41 @@
+0001#STR0001#ALL#Report of Occurrence/Non-conformance card
+0002#STR0002#ALL#It will be printed according to the parameters selected by the User.
+0003#STR0003#ALL#Year+FNC Code+Review
+0004#STR0004#ALL#FNC Code+Review
+0005#STR0005#ALL#Z.Form
+0006#STR0006#ALL#Management
+0007#STR0007#ALL#OCCURRENCE/NON-CONFORMANCE CARD
+0008#STR0008#ALL#Potential Non-Conformance
+0009#STR0009#ALL#Actual Non-Conformance
+0010#STR0010#ALL#Improvement
+0011#STR0011#ALL#Registered
+0012#STR0012#ALL#Under Analysis
+0013#STR0013#ALL#Proceeds
+0014#STR0014#ALL#Does not proceed
+0015#STR0015#ALL#Cancelled
+0016#STR0016#ALL#Posting
+0017#STR0017#ALL#Medium
+0018#STR0018#ALL#High
+0019#STR0019#ALL#Nr. 
+0020#STR0020#ALL#Review: 
+0021#STR0021#ALL#Opening Date: 
+0022#STR0022#ALL#Closing Date: 
+0023#STR0023#ALL#Type: 
+0024#STR0024#ALL#Priority: 
+0025#STR0025#ALL#Originator:  
+0026#STR0026#ALL#Status: 
+0027#STR0027#ALL#Detailed Description
+0028#STR0028#ALL#Comments
+0029#STR0029#ALL#Distribution
+0030#STR0030#ALL#Analysis
+0031#STR0031#ALL#Distribution: 
+0032#STR0032#ALL#Source: 
+0033#STR0033#ALL#Reason: 
+0034#STR0034#ALL#Effect: 
+0035#STR0035#ALL#FNC Category: 
+0036#STR0036#ALL#Corrective Actions Listed
+0037#STR0037#ALL#A.C.Nr.         Originator Rv                     Opening    Predicted Clos.   Real Clos.
+0038#STR0038#ALL#Responsible: 
+0039#STR0039#ALL#Secret Information
+0040#STR0040#ALL#Access Allowed to 
+0041#STR0041#ALL# and 

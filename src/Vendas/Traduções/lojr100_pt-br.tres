@@ -1,0 +1,11 @@
+0001#STR0001#ALL#Este relatório ira' imprimir a relaçäo de produtos calculando o giro
+0002#STR0002#ALL#do estoque e as vendas. Deverá ser informado  os
+0003#STR0003#ALL#produtos de/ate e numero de meses a ser considerado.
+0004#STR0004#ALL#Giro de Estoques
+0005#STR0005#ALL#Zebrado
+0006#STR0006#ALL#Administracao
+0007#STR0007#ALL#Cod Produto     Descricao                  UN Grupo Saldo Estoque   Giro Estoque    
+0008#STR0008#ALL#Vend 
+0009#STR0009#ALL#Mês 
+0010#STR0010#ALL#Produtos
+0011#STR0011#ALL#Nao e permitido numero de meses maior do que 12.

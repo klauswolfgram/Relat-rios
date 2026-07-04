@@ -1,0 +1,25 @@
+0001#STR0001#ALL#Impressao do Orcamento
+0002#STR0002#ALL#     Este programa ira emitir os Orcamentos conforme os parametros
+0003#STR0003#ALL#solicitados.
+0004#STR0004#ALL# 
+0005#STR0005#ALL#Zebrado
+0006#STR0006#ALL#Administracao
+0007#STR0007#ALL#CANCELADO PELO OPERADOR
+0008#STR0008#ALL#|                                ORCAMENTO TECNICO                                           | Nr.Orcamento: ###### | Folha: ######|
+0009#STR0009#ALL#|Cliente  : ######/## - ########################################                                                                   |
+0010#STR0010#ALL#|Emissao  : ##########                                                                                                             |
+0011#STR0011#ALL#|Atendente: ####################                                                                                                   |
+0012#STR0012#ALL#|Cond.Pag.: ### - ##################################                                 Desconto(s): ###### + ###### + ###### + ######|
+0013#STR0013#ALL#|It|   Tipo   |    Produto    |      Id.Unico      |                Problema               |    Contrato   | Garantia |    O.S.    |
+0014#STR0014#ALL#|  |IT|Produto        |Descricao                     |Servico|  Quantidade  |Valor Unitario|    Valor Total    | Valor Fabricante  |
+0015#STR0015#ALL#|                                                                            SUB-TOTAL     | ##################| ##################|
+0016#STR0016#ALL#|                                                                            TOTAL GERAL   | ##################| ##################|
+0017#STR0017#ALL#|Moeda    : #                                                                                                                      |
+0018#STR0018#ALL#TOTAL GERAL
+0019#STR0019#ALL#Valor Cliente
+0020#STR0020#ALL#Valor Fabricante
+0021#STR0021#ALL#SUB-TOTAL
+0022#STR0022#ALL#ORCAMENTO TECNICO
+0023#STR0023#ALL#Cabeçalho do Orçamento
+0024#STR0024#ALL#Itens do Orçamento
+0025#STR0025#ALL#Apontamento

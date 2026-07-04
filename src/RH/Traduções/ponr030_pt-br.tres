@@ -1,0 +1,72 @@
+0001#STR0001#ALL#Relatorio de Presentes ou Ausentes
+0002#STR0002#ALL#Será impresso de acordo com os parametros solicitados pelo
+0003#STR0003#ALL#usuario.
+0004#STR0004#ALL#Matricula
+0005#STR0005#ALL#Centro de Custo
+0006#STR0006#ALL#Nome
+0007#STR0007#ALL#Turno
+0008#STR0008#ALL#Zebrado
+0009#STR0009#ALL#Administraçäo
+0010#STR0011#ALL#Relatorio de Presentes / Ausentes
+0011#STR0012#ALL#          |              Horario Programado               | |             Horario Realizado                             |
+0012#STR0013#ALL#Data      |1a.E. 1a.S.|2a.E. 2a.S.|3a.E. 3a.S.|4a.E. 4a.S.| |1a.E. 1a.S.|2a.E. 2a.S.|3a.E. 3a.S.|4a.E. 4a.S.|5a.E. 5a.S.|
+0013#STR0014#ALL#Relatorio de 
+0014#STR0015#ALL#Ausentes
+0015#STR0016#ALL#Presentes
+0016#STR0018#ALL#           ** Ferias **            
+0017#STR0019#ALL#          ** Afastado **           
+0018#STR0021#ALL#Filial: 
+0019#STR0022#ALL#    C.C: 
+0020#STR0023#ALL# Turno: 
+0021#STR0024#ALL#C.Custo+Nome
+0022#STR0026#ALL#MATR: 
+0023#STR0027#ALL#NOME: 
+0024#STR0028#ALL#C.CUSTO: 
+0025#STR0029#ALL#TURNO ATUAL: 
+0026#STR0030#ALL#Cracha
+0027#STR0034#ALL#Selecione a(s) Jornada(s) com Inicio na:
+0028#STR0035#ALL#Selecione a opção de impressão: 
+0029#STR0036#ALL#Por Período
+0030#STR0037#ALL#Por Datas
+0031#STR0038#ALL#Processo: 
+0032#STR0039#ALL#Período: 
+0033#STR0040#ALL#Roteiro: 
+0034#STR0041#ALL#Num. Pagto: 
+0035#STR0042#ALL#Departamento
+0036#STR0043#ALL#DEPTO: 
+0037#STR0044#ALL#Ocorrências Durante a Impressão
+0038#STR0045#ALL#Problema no modo de acesso do cadastro de períodos (SPO).
+0039#STR0046#ALL#Período incorreto!
+0040#STR0047#ALL#Número de ordens superior ao permitido.
+0041#STR0048#ALL#Problema ao carregar turno da tabela padrão!
+0042#STR0049#ALL#Turno de Trabalho inválido!
+0043#STR0050#ALL#Regra de Apontamento inválida!
+0044#STR0051#ALL#Descrição do Problema - 
+0045#STR0052#ALL#Ocorrências do Relatório - (Ausentes/Presentes)
+0046#STR0053#ALL#ATENÇÃO: 
+0047#STR0054#ALL# Os seguintes funcionários estão sem regras de apontamento cadastradas: 
+0048#STR0055#ALL#OK
+0049#STR0056#ALL#Este programa emite Relacao dos Funcionarios Presentes ou Ausentes.
+0050#STR0057#ALL#Funcionários
+0051#STR0058#ALL#Desc.Filial
+0052#STR0059#ALL#Marcações	
+0053#STR0060#ALL#Data
+0054#STR0061#ALL#1a.E. 1a.S.
+0055#STR0062#ALL#2a.E. 2a.S.
+0056#STR0063#ALL#3a.E. 3a.S.
+0057#STR0064#ALL#4a.E. 4a.S.
+0058#STR0065#ALL#1a.E. 1a.S.
+0059#STR0066#ALL#2a.E. 2a.S.
+0060#STR0067#ALL#3a.E. 3a.S.
+0061#STR0068#ALL#4a.E. 4a.S.
+0062#STR0069#ALL#5a.E. 5a.S.
+0063#STR0070#ALL#Cracha
+0064#STR0071#ALL#Horario Programado
+0065#STR0072#ALL#Horario Realizado
+0066#STR0073#ALL#Processo
+0067#STR0074#ALL#Período
+0068#STR0075#ALL#Rot
+0069#STR0076#ALL#NP
+0070#STR0077#ALL#Tno
+0071#STR0078#ALL#Depto
+0072#STR0079#ALL#C.Custo

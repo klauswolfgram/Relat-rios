@@ -1,0 +1,34 @@
+0001#STR0001#ALL#Registrat
+0002#STR0002#ALL#Cost Center   
+0003#STR0003#ALL#Name
+0004#STR0004#ALL#Report on Parcels of Base Salary               
+0005#STR0005#ALL#It will be printed according to the parameters selected by 
+0006#STR0006#ALL#the user.
+0007#STR0007#ALL#Z.Form 
+0008#STR0008#ALL#Management   
+0009#STR0009#ALL#BASE SALARY INSTALLMENTS           
+0010#STR0010#ALL#  BCH. : 
+0011#STR0011#ALL#     REG. : 
+0012#STR0012#ALL#     C.CENTER: 
+0013#STR0013#ALL#     NAME : 
+0014#STR0014#ALL#                        PLACE AND DATE                                   SIGNATURE OF RESPONSIBLE FOR THE COMPANY            
+0015#STR0015#ALL#|          \|/|\|/            DESCRIPTION OF THE BASE                               |OL.           |E       |NB                ||
+0016#STR0016#ALL#|             |               SALARY INSTALLMENTS                                   +--------------+--------+------------------+|
+0017#STR0017#ALL#|          SOC.SEC.TAX                                                                                                          |
+0018#STR0018#ALL#|Mth/Yr.|SAL. (P.FIX ) |
+0019#STR0019#ALL#|    T O T A L |
+0020#STR0020#ALL#Continue...
+0021#STR0021#ALL#BREAKDOWN OF INSTALLMENTS OF THE CONTRIBUTION SALARY 
+0022#STR0022#ALL#OL.           
+0023#STR0023#ALL#E       
+0024#STR0024#ALL#NB                
+0025#STR0025#ALL#I N S S
+0026#STR0026#ALL#MONTH/YR
+0027#STR0027#ALL#SAL.(FIXED P) 
+0028#STR0028#ALL#DESCR.ITEM 01
+0029#STR0029#ALL#DESCR.ITEM 02
+0030#STR0030#ALL#DESCR.ITEM 03
+0031#STR0031#ALL#DESCR.ITEM 04
+0032#STR0032#ALL#DESCR.ITEM 05
+0033#STR0033#ALL#DESCR.ITEM 06
+0034#STR0034#ALL#TOTAL

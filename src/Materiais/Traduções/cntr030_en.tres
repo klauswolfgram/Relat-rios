@@ -1,0 +1,26 @@
+0001#STR0001#ALL#Measurements
+0002#STR0002#ALL#This report issues a list of measures, displaying respective 
+0003#STR0003#ALL#penalties/bonus, discounts and withheld bonds. Please, check   
+0004#STR0004#ALL#report parameters.
+0005#STR0005#ALL#Processing
+0006#STR0006#ALL#Measurements
+0007#STR0007#ALL#Fines/Bonus
+0008#STR0008#ALL#Discounts
+0009#STR0009#ALL#Withh-Pledges
+0010#STR0010#ALL#Fines
+0011#STR0011#ALL#Bonus
+0012#STR0012#ALL#Total of Fines:
+0013#STR0013#ALL#Total of Bonus:
+0014#STR0014#ALL#Total:
+0015#STR0015#ALL#Num. of measurement:
+0016#STR0016#ALL# - (Values in 
+0017#STR0017#ALL#Measurement
+0018#STR0018#ALL#Measurement Items
+0019#STR0019#ALL#Penalties and Bonus
+0020#STR0020#ALL#Discounts
+0021#STR0021#ALL#Withheld Bonds
+0022#STR0022#ALL#Suppl./Customer
+0023#STR0023#ALL#Total Withheld
+0024#STR0024#ALL#Total written off
+0025#STR0025#ALL#Total of Deductions
+0026#STR0026#ALL#Contract Meas Spreadsheet

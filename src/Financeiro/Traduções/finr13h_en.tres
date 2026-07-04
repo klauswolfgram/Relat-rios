@@ -1,0 +1,40 @@
+0001#STR0001#ALL#FARGTIP block not found
+0002#STR0002#ALL#RDMAKE does not Exist!
+0003#STR0003#ALL#Bills Receivable
+0004#STR0004#ALL#Special
+0005#STR0005#ALL#Administration
+0006#STR0006#ALL#Filtering Bills...
+0007#STR0007#ALL#Open bills...
+0008#STR0008#ALL#Loading Temporary File...
+0009#STR0009#ALL#Printing report...
+0010#STR0010#ALL#PENDING BILLS     
+0011#STR0011#ALL#Customer  Company Name   Document/Account Type Mode Issue  Expiration               Original Value        Delay Balance 
+0012#STR0012#ALL#Total Overdue     ---> 
+0013#STR0013#ALL#Total Pending     ---> 
+0014#STR0014#ALL#Values In Portfolio: 
+0015#STR0015#ALL#Total Portfolio  ---> 
+0016#STR0016#ALL#Customer Balance  ---> 
+0017#STR0017#ALL#GRAND OPEN TOTAL       ---> 
+0018#STR0018#ALL#GRAND TOTAL OVERDUE    ---> 
+0019#STR0019#ALL#GRAND TOTAL PORTFOLIO ---> 
+0020#STR0020#ALL#Processing  
+0021#STR0021#ALL#Accrued balance to
+0022#STR0022#ALL#From Customer        
+0023#STR0023#ALL#To Customer          
+0024#STR0024#ALL#From Branch          
+0025#STR0025#ALL#To Branch            
+0026#STR0026#ALL#From Date            
+0027#STR0027#ALL#To Date              
+0028#STR0028#ALL#Show                 
+0029#STR0029#ALL#From Modality        
+0030#STR0030#ALL#To Modality          
+0031#STR0031#ALL#Open
+0032#STR0032#ALL#In Portfolio
+0033#STR0033#ALL#Both
+0034#STR0034#ALL#Descript.
+0035#STR0035#ALL#Original amnt.
+0036#STR0036#ALL#Blc.
+0037#STR0037#ALL#Delay
+0038#STR0038#ALL#Customer vs. Bills rcvbl.   
+0039#STR0039#ALL#xxxxxxxxxxxxxx
+0040#STR0040#ALL#xxxxxxxxxxxxxx

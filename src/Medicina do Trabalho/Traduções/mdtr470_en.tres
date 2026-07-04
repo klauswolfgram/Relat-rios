@@ -1,0 +1,17 @@
+0001#STR0001#ALL#Presentation report of exams per supplier showing the
+0002#STR0002#ALL#value and the valid date of each exam price.
+0003#STR0003#ALL# Supplier/Exam 
+0004#STR0004#ALL# Exam/Supplier
+0005#STR0005#ALL#Z. Form
+0006#STR0006#ALL#Management
+0007#STR0007#ALL#Exams Supplier
+0008#STR0008#ALL#Supplier          Supplier Name
+0009#STR0009#ALL#      Exam       Name of Exam                                Price Start Dt.
+0010#STR0010#ALL#CANCELED BY OPERATOR
+0011#STR0011#ALL#Supplier
+0012#STR0012#ALL#Name of Supplier
+0013#STR0013#ALL#Exams
+0014#STR0014#ALL#Exam
+0015#STR0015#ALL#Name of Exam
+0016#STR0016#ALL#Price
+0017#STR0017#ALL#Start Dt.

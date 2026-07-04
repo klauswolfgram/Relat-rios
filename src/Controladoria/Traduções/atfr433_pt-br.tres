@@ -1,0 +1,22 @@
+0001#STR0001#ALL#Função disponível apenas para ambientes TopConnect
+0002#STR0002#ALL#Função disponível apenas para TReport, por favor atualizar ambiente e verificar parametro MV_TREPORT
+0003#STR0003#ALL#Este relatório tem o objetivo de demonstrar comparativo Provisão x Realizado x AVP de curto e longo prazo dos ativos relacionados aos projetos do imobilizado 
+0004#STR0004#ALL#Demonstrativo Provisão x Realizado x AVP de curto e longo prazo de Projeto de Imobilizado
+0005#STR0005#ALL#Projeto do Imobilizado
+0006#STR0006#ALL#AVP de imobilizados do Projeto
+0007#STR0007#ALL#Provisão
+0008#STR0008#ALL#Realizado
+0009#STR0009#ALL#Saldo Provisão
+0010#STR0010#ALL#Constituido
+0011#STR0011#ALL#Curto Prz.-PRV
+0012#STR0012#ALL#Longo Prz.-PRV
+0013#STR0013#ALL#Curto Prz.-RLZ
+0014#STR0014#ALL#Longo Prz.-RLZ
+0015#STR0015#ALL#Curto Prz.-SLD
+0016#STR0016#ALL#Longo Prz.-SLD
+0017#STR0017#ALL#Total Filial
+0018#STR0018#ALL#Total Projeto
+0019#STR0019#ALL#Para utilizar este relatório, é necessário que estejam implementados os processos de Projetos de Imobilizado e Controle de AVP de Imobilizados. Por favor, atualize o ambiente
+0020#STR0020#ALL#Projeto Cod.:
+0021#STR0021#ALL#Dt.Inic.AVP
+0022#STR0022#ALL#Total Etapa

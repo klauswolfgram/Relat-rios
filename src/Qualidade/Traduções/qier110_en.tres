@@ -1,0 +1,35 @@
+0001#STR0001#ALL#Printing of the formulas and tables used for calculation    
+0002#STR0002#ALL#of the Quality Index  
+0003#STR0003#ALL#Formulas
+0004#STR0004#ALL#Z.Form 
+0005#STR0005#ALL#Management   
+0006#STR0006#ALL#CLASSES :
+0007#STR0007#ALL#SQI FACTORS    :
+0008#STR0008#ALL#PQI FACTORS    :
+0009#STR0009#ALL#SKIP-LOT CRITERIA      :
+0010#STR0010#ALL#VQI FACTORS   : 
+0011#STR0011#ALL#No Index was registered to compose VQI.            
+0012#STR0012#ALL#VQI: Vendor Quality Index                     
+0013#STR0013#ALL#VQI = ( 100 - K ) - Critical Factor     
+0014#STR0014#ALL#    CF.: Correction Factor,tabled as a function of SQI       
+0015#STR0015#ALL#            K..: Qty. obtained as a function of Acceptance Index(AI
+0016#STR0016#ALL#            qx.: Quantity delivered as Factor x    
+0017#STR0017#ALL#POI = ( 1 - (Sum       Ni * Di / (
+0018#STR0018#ALL# * Nt)) ) * 100
+0019#STR0019#ALL#      Being Ni: Quantity delivered in delay   (lot to lot )
+0020#STR0020#ALL#            Di: Number of days in delay  (lot to lot )
+0021#STR0021#ALL#            Nt: Total qtty. delivered in month  
+0022#STR0022#ALL#          Note: When calculating POI, if the no. of days in actual delay is greater than the nro. 
+0023#STR0023#ALL#                of days defined in parameter MV_QDIAIPO, the latter will be used. 
+0024#STR0024#ALL#CLASSES OF NON-CONFORMANCES  :
+0025#STR0025#ALL#Critical Factor     
+0026#STR0026#ALL#FACTOR K
+0027#STR0027#ALL#CORRECTION FACTOR (CF) :
+0028#STR0028#ALL#IQF FORMULAS:    
+0029#STR0029#ALL#Classes
+0030#STR0030#ALL#VQI factors   
+0031#STR0031#ALL#VQI factors   
+0032#STR0032#ALL#Skip-lot criteria     
+0033#STR0033#ALL#NON-CONFORMANCE CLASSES      
+0034#STR0034#ALL#K FACTOR
+0035#STR0035#ALL#Correction factors 

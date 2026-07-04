@@ -1,0 +1,32 @@
+0001#STR0001#ALL#Este programa tem como objetivo imprimir o valor atualizado das 
+0002#STR0002#ALL#aplicacoes financeiras, conforme os parametros solicitados. 
+0003#STR0003#ALL#Demonstrativo de Aplicacoes
+0004#STR0005#ALL#Zebrado
+0005#STR0006#ALL#Administracao
+0006#STR0007#ALL#CANCELADO PELO OPERADOR
+0007#STR0008#ALL#                                                Dados da Aplicacao                                                                             Valores
+0008#STR0009#ALL#Numero    Instituicao          Mod Dt.Aplic   Dt.Resg.         Principal Cota Util. Apl     Cota Atual    Rend. Bruto       Perc. Taxa IOF    Valor IOF   Taxa IR        Valor IR     Resgate Liquido
+0009#STR0010#ALL#Total Geral
+0010#STR0011#ALL#Informe os valores das cotas diarias
+0011#STR0012#ALL#Contrato
+0012#STR0013#ALL#Banco
+0013#STR0014#ALL#Agencia
+0014#STR0015#ALL#Saldo
+0015#STR0016#ALL#Vlr. Cota Atual
+0016#STR0017#ALL#Vlr. Cota do dia
+0017#STR0018#ALL#Cota Util. Apl
+0018#STR0019#ALL#Cota atual
+0019#STR0020#ALL#Rendimento Bruto
+0020#STR0021#ALL#Perc.
+0021#STR0022#ALL#Taxa de IOF
+0022#STR0023#ALL#Valor do IOF
+0023#STR0024#ALL#Resgate liquido
+0024#STR0025#ALL#Dados da aplicação
+0025#STR0026#ALL#Filial : 
+0026#STR0027#ALL#Código
+0027#STR0028#ALL#Empresa
+0028#STR0029#ALL#Unidade de negócio
+0029#STR0030#ALL#Filial
+0030#STR0031#ALL#Filiais selecionadas para o relatorio
+0031#STR0032#ALL#Filial : 
+0032#STR0033#ALL#Total Filial : 

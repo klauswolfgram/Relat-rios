@@ -1,0 +1,29 @@
+0001#STR0001#ALL#Este programa emitira una lista de los productos por grupo
+0002#STR0002#ALL#La emision se basara en los parametros del informe
+0003#STR0003#ALL#A rayas
+0004#STR0004#ALL#Administracion
+0005#STR0005#ALL#ANULADO POR EL OPERADOR
+0006#STR0006#ALL#Grupo de productos
+0007#STR0007#ALL#Descripcion del Grupo
+0008#STR0008#ALL#Producto         Descripcion                                         Tipo   Unid.  Local         Costo   Prec. Venta         Saldo
+0009#STR0009#ALL#No hay datos para imprimir este informe
+0010#STR0010#ALL#Productos por grupo
+0011#STR0011#ALL#Saldo
+0012#STR0012#ALL#Seleccionando Registros...
+0013#STR0013#ALL#Grupo de prod. 
+0014#STR0014#ALL#Prod. 
+0015#STR0015#ALL#Atencion
+0016#STR0016#ALL#¡Actualizar patch del programa SIGACUS.PRW!
+0017#STR0017#ALL#¡Actualizar patch del programa SIGACUSA.PRX!
+0018#STR0018#ALL#¡Actualizar patch del programa SIGACUSB.PRX!
+0019#STR0019#ALL#No ubicado en el archivo Grupos...
+0020#STR0020#ALL#No Informado en el archivo Productos...
+0021#STR0021#ALL#Sin grupo de productos informado en el archivo
+0022#STR0022#ALL#Producto
+0023#STR0023#ALL#Descripcion
+0024#STR0024#ALL#Tipo
+0025#STR0025#ALL#Unid.
+0026#STR0026#ALL#Local
+0027#STR0027#ALL#Costo
+0028#STR0028#ALL#Precio Venta
+0029#STR0029#ALL#Saldo

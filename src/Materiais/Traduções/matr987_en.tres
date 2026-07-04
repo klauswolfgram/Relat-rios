@@ -1,0 +1,36 @@
+0001#STR0001#BRA#Summary of Movement Credits of Incentivized Products - PRODEPE
+0002#STR0002#BRA#This report will print credit of issue movements 
+0003#STR0003#BRA#of products incentivized by PRODEPE.
+0004#STR0004#BRA#Z-form
+0005#STR0005#BRA#Administration
+0006#STR0006#BRA#Search
+0007#STR0007#BRA#View
+0008#STR0008#BRA#Add
+0009#STR0009#BRA#Edit
+0010#STR0010#BRA#Delete
+0011#STR0011#BRA#Initial Value
+0012#STR0012#BRA#Final Value
+0013#STR0013#BRA#Percentage
+0014#STR0014#BRA#Type
+0015#STR0015#BRA#Table of Applicable Percentages
+0016#STR0016#BRA#To view the report correctly, check the Table of  
+0017#STR0017#BRA#Applicable Percentages in Add button.
+0018#STR0018#BRA#+----------------------------------------------------------------------------------------------------------------------------------+
+0019#STR0019#BRA#|                                SUMMARY OF MOVEMENT CREDITS OF INCENTIVIZED PRODUCTS  - PRODEPE                               |
+0020#STR0020#BRA#|                                                                                                                 PAGE: ######   |
+0021#STR0021#BRA#|                                                                                                                                  |
+0022#STR0022#BRA#| COMPANY:  ######################################     C.N.P.J.: ##################                S.R.:   #####################   |
+0023#STR0023#BRA#| ADDRESS: ######################################     CITY:   #############################     STATE: ##                      |
+0024#STR0024#BRA#|                                  ISSUE MOVEMENTS WITH INCENTIVIZED PRODUCTS - PER MCN + RANGE                                 |
+0025#STR0025#BRA#|                                  ISSUE MOVEMENTS WITH INCENTIVIZED PRODUCTS - BY RANGE                                 |
+0026#STR0026#BRA#|        MCN        |    INI RANGE    |    FIN RANGE    |   PERCENTAGE   |      AMOUNT      |       ICMS        |     CREDIT      |
+0027#STR0027#BRA#|-------------------+-----------------+-----------------+----------------+------------------+-------------------+------------------|
+0028#STR0028#BRA#| ################# | ############### | ############### | ############## | ################ | ################# | ################ |
+0029#STR0029#BRA#|        INI RANGE        |    FIN RANGE    |    PERCENTAGE    |   AMOUNT   |      ICMS      |       CREDIT        |
+0030#STR0030#BRA#|-------------------+-----------------+-----------------+----------------+------------------+-------------------+------------------|
+0031#STR0031#BRA#| ##################### | ################### | ############## | #################### | ##################### | ################## |
+0032#STR0032#BRA#|-------------------+-----------------+-----------------+----------------+------------------+-------------------+------------------|
+0033#STR0033#BRA#|                                                   *** THERE WAS NO MOVEMENT ***                                                    |
+0034#STR0034#BRA#|                                                             TOTAL  ################   #################   ################ |
+0035#STR0035#BRA#|                                                   TOTAL  ####################   #####################   ################## |
+0036#STR0036#BRA#|                                             ISSUE: FROM  ##########  TO  ##########                                             |

@@ -1,0 +1,28 @@
+0001#STR0001#ALL#Este Programa Irá Imprimir O Comparativo De Contas Contabilísticas.
+0002#STR0002#ALL# os valores são ref. ao saldo acumulado. 
+0003#STR0003#ALL#Comparativo De Saldos De Contas Contabilísticas
+0004#STR0004#ALL#|código            |descrição          |  período 01  |  período 02  |  período 03  |  período 04  |  período 05  |  período 06  |  período 07  |  período 08  |  período 09  |  período 10  |  período 11  |  período 12  |
+0005#STR0005#ALL#Comparativo analítico de saldos de 
+0006#STR0006#ALL# até 
+0007#STR0007#ALL# em 
+0008#STR0008#ALL#Comparativo sintético de saldos de 
+0009#STR0009#ALL# atenção 
+0010#STR0010#ALL#***** cancelado pelo operador *****
+0011#STR0011#ALL#Totais do período: 
+0012#STR0012#ALL#Comparativo de saldos de 
+0013#STR0013#ALL#Código de barras
+0014#STR0014#ALL#Administração
+0015#STR0015#ALL#A Criar Ficheiro Temporário...
+0017#STR0017#ALL#Caso não actualize os saldos  básicos  na
+0018#STR0018#ALL#Digitação dos movimentos (mv_atusal='n'),
+0019#STR0019#ALL#Correr o procedimento  de actualização de saldos 
+0020#STR0020#ALL#Para todos os períodos solicitados no 
+0021#STR0021#ALL#Relatório.
+0022#STR0022#ALL#Por favor, verifique se o calend.contabilístico e a associação moeda/calendário 
+0023#STR0023#ALL#Foram registados correctamente...
+0024#STR0024#ALL#Total do período: 
+0025#STR0025#ALL#Total do grupo (
+0026#STR0026#ALL#Código
+0027#STR0027#ALL#Descrição
+0028#STR0028#ALL#Período
+0029#STR0029#ALL#Movimentações/saldos

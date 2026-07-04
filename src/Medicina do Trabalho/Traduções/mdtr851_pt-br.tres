@@ -1,0 +1,116 @@
+0001#STR0001#ALL#Relatorio do Laudo Ambiental                                         
+0002#STR0002#ALL#Atraves dos parametros selecionar os itens que devem ser considerados
+0003#STR0003#ALL#no Relatorio.                                                        
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#Laudo Ambiental
+0007#STR0007#ALL#              Relatorio Tecnico           
+0008#STR0008#ALL#Razao Social         :
+0009#STR0009#ALL#Endereco             :
+0010#STR0010#ALL#Cod. Atividade       :
+0011#STR0011#ALL#Atividade            :
+0012#STR0012#ALL#Grau de Risco        :
+0013#STR0013#ALL#Num. Funcionarios    :
+0014#STR0014#ALL#Data de Avaliacao    :
+0015#STR0015#ALL# de 
+0016#STR0016#ALL#LOCAIS AVALIADOS
+0017#STR0017#ALL#RISCOS ENCONTRADOS
+0018#STR0018#ALL#EQUIPAMENTOS UTILIZADOS NA AVALIACAO
+0019#STR0019#ALL#MEDIDAS DE CONTROLE
+0020#STR0020#ALL#EPQUIPAMENTOS DE PROTECAO INDIVIDUAL UTILIZADOS POR RISCO
+0021#STR0021#ALL#Conclusao
+0022#STR0022#ALL#Medico do Trabalho
+0023#STR0023#ALL#Enfermeiro do Trabalho
+0024#STR0024#ALL#Auxiliar de Enfermagem
+0025#STR0025#ALL#Engenheiro de Segurancao do Trabalho
+0026#STR0026#ALL#Tecnico de Segurancao do Trabalho
+0027#STR0027#ALL#Medico
+0028#STR0028#ALL#Enfermeiro
+0029#STR0029#ALL#Outros
+0030#STR0030#ALL# SSMT
+0031#STR0031#ALL#Janeiro
+0032#STR0032#ALL#Fevereiro
+0033#STR0033#ALL#Marco
+0034#STR0034#ALL#Abril
+0035#STR0035#ALL#Maio
+0036#STR0036#ALL#Junho
+0037#STR0037#ALL#Julho
+0038#STR0038#ALL#Agosto
+0039#STR0039#ALL#Setembro
+0040#STR0040#ALL#Outubro
+0041#STR0041#ALL#Novembro
+0042#STR0042#ALL#Dezembro
+0043#STR0043#ALL#Selecione o Modelo do Relatório
+0044#STR0044#ALL#Modelo do Relatório
+0045#STR0045#ALL#PROGRAMA DE PREVENÇÃO DE RISCOS AMBIENTAIS - PPRA
+0046#STR0046#ALL#NOME DA EMPRESA :
+0047#STR0047#ALL#ENDERECO :
+0048#STR0048#ALL#CIDADE :
+0049#STR0049#ALL#CNPJ/CGC :
+0050#STR0050#ALL#INSCRIÇÃO ESTADUAL : 
+0051#STR0051#ALL#GRAU DE RISCO :
+0052#STR0052#ALL#CNAE : 
+0053#STR0053#ALL#RESPONSÁVEIS TÉCNICOS
+0054#STR0054#ALL#COORDENADOR:
+0055#STR0055#ALL#REG.SSST:
+0056#STR0056#ALL#CRM
+0057#STR0057#ALL#FONE:
+0058#STR0058#ALL#ENDEREÇO:
+0059#STR0059#ALL#DATA:
+0060#STR0060#ALL#Selecione arquivo 
+0061#STR0061#ALL#Alterne para o programa do Ms-Word para visualizar o documento ou clique no botao para fechar.
+0062#STR0062#ALL#Cliente:
+0063#STR0063#ALL#Agente:
+0064#STR0064#ALL#Fonte Geradora de Risco:
+0065#STR0065#ALL#Centro de Custo:
+0066#STR0066#ALL#TODOS
+0067#STR0067#ALL#Função:
+0068#STR0068#ALL#Tarefa:
+0069#STR0069#ALL#Ambiente Físico do Risco:
+0070#STR0070#ALL#Data de Avaliação:
+0071#STR0071#ALL#Quantidade do Agente de Risco:
+0072#STR0072#ALL#Recomendação:
+0073#STR0073#ALL#Equipamentos:  Nome                           Fabricante            Data Calibração  Data Aferição
+0074#STR0074#ALL#Médicos do Trabalho
+0075#STR0075#ALL#Médicos do Trabalho: 
+0076#STR0076#ALL#Enfermeiros do Trabalho
+0077#STR0077#ALL#Enfermeiros do Trabalho: 
+0078#STR0078#ALL#Auxiliares de Enfermagem do Trabalho
+0079#STR0079#ALL#Auxiliares de Enfermagem do Trabalho: 
+0080#STR0080#ALL#Engenheiros de Segurança do Trabalho
+0081#STR0081#ALL#Engenheiros de Segurança do Trabalho: 
+0082#STR0082#ALL#Técnicos de Segurança do Trabalho
+0083#STR0083#ALL#Técnicos de Segurança do Trabalho: 
+0084#STR0084#ALL#EPIs:  Nome                                      No. Certificado Aprovação  Data Avaliação  Periodicidade
+0085#STR0085#ALL# DIAS
+0086#STR0086#ALL#Exames:
+0087#STR0087#ALL#Descrições das Atividades de Risco:
+0088#STR0088#ALL#Ordenar Riscos por:
+0089#STR0089#ALL#Num. Risco
+0090#STR0090#ALL#Agente de Risco
+0091#STR0091#ALL#Fonte Geradora
+0092#STR0092#ALL#Centro de Custo
+0093#STR0093#ALL#Função
+0094#STR0094#ALL#Ordenar Equipamentos por:
+0095#STR0095#ALL#Código
+0096#STR0096#ALL#Nome
+0097#STR0097#ALL#Ordenar Plano de Ação por:
+0098#STR0098#ALL#Código do Plano
+0099#STR0099#ALL#Centro de Custo
+0100#STR0100#ALL#Func. Respons.
+0101#STR0101#ALL#Símbolos:
+0102#STR0102#ALL#Recomendações:                                                                           Metas:
+0103#STR0103#ALL#Tipo de Proteção:              Tipo de EPI:                              Área de Utilização:
+0104#STR0104#ALL#Jan/
+0105#STR0105#ALL#Fev/
+0106#STR0106#ALL#Mar/
+0107#STR0107#ALL#Abr/
+0108#STR0108#ALL#Mai/
+0109#STR0109#ALL#Jun/
+0110#STR0110#ALL#Jul/
+0111#STR0111#ALL#Ago/
+0112#STR0112#ALL#Set/
+0113#STR0113#ALL#Out/
+0114#STR0114#ALL#Nov/
+0115#STR0115#ALL#Dez/
+0116#STR0116#ALL#AÇÕES / MÊS

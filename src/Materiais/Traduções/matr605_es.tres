@@ -1,0 +1,40 @@
+0001#STR0001#ALL#Detalle de los Presupuestos de Venta
+0002#STR0002#ALL#Este informe imprimira el detallede los Presupuestos de
+0003#STR0003#ALL#Venta segun los parametros solicitados.         
+0004#STR0004#ALL#Numero
+0005#STR0005#ALL#Cliente
+0006#STR0006#ALL#Producto
+0007#STR0007#ALL#A Rayas
+0008#STR0008#ALL#Administracion
+0009#STR0009#ALL# ABIERTO 
+0010#STR0010#ALL#CANCELADO 
+0011#STR0011#ALL#ANULADO
+0012#STR0012#ALL#          CLIENTE                                  PRODUCTO                                                                             COMPONENTES
+0013#STR0013#ALL#NUMERO IT CODIGO SU RAZON SOCIAL                   CODIGO          DESCRIPCION                     CANTIDAD PRECIO VENTA          TOTAL CODIGO          DESCRIPCION                        CANTIDAD      NECESIDAD SITUACION   
+0014#STR0014#ALL#Orden: 
+0015#STR0015#ALL#ANULADO POR EL OPERADOR
+0016#STR0016#ALL#Total Presupuesto:  
+0017#STR0017#ALL#Total Cliente:    
+0018#STR0018#ALL#Total Producto:   
+0019#STR0019#ALL#TOTAL  GENERAL   ------> 
+0020#STR0020#ALL#          CLIENTE                                            PRODUCTO                                                                        COMPONENTES
+0021#STR0021#ALL#NUMERO IT CODIGO SUCURSAL           RAZON SOCIAL             CODIGO          DESCRIPCION                 CANTIDAD PRECIO VENTA         TOTAL CODIGO          DESCRIPCION                  CANTIDAD      NECESIDAD  SITUACION
+0022#STR0022#ALL#N. PRESUPUESTO
+0023#STR0023#ALL#APROBADO
+0024#STR0024#ALL#Lista de Presupuestos de Venta
+0025#STR0025#ALL#Este informe imprimira la lista con los Presupuestos de Venta
+0026#STR0026#ALL#segun los parametros solicitados.                            
+0027#STR0027#ALL#Numero
+0028#STR0028#ALL#Cliente
+0029#STR0029#ALL#Producto
+0030#STR0030#ALL#Numero It
+0031#STR0031#ALL#Componente
+0032#STR0032#ALL#Descripcion del Componente
+0033#STR0033#ALL#Necesidad
+0034#STR0034#ALL#Total de Cliente 
+0035#STR0035#ALL#Total Gral 
+0036#STR0036#ALL#Total de Presup. 
+0037#STR0037#ALL#Total de Prod. 
+0038#STR0038#ALL#Cotizaciones venta 
+0039#STR0039#ALL#Cantidad
+0040#STR0040#ALL#BLOQUEADO

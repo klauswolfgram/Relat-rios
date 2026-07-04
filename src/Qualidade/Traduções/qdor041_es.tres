@@ -1,0 +1,17 @@
+0001#STR0001#ALL#LISTA MAESTRA COMPLETA DE DOCUMENTOS
+0002#STR0002#ALL#Este programa imprimira una lista de los documentos, sus    
+0003#STR0003#ALL#elaboradores, revisores, aprobadores y homologadores, 
+0004#STR0004#ALL#segun los parametros definidos por el usuario.     
+0005#STR0005#ALL#A Rayas
+0006#STR0006#ALL#Administrac. 
+0007#STR0007#ALL#Seleccionando registros..
+0008#STR0008#ALL#ANULADO POR EL OPERADOR
+0009#STR0009#ALL#Publicado
+0010#STR0010#ALL#DOCUMENTO         REV  TITULO                                                                                                
+0011#STR0011#ALL#ELABORADORES     REVISORES        APROBADORES      
+0012#STR0012#ALL#HOMOLOGADORES    VIGENCIA
+0013#STR0013#ALL#Elaboradores
+0014#STR0014#ALL#Revisores
+0015#STR0015#ALL#Aprobadores
+0016#STR0016#ALL#Homologadores
+0017#STR0017#ALL#Documento

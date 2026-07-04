@@ -1,0 +1,39 @@
+0001#STR0001#ALL#Viabilidad
+0002#STR0002#ALL#Generando visualizacion, espere...
+0003#STR0003#ALL#Consideraciones sobre la Viabilidad
+0004#STR0004#ALL#Nuestro equipo de planificacion de la calidad del producto considero las siguientes cuestiones, que no pretenden ser totalmente incluidas en la ejecucion de una evaluacion
+0005#STR0005#ALL#de viabilidad. Los diseños o especificaciones suministradas fueron usadas como base para analizar la capacidad de atender a todos los requisitos especificados.
+0006#STR0006#ALL#Todas las respuestas "no" son soportadas por comentarios adjuntos, identificando nuestras preocupaciones o modificaciones propuestas para habilitarnos a atender los requisitos especificados.
+0007#STR0007#ALL#SI
+0008#STR0008#ALL#CONSIDERACION
+0009#STR0009#ALL#¿El producto esta adecuadamente definido (requisito de aplicacion, etc.) para habilitar la evaluacion de la viabilidad?
+0010#STR0010#ALL#¿Se pueden atender las especificaciones de desempeño de ingenieria, tal cual fueron descriptas?
+0011#STR0011#ALL#¿El producto puede ser manufacturado de acuerdo con las tolerancias especificadas en el diseño?
+0012#STR0012#ALL#¿El producto puede ser manufacturado con Cpk que atienden a las especificaciones?
+0013#STR0013#ALL#¿Existe capacidad adecuada para la fabricacion del producto?
+0014#STR0014#ALL#¿El proyecto permite el uso de tecnicas eficientes de manejo de material?
+0015#STR0015#ALL#El producto puede ser manufacturado sin causar situaciones inesperadas:
+0016#STR0016#ALL#- ¿Costos de equipos de transformacion?
+0017#STR0017#ALL#- ¿Costos de herramientas?
+0018#STR0018#ALL#- ¿Metodos de manufactura alternativos?
+0019#STR0019#ALL#¿Es necesario control estadistico del proceso para el producto?
+0020#STR0020#ALL#¿El control estadistico del proceso esta siendo actualmente utilizado en productos similares?
+0021#STR0021#ALL#Donde es utilizado control estadistico del proceso en productos similares:
+0022#STR0022#ALL#- ¿Los procesos estan bajo control y estables?
+0023#STR0023#ALL#- ¿El proceso es capaz de cumplir los requisitos del cliente?
+0024#STR0024#ALL#Conclusion
+0025#STR0025#ALL#Viable
+0026#STR0026#ALL#El producto puede ser producido segun especificaciones, sin revisiones.
+0027#STR0027#ALL#Se recomiendan modificaciones (ver anexo).
+0028#STR0028#ALL#No viable
+0029#STR0029#ALL#Revision de proyecto requerida para la manufactura del producto dentro de los requisitos especificados.
+0030#STR0030#ALL#Aprobacion
+0031#STR0031#ALL#Miembro del Equipo/Cargo/Fecha
+0032#STR0032#ALL#Explicaciones/Comentarios
+0033#STR0033#ALL#COMPROMISO DEL EQUIPO CON LA VIABILIDAD
+0034#STR0034#ALL#Fecha :
+0035#STR0035#ALL#Cliente :
+0036#STR0036#ALL#Nombre de la pieza:
+0037#STR0037#ALL#Num. de la pieza:
+0038#STR0038#ALL#Rev. de la pieza:
+0039#STR0039#ALL#NO

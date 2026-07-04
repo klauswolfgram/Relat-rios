@@ -1,0 +1,17 @@
+0001#STR0001#ALL#Relatório De Admitidos E Demitidos.
+0002#STR0002#ALL#Sera impresso de acordo com os parâmetro s solicitados pelo
+0003#STR0003#ALL#Utilizador.
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#Relatório De Admitidos E Demitidos
+0007#STR0007#ALL#    1 = Nr. Contribuinte              2 = Nr. Contribuinte       3 = Tot.folhas     4 = Na Folha     5 = Referência              MTSS - Ministério Do Trabalho E Da Segurança Social
+0008#STR0008#ALL# 6 = CP      7 = Actividade Económica (CNAE)      8 = 1ª Declaração      9 = Encerramento                 E Da S.S. 
+0009#STR0009#ALL#10 = mudou morada     11 = mudou actividade     12 = corrige anterior     13 = total do dia           sistemo registo  lei 4923/65
+0010#STR0010#ALL#            14 = Admissões No Mês - 1o Emprego + Reemprego + Ent.transf. + Reinteg. =  Total              Carimbo Padronizado  DSRC
+0011#STR0011#ALL#15 = Saídas
+0012#STR0012#ALL#S.justa Causa + C.justa Causa + A Pedido + Apos. + Morte + Sai.transf. + Term.contr. = Total
+0013#STR0013#ALL#                                            16 = total empregados no último dia        
+0015#STR0015#ALL#    1 = Nr. Contribuinte              2 = Nr. Contribuinte       3 = Tot.folhas     4 = Na Folha     5 = Referência              MTSS - Ministério Do Trabalho E Da Segurança Social
+0016#STR0016#ALL#                                                                                                          E Da Previdencia Social
+0017#STR0017#ALL#Sistema registo  lei 4923/65
+0018#STR0018#ALL#Carimbo Padronizado  DSRC

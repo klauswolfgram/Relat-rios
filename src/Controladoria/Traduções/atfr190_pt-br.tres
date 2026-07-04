@@ -1,0 +1,16 @@
+0001#STR0001#ALL#Este programa ira emitir a relacao de Lancamentos por
+0002#STR0002#ALL#Centro de Custo.
+0003#STR0003#ALL#Lancamentos por Centro de Custo
+0004#STR0004#ALL#C.Custo    Cta Contab                        Valor Atual      Deprec Acumul      Deprec no Mes   Corr Depr Acumul  Corr Monet Acumul
+0005#STR0005#ALL#CANCELADO PELO OPERADOR
+0006#STR0006#ALL#Tot C.Custo: 
+0007#STR0007#ALL#TOTAL GERAL       : 
+0008#STR0008#ALL#Valor em 
+0009#STR0009#ALL#Simbolo da Moeda
+0010#STR0010#ALL#Espaco
+0011#STR0011#ALL#Código
+0012#STR0012#ALL#Empresa
+0013#STR0013#ALL#Unidade de negócio
+0014#STR0014#ALL#Filial
+0015#STR0015#ALL#Filiais selecionadas para o relatorio
+0016#STR0016#ALL#Favor Aguardar...

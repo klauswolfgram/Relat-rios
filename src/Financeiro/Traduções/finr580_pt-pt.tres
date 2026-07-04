@@ -1,0 +1,26 @@
+0001#STR0001#ALL#Indique Fecho De Caixa
+0002#STR0002#ALL#Código
+0003#STR0003#ALL#Código de barras
+0004#STR0004#ALL#Administração
+0005#STR0005#ALL#Situação: Abertos
+0006#STR0006#ALL#Situação: Fechados
+0007#STR0007#ALL#Situação: Todos
+0008#STR0008#ALL#Descrição         data de    valor reposição     valor liquidado   val.devolvido  nº comprov.    tot.despesas   valor total de
+0009#STR0009#ALL#                  Digitação                                                         Liquidados                    Adiantamentos
+0010#STR0010#ALL#Cancelado Pelo Operador
+0011#STR0011#ALL#Reposição 
+0012#STR0012#ALL#Utilizador  : 
+0013#STR0013#ALL#(aberto - saldo: 
+0014#STR0014#ALL#(fechado)
+0015#STR0015#ALL#Reposição/fecho
+0019#STR0019#ALL#Descrição
+0020#STR0020#ALL#Da data
+0022#STR0022#ALL#Valor Reposição
+0023#STR0023#ALL#Valor Liquidado
+0024#STR0024#ALL#Vlr.devolvido
+0025#STR0025#ALL#Nr.comprov.
+0026#STR0026#ALL#Liquidados
+0027#STR0027#ALL#Tot.despesas
+0028#STR0028#ALL#Valor total de
+0030#STR0030#ALL#Dados De Caixa
+0031#STR0031#ALL#Valores De Caixa

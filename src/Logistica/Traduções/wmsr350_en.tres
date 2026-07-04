@@ -1,0 +1,9 @@
+0001#STR0001#ALL#ORDER WITHOUT SERVICE CODE  
+0002#STR0002#ALL#Z. form
+0003#STR0003#ALL#Management   
+0004#STR0004#ALL# REQUEST PRODUCT         QTY. ORDER   QTY. RELEASED  QTY. INVOICED  LOT         ADDRESS          SERVICE   ADDRESS 
+0005#STR0005#ALL#                                                                                                           TARGET  
+0006#STR0006#ALL#Selecting records...     
+0007#STR0007#ALL#CANCELLED BY OPERATOR  
+0008#STR0008#ALL#Report of orders without service code
+0009#STR0009#ALL#Sale order items         

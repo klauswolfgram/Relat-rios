@@ -1,0 +1,21 @@
+0001#STR0001#ALL#Diagrama de Flujo
+0002#STR0002#ALL#Generando visualizacion, espere...
+0003#STR0003#ALL#DIAGRAMA DE FLUJO DEL PROCESO
+0004#STR0004#ALL#Pagina :
+0005#STR0005#ALL#Proveedor
+0006#STR0006#ALL#Numero de la Pieza (Cliente)
+0007#STR0007#ALL#Revision/Fecha Dibujo
+0008#STR0008#ALL#Aprobado Por / Fecha
+0009#STR0009#ALL#Numero/Rev Pieza(Proveedor)
+0010#STR0010#ALL#Nombre de la Pieza
+0011#STR0011#ALL#Flujo
+0012#STR0012#ALL#Num.
+0013#STR0013#ALL#Descrip. de Operacion
+0014#STR0014#ALL#PPAP Num.
+0015#STR0015#ALL#Operacion
+0016#STR0016#ALL#Operacion c/ Inspecccion
+0017#STR0017#ALL#Inspeccion
+0018#STR0018#ALL#Stock
+0019#STR0019#ALL#Transporte
+0020#STR0020#ALL#Decision
+0021#STR0021#ALL#Observacion

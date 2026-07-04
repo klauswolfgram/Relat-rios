@@ -1,0 +1,13 @@
+0001#STR0001#ALL#Aguarde...
+0002#STR0002#ALL#A processar as informações...
+0004#STR0004#ALL#A filtrar os registos, aguarde...
+0005#STR0005#ALL#O parâmetro MV_DIRACA não foi configurado. Este parâmetro indica o diretório em que devem estar as imagens utilizadas no Mapa de Risco.
+0006#STR0006#ALL#O parâmetro MV_DIREST não foi configurado. Este parâmetro indica o diretório na estação em que os ficheiros utilizados no Mapa de Risco serão copiados.
+0010#STR0010#ALL#Mapa de riscos
+0013#STR0013#ALL#Mapeamento de riscos:
+0015#STR0015#ALL#De trabalho.
+0031#STR0031#ALL#controle rígido de productividade, imposição de rítmos excessivos, trabalho em turno e noturno,
+0034#STR0034#ALL#Arranjo físico inadequado, máquinas e equipamentos sem proteção, ferramentas inadequadas
+0035#STR0035#ALL#ou defeituosas, iluminação inadequada, electricidade, riscos de ou explosão, armazenamento
+0077#STR0077#ALL#Ecrã
+0079#STR0079#ALL#Define se a impressão será na ecrã ou impressora.

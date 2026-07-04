@@ -1,0 +1,46 @@
+0001#STR0001#ALL#Clientes sin movimiento
+0002#STR0002#ALL#Este programa imprimira el informe de clientes
+0003#STR0003#ALL#sin movimiento.
+0004#STR0004#ALL#A rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#Complemento
+0007#STR0007#ALL#                                           -Tipo -            --------Tipo de Calculo ------ ------------------------Peso---------------- -Flete-- --Ctd.--- --Flete---   ---Peso--- ----Valor----- -Valor-- -Porc.-
+0008#STR0008#ALL#-Sec- ----Nomb Cliente---- -Codigo/Tien -- -Flete- Ini.Viaje   --Facturacion-- --Prom. Mes--- -----Real----- ----Cubicado-- ---Cobrado---- -Promedio--Docs--- Prom/Doct-   Prom/Doc-  --Mercaderia-- Merc/Kg- Inciden -Serv-
+0009#STR0009#ALL#Periodo :
+0010#STR0010#ALL#A  
+0011#STR0011#ALL#Sucursal :
+0012#STR0012#ALL#Total General
+0013#STR0013#ALL#Subtotal
+0014#STR0014#ALL#Clientes sin movimiento
+0015#STR0015#ALL#Este programa imprimira el informe de clientes sin movimiento.
+0016#STR0016#ALL#Sucursal
+0017#STR0017#ALL#Ciudad
+0018#STR0018#ALL#Estado
+0019#STR0019#ALL#Cliente
+0020#STR0020#ALL#Sec
+0021#STR0021#ALL#Nombre Cliente
+0022#STR0022#ALL#Cliente/ Tda
+0023#STR0023#ALL#Facturacion
+0024#STR0024#ALL#Media Mes
+0025#STR0025#ALL#Peso Real
+0026#STR0026#ALL#Peso Cubado
+0027#STR0027#ALL#Peso Cobrado
+0028#STR0028#ALL#Flete Medio
+0029#STR0029#ALL#Ctd Docs
+0030#STR0030#ALL#Flete Med/Doc
+0031#STR0031#ALL#Peso Med/Doc
+0032#STR0032#ALL#Valor Mercaderia
+0033#STR0033#ALL#Valor Merc/Kg
+0034#STR0034#ALL#Porc.Inciden.
+0035#STR0035#ALL#Total
+0036#STR0036#ALL#Subtotal
+0037#STR0037#ALL#Ctd Clientes:
+0038#STR0038#ALL#Ini Viaje.
+0039#STR0039#ALL#Negociacion
+0040#STR0040#ALL#Origen
+0041#STR0041#ALL#Destino
+0042#STR0042#ALL#De tipo de transporte
+0043#STR0043#ALL#A tipo de transporte
+0044#STR0044#ALL#Tip.Fle
+0045#STR0045#ALL#Serv
+0046#STR0046#ALL#Neg

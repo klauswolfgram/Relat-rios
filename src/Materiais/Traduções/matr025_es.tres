@@ -1,0 +1,27 @@
+0001#STR0001#ALL#Lista de las sugerencias de presupuestos
+0002#STR0002#ALL#Este informe imprimira la lista de las sugerencias
+0003#STR0003#ALL#de venta de acuerdo con los parametros solicitados.  
+0004#STR0004#ALL#A Rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#PRODUCTO                                        GENERAR           COMPONENTE
+0007#STR0007#ALL#CODIGO          DESCRIPCION                     PV  OP  OP.IT RES IT CODIGO          DESCRIPCION                            CANTIDAD
+0008#STR0008#ALL#ANULADO POR EL OPERADOR
+0009#STR0009#ALL#SI
+0010#STR0010#ALL#No
+0011#STR0011#ALL#Lista con las Sugerencias de Presupuestos
+0012#STR0012#ALL#Este informe imprimira la lista con las sugerencias
+0013#STR0013#ALL#de Venta segun los parametros solicitados.         
+0014#STR0014#ALL#Descripcion
+0015#STR0015#ALL#Generar PV
+0016#STR0016#ALL#Generar OP
+0017#STR0017#ALL#Generar OP.IT
+0018#STR0018#ALL#Emp
+0019#STR0019#ALL#Sugerencias de Presup.
+0020#STR0020#ALL#CODIGO
+0021#STR0021#ALL#DESCRIPCION
+0022#STR0022#ALL#PV
+0023#STR0023#ALL#OP
+0024#STR0024#ALL#OP.IT
+0025#STR0025#ALL#EMP
+0026#STR0026#ALL#IT
+0027#STR0027#ALL#CANTIDAD

@@ -1,0 +1,18 @@
+0001#STR0001#ALL#Este programa irá emitir o relatório de referencia 
+0002#STR0002#ALL#Cruzada entre instrumentos utilizados e instrumentos.
+0003#STR0003#ALL#Ref.cruzada: Instrumento Utilizado X Instrumento
+0004#STR0004#ALL#Inst.utilizado   Sequência  Faixa                    Ponto                    Família Inst.util.          Instrumento           Rev.         Família                  Departamento                Responsável
+0005#STR0005#ALL#Código de barras
+0006#STR0006#ALL#Administração
+0007#STR0007#ALL#Cancelado Pelo Operador
+0008#STR0008#ALL#A seleccionar registos. . .
+0009#STR0009#ALL#Informe o instrumento inicial do intervalo de selecção
+0011#STR0011#ALL#Introduza a data inicial do período de selecção dos instrumentos
+0012#STR0012#ALL#Introduza a data final do período de selecção dos instrumentos
+0013#STR0013#ALL#Introduza o departamento inicial do intervalo de selecção ou deixe em branco para todos.
+0014#STR0014#ALL#Introduza o departamento final do intervalo de selecção ou preencha todo o campo com a letra 'z' para todos.
+0015#STR0015#ALL#Seleccione o orgao calibrador desejado: somente as calibrações realizadas internamente, externamente, ou ambos
+0020#STR0020#ALL#Informe a familia inicial de intervalo de selecção ou deixe em branco para todos
+0022#STR0022#ALL#Informe o utilizador inicial de intervalo de selecção ou deixe em branco para todos
+0024#STR0024#ALL#Informe o fabricante inicial de intervalo de selecção ou deixe em branco para todos
+0027#STR0027#ALL#Família Instr.util.

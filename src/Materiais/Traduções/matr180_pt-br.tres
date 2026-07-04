@@ -1,0 +1,34 @@
+0001#STR0001#ALL#Este relatório irá imprimir a relaçäo de itens
+0002#STR0002#ALL#referentes as devoluçóes de compras.
+0003#STR0003#ALL#Relacao das Devolucoes de Compras
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#NOTA         PRODUTO         DESCRICAO                   QUANTIDADE UM    PR.UNITARIO IPI             VALOR  ICM   CODIGO RAZAO SOCIAL                       TP TE  TIPO GRUPO DT.DIGITACAO         CUSTO   NF ORIG    SER
+0007#STR0007#ALL#CANCELADO PELO OPERADOR
+0008#STR0008#ALL#TOTAL GERAL       --> 
+0009#STR0009#ALL#ABORTADO PELO OPERADOR
+0010#STR0010#ALL#NOTAS
+0011#STR0011#ALL#TOTAL NOTA FISCAL --> 
+0012#STR0012#ALL#Duplicatas da Nota Fiscal de Entrada
+0013#STR0013#ALL#Duplicatas da Nota Fiscal de Entrada
+0014#STR0014#ALL#Prf Numero       Parc.  Venc.             Saldo
+0015#STR0015#ALL#Nao houve titulos gerados na entrada
+0016#STR0016#ALL#NOTA         PRODUTO         DESCRICAO                   QUANTIDADE UM    PR.UNITARIO IPI             VALOR  ICM   CODIGO               RAZAO SOCIAL         TP TE  TIPO  GRUPO DT.DIGITACAO         CUSTO   NF ORIG    SER
+0017#STR0017#ALL#Codigo
+0018#STR0018#ALL#Dt.Digitacao
+0019#STR0019#ALL#Devolução de Compras
+0020#STR0020#ALL#Contas a Pagar
+0021#STR0021#ALL#Nota
+0022#STR0022#ALL#UM
+0023#STR0023#ALL#IPI
+0024#STR0024#ALL#ICM
+0025#STR0025#ALL#TP
+0026#STR0026#ALL#TE
+0027#STR0027#ALL#Tipo
+0028#STR0028#ALL#Grupo
+0029#STR0029#ALL#NF Orig
+0030#STR0030#ALL#Ser
+0031#STR0031#ALL#NOTA                 PRODUTO         DESCRICAO                   QUANTIDADE UM    PR.UNITARIO IPI             VALOR  ICM   CODIGO RAZAO SOCIAL       TP TE  TIPO GRUPO DT.DIGITACAO         CUSTO   NF ORIG            SER
+0032#STR0032#ALL#NOTA                 PRODUTO         DESCRICAO                   QUANTIDADE UM    PR.UNITARIO IPI             VALOR  ICM   CODIGO               RAZ. TP TE  TIPO  GRUPO DT.DIGITACAO         CUSTO   NF ORIG            SER
+0033#STR0033#ALL#Prf Numero               Parc.  Venc.             Saldo
+0034#STR0034#ALL#Pr.Unit.

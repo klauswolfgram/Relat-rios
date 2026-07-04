@@ -1,0 +1,37 @@
+0001#STR0001#ALL#Imprime informação das ordens de pagamento
+0002#STR0002#ALL#Emitidas, sinteticamente.
+0003#STR0003#ALL#Código de barras
+0004#STR0004#ALL#Administração
+0006#STR0006#ALL#                                                                           títulos               próprios              terceiros            pag ad y n.c.               
+0007#STR0007#ALL#Código-Sc Razon Social Proveedor                                         Valor Total          Tot. Pagtos           Tot. Pagtos          Descuentos de      Retenciones            Num.Proveedor
+0008#STR0008#ALL#              ordem de pagamento                         data emissão          títulos               próprios              terceiros            pag ad y n.c.               
+0009#STR0009#ALL#Indique De Pagamentos
+0010#STR0010#ALL# Por Ordenes De Pagamento
+0011#STR0011#ALL# Por Fornecedor Sintético
+0012#STR0012#ALL# Por Fornecedor Analítico
+0013#STR0013#ALL#Filtrando registos...
+0014#STR0014#ALL#Cancelado Pelo Operador
+0015#STR0015#ALL#Ordens fornecedor  -> 
+0016#STR0016#ALL#Totais fornecedor ------>
+0017#STR0017#ALL#Ordens emitidas  -> 
+0018#STR0018#ALL#Total bruto       ----> 
+0021#STR0021#ALL#Total rentenções ----> 
+0022#STR0022#ALL#Total compensado  ----> 
+0023#STR0023#ALL#Total pago      ----> 
+0024#STR0024#ALL#¨imprimir por      ?
+0025#STR0025#ALL#Ordem De Pagamento
+0026#STR0026#ALL#Razão Social
+0027#STR0027#ALL#¨de ordem de pagamento  ?
+0028#STR0028#ALL#¨a  ordem de pagamento  ?
+0029#STR0029#ALL#¨de fecho emissão  ?
+0030#STR0030#ALL#¨a  fecho emissão  ?
+0031#STR0031#ALL#Moeda?
+0032#STR0032#ALL#Não Autorizada
+0034#STR0034#ALL# Títulos
+0036#STR0036#ALL#   Próprios
+0038#STR0038#ALL#  Terceiros
+0040#STR0040#ALL#Pag Até N.c.
+0041#STR0041#ALL#Retenções
+0042#STR0042#ALL#Nr. Fornecedor
+0044#STR0044#ALL#Ordem De Pagamento
+0046#STR0046#ALL#Total despesas    ----> 

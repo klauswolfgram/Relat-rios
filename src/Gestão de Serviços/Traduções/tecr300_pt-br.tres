@@ -1,0 +1,16 @@
+0001#STR0001#ALL#Impressao do Chamado Tecnico
+0002#STR0002#ALL#     Este programa ira emitir os chamados tecnicos conforme os
+0003#STR0003#ALL#parametros solicitados.
+0004#STR0004#ALL#
+0005#STR0005#ALL#Zebrado
+0006#STR0006#ALL#Administracao
+0007#STR0007#ALL#CANCELADO PELO OPERADOR
+0008#STR0008#ALL#|                                CHAMADO TECNICO                                             | Nr.Chamado: ######## | Folha: ######|
+0009#STR0009#ALL#|Cliente  : ######/## - ########################################                                                                   |
+0010#STR0010#ALL#|Emissao  : ##########                                                                                Contato: ####################|
+0011#STR0011#ALL#|Atendente: ####################                                                                                     Hora: ########|
+0012#STR0012#ALL#|It|   Tipo   |    Produto    |      Id.Unico      |                Problema               |    Contrato   | Garantia |Orcamento/OS|
+0013#STR0013#ALL#|  |                                    Ocorrencia:################################################################################|
+0014#STR0014#ALL#Comentário
+0015#STR0015#ALL#Cabeçalho do chamado
+0016#STR0016#ALL#Itens do chamado

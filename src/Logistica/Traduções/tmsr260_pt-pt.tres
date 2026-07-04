@@ -1,0 +1,19 @@
+0001#STR0001#ALL#Relação de condutor s (telerisco)
+0002#STR0002#ALL#Emite relação de condutor s (telerisco),
+0003#STR0003#ALL#Cofacturaorme os parâmetros escolhidos
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#A Seleccionar Registos...
+0007#STR0007#ALL#A Seleccionar Registos Dup...
+0008#STR0008#ALL#A Seleccionar Registos Dtq...
+0009#STR0009#ALL#Condutor                                   R.g.              C.p.f.                Uf  Cod   Fil                      Vl Mercadoria/
+0010#STR0010#ALL#                                                                                  Des  Seg  Dest   Manisfesto         Acompanhamento
+0011#STR0011#ALL#Filial viagem : 
+0013#STR0013#ALL#Total origem 
+0014#STR0014#ALL#Cancelado Pelo Operador
+0015#STR0015#ALL#Relação de condutor s (telerisco)
+0016#STR0016#ALL#Emite relação de condutores (telerisco), de acordo com os parâmetros indicados
+0018#STR0018#ALL#Fil.viagem
+0021#STR0021#ALL#Uf Dest.
+0022#STR0022#ALL#Cód.seg.
+0023#STR0023#ALL#Total Do Condutor

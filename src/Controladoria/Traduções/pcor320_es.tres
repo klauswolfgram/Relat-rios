@@ -1,0 +1,42 @@
+0001#STR0001#ALL#Informe de Saldos por Periodo
+0002#STR0002#ALL#Codigo
+0003#STR0003#ALL#Descripc.
+0004#STR0004#ALL#Movimientos
+0005#STR0005#ALL#Saldo Inicial: 
+0006#STR0006#ALL#Mov.Credito (C):
+0007#STR0007#ALL#Mov.Debito (D)
+0008#STR0008#ALL#Res.Mov.(C - D):
+0009#STR0009#ALL#Impresion anulada por el operador...
+0010#STR0010#ALL#Este informe imprimira el Estado de Saldos por Periodo de acuerdo con los parametros solicitados por el usuario. Para mas informaciones sobre este informe consulte el Help del Programa ( F1 ).
+0011#STR0011#ALL#Atenc. 
+0012#STR0012#ALL#Usuario sin acceso al informe. Verifique las configurac.
+0013#STR0013#ALL#Semanal
+0014#STR0014#ALL#Quinc.
+0015#STR0015#ALL#Mens.
+0016#STR0016#ALL#Bimestral
+0017#STR0017#ALL#Semestral
+0018#STR0018#ALL#Anual
+0019#STR0019#ALL#Diario
+0020#STR0020#ALL#Trimestral
+0021#STR0021#ALL#Codigo Cubo de Gest.
+0022#STR0022#ALL#De Periodo
+0023#STR0023#ALL#Que Moneda
+0024#STR0024#ALL#Moned.1
+0025#STR0025#ALL#Moned.2
+0026#STR0026#ALL#Moned.3
+0027#STR0027#ALL#Moned.4
+0028#STR0028#ALL#Moned.5
+0029#STR0029#ALL#Tipo Periodo
+0030#STR0030#ALL#Acumulado 
+0031#STR0031#ALL#Si
+0032#STR0032#ALL#No
+0033#STR0033#ALL#Configuracion Cubo
+0034#STR0034#ALL#Editar Configurac. Cubo
+0035#STR0035#ALL#Cons.Puesto a Cero
+0036#STR0036#ALL#Inf. Resumido
+0037#STR0037#ALL#Parametros...
+0038#STR0038#ALL#A Periodo
+0039#STR0039#ALL#Consulta limitada a, como máximo, 100 períodos. Verifique la periodicidad.
+0040#STR0040#RUS#Âíèìàíèå
+0041#STR0041#RUS#Îê
+0042#STR0042#RUS#Îáîðîòû

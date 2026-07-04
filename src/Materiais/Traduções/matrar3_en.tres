@@ -1,0 +1,38 @@
+0001#STR0001#ARG#Issue of Traveler Book
+0002#STR0002#ARG#Issue of Traveler Book in accordance with law 14546, ART.10 - Argentina 
+0003#STR0003#ARG#interval indicated in the option Parameters.
+0004#STR0004#ARG#Company Name
+0005#STR0005#ARG#Address
+0006#STR0006#ARG#N. of company CGC
+0007#STR0007#ARG#Salesman
+0008#STR0008#ARG#N. of salesman CGC
+0009#STR0009#ARG#Legacy
+0010#STR0010#ARG#Admission Date
+0011#STR0011#ARG#Agreement
+0012#STR0012#ARG#Zone
+0013#STR0013#ARG#Goods
+0014#STR0014#ARG#Salary Guaranteed
+0015#STR0015#ARG#Sales Commission
+0016#STR0016#ARG#Collection Commission
+0017#STR0017#ARG#Daily
+0018#STR0018#ARG#Others
+0019#STR0019#ARG#Issue of Items
+0020#STR0020#ARG#Customer N. 
+0021#STR0021#ARG#N. Order  
+0022#STR0022#ARG#Order Date
+0023#STR0023#ARG#Order Total
+0024#STR0024#ARG#N. Invoice
+0025#STR0025#ARG#Invoice Date
+0026#STR0026#ARG#Invoice Total
+0027#STR0027#ARG#Sales Commission
+0028#STR0028#ARG#Collection Commission
+0029#STR0029#ARG#Order filter 
+0030#STR0030#ARG#Traveler Company
+0031#STR0031#ARG#Company and its Stamp
+0032#STR0032#ARG#Category
+0033#STR0033#ARG#Core Business
+0034#STR0034#ARG#Secondary Business
+0035#STR0035#ARG#Covers period  From
+0036#STR0036#ARG#To
+0037#STR0037#ARG#El informe de Libro Viajantes (MATRAR3) fue convertido a Rdmake.
+0038#STR0038#ARG#Para utilizar este informe debe solicitar el fuente para su compilación como User Function.

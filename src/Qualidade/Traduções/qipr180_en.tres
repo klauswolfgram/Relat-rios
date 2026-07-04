@@ -1,0 +1,20 @@
+0001#STR0001#ALL#Follow-Up - Production Orders
+0002#STR0002#ALL#This program will print the Production Orders Report.
+0003#STR0003#ALL#CANCELLED BY OPERATOR
+0004#STR0004#ALL#Z-Form
+0005#STR0005#ALL#Administration
+0006#STR0006#ALL#Zero Defect
+0007#STR0007#ALL#ASSAY                                                TOT.MED.LETTER APPROVED   REPPROVED SAMPLE PLAN         
+0008#STR0008#ALL#Inspect
+0009#STR0009#ALL#Certify
+0010#STR0010#ALL#Total ---->
+0011#STR0011#ALL#NUMBER         P R O D U C T                                                MEAS. UN.   EMISSION     DELIVERY    DELIVERY      QUANTITY            BALANCE TO   ST TP  INTINER. INSP/CERTIF  REPOT
+0012#STR0012#ALL#                                                                                                    FORESSEN        REAL         ORIGINAL         DELIVER 
+0013#STR0013#ALL#Operation Report: 
+0014#STR0014#ALL#Laboratory Report: 
+0015#STR0015#ALL#Total of Measurements: 
+0016#STR0016#ALL#Sample Plan 
+0017#STR0017#ALL#Text
+0018#STR0018#ALL#No Report
+0019#STR0019#ALL#Balance to deliver
+0020#STR0020#ALL#Proced.

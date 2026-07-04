@@ -1,0 +1,28 @@
+0001#STR0001#BRA#Resumo de Movimentos de Produtos Incentivados / Nao Incentivados - PRODEPE
+0002#STR0002#BRA#Este relatorio ira imprimir os movimentos de entrada e saida de
+0003#STR0003#BRA#produtos incentivados ou nao pelo PRODEPE.
+0004#STR0004#BRA#Zebrado
+0005#STR0005#BRA#Administracao
+0006#STR0006#BRA#Selecionando Registros...
+0007#STR0007#BRA#|     EMISSAO     |    NUMERO    |    SERIE    |     CFOP     |         CODIGO         |                    DESCRICAO                     |      VALOR CONTABIL      |     BASE DE CALCULO      |        VALOR ICMS        |
+0008#STR0008#BRA#|                                                      *** NAO HOUVE MOVIMENTO ***                                                        |                          |                          |                          |
+0009#STR0009#BRA#|                                                              TOTALIZACAO                                                                |     ################     |     ################     |     ################     |
+0010#STR0010#BRA#|                                                                                    MOVIMENTOS DE SAIDA COM PRODUTOS NAO INCENTIVADOS                                                                                     |
+0011#STR0011#BRA#|                                                                                      MOVIMENTOS DE SAIDA COM PRODUTOS INCENTIVADOS                                                                                       |
+0012#STR0012#BRA#|                                                                                   MOVIMENTOS DE ENTRADA COM PRODUTOS NAO INCENTIVADOS                                                                                    |
+0013#STR0013#BRA#|                                                                                     MOVIMENTOS DE ENTRADA COM PRODUTOS INCENTIVADOS                                                                                      |
+0014#STR0014#BRA#|                                                                                              RESUMO POR PRODUTO INCENTIVADO                                                                                              |
+0015#STR0015#BRA#|                                                                                            RESUMO POR PRODUTO NAO INCENTIVADO                                                                                            |
+0016#STR0016#BRA#|                             PRODUTO                              |                          MOVIMENTOS DE ENTRADA                           |                            MOVIMENTOS DE SAIDA                             |
+0017#STR0017#BRA#|        CODIGO       |                 DESCRICAO                  |     VALOR CONTABIL     |    BASE DE CALCULO     |      VALOR DO ICMS     |     VALOR CONTABIL     |    BASE DE CALCULO     |      VALOR DO ICMS       |
+0018#STR0018#BRA#|                           TOTALIZACAO                            |    ################    |    ################    |    ################    |    ################    |    ################    |     ################     |
+0019#STR0019#BRA#|                                                                       RESUMO DE MOVIMENTOS DE PRODUTOS INCENTIVADOS / NAO INCENTIVADOS - PRODEPE                                                        PAGINA: ######   |
+0020#STR0020#BRA#|  EMPRESA:    ########################################                         C.N.P.J.:   ##################                                    I.E.:     #####################                                          |
+0021#STR0021#BRA#|  ENDERECO:   ######################################                           CIDADE:     #############################                         ESTADO:   ##                                                             |
+0022#STR0022#BRA#Parametro MV_SEF03 (campo na tabela SB5 que indica o incentivo) nao cadastrado.
+0023#STR0023#BRA#Verifique o cadastro para possibilitar a correta geracao do relatorio.
+0024#STR0024#BRA#Parametro MV_SEF03
+0025#STR0025#BRA#Campo da tabela SB5 que indica o incentivo inexistente.
+0026#STR0026#BRA#Verifique o conteudo do parametro MV_SEF03 para possibilitar a correta geracao do relatorio.
+0027#STR0027#BRA#Conteudo MV_SEF03
+0028#STR0028#BRA#|   DT.ENTRADA    |    NUMERO    |    SERIE    |     CFOP     |         CODIGO         |                    DESCRICAO                     |      VALOR CONTABIL      |     BASE DE CALCULO      |        VALOR ICMS        |

@@ -1,0 +1,28 @@
+0001#STR0001#ALL#Este relatório irá imprimir a relaçäo de itens 
+0002#STR0002#ALL#referentes as compras e devolucoes. 
+0003#STR0003#ALL#Relacao de compras (fornecedor) 
+0004#STR0004#ALL#Zebrado 
+0005#STR0005#ALL#Administracao 
+0006#STR0006#ALL#NOTA                 PRODUTO         DESCRICAO                   QUANTIDADE UM    PR.UNITARIO       IMPOSTOS            VALOR        CODIGO RAZAO SOCIAL                       TP TE  TIPO GRUPO DT.DIGITACAO         CUSTO    
+0007#STR0007#ALL#CANCELADO PELO OPERADOR 
+0008#STR0008#ALL#NOTA                 PRODUTO         DESCRICAO                   QUANTIDADE UM    PR.UNITARIO       IMPOSTOS            VALOR        CODIGO               RAZAO SOCIAL         TP TE  TIPO GRUPO DT.DIGITACAO         CUSTO    
+0009#STR0009#ALL#Total da fatura -> 
+0010#STR0010#ALL#Total de entradas-> 
+0011#STR0011#ALL#Total de saidas -> 
+0012#STR0012#ALL#DIFERENCA		 -> 
+0013#STR0013#ALL#<-E N T R A D A S-> 
+0014#STR0014#ALL#<-S A I D A S-> 
+0015#STR0015#ALL#Impostos
+0016#STR0016#ALL#Valor
+0017#STR0017#ALL#Codigo
+0018#STR0018#ALL#Tp
+0019#STR0019#ALL#TE
+0020#STR0020#ALL#Tp
+0021#STR0021#ALL#Itens do Documento de Entrada / Devolução
+0022#STR0022#ALL#NOTA         PRODUTO         DESCRICAO                   QUANTIDADE UM    PR.UNITARIO       IMPOSTOS            VALOR        CODIGO RAZAO SOCIAL                       TP TE  TIPO GRUPO DT.DIGITACAO         CUSTO    
+0023#STR0023#ALL#NOTA         PRODUTO         DESCRICAO                   QUANTIDADE UM    PR.UNITARIO       IMPOSTOS            VALOR        CODIGO               RAZAO SOCIAL         TP TE  TIPO GRUPO DT.DIGITACAO         CUSTO    
+0024#STR0024#ALL#UM
+0025#STR0025#ALL#Grp
+0026#STR0026#ALL#Data Dig.
+0027#STR0027#ALL#Doc
+0028#STR0028#ALL#Lista detallada de compras por proveedor

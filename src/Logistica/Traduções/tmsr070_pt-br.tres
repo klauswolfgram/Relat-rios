@@ -1,0 +1,56 @@
+0001#STR0001#ALL#Relacao do Cadastro de Solicitantes
+0002#STR0002#ALL#Emissao do Cadastro de Solicitantes
+0003#STR0003#ALL#Ira imprimir os dados do Cadastro de Solicitantes
+0004#STR0004#ALL#de acordo com a configuracao do usuario.
+0005#STR0005#ALL#Relacao do Cadastro de Solicitantes
+0006#STR0006#ALL#Zebrado
+0007#STR0007#ALL#Administracao
+0008#STR0008#ALL# DDD Telefone        Nome            Nome Fantas.    Endereco        Municipio       UF  Bairro          Cep             Referencia      CNPJ/CPF       Inscricao
+0009#STR0009#ALL# Contato             E-Mail          Dt. de Cad.     Produto         Desc. Prod.     Emb Tipo Transp.    Desc. Tipo      Tipo   Seg. Ter. Qua.  Qui. Sex. Sab.  Dom            Hr Ini. Hr Fim
+0010#STR0010#ALL#Criando Indice...
+0011#STR0011#ALL#*** CANCELADO PELO OPERADOR ***
+0012#STR0012#ALL# Contato             E-Mail          Dt. de Cad.     Tipo Transp.    Desc. Tipo      Tipo   Seg. Ter. Qua.  Qui. Sex. Sab.  Dom            Hr Ini. Hr Fim
+0013#STR0013#ALL#Por DDD + Telefone
+0014#STR0014#ALL#Por Nome
+0015#STR0015#ALL#SIM
+0016#STR0016#ALL#NÃO
+0017#STR0017#ALL#PRODUTOS: 
+0018#STR0018#ALL#EMBALAGENS: 
+0019#STR0019#ALL#Relacao do Cadastro de Solicitantes
+0020#STR0020#ALL#Emissao do Cadastro de Solicitantes
+0021#STR0021#ALL#Solicitante
+0022#STR0022#ALL#DDD
+0023#STR0023#ALL#Telefone
+0024#STR0024#ALL#Nome
+0025#STR0025#ALL#Nome Fantasia
+0026#STR0026#ALL#Endereco
+0027#STR0027#ALL#Municipio
+0028#STR0028#ALL#UF
+0029#STR0029#ALL#Bairro
+0030#STR0030#ALL#Cep
+0031#STR0031#ALL#Referencia
+0032#STR0032#ALL#CNPJ/CPF
+0033#STR0033#ALL#Inscricao
+0034#STR0034#ALL#Contato
+0035#STR0035#ALL#E-mail
+0036#STR0036#ALL#Dt.Cadastro
+0037#STR0037#ALL#Tp.Transp.
+0038#STR0038#ALL#Desc.Tp.Transp.
+0039#STR0039#ALL#Tipo
+0040#STR0040#ALL#Seg.
+0041#STR0041#ALL#Ter.
+0042#STR0042#ALL#Qua.
+0043#STR0043#ALL#Qui.
+0044#STR0044#ALL#Sex.
+0045#STR0045#ALL#Sab.
+0046#STR0046#ALL#Dom.
+0047#STR0047#ALL#Hr.Ini.
+0048#STR0048#ALL#Hr.Fim
+0049#STR0049#ALL#Produto
+0050#STR0050#ALL#Desc.Produto
+0051#STR0051#ALL#Embalagem
+0052#STR0052#ALL#Desc.Embalagem
+0053#STR0053#ALL#DDD + Telefone
+0054#STR0054#ALL#Cod. Solicit
+0055#STR0055#ALL#Por Codigo Solicitante
+0056#STR0056#ALL#Dados Protegidos - Acesso Restrito: Este usuário não possui permissão de acesso aos dados dessa rotina. Para mais informações contate o Administrador do sistema !!

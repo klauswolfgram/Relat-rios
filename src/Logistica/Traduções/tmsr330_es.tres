@@ -1,0 +1,35 @@
+0001#STR0001#ALL#Relacion de Posicion de Vehiculo
+0002#STR0002#ALL#Emite Relacion de la Posicion de Vehiculo
+0003#STR0003#ALL#conforme os parametros informados
+0004#STR0004#ALL#A Rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#                                                                             * LIBERACION * ** LLEGADA ** 
+0007#STR0007#ALL#VEHICULO  MATRIC. DESCRIPCION              CAPACIDAD  STATUS    SUC.ACTUAL FECHA    HORA  FECHA     HORA  CONDUCTOR                          SUC. ORIGEN VIAJE RUTA
+0008#STR0008#ALL#Seleccionando Registro en el DA3...
+0009#STR0009#ALL#TIPO DE VEHICULO: 
+0010#STR0010#ALL#FLOTA: 
+0011#STR0011#ALL#CANCELADO POR EL OPERADOR
+0012#STR0012#ALL#TOTAL DE VEHICULOS DE FLOTA ( 
+0013#STR0013#ALL# ) ===> 
+0014#STR0014#ALL#TOTAL DE VEHICULO DE TIPO ( 
+0015#STR0015#ALL#TOTAL GENERAL DE CANTIDAD DE VEHICULOS ===> 
+0016#STR0016#ALL#Lista de Posicion del Vehiculo
+0017#STR0017#ALL#Emite lista con la posicion del vehiculo, segun los parametros informados
+0018#STR0018#ALL#Vehiculos
+0019#STR0019#ALL#Tipo de Vehiculos
+0020#STR0020#ALL#Tipo de Flota
+0021#STR0021#ALL#Vehiculo
+0022#STR0022#ALL#Matricula
+0023#STR0023#ALL#Descripcion
+0024#STR0024#ALL#Capacidad
+0025#STR0025#ALL#Suc.Ori.
+0026#STR0026#ALL#Viaje
+0027#STR0027#ALL#Estatus
+0028#STR0028#ALL#Suc.Actu.
+0029#STR0029#ALL#Fech.Aprob.
+0030#STR0030#ALL#Hora Aprob.
+0031#STR0031#ALL#Fecha Prev.
+0032#STR0032#ALL#Hora Prev.
+0033#STR0033#ALL#Conductor
+0034#STR0034#ALL#Total Flota
+0035#STR0035#ALL#Total Tipo de Vehiculos

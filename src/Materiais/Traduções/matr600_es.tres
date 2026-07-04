@@ -1,0 +1,30 @@
+0001#STR0001#ALL#Pedidos Por Vendedor/Cliente
+0002#STR0002#ALL#Este informe mostrara el detalle de los Pedidos por
+0003#STR0003#ALL#orden de Vendedor/Cliente.
+0004#STR0004#ALL#A Rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#PED.VENTAS P/VENDEDOR/CLIENTE
+0007#STR0007#ALL#CODIGO RAZON SOCIAL             PLAZA                  PEDIDO            TOTAL
+0008#STR0008#ALL#Seleccionando Registros...
+0009#STR0009#ALL#ANULADO POR EL OPERADOR
+0010#STR0010#ALL#VENDEDOR : 
+0011#STR0011#ALL#TOTAL CLIENTE   ---> 
+0012#STR0012#ALL#TOTAL VENDEDOR  ---> 
+0013#STR0013#ALL#TOTAL GENERAL      : 
+0014#STR0014#ALL#CODIGO               RAZON SOCIAL         PLAZA           PEDIDO           TOTAL
+0015#STR0015#ALL#Pedidos por Vendedor/Cliente
+0016#STR0016#ALL#Este informe emitira la lista de pedidos por
+0017#STR0017#ALL#orden de Vendedor/Cliente.
+0018#STR0018#ALL#Seleccionando Registros...
+0019#STR0019#ALL#Total
+0020#STR0020#ALL#Vendedor: 
+0021#STR0021#ALL#Total Cliente ---> 
+0022#STR0022#ALL#Total Vendedor ---> 
+0023#STR0023#ALL#Ped.Ventas P/ Vendedor/Cliente en 
+0024#STR0024#ALL#Vendedores
+0025#STR0025#ALL#Clientes/Pedidos
+0026#STR0026#ALL#Encabez. del Pedido de Vendas
+0027#STR0027#ALL#Items del Pedido de Vendas
+0028#STR0028#ALL#Vendedor
+0029#STR0029#ALL#Cliente
+0030#STR0030#ALL#T.Gral.

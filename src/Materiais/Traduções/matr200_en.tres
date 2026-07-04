@@ -1,0 +1,20 @@
+0001#STR0001#ALL#List of Items to Purchase
+0002#STR0002#ALL#with differences
+0003#STR0003#ALL#List of Divergences of PR and Purchase Orders
+0004#STR0004#ALL#Z.Form 
+0005#STR0005#ALL#Management 
+0006#STR0006#ALL#DIVERGENCES BETWEEN PR AND PURCHASE ORDERS
+0007#STR0007#ALL# PR    ITEM ISSUE     CODE   ST SUPPLIER         PRODUCT         MU   QUANTITY   C.C.                ACCOUNT              NECESS.DT
+0008#STR0008#ALL#ORDER 
+0009#STR0009#ALL#DIVERGENCES
+0010#STR0010#ALL#CANCELLED BY THE OPERATOR
+0011#STR0011#ALL#No Purchase Requisition has been placed
+0012#STR0012#ALL# PR    ITEM ISSUE     CODE                 ST   SUPPLIER                                                        PRODUCT        MU    QUANTITY   C.C.                 ACCOUNT              NECESS.DT.
+0013#STR0013#ALL#Purchase requests     
+0014#STR0014#ALL#Purchase orders  
+0015#STR0015#ALL#SC Number
+0016#STR0016#ALL#Item SC
+0017#STR0017#ALL#PC Number
+0018#STR0018#ALL#PC Item 
+0019#STR0019#ALL#Store
+0020#STR0020#ALL#ONE

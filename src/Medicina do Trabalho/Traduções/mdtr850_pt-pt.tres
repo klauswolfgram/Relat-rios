@@ -1,0 +1,206 @@
+0001#STR0001#ALL#Relatório do laudo ambiental                                         
+0002#STR0002#ALL#Através dos parâmetro s selecionar os itens que devem ser considerados
+0003#STR0003#ALL#No relatório.                                                        
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0007#STR0007#ALL#              relatório tecnico           
+0008#STR0008#ALL#Razao social         :
+0009#STR0009#ALL#Morada             :
+0010#STR0010#ALL#Cod. atividade       :
+0012#STR0012#ALL#Grau de risco  :
+0013#STR0013#ALL#Num. Empregados :
+0014#STR0014#ALL#Data de avaliação:
+0016#STR0016#ALL#Locais Avaliados
+0017#STR0017#ALL#Riscos Encontrados
+0018#STR0018#ALL#Equipamentos Utilizados Na Avaliação
+0019#STR0019#ALL#Medidas De Controlo
+0020#STR0020#ALL#Epquipamentos De Proteção Individual Utilizados Por Risco
+0021#STR0021#ALL#Conclusão
+0022#STR0022#ALL#Médico Do Trabalho
+0023#STR0023#ALL#Enfermeiro Do Trabalho
+0024#STR0024#ALL#Auxiliar De Enfermagem
+0025#STR0025#ALL#Engenheiro De Seguranção Do Trabalho
+0026#STR0026#ALL#Tecnico De Seguranção Do Trabalho
+0027#STR0027#ALL#Médico
+0030#STR0030#ALL# Ssmt
+0043#STR0043#ALL#Seleccionar o modelo do relatório
+0044#STR0044#ALL#Modelo da listagem
+0045#STR0045#ALL#Programa de prevenção de riscos ambientais - ppra
+0046#STR0046#ALL#Nome da empresa :
+0047#STR0047#ALL#Morada :
+0048#STR0048#ALL#Cidade :
+0049#STR0049#ALL#Cnpj/cgc :
+0050#STR0050#ALL#Inscrição distrital : 
+0051#STR0051#ALL#Grau de risco :
+0052#STR0052#ALL#Cae : 
+0053#STR0053#ALL#Responsáveis técnicos
+0054#STR0054#ALL#Coordenador:
+0055#STR0055#ALL#Reg.sshst:
+0056#STR0056#ALL#Crm
+0057#STR0057#ALL#Telefone:
+0058#STR0058#ALL#Morada:
+0059#STR0059#ALL#Data:
+0060#STR0060#ALL#Seleccionar ficheiro 
+0061#STR0061#ALL#Alternar para o programa do ms-word para visualizar o documento ou clicar no botão para fechar.
+0062#STR0062#ALL#Cliente?
+0064#STR0064#ALL#Fonte Criadora De Risco:
+0065#STR0065#ALL#Centro De Custo:
+0066#STR0066#ALL#Todos
+0069#STR0069#ALL#Ambiente Físico Do Risco:
+0070#STR0070#ALL#Data de avaliação:
+0071#STR0071#ALL#Quantidade Do Agentes De Risco:
+0073#STR0073#ALL#Equipamentos:  nome                           fabricante            data de calibração  data de aferição
+0074#STR0074#ALL#Médicos do trabalho
+0075#STR0075#ALL#Médicos do trabalho: 
+0076#STR0076#ALL#Enfermeiros Do Trabalho
+0077#STR0077#ALL#Enfermeiros do trabalho: 
+0078#STR0078#ALL#Auxiliares De Enfermagem No Trabalho
+0079#STR0079#ALL#Auxiliares de enfermagem no trabalho: 
+0080#STR0080#ALL#Engenheiros de segurança no trabalho
+0081#STR0081#ALL#Engenheiros de segurança no trabalho: 
+0082#STR0082#ALL#Técnicos de segurança no trabalho
+0083#STR0083#ALL#Técnicos de segurança no trabalho: 
+0084#STR0084#ALL#Epis:  Nome                                      No. Certificado Aprovação  Data Avaliação  Periodicidade
+0085#STR0085#ALL# Dias
+0087#STR0087#ALL#Descrições Das Actividades De Risco:
+0089#STR0089#ALL#Núm. Risco
+0090#STR0090#ALL#Agente De Risco
+0091#STR0091#ALL#Fonte Criadora
+0092#STR0092#ALL#Centro De Custo
+0098#STR0098#ALL#Código Do Plano
+0099#STR0099#ALL#Centro De Custo
+0103#STR0103#ALL#Tipo De Protecção:              Tipo De Epi:                              área De Utilização:
+0116#STR0116#ALL#Acções / Mês
+0118#STR0118#ALL#O centro de custo deve pertencer ao cliente seleccionado.
+0119#STR0119#ALL#Freguesia : 
+0120#STR0120#ALL#Responsável: 
+0122#STR0122#ALL#Centro De Custo?
+0125#STR0125#ALL#Atenção
+0126#STR0126#ALL#Quadro De Funcionários: Masculino  Feminino  Menor Aprendiz
+0127#STR0127#ALL#Físico
+0128#STR0128#ALL#Químico
+0129#STR0129#ALL#Biológico
+0130#STR0130#ALL#Ergonómico
+0131#STR0131#ALL#Acidente
+0132#STR0132#ALL#Mecânico
+0133#STR0133#ALL#Ausência De Agente Nocivo
+0134#STR0134#ALL#Habitual/permanente
+0135#STR0135#ALL#Ocasional/intermitente
+0138#STR0138#ALL#Tipo De Exposição:
+0147#STR0147#ALL#área                      Ponto De Medição          Funções Expostas          Nível Ruído  Exp. Média   Limite Tol.  Exp.diária
+0148#STR0148#ALL#                                                                                 db(a)     por dia (h)    db (a)     permitida (h)
+0149#STR0149#ALL#Calor
+0153#STR0153#ALL#área                       Ibutg    Funções Expostas           Tipo De Actividade  Tempo Exposição  Lim.toler.ibutg(ºc)
+0154#STR0154#ALL#Frio
+0155#STR0155#ALL#Fonte Criadora             Quant. Temp.bulbo  Funções Expostas           Freq.diária  Tempo Exposição    Tempo Total
+0156#STR0156#ALL#                                   Seco ºc                                 Entrada                     Exposição Diaria
+0158#STR0158#ALL#área                      agente físico             funções expostas           intensidade/    tempo de
+0159#STR0159#ALL#                                                                               Concentração   Exposição
+0161#STR0161#ALL#Empregados X Função: Função                                   Qtde. Empregados
+0162#STR0162#ALL#Tipo De Protecção:              C.a. Ref.:    Tipo De Epi:                              Actividade Executada:
+0166#STR0166#ALL#Sim
+0167#STR0167#ALL#Planeado
+0169#STR0169#ALL#Humidade
+0171#STR0171#ALL#Funções Expostas Ao Agente Humidade
+0175#STR0175#ALL#Funcionários Expostos Ao Risco:
+0176#STR0176#ALL#Epis:
+0177#STR0177#ALL#Medida De Controlo Existente:
+0178#STR0178#ALL#Plano De Acção:
+0180#STR0180#ALL#Resp. sesmt:     
+0181#STR0181#ALL#Func. resp:      
+0182#STR0182#ALL#O quê?           
+0184#STR0184#ALL#Porquê?         
+0186#STR0186#ALL#Dt.implantação:  
+0188#STR0188#ALL#Fim previsto:    
+0190#STR0190#ALL#Fim real:        
+0191#STR0191#ALL#Custo previsto:  
+0192#STR0192#ALL#Custo real:      
+0193#STR0193#ALL#Qtdade. actual:   
+0194#STR0194#ALL#Qtdade. meta:    
+0195#STR0195#ALL#Qtdade. final:   
+0199#STR0199#ALL#Ergonómico
+0202#STR0202#ALL#Registo Do Nome
+0203#STR0203#ALL#Registo Do Nome
+0204#STR0204#ALL#Plano de acção:    
+0206#STR0206#ALL#O quê ?           
+0208#STR0208#ALL#Porquâ ?         
+0210#STR0210#ALL#Data início:      
+0213#STR0213#ALL#Data fim:         
+0215#STR0215#ALL#Actual: 
+0217#STR0217#ALL#Fim: 
+0219#STR0219#ALL#O quê ?
+0221#STR0221#ALL#Porquê ?
+0225#STR0225#ALL#  real: 
+0226#STR0226#ALL#Data Do Fim:
+0231#STR0231#ALL#CGC
+0235#STR0235#ALL#Nr.Contrib.
+0236#STR0236#ALL#Inscrição Distrital
+0237#STR0237#ALL#Morada
+0238#STR0238#ALL#Freguesia
+0248#STR0248#ALL#QUADRO DE EMPREGADOS
+0270#STR0270#ALL#Tipo Actividade
+0281#STR0281#ALL#Exp. diária				
+0286#STR0286#ALL#Actividade
+0291#STR0291#ALL#Objectivo do Cargo: 
+0292#STR0292#ALL#Tipo de Protecção
+0306#STR0306#ALL#Data Calibragem
+0307#STR0307#ALL#Data aferição		
+0308#STR0308#ALL#Programa de Gestão de Riscos
+0310#STR0310#ALL#Nº de Empregados
+0322#STR0322#ALL#Ficheiro Saída ?
+0323#STR0323#ALL#Impressão ?
+0327#STR0327#ALL#Informe se no total de empregados e na impressão da varíavel @FUNCOES@ e @FUNCOES E TAREFAS@ será considerado tudo ou apenas o que está exposto a risco.
+0333#STR0333#ALL#Objectivo da Tarefa:
+0349#STR0349#ALL#TOTAL DE COLABORADORES
+0350#STR0350#ALL#Quadro de colaboradores:  Centro de Custo                            Número de colaboradores
+0353#STR0353#ALL#Centro de custo
+0354#STR0354#ALL#Número de colaboradores
+0369#STR0369#ALL#Vias de transmissão:
+0378#STR0378#ALL#Meio de propagação:
+0381#STR0381#ALL#Substância activa:
+0382#STR0382#ALL#Nome producto:
+0383#STR0383#ALL#Quadro de agentes:
+0384#STR0384#ALL#Nome do producto
+0385#STR0385#ALL#Princípio activo
+0386#STR0386#ALL#Local de uso
+0387#STR0387#ALL#Consumo anual
+0388#STR0388#ALL#Stock
+0389#STR0389#ALL#Inventário de productos químicos
+0397#STR0397#ALL#Orgão emissor
+0398#STR0398#ALL#Data emissão
+0400#STR0400#ALL#Início da vigência
+0401#STR0401#ALL#Término da vigência
+0402#STR0402#ALL#Distrito
+0403#STR0403#ALL#Dias vencimento
+0405#STR0405#ALL#Controlos
+0406#STR0406#ALL#Plano de acções do requisito
+0408#STR0408#ALL#Requisitos legais
+0410#STR0410#ALL#Plano emergencial:
+0415#STR0415#ALL#Acções:
+0417#STR0417#ALL#Contactos externos:
+0419#STR0419#ALL#Telefone:
+0420#STR0420#ALL#EPI x ACTIVIDADES
+0424#STR0424#ALL#Medidas de controlo
+0428#STR0428#ALL#Capacitação
+0429#STR0429#ALL#Dosimetria ambiente físico
+0430#STR0430#ALL#Dosimetria colaborador
+0431#STR0431#ALL#Dosimetria centro de custo
+0432#STR0432#ALL#Dosimetria função
+0433#STR0433#ALL#Dosimetria actividade
+0435#STR0435#ALL#Tipo local
+0436#STR0436#ALL#Factor ocupação(T)
+0437#STR0437#ALL#Taxa de dose equivalente
+0438#STR0438#ALL#Unidade medida
+0448#STR0448#ALL#Tipo local:
+0449#STR0449#ALL#Factor ocupação (T):
+0450#STR0450#ALL#Taxa de dose equivalente:
+0451#STR0451#ALL#Unidade medida:
+0453#STR0453#ALL#Ficha de producto químico
+0456#STR0456#ALL#EPCs:         Controlo                       Nome
+0457#STR0457#ALL#EPCs
+0458#STR0458#ALL#Controlo
+0459#STR0459#ALL#Data compra
+0461#STR0461#ALL#Quadro de toques:    Número de toques             Tipo de toque                       Acção
+0475#STR0475#ALL#Número de toques
+0476#STR0476#ALL#Tipo de toque
+0477#STR0477#ALL#Acção

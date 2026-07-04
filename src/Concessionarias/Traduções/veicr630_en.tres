@@ -1,0 +1,39 @@
+0001#STR0001#ALL#CEV customer fleet    
+0002#STR0002#ALL#Customer                             Segment        City-State                    
+0003#STR0003#ALL#S U M M A R Y
+0004#STR0004#ALL# [Other ]  TOTAL
+0005#STR0005#ALL#Customer                   Amt.IMd Amt.IMd Amt.IMd Amt.IMd Amt.IMd Amt.IMd Amt.IMd Amt.IMd Amt.IMd Amt.IMd Amt.IMd
+0006#STR0006#ALL#Label/Model              Category       Operation        Manuf./Mod.  Update Qty Days
+0007#STR0007#ALL#Average Age:
+0008#STR0008#ALL#           Total...:
+0009#STR0009#ALL#G R A N D   T O T A L
+0010#STR0010#ALL#Customer
+0011#STR0011#ALL#Store
+0012#STR0012#ALL#Z-form
+0013#STR0013#ALL#Administration
+0014#STR0014#ALL#Customer Importance Level
+0015#STR0015#ALL#Customer Segment
+0016#STR0016#ALL#Operation region
+0017#STR0017#ALL#Filter Branch only
+0018#STR0018#ALL#Type of Report
+0019#STR0019#ALL#Summarized
+0020#STR0020#ALL#Summarized
+0021#STR0021#ALL#Detailed
+0022#STR0022#ALL#Select 1st column
+0023#STR0023#ALL#Select 2nd column
+0024#STR0024#ALL#Select 3rd column
+0025#STR0025#ALL#Select 4th column
+0026#STR0026#ALL#Select 5th column
+0027#STR0027#ALL#Select 6th column
+0028#STR0028#ALL#Select 7th column
+0029#STR0029#ALL#Select 8th column
+0030#STR0030#ALL#Select 9th column
+0031#STR0031#ALL#Vehicles or Equipment
+0032#STR0032#ALL#Vehicles
+0033#STR0033#ALL#Equipment
+0034#STR0034#ALL#Parts Sales Rep.
+0035#STR0035#ALL#Service Sales Rep.
+0036#STR0036#ALL#New Vehicle Sales Rep.
+0037#STR0037#ALL#New Vehicle Sales Rep.
+0038#STR0038#ALL#Tire Sales Rep.
+0039#STR0039#ALL#Other Sales Rep.

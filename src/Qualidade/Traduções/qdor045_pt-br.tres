@@ -1,0 +1,15 @@
+0001#STR0001#ALL#LISTA MESTRA RESUMIDA DE DOCUMENTOS
+0002#STR0002#ALL#LISTA MESTRA COMPLETA DE DOCUMENTOS
+0003#STR0003#ALL#LISTA MESTRA DE DOCUMENTOS POR DEPARTAMENTO
+0004#STR0004#ALL#Este programa ir  imprimir uma rela??o dos documentos, 
+0005#STR0005#ALL# elaboradores, revisores, aprovadores e/ou homologadores, 
+0006#STR0006#ALL# de acordo com os par?metros definidos.
+0007#STR0007#ALL#Cod. Doc
+0008#STR0008#ALL#Revisao
+0009#STR0009#ALL#Titulo
+0010#STR0010#ALL#Elaboradores
+0011#STR0011#ALL#Revisores
+0012#STR0012#ALL#Aprovadores
+0013#STR0013#ALL#Homologadores
+0014#STR0014#ALL#Dt. Vigencia
+0015#STR0015#ALL#Departamento: 

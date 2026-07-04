@@ -1,0 +1,64 @@
+0001#STR0001#ALL#Enero
+0002#STR0002#ALL#Febrero
+0003#STR0003#ALL#Marzo
+0004#STR0004#ALL#Abril
+0005#STR0005#ALL#Mayo
+0006#STR0006#ALL#Junio
+0007#STR0007#ALL#Julio
+0008#STR0008#ALL#Agosto
+0009#STR0009#ALL#Septiembre
+0010#STR0010#ALL#Octubre
+0011#STR0011#ALL#Noviembre
+0012#STR0012#ALL#Diciembre
+0013#STR0013#ALL#Alterne para el programa de Ms-Word para visualizar el documento o haga clic en el boton para cerrar.
+0014#STR0014#ALL#Ordenar Riesg. por:
+0015#STR0015#ALL#Nº Riesgo
+0016#STR0016#ALL#Ag. de Riesgo
+0017#STR0017#ALL#Fuente Generad
+0018#STR0018#ALL#Centro de Costo
+0019#STR0019#ALL#Func.
+0020#STR0020#ALL#Ordenar Equipos por:
+0021#STR0021#ALL#Codigo
+0022#STR0022#ALL#Nombre
+0023#STR0023#ALL#Orden. Plan de Accion por:
+0024#STR0024#ALL#Codigo del Plan
+0025#STR0025#ALL#Empl. Respons.
+0026#STR0026#ALL#¿Centro de Costo ?
+0027#STR0027#ALL#¿Ordenar Plan de Accion por: ?
+0028#STR0028#ALL#¿Ordenar Equipos por: ?
+0029#STR0029#ALL#¿Ordenar Riesgos por: ?
+0030#STR0030#ALL#¿Archivo Salida ?
+0031#STR0031#ALL#¿Impresion ?
+0032#STR0032#ALL#¿Laudo ?
+0033#STR0033#ALL#¿Cliente?
+0034#STR0034#ALL#Tienda:
+0035#STR0035#ALL#El archivo ltcat.dot no se encontró en el servidor.
+0036#STR0036#ALL#Verificar el parametro 'MV_DIRACA'.
+0037#STR0037#ALL#ATENCION
+0038#STR0038#ALL# de 
+0039#STR0039#ALL#Eng. Seguridad del Trabajo
+0040#STR0040#ALL#Medidas de Control
+0041#STR0041#ALL#Descripcion
+0042#STR0042#ALL#Entorno fisico del riesgo
+0043#STR0043#ALL#Entorno
+0044#STR0044#ALL#Compl. Exposicion
+0045#STR0045#ALL#Fuente Generadora de Riesgo
+0046#STR0046#ALL#Fuente Generadora
+0047#STR0047#ALL#Empleados no expuestos a riesgos:
+0048#STR0048#ALL#Matrícula  Nombre
+0049#STR0049#ALL#Físico
+0050#STR0050#ALL#Químico
+0051#STR0051#ALL#Biológico
+0052#STR0052#ALL#Ergonómico
+0053#STR0053#ALL#Accidente
+0054#STR0054#ALL#Mecánico
+0055#STR0055#ALL#Peligrosos
+0056#STR0056#ALL#NA
+0057#STR0057#ALL#Habitual/Permanente
+0058#STR0058#ALL#Ocasional/Intermitente
+0059#STR0059#ALL#Ausencia de agente nocivo
+0060#STR0060#ALL#Eventual
+0061#STR0061#ALL#Habitual/Intermitente
+0062#STR0062#ALL#Todos
+0063#STR0063#ALL#Todas
+0064#STR0064#ALL#Psicosocial

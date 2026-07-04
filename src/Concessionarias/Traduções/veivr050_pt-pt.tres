@@ -1,0 +1,56 @@
+0002#STR0002#ALL#De veiculos realizadas no período selecionado.     
+0003#STR0003#ALL#Poderáo ser consideradas as devolucoes.
+0004#STR0004#ALL#Vendas De Veiculos No Período
+0005#STR0005#ALL# [No.Fact/Ser]   [Situação][Dt Vda] [Tp Factur.] [Tipo de Venda------------------][Tipo Operação][Cliente----------------------]  [Munic.-------------------Dis][Vendedor-------------] [Tran.Ent]
+0006#STR0006#ALL# [c.in] [marca------] [fab/mod] [chassi do veiculo------] [código  modelo---------------] [descrição modelo------------] [complemento modelo] [cor do veiculo------------------------] [tran.sai]
+0007#STR0007#ALL#Código de barras
+0008#STR0008#ALL#Administração
+0011#STR0011#ALL# (vendas,
+0012#STR0012#ALL# (simulação,
+0013#STR0013#ALL# (transferencia,
+0014#STR0014#ALL# (remessa,
+0015#STR0015#ALL# (devolução,
+0020#STR0020#ALL#*** cancelado pelo operador ***
+0025#STR0025#ALL#Veículo Usado
+0026#STR0026#ALL#Fact.directa
+0028#STR0028#ALL#Simulação
+0029#STR0029#ALL#Transferência
+0031#STR0031#ALL#Devolução
+0032#STR0032#ALL#Vl.Venda:
+0033#STR0033#ALL#Vl.Pis:
+0034#STR0034#ALL#Vl.Cofins:
+0036#STR0036#ALL#Alíq.ICMS:
+0037#STR0037#ALL#Comissão Intermed.:
+0040#STR0040#ALL#Número
+0044#STR0044#ALL#Data inicial      ?
+0045#STR0045#ALL#Data final        ?
+0046#STR0046#ALL#Cons. operação    ?
+0047#STR0047#ALL#Cons.   situação  ?
+0050#STR0050#ALL#[-resumo De Notas--]
+0051#STR0051#ALL#[-total Da Venda--]
+0052#STR0052#ALL#[----total Pis----]
+0053#STR0053#ALL#[--total Cofins---]
+0054#STR0054#ALL#[---total Icms----]
+0055#STR0055#ALL#[total Com. Inter.]
+0056#STR0056#ALL#[---lucro Bruto---]
+0059#STR0059#ALL#[-resumo Operações-]
+0061#STR0061#ALL#Simulação......
+0064#STR0064#ALL#Devolução......
+0066#STR0066#ALL#Simulação(c)...
+0069#STR0069#ALL#Devolução(c)...
+0070#STR0070#ALL#Total de veículos novos......:
+0071#STR0071#ALL#Total de veículos usados....:
+0072#STR0072#ALL#Total crial de veículos........:
+0075#STR0075#ALL#Veículos Vendidos por Período
+0076#STR0076#ALL#Secção 1
+0078#STR0078#ALL#[N.NF/Ser---] [Situac] [Dt Vda] [Tp Faturam.] [Tipo de Venda-----------] [Tipo Operação] [Cliente----------------------] [Cidade------------------UF] [Vendedor---------]
+0079#STR0079#ALL#[C.In] [Marca------] [Fab/Mod] [Chassi do Veículo----] [Código Modelo----------] [Descrição Modelo-------] [Complemento Modelo] [Cor do Veículo] [Tran.Ent] [Tran.Sai]
+0081#STR0081#ALL#Qtd. de Veículos
+0082#STR0082#ALL#Tel.
+0083#STR0083#ALL#End.
+0084#STR0084#ALL#CP
+0087#STR0087#ALL#Data inicial
+0088#STR0088#ALL#Data final
+0092#STR0092#ALL#Somente novos
+0093#STR0093#ALL#Somente usados
+0095#STR0095#ALL#Modalidade venda

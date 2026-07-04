@@ -1,0 +1,33 @@
+0001#STR0001#ALL#Aver.Cost x Cost in Parts
+0002#STR0002#ALL#This program will print a comparison between         
+0003#STR0003#ALL#Average Cost vs. Cost in Parts.
+0004#STR0004#ALL#Z-Form
+0005#STR0005#ALL#Administration
+0006#STR0006#ALL#COST
+0007#STR0007#ALL#IN PARTS
+0008#STR0008#ALL#CANCELLED BY OPERATOR
+0009#STR0009#ALL#CANCELLED
+0010#STR0010#ALL#Attention
+0011#STR0011#ALL#Update the program patch
+0012#STR0012#ALL#* GROUP : 
+0013#STR0013#ALL#Products
+0014#STR0014#ALL# (Group)
+0015#STR0015#ALL#Cost in parts not correctly configured. Please, check whether the cost in parts fields exists or not.
+0016#STR0016#ALL#ATTENTION: Values printed in the report are based on estimated calculation through
+0017#STR0017#ALL#average cost recalculation routine. We recommend the customer
+0018#STR0018#ALL#to run the routine at least once in order to print
+0019#STR0019#ALL#movement.
+0020#STR0020#ALL#No rules defined to use cost in parts. Please, check whether the entry-point MA330CP is compiled in the environment.
+0021#STR0021#ALL#PRODUCT
+0022#STR0022#ALL#MU
+0023#STR0023#ALL#TYPE
+0024#STR0024#ALL#IN PART
+0025#STR0025#ALL#COST
+0026#STR0026#ALL#TOTAL
+0027#STR0027#ALL#C.IN PARTS
+0028#STR0028#ALL#AVERAGE
+0029#STR0029#ALL#COST IN
+0030#STR0030#ALL#WRH
+0031#STR0031#ALL#QTY
+0032#STR0032#ALL# ,in 
+0033#STR0033#ALL#GRAND TOTAL:

@@ -1,0 +1,28 @@
+0001#STR0001#ALL#Este programa imprimira el informe de composicion de los asientos agrupados.
+0002#STR0002#ALL#Se puede elegir si desea imprimir todos los asientos o solamente los agrupados.
+0003#STR0003#ALL#No es aconsejable la emision de este informe cuando el historial forma parte de la clave de agrupacion.
+0004#STR0004#ALL#Composicion de los asientos agrupados el 
+0005#STR0005#ALL#A rayas
+0006#STR0006#ALL#Administracion
+0007#STR0007#ALL#|LINEA|DC |CUENTA DEBITO         |CUENTA CREDITO         |C.COSTO DEBITO         |C.COSTO CREDITO      |ITEM DEBITO          |ITEM CREDITO         |CL.VALOR DEBITO      |CL.VALOR CREDITO     |       VALOR ASIENTO       |
+0008#STR0008#ALL#|LP   |LP SEC                    |HISTORIAL                                      |          VALOR      |                                                                                                                   |
+0009#STR0009#ALL#***** ANULADO POR EL OPERADOR *****
+0010#STR0010#ALL#Asiento contable no agrupado.
+0011#STR0011#ALL# CREDITO
+0012#STR0012#ALL#FECHA: 
+0013#STR0013#ALL#LOTE: 
+0014#STR0014#ALL#DOCUMENTO: 
+0015#STR0015#ALL#SUBLOTE: 
+0016#STR0016#ALL#Seleccionando Registros...
+0017#STR0017#ALL#TOTAL DEL DOCUMENTO :
+0018#STR0018#ALL#TOTAL DEL LOTE :
+0019#STR0019#ALL#INFORMADO :
+0020#STR0020#ALL#DIGITADO :
+0021#STR0021#ALL#DIFERENCIA :
+0022#STR0022#ALL#TOTAL DEL SUBLOTE :
+0023#STR0023#ALL#DOC    LI TP CUENTA DEBITO        CUENTA CREDITO        HP  HISTORIAL                                      VALOR DEB      VALOR CRED
+0024#STR0024#ALL# DEBITO
+0025#STR0025#ALL# CREDITO
+0026#STR0026#ALL#DOC: 
+0027#STR0027#ALL#TOTAL DEL DOCUMENTO :
+0028#STR0028#ALL#CORRELATIVO: 

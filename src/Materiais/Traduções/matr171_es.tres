@@ -1,0 +1,40 @@
+0001#STR0001#ALL#Este programa emitirá el Boletín de entrada.
+0002#STR0002#ALL#Boletín de entrada
+0003#STR0003#ALL#A rayas
+0004#STR0004#ALL#Administración
+0005#STR0005#ALL#ANULADO POR EL OPERADOR
+0006#STR0006#ALL#------------------ PRODUCTO(s) ENVIADO(s) AL CONTROL DE CALIDAD ----------------
+0007#STR0007#ALL#Producto        Dep. Origen Depós Destino Fch. Transferencia
+0008#STR0008#ALL#------------------------ DIVERGENCIAS CON EL PEDIDO DE COMPRA ---------------------------
+0009#STR0009#ALL#No hay divergencias en el/los pedido(s) 
+0010#STR0010#ALL#Div Número    Descripción del producto          Cantidad  Precio Unit.   Entrega
+0011#STR0011#ALL#No hay divergencias en el/los pedido(s)
+0012#STR0012#ALL#Na hay pedidos
+0013#STR0013#ALL#Valor contable:
+0014#STR0014#ALL#Clasificacion fiscal:
+0015#STR0015#ALL#------------------------------------ VISTOS ------------------------------------
+0016#STR0016#ALL#-------------------------------FECHAS DEL REMITO -------------------------------
+0017#STR0017#ALL#Código Material UM Descripción de la mercadería  Cantidad          Cant. Seg. UM
+0018#STR0018#ALL#TES Cta Contable          Centro de costos  Costo unitario Grupo                
+0019#STR0019#ALL#BOLETÍN DE ENTRADA      Material recibido el: 
+0020#STR0020#ALL# - (Devolución)
+0021#STR0021#ALL#Proveedor                                 |Número del remito| Emisión  |  Vencto
+0022#STR0022#ALL#------------------------------ DATOS DEL CONDUCE -------------------------------
+0023#STR0023#ALL#-------------------------- DATOS DE LA GUÍA DE DESPACHO ------------------------
+0024#STR0024#ALL#----------------------------- DATOS DE LA REMISIÓN -----------------------------
+0025#STR0025#ALL#Proveedor                                 |Nº del conduce   | Emisión  |  Vencto
+0026#STR0026#ALL#Proveedor                                 |Nº de la Guía    | Emisión  |  Vencto
+0027#STR0027#ALL#Proveedor                                 |Nº de la Remis.  | Emisión  |  Vencto
+0028#STR0028#ALL#Proveedor                                 |Nº   
+0029#STR0029#ALL#| Emisión  |  Vencto
+0030#STR0030#ALL#-------------------------------- DATOS 
+0031#STR0031#ALL#Descripción de la mercadería
+0032#STR0032#ALL#Grupo
+0033#STR0033#ALL#Nº
+0034#STR0034#ALL#Vencto
+0035#STR0035#ALL#Encabez. de Remito de entrada
+0036#STR0036#ALL#Proveedor
+0037#STR0037#ALL#Ítems del Remito de Entr.
+0038#STR0038#ALL#TES vs. C. de costo
+0039#STR0039#ALL#Movim. de C. Cal.
+0040#STR0040#ALL#TES Cta Contable          Centro de costos                 Grupo                

@@ -1,0 +1,15 @@
+0001#STR0001#ALL#Este programa tem como objetivo imprimir relatorio 
+0002#STR0002#ALL#de acordo com os parametros informados pelo usuario.
+0003#STR0003#ALL#Planilha do 
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#Tamanho
+0007#STR0007#ALL#O total de colunas selecionadas excedeu ao tamanho maximo do relatorio.
+0008#STR0008#ALL#Cancelar
+0009#STR0009#ALL#Resumido
+0010#STR0010#ALL#Completo
+0011#STR0011#ALL#Relatorio Resumido
+0012#STR0012#ALL#O relatorio sera ajustado subtraindo-se alguns campos para que os registros sejam impressos obedecendo o tamanho da pagina.
+0013#STR0013#ALL#Ok
+0014#STR0014#ALL#Relatorio Completo
+0015#STR0015#ALL#O relatorio sera impresso contendo quebras de paginas para impressao de todos os dados dos registros.

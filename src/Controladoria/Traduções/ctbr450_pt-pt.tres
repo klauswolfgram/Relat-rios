@@ -1,0 +1,19 @@
+0001#STR0001#ALL#Este programa irá imprimir o Razão Contábil dos lançamentos
+0002#STR0002#ALL#Contab. aglutinados por contas de acordo com os parâmetros 
+0003#STR0003#ALL#Configurados pelo utilizador.
+0004#STR0004#ALL#Código de barras
+0006#STR0006#ALL#Emissão da razão aglut. por contas
+0007#STR0007#ALL#Razão em 
+0008#STR0008#ALL# de 
+0009#STR0009#ALL# até 
+0010#STR0010#ALL#Lote/sub/doc/linha     H I S T ó R I C O                                       Débito                Crédito            Saldo Actual
+0011#STR0011#ALL#***** cancelado pelo operador *****
+0012#STR0012#ALL#Conta - 
+0013#STR0013#ALL#A Seleccionar Registos...
+0014#STR0014#ALL#A Criar Ficheiro Temporário...
+0015#STR0015#ALL#Data
+0016#STR0016#ALL#T o t a i s  d a  c o n t a  ==> 
+0017#STR0017#ALL#A transportar :
+0018#STR0018#ALL#De transporte :
+0019#STR0019#ALL#T o t a l  g e r a l ==> 
+0020#STR0020#ALL#O plano de gestão não está disponível neste relatório.

@@ -1,0 +1,30 @@
+0004#STR0004#ALL#Código de barras
+0006#STR0006#ALL#A Seleccionar Registos...
+0007#STR0007#ALL#Cancelado Pelo Operador
+0009#STR0009#ALL#Não
+0010#STR0010#ALL#Aferido:
+0011#STR0011#ALL#Prox.af:
+0013#STR0013#ALL#Instr. inicial     ?
+0014#STR0014#ALL#Instr. final       ?
+0015#STR0015#ALL#Período inicial    ?
+0016#STR0016#ALL#Período final      ?
+0017#STR0017#ALL#Dept. inicial     ?
+0018#STR0018#ALL#Depto. final       ?
+0019#STR0019#ALL#àrgÆo Calibrador   ?
+0020#STR0020#ALL#Org.clb.int.inicial?
+0021#STR0021#ALL#Org.clb.int.final  ?
+0022#STR0022#ALL#Org.clb.ext.inicial?
+0023#STR0023#ALL#Org.clb.ext.final  ?
+0024#STR0024#ALL#Família inicial    ?
+0025#STR0025#ALL#Família final      ?
+0026#STR0026#ALL#Fabricante inicial ?
+0027#STR0027#ALL#Fabricante final   ?
+0028#STR0028#ALL#Estado de          ?
+0029#STR0029#ALL#Estado ate         ?
+0030#STR0030#ALL#Utilizador inicial    ?
+0031#STR0031#ALL#Utilizador final      ?
+0032#STR0032#ALL#Tipo de etiqueta   ?
+0033#STR0033#ALL#Formato das datas:
+0039#STR0039#ALL#Dia/mês/ano
+0040#STR0040#ALL#Semana/ano
+0041#STR0041#ALL#Não foram encontrados dados que correspondam aos critérios estipulados

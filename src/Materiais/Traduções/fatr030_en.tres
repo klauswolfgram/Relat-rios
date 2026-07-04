@@ -1,0 +1,33 @@
+0001#STR0001#ALL#List of contracts   
+0002#STR0002#ALL#The aim of this program is list the partnership                      
+0003#STR0003#ALL#contracts, as per the parameters defined by the user.   
+0004#STR0004#ALL#Number
+0005#STR0005#ALL#Customer/Unit
+0006#STR0006#ALL#Issue
+0007#STR0007#ALL#Administration
+0008#STR0008#ALL#CONTRACT                                                            STATUS          PRODUCTS CONTRACTS
+0009#STR0009#ALL#NUMBER ISSUE      CUSTOMER                                                          ITEM PRODUCT                                        UN QTY.CONTRACTED   BAL.CONTRAD       SALES PRICE               VALUE       DISCOUNT
+0010#STR0010#ALL#CANCELLED BY THE OPERATOR
+0011#STR0011#ALL#Total Contract no.: 
+0012#STR0012#ALL#Total Customer:  
+0013#STR0013#ALL#Total Issued: 
+0014#STR0014#ALL#Grand Total.: 
+0015#STR0015#ALL#List of contracts   
+0016#STR0016#ALL#The purpose of this program is to display the list of partnership    
+0017#STR0017#ALL#contracts, as per the parameters defined by the user.   
+0018#STR0018#ALL#Number
+0019#STR0019#ALL#Custom/Store
+0020#STR0020#ALL#Issue  
+0021#STR0021#ALL#Ctnrct.Blnce
+0022#STR0022#ALL#Contract total   
+0023#STR0023#ALL#Customer total  
+0024#STR0024#ALL#Day total   
+0025#STR0025#ALL#Contract header      
+0026#STR0026#ALL#Contract items   
+0027#STR0027#ALL#     Customer  Order    Issue Dt  Order qty.        Inv./Series  Issue Dt         Invoice quant. 
+0028#STR0028#ALL#Analytical-Contract details   
+0029#STR0029#ALL#Manually finished    
+0030#STR0030#ALL#Partially Delivered
+0031#STR0031#ALL#Outstanding Contract
+0032#STR0032#ALL#Delivered Contract
+0033#STR0033#ALL#Approved Contract

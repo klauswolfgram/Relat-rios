@@ -1,0 +1,21 @@
+0001#STR0001#ALL#Impresion de cheques
+0002#STR0002#ALL#Este programa imprime los cheques de los empl. con el valor
+0003#STR0003#ALL#neto por cobrar.  
+0004#STR0004#ALL#Impresion de cheque
+0005#STR0005#ALL#Confirma
+0006#STR0006#ALL#Reescr.
+0007#STR0007#ALL#Salir   
+0008#STR0008#ALL#Continua
+0009#STR0009#ALL#Impresion de cheques     
+0010#STR0010#ALL#Este programa imprime los cheques de los empl. con el valor
+0011#STR0011#ALL#neto por cobrar. 
+0012#STR0012#ALL#Emision de cheques en formulario continuo
+0013#STR0013#ALL#Impresion de cheques
+0014#STR0014#ALL#¿Confirma config. de los parametros?
+0015#STR0015#ALL#Atenc.
+0016#STR0016#ALL#A rayas
+0017#STR0017#ALL#Administrac.
+0018#STR0018#ALL#Para emitir títulos, pulse en Imprimir
+0019#STR0019#ALL#Para acceder a la rutina de mantenimiento de títulos, pulse en editar
+0020#STR0020#ALL#Pulse en Anular para salir.
+0021#STR0021#ALL#Error en la inclusión de cheques en la SM3

@@ -1,0 +1,21 @@
+0001#STR0001#ALL#Dispatch Note (Forwarding)
+0002#STR0002#ALL#Issue the Dispatch Note for Shipment, Warehouse
+0003#STR0003#ALL#through the Orders interval entered in Parameters option.
+0004#STR0004#ALL#Z.Form 
+0005#STR0005#ALL#Management 
+0006#STR0006#ALL#DISPATCH NOTE
+0007#STR0007#ALL#It Code            Desc. Material  UM Quantity    Unit Value     IPI ICM/ISS Goods´s Vl. Deliv.    Wrh Location     Inv./Seri.
+0008#STR0008#ALL#CANCELLED BY THE OPERATOR  
+0009#STR0009#ALL#ORDER: 
+0010#STR0010#ALL#ISSUE: 
+0011#STR0011#ALL#CUSTOMER: 
+0012#STR0012#ALL#CARRIER : 
+0013#STR0013#ALL#COPY 
+0014#STR0014#ALL# T O T A L S 
+0015#STR0015#ALL#ADDRESS: 
+0016#STR0016#ALL#Dispatch Packing List (Dispatch)
+0017#STR0017#ALL#Issue of Dispatch Packing List to Dispatch, Warehouse
+0018#STR0018#ALL#through the range of Orders entered in the option Parameters.
+0019#STR0019#ALL# T O T A L S 
+0020#STR0020#ALL#Header   
+0021#STR0021#ALL#Items

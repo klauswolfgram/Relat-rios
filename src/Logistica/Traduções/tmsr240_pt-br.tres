@@ -1,0 +1,15 @@
+0001#STR0001#ALL#CARGAS REPROCESSADAS POR FILIAL
+0002#STR0002#ALL#Emite relacao de cargas reprocessadas por filial,
+0003#STR0003#ALL#conforme os parametros informados
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#Selecionando Registros...
+0007#STR0007#ALL#Selecionando registros DTQ...
+0008#STR0008#ALL#FILIAL SIGLA     QTD.CTRCS          PESO REAL        PESO CUBADO          VOLUMES    VALOR MERCADORIA           VALOR FRETE
+0009#STR0009#ALL#Total Geral
+0010#STR0010#ALL#CANCELADO PELO OPERADOR
+0011#STR0011#ALL#Cargas Reprocessadas por Filial
+0012#STR0012#ALL#Emite relacao de cargas reprocessadas por filial, conforme os parametros informados
+0013#STR0013#ALL#Fil.Documento
+0014#STR0014#ALL#Sigla
+0015#STR0015#ALL#Qtde Docto

@@ -1,0 +1,22 @@
+0001#STR0001#ALL#Chamados x Interações
+0002#STR0002#ALL#Este programa irá emitir uma relação de chamados que não foram solucionados até o número máximo de interações com o cliente.
+0003#STR0003#ALL#Grupo
+0004#STR0004#ALL#Chamados
+0005#STR0005#ALL#Analise Sintética
+0006#STR0006#ALL#Equipe
+0007#STR0007#ALL#Analista
+0008#STR0008#ALL#Cliente
+0009#STR0009#ALL#Descrição
+0010#STR0010#ALL#Produto
+0011#STR0011#ALL#Analista
+0012#STR0012#ALL#Qtde de interações
+0013#STR0013#ALL#Total de chamados 
+0014#STR0014#ALL#Código
+0015#STR0015#ALL#Qtd total de chamados
+0016#STR0016#ALL#Qtd chamados com mais de X interações
+0017#STR0017#ALL#(%) de chamados com mais de X interações
+0018#STR0018#ALL#Qtde de chamados no período: 
+0019#STR0019#ALL#Qtde de chamados com mais de 
+0020#STR0020#ALL# interações: 
+0021#STR0021#ALL#Percentual de chamados com mais de 
+0022#STR0022#ALL#Resultados por equipes

@@ -1,0 +1,35 @@
+0001#STR0001#ALL#El objetivo de este programa es imprimir los movimientos de las inver-
+0002#STR0002#ALL#siones financieras, de acuerdo con los parametros solicitados.
+0003#STR0003#ALL#Detalle de cancelac. de inversiones financieras
+0004#STR0005#ALL#A Rayas
+0005#STR0006#ALL#Administracion
+0006#STR0007#ALL#ANULADO POR EL OPERADOR
+0007#STR0008#ALL#                 Datos de la inversion                                                                                      Movimiento  
+0008#STR0009#ALL#Numero    Institucion          Mod Fc.Informada     Valor Nominal Modalidad  Bco Age.  Cuenta     Tip Mot Historial                                      Vlr Retirado      Impuestos        Interes  Vlr Acredit.  Situacion
+0009#STR0010#ALL#Total General
+0010#STR0011#ALL#ANULA
+0011#STR0012#ALL#Numero
+0012#STR0013#ALL#Institucion
+0013#STR0014#ALL#Mod
+0014#STR0015#ALL#Fc.Digit
+0015#STR0016#ALL#Valor Nominal
+0016#STR0017#ALL#Modalid.
+0017#STR0018#ALL#Bco
+0018#STR0019#ALL#Age.
+0019#STR0020#ALL#Cta. 
+0020#STR0021#ALL#Tip
+0021#STR0022#ALL#Mot
+0022#STR0023#ALL#Historial
+0023#STR0024#ALL#Vlr Rescatado
+0024#STR0025#ALL#Impuest.
+0025#STR0026#ALL#Inte.
+0026#STR0027#ALL#Vl. Acredit. 
+0027#STR0028#ALL#Situac. 
+0028#STR0029#ALL#Registros
+0029#STR0030#ALL#Sucursal: 
+0030#STR0031#ALL#Codigo
+0031#STR0032#ALL#Empresa
+0032#STR0033#ALL#Unidad de negocio
+0033#STR0034#ALL#Sucursal
+0034#STR0035#ALL#Sucursales seleccionadas para el informe
+0035#STR0036#ALL#Total sucursal: 

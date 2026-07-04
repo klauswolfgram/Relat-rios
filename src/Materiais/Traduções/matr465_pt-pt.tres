@@ -1,0 +1,61 @@
+0001#STR0001#ALL#Este programa tem como objectivo imprimir o relatório de
+0002#STR0002#ALL#Notas de crédito de acordo com os parâmetros indicados
+0003#STR0003#ALL#Pelo utilizador.
+0004#STR0004#ALL#Relatório De Notas De Crédito
+0006#STR0006#ALL#Data de emissão 
+0008#STR0008#ALL#Data  Registo
+0010#STR0010#ALL#Factura       Emissão    Registo   Cliente Cliente                                   Não Incluído       Incluído       Factura
+0011#STR0011#ALL#Factura       Emissão    Registo   Fornec. Fornecedor                                Não Incluído       Incluído       Fact.
+0012#STR0012#ALL#Relação Dos Itens Das Facturas De Crédito
+0013#STR0013#ALL#Número        série  data        código  nome                                 esp       imposto          imposto         total de
+0014#STR0014#ALL#Fact.              Registo    Cliente Cliente                                     Não Incluído        Incluído         Fact.
+0015#STR0015#ALL#Fact.              Registo    Forn.   Fornecedor                                  Não Incluído        Incluído        Fact.
+0016#STR0016#ALL#Número        série    data          data          esp         imposto            imposto           total de
+0017#STR0017#ALL#Fact.                Emissão       Registo               Não Incluído          Incluído           Fact.
+0018#STR0018#ALL#N.fisc.              Emissão     Cliente Cliente                                     Não Incluído        Incluído         N.fisc.
+0019#STR0019#ALL#N.fisc.              Emissão     Forn.   Fornecedor                                    Não Incluído     Incluído          N.fisc.
+0020#STR0020#ALL#*** cancelado pelo operador ***
+0021#STR0021#ALL#CÓDIGO DO  MATERIAL            DESCRIÇÃO                      TE   IMP. NÃO INC.     IMP. INCL. LOCAL  QUANTIDADE    VALOR UNIT.    VALOR TOTAL
+0022#STR0022#ALL#Número: 
+0023#STR0023#ALL#Emissão: 
+0024#STR0024#ALL#Reg: 
+0025#STR0025#ALL#Espécie: 
+0026#STR0026#ALL#Cliente: 
+0027#STR0027#ALL#Fornec.: 
+0028#STR0028#ALL#Registo:  
+0029#STR0029#ALL#Cond.pagto: 
+0030#STR0030#ALL#Tot.imp. não inc.: 
+0031#STR0031#ALL#Tot.imp.incl.: 
+0032#STR0032#ALL#TOTAL FACT.: 
+0033#STR0033#ALL#D a t a  d e  e m i s s ã o ==> 
+0034#STR0034#ALL#C l i e n t e  ==> 
+0035#STR0035#ALL#F o r n e c e d o r ==> 
+0036#STR0036#ALL#D a t a  d e  r e g i s t o  ==> 
+0037#STR0037#ALL#Total geral ==> 
+0038#STR0038#ALL#A criar relatório, aguarde...
+0039#STR0039#ALL#Relatório De Notas De Crédito
+0040#STR0040#ALL#Factura
+0041#STR0041#ALL#Data De Emissão
+0043#STR0043#ALL#Data Do Registo
+0044#STR0044#ALL#Relatório De Notas De Crédito
+0045#STR0045#ALL#Série
+0046#STR0046#ALL#Emissão
+0047#STR0047#ALL#Dt.registo
+0050#STR0050#ALL#Imp.não Incluído
+0051#STR0051#ALL#Imp.incluído
+0052#STR0052#ALL#Total de Fact.
+0053#STR0053#ALL#Espécie
+0057#STR0057#ALL#Descrição
+0065#STR0065#ALL#Registo
+0066#STR0066#ALL#Cond.pag.
+0067#STR0067#ALL#Tot.imp.não Incl
+0068#STR0068#ALL#Tot.imp.incl
+0069#STR0069#ALL#Total Fact.
+0070#STR0070#ALL#Sintético-por Factura
+0071#STR0071#ALL#Sintético-por Emissão
+0072#STR0072#ALL#Sintético-por Cliente
+0073#STR0073#ALL#Sintético-por Data Do Registo
+0074#STR0074#ALL#Analítico-por Factura
+0076#STR0076#ALL#Rodapé Dos Itens
+0077#STR0077#ALL#Total Crial
+0079#STR0079#ALL#Listagem de Facturas de Crédito

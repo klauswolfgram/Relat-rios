@@ -1,0 +1,34 @@
+0001#STR0001#ALL#Contrato de Asociacion
+0002#STR0002#ALL#Impresion del contrato de Asociacion
+0003#STR0003#ALL#A rayas
+0004#STR0004#ALL#Administracion
+0005#STR0005#ALL#| #################################################### | CONTRATO DE ASOCIACION                              | ########## | ###### |
+0006#STR0006#ALL#| CP : ######### ##################################### | ######################################################################### |
+0007#STR0007#ALL#| TEL: ############### FAX: ###############            | ######################### CP : ########## #########: #################### |
+0008#STR0008#ALL#| #########: #################### #################### | TEL: ###############                                 FAX: ############### |
+0009#STR0009#ALL#|It|   Producto    |         Descripcion          |UM|   Cantidad   |    Valor Total   |               Observaciones               |
+0010#STR0010#ALL#| Lugar de Entrega : ############################################################################################## CP  :######### |
+0011#STR0011#ALL#| Lugar de Cobranza: ############################################################################################## CP  :######### |
+0012#STR0012#ALL#| Condicion de Pago: ### ################################### | Total de Mercaderias:                             ##################|
+0013#STR0013#ALL#|                                                            | Gastos               :                            ##################|
+0014#STR0014#ALL#|                                                            | Total General        :                            ##################|
+0015#STR0015#ALL#|     Comprador         |     Gerencia          |     Directorio        |                                                          |
+0016#STR0016#ALL#| Nota: Por favor informe el numero del contrato en la factura                                                                    |
+0017#STR0017#ALL#|                                                                                                                      CONTINUA....|
+0018#STR0018#ALL#ANULADO POR EL OPERADOR
+0019#STR0019#ALL#¿Contrato Inicial?
+0020#STR0020#ALL#¿Contrato Final ?
+0021#STR0021#ALL#|Item|    Producto   |           Descripcion        |UM|  Cantidad    |    Valor Total   | Observaciones       | Centro de Costos  |
+0022#STR0022#ALL#IE
+0023#STR0023#ALL#|Item| Producto                     | Descripcion    |UM|  Cantidad  |    Valor Total   | Observaciones        | Centro de Costos  |
+0024#STR0024#ALL#|Item| Producto                     | Descripcion     |UM|  Cantidad  |    Valor Total   |              Observaciones                |
+0025#STR0025#ALL#Datos del Contratante
+0026#STR0027#ALL#Datos del Contratado
+0027#STR0028#ALL#Items del Contrato
+0028#STR0029#ALL#Local de Entrega
+0029#STR0030#ALL#Local de Cobro
+0030#STR0031#ALL#Resumen del Contrato
+0031#STR0032#ALL#Total General
+0032#STR0033#ALL#Total de Mercaderias
+0033#STR0034#ALL#Gastos
+0034#STR0035#ALL#Observaciones Generales

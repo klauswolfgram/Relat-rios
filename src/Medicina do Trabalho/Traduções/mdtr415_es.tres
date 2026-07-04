@@ -1,0 +1,60 @@
+0001#STR0001#ALL#Informe de presentación de los empleados por tipo de enfermedad, 
+0002#STR0002#ALL#de acuerdo con l definición realizada por el médico mediante diagnóstico.
+0003#STR0003#ALL#Las enfermedades se clasifican por la tabla CIE.
+0004#STR0004#ALL#CIE vs. Empleados
+0005#STR0005#ALL#Masculino
+0006#STR0006#ALL#Femenino
+0007#STR0007#ALL#Resumen de informe
+0008#STR0008#ALL#Total de diagnosticos buscados: 
+0009#STR0009#ALL#Total
+0010#STR0010#ALL#C.I.E.
+0011#STR0011#ALL#Descripc.
+0012#STR0012#ALL#Matricula
+0013#STR0013#ALL#Nom.
+0014#STR0014#ALL#Sexo
+0015#STR0015#ALL#Admision
+0016#STR0016#ALL#Edad
+0017#STR0017#ALL#Fecha Diagn.
+0018#STR0018#ALL#C.Costo
+0019#STR0019#ALL#Func. 
+0020#STR0020#ALL#Espere
+0021#STR0021#ALL#Procesando diagnósticos...
+0022#STR0022#ALL#Filtrando registros, espere...
+0023#STR0023#ALL#Empleados
+0024#STR0024#ALL#Cliente: 
+0025#STR0025#ALL#Resumen Cliente
+0026#STR0026#ALL#Cliente
+0027#STR0027#ALL#A rayas
+0028#STR0028#ALL#Administrac.
+0029#STR0029#ALL#C.I.E.    Descripcion                                                                 Grupo C.I.E.
+0030#STR0030#ALL#Matrícula    Ficha médica     Nombre Empleado                     Sexo          Fecha ingreso   Edad
+0031#STR0031#ALL#ANULADO POR EL OPERADOR
+0032#STR0032#ALL#Cliente..:
+0033#STR0033#ALL#C.I.E.   Descripcion                                               Grupo C.I.E.
+0034#STR0034#ALL#Masculinos  Femineninos  Total
+0035#STR0035#ALL#¿De Cliente?
+0036#STR0036#ALL#Tienda
+0037#STR0037#ALL#¿A Cliente?
+0038#STR0038#ALL#Código del cliente. El campo puede permanecer vacío para considerar desde el primer código.
+0039#STR0039#ALL#Código de la tienda del cliente. El campo puede permanecer vacío para considerar desde el primer código.
+0040#STR0040#ALL#Codigo del cliente. El campo puede completarse con la letra Z hasta el final para considerar el último código.
+0041#STR0041#ALL#Código de la tienda del cliente. El campo puede completarse con la letra Z hasta el final para considerar el último código.
+0042#STR0042#ALL#Cliente/Tienda: 
+0043#STR0043#ALL#¿A Cliente ?
+0044#STR0044#ALL#¿A Ficha ?
+0045#STR0045#ALL#¿De Ficha ?
+0046#STR0046#ALL#¿A Fecha Diagnóst. ?
+0047#STR0047#ALL#¿De Fecha Diagnóst. ?
+0048#STR0048#ALL#¿A CIE ?
+0049#STR0049#ALL#¿De  CIE ?
+0050#STR0050#ALL#Grupo C.I.E.
+0051#STR0051#ALL#CIE Comp.
+0052#STR0052#ALL#Grupo CIE Comp.
+0053#STR0053#ALL#C.I.E.  Descripción                                  Grupo C.I.E. C.I.E. Comp.   Grupo C.I.E. Comp.
+0054#STR0054#ALL#¿Agrupar Por ?
+0055#STR0055#ALL#CIE
+0056#STR0056#ALL#CIE + CIE Complementario
+0057#STR0057#ALL#Informe la forma de agrupamiento del informe.
+0058#STR0058#ALL#Fecha Diagn.  Hora Diagn.    Edad   C. Costo               Función
+0059#STR0059#ALL#Hora Diagn.
+0060#STR0060#ALL#Ficha médica

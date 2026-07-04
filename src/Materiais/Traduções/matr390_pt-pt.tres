@@ -1,0 +1,13 @@
+0001#STR0001#ALL#Diferenças De Stock
+0002#STR0002#ALL#Este relatório tem o objectivo de alertar o utilizador para o problema
+0003#STR0003#ALL#Da inconsistência dos saldos. deve ser emitido sempre que surgirem
+0004#STR0004#ALL#Dúvidas quanto à integridade dos saldos em stock.              
+0005#STR0005#ALL#Código de barras
+0006#STR0006#ALL#Administração
+0007#STR0007#ALL#Registo(s)
+0008#STR0008#ALL#Código          Descrição                      Tp Grup Amz  Saldo Calculado          Saldo No         Diferença
+0009#STR0009#ALL#                                                              neste momento           ficheiro                  
+0010#STR0010#ALL#Não foi encontrado nenhum item com diferença no stock.
+0011#STR0011#ALL#  Descr. Almox.
+0013#STR0013#ALL#Diferença
+0014#STR0014#ALL#Artigos

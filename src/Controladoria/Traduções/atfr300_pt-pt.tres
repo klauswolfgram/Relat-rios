@@ -1,0 +1,15 @@
+0001#STR0001#ALL#Este Programa Emite O Relatório De Registo Das Apólices De Seguro.
+0002#STR0002#ALL#Utilizr a base de dados para mudar a ordem/campos na impressão.
+0003#STR0003#ALL#Apólice De Seguro
+0004#STR0004#ALL#Nº apólice: 
+0006#STR0006#ALL#Código de barras
+0007#STR0007#ALL#Administração
+0008#STR0008#ALL#Número Da Apólice + Cód. Cia. Seguro
+0009#STR0009#ALL#Cód. Cia. Seguro + Número Da Apólice
+0010#STR0010#ALL#Imprimir 
+0011#STR0011#ALL#Não há campos em uso para as apólices de seguro !
+0012#STR0012#ALL#Registo Snb
+0013#STR0013#ALL#*** cancelado pelo operador ***
+0014#STR0014#ALL#A criar...: 
+0018#STR0018#ALL#Excepto os campos apólice/cia.seguradora/vigência do cabeçalho.
+0019#STR0019#ALL#Dados De Registo

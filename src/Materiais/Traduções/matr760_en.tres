@@ -1,0 +1,13 @@
+0001#STR0001#ALL#Adjustment statement     
+0002#STR0002#ALL#Generate adjustment statement.       
+0003#STR0003#ALL#Z. form
+0004#STR0004#ALL#Management   
+0005#STR0005#ALL#INVO   SERIES ISSUE    PAY.TERM             CUSTOMER                      REV|      R E A D J U S T         |
+0006#STR0006#ALL#PRODUCT        DESCRIPTION                          QUANT     P.BASE.UNIT    |       UNIT.            TOTAL |
+0007#STR0007#ALL#ADJ. BY:  
+0008#STR0008#ALL#FORMULA
+0009#STR0009#ALL#PRICE LIST     
+0010#STR0010#ALL#Unit adjust. 
+0011#STR0011#ALL#Total adj.
+0012#STR0012#ALL#ADJUST TOTAL      -->
+0013#STR0013#ALL#Base Unit Amt.

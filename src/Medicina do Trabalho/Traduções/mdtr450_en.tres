@@ -1,0 +1,115 @@
+0001#STR0001#ALL#Report of scheduled exams by employee. Through the parameters the user 
+0002#STR0002#ALL#must enter the number of PCMSO so he can select: Exams, Period, Cost Center
+0003#STR0003#ALL#C.Center and other options available for a better performance.             
+0004#STR0004#ALL#Administration
+0005#STR0005#ALL#Exam Scheduling
+0006#STR0006#ALL#Form      Mat.    Employee Name     Exam Sit.            Sched Dt.   Department            Role                      Executed
+0007#STR0007#ALL#CANCELLED BY OPERATOR
+0008#STR0008#ALL#Z. form
+0009#STR0009#ALL#Form       Reg    Name Employee        Status        Exam   Sched Dt.   Cost Center     Role                      Executed
+0010#STR0010#ALL#Customer:
+0011#STR0011#ALL#Exam total by Cost Center/Role
+0012#STR0012#ALL#Cost Center
+0013#STR0013#ALL#Descript.
+0014#STR0014#ALL#Role
+0015#STR0015#ALL#Number of Exams
+0016#STR0016#ALL#Grand Total:
+0017#STR0017#ALL#Details of the codes listed above:
+0018#STR0018#ALL#Summary of Exam Scheduling - 
+0019#STR0019#ALL#Exams Performed....................: 
+0020#STR0020#ALL#Exams Not Performed - Pending.: 
+0021#STR0021#ALL#Exams Not Performed - Delayed.: 
+0022#STR0022#ALL#Total of Exams Scheduled..........: 
+0023#STR0023#ALL#PCMSO   Responsible Doctor                        Init.Dt.   End Dt.   Gener.Dt.   Descript.
+0024#STR0024#ALL#Form       Reg.     Employee Name                     Exam.                              Sch. Date   Cost Center          Performed
+0025#STR0025#ALL#File      Mat.    Employee Name                Examination       Prog.Dt.   Cost Center     Function                        Performed
+0026#STR0026#ALL#Summary of Exam Scheduling
+0027#STR0027#ALL#Customer/Store: 
+0028#STR0028#ALL#No information to print in report.
+0029#STR0029#ALL#Report of codes previously listed:
+0030#STR0030#ALL#PCMSO: 
+0031#STR0031#ALL#Branch
+0032#STR0032#ALL#Report Type?
+0033#STR0033#ALL#List Totalizer?
+0034#STR0034#ALL#List the Dismissed?
+0035#STR0035#ALL#Classify by?
+0036#STR0036#ALL#Print All?
+0037#STR0037#ALL#To Cost Center?
+0038#STR0038#ALL#From Cost Center?
+0039#STR0039#ALL#To Sched. Date ?
+0040#STR0040#ALL#From Sched. Date ?
+0041#STR0041#ALL#To Exam?
+0042#STR0042#ALL#From Exam?
+0043#STR0043#ALL#PCMSO Number?
+0044#STR0044#ALL#From PCMSO?
+0045#STR0045#ALL#From Customer?
+0046#STR0046#ALL#Unit
+0047#STR0047#ALL#To Customer?
+0048#STR0048#ALL#To PCMSO?
+0049#STR0049#ALL#Yes
+0050#STR0050#ALL#No
+0051#STR0051#ALL#Detailed
+0052#STR0052#ALL#Summarized
+0053#STR0053#ALL#From Branch?
+0054#STR0054#ALL#To Branch  ?
+0055#STR0055#ALL#Form, Test, Date
+0056#STR0056#ALL#Test, Date
+0057#STR0057#ALL#Name,Test,Date
+0058#STR0058#ALL#Cost C,Empl,Date
+0059#STR0059#ALL#Date,Form,Test
+0060#STR0060#ALL#Enter from which PCMSO it must be displayed in the report. Press [F3]+[Enter] to select an PCMSO.
+0061#STR0061#ALL#Enter until which PCMSO it must be displayed in the report. Press [F3]+[Enter] to select the desired PCMSO or type ZZZZZZ in this field and leave the one above in blank to consider all PCMSO.
+0062#STR0062#ALL#Enter from which Test it must be displayed in the report. Press [F3]+[Enter] to select an Test.
+0063#STR0063#ALL#Enter until which Test it must be displayed in the report. Press [F3]+[Enter] to select the desired Test or type ZZZZZZ in this field and leave the one above in blank to consider all Families.
+0064#STR0064#ALL#Enter from which Sched. Date must be displayed in the report. Press [F3]+[Enter] to select a Schd. Date.
+0065#STR0065#ALL#Enter until which Sched. Date must be displayed in the report. Press [F3]+[Enter] to select a Sched. Date or type ZZZZZZ in this field and leave the field above blank to consider all Models.
+0066#STR0066#ALL#Enter from which Cost Center it must be displayed in the report. Press [F3]+[Enter] to select a Cost Center.
+0067#STR0067#ALL#Enter until which Cost Center it must be displayed in the report. Press [F3]+[Enter] to select the desired Cost Center or type ZZZZZZ in this field and leave the one above in blank to consider all Assets.
+0068#STR0068#ALL#Indicate how the report must be printed. All; Not performed, Performed
+0069#STR0069#ALL#Inform how the report is classified. Form,Test,Date,Name,Test,Date;Name,Test,Date;Cost C.,Empl,Date;Date,Form,Test
+0070#STR0070#ALL#Inform if the report must list Dismissed employees. No;Yes
+0071#STR0071#ALL#Inform if the report must list Totalizer. Yes;No
+0072#STR0072#ALL#Inform type of report to be printed. Analytical;Synthetic
+0073#STR0073#ALL#Indicate from which Branch the report must be issued. Press [F3]+[Enter] to select a Branch.
+0074#STR0074#ALL#Choose until which branch the report must be issued. Press [F3]+[Enter] to select a Branch or type ZZZZZZ in this field and leave the field above blank to consider all PCMSO.
+0075#STR0075#ALL#All
+0076#STR0076#ALL#Not Performed
+0077#STR0077#ALL#Performed
+0078#STR0078#ALL#Examination Schedule
+0079#STR0079#ALL#Customer/Store
+0080#STR0080#ALL#PCMSO
+0081#STR0081#ALL#Doctor in charge
+0082#STR0082#ALL#Ini.Dt.
+0083#STR0083#ALL#Dt. End
+0084#STR0084#ALL#Generation Dt.
+0085#STR0085#ALL#Description
+0086#STR0086#ALL#Card
+0087#STR0087#ALL#Reg.
+0088#STR0088#ALL#Employee Name
+0089#STR0089#ALL#Examination
+0090#STR0090#ALL#Dt. Progr.
+0091#STR0091#ALL#Dep.C.C.
+0092#STR0092#ALL#Accomplished
+0093#STR0093#ALL#Total exams per Cost Center / Function
+0094#STR0094#ALL#Cost Center
+0095#STR0095#ALL#Quantity of Examinations
+0096#STR0096#ALL#Function
+0097#STR0097#ALL#Grand Total
+0098#STR0098#ALL#Grand Total:
+0099#STR0099#ALL#Consider by?
+0100#STR0100#ALL#Cost Center
+0101#STR0101#ALL#Department
+0102#STR0102#ALL#Inform if the report must show the cost center or the department of the employee
+0103#STR0103#ALL#Form      Registr.     Employee Name                  Exam                              Sched.Dt.   Department         Done
+0104#STR0104#ALL#Form      Registr.    Employee Name                  Exam              Sched.Dt. Department                   Role                  Done
+0105#STR0105#ALL#Form      Registr.     Employee Name                  Exam                              Sched.Dt.   Department         Done
+0106#STR0106#ALL#Form      Registr.   Employee Name                  Exam       Sched.Dt.    Department                   Role                  Done
+0107#STR0107#ALL#Department
+0108#STR0108#ALL#Total exams per Department / Role
+0109#STR0109#ALL#Stat.
+0110#STR0110#ALL#Role
+0111#STR0111#ALL#Attention
+0112#STR0112#ALL#Enter the value of question ‘To Branch’
+0113#STR0113#ALL#Enter value in the question
+0114#STR0114#ALL#Parameter ‘From branch’ can only be empty if parameter ‘To branch’ is set to
+0115#STR0115#ALL#Enter a valid branch interval

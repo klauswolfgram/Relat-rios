@@ -1,0 +1,32 @@
+0001#STR0001#ALL#Price List
+0002#STR0002#ALL#Z.Form
+0003#STR0003#ALL#Management
+0004#STR0004#ALL#CODE         DESCRIPTION                      A RANGE TO          PRICE      PRICE     MO-      DISCOUNT FACTOR  STATE TP.OPERATION
+0005#STR0005#ALL#                                                                     BASE       TABLE    EDA
+0006#STR0006#ALL#CANCELLED BY THE OPERATOR
+0007#STR0007#ALL#TABLE :
+0008#STR0008#ALL#VALIDITY :
+0009#STR0009#ALL#State
+0010#STR0010#ALL#Interstate
+0011#STR0011#ALL#North/Nw.
+0012#STR0012#ALL#All
+0013#STR0013#ALL#   CODE                           PRODUCT DESCRIPTION              ONE          QTY PER PRICE
+0014#STR0014#ALL#                                                                                PACKAGE    BASE
+0015#STR0015#ALL#By Type
+0016#STR0016#ALL#By Group
+0017#STR0017#ALL#This report will list the price tables according to
+0018#STR0018#ALL#the parameters selected by the user
+0019#STR0019#ALL#By Product description
+0020#STR0020#ALL#Selecting Records
+0021#STR0021#ALL#TYPE 
+0022#STR0022#ALL#GROUP
+0023#STR0023#ALL#By product 
+0024#STR0024#ALL#Price List
+0025#STR0025#ALL#This report will print the price lists according to the parameters informed by the user.
+0026#STR0026#ALL#Price List
+0027#STR0027#ALL#Type
+0028#STR0028#ALL#Group
+0029#STR0029#ALL#Product description
+0030#STR0030#ALL#Product code
+0031#STR0031#ALL#Price list products
+0032#STR0032#ALL#Price List (Basis)

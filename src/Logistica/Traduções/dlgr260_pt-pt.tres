@@ -1,0 +1,12 @@
+0001#STR0001#ALL#Listagem de todos os movimentos de distribuição registados no armazém com as informações
+0002#STR0002#ALL#Utilizadas no armazém
+0003#STR0003#ALL#Código de barras
+0004#STR0004#ALL#Administração
+0005#STR0005#ALL#Indicadores De Produtividade - Equipamento / Hora
+0006#STR0006#ALL#Artigo         Quantidade       Data Inicial   Hora Inicial   Data Final   Hora Final   Total De Horas
+0007#STR0007#ALL#                Quantidade                                                               Total De Horas
+0008#STR0008#ALL#A selecionar registos ...
+0009#STR0009#ALL#Cancelado Pelo Operador
+0010#STR0010#ALL#Centro de distribuição : 
+0011#STR0011#ALL#Recurso físico : 
+0012#STR0012#ALL#Total crial: 

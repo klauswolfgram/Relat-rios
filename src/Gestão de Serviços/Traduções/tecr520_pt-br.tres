@@ -1,0 +1,11 @@
+0001#STR0001#ALL#Acompanhamento do Atendimento da OS
+0002#STR0002#ALL#    Este programa emite o relatorio de Acompanhamento da Ordem de Servico, 
+0003#STR0003#ALL#conforme os parametros solicitados. 
+0004#STR0004#ALL#
+0005#STR0005#ALL#Zebrado
+0006#STR0006#ALL#Administracao
+0007#STR0007#ALL#NR.OS  IT CLIENTE                                  NR.CHAMADO  DT.CHAMADO HORA  CONTATO              PREVISAO DE ATENDIMENTO DURACAO
+0008#STR0008#ALL#          CODIGO    NOME                                                                             TEC.   DATA        HORA  EM HRS
+0009#STR0009#ALL#CANCELADO PELO OPERADOR
+0010#STR0010#ALL#Ordem de serviço
+0011#STR0011#ALL#Agenda do atendente

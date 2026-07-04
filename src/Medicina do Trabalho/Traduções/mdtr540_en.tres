@@ -1,0 +1,49 @@
+0001#STR0001#ALL#Costs report of the exams xarried out. Through the parameters,  
+0002#STR0002#ALL#the user can select the cost center, supplier, exam and get the 
+0003#STR0003#ALL#costs of the exams that were carried out within the period.
+0004#STR0004#ALL#Z. Form
+0005#STR0005#ALL#Management
+0006#STR0006#ALL#Costs of exams carried out
+0007#STR0007#ALL#Code    Supplier´s Name
+0008#STR0008#ALL#  Exam   Name of Exam                                Quantity              Cost 
+0009#STR0009#ALL#CANCELED BY OPERATORDOR
+0010#STR0010#ALL#Supplier´s Total   
+0011#STR0011#ALL#Company...: 
+0012#STR0012#ALL#C.Center..: 
+0013#STR0013#ALL#Total of cost center
+0014#STR0014#ALL#Total of company
+0015#STR0015#ALL#Grand total
+0016#STR0016#ALL#From Customer ?
+0017#STR0017#ALL#Customer code. Leave the field blank to consider since the first code.	
+0018#STR0018#ALL#Unit
+0019#STR0019#ALL#Customer unit code. Leave the field blank to consider since the first code.	
+0020#STR0020#ALL#To Customer ?
+0021#STR0021#ALL#Customer code. Fill in the field with Z up to its limit to consider the last code.	
+0022#STR0022#ALL#Customer unit code. Fill in the field with Z up to its limit to consider the last code.
+0023#STR0023#ALL#Customer/Unit: 
+0024#STR0024#ALL#To Result Date?
+0025#STR0025#ALL#From Result Date?
+0026#STR0026#ALL#To Exam?
+0027#STR0027#ALL#From Exam?
+0028#STR0028#ALL#To Supplier?
+0029#STR0029#ALL#From Supplier?
+0030#STR0030#ALL#To Cost Center?
+0031#STR0031#ALL#From Cost Center?
+0032#STR0032#ALL#Code of supplier's unit.  The field can be left blank to consider codes since the first one.
+0033#STR0033#ALL#Code of supplier's unit.  Inform Z up to the end in the field to consider codes until the last one.
+0034#STR0034#ALL#Customer
+0035#STR0035#ALL#Name
+0036#STR0036#ALL#Cost Center
+0037#STR0037#ALL#C. Center
+0038#STR0038#ALL#Description
+0039#STR0039#ALL#Supplier
+0040#STR0040#ALL#Exams
+0041#STR0041#ALL#Exam
+0042#STR0042#ALL#Name of Exam
+0043#STR0043#ALL#Amount
+0044#STR0044#ALL#Cost
+0045#STR0045#ALL#Customer Total
+0046#STR0046#ALL#Company 
+0047#STR0047#ALL#Processing file...
+0048#STR0048#ALL#Code  Unit  Supplier Name
+0049#STR0049#ALL#There is nothing to print in the report.

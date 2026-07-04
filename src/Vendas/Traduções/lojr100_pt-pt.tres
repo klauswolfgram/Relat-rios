@@ -1,0 +1,8 @@
+0001#STR0001#ALL#Este relatório irá imprimir a relaçäo de produtos calculando o giro
+0003#STR0003#ALL#Produtos de/até e o número de meses a ser considerado.
+0004#STR0004#ALL#Circulação De Stocks
+0005#STR0005#ALL#Código de barras
+0006#STR0006#ALL#Administração
+0007#STR0007#ALL#Código do produto     descrição                  un grupo saldo stock   circulação do stock    
+0010#STR0010#ALL#Artigos
+0011#STR0011#ALL#Não é permitido número de meses maior do que 12.

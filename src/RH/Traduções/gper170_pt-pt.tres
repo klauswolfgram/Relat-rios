@@ -1,0 +1,54 @@
+0001#STR0001#ALL#Relação da Contribuição Sindical / Assistencial / Confederativa
+0002#STR0002#ALL#Sera impresso de acordo com os parâmetro s solicitados pelo
+0003#STR0003#ALL#Utilizador.
+0005#STR0005#ALL#Centro De Custo
+0008#STR0008#ALL#Código de barras
+0009#STR0009#ALL#Administração
+0010#STR0010#ALL#Sind. Fil Reg.   Nome Do Empregado             Carteira Profis.   Data  De          Salário    Valor Da       F U N C A O
+0011#STR0011#ALL#                                                   Número   Série    Admissão          Base  Contribuição
+0012#STR0012#ALL#Relação da contribuição 
+0013#STR0013#ALL#Relação da contribuição 
+0014#STR0014#ALL#Sindical
+0015#STR0015#ALL#Assistêncial
+0016#STR0016#ALL#Confederativa
+0017#STR0017#ALL#A Seleccionar Registos...
+0018#STR0018#ALL#Filial: 
+0019#STR0019#ALL# ccto: 
+0020#STR0020#ALL# total 
+0021#STR0022#ALL#Empresa: 
+0022#STR0023#ALL# sindicato: 
+0023#STR0024#ALL#                                                   Número   Série    Admissão         Composto  Contribuição
+0024#STR0025#ALL#Atenção 
+0025#STR0026#ALL#A opção de impressão da grcs só será válida para a guia de contr. sindical.certificar-se de que os parâmetros estão configurados correctamente.
+0026#STR0027#ALL#Emitir Relação Das Contribuições Sindical, Assistencial E/ou Confederativa.
+0027#STR0028#ALL#Contribuições
+0028#STR0029#ALL#Sind.
+0029#STR0030#ALL#Fil.
+0030#STR0031#ALL#Reg.
+0031#STR0032#ALL#NOME DO EMPREGADO
+0032#STR0033#ALL#Cart.prof.
+0033#STR0034#ALL#Ctps-série
+0034#STR0035#ALL#Admissão
+0035#STR0036#ALL#Sal.base
+0036#STR0037#ALL#Contribuição
+0037#STR0038#ALL#F U N ç ã O
+0038#STR0039#ALL#Para Impressão Da Grcs, Indique Ordem De Impressão = Sindicato.
+0039#STR0040#ALL#Total Da Filial
+0040#STR0041#ALL#Total Sal.base
+0041#STR0042#ALL#Total De Contribuição
+0042#STR0043#ALL#Total Do Sindicato
+0043#STR0044#ALL#A Emitir A Guia
+0044#STR0045#ALL#Sal.composto
+0045#STR0046#ALL#Total do centro de custo 
+0046#STR0047#ALL#Seleccione a opção desejada: 
+0047#STR0048#ALL#Relatório
+0048#STR0049#ALL#Guia pré-impresso 
+0049#STR0050#ALL#Guia traçada 
+0051#STR0052#ALL#NOME DO COLABORADOR
+0054#STR0055#ALL#REMUNERAÇÃO
+0056#STR0057#ALL#F U N Ç Ã O
+0058#STR0059#ALL#CONTRIBUIÇÃO
+0059#STR0060#ALL#NÚMERO
+0060#STR0061#ALL#SÉRIE
+0061#STR0062#ALL#ADMISSÃO
+0066#STR0067#ALL#GRCS Gráfico

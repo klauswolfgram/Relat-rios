@@ -1,0 +1,14 @@
+0001#STR0001#BRA#This program aims at printing report 
+0002#STR0002#BRA#of statement for companies subject to the system of  
+0003#STR0003#BRA#Minas Gerais tax replacement
+0004#STR0004#BRA#Statement of ICMS ST - MG System
+0005#STR0005#BRA#Z-form
+0006#STR0006#BRA#Management
+0007#STR0007#BRA#NCM Code    EAN13 Code       Own Code                        Un. Description                      Quantity        Unit Value       Total Val.   MVA  Cal Basis        Rate           ICMS Vl  Cutoff Dt   Branch CNPJ
+0008#STR0008#BRA#INFLOW TOTAL ------------------------------------->      
+0009#STR0009#BRA#OUTFLOW TOTAL   ------------------------------------->      
+0010#STR0010#BRA#Data not found
+0011#STR0011#BRA#*** CANCELED BY OPERATOR ***
+0012#STR0012#BRA#INFLOW GRAND TOTAL------------------------------->      
+0013#STR0013#BRA#OUTFLOW GRAND TOTAL   ------------------------------->      
+0014#STR0014#BRA#---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

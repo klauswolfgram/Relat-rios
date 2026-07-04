@@ -1,0 +1,20 @@
+0001#STR0001#ALL#Este relatório irá imprimir uma relação dos projectos, sua estrutura e detalhes como data inicial, data final, duração, etc . conforme os parâmetros solicitados.
+0002#STR0002#ALL#Estrutura Do Projecto
+0003#STR0003#ALL#Código de barras
+0004#STR0004#ALL#Administração
+0005#STR0005#ALL#Tp.  código        descrição                                                              um |     quant.prev.   duração  dt.inic.  dt.final     %prog   |      quant.real.   duração  dt.inic.   dt.final    %real.
+0006#STR0006#ALL#Projecto : 
+0008#STR0008#ALL#Versão : 
+0009#STR0009#ALL# data : 
+0011#STR0011#ALL#Este relatório irá imprimir uma relação dos projectos, sua estrutura e detalhes das tarefas que se encontram em atraso conforme os parâmetros solicitados.
+0012#STR0012#ALL#Tarefas Em Atraso
+0013#STR0013#ALL#                             dados da edt/tarefa                                             |                         previsto                          |                           realizado                      
+0014#STR0014#ALL#Tp.  código da tarefa                                                                     um |     quant.prev.   duração  dt.inic.  dt.final     %prog   |      quant.real.   duração  dt.inic.   dt.final    %real.
+0015#STR0015#ALL#Tp.  descrição da tarefa                                                                  um |     quant.prev.   duração  dt.inic.  dt.final     %prog   |      quant.real.   duração  dt.inic.   dt.final    %real.
+0016#STR0016#ALL#%prog
+0017#STR0017#ALL#Quant.real
+0018#STR0018#ALL#Duração
+0019#STR0019#ALL#%real
+0022#STR0022#ALL#Edt
+0024#STR0024#ALL#Projecto
+0025#STR0025#ALL#*** cancelado pelo utilizador ***

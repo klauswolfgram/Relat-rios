@@ -1,0 +1,35 @@
+0001#STR0001#ALL#Variation in consumption of Indirect Allocation material
+0002#STR0002#ALL#This report will print the product transactions, presenting
+0003#STR0003#ALL#the following options:Ind.Allocat. Material, by Product
+0004#STR0004#ALL#by Product Produced and by Raw Material.
+0005#STR0005#ALL#Ind.Allocat.Material.
+0006#STR0006#ALL#by Product Order.
+0007#STR0007#ALL#by Prod.Produced.
+0008#STR0008#ALL#by Raw Material 
+0009#STR0009#ALL#Z.Form  
+0010#STR0010#ALL#Management   
+0011#STR0011#ALL#VARIATION IN THE MATERIAL CONSUMPTION OF INDIRECT MATERIAL ALLOCATION IN THE BRANCH : 
+0012#STR0012#ALL# WAREHOUSE: 
+0013#STR0013#ALL#CODE              M  A  T  E  R  I  A  L          ORDER  R/D  NUMBER    DATE     QUANTITY       UM     UNIT       V A L U E
+0014#STR0014#ALL#                                                 PRODUCT.                                             COST                 
+0015#STR0015#ALL#CANCELLED BY THE OPERATOR  
+0016#STR0016#ALL#Real Consumption-> 
+0017#STR0017#ALL#Std. Consumption-> 
+0018#STR0018#ALL#Variation--->
+0019#STR0019#ALL#T o t a l   S t d --->
+0020#STR0020#ALL#T o t a l   R e a l --->
+0021#STR0021#ALL#T o t a l   V a r i a t i o n-->
+0022#STR0022#ALL#Selecting Records...     
+0023#STR0023#ALL#**REAL x STANDARD CONSUMPT. PER PRODUCTION ORDER**
+0024#STR0024#ALL# BRANCH : 
+0025#STR0025#ALL#CODE             DESCRIPT.OF MATERIAL           UM    R E A L  C O N S U M P T I O N       C  O  N  S  U  M  P.             S T D          QUANT.VARIATION           VARIATION    VARIATION   
+0026#STR0026#ALL#                                                   QUANTITY     UNIT COST          T O T A L QUANTITY    UNIT COST         T O T A L  QUANTITY          VALUE %      F/ COST      T O T A L  %
+0027#STR0027#ALL#PO : 
+0028#STR0028#ALL#Total: 
+0029#STR0029#ALL#Grand Total: 
+0030#STR0030#ALL#CODE             M  A  T  E  R  I  A  L         UM     R E A L   C O N S U M P T.   S T A N D A R D  C O N S U M P T .            V A R I A T I O N    
+0031#STR0031#ALL#                                                   QUANTITY     UNIT COST          T O T A L   QUANTITY     UNIT COST        T O T A L   QUANTITY      V A L U E  %
+0032#STR0032#ALL#**REAL x STANDARD CONSUMPT.PER PRODUCT **
+0033#STR0033#ALL#**RAW MATERIAL CONSUMPTION VARIATION    ** 
+0034#STR0034#ALL#CODE        RAW MATERIAL  / COMPONENT       UM       R E A L  C O N S U M P T.        S T A N D A R D  C O N S U M P T .       V A R I A T I O N 
+0035#STR0035#ALL#                                                         QUANTITY   UNIT COST          T O T A L   QUANTITY   UNIT COST       T O T A L  QUANTITY      V A L U E    %

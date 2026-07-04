@@ -1,0 +1,24 @@
+0001#STR0001#ALL#This program will print the list of invoices,
+0002#STR0002#ALL#ordered by Carrier.
+0003#STR0003#ALL#Z.Form 
+0004#STR0004#ALL#Management 
+0005#STR0005#ALL#Invoices issued to carriers
+0006#STR0006#ALL#INVOICES ISSUES TO CARRIERS
+0007#STR0007#ALL#REC.DEP  |COMPANY INVOICE           VOLUME  C U S T O M E R   N A M E   QUANTITY             VALUE  CITY             ST  GROSS WEIGHT 
+0008#STR0008#ALL#DATE TIME|
+0009#STR0009#ALL#Selecting Records... 
+0010#STR0010#ALL#CANCELLED BY THE OPERATOR
+0011#STR0011#ALL#TOTAL ------->
+0012#STR0012#ALL#REC.DEP  |COMPANY INVOICE            VOLUME  CUSTOMER/SUPPLIER NAME     QUANTITY             VALUE  MUNICIP.         ST  GROSS WGHT
+0013#STR0013#ALL#List of invoices for carriers                    	
+0014#STR0014#ALL#This program will list invoices by                     
+0015#STR0015#ALL#carrier order.          
+0016#STR0016#ALL#Date Time
+0017#STR0017#ALL#    |    | 
+0018#STR0018#ALL#C u s t o m e r's  n a m e
+0019#STR0019#ALL#Quantity  
+0020#STR0020#ALL#City     
+0021#STR0021#ALL#Carrier total          
+0022#STR0022#ALL#Carrier       
+0023#STR0023#ALL#Volume
+0024#STR0024#ALL#Invoices     

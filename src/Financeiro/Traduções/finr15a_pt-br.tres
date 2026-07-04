@@ -1,0 +1,81 @@
+0001#STR0001#ALL#Este programa imprimira la demostracion contable de Proveedores
+0002#STR0002#ALL#Se puede  emitir  todo  el movimiento de los mismos, o apenas  
+0003#STR0003#ALL#los valores originales.                                        
+0004#STR0004#ALL#Posicion de los Titulos a Pagar
+0005#STR0005#ALL#Codigo    Nombre Proveedor     Prf-Numero          TP  Modalidad  Fecha de   Vencto     Vencto     Banco Valor Original|       Titulos  Vencidos       |Titulos a Vencer| Num        Vlr.Interes   Dias              Saldo
+0006#STR0006#ALL#                               Cuota                              Emision    Titulo     Real                           | Valor Nominal  Valor Corregido|  Valor Nominal | Banco     o Permanencia  Atraso            Final
+0007#STR0007#ALL#Especial
+0008#STR0008#ALL#Administracion
+0009#STR0009#ALL#De Proveedor        
+0010#STR0010#ALL#A Proveedor         
+0011#STR0011#ALL#De Sucursal         
+0012#STR0012#ALL#A Sucursal          
+0013#STR0013#ALL#De Fecha de Emision 
+0014#STR0014#ALL#A Fecha de Emision  
+0015#STR0015#ALL#Informe             
+0016#STR0016#ALL#Considera NC,ND y PA
+0017#STR0017#ALL#Importes en         
+0018#STR0018#ALL#Analitico
+0019#STR0019#ALL#Resumen
+0020#STR0020#ALL#Si
+0021#STR0021#ALL#No
+0022#STR0022#ALL#Moneda 1
+0023#STR0023#ALL#Moneda 2
+0024#STR0024#ALL#Moneda 3
+0025#STR0025#ALL#Moneda 4
+0026#STR0026#ALL#Moneda 5
+0027#STR0027#ALL#Por Codigo
+0028#STR0028#ALL#Por Nombre
+0029#STR0029#ALL#Por Modalidad
+0030#STR0030#ALL#Posicion de Proveedores
+0031#STR0031#ALL#Imprimiendo...
+0032#STR0032#ALL#Selecionando Registros...
+0033#STR0033#ALL#Preparando Transitorio...
+0034#STR0034#ALL#Vence Hoy
+0035#STR0035#ALL#T O T A L  P O R  M O D A L I D A D ----> 
+0036#STR0036#ALL#T O T A L  P O R  P R O V E E D O R ----> 
+0037#STR0037#ALL#Titulos
+0038#STR0038#ALL#T O T A L     G E N E R A L         ----> 
+0039#STR0039#ALL#NOTA DE CREDITO No. 
+0040#STR0040#ALL#NOTA DE DEBITO No. 
+0041#STR0041#ALL#FACTURA No. 
+0042#STR0042#ALL#ANTICIPO
+0043#STR0043#ALL#NOTA DE CRED. EXTERNA
+0044#STR0044#ALL#NOTA DE DEB. EXTERNA
+0045#STR0045#ALL#NO CLASIFICADO...
+0046#STR0046#ALL#RECIBO No. 
+0047#STR0047#ALL#RET. IMPUESTOS
+0048#STR0048#ALL#Pref-Numero
+0049#STR0049#ALL#Parcela
+0050#STR0050#ALL#Qtd.
+0051#STR0051#ALL#Tit.
+0052#STR0052#ALL#Data 
+0053#STR0053#ALL#Emissao
+0054#STR0054#ALL#Vencto
+0055#STR0055#ALL#Real
+0056#STR0056#ALL#Valor 
+0057#STR0057#ALL#Original
+0058#STR0058#ALL#|      Titulos
+0059#STR0059#ALL#|Valor Nominal
+0060#STR0060#ALL#Vencidos        |
+0061#STR0061#ALL#Valor Corrigido |
+0062#STR0062#ALL#| Titulos a Vencer | 
+0063#STR0063#ALL#|   Valor Nominal  |
+0064#STR0064#ALL#Valor Juros/
+0065#STR0065#ALL#Permanencia
+0066#STR0066#ALL#Dias 
+0067#STR0067#ALL#Atraso
+0068#STR0068#ALL#Saldo
+0069#STR0069#ALL# Final
+0070#STR0070#ALL#Forncedor x Titulos a pgar
+0071#STR0071#ALL#Lib.
+0072#STR0072#ALL#C.Q.
+0073#STR0073#ALL#  Valor  |   Titulos Vencidos          | Titulos a Vencer | Valor Juros/      Saldo
+0074#STR0074#ALL#Original |  Vlr Nominal  Vlr Corrigido | Valor Nominal    |Permanencia        Final
+0075#STR0075#ALL#  Valor |    Titulos Vencidos               |     Titulos a Vencer |     Valor Juros/       Saldo
+0076#STR0076#ALL#Original|   Vlr Nominal       Vlr Corrigido |     Valor Nominal    |    Permanencia         Final
+0077#STR0077#ALL#Vlr C.Q.
+0078#STR0078#ALL#Vlr C.Q.    Valor | Titulos Vencidos        |Titulos a Vencer| Valor Juros/  Saldo
+0079#STR0079#ALL#          Original|Vlr Nominal  Vl Corrigido|Valor Nominal   |Permanencia    Final
+0080#STR0080#ALL#Vlr C.Q.     Valor |    Titulos Vencidos               | Titulos a Vencer |Valor Juros/         Saldo
+0081#STR0081#ALL#           Original|   Vlr Nominal       Vlr Corrigido | Valor Nominal    |Permanencia          Final

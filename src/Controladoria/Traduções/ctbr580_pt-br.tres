@@ -1,0 +1,22 @@
+0001#STR0001#ALL#DEMONSTRATIVO DE GRUPO CONTABIL X CONTA
+0002#STR0002#ALL#Gerando relatorio, aguarde...
+0003#STR0003#ALL#cem
+0004#STR0004#ALL#mil
+0005#STR0005#ALL#milhao
+0006#STR0006#ALL#Criando Arquivo Temporario...
+0007#STR0007#ALL#Responsaveis...
+0008#STR0008#ALL#É necessário informar a data de referência
+0009#STR0009#ALL#Parâmetro 'Considera igual a Periodo'
+0010#STR0010#ALL#Data fora do periodo
+0011#STR0011#ALL#Data de refrência
+0012#STR0012#ALL#Contas/Saldos
+0013#STR0013#ALL#(Em 
+0014#STR0014#ALL#Este programa irá imprimir a Demonstração de Resultados, 
+0015#STR0015#ALL#de acordo com os parâmetros informados pelo usuário.
+0016#STR0016#ALL#Natureza
+0017#STR0017#ALL#Descrição
+0018#STR0018#ALL#TOTAL POR GRUPO
+0019#STR0019#ALL#TOTAL GERAL
+0020#STR0020#ALL#Relatório disponível apenas em TReport.
+0021#STR0021#ALL#Confira o parâmentro MV_TREPORT.
+0022#STR0022#ALL#Selecionando Registros...

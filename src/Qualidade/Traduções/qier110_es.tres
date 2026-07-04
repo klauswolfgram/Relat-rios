@@ -1,0 +1,35 @@
+0001#STR0001#ALL#Impresion de las formulas y las tablas utilizadas en los
+0002#STR0002#ALL#calculos del indice de calidad
+0003#STR0003#ALL#Formulas
+0004#STR0004#ALL#A Rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#CLASES :
+0007#STR0007#ALL#FACTORES DEL ICS:
+0008#STR0008#ALL#FACTORES DEL ICP:
+0009#STR0009#ALL#CRITERIOS DEL SKIP-LOTE:
+0010#STR0010#ALL#FACTORES DE ICPv:
+0011#STR0011#ALL#No se registro ningun indice para formar el ICPv.
+0012#STR0012#ALL#Siendo ICPv.: Indice de calidad del proveedor 
+0013#STR0013#ALL#ICP = ( 100 - K ) - Factor critico
+0014#STR0014#ALL#     Siendo FC.: Factor de correccion, tabla en funcion del ICS
+0015#STR0015#ALL#            K..: Ctd. obtenida en funcion del indice de aceptacion (IA)
+0016#STR0016#ALL#            qx.: Cantidad entreguada con Factor x.
+0017#STR0017#ALL#IPU = ( 1 - (Suma Ni * Di / (
+0018#STR0018#ALL# * Nt)) ) * 100
+0019#STR0019#ALL#     Siendo Ni: Cantidad Entregada con atraso (lote a lote)
+0020#STR0020#ALL#            Di: Numero de dias de atraso (lote a lote)
+0021#STR0021#ALL#            Nt: Cant. total entregada en el mes 
+0022#STR0022#ALL#           Obs: En el calculo del IPU, si el Num.de dias de atraso real es mayor que el Num.de
+0023#STR0023#ALL#                dias definido en el parametro MV_QDIAIPO, se utilizara este ultimo.
+0024#STR0024#ALL#CLASES DE NO CONFORMIDADES :
+0025#STR0025#ALL#Factor Critico
+0026#STR0026#ALL#FACTOR K:
+0027#STR0027#ALL#FACTOR DE CORRECCION (FC) :
+0028#STR0028#ALL#FORMULAS DEL IQF :
+0029#STR0029#ALL#Clases
+0030#STR0030#ALL#Factores deIQS
+0031#STR0031#ALL#Factores deIQP
+0032#STR0032#ALL#Criterios de Skip-Lote
+0033#STR0033#ALL#CLASES DE NO CONFORMIDADES   
+0034#STR0034#ALL#FACTOR K
+0035#STR0035#ALL#Factores Correccion

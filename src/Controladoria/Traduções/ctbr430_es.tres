@@ -1,0 +1,56 @@
+0001#STR0001#ALL#Este programa imprimira Libro Mayor Gerencial Cuenta, 
+0002#STR0002#ALL#segun los parametros solicitados por el     
+0003#STR0003#ALL#usuario.
+0004#STR0004#ALL#A rayas
+0005#STR0005#ALL#Administrac. 
+0006#STR0006#ALL#EmisionLibro Mayor Gerencial Cuenta
+0007#STR0007#ALL#LB.MAYOR ANAL. EN  
+0008#STR0008#ALL#LBR. MAYOR SINT. EN
+0009#STR0009#ALL# DE 
+0010#STR0010#ALL# A   
+0011#STR0011#ALL#(PRESUP)
+0012#STR0012#ALL#(GERENCIAL)
+0013#STR0013#ALL#LOTE/SUB/DOC/LINEA  H I S T O R I A L                                                       
+0014#STR0014#ALL#LOTE/SUB/DOC/LINEA H I S T O R I A L                                                       DEBITO          CREDITO       SALDO ACTL.
+0015#STR0015#ALL#***** ANULADO POR EL OPERADOR *****
+0016#STR0016#ALL#CUEN. - 
+0017#STR0017#ALL#Seleccion. Registros...
+0018#STR0018#ALL#Creando Archivo Temporal...  
+0019#STR0019#ALL#FCHA
+0020#STR0020#ALL#T o t a l e s  C u e n t a   ==> 
+0021#STR0021#ALL#CUENTA SIN MOVIMTO. EN PERIODO
+0022#STR0022#ALL#A TRANSPORTAR :
+0023#STR0023#ALL#DE TRANSPORTE :
+0024#STR0024#ALL#FECHA                                                                            DEBITO               CREDITO            SALDO ACT. 
+0025#STR0025#ALL#T O T A L  G R A L . ==> 
+0026#STR0026#ALL#SIN MOVIMTO. EN  PERIODO
+0027#STR0027#ALL#Deben crearse los parametros MV_LRAZABE e MV_LRAZENC. 
+0028#STR0028#ALL#Utilice como base parametro MV_LDIARAB.
+0029#STR0029#ALL#DEBITO               CREDITO           SALDO ACT.         
+0030#STR0030#ALL#El plan de gestion no esta dispon. en este informe. 
+0031#STR0031#ALL#LOTE/SUB/DOC/LINEA H I S T O R I A L                                                        DEBITO         CREDITO       SALDO ACT. 
+0032#STR0032#ALL#LOTE/SUB/DOC/LINEA H I S T O R I A L                                                                                                                                                   DEBITO               CREDITO         SALDO ACTL.
+0033#STR0033#ALL#SALDO ANTERIOR:
+0034#STR0034#ALL#LOTE/SUB/DOC/LINEA H I S T O R I A L                                                       DEBITO          CREDITO       SALDO ACT. 
+0035#STR0035#ALL#FECHA                                                                            DEBITO               CREDITO            SALDO ACT. 
+0036#STR0036#ALL#DEBITO               CREDITO           SALDO ACTUAL       
+0037#STR0037#ALL#LOTE/SUB/DOC/LINEA H I S T O R I A L                                                        DEBITO         CREDITO       SALDO ACT. 
+0038#STR0038#ALL#LOTE/SUB/DOC/LINEA H I S T O R I A L                                                                                                                                                   DEBITO               CREDITO         SALDO ACTL.
+0039#STR0039#ALL#LOTE/SUB/DOC/LINEA  H I S T O R I A L                                                       
+0040#STR0040#ALL#LOTE/SUB/DOC/LINEA CORRELAT. H I S T O R I A L                                             
+0041#STR0041#ALL#LOTE/SUB/DOC/LINEA CORRELAT. H I S T O R I A L                                              DEBITO         CREDITO       SALDO ACT. 
+0042#STR0042#ALL#LOTE/SUB/DOC/LINEA CORRELAT. H I S T O R I A L                                                                                                                                       DEBITO               CREDITO         SALDO ACTUAL
+0043#STR0043#ALL#Por favor rellenar el campo con Codigo del Set Of Books (Configurac. de Libros) de plan de gestion deseado.
+0044#STR0044#ALL#El set of books (configurac. de libros) debe tener asociado un plan de gestion
+0045#STR0045#ALL#Verificar si Set of Books (configuracion de livros) esta registrado.
+0046#STR0046#ALL#LOTE/SUB/DOC/LINEA 		
+0047#STR0047#ALL#H I S T O R . 
+0048#STR0048#ALL#DEBITO
+0049#STR0049#ALL#CREDITO
+0050#STR0050#ALL#SALDO ACT.
+0051#STR0051#ALL#Asientos
+0052#STR0052#ALL#Total de Cta.
+0053#STR0053#ALL#Complemento
+0054#STR0054#ALL#Total Gral.
+0055#STR0055#ALL#Atencion
+0056#STR0056#ALL#No hay datos para los parametros seleccionados.

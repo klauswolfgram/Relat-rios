@@ -1,0 +1,41 @@
+0001#STR0001#ALL#This report will print the budgets 
+0002#STR0002#ALL#according to the requested parameters
+0003#STR0003#ALL#                                       EDT/TASK DATA                           |                   ESTIMATE                       |
+0004#STR0004#ALL#TP.  Code          Descript.                                          UN |     QTY.  EST.    DURATION        COST  ESTIMATE| 
+0005#STR0005#ALL#Budget Registers
+0006#STR0006#ALL#Z.Form
+0007#STR0007#ALL#Administration
+0008#STR0008#ALL#*** CANCELLED BY THE OPERATOR***
+0009#STR0009#ALL#Budget: 
+0010#STR0010#ALL#Customer: 
+0011#STR0011#ALL#WBS
+0012#STR0012#ALL#Tsk.
+0013#STR0013#ALL#PRODUCT
+0014#STR0014#ALL#Description
+0015#STR0015#ALL#MU
+0016#STR0016#ALL#QUANTITY
+0017#STR0017#ALL#MEDIUM UNITARY
+0018#STR0018#ALL#ESTIMATED COST
+0019#STR0019#ALL#Expense
+0020#STR0020#ALL#Type of Expense
+0021#STR0021#ALL#Estimated Value
+0022#STR0022#ALL#Predecessor 
+0023#STR0023#ALL#Type of Relationship
+0024#STR0024#ALL#Delay (Hours)
+0025#STR0025#ALL#End-on-Beginning
+0026#STR0026#ALL#Beginning-on-Beginning
+0027#STR0027#ALL#End-on-End
+0028#STR0028#ALL#Beginning-on-End
+0029#STR0029#ALL#TP.  Code                                                             UN |     ESTIM QTY     LENGHT          ESTIMATED COST|
+0030#STR0030#ALL#TP.  Descript.                                                        UN |     ESTIM QTY     LENGTH          ESTIMATED COST|	
+0031#STR0031#ALL#Forecast
+0032#STR0032#ALL#Cost
+0033#STR0033#ALL#Duratn.
+0034#STR0034#ALL#Quantity
+0035#STR0035#ALL#Unit
+0036#STR0036#ALL#Averg
+0037#STR0037#ALL#Product/Resource
+0038#STR0038#ALL#WBS
+0039#STR0039#ALL#Quotation
+0040#STR0040#ALL#Customer
+0041#STR0041#ALL#Task  

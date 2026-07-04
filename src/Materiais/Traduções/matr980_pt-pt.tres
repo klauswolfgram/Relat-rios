@@ -1,0 +1,14 @@
+0001#STR0001#ALL#** relação das operações com retenção de icms por distrito **
+0002#STR0002#ALL#Emissão dos documentos fiscais que obtiveram retenção de 
+0003#STR0003#ALL#Icms que cada distrito emissor.                            
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#RAZÃO SOCIAL                           CONCELHO       DIST. INSC. DISTRITAL     FACT.      SÉRIE DATA DE       BASE ICMS     BASE ICMS      VALOR ICMS     VALOR ICMS      BASE ICMS      BASE ICMS     VALOR ICMS    VALOR ICMS
+0007#STR0007#ALL#                                                                             FISCAL          EMISSÃO          RETIDO  RETIDO DEVOL.         RETIDO  RETIDO DEVOL.         NORMAL  NORMAL DEVOL.         NORMAL NORMAL DEVOL.
+0008#STR0008#ALL#A Seleccionar Registos...
+0009#STR0009#ALL#Cancelado Pelo Operador
+0010#STR0010#ALL#Total do cep -> 
+0011#STR0011#ALL#Total do municipo -> 
+0012#STR0012#ALL#Total do distrito -> 
+0013#STR0013#ALL#Total geral ->
+0014#STR0014#ALL#Valor Líquido (saídas - Devoluções)

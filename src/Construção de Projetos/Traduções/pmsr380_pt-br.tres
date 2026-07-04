@@ -1,0 +1,23 @@
+0001#STR0001#ALL#Este programa tem como objetivo imprimir relatorio 
+0002#STR0002#ALL#de acordo com os parametros informados pelo usuario.
+0003#STR0003#ALL#Alocacao de Recursos do Projeto (Previsto X Realizado)
+0004#STR0004#ALL#Recurso
+0005#STR0005#ALL#Projeto
+0006#STR0006#ALL#Equipe
+0007#STR0007#ALL#TOTAIS DO RECURSO 
+0008#STR0008#ALL#TOTAL GERAL DOS RECURSOS 
+0009#STR0009#ALL#TOTAIS DO PROJETO 
+0010#STR0010#ALL#TOTAL GERAL DOS PROJETOS 
+0011#STR0011#ALL#TOTAIS DA EQUIPE 
+0012#STR0012#ALL#TOTAL GERAL DAS EQUIPES 
+0013#STR0013#ALL#Previsto X Realizado
+0014#STR0014#ALL#Horas Prev
+0015#STR0015#ALL#Custo Prev
+0016#STR0016#ALL#Horas Real
+0017#STR0017#ALL#Custo Real
+0018#STR0018#ALL#Criando Arquivo Temporario...
+0019#STR0019#ALL#Selecionando Registros...
+0020#STR0020#ALL#Projeto
+0021#STR0021#ALL#de
+0022#STR0022#ALL#Analisando tarefas...
+0023#STR0023#ALL#Analisando apontamentos...

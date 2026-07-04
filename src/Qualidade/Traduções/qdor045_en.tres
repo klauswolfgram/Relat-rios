@@ -1,0 +1,15 @@
+0001#STR0001#ALL#SUMMARIZED DOCUMENT MASTER LIST    
+0002#STR0002#ALL#FULL DOCUMENT MASTER LIST          
+0003#STR0003#ALL#SUMMARIZED DOCUMENT MASTER LIST BY DEPT.   
+0004#STR0004#ALL#This program will print a new list of the documents,    
+0005#STR0005#ALL# writers, reviewers, approvers and/or homologators,       
+0006#STR0006#ALL# according to the parameters defined.  
+0007#STR0007#ALL#Doc.Code
+0008#STR0008#ALL#Review 
+0009#STR0009#ALL#Title 
+0010#STR0010#ALL#Prepared by 
+0011#STR0011#ALL#Reviewers
+0012#STR0012#ALL#Approvers  
+0013#STR0013#ALL#Homologators 
+0014#STR0014#ALL#Effect. date
+0015#STR0015#ALL#Departament:  

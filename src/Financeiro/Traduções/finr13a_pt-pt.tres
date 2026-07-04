@@ -1,0 +1,53 @@
+0001#STR0001#ALL#Este programa imprimirá a demonstração contabilística de clientes 
+0002#STR0002#ALL#Pode-se  emitir  todo  o movimiento dos mesmos, o apenas
+0003#STR0003#ALL#Os valores originais.                                      
+0004#STR0004#ALL#Posição Dos Títulos A Cobrar
+0005#STR0005#ALL#Código    Nome Cliente         Prf-número          Tp  Natureza     Data De    Vencto     Vencto     Banco Valor Original|       Títulos  Vencidos       |títulos A Vencer| Num        Valorjuros Ou  Dias              Saldo
+0006#STR0006#ALL#                               Parcela                              Emissão    Título     Real                           | Valor Nominal  Valor Corrigido|  Valor Nominal | Banco       Permanência  Atraso            Final
+0008#STR0008#ALL#Administração
+0009#STR0009#ALL#De cliente          
+0010#STR0010#ALL#Ao cliente           
+0011#STR0011#ALL#Da sucursal         
+0012#STR0012#ALL#Até à sucursal          
+0013#STR0013#ALL#Do fecho de emissão 
+0014#STR0014#ALL#O fecho de emissão  
+0015#STR0015#ALL#Introduza             
+0016#STR0016#ALL#Considera Nc,nd Y Ra
+0017#STR0017#ALL#Importações em         
+0018#STR0018#ALL#Analítico
+0019#STR0019#ALL#Resumo
+0020#STR0020#ALL#Sim
+0022#STR0022#ALL#Moeda 1
+0023#STR0023#ALL#Moeda 2
+0024#STR0024#ALL#Moeda 3
+0025#STR0025#ALL#Moeda 4
+0026#STR0026#ALL#Moeda 5
+0027#STR0027#ALL#Por Código
+0028#STR0028#ALL#Por Nome
+0029#STR0029#ALL#Por Modalidade
+0030#STR0030#ALL#Posição De Clientes
+0031#STR0031#ALL#A imprimir...
+0032#STR0032#ALL#A Seleccionar Registos...
+0033#STR0033#ALL#A Preparar Transitório...
+0034#STR0034#ALL#Vence Hoje
+0035#STR0035#ALL#Total por modalidade ----> 
+0036#STR0036#ALL#Total  por c l i e n t e     ----> 
+0037#STR0037#ALL#Títulos
+0038#STR0038#ALL#T o t a l     g e r a l         ----> 
+0039#STR0039#ALL#Nota de crédito nr. 
+0040#STR0040#ALL#Nota de débito nr. 
+0041#STR0041#ALL#Factura nr. 
+0042#STR0042#ALL#Anticipo
+0043#STR0043#ALL#Nota De Créd. Interna
+0044#STR0044#ALL#Nota De Déb. Interna
+0045#STR0045#ALL#Não Classificado...
+0046#STR0046#ALL#Recibo nr. 
+0047#STR0047#ALL#Retenção Do Iva
+0048#STR0048#ALL#Ret. Ganancias
+0049#STR0049#ALL#Ret. Imp. Brutos
+0050#STR0050#ALL#Pref-número
+0053#STR0053#ALL#Tít.
+0055#STR0055#ALL#Emissão
+0057#STR0057#ALL#Euro
+0064#STR0064#ALL#Títulos a vencer
+0067#STR0067#ALL#Permanência

@@ -1,0 +1,81 @@
+0001#STR0001#ALL# CONFIGURATION ITEMS
+0002#STR0002#ALL#Cover Superior Text   
+0003#STR0003#ALL#Inferior Cover Text   
+0004#STR0004#ALL#Justification 
+0005#STR0005#ALL#Typing Instructions 
+0006#STR0006#ALL#Internal Analysis Txt
+0007#STR0007#ALL#Target of copies
+0008#STR0008#ALL#Titles of the Report Fields    
+0009#STR0009#ALL#Notification of Non-conformance
+0010#STR0010#ALL#Text in Portuguese
+0011#STR0011#ALL#Text in English
+0012#STR0012#ALL#Text in Spanish  
+0013#STR0013#ALL#Original:     
+0014#STR0014#ALL#Report:
+0015#STR0015#ALL#Duplicate:   
+0016#STR0016#ALL#Triplicate:   
+0017#STR0017#ALL#Quadruplic.:
+0018#STR0018#ALL#Quintuplic.:
+0019#STR0019#ALL#FIELDS
+0020#STR0020#ALL#STRINGS
+0021#STR0021#ALL#Portuguese current val:
+0022#STR0022#ALL#New Portuguese value: 
+0023#STR0023#ALL#Current English val:
+0024#STR0024#ALL#New English value: 
+0025#STR0025#ALL#Spanish current value:
+0026#STR0026#ALL#New Spanish value:   
+0027#STR0027#ALL#Notification of Non-Conforma
+0028#STR0028#ALL#Results   
+0029#STR0029#ALL#a.copy: 
+0030#STR0030#ALL#specified   
+0031#STR0031#ALL#Non-Conformance(s) found        
+0032#STR0032#ALL#Nr.
+0033#STR0033#ALL#Class 
+0034#STR0034#ALL#Critical Factor  
+0035#STR0035#ALL#Reincidence 
+0036#STR0036#ALL#(Continuation of the results found)         
+0037#STR0037#ALL#Yes -
+0038#STR0038#ALL# points
+0039#STR0039#ALL#No 
+0040#STR0040#ALL#Quality Assurance           /     /    
+0041#STR0041#ALL# a.
+0042#STR0042#ALL#The field value was edited. Do you wish to update the field to the new value?      
+0043#STR0043#ALL#You must enteer the Report and the copy.         
+0044#STR0044#ALL#Enter a Valid Report   
+0045#STR0045#ALL#On this report the Non-conformance Notification will be printed.
+0046#STR0046#ALL#Inflow w/o Report
+0047#STR0047#ALL#Unable to find the copy and/or report for this language, which makes generation of this report impossible. Check if the copy in this language was entered correctly.    
+0048#STR0048#ALL#Unable to find the copy and/or report for this language, which makes generation of this report impossible. Check through the 'Reports' menu, if the copy, in this language was entered correctly.
+0049#STR0049#ALL#CANCELLED BY OPERATOR  
+0050#STR0050#ALL# from 
+0051#STR0051#ALL#Chron. 
+0052#STR0052#ALL#Vendor    
+0053#STR0053#ALL#Delivery
+0054#STR0054#ALL#TrialsMeas
+0055#STR0055#ALL#TrialsTXT
+0056#STR0056#ALL#Non-Conf
+0057#STR0057#ALL#Report
+0058#STR0058#ALL#Invoice
+0059#STR0059#ALL#Series
+0060#STR0060#ALL#Item
+0061#STR0061#ALL#NNC Nr.
+0062#STR0062#ALL#Language
+0063#STR0063#ALL#Report Justif.
+0064#STR0064#ALL#2nd Part
+0065#STR0065#ALL#Chronicle
+0066#STR0066#ALL#Measurements
+0067#STR0067#ALL#Print NC with 0 Factor
+0068#STR0068#ALL#Seq.Number
+0069#STR0069#ALL#Supplier Batch
+0070#STR0070#ALL#January
+0071#STR0071#ALL#February
+0072#STR0072#ALL#March
+0073#STR0073#ALL#April
+0074#STR0074#ALL#May
+0075#STR0075#ALL#June
+0076#STR0076#ALL#July
+0077#STR0077#ALL#August
+0078#STR0078#ALL#September
+0079#STR0079#ALL#October
+0080#STR0080#ALL#November
+0081#STR0081#ALL#December

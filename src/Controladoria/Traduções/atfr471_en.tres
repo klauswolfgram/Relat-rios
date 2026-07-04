@@ -1,0 +1,19 @@
+0001#STR0001#ALL#Function available only for TopConnect environments.
+0002#STR0002#ALL#Function available for TReport only, please update environment and check MV_TREPORT parameter
+0003#STR0003#ALL#To use this report, The Fixed Asset AVP Fixed Asset and Control Project processes must be implemented. Please, update the environment
+0004#STR0004#ALL#This report demonstrates cost values of loans related to the assets registered in module Fixed Asset.
+0005#STR0005#ALL#Loan Costs Statement
+0006#STR0006#ALL#Loan Costs
+0007#STR0007#ALL#Origin Assets
+0008#STR0008#ALL#Appropr. Value
+0009#STR0009#ALL#Branch total: 
+0010#STR0010#ALL#Base Code Total: 
+0011#STR0011#ALL#Ledger account total: 
+0012#STR0012#ALL#Cost Center Total: 
+0013#STR0013#ALL#Accounting Item Total: 
+0014#STR0014#ALL#Value Class Total: 
+0015#STR0015#ALL#Base Code Total: 
+0016#STR0016#ALL#Appropriation Total
+0017#STR0017#ALL#Capitalization Value
+0018#STR0018#ALL#Advance Value
+0019#STR0019#ALL#Total Value

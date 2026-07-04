@@ -1,0 +1,26 @@
+0001#STR0001#ALL#Inventory Labels
+0002#STR0002#ALL#This program will print labels for Physical Inventory.
+0003#STR0003#ALL#It will be printed in 3 columns for each product. 
+0004#STR0004#ALL# By Code           
+0005#STR0005#ALL# By Type           
+0006#STR0006#ALL# By Description  
+0007#STR0007#ALL# By Group        
+0008#STR0008#ALL#Z.Form 
+0009#STR0009#ALL#Management   
+0010#STR0010#ALL#CANCELLED BY THE OPERATOR
+0011#STR0011#ALL#Code:  
+0012#STR0012#ALL# Tp:
+0013#STR0013#ALL# Gr:
+0014#STR0014#ALL# UM:
+0015#STR0015#ALL#| Descr.: 
+0016#STR0016#ALL#| Wareh:
+0017#STR0017#ALL# Locat.:
+0018#STR0018#ALL#| Date of 1st phys.inv.: ____/____/____
+0019#STR0019#ALL#| Date of 2nd phys.inv.: ____/____/____
+0020#STR0020#ALL#| Date of 3rd phys.inv.: ____/____/____
+0021#STR0021#ALL#| Quantity Calculated
+0022#STR0022#ALL#  OK employee           Ok Reviser       |
+0023#STR0023#ALL#|          A-INVENTORY No. 
+0024#STR0024#ALL#|          B-INVENTORY No. 
+0025#STR0025#ALL#|          C-INVENTORY No. 
+0026#STR0026#ALL# By Location      

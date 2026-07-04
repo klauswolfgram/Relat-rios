@@ -1,0 +1,60 @@
+0001#STR0001#ALL#Resultados Materiais
+0002#STR0002#ALL#Gerando Relatorio, Aguarde...
+0003#STR0003#ALL#Anexos:
+0004#STR0004#ALL#01 Teste de funcao
+0005#STR0005#ALL#02 Teste de medicao
+0006#STR0006#ALL#03 Teste de material
+0007#STR0007#ALL#04 Teste de resistencia
+0008#STR0008#ALL#05 Comprov. de capaciade do processo
+0009#STR0009#ALL#06 Diagrama de decurso do processo
+0010#STR0010#ALL#07 Comprovacao da capacidade de instr. de teste
+0011#STR0011#ALL#08 Lista de instrumentos de teste
+0012#STR0012#ALL#09 Folha EG de seguranca de dados
+0013#STR0013#ALL#10 Tato
+0014#STR0014#ALL#11 Acustica
+0015#STR0015#ALL#12 Cheiro
+0016#STR0016#ALL#13 Aspecto geral
+0017#STR0017#ALL#14 Certificados
+0018#STR0018#ALL#15 Liberacao de construcao
+0019#STR0019#ALL#16 Material de composicao em pecas compradas
+0020#STR0020#ALL#17 Outros
+0021#STR0021#ALL#Relatorio VDA de amostra inicial
+0022#STR0022#ALL#Amostra inicial
+0023#STR0023#ALL#Amostra posterior
+0024#STR0024#ALL#Peca nova
+0025#STR0025#ALL#Alteracao de produto
+0026#STR0026#ALL#Postergacao da producao
+0027#STR0027#ALL#Alteracao de processos de producao
+0028#STR0028#ALL#Interrupcao maior de producao
+0029#STR0029#ALL#Subfornecedor novo
+0030#STR0030#ALL#Produto com DAE
+0031#STR0031#ALL#Elaborado plano de producao/inspecao
+0032#STR0032#ALL#FMEA realizado
+0033#STR0033#ALL#Relatorio demais amostras
+0034#STR0034#ALL#- Resultados de Exame -
+0035#STR0035#ALL#Pagina :
+0036#STR0036#ALL#No. de Identificacao, Fornecedor:
+0037#STR0037#ALL#No. de Identificacao, Cliente:
+0038#STR0038#ALL#No. de Relatorio
+0039#STR0039#ALL#Versao
+0040#STR0040#ALL#Status/Data do no. da familia/Desenho/Alteracao:
+0041#STR0041#ALL#Denominacao:
+0042#STR0042#ALL#No. Ref.
+0043#STR0043#ALL#Exigencias
+0044#STR0044#ALL#Valores Atuais fornecedor
+0045#STR0045#ALL#Avaliacao
+0046#STR0046#ALL#Em. O
+0047#STR0047#ALL#Confirmacao do Fornecedor:
+0048#STR0048#ALL#Observacao:
+0049#STR0049#ALL#Nome:
+0050#STR0050#ALL#Departamento:
+0051#STR0051#ALL#Telefone/Fax/E-mail:
+0052#STR0052#ALL#Data:
+0053#STR0053#ALL#Assinatura:
+0054#STR0054#ALL#Decisao Cliente:
+0055#STR0055#ALL#Liberado
+0056#STR0056#ALL#Liberado com restricoes
+0057#STR0057#ALL#Reprovado, necessaria amostra posterior
+0058#STR0058#ALL#Sequencia
+0059#STR0059#ALL#Atenção !
+0060#STR0060#ALL#Não há dados a serem impressos. Verifique os parâmetros !

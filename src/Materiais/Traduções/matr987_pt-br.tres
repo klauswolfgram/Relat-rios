@@ -1,0 +1,36 @@
+0001#STR0001#BRA#Resumo de Créditos de Movimentos de Produtos Incentivados - PRODEPE
+0002#STR0002#BRA#Este relatório ira imprimir os créditos dos movimentos de saida de
+0003#STR0003#BRA#produtos incentivados pelo PRODEPE.
+0004#STR0004#BRA#Zebrado
+0005#STR0005#BRA#Administração
+0006#STR0006#BRA#Pesquisar
+0007#STR0007#BRA#Visualizar
+0008#STR0008#BRA#Incluir
+0009#STR0009#BRA#Alterar
+0010#STR0010#BRA#Excluir
+0011#STR0011#BRA#Valor Inicial
+0012#STR0012#BRA#Valor Final
+0013#STR0013#BRA#Percentual
+0014#STR0014#BRA#Tipo
+0015#STR0015#BRA#Tabela de Percentuais Aplicáveis
+0016#STR0016#BRA#Para visualizar o relatório corretamente, verificar a Tabela de 
+0017#STR0017#BRA#Percentuais Aplicáveis no botao Incluir.
+0018#STR0018#BRA#+----------------------------------------------------------------------------------------------------------------------------------+
+0019#STR0019#BRA#|                                RESUMO DE CREDITOS DE MOVIMENTOS DE PRODUTOS INCENTIVADOS - PRODEPE                               |
+0020#STR0020#BRA#|                                                                                                                 PAGINA: ######   |
+0021#STR0021#BRA#|                                                                                                                                  |
+0022#STR0022#BRA#| EMPRESA:  ######################################     C.N.P.J.: ##################                I.E.:   #####################   |
+0023#STR0023#BRA#| ENDERECO: ######################################     CIDADE:   #############################     ESTADO: ##                      |
+0024#STR0024#BRA#|                                  MOVIMENTOS DE SAIDA COM PRODUTOS INCENTIVADOS - POR NCM + FAIXA                                 |
+0025#STR0025#BRA#|                                     MOVIMENTOS DE SAIDA COM PRODUTOS INCENTIVADOS - POR FAIXA                                    |
+0026#STR0026#BRA#|        NCM        |    FAIXA INI    |    FAIXA FIM    |   PERCENTUAL   |      QTDADE      |       ICMS        |     CREDITO      |	
+0027#STR0027#BRA#|-------------------+-----------------+-----------------+----------------+------------------+-------------------+------------------|
+0028#STR0028#BRA#| ################# | ############### | ############### | ############## | ################ | ################# | ################ |
+0029#STR0029#BRA#|        FAIXA INI      |      FAIXA FIM      |   PERCENTUAL   |        QTDADE        |         ICMS          |      CREDITO       |
+0030#STR0030#BRA#|-----------------------+---------------------+----------------+----------------------+-----------------------+--------------------|
+0031#STR0031#BRA#| ##################### | ################### | ############## | #################### | ##################### | ################## |
+0032#STR0032#BRA#|-----------------------+---------------------+----------------+----------------------+-----------------------+--------------------| 	
+0033#STR0033#BRA#|                                                   *** NAO HOUVE MOVIMENTO ***                                                    |
+0034#STR0034#BRA#|                                                             TOTALIZACAO  ################   #################   ################ |
+0035#STR0035#BRA#|                                                   TOTALIZACAO  ####################   #####################   ################## |
+0036#STR0036#BRA#|                                             EMISSAO: DE  ##########  ATE  ##########                                             |	

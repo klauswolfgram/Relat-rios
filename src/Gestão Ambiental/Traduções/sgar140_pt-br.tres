@@ -1,0 +1,59 @@
+0001#STR0001#ALL#De Objetivo       ?
+0002#STR0002#ALL#Ate Objetivo      ?
+0003#STR0003#ALL#De Meta           ?
+0004#STR0004#ALL#Ate Meta          ?
+0005#STR0005#ALL#De Responsável    ?
+0006#STR0006#ALL#Ate Responsável   ?
+0007#STR0007#ALL#De Prazo          ?
+0008#STR0008#ALL#Ate Prazo         ?
+0009#STR0009#ALL#Tipo de Impressao ?
+0010#STR0010#ALL#Tela
+0011#STR0011#ALL#Impressora
+0012#STR0012#ALL#Informe a partir de qual Objetivo deseja visualizar no relatório.
+0013#STR0013#ALL#Informe até qual Objetivo deseja visualizar no relatório. Pressione a tecla [F3] para selecionar um Objetivo ou digite ZZZZZZ neste campo e deixe o campo acima em branco para considerar todos os Objetivos.
+0014#STR0014#ALL#Informe a partir de qual Meta deseja visualizar no relatório.
+0015#STR0015#ALL#Informe até qual Meta deseja visualizar no relatório. Pressione a tecla [F3] para selecionar uma Meta ou digite ZZZZZZ neste campo e deixe o campo acima em branco para considerar todos as Metas.
+0016#STR0016#ALL#Informe a partir de qual Responsável deseja visualizar no relatório.
+0017#STR0017#ALL#Informe até qual Responsável deseja visualizar no relatório. Pressione a tecla [F3] para selecionar um Responsável ou digite ZZZZZZ neste campo e deixe o campo acima em branco para considerar todos os Responsáveis.
+0018#STR0018#ALL#Informe a partir de que Prazo os objetivos devem ser considerados no relatório.
+0019#STR0019#ALL#Informe até qual Prazo os objetivos devem ser considerados no relatório.
+0020#STR0020#ALL#Informe o tipo de impressão do relatório. 1=Tela;2=Impressora
+0021#STR0021#ALL#Objetivos
+0022#STR0022#ALL#Relatório de Objetivos e Metas
+0023#STR0023#ALL#Objetivo:
+0024#STR0024#ALL#Prazo: 
+0025#STR0025#ALL#Abertura: 
+0026#STR0026#ALL#Fechamento: 
+0027#STR0027#ALL#Responsável: 
+0028#STR0028#ALL#Situação: 
+0029#STR0029#ALL#Prioridade: 
+0030#STR0030#ALL#Meta:
+0031#STR0031#ALL#Status: 
+0032#STR0032#ALL#Pendente
+0033#STR0033#ALL#Tipo Meta: 
+0034#STR0034#ALL#Crescente
+0035#STR0035#ALL#Meta: 
+0036#STR0036#ALL#Quant. Atual: 
+0037#STR0037#ALL#Implantação: 
+0038#STR0038#ALL#Início Prev.: 
+0039#STR0039#ALL#Fim Prev.: 
+0040#STR0040#ALL#Início Real: 
+0041#STR0041#ALL#Fim Real: 
+0042#STR0042#ALL#Resultados:
+0043#STR0043#ALL#Data: 
+0044#STR0044#ALL#Valor: 
+0045#STR0045#ALL#Não existem dados para montar o relatório.
+0046#STR0046#ALL#Atenção
+0047#STR0047#ALL#Folha..:
+0048#STR0048#ALL#Emissão:
+0049#STR0049#ALL#Hora...:
+0050#STR0050#ALL#Fórmula:
+0051#STR0051#ALL#Detalhamento:
+0052#STR0052#ALL#Finaliza Data Prev.:
+0053#STR0053#ALL#Fórmula Compilado:
+0054#STR0054#ALL#Compilado Geral:
+0055#STR0055#ALL#Considera Observações?
+0056#STR0056#ALL#Sim
+0057#STR0057#ALL#Não
+0058#STR0058#ALL#Informe se devem ser consideradas as observações na impressão do relatório. 1=Sim;2=Não
+0059#STR0059#ALL#Observações:

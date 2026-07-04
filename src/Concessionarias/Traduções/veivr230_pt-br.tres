@@ -1,0 +1,70 @@
+0001#STR0001#ALL#R  E  G  I  S  T  R  O      D  O      M  O  V  I  M  E  N  T  O      E  N  T  R  A  D  A  S      E      S  A  I  D  A  S      D  E      V  E  I  C  U  L  O  S
+0002#STR0002#ALL#LIVRO
+0003#STR0003#ALL#FOLHA
+0004#STR0004#ALL#EMPRESA
+0005#STR0005#ALL#FILIAL
+0006#STR0006#ALL#Insc.Estadual
+0007#STR0007#ALL#Periodo
+0008#STR0008#ALL#CNPJ
+0009#STR0009#ALL#                 P R O P R I E T A R I O                     |      C A R A C T E R I S T I C A     D O     V E I C U L O     |                                   C O M P R A D O R                                    
+0010#STR0010#ALL#Data de |Nome                         |Identidade            |Marca / Ano         |Cor              |Chassi                   |Documento|Nome                         |Identidade            |Data da |Observacao      
+0011#STR0011#ALL#Entrada |Endereco                     |Cidade                |Modelo              |Especie          |Placa                    |Serie    |Endereco                     |Cidade                |Saida   |                
+0012#STR0012#ALL#Hora de |Responsavel Entrega          |                      |                    |                 |                         |         |Responsavel Retirada         |                      |Hora da |CFOP            
+0013#STR0013#ALL#Entrada |Endereco                     |Cidade                |                    |                 |                         |         |Endereco                     |Cidade                |Saida   |                
+0014#STR0014#ALL#R  E  G  I  S  T  R  O      D  O      M  O  V  I  M  E  N  T  O      E  N  T  R  A  D  A  S      E      S  A  I  D  A  S      D  E      V  E  I  C  U  L  O  S
+0015#STR0015#ALL#a
+0016#STR0016#ALL#Movimento de Entrada e Saida de Veiculos
+0017#STR0017#ALL#Zebrado
+0018#STR0018#ALL#Administracao
+0019#STR0019#ALL#T E R M O  D E  A B E R T U R A 
+0020#STR0020#ALL#Contêm este livro
+0021#STR0021#ALL#folhas numeradas mecanicamente de nº
+0022#STR0022#ALL#ao
+0023#STR0023#ALL#e servirá para Livro de Registro de Entradas e Saída de Veículos 'Livro Preto' nº , referente ao Período de 
+0024#STR0024#ALL#à
+0025#STR0025#ALL#, da empresa 
+0026#STR0026#ALL#abaixo identificada.
+0027#STR0027#ALL#Nome da Empresa: 
+0028#STR0028#ALL#Endereço: 
+0029#STR0029#ALL#Bairro: 
+0030#STR0030#ALL#Cidade: 
+0031#STR0031#ALL#Inscrição Estadual: 
+0032#STR0032#ALL#CNPJ: 
+0033#STR0033#ALL#Junta Comercial: 
+0034#STR0034#ALL# de 
+0035#STR0035#ALL#Janeiro
+0036#STR0036#ALL#Fevereiro
+0037#STR0037#ALL#Março
+0038#STR0038#ALL#Abril
+0039#STR0039#ALL#Maio
+0040#STR0040#ALL#Junho
+0041#STR0041#ALL#Julho
+0042#STR0042#ALL#Agosto
+0043#STR0043#ALL#Setembro
+0044#STR0044#ALL#Outubro
+0045#STR0045#ALL#Novembro
+0046#STR0046#ALL#Dezembro
+0047#STR0047#ALL# de 
+0048#STR0048#ALL#Sócio 
+0049#STR0049#ALL#Contador(a) 
+0050#STR0050#ALL#T E R M O  D E  E N C E R R A M E N T O
+0051#STR0051#ALL#Nao
+0052#STR0052#ALL#Data Inicial
+0053#STR0053#ALL#Data Final  
+0054#STR0054#ALL#Nro Livro   
+0055#STR0055#ALL#Ultima Folha
+0056#STR0056#ALL#Definitivo  
+0057#STR0057#ALL#Folha incial   
+0058#STR0058#ALL#Nome Empresa   
+0059#STR0059#ALL#Endereco       
+0060#STR0060#ALL#Bairro         
+0061#STR0061#ALL#Cidade         
+0062#STR0062#ALL#Inscr.Estatual 
+0063#STR0063#ALL#CNPJ           
+0064#STR0064#ALL#Junta Comercial
+0065#STR0065#ALL#Nome Socio     
+0066#STR0066#ALL#CPF Socio      
+0067#STR0067#ALL#Nome Contador  
+0068#STR0068#ALL#CPF Contador   
+0069#STR0069#ALL#CRC Contador   
+0070#STR0070#ALL#Sim

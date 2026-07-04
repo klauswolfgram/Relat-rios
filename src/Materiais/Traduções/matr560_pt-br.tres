@@ -1,0 +1,37 @@
+0001#STR0001#ALL# Diario - Detalhado 
+0002#STR0002#ALL# Diario - Totalizado 
+0003#STR0003#ALL#Faturamento por Prazo de Pagamento
+0004#STR0004#ALL#Este relatorio ira emitir a relacao de Faturamento por
+0005#STR0005#ALL#ordem de Prazo de Pagamento. Poderao ser escolhidos os inter-
+0006#STR0006#ALL#valos atraves da opcao Parametros.
+0007#STR0007#ALL#Zebrado
+0008#STR0008#ALL#Administracao
+0009#STR0009#ALL#   A Vista
+0010#STR0010#ALL#** ESTATISTICA DO FATURAMENTO POR PRAZO DE PAGAMENTO **     
+0011#STR0011#ALL#EMISSAO     NOTA             
+0012#STR0012#ALL# DIAS       
+0013#STR0013#ALL# ou + DIAS       TOTAL
+0014#STR0014#ALL#           FISCAL                                                                                                             
+0015#STR0015#ALL#Selecionando Registros...
+0016#STR0016#ALL#CANCELADO PELO OPERADOR
+0017#STR0017#ALL# TOTAL DO DIA --> 
+0018#STR0018#ALL# TOTAL ->
+0019#STR0019#ALL#TOTAL GERAL ---> 
+0020#STR0020#ALL#PERCENTUAIS --->
+0021#STR0021#ALL#** ESTATISTICA DO FATURAMENTO POR PRAZO DE PAGAMENTO **
+0022#STR0022#ALL#Este relatorio ira emitir a relacao de Faturamento por
+0023#STR0023#ALL#ordem de Prazo de Pagamento. Poderao ser escolhidos os inter-
+0024#STR0024#ALL#valos atraves da opcao Parametros.
+0025#STR0025#ALL#Diario - Detalhado
+0026#STR0026#ALL#Diario - Totalizado
+0027#STR0027#ALL#Emissao
+0028#STR0028#ALL#Nota Fiscal
+0029#STR0029#ALL#Total
+0030#STR0030#ALL#A Vista
+0031#STR0031#ALL# DIAS
+0032#STR0032#ALL# ou + DIAS
+0033#STR0033#ALL#Selecionando Registros
+0034#STR0034#ALL#Titulos/Notas de Saida
+0035#STR0035#ALL#Percentuais
+0036#STR0036#ALL#Total do Dia ---> 
+0037#STR0037#ALL#Coluna em branco

@@ -1,0 +1,31 @@
+0001#STR0001#ALL#Este programa imprimira el balance aux. comparativo
+0002#STR0002#ALL#de acuerdo con los parametros solicitados por el usuario.
+0003#STR0003#ALL#Comparativo de 
+0004#STR0004#ALL#|  CODIGO                     |D  E  S  C  R  I  P  C  I  O  N |   MOV. PERIODO 01   |   MOV. PERIODO 02   |   MOV. PERIODO 03   |   MOV. PERIODO 04   |   MOV. PERIODO 05   |   MOV. PERIODO 06   |     TOTAL  GENERAL     |
+0005#STR0005#ALL#COMPARATIVO ANALITICO DE  
+0006#STR0006#ALL#COMPARATIVO SINTETICO DE  
+0007#STR0007#ALL#COMPARATIVO DE  
+0008#STR0008#ALL# DE 
+0009#STR0009#ALL# A   
+0010#STR0010#ALL# EN 
+0011#STR0011#ALL# (PRESUP.)
+0012#STR0012#ALL# (DE GESTION)
+0013#STR0013#ALL#Creando archivo temporal...
+0014#STR0014#ALL#A Rayas
+0015#STR0015#ALL#Administracion
+0016#STR0016#ALL#***** ANULADO POR EL OPERADOR *****
+0017#STR0017#ALL#T O T A L E S  DEL  P E R I O D O: 
+0018#STR0018#ALL#TOTALES DE 
+0019#STR0019#ALL#El periodo solicitado supera el limite de 6 meses.
+0020#STR0020#ALL#Se imprimiran solo los 6 meses a partir de la fecha inicial.
+0021#STR0021#ALL#Si no se actualizan los saldos compuestos en 
+0022#STR0022#ALL#la emision de los informes (MV_SLDCOMP ='N'),
+0023#STR0023#ALL#ejecute la rutina de actualizacion de saldos 
+0024#STR0024#ALL#Codigo
+0025#STR0025#ALL#Descripc.
+0026#STR0026#ALL#Mov. Periodo
+0027#STR0027#ALL#Total Gral.
+0028#STR0028#ALL#Tot. de Columna
+0029#STR0029#ALL#El plan de gestion aun no esta disponible para este informe.
+0030#STR0030#ALL#Modifique la config. de libros... 
+0031#STR0031#ALL#Config. de Libros...

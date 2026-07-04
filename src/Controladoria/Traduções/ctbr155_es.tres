@@ -1,0 +1,24 @@
+0001#STR0001#ALL#Este programa imprimira el Balance de Cuenta / 
+0002#STR0002#ALL#de acuerdo con los parametros solicitados por el Usuario. 
+0003#STR0003#ALL#Balance de Verificacion de Cuenta / 
+0004#STR0004#ALL#|  CODIGO                     |      D E S C R I P C I O N                          |    SALDO ANTERIOR              |    DEBITO       |      CREDITO      |    MOVIMIENTO DEL PERIODO       |         SALDO ACTUAL               |
+0005#STR0005#ALL#|  CODIGO               |   D  E  S  C  R  I  P  C  I  O  N    |   SALDO ANTERIOR  |      DEBITO    |      CREDITO   |   SALDO ACTUAL     |
+0006#STR0006#ALL#BALANCE ANALITICO DE CUENTA / 
+0007#STR0007#ALL#BALANCETE SINTETICO DE CUENTA / 
+0008#STR0008#ALL#BALANCETE DE CUENTA / 
+0009#STR0009#ALL# DE 
+0010#STR0010#ALL# A 
+0011#STR0011#ALL# EN 
+0012#STR0012#ALL# (PRESUPUESTADO)
+0013#STR0013#ALL# (GERENCIAL)
+0014#STR0014#ALL#Creando Archivo Temporario...
+0015#STR0015#ALL#A Rayas
+0016#STR0016#ALL#Administracion
+0017#STR0017#ALL#***** CANCELADO POR EL OPERADOR *****
+0018#STR0018#ALL#T O T A L  E  S   D E   P E R I O D O: 
+0019#STR0019#ALL#T O T A  L  E  S   D E   G R U P O (
+0020#STR0020#ALL#T O T A  L  E  S   D E   C  U  E  N T  A: 
+0021#STR0021#ALL# Cuenta 
+0022#STR0022#ALL#DIV.
+0023#STR0023#ALL#|  CODIGO                     |      D E S C R I P C I O N                         |    SALDO ANTERIOR              |    DEBITO       |      CREDITO      |    MOVIMIENTO DEL PERIODO       |         SALDO ACTUAL               |
+0024#STR0024#ALL#|  CODIGO               |   D  E  S  C  R  I  P  C  I   O  N    |   SALDO ANTERIOR  |      DEBITO    |      CREDITO   |   SALDO ACTUAL     |

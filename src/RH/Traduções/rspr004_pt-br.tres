@@ -1,0 +1,29 @@
+0001#STR0001#ALL#Relação de Vagas
+0002#STR0002#ALL#Sera impresso de acordo com os parametros solicitados pelo
+0003#STR0003#ALL#usuario.
+0004#STR0004#ALL#Vaga
+0005#STR0005#ALL#Área
+0006#STR0006#ALL#Cliente
+0007#STR0007#ALL#Zebrado
+0008#STR0008#ALL#Administracao
+0009#STR0009#ALL#Relacao de Vagas
+0010#STR0010#ALL#Vaga                                                          Solicitante                      Vagas Prazo Dt.abert.  Dt.fecham. Fech. Valor           Area                       Cliente  Processo seletivo
+0011#STR0011#ALL#Incluindo Quebras de Centro de Custo...
+0012#STR0012#ALL#CENTRO DE CUSTO: 
+0013#STR0013#ALL#** Nao Cadastrado **
+0014#STR0014#ALL#Vagas
+0015#STR0015#ALL#Dt.Abert.
+0016#STR0016#ALL#Dt.Fecham.
+0017#STR0017#ALL#Fech.
+0018#STR0018#ALL#Valor
+0019#STR0019#ALL#Processo Seletivo
+0020#STR0020#ALL#Função
+0021#STR0021#ALL#Qtd Vagas
+0022#STR0022#ALL#Responsável
+0023#STR0023#ALL#Prazo
+0024#STR0024#ALL#Custo da Vaga
+0025#STR0025#ALL#Solicitante
+0026#STR0026#ALL#Processo
+0027#STR0027#ALL#Posto
+0028#STR0028#ALL#Tipo Vaga
+0029#STR0029#ALL#Vagas Fechadas

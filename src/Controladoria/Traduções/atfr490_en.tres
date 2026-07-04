@@ -1,0 +1,27 @@
+0001#STR0001#ALL#Provision Cd.:
+0002#STR0002#ALL#Period
+0003#STR0003#ALL#Booked
+0004#STR0004#ALL#Short Term
+0005#STR0005#ALL#Long Term
+0006#STR0006#ALL#Branch Total
+0007#STR0007#ALL#Period Total
+0008#STR0008#ALL#Revision Total
+0009#STR0009#ALL#Provision Total
+0010#STR0010#ALL#Select the Provision Transaction Events
+0011#STR0011#ALL#Please select at least one branch
+0012#STR0012#ALL#Function available for TopConnect environments only
+0013#STR0013#ALL#Function available for TReport only, please update environment and check MV_TREPORT parameter
+0014#STR0014#ALL#This report displays transactions of Provision Control.
+0015#STR0015#ALL#Provision Planning Statement
+0016#STR0016#ALL#Provision Control
+0017#STR0017#ALL#Provision Transactions
+0018#STR0018#ALL#To use this report, the Provision Control process must be deployed. Please, update the environment
+0019#STR0019#ALL#Yes
+0020#STR0020#ALL#No
+0021#STR0021#ALL#Reviewed
+0022#STR0022#ALL#Generated
+0023#STR0023#ALL#Updated
+0024#STR0024#ALL#Confirmed
+0025#STR0025#ALL#Pending Realization
+0026#STR0026#ALL#Status
+0027#STR0027#ALL#Please select at least one event

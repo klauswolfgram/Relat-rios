@@ -1,0 +1,63 @@
+0001#STR0001#ALL#Checklist APQP A7
+0002#STR0002#ALL#Gerando Visualizacao, Aguarde...
+0003#STR0003#ALL# O FMEA de processo foi preparado usando-se as
+0004#STR0004#ALL# diretrizes da Chrysler, Ford e GM ?
+0005#STR0005#ALL# Todas as operacoes que afetam o ajuste, funcao
+0006#STR0006#ALL# durabilidade, normas governamentais e de seguranca
+0007#STR0007#ALL# foram identificadas e listadas em sequencia ?
+0008#STR0008#ALL# FMEA'S de pecas similares foram consideradas ?
+0009#STR0009#ALL# Os dados historicos de campanha e garantia foram
+0010#STR0010#ALL# analisados criticamente ?
+0011#STR0011#ALL# Acoes corretivas apropriadas foram planejadas ou
+0012#STR0012#ALL# tomadas para numeros de prioridade de risco alto ?
+0013#STR0013#ALL# tomadas para numeros de alta severidade ?
+0014#STR0014#ALL# Os numeros de prioridade de risco foram revistos
+0015#STR0015#ALL# quando a acao corretiva foi completada ?
+0016#STR0016#ALL# Os numeros de alta severidade foram revistos quando
+0017#STR0017#ALL# alguma alteracao de projeto foi completada ?
+0018#STR0018#ALL# Os efeitos consideram o cliente em termos de operacao
+0019#STR0019#ALL# montagem e produto subsequentes ?
+0020#STR0020#ALL# A informacao de garantia foi usada como auxilio no
+0021#STR0021#ALL# desenvolvimento do FMEA de Processo ?
+0022#STR0022#ALL# Foram usados problemas da planta do cliente como
+0023#STR0023#ALL# auxilio no desenvolvimento do FMEA de Processo ?
+0024#STR0024#ALL# As causas foram descritas em termos de algo que
+0025#STR0025#ALL# possa ser solucionado ou controlado ?
+0026#STR0026#ALL# Onde a deteccao for um fator preponderante, foram
+0027#STR0027#ALL# tomadas medidas para se controlar a causa antes da
+0028#STR0028#ALL# operacao subsequente ?
+0029#STR0029#ALL# A-7 LISTA DE VERIFICACAO DE FMEA DE PROCESSO
+0030#STR0030#ALL#Numero da Peca Interno ou do Cliente
+0031#STR0031#ALL#Pergunta
+0032#STR0032#ALL#Sim
+0033#STR0033#ALL#Nao
+0034#STR0034#ALL#Cometarios / Acao Requerida
+0035#STR0035#ALL#Pessoa Responsavel
+0036#STR0036#ALL#Data Prevista
+0037#STR0037#ALL#Data de Revisao
+0038#STR0038#ALL#Pagina 
+0039#STR0039#ALL# de 
+0040#STR0040#ALL#operação seguinte?
+0041#STR0041#ALL#analisados criticamente e utilizados na analise?
+0042#STR0042#ALL#Foram usados problemas da planta do cliente como
+0043#STR0043#ALL#auxílio no desenvolvimento da PFMEA?
+0044#STR0044#ALL#N/a
+0045#STR0045#ALL#A FMEA de processo foi preparada por uma equipe
+0046#STR0046#ALL#multifuncional? Foram considerados todos os requisitos
+0047#STR0047#ALL#específicos do cliente?, incluindo metodologias de FMEA?
+0048#STR0048#ALL#Foram consideradas todas as operações , incluindo as 
+0049#STR0049#ALL#subcontradatas ou processos e serviços terceirizados?
+0050#STR0050#ALL#Foram aplicados os controles apropriados para 
+0051#STR0051#ALL#Contemplar todos os modos de falha identificados?
+0052#STR0052#ALL#A  severidade, detecção e ocorrência foram analisadas
+0053#STR0053#ALL#criticamente? Após a ação corretiva ser concluída.
+0054#STR0054#ALL#Foram feitas provisões para controlar a causa do
+0055#STR0055#ALL#modo de falha antes da operação subsequente ou
+0056#STR0056#ALL#A FMEA de processo foi preparada por uma equipe multifuncional?. A 
+0057#STR0057#ALL#equipe considerou todos os requisitos específicos do cliente 
+0058#STR0058#ALL#incluindo as metodologias de FMEA da edição atualizada da FMEA ?
+0059#STR0059#ALL#Todas as operações que afetam os requisitos do cliente, 
+0060#STR0060#ALL#incluindo ajuste, função, durabilidade, normas governamentais e de
+0061#STR0061#ALL#segurança, foram identificadas e listadas em sequência?
+0062#STR0062#ALL#FMEA's de peças/processos similares foram 
+0063#STR0063#ALL#consideradas ?

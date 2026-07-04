@@ -1,0 +1,62 @@
+0001#STR0001#BRA#Relacao de Valores a Recolher IRRF - Motoristas Agregados.
+0002#STR0002#BRA#Emite a Relacao de Recolhimento de IRRF - Motoristas Agregados.
+0003#STR0003#BRA#Zebrado
+0004#STR0004#BRA#Administracao
+0005#STR0005#BRA#Informar o periodo inicial para esta    
+0006#STR0006#BRA#apuracao.                               
+0007#STR0007#BRA#Periodo De        ?
+0008#STR0008#BRA#Informar o periodo final para esta      
+0009#STR0009#BRA#apuracao.                               
+0010#STR0010#BRA#Periodo Ate       ?
+0011#STR0011#BRA#Informar o tipo de apuracao desejada.   
+0012#STR0012#BRA#Importante ressaltar que esta opcao deve
+0013#STR0013#BRA#estar relacionada com as perguntas      
+0014#STR0014#BRA#Periodo de/Ate da seguinte forma:       
+0015#STR0015#BRA#-Quando o Tipo de apuracao for Decendial,
+0016#STR0016#BRA#o periodo nao deve ser inferior a 10 dias
+0017#STR0017#BRA#e deve ser multiplo de 10. O mesmo vale  
+0018#STR0018#BRA# para os outros dois tipos de apuracao. 
+0019#STR0019#BRA#+------------------------------------------+-------------+--------------+--------------+------------------+--------------+--------------+--------------+
+0020#STR0020#BRA#| Motorista                                |    C.P.F.   |        Frete |   DIRF - 40% |        Acumulado |    Descontos |   Tributavel |   Imp. Renda |
+0021#STR0021#BRA#+------------------------------------------+-------------+--------------+--------------+------------------+--------------+--------------+--------------+
+0022#STR0022#BRA#| ######################################## | ########### | ############ | ############ | ################ | ############ | ############ | ############ |
+0023#STR0023#BRA#+------------------------------------------+-------------+--------------+--------------+------------------+------------------+--------------+--------------+--------------+
+0024#STR0024#BRA#| Motorista                                |    C.P.F.   |        Frete |   DIRF - 40% | Acum. 1.Quinzena | Acum. 2.Quinzena |    Descontos |   Tributavel |   Imp. Renda |
+0025#STR0025#BRA#+------------------------------------------+-------------+--------------+--------------+------------------+------------------+--------------+--------------+--------------+
+0026#STR0026#BRA#| ######################################## | ########### | ############ | ############ | ################ | ################ | ############ | ############ | ############ |
+0027#STR0027#BRA#+--------------------------------------------------------+--------------+--------------+------------------+--------------+--------------+--------------+
+0028#STR0028#BRA#| Totais (##):                                           | ############ | ############ | ################ | ############ | ############ | ############ |
+0029#STR0029#BRA#+--------------------------------------------------------+--------------+--------------+------------------+--------------+--------------+--------------+
+0030#STR0030#BRA#Tipo Apuracao: 
+0031#STR0031#BRA#Empresa Pagto: 
+0032#STR0032#BRA#Selecionando Documentos ...
+0033#STR0033#BRA#Informe se as colunas Acumuladas deverao
+0034#STR0034#BRA#ser exibidas de acordo com o tipo de    
+0035#STR0035#BRA#apuracao relacionada com o periodo.     
+0036#STR0036#BRA#CANCELADO PELO OPERADOR
+0037#STR0037#BRA#+--------------------------------------------------------+--------------+--------------+------------------+------------------+--------------+--------------+--------------+
+0038#STR0038#BRA#| Totais (##):                                           | ############ | ############ | ################ | ################ | ############ | ############ | ############ |
+0039#STR0039#BRA#+--------------------------------------------------------+--------------+--------------+------------------+------------------+--------------+--------------+--------------+	
+0040#STR0040#BRA#+------------------------------------------+-------------+--------------+--------------+------------------+------------------+------------------+--------------+--------------+--------------+
+0041#STR0041#BRA#| Motorista                                |    C.P.F.   |        Frete |   DIRF - 40% | Acum. 1.Decendio | Acum. 2.Decendio | Acum. 3.Decendio |    Descontos |   Tributavel |   Imp. Renda |
+0042#STR0042#BRA#+------------------------------------------+-------------+--------------+--------------+------------------+------------------+------------------+--------------+--------------+--------------+
+0043#STR0043#BRA#| ######################################## | ########### | ############ | ############ | ################ | ################ | ################ | ############ | ############ | ############ |
+0044#STR0044#BRA#+--------------------------------------------------------+--------------+--------------+------------------+------------------+------------------+--------------+--------------+--------------+
+0045#STR0045#BRA#| Totais (##):                                           | ############ | ############ | ################ | ################ | ################ | ############ | ############ | ############ |
+0046#STR0046#BRA#+--------------------------------------------------------+--------------+--------------+------------------+------------------+------------------+--------------+--------------+--------------+
+0047#STR0047#BRA#Integracao Modulo TMS (Gestao Transporte).
+0048#STR0048#BRA#Para execucao desta rotina e necessario que haja integracao com o Modulo de
+0049#STR0049#BRA#Gestao de Transporte(TMS).
+0050#STR0050#BRA#Nao sera possivel prosseguir !
+0051#STR0051#BRA#Tipo de Apuracao  ?
+0052#STR0052#BRA#Exibe Apuracoes  ?
+0053#STR0053#BRA#Informe o código inicial para um filtro 
+0054#STR0054#BRA#pelo motorista na tabela SA2 (cadastro  
+0055#STR0055#BRA#de fornecedores).                       
+0056#STR0056#BRA#Fornecedor de
+0057#STR0057#BRA#Informe a loja inicial para um filtro   
+0058#STR0058#BRA#Loja de
+0059#STR0059#BRA#Informe o código final para um filtro   
+0060#STR0060#BRA#Fornecedor ate
+0061#STR0061#BRA#Informe a loja final para um filtro     
+0062#STR0062#BRA#Loja ate

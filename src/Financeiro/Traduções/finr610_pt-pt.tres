@@ -1,0 +1,41 @@
+0002#STR0002#ALL#Comissões a serem pagas.
+0003#STR0003#ALL#Previsão De Comissões
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0008#STR0008#ALL#Cancelado Pelo Operador
+0009#STR0009#ALL#Código : 
+0010#STR0010#ALL#Nome : 
+0011#STR0011#ALL#Total do vendedor    --->
+0012#STR0012#ALL#Total  geral         --->
+0013#STR0013#ALL#Subtotal do vendedor --->
+0014#STR0014#ALL#Total ir vendedor    --->
+0015#STR0015#ALL#Subtotal crial       --->
+0016#STR0016#ALL#Total crial irs       --->
+0017#STR0017#ALL#Prf Título       Prc Código               Lj   Nome                 Data De    Data               Valor      Emissão      Emissão    Valor Base %comis   Valor Total P/t
+0018#STR0018#ALL#    pedido           cliente                                        emissão    vencto            título     p/emissão       p/liquidação      p/ liquidação  total   da emissão    
+0021#STR0021#ALL#Não
+0023#STR0023#ALL#A Seleccionar Registos...
+0024#STR0024#ALL#Registos
+0025#STR0025#ALL#Prf
+0026#STR0026#ALL#Título
+0027#STR0027#ALL#Pedido
+0028#STR0028#ALL#Prc
+0029#STR0029#ALL#Código
+0030#STR0030#ALL#Cliente
+0031#STR0031#ALL#Loja
+0032#STR0032#ALL#Nome
+0033#STR0033#ALL#Da Data
+0034#STR0034#ALL#Emissão
+0035#STR0035#ALL#Data
+0036#STR0036#ALL#Vencto
+0037#STR0037#ALL#Valor
+0038#STR0038#ALL#Título
+0039#STR0039#ALL#Comissão
+0040#STR0040#ALL#P/emissão
+0041#STR0041#ALL#P/liquidação
+0042#STR0042#ALL#Valor Base
+0043#STR0043#ALL#%comis
+0044#STR0044#ALL#Total
+0045#STR0045#ALL#Valor Total
+0046#STR0046#ALL#Da Comissão
+0047#STR0047#ALL#P/t

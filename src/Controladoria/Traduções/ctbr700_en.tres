@@ -1,0 +1,61 @@
+0001#STR0001#ALL#Standard
+0002#STR0002#ALL#Increasing
+0003#STR0003#ALL#Decreasing
+0004#STR0004#ALL#MANAGEMENT STATEMENT MODEL 2
+0005#STR0005#ALL#This program will print Management Statement Model 2
+0006#STR0006#ALL#It will be printed according to parameters requested by user.
+0007#STR0007#ALL#TOTAL PER LINE
+0008#STR0008#ALL#TOTAL
+0009#STR0009#ALL#There is no data to be displayed
+0010#STR0010#ALL#0 (zero) parameter period
+0011#STR0011#ALL#Standard query SX5SL is absent and
+0012#STR0012#ALL#Reference date is empty and
+0013#STR0013#ALL#Profit/loss date is blank and
+0014#STR0014#ALL#previous L/P it becomes mandatory.
+0015#STR0015#ALL#according to definition of parameter consolidate
+0016#STR0016#ALL#according to definition of parameter detail
+0017#STR0017#ALL#according to definition of parameter position
+0018#STR0018#ALL#referred standard query.
+0019#STR0019#ALL#reference date.
+0020#STR0020#ALL#profit/loss date.
+0021#STR0021#ALL#of period it becomes mandatory.
+0022#STR0022#ALL#it is mandatory for this report.
+0023#STR0023#ALL#choose another calendar that is
+0024#STR0024#ALL#choose another calendar that is
+0025#STR0025#ALL#Run routine UPDCTB with same date as
+0026#STR0026#ALL#exist in register or was not filled
+0027#STR0027#ALL#exist in register.
+0028#STR0028#ALL#Please fill in with some type of balance
+0029#STR0029#ALL#Please fill in with a number higher than
+0030#STR0030#ALL#Please enter a date in parameter
+0031#STR0031#ALL#Please check register or
+0032#STR0032#ALL#INCOMPATIBLE
+0033#STR0033#ALL#Selected fiscal period does not
+0034#STR0034#ALL#Entered period is 0 (zero) and
+0035#STR0035#ALL#Balance to consolidate is blank and
+0036#STR0036#ALL#Balance type is empty/blank and
+0037#STR0037#ALL#or after 12/25/08 to create
+0038#STR0038#ALL#balance parameter to consolidate.
+0039#STR0039#ALL#balance type parameter.
+0040#STR0040#ALL#balance it becomes mandatory.
+0041#STR0041#ALL#be valid.
+0042#STR0042#ALL#valid.
+0043#STR0043#ALL#January
+0044#STR0044#ALL#February
+0045#STR0045#ALL#March
+0046#STR0046#ALL#April
+0047#STR0047#ALL#May
+0048#STR0048#ALL#June
+0049#STR0049#ALL#July
+0050#STR0050#ALL#August
+0051#STR0051#ALL#September
+0052#STR0052#ALL#October
+0053#STR0053#ALL#November
+0054#STR0054#ALL#December
+0055#STR0055#ALL#CONSUMPTION IN PRODUCTION
+0056#STR0056#PER#Generate TXT file?
+0057#STR0057#PER#File properly generated
+0058#STR0058#PER#To print TXT file, the questions must have the following settings:
+0059#STR0059#PER#Period orientation = In Line; Period Balance - Mov. Period; Total per row = No
+0060#STR0060#PER#Error generating TXT record.
+0061#STR0061#PER#TXT record generated successfully.

@@ -1,0 +1,28 @@
+0001#STR0001#ALL#Este programa ira imprimir o relatorio de composicao dos lancamentos aglutinados.
+0002#STR0002#ALL#Pode-se escolher se deseja imprimir todos os lancamentos ou somente os aglutinados.
+0003#STR0003#ALL#Nao e aconselhavel a emissao desse relatorio quando o historico faz parte da chave de aglutinacao.
+0004#STR0004#ALL#Composicao dos lancamentos aglutinados em 
+0005#STR0005#ALL#Zebrado
+0006#STR0006#ALL#Administracao
+0007#STR0007#ALL#|LINHA|DC |CONTA DEBITO          |CONTA CREDITO          |C.CUSTO DEBITO         |C.CUSTO CREDITO      |ITEM DEBITO          |ITEM CREDITO         |CL.VALOR DEBITO      |CL.VALOR CREDITO     |       VALOR LCTO          |
+0008#STR0008#ALL#|LP   |LP SEQ                    |HISTORICO                                      |          VALOR      |                                                                                                                   |
+0009#STR0009#ALL#***** CANCELADO PELO OPERADOR *****
+0010#STR0010#ALL#Lancamento contabil nao aglutinado.
+0011#STR0011#ALL# CREDITO
+0012#STR0012#ALL#DATA: 
+0013#STR0013#ALL#LOTE: 
+0014#STR0014#ALL#DOCUMENTO: 
+0015#STR0015#ALL#SUB-LOTE: 
+0016#STR0016#ALL#Selecionando Registros...
+0017#STR0017#ALL#TOTAL DO DOCUMENTO :
+0018#STR0018#ALL#TOTAL DO LOTE :
+0019#STR0019#ALL#INFORMADO :
+0020#STR0020#ALL#DIGITADO :
+0021#STR0021#ALL#DIFERENCA :
+0022#STR0022#ALL#TOTAL DO SUBLOTE :
+0023#STR0023#ALL#DOC    LI TP CONTA DEBITO         CONTA CREDITO         HP  HISTORICO                                      VALOR DEB      VALOR CRED
+0024#STR0024#ALL# DEBITO
+0025#STR0025#ALL# CREDITO
+0026#STR0026#ALL#DOC: 
+0027#STR0027#ALL#TOTAL DO DOCUMENTO :
+0028#STR0028#ALL#CORRELATIVO: 

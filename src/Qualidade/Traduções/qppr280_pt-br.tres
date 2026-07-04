@@ -1,0 +1,145 @@
+0001#STR0001#ALL#Checklist APQP A4
+0002#STR0002#ALL#Gerando Visualizacao, Aguarde...
+0003#STR0003#ALL# E necessaria a assistencia da qualidade assegurado do
+0004#STR0004#ALL# cliente ou atividade da engenharia do produto para
+0005#STR0005#ALL# desenvolver ou aprovar o plano de controle ?
+0006#STR0006#ALL# O fornecedor identificou quem sera o contato da
+0007#STR0007#ALL# qualidade com o cliente ?
+0008#STR0008#ALL# O fornecedor indentificou quem sera o contato da
+0009#STR0009#ALL# qualidade com seus fornecedores ?
+0010#STR0010#ALL# O sistema da qualidade foi analisado criticamente
+0011#STR0011#ALL# atraves da utilizacao do manual de Avaliacao do Sistema
+0012#STR0012#ALL# da Qualidade da Chrysler, Ford e General Motors ?
+0013#STR0013#ALL# Existe pessoal suficiente identificado para cobrir :
+0014#STR0014#ALL#* Requisitos do plano de controle ?
+0015#STR0015#ALL#* Inspecao dimensional ?
+0016#STR0016#ALL#* Testes de desempenho de engenharia ?
+0017#STR0017#ALL#* Analise de solucao de problemas ?
+0018#STR0018#ALL# Existe um programa de treinamento documentado que :
+0019#STR0019#ALL#* Inclua todos os funcionarios ?
+0020#STR0020#ALL#* Descreva aqueles que foram treinados ?
+0021#STR0021#ALL#* Forneca uma programacao de treinamento ?
+0022#STR0022#ALL# Foi completado treinamento para :
+0023#STR0023#ALL#* Controle Estatistico de Processo
+0024#STR0024#ALL#* Estudos de Capabilidade ?
+0025#STR0025#ALL#* Solucao de Problemas ?
+0026#STR0026#ALL#* Prova de erros ?
+0027#STR0027#ALL#* Outros topicos, conforme identificados ?
+0028#STR0028#ALL#* Cada operacao e dotada de instrucoes de processo
+0029#STR0029#ALL# ligadas com o plano de controle ?
+0030#STR0030#ALL#* Instrucoes padrao para o operador estao disponiveis
+0031#STR0031#ALL# para cada operacao ?
+0032#STR0032#ALL#* Lideres de operacao/equipe estiveram envolvidos no
+0033#STR0033#ALL# desenvolvimento de instrucoes padrao de operacao ?
+0034#STR0034#ALL# As instrucoes de inspecao incluem :
+0035#STR0035#ALL#* Especificacoes de desempenho de engenharia
+0036#STR0036#ALL# facilmente compreendidas ?
+0037#STR0037#ALL#* Frequencia de testes ?
+0038#STR0038#ALL#* Tamanho das amostras ?
+0039#STR0039#ALL#* Planos de reacao ?
+0040#STR0040#ALL#* Documentacao ?
+0041#STR0041#ALL# As instrucoes visuais sao :
+0042#STR0042#ALL#* Facilmente compreendidas ?
+0043#STR0043#ALL#* Disponiveis ?
+0044#STR0044#ALL#* Acessiveis ?
+0045#STR0045#ALL#* Aprovados ?
+0046#STR0046#ALL#* Datadas e atualizadas ?
+0047#STR0047#ALL# Existe procedimento para implementar, manter e
+0048#STR0048#ALL# estabelecer planos de reacao para cartas de controle
+0049#STR0049#ALL# estatistico ?
+0050#STR0050#ALL# Existe um sistema de analise de causa de raiz efetivo ?
+0051#STR0051#ALL# Foram feitas provisoes para deixar os desenhos e 
+0052#STR0052#ALL# especificacoes em seu ultimo nivel de revisao no ponto
+0053#STR0053#ALL# de inspecao ?
+0054#STR0054#ALL# Formularios/registros estao disponiveis para que o
+0055#STR0055#ALL# pessoal adequado registre os resultados de inspecao ?
+0056#STR0056#ALL# Foram feitas provisoes para se colocar o seguinte material
+0057#STR0057#ALL# na operacao monitorada :
+0058#STR0058#ALL#* Instrumento de inspecao ?
+0059#STR0059#ALL#* Instrucoes sobre instrumentos ?
+0060#STR0060#ALL#* Amostras de referencia ?
+0061#STR0061#ALL#* Registros de inspecao ?
+0062#STR0062#ALL# Foram feitas provisoes para certificar e calibrar
+0063#STR0063#ALL# rotineiramente os dispositivos de medicao e
+0064#STR0064#ALL#equipamentos de teste ?
+0065#STR0065#ALL# Os estudos de capabilidade do sistema de medicao
+0066#STR0066#ALL# necessarios foram :
+0067#STR0067#ALL#* Completados
+0068#STR0068#ALL#* Aceitos ?
+0069#STR0069#ALL# As intalacoes e equipamentos de inspecao sao
+0070#STR0070#ALL# adequados para proporcionar uma inspecao dimensional
+0071#STR0071#ALL# inicial e continua em todos os detalhes e componentes ?
+0072#STR0072#ALL# Existe algum procedimento para o controle de recebimento
+0073#STR0073#ALL# de produtos que identifica :
+0074#STR0074#ALL#* Caracteristicas a serem inspecionadas ?
+0075#STR0075#ALL#* Frequencia da inspecao ?
+0076#STR0076#ALL#* Tamanho da amostra ?
+0077#STR0077#ALL#* Local designado para o produto aprovado ?
+0078#STR0078#ALL#* Disposicao de produtos nao-conforme ?
+0079#STR0079#ALL# Existe algum procedimento para identificar, segregar
+0080#STR0080#ALL# e controlar produtos nao-conforme para evitar a
+0081#STR0081#ALL# sua entrega ?
+0082#STR0082#ALL# Estao disponiveis procedimentos de retrabalho/reparo ?
+0083#STR0083#ALL# Existe algum procedimento para requalificar material
+0084#STR0084#ALL# reparado/retrabalhado ?
+0085#STR0085#ALL# Existe um sistema adequado de rastreabilidade de
+0086#STR0086#ALL# lotes ?
+0087#STR0087#ALL# Foram planejadas e implementadas, auditorias
+0088#STR0088#ALL# periodicas de produto acabado ?
+0089#STR0089#ALL# Foram planejadas e implementadas pesquisas
+0090#STR0090#ALL# periodicas do sistema da qualidade ?
+0091#STR0091#ALL# O cliente aprovou a especificacao de embalagem ?
+0092#STR0092#ALL#Preparado Por
+0093#STR0093#ALL# A-4 LISTA DE VERIFICACAO DA QUALIDADE DO PRODUTO/PROCESSO
+0094#STR0094#ALL#Numero da Peca Interno ou do Cliente
+0095#STR0095#ALL#Pergunta
+0096#STR0096#ALL#Sim
+0097#STR0097#ALL#Nao
+0098#STR0098#ALL#Cometarios / Acao Requerida
+0099#STR0099#ALL#Pessoa Responsavel
+0100#STR0100#ALL#Data Prevista
+0101#STR0101#ALL#Data de Revisao
+0102#STR0102#ALL#Pagina 
+0103#STR0103#ALL# de 
+0104#STR0104#ALL#parte do processo de aprovação de peça?
+0105#STR0105#ALL#uma amostra mestre foi retida, se necessário, como
+0106#STR0106#ALL#N/a
+0107#STR0107#ALL#e aprovado de acordo com os requisitos do cliente
+0108#STR0108#ALL#Reação a problemas e analise de solução de problemas?
+0109#STR0109#ALL#Planos de Reação?
+0110#STR0110#ALL#As instruções para o operador incluem fotos e diagramas
+0111#STR0111#ALL#Os testes de engenharia (dimensionais, de material, aparencia
+0112#STR0112#ALL#e desempenho) foram concluídos e documentados, conforme 
+0113#STR0113#ALL#necessário, de acordo com os requisitos do cliente?
+0114#STR0114#ALL#Dispositivos de monitoramento e medição?
+0115#STR0115#ALL#Instruções sobre os dispositivos de medição
+0116#STR0116#ALL#Os Estudos de capabilidade inicial do processo foram
+0117#STR0117#ALL#conduzidos de acordo com os requisitos do cliente?
+0118#STR0118#ALL#Peças de amostra da produção foram fornecidas de acordo 
+0119#STR0119#ALL#com os requisitos do cliente?
+0120#STR0120#ALL#É necessária a assistência ou aprovação do cliente
+0121#STR0121#ALL#para desenvolver o plano de controle ?
+0122#STR0122#ALL#embalagem? 
+0123#STR0123#ALL#A Organização identificou quem será o contato da 
+0124#STR0124#ALL#Resolução de problemas ?
+0125#STR0125#ALL#As instruções-padrão para o operador estão
+0126#STR0126#ALL#acessíveis em cada estação de trabalho ?
+0127#STR0127#ALL#Requisitos de documentação ?
+0128#STR0128#ALL#Apropriadas, facilmente compreendidas e legíveis?
+0129#STR0129#ALL#Existe um procedimento para implementar, manter e estabelecer
+0130#STR0130#ALL#planos de reação para questões como condições fora de controle
+0131#STR0131#ALL#baseadas no controle estatístico de processo? 
+0132#STR0132#ALL#Existe um processo identificado para a resolução de 
+0133#STR0133#ALL#problemas que inclui a análise de causa raiz?
+0134#STR0134#ALL#Os desenhos e especificações mais atualizados estão
+0135#STR0135#ALL#disponíveis para o operador, em particular nos 
+0136#STR0136#ALL#pontos de inspeção?
+0137#STR0137#ALL#Os itens abaixo estão disponíveis e foram colocados nos 
+0138#STR0138#ALL#pontos apropriados da operação?
+0139#STR0139#ALL#Concluídos?
+0140#STR0140#ALL#As instalações e equipamentos de inspeção de layout são adequadas
+0141#STR0141#ALL#para proporcionar um layout inicial e continuo de todos os
+0142#STR0142#ALL#detalhes e componentes, de acordo com os requisitos do cliente ?
+0143#STR0143#ALL#Estão disponiveis procedimentos de retrabalho / reparo
+0144#STR0144#ALL#para assegurar produtos conformes ?
+0145#STR0145#ALL#O cliente aprovou a embalagem e a especificação da 

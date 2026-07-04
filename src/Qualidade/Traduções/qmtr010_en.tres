@@ -1,0 +1,30 @@
+0001#STR0001#ALL#This program will print a report of
+0002#STR0002#ALL#instruments to calibrate
+0003#STR0003#ALL#Z.Form 
+0004#STR0004#ALL#Management
+0005#STR0005#ALL#Report of Instruments to Calibrate
+0006#STR0006#ALL#Report
+0007#STR0007#ALL#days
+0008#STR0008#ALL#CANCELLED BY OPERATOR  
+0009#STR0009#ALL#Department
+0010#STR0010#ALL#Date
+0011#STR0011#ALL#Total........................:
+0012#STR0012#ALL#Grand Total..................:
+0013#STR0013#ALL#Instruments to Calibrate
+0014#STR0014#ALL#Not Calibrated
+0015#STR0015#ALL#Selecting Records
+0016#STR0016#ALL#Instrument
+0017#STR0017#ALL#Break by page?
+0018#STR0018#ALL#Family 
+0019#STR0019#ALL#Freq
+0020#STR0020#ALL#Days
+0021#STR0021#ALL#Report
+0022#STR0022#ALL#Location   
+0023#STR0023#ALL#Descript.
+0024#STR0024#ALL#Sub-total 
+0025#STR0025#ALL#Grand total 
+0026#STR0026#ALL#Dept. +Date
+0027#STR0027#ALL#Ranges
+0028#STR0028#ALL#Responsible
+0029#STR0029#ALL#Reducer
+0030#STR0030#ALL#Tolerance 

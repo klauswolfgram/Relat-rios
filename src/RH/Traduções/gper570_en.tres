@@ -1,0 +1,58 @@
+0001#STR0001#ALL#Future Values 
+0001#STR0001#ANG# future values 
+0001#STR0001#EQU# future values 
+0001#STR0001#HAI# future values 
+0001#STR0001#PTG# future values 
+0002#STR0002#ALL#Registration:
+0002#STR0002#ANG#Record:
+0002#STR0002#EQU#Record:
+0002#STR0002#HAI#Record:
+0002#STR0002#PTG#Record:
+0003#STR0003#ALL#Registration + PD
+0003#STR0003#ANG#Record + Pd
+0003#STR0003#EQU#Record + Pd
+0003#STR0003#HAI#Record + Pd
+0003#STR0003#PTG#Record + Pd
+0004#STR0004#ALL#Code  Fund Description      Vl. Main       Instal.      Vl. Instal.    Int. Yr.    Int. Mont.    Val.w/Interest        Val.Paid        Instal.Paid     Remain.Val.      Due Dt.      Trans.Dt
+0004#STR0004#ANG#Code  Fund Description       Vl. Main       Instal.      Vl. Installm.    Int. Yr.    Int. Mont.    Val.w/Interest        Val.Paid        Instal.Paid     Remain.Val.      Due Dt.      Trans.Dt
+0004#STR0004#EQU#Code  Fund Description       Vl. Main       Instal.      Vl. Installm.    Int. Yr.    Int. Mont.    Val.w/Interest        Val.Paid        Instal.Paid     Remain.Val.      Due Dt.      Trans.Dt
+0004#STR0004#HAI#Code  Fund Description       Vl. Main       Instal.      Vl. Installm.    Int. Yr.    Int. Mont.    Val.w/Interest        Val.Paid        Instal.Paid     Remain.Val.      Due Dt.      Trans.Dt
+0004#STR0004#PTG#Code  Fund Description       Vl. Main       Instal.      Vl. Installm.    Int. Yr.    Int. Mont.    Val.w/Interest        Val.Paid        Instal.Paid     Remain.Val.      Due Dt.      Trans.Dt
+0005#STR0005#ALL#Branch Total
+0005#STR0005#ANG#Branch Total
+0005#STR0005#EQU#Branch Total
+0005#STR0005#HAI#Branch Total
+0005#STR0005#PTG#Branch Total
+0006#STR0006#ALL#Grand Total    ...
+0006#STR0006#ANG#Grand Total    ...
+0006#STR0006#EQU#Grand Total    ...
+0006#STR0006#HAI#Grand Total    ...
+0006#STR0006#PTG#Grand Total    ...
+0007#STR0007#BRA#Future Values
+0008#STR0008#ALL#Employees
+0008#STR0008#ANG#Employees
+0008#STR0008#EQU#Employees
+0008#STR0008#HAI#Employees
+0008#STR0008#PTG#Employees
+0009#STR0009#ALL#Vl w/ Inter.
+0009#STR0009#ANG#Vl w/ Inter.
+0009#STR0009#EQU#Vl w/ Inter.
+0009#STR0009#HAI#Vl w/ Inter.
+0009#STR0009#PTG#Vl w/ Inter.
+0010#STR0010#ALL#Instal.Vl
+0011#STR0011#ALL#Vl Paid
+0011#STR0011#ANG#Value Paid
+0011#STR0011#EQU#Value Paid
+0011#STR0011#HAI#Value Paid
+0011#STR0011#PTG#Value Paid
+0012#STR0012#ALL#Cost Center Total 
+0012#STR0012#ANG#Cost Center Total 
+0012#STR0012#EQU#Cost Center Total 
+0012#STR0012#HAI#Cost Center Total 
+0012#STR0012#PTG#Cost Center Total 
+0013#STR0013#ALL#This routine generated statement of posted future values to be generated in payroll, in accordance with due date. 
+0013#STR0013#ANG#This procedure generates a statement of posted future values to be created when payment matures, in accordance with due date. 
+0013#STR0013#EQU#This procedure generates a statement of posted future values to be created when payment matures, in accordance with due date. 
+0013#STR0013#HAI#This procedure generates a statement of posted future values to be created when payment matures, in accordance with due date. 
+0013#STR0013#PTG#This procedure generates a statement of posted future values to be created when payment matures, in accordance with due date. 
+0014#STR0014#BRA#Registration

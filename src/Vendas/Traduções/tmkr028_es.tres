@@ -1,0 +1,25 @@
+0001#STR0001#ALL#Emision de Scripts dinamicos. 
+0002#STR0002#ALL#Este programa emitira una lista con los Scripts Dinamicos 
+0003#STR0003#ALL#Anulado por el Operador.
+0004#STR0004#ALL#Script       : 
+0005#STR0005#ALL#Título       : 
+0006#STR0006#ALL#Tiempo        : 
+0007#STR0007#ALL#Tipo         : 
+0008#STR0008#ALL#Receptivo
+0009#STR0009#ALL#Activo
+0010#STR0010#ALL#Ambos
+0011#STR0011#ALL#Formato      : 
+0012#STR0012#ALL#Atencion
+0013#STR0013#ALL#Busqueda
+0014#STR0014#ALL#Score Maximo : 
+0015#STR0015#ALL#Score Minimo : 
+0016#STR0016#ALL#Accion Minima: 
+0017#STR0017#ALL#Accion Maxima: 
+0018#STR0018#ALL#No existen datos para imprimir en este informe, con los parametros informados
+0019#STR0019#ALL#Observacion:
+0020#STR0020#ALL#Formato
+0021#STR0021#ALL#Acc. Minima
+0022#STR0022#ALL#Acc. Maxima
+0023#STR0023#ALL#Encabez. de Script Dinamico
+0024#STR0024#ALL#Descripc. de Pregunta
+0025#STR0025#ALL#Descrip. de Respuesta

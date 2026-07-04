@@ -1,0 +1,17 @@
+0001#STR0001#ALL#Lista de embarque de separación
+0002#STR0002#ALL#Emite Informe de lista de embarque de separación ordenado por
+0003#STR0003#ALL#Carga+Secuencia de carga. En cada carga los ítems son 
+0004#STR0004#ALL#ordenados por Pedido+Cliente/Proveedor+Tienda+Ítem    
+0005#STR0029#ALL#Llegada
+0006#STR0030#ALL#Salida
+0007#STR0031#ALL#Unitizada
+0008#STR0032#ALL#1ª UM
+0009#STR0033#ALL#2ª UM
+0010#STR0034#ALL#Cargas
+0011#STR0035#ALL#Ítems da carga
+0012#STR0036#ALL#Movimientos por ubicación
+0013#STR0037#ALL#Sec
+0014#STR0038#ALL#Vehículo
+0015#STR0039#ALL#Valor
+0016#STR0040#ALL#Pedido
+0017#STR0041#ALL#Ítem

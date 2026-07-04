@@ -1,0 +1,29 @@
+0001#STR0001#ALL#Emissão dos contactos do call center complementa todas as
+0002#STR0002#ALL#Respectivas entidades representadas por eles.
+0003#STR0003#ALL#A emissão irá ocorrer baseada nos parâmetros do relatório
+0004#STR0004#ALL#Código de barras
+0006#STR0006#ALL#Cancelado Pelo Operador
+0007#STR0007#ALL#Código do contacto
+0008#STR0008#ALL#Nome do contacto
+0009#STR0009#ALL#Morada do contacto
+0010#STR0010#ALL#Localidade do contacto
+0011#STR0011#ALL#Concelho do contacto
+0012#STR0012#ALL#Código postal do contacto
+0013#STR0013#ALL#BI do contacto
+0014#STR0014#ALL#Indicativo do contacto
+0015#STR0015#ALL#Telefone Residencial
+0016#STR0016#ALL#Telemóvel
+0017#STR0017#ALL#Fax do contacto
+0019#STR0019#ALL#E-mail do contacto
+0020#STR0020#ALL#Homepage do contacto
+0021#STR0021#ALL#Entidade  Código  Nome                            Morada                        Concelho             BI  Código Postal         Telefone Comercial   Email                          Homepage                       Indicativo
+0022#STR0022#ALL#Não ha ifacturaormações para imprimir este relatório. verifique os parâmetros ifacturaormados.
+0023#STR0023#ALL#Registo de contactos e entidades
+0026#STR0026#ALL#Morada
+0027#STR0027#ALL#Concelho
+0028#STR0028#ALL#Uf
+0029#STR0029#ALL#Código postal
+0030#STR0030#ALL#Telefone Comercial
+0031#STR0031#ALL#E-mail
+0033#STR0033#ALL#Ddd
+0034#STR0034#ALL#Contactos

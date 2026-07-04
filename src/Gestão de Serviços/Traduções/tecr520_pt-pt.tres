@@ -1,0 +1,9 @@
+0001#STR0001#ALL#Acompanhamento Do Atendimento Do SO
+0002#STR0002#ALL#    este programa emite o relatório de acompanhamento da ordem de serviço, 
+0003#STR0003#ALL#Cofacturaorme os parâmetros solicitados. 
+0005#STR0005#ALL#Código de barras
+0006#STR0006#ALL#Administração
+0007#STR0007#ALL#Nr.SO  It Cliente                                  Nr.ligação  Dt.ligação Hora  Contacto              Previsão De Atendimento Duração
+0008#STR0008#ALL#          Código    Nome                                                                             Tec.   Data        Hora  Em Hrs
+0009#STR0009#ALL#Cancelado Pelo Operador
+0011#STR0011#ALL#Agenda do técnico

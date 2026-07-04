@@ -1,0 +1,24 @@
+0001#STR0001#ALL#Contratos De Parceria
+0002#STR0002#ALL#Emite uma relação com as informações referentes
+0003#STR0003#ALL#Aos Contratos De Parceria.
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#Cancelado Pelo Operador
+0007#STR0007#ALL#Por Número
+0009#STR0009#ALL#Por Artigo
+0010#STR0010#ALL#Elemento  Artigo         Descrição                        Quantidade      Prc. Unit.      Valor Total  Dt.inicial  Dt.final  Armazém          Saldo  Elim.res.  Observações
+0011#STR0011#ALL#Elemento  Artigo         Descrição                        Quantidade      Prc. Unit.      Valor Total  Dt.inicial  Dt.final  Armazém          Saldo  Elim.res.  Observações                     Contrato  Emissão  Fil.ent. Transporte
+0012#STR0012#ALL#Elemento    quantidade      prc. unit.      valor total  dt.inicial  dt.final  armazém          saldo  elim.res.  observações                     contrato  emissão  c.pgt. moeda fil.ent. transporte fornecedor       
+0017#STR0017#ALL#Contrato nr.: 
+0018#STR0018#ALL#Emissão: 
+0019#STR0019#ALL#Cond.pagamento: 
+0020#STR0020#ALL#Filial p/entrega: 
+0023#STR0023#ALL#Contacto: 
+0024#STR0024#ALL#Tipo do frete.: 
+0025#STR0025#ALL#Artigo: 
+0027#STR0027#ALL#Não
+0028#STR0028#ALL#Total dos elementos: 
+0031#STR0031#ALL#Contrato De Parceria
+0033#STR0033#ALL#Item Do Contrato De Parceria
+0034#STR0034#ALL#Artigo ( por artigo )
+0035#STR0035#ALL#Item do contrato de parceria ( por artigo )

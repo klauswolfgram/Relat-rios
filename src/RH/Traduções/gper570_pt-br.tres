@@ -1,0 +1,58 @@
+0001#STR0001#ALL# Valores Futuros 
+0001#STR0001#ANG# valores futuros 
+0001#STR0001#EQU# valores futuros 
+0001#STR0001#HAI# valores futuros 
+0001#STR0001#PTG# valores futuros 
+0002#STR0002#ALL#Matricula:
+0002#STR0002#ANG#Registo:
+0002#STR0002#EQU#Registo:
+0002#STR0002#HAI#Registo:
+0002#STR0002#PTG#Registo:
+0003#STR0003#ALL#Matricula + PD
+0003#STR0003#ANG#Registo + Pd
+0003#STR0003#EQU#Registo + Pd
+0003#STR0003#HAI#Registo + Pd
+0003#STR0003#PTG#Registo + Pd
+0004#STR0004#ALL#Cod.  Descricao Verba       Vlr. Principal     Parc.      Vlr. Parcela    Jrs. ano    Jrs. Mes      Valor c/Juros         Valor Pago     Parc.Pg.     Vlr.Residuo      Dt.Vcto      Dt.Mvto
+0004#STR0004#ANG#Cod.  Descrição  Verba       Vlr. Principal     Parc.      Vlr. Prestação    Jrs. Ano    Jrs. Mês      Valor C/juros         Valor Pago     Parc.pg.     Vlr.residuo      Dt.vcto      Dt.mvto
+0004#STR0004#EQU#Cod.  Descrição  Verba       Vlr. Principal     Parc.      Vlr. Prestação    Jrs. Ano    Jrs. Mês      Valor C/juros         Valor Pago     Parc.pg.     Vlr.residuo      Dt.vcto      Dt.mvto
+0004#STR0004#HAI#Cod.  Descrição  Verba       Vlr. Principal     Parc.      Vlr. Prestação    Jrs. Ano    Jrs. Mês      Valor C/juros         Valor Pago     Parc.pg.     Vlr.residuo      Dt.vcto      Dt.mvto
+0004#STR0004#PTG#Cod.  Descrição  Verba       Vlr. Principal     Parc.      Vlr. Prestação    Jrs. Ano    Jrs. Mês      Valor C/juros         Valor Pago     Parc.pg.     Vlr.residuo      Dt.vcto      Dt.mvto
+0005#STR0005#ALL#Total da Filial
+0005#STR0005#ANG#Total Da Filial
+0005#STR0005#EQU#Total Da Filial
+0005#STR0005#HAI#Total Da Filial
+0005#STR0005#PTG#Total Da Filial
+0006#STR0006#ALL#Total Geral    ...
+0006#STR0006#ANG#Total geral    ...
+0006#STR0006#EQU#Total geral    ...
+0006#STR0006#HAI#Total geral    ...
+0006#STR0006#PTG#Total geral    ...
+0007#STR0007#BRA#Valores Futuros
+0008#STR0008#ALL#Funcionários
+0008#STR0008#ANG#Empregados
+0008#STR0008#EQU#Empregados
+0008#STR0008#HAI#Empregados
+0008#STR0008#PTG#Empregados
+0009#STR0009#ALL#Vlr c/ Jrs
+0009#STR0009#ANG#Vlr C/ Jrs
+0009#STR0009#EQU#Vlr C/ Jrs
+0009#STR0009#HAI#Vlr C/ Jrs
+0009#STR0009#PTG#Vlr C/ Jrs
+0010#STR0010#ALL#Vlr Parc.
+0011#STR0011#ALL#Vlr Pago
+0011#STR0011#ANG#Valor Pago
+0011#STR0011#EQU#Valor Pago
+0011#STR0011#HAI#Valor Pago
+0011#STR0011#PTG#Valor Pago
+0012#STR0012#ALL#Total do Centro de Custo 
+0012#STR0012#ANG#Total do centro de custo 
+0012#STR0012#EQU#Total do centro de custo 
+0012#STR0012#HAI#Total do centro de custo 
+0012#STR0012#PTG#Total do centro de custo 
+0013#STR0013#ALL#Esta rotina gera um extrato dos valores futuros lançados, e que serão gerados em  folha de pagamento, conforme  a data de vencimento. 
+0013#STR0013#ANG#Este procedimento gera um extracto dos valores futuros lancados, e que serão criados em  vencimento de pagamento, conforme  a data de vencimento. 
+0013#STR0013#EQU#Este procedimento gera um extracto dos valores futuros lancados, e que serão criados em  vencimento de pagamento, conforme  a data de vencimento. 
+0013#STR0013#HAI#Este procedimento gera um extracto dos valores futuros lancados, e que serão criados em  vencimento de pagamento, conforme  a data de vencimento. 
+0013#STR0013#PTG#Este procedimento gera um extracto dos valores futuros lancados, e que serão criados em  vencimento de pagamento, conforme  a data de vencimento. 
+0014#STR0014#BRA#Matrícula

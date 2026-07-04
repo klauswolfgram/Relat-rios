@@ -1,0 +1,17 @@
+0001#STR0001#ALL#Demonstrativo de depreciação de bens com controlo de rateio
+0005#STR0005#ALL#Código do bem
+0009#STR0009#ALL#Tipo de saldo
+0010#STR0010#ALL#Valor original
+0012#STR0012#ALL#Valor deprec.
+0013#STR0013#ALL#Valor rateado
+0014#STR0014#ALL#Tipo de activo
+0017#STR0017#ALL#Conta contab.
+0018#STR0018#ALL#Centro custo
+0019#STR0019#ALL#Item da conta
+0021#STR0021#ALL#Ent. contab. 
+0022#STR0022#ALL#Total do bem 
+0024#STR0024#ALL# e tipo 
+0026#STR0026#ALL#DE GESTÃO
+0028#STR0028#ALL#Total da filial: 
+0030#STR0030#ALL#Total rateado da entidade: 
+0031#STR0031#ALL#Para utilizar este relatório, é necessário que estejam implementados os processos de Depreciação de bens com controlo de rateio. Por favor, actualize o ambiente

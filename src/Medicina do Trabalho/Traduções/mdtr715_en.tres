@@ -1,0 +1,77 @@
+0001#STR0001#ALL#Occupational safety service order        
+0002#STR0002#ALL#SERVICE ORDER   
+0003#STR0003#ALL#BY ACTIVITY (S.O.)  
+0004#STR0004#ALL#OCCUPATIONAL SAFETY  
+0005#STR0005#ALL#Preparation date:
+0006#STR0006#ALL#Last review:   
+0007#STR0007#ALL#Company inform. 
+0008#STR0008#ALL#Company name:     
+0009#STR0009#ALL#Address: 
+0010#STR0010#ALL#City:  
+0011#STR0011#ALL#CNPJ:
+0012#STR0012#ALL#CNAE:
+0013#STR0013#ALL#Distr.:
+0014#STR0014#ALL#Employee information
+0015#STR0015#ALL#Name:
+0016#STR0016#ALL#Cost center:    
+0017#STR0017#ALL#Role:  
+0018#STR0018#ALL#CTPS:
+0019#STR0019#ALL#Registr.: 
+0020#STR0020#ALL#Admission Dt.:
+0021#STR0021#ALL#Date of birth:  
+0022#STR0022#ALL#ID:
+0023#STR0023#ALL#Role description:
+0024#STR0024#ALL#Agents associated to activities: 
+0025#STR0025#ALL#EPIs of compulsory use:   
+0026#STR0026#ALL#Recommendat.:  
+0027#STR0027#ALL#Liability statement:       
+0028#STR0028#ALL#Approval:  
+0029#STR0029#ALL#Date: 
+0030#STR0030#ALL#Company responsible: 
+0031#STR0031#ALL#Function
+0032#STR0032#ALL#Description of the Activities?
+0033#STR0033#ALL#Person in Charge of the Company?
+0034#STR0034#ALL#Period to?
+0035#STR0035#ALL#Period From?
+0036#STR0036#ALL#To Employee?
+0037#STR0037#ALL#From Employee?
+0038#STR0038#ALL#To Cost Center?
+0039#STR0039#ALL#From Cost Center?
+0040#STR0040#ALL#To Function?
+0041#STR0041#ALL#From Function?
+0042#STR0042#ALL#Print Type?
+0043#STR0043#ALL#From Customer?
+0044#STR0044#ALL#Store
+0045#STR0045#ALL#To Customer?
+0046#STR0046#ALL#Position
+0047#STR0047#ALL#Task
+0048#STR0048#ALL#Workstation
+0049#STR0049#ALL#Employee:
+0050#STR0050#ALL#Search Info. of the Function
+0051#STR0051#ALL#Current
+0052#STR0052#ALL#from S.W.
+0053#STR0053#ALL#It determines whether report must print the risk information, EPI's related to the employee current function,
+0054#STR0054#ALL# or print information about the S.W. own functions.
+0055#STR0055#ALL#Agent Amount?
+0056#STR0056#ALL#Yes
+0057#STR0057#ALL#No
+0058#STR0058#ALL#It indicates whether the report is to print the information referring to the amount of risk agent found.
+0059#STR0059#ALL#Collection
+0060#STR0060#ALL#Entity
+0061#STR0061#ALL#Indicates whether the report must print address information related to collection or entity.
+0062#STR0062#ALL#Agent
+0063#STR0063#ALL#Quantity
+0064#STR0064#ALL#Unit
+0065#STR0065#ALL#Search Information?
+0066#STR0066#ALL#Address?
+0067#STR0067#ALL#From Department?
+0068#STR0068#ALL#To Department?
+0069#STR0069#ALL#It indicates the department code. To select the first code, leave field blank.
+0070#STR0070#ALL#It indicates the Department code. To select the last record, set it to 'ZZZZZZZZZ'.
+0071#STR0071#ALL#Define which description of activities to display. It may be the description of the position, function or task.
+0072#STR0072#ALL#Registration of person in charge of company.
+0073#STR0073#ALL#Maximum date of service order elaborations.
+0074#STR0074#ALL#Minimum date of service order elaborations.
+0075#STR0075#ALL#Employee registration number. The field can be completed with the letter Z until the end to consider the last code.
+0076#STR0076#ALL#Employee registration number. Leave field blank to consider from the first code onwards.
+0077#STR0077#ALL#Department:

@@ -1,0 +1,24 @@
+0001#STR0001#ALL#Company´s Personnel Report.
+0002#STR0002#ALL#It will be printed according to the parameters selected
+0003#STR0003#ALL#by the user.
+0004#STR0004#ALL#Cost Center
+0005#STR0005#ALL#Z.Form
+0006#STR0006#ALL#Management
+0007#STR0007#ALL#    YEAR/MONTH    CURR.VL.   ESTIM.VALUE  CURR.VL.+ENCHRG  EST.VL.+ENCHRG  CURR.NO.  ESTIM.NO.  
+0008#STR0008#ALL# Personnel 
+0009#STR0009#ALL#Cost Center: 
+0010#STR0010#ALL#Branch: 
+0011#STR0011#ALL#  YEAR/MONTH    FUNCTION                 CURR.VL.    EST.VL.     CURR.VL.+ENC.   EST.VL.+ENC. APPROV.VL.  CURR.VL. EST.QT. APPR.QT. 
+0012#STR0012#ALL#Total Period: 
+0013#STR0013#ALL#Total Cost Center: 
+0014#STR0014#ALL#Grand Total: 
+0015#STR0015#ALL#List of Employees per Function
+0016#STR0016#ALL#Curr.Vl.+Taxes
+0017#STR0017#ALL#Estim.Vl.+Taxes
+0018#STR0018#ALL#Period Total: 
+0019#STR0019#ALL#Employees List File
+0020#STR0020#ALL#Curr.No.
+0021#STR0021#ALL#Estim.No.
+0022#STR0022#ALL#This program issues an Employee Grid Report
+0023#STR0023#ALL#Detailed
+0024#STR0024#ALL#Summarized

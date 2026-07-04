@@ -1,0 +1,43 @@
+0002#STR0002#ALL#A Criar Relatório, Aguarde...
+0004#STR0004#ALL#01 teste de função
+0005#STR0005#ALL#02 teste de medição
+0006#STR0006#ALL#03 teste de material
+0007#STR0007#ALL#04 teste de resistência
+0008#STR0008#ALL#05 comprov. de capaciade do processo
+0009#STR0009#ALL#06 diagrama de decurso do processo
+0010#STR0010#ALL#07 comprovação da capacidade de instr. de teste
+0012#STR0012#ALL#09 folha eg de segurança de dados
+0013#STR0013#ALL#10 Tacto
+0014#STR0014#ALL#11 Acústica
+0016#STR0016#ALL#13 aspecto geral
+0018#STR0018#ALL#15 autorização de construção
+0019#STR0019#ALL#16 material de composição em peças compradas
+0021#STR0021#ALL#Relatório vda de amostra inicial
+0024#STR0024#ALL#Peça nova
+0025#STR0025#ALL#Alteração de artigo
+0026#STR0026#ALL#Preterição da produção
+0027#STR0027#ALL#Alteração de processos de produção
+0028#STR0028#ALL#Interrupção maior de produção
+0030#STR0030#ALL#Artigo Com Dae
+0031#STR0031#ALL#Elaborado plano de produção/inspecção
+0032#STR0032#ALL#Fmea realizado
+0033#STR0033#ALL#Relatório das demais amostras
+0034#STR0034#ALL#- resultados de exame -
+0035#STR0035#ALL#Página :
+0036#STR0036#ALL#Núm. De Identificação, Fornecedor:
+0037#STR0037#ALL#Núm. De Identificação, Cliente:
+0038#STR0038#ALL#Núm. De Relatório
+0039#STR0039#ALL#Versão
+0040#STR0040#ALL#Estado/data do núm. da família/desenho/alteração:
+0041#STR0041#ALL#Denominação:
+0043#STR0043#ALL#Exigências
+0044#STR0044#ALL#Valores actuais do fornecedor
+0045#STR0045#ALL#Avaliação
+0047#STR0047#ALL#Confirmação Do Fornecedor:
+0048#STR0048#ALL#Observação:
+0051#STR0051#ALL#Telefone/fax/e-mail:
+0054#STR0054#ALL#Decisão Cliente:
+0055#STR0055#ALL#Libertado
+0056#STR0056#ALL#Libertado com restrições
+0057#STR0057#ALL#Reprovado, necessária amostra posterior
+0058#STR0058#ALL#Sequência

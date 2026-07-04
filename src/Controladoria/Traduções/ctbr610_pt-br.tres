@@ -1,0 +1,30 @@
+0001#STR0001#ALL#DEMONSTRATIVO GERENCIAL DETALHADO
+0002#STR0002#ALL#Gerando relatorio, aguarde......
+0003#STR0003#ALL#cem
+0004#STR0004#ALL#mil
+0005#STR0005#ALL#milhao
+0006#STR0006#ALL#Criando Arquivo Temporario DRE....
+0007#STR0007#ALL#Responsaveis....
+0008#STR0008#ALL#É necessário informar a data de referência
+0009#STR0009#ALL#Parâmetro 'Considera igual a Periodo
+0010#STR0010#ALL#Data fora do periodo
+0011#STR0011#ALL#Data de Referência
+0012#STR0012#ALL#Contas/Saldos
+0013#STR0013#ALL#(Em 
+0014#STR0014#ALL#Este programa irá imprimir o DRE Gerencial Detalhado,
+0015#STR0015#ALL# de acordo com os parâmetros informados pelo usuário.
+0016#STR0016#ALL#Detalhe da Visão
+0017#STR0017#ALL#Descrição
+0018#STR0018#ALL#Código
+0019#STR0019#ALL#Periodo Atual
+0020#STR0020#ALL#Periodo Anterior
+0021#STR0021#ALL#Itens do Detalhe
+0022#STR0022#ALL#Conta Contábil
+0023#STR0023#ALL#C. Custo
+0024#STR0024#ALL#Item Contábil
+0025#STR0025#ALL#Cl. Valor
+0026#STR0026#ALL#Quadros Contábeis
+0027#STR0027#ALL#Itens do Quadro Contábil
+0028#STR0028#ALL#Criando arquivo temporário Detalhado..
+0029#STR0029#ALL#Criando arquivo temporário dos Quadros..
+0030#STR0030#ALL#Relatorio disponível apenas em TReport.

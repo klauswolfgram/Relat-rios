@@ -1,0 +1,37 @@
+0001#STR0001#ALL#C.custo + registo 
+0002#STR0002#ALL#C.custo + Nome
+0003#STR0003#ALL#C.Custo + Função
+0004#STR0004#ALL#RELAÇÃO DE CLASSIFICAÇÃO POR CARGOS
+0005#STR0005#ALL#Será impresso de acordo com os parâmetros solicitados pelo
+0006#STR0006#ALL#Utilizador.
+0007#STR0007#ALL#Código de barras
+0008#STR0008#ALL#Administração
+0009#STR0009#ALL#RELAÇÃO DE CLASSIF. POR CARGOS
+0010#STR0010#ALL#Filial Registo Nome                           Secção                           Cód.  Função                Data Nasc.   Admissão    Demissão    Idade  Tempo Serviço      Salário Mês     Salário Dia
+0011#STR0011#ALL#Data de referência: 
+0012#STR0012#ALL#Relação de classificação por cargos 
+0013#STR0013#ALL#(c.custo + Registo)
+0014#STR0014#ALL#(c.custo + Nome)
+0015#STR0015#ALL#(c.custo + Função)
+0016#STR0016#ALL#A Seleccionar Registos...
+0017#STR0017#ALL#  Total       Total Mascul.  Total Femin.      Tot.remuner.            Méd.rem. Mas    Méd. T.serv Mas   Méd. Idade Mas      Méd.rem Fem    Méd. T.serv Fem   Méd. Idade Fem     Méd. T.sev Tot    Méd. Idade Tot
+0018#STR0019#ALL#* * * *  médias totais  * * * *
+0019#STR0020#ALL#Data de referencia: 
+0020#STR0021#ALL#Este Programa Emite Relação De Classificação Por Cargos.
+0021#STR0022#ALL#Idade
+0022#STR0023#ALL#Tempo Serviço
+0023#STR0024#ALL#Remuneração Mês
+0024#STR0025#ALL#Remuneração Dia
+0025#STR0026#ALL#TOTAL DE EMPREGADOS
+0026#STR0027#ALL#Total de empregados masculinos                     
+0027#STR0028#ALL#Total de empregados femininos                      
+0028#STR0029#ALL#Total de remunerações                              
+0029#STR0030#ALL#Média das remunerações dos empregados masculinos  
+0030#STR0031#ALL#Média das remunerações dos empregados femininos   
+0032#STR0033#ALL#Média de tempo de serviço empregados masculinos 
+0033#STR0034#ALL#Média de tempo de serviço empregados femininos  
+0035#STR0036#ALL#Média de idades de empregados masculinos        
+0036#STR0037#ALL#Média de idades de empregados femininos         
+0037#STR0038#ALL#Totais da filial 
+0038#STR0039#ALL#Totais do centro de custo 
+0039#STR0040#ALL#Empregados

@@ -1,0 +1,27 @@
+0001#STR0001#ALL#RELACAO DOS PRODUTOS VENDIDOS
+0002#STR0002#ALL#Este relatorio apresenta o valor total das vendas de cada produto,
+0003#STR0003#ALL#calculando sua participacao dentro do total das vendas.Mostra tam-
+0004#STR0004#ALL#bem o custo FIFO de cada venda e o custo FIFO de reposicao do produto.
+0005#STR0005#ALL#Zebrado
+0006#STR0006#ALL#Administraçäo
+0007#STR0007#ALL#REGISTRO(S)
+0008#STR0008#ALL#TP  CODIGO           D E S C R I C A O               QUANTIDADE  UM           CUSTO       CUSTO POR       V A L O R     MAR     MIX     MIX        CUSTO DE   VARIA
+0009#STR0009#ALL#                                                                              TOTAL         UNIDADE        FATURADO     GEM            *MAR       REPOSICAO     CAO
+0010#STR0010#ALL#Selecionando Registros...
+0011#STR0011#ALL#CANCELADO PELO OPERADOR
+0012#STR0012#ALL#Sub Total : 
+0013#STR0013#ALL#T O T A L ---> 
+0014#STR0014#ALL#Atencao
+0015#STR0015#ALL#Atualizar patch do programa 
+0016#STR0016#ALL#Custo Total
+0017#STR0017#ALL#Custo por
+0018#STR0018#ALL# Unidade
+0019#STR0019#ALL#Valor Faturado
+0020#STR0020#ALL#Margem
+0021#STR0021#ALL#Mix
+0022#STR0022#ALL#*Mar
+0023#STR0023#ALL#Custo de 
+0024#STR0024#ALL#Reposicao
+0025#STR0025#ALL#Variacao
+0026#STR0026#ALL#Itens de documentos de saida
+0027#STR0027#ALL#Relação dos Produtos Vendidos FIFO

@@ -1,0 +1,25 @@
+0001#STR0001#ALL#This program will print the report of Expected     
+0002#STR0002#ALL#Calibrations but not performed within a specified 
+0003#STR0003#ALL#period. 
+0004#STR0004#ALL#Expected but Not Performed Calibrations
+0005#STR0005#ALL#Instrument       Family Rev.           CCenter       User                          Days Manufacturer     Calibrating Body Validity
+0006#STR0006#ALL#Z.Form 
+0007#STR0007#ALL#Management   
+0008#STR0008#ALL# Instrument   
+0009#STR0009#ALL# Cost Center  
+0010#STR0010#ALL#Selecting Records     
+0011#STR0011#ALL#CANCELLED BY OPERATOR  
+0012#STR0012#ALL#Total Estimated in Period..:    
+0013#STR0013#ALL#Total Performed in the Period.: 
+0014#STR0014#ALL#Estimated and not performed...:
+0015#STR0015#ALL#Total Estimated in Final Month...: 
+0016#STR0016#ALL#Freq
+0017#STR0017#ALL#Days
+0018#STR0018#ALL#Org. 
+0019#STR0019#ALL#Calibrator
+0020#STR0020#ALL#Total estimated in period   
+0021#STR0021#ALL#Total performed in period   
+0022#STR0022#ALL#Estimated and not performed 
+0023#STR0023#ALL#Total estimated at end of month 
+0024#STR0024#ALL#Instrument 
+0025#STR0025#ALL#Total

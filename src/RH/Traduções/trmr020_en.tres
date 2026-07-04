@@ -1,0 +1,73 @@
+0001#STR0001#ALL#Employees Report
+0002#STR0002#ALL#It will be printed according to the parameters requested
+0003#STR0003#ALL#by the User.
+0004#STR0004#ALL#Registr.
+0005#STR0005#ALL#Name
+0006#STR0006#ALL#Cost Center
+0007#STR0007#ALL#Position
+0008#STR0008#ALL#Z.Form
+0009#STR0009#ALL#Management
+0010#STR0010#ALL#Employees Report
+0011#STR0011#ALL#BRANCH HEAD OFF.  NAME                           BIRTH DT.  ADMIS.DT.  MARITAL ST.       POSITION                    COST CENTER
+0012#STR0012#ALL#NAME                           BIRTH DT.  ADMIS.DT.                            MARITAL ST.       POSITION                    COST CENTER
+0013#STR0013#ALL#BRANCH HEAD OFF.  NAME             BIRTH DT.  ADMIS.DT.  MARITAL ST.  POSITION                               
+0014#STR0014#ALL#BRANCH HEAD OFF.  NAME             BIRTH DT.  ADMIS.DT.  MARITAL ST.                        COST CENTER                       
+0015#STR0015#ALL#Cost Center: 
+0016#STR0016#ALL#Posit. 
+0017#STR0017#ALL#EMPLOYEE GRADUATION
+0018#STR0018#ALL#EVALUATION FACTOR                   NECESSARY GRADE              EMPLOYEE´S GRADE            
+0019#STR0019#ALL# *** There is no graduation to this Employee *** 
+0020#STR0020#ALL#EMPLOYEE'S COURSES
+0021#STR0021#ALL#COURSE                               PERIOD        DURATION VALIDITY  NECES. ENTITY                     GRD  FREQUEN. REAL. 
+0022#STR0022#ALL# *** There is no Course for this Employee ***
+0023#STR0023#ALL#CAREER HISTORY
+0024#STR0024#ALL#ADMISSION   DISMIS.   COMPANY                        POSITION                      
+0025#STR0025#ALL# *** No Carreer History for this Employee *** 
+0026#STR0026#ALL#CAREER HISTORY IN THE COMPANY   
+0027#STR0027#ALL#DT RAISE    TP RAISE                 FUNCTION                 
+0028#STR0028#ALL# *** No Carreer History in the Company to this Employee *** 
+0029#STR0030#ALL#EXTRA CURRICULUM COURSES
+0030#STR0031#ALL#DATE       DESCRIPTION                              ENTITY                         EDUCATION  
+0031#STR0032#ALL# *** No Extra Curriculum Courses to this Employee *** 
+0032#STR0033#ALL#REQUISITION OF COURSES
+0033#STR0034#ALL#COURSE                              GROUP CALENDAR                  RESERVE TP    POSTP. VZ REQUI. DT         PERIOD        
+0034#STR0035#ALL#*** No Requisition for Course registered by this Employee ***
+0035#STR0037#ALL#EVALUATION FACTOR                 NECESSARY GRADE                    MARKS            EMPLOYEE´S GRADE                MARKS 
+0036#STR0038#ALL#T O T A L:
+0037#STR0039#ALL#POINTS
+0038#STR0040#ALL#TRAINING EVALUATIONS
+0039#STR0041#ALL#CALENDAR                  COURSE                    GROUP TYPE EVALUATION          EVALUATION                RESULT.
+0040#STR0042#ALL#***There is no Evaluation for this Employee***
+0041#STR0043#ALL#FACTOR´S DETAILED DESCRIPTION
+0042#STR0044#ALL# *** There is no Factor´s Detailed Description *** 
+0043#STR0045#ALL#EMPLOYEE´S OBSERVATION FACTOR
+0044#STR0046#ALL# *** There is no Observation for this Factor *** 
+0045#STR0047#ALL#SYNONYM: 
+0046#STR0048#ALL#ABILITIES
+0047#STR0049#ALL#SKILL  SKILL DESCRIPTION                SCALE SCALE DESC.           ITEM ITEM DESC. EMPL. SCALE ITEM ITEM DESC POSIT. SCALE
+0048#STR0050#ALL#*** There is no Ability for this Employee       ***
+0049#STR0051#ALL#Employee   
+0050#STR0052#ALL#Posit.Lev.
+0051#STR0053#ALL#Points
+0052#STR0054#ALL#Empl.Lev.	
+0053#STR0055#ALL#Course
+0054#STR0056#ALL#Synonym 
+0055#STR0057#ALL#Period 
+0056#STR0058#ALL#Validity
+0057#STR0059#ALL#Need  
+0058#STR0060#ALL#Entity  
+0059#STR0061#ALL#Calend
+0060#STR0062#ALL#Reserve type
+0061#STR0063#ALL#Req. Date
+0062#STR0064#ALL#Type
+0063#STR0065#ALL#This report displays the information of the employees file. 
+0064#STR0066#ALL#Yes
+0065#STR0067#ALL#No
+0066#STR0068#ALL#Empl. Sc. Item
+0067#STR0069#ALL#Pos. Sc. Item
+0068#STR0070#ALL#Company: 
+0069#STR0071#ALL#Branch: 
+0070#STR0072#ALL#BRANCH HEAD OFFICE  NAME                           BIRTH DT.  ADMIS.DT.  MARITAL ST.       POSITION                    COST CENTER
+0071#STR0073#ALL#BRANCH NAME                       BIRTH DT.  ADMIS.DT.                            MARITAL ST.       POSITION                    COST CENTER
+0072#STR0074#ALL#BRANCH HEAD OFFICE  NAME             BIRTH DT.  ADMIS.DT.  MARITAL ST.  POSITION                              
+0073#STR0075#ALL#BRANCH HEAD OFFICE  NAME             BIRTH DT.  ADMIS.DT.  MARITAL ST.                        COST CENTER                       

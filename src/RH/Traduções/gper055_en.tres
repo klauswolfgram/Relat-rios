@@ -1,0 +1,22 @@
+0001#STR0001#ALL#DARF of Payment of PIS w/Slip
+0002#STR0002#ALL#Will be printed according to the parameters requested by the user.
+0003#STR0003#ALL#Obs. A DARF must be printed per branch or else Centralized
+0004#STR0004#ALL#Z. form
+0005#STR0005#ALL#Administratin
+0006#STR0006#ALL#Confirm
+0007#STR0007#ALL#Repeat
+0008#STR0008#ALL#Abandon
+0009#STR0009#ALL#ISSUE PAYMENT DARF PIS OVER PAYROLL  
+0010#STR0010#ALL#Selecting Records...
+0011#STR0011#BRA#Choose an option:
+0012#STR0012#BRA#Payment Form
+0013#STR0013#BRA#DARF of PIS W/out Payroll
+0014#STR0014#BRA#Social Security Contribution DARF
+0015#STR0015#BRA#SOCIAL SECURITY CONTRIBUTION DARF ISSUE
+0016#STR0016#BRA#Social Security Contribution DARF is not generated.
+0017#STR0017#BRA#REASON - Revenues of not exempted activities reached the limit of 95% of the grand total.
+0018#STR0018#ALL#Type of Contract not informed. Enter at least one.
+0019#STR0019#ALL#Attention
+0020#STR0020#ALL#The Company PIS values ref. to Bonus Salary are included in the Payroll.
+0021#STR0021#ALL#Continue with the generation?
+0022#STR0022#ALL#PIS DARF on Bonus Salary

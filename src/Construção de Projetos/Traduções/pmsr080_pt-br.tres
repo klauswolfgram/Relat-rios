@@ -1,0 +1,18 @@
+0001#STR0001#ALL#Este relatorio ira imprimir uma relacao dos projetos, sua estrutura e o cronograma financeiro previsto para execucao do projeto.
+0002#STR0002#ALL#Cronograma Financeiro Previsto
+0003#STR0003#ALL#Zebrado
+0004#STR0004#ALL#Administracao
+0005#STR0005#ALL#TP. Codigo        Descricao                                                     UN       QUANT.PREV    DURACAO INIC.PRV. FIM PRV.  
+0006#STR0006#ALL#Projeto
+0007#STR0007#ALL#Cliente : 
+0008#STR0008#ALL#Versao :
+0009#STR0009#ALL#Data : 
+0010#STR0010#ALL#Trf.
+0011#STR0011#ALL#DATA                     CUSTO PRV.      %PERC.PRJ.
+0012#STR0012#ALL#                  EDT/TAREFA                      |
+0013#STR0013#ALL#                                                  |       Valor        |%Perc.|       Valor        |%Perc.|       Valor        |%Perc.|       Valor        |%Perc.|       Valor        |%Perc.|       Valor        |%Perc.|
+0014#STR0014#ALL#Detalhe
+0015#STR0015#ALL#Valor
+0016#STR0016#ALL#Perc.
+0017#STR0017#ALL#EDT/Tarefa
+0018#STR0018#ALL#*** CANCELADO PELO USUARIO ***

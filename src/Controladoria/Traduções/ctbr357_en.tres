@@ -1,0 +1,21 @@
+0001#STR0001#ALL#Accounting Log Report
+0002#STR0002#ALL#Branch+EntryDt+BatchNo.+SubBatch+DocNo.
+0003#STR0003#ALL#Debit Acc + Entry Dt
+0004#STR0004#ALL#Credit Acc + Entry Dt
+0005#STR0005#ALL#This program issues the Accounting Log Report.
+0006#STR0006#ALL#Balance Type
+0007#STR0007#ALL#Type
+0008#STR0008#ALL#User
+0009#STR0009#ALL#Date
+0010#STR0010#ALL#Function available TReport only. Check MV_TREPORT parameter
+0011#STR0011#ALL#Manual
+0012#STR0012#ALL#System
+0013#STR0013#ALL#Batch
+0014#STR0014#ALL#Document
+0015#STR0015#ALL#Line
+0016#STR0016#ALL#Balance Type
+0017#STR0017#ALL#Entry Type
+0018#STR0018#ALL#Software Life Cycle
+0019#STR0019#ALL#This routine will be discontinued in the release 12.1.2410
+0020#STR0020#ALL#To replace this feature, use the new Reconciliation routine (CTBA940)
+0021#STR0021#ALL#This routine was discontinued in release 12.1.2410

@@ -1,0 +1,21 @@
+0001#STR0001#ALL#Calendario de cursos
+0002#STR0002#ALL#Se imprimira de acuerdo con los parametros solicitados por el
+0003#STR0003#ALL#usuario.
+0004#STR0004#ALL#A rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#Calendario: 
+0007#STR0007#ALL#  Curso                    Grupo Fc.Inicial Fc. Final  Entidad                   Instruct.                   Horario              Durac.  Un Vacn. Reservas Local                              Custo    Horas  Situacao
+0008#STR0008#ALL#DADO DE BAJA
+0009#STR0009#ALL#ABIERTO
+0010#STR0010#ALL#Sinonimo del Curso: 
+0011#STR0011#ALL#Calendario
+0012#STR0012#ALL#Curso
+0013#STR0013#ALL#Fecha Ini.
+0014#STR0014#ALL#FchFinal
+0015#STR0015#ALL#Entidad 
+0016#STR0016#ALL#Instruct.
+0017#STR0017#ALL#Vac. 
+0018#STR0018#ALL#Reservas
+0019#STR0019#ALL#Costo
+0020#STR0020#ALL#Situac. 
+0021#STR0021#ALL#Sinonimo

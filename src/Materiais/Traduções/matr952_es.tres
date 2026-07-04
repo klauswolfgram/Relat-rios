@@ -1,0 +1,35 @@
+0001#STR0001#ALL#Contratos de Asociacion
+0002#STR0002#ALL#Emite un listado con las informaciones referentes
+0003#STR0003#ALL#a los Contratos de Asociacion.
+0004#STR0004#ALL#A rayas
+0005#STR0005#ALL#Administrac. 
+0006#STR0006#ALL#ANULADO POR EL OPERADOR
+0007#STR0007#ALL#Por Numero
+0008#STR0008#ALL#Por proveedor 
+0009#STR0009#ALL#Por Produc.
+0010#STR0010#ALL#Item  Produc.         Descripc.                        Cantidad        Prc. Unit.      Vlr. Total  Fc.Inicial  Fc.Final  Almacen          Saldo  Elim.Res.  Observac.  
+0011#STR0011#ALL#Item  Produc.         Descripc.                        Cantidad        Prc. Unit.      Vlr. Total  Fc.Inicial  fc.Final  Almacen          Saldo  Elim.Res.  Observac.                       Contrato  Emision  Fil.Ent. Flete
+0012#STR0012#ALL#Item    Cantidad        Prc. Unit.      Vlr. Total  Fc.Inicial  Fc.Final  Almacen          Saldo  Elim.Res.  Observac.                       Contrato  Emision  C.Pago . Mone. Fil.Ent. Flete Proveedor        
+0013#STR0013#ALL# - Todos
+0014#STR0014#ALL# - Pend.    
+0015#STR0015#ALL# -Parciales
+0016#STR0016#ALL# - Atendidos
+0017#STR0017#ALL#Contrato No.: 
+0018#STR0018#ALL#Emision: 
+0019#STR0019#ALL#Cond.Pago:      
+0020#STR0020#ALL#Sucur. p/Entrega: 
+0021#STR0021#ALL#Moned: 
+0022#STR0022#ALL#Proveedor...  
+0023#STR0023#ALL#Contacto:
+0024#STR0024#ALL#Tipo de Flete.: 
+0025#STR0025#ALL#Produc.: 
+0026#STR0026#ALL#Si
+0027#STR0027#ALL#No
+0028#STR0028#ALL#Total de Itemes: 
+0029#STR0029#ALL#Descripcion
+0030#STR0030#ALL#Saldo
+0031#STR0031#ALL#Contrato de Asociac.
+0032#STR0032#ALL#Proveedor
+0033#STR0033#ALL#Item de Contrato de Asociac.
+0034#STR0034#ALL#Producto ( Por Prod. )
+0035#STR0035#ALL#Item de Contrato de Asociacion ( Por Prod. )

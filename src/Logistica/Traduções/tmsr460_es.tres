@@ -1,0 +1,41 @@
+0001#STR0001#ALL#Resumen de Flete
+0002#STR0002#ALL#Emite el resumen de Flete
+0003#STR0003#ALL#conforme los parametros informados
+0004#STR0004#ALL#A Rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#CANCELADO POR OPERADOR
+0007#STR0007#ALL#                   -------------------- P E S O ---------------------   ------------------- F L E T E  P A G A D O ---------------------------  ------------------------ F L E T E  P O R  P A G A R --------------------
+0008#STR0008#ALL#Suc.Ori.  Transp.         Pagado        Por Pagar          Total           Flete     Peaje      Impuesto  ICMS Ret.   ICMS Dif.        Total           Flete      Peaje      Impuesto   ICMS Ret.  ICMS Dif.        Total
+0009#STR0009#ALL#Sucursal Destino: 
+0010#STR0010#ALL#Tot Dest
+0011#STR0011#ALL#Sucursal Origen: 
+0012#STR0012#ALL#Tot Orig
+0013#STR0013#ALL#Expedido
+0014#STR0014#ALL#Recibido
+0015#STR0015#ALL#General
+0016#STR0016#ALL#Suc.Dest. Transp.         Pagado        Por Pagar          Total           Flete     Peaje      Impuesto  ICMS Ret.   ICMS Dif.        Total           Flete      Peaje      Impuesto   ICMS Ret.  ICMS Dif.        Total
+0017#STR0017#ALL#Codigo del Componente de Peaje
+0018#STR0018#ALL#Resumen de Flete
+0019#STR0019#ALL#Emite el resumen de Flete segun los parametros informados
+0020#STR0020#ALL#Sucursal
+0021#STR0021#ALL#Suc.Ori.
+0022#STR0022#ALL#Descripcion
+0023#STR0023#ALL#Estado
+0024#STR0024#ALL#Sigla
+0025#STR0025#ALL#Transp.
+0026#STR0026#ALL#Peso Pagado
+0027#STR0027#ALL#Peso por Pagar
+0028#STR0028#ALL#Total
+0029#STR0029#ALL#Flt. Pag.
+0030#STR0030#ALL#Peaje
+0031#STR0031#ALL#Impuesto
+0032#STR0032#ALL#Flt. P Pagar
+0033#STR0033#ALL#Sucursal Destino
+0034#STR0034#ALL#ICMS Ret.
+0035#STR0035#ALL#ICMS Dif.
+0036#STR0036#ALL#Total Origen
+0037#STR0037#ALL#Total Destino
+0038#STR0038#ALL#Suc.Des.
+0039#STR0039#ALL#Expedido
+0040#STR0040#ALL#Recibido
+0041#STR0041#ALL#Items

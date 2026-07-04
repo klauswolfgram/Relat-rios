@@ -1,0 +1,26 @@
+0001#STR0001#ALL#Relaçäo de Aumentos Salariais Programados para os Funcionarios.
+0002#STR0002#ALL#Será impresso de acordo com os parametros solicitados pelo
+0003#STR0003#ALL#usuario.
+0004#STR0004#ALL#Matricula
+0005#STR0005#ALL#Funcao
+0006#STR0006#ALL#Centro de Custo
+0007#STR0007#ALL#Zebrado
+0008#STR0008#ALL#Administraçäo
+0009#STR0009#ALL# Aumentos salariais programado
+0010#STR0010#ALL#Selecionando Registros...
+0011#STR0011#ALL#FIL     MATRIC NOME DO FUNCIONARIO                  SALARIO CAT FUNCAO                     CENTRO DE CUSTO
+0012#STR0012#ALL#FIL     MATRIC NOME DO FUNCIONARIO                  SALARIO CAT CENTRO DE CUSTO
+0013#STR0013#ALL#FIL     MATRIC NOME DO FUNCIONARIO                  SALARIO CAT FUNCAO
+0014#STR0014#ALL#Selecionando Registros...
+0015#STR0015#ALL#FUNCAO: 
+0016#STR0016#ALL#CENTRO DE CUSTO: 
+0017#STR0017#ALL#    DT.AUMENTO TP.AUMENTO         AUMENTO EM %        SALARIO CAT FUNCAO                     CARGO                      ATUALIZADO
+0018#STR0018#ALL#SIM
+0019#STR0019#ALL#NAO
+0020#STR0020#ALL#Funcionário
+0021#STR0021#ALL#Cat
+0022#STR0022#ALL#Função
+0023#STR0023#ALL#Dt.Aumento
+0024#STR0024#ALL#Tp.Aumento
+0025#STR0025#ALL#Cargo
+0026#STR0026#ALL#Favor utilizar o compatibilizador RHUPDCSA, opção 'Ajustar Campos para salário' para ajuste da tabela RB7

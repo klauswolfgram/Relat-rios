@@ -1,0 +1,30 @@
+0001#STR0001#ALL#DETAILED MANAGEMENT STATEMENT
+0002#STR0002#ALL#Generating report, wait...
+0003#STR0003#ALL#hundred
+0004#STR0004#ALL#thousand
+0005#STR0005#ALL#million
+0006#STR0006#ALL#Creating Temporary File DRE...
+0007#STR0007#ALL#Responsible...
+0008#STR0008#ALL#You must enter the reference date
+0009#STR0009#ALL#Paramerer 'Consider the same as Period
+0010#STR0010#ALL#Date outside the period
+0011#STR0011#ALL#Reference Date
+0012#STR0012#ALL#Accounts/Balances
+0013#STR0013#ALL#(In 
+0014#STR0014#ALL#This program will print the Detailed Management DRE 
+0015#STR0015#ALL#according to parameters informed by the user.
+0016#STR0016#ALL#Vision Detail
+0017#STR0017#ALL#Description
+0018#STR0018#ALL#Code
+0019#STR0019#ALL#Current Period
+0020#STR0020#ALL#Previous Period
+0021#STR0021#ALL#Items of Detail
+0022#STR0022#ALL#Ledger Account
+0023#STR0023#ALL#C. Center
+0024#STR0024#ALL#Accounting Item
+0025#STR0025#ALL#Value Cl.
+0026#STR0026#ALL#Accounting Boards
+0027#STR0027#ALL#Items of Accounting Board
+0028#STR0028#ALL#Creating Detailed temporary file...
+0029#STR0029#ALL#Creating temporary file of Boards...
+0030#STR0030#ALL#Report available only in TReport

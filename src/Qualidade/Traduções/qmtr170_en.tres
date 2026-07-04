@@ -1,0 +1,18 @@
+0001#STR0001#ALL#This program will issue a report of crossed reference 
+0002#STR0002#ALL#between instruments and customers.
+0003#STR0003#ALL#Cross.Ref.: Instrument vs. Customer
+0004#STR0004#ALL#Instrument        Description
+0005#STR0005#ALL#Z.Form 
+0006#STR0006#ALL#Management   
+0007#STR0007#ALL#CANCELLED BY OPERATOR  
+0008#STR0008#ALL#Selecting Files. . .
+0009#STR0009#ALL#Customer/Shop not found...
+0010#STR0010#ALL#Freq   Calib.Val.  Status   Code   Store Name
+0011#STR0011#ALL#Enter the initial instrument of the selection range  
+0012#STR0012#ALL#Enter the final instrument of the selection interval or fill in the whole field with ´z` to all
+0013#STR0013#ALL#Select the status of the instruments to be printed: active, inactive, both
+0014#STR0014#ALL#Instrument 
+0015#STR0015#ALL#Descript.
+0016#STR0016#ALL#Freq
+0017#STR0017#ALL#Calib. Val.
+0018#STR0018#ALL#Name

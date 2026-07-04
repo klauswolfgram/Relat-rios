@@ -1,0 +1,31 @@
+0001#STR0001#ALL#Report to print the Epi's related to the risks.
+0002#STR0002#ALL#These risks will be filtered through the parameters informed by
+0003#STR0003#ALL#The User.
+0004#STR0004#ALL#Z-Form
+0005#STR0005#ALL#Administration
+0006#STR0006#ALL#Epi's per Risk
+0007#STR0007#ALL#No. Risk  Agent                       Cost Center                           Function                     Task                     Department
+0008#STR0008#ALL#PPEs: 
+0009#STR0009#ALL#RiskName
+0010#STR0010#ALL#Agent 
+0011#STR0011#ALL#Cost center    
+0012#STR0012#ALL#Role  
+0013#STR0013#ALL#Task  
+0014#STR0014#ALL#PPE
+0015#STR0015#ALL#Descript.
+0016#STR0016#ALL#From Customer?
+0017#STR0017#ALL#Unit
+0018#STR0018#ALL#To Customer?
+0019#STR0019#ALL#Customer
+0020#STR0020#ALL#Unit
+0021#STR0021#ALL#Name
+0022#STR0022#ALL#All
+0023#STR0023#ALL#All
+0024#STR0024#ALL#Customer/Unit: 
+0025#STR0025#ALL#            Name: 
+0026#STR0026#ALL#To IPE?
+0027#STR0027#ALL#From IPE?
+0028#STR0028#ALL#To Risk?
+0029#STR0029#ALL#From Risk?
+0030#STR0030#ALL#Department
+0031#STR0031#ALL#No. Risk  Agent                       Cost Center                           Function                     Task

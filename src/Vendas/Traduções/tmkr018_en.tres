@@ -1,0 +1,60 @@
+0001#STR0001#ALL#Receptive Servicing - Occurrences
+0002#STR0002#ALL#This program will issue a list of
+0003#STR0003#ALL#servicing occurrences.
+0004#STR0004#ALL#Z-Form
+0005#STR0005#ALL#Administration
+0006#STR0006#ALL# Subject                                 Product                       Occurrence                                 Act.
+0007#STR0007#ALL#CANCELLED BY THE OPERATOR
+0008#STR0008#ALL#Service Date
+0009#STR0009#ALL#Contact Name
+0010#STR0010#ALL#Service Code
+0011#STR0011#ALL#Entity큦 Description
+0012#STR0012#ALL#Operator큦 Name
+0013#STR0013#ALL#Entity Company큦 Name
+0014#STR0014#ALL#Service Status
+0015#STR0015#ALL#Entity큦 Telephone
+0016#STR0016#ALL#Service Type
+0017#STR0017#ALL#Entity큦 City
+0018#STR0018#ALL#Closing Purpose
+0019#STR0019#ALL#Entity큦 State
+0020#STR0020#ALL#Service Observation
+0021#STR0021#ALL#Total of Services registered for the day 
+0022#STR0022#ALL#Total of Active Services
+0023#STR0023#ALL#Total of Receptive Services
+0024#STR0024#ALL#Occurrence Total
+0025#STR0025#ALL#Product Total
+0026#STR0026#ALL#Occurrence
+0027#STR0027#ALL#Total of services accomplished within the period 
+0028#STR0028#ALL# to 
+0029#STR0029#ALL#There is no information to print this report
+0030#STR0030#ALL#Item  Subject                              Product                         Occurrence                      Action                                              In-Charge        Dt Action   Status        Execut. 
+0031#STR0031#ALL#Execution Complement
+0032#STR0032#ALL#Not found in file...
+0033#STR0033#ALL#Not informed during servicing...
+0034#STR0034#ALL#Post.
+0035#STR0035#ALL#Comm. No.1
+0036#STR0036#ALL#Level
+0037#STR0037#ALL#E-Mail
+0038#STR0038#ALL#Group
+0039#STR0039#ALL#Department  
+0040#STR0040#ALL#Media
+0041#STR0041#ALL#Communicate
+0042#STR0042#ALL#ACTIVE AND RECEPTIVE SERVICES TOTAL IN THE PERIOD        
+0043#STR0043#ALL# TO 
+0044#STR0044#ALL#DATE          ACTIVE       RECEPTIVES
+0045#STR0045#ALL#TOTAL
+0046#STR0046#ALL#Events with most customer services          
+0047#STR0047#ALL#OCCURRENCE                                                    TOTAL       %
+0048#STR0048#ALL#Events executed by product         
+0049#STR0049#ALL#Events executed by subject         
+0050#STR0050#ALL#SUBJECT                                                       TOTAL       %
+0051#STR0051#ALL#Subject
+0052#STR0052#ALL#Product
+0053#STR0053#ALL#Action
+0054#STR0054#ALL#Status
+0055#STR0055#ALL#Date
+0056#STR0056#ALL#Active
+0057#STR0057#ALL#Receptive 
+0058#STR0058#ALL#Telemarketing
+0059#STR0059#ALL#Telemarketing items   
+0060#STR0060#ALL#Responsible

@@ -1,0 +1,23 @@
+0001#STR0001#ALL#Search Address
+0002#STR0002#ALL#Empty Address
+0003#STR0003#ALL#Partial Occup
+0004#STR0004#ALL#Partial/Lot
+0005#STR0005#ALL#Share
+0006#STR0006#ALL#Service Order
+0007#STR0007#ALL#Search Type
+0008#STR0008#ALL#Addresses
+0009#STR0009#ALL#Capacity
+0010#STR0010#ALL#SBF Balance
+0011#STR0011#ALL#Balance RF
+0012#STR0012#ALL#Requested
+0013#STR0013#ALL#Addressed
+0014#STR0014#ALL#Message
+0015#STR0015#ALL#Type Address
+0016#STR0016#ALL#*** Product [VAR01] not fully addressed. Rest Balance: [VAR02].
+0017#STR0017#ALL#Share Address
+0018#STR0018#ALL#Yes
+0019#STR0019#ALL#No
+0020#STR0020#ALL#Storage Zone Order, in which: 00-Product zone, 01...99-Alternative zone
+0021#STR0021#ALL#Product Order, in which: 01-Exclusive product, 02-Any product
+0022#STR0022#ALL#Balance Order, in which: 01-Product balance, 02-Mixed balance, 03-Other product balance, 99-No balance
+0023#STR0023#ALL#Transaction Order, in which: 01-Product pending transaction, 99-No pending transaction

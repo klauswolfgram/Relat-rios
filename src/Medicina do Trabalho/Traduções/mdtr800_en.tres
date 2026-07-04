@@ -1,0 +1,46 @@
+0001#STR0001#ALL#EPIs suppliers presentation report                  
+0002#STR0002#ALL#and supplier´s approval certificate number.         
+0003#STR0003#ALL# Supplier/EPI  
+0004#STR0004#ALL# EPI/Supplier   
+0005#STR0005#ALL#Z. Form
+0006#STR0006#ALL#Management   
+0007#STR0007#ALL#EPIs Suppliers       
+0008#STR0008#ALL#Supplier            Unit  Supplier Name
+0009#STR0009#ALL#CANCELED BY OPERATOR   
+0010#STR0010#ALL#YES
+0011#STR0011#ALL#NO 
+0012#STR0012#ALL#IPE                                   IPE Name                            C.A.            Evaluation    Due Date   Durabil. Days    Return
+0013#STR0013#ALL#PPE
+0014#STR0014#ALL#EPI name   
+0015#STR0015#ALL#C.A.
+0016#STR0016#ALL#Evaluat. 
+0017#STR0017#ALL#Validity
+0018#STR0018#ALL#Durabil. Days
+0019#STR0019#ALL#Return  
+0020#STR0020#ALL#Supplier  
+0021#STR0021#ALL#Stor
+0022#STR0022#ALL#Supplier name     
+0023#STR0023#ALL#Quantity  
+0024#STR0024#ALL#Size   
+0025#STR0025#ALL#Wait   
+0026#STR0026#ALL#Processing EPI suppliers ...         
+0027#STR0027#ALL#From Customer?
+0028#STR0028#ALL#Unit
+0029#STR0029#ALL#To Customer
+0030#STR0030#ALL#Customer
+0031#STR0031#ALL#Name
+0032#STR0032#ALL#Customer: 
+0033#STR0033#ALL#Note: 
+0034#STR0034#ALL#Use
+0035#STR0035#ALL#General
+0036#STR0036#ALL#Durability Tp.
+0037#STR0037#ALL#From Supplier?
+0038#STR0038#ALL#To Supplier?
+0039#STR0039#ALL#From IPE?
+0040#STR0040#ALL#To IPE?
+0041#STR0041#ALL#Classify by?
+0042#STR0042#ALL#List IPE Specification?
+0043#STR0043#ALL#No
+0044#STR0044#ALL#Size Qty    
+0045#STR0045#ALL#Supply            Store  Supplier Name                         C.A.            Evaluation    Validity   Durabil. Days    Return
+0046#STR0046#ALL#IPE              IPE Name

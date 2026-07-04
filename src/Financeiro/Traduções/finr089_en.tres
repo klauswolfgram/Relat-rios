@@ -1,0 +1,44 @@
+0001#STR0001#ALL#Report of Pending Checks
+0002#STR0002#ALL#This program prints a report on all 
+0003#STR0003#ALL#pending checks .
+0004#STR0004#ALL#Z.Form 80/132
+0005#STR0005#ALL#Management
+0006#STR0006#ALL#Due Date
+0007#STR0007#ALL#Supplier
+0008#STR0008#ALL#Paym.Order
+0009#STR0009#ALL#Check Number
+0010#STR0010#ALL#Issue Dt
+0011#STR0011#ALL#JANUARY
+0012#STR0012#ALL#FEBRUARY
+0013#STR0013#ALL#MARCH
+0014#STR0014#ALL#APRIL
+0015#STR0015#ALL#MAY
+0016#STR0016#ALL#JUNE
+0017#STR0017#ALL#JULY
+0018#STR0018#ALL#AUGUST
+0019#STR0019#ALL#SEPTEMBER
+0020#STR0020#ALL#OCTOBER
+0021#STR0021#ALL#NOVEMBER
+0022#STR0022#ALL#DECEMBER
+0023#STR0023#ALL#Selecting Checks...
+0024#STR0024#ALL#* Code      Name                        Number          Issue    State      Due          Import             Bank            Curr.  *
+0025#STR0025#ALL#*                                  (Pay.Ord/No.)        Date                Date                                                   *
+0026#STR0026#ALL#*** Report on Checks to Clear between 
+0027#STR0027#ALL# and 
+0028#STR0028#ALL#Monthly Total of 
+0029#STR0029#ALL# (in PESOS) 
+0030#STR0030#ALL#Total to credit ref.Supplier  
+0031#STR0031#ALL#Overdue
+0032#STR0032#ALL#In Date
+0033#STR0033#ALL#+++ CANCELLED BY THE OPERATOR +++
+0034#STR0034#ALL#Total of supplier   
+0035#STR0035#ALL#GRAND TOTAL....... 
+0036#STR0036#ALL#From Supplier      ?
+0037#STR0037#ALL#To Supplier        ?
+0038#STR0038#ALL#From Issue Date    ?
+0039#STR0039#ALL#To Issue Date      ?
+0040#STR0040#ALL#From Due Date      ?
+0041#STR0041#ALL#To Due Date        ?
+0042#STR0042#ALL#Mon
+0043#STR0043#ALL#Bills Payable
+0044#STR0044#ALL#Month total 

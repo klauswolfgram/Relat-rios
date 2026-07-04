@@ -1,0 +1,60 @@
+0001#STR0001#ALL#Atendimento Receptivo - Ocorrências
+0002#STR0002#ALL#Este programa irá emitir a relação das
+0003#STR0003#ALL#ocorrências de atendimento.
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL# Assunto                                 Produto                       Ocorrência                                 Ação
+0007#STR0007#ALL#CANCELADO PELO OPERADOR
+0008#STR0008#ALL#Data do Atendimento
+0009#STR0009#ALL#Nome do Contato
+0010#STR0010#ALL#Código do Atendimento
+0011#STR0011#ALL#Descrição da Entidade
+0012#STR0012#ALL#Nome do Operador
+0013#STR0013#ALL#Razão Social da Entidade
+0014#STR0014#ALL#Status do Atendimento
+0015#STR0015#ALL#Telefone da Entidade
+0016#STR0016#ALL#Tipo do Atendimento
+0017#STR0017#ALL#Cidade da Entidade
+0018#STR0018#ALL#Motivo do Encerramento
+0019#STR0019#ALL#Estado da Entidade
+0020#STR0020#ALL#Observação do Atendimento
+0021#STR0021#ALL#Totais dos atendimentos computados para o dia 
+0022#STR0022#ALL#Total de Atendimentos Ativos
+0023#STR0023#ALL#Total de Atendimentos Receptivos
+0024#STR0024#ALL#Total da Ocorrência
+0025#STR0025#ALL#Total do Produto
+0026#STR0026#ALL#Ocorrência
+0027#STR0027#ALL#Total de atendimentos realizados no período de 
+0028#STR0028#ALL# a 
+0029#STR0029#ALL#Não há informações para imprimir este relatório
+0030#STR0030#ALL#Item  Assunto                              Produto                         Ocorrência                      Ação                                                Responsável      Dt Ação     Status        Execução
+0031#STR0031#ALL#Complemento da execução
+0032#STR0032#ALL#Não localizado no cadastro...
+0033#STR0033#ALL#Não informado no atendimento...
+0034#STR0034#ALL#Cargo
+0035#STR0035#ALL#Fone Com.1
+0036#STR0036#ALL#Nivel
+0037#STR0037#ALL#E-Mail
+0038#STR0038#ALL#Grupo
+0039#STR0039#ALL#Departamento
+0040#STR0040#ALL#Midia
+0041#STR0041#ALL#Comunicacao
+0042#STR0042#ALL#TOTAL DE ATENDIMENTOS ATIVOS E RECEPTIVOS NO PERIODO DE  
+0043#STR0043#ALL# ATE
+0044#STR0044#ALL#DATA          ATIVOS       RECEPTIVOS
+0045#STR0045#ALL#TOTAL
+0046#STR0046#ALL#Ocorrencias com maior numero de atendimentos
+0047#STR0047#ALL#OCORRENCIA                                                    TOTAL       %
+0048#STR0048#ALL#Ocorrencias executadas por produto 
+0049#STR0049#ALL#Ocorrencias executadas por assunto 
+0050#STR0050#ALL#ASSUNTO                                                       TOTAL       %
+0051#STR0051#ALL#Assunto
+0052#STR0052#ALL#Produto
+0053#STR0053#ALL#Ação
+0054#STR0054#ALL#Status
+0055#STR0055#ALL#Data
+0056#STR0056#ALL#Ativos
+0057#STR0057#ALL#Receptivos
+0058#STR0058#ALL#Telemarketing
+0059#STR0059#ALL#Itens do telemarketing
+0060#STR0060#ALL#Responsável

@@ -1,0 +1,46 @@
+0001#STR0001#ALL#Restrições de Trabalho dos Funcionários
+0002#STR0002#ALL#Relatório de listagem das restrições que os funcionários tem para o  
+0003#STR0003#ALL#trabalho por motivos de saúde.
+0004#STR0004#ALL#Restrição
+0005#STR0005#ALL#Código
+0006#STR0006#ALL#Funcionário
+0007#STR0007#ALL#Ficha Med.
+0008#STR0008#ALL#Nome do Funcionário
+0009#STR0009#ALL#Data Início
+0010#STR0010#ALL#Data Término
+0011#STR0011#ALL#Zebrado
+0012#STR0012#ALL#Administracao
+0013#STR0013#ALL#Ficha Med.  Nome do Funcionário               Função Anterior        Função Atual
+0014#STR0014#ALL#Código      Restrição                                 Data Início  Data Término
+0015#STR0015#ALL#Código      Restrição
+0016#STR0016#ALL#   Ficha Med.  Nome do Funcionário               Função Anterior        Função Atual         Data Início  Data Término
+0017#STR0017#ALL#De Ficha Médica ?
+0018#STR0018#ALL#Até Ficha Médica ?
+0019#STR0019#ALL#De Restrição ?
+0020#STR0020#ALL#Até Restrição ?
+0021#STR0021#ALL#De Data Restrição ?
+0022#STR0022#ALL#Até Data Restrição ?
+0023#STR0023#ALL#Listar Restrições ?
+0024#STR0024#ALL#Abertas
+0025#STR0025#ALL#Finalizadas
+0026#STR0026#ALL#Todas
+0027#STR0027#ALL#Classificar por     ? 
+0028#STR0028#ALL#Ficha Medica
+0029#STR0029#ALL#Restricao
+0030#STR0030#ALL#Cliente
+0031#STR0031#ALL#Loja
+0032#STR0032#ALL#Nome
+0033#STR0033#ALL#Não há nada para imprimir no relatório.
+0034#STR0034#ALL#Cliente/Loja: 
+0035#STR0035#ALL#Função Anterior
+0036#STR0036#ALL#Função Atual
+0037#STR0037#ALL#De Cliente ?
+0038#STR0038#ALL#Até Cliente ?
+0039#STR0039#ALL#Classificar
+0040#STR0040#ALL#Listar Restricoes
+0041#STR0041#ALL#Ate Data Restricao
+0042#STR0042#ALL#De  Data Restricao
+0043#STR0043#ALL#Ate Restricao
+0044#STR0044#ALL#De  Restricao
+0045#STR0045#ALL#Ate Ficha Medica
+0046#STR0046#ALL#De  Ficha Medica

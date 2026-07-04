@@ -1,0 +1,25 @@
+0001#STR0001#ALL#Este relatório irá imprimir os quantitativos previstos para a execução do projeto de acordo com parametros solicitados. 
+0002#STR0002#ALL#Quantitativos previstos
+0003#STR0003#ALL#PROJETO+PRODUTO+DESPESA
+0004#STR0004#ALL#TAREFA+PRODUTO+DESPESA
+0005#STR0005#ALL#Zebrado
+0006#STR0006#ALL#Administracao
+0007#STR0007#ALL#Tp.      Codigo                  Descricao                       UM         Quantidade                 Valor     %Proj.     %Acum.
+0008#STR0008#ALL#Tarefa       Descricao            Tp.     Codigo           Descricao       UM        Quantidade            Valor  %Proj.  %Acum.
+0009#STR0009#ALL#Projeto
+0010#STR0010#ALL#Versao  :
+0011#STR0011#ALL#Total.....
+0012#STR0012#ALL#Total da Tarefa
+0013#STR0013#ALL#Total Geral........
+0014#STR0014#ALL#Codigo da Tarefa                  Tp.     Codigo           Descricao       UM        Quantidade            Valor  %Proj.  %Acum.
+0015#STR0015#ALL#Descricao da Tarefa               Tp.     Codigo           Descricao       UM        Quantidade            Valor  %Proj.  %Acum.
+0016#STR0016#ALL#Total do Periodo
+0017#STR0017#ALL#Total do Projeto
+0018#STR0018#ALL#Ordem: 
+0019#STR0019#ALL#Tipo
+0020#STR0020#ALL#Valor
+0021#STR0021#ALL#Proj.
+0022#STR0022#ALL#Acum.
+0023#STR0023#ALL#Projeto + Produto + Despesa
+0024#STR0024#ALL#Tarefa + Produto + Despesa
+0025#STR0025#ALL#*** CANCELADO PELO USUARIO ***

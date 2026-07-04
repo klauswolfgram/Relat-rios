@@ -1,0 +1,23 @@
+0001#STR0001#ALL#Pendências agendadas para o Operador
+0002#STR0002#ALL#Este programa irá emitir uma relação das 
+0003#STR0003#ALL#cobranças pendentes que estão na carteira 
+0004#STR0004#ALL#de cobrança de um Operador.
+0005#STR0005#ALL#Zebrado
+0006#STR0006#ALL#Administração
+0007#STR0007#ALL#CANCELADO PELO OPERADOR
+0008#STR0008#ALL#Operador: 
+0009#STR0009#ALL#Filial? 
+0010#STR0010#ALL#Cliente  Loja  Razão Social                              CPF-CNPJ              Total Dívida  Enviado   Retorno   Hora  Nome Completo                        Atendimento  Data      Operação
+0011#STR0011#ALL#Total da Filial: 
+0012#STR0013#ALL#Total do Operador: 
+0013#STR0014#ALL#Receptivo
+0014#STR0015#ALL#Ativo
+0015#STR0016#ALL#Total Geral:
+0016#STR0017#ALL#Não ha informações para imprimir este relatório
+0017#STR0018#ALL#Total de Sucur. 
+0018#STR0019#ALL#Sucur. 
+0019#STR0020#ALL#Descripc. 
+0020#STR0021#ALL#Clasificando
+0021#STR0022#ALL#Divis. por Sucur.
+0022#STR0023#ALL#Operadores
+0023#STR0024#ALL#Items vs. Penden.

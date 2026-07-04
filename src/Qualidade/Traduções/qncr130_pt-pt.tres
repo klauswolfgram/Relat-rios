@@ -1,0 +1,26 @@
+0001#STR0001#ALL#Relação De Não-conformidades Por Projecto
+0002#STR0002#ALL#Emite As Não-conformidades Por Projecto
+0003#STR0003#ALL#Cofacturaorme os parâmetros escolhidos
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#Nao-conformidades Por Projecto
+0007#STR0007#ALL#Código Fnc Rev Audit. Dt Ocorrên. Classif.nc                 Responsável Fnc        Estado    Cód.causa      Descrição Causa
+0008#STR0008#ALL#Código Fnc Rev Audit. Dt Registo Classif.nc                 Responsável Fnc        Estado    Cód.causa      Descrição Causa
+0009#STR0009#ALL#Total ===>    Projecto                                  Liquidada    Pendente    Total
+0010#STR0010#ALL#A Seleccionar Registo No Qi2...
+0011#STR0011#ALL#Total da causa ===> 
+0012#STR0012#ALL# Ficha(s)
+0013#STR0013#ALL#Projecto: 
+0014#STR0014#ALL#Cancelado Pelo Operador
+0016#STR0016#ALL#Liquidada
+0017#STR0017#ALL#Total por projecto ===> 
+0018#STR0018#ALL#Total geral  ==> 
+0019#STR0019#ALL#Total Geral Da(s) Causa(s)
+0020#STR0020#ALL#Total Crial:
+0021#STR0021#ALL#Projecto
+0022#STR0022#ALL#Liquidada
+0025#STR0025#ALL#Rev.
+0027#STR0027#ALL#Estado
+0028#STR0028#ALL#Descrição Da Causa
+0029#STR0029#ALL#Responsavel Fnc
+0030#STR0030#ALL#Cabeçalho Fnc

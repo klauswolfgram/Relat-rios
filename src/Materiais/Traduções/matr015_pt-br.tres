@@ -1,0 +1,25 @@
+0001#STR0001#ALL#Relacao entre NFs Originais X NFs Frete/Importacao
+0002#STR0002#ALL#Este relatorio ira imprimir a relacao entre as notas
+0003#STR0003#ALL#fiscais de Frete/Importacao e as notas fiscais que
+0004#STR0004#ALL#originaram as mesmas.
+0005#STR0005#ALL#Por NF Frete/Importacao
+0006#STR0006#ALL#Por NF Original
+0007#STR0007#ALL#Zebrado
+0008#STR0008#ALL#Administracao
+0009#STR0009#ALL#NF ORIGINAL        SERIE NF    DATA EMISSAO
+0010#STR0010#ALL#                   ORIGINAL
+0011#STR0011#ALL#NF FRETE/          SERIE NF    DATA EMISSAO        TIPO
+0012#STR0012#ALL#IMPORTACAO
+0013#STR0013#ALL#Selecionando Registros...
+0014#STR0014#ALL#CANCELADO PELO OPERADOR
+0015#STR0015#ALL#Nota:
+0016#STR0016#ALL#Serie:
+0017#STR0017#ALL#Fornecedor:
+0018#STR0018#ALL#Loja :
+0019#STR0019#ALL#Tipo:
+0020#STR0020#ALL#Frete
+0021#STR0021#ALL#Desp. Import.
+0022#STR0022#ALL#Documento de Frete (Ordem Por Frete)
+0023#STR0023#ALL#Documento de Entrada Original (Ordem Por Frete)
+0024#STR0024#ALL#Documento de Entrada Original (Ordem Por NF Original)
+0025#STR0025#ALL#Documento de Frete (Ordem Por NF Original)

@@ -1,0 +1,44 @@
+0002#STR0002#ALL#Este relatório irá emitir uma relação de contratos, exibindo as suas respectiaos 
+0003#STR0003#ALL#Cauções, fornecedores, folha de cálculos, multas e médicos. Por favor favor verifique os  
+0004#STR0004#ALL#Parâmetros do relatório.
+0005#STR0005#ALL#Código de barras
+0006#STR0006#ALL#Administração
+0007#STR0007#ALL#1-cancelado
+0008#STR0008#ALL#2-elaboração
+0009#STR0009#ALL#3-emitido
+0010#STR0010#ALL#4-em Aprovação
+0011#STR0011#ALL#5-vigente
+0012#STR0012#ALL#6-cancelado
+0013#STR0013#ALL#7-solic. Finalização
+0014#STR0014#ALL#8-finalizado
+0015#STR0015#ALL#9-revisão
+0016#STR0016#ALL#10-revisto
+0021#STR0021#ALL#Não
+0022#STR0022#ALL#A processar
+0023#STR0023#ALL#Objecto
+0024#STR0024#ALL#Cláusulas
+0025#STR0025#ALL#Justificativas
+0026#STR0026#ALL#Caução 
+0029#STR0029#ALL#Folha de cálculo
+0030#STR0030#ALL#Item Da Folha De Cálculo
+0032#STR0032#ALL#Dt.ref..: 
+0033#STR0033#ALL#Emissão.: 
+0034#STR0034#ALL#Cancelado Pelo Operador
+0035#STR0035#ALL#Cauções
+0036#STR0036#ALL#Fornecedores
+0037#STR0037#ALL#Cód.multa
+0038#STR0038#ALL#Cronograma
+0039#STR0039#ALL#Medições
+0040#STR0040#ALL#Em Branco
+0049#STR0049#ALL#Fornecedores do contrato: 
+0050#STR0050#ALL#Multas do contrato: 
+0051#STR0051#ALL#Cauções do contrato: 
+0053#STR0053#ALL#Cronograma da folha de cálculo: 
+0055#STR0055#ALL#Cronograma Contabilístico
+0056#STR0056#ALL#Cronograma contabilístico: 
+0057#STR0057#ALL#Razão social
+0060#STR0060#ALL#Total de multas 
+0061#STR0061#ALL#Total de bonificações 
+0062#STR0062#ALL#Total de descontos 
+0074#STR0074#RUS#Print Contracts Report
+0075#STR0075#RUS#Type

@@ -1,0 +1,25 @@
+0001#STR0001#ALL#Comparativo De Cubos - Balancete
+0002#STR0002#ALL#Código
+0003#STR0003#ALL#Descrição
+0004#STR0004#ALL#Saldo anterior (a1)
+0005#STR0005#ALL#Saldo anterior (a2)
+0006#STR0006#ALL#Diferença (a1-a2)
+0007#STR0007#ALL#Diferença (a2/a1 %)
+0008#STR0008#ALL#Mov.crédito (c1)
+0009#STR0009#ALL#Mov.crédito (c2)
+0010#STR0010#ALL#Diferença (c1-c2)
+0011#STR0011#ALL#Diferença (c2/c1 %)
+0012#STR0012#ALL#Movimento de déb. (d1)
+0013#STR0013#ALL#Movimento de déb. (d2)
+0014#STR0014#ALL#Diferença (d1-d2)
+0015#STR0015#ALL#Diferença (d2/d1 %)
+0016#STR0016#ALL#Saldo final (f1)
+0017#STR0017#ALL#Saldo final (f2)
+0018#STR0018#ALL#Diferença (f1-f2)
+0019#STR0019#ALL#Diferença (f2/f1 %)
+0021#STR0021#ALL# e a configuração: 
+0022#STR0022#ALL#Impressão cancelada pelo operador...
+0023#STR0023#ALL#Este relatório ira imprimir o Comparativo de Cubos - Balancete de acordo com os parâmetros solicitados pelo utilizador. Para mais informações sobre este relatório consulte o Help do Programa ( F1 ).
+0026#STR0026#ALL#Atenção
+0027#STR0027#ALL#Utilizador sem accesso ao relatório. Verifique as configurações.
+0028#STR0028#ALL#Outros (Não-Especificado)

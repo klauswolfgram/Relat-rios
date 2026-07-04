@@ -1,0 +1,25 @@
+0001#STR0001#ALL#Busca direccion
+0002#STR0002#ALL#Informaciones Unitizador
+0003#STR0003#ALL#Peso
+0004#STR0004#ALL#Cubicación
+0005#STR0005#ALL#Mixto
+0006#STR0006#ALL#Ctd Ubic
+0007#STR0007#ALL#Sí
+0008#STR0008#ALL#No
+0009#STR0009#ALL#Direcciones
+0010#STR0010#ALL#Peso Máx
+0011#STR0011#ALL#Peso Ocup
+0012#STR0012#ALL#Cubicación Máx
+0013#STR0013#ALL#Cubicación Ocup
+0014#STR0014#ALL#Unit Max
+0015#STR0015#ALL#Unit Ocup
+0016#STR0016#ALL#Mensaje
+0017#STR0017#ALL#Orden Zona de almacenamiento, donde: 00-Zona del producto, 01...99-Zona alternativa
+0018#STR0018#ALL#Orden Secuencia Abastecimiento: 
+0019#STR0019#ALL#Orden Estructura Secuencia Abastecimiento
+0020#STR0020#ALL#Orden producto, donde: 01-Exclusivo producto, 02-Cualquer producto
+0021#STR0021#ALL#Orden de saldo, donde: 01-Saldo producto, 02-Saldo mixto, 03-Saldo otro producto, 99-Sin saldo
+0022#STR0022#ALL#Orden movimiento, donde: 01-Movimiento pendiente producto, 99-Sin movimiento pendiente
+0023#STR0023#ALL#Tipo de ubicación, donde: 
+0024#STR0024#ALL#Informaciones Clasificación
+0025#STR0025#ALL#Clasificación

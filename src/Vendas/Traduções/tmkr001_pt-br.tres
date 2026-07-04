@@ -1,0 +1,73 @@
+0001#STR0001#ALL#Ligações Realizadas - Telemarketing
+0002#STR0002#ALL#Este programa irá emitir uma relação das Ligações
+0003#STR0003#ALL#realizadas pelo operador no atendimento Telemarketing
+0004#STR0004#ALL#conforme os parâmetros previamente definidos
+0005#STR0005#ALL#Zebrado
+0006#STR0006#ALL#Administração
+0007#STR0007#ALL#CANCELADO PELO OPERADOR
+0008#STR0008#ALL#Total de Atendimentos Realizados
+0009#STR0009#ALL#Total da
+0010#STR0010#ALL#Mídia
+0011#STR0011#ALL#Campanha
+0012#STR0012#ALL#Operador
+0013#STR0013#ALL#Atendimento
+0014#STR0014#ALL#Data
+0015#STR0015#ALL#Contato
+0016#STR0018#ALL#Empresa
+0017#STR0019#ALL#Operador
+0018#STR0020#ALL#Midia
+0019#STR0021#ALL#Ligacäo
+0020#STR0024#ALL#Status
+0021#STR0028#ALL#Comunicacäo
+0022#STR0029#ALL#Campanha
+0023#STR0030#ALL#Retorno
+0024#STR0031#ALL#Hora do Retorno
+0025#STR0032#ALL#Observação
+0026#STR0033#ALL#Item  Assunto                              Produto                         Ocorrência                      Ação                                                Responsável      Dt Ação     Status        Execução
+0027#STR0036#ALL#Observação do atendimento
+0028#STR0037#ALL#Complemento da execução
+0029#STR0038#ALL#Total geral de todos os atendiemtnos ativos realizados pelo Telemarketing
+0030#STR0039#ALL#Nome do Contato
+0031#STR0040#ALL#Descrição da Entidade
+0032#STR0041#ALL#Nome do Operador
+0033#STR0042#ALL#Descrição da Mídia
+0034#STR0043#ALL#Descrição da Comunicação
+0035#STR0044#ALL#Descrição da Campanha
+0036#STR0045#ALL#Não Existem dados a serem impressos para este relatório com os parâmetros informados
+0037#STR0046#ALL#Não localizado no cadastro...
+0038#STR0047#ALL#Não informado no atendimento...
+0039#STR0048#ALL#TOTAL DE ATENDIMENTOS DO OPERADOR 
+0040#STR0049#ALL#DATA      TOTAL           % PERCENTUAL
+0041#STR0050#ALL#Fone Com.1
+0042#STR0051#ALL#E-Mail
+0043#STR0052#ALL#Endereco
+0044#STR0053#ALL#Cidade
+0045#STR0054#ALL#DATA                     TOTAL           % PERCENTUAL
+0046#STR0055#ALL#TOTAL GERAL
+0047#STR0056#ALL#MEDIA DIARIA 
+0048#STR0057#ALL#RANKING DE OPERADORES E MEDIA DE ATENDIMENTO
+0049#STR0058#ALL#OPERADOR                                             TOTAL                  T.M.A MEDIO
+0050#STR0059#ALL#MIDIA DE MAIOR RECONHECIMENTO
+0051#STR0060#ALL#MIDIA                                                                             TOTAL 
+0052#STR0061#ALL#MIDIA DE MAIOR RECONHECIMENTO POR CAMPANHA
+0053#STR0062#ALL#CAMPANHAS DE MAIOR EXECUCÄO
+0054#STR0063#ALL#CAMPANHA                                                                          TOTAL 
+0055#STR0064#ALL#MEDIA DE ATENDIMENTO (T.M.A) DOS OPERADORES POR CAMPANHA
+0056#STR0065#ALL#CAMPANHA                                             TOTAL                  T.M.A MEDIO
+0057#STR0066#ALL#Assunto
+0058#STR0067#ALL#Ocorrência
+0059#STR0068#ALL#Ação
+0060#STR0069#ALL#Responsável
+0061#STR0070#ALL#Data
+0062#STR0071#ALL#Total
+0063#STR0072#ALL#Percentual
+0064#STR0073#ALL#T.M.A Médio
+0065#STR0074#ALL#Operadores
+0066#STR0075#ALL#Cabecalho do Atendimento - Telemarketing
+0067#STR0076#ALL#Itens do Atendimento - Telemarketing
+0068#STR0077#ALL#Total de Atendimentos do Operador
+0069#STR0078#ALL#Total por Data do Operador
+0070#STR0079#ALL#Total Geral de Atendimentos
+0071#STR0080#ALL#Ranking por operador
+0072#STR0081#ALL#MEDIA TOTAL 
+0073#STR0082#ALL#MIDIA MAIOR RECONHECIMENTO POR CAMPANHA

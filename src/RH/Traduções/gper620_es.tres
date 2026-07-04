@@ -1,0 +1,29 @@
+0001#STR0001#ALL#Busqueda de gestion
+0002#STR0002#ALL#Se imprimira segun los parametros solicitados por el usuario.
+0003#STR0003#ALL#La busqueda debe calcularse previamente
+0004#STR0004#ALL#Matricula
+0005#STR0005#ALL#Centro de costo
+0006#STR0006#ALL#Nombre
+0007#STR0007#ALL#A rayas
+0008#STR0008#ALL#Administracion
+0009#STR0009#ALL#ENCUESTA GERENCIAL 
+0010#STR0010#ALL#Atencion
+0011#STR0011#ALL#Seleccione la busqueda de gestion deseada para impresion en los parametros
+0012#STR0012#ALL#OK
+0013#STR0013#ALL#No se encontro el archivo de calculo de la busqueda de gestion solicitada
+0014#STR0014#ALL#Matricula : 
+0015#STR0015#ALL#Nombre : 
+0016#STR0016#ALL#Concepto
+0017#STR0017#ALL#Total
+0018#STR0018#ALL#    Variacion mensual (%)
+0019#STR0019#ALL#  (%) con relacion al total
+0020#STR0020#ALL#Sucursal : 
+0021#STR0021#ALL#Centro de Costo : 
+0022#STR0022#ALL#Total de la sucursal: 
+0023#STR0023#ALL#Total general
+0024#STR0024#ALL#Total del Centro de Costo: 
+0025#STR0025#ALL#Seleccionando registros
+0026#STR0026#ALL#  1-Total de remuneraciones
+0027#STR0027#ALL#  2-Total de descuentos
+0028#STR0028#ALL#  3-Total neto     
+0029#STR0029#ALL#Este informe sirve para imprimir la Busqueda de Gestion  + Se imprimira de acuerdo con los param. solicitados por el usuario.

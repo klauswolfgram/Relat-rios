@@ -1,0 +1,21 @@
+0001#STR0001#ALL#Detalhado
+0002#STR0002#ALL#Analitico
+0003#STR0003#ALL#Sintetico
+0004#STR0004#ALL#Resumido 
+0005#STR0005#ALL#Lista de Precos por Clientes
+0006#STR0006#ALL#Este relatorio destina-se aos usuarios que utilizam preco de venda
+0007#STR0007#ALL#na amarracao Produto X Cliente, sendo apresentado apenas o ultimo
+0008#STR0008#ALL#preco
+0009#STR0009#ALL#Zebrado
+0010#STR0010#ALL#Administracao
+0011#STR0011#ALL#CANCELADO PELO OPERADOR
+0012#STR0012#ALL#Cliente : 
+0013#STR0013#ALL#Produto                        Descricao do Produto           Cod no Cliente     Peso Unitario  UM                           Ult. Reaj        Preco de Venda
+0013#STR0013#BRA#Produto                        Descricao do Produto           Cod no Cliente     Peso Unitario  UM   IPI     Inciso IPI  Ult. Reaj        Preco de Venda
+0014#STR0014#ALL#Lista de Precos por Clientes
+0015#STR0015#ALL#Este relatorio destina-se aos usuarios que utilizam preco de venda
+0016#STR0016#ALL#na amarracao Produto X Cliente, sendo apresentado apenas o ultimo
+0017#STR0017#ALL#Ult.Reaj.
+0018#STR0018#ALL#Preco de Venda
+0019#STR0019#ALL#Clientes
+0020#STR0020#ALL#Produtos

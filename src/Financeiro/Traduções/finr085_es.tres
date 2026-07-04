@@ -1,0 +1,44 @@
+0001#STR0001#ALL#Impres. de Orden de Pago.
+0002#STR0002#ALL#Impresion de Ordenes de Pago  
+0003#STR0003#ALL#Se solicitaron los parametros de 
+0004#STR0004#ALL#Fecha e interv. de Ordenes.
+0005#STR0005#ALL#Especial
+0006#STR0006#ALL#Administrac.
+0007#STR0007#ALL#** ANULADO POR EL OPERADOR **
+0008#STR0008#ALL#Responsable Inscrito
+0009#STR0009#ALL#Responsable No Inscrito
+0010#STR0010#ALL#Exento
+0011#STR0011#ALL#Consumidor Final
+0012#STR0012#ALL#Exportac.
+0013#STR0013#ALL#Monotributista
+0014#STR0014#ALL#Orden de Pago de los siguient. Docum.
+0015#STR0015#ALL#|-Serie-Numero-----------Valor Pago-----Moneda---Vencto------Valor en 
+0016#STR0016#ALL#Ganan
+0017#STR0017#ALL#Ing. Br.
+0018#STR0018#ALL#IVA
+0019#STR0019#ALL#Se emitio certif. de retencion de 
+0020#STR0020#ALL# Nº 
+0021#STR0021#ALL#Descontados los siguientes Pagos anticip.  : 
+0022#STR0022#ALL#|-Numero------------------------Valor---Moneda---Emitido--------Valor 
+0023#STR0023#ALL#| Descontados los siguientes Pagos anticip.    : 
+0024#STR0024#ALL#|-Numero------------------------Valor---Moneda---Emitido--------Valor 
+0025#STR0025#ALL#En el siguiente detalle (Cheq. - Efect. - Transfer.)
+0026#STR0026#ALL#|-VL-Numero-----------------Valor-Moneda---Bco--Suc.--Cuenta-------Fecha Dep-|
+0027#STR0027#ALL#| Cheques de Terceros entregados : 
+0028#STR0028#ALL#|-VL-Numero-----------------Valor-Moneda---Bco--Suc.--Cuenta-------Cliente-Sc|
+0029#STR0029#ALL#| En concepto de Pago Anticip. de Titulos 
+0030#STR0030#ALL#|-Numero--------------------Valor-Moneda-------------------------------------|
+0031#STR0031#ALL#|                             Total en 
+0032#STR0032#ALL#¿Formulario colocado?
+0033#STR0033#ALL#¿Intenta Nuevam. ?
+0034#STR0034#ALL#¿De Orden        ?
+0035#STR0035#ALL#¿A               ?
+0036#STR0036#ALL#¿De Fecha        ?
+0037#STR0037#ALL#¿A  Fecha        ?
+0038#STR0038#ALL#ORDEN DE PAGO Nº : 
+0039#STR0039#ALL#Fch.: 
+0040#STR0040#ALL#| Beneficiario/a: 
+0041#STR0041#ALL#| Cuenta Nº: 
+0042#STR0042#ALL#|                                                Continua....................|
+0043#STR0043#ALL#|Tasas al 
+0044#STR0044#ALL#Pago anulado

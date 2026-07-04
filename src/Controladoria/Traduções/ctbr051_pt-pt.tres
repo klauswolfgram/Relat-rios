@@ -1,0 +1,49 @@
+0001#STR0001#ALL#Este programa imprimirá o Balancete de Verificação Modelo 1 (132 Colunas), a
+0002#STR0002#ALL#conta e  impressa, limitando-se a 20 caracteres e sua descrição, 30 caracteres,
+0003#STR0003#ALL#Balancete Auxiliar de Verificação
+0004#STR0004#ALL#|  CÓDIGO                     |      D E S C R I Ç Ã O                          |    SALDO ANTERIOR             |     DÉBITO       |      CRÉDITO      |    MOVIMENTO DO PERÍODO       |         SALDO ACTUAL               |
+0004#STR0004#ANG#|  CÓDIGO                     |      D E S C R I Ç Ã O                          |    SALDO ANTERIOR             |     DÉBITO       |      CRÉDITO      |    MOVIMENTO DO PERÍODO       |         SALDO ACTUAL               |
+0004#STR0004#EQU#|  CÓDIGO                     |      D E S C R I Ç Ã O                          |    SALDO ANTERIOR             |     DÉBITO       |      CRÉDITO      |    MOVIMENTO DO PERÍODO       |         SALDO ACTUAL               |
+0004#STR0004#HAI#|  CÓDIGO                     |      D E S C R I Ç Ã O                          |    SALDO ANTERIOR             |     DÉBITO       |      CRÉDITO      |    MOVIMENTO DO PERÍODO       |         SALDO ACTUAL               |
+0004#STR0004#MEX#|  CÓDIGO                     |      D E S C R I Ç Ã O                          |    SALDO ANTERIOR             |     DÉBITO       |      CRÉDITO      |    MOVIMENTO DO PERÍODO       |         SALDO ACTUAL               |
+0004#STR0004#PTG#|  CÓDIGO                     |      D E S C R I Ç Ã O                          |    SALDO ANTERIOR             |     DÉBITO       |      CRÉDITO      |    MOVIMENTO DO PERIODO       |         SALDO ACTUAL               |
+0005#STR0005#ALL#|  CÓDIGO               |   D  E  S  C  R  I  Ç  Ã  O    |   SALDO ANTERIOR  |      DÉBITO    |      CRÉDITO   |   SALDO ACTUAL     | 
+0005#STR0005#ANG#|  CÓDIGO               |   D  E  S  C  R  I  Ç  Ã  O    |   SALDO ANTERIOR  |      DÉBITO    |      CRÉDITO   |   SALDO ACTUAL     | 
+0005#STR0005#EQU#|  CÓDIGO               |   D  E  S  C  R  I  Ç  Ã  O    |   SALDO ANTERIOR  |      DÉBITO    |      CRÉDITO   |   SALDO ACTUAL     | 
+0005#STR0005#HAI#|  CÓDIGO               |   D  E  S  C  R  I  Ç  Ã  O    |   SALDO ANTERIOR  |      DÉBITO    |      CRÉDITO   |   SALDO ACTUAL     | 
+0005#STR0005#MEX#|  CÓDIGO               |   D  E  S  C  R  I  Ç  Ã  O    |   SALDO ANTERIOR  |      DÉBITO    |      CRÉDITO   |   SALDO ACTUAL     | 
+0005#STR0005#PTG#|  CÓDIGO               |   D  E  S  C  R  I  Ç  Ã  O    |   SALDO ANTERIOR  |      DÉBITO    |      CRÉDITO   |   SALDO ACTUAL     | 
+0006#STR0006#ALL#BALANCETE DE VERIFICAÇÃO ANALÍTICO DE 
+0007#STR0007#ALL# ATÉ 
+0009#STR0009#ALL#BALANCETE DE VERIFICAÇÃO SINTÉTICO DE 
+0011#STR0011#ALL#T O T A I S  D O  P E R Í O D O: 
+0012#STR0012#ALL#A seleccionar registos ...
+0013#STR0013#ALL#Código de barras
+0014#STR0014#ALL#Administração
+0015#STR0015#ALL#A criar ficheiro temporário...
+0016#STR0016#ALL#Os valores impressos são saldo anterior, débito, crédito e saldo actual do período.
+0016#STR0016#ANG#Os valores impressos são saldo anterior, débito, crédito e saldo actual do período.
+0016#STR0016#EQU#Os valores impressos são saldo anterior, débito, crédito e saldo actual do período.
+0016#STR0016#HAI#Os valores impressos são saldo anterior, débito, crédito e saldo actual do período.
+0016#STR0016#MEX#Os valores impressos são saldo anterior, débito, crédito e saldo actual do período.
+0016#STR0016#PTG#Os valores impressos são saldo anterior, débito, crédito e saldo actual do período.
+0017#STR0017#ALL#BALANCETE DE VERIFICAÇÃO DE 
+0018#STR0018#ALL# (ORÇADO)
+0022#STR0022#ALL#|  CÓDIGO                     |      D E S C R I Ç Ã O                          |        SALDO ANTERIOR             |           DÉBITO             |            CRÉDITO                |         SALDO ACTUAL               |
+0022#STR0022#MEX#|  CÓDIGO                     |      D E S C R I Ç Ã O                          |        SALDO ANTERIOR             |           DÉBITO             |            CRÉDITO                |         SALDO ACTUAL               |
+0024#STR0024#ALL#Hora término: 
+0025#STR0025#ALL#Favor preencher os parâmetros Grupos Receitas/Despesas e Data Sld Ant. Receitas/despesas ou
+0026#STR0026#ALL#deixar o parâmetro Ignora Sl Ant.Rec/Des = Não 
+0029#STR0029#ALL#Descrição
+0033#STR0033#ALL#Mov.  período
+0034#STR0034#ALL#Saldo actual
+0036#STR0036#ALL#Data inicial 
+0037#STR0037#ALL#Data final 
+0038#STR0038#ALL#Conta inicial 
+0039#STR0039#ALL#Conta final 
+0040#STR0040#ALL#Saldos zerados 
+0044#STR0044#ALL#Salta Linha Sintét.
+0046#STR0046#ALL#Não
+0047#STR0047#ALL#Salta Linha Sintét.
+0049#STR0049#ALL#No.linhas p/ o Balancete 
+0050#STR0050#ALL#Descrição na Moeda 

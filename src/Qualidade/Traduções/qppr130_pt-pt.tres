@@ -1,0 +1,34 @@
+0001#STR0001#ALL#Fmea De Processo
+0002#STR0002#ALL#A Visualizar, Aguarde...
+0003#STR0003#ALL#Número Da Peça(cliente)
+0004#STR0004#ALL#Rev/data Do Desenho
+0005#STR0005#ALL#Nome Da Peça
+0006#STR0006#ALL#Número Da Fmea
+0007#STR0007#ALL#Página
+0009#STR0009#ALL#Responsável Pelo Processo
+0012#STR0012#ALL#Identificação Do Artigo
+0013#STR0013#ALL#Número/rev Peça(fornecedor)
+0014#STR0014#ALL#Equipa
+0017#STR0017#ALL#Observações
+0018#STR0018#ALL#Data De Início
+0019#STR0019#ALL#Data Ver.
+0020#STR0020#ALL#Data Palavra-passe
+0021#STR0021#ALL#Função / 
+0024#STR0024#ALL# falha   
+0026#STR0026#ALL# efeito  
+0027#STR0027#ALL#Da falha 
+0029#STR0029#ALL#    potencial    
+0030#STR0030#ALL#     da falha    
+0031#STR0031#ALL#Controlos
+0032#STR0032#ALL#Actuais do
+0034#STR0034#ALL#     acções  
+0036#STR0036#ALL#Responsável
+0037#STR0037#ALL#     prazo 
+0038#STR0038#ALL#Acções Tomadas
+0039#STR0039#ALL#Resultado Das Acções
+0041#STR0041#ALL#é
+0043#STR0043#ALL#é
+0051#STR0051#ALL#é
+0053#STR0053#ALL#é
+0063#STR0063#ALL#Prevenção
+0064#STR0064#ALL#Detecção

@@ -1,0 +1,35 @@
+0001#STR0001#ALL#Movement Plan        
+0002#STR0002#ALL#This program prints the movements of the gauging instruments
+0003#STR0003#ALL#according to selected parameters.  
+0004#STR0004#ALL#
+0005#STR0005#ALL#Family/Instrument 
+0006#STR0006#ALL#Family/Departm.
+0007#STR0007#ALL#Departm./Instrument
+0008#STR0008#ALL#Z.Form 
+0009#STR0009#ALL#Management   
+0010#STR0010#ALL#Instrument                                                           Freq                     
+0011#STR0011#ALL#Type             Instrument           Depart.       Resp.      days Manufacturer     SG | Forecast  R. Remov  Devolut. | Forecast  R. Remov  Devolut. | Forecast  R. Remov  Devolut. | Forecast  R. Remov  Devolut. 
+0012#STR0012#ALL#CANCELLED BY OPERATOR  
+0013#STR0013#ALL#Selecting Records  . . .   
+0014#STR0014#ALL#Date posterior to 4 mths. from initial period not allowed .
+0015#STR0015#ALL#The system will sugg. the lim. period.
+0016#STR0016#ALL#Rev.
+0017#STR0017#ALL#Dept.  
+0018#STR0018#ALL#Freq.
+0019#STR0019#ALL#Days
+0020#STR0020#ALL#Org. 
+0021#STR0021#ALL#Calibrator
+0022#STR0022#ALL#SG
+0023#STR0023#ALL#January
+0024#STR0024#ALL#February 
+0025#STR0025#ALL#March
+0026#STR0026#ALL#April
+0027#STR0027#ALL#May 
+0028#STR0028#ALL#June 
+0029#STR0029#ALL#July 
+0030#STR0030#ALL#August
+0031#STR0031#ALL#September
+0032#STR0032#ALL#October
+0033#STR0033#ALL#November
+0034#STR0034#ALL#December
+0035#STR0035#ALL#Planned    R. Retir Devol

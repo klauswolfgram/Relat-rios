@@ -1,0 +1,8 @@
+0001#STR0001#ALL#Bills receivable in AVP process
+0002#STR0002#ALL#Process available for environment TOPCONNECT / TOTVSDBACCESS
+0003#STR0003#ALL#This report has the purpose of listing the bills receivable in adjustment process of the current amount, showing the current amount of bills and their its transfers
+0004#STR0004#ALL#Bills in AVP
+0005#STR0005#ALL#AVP Transfers
+0006#STR0006#ALL#Function available TReport only. Check MV_TREPORT parameter
+0007#STR0007#ALL#Invoice Apportionment
+0008#STR0008#ALL#Prorated Value

@@ -1,0 +1,29 @@
+0001#STR0001#ALL#This program issues the Ledger Account Comparative from 2 up to       
+0002#STR0002#ALL# 6 branches. The values are ref. to movements in the required period. 
+0003#STR0003#ALL#Comparative of Ledger Account with Branches
+0004#STR0004#ALL#|  CODE                       | D  E  S  C  R  I  P  T  I  O  N|    MOV BRANCH 01    |    MOV BRANCH 02    |    MOV BRANCH 03    |    MOV BRANCH 04    |    MOV BRANCH 05    |    MOV BRANCH 06    |     GRAND TOTAL       |
+0005#STR0005#ALL#BRANCHES DETAILED COMPARATIVE OF 
+0006#STR0006#ALL# TO  
+0007#STR0007#ALL# IN 
+0008#STR0008#ALL#BRANCHES SUMMARIZED COMPARATIVE OF  
+0009#STR0009#ALL# ATTENTION 
+0010#STR0010#ALL#***** CANCELLED BY OPERATOR   *****
+0011#STR0011#ALL#T O T A L S  O F  P E R I O D  : 
+0012#STR0012#ALL#COMPARATIVE OF 
+0013#STR0013#ALL#Z. Form
+0014#STR0014#ALL#Management
+0015#STR0015#ALL#Creating Temporary File...
+0016#STR0016#ALL#T O T A L S  O F  G R O U P (
+0017#STR0017#ALL#If you don´t update the basic balances  
+0018#STR0018#ALL#during the entries typing (MV_ATUSAL='N'),
+0019#STR0019#ALL#run the balances updating routine for   
+0020#STR0020#ALL#all branches required in this           
+0021#STR0021#ALL#report.   
+0022#STR0022#ALL#CODE  
+0023#STR0023#ALL#DESCRIPT.
+0024#STR0024#ALL#BRANCH MOV
+0025#STR0025#ALL#GRAND TOTAL
+0026#STR0026#ALL#Group 
+0027#STR0027#ALL#Chart of Accts.
+0028#STR0028#ALL#The report can only be deleted with a shared plan of accounts. Please check it.
+0029#STR0029#ALL#The report can only be executed with the exclusive accounting entries. Please check it.

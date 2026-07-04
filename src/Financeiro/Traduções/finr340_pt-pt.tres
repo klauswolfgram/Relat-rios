@@ -1,0 +1,30 @@
+0001#STR0001#ALL#ESte programa irá emitir a posição de clientes
+0002#STR0002#ALL#Referente a data base do sistema.
+0003#STR0003#ALL#Código de barras
+0004#STR0004#ALL#Administração
+0005#STR0005#ALL#Posição dos clientes 
+0006#STR0006#ALL#Prf número      pc  tip valor original emissão    vencto     liquidação                                     recebimentos                                                                       
+0014#STR0014#ALL#Cancelado Pelo Operador
+0015#STR0015#ALL#Cliente : 
+0017#STR0017#ALL#Total crial : 
+0018#STR0018#ALL#Caução Desc.
+0020#STR0020#ALL#Por Código
+0022#STR0022#ALL#A Seleccionar Registos...
+0023#STR0023#ALL#Facturado
+0024#STR0024#ALL#Considera data base ?
+0026#STR0026#ALL#Não
+0027#STR0027#ALL#Total por tipo: 
+0028#STR0028#ALL#Imprimir nome        ?
+0029#STR0029#ALL#Razão Social
+0033#STR0033#ALL#Notário
+0034#STR0034#ALL#Dados Do Cliente
+0036#STR0036#ALL#Títulos
+0038#STR0038#ALL#Número
+0039#STR0039#ALL#Pc
+0041#STR0041#ALL#Emissão
+0043#STR0043#ALL#Liquidação
+0049#STR0049#ALL#Valor Liquidado
+0051#STR0051#ALL#Saldo Actual
+0053#STR0053#ALL#Situação
+0056#STR0056#ALL#T o t a l   f i l i a l ----> 
+0057#STR0057#ALL#Totais/filial

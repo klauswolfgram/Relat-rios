@@ -1,0 +1,17 @@
+0001#STR0001#ALL#Report of Products to Distribute  
+0002#STR0002#ALL#Prints the report of products waiting for distribution
+0003#STR0003#ALL#to the specified locations.       
+0004#STR0004#ALL#Z.Form  
+0005#STR0005#ALL#Management   
+0006#STR0006#ALL#RECORD(S)   
+0007#STR0007#ALL#Selecting Records...     
+0008#STR0008#ALL#PRODUCT         DESCRPTION           AMZ   AMOUNT   BALANCE    LOT ORI      SUBLOT VALIDITY    DOC       SER NUMBER  DATE   
+0009#STR0009#ALL#                                            ORIGINAL   DISTRIBUTE                                                    SEQ.         
+0010#STR0013#ALL#Quantity
+0011#STR0014#ALL#Original
+0012#STR0015#ALL#Balance
+0013#STR0016#ALL#Distribute
+0014#STR0017#ALL#Orig.
+0015#STR0021#ALL#Sequence 
+0016#STR0023#ALL#Number
+0017#STR0025#ALL#Balances to address

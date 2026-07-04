@@ -1,0 +1,28 @@
+0001#STR0001#ALL#Este programa ira emitir o Comparativo de Revisöes de Orcamentos. 
+0002#STR0002#ALL#Deve-se informar as revisöes que deveräo ser comparadas para  
+0003#STR0003#ALL#um mesmo orcamento.
+0004#STR0004#ALL#Comparativo de Revisöes de Orcamentos
+0005#STR0005#ALL#|Orcamento|Descricäo                                         |Calendario|Moeda|Revisao|Linha|   Conta Inicial    |     Conta Final    |                    |                    |Per|Data Inicio|Data Final|   Valor Orcado|
+0006#STR0006#ALL#CANCELADO PELO OPERADOR
+0007#STR0007#ALL#Zebrado
+0008#STR0008#ALL#Administracäo
+0009#STR0009#ALL# Inicial
+0010#STR0010#ALL# Final
+0011#STR0011#ALL#Conta Contabil
+0012#STR0012#ALL#Orcado 
+0013#STR0013#ALL#Total Orcamento - 
+0014#STR0014#ALL# REVISÄO
+0015#STR0015#ALL#|        |   PERIODO 01  |   PERIODO 02  |   PERIODO 03  |   PERIODO 04  |   PERIODO 05  |   PERIODO 06  |   PERIODO 07  |   PERIODO 08  |   PERIODO 09  |   PERIODO 10  |   PERIODO 11  |   PERIODO 12  |      TOTAL      |
+0016#STR0016#ALL# Revisäo 2: 
+0017#STR0017#ALL#Conta:
+0018#STR0018#ALL# a 
+0019#STR0019#ALL#Criando Arquivo Temporario...
+0020#STR0020#ALL#O plano gerencial näo esta disponivel nesse relatorio.
+0021#STR0021#ALL#Selecionando Registros...
+0022#STR0022#ALL#VARIACÄO
+0023#STR0023#ALL#Codigo do orcamento: 
+0024#STR0024#ALL#Caso o calendario contabil possua mais de 12 periodos,
+0025#STR0025#ALL#os periodos superiores a 12 seräo ignorados.   
+0026#STR0026#ALL#O codigo da revisao 1 näo podera ser maior que o codigo 
+0027#STR0027#ALL#da revisäo 2.
+0028#STR0028#ALL#Favor Preencher o parametro de moeda

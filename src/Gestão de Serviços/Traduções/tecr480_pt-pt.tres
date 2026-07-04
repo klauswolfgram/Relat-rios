@@ -1,0 +1,28 @@
+0001#STR0001#ALL#Relação De Serviços
+0002#STR0002#ALL#   este programa irá imprimir a relação dos serviços efectuados analisando 
+0003#STR0003#ALL#Os tempos de atendimento , conforme os parâmetros solicitados.
+0005#STR0005#ALL#Os
+0006#STR0006#ALL#Técnico
+0009#STR0009#ALL#Código de barras
+0010#STR0010#ALL#Administração
+0011#STR0011#ALL#O Serviço Seq. Técnico Cliente   Produto/eqto.    <   Chegada    > <    Início    > <     Fim      > <     Saída    > Trasl.    Total Problema/ocorrência                   Relatório                                    Estado
+0012#STR0012#ALL#                                                Data       Hora  Data       Hora  Data       Hora  Data       Hora           Horas
+0013#STR0013#ALL# [ ordem de serviço ] 
+0014#STR0014#ALL# [ técnico ] 
+0015#STR0015#ALL# [ cliente ] 
+0016#STR0016#ALL# [ ocorrência ] 
+0017#STR0017#ALL#Cancelado Pelo Operador
+0018#STR0018#ALL#Total do técnico: 
+0019#STR0019#ALL#Horas úteis
+0020#STR0020#ALL#Total do cliente: 
+0021#STR0021#ALL#Horas úteis
+0022#STR0022#ALL#Total da ocorrência/problema: 
+0023#STR0023#ALL#Horas úteis
+0024#STR0024#ALL#Total Crial
+0025#STR0025#ALL#Horas úteis
+0026#STR0026#ALL#Horas úteis
+0027#STR0027#ALL#Horas úteis
+0028#STR0028#ALL#Total Por Ocorrência
+0029#STR0029#ALL# (continuação)
+0030#STR0030#ALL#Total De Horas
+0031#STR0031#ALL#Relatório

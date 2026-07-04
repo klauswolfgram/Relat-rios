@@ -1,0 +1,8 @@
+0001#STR0001#ALL#Títulos a receber em processo de AVP
+0002#STR0002#ALL#Processo disponível apenas para ambiente TOPCONNECT / TOTVSDBACCESS
+0003#STR0003#ALL#Esse relatório tem o objetivo de listar os títulos a receber em processo de ajuste de valor presente, demonstrando o valor presente do titulo e suas movimentações
+0004#STR0004#ALL#Título em AVP
+0005#STR0005#ALL#Movimentos de AVP
+0006#STR0006#ALL#Função disponível apenas TReport, verificar parametro MV_TREPORT
+0007#STR0007#ALL#Rateio de Nota Fiscal
+0008#STR0008#ALL#Valor Rateado

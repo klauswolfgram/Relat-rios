@@ -1,0 +1,176 @@
+0001#STR0001#ALL#Relatorio de Encaminhamento de Funcionarios para a realizacao de  exames no     
+0002#STR0002#ALL#Fornecedor definido. Nesta ficha de encaminhamento constam dados do  funcionario
+0003#STR0003#ALL#dados do fornecedor e dos exames que devem ser realizados. Atraves selecionar
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#Encaminhamento para Realizacao dos Exames
+0007#STR0007#ALL#CANCELADO PELO OPERADOR
+0008#STR0008#ALL#ORDEM DE ENCAMINHAMENTO PARA EXAMES
+0009#STR0009#ALL#Emissao:
+0010#STR0010#ALL#|Funcionario..........:
+0011#STR0011#ALL#Ficha.:
+0012#STR0012#ALL#|Centro de Custo......:
+0013#STR0013#ALL#|Funcao...............:
+0014#STR0014#ALL#|Nascimento...........:
+0015#STR0015#ALL#|Admissao.............:
+0016#STR0016#ALL#Idade.:
+0017#STR0017#ALL#|Fornecedor.:
+0018#STR0018#ALL#|Endereco...:
+0019#STR0019#ALL#|Bairro.....:
+0020#STR0020#ALL#|Cidade.....:
+0021#STR0021#ALL#|Telefone...:
+0022#STR0022#ALL#|Medico.....:
+0023#STR0023#ALL#|CRM........:
+0024#STR0024#ALL#|   Realizacao : ____/____/____                                         Responsavel:  ______________________________   |
+0025#STR0025#ALL#|Candidato............:
+0026#STR0026#ALL#|Endereço.............:
+0027#STR0027#ALL#|Bairro...............:
+0028#STR0028#ALL#|Registro Geral.......:
+0029#STR0029#ALL#|CPF..................:
+0030#STR0030#ALL#|Carteira Profissional:
+0031#STR0031#ALL#Endereço........:
+0032#STR0032#ALL#Bairro..........:
+0033#STR0033#ALL#Registro Geral..:
+0034#STR0034#ALL#CPF.............:
+0035#STR0035#ALL#Carteira Prof...:
+0036#STR0036#ALL#Admissional
+0037#STR0037#ALL#Demissional
+0038#STR0038#ALL#Retorno ao trabalho
+0039#STR0039#ALL#Todos
+0040#STR0040#ALL#Tipo de Exame:
+0041#STR0041#ALL#Modelo Impressão ?
+0042#STR0042#ALL#Modelo 1
+0043#STR0043#ALL#Modelo 2
+0044#STR0044#ALL#Dados do Funcionário
+0045#STR0045#ALL#Dados do Fornecedor de Exames
+0046#STR0046#ALL#Ordem de Encaminhamento para
+0047#STR0047#ALL#Exames
+0048#STR0048#ALL#Dados do Funcionário
+0049#STR0049#ALL#Funcionário:
+0050#STR0050#ALL#Ficha: 
+0051#STR0051#ALL#Centro de Custo:
+0052#STR0052#ALL#Função:
+0053#STR0053#ALL#Nascimento:
+0054#STR0054#ALL#Admissão: 
+0055#STR0055#ALL#      Idade: 
+0056#STR0056#ALL#Registro Geral:
+0057#STR0057#ALL#C.P.F.:
+0058#STR0058#ALL#Carteira Profissional:
+0059#STR0059#ALL#Endereço:
+0060#STR0060#ALL#Bairro:
+0061#STR0061#ALL#Candidato:
+0062#STR0062#ALL#Fornecedor:
+0063#STR0063#ALL#Cidade: 
+0064#STR0064#ALL#Telefone: 
+0065#STR0065#ALL#Responsável
+0066#STR0066#ALL#Médico: 
+0067#STR0067#ALL#CRM: 
+0068#STR0068#ALL#Exames
+0069#STR0069#ALL#Realização: _____/_____/_____  Responsável: ___________________________________   Assinatura: _______________________ 
+0070#STR0070#ALL#Dados do Exame
+0071#STR0071#ALL#Exame:
+0072#STR0072#ALL#Fornecedor:
+0073#STR0073#ALL#Funcionários
+0074#STR0074#ALL#Matrícula
+0075#STR0075#ALL#Nome
+0076#STR0076#ALL#Centro de Custo
+0077#STR0077#ALL#Função
+0078#STR0078#ALL#Idade
+0079#STR0079#ALL#Médico Responsável
+0080#STR0080#ALL#Assinatura: _________________________                    Realização: ______/______/______
+0081#STR0081#ALL#Processando Arquivo...
+0082#STR0082#ALL#Encaminhamento para Exames
+0083#STR0083#ALL#|Exame......:
+0084#STR0084#ALL#Natureza.:
+0085#STR0085#ALL#|Assinatura.:
+0086#STR0086#ALL#Realizacao : ____/____/____
+0087#STR0087#ALL#|Medico.....:
+0088#STR0088#ALL#Exame
+0089#STR0089#ALL#Natureza
+0090#STR0090#ALL#Natureza: 
+0091#STR0091#ALL#De Cliente ?
+0092#STR0092#ALL#Loja
+0093#STR0093#ALL#Até Cliente ?
+0094#STR0094#ALL#Código do cliente. O campo pode permanecer vazio para considerar desde o primeiro código.
+0095#STR0095#ALL#Código da loja do cliente. O campo pode permanecer vazio para considerar desde o primeiro código.
+0096#STR0096#ALL#Código do cliente. O campo pode ser preenchido com a letra Z até o final para considerar o último código.
+0097#STR0097#ALL#Código da loja do cliente. O campo pode ser preenchido com a letra Z até o final para considerar o último código.
+0098#STR0098#ALL#Para visualizar o relatório coletivo, deve se escolher apenas um Exame
+0099#STR0099#ALL#Não há nada para imprimir no relatório.
+0100#STR0100#ALL#Filtrar por Natureza ?
+0101#STR0101#ALL#Sim
+0102#STR0102#ALL#Não
+0103#STR0103#ALL# Admissionais
+0104#STR0104#ALL# Demissionais
+0105#STR0105#ALL# de Retorno ao Trabalho
+0106#STR0106#ALL# de Mudança de Função
+0107#STR0107#ALL# Periódicos
+0108#STR0108#ALL#ADMISSIONAL
+0109#STR0109#ALL#PERIÓDICO
+0110#STR0110#ALL#MUDANÇA DE FUNÇÃO
+0111#STR0111#ALL#RETORNO AO TRABALHO
+0112#STR0112#ALL#DEMISSIONAL
+0113#STR0113#ALL#Natureza do Exame
+0114#STR0114#ALL#Filtrar por Fornecedor?
+0115#STR0115#ALL#|Filial...............:
+0116#STR0116#ALL#|------------------------------------------------------Responsavel-----------------------------------------------------|
+0117#STR0117#ALL#|   ----------------------Exames------------------------------------------------------Natureza----------------------   |
+0118#STR0118#ALL#|   -----------------------------------------------------Exames-----------------------------------------------------   |
+0119#STR0119#ALL#|                                                                       Assinatura:   ______________________________   |
+0120#STR0120#ALL#Telefone.:
+0121#STR0121#ALL#Cidade...:
+0122#STR0122#ALL#|----------------------------------Funcionários----------------------------------|
+0123#STR0123#ALL#|Filial       Mat.    Nome                       Função                    Idade |
+0124#STR0124#ALL#Centro de Custo.:
+0125#STR0125#ALL#|-------------------------------Medico Responsavel-------------------------------|
+0126#STR0126#ALL#|CRM .......:
+0127#STR0127#ALL#Filial:
+0128#STR0128#ALL#Filial
+0129#STR0129#ALL#Filtro
+0130#STR0130#ALL#Imprimir Modelo
+0131#STR0131#ALL#De Exame  ?
+0132#STR0132#ALL#Nao
+0133#STR0133#ALL#De Filial ?
+0134#STR0134#ALL#Ate Filial ?
+0135#STR0135#ALL#PREPARAÇÃO:
+0136#STR0136#ALL#Imprimir Preparação ?
+0137#STR0137#ALL#Indica se o relatório deve imprimir a preparação do exame ou não.
+0138#STR0138#ALL#De Data Programação ?
+0139#STR0139#ALL#Até Data Programação ?
+0140#STR0140#ALL#Realizar Exame até:
+0141#STR0141#ALL#Horário do Exame..:
+0142#STR0142#ALL#Imprimir Modelo ?
+0143#STR0143#ALL#Fornecedor ?
+0144#STR0144#ALL#Loja ?
+0145#STR0145#ALL#De  Ficha  Médica ?
+0146#STR0146#ALL#Ate Ficha  Médica ?
+0147#STR0147#ALL#De Data Programação ?
+0148#STR0148#ALL#Ate Data Programação ?
+0149#STR0149#ALL#Médico Responsável ?
+0150#STR0150#ALL#Ate Exame ?
+0151#STR0151#ALL#Modelo Impressão ?
+0152#STR0152#ALL#Imprimir Preparação ?
+0153#STR0153#ALL#Individual
+0154#STR0154#ALL#Coletivo
+0155#STR0155#ALL#Modelo 1
+0156#STR0156#ALL#Modelo 2
+0157#STR0157#ALL#Atenção!
+0158#STR0158#ALL#A Loja informada não condiz com o Fornecedor.
+0159#STR0159#ALL#Favor informar uma Loja existente para o Fornecedor.
+0160#STR0160#ALL#Indica se deve imprimir o modelo individual (uma folha para cada funcionário), ou o modelo coletivo (uma folha para vários funcionários).
+0161#STR0161#ALL#Código do fornecedor de exames.
+0162#STR0162#ALL#Código do loja.
+0163#STR0163#ALL#Código da ficha médica. O campo pode permanecer vazio para considerar desde o primeiro código.
+0164#STR0164#ALL#Código da ficha médica. O campo pode ser preenchido com a letra Z até o final para considerar o último código.
+0165#STR0165#ALL#Data mínima das programações de exames.
+0166#STR0166#ALL#Data máxima das programações de exames.
+0167#STR0167#ALL#Código do médico responsável.
+0168#STR0168#ALL#Código do exame. O campo pode permanecer vazio para considerar desde o primeiro código.
+0169#STR0169#ALL#Código do exame. O campo pode ser preenchido com a letra Z até o final para considerar o último código.
+0170#STR0170#ALL#Tipo dos exames. Pode ser admissional, demissional, retorno ao trabalho, ou todos.
+0171#STR0171#ALL#Define o modelo de impressão. O modelo 1 é o padrão; o modelo 2 é o gráfico.
+0172#STR0172#ALL#Define se será filtrado por fornecedor.
+0173#STR0173#ALL#Selecione o Código da Filial Inicial para filtrar os exames dos funcionários. Observação: Este filtro somente será considerado, caso o sistema utiliza o cadastro de PCMSO por Empresa (Compartilhado) e o cadastro de Funcionários por Filial (Exclusivo).
+0174#STR0174#ALL#Selecione o Código da Filial Final para filtrar os exames dos funcionários. Observação: Este filtro somente será considerado, caso o sistema utiliza o cadastro de PCMSO por Empresa (Compartilhado) e o cadastro de Funcionários por Filial (Exclusivo).
+0175#STR0175#ALL#Indica se o relatório deve imprimir a preparação do exame ou não.
+0176#STR0176#ALL#MONITORAÇÃO PONTUAL

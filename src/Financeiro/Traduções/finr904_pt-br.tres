@@ -1,0 +1,12 @@
+0001#STR0001#ALL#Conferencia de Processo de AVP Contas a Receber
+0002#STR0002#ALL#Processo disponível apenas para ambiente TOPCONNECT / TOTVSDBACCESS
+0003#STR0003#ALL#Esse relatório tem o objetivo de listar os titulos ajustados no processo, para fins de conferencia.
+0004#STR0004#ALL#Processamento
+0005#STR0005#ALL#Movimentos do processamento
+0006#STR0006#ALL#Função disponível apenas TReport, verificar parametro MV_TREPORT
+0007#STR0007#ALL#Rateio de Nota Fiscal
+0008#STR0008#ALL#Valor Rateado
+0009#STR0009#ALL#Constituição
+0010#STR0010#ALL#Apropriação
+0011#STR0011#ALL#Realização
+0012#STR0012#ALL#Baixa

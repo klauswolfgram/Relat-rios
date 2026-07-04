@@ -1,0 +1,18 @@
+0001#STR0001#ALL#Relatório de Oportunidade Comercial - Visitas
+0002#STR0002#ALL#TECR270
+0003#STR0003#ALL#Este programa emite a Impressão de Relatório de oportunidades com as respectivas visitas.
+0004#STR0004#ALL#Informe a oportunidade inicial a ser
+0005#STR0005#ALL#considerada na filtragem.
+0006#STR0006#ALL#Informe a oportunidade final a ser
+0007#STR0007#ALL#Informe a data inicial a ser
+0008#STR0008#ALL#Informe a data final a ser
+0009#STR0009#ALL#Informe a entidade desejada a ser
+0010#STR0010#ALL#Qtde de visitas:
+0011#STR0011#ALL#Oportunidade
+0012#STR0012#ALL#Descrição Visita
+0013#STR0013#ALL#Oport
+0014#STR0014#ALL#Visita
+0015#STR0015#ALL#Cod.Vist.
+0016#STR0016#ALL#Nome Vistoriador
+0017#STR0017#ALL#Dt Inicial
+0018#STR0018#ALL#Dt Final

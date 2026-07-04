@@ -1,0 +1,19 @@
+0001#STR0001#ALL#This program generates the file report of Insurance Policies.
+0002#STR0002#ALL#Use the data dictionary to change the order/fields to print.
+0003#STR0003#ALL#Insurance Policy
+0004#STR0004#ALL#Policy Number: 
+0005#STR0005#ALL#Cia. Acc.: 
+0006#STR0006#ALL#Z. Form
+0007#STR0007#ALL#Management
+0008#STR0008#ALL#Policy Number + Insur. Company Code
+0009#STR0009#ALL#Insur. Company Code + Policy Number 
+0010#STR0010#ALL#Print   
+0011#STR0011#ALL#There are no fields in use for insurance policies!
+0012#STR0012#ALL#SNB File
+0013#STR0013#ALL#***CANCELLED BY THE OPERATOR***
+0014#STR0014#ALL#Generating: 
+0015#STR0015#ALL#Effectiveness 
+0016#STR0016#ALL#to 
+0017#STR0017#ALL#Values in : 
+0018#STR0018#ALL#except the fields Policy/Insurance Company/Validity of the header.
+0019#STR0019#ALL#Registration data

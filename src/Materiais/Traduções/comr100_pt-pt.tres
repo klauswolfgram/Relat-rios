@@ -1,0 +1,15 @@
+0003#STR0003#ALL#Com o objectivo de auxiliar no follow-up destes documentos.
+0005#STR0005#ALL#Cliente/fornecedor+documento
+0006#STR0006#ALL#Código de barras
+0007#STR0007#ALL#Administração
+0008#STR0008#ALL#<--------- documento de entrada ----------> <------- documento de vínculo -------> <--------- documento de cobertura ---------> <------------- documento de saída --------------->                                          
+0009#STR0009#ALL#Série Número      Elem Cliente/Forn.   Loja Série Numero      Cliente/Forn.   Loja Série Número      Cliente/Forn.   Loja Prazo Série Número      Cliente/Forn.   Loja  Quantidade Artigo          Quantidade         Saldo
+0010#STR0010#ALL#Cancelado Pelo Operador
+0014#STR0014#ALL#Total geral 
+0015#STR0015#ALL#Série
+0016#STR0016#ALL#Número
+0017#STR0017#ALL#Elemento
+0020#STR0020#ALL#<--doc.entrada-->
+0023#STR0023#ALL#<--doc.saída-->
+0027#STR0027#ALL#Documentos De Cobertura
+0028#STR0028#ALL#Documentos De Entrada / Saldos Em Poder De Terceiros

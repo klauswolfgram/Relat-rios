@@ -1,0 +1,29 @@
+0001#STR0001#ALL#Este programa imprimira el comparativo de cuentas contables de 2 hasta
+0002#STR0002#ALL# 6 sucursales. Los valores se ref. a movimientos del periodo solicitado.
+0003#STR0003#ALL#Comparativo de cuentas contables con sucursales
+0004#STR0004#ALL#|  CODIGO                     |D  E  S  C  R  I  P  C  I  O  N |    MOV SUCURSAL 01  |    MOV SUCUR. 02    |    MOV SUCUR. 03    |    MOV SUCUR. 04    |    MOV SUCUR. 05    |    MOV SUCUR. 06    |     TOTAL  GENERAL    |
+0005#STR0005#ALL#COMPARATIVO DE SUCURSAL ANALITICO DE 
+0006#STR0006#ALL# A  
+0007#STR0007#ALL# EN 
+0008#STR0008#ALL#COMPARATIVO DE SUCURSAL SINTETICO DE 
+0009#STR0009#ALL# ATENCION 
+0010#STR0010#ALL#***** ANULADO POR EL OPERADOR *****
+0011#STR0011#ALL#T O T A L E S  D E L  P E R I O D O: 
+0012#STR0012#ALL#COMPARATIVO DE 
+0013#STR0013#ALL#A Rayas
+0014#STR0014#ALL#Administracion
+0015#STR0015#ALL#Creando archivo temporal...
+0016#STR0016#ALL#T O T A L E S  D E L  G R U P O (
+0017#STR0017#ALL#Si no se actualizan los saldos  basicos en la
+0018#STR0018#ALL#digitacion de los asientos (MV_ATUSAL='N'),
+0019#STR0019#ALL#ejecute la rutina de actualizacion de saldos 
+0020#STR0020#ALL#para todas las sucursales solicitadas en ese 
+0021#STR0021#ALL#informe.
+0022#STR0022#ALL#CODIGO
+0023#STR0023#ALL#DESCRIPC.
+0024#STR0024#ALL#MOV. SUC. 
+0025#STR0025#ALL#TOTAL GRAL.
+0026#STR0026#ALL#Grupo 
+0027#STR0027#ALL#Plan de Ctas.
+0028#STR0028#ALL#El informe solo puede ejecutarse con plan de cuentas compartido. Por favor, verifique.
+0029#STR0029#ALL#El informe solo puede ejecutarse con los asientos contables exclusivos. Por favor, verifique.

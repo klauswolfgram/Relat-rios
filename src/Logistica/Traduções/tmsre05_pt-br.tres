@@ -1,0 +1,14 @@
+0001#STR0001#ALL#Lista de Pre-Faturas
+0002#STR0002#ALL#Este programa irá imprimir uma relaçäo de Pre-Faturas
+0003#STR0003#ALL#de acordo com os parametros do usuario.
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administraçäo
+0006#STR0006#ALL#Selecionando Registros..
+0007#STR0007#ALL#REMETENTE          NOTA     SERIE COD.DEP NOME CLIENTE   COD.TRP PRE-FAT TIPO FRETE MODAL VENCTO        VLR BRUTO INI FECH   FIM FECH   VLR BLQ AC. VLR DESBLOQ. PROTOCOLO CHAPA    SAIDA CTRC     VOLS     PESO   VLR FATURA
+0008#STR0008#ALL#  FRETE PESO     VLR TAXA VLR TRIBUTO  VLR PEDAGIO   VLR ADEME     VLR ICMS    VLR TOTAL FRT URB EMISSAO     PESO NF  VLR MERCAD. ROTEIRO    DESTINATARIO                                                      NOSSO TOTAL
+0009#STR0009#ALL#CANCELADO PELO OPERADOR
+0010#STR0010#ALL#Lista de Pre-Faturas
+0011#STR0011#ALL#Este programa irá imprimir uma relaçäo de Pre-Faturas de acordo com os parametros do usuario.
+0012#STR0012#ALL#Remetente + Nota + Serie
+0013#STR0013#ALL#Pré-Fatura
+0014#STR0014#ALL#Nosso Total

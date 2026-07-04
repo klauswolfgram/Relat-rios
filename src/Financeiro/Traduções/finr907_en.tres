@@ -1,0 +1,8 @@
+0001#STR0001#ALL#Bills in AVP process
+0002#STR0002#ALL#Process available for environment TOPCONNECT / TOTVSDBACCESS
+0003#STR0003#ALL#This report aims at listing bills payable under adjustment, presenting current value of the bill and its transactions
+0004#STR0004#ALL#AVP Bill
+0005#STR0005#ALL#AVP Transactions
+0006#STR0006#ALL#Function available only TReport, check parameter MV_TREPORT
+0007#STR0007#ALL#Invoice Apportionment
+0008#STR0008#ALL#Prorated Value

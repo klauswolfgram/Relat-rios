@@ -1,0 +1,27 @@
+0001#STR0001#ALL#Requerimientos para consumo
+0002#STR0002#ALL#Emite el detalle de los requerimientos hechos para consumo, dividiendo por
+0003#STR0003#ALL#Centro Costo solicitante o Cuenta Contable. Antes de emitir el informe, se
+0004#STR0004#ALL#crea el archivo de indice, por eso la emision demorara.
+0005#STR0005#ALL# Centro Costo 
+0006#STR0006#ALL# Cta.Contable 
+0007#STR0007#ALL#A Rayas
+0008#STR0008#ALL#Administracion
+0009#STR0009#ALL#REGISTRO(S)
+0010#STR0010#ALL#Seleccionando Registros...
+0011#STR0011#ALL#C.C       DESCRIPCION               CODIGO PRODUCTO DESCRIPCION               UM       CANTIDAD            COSTO        C O S T O
+0012#STR0012#ALL#                                                                                                        UNITARIO        T O T A L
+0013#STR0013#ALL#ANULADO POR EL OPERADOR
+0014#STR0014#ALL#Total del Grupo 
+0015#STR0015#ALL#Total Centro de Costo 
+0016#STR0016#ALL#TOTAL GENERAL.........................
+0017#STR0017#ALL#F E C H A   CENTRO     DESCRIPCION                CUENTA CONTABLE       DESCRIPTION                         V A L O R
+0018#STR0018#ALL#Total de la Cuenta --> 
+0019#STR0019#ALL#T O T A L --->
+0020#STR0020#ALL#            DE COSTOS                                                                                                
+0021#STR0021#ALL#Descripcion
+0022#STR0022#ALL#Valor
+0023#STR0023#ALL#Costo
+0024#STR0024#ALL#Unitario
+0025#STR0025#ALL#Total
+0026#STR0026#ALL#Items de Movimiento Interno
+0027#STR0027#ALL#El Grupo de pregunta MATR230 está incorrecto.

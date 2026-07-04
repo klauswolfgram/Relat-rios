@@ -1,0 +1,17 @@
+0001#STR0001#ALL#Emite un detalle de los itemes del contrato de sociedad que
+0002#STR0002#ALL#generaran las autorizaciones de entrega
+0003#STR0003#ALL#A Rayas
+0004#STR0004#ALL#Administracion
+0005#STR0005#ALL#Itemes del contrato de sociedad que generaran autorizacion de entrega
+0006#STR0006#ALL#REGISTRO(S)
+0007#STR0007#ALL#CODIGO          DESCRIPCION                      GRP  UN      CANTIDAD             PRECIO             TOTAL FECHA ENTREGA  IPI          SALDO
+0008#STR0008#ALL# - Por Proveedor
+0009#STR0009#ALL#CODIGO          DESCRIPCION                      GRP  UN      CANTIDAD             PRECIO             TOTAL FECHA ENTREGA  IPI PROVEEDOR         SALDO
+0010#STR0010#ALL# - Por Producto
+0011#STR0011#ALL#Proveedor: 
+0012#STR0012#ALL#ANULADO POR EL OPERADOR
+0013#STR0013#ALL#Saldo
+0014#STR0014#ALL#Proveedor
+0015#STR0015#ALL#Contrato de Asociac.
+0016#STR0016#ALL#Total del proveedor
+0017#STR0017#ALL#Total del producto

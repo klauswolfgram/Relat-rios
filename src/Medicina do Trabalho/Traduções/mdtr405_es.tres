@@ -1,0 +1,13 @@
+0001#STR0001#ALL#Informe de presentacion de los medicamentos, donde constaran todos o solo 
+0002#STR0002#ALL#aquellos con cantidad actual en stock menor que la cantidad minima, a cri-
+0003#STR0003#ALL#terio del usuario. Opcion disponible a traves del boton Parametros. 
+0004#STR0004#ALL#Administracion
+0005#STR0005#ALL#Medicamentos
+0006#STR0006#ALL#Codigo           Nombre Medicamento                        Ctd Actual   Ctd Minima     Un.Med
+0007#STR0007#ALL#ANULADO POR EL OPERADOR
+0008#STR0008#ALL#A rayas
+0009#STR0009#ALL#Código           Nombre medicamento                    Cant. Actual  Cant. Mínima      Diferencia  Un.Med
+0010#STR0010#ALL#¿Solamente bajo stock minimo?
+0011#STR0011#ALL#No
+0012#STR0012#ALL#Si
+0013#STR0013#ALL#Indica si se deben listar todos los medicamentos(No), o solamente aquellos cuyo saldo actual es inferior al saldo minimo permitido en stock(Si).

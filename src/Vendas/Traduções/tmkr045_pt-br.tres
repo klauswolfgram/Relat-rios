@@ -1,0 +1,21 @@
+0001#STR0001#ALL#Posicao Geral do Telecobranca
+0002#STR0002#ALL#Este relatório ira exibir de forma sintetica os números atualizados dos títulos que estão em cobranca
+0003#STR0003#ALL#Não haverá opção de extrair o relatório ref. a datas retroativas
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#Contas a Receber do Protheus (Válidos p/ o Telecobrança)
+0007#STR0007#ALL#Títulos importados para o Telecobrança
+0008#STR0008#ALL#Títulos não acionados
+0009#STR0009#ALL#Qtde de títulos que não estão na fila de Cobrança
+0010#STR0010#ALL#CANCELADO PELO OPERADOR
+0011#STR0011#ALL#Posição atual por Regra de Seleção
+0012#STR0012#ALL#(Total de títulos no Telecobrança agrupados por Regra de Seleção)
+0013#STR0013#ALL#Nome da Regra
+0014#STR0014#ALL#Total de Títulos
+0015#STR0015#ALL#Total de Clientes
+0016#STR0016#ALL#Valor (R$)
+0017#STR0017#ALL#Quantidade de títulos não acionados por Regra de Seleção
+0018#STR0018#ALL#(Títulos novos da Telecobrança. Estes titulos podem ser novos ou migrados de outra faixa de Seleção.)
+0019#STR0019#ALL#Indicadores
+0020#STR0020#ALL#Número de dias em atraso do título com maior atraso fora da fila de cobrança => 
+0021#STR0021#ALL#Data em que a rotina de seleção foi executada pela última vez => 

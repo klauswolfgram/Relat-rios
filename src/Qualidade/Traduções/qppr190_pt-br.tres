@@ -1,0 +1,55 @@
+0001#STR0001#ALL#Resultados Materiais
+0002#STR0002#ALL#Gerando Visualizacao, Aguarde...
+0003#STR0003#ALL#Aprovacao de Peca de Producao
+0004#STR0004#ALL#Resultados dos Ensaios de Materiais
+0005#STR0005#ALL#PPAP No.
+0006#STR0006#ALL#Pagina :
+0007#STR0007#ALL#Fornecedor
+0008#STR0008#ALL#Numero da Peca(Cliente)
+0009#STR0009#ALL#Revisao/Data Desenho
+0010#STR0010#ALL#Laboratorio
+0011#STR0011#ALL#Numero/Rev Peca(Fornecedor)
+0012#STR0012#ALL#Nome da Peca
+0013#STR0013#ALL#No. Caract
+0014#STR0014#ALL#Tipo de
+0015#STR0015#ALL# Teste 
+0016#STR0016#ALL#Numero da Especificacao do
+0017#STR0017#ALL#Material/Data/Especificacao
+0018#STR0018#ALL#Carac.
+0019#STR0019#ALL# Esp  
+0020#STR0020#ALL#Resultados dos Ensaios
+0021#STR0021#ALL#Ok
+0022#STR0022#ALL#Nao
+0023#STR0023#ALL#Assinatura do Fornecedor
+0024#STR0024#ALL#Data
+0025#STR0025#ALL#Cliente
+0026#STR0026#ALL#Assinatura do Cliente
+0027#STR0027#ALL#Sequencia: 
+0028#STR0028#ALL#Deseja Imprimir Codigo/Descricao Caracteristica ?
+0029#STR0029#ALL#Caracteristica
+0030#STR0030#ALL#Codigo/Descricao Caracteristica
+0031#STR0031#ALL#Codigo Vendedor
+0032#STR0032#ALL#Material Fornecedor
+0033#STR0033#ALL#Nivel de Alteracao do Projeto
+0034#STR0034#ALL#Documentos Alterados pela Engenharia
+0035#STR0035#ALL#Data Desenho
+0036#STR0036#ALL# Num 
+0037#STR0037#ALL#Carac
+0038#STR0038#ALL#Especificao
+0039#STR0039#ALL#    Limites  
+0040#STR0040#ALL# Freq. 
+0041#STR0041#ALL# Teste 
+0042#STR0042#ALL#  QTD  
+0043#STR0043#ALL#  Ens. 
+0044#STR0044#ALL#Declarações de conformidade não são aceitas para qualquer resultado de teste.
+0045#STR0045#ALL#Marco
+0046#STR0046#ALL#Assinatura
+0047#STR0047#ALL#Função
+0048#STR0048#ALL# Data
+0049#STR0049#ALL#Ensaio
+0050#STR0050#ALL#Não será possível gerar o Relatório de Ensaio de Materiais, pois existem alguns campos que precisam ser 
+0051#STR0051#ALL#criados de acordo com o Boletim Técnico do PPAP - Adequação do Ambiente PPAP 4ª Edição.  Caso queira 
+0052#STR0052#ALL#utilizar este mesmo relatório para 3ª Edição, favor verificar o parâmetro MV_QPPAPED.
+0053#STR0053#ALL#Nº Especificação/Revisão/Data
+0054#STR0054#ALL#Atenção !
+0055#STR0055#ALL#Não há dados a serem impressos. Verifique os parâmetros !

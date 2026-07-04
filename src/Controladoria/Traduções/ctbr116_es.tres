@@ -1,0 +1,21 @@
+0001#STR0001#ALL#Este programa imprimira el Diario de Gestión, de acuerdo
+0002#STR0002#ALL#con los parametros sugeridos por el usuario. 
+0003#STR0003#ALL#
+0004#STR0004#ALL#A Rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#Emision del Diario de Gestion
+0007#STR0007#ALL#            C U  E N T A                     H I S T O R I C O                        NUMERO                         V  A  L  O  R
+0008#STR0008#ALL#D E B I T O          C R E D I T O                                                 ASIENTO                      DEBITO        CREDITO
+0009#STR0009#ALL#DIARIO GENERAL DE 
+0010#STR0010#ALL# A 
+0011#STR0011#ALL# EN 
+0012#STR0012#ALL#***** CANCELADO POR EL OPERADOR *****
+0013#STR0013#ALL#A Transportar =======>
+0014#STR0014#ALL#De Transporte =======>
+0015#STR0015#ALL#Totales de este dia =======>
+0016#STR0016#ALL#Totales de este mes =======>
+0017#STR0017#ALL#Total General ============>
+0018#STR0018#ALL#D I A R I O    G E N E R A L
+0019#STR0019#ALL#Planilla:    
+0020#STR0020#ALL#D E B I T O          C R E D I T O                                                 ASIENTO                      DEBITO        CREDITO
+0021#STR0021#ALL#Creando Archivo Temporario...

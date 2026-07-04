@@ -1,0 +1,33 @@
+0001#STR0001#ALL#Parameter Adjustment
+0002#STR0002#ALL#Routine for generation of text file     
+0003#STR0003#ALL#System will generate file according to parameters informed.
+0004#STR0004#ALL#File named        
+0005#STR0005#ALL# cannot be created! Check the parameters.     
+0006#STR0006#ALL#Warning!
+0007#STR0007#ALL#Processing....
+0008#STR0008#ALL#Error while saving file. Do you want to continue?
+0009#STR0009#ALL#Warn.
+0010#STR0010#ALL#Table Loaded    
+0011#STR0011#ALL#Table alrd.exists 
+0012#STR0012#ALL#System will update RCC to generate text files.
+0013#STR0013#ALL#Make a backup (RCC) before starting update process.
+0014#STR0014#ALL#Do you confirm table update?
+0015#STR0015#ALL#Text Files (*.TXT) |*.txt|
+0016#STR0016#ALL#Report Type
+0017#STR0017#ALL#Select file
+0018#STR0018#ARG#Select processes.
+0019#STR0019#ARG#Register type of company in table S032
+0020#STR0020#ALL#There are no valid periods for the selected date.
+0021#STR0021#ALL#There is no budget for parameters entered.
+0022#STR0022#ALL#There is/are process(es) where the field Criterion IAG with blank content.
+0023#STR0023#ALL#miSimplified
+0024#STR0024#ALL#Labor Relations
+0025#STR0025#ALL#Complementary Data
+0026#STR0026#ALL#C.B.U.
+0027#STR0027#ALL#Family Relationship
+0028#STR0028#ALL#SICOSS
+0029#STR0029#ALL#SICORE
+0030#STR0030#ALL#There are no procedures for the entered parameters.
+0031#STR0031#ALL#Your statement
+0032#STR0032#ALL#Table S036 - Text File Your Statement does not exist, check!
+0033#STR0033#ALL#Select directory

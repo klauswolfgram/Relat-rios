@@ -1,0 +1,17 @@
+0001#STR0001#ALL#Relacionar os fornecedores que apresentam epi, cujo
+0002#STR0002#ALL#A data de renovação do c.a esta vencida ou a vencer
+0003#STR0003#ALL#Em determinado período.
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#Fornecedores Com Certificado De Aprovação A Vencer
+0007#STR0007#ALL#Fornec.  Nome Fornecedor                           Código  Epi       Nome Epi		                      C.a.          Data Venc.
+0008#STR0008#ALL#Cancelado Pelo Operador
+0010#STR0010#ALL#Nome Do Fornecedor
+0011#STR0011#ALL#Código  epi
+0012#STR0012#ALL#Nome De Epi
+0013#STR0013#ALL#C.a.
+0014#STR0014#ALL#Data Venct.
+0015#STR0015#ALL#De Cliente?
+0022#STR0022#ALL#Até Fornecedor ?
+0026#STR0026#ALL#De Filial?
+0027#STR0027#ALL#Até Filial?

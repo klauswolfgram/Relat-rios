@@ -1,0 +1,35 @@
+0001#STR0001#ALL#Contratos de Parceria
+0002#STR0002#ALL#Emite uma relacao com as informacoes referentes
+0003#STR0003#ALL#aos Contratos de Parceria.
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#CANCELADO PELO OPERADOR
+0007#STR0007#ALL#Por Numero
+0008#STR0008#ALL#Por Fornecedor
+0009#STR0009#ALL#Por Produto
+0010#STR0010#ALL#Item  Produto         Descricao                        Quantidade      Prc. Unit.      Vlr. Total  Dt.Inicial  Dt.Final  Armazem          Saldo  Elim.Res.  Observacoes
+0011#STR0011#ALL#Item  Produto         Descricao                        Quantidade      Prc. Unit.      Vlr. Total  Dt.Inicial  Dt.Final  Armazem          Saldo  Elim.Res.  Observacoes                     Contrato  Emissao  Fil.Ent. Frete
+0012#STR0012#ALL#Item    Quantidade      Prc. Unit.      Vlr. Total  Dt.Inicial  Dt.Final  Armazem          Saldo  Elim.Res.  Observacoes                     Contrato  Emissao  C.Pagto. Moeda Fil.Ent. Frete Fornecedor       
+0013#STR0013#ALL# - Todos
+0014#STR0014#ALL# - Pendentes
+0015#STR0015#ALL# - Parciais
+0016#STR0016#ALL# - Atendidos
+0017#STR0017#ALL#Contrato No.: 
+0018#STR0018#ALL#Emissao: 
+0019#STR0019#ALL#Cond.Pagamento: 
+0020#STR0020#ALL#Filial p/Entrega: 
+0021#STR0021#ALL#Moeda: 
+0022#STR0022#ALL#Fornecedor..: 
+0023#STR0023#ALL#Contato: 
+0024#STR0024#ALL#Tipo do Frete.: 
+0025#STR0025#ALL#Produto: 
+0026#STR0026#ALL#Sim
+0027#STR0027#ALL#Nao
+0028#STR0028#ALL#Total dos Itens: 
+0029#STR0029#ALL#Descrição
+0030#STR0030#ALL#Saldo
+0031#STR0031#ALL#Contrato de Parceria
+0032#STR0032#ALL#Fornecedor
+0033#STR0033#ALL#Item do Contrato de Parceria
+0034#STR0034#ALL#Produto ( Por Produto )
+0035#STR0035#ALL#Item do Contrato de Parceria ( Por Produto )

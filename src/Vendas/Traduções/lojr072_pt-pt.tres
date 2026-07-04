@@ -1,0 +1,24 @@
+0001#STR0001#ALL#IMprime a relaçäo das vendas considerando os parâmetros solicitados :
+0002#STR0002#ALL#Por data de venda, por vendedor, por produto, por tipo, por grupo de  
+0003#STR0003#ALL#Produtos , por clientes e por caixa .
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#Relação De Vendas
+0009#STR0009#ALL#Por Artigo
+0014#STR0014#ALL#  Data   N.fisc        Ser Vend.  Nome Vend.  Clien. Nome Cliente     Grupo Tipo Produto         Descrição        Un  Quantidade	  Valor Unit.  Desc.it. Desc.proproc.     Acrescimo   Valor Rec.        Valor Icms
+0015#STR0015#ALL#Vended Nome Vend.   Data   N.fisc        Ser Client Nome Cliente      Grupo  Tip Produto         Descrição        Un  Quantidade     Valor Unit.  Desc.it. Desc.proproc.     Acrescimo   Valor Rec.        Valor Icms
+0016#STR0016#ALL#Cod. Produto    Descrição        Data    Fact           Ser Vended Nome Vend.  Client Nome Cliente      Grupo Tipo  Un  Quantidade     Valor Unit.  Desc.it. Desc.proproc.     Acrescimo   Valor Rec.        Valor Icms
+0017#STR0017#ALL#Tipo Cod. Produto    Descrição      Data     Fact            Ser Vended Nome Vend.  Client Nome Cliente      Grupo  Un  Quantidade     Valor Unit.  Desc.it. Desc.proproc.     Acrescimo   Valor Rec.        Valor Icms
+0018#STR0018#ALL#Grup   Data   N.fis         Ser Vended Nome Vend.  Client Nome Cliente      Tipo Produto         Descrição        Un  Quantidade     Valor Unit.  Desc.it. Desc.proproc.     Acrescimo   Valor Rec.        Valor Icms
+0019#STR0019#ALL#Client Nome Cliente      Tip Data     Fact            Ser Vended Nome Vend.  Grupo Produto         Descrição        Un  Quantidade     Valor Unit.  Desc.it. Desc.proproc.     Acrescimo   Valor Rec.        Valor Icms
+0020#STR0020#ALL#Caixa Nome Cliente      Tipo Data     Fact            Ser Vended Nome Vend.  Grupo Produto         Descrição        Un  Quantidade     Valor Unit.  Desc.it. Desc.proproc.     Acrescimo   Valor Rec.        Valor Icms
+0028#STR0028#ALL#A Seleccionar Registos...
+0029#STR0029#ALL#Cancelado Pelo Operador
+0030#STR0030#ALL#S u b - t o t a l   ----> 
+0031#STR0031#ALL#T o t a l   g e r a l ---->
+0032#STR0032#ALL#Inclui devolução   ?
+0034#STR0034#ALL#Não
+0035#STR0035#ALL#T o t a l   d a   f i l i a l : 
+0036#STR0036#ALL# *********************** devoluções *********************** 
+0037#STR0037#ALL# ( completo )
+0038#STR0038#ALL# Devolução Por Envio Para

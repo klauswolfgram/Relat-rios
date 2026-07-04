@@ -1,0 +1,64 @@
+0001#STR0001#ALL#This program will print the valuation position 
+0002#STR0002#ALL#of the Assets in up to 5 (five) Currencies.
+0003#STR0003#ALL#Valuated position of Assets
+0004#STR0004#ALL#Branch         Cost.C.             Cod. Base  Item Summ.Description Tp.                 Depr.Tp.       Acquis.   Dt.WriteOff    Amount  Reg.No.  Acc.Item  ValueCl.   
+0005#STR0005#ALL#Branch        Account                Code Base  Item Summ.Description Tp.                 Depr.Tp.       Acquis.             Dt.WriteOff    Amount  Reg.No.  Acc.Item  ValueCl.   
+0006#STR0006#ALL#      ENLARGEMENT VALUE  ORIGINAL AMOUNT   VALUATED AMOUNT   MONTH DEPREC   YEAR DEPREC         ACCUMUL DEPREC      MONET.ADJ MONTH MON.ADJ.YEAR     ACCUM.MONET.ADJ.    MONTH DEPR.ADJ. YEAR DEPR ADJ     ACCUM MONET ADJ.  
+0007#STR0007#ALL#Account : 
+0008#STR0008#ALL#C.Center: 
+0009#STR0009#ALL#CANCELLED BY THE OPERATOR  
+0010#STR0010#ALL#TOTAL 
+0011#STR0011#ALL#QUANTITY  
+0012#STR0012#ALL#* * *  G R A N D   T O T A L * * *
+0013#STR0013#ALL#QUANTITY  
+0014#STR0014#ALL#Z.Form 
+0015#STR0015#ALL#Management   
+0016#STR0016#ALL#Accnt
+0017#STR0017#ALL#C Center
+0018#STR0018#ALL# per 
+0019#STR0019#ALL# - TYPE 
+0020#STR0020#ALL#To use it, create index SN4 - Key N4_FILIAL + N4_CBASE + N4_ITEM + N4_TIPO + N4_OCORR + DTOS(N4_DATA).          
+0021#STR0021#ALL#Account. Item
+0022#STR0022#ALL#Class of Value
+0023#STR0023#ALL#Branch        Account                Code Base  Item Summ.Description Tp.                 Depr.Tp.       Acquis.             Dt.WriteOff    Amount  Reg.No.  C.Center   ValueCl.   
+0024#STR0024#ALL#Branch        Account                Code Base  Item Summ.Description Tp.                 Depr.Tp.       Acquis.             Dt.WriteOff    Amount  Reg.No.  Acc. Item  C.Center     
+0025#STR0025#ALL#Original Value
+0026#STR0026#ALL#Updated Value   
+0027#STR0027#ALL#Deprec.in month
+0028#STR0028#ALL#Deprec.in Fisc.Yr
+0029#STR0029#ALL#Deprec. Accrued  
+0030#STR0030#ALL#Values of Posting Grand Total  
+0031#STR0031#ALL#* * *P O S T I N G S* * *
+0032#STR0032#ALL#* * *   T O T A L   * * *
+0033#STR0033#ALL#POSTS.
+0034#STR0034#ALL#TOTAL
+0035#STR0035#ALL#Accounting Entity
+0036#STR0036#ALL#Entity info      
+0037#STR0037#ALL#Amounts
+0038#STR0038#ALL#Currency symb
+0039#STR0039#ALL#Sub-total text 
+0040#STR0040#ALL#Sub-total Amounts
+0041#STR0041#ALL#Pstg. Text 
+0042#STR0042#ALL#Entity  
+0043#STR0043#ALL#Quantity  
+0044#STR0044#ALL#Pstng
+0045#STR0045#ALL#Posting amounts 
+0046#STR0046#ALL#Pstngs GrandTotal Txt
+0047#STR0047#ALL#Posting total amounts     
+0048#STR0048#ALL#Grand Total Text 
+0049#STR0049#ALL#Grand total amounts   
+0050#STR0050#ALL#Posting Grand Total Text  
+0051#STR0051#ALL#Posting grand total   
+0052#STR0052#ALL#Total Text +Posting
+0053#STR0053#ALL#Total+Posting
+0054#STR0054#ALL#Total amounts + Posting 
+0055#STR0055#ALL#Posting total  
+0056#STR0056#ALL#Grand total
+0057#STR0057#ALL#Branch
+0058#STR0058#ALL#Increase Value 1
+0059#STR0059#ALL#Account Code
+0060#STR0060#ALL#Desc Currency 1
+0061#STR0061#ALL#Account Item
+0062#STR0062#ALL#Value Cl Code
+0063#STR0063#ALL#Entity Code
+0064#STR0064#ALL#One of the branches selected has a different last depreciation date.

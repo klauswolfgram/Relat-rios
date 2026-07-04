@@ -1,0 +1,45 @@
+0001#STR0001#ALL#Este programa ira emitir o Plano de Calibraçäo dos Instrumentos
+0002#STR0002#ALL#Familia          Instrumento      Rev. Depart.       Responsavel     Dias  Fabricante     Orgao Calibrador SG  |P.  R.  |P.  R.  |P.  R.  |P.  R.  |P.  R.  |P.  R.  |P.  R.  |P.  R.  |P.  R.  |P.  R.  |P.  R.  |P.  R.  |
+0003#STR0003#ALL#Zebrado
+0004#STR0004#ALL#Administraçäo
+0005#STR0005#ALL#Plano de Calibracao
+0006#STR0006#ALL#Familia+Instr.+Depto.
+0007#STR0007#ALL#Familia+Depto.+Instr.
+0008#STR0008#ALL#Depto.+Instr.+Familia
+0009#STR0009#ALL#CANCELADO PELO OPERADOR
+0010#STR0010#ALL#                                                                     Freq.                                     |
+0011#STR0011#ALL#Jan
+0012#STR0012#ALL#Fev
+0013#STR0013#ALL#Mar
+0014#STR0014#ALL#Abr
+0015#STR0015#ALL#Mai
+0016#STR0016#ALL#Jun
+0017#STR0017#ALL#Jul
+0018#STR0018#ALL#Ago
+0019#STR0019#ALL#Set
+0020#STR0020#ALL#Out
+0021#STR0021#ALL#Nov
+0022#STR0022#ALL#Dez
+0023#STR0023#ALL#LEGENDA RESPONSAVEL(IS)/DEPARTAMENTO(S)
+0024#STR0024#ALL#          Codigo              Nome                                         N.Reduz
+0025#STR0025#ALL#          Codigo              Departamento
+0026#STR0026#ALL#T O T A L   P R E V I S T O  :
+0027#STR0027#ALL#P.   R.
+0028#STR0028#ALL#Familia+Instr.+Depto.
+0029#STR0029#ALL#Familia+Depto.+Instr.
+0030#STR0030#ALL#Depto.+Instr.+Familia
+0031#STR0031#ALL#Rev.
+0032#STR0032#ALL#Depart.
+0033#STR0033#ALL#Freq.
+0034#STR0034#ALL#Dias
+0035#STR0035#ALL#Orgao
+0036#STR0036#ALL#Calibrador
+0037#STR0037#ALL#SG
+0038#STR0038#ALL#Codigo
+0039#STR0039#ALL#Nome
+0040#STR0040#ALL#N. Reduz
+0041#STR0041#ALL#Departamento
+0042#STR0042#ALL#Usuario nao existe e/ou foi deletado
+0043#STR0043#ALL#Totalizadores
+0044#STR0044#ALL#Usuarios
+0045#STR0045#ALL#Departamentos

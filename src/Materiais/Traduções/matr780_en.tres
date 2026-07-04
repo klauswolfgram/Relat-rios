@@ -1,0 +1,29 @@
+0001#STR0001#ALL#Sales Statistics      (Customer x Product)
+0002#STR0002#ALL#This program will print a list of purchases carried out by the Customer,
+0003#STR0003#ALL#totalizing by product and selecting the hard currency for the Values.
+0004#STR0004#ALL#Z.Form 
+0005#STR0005#ALL#Management   
+0006#STR0006#ALL#SALES STATISTICS      (Customer X Product)
+0007#STR0007#ALL#CUSTOMER  CORPORATE NAME
+0008#STR0008#ALL#PRODUCT         DESCRIPTION                INVOICE            ISSUE     UN   QUANTITY      UNIT PRICE             TOTAL    SALESMAN 
+0009#STR0009#ALL#CUSTOM.  CORPORATE NAME
+0010#STR0010#ALL#Values in  
+0011#STR0011#ALL#Selecting Records...     
+0012#STR0012#ALL#CANCELLED BY THE OPERATOR  
+0013#STR0013#ALL#Note: 
+0014#STR0014#ALL#TOTAL OF PRODUCT - 
+0015#STR0015#ALL#TOTAL OF CUSTOM. - 
+0016#STR0016#ALL#G R A N D   T O T A L                     ---->
+0017#STR0017#ALL#RET
+0018#STR0018#ALL#Sales statistics (Customer / Product)
+0019#STR0019#ALL#This program lists the purchases made by the customer,
+0020#STR0020#ALL#totaling by product and selecting the hard currency for the Amounts.
+0021#STR0021#ALL#Amounts on 
+0022#STR0022#ALL#PRODUCT TOTAL    - 
+0023#STR0023#ALL#CUSTOMER TOTAL   - 
+0024#STR0024#ALL#Sales R.
+0025#STR0025#ALL#RET
+0026#STR0026#ALL#Selecting records ...    	
+0027#STR0027#ALL#Customers
+0028#STR0028#ALL#Outflow invoice items           	
+0029#STR0029#ALL#Returns   	

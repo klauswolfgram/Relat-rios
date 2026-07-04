@@ -1,0 +1,27 @@
+0001#STR0001#ALL#Provisión Cód.:
+0002#STR0002#ALL#Período
+0003#STR0003#ALL#Contabilizado
+0004#STR0004#ALL#Corto plazo
+0005#STR0005#ALL#Largo plazo
+0006#STR0006#ALL#Total sucursal
+0007#STR0007#ALL#Total período
+0008#STR0008#ALL#Total revisión
+0009#STR0009#ALL#Total provisión
+0010#STR0010#ALL#Seleccione las ocurrencias de movimientos de provisión
+0011#STR0011#ALL#Por favor, seleccione por lo menos una sucursal
+0012#STR0012#ALL#Función disponible solamente par entornos TopConnect
+0013#STR0013#ALL#Funcion disponible solamente para TReport, por favor, actualice el entorno y verifique el parámetro MV_TREPORT
+0014#STR0014#ALL#Este informe tiene el objetivo de mostrar los movimientos del Control de provisión.
+0015#STR0015#ALL#Estado demostrativo de planificación de provisión
+0016#STR0016#ALL#Control de provisión
+0017#STR0017#ALL#Movimientos de provisión
+0018#STR0018#ALL#Para utilizar este informe, es necesario que esté implementado el proceso de Control de provisión. Por favor, actualice el entorno
+0019#STR0019#ALL#Sí
+0020#STR0020#ALL#No
+0021#STR0021#ALL#Revisado
+0022#STR0022#ALL#Generado
+0023#STR0023#ALL#Actualizado
+0024#STR0024#ALL#Efectivado
+0025#STR0025#ALL#Realización pendiente
+0026#STR0026#ALL#Estatus
+0027#STR0027#ALL#Por favor, seleccione por lo menos una ocurrencia

@@ -1,0 +1,52 @@
+0001#STR0001#ALL#Serao impressos os Indices Gerais de Fornecimento
+0002#STR0002#ALL#Indices Gerais de Fornecimento
+0003#STR0003#ALL#Zebrado
+0004#STR0004#ALL#Administracao
+0005#STR0005#ALL#JANEIRO
+0006#STR0006#ALL#FEVEREIRO
+0007#STR0007#ALL#MARCO
+0008#STR0008#ALL#ABRIL
+0009#STR0009#ALL#MAIO
+0010#STR0010#ALL#JUNHO
+0011#STR0011#ALL#JULHO
+0012#STR0012#ALL#AGOSTO
+0013#STR0013#ALL#SETEMBRO
+0014#STR0014#ALL#OUTUBRO
+0015#STR0015#ALL#NOVEMBRO
+0016#STR0016#ALL#DEZEMBRO
+0017#STR0017#ALL#Periodo :
+0018#STR0018#ALL#Qualificacao de Fornecedores e Produtos
+0019#STR0019#ALL#| Classificacao               | Fornecedores        |
+0020#STR0020#ALL#Qualificacao de Fornecedores (IQS)
+0021#STR0021#ALL#| Classificacao               | Fornecedores                              |
+0022#STR0022#ALL#Estatisticas
+0023#STR0023#ALL#| Topico                                 |   Numero    |   % Sobre Total  |
+0024#STR0024#ALL#| Numero total de Entradas no periodo
+0025#STR0025#ALL#| Entradas com laudo
+0026#STR0026#ALL#| Entradas sem laudo
+0027#STR0027#ALL#| Entradas em Skip-Lote
+0028#STR0028#ALL#| Entradas em Permuta
+0029#STR0029#ALL#| Notificacoes nao-conformidade emitidas
+0030#STR0030#ALL#| Fornecedores notificados
+0031#STR0031#ALL#| Produtos notificados
+0032#STR0032#ALL#| Fornecedores com Entradas no periodo
+0033#STR0033#ALL#| Produtos entregues no periodo
+0034#STR0034#ALL#| Lead Time maximo em transito
+0035#STR0035#ALL#| Lead Time maximo em laboratorio
+0036#STR0036#ALL#| Lead Time maximo com Laudo
+0037#STR0037#ALL#| Numero total de fornecedores
+0038#STR0038#ALL#| Numero total de produtos
+0039#STR0039#ALL#Descricao das Nao-conformidades
+0040#STR0040#ALL#| Fornecedor           |
+0041#STR0041#ALL#|Data Entr.| N. Lote         | Tam.Lote | No. NNC      | N/C     |
+0042#STR0042#ALL#Resumo dos IQIs
+0043#STR0043#ALL#| Fornecedor          |
+0044#STR0044#ALL#| IQPm  |  IQS  |  IQIm | IQIac | Classif. Atual | Classif.Cadast. |
+0045#STR0045#ALL# - Fator 
+0046#STR0046#ALL#Selecionando Registros...
+0047#STR0047#ALL#| IQPm  |  IQS  |  IQFm | IQFac | Classif. Atual | Classif.Cadast. |
+0048#STR0048#ALL#| Entradas com Liberacao Urgente
+0049#STR0049#ALL#Criando Indice TMP For... 
+0050#STR0050#ALL#Criando Indice TMP Pro... 
+0051#STR0051#ALL#Criando Indice TMP Iqs... 
+0052#STR0052#ALL#Resumo dos IQFs

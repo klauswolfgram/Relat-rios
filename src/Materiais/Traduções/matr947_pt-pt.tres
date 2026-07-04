@@ -1,0 +1,24 @@
+0001#STR0001#BRA#Código de barras
+0002#STR0002#BRA#Administração
+0004#STR0004#BRA#Relatório De Movimentações De Produtos Controlados
+0007#STR0007#BRA#Morada: #################################################                                   |      ARTIGOS QUÍMICOS CONTROLADOS      | Distrito.                                                                    |
+0008#STR0008#BRA#Concelho: ####################      Freg.: ####################      Cód.Post.: #########           |                   DIRD                  |                                                                              |
+0009#STR0009#BRA#Telefone: ##############                                                                      |  DPC - DIVISÃO DE ARTIGOS CONTROLADOS  | Alvará nº ######## expedido pela SSP/Polícia Civil Estadual                  |
+0010#STR0010#BRA#CGC: ##.###.###/####-##           Inscrição Distrito: ###.###.###.###                         |  Referente ao  #º trimestre de ####     |                                                                              |
+0012#STR0012#BRA#| Artigo Controlado                                                             |    Saldo Trimestre |            Compras |              Somas |            Consumo |     Vendas, perdas | Saldo que passa para | UN  |
+0017#STR0017#BRA#|    Data    | Nº FACTURA |  QUANTIDADE E     |  NOME DOS ARTIGOS                                    |   RAZÃO SOCIAL COMPLETA/MORADA COMPLETA       |   RAZÃO SOCIAL COMPLETA/MOARADA COMPLETA                |
+0018#STR0018#BRA#|            |                | UNIDADE DE MEDIDA |     CONTROLADOS                                       | CP/TEL/CIDADE/DISTRITO DO FORNECEDOR/REMETENTE      |   CP/TEL/CIDADE/DISTRITO DO TRANSPORTADOR                    |
+0022#STR0022#BRA#|            |                |                   |                                                       |Conc./Dt     |################################# ##|Conc./Dt    |########################################## ##|
+0029#STR0029#BRA#Razão Social: ##################################################                                                                                                                     NR.CONTR.: ##.###.###/####-##           
+0038#STR0038#BRA#                                                                                                                                                   O que declaro é verdade, sob às penas da lei.                        
+0039#STR0039#BRA#                                                                                                                                                   Cocelho/data:                                                         
+0047#STR0047#BRA#|    Data    |    CLIENTE               |      MORADA/CÓD.POST.                       |   FREG.        |   CONC.        | DT |  N.F.N  | DDD/FONE     |        ARTIGO                  | UNID. MEDIDA |   QUANTIDADE    |
+0051#STR0051#BRA# MAPA TRIMESTRAL DE VENDA DE ARTIGOS CONTROLADOS (ANEXO III)
+0053#STR0053#BRA#| XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX       |    RESUMO   DOS   TRANSPORTES  DE  ARTIGOS    | EMPRESA LICENCIADA PELA SECRETARIA                                       |
+0055#STR0055#BRA#| ###################################################################################      |    PÚBLICA(SSP) - POLICIA  CIVIL DISTRITAL E    | N / VALIDADE: ########                                                   |
+0056#STR0056#BRA#| FREG., CONC. E DIST.                                                                  |    EXÉRCITO, EFECTUADOS DURANTE O PERÍODO DE    |                                                                          |
+0059#STR0059#ALL#| NOME DE CADA ARTIGO                        |  NOME DO EMBARCADOR   |                    MORADA COMPLETA                      | NOME DO DESTINATÁRIO  |                     MORADA COMPLETA                      |
+0060#STR0060#ALL#| CONTROLADO TRANSPORTADO                     |                       |         Rua, Número, Freg., Concelho, Cód.Post.e Distrito         |                       |           Rua, Número, Bairro, Cidade, Cep e Estado        |
+0065#STR0065#ALL#|                                                     |                           |                               |                |    O que declaro é verdade, sob compromisso de honra.                                  |
+0072#STR0072#ALL#Parâmetro obrigatório para a correcta criação do Mapa de Artigos Controlados.
+0073#STR0073#ALL#Para implementação deste parâmetro, favor consultar o Boletim Técnico - Mapa de Artigos Controlados.

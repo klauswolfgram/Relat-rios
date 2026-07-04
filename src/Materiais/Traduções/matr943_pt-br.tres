@@ -1,0 +1,64 @@
+0001#STR0001#ALL#SEM MOVIMENTO
+0002#STR0002#ALL#|                                                    REGISTRO DE APURAÇÃO DO IPI                                                   |
+0003#STR0003#ALL#|                                                DEMONSTRATIVO DE APURAÇÃO DO IMPOSTO                                              |
+0004#STR0004#ALL#| FIRMA: #########################################################                                                                 |
+0005#STR0005#ALL#| INSC.EST.: ######################## C.N.P.J.: #################                                                                  |
+0006#STR0006#ALL#| FOLHA: ####     MÊS OU PERÍODO/ANO: #########                                                                                    |
+0007#STR0007#ALL#|                                                         E N T R A D A S                                                          |
+0008#STR0008#ALL#|                                                           S A Í D A S                                                            |
+0009#STR0009#ALL#|              |                    |                                 IPI - VALORES FISCAIS                                        |
+0010#STR0010#ALL#|    FISCAL    |  VALORES CONTÁBEIS |    BASE DE CALCULO   |  IMPOSTO CREDITADO   | ISENTAS OU NÃO TRIBUTADAS |      OUTRAS        |
+0011#STR0011#ALL#|    TOTAIS    | ################## |  ##################  |  ##################  |    ##################     | ################## |
+0012#STR0012#ALL#| DEMONSTRATIVO DE CRÉDITOS                                                              |                 VALORES                 |
+0013#STR0013#ALL#|                                                                                        |   COLUNA AUXILIAR  |        SOMA        |
+0014#STR0014#ALL#| 001 - POR ENTRADAS DO MERCADO NACIONAL                                                 |                    | ################## |
+0015#STR0015#ALL#| 002 - POR ENTRADAS DO MERCADO EXTERNO                                                  |                    | ################## |
+0016#STR0016#ALL#| 003 - POR SAÍDAS PARA O MERCADO EXTERNO                                                |                    | ################## |
+0017#STR0017#ALL#| 004 - ESTORNO DE DÉBITOS (DISCRIMINAR ABAIX0)                                          |                    |                    |
+0018#STR0018#ALL#| 005 - OUTROS CRÉDITOS (DISCRIMINAR ABAIXO)                                             |                    |                    |
+0019#STR0019#ALL#| 006 - SUBTOTAL                                                                         |                    | ################## |
+0020#STR0020#ALL#| 007 - SALDO CREDOR DO PERÍODO ANTERIOR                                                 |                    | ################## |
+0021#STR0021#ALL#| 008 - TOTAL                                                                            |                    | ################## |
+0022#STR0022#ALL#| DEMONSTRATIVO DE DÉBITOS                                                               |                    |                    |
+0023#STR0023#ALL#| 009 - POR SAÍDAS PARA O MERCADO NACIONAL                                               |                    | ################## |
+0024#STR0024#ALL#| 010 - ESTORNO DE CRÉDITOS (DISCRIMINAR ABAIXO)                                         |                    |                    |
+0025#STR0025#ALL#| 011 - RESSARCIMENTO DE CRÉDITOS                                                        |                    | ################## |
+0026#STR0026#ALL#| 012 - OUTROS DÉBITOS (DISCRIMINAR ABAIXO)                                              |                    |                    |
+0027#STR0027#ALL#| 013 - TOTAL                                                                            |                    | ################## |
+0028#STR0028#ALL#| APURAÇÃO DO SALDO                                                                      |                    |                    |
+0029#STR0029#ALL#| 014 - DÉBITO TOTAL (ITEM 013)                                                          |                    | ################## |
+0030#STR0030#ALL#| 015 - CRÉDITO TOTAL (ITEM 008)                                                         |                    | ################## |
+0031#STR0031#ALL#| 016 - SALDO DEVEDOR (ITEM 014-ITEM 015)                                                |                    | ################## |
+0032#STR0032#ALL#| 017 - SALDO CREDOR  (ITEM 015-ITEM 014)                                                |                    | ################## |
+0033#STR0033#ALL#| INFORMAÇÕES COMPLEMENTARES                                                                                                       |
+0034#STR0034#ALL#|                         GUIAS DE RECOLHIMENTO                                                                                    |
+0035#STR0035#ALL#| NÚMERO   DATA         VALOR               ORGÃO ARRECADADOR                                                                      |
+0036#STR0036#ALL#| OBSERVAÇÕES: ##################################################################################                                  |
+0037#STR0037#ALL# A 
+0038#STR0038#ALL#|    FISCAL    |  VALORES CONTÁBEIS |    BASE DE CALCULO   |  IMPOSTO DEBITADO    | ISENTAS OU NÃO TRIBUTADAS |      OUTRAS        |
+0039#STR0039#ALL#|              |                    |             OPERAÇÕES COM CRÉDITO           |               OPERAÇÕES SEM CRÉDITO            |
+0039#STR0039#ANG#|              |                    |             OPERAÇÕES COM CRÉDITO           |               OPERAÇÕES SEM CRÉDITO            |
+0039#STR0039#ARG#|              |                    |             OPERAÇÕES COM CRÉDITO           |               OPERAÇÕES SEM CRÉDITO            |
+0039#STR0039#BOL#|              |                    |             OPERAÇÕES COM CRÉDITO           |               OPERAÇÕES SEM CRÉDITO            |
+0039#STR0039#BRA#|              |                    |             OPERAÇÕES COM CRÉDITO           |               OPERAÇÕES SEM CRÉDITO            |
+0039#STR0039#CHI#|              |                    |             OPERAÇÕES COM CRÉDITO           |               OPERAÇÕES SEM CRÉDITO            |
+0039#STR0039#COL#|              |                    |             OPERAÇÕES COM CRÉDITO           |               OPERAÇÕES SEM CRÉDITO            |
+0039#STR0039#COS#|              |                    |             OPERAÇÕES COM CRÉDITO           |               OPERAÇÕES SEM CRÉDITO            |
+0039#STR0039#DOM#|              |                    |             OPERAÇÕES COM CRÉDITO           |               OPERAÇÕES SEM CRÉDITO            |
+0039#STR0039#EQU#|              |                    |             OPERAÇÕES COM CRÉDITO           |               OPERAÇÕES SEM CRÉDITO            |
+0039#STR0039#EUA#|              |                    |             OPERAÇÕES COM CRÉDITO           |               OPERAÇÕES SEM CRÉDITO            |
+0039#STR0039#HAI#|              |                    |             OPERAÇÕES COM CRÉDITO           |               OPERAÇÕES SEM CRÉDITO            |
+0039#STR0039#MEX#|              |                    |             OPERAÇÕES COM CRÉDITO           |               OPERAÇÕES SEM CRÉDITO            |
+0039#STR0039#PAN#|              |                    |             OPERAÇÕES COM CRÉDITO           |               OPERAÇÕES SEM CRÉDITO            |
+0039#STR0039#PAR#|              |                    |             OPERAÇÕES COM CRÉDITO           |               OPERAÇÕES SEM CRÉDITO            |
+0039#STR0039#PER#|              |                    |             OPERAÇÕES COM CRÉDITO           |               OPERAÇÕES SEM CRÉDITO            |
+0039#STR0039#POR#|              |                    |             OPERAÇÕES COM CRÉDITO           |               OPERAÇÕES SEM CRÉDITO            |
+0039#STR0039#PTG#|              |                    |             OPERAÇÕES COM CRÉDITO           |               OPERAÇÕES SEM CRÉDITO            |
+0039#STR0039#SAL#|              |                    |             OPERAÇÕES COM CRÉDITO           |               OPERAÇÕES SEM CRÉDITO            |
+0039#STR0039#URU#|              |                    |             OPERAÇÕES COM CRÉDITO           |               OPERAÇÕES SEM CRÉDITO            |
+0039#STR0039#VEN#|              |                    |             OPERAÇÕES COM CRÉDITO           |               OPERAÇÕES SEM CRÉDITO            |
+0040#STR0040#ALL#| CODIFICAÇÃO  |                    |                  DO IMPOSTO                 |                    DO IMPOSTO                  |
+0041#STR0041#ALL#|  SUBTOTAL    | ################## |  ##################  |  ##################  |    ##################     | ################## |
+0042#STR0042#ALL#|              |                    |             OPERAÇÕES COM DÉBITO            |               OPERAÇÕES SEM DÉBITO             |
+0043#STR0043#ALL#|                                                    REGISTRO DE APURAÇÃO DO IPI  - P8                                             |
+0044#STR0044#ALL#| PAGÍNA: ####     MÊS OU PERÍODO/ANO: #########                                                                                   |

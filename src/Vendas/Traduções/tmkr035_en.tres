@@ -1,0 +1,47 @@
+0001#STR0001#ALL#Marketing Events issue. 
+0002#STR0002#ALL#This program will issue a list of the Marketing 
+0003#STR0003#ALL#Events registered at the Call Center.
+0004#STR0004#ALL#Z.Form
+0005#STR0005#ALL#Administration
+0006#STR0006#ALL#Cancelled by the Operator.
+0007#STR0007#ALL#Event         : 
+0008#STR0008#ALL#Description   : 
+0009#STR0009#ALL#Subject       : 
+0010#STR0010#ALL#Exposition    : 
+0011#STR0011#ALL#Market 
+0012#STR0012#ALL#Lecture
+0013#STR0013#ALL#Seminary
+0014#STR0014#ALL#WorkShop
+0015#STR0015#ALL#Road Show
+0016#STR0016#ALL#Forum
+0017#STR0017#ALL#Free          : 
+0018#STR0018#ALL#YES
+0019#STR0019#ALL#NO
+0020#STR0020#ALL#Price         : 
+0021#STR0021#ALL#Place         : 
+0022#STR0022#ALL#Address       : 
+0023#STR0023#ALL#District      : 
+0024#STR0024#ALL#State         : 
+0025#STR0025#ALL#Country       : 
+0026#STR0026#ALL#Telephone     : 
+0027#STR0027#ALL#Home Page     : 
+0028#STR0028#ALL#E-mail        : 
+0029#STR0029#ALL#Initial Date  : 
+0030#STR0030#ALL#Final Date    : 
+0031#STR0031#ALL#Initial Time  : 
+0032#STR0032#ALL#Final Time    : 
+0033#STR0033#ALL#Parking Lot   : 
+0034#STR0034#ALL#At Place
+0035#STR0035#ALL#At Place/Paid
+0036#STR0036#ALL#Accord
+0037#STR0037#ALL#Free
+0038#STR0038#ALL#Accord/Maneuver
+0039#STR0039#ALL#Free with Maneuver
+0040#STR0040#ALL#Grid                       Subject                                   Sta.Tm End.Tm Date      Room         Lecturer                        Company
+0041#STR0041#ALL#There is no data to be printed for this report with the informed parameters
+0042#STR0042#ALL#From Campaign
+0043#STR0043#ALL#Enter the initial Campaign for selection.
+0044#STR0044#ALL#To Campaign
+0045#STR0045#ALL#Enter the final Campaign for selection.
+0046#STR0046#ALL#Event file         
+0047#STR0047#ALL#Event grid      

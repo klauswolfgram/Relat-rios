@@ -1,0 +1,34 @@
+0001#STR0001#ALL#Lista De Faltas
+0002#STR0002#ALL#O relatorio fará a alocação do material em estock às OP´s
+0003#STR0003#ALL#Em ordem sequencial ,deixando que as faltas sejam colocadas
+0004#STR0004#ALL#nas últimas OP´s.
+0005#STR0005#ALL#Código de barras
+0006#STR0006#ALL#Administração
+0007#STR0007#ALL#Registo(s)
+0008#STR0008#ALL#E/s Tip Documento     Data       Data Do    Código          Descrição Do Produto      Tp Grup     Quantidade          Saldo  Data Da
+0009#STR0009#ALL#    Doc               Emissão    Evento                                                                                       Compra
+0010#STR0010#ALL#A Seleccionar Registos...
+0011#STR0011#ALL#Cancelado Pelo Operador
+0012#STR0012#ALL#Em
+0014#STR0014#ALL#Descrição 
+0018#STR0018#ALL#Por artigo          
+0019#STR0019#ALL#Por Ordem De Produção
+0021#STR0021#ALL#Op:
+0022#STR0022#ALL#E/s
+0023#STR0023#ALL#Tip
+0024#STR0024#ALL#Doc
+0025#STR0025#ALL#Documento
+0026#STR0026#ALL#Da Data
+0027#STR0027#ALL#Emissão
+0028#STR0028#ALL#Data Do
+0029#STR0029#ALL#Evento
+0030#STR0030#ALL#Código
+0031#STR0031#ALL#Descrição
+0032#STR0032#ALL#Tp.
+0033#STR0033#ALL#Grup
+0034#STR0034#ALL#Quantidade
+0035#STR0035#ALL#Saldo
+0036#STR0036#ALL#Data Da
+0037#STR0037#ALL#Compra
+0038#STR0038#ALL#Artigos
+0039#STR0039#ALL#Alocações

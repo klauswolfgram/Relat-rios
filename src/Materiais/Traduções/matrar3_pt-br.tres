@@ -1,0 +1,38 @@
+0001#STR0001#ARG#Emissao do Livro dos Viajantes
+0002#STR0002#ARG#Emissao do Livro dos Viajantes de acordo com lei 14546, ART.10 - Argentina 
+0003#STR0003#ARG#intervalo informado na opcaoo Parametros.
+0004#STR0004#ARG#Razão Social da Empresa
+0005#STR0005#ARG#Endereco
+0006#STR0006#ARG#N. de CGC da empresa
+0007#STR0007#ARG#Vendedor
+0008#STR0008#ARG#N. de CGC do Vendedor
+0009#STR0009#ARG#Legado
+0010#STR0010#ARG#Data Admissao
+0011#STR0011#ARG#Contrato
+0012#STR0012#ARG#Zona
+0013#STR0013#ARG#Mercadoria
+0014#STR0014#ARG#Salario Garantido
+0015#STR0015#ARG#Comissao Venda
+0016#STR0016#ARG#Comissao Cobranca
+0017#STR0017#ARG#Diaria
+0018#STR0018#ARG#Outros
+0019#STR0019#ARG#Emissao dos Itens
+0020#STR0020#ARG#Cliente N. 
+0021#STR0021#ARG#N. Pedido  
+0022#STR0022#ARG#Data Pedido
+0023#STR0023#ARG#Total Pedido
+0024#STR0024#ARG#N. Nota Fiscal
+0025#STR0025#ARG#Data Nota
+0026#STR0026#ARG#Total Nota Fiscal
+0027#STR0027#ARG#Comis Venda
+0028#STR0028#ARG#Comis Cobrança
+0029#STR0029#ARG#filtro pedido 
+0030#STR0030#ARG#Firma do Viajante
+0031#STR0031#ARG#Firma e Selo da Empresa
+0032#STR0032#ARG#Categoria
+0033#STR0033#ARG#Atividade Principal
+0034#STR0034#ARG#Atividade Secundária
+0035#STR0035#ARG#Abrange período  Desde
+0036#STR0036#ARG#Ate
+0037#STR0037#ARG#El informe de Libro Viajantes (MATRAR3) fue convertido a Rdmake.
+0038#STR0038#ARG#Para utilizar este informe debe solicitar el fuente para su compilación como User Function.

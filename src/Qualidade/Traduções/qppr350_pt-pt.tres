@@ -1,0 +1,53 @@
+0001#STR0001#ALL#Vda Folha De Capa
+0002#STR0002#ALL#A Criar Relatório, Aguarde...
+0003#STR0003#ALL#- capa -
+0005#STR0005#ALL#Código:
+0006#STR0006#ALL#Destinatário:
+0007#STR0007#ALL#Relatório vda de amostra inicial
+0010#STR0010#ALL#Peça nova
+0011#STR0011#ALL#Alteração de artigo
+0012#STR0012#ALL#Preterição da produção
+0013#STR0013#ALL#Alteração de processos de produção
+0014#STR0014#ALL#Interrupção maior de produção
+0016#STR0016#ALL#Artigo Com Dae
+0017#STR0017#ALL#Elaborado plano de produção/inspecção
+0018#STR0018#ALL#Fmea realizado
+0019#STR0019#ALL#Relatório das demais amostras
+0021#STR0021#ALL#01 teste de função
+0022#STR0022#ALL#02 teste de medição
+0023#STR0023#ALL#03 teste de material
+0024#STR0024#ALL#04 teste de resistência
+0025#STR0025#ALL#05 comprov. de capaciade do processo
+0026#STR0026#ALL#06 diagrama de decurso do processo
+0027#STR0027#ALL#07 comprovação da capac. instr. de teste
+0029#STR0029#ALL#09 folha eg de segurança de dados
+0030#STR0030#ALL#10 Tacto
+0031#STR0031#ALL#11 Acústica
+0033#STR0033#ALL#13 aspecto geral
+0035#STR0035#ALL#15 autorização de construção
+0036#STR0036#ALL#16 material de comp. em peças compradas
+0038#STR0038#ALL#Nº Do Fornecedor:
+0039#STR0039#ALL#Nº Do Cliente:
+0040#STR0040#ALL#Núm. De Relatório
+0041#STR0041#ALL#Versão
+0042#STR0042#ALL#Núm. de família:
+0043#STR0043#ALL#Núm. De Desenho:
+0044#STR0044#ALL#Estado/data:
+0045#STR0045#ALL#Núm. de alteração:
+0046#STR0046#ALL#Denominação:
+0047#STR0047#ALL#Nº/data De Factura:
+0048#STR0048#ALL#Nº/data De Entrega Do Artigo:
+0051#STR0051#ALL#Núm. De Carga:
+0052#STR0052#ALL#Peso Padrão:
+0053#STR0053#ALL#Confirmação do fornecedor:
+0054#STR0054#ALL#Confirmamos que a amostra foi realizada de acordo com a vda volume 2 elemento 4.
+0057#STR0057#ALL#Telefone/fax/e-mail:
+0060#STR0060#ALL#Observação:
+0061#STR0061#ALL#Decisão Do Cliente
+0063#STR0063#ALL#De Acordo Com Anexo:
+0064#STR0064#ALL#Autorização 
+0065#STR0065#ALL#Desbloqueio com restrições
+0066#STR0066#ALL#Reprovado, necessária amostra posterior
+0067#STR0067#ALL#Nº licença para desvio:
+0068#STR0068#ALL#Em caso de envio de retorno, nº/data factura:
+0069#STR0069#ALL#Distribuição:

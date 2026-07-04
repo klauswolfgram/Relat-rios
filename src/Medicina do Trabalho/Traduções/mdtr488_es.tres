@@ -1,0 +1,120 @@
+0001#STR0001#ALL#Buscar
+0002#STR0002#ALL#Visualizar
+0003#STR0003#ALL#Examen
+0004#STR0004#ALL#Ficha Medica
+0005#STR0005#ALL#Examenes
+0006#STR0006#ALL#Imprimir
+0007#STR0007#ALL#Informe de resultado de examenes de audiometria.           
+0008#STR0008#ALL#Muestra la situacion de la audicion del empleado sometido  
+0009#STR0009#ALL#al examen de audiometria.                                  
+0010#STR0010#ALL#A Rayas
+0011#STR0011#ALL#Administracion
+0012#STR0012#ALL#Examen audiometrico
+0013#STR0013#ALL#Realizado en:
+0014#STR0014#ALL#Emision:
+0015#STR0015#ALL#|Nombre.....:
+0016#STR0016#ALL#|Admision....:
+0017#STR0017#ALL#Funcion:
+0018#STR0018#ALL#Edad..:
+0019#STR0019#ALL#|C. Costo....:
+0020#STR0020#ALL#Reposo Auditivo..:
+0021#STR0021#ALL#|Responsable.:
+0022#STR0022#ALL#CRM.:
+0023#STR0023#ALL#|Firma.......:_______________________________________
+0024#STR0024#ALL#|Equipo......:
+0025#STR0025#ALL#Verificac:
+0026#STR0026#ALL#|Fabricante..:
+0027#STR0027#ALL#Calibracion:
+0028#STR0028#ALL#Oido derecho                    | |      Oido izquierdo
+0029#STR0029#ALL#Indice de reconocimiento del habla   | |  Indice de reconocimiento del habla  |
+0030#STR0030#ALL#|Intensidad..:
+0031#STR0031#ALL#Intensidad..:
+0032#STR0032#ALL#|Monosilabica:
+0033#STR0033#ALL#Monosilabica:
+0034#STR0034#ALL#|Bisilabica..:
+0035#STR0035#ALL#Bisilabica..:
+0036#STR0036#ALL#|Meatoscopia..:
+0037#STR0037#ALL#Meatoscopia..:
+0038#STR0038#ALL#|Result.:
+0039#STR0039#ALL#Result.:
+0040#STR0040#ALL#No fue posible imprimir el informe.
+0041#STR0041#ALL#ATENCION
+0042#STR0042#ALL#Seleccione como máximo 2(dos) examenes.
+0043#STR0043#ALL#Seleccione por lo menos 1(un) examen.
+0044#STR0044#ALL#Seleccione 1(un) examen via aerea y 1(un) examen via osea.
+0045#STR0045#ALL#Seleccione archivo 
+0046#STR0046#ALL#Alterne para el programa del Ms-Word para visualizar el documento o haga cli en el boton para cerrar.
+0047#STR0047#ALL#Fch Exame
+0048#STR0048#ALL#Equipam.
+0049#STR0049#ALL#Via Conducc.
+0050#STR0050#ALL#Refer. O.D.
+0051#STR0051#ALL#Result. O.D.
+0052#STR0052#ALL#Horario Exame
+0053#STR0053#ALL#Requier Interpretac.
+0054#STR0054#ALL#Umbrales Aceptab.
+0055#STR0055#ALL#Perdida Auditiva Sugestiva de PAIR
+0056#STR0056#ALL#Perdida Auditiva No Sugestiva de PAIR
+0057#STR0057#ALL#Perdida Auditiva Sugestiva de Desencadenamiento
+0058#STR0058#ALL#Perdida Auditiva Sugestiva de Agravamiento
+0059#STR0059#ALL#Perd. auditiva
+0060#STR0060#ALL#Aerea
+0061#STR0061#ALL#Osea
+0062#STR0062#ALL#El archivo audiometria.dot no se encontró en el servidor.
+0063#STR0063#ALL#Verif. el parametro "MV_DIRACA".
+0064#STR0064#ALL#Audiograma Ingreso
+0065#STR0065#ALL#Audiograma Periodico
+0066#STR0066#ALL#Audiograma p/ Cambio de Funcion
+0067#STR0067#ALL#Audiograma p/ Retorno Trabajo
+0068#STR0068#ALL#Audiograma Despido
+0069#STR0069#ALL#Normal
+0070#STR0070#ALL#Sord. Leve
+0071#STR0071#ALL#Sord. Moderada
+0072#STR0072#ALL#Sord. Severa
+0073#STR0073#ALL#Sord. Profunda
+0074#STR0074#ALL#Sord. Total
+0075#STR0075#ALL#Hipoacus. por ruido de grado 1
+0076#STR0076#ALL#Hipoacus. por ruido de grado 2
+0077#STR0077#ALL#Hipoacus. por ruido de grado 3
+0078#STR0078#ALL#Hipoacus. por ruido de grado 4
+0079#STR0079#ALL#Hipoacus. por ruido de grado 5
+0080#STR0080#ALL#Deficit por ruido y otras causas
+0081#STR0081#ALL#Deficit no ocas. por ruido
+0082#STR0082#ALL#Reducc. Grado Minimo
+0083#STR0083#ALL#Reducc. Grado Medio
+0084#STR0084#ALL#Reducc. Grado Maximo
+0085#STR0085#ALL#Perd. de Audic.
+0086#STR0086#ALL#Si
+0087#STR0087#ALL#No
+0088#STR0088#ALL#Result. de Examenes de Audiometria
+0089#STR0089#ALL#El archivo audiometria-v10r2.dot no se encontró en el servidor.
+0090#STR0090#ALL#Clientes
+0091#STR0091#ALL#Fichas Medicas
+0092#STR0092#ALL#Examenes
+0093#STR0093#ALL#El archivo audiometria.dotm no se encontró en el servidor.
+0094#STR0094#ALL#Parametros  Aceptables
+0095#STR0095#ALL#Perdida Auditiva No Sugestiva del PAIR
+0096#STR0096#ALL#No Realizado
+0097#STR0097#ALL#El archivo audiometria-v10r2.dotm no se encontró en el servidor.
+0098#STR0098#ALL#No. Copias
+0099#STR0099#ALL#Si contiene enmascaramiento:
+0100#STR0100#ALL#Imprimir enmasc. 
+0101#STR0101#ALL#Imp.enmasc/normal
+0102#STR0102#ALL#Define el resultado que debe imprimirse cuando haya enmascaramiento.1=Imprimir masc.
+0103#STR0103#ALL#1=Imprimir enmasc. En esta opcion solo se imprimira el resultado del enmascaramiento.
+0104#STR0104#ALL#2 = Imp. enmasc/normal En esta opcion se imprimiran los resultados del enmascaramiento junto con el resultado normal.
+0105#STR0105#ALL#¿Imprimir promedios?
+0106#STR0106#ALL#¿Imprimir Parecer (Resultado)?
+0107#STR0107#ALL#Indica si imprime los pormedios en el grafico.
+0108#STR0108#ALL#Indica si imprime el parecer en el topico Resultado.
+0109#STR0109#ALL#¿Version del MS-Word?
+0110#STR0110#ALL#Hasta Word 2003
+0111#STR0111#ALL#A partir 2007
+0112#STR0112#ALL#Indica la version del Microsoft Word utilizado.
+0113#STR0113#ALL#Audiograma Asistencial
+0114#STR0114#ALL#¿Imprimir leyenda?
+0115#STR0115#ALL#Indica si se imprime la leyenda en el informe.
+0116#STR0116#ALL#A partir de 2013
+0117#STR0117#ALL#¿Imprimir Logoaudiometria?
+0118#STR0118#ALL#Indica si imprime Logoaudiometría.
+0119#STR0119#ALL#A partir de 2016
+0120#STR0120#ALL#Audiograma monitoreo puntual

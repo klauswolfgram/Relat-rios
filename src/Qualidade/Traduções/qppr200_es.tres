@@ -1,0 +1,46 @@
+0001#STR0001#ALL#Resultados de Ensayos de Desempeño
+0002#STR0002#ALL#Generando visualizacion, espere...
+0003#STR0003#ALL#      Aprobacion de Pieza de Produccion
+0004#STR0005#ALL#PPAP N.
+0005#STR0006#ALL#Pagina :
+0006#STR0007#ALL#Proveedor
+0007#STR0008#ALL#Num. pieza (cliente)
+0008#STR0009#ALL#Revision/Fecha diseño
+0009#STR0010#ALL#Laboratorio
+0010#STR0011#ALL#Numero/Rev pieza (Proveedor)
+0011#STR0012#ALL#Nombre de pieza
+0012#STR0013#ALL#Num. Car.
+0013#STR0014#ALL#Num. Ref.
+0014#STR0015#ALL#Exigencias
+0015#STR0016#ALL#Frec
+0016#STR0017#ALL#Test
+0017#STR0018#ALL#Ctd
+0018#STR0019#ALL#Ens
+0019#STR0020#ALL#Resultados de ensayos
+0020#STR0021#ALL#Ok
+0021#STR0022#ALL#No
+0022#STR0023#ALL#Firma del proveedor
+0023#STR0024#ALL#Fecha
+0024#STR0025#ALL#Cliente
+0025#STR0026#ALL#Firma del cliente
+0026#STR0027#ALL#Secuencia :
+0027#STR0028#ALL#¿Desea Imprimir Descripcion de Caracteristica ?
+0028#STR0029#ALL#Confirma
+0029#STR0030#ALL#Descripcion Caracteristica
+0030#STR0031#ALL#Codigo Vendedor
+0031#STR0032#ALL#Nivel de Modific. del Proyec.
+0032#STR0033#ALL#Alto
+0033#STR0034#ALL#Medio
+0034#STR0035#ALL#Bajo 
+0035#STR0036#ALL#Documentos Modific. por la Ingenier.
+0036#STR0037#ALL#Fecha Diseno
+0037#STR0038#ALL#Especific. 
+0038#STR0039#ALL#    Limites  
+0039#STR0040#ALL#Condic. de Prueba 
+0040#STR0041#ALL#Declaraciones de conformidad en blanco son inaceptables para cualquier resultado de ensayo.
+0041#STR0042#ALL#Marco
+0042#STR0043#ALL#Firma
+0043#STR0044#ALL#Funcion:
+0044#STR0045#ALL#Ensayo
+0045#STR0046#ALL#¡Atencion !
+0046#STR0047#ALL#No hay datos por imprimir. ¡Verifique los parametros !

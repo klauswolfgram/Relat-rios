@@ -1,0 +1,169 @@
+0001#STR0001#ALL#Analisis de la Fuerza de Trabajo
+0002#STR0002#ALL#A Rayas
+0003#STR0003#ALL#Administracion
+0004#STR0004#ALL#T  O  T  A  L 
+0005#STR0005#ALL#Leyenda -
+0006#STR0006#ALL#01 - Tiempo Disponible, segun la escala
+0007#STR0007#ALL#02 - Tiempo Ausente
+0008#STR0008#ALL#03 - Tiempo Efectivo = Tiempo Disponible - Tiempo Ausente
+0009#STR0009#ALL#04 - Tiempo Sin Aplicacion o parado
+0010#STR0010#ALL#05 - Tiempo Aplicado o Trabajado
+0011#STR0011#ALL#06 - Tiempo Extra, o Tiempo Aplicado FUERA de la escala normal
+0012#STR0012#ALL#07 - Tiempo Excedido, o total del tiempo de execucion fuera de la tabla
+0013#STR0013#ALL#08 - Tiempo Estandar
+0014#STR0014#ALL#09 - Tiempo Cobrado, o Tiempo Estandar con Acrecimos o Descuentos
+0015#STR0015#ALL#10 - Tiempo que realmente fue Vendido
+0016#STR0016#ALL#11 - Criterio a voluntad del usuario, cuyo resultado se obtendrá por medio del uso de la fórmula creada por este mismo
+0017#STR0017#ALL#12 - % Eficiencia sobre el tiempo estándar ( Tiempo Estándar / Tiempo Aplicado ) * 100
+0018#STR0018#ALL#13 - % Eficiencia sobre el tiempo estándar (Tiempo estándar / (Tiempo Aplicado + Tiempo Extra ) ) * 100
+0019#STR0019#ALL#14 - % Eficiencia sobre el tiempo cobrado (Tiempo cobrado / Tiempo aplicado) * 100
+0020#STR0020#ALL#15 - % Eficiencia sobre el tiempo cobrado (Tiempo Cobrado / (Tiempo Aplicado + Tiempo Extra ) ) * 100
+0021#STR0021#ALL#16 - % Eficiencia sobre el tiempo vendido (Tiempo Vendido / Tiempo Aplicado) * 100
+0022#STR0022#ALL#17 - % Eficiencia sobre tiempo vendido (Tiempo vendido / (Tiempo Aplicado + Tiempo Extra ) * 100
+0023#STR0023#ALL#19 - % Productividad sobre Tiempo Efectivo (Tiempo Aplicado/Tiempo Efetivo)
+0024#STR0024#ALL#20 - % Productividad sobre Tiempo Efectivo ((Tempo Aplicado+Tempo Extra)/Tiempo Efetivo)
+0025#STR0025#ALL#21 - % Productividad (Tiempo cobrado/Tiempo estándar) * 100
+0026#STR0026#ALL#22 - % Aprovechamiento (tiempo trabajado/tiempo disponible) * 100
+0027#STR0027#ALL#23 - Horas aplicadas y no liberadas
+0028#STR0028#ALL# Tiempo   Tiempo   Tiempo   Tiempo   Tiempo   Tiempo   Tiempo   Tiempo   Tiempo   Tiempo  Formula ------------- E f i c i e n c i a -------------- -------- Productividad -------- Stock Horas
+0029#STR0029#ALL#Productivo------------ Funcion------- Dispon. Ausente Efectivo -Parado Trabaj  Extra  Ultrapas. -Estandar Cobrado Vendido Usuario Estand.SE -Estand.CE Cobr.SE Cobr.CE Vend.SE Vend.CE Efet SE Efect CE Cob/Est Aprove No Lib Liberad
+0030#STR0030#ALL# Nº OS  S T    Inicio Servicio Term.  Servicio Tipo de Registro--- Servicio Ejecutado----------------------- Estándar Aplic. Cobrad Vendid Ausenc
+0031#STR0031#ALL#Hora Extra
+0032#STR0032#ALL#Trabajo Normal
+0033#STR0033#ALL#TOTAL POR TIPO DE TIEM. + TIPO DE SERVIC.
+0034#STR0034#ALL#Tp Ts.  Descripc.             Estan.  Trabajo Cobrado Vendido
+0035#STR0035#ALL#T O T A L................... 
+0036#STR0036#ALL#12 - % Eficiencia sobre Tiempo Est. (Tiempo Est./(Tiempo Aplic.+Tiempo Extra)) * 100
+0037#STR0037#ALL#TOTAL GENERAL POR TIPO DE TIEMPO + TIPO DE SERVICIO
+0038#STR0038#ALL#          --- 0 1 --- 0 2 --- 0 3 --- 0 4 --- 0 5 --- 0 6 --- 0 7 --- 0 8 --- 0 9 --- 1 0 --- 1 1  --- 1 2  ---- 1 3  --- 1 4  --- 1 5  --- 1 6  --- 1 7  --- 1 8  --- 1 9  --- 2 1 --- 2 2 --- 2 3 --- 2 4 -
+0039#STR0039#ALL#Empresa: 
+0040#STR0040#ALL#   Sucursal: 
+0041#STR0041#ALL#- 0 1 - - 0 2 - - 0 3 - - 0 4 - - 0 5 - - 0 6 - - 0 7 - - 0 8 - - 0 9 - - 1 0 - - 1 1 - - 1 2 - -  1 3 - - 1 4 - - 1 5 - - 1 6 - - 1 7 - - 1 8 - - 1 9 - - 2 1 - - 2 2 - - 2 3 - - 2 4 -
+0042#STR0042#ALL#Nº Prod. Sec  Nombre Empleado  Función                    Horas      Tiempo      Hora Extra    H.Efectivas      Tiempo        Tiempo      Tiempo Total       Productividad     Eficiencia  Aprovechamiento
+0043#STR0043#ALL#                                                                      Disponible  Disponible                    Total     Trabajado     Perdido      Trabajado                  
+0044#STR0044#ALL#                                                                        en el mes  Efectivo                               Horas Normal              c/ horas Extra                
+0045#STR0045#ALL#Microsoft Excel no instalado.
+0046#STR0046#ALL#Fecha Inicial
+0047#STR0047#ALL#Fecha Final  
+0048#STR0048#ALL#Mecanico   
+0049#STR0049#ALL#Escala        
+0050#STR0050#ALL#Sucursal Inicial
+0051#STR0051#ALL#Sucursal Final  
+0052#STR0052#ALL#Tipo de Impresion
+0053#STR0053#ALL#Analisis de Mec.
+0054#STR0054#ALL#Mapa de Mecanico
+0055#STR0055#ALL#Generar en Excel
+0056#STR0056#ALL#T O T A L : 
+0057#STR0057#ALL#Presentacion Horas
+0058#STR0058#ALL#Dos puntos
+0059#STR0059#ALL#Coma
+0060#STR0060#ALL#Directorio Planilla
+0061#STR0061#ALL#Codigo
+0062#STR0062#ALL#Sec
+0063#STR0063#ALL#Productivo
+0064#STR0064#ALL#Funcion
+0065#STR0065#ALL#Disponible
+0066#STR0066#ALL#Ausente
+0067#STR0067#ALL#Extra
+0068#STR0068#ALL#Efectivo
+0069#STR0069#ALL#Trabajado
+0070#STR0070#ALL#Parado
+0071#STR0071#ALL#Trab + Extra
+0072#STR0072#ALL#Productividad
+0073#STR0073#ALL#Eficiencia
+0074#STR0074#ALL#Aprovechamiento
+0075#STR0075#ALL#Tiempo
+0076#STR0076#ALL#24 - Horas aplicadas y liberadas
+0077#STR0077#ALL#Considera fecha:
+0078#STR0078#ALL#de apunte
+0079#STR0079#ALL#de cierre
+0080#STR0080#ALL#Análisis del mecánico
+0081#STR0081#ALL#Código
+0082#STR0082#ALL#Sec
+0083#STR0083#ALL#Mecánico
+0084#STR0084#ALL#Función
+0085#STR0085#ALL#Tipo disponible
+0086#STR0086#ALL#Tipo ausente
+0087#STR0087#ALL#Tipo extra
+0088#STR0088#ALL#Tipo efectivo
+0089#STR0089#ALL#Tipo trabajado
+0090#STR0090#ALL#Tipo parado
+0091#STR0091#ALL#Tipo Trab + Extra
+0092#STR0092#ALL#Productividad
+0093#STR0093#ALL#Eficiencia
+0094#STR0094#ALL#Aprovechamiento
+0095#STR0095#ALL#¡Planilla generada con éxito!
+0096#STR0096#ALL#Tpo Vendido
+0097#STR0097#ALL#Clas. Habilidad técnica
+0098#STR0098#ALL#20 - % Productividad sobre Tiempo efectivo ((Tiempo aplicado+Tiempo extra)/Tiempo efectivo+Tiempo extra)
+0099#STR0099#ALL#Estánd.SE (12)
+0100#STR0100#ALL#Estánd.CE (13)
+0101#STR0101#ALL#Cobr.SE (14)
+0102#STR0102#ALL#Cobr.CE (15)
+0103#STR0103#ALL#Vent.SE (16)
+0104#STR0104#ALL#Vent.CE (17)
+0105#STR0105#ALL#Efect SE (18)
+0106#STR0106#ALL#Efect CE (19)
+0107#STR0107#ALL#Efect CE+E (20)
+0108#STR0108#ALL#Cob/Estánd (21)
+0109#STR0109#ALL#Aprobé (22)
+0110#STR0110#ALL#TOTAL
+0111#STR0111#ALL#Informe de órdenes de servicios
+0112#STR0112#ALL#Tp.Disp.
+0113#STR0113#ALL#Tp.Aus.
+0114#STR0114#ALL#Tp.Trab.
+0115#STR0115#ALL#Tp.Par.
+0116#STR0116#ALL#Tp.Trabaj.
+0117#STR0117#ALL#Tp.Extra
+0118#STR0118#ALL#Tp.Exceso
+0119#STR0119#ALL#Tp.Estándar
+0120#STR0120#ALL#Tp.Cobr.
+0121#STR0121#ALL#Tp.Vendido
+0122#STR0122#ALL#Fórmula Us.
+0123#STR0123#ALL#Efic.Est.SE
+0124#STR0124#ALL#Efic.Est.CE
+0125#STR0125#ALL#Efic.Cob.SE
+0126#STR0126#ALL#Efic.Cob.CE
+0127#STR0127#ALL#Efic.Ven.SE
+0128#STR0128#ALL#Efic.Ven.CE
+0129#STR0129#ALL#Pdt.Trab.SE
+0130#STR0130#ALL#Pdt.Trab.CE
+0131#STR0131#ALL#Pdt.Cob/Est
+0132#STR0132#ALL#Pdt.Aprovech
+0133#STR0133#ALL#Est.No Lib.
+0134#STR0134#ALL#Hrs. Lib.
+0135#STR0135#ALL#Tipo Serv.
+0136#STR0136#ALL#Descripción
+0137#STR0137#ALL#Estándar
+0138#STR0138#ALL#Trabajado
+0139#STR0139#ALL#Nº OS
+0140#STR0140#ALL#Estatus
+0141#STR0141#ALL#Tipo de tiempo
+0142#STR0142#ALL#Fch.Inicial
+0143#STR0143#ALL#Hr.Inicial
+0144#STR0144#ALL#Fch.Final
+0145#STR0145#ALL#Hr.Final
+0146#STR0146#ALL#Tipo registro
+0147#STR0147#ALL#Serv Ejecut.
+0148#STR0148#ALL#Desc.Serv.
+0149#STR0149#ALL#Aplicado
+0150#STR0150#ALL#Cobrado
+0151#STR0151#ALL#Vendido
+0152#STR0152#ALL#Ausencia
+0153#STR0153#ALL#Secuen.
+0154#STR0154#ALL#Cód.Mecánico
+0155#STR0155#ALL#Nomb Mecán.
+0156#STR0156#ALL#Función
+0157#STR0157#ALL#Desc.Función
+0158#STR0158#ALL#Hrs.Dispon.Mes
+0159#STR0159#ALL#Tp.Disp.Trab.
+0160#STR0160#ALL#Hora extra
+0161#STR0161#ALL#Hrs.Trab.Total
+0162#STR0162#ALL#Tp.Trab.Hrs.Normal
+0163#STR0163#ALL#Tp.Perdido
+0164#STR0164#ALL#Tp.Trab. + Hrs.Ext.
+0165#STR0165#ALL#Productividad
+0166#STR0166#ALL#Eficiencia
+0167#STR0167#ALL#Aprovechamiento
+0168#STR0168#ALL#Tp.Trab.
+0169#STR0169#ALL#Tp.Est.

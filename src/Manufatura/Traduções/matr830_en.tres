@@ -1,0 +1,26 @@
+0001#STR0001#ALL#Report of Resource Table
+0002#STR0002#ALL#This program will print the Resource Tables report
+0003#STR0003#ALL#Z.Form
+0004#STR0004#ALL#Management
+0005#STR0006#ALL#REC.   DENOMINATION                     COST    SAT/SUN ALTERNATIVE / SECONDARY RESOURCES
+0006#STR0007#ALL#                                       CENTER
+0007#STR0008#ALL#Mon
+0008#STR0009#ALL#Tue
+0009#STR0010#ALL#Wed
+0010#STR0011#ALL#Thu
+0011#STR0012#ALL#Fri
+0012#STR0013#ALL#Sat
+0013#STR0014#ALL#Sun
+0014#STR0015#ALL#CANCELLED BY THE OPERATOR
+0015#STR0016#ALL#N
+0016#STR0017#ALL#S
+0017#STR0018#ALL#Alternative:
+0018#STR0019#ALL#Secondary:
+0019#STR0020#ALL#Locked
+0020#STR0021#ALL#Initial Date  Init. Time    End Date     End Time
+0021#STR0022#ALL#Resources
+0022#STR0023#ALL#Alternative and secondary resources
+0023#STR0024#ALL#Calendar blocks and exceptions   
+0024#STR0025#ALL#Não é possível gerar o relatório personalizável devido à limitação de caracteres por página!
+0025#STR0026#ALL#Attention!
+0026#STR0027#ALL#Utilize o relatório do tipo texto ou ajuste a os parâmetros com uma faixa menor para os recursos do...até

@@ -1,0 +1,17 @@
+0001#STR0001#ALL#Sem Movimento
+0004#STR0004#ALL#| firma: #########################################################                                                                 |
+0005#STR0005#ALL#| insc.est.: ######################## c.n.p.j.: #################                                                                  |
+0007#STR0007#ALL#|                                                         e n t r a d a s                                                          |
+0009#STR0009#ALL#|              |                    |                                 ipi - valores fiscais                                        |
+0011#STR0011#ALL#|    totais    | ################## |  ##################  |  ##################  |    ##################     | ################## |
+0013#STR0013#ALL#|                                                                                        |   coluna auxiliar  |        soma        |
+0014#STR0014#ALL#| 001 - por entradas do mercado nacional                                                 |                    | ################## |
+0015#STR0015#ALL#| 002 - por entradas do mercado externo                                                  |                    | ################## |
+0019#STR0019#ALL#| 006 - subtotal                                                                         |                    | ################## |
+0021#STR0021#ALL#| 008 - total                                                                            |                    | ################## |
+0027#STR0027#ALL#| 013 - total                                                                            |                    | ################## |
+0031#STR0031#ALL#| 016 - saldo devedor (item 014-item 015)                                                |                    | ################## |
+0032#STR0032#ALL#| 017 - saldo credor  (item 015-item 014)                                                |                    | ################## |
+0034#STR0034#ALL#|                         guias de recolhimento                                                                                    |
+0037#STR0037#ALL# a 
+0041#STR0041#ALL#|  subtotal    | ################## |  ##################  |  ##################  |    ##################     | ################## |

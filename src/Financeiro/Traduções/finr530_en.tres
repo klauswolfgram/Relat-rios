@@ -1,0 +1,47 @@
+0001#STR0001#ALL#This program will print the Bank Transactions 
+0002#STR0002#ALL#summary for a specific day.  
+0003#STR0003#ALL#Daily Financial Activity   
+0004#STR0004#ALL#Z.Form 
+0005#STR0005#ALL#Administration
+0006#STR0006#ALL# of 
+0007#STR0007#ANG#Office Account Cod.       Name                   Initial Balance    Receipts          Issues         Investments    Available Balance
+0007#STR0007#ARG#Cod Branch  Account    Name                   Initial Balances      Inflows            Outflows       Investments   Available Balance
+0007#STR0007#BOL#Cod Branch  Account    Name                   Initial Balances      Inflows            Outflows       Investments   Available Balance
+0007#STR0007#BRA#Cod Branch  Account    Name                   Initial Balances      Inflows            Outflows       Investments   Available Balance
+0007#STR0007#CHI#Cod Branch  Account    Name                   Initial Balances      Inflows            Outflows       Investments   Available Balance
+0007#STR0007#COL#Cod Branch  Account    Name                   Initial Balances      Inflows            Outflows       Investments   Available Balance
+0007#STR0007#COS#Cod Branch  Account    Name                   Initial Balances      Inflows            Outflows       Investments   Available Balance
+0007#STR0007#DOM#Cod Branch  Account    Name                   Initial Balances      Inflows            Outflows       Investments   Available Balance
+0007#STR0007#EQU#Office Account Cod.       Name                   Initial Balance    Receipts          Issues         Investments    Available Balance
+0007#STR0007#EUA#Cod Branch  Account    Name                   Initial Balances      Inflows            Outflows       Investments   Available Balance
+0007#STR0007#HAI#Office Account Cod.       Name                   Initial Balance    Receipts          Issues         Investments    Available Balance
+0007#STR0007#MEX#Cod Branch  Account    Name                   Initial Balances      Inflows            Outflows       Investments   Available Balance
+0007#STR0007#PAN#Cod Branch  Account    Name                   Initial Balances      Inflows            Outflows       Investments   Available Balance
+0007#STR0007#PAR#Cod Branch  Account    Name                   Initial Balances      Inflows            Outflows       Investments   Available Balance
+0007#STR0007#PER#Cod Branch  Account    Name                   Initial Balances      Inflows            Outflows       Investments   Available Balance
+0007#STR0007#POR#Office Account Cod.       Name                   Initial Balance    Receipts          Issues         Investments    Available Balance
+0007#STR0007#PTG#Office Account Cod.       Name                   Initial Balance    Receipts          Issues         Investments    Available Balance
+0007#STR0007#SAL#Cod Branch  Account    Name                   Initial Balances      Inflows            Outflows       Investments   Available Balance
+0007#STR0007#URU#Cod Branch  Account    Name                   Initial Balances      Inflows            Outflows       Investments   Available Balance
+0007#STR0007#VEN#Cod Branch  Account    Name                   Initial Balances      Inflows            Outflows       Investments   Available Balance
+0008#STR0008#ALL#Selecting Records...      
+0009#STR0009#ALL#CANCELLED BY THE OPERATOR  
+0010#STR0010#ALL#Cancelled by the operator  
+0011#STR0011#ALL#GRAND TOTAL ---->
+0012#STR0012#ALL#Table SE8 (BANK BALANCES) is shared. Question 05 will have no effect.
+0013#STR0013#ALL# from Branch 
+0014#STR0014#ALL#Code
+0015#STR0015#ALL#Branch
+0016#STR0016#ALL#Account
+0017#STR0017#ALL#Name
+0018#STR0018#ALL#Initial Balance
+0019#STR0019#ALL#Entries
+0020#STR0020#ALL#Outputs
+0021#STR0021#ALL#Investments
+0022#STR0022#ALL#Balance Available
+0023#STR0023#ALL#Total
+0024#STR0024#ALL#Branch Total 
+0025#STR0025#ALL#Company
+0026#STR0026#ALL#Business unit
+0027#STR0027#ALL#Branch
+0028#STR0028#ALL#Branches selected for report

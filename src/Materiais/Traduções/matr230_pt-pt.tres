@@ -1,0 +1,23 @@
+0001#STR0001#ALL#Requisições Para Consumo
+0002#STR0002#ALL#Emite a relação das requisições feitas para consumo , dividindo por
+0003#STR0003#ALL#Centro de Custo requisitante ou Conta Contabil.Este relatório é um
+0004#STR0004#ALL#Pouco demorado porque cria o ficheiro de índice no momento.
+0005#STR0005#ALL# centro custo 
+0006#STR0006#ALL# cta.contabilística 
+0007#STR0007#ALL#Código de barras
+0008#STR0008#ALL#Administração
+0009#STR0009#ALL#Registo(s)
+0010#STR0010#ALL#A Seleccionar Registos...
+0011#STR0011#ALL#C.c       Descrição                 Código Produto  Descrição                 Um     Quantidade            Custo        C U S T O
+0012#STR0012#ALL#                                                                                                        Unitário        T O T A L
+0013#STR0013#ALL#Cancelado Pelo Operador
+0014#STR0014#ALL#Total do grupo 
+0015#STR0015#ALL#Total c. custo   
+0016#STR0016#ALL#Total Crial...........................
+0017#STR0017#ALL# D A T A    Centro     Descrição                  Conta Contabilística        Descrição                           V A L O R
+0018#STR0018#ALL#Total da conta --> 
+0019#STR0019#ALL#T o t a l --->
+0020#STR0020#ALL#            de custo                                                                                                 
+0021#STR0021#ALL#Descrição
+0024#STR0024#ALL#Unitário
+0026#STR0026#ALL#Itens De Movimentação Interna

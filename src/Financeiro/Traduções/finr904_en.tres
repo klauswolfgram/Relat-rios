@@ -1,0 +1,12 @@
+0001#STR0001#ALL#Conference of AVP Process of Accounts Receivable
+0002#STR0002#ALL#Process available for environment TOPCONNECT / TOTVSDBACCESS
+0003#STR0003#ALL#This report lists bills adjusted in the process, for checking purposes.
+0004#STR0004#ALL#Processing
+0005#STR0005#ALL#Processing Movements
+0006#STR0006#ALL#Function available TReport only. Check MV_TREPORT parameter
+0007#STR0007#ALL#Invoice Apportionment
+0008#STR0008#ALL#Prorated Value
+0009#STR0009#ALL#Constitution
+0010#STR0010#ALL#Appropriation
+0011#STR0011#ALL#Execution
+0012#STR0012#ALL#Write-off

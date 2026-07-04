@@ -1,0 +1,34 @@
+0001#STR0001#ALL#Informe de Pendencias
+0002#STR0002#ALL#Emite la lista de pendencias generadas a partir
+0003#STR0003#ALL#de la rutina de ocurrencias, segun los parametros 
+0004#STR0004#ALL#A Rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#ANULADO POR EL OPERADOR
+0007#STR0007#ALL#Informados
+0008#STR0008#ALL#Fil.Pend. Num.Pend. Fecha       Hora  Cliente             Documento         Viaje    Ocurrencia                          Cant  Val.Mercaderia   Val.Perjuicio Fecha Fin.  Hora   Estatus      No.Conciliacion
+0009#STR0009#ALL#Total
+0010#STR0010#ALL#Subtotal
+0011#STR0011#ALL#Total General
+0012#STR0012#ALL#Lista de Pendencias
+0013#STR0013#ALL#Emite la lista de pendencias generadas a contar de la rutina de ocurrencias segun los parametros
+0014#STR0014#ALL#Tipo de Pendencia
+0015#STR0015#ALL#Pendencia
+0016#STR0016#ALL#Suc.Pend.
+0017#STR0017#ALL#Num.Pend
+0018#STR0018#ALL#Fecha
+0019#STR0019#ALL#Hora
+0020#STR0020#ALL#Cliente
+0021#STR0021#ALL#Suc.Doc.
+0022#STR0022#ALL#Documento
+0023#STR0023#ALL#Serie
+0024#STR0024#ALL#Suc.Ori.
+0025#STR0025#ALL#Viaje
+0026#STR0026#ALL#Cod.Ocurr.
+0027#STR0027#ALL#Des.Ocurr.
+0028#STR0028#ALL#Ctd.
+0029#STR0029#ALL#Val.Merc.
+0030#STR0030#ALL#Val.Premio
+0031#STR0031#ALL#Fecha Cier.
+0032#STR0032#ALL#Hora Cier.
+0033#STR0033#ALL#Estatus
+0034#STR0034#ALL#Fil.Pend. Num.Pend. Fecha       Hora  Cliente             Documento         Viaje    Ocurrencia                          Cant  Val.Mercaderia   Val.Perjuicio Fecha Fin.  Hora   Estatus      No.Conciliacion

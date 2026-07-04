@@ -1,0 +1,14 @@
+0001#STR0001#BRA#Función disponible únicamente para entornos TopConnect
+0002#STR0002#BRA#Función disponible solamente para TReport, por favor actualice el entorno y verifique el parámetro MV_TREPORT
+0003#STR0003#BRA#Historial de movimientos
+0004#STR0004#BRA#Informe para mostrar los registros de movimiento del SERASA.
+0005#STR0005#BRA#CLIENTE
+0006#STR0006#BRA#Error
+0007#STR0007#BRA#Total de la sucursal de origen: 
+0008#STR0008#BRA#Total del lote: 
+0009#STR0009#BRA#Títulos
+0010#STR0010#BRA#Movimientos
+0011#STR0011#BRA#Lotes
+0012#STR0012#BRA#Valor original
+0013#STR0013#BRA#Valor del título en el lote
+0014#STR0014#BRA#Rebajas

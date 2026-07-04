@@ -1,0 +1,23 @@
+0001#STR0001#ALL#Este informe presentará un historial de todas las funciones ya desarrolladas
+0002#STR0002#ALL#por el empleado desde su ingreso hasta la fecha actual considerando también 
+0003#STR0003#ALL#el cambio del centro de costo ocurrido en este período.
+0004#STR0004#ALL#A rayas
+0005#STR0005#ALL#Administración
+0006#STR0006#ALL#Evolución funcional de los empleados.
+0007#STR0007#ALL#ANULADO POR EL OPERADOR
+0008#STR0008#ALL#Matrícula..: 
+0009#STR0009#ALL#Periodo                  C.Costo               Nombre Centro de Costo             Funcion  Nombre Funcion
+0010#STR0010#ALL#¿De cliente?
+0011#STR0011#ALL#Tienda
+0012#STR0012#ALL#¿A cliente?
+0013#STR0013#ALL#|Período               |RCPJ/CEI        |C.Costo                  |Cargo                     |Función                  |CBO   |GFIP|
+0014#STR0014#ALL#|Periodo               |C.Costo    |Descripcion                |Cargo                     |Funcion |Descripcion             |CBO   |GFIP|
+0015#STR0015#ALL#|Periodo               |C.Costo                                     |Cargo                     |Funcion                               |CBO   |GFIP|
+0016#STR0016#ALL#¿Modelo de impresión?
+0017#STR0017#ALL#¿Modelo de impresión?
+0018#STR0018#ALL#¿A función?
+0019#STR0019#ALL#¿De función?
+0020#STR0020#ALL#¿A centro de costo?
+0021#STR0021#ALL#¿De centro de costo ?
+0022#STR0022#ALL#¿A empleado?
+0023#STR0023#ALL#¿De empleado?

@@ -1,0 +1,31 @@
+0001#STR0001#ALL#It issues the report of balance checking 
+0002#STR0002#ALL#for products using Lot/SubLot Control  
+0003#STR0003#ALL#and/or Physical Localization.
+0004#STR0004#ALL#CHECKING OF STOCK BALANCE
+0005#STR0005#ALL#Z-form
+0006#STR0006#ALL#Management
+0007#STR0007#ALL#Update MATXFUNA.PRX
+0008#STR0008#ALL#Update MATA280.PRX
+0009#STR0009#ALL#Update CFGX051.PRW
+0010#STR0010#ALL# PRODUCT FL                             | WAREH  | CONTROL  | CONTROL      |           AMOUNT   |           AMOUNT   |           AMOUNT   |           AMOUNT   | STATUS    
+0011#STR0011#ALL#                                               |        | ADDRESS | LOT/SUBLOT |             PHYSICAL |       PER ADDRESS |        TO ADDRESS |   PER LOT/SUBLOT |           
+0012#STR0012#ALL#(Current Balance)
+0013#STR0013#ALL#( Balance by Movement / Date
+0014#STR0014#ALL#( Closing Balance / Date
+0015#STR0015#ALL#CANCELED BY OPERATOR
+0016#STR0016#ALL#Selecting records
+0017#STR0017#ALL#SDA=PENDING
+0018#STR0018#ALL#YES
+0019#STR0019#ALL#NO
+0020#STR0020#ALL#LOT
+0021#STR0021#ALL#SUBLOT
+0022#STR0022#ALL#Error in the process call
+0023#STR0023#ALL#Competition
+0024#STR0024#ALL#The Branch
+0025#STR0025#ALL#of the current company is already being used in printing the report.
+0026#STR0026#ALL#Balances per Batch/Sub-batch
+0027#STR0027#ALL#Balances by Address
+0028#STR0028#ALL#Procedure #1[MAT036]# Process #2[17]#
+0029#STR0029#ALL#Error calling procedure stored of the database 
+0030#STR0030#ALL#Return of database failure:
+0031#STR0031#ALL#Finalize

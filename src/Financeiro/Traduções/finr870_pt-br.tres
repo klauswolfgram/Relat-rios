@@ -1,0 +1,27 @@
+0001#STR0001#ALL#Este programa tem como objetivo imprimir o valor atualizado dos 
+0002#STR0002#ALL#emprestimos financeiros, conforme os parametros solicitados. 
+0003#STR0003#ALL#Demonstrativo de Emprestimos
+0004#STR0005#ALL#Zebrado
+0005#STR0006#ALL#Administracao
+0006#STR0007#ALL#CANCELADO PELO OPERADOR
+0007#STR0008#ALL#                  Dados do Emprestimos                                                   Valores
+0008#STR0009#ALL#Numero    Instituicao          Mod Dt.Empre Dt.Pgto.             Principal Taxa Nominal Tar.Contratual       Juros         Pagamento
+0009#STR0010#ALL#Total Geral...:
+0010#STR0011#ALL#Registros
+0011#STR0012#ALL#Numero
+0012#STR0013#ALL#Instituicao
+0013#STR0014#ALL#Mod
+0014#STR0015#ALL#Dt.Empre
+0015#STR0016#ALL#Dt.Pgto.
+0016#STR0017#ALL#Principal
+0017#STR0018#ALL#Taxa Nominal
+0018#STR0019#ALL#Tar.Contratual
+0019#STR0020#ALL#Juros
+0020#STR0021#ALL#Pagamento
+0021#STR0022#ALL#Total Filial...:
+0022#STR0023#ALL#Filial : 
+0023#STR0024#ALL#Código
+0024#STR0025#ALL#Empresa
+0025#STR0026#ALL#Unidade de negócio
+0026#STR0027#ALL#Filial
+0027#STR0028#ALL#Filiais selecionadas para o relatorio

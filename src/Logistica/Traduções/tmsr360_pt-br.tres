@@ -1,0 +1,26 @@
+0001#STR0001#ALL#Relacao de Documentos para Embarque
+0002#STR0002#ALL#Emite a Relacao de Viagens Efetivadas
+0003#STR0003#ALL#conforme os parametros informados
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#FIL. ORIGEM DOCUMENTO SERIE DESTINATARIO                                      PESO REAL VOLUME VALOR DO FRETE DATA        HORA 
+0007#STR0007#ALL#Selecionando Registro no DT6...
+0008#STR0008#ALL#CANCELADO PELO OPERADOR
+0009#STR0009#ALL#TOTAL DA FILIAL 
+0010#STR0010#ALL# Documento(s) )
+0011#STR0011#ALL#TOTAL GERAL ( 
+0012#STR0012#ALL#Relacao de Documentos para Embarque
+0013#STR0013#ALL#Emite a Relacao de Viagens Efetivadas conforme os parametros informados
+0014#STR0014#ALL#Fil.Docto + Documento + Serie
+0015#STR0015#ALL#Fil.Origem
+0016#STR0016#ALL#Documento
+0017#STR0017#ALL#Serie
+0018#STR0018#ALL#Cod. Dest.
+0019#STR0019#ALL#Loja Dest.
+0020#STR0020#ALL#Nome
+0021#STR0021#ALL#Peso Real
+0022#STR0022#ALL#Volume
+0023#STR0023#ALL#Frete
+0024#STR0024#ALL#Data Emissão
+0025#STR0025#ALL#Hora Emissão
+0026#STR0026#ALL#Total da Filial

@@ -1,0 +1,18 @@
+0001#STR0001#ALL#Products allocated to projects
+0002#STR0002#ALL#Report of products allocated to projects
+0003#STR0003#ALL#PROJECT+TASK+PRODUCT
+0004#STR0004#ALL#PRODUCT+PROJECT+TASK
+0005#STR0005#ALL#Selecting records...
+0006#STR0006#ALL#Project
+0007#STR0007#ALL#Task
+0008#STR0008#ALL#Product
+0009#STR0009#ALL#Total
+0010#STR0010#ALL#(Order:Project+Task+Product)
+0011#STR0011#ALL#(Order:Product+Project+Task)
+0012#STR0012#ALL#Origin
+0013#STR0013#ALL#Number
+0014#STR0014#ALL#Purchase req.
+0015#STR0015#ALL#Sort prod.
+0016#STR0016#ALL#Purchase order
+0017#STR0017#ALL#Planning
+0018#STR0018#ALL#Comp.Sal.

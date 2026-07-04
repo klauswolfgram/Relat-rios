@@ -1,0 +1,34 @@
+0001#STR0001#ALL# de 2 ate 6 filiais. Os valores sao ref. a movimentacao do periodo solicitado. 
+0002#STR0002#ALL# de 2 a 6 sucursales. Los valores se refieren a movimientos del periodo solicitado. 
+0003#STR0003#ALL#Comparativo de 
+0004#STR0004#ALL#|  CODIGO                     |   D  E  S  C  R  I  P  C  .    |    MOV SUCUR. 01    |    MOV SUCUR. 02    |    MOV SUCUR. 03    |    MOV SUCUR. 04    |    MOV SUCUR. 05    |    MOV SUCUR 06    |     TOTAL  GENERAL    |
+0005#STR0005#ALL#COMPARATIVO DE SUCURS. ANALITICO DE 
+0006#STR0006#ALL# A   
+0007#STR0007#ALL# EN 
+0008#STR0008#ALL#COMPARATIVO DE SUCURS. SINTETICO DE 
+0009#STR0009#ALL# ATENCION
+0010#STR0010#ALL#***** ANULADO POR EL OPERADOR *****
+0011#STR0011#ALL#T O T A L E S     P E R I O D O: 
+0012#STR0012#ALL#COMPARATIVO DE 
+0013#STR0013#ALL#A rayas
+0014#STR0014#ALL#Administrac. 
+0015#STR0015#ALL#Creando Archivo Temporal  ...
+0016#STR0016#ALL#T O T A L E S    G R U P O (
+0017#STR0017#ALL#Si no actualiza los saldos compuestos en
+0018#STR0018#ALL#emision de informes (MV_SLDCOMP ='N'),
+0019#STR0019#ALL#ejecutar rutina actualizacion de saldos 
+0020#STR0020#ALL#para todas las sucursales solicitadas en
+0021#STR0021#ALL#informe.  
+0022#STR0022#ALL# con sucurs. 
+0023#STR0023#ALL#CODIGO
+0024#STR0024#ALL#D E S C R I P C. 
+0025#STR0025#ALL#MOV SUC 01
+0026#STR0026#ALL#MOV SUC 02
+0027#STR0027#ALL#MOV SUC 03
+0028#STR0028#ALL#MOV SUC 04
+0029#STR0029#ALL#MOV SUC 05
+0030#STR0030#ALL#MOV SUC 06
+0031#STR0031#ALL#TOTAL GRAL.
+0032#STR0032#ALL#Periodo
+0033#STR0033#ALL#Verifica si el Arch. C.Costo es compartido. ¡POR DEFINICION, no sera posible emitir el informe con C.COSTO EXCLUSIVO!
+0034#STR0034#ALL#¡Plan de gestión no está disponible!

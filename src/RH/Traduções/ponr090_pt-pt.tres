@@ -1,0 +1,45 @@
+0001#STR0001#ALL#Relatório De Resultados
+0002#STR0002#ALL#Será impresso de acordo com os parâmetros solicitados pelo
+0003#STR0003#ALL#Utilizador.
+0004#STR0004#ALL#Registo
+0005#STR0005#ALL#Centro De Custo
+0007#STR0007#ALL#Código de barras
+0008#STR0008#ALL#Administração
+0009#STR0010#ALL#Abandonar
+0011#STR0012#ALL#Resultados Por Código
+0012#STR0013#ALL#Resultados Do Ponto Electrónico
+0013#STR0016#ALL#É preciso Compactar a Impressora para 18 CPI ?
+0014#STR0017#ALL#É preciso compactar a impressora para 18 CPI ?
+0015#STR0018#ALL#                                                                          |-       Verba         -|
+0016#STR0019#ALL#Fil. C. Custo            Reg.    Nome                                Cód. Descrição
+0017#STR0020#ALL#Fil. C. Custo            Reg.    Nome
+0021#STR0024#ALL#D O     E M P R E G A D O          
+0022#STR0025#ALL#D O   C E N T R O   D E   C U S T O
+0023#STR0026#ALL#D a   f i l i a l
+0024#STR0027#ALL#D a   e m p r e s a
+0025#STR0028#ALL#C. Custo+ Nome
+0026#STR0029#ALL#Empregados
+0027#STR0030#ALL#Total 
+0028#STR0031#ALL#De Horas
+0029#STR0032#ALL#Código
+0031#STR0034#ALL#Cód. 01
+0032#STR0035#ALL#Cód. 02
+0033#STR0036#ALL#Cód. 03
+0034#STR0037#ALL#Cód. 04
+0035#STR0038#ALL#Cód. 05
+0036#STR0039#ALL#Cód. 06
+0037#STR0040#ALL#Cód. 07
+0038#STR0041#ALL#Cód. 08
+0039#STR0042#ALL#Cód. 09
+0040#STR0043#ALL#Cód. 10
+0041#STR0044#ALL#A processar....
+0042#STR0045#ALL#T o t a l     
+0043#STR0046#ALL#Emite Relação De Resultados Do Ponto Electrónico.
+0044#STR0047#ALL#Formato Vertical - Dados dos Empregados  
+0045#STR0048#ALL#Formato vertical - resultados por código
+0046#STR0049#ALL#Formato Horizontal - Dados dos Empregados e Resultados 
+0047#STR0050#ALL#TOTAL DO EMPREGADO:   
+0048#STR0051#ALL#Total do centro de custo: 
+0049#STR0052#ALL#Total da filial: 
+0050#STR0053#ALL#Seleccionar a opção  de impressao:
+0051#STR0054#ALL#Por Período

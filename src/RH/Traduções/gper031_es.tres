@@ -1,0 +1,53 @@
+0001#STR0001#ALL#Matricula
+0002#STR0002#ALL#C Costo
+0003#STR0003#ALL#Nomb
+0004#STR0004#ALL#Placa
+0005#STR0005#ALL#C Costo + Nomb
+0006#STR0006#ALL#Emision de recibos de pagos.
+0007#STR0007#ALL#Se imprimira de acuerdo con los param. solicitados por el
+0008#STR0008#ALL#usuario.
+0009#STR0009#ALL#A rayas
+0010#STR0010#ALL#Administrac.
+0011#STR0011#ALL#EMISION DE RECIBOS DE PAGOS     
+0012#STR0012#ALL#Seleccionando registros...
+0013#STR0013#ALL#Semana 
+0014#STR0014#ALL# a 
+0015#STR0015#ALL#CARGO  :
+0016#STR0016#ALL#PLACA: 
+0017#STR0017#ALL#  Empresa   : 
+0018#STR0018#ALL# RUC: 
+0019#STR0019#ALL# BPS  : 
+0020#STR0020#ALL#  Direccion: 
+0021#STR0021#ALL#MTSS: 
+0022#STR0022#ALL# BSE  : 
+0023#STR0023#ALL# CI: 
+0024#STR0024#ALL# Categoria: 
+0025#STR0025#ALL# del mes de: 
+0026#STR0026#ALL#Fch. Ingr.: 
+0027#STR0027#ALL# REMUNERAC.
+0028#STR0028#ALL#DESCUENTOS
+0029#STR0029#ALL#del periodo de 
+0030#STR0030#ALL#íCONTINUA!
+0031#STR0031#ALL#  TOTAL BRUTO     
+0032#STR0032#ALL#TOTAL DESCUENTOS: 
+0033#STR0033#ALL# Beneficiario : 
+0034#STR0034#ALL#Sueldo / Jornal:
+0035#STR0035#ALL#NETO POR COBRAR        : 
+0036#STR0036#ALL#Son pesos uruguayos 
+0037#STR0037#ALL#­­¡CONTINUA !
+0038#STR0038#ALL#Recibi el importe y copia de esta Plan. de Haber. no habiendo nada a reclamar bajo ningun concep.
+0039#STR0039#ALL#La empresa declara haber realizado los aportes a la seg. social segun decreto 337/92
+0040#STR0040#ALL#FIRMA DEL TRABAJADOR 
+0041#STR0041#ALL#FECHA: 
+0042#STR0042#ALL#ORIGINAL
+0043#STR0043#ALL#COPIA
+0044#STR0044#ALL# DGSS: 
+0045#STR0045#ALL# Anticipo
+0046#STR0046#ALL#Planilla de Haberes
+0047#STR0047#ALL# 1ª Cuota Aguinaldo
+0048#STR0048#ALL# 2ª Cuota Aguinaldo
+0049#STR0049#ALL# Valores Extras
+0050#STR0050#ALL#Cargo: 
+0051#STR0051#URU#US$ Valor Neto: 
+0052#STR0052#URU#¡Atencion!
+0053#STR0053#URU#Antes de continuar, es necesario ejecutar la actualizacion '80-Ajustes en el diccionario - Uruguay', disponible para el modulo SIGAGPE en el compatibilizador RHUPDMOD.

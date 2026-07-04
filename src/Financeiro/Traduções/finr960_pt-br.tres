@@ -1,0 +1,22 @@
+0001#STR0001#ALL#DME - Declaração de Moedas em Espécies
+0002#STR0002#ALL#Este programa irá emitir o relatório de movimentações bancárias de Moedas em Espécies
+0003#STR0003#ALL#Declarante
+0004#STR0004#ALL#CNPJ/CPF:
+0005#STR0005#ALL#Declarado
+0006#STR0006#ALL#CNPJ/CPF:
+0007#STR0007#ALL#Tipo
+0008#STR0008#ALL#País
+0009#STR0009#ALL#Movimentos em Espécie
+0010#STR0010#ALL#Data da Baixa
+0011#STR0011#ALL#Valor Operação
+0012#STR0012#ALL#Valor Espécie
+0013#STR0013#ALL#Moeda
+0014#STR0014#ALL#Histórico
+0015#STR0015#ALL#Relatório das Operações Liquidadas com Moeda em Espécie
+0016#STR0016#ALL#Pessoa Juridica
+0017#STR0017#ALL#Pessoa Física
+0018#STR0018#ALL#Código do Bem
+0019#STR0019#ALL#Código do Serviço
+0020#STR0020#ALL#Dicionário desatualizado
+0021#STR0021#ALL#Para utilizar este relatório, é necessário atualizar o dicionário de dados, com o grupo de perguntas 'FINR960'
+0022#STR0022#ALL#Declarado não informado

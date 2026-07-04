@@ -1,0 +1,45 @@
+0001#STR0001#ALL#Indices FAP (Factor de Prevencion de Accidentes)
+0002#STR0002#ALL#Grafico
+0003#STR0003#ALL#Imprimir
+0004#STR0004#ALL#Ano:
+0005#STR0005#ALL#Periodo
+0006#STR0006#ALL#Frecuencia
+0007#STR0007#ALL#Var.
+0008#STR0008#ALL#Gravedad
+0009#STR0009#ALL#Costo
+0010#STR0010#ALL#Rotatividad
+0011#STR0011#ALL#El calculo del FAP tuvo inicio en 2009, aun asi, desea visualizar las informaciones del ano informado?
+0012#STR0012#ALL#Ano Invalido
+0013#STR0013#ALL#No existen informaciones suficientes para calcular el FAP del ano informado, pues se requiere que hayan informaciones de los dos anos anteriores.
+0014#STR0014#ALL# a 
+0015#STR0015#ALL#Del Ano o Al Ano invalido.
+0016#STR0016#ALL#Informar el costo de los beneficios de la Licencia Temporal cubiertos por la Seguridad Social (Beneficios) e
+0017#STR0017#ALL#informar el valor total de remuneracion pagada por el establecimiento a los asegurados (Remuneracion).
+0018#STR0018#ALL#Ano:
+0019#STR0019#ALL#Periodo
+0020#STR0020#ALL#Beneficios (R$)
+0021#STR0021#ALL#Remuneracion (R$)
+0022#STR0022#ALL#Costo (R$)
+0023#STR0023#ALL#Indices FAP
+0024#STR0024#ALL#¿De Ano?
+0025#STR0025#ALL#¿A Ano?
+0026#STR0026#ALL#¿Calcular indice de costo?
+0027#STR0027#ALL#Si
+0028#STR0028#ALL#No
+0029#STR0029#ALL#Costos Part.1
+0030#STR0030#ALL#Costos Part.2
+0031#STR0031#ALL#Costos Part.3
+0032#STR0032#ALL#FAP:
+0033#STR0033#ALL#Periodo:
+0034#STR0034#ALL#Nº Accidentes con CAT / Beneficios sin CAT:
+0035#STR0035#ALL#Nº Promedio de vinculos (Funcion. por mes):
+0036#STR0036#ALL#Nº Beneficios
+0037#STR0037#ALL#Nº Ingresos
+0038#STR0038#ALL#Nº Rescisiones
+0039#STR0039#ALL#Nº Vinculos al inicio de
+0040#STR0040#ALL#Valor pagado en beneficios:
+0041#STR0041#ALL#Valor de la remuneracion de los empleados:
+0042#STR0042#ALL#Determina el ano inicial.
+0043#STR0043#ALL#Informe el ano final.
+0044#STR0044#ALL#Determina si se calculara el Indice por el costo.
+0045#STR0045#ALL#El diccionario de datos está desactualizado, por favor, aplique la actualización contenida en el paquete de la issue DNG-1847

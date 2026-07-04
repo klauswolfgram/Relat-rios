@@ -1,0 +1,30 @@
+0001#STR0001#ALL#Este programa tem como objetivo imprimir relatório 
+0002#STR0002#ALL#De acordo com os parâmetro s informados pelo utilizador.
+0003#STR0003#EUA#Relatório de Artigos por Lay-Away
+0003#STR0003#MEX#Relatório de Artigos por Manejo de Apartados
+0003#STR0003#POR#Relatório De Produtos Por Envio Para
+0004#STR0004#ALL#Envio para
+0006#STR0006#ALL#Data De Emissão
+0007#STR0007#ALL#Data De Entrega
+0008#STR0008#ALL#Data De Movimentação
+0009#STR0009#ALL#Código de barras
+0010#STR0010#ALL#Administração
+0011#STR0011#ALL#Envio Para  Cliente                                   Emissão    Entrega      Estado                Valor                  Saldo
+0012#STR0012#ALL#Produto          Descrição                          Quantidade               Valor Unitário           Valor Total
+0013#STR0013#ALL#*** cancelado pelo operador ***
+0014#STR0014#ALL#Total do cliente 
+0015#STR0015#ALL#Total da data de emissão 
+0016#STR0016#ALL#Total da data de entrega 
+0017#STR0017#ALL#Total da data do movimento 
+0020#STR0020#ALL#Total geral => 
+0021#STR0021#ALL#Preencha os parâmetros 
+0022#STR0022#ALL#De emissão e até emissão 
+0023#STR0023#ALL#De entrega e até entrega 
+0024#STR0024#ALL#De movimentação e até movimentação 
+0025#STR0025#ALL#Não existem registos para esse relatório - verifique os parâmetros 
+0026#STR0026#ALL#A seleccionar registos
+0029#STR0029#ALL#Descrição não encontrada
+0031#STR0031#EUA#Cód. Lay-Away
+0031#STR0031#MEX#Cód. Manejo de Apartados
+0031#STR0031#POR#Cód. Lay-Away
+0035#STR0035#ALL#Artigo

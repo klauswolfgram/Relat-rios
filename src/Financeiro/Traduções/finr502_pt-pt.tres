@@ -1,0 +1,14 @@
+0001#STR0001#ALL#Liquidações Financeiras
+0002#STR0002#ALL#Este relatório imprimirá o extrato de Liquidações 
+0004#STR0004#ALL#LIQUIDAÇÃO : 
+0005#STR0005#ALL#Nr. da Liquidação
+0006#STR0006#ALL#Títulos Liquidados
+0008#STR0008#ALL#NÚMERO
+0011#STR0011#ALL#EMISSÃO
+0017#STR0017#ALL#AGÊNCIA
+0019#STR0019#ALL#A seleccionar registos...
+0021#STR0021#ALL#Liquida Parc. 
+0022#STR0022#ALL#Liquidado
+0027#STR0027#ALL#- Os títulos liquidados são impressos com o valor original, independente da forma da liquidação. 
+0028#STR0028#ALL#- Os totalizadores consideram o valor total da liquidação ou dos títulos gerados/liquidados.
+0029#STR0029#ALL#ESTADO

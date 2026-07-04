@@ -1,0 +1,13 @@
+0002#STR0002#ALL#Emite Relação De Documentos Embarcados,
+0003#STR0003#ALL#Conforme parâmetro s informados
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#Cancelado Pelo Operador
+0007#STR0007#ALL#                                                                                                          ----------------[ veículo ]---------- -----------[ 1o. reboque ]----------- ------------[ 2o. reboque ]----------
+0008#STR0008#ALL#Documento    emissão    remetente          destino                uf dt de saída   embarque   vlr.mercadoria matrícula     código   modelo               placa     código   modelo               placa     código   modelo        
+0010#STR0010#ALL#Emite relação de documentos embarcados, de acordo com os parâmetros indicados
+0011#STR0011#ALL#Emissão + Fil.docto + Documento + Série
+0013#STR0013#ALL#Total Do Documento
+0016#STR0016#ALL#Matrícula
+0018#STR0018#ALL#Fil.doc
+0020#STR0020#ALL#Série

@@ -1,0 +1,13 @@
+0001#STR0001#ALL#Relação Das Operações Por Produto
+0002#STR0002#ALL#Este Programa Irá Imprimir A Relação Do Registo
+0003#STR0003#ALL#Dos Roteiros De Operações.
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#Recurso Descrição Do Recurso           Operação   Descrição Da Operação            Tipo  Ferramenta Linha De  Tipo De    Mão De     Setup    Lote     Tempo    Tempo    Tipo    Tempo     Tipo    Desdobr    Centro  Formula
+0007#STR0007#ALL#                                                                                   Oper             Produção   Linha      Obra              Padrão    Padrão   Sobrep.  Sobrep. Desdobra Desdobra  Propor   Trabalho  Setup
+0008#STR0008#ALL#Cancelado Pelo Operador
+0010#STR0010#ALL#Denominação : 
+0012#STR0012#ALL#(roteiro Padrão)
+0017#STR0017#ALL#Secundário
+0018#STR0018#ALL#Criando indices ....
+0020#STR0020#ALL#Artigos

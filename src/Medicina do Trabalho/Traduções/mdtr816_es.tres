@@ -1,0 +1,39 @@
+0001#STR0001#ALL#Informe de proyeccion para higienizacion / mantenimiento de los EPI. A traves de los     
+0002#STR0002#ALL#parametros, el usuario debe informar el periodo deseado para visualizar una rela-
+0003#STR0003#ALL#cion con los epi de empleados que deben parsar por un mantenimiento.  
+0004#STR0004#ALL#A rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#Higienizacion / Mantenimiento de los Equipos (EPI)
+0007#STR0007#ALL#Nomb Empleado                        Matricula   Centro de costo                  Funcion                         Fch Nacim.  Ingreso 
+0008#STR0008#ALL#     EPI                              Descripcion                                Fch  Entrega  Cantidad     Ult. Man.   Prox. Man.
+0009#STR0009#ALL#Matricula   Nombre Empleado                      Centro de Costo                  Funcion                         Fch.Nac.  Ingreso 
+0010#STR0010#ALL#EPI                              Descripc. 
+0011#STR0011#ALL#     Empleado                        Mat.    Centro de costo       Funcion               Fch. Entrega Cant.    Ult.Man.  Prox.Man.
+0012#STR0012#ALL#Centro de Costo        Descripc.
+0013#STR0013#ALL#     Empleado                             Mat.     EPI                              Descripcion                      Fch. Entrega   Cantidad   Ult.Man.    Prox.Man.
+0014#STR0014#ALL#Empleado
+0015#STR0015#ALL#Nombre
+0016#STR0016#ALL#Matricula
+0017#STR0017#ALL#Centro de Costo
+0018#STR0018#ALL#Funcion
+0019#STR0019#ALL#Fecha de Nac.:
+0020#STR0020#ALL#Ingreso
+0021#STR0021#ALL#Equipo (EPI)
+0022#STR0022#ALL#EPI
+0023#STR0023#ALL#Descripcion
+0024#STR0024#ALL#Fecha entrega
+0025#STR0025#ALL#Cantidad
+0026#STR0026#ALL#Ult. Mant.
+0027#STR0027#ALL#Prox. Mant.
+0028#STR0028#ALL#¿De EPI?
+0029#STR0029#ALL#¿A  EPI?
+0030#STR0030#ALL#¿De Fecha mantenimiento?
+0031#STR0031#ALL#¿A Fecha mantenimiento?
+0032#STR0032#ALL#¿De Matricula ?
+0033#STR0033#ALL#¿A Matricula ?
+0034#STR0034#ALL#¿De Centro de Costo ?
+0035#STR0035#ALL#¿A Centro de costo?
+0036#STR0036#ALL#¿Clasificar por ?
+0037#STR0037#ALL#Empleado
+0038#STR0038#ALL#Matricula
+0039#STR0039#ALL#No existe nada para imprimir en el informe.

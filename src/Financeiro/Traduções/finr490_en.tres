@@ -1,0 +1,26 @@
+0001#STR0001#ALL#This program will print copies of the issued Checks.  
+0002#STR0002#ALL#1 or 2 checks will be printed per sheet. 
+0003#STR0003#ALL#Copies of Checks 
+0004#STR0004#ALL#Z.Form 
+0005#STR0005#ALL#Management   
+0006#STR0006#ALL#Cancelled by the operator  
+0007#STR0007#ALL#  -  COPY OF CHECKS 
+0008#STR0008#ALL#|  Check Number  
+0009#STR0009#ALL#Issue Date      
+0010#STR0010#ALL#|  Bank  
+0011#STR0011#ALL#Branch 
+0012#STR0012#ALL#   Accnt 
+0013#STR0013#ALL#|  Check Value  
+0014#STR0014#ALL#Check Date      
+0015#STR0015#ALL#|  Bearer     
+0016#STR0016#ALL#|  History    
+0017#STR0017#ALL#|  Copy of Check No. 
+0018#STR0018#ALL#|  Visas 
+0019#STR0019#ALL#|Observations     |Accnts Payable|Fin. Manager  |Accounting    |Signed by      |
+0020#STR0020#ALL#COPY OF CHECK :   
+0021#STR0021#ALL# - Continuat. 
+0022#STR0022#ALL#|- Composition of Check 
+0023#STR0023#ALL#|Suppl.    Supplier Name                   Class                               |
+0024#STR0024#ALL#|       Prx Number        I   Due Dt.                 Value of Bill            |
+0025#STR0025#ALL#|Supplier                Supplier's Name                 Nature                |
+0026#STR0026#ALL#|Sup Name Supplier    Class  Prf Number    Pc Due Date    Bill Value|

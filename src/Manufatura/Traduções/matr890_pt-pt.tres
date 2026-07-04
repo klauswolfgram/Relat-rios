@@ -1,0 +1,24 @@
+0001#STR0001#ALL#Relação de acompanhamento das operações 
+0002#STR0002#ALL#Este programa irá imprimir a Relação de Acompanhamento das Operações.
+0003#STR0003#ALL#Os valores referentes aos tempos de duração estão convertidos conforme
+0004#STR0004#ALL#O parâmetro   mv_tphr. se utilizada prod. mod. 2 podem haver divergencias.
+0008#STR0008#ALL#Código de barras
+0009#STR0009#ALL#Administração
+0010#STR0010#ALL#Abertura De Arquivos
+0012#STR0012#ALL#Domingo
+0013#STR0013#ALL#Segunda
+0014#STR0014#ALL#Terça
+0015#STR0015#ALL#Quarta-feira
+0016#STR0016#ALL#Quinta-feira
+0017#STR0017#ALL#Sexta-feira
+0018#STR0018#ALL#Sábado
+0019#STR0019#ALL#Ordem de    o. recurso ferramenta  p r o d u t o                                                       i  n  i  c  i  o                     *               t  e  r  m  i  n  o               *     d u r a c a o 
+0020#STR0020#ALL#Produção                                                                            A L O C A D O           R  E  A  L           Variação   *   A L O C A D O      R  E  A  L      Variação   *   Aloc.  Real     Var.
+0021#STR0021#ALL#A Seleccionar Registos...
+0022#STR0022#ALL#Cancelado Pelo Operador
+0023#STR0023#ALL#Produto inexistente no arquivo
+0024#STR0024#ALL#ínicio Coloc.
+0025#STR0025#ALL#ínicio Real
+0026#STR0026#ALL#Variação
+0029#STR0029#ALL#Tempo coloc. 
+0030#STR0030#ALL#Operações Alocadas Carga Equipamento

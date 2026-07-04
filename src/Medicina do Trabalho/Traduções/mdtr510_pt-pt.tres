@@ -1,0 +1,22 @@
+0001#STR0001#ALL#Atestado Médico
+0002#STR0002#ALL#De ficha médica    ?
+0003#STR0003#ALL#Até ficha médica   ?
+0004#STR0004#ALL#Da data            ?
+0005#STR0005#ALL#Até data           ?
+0006#STR0006#ALL#De cid             ?
+0007#STR0007#ALL#Até cid            ?
+0008#STR0008#ALL#Programa De Controlo Médico De Saúde Ocupacional
+0009#STR0009#ALL#Comunicação Interna De Atestados Por Falta Ao Trabalho
+0013#STR0013#ALL#Nome
+0014#STR0014#ALL#Período De Afastamento
+0015#STR0015#ALL#Observações
+0016#STR0016#ALL#Médico
+0017#STR0017#ALL#Auxiliar De Enfermagem
+0018#STR0018#ALL#Matrícula
+0019#STR0019#ALL#De cliente ?
+0023#STR0023#ALL#Até cliente ?
+0025#STR0025#ALL#Código  da loja do cliente. o campo pode ser preenchido com a letra z até  o final para considerar o último código.
+0026#STR0026#ALL#Até CID ?
+0028#STR0028#ALL#Até Data ?
+0030#STR0030#ALL#Até Ficha Médica ?
+0031#STR0031#ALL#De Ficha Médica ?

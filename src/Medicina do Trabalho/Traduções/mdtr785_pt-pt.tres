@@ -1,0 +1,17 @@
+0001#STR0001#ALL#Relatório de apresentação dos medicamentos, o utilizador poderá listar todos
+0002#STR0002#ALL#Ou apenas aqueles com a quantidade actual em stock menor do que a       
+0003#STR0003#ALL#Quantidade mínima.   opção disponível através do botão de  parâmetros.   
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0007#STR0007#ALL#De Matrícula?
+0008#STR0008#ALL#Até Matrícula?
+0009#STR0009#ALL#Até Dt. Vencimento:
+0010#STR0010#ALL#Para a utilização desta rotina, é necessário a criação do campo:
+0011#STR0011#ALL#Tabela...: Tm1
+0012#STR0012#ALL#Campo....: Tm1_dtvali
+0016#STR0016#ALL#Título...: Dt. Validade
+0017#STR0017#ALL#Descrição: Data Validade
+0018#STR0018#ALL#Imagem..: 99/99/9999
+0019#STR0019#ALL#Atenção
+0021#STR0021#ALL#Cancelado Pelo Operador
+0026#STR0026#ALL#Un. Méd.

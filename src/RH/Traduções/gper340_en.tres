@@ -1,0 +1,41 @@
+0001#STR0001#ALL#C.Center+ Registrat. 
+0002#STR0002#ALL#C.Center+ Name
+0003#STR0003#ALL#C.Center+ Funct.
+0004#STR0004#ALL#List of Positions and Salaries
+0005#STR0005#ALL#Will be printed according to parameters selected by the  
+0006#STR0006#ALL#User.   
+0007#STR0007#ALL#Z.Form 
+0008#STR0008#ALL#Management   
+0009#STR0009#ALL#LIST OF POSITIONS AND SALARIES
+0010#STR0010#ALL#FI  REGISTER NAME                          ADMISSION  FUNCTION                       LABOR     SALARY   PERC.   PERC.   PERC.
+0011#STR0011#ALL#                                                                                      WORK      NOMINAL  C.CENTER  BRANCH  COMPANY
+0012#STR0012#ALL#LIST OF POSITIONS AND SALARIES 
+0013#STR0013#ALL#(C.CENTER+ REGISTRATION)
+0014#STR0014#ALL#(C.CENTER+ NAME)
+0015#STR0015#ALL#(C.CENTER+ FUNCT.)
+0016#STR0016#ALL#Selecting  Records...
+0017#STR0017#ALL#COST CENTER TOTAL: 
+0018#STR0018#ALL# QTY :
+0019#STR0019#ALL#BRANCH TOTAL: 
+0020#STR0020#ALL# QTY.: 
+0021#STR0021#ALL#TOTAL OF COST CENTER 
+0022#STR0025#ALL#TOTAL OF COMPANY 
+0023#STR0026#ALL# QTY.: 
+0024#STR0027#ALL#DIR
+0025#STR0028#ALL#IND
+0026#STR0029#ALL#Name
+0027#STR0030#ALL#Registrat.
+0028#STR0031#ALL#Funct.
+0029#STR0034#ALL#(NAME)
+0030#STR0035#ALL#(REGISTRAT)
+0031#STR0036#ALL#(FUNCT.)
+0032#STR0037#ALL#This program issues Report of Titles and Salaries
+0033#STR0038#ALL#Nominal Salary
+0034#STR0039#ALL#% C.Center
+0035#STR0040#ALL#% Branch
+0036#STR0041#ALL#% Company
+0037#STR0042#ALL#Employees   
+0038#STR0043#ALL#ENROLLMENT       NAME                           HIRING   DUTY                     WORKFORCE     SALARY   PERC.   PERC.   PERC.
+0039#STR0044#ALL#BRANCH: 
+0040#STR0045#ALL#Branch
+0041#STR0046#ALL#Due to its template, for the Spreadsheet Type in Table Format, the Positions and Salaries Report in the Synthetic mode is presented blank! Select a different printing type.

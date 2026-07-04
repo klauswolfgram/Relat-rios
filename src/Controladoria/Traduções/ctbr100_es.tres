@@ -1,0 +1,52 @@
+0001#STR0001#ALL#Este programa imprimira el balance de 
+0002#STR0002#ALL#de acuerdo con los parametros solicitados por el usuario. 
+0003#STR0003#ALL#Balance de verificacion 
+0004#STR0004#ALL#|  CODIGO                     |      D E S C R I P C I O N                      |    SALDO ANTERIOR              |    DEBITO       |      CREDITO      |    MOVIMIENTO DEL PERIODO     |         SALDO ACTUAL              |
+0004#STR0004#ANG#|  CODIGO                     |      D E S C R I P C I O N                      |    SALDO ANTERIOR              |    CARGO        |      ABONO        |    MOVIMIENTO DEL PERIODO     |         SALDO ACTUAL              |
+0004#STR0004#EQU#|  CODIGO                     |      D E S C R I P C I O N                      |    SALDO ANTERIOR              |    DEBITO        |     CREDITO      |    MOVIMIENTO DEL PERIODO     |         SALDO ACTUAL              |
+0004#STR0004#HAI#|  CODIGO                     |      D E S C R I P C I O N                      |    SALDO ANTERIOR              |    CARGO        |      ABONO        |    MOVIMIENTO DEL PERIODO     |         SALDO ACTUAL              |
+0004#STR0004#MEX#|  CODIGO                     |      D E S C R I P C I O N                      |    SALDO ANTERIOR              |    CARGO        |      ABONO        |    MOVIMIENTO DEL PERIODO     |         SALDO ACTUAL              |
+0004#STR0004#PTG#|  CODIGO                     |      D E S C R I P C I O N                      |    SALDO ANTERIOR              |    CARGO        |      ABONO        |    MOVIMIENTO DEL PERIODO     |         SALDO ACTUAL              |
+0005#STR0005#ALL#|  CODIGO               |     D E S C R I P C I O N      |   SALDO ANTERIOR  |      DEBITO    |      CREDITO   |   SALDO ACTUAL    |
+0005#STR0005#ANG#|  CODIGO               |   D E S C R I P C I O N        |   SALDO ANTERIOR  |      DEBITO    |      CREDITO   |   SALDO ACTUAL    |
+0005#STR0005#EQU#|  CODIGO               |   D E S C R I P C I O N        |   SALDO ANTERIOR  |      DEBITO    |      CREDITO   |   SALDO ACTUAL    |
+0005#STR0005#HAI#|  CODIGO               |   D E S C R I P C I O N        |   SALDO ANTERIOR  |      DEBITO    |      CREDITO   |   SALDO ACTUAL    |
+0005#STR0005#MEX#|  CODIGO               |   D E S C R I P C I O N        |   SALDO ANTERIOR  |      CARGO     |      ABONO     |   SALDO ACTUAL    |
+0005#STR0005#PTG#|  CODIGO               |   D E S C R I P C I O N        |   SALDO ANTERIOR  |      DEBITO    |      CREDITO   |   SALDO ACTUAL    |
+0006#STR0006#ALL#DE BALANCE PARCIAL ANALITICO
+0007#STR0007#ALL#DE BALANCE PARCIAL SINTETICO DE 
+0008#STR0008#ALL#DE BALANCE PARCIAL 
+0009#STR0009#ALL# DE 
+0010#STR0010#ALL# A  
+0011#STR0011#ALL# EN 
+0012#STR0012#ALL# (PRESUPUESTADO)
+0013#STR0013#ALL# (DE GESTION)
+0014#STR0014#ALL#Creando archivo temporal...
+0015#STR0015#ALL#A Rayas
+0016#STR0016#ALL#Administracion
+0017#STR0017#ALL#***** ANULADO POR EL OPERADOR *****
+0018#STR0018#ALL#TOTALES DE PERIODO:
+0019#STR0019#ALL#TOTALES GRUPO   (
+0020#STR0020#ALL#TOTALES DE
+0021#STR0021#ALL# Cuenta 
+0022#STR0022#ALL#DIV.
+0023#STR0023#ALL#Por favor rellenar los parametros Grupos Ingresos/Gastos y Fecha Sld Ant. Ingresos/Gastos o 
+0024#STR0024#ALL#dejar el parametro Ignora Sl Ant.Ing/Gas = No 
+0025#STR0025#ALL#DESCRIPC.
+0026#STR0026#ALL#MOV. PERIODO
+0027#STR0027#ALL#CODIGO
+0028#STR0028#ALL#SALDO ANTERIOR
+0029#STR0029#ALL#DEBITO
+0029#STR0029#ANG#DEBITO
+0029#STR0029#EQU#DEBITO
+0029#STR0029#HAI#DEBITO
+0029#STR0029#MEX#CARGO
+0029#STR0029#PTG#DEBITO
+0030#STR0030#ALL#CREDITO
+0030#STR0030#ANG#CREDITO
+0030#STR0030#EQU#CREDITO
+0030#STR0030#HAI#CREDITO
+0030#STR0030#MEX#ABONO
+0030#STR0030#PTG#CREDITO
+0031#STR0031#ALL#Mov. Periodo
+0032#STR0032#ALL#SALDO ACT. 

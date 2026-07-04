@@ -1,0 +1,17 @@
+0001#STR0001#ALL#QUESTIONARIOS
+0002#STR0002#ALL#Este programa ira imprimir Questionarios
+0003#STR0003#ALL#de acordo com os parametros definidos pelo usuario.
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#Selecionando Registros...
+0007#STR0007#ALL#QUEST            REV TITULO
+0008#STR0008#ALL#CANCELADO PELO OPERADOR
+0009#STR0009#ALL#DOCUMENTO        REV
+0010#STR0010#ALL#Pontos:
+0011#STR0011#ALL#Total de Pontos:
+0012#STR0012#ALL#Pontuacao Minima:
+0013#STR0013#ALL#Imprime Respostas ?
+0014#STR0014#ALL#Todas
+0015#STR0015#ALL#Apenas Corretas
+0016#STR0016#ALL#Pergunta
+0017#STR0017#ALL#Resposta

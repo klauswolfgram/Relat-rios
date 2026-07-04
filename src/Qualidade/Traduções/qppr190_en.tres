@@ -1,0 +1,55 @@
+0001#STR0001#ALL#Material Results
+0002#STR0002#ALL#Generating view. Please, wait...
+0003#STR0003#ALL#Production Part Approval
+0004#STR0004#ALL#Material Tests Results
+0005#STR0005#ALL#PPAP No.
+0006#STR0006#ALL#Page :
+0007#STR0007#ALL#Vendor
+0008#STR0008#ALL#Part Number(Customer)
+0009#STR0009#ALL#Design Revision/Date
+0010#STR0010#ALL#Laboratory
+0011#STR0011#ALL#Part Number/Rev.(Vendor)
+0012#STR0012#ALL#Part Name
+0013#STR0013#ALL#Featur.No.
+0014#STR0014#ALL#Type of
+0015#STR0015#ALL# Test 
+0016#STR0016#ALL#Specification Number of
+0017#STR0017#ALL#Material/Date/Specification
+0018#STR0018#ALL#Featur.
+0019#STR0019#ALL# Spec. 
+0020#STR0020#ALL#Test Results
+0021#STR0021#ALL#OK
+0022#STR0022#ALL#No
+0023#STR0023#ALL#Vendor Signature
+0024#STR0024#ALL#Date
+0025#STR0025#ALL#Customer
+0026#STR0026#ALL#Customer Signature
+0027#STR0027#ALL#Sequence:  
+0028#STR0028#ALL#Print Feature Code/Description?     
+0029#STR0029#ALL#Feature
+0030#STR0030#ALL#Feature Code/Description
+0031#STR0031#ALL#Sales Rep.Code
+0032#STR0032#ALL#Vendor Material
+0033#STR0033#ALL#Project Modification Level
+0034#STR0034#ALL#Documents Modified by Engineering
+0035#STR0035#ALL#Design Date 
+0036#STR0036#ALL# No.
+0037#STR0037#ALL#Featur.
+0038#STR0038#ALL#Specification
+0039#STR0039#ALL#    Limits   
+0040#STR0040#ALL# Freq. 
+0041#STR0041#ALL# Test  
+0042#STR0042#ALL#  QTTY  
+0043#STR0043#ALL#  Test 
+0044#STR0044#ALL#Conformance declarations not accepted for any test result. 
+0045#STR0045#ALL#Limit
+0046#STR0046#ALL#Signature 
+0047#STR0047#ALL#Function
+0048#STR0048#ALL# Date
+0049#STR0049#ALL#Test  
+0050#STR0050#ALL#Unable to generate the Material Test Report because there are some fields that must be                  
+0051#STR0051#ALL#created according to the PPAP technical newsletter - Customization of the PPAP Environment, 4th edition. If 
+0052#STR0052#ALL#you want to use this report for the 3rd edition, please check parameter MV_QPPAPED.  
+0053#STR0053#ALL#Specification Nbr./Revision/Date
+0054#STR0054#ALL#Attention
+0055#STR0055#ALL#No data to print. Please, check the parameters.          

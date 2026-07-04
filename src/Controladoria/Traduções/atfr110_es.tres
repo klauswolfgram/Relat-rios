@@ -1,0 +1,26 @@
+0001#STR0001#ALL#Este programa emitirá una lista de las adquisiciones 
+0002#STR0002#ALL#efectuadas dentro de un período.
+0003#STR0003#ALL#Lista de bienes adquiridos 
+0004#STR0004#ALL#Cuenta
+0005#STR0005#ALL#C Costo
+0006#STR0006#ALL#Fcha de adquisición
+0007#STR0007#ALL#Base       Ítem Descripción                              Adquis.    Cantidad     Factura    Placa    Grupo    C. Costo  Dirección
+0008#STR0008#ALL#                In.Depr.  Ts.Depr.       Valor original    Deprec. Acumulada   Correc. Acumulada   Fecha de la baja
+0009#STR0009#ALL# por 
+0010#STR0010#ALL# en 
+0011#STR0011#ALL# entre 
+0012#STR0012#ALL# a 
+0013#STR0013#ALL#ANULADO POR EL OPERADOR
+0014#STR0014#ALL#PROVEEDOR 
+0015#STR0015#ALL#Cuenta del bien      Cuenta corrección    Cta.Gast.Depr.       Cta.Depr.Acum.       Cta.Corr.Depr. 
+0016#STR0016#ALL#TOTAL : 
+0017#STR0017#ALL#TOTAL GENERAL: 
+0018#STR0018#ALL#A Rayas
+0019#STR0019#ALL#Administrac. 
+0020#STR0020#ALL#Seleccionando registros...
+0021#STR0021#ALL#Datos del bien
+0022#STR0022#ALL#Total de la cuenta
+0023#STR0023#ALL#Total del centro de costo
+0024#STR0024#ALL#Total de la fecha de adquisición
+0025#STR0025#ALL#Total de la sucursal:
+0026#STR0026#ALL#Total de la empresa:

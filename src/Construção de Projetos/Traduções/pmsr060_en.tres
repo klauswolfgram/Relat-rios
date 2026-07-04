@@ -1,0 +1,30 @@
+0001#STR0001#ALL#This report will print the projects list, its structure and details as the start date, end date, duration, etc . as the required parameters.
+0002#STR0002#ALL#Project Structure
+0003#STR0003#ALL#Z.Form
+0004#STR0004#ALL#Management
+0005#STR0005#ALL#TP.  CODE          DESCRIPTION                                                            UM |     EST.QTT.      DURATION START DT. END DT.      %PROG   |      EXEC. QTT.    DURATION START DT.  END.DT.     EXEC.%
+0006#STR0006#ALL#Project : 
+0007#STR0007#ALL#Customer : 
+0008#STR0008#ALL#Version : 
+0009#STR0009#ALL# Date : 
+0010#STR0010#ALL#Task
+0011#STR0011#ALL#TP.  TASK CODE                                                                            UM |     ESTIM. QTY.   LENGTH   INIT.DT.  FINAL DT     %PROG   |      ACTUAL QTY.   LENGTH   INIT.DT.   FINAL DT    %ACCO.
+0012#STR0012#ALL#TP.  TASK DESCRIPTION                                                                     UM |     ESTIM. QTY.   LENGTH   INIT.DT.  FINAL DT     %PROG   |      ACTUAL QTY.   LENGTH   INIT.DT.   FINAL DT    %ACCO.
+0013#STR0013#ALL#Forecast
+0014#STR0014#ALL#Actual
+0015#STR0015#ALL#Prog.
+0016#STR0016#ALL#Actu.
+0017#STR0017#ALL#Quantity
+0018#STR0018#ALL#WBS
+0019#STR0019#ALL#Tp.
+0020#STR0020#ALL#Code
+0021#STR0021#ALL#Descript.
+0022#STR0022#ALL#MU
+0023#STR0023#ALL#Duration
+0024#STR0024#ALL#Ini.Dt.
+0025#STR0025#ALL#Fin.Dt.
+0026#STR0026#ALL#                             EDT DATA/TASK                                                   |                         FORECAST                          |                            ACTUAL                        
+0027#STR0027#ALL#Project
+0028#STR0028#ALL#Task  
+0029#STR0029#ALL#WBS
+0030#STR0030#ALL#*** CANCELLED BY THE USER  ***

@@ -1,0 +1,33 @@
+0001#STR0001#ALL#Estado demostrativo de depreciación de bienes con control de prorrateo
+0002#STR0002#ALL#Disponible solamente en la versión TReport.
+0003#STR0003#ALL#Función disponible solamente para entorno TopConnect
+0004#STR0004#ALL#Sucursal
+0005#STR0005#ALL#Código del bien
+0006#STR0006#ALL#Ítem
+0007#STR0007#ALL#Descripción
+0008#STR0008#ALL#Tipo
+0009#STR0009#ALL#Tipo de saldo
+0010#STR0010#ALL#Valor original
+0011#STR0011#ALL#Fecha
+0012#STR0012#ALL#Valor Deprec.
+0013#STR0013#ALL#Valor prorrateado
+0014#STR0014#ALL#Tipo de activo
+0015#STR0015#ALL#Deprec. Acumulada
+0016#STR0016#ALL#Ente
+0017#STR0017#ALL#Cuenta Contab.
+0018#STR0018#ALL#Centro de costo
+0019#STR0019#ALL#Ítem de la cuenta
+0020#STR0020#ALL#Clase de valor
+0021#STR0021#ALL#Ente Contab. 
+0022#STR0022#ALL#Total del bien 
+0023#STR0023#ALL# Ítem 
+0024#STR0024#ALL# y Tipo 
+0025#STR0025#ALL#FISCAL
+0026#STR0026#ALL#DE GESTIÓN
+0027#STR0027#ALL#INCENTIVADO
+0028#STR0028#ALL#Total de la sucursal: 
+0029#STR0029#ALL#TOTAL GENERAL
+0030#STR0030#ALL#Total prorrateado del ente: 
+0031#STR0031#ALL#Para utilizar este informe, es necesario que los procesos de depreciación de bienes estén implementados con un control de prorrateo. Por favor, actualice el entorno.
+0032#STR0032#ALL#Total
+0033#STR0033#ALL#Algunos entes contables adicionales se crearon en el Activo fijo, solamente se imprimirán los entes disponibles.

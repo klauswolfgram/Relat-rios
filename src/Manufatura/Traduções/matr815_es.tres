@@ -1,0 +1,25 @@
+0001#STR0001#ALL#Detalle de la Carga Maquina 
+0002#STR0002#ALL# Este programa imprime el detalle de la Carga/Maquina
+0003#STR0003#ALL# El valor referido al tiempo de duracion esta convertido de
+0004#STR0004#ALL# acuerdo con el parametro MV_TPHR, (C) centesimal, (N) normal.
+0005#STR0005#ALL#Por OP
+0006#STR0006#ALL#Por Recurso
+0007#STR0007#ALL#Por Fecha Inicio
+0008#STR0008#ALL#A Rayas
+0009#STR0009#ALL#Administracion
+0010#STR0010#ALL#DOMINGO
+0011#STR0011#ALL#LUNES
+0012#STR0012#ALL#MARTES
+0013#STR0013#ALL#MIERCOLES
+0014#STR0014#ALL#JUEVES
+0015#STR0015#ALL#VIERNES
+0016#STR0016#ALL#SABADO
+0017#STR0017#ALL#O.P.          PRODUCTO        DESCRIPCION                  CANTIDAD    RECURSO                     HERRAMIENTA           OPERACION               TIPO INICIO           ASIGNADO TERMINO         ASIGN.  DURAC.    TIEM. TP
+0018#STR0018#ALL#                                                                                                                                                 OPER FCHA                HORA FECHA               HORA           SETUP OP
+0019#STR0019#ALL#Seleccionando Registros...
+0020#STR0020#ALL#ANULADO POR EL OPERADOR
+0021#STR0021#ALL#Nombre Herram.
+0022#STR0022#ALL#Tp. Oper
+0023#STR0023#ALL#Durac.
+0024#STR0024#ALL#Setup
+0025#STR0025#ALL#Operac. asignadas Carga Maquina

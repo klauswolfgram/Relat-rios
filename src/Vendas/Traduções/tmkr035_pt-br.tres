@@ -1,0 +1,47 @@
+0001#STR0001#ALL#Emissão de Eventos de Marketing. 
+0002#STR0002#ALL#Este programa ira emitir uma relacao dos Eventos 
+0003#STR0003#ALL#de Marketing cadastrados no Call Center.
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#Cancelado pelo Operador.
+0007#STR0007#ALL#Evento        : 
+0008#STR0008#ALL#Descrição     : 
+0009#STR0009#ALL#Tema          : 
+0010#STR0010#ALL#Exposição     : 
+0011#STR0011#ALL#Feira 
+0012#STR0012#ALL#Palestra
+0013#STR0013#ALL#Seminário
+0014#STR0014#ALL#WorkShop
+0015#STR0015#ALL#Road Show
+0016#STR0016#ALL#Forum
+0017#STR0017#ALL#Gratuito      : 
+0018#STR0018#ALL#SIM
+0019#STR0019#ALL#NÃO
+0020#STR0020#ALL#Preço         : 
+0021#STR0021#ALL#Local         : 
+0022#STR0022#ALL#Endereço      : 
+0023#STR0023#ALL#Municipio     : 
+0024#STR0024#ALL#Estado        : 
+0025#STR0025#ALL#País          : 
+0026#STR0026#ALL#Telefone      : 
+0027#STR0027#ALL#Home Page     : 
+0028#STR0028#ALL#E-mail        : 
+0029#STR0029#ALL#Data  Inicio  : 
+0030#STR0030#ALL#Data Termino  : 
+0031#STR0031#ALL#Hora Inicio   : 
+0032#STR0032#ALL#Hora Termino  : 
+0033#STR0033#ALL#Estacionamento: 
+0034#STR0034#ALL# No local
+0035#STR0035#ALL# No local/Pago
+0036#STR0036#ALL# Convenio
+0037#STR0037#ALL# Gratuito
+0038#STR0038#ALL# Convenio/Manobrista
+0039#STR0039#ALL# Gratuito c/ Manobrista
+0040#STR0040#ALL#Grade                      Tema                                      Hr.Ini Hr.Fim Data      Sala         Palestrante                     Empresa
+0041#STR0041#ALL#Nao Existem dados a serem impressos para este relatorio com os parametros informados
+0042#STR0042#ALL#Da Campanha
+0043#STR0043#ALL#Informe a Campanha inicial para seleção.
+0044#STR0044#ALL#Ate Campanha
+0045#STR0045#ALL#Informe a Campanha final para seleção.
+0046#STR0046#ALL#Cadastro de Eventos
+0047#STR0047#ALL#Grade de Eventos

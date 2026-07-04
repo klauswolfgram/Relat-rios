@@ -1,0 +1,33 @@
+0001#STR0001#ALL#Costo Medio vs. Costo en Partes
+0002#STR0002#ALL#Este programa imprimira una comparacion entre el   
+0003#STR0003#ALL#Costo Medio versus Costo en Partes.
+0004#STR0004#ALL#A Rayas
+0005#STR0005#ALL#Administrac.
+0006#STR0006#ALL#COSTO
+0007#STR0007#ALL#PARTES
+0008#STR0008#ALL#ANULADO POR EL OPERADOR
+0009#STR0009#ALL#ANULADO
+0010#STR0010#ALL#Atencion
+0011#STR0011#ALL#Actualizar patch del programa
+0012#STR0012#ALL#* GRUPO : 
+0013#STR0013#ALL#Productos
+0014#STR0014#ALL# (Grupo)
+0015#STR0015#ALL#El costo en partes no esta configurado correctamente. Por favor verifique la existencia de los campos de costo en partes
+0016#STR0016#ALL#ATENCION: Los valores impresos en este informe, se basan en los calculos realizados por medio de
+0017#STR0017#ALL#la rutina de recalculo del costo medio, por este motivo se recomienda que el cliente haya
+0018#STR0018#ALL#ejecutado la rutina de recalculo del costo medio por lo menos una vez para el movimiento		
+0019#STR0019#ALL#que se imprimira.
+0020#STR0020#ALL#No existe regla definida para utilizacion del costo en partes. Por favor verifique si el punto de entrada MA330CP esta compilado en su entorno.
+0021#STR0021#ALL#PROD.
+0022#STR0022#ALL#UM	
+0023#STR0023#ALL#TIPO
+0024#STR0024#ALL#PARTE
+0025#STR0025#ALL#COSTO
+0026#STR0026#ALL#TOTAL
+0027#STR0027#ALL#C.PARTES
+0028#STR0028#ALL#MEDIO
+0029#STR0029#ALL#COSTO EN	
+0030#STR0030#ALL#AMZ
+0031#STR0031#ALL#CANT.
+0032#STR0032#ALL# ,en 
+0033#STR0033#ALL#TOTAL GRAL. :

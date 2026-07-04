@@ -1,0 +1,25 @@
+0001#STR0001#ALL#Relação De Ligações Técnicas
+0002#STR0002#ALL#   este programa irá imprimir a relação de ligações técnicas cofacturaorme
+0003#STR0003#ALL#Os parâmetros solicitados.
+0005#STR0005#ALL#Ligação
+0007#STR0007#ALL#Emissão
+0008#STR0008#ALL#Código de barras
+0009#STR0009#ALL#Administração
+0010#STR0010#ALL#Número      Data       Situação   Classificação  Cliente   Contacto              Tempo Artigo         Nr.série             Ocorrência/problema                   Orç./os  Comentário Da Ocorrência/problema
+0011#STR0011#ALL#Ligação     Emissão    Da Ligação Da Ligação                                    (min) Equipamento
+0012#STR0012#ALL# [ nr.ligação ] 
+0013#STR0013#ALL# [ cliente ] 
+0014#STR0014#ALL# [ emissão ] 
+0015#STR0015#ALL#Cancelado Pelo Operador
+0016#STR0016#ALL#Total do cliente: 
+0017#STR0017#ALL#Nr. ligações:
+0018#STR0018#ALL#Média:
+0019#STR0019#ALL#Total do dia: 
+0020#STR0020#ALL#Nr. ligações:
+0021#STR0021#ALL#Média:
+0022#STR0022#ALL#Total Crial:
+0023#STR0023#ALL#Nr. ligações:
+0024#STR0024#ALL#Média:
+0025#STR0025#ALL#Tempo(min)
+0026#STR0026#ALL#Comentário Da Ocorr/problema
+0028#STR0028#ALL#Ligações

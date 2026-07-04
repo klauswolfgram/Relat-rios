@@ -1,0 +1,51 @@
+0001#STR0001#ALL#Selecionando Registros...
+0002#STR0002#ALL#De Aspecto ?
+0003#STR0003#ALL#Até Aspecto ?
+0004#STR0004#ALL#De Impacto ?
+0005#STR0005#ALL#Até Impacto ?
+0006#STR0006#ALL#De Nível Estrutura ?
+0007#STR0007#ALL#Ate Nível Estrutura ?
+0008#STR0008#ALL#De Data ?
+0009#STR0009#ALL#Até Data ?
+0010#STR0010#ALL#Apresenta Ord. Hist. ?
+0011#STR0011#ALL#Sim
+0012#STR0012#ALL#Não
+0013#STR0013#ALL#Histórico das Avaliações de Aspectos/Impactos
+0014#STR0014#ALL#Ordem
+0015#STR0015#ALL#Cod. Histórico
+0016#STR0016#ALL#Dt. Desemp.
+0017#STR0017#ALL#Código
+0018#STR0018#ALL#Nível Estrut.
+0019#STR0019#ALL#Plano de Ação
+0020#STR0020#ALL#Plano Emerg.
+0021#STR0021#ALL#Significância
+0022#STR0022#ALL#Aspecto
+0023#STR0023#ALL#Avaliação
+0024#STR0024#ALL#Opção
+0025#STR0025#ALL#Impacto
+0026#STR0026#ALL#Opção
+0027#STR0027#ALL#Zebrado
+0028#STR0028#ALL#Administração
+0029#STR0029#ALL#Processando Arquivo...
+0030#STR0030#ALL#Data Desemp.
+0031#STR0031#ALL#Nível Estrutura
+0032#STR0032#ALL#Tipo de Relatório ? 
+0033#STR0033#ALL#Padrão
+0034#STR0034#ALL#Planillha
+0035#STR0035#ALL#Revisão
+0036#STR0036#ALL#Informe se o relatório será impresso formato padrão ou será gerado planilha.
+0037#STR0037#ALL#Informe a revisão a ser impressa, caso a revisão seja informada os paramêtros data de data até serão desconsiderados 
+0038#STR0038#ALL#Informe a revisão a ser impressa, caso a revisão seja informada os paramêtros 'De Data ?' e 'Até Data ?' serão desconsiderados 
+0039#STR0039#ALL#Pontuação
+0040#STR0040#ALL#Significância
+0041#STR0041#ALL#Requisitos Legais Associados
+0042#STR0042#ALL#Monitoramento
+0043#STR0043#ALL#OBJETIVOS E METAS
+0044#STR0044#ALL#PLANO EMERGENCIAL
+0045#STR0045#ALL#PLANO DE AÇÃO
+0046#STR0046#ALL#Controle ou Monitoramento Aplicado
+0047#STR0047#ALL#Revisão.:
+0048#STR0048#ALL#LEVANTAMENTO DE ASPECTOS E IMPACTOS
+0049#STR0049#ALL#MsExcel não instalado!
+0050#STR0050#ALL#Não há nada para imprimir no relatório.
+0051#STR0051#ALL#Controle Operacional ou Monitoramento

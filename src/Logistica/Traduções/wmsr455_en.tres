@@ -1,0 +1,10 @@
+0001#STR0001#ALL#Position Detailed of Stock per Address
+0002#STR0002#ALL#In this report, you can get the position of quantity per
+0003#STR0003#ALL#product/batch/address/status, allowing a perfect mapping
+0004#STR0004#ALL#of each address.
+0005#STR0005#ALL# Warehouse + Group + Product 
+0006#STR0006#ALL# Product + Warehouse 
+0007#STR0007#ALL#Products
+0008#STR0008#ALL#Product Total
+0009#STR0009#ALL#Addresses
+0010#STR0010#ALL#Available

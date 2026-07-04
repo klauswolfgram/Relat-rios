@@ -1,0 +1,61 @@
+0001#STR0001#ALL#Aguarde... A Seleccionar Agendas Para Impressão...
+0003#STR0003#ALL#Gn 
+0004#STR0004#ALL#Contacto: 
+0005#STR0005#ALL# periodicidade: 
+0008#STR0008#ALL# segto merc: 
+0009#STR0009#ALL#  ni: 
+0011#STR0011#ALL# cep: 
+0012#STR0012#ALL# área: 
+0013#STR0013#ALL#Telefone: 
+0014#STR0014#ALL# fax: 
+0015#STR0015#ALL#Cnpj 
+0016#STR0016#ALL#Cpf 
+0021#STR0021#ALL#Contactos                       Gi  Cargo            Perfil  Assunto               Ddd   Celular         Dt.aniv.
+0022#STR0022#ALL#Quadro Societario
+0023#STR0023#ALL#Rec bruta  med.mes/mil  media ano/mil           
+0026#STR0026#ALL#Filiais
+0027#STR0027#ALL#Empresas Coligadas
+0028#STR0028#ALL#Bancos que trabalha
+0029#STR0029#ALL#    ag: 
+0030#STR0030#ALL#Frota Veículos Marca/mod Categoria       Operação        Fáb./mod.  Dt.aquis  Term.pg      Km/mês    Km/l
+0031#STR0031#ALL#Equipamentos  Marca/mod  Categoria                       Fáb./mod.  Dt.aquis  Term.pg      Km/mês    Km/l
+0032#STR0032#ALL# Qtd.
+0035#STR0035#ALL#Qtd Total:
+0036#STR0036#ALL#Frota De Terceiros
+0037#STR0037#ALL#Qtd de veículos: 
+0038#STR0038#ALL#Participação facturação: 
+0039#STR0039#ALL#Participação volume carga: 
+0040#STR0040#ALL#Adm Consórcio         Marca/modelo                Grupo   Cota   Contempl             Crédito   Encerramento
+0041#STR0041#ALL#Seguros  Marca/modelo     Fáb./mod.  Seguradora            Correctora             Dt.venct  Tipo Seguro
+0042#STR0042#ALL#Pós-venda
+0043#STR0043#ALL# os: 
+0048#STR0048#ALL# Veículos
+0049#STR0049#ALL#Facturação:     
+0050#STR0050#ALL#Balcão  peças 
+0051#STR0051#ALL#Oficina peças 
+0052#STR0052#ALL#Oficina srvcs 
+0053#STR0053#ALL# (últ.30dias) 
+0054#STR0054#ALL# (últ.365dias)
+0055#STR0055#ALL#Financeiro     Validade             Limite               Saldo Em Aberto            Valor Vencido           Valor A Vencer
+0056#STR0056#ALL#Outros Dados
+0057#STR0057#ALL#Oficina própria 
+0058#STR0058#ALL#Qtd mecânico 
+0059#STR0059#ALL#Serviço terceiro 
+0060#STR0060#ALL#Vlr Médio/mês
+0061#STR0061#ALL#Principais Fornecedores    Srvcs    Média/mês                                Principais Fornecedores    Peças    Média/mês
+0062#STR0062#ALL#Estratégia: 
+0063#STR0063#ALL#últimos contactos realizados com o cliente: 
+0064#STR0064#ALL#Abordagem: 
+0065#STR0065#ALL#( )visita ao cliente    
+0066#STR0066#ALL#( )telemarketing    
+0067#STR0067#ALL#( )concessionária    
+0068#STR0068#ALL#( )não realizada    
+0070#STR0070#ALL#Pref. de pagt: 
+0071#STR0071#ALL#   próxima visita prevista para 
+0072#STR0072#ALL#Atenção...
+0075#STR0075#ALL#Aguarde... A Seleccionar Dados Dos Clientes...
+0084#STR0084#ALL#I.e.: 
+0085#STR0085#ALL# i.m.: 
+0086#STR0086#ALL# i.r.: 
+0088#STR0088#ALL#Ficha Modular - Impressão de Contactos CEV referente a agenda dos vendedores.
+0089#STR0089#ALL#Código de Barras

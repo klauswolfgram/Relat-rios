@@ -1,0 +1,23 @@
+0001#STR0001#ALL#Relação do Quadro de Empregados de uma Empresa.
+0002#STR0002#ALL#Será impresso de acordo com os parâmetros solicitados pelo
+0003#STR0003#ALL#Utilizador.
+0004#STR0004#ALL#Centro De Custo
+0005#STR0005#ALL#Código de barras
+0006#STR0006#ALL#Administração
+0007#STR0007#ALL#     Ano/mês      Val. Actual    Val. Previsto  Val. Actual+encarg.  Val. Prév.+encarg.  Nº Actual  Nº Previsto
+0008#STR0008#ALL# Quadro de Empregados 
+0009#STR0009#ALL#Centro de custo: 
+0011#STR0011#ALL#  Ano/mês       Função                    Vlr Actual    Vlr Prev   Actual+encarg  Prev+encarg  Vl Aprov Qt Actual Qt Prev Qt Aprov
+0012#STR0012#ALL#Total do período: 
+0013#STR0013#ALL#Total do centro de custo: 
+0014#STR0014#ALL#Total Crial: 
+0015#STR0015#ALL#Quadro empregado por função
+0016#STR0016#ALL#Vl Actual+encargo
+0017#STR0017#ALL#Vl Prev.+encargo
+0018#STR0018#ALL#Total do período: 
+0019#STR0019#ALL#Registo De Quadro De Empregados
+0020#STR0020#ALL#Nr.actual
+0021#STR0021#ALL#Nr.previsto
+0022#STR0022#ALL#Este Programa Emite O Relatório De Quadro De Empregados
+0023#STR0023#ALL#Analítico
+0024#STR0024#ALL#Sintético

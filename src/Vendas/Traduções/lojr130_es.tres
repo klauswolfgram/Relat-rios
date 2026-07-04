@@ -1,0 +1,107 @@
+0001#STR0001#ALL#Emision de factura para comprobante fiscal
+0002#STR0002#ALL#Este programa tiene como finalidad emitir factura basado en un comprobante fiscal ya
+0003#STR0003#ALL#emitido en la Venta, segun el Decreto 4.373-N de 02/12/1998. Para eso, se
+0004#STR0004#ALL#usara el script de factura grabado en el parametro MV_SCRNOTA ( + GetMv ( MV_SCRNFCP ) + )
+0005#STR0005#ALL#Especial
+0006#STR0006#ALL#Administracion
+0007#STR0007#ALL#Factura
+0008#STR0008#ALL#No se puede generar una factura para un comprobante que ya pertenece a una factura global (
+0009#STR0009#ALL#Ya hay una factura (
+0010#STR0010#ALL#) generada para el comprobante 
+0011#STR0011#ALL# No se puede generar otra factura para el mismo comprobante
+0012#STR0012#ALL#Atencion
+0013#STR0013#ALL#Ya se genero una factura para este comprobante fiscal.
+0014#STR0014#ALL#Ok
+0015#STR0015#ALL#Digite el cliente en la Fact
+0016#STR0016#ALL#¿Cliente?
+0017#STR0017#ALL#Cliente no tiene RCF. No sera posible realizar la factura.
+0018#STR0018#ALL#Atenc.
+0019#STR0019#ALL#Código de cliente/tienda no existe en el archivo Clientes.
+0020#STR0020#ALL#Dig. la tienda en la Fact
+0021#STR0021#ALL#¿Tienda?
+0022#STR0022#ALL#La form. (F4_FORMULA) utiliz. en la TES (
+0023#STR0023#ALL#) de prod., informado en el param. MV_TESNOTA,
+0024#STR0024#ALL# debe tener el contenido 'S' o en blanco.
+0025#STR0025#ALL#El campo de Form. (F4_FORMULA) del archivo de TES (
+0026#STR0026#ALL# debe tener una form. registrada.
+0027#STR0027#ALL#El campo L.Fisc.ICMS(F4_LFICM) del arch. de la TES (
+0028#STR0028#ALL# debe ser diferente de 'N'.
+0029#STR0029#ALL#TES 
+0030#STR0030#ALL#, informado en el param. MV_TESNOTA, no esta registrado en la tabla de Tipos de Entrada y Salida.
+0031#STR0031#ALL#) de servicio, informado en el param. MV_LJNCUPS,
+0032#STR0032#ALL#El campo Calcula ISS(F4_ISS) del arch. de la TES(
+0033#STR0033#ALL# debe estar como 'S'.
+0034#STR0034#ALL#El campo L.Fisc. ISS(F4_LFISS) del arch. de la TES(
+0035#STR0035#ALL#, informado en el param. MV_LJNCUPS, no esta registrado en la tabla Tipos de Entrada y Salidas.
+0036#STR0036#ALL#Los parametros MV_TESNOTA y MV_LJNCUPS no estan rellenados correctamente.
+0037#STR0037#ALL#La configurac. de las TES de prod. y serv. no esta correcta. Verificar:
+0038#STR0038#ALL#Por favor, regularice las situaciones anteriores para proseguir en la emision de la factura sobre comprobante.
+0039#STR0039#ALL#Emision de Factura sobre Comprobante - Libro Fiscal OnLine
+0040#STR0040#ALL#Emision de Fact sobre Compr
+0041#STR0041#ALL#Buscar
+0042#STR0042#ALL#Procesar
+0043#STR0043#ALL#No existen registros para mostrarse con estos parametros.
+0044#STR0044#ALL#Gen. Fact sobre Compr.
+0045#STR0045#ALL#Revertir Fact sobre Compr
+0046#STR0046#ALL#Desea ejecutar realmente: 
+0047#STR0047#ALL#Espere...ejecutando proceso...
+0048#STR0048#ALL#Ningun Regist. seleccionado...
+0049#STR0049#ALL#¿Confirma la generacion del comprobante fiscal digital ?
+0050#STR0050#ALL# - ¿Desea revertir/borrar esta Factura sobre Cupon?
+0051#STR0051#ALL#Borrado concluido
+0052#STR0052#ALL#¡Factura sobre Cupon borrada con exito!
+0053#STR0053#ALL#Favor informar el cliente y la tienda referentes al numero de cupon fiscal: 
+0054#STR0054#ALL# Solamente es posible modificar el cliente y la tienda si el cupon fiscal fue generado para el cliente o tienda estandar. 
+0055#STR0055#ALL#Para el cliente
+0056#STR0056#ALL#Para la tienda
+0057#STR0057#ALL#No se permite la impresion de Factura para el cliente estandar
+0058#STR0058#ALL#No fue posible borrar la factura, pues el plazo definido para la anulacion fue de 
+0059#STR0059#ALL# hora(s).
+0060#STR0060#ALL#Desea imprimir la factura de venta
+0061#STR0061#ALL#Espere...Restaurando los registros.
+0062#STR0062#ALL#Se detectó que la estructura de la tabla MDL no está actualizada.
+0063#STR0063#ALL#La fecha del UPDLOJ31 debe ser superior ou igual a 
+0064#STR0064#ALL#. Solicite el paquete del llamado TURBD2.
+0065#STR0065#ALL#Ejecute el U_UPDLOJ31 para actualizar la estructura de la tabla.
+0066#STR0066#ALL#Reversión de factura sobre comprobante
+0067#STR0067#ALL#Seleccione las fecturas que se revertirán:
+0068#STR0068#ALL#Detalles
+0069#STR0069#ALL#Confirmar
+0070#STR0070#ALL#Sucursal
+0071#STR0071#ALL#Serie
+0072#STR0072#ALL#Numero factura
+0073#STR0073#ALL#Ctd. Comprobante
+0074#STR0074#ALL#Factura vs. Comprobante
+0075#STR0075#ALL#Comprobantes vinculados con la factura: 
+0076#STR0076#ALL# Serie: 
+0077#STR0077#ALL#Finalizar
+0078#STR0078#ALL#Número comprobante
+0079#STR0079#ALL#Emisión
+0080#STR0080#ALL#Mensaje NF (MV_LJMENNO):
+0081#STR0081#ALL#Informe el mensaje para la factura:
+0082#STR0082#ALL#Emisión de factura no permitida por legislación
+0083#STR0083#ALL#El parámetro MV_LJMENNO está activo, y para su funcionamiento es necesario el campo F2_MENNOTA de la tabla SF2 está configurado en el diccionario de datos.
+0084#STR0084#ALL#DANFE org.púb.- Hotelería
+0085#STR0085#ALL#No fue posible incluir el título por cobrar referente a DANFE para empresa pública. Error:
+0086#STR0086#ALL#No fue posible borrar el título por cobrar generado en la DANFE para empresa pública. Erro:
+0087#STR0087#ALL#Verifique el título por cobrar: 
+0088#STR0088#ALL#El Uso de CFDI y Tipo de Relación, aplicará para todos los Comprobantes que seleccione en la próxima pantalla.
+0089#STR0089#ALL#Aviso
+0090#STR0090#ALL#Está venta está registrada para el cliente/tienda:
+0091#STR0091#ALL#¡La siguiente impresión solo es para verificación!
+0092#STR0092#ALL#Es necesario transmitir la factura en la rutina e-Fact Sefaz (SPEDNFE).
+0093#STR0093#ALL#Documento
+0094#STR0094#ALL#Cliente
+0095#STR0095#ALL#Tienda
+0096#STR0096#ALL#Clase
+0097#STR0097#ALL#Estado/Prov/Reg
+0098#STR0098#ALL#Cond. Pago
+0099#STR0099#ALL#Valor Fact.
+0100#STR0100#ALL#¿Desea realizar la impresión para verificación?
+0101#STR0101#ALL#No se pudo borrar la factura, puesto que el plazo para la anulación del documento de salida es de
+0102#STR0102#ALL#horas. Según se configuró en el parámetro MV_SPEDEXC
+0103#STR0103#ALL#¡Factura fuera del plazo!
+0104#STR0104#BRA#Anulación factura sobre comprobante
+0105#STR0105#BRA#No fue posible Inutilizar / Anular la factura sobre comprobante.
+0106#STR0106#BRA#Motivo:
+0107#STR0107#ALL#Cliente no está activo.

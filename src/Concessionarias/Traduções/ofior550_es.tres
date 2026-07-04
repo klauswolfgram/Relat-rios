@@ -1,0 +1,33 @@
+0001#STR0001#ALL#El parametro MV_DOTMNA1 no esta definido en el diccionario de datos o su contenido es invalido. 
+0002#STR0002#ALL#A rayas
+0003#STR0003#ALL#Administracion
+0004#STR0004#ALL#Seleccionando registros...
+0005#STR0005#ALL#Total
+0006#STR0006#ALL#Mostrador Piezas  
+0007#STR0007#ALL#Taller       
+0008#STR0008#ALL#Vehiculos      
+0009#STR0009#ALL#Vehiculos Nuevos
+0010#STR0010#ALL#Todos         
+0011#STR0011#ALL#      T O T A L    G  R A L.    D E  V E N T A S           Ctd Fac   Valor Total
+0012#STR0012#ALL#    Depto: 
+0013#STR0013#ALL# Periodo: 
+0014#STR0014#ALL# a 
+0015#STR0015#ALL# DEPARTAMENTO   %VENTA   CTD.     VALOR TOTAL
+0016#STR0016#ALL#- Mostrador Piezas  
+0017#STR0017#ALL#- Taller       
+0018#STR0018#ALL#    - Piezas     
+0019#STR0019#ALL#    - Servicios  
+0020#STR0020#ALL#- Vehiculos      
+0021#STR0021#ALL#    - Nuevos     
+0022#STR0022#ALL#    - Usados    
+0023#STR0023#ALL#Sector 
+0024#STR0024#ALL# Region: 
+0025#STR0025#ALL#Region
+0026#STR0026#ALL#Sector: 
+0027#STR0027#ALL#Ciudad
+0028#STR0028#ALL#VEHICULOS - NUEVOS
+0029#STR0029#ALL#VEHICULOS - USADOS
+0030#STR0030#ALL#MOSTRADOR PIEZAS
+0031#STR0031#ALL#TALLER
+0032#STR0032#ALL#NACIONALES 
+0033#STR0033#ALL#IMPORTADOS

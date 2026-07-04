@@ -1,0 +1,23 @@
+0001#STR0001#EQU#Generando informe, espere......
+0002#STR0002#EQU#Comprobante de Renta Modelo 2
+0003#STR0003#EQU#cien
+0004#STR0004#EQU#mil
+0005#STR0005#EQU#millon
+0006#STR0006#EQU#Creando Archivo Temporario...
+0007#STR0007#EQU#Mes 
+0008#STR0008#EQU#% Tot
+0009#STR0009#EQU#Acumulado
+0010#STR0010#EQU#COMPROBANTE DE RENTA
+0011#STR0011#EQU# a 
+0012#STR0012#EQU# de 
+0013#STR0013#EQU#Periodo
+0014#STR0014#EQU# % 
+0015#STR0015#EQU#Responsables....
+0016#STR0016#EQU#Este programa imprimira el Comprobante de Renta  
+0017#STR0017#EQU#de acuerdo con los parametros informados por el usuario. 
+0018#STR0018#EQU#Detalle
+0019#STR0019#EQU#Cuenta
+0020#STR0020#EQU#lOs estados contables obligatoriamente deben tener un plan de gestion asociado al libro. ¡Verifique la configuracion de libros seleccionada !
+0021#STR0021#EQU#Cuenta
+0022#STR0022#EQU#Cuenta Sup.
+0023#STR0023#EQU#Sld. Ant.

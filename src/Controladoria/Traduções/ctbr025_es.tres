@@ -1,0 +1,7 @@
+0001#STR0001#ALL#Plan referencial
+0002#STR0002#ALL#Este programa va a imprimir el archivo de plan de cuentas referencial y las cuentas del plan estandar asociadas a ella.
+0003#STR0003#ALL#Cuentas
+0004#STR0004#ALL#Sintetica
+0005#STR0005#ALL#Analitica
+0006#STR0006#ALL#Funcion disponible solamente para que TReport verifique parametro MV_TREPORT
+0007#STR0007#ALL#Descripcion de cuenta

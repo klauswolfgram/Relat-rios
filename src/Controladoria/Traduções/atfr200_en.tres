@@ -1,0 +1,29 @@
+0001#STR0001#ALL#This program will print a list of Assets thar were 
+0002#STR0002#ALL#already completely depreciated per percentage
+0003#STR0003#ALL#Depreciated Assets by Percentage
+0004#STR0004#ALL#Depreciated Balances per Asset
+0005#STR0005#ALL#Code    Descript.
+0006#STR0006#ALL#Code       Item Descript.
+0007#STR0007#ALL#CANCELLED BY THE OPERATOR  
+0008#STR0008#ALL#RATE TOTALS:    
+0009#STR0009#ALL#GRAND T O T A L S
+0010#STR0010#ALL#                                  Accumul.Correction    Accumul.Depr    Accum.Depr.Corr.     Enlargem.Value
+0011#STR0011#ALL#Good Base Code    
+0012#STR0012#ALL#Acct.
+0013#STR0013#ALL#Cost Center    
+0014#STR0014#ALL#Acctg. Item 
+0015#STR0015#ALL#Value Class    
+0016#STR0016#ALL#Total
+0017#STR0017#ALL#Acct.: 
+0018#STR0018#ALL#Cost C.: 
+0019#STR0019#ALL#Item: 
+0020#STR0020#ALL#Value Cl. 
+0021#STR0021#ALL#Code
+0022#STR0022#ALL#Item
+0023#STR0023#ALL#Type
+0024#STR0024#ALL#Branch Code
+0025#STR0025#ALL#Company
+0026#STR0026#ALL#Business Unit
+0027#STR0027#ALL#Branch
+0028#STR0028#ALL#Please wait...
+0029#STR0029#ALL#Branches selected for the report

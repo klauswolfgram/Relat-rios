@@ -1,0 +1,32 @@
+0001#STR0001#ALL#Relacao de Utilizacao mensal da Frota
+0002#STR0002#ALL#Emite Relacao de Utilizacao mensal da Frota
+0003#STR0003#ALL#conforme os parametros informados
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#SelecionAndo Registros...
+0007#STR0007#ALL#Selecionando Registro no DTQ...
+0008#STR0008#ALL#                                                        *-------------------PESO-----------------*  MARGEM DE     APROVEIT.   KM
+0009#STR0009#ALL#VEICULO   PLACA       CAPAC. VIAGEM QTDE.DOC. QTDE.VOL.         REAL       CUBADO          COBRADO  APROVEIT.     DE PESO   RODADA
+0010#STR0010#ALL#TIPO DE VEICULO: 
+0011#STR0011#ALL#FROTA: 
+0012#STR0012#ALL#CANCELADO PELO OPERADOR
+0013#STR0013#ALL#TOTAL DA FROTA ===> 
+0014#STR0014#ALL#TOTAL TIPO VEICULO ===> 
+0015#STR0015#ALL#TOTAL GERAL ===> 
+0016#STR0016#ALL# * = Veiculos com Reboque auxiliar 
+0017#STR0017#ALL#FROTA: 
+0018#STR0018#ALL#Relacao de Utilizacao mensal da Frota
+0019#STR0019#ALL#Emite Relacao de Utilizacao mensal da Frota conforme os parametros informados
+0020#STR0020#ALL#Frota + Tipo Veículo + Veículo
+0021#STR0021#ALL#Frota
+0022#STR0022#ALL#Tipo Veículo
+0023#STR0023#ALL#Veículo
+0024#STR0024#ALL#Qtde Viag.
+0025#STR0025#ALL#Qtde Docto
+0026#STR0026#ALL#Margem Aproveit.
+0027#STR0027#ALL#Aproveit. Peso
+0028#STR0028#ALL#KM Rodada
+0029#STR0029#ALL#Total Frota
+0030#STR0030#ALL#Total Tipo Veículo
+0031#STR0031#ALL#Legenda
+0032#STR0032#ALL#* = Veículos com Reboque Auxiliar

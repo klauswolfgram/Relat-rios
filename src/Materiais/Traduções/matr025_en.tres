@@ -1,0 +1,27 @@
+0001#STR0001#ALL#Report of Quotation suggestions    
+0002#STR0002#ALL#This report will print a list of Suggestions for 
+0003#STR0003#ALL#Sales, according to the selected parameters.    
+0004#STR0004#ALL#Z.Form 
+0005#STR0005#ALL#Management   
+0006#STR0006#ALL#PRODUCT                                         GENERATE          COMPONENT 
+0007#STR0007#ALL#CODE            DESCRIPT.                       SO  PO  PO.IT ALL.IT CODE            DESCRIPT.                            QUANTITY  
+0008#STR0008#ALL#CANCELLED BY THE OPERATOR
+0009#STR0009#ALL#Yes
+0010#STR0010#ALL#No 
+0011#STR0011#ALL#List of quotations suggestions     
+0012#STR0012#ALL#This report will print the list of suggestions     
+0013#STR0013#ALL#of sales according to the parameters requested.    
+0014#STR0014#ALL#Descript.
+0015#STR0015#ALL#Gener.PV
+0016#STR0016#ALL#Gener.PO
+0017#STR0017#ALL#Gener.PO.IT
+0018#STR0018#ALL#Com
+0019#STR0019#ALL#Quotation suggestions  
+0020#STR0020#ALL#CODE
+0021#STR0021#ALL#DESCRIPTION
+0022#STR0022#ALL#PV
+0023#STR0023#ALL#PO 
+0024#STR0024#ALL#OP.IT
+0025#STR0025#ALL#COMP
+0026#STR0026#ALL#IT
+0027#STR0027#ALL#AMOUNT

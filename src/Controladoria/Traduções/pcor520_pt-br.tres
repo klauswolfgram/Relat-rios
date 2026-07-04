@@ -1,0 +1,59 @@
+0001#STR0001#ALL#Cubos Comparativos - Demonstrativo de Saldos por Periodo
+0002#STR0002#ALL#Codigo
+0003#STR0003#ALL#Descricao
+0004#STR0004#ALL#Movimentos
+0005#STR0005#ALL#Saldo Inicial (A1): 
+0006#STR0006#ALL#Saldo Inicial (A2): 
+0007#STR0007#ALL#Diferenca (A1-A2):
+0008#STR0008#ALL#Dif. (A2/A1 %):
+0009#STR0009#ALL#Mov.Credito (C1):
+0010#STR0010#ALL#Mov.Credito (C2):
+0011#STR0011#ALL#Diferenca (C1-C2):
+0012#STR0012#ALL#Dif. (C2/C1 %):
+0013#STR0013#ALL#Mov.Debito (D1)
+0014#STR0014#ALL#Mov.Debito (D2)
+0015#STR0015#ALL#Diferenca (D1-D2):
+0016#STR0016#ALL#Dif. (D2/D1 %):
+0017#STR0017#ALL#Res.Mov.(C1 - D1):
+0018#STR0018#ALL#Res.Mov.(C2 - D2):
+0019#STR0019#ALL#Diferenca Res.:
+0020#STR0020#ALL#Dif. Res. (%):
+0021#STR0021#ALL#COMPARATIVO ENTRE A CONFIGURAÇÃO: 		
+0022#STR0022#ALL# E A CONFIGURAÇÃO: 
+0023#STR0023#ALL#Impressao cancelada pelo operador...
+0024#STR0024#ALL#Este relatorio ira imprimir o Cubos Comparativos - Demonstrativo de Saldos por Periodo de acordo com os parâmetros solicitados pelo usuário. Para mais informações sobre este relatorio consulte o Help do Programa ( F1 ).
+0025#STR0025#ALL#Comparativo entre configurações
+0026#STR0026#ALL#Movimentos
+0027#STR0027#ALL#Semanal
+0028#STR0028#ALL#Quinzenal
+0029#STR0029#ALL#Mensal
+0030#STR0030#ALL#Bimestral
+0031#STR0031#ALL#Semestral
+0032#STR0032#ALL#Anual
+0033#STR0033#ALL#Diario
+0034#STR0034#ALL#Trimestral
+0035#STR0035#ALL#Codigo Cubo Gerencial
+0036#STR0036#ALL#Periodo de
+0037#STR0037#ALL#Qual Moeda
+0038#STR0038#ALL#Moeda 1
+0039#STR0039#ALL#Moeda 2
+0040#STR0040#ALL#Moeda 3
+0041#STR0041#ALL#Moeda 4
+0042#STR0042#ALL#Moeda 5
+0043#STR0043#ALL#Tipo Periodo
+0044#STR0044#ALL#Acumulado 
+0045#STR0045#ALL#Sim
+0046#STR0046#ALL#Não
+0047#STR0047#ALL#Configuracao do Cubo-1
+0048#STR0048#ALL#Editar Configuracoes Cubo-1
+0049#STR0049#ALL#Configuracao do Cubo-2
+0050#STR0050#ALL#Editar Configuracoes Cubo-2
+0051#STR0051#ALL#Considera Zerados
+0052#STR0052#ALL#Total Geral no Resumo
+0053#STR0053#ALL#Considerar Cfg. 1 Cubo
+0054#STR0054#ALL#Parâmetros...
+0055#STR0055#ALL#Periodo Ate
+0056#STR0056#ALL#Atencao
+0057#STR0057#ALL#Usuario sem acesso ao relatorio. Verifique as configuracoes.
+0058#STR0058#ALL#Período diario não imprime em modo personalizavel. Utilize modulo não personalizavel se necessario.
+0059#STR0059#ALL#Consulta limitada a 100 periodos no maximo. Verifique a periodicidade.

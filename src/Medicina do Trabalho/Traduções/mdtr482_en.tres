@@ -1,0 +1,49 @@
+0001#STR0001#ALL#Report of exams result per Cost Center                               
+0002#STR0002#ALL#Demonstrative of exams results executed within a                     
+0003#STR0003#ALL#period  classified per Cost Center and exam result.                  
+0004#STR0004#ALL#Z. Form
+0005#STR0005#ALL#Management   
+0006#STR0006#ALL#Exam results by cost center             
+0007#STR0007#ALL#Cost Center          Description
+0008#STR0008#ALL#Admiss
+0009#STR0009#ALL#Period
+0010#STR0010#ALL#Change
+0011#STR0011#ALL#Return
+0012#STR0012#ALL#Dismis
+0013#STR0013#ALL#       Exam       Description                            Result     Description                            Employee Registration                               Realization  Class
+0014#STR0014#ALL#CANCELLED BY THE OPERATOR
+0015#STR0015#ALL#Customer.: 
+0016#STR0016#ALL#Code  
+0017#STR0017#ALL#Cost center    
+0018#STR0018#ALL#Exam 
+0019#STR0019#ALL#Description
+0020#STR0020#ALL#Note:
+0021#STR0021#ALL#Result
+0022#STR0022#ALL#Registr. 
+0023#STR0023#ALL#Employee   
+0024#STR0024#ALL#Performance
+0025#STR0025#ALL#Class   
+0026#STR0026#ALL#Customer
+0027#STR0027#ALL#Name
+0028#STR0028#ALL#Note      
+0029#STR0029#ALL#From Customer? 
+0030#STR0030#ALL#Unit
+0031#STR0031#ALL#To Customer? 
+0032#STR0032#ALL#Customer code. Keep the field in blank if you want to consider the first code.
+0033#STR0033#ALL#Customer unit code. Keep the field in blank if you want to consider the first code.
+0034#STR0034#ALL#Customer code. Fill in the field with Z up to the end to consider the last code.
+0035#STR0035#ALL#Customer unit code. Fill in the field with Z up to the end to consider the last code.
+0036#STR0036#ALL#Exams
+0037#STR0037#ALL#Note:       
+0038#STR0038#ALL#Nothing to print in the report.
+0039#STR0039#ALL#Customer/Store: 
+0040#STR0040#ALL#From Cost Center?
+0041#STR0041#ALL#To Cost Center?
+0042#STR0042#ALL#List Obs. Exams?
+0043#STR0043#ALL#Medicine?
+0044#STR0044#ALL#To Result Date?
+0045#STR0045#ALL#From Result Date?
+0046#STR0046#ALL#To Exam Result?
+0047#STR0047#ALL#From Exam Result?
+0048#STR0048#ALL#To Exam?
+0049#STR0049#ALL#From Exam?

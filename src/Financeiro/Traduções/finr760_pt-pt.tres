@@ -1,0 +1,36 @@
+0001#STR0001#ALL#Este programa vai emitir um resumo referente ao contas a pagar
+0002#STR0002#ALL#Referente aos últimos 30 dias.
+0003#STR0003#ALL#Eficiência Do Contas A Pagar
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#Data           Valor Dos           Valores Pagos Sem Atraso                  Valores Pagos Com Atraso     Valor Não Pagamento Efic.  Saldo Pendente  Actual  Valor Debitado   Valor Liquidado   Valor Liquidado Antecipações
+0007#STR0007#ALL#Venct.           títulos    desconto /  acréscimo /   total pagamento     desconto / acréscimo /   total pagamento  no dia do venct. cia (%)  em 
+0008#STR0008#ALL#     (%)    no dia           no dia          sem débito após 
+0009#STR0009#ALL#Eficiência Do Contas A Pagar
+0010#STR0010#ALL#A Seleccionar Registos...
+0011#STR0011#ALL#Cancelado Pelo Operador
+0012#STR0012#ALL#Anterior a 
+0013#STR0013#ALL#Val. Pagos
+0014#STR0014#ALL#S/atraso
+0015#STR0015#ALL#Desconto
+0016#STR0016#ALL#C/atraso
+0017#STR0017#ALL#Acréscimo
+0018#STR0018#ALL#Total Pago
+0019#STR0019#ALL#Valor Não Pago
+0020#STR0020#ALL#No Dia Do
+0021#STR0021#ALL#Vencimento
+0022#STR0022#ALL#Eficiên-
+0023#STR0023#ALL#Cia (%)
+0024#STR0024#ALL#Saldo Pendente
+0025#STR0025#ALL#Em 
+0026#STR0026#ALL#Data
+0027#STR0027#ALL#Vencto
+0028#STR0028#ALL#Valor Dos
+0029#STR0029#ALL#Títulos
+0030#STR0030#ALL#Actual
+0032#STR0032#ALL#Actual Val.
+0033#STR0033#ALL#Debitado
+0034#STR0034#ALL#No Dia
+0035#STR0035#ALL#Valor Liquidado
+0036#STR0036#ALL#Sem Débito
+0037#STR0037#ALL#Após 

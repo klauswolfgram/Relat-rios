@@ -1,0 +1,34 @@
+0001#STR0001#ALL#Clientes/Contatos CEV por Dt.Anivers. ou Dt.Movto.
+0002#STR0002#ALL#Zebrado
+0003#STR0003#ALL#Administracao
+0004#STR0004#ALL#Codigo    Nome               Dt.Movto Endereco                        Bairro        Cidade                UF CEP      Fone          
+0005#STR0005#ALL#Codigo    Nome               Dt.Nasc. Endereco                        Bairro        Cidade                UF CEP      Fone          
+0006#STR0006#ALL#a
+0007#STR0007#ALL#m
+0008#STR0008#ALL#d
+0009#STR0009#ALL#Data Inicial
+0010#STR0010#ALL#Data Final
+0011#STR0011#ALL#Listagem
+0012#STR0012#ALL#Relatório
+0013#STR0013#ALL#Etiquetas
+0014#STR0014#ALL#Tipo de Data
+0015#STR0015#ALL#Movimento
+0016#STR0016#ALL#Aniversário Cliente
+0017#STR0017#ALL#Aniversário Contato CEV
+0018#STR0018#ALL#Constar no Movimento
+0019#STR0019#ALL#Primeira Venda
+0020#STR0020#ALL#Ultima Venda
+0021#STR0021#ALL#Todas as Vendas
+0022#STR0022#ALL#Tipo de Movimento
+0023#STR0023#ALL#Venda Oficina
+0024#STR0024#ALL#Venda Balcão
+0025#STR0025#ALL#Venda Veic.Novos
+0026#STR0026#ALL#Venda Veic.Usados
+0027#STR0027#ALL#Venda Pneus
+0028#STR0028#ALL#Venda Outros
+0029#STR0029#ALL#Etiquetas Qtd.Colunas
+0030#STR0030#ALL#1 Coluna
+0031#STR0031#ALL#2 Colunas
+0032#STR0032#ALL#3 Colunas
+0033#STR0033#ALL#Etiquetas Largura
+0034#STR0034#ALL#Vendedor CEV

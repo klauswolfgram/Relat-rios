@@ -1,0 +1,15 @@
+0001#STR0001#ALL#A Imprimir O Demonstrativo Dos Valores A Realizar E Dos Valores Realiza-
+0002#STR0002#ALL#Dos de um determinado mês, por natureza                              
+0003#STR0003#ALL#Valores realizados no ms 
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#Código
+0007#STR0007#ALL#Descrição
+0008#STR0008#ALL#Valores realizados no mês :- 
+0009#STR0009#ALL# - contas a receber -
+0010#STR0010#ALL# - contas a pagar -
+0011#STR0011#ALL# - ambas -
+0012#STR0012#ALL# bruto 
+0013#STR0013#ALL# líquido 
+0014#STR0014#ALL# dia |  valor total   |    a realizar  |   realizado    |    %   |dia |  valor total    |   a realizar   |   realizado    |   %    |
+0015#STR0015#ALL#|          - * * * * * *   t o t a l  * * * * * * -                   |

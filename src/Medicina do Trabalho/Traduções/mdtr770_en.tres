@@ -1,0 +1,17 @@
+0001#STR0001#ALL#Report of employees with stability in a determined period.
+0002#STR0002#ALL#According to NR-5, an employee who is a member of CIPA has stability
+0003#STR0003#ALL#from the date of his candidature till 1 year after the end of his mandate.
+0004#STR0004#ALL#Z-Form
+0005#STR0005#ALL#Management
+0006#STR0006#ALL#Stability of Period
+0007#STR0007#ALL#From Employee?
+0008#STR0008#ALL#To Employee?
+0009#STR0009#ALL#From Function?
+0010#STR0010#ALL#To Function?
+0011#STR0011#ALL#From Cost Center?
+0012#STR0012#ALL#To Cost Center?
+0013#STR0013#ALL#From Date?
+0014#STR0014#ALL#To Date?
+0015#STR0015#ALL#Reg.    Name                            Cost Center          Role                       Mandat. End Date Stability Period
+0016#STR0016#ALL#CANCELED BY OPERATOR
+0017#STR0017#ALL#According to NR-31, an employee member of CIPATR has stability

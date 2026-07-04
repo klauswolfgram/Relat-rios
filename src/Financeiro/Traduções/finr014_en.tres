@@ -1,0 +1,15 @@
+0001#STR0001#ALL#The purpose of this program is
+0002#STR0002#ALL#to print the amount of pending receipts
+0003#STR0003#ALL#List of pending receipt by collector  
+0004#STR0004#ALL#Z. Form
+0005#STR0005#ALL#Management
+0006#STR0006#ALL#Stub       DATE       TYPE          Initial Number   Final Number      Pend.Qty
+0007#STR0007#ALL#Selecting records ...
+0008#STR0008#ALL#OFFICIAL
+0009#STR0009#ALL#TEMPORARY
+0010#STR0010#ALL#QTY of stubs 
+0011#STR0011#ALL#QTY of pending receipts 
+0012#STR0012#ALL#Collectors
+0013#STR0013#ALL#Stubs
+0014#STR0014#ALL#Not Available
+0015#STR0015#ALL#This report is available only in other countries.

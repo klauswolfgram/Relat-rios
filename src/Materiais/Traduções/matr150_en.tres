@@ -1,0 +1,40 @@
+0001#STR0001#ALL#Generation of Purchase Quotations
+0002#STR0002#ALL#List of Quotations
+0003#STR0003#ALL#Z.Form 
+0004#STR0004#ALL#Management
+0005#STR0005#ALL#DEAR SIRS.
+0006#STR0006#ALL#QUOTATION No. 
+0007#STR0007#ALL# Due Date 
+0008#STR0008#ALL#Please, use this number for any exchange of 
+0009#STR0009#ALL#information referring to this quotation.
+0010#STR0010#ALL#Phone 
+0011#STR0011#ALL#Best Regards
+0012#STR0012#ALL#Fax : 
+0013#STR0013#ALL#We ask you the price quotation of the described 
+0014#STR0014#ALL#products according to the standards set forth below:
+0015#STR0015#ALL#Continuing...
+0016#STR0016#ALL#ITM  Our/Your Code   Good Description               Qty.  UN  Unit Value   Total Value IPI  IPI Value Value   Delivery Term and Est. Dt. for Delivery
+0017#STR0017#ALL#Continuing...
+0018#STR0018#ALL#Delivery Address:
+0019#STR0019#ALL#SubTotal
+0020#STR0020#ALL#Payment Mode
+0021#STR0021#ALL#Discounts 
+0022#STR0022#ALL#Collection Address: 
+0023#STR0023#ALL#IPI Total
+0024#STR0024#ALL#Freight
+0025#STR0025#ALL#Readjustment Condition
+0026#STR0026#ALL#Contact at Supplier
+0027#STR0027#ALL#ORDER TOTAL
+0028#STR0028#ALL#Competence 1
+0029#STR0029#ALL#Competence 2
+0030#STR0030#ALL#Generated in:
+0031#STR0031#ALL#days
+0032#STR0032#ALL#Notes:
+0033#STR0033#ALL#E-mail :
+0034#STR0034#ALL#Unit Amount     Total Amount   IPI   IPI Value     Term(days)
+0035#STR0035#ALL#Page  
+0036#STR0036#ALL#Our/Your Code
+0037#STR0037#ALL#Item
+0038#STR0038#PER#ITM   N/Your Goods Description Code                 Quantity    UN Unit Value       Total Value IPI  Value of IPI Pz + Estim Delv Dt
+0039#STR0039#PER#IPI Total
+0040#STR0040#PER#Unit Value      Total Value    IPI    IPI Value    Term(days)

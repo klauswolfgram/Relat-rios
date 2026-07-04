@@ -1,0 +1,75 @@
+0001#STR0001#ALL#Relatório do laudo ambiental                                         
+0002#STR0002#ALL#Através dos parâmetro s selecionar os itens que devem ser considerados
+0003#STR0003#ALL#No relatório.                                                        
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0007#STR0007#ALL#              relatório tecnico           
+0008#STR0008#ALL#Razao social         :
+0009#STR0009#ALL#Morada             :
+0010#STR0010#ALL#Cod. atividade       :
+0012#STR0012#ALL#Grau de risco  :
+0013#STR0013#ALL#Num. Empregados :
+0014#STR0014#ALL#Data de avaliação:
+0016#STR0016#ALL#Locais Avaliados
+0017#STR0017#ALL#Riscos Encontrados
+0018#STR0018#ALL#Equipamentos Utilizados Na Avaliação
+0019#STR0019#ALL#Medidas De Controlo
+0020#STR0020#ALL#Epquipamentos De Proteção Individual Utilizados Por Risco
+0021#STR0021#ALL#Conclusão
+0022#STR0022#ALL#Médico Do Trabalho
+0023#STR0023#ALL#Enfermeiro Do Trabalho
+0024#STR0024#ALL#Auxiliar De Enfermagem
+0025#STR0025#ALL#Engenheiro De Seguranção Do Trabalho
+0026#STR0026#ALL#Tecnico De Seguranção Do Trabalho
+0027#STR0027#ALL#Médico
+0030#STR0030#ALL# Ssmt
+0043#STR0043#ALL#Seleccionar o modelo do relatório
+0044#STR0044#ALL#Modelo da listagem
+0045#STR0045#ALL#Programa de prevenção de riscos ambientais - ppra
+0046#STR0046#ALL#Nome da empresa :
+0047#STR0047#ALL#Morada :
+0048#STR0048#ALL#Cidade :
+0049#STR0049#ALL#Cnpj/cgc :
+0050#STR0050#ALL#Inscrição distrital : 
+0051#STR0051#ALL#Grau de risco :
+0052#STR0052#ALL#Cae : 
+0053#STR0053#ALL#Responsáveis técnicos
+0054#STR0054#ALL#Coordenador:
+0055#STR0055#ALL#Reg.sshst:
+0056#STR0056#ALL#Crm
+0057#STR0057#ALL#Telefone:
+0058#STR0058#ALL#Morada:
+0059#STR0059#ALL#Data:
+0060#STR0060#ALL#Seleccionar ficheiro 
+0061#STR0061#ALL#Alternar para o programa do ms-word para visualizar o documento ou clicar no botão para fechar.
+0064#STR0064#ALL#Fonte Criadora De Risco:
+0065#STR0065#ALL#Centro De Custo:
+0066#STR0066#ALL#Todos
+0069#STR0069#ALL#Ambiente Físico Do Risco:
+0070#STR0070#ALL#Data de avaliação:
+0071#STR0071#ALL#Quantidade Do Agentes De Risco:
+0073#STR0073#ALL#Equipamentos:  nome                           fabricante            data de calibração  data de aferição
+0074#STR0074#ALL#Médicos do trabalho
+0075#STR0075#ALL#Médicos do trabalho: 
+0076#STR0076#ALL#Enfermeiros Do Trabalho
+0077#STR0077#ALL#Enfermeiros do trabalho: 
+0078#STR0078#ALL#Auxiliares De Enfermagem No Trabalho
+0079#STR0079#ALL#Auxiliares de enfermagem no trabalho: 
+0080#STR0080#ALL#Engenheiros de segurança no trabalho
+0081#STR0081#ALL#Engenheiros de segurança no trabalho: 
+0082#STR0082#ALL#Técnicos de segurança no trabalho
+0083#STR0083#ALL#Técnicos de segurança no trabalho: 
+0084#STR0084#ALL#Epis:  Nome                                      No. Certificado Aprovação  Data Avaliação  Periodicidade
+0085#STR0085#ALL# Dias
+0087#STR0087#ALL#Descrições Das Actividades De Risco:
+0088#STR0088#ALL#Ordenar riscos por:
+0089#STR0089#ALL#Núm. Risco
+0090#STR0090#ALL#Agente De Risco
+0091#STR0091#ALL#Fonte Criadora
+0092#STR0092#ALL#Centro De Custo
+0094#STR0094#ALL#Ordenar equipamentos por:
+0097#STR0097#ALL#Ordenar plano de acção por:
+0098#STR0098#ALL#Código Do Plano
+0099#STR0099#ALL#Centro De Custo
+0103#STR0103#ALL#Tipo De Protecção:              Tipo De Epi:                              área De Utilização:
+0116#STR0116#ALL#Acções / Mês

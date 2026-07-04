@@ -1,0 +1,19 @@
+0001#STR0001#ALL#Este relatório irá emitir o extrato bancário via padräo CNAB.
+0002#STR0002#ALL#Para que o mesmo seja emitido, deverá ser efectuada a 
+0003#STR0003#ALL#configuração conforme documentação do banco.
+0004#STR0004#ALL#Extracto Bancário - Via Cnab
+0005#STR0005#ALL#Data      Docum   Agen.cta.        Histórico                             Crédito              Débito               Saldo
+0006#STR0006#ALL#Código de barras
+0007#STR0007#ALL#Administração
+0008#STR0008#ALL#Saldo inicial em 
+0009#STR0009#ALL#Total Créditos
+0010#STR0010#ALL#Total débitos 
+0011#STR0011#ALL#Data
+0012#STR0012#ALL#Documento
+0013#STR0013#ALL#Agen.
+0014#STR0014#ALL#Ct.
+0015#STR0015#ALL#Histórico
+0016#STR0016#ALL#Crédito
+0017#STR0017#ALL#Débito
+0018#STR0018#ALL#Saldo
+0019#STR0019#ALL#Saldo final em 

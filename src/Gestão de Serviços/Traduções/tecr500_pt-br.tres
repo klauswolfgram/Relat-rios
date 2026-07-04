@@ -1,0 +1,14 @@
+0001#STR0001#ALL#Agenda do Atendente
+0002#STR0002#ALL#    Este programa emite a agenda dos atendentes, conforme
+0003#STR0003#ALL#os parametros solicitados.
+0004#STR0004#ALL#
+0005#STR0005#ALL#Zebrado
+0006#STR0006#ALL#Administracao
+0007#STR0007#ALL#ATENDENTE                             CLIENTE                                            HORARIO
+0008#STR0008#ALL#CODIGO NOME                           CODIGO    NOME                                     DT.INICIAL  HORA   DT.FINAL  HORA     TOTAL
+0009#STR0009#ALL#CANCELADO PELO OPERADOR
+0010#STR0010#ALL#TOTAL DO ATENDENTE: 
+0011#STR0011#ALL#TOTAL GERAL 
+0012#STR0012#ALL#Cliente - Loja
+0013#STR0013#ALL#Nome do Cliente
+0014#STR0014#ALL#Total

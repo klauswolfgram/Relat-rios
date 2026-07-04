@@ -1,0 +1,29 @@
+0001#STR0001#ALL#This program will issue a report of products per group
+0002#STR0002#ALL#The issue will be based on the report paramenters
+0003#STR0003#ALL#Z-Form
+0004#STR0004#ALL#Administration
+0005#STR0005#ALL#CANCELLED BY OPERATOR
+0006#STR0006#ALL#Products group
+0007#STR0007#ALL#Group Description
+0008#STR0008#ALL#Product          Description                                         Type   Unit   Place         Cost    Sales Price         Balc.
+0009#STR0009#ALL#There is no information to print this report
+0010#STR0010#ALL#Group Products
+0011#STR0011#ALL#Blnce
+0012#STR0012#ALL#Selecting records ...    
+0013#STR0013#ALL#Product group    
+0014#STR0014#ALL#Products
+0015#STR0015#ALL#Attention
+0016#STR0016#ALL#Update patch for SIGACUS.PRW
+0017#STR0017#ALL#Update patch for SIGACUSA.PRX
+0018#STR0018#ALL#Update patch for SIGACUSB.PRX
+0019#STR0019#ALL#Not found in group file ...            
+0020#STR0020#ALL#Not entered in product file ...         
+0021#STR0021#ALL#Without product group entered in file 
+0022#STR0022#ALL#Product
+0023#STR0023#ALL#Description
+0024#STR0024#ALL#Type
+0025#STR0025#ALL#Unit
+0026#STR0026#ALL#Location
+0027#STR0027#ALL#Cost
+0028#STR0028#ALL#Sales Price
+0029#STR0029#ALL#Balance

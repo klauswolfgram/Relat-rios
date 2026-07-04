@@ -1,0 +1,35 @@
+0001#STR0001#ALL#LISTA DE TRANSFERENCIA
+0002#STR0002#ALL#Este programa imprimira una lista de transferencias     
+0003#STR0003#ALL#segun los parametros definidos por el usuario.     
+0004#STR0004#ALL#A Rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#¿De Documento?       
+0007#STR0007#ALL#¿A Documento?       
+0008#STR0008#ALL#¿De Revision?        
+0009#STR0009#ALL#¿A Revision?        
+0010#STR0010#ALL#¿De Fecha Transfer. 
+0011#STR0011#ALL#¿A Fecha Transfer.? 
+0012#STR0012#ALL#¿De Usuario?        
+0013#STR0013#ALL#¿A Usuario?         
+0014#STR0014#ALL#¿De Departamento?   
+0015#STR0015#ALL#¿A Departamento?    
+0016#STR0016#ALL#¿De Usuario Destino?
+0017#STR0017#ALL#¿A Usuario Destino? 
+0018#STR0018#ALL#¿De Depto. Destino? 
+0019#STR0019#ALL#¿A Depto. Destino?  
+0020#STR0020#ALL#Seleccionando registros..
+0021#STR0021#ALL#FC TRANSF. RESPONSABLE          DPTO.                     MOTIVO                          TIPO
+0022#STR0022#ALL#DE                                  DEPTO                      A                                   DEPTO
+0023#STR0023#ALL#ANULADO POR EL OPERADOR
+0024#STR0024#ALL#DOCUMENTO:
+0025#STR0025#ALL#REV:
+0026#STR0026#ALL#Usr. Origen:
+0027#STR0027#ALL#Usr. Destino:
+0028#STR0028#ALL#Responsable:
+0029#STR0029#ALL#Criticas por documento
+0030#STR0030#ALL#Solicitudes
+0031#STR0031#ALL#Documentos
+0032#STR0032#ALL#Destinatarios
+0033#STR0033#ALL#Destinos
+0034#STR0034#ALL#LEYENDA DE LOS USUARIOS:
+0035#STR0035#ALL#SUCURSAL      CODIGO          NOMB REDUC.         NOMB

@@ -1,0 +1,27 @@
+0001#STR0001#ALL#Bidding Staff
+0002#STR0002#ALL#This report is only available as of Release 4.
+0003#STR0003#ALL#This program aims at printing
+0004#STR0004#ALL#list of notices and products
+0005#STR0005#ALL#Bidding
+0006#STR0006#ALL#Modality
+0007#STR0007#ALL#Stage
+0008#STR0008#ALL#Bidding Process Products
+0009#STR0009#ALL#Suppliers/Customers
+0010#STR0010#ALL#Type
+0011#STR0011#ALL#Name
+0012#STR0012#ALL#Total Value
+0013#STR0013#ALL#Winner
+0014#STR0014#ALL#Not Classified
+0015#STR0015#ALL#Classification
+0016#STR0016#ALL#Pre-Customer
+0017#STR0017#ALL#Customer
+0018#STR0018#ALL#Pre-Supplier
+0019#STR0019#ALL#Supplier
+0020#STR0020#ALL#Qualified
+0021#STR0021#ALL#Revoked
+0022#STR0022#ALL#Voided
+0023#STR0023#ALL#Remaining
+0024#STR0024#ALL#Winner
+0025#STR0025#ALL#Not qualified
+0026#STR0026#ALL#Per Item
+0027#STR0027#ALL#By Batch

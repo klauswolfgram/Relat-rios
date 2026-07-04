@@ -1,0 +1,18 @@
+0001#STR0001#ALL#Se detallaran los instrumentos usados en cada Lote.
+0002#STR0003#ALL#Instrumento vs. Lote
+0003#STR0004#ALL#A Rayas
+0004#STR0005#ALL#Administracion
+0005#STR0006#ALL#Seleccionando registros...
+0006#STR0007#ALL#ANULADO POR EL OPERADOR
+0007#STR0008#ALL#Periodo : 
+0008#STR0009#ALL# a 
+0009#STR0011#ALL# Revision proveedor             Fch. Entrada  Num.Lote          Fch.Medicion
+0010#STR0012#ALL#  Revision Proveedor                    Fch. Entrada  Nº  Lote          Fch. Medic. 
+0011#STR0013#ALL#Producto
+0012#STR0014#ALL#Revision
+0013#STR0015#ALL#Porveedor
+0014#STR0016#ALL#Tienda
+0015#STR0017#ALL#Fecha Entrada
+0016#STR0018#ALL#Numero de lote
+0017#STR0019#ALL#Fecha Medicion
+0018#STR0020#ALL#Instrumento

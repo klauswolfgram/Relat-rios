@@ -1,0 +1,14 @@
+0001#STR0001#ALL#Este programa imprimira el Balance Parcial de Inventario
+0002#STR0002#ALL#cuenta se imprime limitando a 20 caracteres y su descripcion esta limitada a 30 caracteres.
+0003#STR0003#ALL#Balance Parcial de Inventario
+0004#STR0004#ALL#BALANCE PARCIAL DE INVENTARIO DE 
+0005#STR0005#ALL#Plan de Cuentas
+0006#STR0006#ALL#Cuenta
+0007#STR0007#ALL#Descripcion
+0008#STR0008#ALL# Saldo 
+0009#STR0009#ALL#Favor rellenar los parametros Grupos de Ingresos/Egresos y Fecha Sld. Ant. Ingresos/Egresos  o
+0010#STR0010#ALL#Dejar el parametro Ignora Sld. Ant. Ingresos/Egresos = No 
+0011#STR0011#ALL#Ignora Sld. Ant. Ingresos/Egresos
+0012#STR0012#ALL# A 
+0013#STR0013#ALL# EN 
+0014#STR0014#ALL#Creando Archivo Temporario...

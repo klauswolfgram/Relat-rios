@@ -1,0 +1,30 @@
+0001#STR0001#ALL#Report of Production Orders
+0002#STR0002#ALL#This program will print the list of Production Orders 
+0003#STR0003#ALL#By P.O.       
+0004#STR0004#ALL#By Product    
+0005#STR0005#ALL#By Cost Center
+0006#STR0006#ALL#Z.Form
+0007#STR0007#ALL#Management
+0008#STR0008#ALL# - By P.O.
+0009#STR0009#ALL# - By Product
+0010#STR0010#ALL# - By Cost Center
+0011#STR0011#ALL#NUMBER         P R O D U C T                                                    COST      ISSUE     EXPECTED   EFFECTIVE         ORIGINAL       BALANCE TO      ST TP
+0012#STR0012#ALL#                                                                              CENTER                DELIVERY    DELIVERY         QUANTITY          DELIVER
+0013#STR0013#ALL#CANCELLED BY THE OPERATOR
+0014#STR0014#ALL#Total ---->
+0015#STR0015#ALL#NUMBER         P R O D U C T                                                    COST      ISSUE     EXPECTED   EFFECTIVE         ORIGINAL       BALANCE TO      
+0016#STR0016#ALL#NUMBER         P R O D U C T                                 CENTER   ISSUE   DELIV.   DELIV.      QUANTITY          BLNCE A ST TP
+0017#STR0017#ALL#                                                            COST             ESTIMATED    REAL       ORIGINAL       DELIVER 
+0018#STR0018#ALL#NUMBER         P R O D U C T                                 CENTER    ISSUE  DELIV.   DELIV.      QUANTITY          BALANCE      
+0019#STR0019#ALL#NUMBER
+0020#STR0020#ALL#PRODUCT
+0021#STR0021#ALL#DESCRIPT.
+0022#STR0022#ALL#COST CENTER 
+0023#STR0023#ALL#ISSUE  
+0024#STR0024#ALL#ESTIM. DATE
+0025#STR0025#ALL#REALDATE
+0026#STR0026#ALL#ORIGINAL QTY.  
+0027#STR0027#ALL#AMOUNT TO DELIV.
+0028#STR0028#ALL#STATUS
+0029#STR0029#ALL#TYPE
+0030#STR0030#ALL#Production Orders 

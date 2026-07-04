@@ -1,0 +1,26 @@
+0001#STR0001#ALL#Transferencia de local
+0002#STR0002#ALL#Emite la lista de los bienes transferidos seleccionados.
+0003#STR0003#ALL#Código del bien:
+0004#STR0004#ALL#Descripción:
+0005#STR0005#ALL#Fecha Transf.
+0006#STR0006#ALL#Código del local de origen:
+0007#STR0007#ALL#Código del local de destino:
+0008#STR0008#ALL#Descripción:
+0009#STR0009#ALL#Función disponible solamente para entornos TopConnect
+0010#STR0010#ALL#Función disponible solamente para TReport
+0011#STR0011#ALL#Ítem
+0012#STR0012#ALL#Este informe está disponible solamente en el modelo personalizable.
+0013#STR0013#ALL#Ítem
+0014#STR0014#ALL#Fch. Transf.
+0015#STR0015#ALL#Sucursal de origen
+0016#STR0016#ALL#Sucursal de destino
+0017#STR0017#ALL#Local de origen
+0018#STR0018#ALL#Local de destino
+0019#STR0019#ALL#Código
+0020#STR0020#ALL#Empresa
+0021#STR0021#ALL#Unidad de negocio
+0022#STR0022#ALL#Sucursal
+0023#STR0023#ALL#Sucursal: 
+0024#STR0024#ALL#Sucursales seleccionadas para el informe
+0025#STR0025#ALL#Este informe está disponible solamente para entorno Top Connect
+0026#STR0026#ALL#No se encontró con las sucursales seleccionadas

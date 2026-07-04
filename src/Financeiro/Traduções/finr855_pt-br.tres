@@ -1,0 +1,46 @@
+0001#STR0001#ALL#Este programa tem como objetivo imprimir relatorio 
+0002#STR0002#ALL#com a relação Titulo Principal X Impostos, de 
+0003#STR0003#ALL#acordo com os parametros informados pelo usuario.
+0004#STR0004#ALL#Relacao - Titulo Principal X Impostos
+0005#STR0005#ALL# Codigo/Loja     Nome Fornecedor                               CNPJ                 Pref    Numero      Parc           Tipo   Natureza            Emissao   Vencimento            Valor Bruto       Impostos       Valor Lq
+0006#STR0006#ALL#Zebrado
+0007#STR0007#ALL#Administracao
+0008#STR0008#ALL#Selecionando Registros...
+0009#STR0009#ALL#*** CANCELADO PELO OPERADOR ***
+0010#STR0010#ALL#Impostos ---->
+0011#STR0011#ALL#Totais ------>
+0012#STR0013#ALL#Por Codigo Fornecedor
+0013#STR0014#ALL#Por Nome Fornecedor
+0014#STR0015#ALL#Codigo/Loja
+0015#STR0016#ALL#Nome Fornecedor
+0016#STR0017#ALL#CNPJ
+0017#STR0018#ALL#Pref
+0018#STR0019#ALL#Numero
+0019#STR0020#ALL#Parc
+0020#STR0021#ALL#Tipo
+0021#STR0022#ALL#Natureza
+0022#STR0023#ALL#Emissao
+0023#STR0024#ALL#Vencimento
+0024#STR0025#ALL#Valor Bruto
+0025#STR0026#ALL#Impostos
+0026#STR0027#ALL#Valor Lq
+0027#STR0028#ALL#Titulo principal
+0028#STR0029#ALL#Fornecedor
+0029#STR0030#ALL#Loja
+0030#STR0031#ALL#Totais :
+0031#STR0032#ALL#Total Impostos
+0032#STR0033#ALL#SEST
+0033#STR0034#ALL#IRRF
+0034#STR0035#ALL#ISS
+0035#STR0036#ALL#INSS
+0036#STR0037#ALL#PIS
+0037#STR0038#ALL#COFINS
+0038#STR0039#ALL#CSLL
+0039#STR0040#ALL#Total Impostos......
+0040#STR0041#ALL#Filial : 
+0041#STR0042#ALL#Código
+0042#STR0043#ALL#Empresa
+0043#STR0044#ALL#Unidade de negócio
+0044#STR0045#ALL#Filial
+0045#STR0046#ALL#Filiais selecionadas para o relatorio
+0046#STR0047#ALL#Total Geral Impostos......

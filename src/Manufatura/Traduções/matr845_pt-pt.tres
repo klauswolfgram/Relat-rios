@@ -1,0 +1,15 @@
+0002#STR0002#ALL#Este Programa Irá Imprimir Carga Acumulativa Analitica.
+0003#STR0003#ALL#Os valores referentes a horas estão convertidos de acordo com
+0004#STR0004#ALL#O parâmetro  mv_tphr, (c)entesimais ou (n)ormais.
+0005#STR0005#ALL#Código de barras
+0006#STR0006#ALL#Administração
+0007#STR0007#ALL#A Seleccionar Registos...
+0008#STR0008#ALL#ORDEM         ALO CÓDIGO                              DESCRIÇÃO        QUANTIDADE   OPERAÇÃO HRS.
+0009#STR0009#ALL#PRODUÇÃO      CM  ARTIGO                             ARTIGO                                UTILIZ.
+0010#STR0010#ALL#Cancelado Pelo Operador
+0011#STR0011#ALL#Centro de trabalho: 
+0012#STR0012#ALL#Hr.utiliz.: 
+0013#STR0013#ALL#Hr.úteis          : 
+0014#STR0014#ALL#Utilização: 
+0015#STR0015#ALL#Sim
+0016#STR0016#ALL#Não

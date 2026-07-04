@@ -1,0 +1,38 @@
+0001#STR0001#ALL#Relação Do Registo De Solicitantes
+0002#STR0002#ALL#Emissão Do Registo De Solicitantes
+0003#STR0003#ALL#Ira Imprimir Os Dados Do Registo De Solicitantes
+0004#STR0004#ALL#De acordo com a configuração do utilizador.
+0005#STR0005#ALL#Relação Do Registo De Solicitantes
+0006#STR0006#ALL#Código de barras
+0007#STR0007#ALL#Administração
+0008#STR0008#ALL# Ddd Telefone        Nome            Nome Fantas.    Morada       Concelho       Uf  Freguesia          Cep             Referencia      Cnpj/cpf       Inscrição
+0009#STR0009#ALL# Contacto             E-mail          Dt. De Cad.     Produto         Desc. Prod.     Emb Tipo Transp.    Desc. Tipo      Tipo   Seg. Ter. Qua.  Qui. Sex. Sab.  Dom            Hr Ini. Hr Fim
+0010#STR0010#ALL#A Criar índice...
+0011#STR0011#ALL#*** cancelado pelo operador ***
+0012#STR0012#ALL# Contacto             E-mail          Dt. De Cad.     Tipo Transp.    Desc. Tipo      Tipo   Seg. Ter. Qua.  Qui. Sex. Sab.  Dom            Hr Ini. Hr Fim
+0013#STR0013#ALL#Por Indicativo + Telefone
+0015#STR0015#ALL#Sim
+0016#STR0016#ALL#Não
+0017#STR0017#ALL#Produtos: 
+0018#STR0018#ALL#Embalagens: 
+0019#STR0019#ALL#Relação Do Registo De Solicitantes
+0020#STR0020#ALL#Emissão Do Registo De Solicitantes
+0022#STR0022#ALL#Ddd
+0026#STR0026#ALL#Morada
+0027#STR0027#ALL#Concelho
+0028#STR0028#ALL#Uf
+0029#STR0029#ALL#Localidade
+0030#STR0030#ALL#Código postal
+0031#STR0031#ALL#Referência
+0032#STR0032#ALL#Nr. contribuinte
+0033#STR0033#ALL#Inscrição
+0034#STR0034#ALL#Contacto
+0036#STR0036#ALL#Dt. de registo
+0037#STR0037#ALL#Tp.transp.
+0038#STR0038#ALL#Desc.tp.transp.
+0045#STR0045#ALL#Sáb.
+0047#STR0047#ALL#Hr.ini.
+0048#STR0048#ALL#Hr.fim
+0050#STR0050#ALL#Desc.artigo
+0052#STR0052#ALL#Desc.embalagem
+0053#STR0053#ALL#Ddd + Telefone

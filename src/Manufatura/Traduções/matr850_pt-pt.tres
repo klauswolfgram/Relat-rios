@@ -1,0 +1,28 @@
+0001#STR0001#ALL#Relação Das Ordens De Produção
+0002#STR0002#ALL#Este programa irá imprimir a Relação das Ordens de Produção.
+0003#STR0003#ALL#Por o.p.       
+0004#STR0004#ALL#Por produto    
+0005#STR0005#ALL#Por C. De Custo
+0006#STR0006#ALL#Código de barras
+0007#STR0007#ALL#Administração
+0008#STR0008#ALL# - Por O.p.
+0010#STR0010#ALL# - Por Centro De Custo
+0011#STR0011#ALL#Número         P R O D U T O                                                  Centro    Emissão      Entrega     Entrega       Quantidade          Saldo A      St Tp
+0012#STR0012#ALL#                                                                            De Custo                Prevista        Real         Original         Entregar
+0013#STR0013#ALL#Cancelado Pelo Operador
+0015#STR0015#ALL#Número         p r o d u t o                                                  centro    emissão      entrega     entrega       quantidade          saldo a      
+0016#STR0016#ALL#Número         Produto                                 Centro  Emissão  Entrega  Entrega     Quantidade        Saldo A St Tp
+0017#STR0017#ALL#                                                           De Custo          Prevista     Real       Original       Entregar
+0018#STR0018#ALL#Número         produto                                 centro  emissão  entrega  entrega     quantidade        saldo a      
+0019#STR0019#ALL#Número
+0020#STR0020#ALL#Produto
+0021#STR0021#ALL#Descrição
+0022#STR0022#ALL#Centro De Custo
+0023#STR0023#ALL#Emissão
+0024#STR0024#ALL#Dt. prevista
+0025#STR0025#ALL#Dt. Real
+0026#STR0026#ALL#Quant. Original
+0027#STR0027#ALL#Saldo A Entregar
+0028#STR0028#ALL#Estado
+0029#STR0029#ALL#Tipo
+0030#STR0030#ALL#Ordens de produção

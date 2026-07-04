@@ -1,0 +1,6 @@
+0001#STR0001#ALL#Este listagem  imprime os títulos a receber conforme parâmetro s seleccionado pelo utilizador, e as provisões    criadas para estes títulos
+0002#STR0002#ALL#Provisões
+0003#STR0003#ALL#Não disponível
+0004#STR0004#ALL#Este listagem  só esta disponível  para ambientes com banco de dados relacional
+0006#STR0006#ALL#Títulos vs provisões    para cobrança duvidosa
+0007#STR0007#ALL#Títulos

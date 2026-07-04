@@ -1,0 +1,66 @@
+0001#STR0001#ALL#Copia de la Factura
+0002#STR0002#ALL#Factura
+0003#STR0003#ALL#Buscar
+0004#STR0004#ALL#Imprimir
+0005#STR0005#ALL#Repuestos
+0006#STR0006#ALL#Taller
+0007#STR0007#ALL#Vehiculo
+0008#STR0008#ALL#Todas
+0009#STR0009#ALL#Tipo de Factura
+0010#STR0010#ALL#Consulta Pedido
+0011#STR0011#ALL#Evaluacion de Resultado
+0012#STR0012#ALL#Consulta Factura
+0013#STR0013#ALL#Venta
+0014#STR0014#ALL#Pago
+0015#STR0015#ALL#Cliente: 
+0016#STR0016#ALL#Condicion: 
+0017#STR0017#ALL#Items
+0018#STR0018#ALL#Descuento
+0019#STR0019#ALL#Total
+0020#STR0020#ALL#Descripcion  
+0021#STR0021#ALL#Valor      
+0022#STR0022#ALL#Fecha
+0023#STR0023#ALL#Valor
+0024#STR0024#ALL#Pedidos
+0025#STR0025#ALL#Factura
+0026#STR0026#ALL#Opcion indisponible
+0027#STR0027#ALL#Total de la Venta
+0028#STR0028#ALL#Consultar
+0029#STR0029#ALL#Consulta Factura
+0030#STR0030#ALL#Venta
+0031#STR0031#ALL#Pago
+0032#STR0032#ALL#Consulta Pedido
+0033#STR0033#ALL#Consulta Observac.
+0034#STR0034#ALL#Evaluac. del Result.
+0035#STR0035#ALL#Cliente: 
+0036#STR0036#ALL#Condic.: 
+0037#STR0037#ALL#Items
+0038#STR0038#ALL#Desc.
+0039#STR0039#ALL#Total
+0040#STR0040#ALL#Descrip.  
+0041#STR0041#ALL#Valor      
+0042#STR0042#ALL#Fch.
+0043#STR0043#ALL#Valor
+0044#STR0044#ALL#Pedidos
+0045#STR0045#ALL#Factura
+0046#STR0046#ALL#Opcion no dispon.
+0047#STR0047#ALL#Total de la venta
+0048#STR0048#ALL#Observacion
+0049#STR0049#ALL#Resultado de la pieza 
+0050#STR0050#ALL#Resultado del total de las piezas 
+0051#STR0051#ALL#Resultado del servicio 
+0052#STR0052#ALL#Resultado del total de los servicios 
+0053#STR0053#ALL#Resultado del total de la factura 
+0054#STR0054#ALL# Serie 
+0055#STR0055#ALL# - O.S. 
+0056#STR0056#ALL#Resultado del total de la OS Agrupada 
+0057#STR0057#ALL#Factura 
+0058#STR0058#ALL# - O.S. Agrupadas 
+0059#STR0059#ALL#Mapa de resultado por item
+0060#STR0060#ALL#Resultado del item
+0061#STR0061#ALL#A RAYAS
+0062#STR0062#ALL#ADMINISTRACION
+0063#STR0063#ALL#Resultado de la evaluacion
+0064#STR0064#ALL#Grp Codigo del item Descripcion           
+0065#STR0065#ALL#RESULTADO FINAL:
+0066#STR0066#ALL#Cod. Servicio    Descripcion           

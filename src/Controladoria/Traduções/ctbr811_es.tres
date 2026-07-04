@@ -1,0 +1,44 @@
+0001#STR0001#ALL#Libro subdiario
+0002#STR0002#ALL#Digite - ¡Asiento inicial menor que el final!
+0003#STR0003#ALL#Digite- ¡Grupo inicial menor que final!
+0004#STR0004#ALL#Digite - ¡Fecha inicial menor que fecha final!
+0005#STR0005#ALL#Este programa imprime el libro subdiario
+0006#STR0006#ALL#Seccion1
+0007#STR0007#ALL#Seccion2
+0008#STR0008#ALL#Seccion3
+0009#STR0009#ALL#Seccion4
+0010#STR0010#ALL#Cuenta
+0011#STR0011#ALL#Lote
+0012#STR0012#ALL#SLot
+0013#STR0013#ALL#Doc.  
+0014#STR0014#ALL#Fch. Ctb.
+0015#STR0015#ALL#Asiento
+0016#STR0016#ALL#Fch. Asiento
+0017#STR0017#ALL#Tip.
+0018#STR0018#ALL#Ser.
+0019#STR0019#ALL#Comprobante 
+0020#STR0020#ALL#Codigo base
+0021#STR0021#ALL#Item
+0022#STR0022#ALL#Tipo
+0023#STR0023#ALL#Tm
+0024#STR0024#ALL#Documento
+0025#STR0025#ALL#Cantid.
+0026#STR0026#ALL#Ocurrencia
+0027#STR0027#ALL#Tipo Ocurr.
+0028#STR0028#ALL#Emision 
+0029#STR0029#ALL#Pro/Cli
+0030#STR0030#ALL#Razon social
+0031#STR0031#ALL#Val. Debito
+0032#STR0032#ALL#Val. Credito
+0033#STR0033#ALL#Tot. Asiento:
+0034#STR0034#ALL#Tot. Modulo:
+0035#STR0035#ALL#Tot. General
+0036#STR0036#ALL#Libro SUBDIARIO - Modulo -
+0037#STR0037#ALL#No es posible cargar datos de asiento cuando se informa la agrupacion.
+0038#STR0038#ALL#No es posible cargar datos de agrupador cuando se informa el asiento.
+0039#STR0039#ALL#Activo fijo
+0040#STR0040#ALL#Compras y facturación
+0041#STR0041#ALL#Financiero
+0042#STR0042#ALL#Gestion de personal
+0043#STR0043#ALL#Stock/Costos
+0044#STR0044#ALL#Seleccione los modulos

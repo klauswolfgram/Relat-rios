@@ -1,0 +1,20 @@
+0001#STR0001#ALL#Saldo en Proceso (Analitico)
+0002#STR0002#ALL#Emision del Saldo en Proceso Analitico. Los valores totales se imprimiran de acuerdo con 
+0003#STR0003#ALL#requisiciones y devoluciones para orden de produccion que tiene saldo pendiente.
+0004#STR0004#ALL#Nota: Saldo en Proceso solamente en requisiciones manuales.
+0005#STR0005#ALL#CODIGO
+0006#STR0006#ALL#UM
+0007#STR0007#ALL#LOCAL
+0008#STR0008#ALL#ORDEN
+0009#STR0009#ALL#PRODUCCION
+0010#STR0010#ALL#CANT. EN
+0011#STR0011#ALL#VALOR EN
+0012#STR0012#ALL#PROCESO
+0013#STR0013#ALL#DESCRIPCION
+0014#STR0014#ALL#TOTAL GENERAL
+0015#STR0015#ALL#ATENCION
+0016#STR0016#ALL#Al modificar el deposito, el costo medio unificado no se considerara.
+0017#STR0017#ALL#Confirma
+0018#STR0018#ALL#Salir
+0019#STR0019#ALL#TIPO
+0020#STR0020#ALL#RE/DE

@@ -1,0 +1,41 @@
+0001#STR0001#ALL#Report of Bank of Hours
+0002#STR0002#ALL#It will be printed according to the parameters selected by the User.
+0003#STR0003#ALL#Registr.
+0004#STR0004#ALL#Cost Center
+0005#STR0005#ALL#Name
+0006#STR0006#ALL#Z.Form 
+0007#STR0007#ALL#Management
+0008#STR0008#ALL#REPORT OF TIME BANK
+0009#STR0009#ALL#Prior Balance
+0010#STR0010#ALL#C.CENTER TOTAL 
+0011#STR0011#ALL#BRANCH TOTAL 
+0012#STR0012#ALL#COMPANY TOTAL 
+0013#STR0013#ALL#Brc. Regis. Employee                                  Date     Occurence                    Debit     Credit        Balan. Status
+0014#STR0014#ALL#**  CANCELLED BY THE OPERATOR  **
+0015#STR0015#ALL#Brc. Regis. Employee                                                     Prior Balance      Debit     Credit        Balan. Status
+0016#STR0016#ALL#C.Center+Name
+0017#STR0017#ALL#                                                     Date     Event                          Debit      Credit        Blnce  Status
+0018#STR0018#ALL#                                                                         Prior balance      Debit      Credit         Blnce  Status
+0019#STR0019#ALL#Employees   
+0020#STR0020#ALL#Prev. balance 
+0021#STR0021#ALL#Bank hours    
+0022#STR0022#ALL#Event 
+0023#STR0023#ALL#Debit 
+0024#STR0024#ALL#Credit 
+0025#STR0025#ALL#Blnce
+0026#STR0026#ALL#Status
+0027#STR0027#ALL#Total by branch 
+0028#STR0028#ALL#Total by company 
+0029#STR0029#ALL#Total by cost center     
+0030#STR0030#ALL#Posted 
+0031#STR0031#ALL#Pending 
+0032#STR0032#ALL#Total by employee    
+0033#STR0033#ALL#Generate Bank Hours report.       
+0034#STR0034#ALL#Branch Blnce
+0035#STR0035#ALL#Company Blnce
+0036#STR0036#ALL#Employees' salary
+0037#STR0037#ALL#Select the printing option: 
+0038#STR0038#ALL#By Period
+0039#STR0039#ALL#By Dates
+0040#STR0040#ALL#Department
+0041#STR0041#ALL#Use option worksheet and table format only in the Detailed mode.

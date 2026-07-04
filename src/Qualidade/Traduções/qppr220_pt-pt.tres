@@ -1,0 +1,80 @@
+0001#STR0001#ALL#Certificado De Submissão
+0002#STR0002#ALL#A Visualizar, Aguarde...
+0003#STR0003#ALL#Certificado De Submissão Da Peça De Produção
+0004#STR0004#ALL#Nome Da Peça
+0005#STR0005#ALL#Número Da Peça
+0006#STR0006#ALL#Item de segurança e/ou
+0007#STR0007#ALL#Regulamentação Governamental
+0008#STR0008#ALL#Sim
+0009#STR0009#ALL#Não
+0010#STR0010#ALL#Alteração De Engenharia
+0012#STR0012#ALL#Alterações Adicionais De Engenharia
+0013#STR0013#ALL#Exposto No Desenho Núm.
+0014#STR0014#ALL#Nº. Pedido De Compra
+0016#STR0016#ALL#Auxílio Para Verificação Nº
+0017#STR0017#ALL#Informações Do Fornecedor
+0018#STR0018#ALL#Nome Do Fornecedor
+0019#STR0019#ALL#Código Do Fornecedor
+0020#STR0020#ALL#Morada
+0021#STR0021#ALL#Concelho/distrito/código postal
+0022#STR0022#ALL#Ifacturaormações Da Submissão
+0024#STR0024#ALL#Materiais/funcional
+0026#STR0026#ALL#Nome do cliente /divisão
+0027#STR0027#ALL#Comprador/código  Do Comprador
+0028#STR0028#ALL#Módulo
+0030#STR0030#ALL#Esta peça contém alguma substância de utilização restrito ou reportável?
+0031#STR0031#ALL#As Peças Plásticas São Identificadas Com Os Códigos Adequados De Marcação Iso
+0032#STR0032#ALL#Razão Para Submissão
+0033#STR0033#ALL#Submissão Inicial
+0034#STR0034#ALL#Alteração De Material Ou Construção Opcional
+0035#STR0035#ALL#Alterações Da Engenharia
+0036#STR0036#ALL#Alteração Do Subfornecedor Ou Fonte Do Material
+0037#STR0037#ALL#Ferramental: Transferência, Reposição, Reparo Ou Adicional
+0038#STR0038#ALL#Alteração Do Processo De Fabricação Da Peça
+0039#STR0039#ALL#Correcção De Discrepância
+0040#STR0040#ALL#Peças Produzidas Noutra Localidade
+0041#STR0041#ALL#Ferramental inactivo por mais de 1 ano
+0043#STR0043#ALL#Nível de submissão (marque um)
+0044#STR0044#ALL#Nível 1 - declaração apenas(e para itens de aparência designados, um relatório de aprovação de aparência) submetida ao cliente
+0045#STR0045#ALL#Nível 2 - declaração com amostras do artigo e dados limitados de ajuda submetidos ao cliente
+0046#STR0046#ALL#Nível 3 - certificado com amostras do artigo e todos os dados de suporte submetidos ao cliente
+0047#STR0047#ALL#Nível 4 - certificado e outros requisitos cofacturaorme definido pelo cliente
+0048#STR0048#ALL#Nível 5 - certificado com amostras do artigo e todos os dados de suporte verificados na localidade de manufactura do fornecedor
+0049#STR0049#ALL#Resultados Da Submissão
+0051#STR0051#ALL# medições dimensionais 
+0052#STR0052#ALL# ensaios de materiais e funcionais 
+0053#STR0053#ALL# critérios de aparência  
+0054#STR0054#ALL# dados estatísticos 
+0055#STR0055#ALL#Estes resultados atendem a todos os requisitos do desenho e de especificações:   
+0056#STR0056#ALL# sim 
+0057#STR0057#ALL# não 
+0058#STR0058#ALL#Moldes / Cavidades / Processos De Produção:
+0059#STR0059#ALL#Declaração
+0060#STR0060#ALL#Por este meio venho afirmar que as amostras representadas por esta declaração são representativas das nossas peças e foram fabricadas conforme os
+0061#STR0061#ALL#Requisitos aplicáveis do manual do processo de aprovação de produção 3ª edição. Além disso certifico que estas amostras foram
+0062#STR0062#ALL#Produzidas a uma taxa de produção de  
+0063#STR0063#ALL# horas. Anotei qualquer desvio desta declaração abaixo:
+0064#STR0064#ALL#Explicações/comentários
+0068#STR0068#ALL#Assinatura Autorizada Do Fornecedor
+0069#STR0069#ALL#Para Utilização Do Cliente Apenas (se Aplicável)
+0070#STR0070#ALL#Disposição Do Certificado Da Peça:
+0071#STR0071#ALL#Autorizado
+0074#STR0074#ALL#Aprovação Funcional Da Peça:
+0077#STR0077#ALL#Assinatura Do Cliente
+0079#STR0079#ALL#Cfg-1001
+0080#STR0080#ALL#A cópia original deste documento deve permanecer nas instalações
+0081#STR0081#ALL#Do Fornecedor Enquanto A Peça Estiver Activa (veja Glossário)
+0082#STR0082#ALL#Opcional: Número De Rastreamento
+0083#STR0083#ALL#Do Cliente:
+0084#STR0084#ALL#(Se "não" - explicar abaixo)
+0085#STR0085#ALL#Número Peça Cli.
+0086#STR0086#ALL#Número Peça Org.
+0087#STR0087#ALL#Cidade/distrito/c.p./país
+0088#STR0088#ALL#Relatório Materiais
+0089#STR0089#ALL#Enviado pelo imds ou outro formato de cliente 
+0090#STR0090#ALL#Requisitos aplicáveis do manual do processo de aprovação de produção 4ª edição. Além disso certifico que estas amostras foram
+0091#STR0091#ALL#Cada instrumento do cliente foi correctamente etiquetado e numerado
+0093#STR0093#ALL#E-mail
+0095#STR0095#ALL#Do Cliente:
+0096#STR0096#ALL#Atenção
+0097#STR0097#ALL#Para A Correcta Execução Desta Operação, Será Necessário Implementar O Boletim Técnico Adequado Do Ambiente Ppap A 4ª Edição

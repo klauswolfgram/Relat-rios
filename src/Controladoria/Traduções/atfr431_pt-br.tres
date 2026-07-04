@@ -1,0 +1,11 @@
+0001#STR0001#ALL#Função disponível apenas para ambientes TopConnect
+0002#STR0002#ALL#Função disponível apenas para TReport, por favor atualizar ambiente e verificar parametro MV_TREPORT
+0003#STR0003#ALL#A data inicial deve ser o primeiro dia de um mês e a data final deve ser o ultimo dia de um mês
+0004#STR0004#ALL#O intervalo mínimo de datas são 2 meses e o período máximo 12 meses 
+0005#STR0005#ALL#Demonstrativo Projeto 12 meses
+0006#STR0006#ALL#Este programa irá  emitir a posição valorizada dos projetos em até 12 períodos 
+0007#STR0007#ALL#Projeto do Imobilizado
+0008#STR0008#ALL#Etapa do Projeto
+0009#STR0009#ALL#Total
+0010#STR0010#ALL#Total Por Filial
+0011#STR0011#ALL#Total Projeto

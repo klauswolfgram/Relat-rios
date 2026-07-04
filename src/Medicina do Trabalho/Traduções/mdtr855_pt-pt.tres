@@ -1,0 +1,20 @@
+0001#STR0001#ALL#Relatório De Funcionários Por Centro De Custo E Função
+0002#STR0002#ALL#Código de barras
+0003#STR0003#ALL#Administração
+0004#STR0004#ALL#Funcionários Por Centro De Custo E Função
+0005#STR0005#ALL#Do centro de custo    ?
+0006#STR0006#ALL#Até centro custo   ?
+0007#STR0007#ALL#     Cod. Função  Nome Função                 Matricula   Nome Do Empregado                             Data Admissão
+0008#STR0008#ALL#Centro De Custo.:
+0009#STR0009#ALL#Total De Empregados Do Centro De Custo.:
+0010#STR0010#ALL#Total De Empregados.:
+0011#STR0011#ALL#Total De Empregados Do Cliente.:
+0013#STR0013#ALL#     Código/nome Função                      Registo   Nome Do Empregado             Categoria       Data De Admissão
+0014#STR0014#ALL#     Código/Nome Função                       Matrícula   Nome do Empregado             Categoria         Data Admissão Demissão
+0015#STR0015#ALL#De cliente ?
+0017#STR0017#ALL#Até cliente ?
+0019#STR0019#ALL#Até Categoria ?
+0021#STR0021#ALL#Considerar Empregado ?
+0023#STR0023#ALL#Até Centro de Custo?
+0024#STR0024#ALL#De Centro de Custo?
+0026#STR0026#ALL#Activos

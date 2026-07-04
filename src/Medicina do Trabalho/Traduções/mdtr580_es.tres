@@ -1,0 +1,35 @@
+0001#STR0001#ALL#Mostrar todos los riesgos a los que el empleado esta expuesto actualmente.
+0002#STR0002#ALL#A Rayas
+0003#STR0003#ALL#Administracion
+0004#STR0004#ALL#Riesgos por Empleado
+0005#STR0005#ALL#      Num. Riesgo Agente                Fuente Generadora       Evaluacion  Intensidad  U.M.   C.Costo              Funcion Tarea
+0006#STR0006#ALL#Empleado..........:
+0007#STR0007#ALL#Centro de Costo...:
+0008#STR0008#ALL#Funcion...........:
+0009#STR0009#ALL#Tareas............:
+0010#STR0010#ALL#Riesgos:
+0011#STR0011#ALL#Cliente/Tienda......:
+0012#STR0012#ALL#No existe nada para imprimir en el informe.
+0013#STR0013#ALL#    Num. Riesgo Agente                 Fuente Generadora           Evaluación Intensid.  U.M.   C.Costo                         Función               Tarea                Entorno
+0014#STR0014#ALL#¿Situacion Empleado ?
+0015#STR0015#ALL#¿A Funcion ?
+0016#STR0016#ALL#¿De  Funcion ?
+0017#STR0017#ALL#¿A Centro de Costo ?
+0018#STR0018#ALL#¿De Centro de Costo ?
+0019#STR0019#ALL#¿Considera Riesgo ?
+0020#STR0020#ALL#¿A  Empleado ?
+0021#STR0021#ALL#¿De  Empleado ?
+0022#STR0022#ALL#¿De Cliente ?
+0023#STR0023#ALL#Tienda:
+0024#STR0024#ALL#¿A Cliente ?
+0025#STR0025#ALL#Activos
+0026#STR0026#ALL#Despedidos
+0027#STR0027#ALL#Activos y en Licencia temporal
+0028#STR0028#ALL#Todos
+0029#STR0029#ALL#¿Imprimir Descripcion Tarea ?
+0030#STR0030#ALL#Todas
+0031#STR0031#ALL#Normal
+0032#STR0032#ALL#Indica si imprime la descripcion de la tarea.
+0033#STR0033#ALL#    Núm. Riesgo agente                Fuente generadora        Evaluación Intensid.  U.M.   C.Costo                         Función               Tarea                 Departamento           Entorno 
+0034#STR0034#ALL#Indica si en la impresión se considerarán o no los riesgos que se eliminaron.
+0035#STR0035#ALL#Departamento......:

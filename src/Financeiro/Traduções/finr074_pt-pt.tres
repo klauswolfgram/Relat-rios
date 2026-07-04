@@ -1,0 +1,11 @@
+0001#STR0001#ALL#Este programa tem como objetivo imprimir relatório 
+0002#STR0002#ALL#De acordo com os parâmetro s informados pelo utilizador.
+0003#STR0003#ALL#Relatório de diferenças de câmbio de contas a receber
+0004#STR0004#ALL#Cliente     Loja Venc.      Emissão          Natureza   Prefixo/Número/Prest.      Tipo      Valor 
+0006#STR0006#ALL#Prefixo+número
+0008#STR0008#ALL#Emissão
+0011#STR0011#ALL#Administração
+0014#STR0014#ALL#Diferença de câmbio  ->
+0016#STR0016#ALL#Valor acordado : 
+0023#STR0023#ALL#Prefixo/Número/Parc.
+0026#STR0026#ALL#Valor Orig.

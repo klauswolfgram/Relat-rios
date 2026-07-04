@@ -1,0 +1,81 @@
+0001#STR0001#ALL# ITEMS CONFIGURACION
+0002#STR0002#ALL#Texto Superior Portada
+0003#STR0003#ALL#Texto Inf. de Portada 
+0004#STR0004#ALL#Justificacion 
+0005#STR0005#ALL#Instrucc. Digitacion
+0006#STR0006#ALL#Texto Analisis Inter.
+0007#STR0007#ALL#Destino Copias  
+0008#STR0008#ALL#Titulos de Campos del Informe  
+0009#STR0009#ALL#Notificacion de No Conformidad 
+0010#STR0010#ALL#Texto en Portugues
+0011#STR0011#ALL#Texto en Ingles
+0012#STR0012#ALL#Texto en Espanol 
+0013#STR0013#ALL#Original:     
+0014#STR0014#ALL#Laudo :
+0015#STR0015#ALL#Duplicado:   
+0016#STR0016#ALL#Triplicado:   
+0017#STR0017#ALL#Cuatruplic.:
+0018#STR0018#ALL#Quintuplic.:
+0019#STR0019#ALL#CAMPOS
+0020#STR0020#ALL#STRINGS
+0021#STR0021#ALL#Valor actual Portugues:
+0022#STR0022#ALL#Nuevo valor portugues:
+0023#STR0023#ALL#Valor actual Ingles:
+0024#STR0024#ALL#Nuevo valor Ingles:
+0025#STR0025#ALL#Valor actual Espanol :
+0026#STR0026#ALL#Nuevo valor Espanol :
+0027#STR0027#ALL#Notificación de no conformidad
+0028#STR0028#ALL#Resultados
+0029#STR0029#ALL#a. copia: 
+0030#STR0030#ALL#Especificado
+0031#STR0031#ALL#No conformidad(es) encontradas   
+0032#STR0032#ALL#Num.
+0033#STR0033#ALL#Clase 
+0034#STR0034#ALL#Factor critico
+0035#STR0035#ALL#Reincidencia
+0036#STR0036#ALL#(Continuacion de los resultados encontrados)
+0037#STR0037#ALL#Si -
+0038#STR0038#ALL# puntos
+0039#STR0039#ALL#No 
+0040#STR0040#ALL#Garantia de la calidad      /     /    
+0041#STR0041#ALL# a.
+0042#STR0042#ALL#Se modifico el valor del campo. ¿Desea actualizar el campo para este nuevo valor?  
+0043#STR0043#ALL#Debe informar tanto el Laudo como la copia.      
+0044#STR0044#ALL#Informe un Laudo Valido
+0045#STR0045#ALL#En este informe se imprimira Notificacion de No conformidad.    
+0046#STR0046#ALL#Entrada sin Laudo
+0047#STR0047#ALL#No fue posible encontrar la copia y/o  laudo para este idioma, lo que imposibilita la emision del informe.Verifique si la copia en este idioma se informo correctamente
+0048#STR0048#ALL#No fue posible encontrar copia y/o laudo para este idioma, lo que imposibilita la emision del informe. Verifique por el  menu 'Informes', si la copia en este idioma se informo correctamente.
+0049#STR0049#ALL#ANULADO POR EL OPERADOR
+0050#STR0050#ALL# de 
+0051#STR0051#ALL#Texto
+0052#STR0052#ALL#Proveedor
+0053#STR0053#ALL#Entrega
+0054#STR0054#ALL#EnsayosMed
+0055#STR0055#ALL#EnsayosTXT
+0056#STR0056#ALL#NO Conf
+0057#STR0057#ALL#Laudo	
+0058#STR0058#ALL#Factura
+0059#STR0059#ALL#Serie
+0060#STR0060#ALL#Item
+0061#STR0061#ALL#Nº de NNC
+0062#STR0062#ALL#Idioma
+0063#STR0063#ALL#Justif. del Laudo
+0064#STR0064#ALL#2ª Parte
+0065#STR0065#ALL#Cronica
+0066#STR0066#ALL#Mediciones
+0067#STR0067#ALL#Impr. NC c/ Factor 0
+0068#STR0068#ALL#Num.Secuenc.
+0069#STR0069#ALL#Lote proveedor
+0070#STR0070#ALL#Enero
+0071#STR0071#ALL#Febrero
+0072#STR0072#ALL#Marzo
+0073#STR0073#ALL#Abril
+0074#STR0074#ALL#Mayo
+0075#STR0075#ALL#Junio
+0076#STR0076#ALL#Julio
+0077#STR0077#ALL#Agosto
+0078#STR0078#ALL#Septiembre
+0079#STR0079#ALL#Octubre
+0080#STR0080#ALL#Noviembre
+0081#STR0081#ALL#Diciembre

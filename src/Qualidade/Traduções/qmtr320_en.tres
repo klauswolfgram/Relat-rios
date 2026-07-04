@@ -1,0 +1,39 @@
+0001#STR0001#ALL#Report of Instrument Movement
+0002#STR0002#ALL# Among Branches.
+0003#STR0003#ALL#|---------------------------- Loan       ----------------------------|     |---------------------------- Collection  ----------------------------| 
+0004#STR0004#ALL#Instrument         Rev  Brn  Date      Time   Respons.    Name                  Brn Department           Date      Time   Repons.     Name                  Brn Department       Movement type   Return type   
+0005#STR0005#ALL#Report of instrument movement among branches
+0006#STR0006#ALL#Selecting instruments ...    
+0007#STR0007#ALL#***CANCELLED BY THE OPERATOR***
+0008#STR0008#ALL#Instrument  -----> 
+0009#STR0009#ALL# - Revision: 
+0010#STR0010#ALL#Loan      
+0011#STR0011#ALL#Calibration
+0012#STR0012#ALL#Compulsory return 
+0013#STR0013#ALL#Non compulsory return 
+0014#STR0014#ALL#Justification:  
+0015#STR0015#ALL#Return   
+0016#STR0016#ALL#Z.form 
+0017#STR0017#ALL#Administration
+0018#STR0018#ALL#CAPTION OF BRANCHES
+0019#STR0019#ALL#BRANCH     DESCRIPT.
+0020#STR0020#ALL#DEPARTMENT CAPTIONS BY BRANCH       
+0021#STR0021#ALL#BRANCH  DEPT.             DESCRIPT.
+0022#STR0022#ALL#Rev
+0023#STR0023#ALL#Brn
+0024#STR0024#ALL# -- Date
+0025#STR0025#ALL#Time
+0026#STR0026#ALL#Name
+0027#STR0027#ALL#Department  
+0028#STR0028#ALL#____________  L
+0029#STR0029#ALL#Loan
+0030#STR0030#ALL#____________ Re
+0031#STR0031#ALL#Receipt
+0032#STR0032#ALL#Type
+0033#STR0033#ALL#Movement    
+0034#STR0034#ALL#BRANCH
+0035#STR0035#ALL#DESCRIPT.
+0036#STR0036#ALL#DEPARTMENT  
+0037#STR0037#ALL#Instrument:  
+0038#STR0038#ALL#Respons.
+0039#STR0039#ALL#NO MOVEMENTS FOR THE SPECIFIED PARAMETERS              

@@ -1,0 +1,13 @@
+0001#STR0001#ALL#Este relatório irá imprimir uma relação de eventos do projecto
+0003#STR0003#ALL#Projecto+edt.+tarefa+data Prv. Calc.
+0004#STR0004#ALL#Projecto+edt.+tarefa+data Realizada
+0005#STR0005#ALL#Data Prv. Cálc.
+0006#STR0006#ALL#Data Realizada
+0007#STR0007#ALL#Código de barras
+0008#STR0008#ALL#Administração
+0009#STR0009#ALL#Utilização |descrição                       |dta Prev  |dt Prv Cál|dt Realiz.|  % Exec|envio Email                     |cód.cli.|lj|  Núm.título|     Valor Título|md|pag|pref.|natureza      |ped.venda| Ped.ven. Item|   %lib. Pv
+0010#STR0010#ALL#Projecto:
+0011#STR0011#ALL#Edt:   
+0013#STR0013#ALL#Projecto
+0014#STR0014#ALL#Edt
+0017#STR0017#ALL#*** cancelado pelo utilizador ***

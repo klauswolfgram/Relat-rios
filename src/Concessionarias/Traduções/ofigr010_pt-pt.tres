@@ -1,0 +1,20 @@
+0001#STR0001#ALL#Este programa tem como objectivo imprimir a relação de 
+0002#STR0002#ALL#Relatórios de reclamações
+0003#STR0003#ALL#Relatório de reclamações
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#Aguarde A Seleccionar Registo Para Impressão
+0007#STR0007#ALL#*** cancelado pelo operador ***
+0008#STR0008#ALL#[gr] [código da peca-----------] [descrição---------] [qtde] [valor---] [esp]
+0010#STR0010#ALL#[gr] [código do serviço--------] [descrição---------] [tmp-] [valor---] [esp]
+0011#STR0011#ALL#Total da os.: 
+0012#STR0012#ALL#Total pecas: 
+0013#STR0013#ALL# total serviços: 
+0014#STR0014#ALL# total: 
+0015#STR0015#ALL#Data inicial      ?
+0016#STR0016#ALL#Data final        ?
+0017#STR0017#ALL#Tipo relatório    ?
+0018#STR0018#ALL#Todas As Rr
+0019#STR0019#ALL#Apenas As Eliminadas
+0021#STR0021#ALL#[Nro Osv-][Dt.Abe] [Ch.I] [Chassi do Veículo------] [Modelo----------------------] [Descrição do Modelo-----------] [Cód Pro] [Proprietário------------------------]
+0022#STR0022#ALL#          [Ano] [Nro RR] [Rec] [CdGar] [T] [R] [NF 1-----] [NF 2-----] [Ser] [GS] [Cód Serviço---] [Grp-] [Cód da Peça----------------] [Def] [SerConjun] [TipCon] [CodCam] [TesCam] [Km Pick] [KmGui-] 

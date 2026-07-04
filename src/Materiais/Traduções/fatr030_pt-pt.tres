@@ -1,0 +1,25 @@
+0001#STR0001#ALL#Relação de contratos
+0002#STR0002#ALL#Este programa tem como objectivo demonstrar a relação de contratos de 
+0003#STR0003#ALL#Parceria, conforme os parâmetros definidos pelo utilizador.
+0004#STR0004#ALL#Número
+0005#STR0005#ALL#Cliente/loja
+0006#STR0006#ALL#Emissão
+0007#STR0007#ALL#Administração
+0008#STR0008#ALL#Contrato                                                            Estado          Artigos Contratos
+0009#STR0009#ALL#Número Emissão    Cliente                                                           Elemento Artigo                                        Un Qtd.contratada   Sld.contrato      Preço Venda               Valor       Desconto
+0010#STR0010#ALL#Cancelado Pelo Operador
+0013#STR0013#ALL#Total da emissão.: 
+0015#STR0015#ALL#Relação de contratos
+0016#STR0016#ALL#Este programa tem como objectivo demonstrar a relação de contratos de 
+0017#STR0017#ALL#Parceria, conforme os parâmetros definidos pelo utilizador.
+0018#STR0018#ALL#Número
+0019#STR0019#ALL#Cliente/loja
+0020#STR0020#ALL#Emissão
+0021#STR0021#ALL#Sld.contrato
+0022#STR0022#ALL#Total Do Contrato
+0023#STR0023#ALL#Total Do Cliente
+0025#STR0025#ALL#Cabeçalho Do Contrato
+0026#STR0026#ALL#Elem. Do Contrato
+0027#STR0027#ALL#     Cliente   Pedido   Emissão   Qtd.pedido        Fact./série   Emissão          Qtd. Factura
+0028#STR0028#ALL#Analítico-detalhes Do Contrato
+0029#STR0029#ALL#A Encerrar Manualmente

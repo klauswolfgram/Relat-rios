@@ -1,0 +1,35 @@
+0001#STR0001#ALL#Emite uma relação dos produtos autorizados/rejeitados pelo controle de
+0002#STR0002#ALL#Qualidade juntamente com a respectiva avaliação.
+0003#STR0003#ALL# por número    
+0004#STR0004#ALL# por produto        
+0005#STR0005#ALL#Relação De Liquidações Do Cq
+0006#STR0006#ALL#Código de barras
+0007#STR0007#ALL#Administração
+0008#STR0008#ALL#Registo(s)
+0009#STR0009#ALL#Número  Código          Descrição                      Um  Lc Origem  Documento     Origem    Código      Razão Social
+0010#STR0010#ALL#Data       Tipo              Quantidade  Utilizador         Avaliação                  Lc Motivo Da Rejeição          Lote      Sublote
+0011#STR0011#ALL#Código           Descrição                       Um  Origem
+0012#STR0012#ALL#Número   Data     Tipo             Quantidade   Utilizador          Avaliação               Documento     Lc Rejeição Lote      Sublote    Código  Razão Social
+0013#STR0013#ALL#A selecionar registos ...
+0014#STR0014#ALL#Cancelado Pelo Operador
+0016#STR0016#ALL#Libertado
+0018#STR0018#ALL#Est. Aprov.
+0021#STR0021#ALL#[Tipo:
+0022#STR0022#ALL#/seq:
+0023#STR0023#ALL#Número  Código          Descrição                      Um  Lc Origem  Documento     Origem    Código                    Razão Social
+0024#STR0024#ALL#Número   Data     Tipo             Quantidade   Utilizador          Avaliação               Documento     Lc Rejeição Lote      Sublote    Código                Razão Social
+0025#STR0025#ALL#Número   Data     Tipo             Quantidade   Utilizador          Avaliação               Documento     Lc Rejeição                      Código  Razão Social
+0026#STR0026#ALL#Número   Data     Tipo             Quantidade   Utilizador          Avaliação               Documento     Lc Rejeição                      Código                Razão Social
+0027#STR0027#ALL#Data       tipo              quantidade  utilizador         avaliação                  lc motivo da rejeição                           
+0034#STR0034#ALL#Avaliação
+0036#STR0036#ALL#Rejeição
+0037#STR0037#ALL#Movimentações de cq (artigo)
+0038#STR0038#ALL#Movimentações de cq (movimentos)
+0039#STR0039#ALL#Número   Código           Descrição                       Um  Lc Origem  Documento              Origem    Código                     Razão Social
+0040#STR0040#ALL#Número   Código           Descrição                       Um  Lc Origem  Documento              Origem    Código       Razão Social
+0041#STR0041#ALL#Data       Tipo              Quantidade  Utilizador         Avaliação                            Lc Motivo Da Rejeição           Lote      Sublote
+0042#STR0042#ALL#Data       tipo              quantidade  utilizador         avaliação                            lc motivo da rejeição                            
+0043#STR0043#ALL#Número    Data     Tipo             Quantidade   Utilizador          Avaliação                Documento              Lc Rejeição  Lote      Sublote    Código                 Razão Social
+0044#STR0044#ALL#Número    Data     Tipo             Quantidade   Utilizador          Avaliação                Documento              Lc Rejeição                       Código                 Razão Social
+0045#STR0045#ALL#Número    Data     Tipo             Quantidade   Utilizador          Avaliação                Documento              Lc Rejeição  Lote      Sublote    Código   Razão Social
+0046#STR0046#ALL#Número    Data     Tipo             Quantidade   Utilizador          Avaliação                Documento              Lc Rejeição                       Código   Razão Social

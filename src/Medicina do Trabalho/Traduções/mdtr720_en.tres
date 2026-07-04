@@ -1,0 +1,38 @@
+0001#STR0001#ALL#Servicing Date?
+0002#STR0002#ALL#From Reason?
+0003#STR0003#ALL#To Reason?
+0004#STR0004#ALL#Printing Type?
+0005#STR0005#ALL#In Disk
+0006#STR0006#ALL#Printer
+0007#STR0007#ALL#No data to print in the report.
+0008#STR0008#ALL#Infirmary Servicing
+0009#STR0009#ALL#MEDICAL CONTROL PROGRAM FOR OCCUPATIONAL HEALTH
+0010#STR0010#ALL#SERVICING CONTROL IN THE MEDICAL INFIRMARY
+0011#STR0011#ALL#Unit:
+0012#STR0012#ALL#Date:
+0013#STR0013#ALL#Page nº
+0014#STR0014#ALL#* TA - APPOINTMENT TYPE
+0015#STR0015#ALL# - Return to work immediately
+0016#STR0016#ALL# - Excused from work through doctor´s orders
+0017#STR0017#ALL# - Directed to hospital/specialist/specialized exams
+0018#STR0018#ALL# - Directed to complementary/laboratory/investigation exams
+0019#STR0019#ALL#PROFESSIONAL´S SIGNATURE AND IDENTIFICATION:
+0020#STR0020#ALL#REASON : 
+0021#STR0021#ALL#I.D.
+0022#STR0022#ALL#NAME
+0023#STR0023#ALL#DIAGNOSIS
+0024#STR0024#ALL#MEDICAL REPORT
+0025#STR0025#ALL#COMMENT
+0026#STR0026#ALL#From Customer?
+0027#STR0027#ALL#Ccustomer code. Leave the field blank to consider since the first code.
+0028#STR0028#ALL#Store ?
+0029#STR0029#ALL#Customer unit code. Leave the field blank to consider since the first code.
+0030#STR0030#ALL#To Customer ?
+0031#STR0031#ALL#Customer code. Fill in the field with Z up to its limit to consider the last code.
+0032#STR0032#ALL#Customer unit code. Fill in the field with Z up to its limit to consider the last code.
+0033#STR0033#ALL#Customer/Unit: 	  	  	  	  	
+0034#STR0034#ALL#To Reason?
+0035#STR0035#ALL#From Reason?
+0036#STR0036#ALL#Service Date?
+0037#STR0037#ALL#YES
+0038#STR0038#ALL#NO

@@ -1,0 +1,28 @@
+0001#STR0001#ALL#This program will print the Comparative Worksheet of 
+0002#STR0002#ALL#according to the parameters required by the User. 
+0003#STR0003#ALL#Comparative of 
+0004#STR0004#ALL#|  CODE                      |   D  E  S  C  R  I  P  T  .    |   MOV. PERIOD  01   |   MOV. PERIOD  02   |   MOV. PERIOD  03   |   MOV. PERIOD  04   |   MOV. PERIOD  05   |   MOV. PERIOD  06   |      GRAND TOTAL       |
+0005#STR0005#ALL#DETAILED COMPARATIVE OF  
+0006#STR0006#ALL#SUMMARIZED COMPARATIVE OF  
+0007#STR0007#ALL#COMPARATIVE OF  
+0008#STR0008#ALL# FROM 
+0009#STR0009#ALL# TO 
+0010#STR0010#ALL# IN 
+0011#STR0011#ALL# (BUDGET.)
+0012#STR0012#ALL# (MANAGEMENT)
+0013#STR0013#ALL#Creating Temporary File...
+0014#STR0014#ALL#Z. Form
+0015#STR0015#ALL#Management
+0016#STR0016#ALL#*****CANCELLED BY THE OPERATOR*****
+0017#STR0017#ALL#P E R I O D  T O T A L S 
+0018#STR0018#ALL#TOTALS OF 
+0019#STR0019#ALL#The required period exceeds the limit of 6 months.
+0020#STR0020#ALL#Only the 6 months from the initial date will be printed.
+0021#STR0021#ALL#If it doesn´t update the composed balan-
+0022#STR0022#ALL#ces at report issuing (MV_SLDCOMP ='N'),
+0023#STR0023#ALL#run the balances updating routine 
+0024#STR0024#ALL#CODE
+0025#STR0025#ALL#DESCRIPTN
+0026#STR0026#ALL#MOV. PERIOD
+0027#STR0027#ALL#GROSS TOTAL
+0028#STR0028#ALL#COLUMN TOTAL

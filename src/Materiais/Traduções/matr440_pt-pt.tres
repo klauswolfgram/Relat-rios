@@ -1,0 +1,27 @@
+0001#STR0001#ALL#Emite uma relação com os itens existentes que atingiram o ponto de pedido, 
+0002#STR0002#ALL#A sugerir a quantidade a comprar.
+0003#STR0003#ALL#Código de barras
+0004#STR0004#ALL#Administração
+0005#STR0005#ALL#Itens Em Ponto De Pedido
+0006#STR0006#ALL#Artigo(s)
+0008#STR0008#ALL#                                                                     Prevista       Pedido    Segurança    Económico   %   Quantidade   Por Embal.      Comprar        Da Compra      Referência      Da Compra      Entrega
+0009#STR0009#ALL#Cancelado Pelo Operador
+0010#STR0010#ALL#Total Crial A Comprar
+0013#STR0013#ALL#Descrição                                                            Prevista       Pedido    Segurança    Económico   %   Quantidade   Por Embal.      Comprar        Da Compra      Referência      Da Compra      Entrega
+0014#STR0014#ALL#Atenção
+0015#STR0015#ALL#Actualizar patch do programa sigacus.prw !!!
+0016#STR0016#ALL#Actualizar patch do programa sigacusa.prx !!!
+0017#STR0017#ALL#Actualizar patch do programa sigacusb.prx !!!
+0019#STR0019#ALL#Saldo Actual
+0021#STR0021#ALL#Stock de
+0024#STR0024#ALL# A Comprar
+0027#STR0027#ALL#Vlr.unitário
+0028#STR0028#ALL# Da Compra
+0029#STR0029#ALL#A imprimir
+0030#STR0030#ALL#Artigos
+0031#STR0031#ALL#Segurança
+0032#STR0032#ALL#Val.estimado
+0033#STR0033#ALL# Da Compra
+0035#STR0035#ALL#Entrega(dias)
+0036#STR0036#ALL#Referência
+0038#STR0040#ALL#Qtd. por

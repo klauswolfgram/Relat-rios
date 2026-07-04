@@ -1,0 +1,17 @@
+0001#STR0001#ALL#Este relatório irá imprimir os quantitativos previstos para a execução do orcamento de acordo com parametros solicitados. 
+0002#STR0002#ALL#Quantitativos previstos
+0003#STR0003#ALL#ORCAMENTO+PRODUTO+DESPESA
+0004#STR0004#ALL#TAREFA+PRODUTO+DESPESA
+0005#STR0005#ALL#Zebrado
+0006#STR0006#ALL#Administracao
+0007#STR0007#ALL#Tp.  Codigo            Descricao                                 UM        Quantidade                    Valor   %Proj.     %Acum.
+0008#STR0008#ALL#Tarefa       Descricao            Tp. Codigo           Descricao            UM      Quantidade           Valor      %Proj.  %Acum.
+0009#STR0009#ALL#Orcamento: 
+0010#STR0010#ALL#Total.....
+0011#STR0011#ALL#Codigo da Tarefa                  Tp. Codigo           Descricao            UM      Quantidade           Valor      %Proj.  %Acum.
+0012#STR0012#ALL#Descricao da Tarefa               Tp. Codigo           Descricao            UM      Quantidade           Valor      %Proj.  %Acum.
+0013#STR0013#ALL#Orçamento
+0014#STR0014#ALL#Orçamento + Produto + Despesa
+0015#STR0015#ALL#Tarefa + Produto + Despesa
+0016#STR0016#ALL#Ordem: 
+0017#STR0017#ALL#*** CANCELADO PELO USUARIO ***

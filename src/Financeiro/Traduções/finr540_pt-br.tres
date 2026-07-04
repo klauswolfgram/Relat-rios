@@ -1,0 +1,23 @@
+0001#STR0001#ALL#Este relatorio ira imprimir a relacao de cheques cancelados.
+0002#STR0002#ALL#Relacao de Cheques Cancelados.
+0003#STR0003#ALL#Zebrado
+0004#STR0004#ALL#Administracao
+0005#STR0005#ALL#Relacao de Cheques Cancelados.
+0006#STR0006#ALL#Por Cheque
+0007#STR0007#ALL#Por Emissao
+0008#STR0008#ALL#Numero                   Valor Emissao    Beneficiario                               Historico
+0009#STR0009#ALL#Cancelado pelo Operador
+0010#STR0010#ALL#Banco : 
+0011#STR0011#ALL# -  Agencia : 
+0012#STR0012#ALL# Conta : 
+0013#STR0013#ALL#Sub-Total ----> 
+0014#STR0014#ALL#Total Geral --> 
+0015#STR0015#ALL#Total Cheques-> 
+0016#STR0016#ALL#Numero
+0017#STR0017#ALL#Valor
+0018#STR0018#ALL#Emissao
+0019#STR0019#ALL#Beneficiario
+0020#STR0020#ALL#Historico
+0021#STR0021#ALL#Banco
+0022#STR0022#ALL#Cheque
+0023#STR0023#ALL#Totais

@@ -1,0 +1,21 @@
+0001#STR0001#ALL#Relacao de metas de vendas x vendas realizadas
+0002#STR0002#ALL#Este relatorio ira imprimir a relacao das metas de vendas
+0003#STR0003#ALL#em relacao as vendas realizadas conforme parametros
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#NUMERO    SEQ  DESCRICAO                 DATA       VENDEDOR  REGIAO  PRODUTO                        GRUPO  TIPO        VALOR/META         QUANT/META        VALOR/REAL     QUANT/REAL     DIFERENCA VALOR     DIFERENCA QTD
+0007#STR0007#ALL#Relacao de metas de vendas x vendas realizadas
+0008#STR0008#ALL#Este relatorio ira imprimir a relacao das metas de vendas
+0009#STR0009#ALL#em relacao as vendas realizadas conforme parametros
+0010#STR0010#ALL#Valor/Meta
+0011#STR0011#ALL#Descrição
+0012#STR0012#ALL#Seq
+0013#STR0013#ALL#Tipo
+0014#STR0014#ALL#Valor/Real
+0015#STR0015#ALL#Quant/Real
+0016#STR0016#ALL#Diferenca Valor
+0017#STR0017#ALL#Diferenca Qtd
+0018#STR0018#ALL#Quant/Meta
+0019#STR0019#ALL#Numero
+0020#STR0020#ALL#Meta de Vendas
+0021#STR0021#ALL#Selecionando Registros ...

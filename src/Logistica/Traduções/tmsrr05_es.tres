@@ -1,0 +1,23 @@
+0001#STR0001#BRA#Lista de embarque de entrega por redespachante
+0002#STR0002#BRA#Documentos con el redespachante
+0003#STR0003#BRA#Documentos seleccionados
+0004#STR0004#BRA#Atencion
+0005#STR0005#BRA#¡No existe informacion para los parametro indicados!
+0006#STR0006#BRA#*** ANULADO POR EL OPERADOR ***
+0007#STR0007#BRA#Redespachante:
+0008#STR0008#BRA#Código 
+0009#STR0009#BRA#Tienda
+0010#STR0010#BRA#Nombre 
+0011#STR0011#BRA#Sucursal
+0012#STR0012#BRA#Doc.
+0013#STR0013#BRA#Serie
+0014#STR0014#BRA#Destinatario
+0015#STR0015#BRA#Direccion
+0016#STR0016#BRA#Barrio
+0017#STR0017#BRA#Cantidad
+0018#STR0018#BRA#Valor Mercaderia
+0019#STR0019#BRA#Fecha _______________________________                _____________________________________________
+0020#STR0020#BRA#Obs: Documentos entregados al redespachante
+0021#STR0021#BRA#Informe el codigo del redespacho
+0022#STR0022#BRA#Informe el codigo del redespacho
+0023#STR0023#BRA#Datos protegidos - Acceso restringido: Este usuario no tiene permiso de acceso a los datos de esta rutina. Para más información, entre en contacto con el Administrador del sistema.

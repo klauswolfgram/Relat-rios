@@ -1,0 +1,27 @@
+0002#STR0002#ALL#Código
+0004#STR0004#ALL#Data da aquisição
+0005#STR0005#ALL#Dados da entidade
+0006#STR0006#ALL#Descrição tipo
+0009#STR0009#ALL#Valor original
+0010#STR0010#ALL#Valor ampliação
+0011#STR0011#ALL#Valor actualizado
+0012#STR0012#ALL#Deprec. acumulada
+0013#STR0013#ALL#Valor residual
+0015#STR0015#ALL#Texto total por entidade contabilística
+0016#STR0016#ALL#Total geral
+0018#STR0018#ALL#Valores do total por entidade contabilística
+0019#STR0019#ALL#Texto total por filial
+0020#STR0020#ALL#Valores do total por filial
+0021#STR0021#ALL#Texto total geral
+0022#STR0022#ALL#Valores do total geral
+0023#STR0023#ALL#A criar ficheiro temporário...
+0024#STR0024#ALL#Posição valorizada dos bens na data
+0028#STR0028#ALL#Digite código do bem válido
+0029#STR0029#ALL#Digite item do bem válido
+0030#STR0030#ALL#Digite grupo do bem válido
+0031#STR0031#ALL#Digite fornecedor válido
+0032#STR0032#ALL#Digite data de aquisição do bem válida
+0033#STR0033#ALL#Digite número da folha válida
+0034#STR0034#ALL#Deve ser seleccionadas, no máximo, 5 Moedas.
+0037#STR0037#ALL#Deve ser seleccionada, no mínimo, 1 filial.
+0038#STR0038#ALL#Deve ser seleccionada, no mínimo, 1 moeda.

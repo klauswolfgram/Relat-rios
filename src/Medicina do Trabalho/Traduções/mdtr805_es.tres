@@ -1,0 +1,120 @@
+0001#STR0001#ALL#Informe de Comprobante de Entrega de EPI.                                     
+0002#STR0002#ALL#Conforme parametros, el usuario puede seleccionar los empleados, periodo deseado 
+0003#STR0003#ALL#e indicar si desea imprimir apenas EPI no impresos o para todos.          
+0004#STR0004#ALL#A Rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#Comprobante de Entrega de EPI
+0007#STR0007#ALL#ANULADO POR EL OPERADOR
+0008#STR0008#ALL#COMPROBANTE DE ENTREGA DE EPI'S                                 |
+0009#STR0009#ALL#Emision:
+0010#STR0010#ALL#|Empleado.....:
+0011#STR0011#ALL#RG.:
+0012#STR0012#ALL#|Centro de Costo.:
+0013#STR0013#ALL#|Funcion..........:
+0014#STR0014#ALL#|Nacimiento......:
+0015#STR0015#ALL#Ingreso:
+0016#STR0016#ALL#Edad.:
+0017#STR0017#ALL#EPI
+0018#STR0018#ALL#Nombre del EPI
+0019#STR0019#ALL#Fecha Entr.
+0020#STR0020#ALL#Dev.
+0021#STR0021#ALL#SI
+0022#STR0022#ALL#NO
+0023#STR0023#ALL#|  Fecha : ____/____/____
+0024#STR0024#ALL#|  Firma : _______________________     Resp Empl: _______________________
+0025#STR0025#ALL#Cant.
+0026#STR0026#ALL#Num C.A.
+0027#STR0027#ALL#Empresa...:
+0028#STR0028#ALL#Direccion:
+0029#STR0029#ALL#Ciudad..:
+0030#STR0030#ALL#Estado..
+0031#STR0031#ALL#COMPROBANTE DE ENTREGA DE EPI                                              |
+0032#STR0032#ALL#|SIGA/MDTR805
+0033#STR0033#ALL#Num. CRF
+0034#STR0034#ALL#Num. CRI
+0035#STR0035#ALL#ACTA DE RESPONSABILIDAD                                                 |
+0036#STR0036#ALL#|     Fecha  : ____/____/____
+0037#STR0037#ALL#|       Firma: _______________________
+0038#STR0038#ALL#COMPROBANTE DE ENTREGA DE EPI  
+0039#STR0039#ALL#anos
+0040#STR0040#ALL#Hora
+0041#STR0041#ALL#ACTA DE RESPONSABILIDAD 
+0042#STR0042#ALL#Fecha Dev.
+0043#STR0043#ALL#¿De Centro Costo?
+0044#STR0044#ALL#¿A Centro de Costo?
+0045#STR0045#ALL#¿Considera func. dimitidos?
+0046#STR0046#ALL#Si
+0047#STR0047#ALL#No
+0048#STR0048#ALL#¿Nº de copias ?
+0049#STR0049#ALL#Una
+0050#STR0050#ALL#Dos
+0051#STR0051#ALL#¿Ordenar Recibos Por ?
+0052#STR0052#ALL#Matricula
+0053#STR0053#ALL#Centro de Costo
+0054#STR0054#ALL#Nombre Empleados                                  	
+0055#STR0055#ALL#Cod. C. Costo
+0056#STR0056#ALL#Nombre C. Costo
+0057#STR0057#ALL#¿Ordenar EPI Por ?
+0058#STR0058#ALL#Cod. EPI
+0059#STR0059#ALL#Nombre EPI
+0060#STR0060#ALL#De Fch. de Ingreso
+0061#STR0061#ALL#A Fch de Ingreso 
+0062#STR0062#ALL#¿De Cliente?
+0063#STR0063#ALL#Tda.
+0064#STR0064#ALL#¿A Cliente  ?
+0065#STR0065#ALL#Listar EPIs ?
+0066#STR0066#ALL#Categoria Empl.:
+0067#STR0067#ALL#¿Considerar Empl. Despedidos ?
+0068#STR0068#ALL#¿A Fecha Entrega      ?
+0069#STR0069#ALL#¿No. de Vias ?
+0070#STR0070#ALL#Termino Responsab. ¿
+0071#STR0071#ALL#Todos ?
+0072#STR0072#ALL#¿De Fecha Entrega ?
+0073#STR0073#ALL#¿A  Empleado ?
+0074#STR0074#ALL#¿De  Empleado ?
+0075#STR0075#ALL#RCPJ:
+0075#STR0075#ANG#RCPJ:
+0075#STR0075#ARG#RCPJ:
+0075#STR0075#AUS#RCPJ:
+0075#STR0075#BOL#RCPJ:
+0075#STR0075#BRA#RCPJ:
+0075#STR0075#CHI#RCPJ:
+0075#STR0075#COL#RCPJ:
+0075#STR0075#COS#RCPJ:
+0075#STR0075#DOM#RCPJ:
+0075#STR0075#EQU#RCPJ:
+0075#STR0075#EUA#RCPJ:
+0075#STR0075#HAI#RCPJ:
+0075#STR0075#MEX#RCPJ:
+0075#STR0075#PAD#RCPJ:
+0075#STR0075#PAN#RCPJ:
+0075#STR0075#PAR#RCPJ:
+0075#STR0075#PER#RCPJ:
+0075#STR0075#POR#RCPJ:
+0075#STR0075#PTG#RCPJ:
+0075#STR0075#RUS#RCPJ:
+0075#STR0075#SAL#RCPJ:
+0075#STR0075#TRI#RCPJ:
+0075#STR0075#URU#RCPJ:
+0075#STR0075#VEN#RCPJ:
+0076#STR0076#ALL#Firma.: _________________
+0077#STR0077#ALL#¿De Sucursal?
+0078#STR0078#ALL#¿A Sucursal?
+0079#STR0079#ALL#No existen datos para elaborar el informe.
+0080#STR0080#ALL#Atencion
+0081#STR0081#ALL#Sucursal....:
+0082#STR0082#ALL#Num. SA
+0083#STR0083#ALL#Item SA
+0084#STR0084#ALL#Analitico
+0085#STR0085#ALL#Sintetico
+0086#STR0086#ALL#Registro Biométrico
+0087#STR0087#ALL#Comprobante de devolucion de EPI
+0088#STR0088#ALL#Resp. Empr.: _______________________
+0089#STR0089#ALL#Fecha EPI
+0090#STR0090#ALL#Define el criterio de ordenación de los EPI. Puede ser por el código del EPI o por el nombre.
+0091#STR0091#ALL#Define si debe haber firma al lado del EPI.
+0092#STR0092#ALL#¿Firma lateral?
+0093#STR0093#ALL#Informe de comprobante de devolucion de EPI.                                   
+0094#STR0094#ALL#Código del término de responsabilidad.
+0095#STR0095#ALL#Número de copias que se imprimirán.
+0096#STR0096#ALL#Define si se considerará la firma lateral.

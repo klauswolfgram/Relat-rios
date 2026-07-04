@@ -1,0 +1,16 @@
+0001#STR0001#ALL#Histograma De Atendimento
+0002#STR0002#ALL#    este programa emite o histograma de atendimento, demonstrando os
+0003#STR0003#ALL#Tempos de atendimento a partir da pedido de assistência técnica, cofacturaorme os 
+0004#STR0004#ALL#Parâmetros solicitados
+0005#STR0005#ALL#Código de barras
+0006#STR0006#ALL#Administração
+0007#STR0007#ALL#Cliente                                  nr.ligação  recebido em      direccionado em   estado     nr.orç.   recebido em      direccionado em   estado     nr.os     recebida em      direccionado em   estado         tempo de
+0008#STR0008#ALL#Código    Nome                                       Data       Hora  Data       Hora  Ligação              Data       Hora  Data Hora        Do Orç.              Data       Hora  Data Hora        Da Os.     Atend. Em Hs
+0009#STR0009#ALL#Cancelado Pelo Operador
+0010#STR0010#ALL#Total do cliente: 
+0011#STR0011#ALL#Média: 
+0012#STR0012#ALL#Total crial: 
+0013#STR0013#ALL#Média: 
+0014#STR0014#ALL#Data Direccionada
+0015#STR0015#ALL#Hora Direccionada
+0016#STR0016#ALL#Tempo De Atend.(hs)

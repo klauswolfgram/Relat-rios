@@ -1,0 +1,27 @@
+0001#STR0001#ALL#REPORT OF SOLD PRODUCTS
+0002#STR0002#ALL#This Report shows the value of Sales of each Product, calculating
+0003#STR0003#ALL#its participation in the total Sales Amount. It also shows
+0004#STR0004#ALL#The FIFO cost of each fund and the FIFO cost of product replenishment.
+0005#STR0005#ALL#Z.Form
+0006#STR0006#ALL#Management
+0007#STR0007#ALL#RECORD(S)
+0008#STR0008#ALL#TP  CODE             D E S C R I P T I O N           QUANTITY    UM           TOTAL       COST PER        A M O U N T   MAR     MIX     MIX       REPLACEM.   VARIA
+0009#STR0009#ALL#                                                                              COST          UNIT           INVOICED     GIN            *MAR       COST         TION
+0010#STR0010#ALL#Selecting Records...
+0011#STR0011#ALL#CANCELLED BY THE OPERATOR
+0012#STR0012#ALL#Subtotal : 
+0013#STR0013#ALL#T O T A L ---> 
+0014#STR0014#ALL#Warning
+0015#STR0015#ALL#Update program patch 
+0016#STR0016#ALL#Total Cost 
+0017#STR0017#ALL#Cost by 
+0018#STR0018#ALL# Unity  
+0019#STR0019#ALL#Billed Value  
+0020#STR0020#ALL#Margin
+0021#STR0021#ALL#Mix
+0022#STR0022#ALL#*Mar
+0023#STR0023#ALL#Cost of  
+0024#STR0024#ALL#Replacem.
+0025#STR0025#ALL#Variat. 
+0026#STR0026#ALL#Outflow documents items     
+0027#STR0027#ALL#List of FIFO Sold Products

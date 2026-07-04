@@ -1,0 +1,22 @@
+0001#STR0001#ALL#STATEMENT OF ACCOUNTING GROUP X ACCOUNT
+0002#STR0002#ALL#Generating report, wait...
+0003#STR0003#ALL#one hundred
+0004#STR0004#ALL#one thousand
+0005#STR0005#ALL#one million
+0006#STR0006#ALL#Creating Temporary File...
+0007#STR0007#ALL#Responsable...
+0008#STR0008#ALL#You must enter reference date
+0009#STR0009#ALL#Parameter Consider equal to Period
+0010#STR0010#ALL#Date out of period
+0011#STR0011#ALL#Reference date
+0012#STR0012#ALL#Accounts/Balances
+0013#STR0013#ALL#(In 
+0014#STR0014#ALL#This program will print Results Statement, 
+0015#STR0015#ALL#according to parameters entered by the user.
+0016#STR0016#ALL#Class
+0017#STR0017#ALL#Description
+0018#STR0018#ALL#TOTAL PER GROUP
+0019#STR0019#ALL#GENERAL TOTAL
+0020#STR0020#ALL#Report available only in TReport.
+0021#STR0021#ALL#Check parameter MV_TREPORT.
+0022#STR0022#ALL#Selecting Records...

@@ -1,0 +1,21 @@
+0001#STR0001#ALL#Relatório de Movimentações de Instrumentos
+0003#STR0003#ALL#|---------------------------- empréstimo ----------------------------|     |---------------------------- recepção ----------------------------| 
+0004#STR0004#ALL#Instrumento        rev  fil  data      hora   respons.    nome                  fil departamento         data      hora   repons.     nome                  fil departamento     tipo moviment.  tipo devolução
+0005#STR0005#ALL#Relatório de movimentações de instrumentos entre filiais
+0006#STR0006#ALL#A seleccionar instrumentos ...
+0007#STR0007#ALL#*** cancelado pelo operador ***
+0009#STR0009#ALL# - revisão : 
+0012#STR0012#ALL#Devol. obrigatória
+0013#STR0013#ALL#Devol. não obrigatória
+0016#STR0016#ALL#Código de barras
+0017#STR0017#ALL#Administração
+0018#STR0018#ALL#Legenda Das Filiais
+0019#STR0019#ALL#Filial     descrição
+0020#STR0020#ALL#Legenda Dos Departamentos Por Filial
+0021#STR0021#ALL#Filial  depto             descrição
+0022#STR0022#ALL#Rev.
+0033#STR0033#ALL#Movimento
+0034#STR0034#ALL#Filial
+0035#STR0035#ALL#Descrição
+0036#STR0036#ALL#Departamento
+0039#STR0039#ALL#Não houve movimentação para os parâmetros especificados

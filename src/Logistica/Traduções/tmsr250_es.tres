@@ -1,0 +1,27 @@
+0001#STR0001#ALL#Informe Diario de Contratos Emitidos
+0002#STR0002#ALL#Este programa emitira el informe diario de con-
+0003#STR0003#ALL#tratos emitidos de acuerdo con los parametros elegi-
+0004#STR0004#ALL#dos por el usuario
+0005#STR0005#ALL#A Rayas
+0006#STR0006#ALL#Administracion
+0007#STR0007#ALL#CONTRATO DESTINO  NUMERO            VALOR           PESO     CAPACIDAD           KM        COSTO POR
+0008#STR0008#ALL#                  VIAJE          FLETE         TRANSP.      VEHICULO    PERCORRIDO         TONELADA
+0009#STR0009#ALL#CANCELADO POR EL OPERADOR
+0010#STR0010#ALL#FECHA EMISION :
+0011#STR0011#ALL#SUCURSAL ORIGEN :
+0012#STR0012#ALL#TIPO FLOTA :
+0013#STR0013#ALL#tratos emitidos de acuerdo con los parametros elegi-
+0014#STR0014#ALL#AGREGADO
+0015#STR0015#ALL#TOTAL DE TIPO ==>>
+0016#STR0016#ALL#TOTAL DA SUCURSAL ==>>
+0017#STR0017#ALL#Informe diario de contratos emitidos
+0018#STR0018#ALL#Este programa emitira el informe diario de contratos emitidos segun los parametros elegidos por el usuario
+0019#STR0019#ALL#Fecha Contr. + Suc. Origen
+0020#STR0020#ALL#Fecha Contrato
+0021#STR0021#ALL#Sucursal Origen
+0022#STR0022#ALL#Flota
+0023#STR0023#ALL#Contrato
+0024#STR0024#ALL#KM Recorridos
+0025#STR0025#ALL#Costo p/ Tonelada
+0026#STR0026#ALL#Total de Tipo
+0027#STR0027#ALL#Total de Sucursal

@@ -1,0 +1,31 @@
+0001#STR0001#ALL#LISTA CAPACITACIONES POR DEPARTAMENTO 
+0002#STR0002#ALL#Este programa imprimira una lista de capacitaciones     
+0003#STR0003#ALL#por departamento separados por documentos y usuarios    
+0004#STR0004#ALL#listando la fecha de incl. y proces.
+0005#STR0005#ALL#A Rayas
+0006#STR0006#ALL#Administrac. 
+0007#STR0007#ALL#Seleccionando registros.
+0008#STR0008#ALL#CAPACITANDO                  FUNCION             NUMERO/ANO  FCH. SOLICITUD  FCH.REALIZACION   PARTICIPANTE JUSTIFICATIVA
+0009#STR0009#ALL#                                                                                                                           
+0010#STR0010#ALL#ANULADO POR EL OPERADOR
+0011#STR0011#ALL#Departamento: 
+0012#STR0012#ALL#Documento: 
+0013#STR0013#ALL#Realizados/Pendientes
+0014#STR0014#ALL#Capacitacion:
+0015#STR0015#ALL#Realizado
+0016#STR0016#ALL#Pendiente
+0017#STR0017#ALL#Si
+0018#STR0018#ALL#No
+0019#STR0019#ALL#CAPACITANDO                  FUNCION             NUMERO/ANO  FCH. SOLICITUD  FCH.REALIZACION     
+0020#STR0020#ALL#                                                                                             
+0021#STR0021#ALL#¿De sucursal dept.?
+0022#STR0022#ALL#¿A sucursal dept.?
+0023#STR0023#ALL#Capacit.
+0024#STR0024#ALL#Funcion:
+0025#STR0025#ALL#Numero/Ano
+0026#STR0026#ALL#Fch. Solicitud 
+0027#STR0027#ALL#Fch. Realizac.
+0028#STR0028#ALL#Participante
+0029#STR0029#ALL#Justificativa
+0030#STR0030#ALL#Departamento
+0031#STR0031#ALL#Capacitan.

@@ -1,0 +1,61 @@
+0001#STR0001#ALL#Este programa vai imprimir o balancete de 
+0002#STR0002#ALL#De acordo com os parâmetros solicitados pelo utilizador. 
+0003#STR0003#ALL#Balancete de verificação 
+0004#STR0004#ALL#|conta                     |
+0005#STR0005#ALL#| descrição                |     saldo anterior    |       débito       |      crédito       | movimento do período |      saldo actual     |
+0006#STR0006#ALL#Balancete analitico de 
+0007#STR0007#ALL#Balancete sintetico de 
+0008#STR0008#ALL#Balancete de 
+0009#STR0009#ALL# de 
+0010#STR0010#ALL# até 
+0011#STR0011#ALL# em 
+0012#STR0012#ALL#|descrição                       |        saldo anterior        |       débito        |        crédito        |         saldo actual         |
+0013#STR0013#ALL# (de gestão)
+0014#STR0014#ALL#A Criar Ficheiro Temporário...
+0015#STR0015#ALL#Código de barras
+0016#STR0016#ALL#Administração
+0017#STR0017#ALL#***** cancelado pelo operador *****
+0018#STR0018#ALL#Totais do período: 
+0019#STR0019#ALL#T o t a i s  d o  g r u p o (
+0021#STR0021#ALL# conta 
+0022#STR0022#ALL#Div.
+0023#STR0023#ALL#Quadros Contabilísticos
+0024#STR0024#ALL#Totais Do Activo / Passivo
+0025#STR0025#ALL#Total Do Ativo
+0026#STR0026#ALL#Total Do Passivo
+0027#STR0027#ALL#Recibo De Resultados - Mensal
+0028#STR0028#ALL#Contas de resultado - 
+0029#STR0029#ALL#Credora
+0030#STR0030#ALL#Resultado do mês 
+0031#STR0031#ALL#Resultado acumulado até 
+0032#STR0032#ALL#Recibo Do Património Líquido Destacado
+0033#STR0033#ALL#Para o mês 
+0034#STR0034#ALL#| Património Líquido
+0035#STR0035#ALL#| Total Da Receita
+0036#STR0036#ALL#| Total Da Despesa
+0037#STR0037#ALL#| património líquido corrigido 
+0038#STR0038#ALL#| Movimento De Correcção
+0039#STR0039#ALL#Devedora
+0040#STR0040#ALL#Centro De Custo
+0041#STR0041#ALL#Código Reduzido C. Custo
+0042#STR0042#ALL#Descrição
+0043#STR0043#ALL#Conta
+0044#STR0044#ALL#Conta Res.
+0046#STR0046#ALL#Item Res.
+0047#STR0047#ALL#Cl. valor
+0048#STR0048#ALL#Cl.valor Res.
+0049#STR0049#ALL#Saldo Anterior
+0050#STR0050#ALL#Débito
+0050#STR0050#ANG#DÉBITO
+0050#STR0050#EQU#DÉBITO
+0050#STR0050#HAI#DÉBITO
+0050#STR0050#MEX#Débito
+0050#STR0050#PTG#Débito
+0051#STR0051#ALL#Crédito
+0051#STR0051#ANG#CRÉDITO
+0051#STR0051#EQU#CRÉDITO
+0051#STR0051#HAI#CRÉDITO
+0051#STR0051#MEX#Crédito
+0051#STR0051#PTG#Crédito
+0052#STR0052#ALL#Movimento Do Período
+0053#STR0053#ALL#Saldo Actual

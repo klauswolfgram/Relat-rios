@@ -1,0 +1,12 @@
+0001#STR0001#ALL#Orcado
+0002#STR0002#ALL#Realizado
+0003#STR0003#ALL#Relacao de Orçado/Realizado
+0004#STR0004#ALL#   Este programa ira imprimir a Relacao de Orçado x Realizado,
+0005#STR0005#ALL#conforme os parametros solicitados.
+0006#STR0006#ALL#
+0007#STR0007#ALL#Cabecalho da Proposta
+0008#STR0008#ALL#Itens da proposta
+0009#STR0009#ALL#Itens do Pedido de Venda
+0010#STR0010#ALL#   Total Geral
+0011#STR0011#ALL#Contrato de Serviço
+0012#STR0012#ALL#Ordem de Serviço

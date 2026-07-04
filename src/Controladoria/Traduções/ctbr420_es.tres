@@ -1,0 +1,53 @@
+0001#STR0001#ALL#Este programa imprimira el libro mayor contable de los asientos
+0002#STR0002#ALL#contab. agrupados por cuentas / documentos fiscales segun   
+0003#STR0003#ALL#los parametros configurados por el usuario
+0004#STR0004#ALL#A rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#Emision del libro mayor agrup. por cuentas/doc.fiscales
+0007#STR0007#ALL#MAYOR EN 
+0008#STR0008#ALL# DE 
+0009#STR0009#ALL# A 
+0010#STR0010#ALL#LOTE/SUB/DOC/LINEA      H I S T O R I A L                          DOC.FISCAL                              	                          DEBITO                                 CREDITO                             SALDO ACTUAL
+0010#STR0010#ANG#LOTE/SUB/DOC/LINEA      H I S T O R I A L                          DOC.FISCAL                              	                          DEBITO                                 CREDITO                             SALDO ACTUAL
+0010#STR0010#EQU#LOTE/SUB/DOC/LINEA      H I S T O R I A L                          DOC.FISCAL                              	                          DEBITO                                 CREDITO                             SALDO ACTUAL
+0010#STR0010#HAI#LOTE/SUB/DOC/LINEA      H I S T O R I A L                          DOC.FISCAL                              	                          DEBITO                                 CREDITO                             SALDO ACTUAL
+0010#STR0010#MEX#LOTE/SUB/PLZ/LINEA      H I S T O R I A L                          DOC.FISCAL                               	                         CARGO                                  ABONO                               SALDO ACT. 
+0010#STR0010#PTG#LOTE/SUB/DOC/LINEA      H I S T O R I A L                          DOC.FISCAL                              	                          DEBITO                                 CREDITO                             SALDO ACTUAL
+0011#STR0011#ALL#***** ANULADO POR EL OPERADOR *****
+0012#STR0012#ALL#CUENTA - 
+0013#STR0013#ALL#Seleccionando registros...
+0014#STR0014#ALL#Creando archivo temporal...
+0015#STR0015#ALL#FECHA
+0016#STR0016#ALL#T o t a l e s  d e   la  C u e n t a  ==> 
+0017#STR0017#ALL#A TRANSPORTAR :
+0018#STR0018#ALL#DE TRANSPORTE :
+0019#STR0019#ALL#T O T A L  G E N E R A L ==> 
+0020#STR0020#ALL#El plan de gestion no esta disponible en este informe. 
+0021#STR0021#ALL#Ese informe necesita del campo CT2_KEY. Favor crearlo con tipo caracter de 100
+0022#STR0022#ALL#Cta. 
+0023#STR0023#ALL#DESCRIPC.
+0024#STR0024#ALL#Asientos Contables   
+0025#STR0025#ALL#FCHA
+0026#STR0026#ALL#LOTE/SUB/DOC/LINEA
+0027#STR0027#ALL#HISTORIAL	
+0028#STR0028#ALL#DOC.FISCAL
+0028#STR0028#ANG#DOC.FISCAL
+0028#STR0028#EQU#DOC.FISCAL
+0028#STR0028#HAI#DOC.FISCAL
+0028#STR0028#MEX#PLZ.FISCAL
+0028#STR0028#PTG#DOC.FISCAL
+0029#STR0029#ALL#DEBITO
+0029#STR0029#ANG#DEBITO
+0029#STR0029#EQU#DEBITO
+0029#STR0029#HAI#DEBITO
+0029#STR0029#MEX#CARGO
+0029#STR0029#PTG#DEBITO
+0030#STR0030#ALL#CREDITO
+0030#STR0030#ANG#CREDITO
+0030#STR0030#EQU#CREDITO
+0030#STR0030#HAI#CREDITO
+0030#STR0030#MEX#ABONO
+0030#STR0030#PTG#CREDITO
+0031#STR0031#ALL#SALDO ACT. 
+0032#STR0032#ALL#Total.
+0033#STR0033#ALL#Complemento

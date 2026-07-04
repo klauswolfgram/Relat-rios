@@ -1,0 +1,28 @@
+0001#STR0001#ALL#De Fecha
+0002#STR0002#ALL#A Fecha 
+0003#STR0003#ALL#Informe de Automonitoreo de Residuos
+0004#STR0004#ALL#El informe presentara una lista
+0005#STR0005#ALL#del automonitoreo de los residuos.
+0006#STR0006#ALL#Residuos
+0007#STR0007#ALL#Residuo
+0008#STR0008#ALL#Descripcion
+0009#STR0009#ALL#Mes
+0010#STR0010#ALL#Ocurr.
+0011#STR0011#ALL#Generación
+0012#STR0012#ALL#Destino
+0013#STR0013#ALL#Fecha
+0014#STR0014#ALL#Hora
+0015#STR0015#ALL#Almacen.
+0016#STR0016#ALL#Empresa Responsable del Destino
+0017#STR0017#ALL#Num. CADRI
+0018#STR0018#ALL#A rayas
+0019#STR0019#ALL#Administracion
+0020#STR0020#ALL#El informe presentara una lista 
+0021#STR0021#ALL#del automonitoreo de los residuos.   
+0022#STR0022#ALL#Aguarde...
+0023#STR0023#ALL#Procesando Archivos...
+0024#STR0024#ALL#Espere
+0025#STR0025#ALL#Procesando Archivo...
+0026#STR0026#ALL#Residuo          Descripcion                                 Mes  Ocurr.      Generacion     Fecha Comp. Carga      Hora    Destino     Empresa responsable por la destinacion CADRI
+0027#STR0027#ALL#No hay datos para montar el informe.
+0028#STR0028#ALL#ATENCION

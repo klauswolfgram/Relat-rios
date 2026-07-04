@@ -1,0 +1,94 @@
+0001#STR0001#ALL#Este programa tiene como objetivo imprimir el movi- 
+0002#STR0002#ALL#miento de los vehiculos realizadas en el periodo sele-
+0003#STR0003#ALL#ccionados
+0004#STR0004#ALL#Movimiento de Vehiculos en el Periodo
+0005#STR0005#ALL#[C.In] [Marca--------------------------] [Fab/Mod] [Chasis del Vehiculo----] [Codigo Modelo---------------] [Descripcion Modelo----------] [Complemento Modelo] [Color del Vehiculo--------------------] [Operacion del Movto]
+0006#STR0006#ALL#A Rayas
+0007#STR0007#ALL#Administracion
+0008#STR0008#ALL# de 
+0009#STR0009#ALL# a 
+0010#STR0010#ALL# Tipo de Venta: 
+0011#STR0011#ALL#Normal
+0012#STR0012#ALL#Devolucion
+0013#STR0013#ALL#Todas
+0014#STR0014#ALL#*** ANULADO POR EL OPERADOR ***
+0015#STR0015#ALL#[Proveedor------------------------------------] [Fc Ent] [NºFac/Ser---] [Val  Costo] [Val  Total] [Valor Icms] [Alic] [Valor  Ipi] [Alic]
+0016#STR0016#ALL#Entrada:
+0017#STR0017#ALL#[Cliente--------------------------------------] [Fc Sal] [NºFac/Ser---] [Valor Pis-] [Val Cofins] [Valor Icms] [Alic] [Val. Total]
+0018#STR0018#ALL#Saida..:
+0019#STR0019#ALL#[Tp Facturac.] [Bono Fabr] [Seg Viaje] [Asesoria] [ Revisiones ] [Asociacion]
+0020#STR0020#ALL#Vehiculo Nuevo
+0021#STR0021#ALL#Vehiculo Usado
+0022#STR0022#ALL#Fact.Directa
+0023#STR0023#ALL#¿Fecha Inicial      ?
+0024#STR0024#ALL#¿Fecha Final        ?
+0025#STR0025#ALL#¿Modelo           ?
+0026#STR0026#ALL#Tipo Operacion     ?
+0027#STR0027#ALL#Venta
+0028#STR0028#ALL#Chasis
+0029#STR0029#ALL#Simulacion
+0030#STR0030#ALL#Transferencia
+0031#STR0031#ALL#Remesa
+0032#STR0032#ALL#Consignado
+0033#STR0033#ALL#Ret.Remesa
+0034#STR0034#ALL#Ret.Consignado
+0035#STR0035#ALL#Venta Futura
+0036#STR0036#ALL#Vehiculo
+0037#STR0037#ALL#C.Int
+0038#STR0038#ALL#Marca
+0039#STR0039#ALL#fab/Mod
+0040#STR0040#ALL#Chasis
+0041#STR0041#ALL#Modelo
+0042#STR0042#ALL#Descripcion Modelo
+0043#STR0043#ALL#Compl.Modelo
+0044#STR0044#ALL#Color
+0045#STR0045#ALL#Descripcion
+0046#STR0046#ALL#Operacion del Mov
+0047#STR0047#ALL#Separacion
+0048#STR0048#ALL#Entrada
+0049#STR0049#ALL#Proveedor
+0050#STR0050#ALL#Nombre
+0051#STR0051#ALL#Fc Ent
+0052#STR0052#ALL#Nr.Factura
+0053#STR0053#ALL#Serie
+0054#STR0054#ALL#Vlr Unitario
+0055#STR0055#ALL#Vlr Costo
+0056#STR0056#ALL#Vlr ICM
+0057#STR0057#ALL#Alic.ICM
+0058#STR0058#ALL#Vlr IPI
+0059#STR0059#ALL#Alic.IPI
+0060#STR0060#ALL#Salida
+0061#STR0061#ALL#Cliente
+0062#STR0062#ALL#Tienda
+0063#STR0063#ALL#Fecha Salida
+0064#STR0064#ALL#Serie
+0065#STR0065#ALL#Vlr PIS
+0066#STR0066#ALL#Vlr Cofins
+0067#STR0067#ALL#Vlr Total
+0068#STR0068#ALL#Vendedor
+0069#STR0069#ALL#Nombre del Vendedor
+0070#STR0070#ALL#Direccion
+0071#STR0071#ALL#Telefono
+0072#STR0072#ALL#Tp Facturacion
+0073#STR0073#ALL#Bono Fabr.
+0074#STR0074#ALL#Seg.Viaje
+0075#STR0075#ALL#Asesoria
+0076#STR0076#ALL#Revisiones
+0077#STR0077#ALL#Asociación
+0078#STR0078#ALL#Informe la Fecha Inicial para calculo del
+0079#STR0079#ALL#movimiento
+0080#STR0080#ALL#Informe la Fecha Final para calculo del
+0081#STR0081#ALL#Elija el Modelo especifico o deje en
+0082#STR0082#ALL#blanco para todos
+0083#STR0083#ALL#Tecla <F3> Disponible Para Consulta del
+0084#STR0084#ALL#Archivo de Modelos de Vehículos
+0085#STR0085#ALL#Informe el Tipo de Operacion:
+0086#STR0086#ALL#1-Venta
+0087#STR0087#ALL#2-Transferencia
+0088#STR0088#ALL#3-Envio
+0089#STR0089#ALL#4-Devolucion
+0090#STR0090#ALL#5-Todas
+0091#STR0091#ALL#Informe el Chasis del vehiculo o deje
+0092#STR0092#ALL#en blanco para todos
+0093#STR0093#ALL#Archivo de Chasis de Vehículos
+0094#STR0094#ALL#Movimiento de Vehiculos por Periodo

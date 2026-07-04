@@ -1,0 +1,23 @@
+0001#STR0001#ALL#This report will print a list of the Cancelled checks.
+0002#STR0002#ALL#List of Cancelled Checks.
+0003#STR0003#ALL#Z.Form
+0004#STR0004#ALL#Management
+0005#STR0005#ALL#List of Cancelled Checks.
+0006#STR0006#ALL#By Check 
+0007#STR0007#ALL#By Issuance
+0008#STR0008#ALL#Number                   Value Issuance   Beneficiary                                History  
+0009#STR0009#ALL#Cancelled by the Operator  
+0010#STR0010#ALL#Bank  : 
+0011#STR0011#ALL# -  Branch  : 
+0012#STR0012#ALL#Account: 
+0013#STR0013#ALL#Subtotal ----> 
+0014#STR0014#ALL#Grand Total --> 
+0015#STR0015#ALL#Checks  Total-> 
+0016#STR0016#ALL#Number
+0017#STR0017#ALL#Amnt.
+0018#STR0018#ALL#Issue  
+0019#STR0019#ALL#Beneficiary 
+0020#STR0020#ALL#History  
+0021#STR0021#ALL#Bank 
+0022#STR0022#ALL#Check 
+0023#STR0023#ALL#Totals

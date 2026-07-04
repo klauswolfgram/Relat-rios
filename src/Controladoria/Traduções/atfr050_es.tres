@@ -1,0 +1,26 @@
+0001#STR0001#ALL#Este programa emitirá la lista de los valores 
+0002#STR0002#ALL#que aún faltan depreciar para cada bien
+0003#STR0003#ALL#Saldo por depreciar
+0004#STR0004#ALL#Saldos por depreciar por bienes
+0005#STR0005#ALL#Código de descripción
+0006#STR0006#ALL#Código     Ítem Descripción
+0007#STR0007#ALL# por 
+0008#STR0008#ALL#ANULADO POR EL OPERADOR
+0009#STR0009#ALL#S U B T O T A L E S
+0010#STR0010#ALL#T O T A L E S
+0011#STR0011#ALL#Cuenta
+0012#STR0012#ALL#C.Costo
+0013#STR0013#ALL#A Rayas
+0014#STR0014#ALL#Administración
+0015#STR0015#ALL#Ítem contable
+0016#STR0016#ALL#Clase de valor
+0017#STR0017#ALL#Dados del ente
+0018#STR0018#ALL#Datos del bien
+0019#STR0019#ALL#Total de la cuenta: 
+0020#STR0020#ALL#Total de centro de costo: 
+0021#STR0021#ALL#El agrupador seleccionado
+0022#STR0022#ALL#está inactivo o fuera de validez.
+0023#STR0023#ALL#Atención
+0024#STR0024#ALL#VACÍA
+0025#STR0025#ALL#Cuando considera sucursales como Sí (A Sucursal) no puede estar vacía.
+0026#STR0026#ALL#no se encontró en la base de dados.

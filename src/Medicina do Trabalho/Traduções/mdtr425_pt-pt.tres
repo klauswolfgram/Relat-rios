@@ -1,0 +1,22 @@
+0001#STR0001#ALL#Relatório de apresentação das doencas por centro de custo. baseado nos
+0002#STR0002#ALL#Diagnostigos emitidos  pelos medicos, para os empregados.           
+0003#STR0003#ALL#Através dos parâmetro s poderá ser selecionada c.custo e/ou cid.  
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#Cid X Centro De Custo
+0007#STR0007#ALL#C.custo               Nome Do Centro De Custo
+0008#STR0008#ALL#C.I.D.   Descrição                                            Grupo C.I.D.
+0010#STR0010#ALL#Cancelado Pelo Operador
+0012#STR0012#ALL#De cliente ?
+0014#STR0014#ALL#Até cliente ?
+0015#STR0015#ALL#Código  do cliente. o campo pode permanecer vazio para considerar desde o primeiro código.
+0016#STR0016#ALL#Código  da loja do cliente. o campo pode permanecer vazio para considerar desde o primeiro código.
+0017#STR0017#ALL#Código  do cliente. o campo pode ser preenchido com a letra z até  o final para considerar o último código.
+0018#STR0018#ALL#Código  da loja do cliente. o campo pode ser preenchido com a letra z até  o final para considerar o último código.
+0019#STR0019#ALL#Cliente/loja: 
+0020#STR0020#ALL#Não existe informação para imprimir no relatório.
+0021#STR0021#ALL#Até Data Diagnóst. ?
+0022#STR0022#ALL#De  Data Diagnóst. ?
+0023#STR0023#ALL#Até CID ?
+0025#STR0025#ALL#Até Centro de Custo?
+0026#STR0026#ALL#De Centro de Custo?

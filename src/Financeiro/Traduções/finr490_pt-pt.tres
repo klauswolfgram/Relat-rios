@@ -1,0 +1,23 @@
+0001#STR0001#ALL#Este programa vai imprimir as cópias dos cheques emitidos.
+0003#STR0003#ALL#Cópias De Cheques
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0007#STR0007#ALL#  -  Cópia De Cheque
+0008#STR0008#ALL#|  número cheque 
+0009#STR0009#ALL#Data da emissão 
+0010#STR0010#ALL#|  banco 
+0011#STR0011#ALL#Agência
+0012#STR0012#ALL#   conta 
+0013#STR0013#ALL#|  valor cheque 
+0014#STR0014#ALL#Data do cheque  
+0015#STR0015#ALL#|  titular 
+0016#STR0016#ALL#|  histórico  
+0017#STR0017#ALL#|  cópia de cheque nº 
+0019#STR0019#ALL#|observações      |contas a pagar|gerente financ|contabilidade |assinado por   |
+0020#STR0020#ALL#Copia do cheque : 
+0021#STR0021#ALL# - Continuação
+0022#STR0022#ALL#|- composição do cheque 
+0023#STR0023#ALL#|fornec    nome fornecedor                 natureza                            |
+0024#STR0024#ALL#|       prf. número        p.   venct.                  valor do título          |
+0025#STR0025#ALL#|forn.                  nome fornecedor                 natureza              |
+0026#STR0026#ALL#|Fornec Nome Fornecedor    Natureza  Prf Número    Pc Vencto    Valor do Título|

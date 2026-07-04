@@ -1,0 +1,13 @@
+0001#STR0001#ALL#Este programa ira emitir o cadastro de Historico.
+0002#STR0002#ALL#.
+0003#STR0003#ALL#Cadastro de Historicos
+0004#STR0004#ALL#| CODIGO  | TIPO | DESCRICAO                                                    |
+0005#STR0005#ALL#CANCELADO PELO OPERADOR
+0006#STR0006#ALL#Zebrado
+0007#STR0007#ALL#Administracao
+0008#STR0008#ALL#Selecionando Registros...
+0009#STR0009#ALL#Codigo
+0010#STR0010#ALL#Descricao
+0011#STR0011#ALL# - Ordem por: 
+0012#STR0012#ALL#Tipo
+0013#STR0013#ALL# - Por 

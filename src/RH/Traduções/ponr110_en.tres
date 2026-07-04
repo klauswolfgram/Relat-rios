@@ -1,0 +1,36 @@
+0001#STR0001#ALL#Report for Premium
+0002#STR0002#ALL#It will be printed according to the parameters selected by
+0003#STR0003#ALL#the User.
+0004#STR0004#ALL#Registration
+0005#STR0005#ALL#Cost Center
+0006#STR0006#ALL#Name
+0007#STR0007#ALL#Shift
+0008#STR0008#ALL#Z.Form
+0009#STR0009#ALL#Management
+0010#STR0011#ALL#Descript.Code            Hours Justification                 Checked
+0011#STR0012#ALL#Reg. Nr.
+0012#STR0013#ALL#Reg.
+0013#STR0014#ALL#Employee
+0014#STR0015#ALL#C.C: 
+0015#STR0017#ALL#Branch: 
+0016#STR0018#ALL# Shift: 
+0017#STR0019#ALL#    C.C: 
+0018#STR0020#ALL#C.Center+Name
+0019#STR0021#ALL#Reg. Nr.: 
+0020#STR0022#ALL#Reg.: 
+0021#STR0023#ALL#Employee: 
+0022#STR0024#ALL#Estimated
+0023#STR0025#ALL#Accomplished
+0024#STR0026#ALL#Date
+0025#STR0027#ALL#Select the printing option: 
+0026#STR0028#ALL#By Period
+0027#STR0029#ALL#By Dates
+0028#STR0030#ALL#Process: 
+0029#STR0031#ALL#Period: 
+0030#STR0032#ALL#Procedure: 
+0031#STR0033#ALL#Paym. Nbr.: 
+0032#STR0034#ALL#Department
+0033#STR0035#ALL#Dep.: 
+0034#STR0036#ALL#Compensated
+0035#STR0037#ALL#P.W.R
+0036#STR0038#ALL#Not worked

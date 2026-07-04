@@ -1,0 +1,33 @@
+0001#STR0001#ALL#Packed Separation Map
+0002#STR0002#ALL#Z. form
+0003#STR0003#ALL#Management   
+0004#STR0004#ALL# Custom.   Product                                              Qty.            Qty. Shp.Wareh.   WRH 
+0005#STR0005#ALL#CANCELLED BY OPERATOR  
+0006#STR0006#ALL#Map number      :
+0007#STR0007#ALL#Separator number : _______________              Number of errors : __________
+0008#STR0008#ALL#Checker number   : _______________              Number of errors : __________
+0009#STR0009#ALL#Packer number    : _______________              Number of errors : __________
+0010#STR0010#ALL#w/
+0011#STR0011#ALL#Cargo           :
+0012#STR0012#ALL#Destinat. Address:
+0013#STR0013#ALL#Number of items  :
+0014#STR0014#ALL#Total weight(KG):
+0015#STR0015#ALL#Cube             :
+0016#STR0016#ALL#Number of packs  :
+0017#STR0017#ALL#Vehicle plate    :
+0018#STR0018#ALL#Movevent by address
+0019#STR0019#ALL#Custm.
+0020#STR0020#ALL#Qty.
+0021#STR0021#ALL#Ship.Qty
+0022#STR0022#ALL#W/
+0023#STR0023#ALL#Item No.
+0024#STR0024#ALL#Total Weight (KG)
+0025#STR0025#ALL#Cube   
+0026#STR0026#ALL#Cargos
+0027#STR0027#ALL#No.of Volumes
+0028#STR0028#ALL#Vehicle Plate
+0029#STR0029#ALL#Total
+0030#STR0030#ALL#The purpose of this report is to Issue and Print or just Print a Separation Map for Quantities in grouping units (boxes, for example), according to entered parameters.
+0031#STR0031#ALL#Separation Map Header
+0032#STR0032#ALL#Order
+0033#STR0033#ALL#Separation Map Items

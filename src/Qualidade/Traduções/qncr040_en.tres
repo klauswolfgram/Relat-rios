@@ -1,0 +1,38 @@
+0001#STR0001#ALL#Action Plan Report 
+0002#STR0002#ALL#Printed according to the parameters selected by the User.
+0003#STR0003#ALL#Yea+Action Plan+Review
+0004#STR0004#ALL#Action Plan+Review
+0005#STR0005#ALL#Z.Form
+0006#STR0006#ALL#Management
+0007#STR0007#ALL#ACTION PLAN 
+0008#STR0008#ALL#Corrective
+0009#STR0009#ALL#Preventive
+0010#STR0010#ALL#Improvement
+0011#STR0011#ALL#Registered
+0012#STR0012#ALL#Under Analysis
+0013#STR0013#ALL#Proceeds
+0014#STR0014#ALL#Does not proceed
+0015#STR0015#ALL#Cancelled
+0016#STR0016#ALL#No. 
+0017#STR0017#ALL#Review: 
+0018#STR0018#ALL#Opening Date: 
+0019#STR0019#ALL#Closing Date: 
+0020#STR0020#ALL#Action 
+0021#STR0021#ALL#Responsible: 
+0022#STR0022#ALL#Status: 
+0023#STR0023#ALL#Detailed Description
+0024#STR0024#ALL#Possible Reasons
+0025#STR0025#ALL#Actions
+0026#STR0026#ALL#Responsible                    Expected   Conclusion  Descr.
+0027#STR0027#ALL#Expected Result
+0028#STR0028#ALL#Actual Result
+0029#STR0029#ALL#Related occurrence/non-conformance card
+0030#STR0030#ALL#FNC Nr.          Originator Rv                     Opening    Description
+0031#STR0031#ALL#Responsible
+0032#STR0032#ALL#Status
+0033#STR0033#ALL#Originator
+0034#STR0034#ALL#Header   
+0035#STR0035#ALL#Descript. of Stages 
+0036#STR0036#ALL#Secret Information
+0037#STR0037#ALL#Access allowed to 
+0038#STR0038#ALL# and to persons resp. for stages

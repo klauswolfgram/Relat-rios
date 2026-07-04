@@ -1,0 +1,23 @@
+0001#STR0001#BRA#Compra com Entrega Futura
+0002#STR0002#BRA#Relação de Saldo de Compra com Entrega Futura.
+0003#STR0003#BRA#Processos
+0004#STR0004#BRA#Faturada
+0005#STR0005#BRA#Remessa
+0006#STR0006#BRA#Saldo
+0007#STR0007#BRA#TES
+0008#STR0008#BRA#CFOP
+0009#STR0009#BRA#Custo
+0010#STR0010#BRA#Total do Processo
+0011#STR0011#BRA#U.M.
+0012#STR0012#BRA#* O termo Desfazimento refere-se ao cancelamento do contrato com o fornecedor, sendo que não ocorrerá mais remessa de mercadoria.
+0013#STR0013#BRA#Neste caso, o saldo relacionado ao processo de compra com entrega futura é encerrado.
+0014#STR0014#BRA#Tipo
+0015#STR0015#BRA#N.F
+0016#STR0016#BRA#Serie
+0017#STR0017#BRA#Item
+0018#STR0018#BRA#Fornecedor
+0019#STR0019#BRA#Loja
+0020#STR0020#BRA#Pedido
+0021#STR0021#BRA#It.Pedido
+0022#STR0022#BRA#Produto
+0023#STR0023#BRA#Descricao

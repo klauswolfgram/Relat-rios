@@ -1,0 +1,23 @@
+0001#STR0001#ALL#BackLog de Atendimento
+0002#STR0002#ALL#Este programa ira emitir uma relacao dos chamados alocados por equipes.
+0003#STR0003#ALL#A emissao ocorrera baseada nos parametros do relatorio
+0004#STR0004#ALL#Equipes
+0005#STR0005#ALL#Chamados
+0006#STR0006#ALL#Totalizado Sintético
+0007#STR0007#ALL#Cliente
+0008#STR0008#ALL#Descrição
+0009#STR0009#ALL#Equipe que transferiu
+0010#STR0010#ALL#Dt transferência
+0011#STR0011#ALL#Analista
+0012#STR0012#ALL#Ult Interação
+0013#STR0013#ALL#Prazo sem atendimento
+0014#STR0014#ALL#Total de Chamados 
+0015#STR0015#ALL#Equipe
+0016#STR0016#ALL#Nome
+0017#STR0017#ALL#Qtde de chamados em aberto
+0018#STR0018#ALL#Qtde de interações
+0019#STR0019#ALL#% Cliente
+0020#STR0020#ALL#% Analista
+0021#STR0021#ALL#Resultados por equipes
+0022#STR0022#ALL#Entidade Resp.
+0023#STR0023#ALL#Contato Resp.

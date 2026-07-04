@@ -1,0 +1,42 @@
+0001#STR0001#ALL#Este programa tem como objetivo imprimir o arquivo
+0002#STR0002#ALL#Retorno da Comunicacao Bancaria SISPAG, conforme 
+0003#STR0003#ALL#layout previamente configurado.
+0004#STR0004#ALL#Impressao do Retorno do SISPAG 
+0005#STR0005#ALL#Zebrado
+0006#STR0006#ALL#Administracao
+0007#STR0007#ALL#TITULO         TP  FORNECEDOR                VALOR  OCORRENCIA
+0008#STR0008#ALL#OCORRENCIA NAO ENCONTRADA 
+0009#STR0009#ALL#TITULO NAO ENCONTRADO
+0010#STR0010#ALL#TITULO OK
+0011#STR0011#ALL#TITULO JA BAIXADO
+0012#STR0012#ALL#CANCELADO PELO OPERADOR
+0013#STR0013#ALL#Valor recebido s/ titulo
+0014#STR0014#ALL#TITULO REJEITADO
+0015#STR0015#ALL#PAGAMENTO AGENDADO
+0016#STR0016#ALL#PGTO AGENDADO ALTER. P/ OP
+0017#STR0017#ALL#Por favor, indique no registro detalhe do arquivo de configuração segmento N, no nome do campo, o identificador SEU NUMERO utilizado para localizar, no arquivo retorno,o título a ser baixado
+0018#STR0018#ALL#Por favor, indique no registro detalhe do arquivo de configuração segmento N, no nome do campo, o identificador PRINCIPAL utilizado para localizar, no arquivo retorno, o valor principal a ser baixado
+0019#STR0019#ALL#Por favor, indique no registro detalhe do arquivo de configuração segmento N, no nome do campo, o identificador MULTA utilizado para localizar, no arquivo retorno, o valor principal a ser baixado
+0020#STR0020#ALL#Titulos Rejeitados
+0021#STR0021#ALL#Titulos não encontrados
+0022#STR0022#ALL#Titulos ja baixados
+0023#STR0023#ALL#Ocorrencia não encontrada
+0024#STR0024#ALL#SubTotais do Relatorio
+0025#STR0025#ALL#Totais do Relatorio
+0026#STR0026#ALL#Por favor, indique no registro detalhe do arquivo de configuração segmento N, no nome do campo, o identificador
+0027#STR0027#ALL#utilizado para localizar, no arquivo retorno, o valor dos campos.
+0028#STR0028#ALL#PRF
+0029#STR0029#ALL#TITULO
+0030#STR0030#ALL#PC
+0031#STR0031#ALL#TP
+0032#STR0032#ALL#FORNECEDOR
+0033#STR0033#ALL#VALOR
+0034#STR0034#ALL#OCORRENCIA
+0035#STR0035#ALL#Titulos do SISPAG
+0036#STR0036#ALL#Totais
+0037#STR0037#ALL#PA JA DEBITADO
+0038#STR0038#ALL#VLR PAGO MAIOR
+0039#STR0039#ALL#VLR PAGO MENOR
+0040#STR0040#ALL#Relatório Retorno CNAB (FINR650)
+0041#STR0041#ALL#Rotina Descontinuada
+0042#STR0042#ALL#Alerta

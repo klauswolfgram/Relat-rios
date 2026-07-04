@@ -1,0 +1,9 @@
+0001#STR0001#ALL#Select file 
+0002#STR0002#ALL#File selected not found
+0003#STR0003#ALL#File is in Use
+0004#STR0004#ALL#File does not belong to the Search
+0005#STR0005#ALL#Document template(*.PES)  |*.PES|Document template(*.CSV) |*.CSV|
+0006#STR0006#ALL#Select
+0007#STR0007#ALL#Results of Researches Saved in the Base
+0008#STR0008#ALL#Enter table name used!
+0009#STR0009#ALL#No researches made in its database. If there are search files (.PES or .CSV) to be queried, use the RSPM003 routine for data import.

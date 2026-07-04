@@ -1,0 +1,35 @@
+0001#STR0001#ALL#Emite uma relacao para controle das solicitacoes cadastradas ,
+0002#STR0002#ALL#seus respectivos pedidos e prazos de entrega.
+0003#STR0003#ALL# Por Solicitacao    
+0004#STR0004#ALL# Por Produto        
+0005#STR0005#ALL#Relacao de Solicitacoes de Compras
+0006#STR0006#ALL#Zebrado
+0007#STR0007#ALL#Administracao
+0008#STR0008#ALL#REGISTRO(S)
+0009#STR0009#ALL#RELACAO DE SOLICITACOES DE COMPRAS
+0010#STR0010#ALL# (Incluindo Pedidos de Compra)
+0011#STR0011#ALL#NUMERO ITEM PRODUTO         D E S C R I C A O              TP GRUP   QUANTIDADE UM               CENTRO EMISSAO    ENTREGA    SOLICITANTE  DT.LIMITE         SALDO N.PED/ CODIGO LJ RAZAO SOCIAL                  DATA DE 
+0012#STR0012#ALL#                                                                     SOLICITADA                   CUSTO            DA S.C.                 DE COMPRA       DA S.C. N.COT. FORNEC                                  EMISSAO 
+0013#STR0013#ALL#Selecionando Registros...
+0014#STR0014#ALL#CANCELADO PELO OPERADOR
+0015#STR0015#ALL#Total  -  
+0016#STR0016#ALL#Pedidos gerados por cotacao Num.
+0017#STR0017#ALL#NUMERO ITEM PRODUTO         D E S C R I C A O              TP GRUP   QUANTIDADE UM               CENTRO EMISSAO    ENTREGA    SOLICITANTE  DT.LIMITE         SALDO        CODIGO LJ RAZAO SOCIAL                        
+0018#STR0018#ALL#                                                                     SOLICITADA                   CUSTO            DA S.C.                 DE COMPRA       DA S.C.        FORNEC                                        
+0019#STR0019#ALL#Dt.Limite
+0020#STR0020#ALL#Saldo SC
+0021#STR0021#ALL#CANCELADA PELO SISTEMA.
+0022#STR0022#ALL#Solicitações de Compras
+0023#STR0023#ALL#de Compra
+0024#STR0024#ALL#Numero
+0025#STR0025#ALL#SC
+0026#STR0026#ALL#Item
+0027#STR0027#ALL#Tp
+0028#STR0028#ALL#UM
+0029#STR0029#ALL#Data de
+0030#STR0030#ALL#Emissao
+0031#STR0031#ALL#Entrega
+0032#STR0032#ALL#Numero
+0033#STR0033#ALL#PC
+0034#STR0034#ALL#Fornec.
+0035#STR0035#ALL#Lj

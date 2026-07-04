@@ -1,0 +1,52 @@
+0001#STR0001#ALL#This program will print the Balance Sheet Model 2 (220 Columns). There is a
+0002#STR0002#ALL#maximum of 70 characters to the account and 70 characters to the description.
+0003#STR0003#ALL#The debit and credit balance columns for the period are also printed.
+0004#STR0004#ALL#General Balance
+0005#STR0005#ALL#Z.Form
+0006#STR0006#ALL#Management
+0007#STR0007#ALL#|                            A C C O U N T                              |                  D E N O M I N A T I O N                             |                          B  A  L  A  N  C  E  S                           |
+0008#STR0008#ALL#|                                                                       |                                                                      |            D E B I T                |          C R E D I T                |
+0008#STR0008#ANG#|                                                                       |                                                                      |            D E B I T                |          C R E D I T                |
+0008#STR0008#EQU#|                                                                       |                                                                      |            D E B I T                |          C R E D I T                |
+0008#STR0008#HAI#|                                                                       |                                                                      |            D E B I T                |          C R E D I T                |
+0008#STR0008#MEX#|                                                                       |                                                                      |            D E B I T                |          C R E D I T                |
+0008#STR0008#PTG#|                                                                       |                                                                      |            D E B I T                |          C R E D I T                |
+0009#STR0009#ALL#SUMMARIZED GENERAL BALANCE OF 
+0010#STR0010#ALL#DETAILED GENERAL BALANCE OF 
+0011#STR0011#ALL#GENERAL BALANCE OF 
+0012#STR0012#ALL# UNTIL 
+0013#STR0013#ALL# IN 
+0014#STR0014#ALL# (BUDGETED)
+0015#STR0015#ALL# (MANAGERIAL)
+0016#STR0016#ALL#...Creating temporary file...
+0017#STR0017#ALL#*** Cancelled by the Operator ***
+0018#STR0019#ALL#UPPER DEBIT: 
+0018#STR0019#ANG#UPPER DEBIT: 
+0018#STR0019#EQU#UPPER DEBIT: 
+0018#STR0019#HAI#UPPER DEBIT: 
+0018#STR0019#MEX#UPPER DEBIT: 
+0018#STR0019#PTG#UPPER DEBIT: 
+0019#STR0020#ALL#LOWER CREDIT: 
+0019#STR0020#ANG#LOWER CREDIT: 
+0019#STR0020#EQU#LOWER CREDIT: 
+0019#STR0020#HAI#LOWER CREDIT: 
+0019#STR0020#MEX#LOWER CREDIT: 
+0019#STR0020#PTG#LOWER CREDIT: 
+0020#STR0021#ALL#T O T A L    -  G R O U P (
+0021#STR0022#ALL#T O T A L   : 
+0022#STR0023#ALL#ACCOUNT  
+0023#STR0024#ALL#D E N O M I N A T I O N
+0024#STR0026#ALL#D E B I T  
+0024#STR0026#ANG#D E B I T  
+0024#STR0026#EQU#D E B I T  
+0024#STR0026#HAI#D E B I T  
+0024#STR0026#MEX#D E B I T  
+0024#STR0026#PTG#D E B I T  
+0025#STR0027#ALL#C R E D I T  
+0025#STR0027#ANG#C R E D I T  
+0025#STR0027#EQU#C R E D I T  
+0025#STR0027#HAI#C R E D I T  
+0025#STR0027#MEX#C R E D I T  
+0025#STR0027#PTG#C R E D I T  
+0026#STR0028#ALL#Totals
+0027#STR0029#ALL#BALANCE  

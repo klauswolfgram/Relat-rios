@@ -1,0 +1,33 @@
+0001#STR0001#ALL#Neste relatório seräo impressos os lead-times referentes às Entradas
+0002#STR0002#ALL#dos Produtos/Fornecedores.
+0003#STR0003#ALL#Lead-Time
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#Periodo : 
+0007#STR0007#ALL# a 
+0008#STR0008#ALL#Entradas em Transito
+0009#STR0009#ALL#Entradas em Laboratorio
+0010#STR0010#ALL#Entradas com Laudo
+0011#STR0011#ALL#Selecionando Registros...
+0012#STR0012#ALL#Calculos das Medias
+0013#STR0013#ALL#Grupo
+0014#STR0014#ALL#Lt.Trans
+0015#STR0015#ALL#Lt.Laudo
+0016#STR0016#ALL#Lt.Total
+0017#STR0017#ALL#Lt.Disp.
+0018#STR0018#ALL#Lt.Labor.
+0019#STR0019#ALL#GERAL
+0020#STR0020#ALL#Lead-Time Transito: tempo decor. desde a Entrada ou Data Entrada em Laboratorio ate' hoje.
+0021#STR0021#ALL#Lead-Time Laudo ..: tempo decorrido desde a Entrada ate' a Saida do Laboratorio.
+0022#STR0022#ALL#Lead-Time Total ..: tempo decorrido desde a Entrada do Produto ate' a Saida Laboratorio.
+0023#STR0023#ALL#Lead-Time Disp. ..: tempo decor. desde Saida Laboratorio ate' Disponibilizacao Laudo.
+0024#STR0024#ALL#Lead-Time Transito: tempo decor. desde a Entrada do Produto ate' a data de hoje.
+0025#STR0025#ALL#Lead-Time: tempo decorrido desde a Entrada Laboratorio ate' a data de hoje.
+0026#STR0026#ALL#Entr. Laborat.
+0027#STR0027#ALL#Saida Laborat.
+0028#STR0028#ALL#Disp. Laudo
+0029#STR0029#ALL#TOTAL TRANSITO
+0030#STR0030#ALL#TOTAL LAUDO
+0031#STR0031#ALL#TOTAL GERAL
+0032#STR0032#ALL#TOTAL LABORATORIO
+0033#STR0033#ALL#TOTAL DISPONIBILIDADE

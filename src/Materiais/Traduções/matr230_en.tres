@@ -1,0 +1,27 @@
+0001#STR0001#ALL#Requisitions for Consump.
+0002#STR0002#ALL#Issues the list of requisitions for consumption, separating by 
+0003#STR0003#ALL#requester Cost Center or Account. This report is a little 
+0004#STR0004#ALL#slow, since it builds the index file at the moment.   
+0005#STR0005#ALL# Cost Center 
+0006#STR0006#ALL# Account 
+0007#STR0007#ALL#Z.Form
+0008#STR0008#ALL#Management   
+0009#STR0009#ALL#RECORD(S)
+0010#STR0010#ALL#Selecting Records    ...
+0011#STR0011#ALL#C.C       DESCRIPTION               CODE   PRODUCT  DESCRIPTION               UM       QUANTITY             UNIT          C O S T
+0012#STR0012#ALL#                                                                                                            COST        T O T A L
+0013#STR0013#ALL#CANCELLED BY OPERATOR
+0014#STR0014#ALL#Total of Group 
+0015#STR0015#ALL#Total Cost Center    
+0016#STR0016#ALL#GRAND TOTAL ...........................
+0017#STR0017#ALL#  DATE      COST       DESCRIPTION                ACCOUNT               DESCRIPTION                         V A L U E
+0018#STR0018#ALL#Total of Account --> 
+0019#STR0019#ALL#T O T A L --->
+0020#STR0020#ALL#            CENTRER                                                                                                  
+0021#STR0021#ALL#Descript.
+0022#STR0022#ALL#Value
+0023#STR0023#ALL#Cost
+0024#STR0024#ALL#Unit Vl.
+0025#STR0025#ALL#Total
+0026#STR0026#ALL#Internal movement items      
+0027#STR0027#ALL#The Question of Group MATR230 is incorrect.

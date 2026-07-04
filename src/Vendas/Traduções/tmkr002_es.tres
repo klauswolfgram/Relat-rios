@@ -1,0 +1,72 @@
+0001#STR0001#ALL#Llamadas recibidas - Telemerketing
+0002#STR0002#ALL#Este programa emitira una lista de las llamadas
+0003#STR0003#ALL#realizadas por el operador en la atencion Telemarketing
+0004#STR0004#ALL#conforme los parametros previamente definidos
+0005#STR0005#ALL#A rayas
+0006#STR0006#ALL#Administracion
+0007#STR0007#ALL#ANULADO POR EL OPERADOR
+0008#STR0008#ALL#Total de atenciones realizadas
+0009#STR0009#ALL#Total del
+0010#STR0010#ALL#Medio
+0011#STR0011#ALL#Campaña
+0012#STR0012#ALL#Operador
+0013#STR0013#ALL#Atencion
+0014#STR0014#ALL#Fecha
+0015#STR0015#ALL#Contacto
+0016#STR0016#ALL#Nombre del Contacto
+0017#STR0017#ALL#Descripcion de la Entidad
+0018#STR0018#ALL#Empresa
+0019#STR0019#ALL#Nombre del Operador
+0020#STR0020#ALL#Descripcion del Medio
+0021#STR0021#ALL#Llamada
+0022#STR0022#ALL#Estado
+0023#STR0023#ALL#Comunicacion
+0024#STR0024#ALL#Descripcion de la Comunicacion
+0025#STR0025#ALL#Descripcion de la Campaña
+0026#STR0026#ALL#Retorno
+0027#STR0027#ALL#Hora
+0028#STR0028#ALL#Observacion
+0029#STR0029#ALL#Total general de todas las atenciones receptivas atendidas por el Telemarketing
+0030#STR0030#ALL#Total de Atenciones realizadas 
+0031#STR0031#ALL#Total general de las ocurrencias del producto 
+0032#STR0032#ALL#De acuerdo con los parametros informados, no hay datos para imprimir este informe
+0033#STR0033#ALL#Item  Asunto               Cod. Producto   Producto                        Ocurrencia                      Acción                                              Responsable      Fch Acc.  Estatus       Ejecuc. 
+0034#STR0034#ALL#Observacion de la atencion
+0035#STR0035#ALL#Complemento de la ejecucion
+0036#STR0036#ALL#No localizado en el archivo...
+0037#STR0037#ALL#No informado en la atencion...
+0038#STR0038#ALL#TOTAL DE ATENCIONES DEL  OPERADOR 
+0039#STR0039#ALL#FCHA      TOTAL           % PORCENTAJE
+0040#STR0040#ALL#TOTAL GRAL  DE ATENCIONES RECIBIDAS POR TELEMARKETING   
+0041#STR0041#ALL#PROM. DIARIO DE ATENCIONES RECEPTIVAS EN PERIODO DE   
+0042#STR0042#ALL#RANKING DE OPERADORES Y PROM. DE ATENCION   
+0043#STR0043#ALL#OPERADOR                                             TOTAL                  T.M.K MEDIO
+0044#STR0044#ALL#MEDIOS DE MAYOR RECONOCIMIEN.
+0045#STR0045#ALL#MEDIOS                                                                            TOTAL 
+0046#STR0046#ALL#MEDIOS DE MAYOR RECONOCIMIENTO POR CAMPANA
+0047#STR0047#ALL#CAMPANAS  DE MAYOR REALIZAC
+0048#STR0048#ALL#CAMPANA                                                                           TOTAL 
+0049#STR0049#ALL#PROMEDIO DE ATENCION (TMK) DE OPERADPRES POR CAMPANA 
+0050#STR0050#ALL#CAMPANA                                              TOTAL                  T.M.K MEDIO
+0051#STR0051#ALL#Tel. Com.1
+0052#STR0052#ALL#E-Mail
+0053#STR0053#ALL#Direcc. 
+0054#STR0054#ALL#Ciudad
+0055#STR0055#ALL#Asunto
+0056#STR0056#ALL#Ocurrencia
+0057#STR0057#ALL#Accion
+0058#STR0058#ALL#Responsable
+0059#STR0059#ALL#Fecha
+0060#STR0060#ALL#Total
+0061#STR0061#ALL#Porcentaje
+0062#STR0062#ALL#T.M.A Medio
+0063#STR0063#ALL#Descr. del Producto
+0064#STR0064#ALL#Operadores
+0065#STR0065#ALL#Encabezam. de Atencion - Telemarketing
+0066#STR0066#ALL#Items de Atencion - Telemarketing
+0067#STR0067#ALL#Total de Atenciones del Operador
+0068#STR0068#ALL#Total por Fch. de Operador
+0069#STR0069#ALL#Total Gral. de Atenciones
+0070#STR0070#ALL#Ranking por operador
+0071#STR0071#ALL#Promedio Total
+0072#STR0072#ALL#MULTIMEDIO MAYOR RECONOCIMIENTO POR CAMPAÑA

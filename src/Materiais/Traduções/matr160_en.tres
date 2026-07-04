@@ -1,0 +1,15 @@
+0001#STR0001#ALL#Print a report of open Quotes sorted by 
+0002#STR0002#ALL#Number, Product, and Value from lower to higher
+0003#STR0003#ALL#Open Quotes  
+0004#STR0004#ALL#Z.Form 
+0005#STR0005#ALL#Management
+0006#STR0006#ALL#List of Open Quotations
+0007#STR0007#ALL#    Product     Suppl. Un  Current Value    Del.Deviat| Suppl.Un  Current Value    DelDeviat| Suppl. Un  Current Value    Del.Dev.
+0008#STR0008#ALL#Selecting Records...
+0009#STR0009#ALL#Quotation No. 
+0010#STR0010#ALL# Due Date 
+0011#STR0011#ALL#   Not Quoted
+0012#STR0012#ALL#    Product     Supplier             Un   Current Value    D.T.Deviat| Supplier             Un   Current Value    D.T.Deviat| Supplier             Un   Current Value    D.T.Deviat|                  
+0013#STR0013#ALL#Curr.Value
+0014#STR0014#ALL#Quotation
+0015#STR0015#ALL#Quotation product and vendor   

@@ -1,0 +1,12 @@
+0001#STR0001#ALL#Emite uma relação das condições de pagamento
+0002#STR0002#ALL#Disponíveis no registo.
+0003#STR0003#ALL#Condição De Pagamento
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#Cód.  Tipo Descrição      Condição                                   Iva      Dias       %desconto   Dias P/   %acresc.   Icms Solid.
+0007#STR0007#ALL#                                                                   (n/j/s) (d/l/s/q/m)   financeiro  desconto  financeiro   (n/j/s) 
+0009#STR0009#ALL#Cód.  tipo descrição      condição                                            dias       %desconto   dias p/   %acresc.             
+0010#STR0010#ALL#                                                                           (d/l/s/q/m)   financeiro  desconto  financeiro           
+0011#STR0011#ALL#Emite uma relação das condições de pagamento
+0012#STR0012#ALL#Disponíveis no registo.
+0013#STR0013#ALL#Condição De Pagamento

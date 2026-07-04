@@ -1,0 +1,14 @@
+0001#STR0001#ALL#Relatório De Visitantes
+0002#STR0002#ALL#Sera impresso de acordo com os parâmetro s solicitados pelo
+0003#STR0003#ALL#Utilizador.
+0007#STR0007#ALL#A Seleccionar Visitantes...
+0008#STR0008#ALL#Código de barras
+0009#STR0009#ALL#Administração
+0010#STR0011#ALL#Relatório De Controlo De Visitantes
+0011#STR0012#ALL#Cartão: 
+0012#STR0013#ALL#Código: 
+0014#STR0015#ALL#  total 
+0018#STR0022#ALL#Cartão     |  data     |  entrada         |  saída           |  liquidação    | contacto              | c.custo                           
+0019#STR0023#ALL#                        * Acessos *       |  Relógio
+0022#STR0026#ALL#Relógio – registo?
+0023#STR0027#ALL#Cartão E Data

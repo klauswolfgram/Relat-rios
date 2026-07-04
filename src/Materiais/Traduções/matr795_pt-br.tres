@@ -1,0 +1,37 @@
+0001#STR0001#ALL#Detalhado
+0002#STR0002#ALL#Analitico
+0003#STR0003#ALL#Sintetico
+0004#STR0004#ALL#Resumido 
+0005#STR0005#ALL#Emissäo do Relatorio de Quantidades em Grades dos Pedidos de Vendas
+0006#STR0006#ALL#atraves de intervalo de Pedidos informado na opçäo Parâmetros.
+0007#STR0007#ALL#Zebrado
+0008#STR0008#ALL#Administracao
+0009#STR0009#ALL#QUANTIDADES EM GRADES - 
+0010#STR0010#ALL#          Coluna  Desc. da Coluna   Qtde a Faturar  Qtde Faturada     Qtde Total
+0011#STR0011#ALL#CANCELADO PELO OPERADOR
+0012#STR0012#ALL#REFERENCIA : 
+0013#STR0013#ALL#LINHA : 
+0014#STR0014#ALL#PEDIDO :
+0015#STR0015#ALL#Sub Total
+0016#STR0016#ALL#T O T A L 
+0017#STR0017#ALL#Relatorio de Quantidades em Grades
+0018#STR0018#ALL#Emissäo do Relatorio de Quantidades em Grades dos Pedidos de Vendas
+0019#STR0019#ALL#atraves de intervalo de Pedidos informado na opçäo Parâmetros.
+0020#STR0020#ALL#Qtde a Faturar
+0021#STR0021#ALL#Qtde Faturada
+0022#STR0022#ALL#Qtde Total
+0023#STR0023#ALL#Coluna
+0024#STR0024#ALL#Descricao da Coluna
+0025#STR0025#ALL#Linha
+0026#STR0026#ALL#Referencia
+0027#STR0027#ALL#Detalhado
+0028#STR0028#ALL#Analitico
+0029#STR0029#ALL#Sintetico
+0030#STR0030#ALL#Resumido 
+0031#STR0031#ALL#Sub-Total
+0032#STR0032#ALL#Sub-Total de 
+0033#STR0033#ALL#T O T A L DE 
+0034#STR0034#ALL#Referencia de Produto
+0035#STR0035#ALL#Linhas de Grade
+0036#STR0036#ALL#Colunas de Grade
+0037#STR0037#ALL# Coluna em branco

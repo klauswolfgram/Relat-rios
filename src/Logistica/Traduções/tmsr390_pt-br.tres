@@ -1,0 +1,22 @@
+0001#STR0001#ALL#Ocorrencias
+0002#STR0002#ALL#Emite a relacao das ocorrencia conforme os parametros informados
+0003#STR0003#ALL#Zebrado
+0004#STR0004#ALL#Administracao
+0005#STR0005#ALL#Selecionando Registros...
+0006#STR0006#ALL#CANCELADO PELO OPERADOR
+0007#STR0007#ALL#DATA       HORA  VIAGEM    DOCTO     SERIE REMETENTE/SOLICITANTE                                    VOLS                     PESO
+0008#STR0008#ALL#Ocorrencia: 
+0009#STR0009#ALL#Total......: 
+0010#STR0010#ALL#Total Geral: 
+0011#STR0011#ALL#Serv Transporte: 
+0012#STR0012#ALL#SubTotal...: 
+0013#STR0013#ALL#Motivo:
+0014#STR0014#ALL#Ocorrências
+0015#STR0015#ALL#Emite a relação das ocorrências conforme os parametros informados
+0016#STR0016#ALL#Serv.Transp. + Cod. Ocorrência
+0017#STR0017#ALL#Serv.Transporte
+0018#STR0018#ALL#Ocorrência
+0019#STR0019#ALL#Sub-Total
+0020#STR0020#ALL#Motivo
+0021#STR0021#ALL#Tipo de Ocorrencia
+0022#STR0022#ALL#Itens

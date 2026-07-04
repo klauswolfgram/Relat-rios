@@ -1,0 +1,61 @@
+0001#STR0001#ALL#Relatorio do Laudo Ambiental                                         
+0002#STR0002#ALL#Atraves dos parametros selecionar os itens que devem ser considerados
+0003#STR0003#ALL#no Relatorio.                                                        
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#Laudo Ambiental
+0007#STR0007#ALL#              Relatorio Tecnico           
+0008#STR0008#ALL#Razao Social         :
+0009#STR0009#ALL#Endereco             :
+0010#STR0010#ALL#Cod. Atividade       :
+0011#STR0011#ALL#Atividade            :
+0012#STR0012#ALL#Grau de Risco        :
+0013#STR0013#ALL#Num. Funcionarios    :
+0014#STR0014#ALL#Data de Avaliacao    :
+0015#STR0015#ALL# de 
+0016#STR0016#ALL#LOCAIS AVALIADOS
+0017#STR0017#ALL#RISCOS ENCONTRADOS
+0018#STR0018#ALL#EQUIPAMENTOS UTILIZADOS NA AVALIACAO
+0019#STR0019#ALL#MEDIDAS DE CONTROLE
+0020#STR0020#ALL#EPQUIPAMENTOS DE PROTECAO INDIVIDUAL UTILIZADOS POR RISCO
+0021#STR0021#ALL#Conclusao
+0022#STR0022#ALL#Medico do Trabalho
+0023#STR0023#ALL#Enfermeiro do Trabalho
+0024#STR0024#ALL#Auxiliar de Enfermagem
+0025#STR0025#ALL#Engenheiro de Segurancao do Trabalho
+0026#STR0026#ALL#Tecnico de Segurancao do Trabalho
+0027#STR0027#ALL#Medico
+0028#STR0028#ALL#Enfermeiro
+0029#STR0029#ALL#Outros
+0030#STR0030#ALL# SSMT
+0031#STR0031#ALL#Janeiro
+0032#STR0032#ALL#Fevereiro
+0033#STR0033#ALL#Marco
+0034#STR0034#ALL#Abril
+0035#STR0035#ALL#Maio
+0036#STR0036#ALL#Junho
+0037#STR0037#ALL#Julho
+0038#STR0038#ALL#Agosto
+0039#STR0039#ALL#Setembro
+0040#STR0040#ALL#Outubro
+0041#STR0041#ALL#Novembro
+0042#STR0042#ALL#Dezembro
+0043#STR0043#ALL#Listar Descricao ?
+0044#STR0044#ALL#Ate Data ?
+0045#STR0045#ALL#De Data ?
+0046#STR0046#ALL#Ate Laudo ?
+0047#STR0047#ALL#De Laudo ?
+0048#STR0048#ALL#De Cliente ?
+0049#STR0049#ALL#Loja
+0050#STR0050#ALL#Até Cliente ?
+0051#STR0051#ALL#LAUDO: 
+0052#STR0052#ALL#Dt. Inicio: 
+0053#STR0053#ALL#Dt. Fim: 
+0054#STR0054#ALL#Cliente: 
+0055#STR0055#ALL#Qtd. Funcionários: 
+0056#STR0056#ALL#Responsavel: 
+0057#STR0057#ALL#Termo de Responsabilidade: 
+0058#STR0058#ALL#Grau de Risco: 
+0059#STR0059#ALL#Data de Avaliacao: 
+0060#STR0060#ALL#Objetivo: 
+0061#STR0061#ALL#DESCRIÇÃO: 

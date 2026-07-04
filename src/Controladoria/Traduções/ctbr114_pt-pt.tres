@@ -1,0 +1,15 @@
+0001#STR0001#ALL#Este programa irá imprimir o diário crial aglutinado por conta,
+0002#STR0002#ALL#De acordo com os parâmetros sugeridos pelo utilizador.
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#Emissão do diário crial aglutinado por conta
+0007#STR0007#ALL#            C O N T A                     H I S T ó R I C O                        Número                         V  A  L  O  R
+0008#STR0008#ALL#D é B I T O          C R é D I T O                                                 Lancto                      Débito        Crédito
+0009#STR0009#ALL#Diário crial aglut. por conta de 
+0010#STR0010#ALL# até 
+0011#STR0011#ALL# em 
+0012#STR0012#ALL#***** cancelado pelo operador *****
+0013#STR0013#ALL#A transportar =======>
+0014#STR0014#ALL#De transporte =======>
+0016#STR0016#ALL#Totais deste mês =======>
+0017#STR0017#ALL#Total crial ============>

@@ -1,0 +1,31 @@
+0001#STR0001#BRA#Relação De Créditos - Factura Electrónica
+0003#STR0003#BRA#Que Criaram O Crédito Da Factura Electrónica De São Paulo - Sp
+0004#STR0004#BRA#Crédito - Nf-e
+0006#STR0006#BRA#Indique a data de entrada inicial 
+0007#STR0007#BRA#Para selecção dos documentos a imprimir. 
+0009#STR0009#BRA#Indique a data de entrada final 
+0011#STR0011#BRA#Indique o fornecedor inicial 
+0013#STR0013#BRA#Todos os fornecedores sejam processados.
+0015#STR0015#BRA#Indique o fornecedor final 
+0016#STR0016#BRA#Indique zzzzzz, para que 
+0019#STR0019#BRA#Factura Electrónica
+0020#STR0020#BRA#Rps
+0023#STR0023#BRA#Relação De Créditos - Factura Electrónica
+0024#STR0024#BRA#Este relatório irá imprimir as movimentações de entrada que 
+0025#STR0025#BRA#Criaram Crédito Através Da Factura Electrónica
+0026#STR0026#BRA#Código de barras
+0027#STR0027#BRA#Administração
+0028#STR0028#BRA#Nf-eletr.  Série   Fornecedor Loja  Razão Social                               Número Rps     Cód. Verif.       Valor Crédito
+0029#STR0029#BRA#A Seleccionar Registos...
+0030#STR0030#BRA#Total Do Fornecedor
+0031#STR0031#BRA#Total Crial
+0033#STR0033#BRA#Factura Electrónica
+0034#STR0034#BRA#Implementação não efectuada
+0035#STR0035#BRA#A implementação do processo da nota 
+0036#STR0036#BRA#Fiscal electrónica não foi efectuada correctamente, 
+0037#STR0037#BRA#Visto que existem tabelas e campos que 
+0038#STR0038#BRA#Não estão disponíveis no dicionário de dados.
+0040#STR0040#BRA#Execute todos os procedimentos indicados e processe 
+0041#STR0041#BRA#Esta rotina novamente.
+0042#STR0042#BRA#Tabela sft - 
+0043#STR0043#BRA# campos: 

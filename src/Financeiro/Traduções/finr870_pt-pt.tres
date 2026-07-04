@@ -1,0 +1,12 @@
+0001#STR0001#ALL#Este programa tem como objectivo imprimir o valor actualizado dos 
+0002#STR0002#ALL#Empréstimos financeiros, conforme os parâmetros solicitados. 
+0003#STR0003#ALL#Recibo De Empréstimos
+0004#STR0005#ALL#Código de barras
+0005#STR0006#ALL#Administração
+0006#STR0007#ALL#Cancelado Pelo Operador
+0010#STR0011#ALL#Registos
+0011#STR0012#ALL#Número
+0012#STR0013#ALL#Instituição
+0014#STR0015#ALL#Dt.empre
+0015#STR0016#ALL#Dt.pgt.
+0018#STR0019#ALL#Tar.contratual

@@ -1,0 +1,22 @@
+0001#STR0001#ALL#DME - Declaración de monedas en especies
+0002#STR0002#ALL#Este programa emitirá el informe de movimientos bancarios de monedas en especies
+0003#STR0003#ALL#Declarante
+0004#STR0004#ALL#RCPJ/RCPF:
+0005#STR0005#ALL#Declarado
+0006#STR0006#ALL#RCPJ/RCPF:
+0007#STR0007#ALL#Tipo
+0008#STR0008#ALL#País
+0009#STR0009#ALL#Movimientos en especie
+0010#STR0010#ALL#Fecha de baja.
+0011#STR0011#ALL#Valor Operación
+0012#STR0012#ALL#Valor Especie
+0013#STR0013#ALL#Moneda
+0014#STR0014#ALL#Historial
+0015#STR0015#ALL#Informe de las operaciones liquidadas con moneda en especie
+0016#STR0016#ALL#Persona Jurídica
+0017#STR0017#ALL#Persona fisica
+0018#STR0018#ALL#Código del bien
+0019#STR0019#ALL#Código del servicio
+0020#STR0020#ALL#Diccionario desactualizado
+0021#STR0021#ALL#Para utilizar este informe, es necesario actualizar el diccionario de datos, con el grupo de preguntas 'FINR960'
+0022#STR0022#ALL#Declarado no informado

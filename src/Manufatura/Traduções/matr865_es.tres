@@ -1,0 +1,21 @@
+0001#STR0001#ALL#Carga Acumulativa - Por Orden de Produccion
+0002#STR0002#ALL#Este programa imprime la Carga Acumulativa Por OP.
+0003#STR0003#ALL#Los valores referentes a las horas estan convertidos conforme
+0004#STR0004#ALL#el parametro MV_TPHR, (C)entesimales o (N)ormales.
+0005#STR0005#ALL#A Rayas
+0006#STR0006#ALL#Administracion
+0007#STR0007#ALL#          OPERACION   CENTRO DE   TIEMPO   CANTIDAD   
+0008#STR0008#ALL#                      TRABAJO    ESTANDAR  OPERACION  
+0009#STR0009#ALL#ANULADO POR EL OPERADOR
+0010#STR0010#ALL#Orden de Produccion: 
+0011#STR0011#ALL#Cantidad:
+0012#STR0012#ALL#OP Ultimada
+0013#STR0013#ALL#Producto: 
+0014#STR0014#ALL#Orden de Produccion: 
+0015#STR0015#ALL#Cantidad
+0016#STR0016#ALL#Orden Producc.
+0017#STR0017#ALL#Operac.
+0018#STR0018#ALL#Tiempo Est. 
+0019#STR0019#ALL#Cantidad Operacion
+0020#STR0020#ALL#Ordenes de Produc.
+0021#STR0021#ALL#Operac. asignadas Carga Acumulativa

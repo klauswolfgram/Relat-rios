@@ -1,0 +1,45 @@
+0001#STR0001#ALL#Este programa irá emitir a posição valorizada dos
+0002#STR0002#ALL#Bens em até 5 (cinco) moedas.
+0003#STR0003#ALL#Posição Valorizada Dos Bens
+0004#STR0004#ALL#Filial         C. Custo             Cód. Base  Item Tp.Descrição sintética                 Tipo Depr.          Aquisic.   Dt.Liq.     Quantidade  Chapa  Item.Ctb  Cl.Valor.   
+0005#STR0005#ALL#Filial         Conta                 Cód. Base  Item Tp.Descrição sintética                 Tipo Depr.          Aquisic.   Dt.Liq.     Quantidade  Chapa  Item.Ctb  Cl.Valor.   
+0006#STR0006#ALL#      Vlr Ampliação      Valor Original    Valor Actualizado  Deprec. No Mês Deprec. No Exerc.   Deprec. Acumulada   Corr.mon. Mes  Corr. Mon.exerc.  Corr. Monet. Acum.  Corr.depr. Mes  Corr.depr.exerc.  Corr. Depr.  Acum.
+0008#STR0008#ALL#C.custo : 
+0009#STR0009#ALL#Cancelado Pelo Operador
+0010#STR0010#ALL#Total 
+0011#STR0011#ALL#Quantidade
+0012#STR0012#ALL#* * *   t o t a l   g e r a l   * * *
+0013#STR0013#ALL#Quantidade
+0014#STR0014#ALL#Código de barras
+0015#STR0015#ALL#Administração
+0019#STR0019#ALL# - tipo 
+0020#STR0020#ALL#Para Utilização Criar índice Sn4 - Chave N4_filial + N4_cbase + N4_item + N4_tipo + N4_ocorr + Dtos(n4_data).
+0021#STR0021#ALL#Item Contab.
+0022#STR0022#ALL#Classe De Valor
+0023#STR0023#ALL#Filial         Conta                Cód. Base  Item Tp.Descrição sintética                 Tipo Depr.          Aquisic.   Dt.Liq.     Quantidade  Chapa  C.Custo   Cl.Valor.   
+0024#STR0024#ALL#Filial         Conta                Cód. Base  Item Tp.Descrição sintética                 Tipo Depr.          Aquisic.   Dt.Liq.      Quantidade  Chapa  Item Ctb  C.Custo     
+0026#STR0026#ALL#Valor Actualizado
+0028#STR0028#ALL#Deprec. No Exerc.
+0030#STR0030#ALL#Valores De Total Crial De Liquidação
+0031#STR0031#ALL#* * *  b a i x a s  * * *
+0032#STR0032#ALL#* * *   t o t a l   * * *
+0033#STR0033#ALL#Liquidações
+0034#STR0034#ALL#Total
+0035#STR0035#ALL#Entidade Contabilística
+0036#STR0036#ALL#Dados Da Entidade
+0038#STR0038#ALL#Símbolo Moeda
+0039#STR0039#ALL#Texto Subtotal
+0040#STR0040#ALL#Valores Subtotal
+0041#STR0041#ALL#Texto Liquidação
+0044#STR0044#ALL#Liquidação
+0045#STR0045#ALL#Valores de liquidação
+0046#STR0046#ALL#Texto Total De Liquidações
+0047#STR0047#ALL#Valores Do Total De Liquidações
+0049#STR0049#ALL#Valores Do Total Geral
+0050#STR0050#ALL#Texto Total Geral De Liquidação
+0051#STR0051#ALL#Total Geral De Liquidação
+0052#STR0052#ALL#Texto Total + Liquidação
+0053#STR0053#ALL#Total + Liquidação
+0054#STR0054#ALL#Valores Do Total + Liquidação
+0055#STR0055#ALL#Total De Liquidações
+0056#STR0056#ALL#Total crial

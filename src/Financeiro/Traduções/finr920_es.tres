@@ -1,0 +1,23 @@
+0001#STR0001#ALL#Imprime relacion de titulos a pagar mostrando cuales 
+0002#STR0002#ALL#titulos ya fueron liberados o que aun estan 
+0003#STR0003#ALL#aguardando liberacion.
+0004#STR0004#ALL#Liberacion de Titulos a Pagar
+0005#STR0005#ALL#Por Codigo Proveedor
+0006#STR0006#ALL#Por Nombre Proveedor
+0007#STR0007#ALL#Por Fecha de Emision
+0008#STR0008#ALL#A Rayas
+0009#STR0009#ALL#Administracion
+0010#STR0010#ALL#Para impresion de este relatorio, los titulos deven estar usando control de liberacion manual (MV_CTLIPAG)
+0011#STR0011#ALL#Relatorio Desactivado
+0012#STR0012#ALL#Liberacion de Titulos p/ Pagar - Por Codigo Proveedor
+0013#STR0013#ALL#Liberac. de Titulos a Pagar - Por Nom. Proveedor
+0014#STR0014#ALL#                                     Prf  Numero  Pc Tipo Emision    Vencto.              Valor     Fc. Lib.    Usuario
+0015#STR0015#ALL#Liberac. de titulos a pagar  - Por Emision
+0016#STR0016#ALL# Cod.   Tda.   Nom.                  Pre  Numero  Pc Tipo            Vencto.              Valor     Fc. Lib.    Usuario
+0017#STR0017#ALL#*** ANULADO POR EL OPERADOR ***
+0018#STR0018#ALL#Sub-Total por Proveedor  : 
+0019#STR0019#ALL#Codigo Proveedor: 
+0020#STR0020#ALL#Nombre Proveedor: 
+0021#STR0021#ALL#Subtotal por emision     : 
+0022#STR0022#ALL#Fecha de Emision: 
+0023#STR0023#ALL#Total Gral              : 

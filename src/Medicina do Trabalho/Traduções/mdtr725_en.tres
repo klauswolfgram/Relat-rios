@@ -1,0 +1,70 @@
+0001#STR0001#ALL#This report lists nursing attendances performed, according to parameters selected. 
+0002#STR0002#ALL#You can select the attendance period, resons, and nurses. 
+0003#STR0003#ALL#selected Reason, Doctor and Period required
+0004#STR0004#ALL#Z-Form
+0005#STR0005#ALL#Administration
+0006#STR0006#ALL#Nursing Attendance
+0007#STR0007#ALL#Operator      Medication                      Qty.     Unit
+0008#STR0008#ALL#    Medic Form      Name                                      Reason                                    Indication                Time    Observation
+0009#STR0009#ALL#CANCELLED BY OPERATOR
+0010#STR0010#ALL#Total of Appointments Reason 
+0011#STR0011#ALL#Nurse
+0012#STR0012#ALL#Nurse Code
+0013#STR0013#ALL#Attendances
+0014#STR0014#ALL#Med.Form
+0015#STR0015#ALL#Name
+0016#STR0016#ALL#Reason
+0017#STR0017#ALL#Indication
+0018#STR0018#ALL#1=Inhalation;2=Accident;3=Medication;4=Check B.P.;5=Check Temperature;6=Injectable Medication;7=Bandaging
+0019#STR0019#ALL#Medication
+0020#STR0020#ALL#Amt.
+0021#STR0021#ALL#Unit
+0022#STR0022#ALL#Time
+0023#STR0023#ALL#Note
+0024#STR0024#ALL#Reason Code
+0025#STR0025#ALL#Please, wait.
+0026#STR0026#ALL#Processing attendances...
+0027#STR0027#ALL#Date: 
+0028#STR0028#ALL#Total Attendances of 
+0029#STR0029#ALL#Total Attendances on 
+0030#STR0030#ALL#Total Attendances by Reason 
+0031#STR0031#ALL#Filtering records, wait...
+0032#STR0032#ALL#From Attendance Date   ?
+0033#STR0033#ALL#To Attendance Date      ?
+0034#STR0034#ALL#From Reason?
+0035#STR0035#ALL#To Reason ?
+0036#STR0036#ALL#From Nurse ?
+0037#STR0037#ALL#To Nurse ?
+0038#STR0038#ALL#Total per?
+0039#STR0039#ALL#1-Nurse
+0040#STR0040#ALL#2-Reason Service
+0041#STR0041#ALL#1=Inhalation
+0042#STR0042#ALL#2=Accident
+0043#STR0043#ALL#3=Medication
+0044#STR0044#ALL#4=Check B.P.
+0045#STR0045#ALL#5=Check Temperature
+0046#STR0046#ALL#6=Injectable Medication
+0047#STR0047#ALL#7=Bandaging
+0048#STR0048#ALL#    Medic Form      Name                                      Operator                                 Indication                Time    Observation
+0049#STR0049#ALL#From Customer?
+0050#STR0050#ALL#Customer code. Field can be left blank to consider since first code. 
+0051#STR0051#ALL#Store
+0052#STR0052#ALL#Code of customer store. Field can be left blank to consider since first code. 
+0053#STR0053#ALL#To Customer?
+0054#STR0054#ALL#Customer code. Field can be filled out with Z up to the end to consider up to last code. 
+0055#STR0055#ALL#Code of customer store. Field can be filled out with Z up to the end to consider up to last code. 
+0056#STR0056#ALL#Customer/Store: 
+0057#STR0057#ALL#Total of services without reason: 
+0058#STR0058#ALL#There is nothing to be printed in the report.
+0059#STR0059#ALL#3-Indication
+0060#STR0060#ALL#Service Total per Indication 
+0061#STR0061#ALL#Service Total without Indication 
+0062#STR0062#ALL#Defines if the total is per: 1-Date+Operator; 2-Date + Reason; 3-Operator; 3-Indication; 4-Attendant. ; 5-Reason Service
+0063#STR0063#ALL#Total Services in a period of 
+0064#STR0064#ALL# to 
+0065#STR0065#ALL#1-Date+Service
+0066#STR0066#ALL#2-Date+Reason AT
+0067#STR0067#ALL#4-Attendant
+0068#STR0068#ALL#5-Reason Service
+0069#STR0069#ALL#Reason         Medication                      Qty.     Unit
+0070#STR0070#ALL#Indication      Medication                      Qty.     Unit

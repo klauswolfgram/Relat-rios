@@ -1,0 +1,48 @@
+0001#STR0001#ALL#Impresion de Produccion
+0002#STR0002#ALL#A rayas
+0003#STR0003#ALL#Administracion
+0004#STR0004#ALL#Producción
+0005#STR0005#ALL#Copia de la Factura
+0006#STR0006#ALL#Informe de Produccion
+0007#STR0007#ALL#Centro de Costo/Funcion
+0008#STR0008#ALL#Piezas R$---- PiezasMF ----- Srvs R$ ----- Srvs MF ----- Vehic R$ --- Vehic MF
+0009#STR0009#ALL#Total General
+0010#STR0010#ALL#Total de 
+0011#STR0011#ALL#Piezas  
+0012#STR0012#ALL#Servicios
+0013#STR0013#ALL#Vehiculos
+0014#STR0014#ALL#Total del Dia 
+0015#STR0015#ALL#Total Fact. 
+0016#STR0016#ALL#Valores de Servicios sin Mecanicos Apuntados
+0017#STR0017#ALL# ......................
+0018#STR0018#ALL#Continua en pagina posterior...
+0019#STR0019#ALL#Total de Servicios no Apuntados                 
+0020#STR0020#ALL#¿Fecha Inicial?
+0021#STR0021#ALL#¿Fecha Final?
+0022#STR0022#ALL#¿Centro Costo Inicial ?
+0023#STR0023#ALL#¿Centro Costo Final ?
+0024#STR0024#ALL#¿Funcion Inicial ?
+0025#STR0025#ALL#¿Funcion Final ?
+0026#STR0026#ALL#¿Empleado Inicial ?
+0027#STR0027#ALL#¿Empleado Final ?
+0028#STR0028#ALL#¿Valores ?
+0029#STR0029#ALL#Moneda Corrient
+0030#STR0030#ALL#Moneda Fuerte
+0031#STR0031#ALL#Tercera Moneda
+0032#STR0032#ALL#Cuarta Moneda
+0033#STR0033#ALL#Quinta Moneda
+0034#STR0034#ALL#¿Tipo de Informe?
+0035#STR0035#ALL#Resumido
+0036#STR0036#ALL#Sintetico
+0037#STR0037#ALL#Analitico
+0038#STR0038#ALL#¿Tipo de Venta ?
+0039#STR0039#ALL#Piezas
+0040#STR0040#ALL#Servicios
+0041#STR0041#ALL#Vehiculos
+0042#STR0042#ALL#Asiento Comision
+0043#STR0043#ALL#¿Tot Forma Pago ?
+0044#STR0044#ALL#Si
+0045#STR0045#ALL#No
+0046#STR0046#ALL# de 
+0047#STR0047#ALL# a 
+0048#STR0048#ALL#Todos

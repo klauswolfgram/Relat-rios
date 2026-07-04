@@ -1,0 +1,33 @@
+0001#STR0001#ALL#Relatorio de Visitas
+0002#STR0002#ALL#Será impresso de acordo com os parametros solicitados pelo
+0003#STR0003#ALL#usuario.
+0004#STR0006#ALL#Aguarde...
+0005#STR0007#ALL#Selecionando Visitantes...
+0006#STR0008#ALL#Zebrado
+0007#STR0009#ALL#Administracao
+0008#STR0011#ALL#Relatorio de Controle de Visitas
+0009#STR0012#ALL#Cracha: 
+0010#STR0013#ALL#Codigo: 
+0011#STR0014#ALL#Visitante: 
+0012#STR0015#ALL#  Total Visitas
+0013#STR0016#ALL#Filial : 
+0014#STR0017#ALL#Visitantes: 
+0015#STR0020#ALL#Empresa: 
+0016#STR0022#ALL#Visitante                         |Cracha     |  Data     |  Entrada         |  Saida           |  Baixa    | Contato              | C.Custo                           
+0017#STR0023#ALL#                                                           * Acessos *       |  Relogio
+0018#STR0024#ALL#Visitante
+0019#STR0025#ALL#Cracha
+0020#STR0026#ALL#Data
+0021#STR0027#ALL#Entrada
+0022#STR0028#ALL#Saida
+0023#STR0029#ALL#Baixa
+0024#STR0030#ALL#Contato
+0025#STR0031#ALL#C.Custo
+0026#STR0032#ALL#Data Visita
+0027#STR0033#ALL#Data de Baixa
+0028#STR0104#ALL#Codigo do Visitante + Data da Visita
+0029#STR0105#ALL#Cracha + Data da Visita
+0030#STR0106#ALL#Data da Visita + Cracha
+0031#STR0107#ALL#Baixa + Cracha
+0032#STR0108#ALL#Empresa + Data
+0033#STR0109#ALL#Este relatório apresenta a relação das visitas recebidas em um determinado período.

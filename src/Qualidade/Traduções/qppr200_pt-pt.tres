@@ -1,0 +1,27 @@
+0001#STR0001#ALL#Resultados Dos Ensaios De Desempenho
+0002#STR0002#ALL#A Visualizar, Aguarde...
+0003#STR0003#ALL#      Aprovação De Peça De Produção
+0004#STR0005#ALL#Ppap Nº.
+0005#STR0006#ALL#Página :
+0007#STR0008#ALL#Número Da Peça(cliente)
+0008#STR0009#ALL#Revisão/data Desenho
+0009#STR0010#ALL#Laboratório
+0010#STR0011#ALL#Número/rev Peça(fornecedor)
+0011#STR0012#ALL#Nome Da Peça
+0015#STR0016#ALL#Freq.
+0018#STR0019#ALL#Ens.
+0019#STR0020#ALL#Resultados Dos Ensaios
+0021#STR0022#ALL#Não
+0022#STR0023#ALL#Assinatura Do Fornecedor
+0025#STR0026#ALL#Assinatura Do Cliente
+0026#STR0027#ALL#Sequência :
+0027#STR0028#ALL#Deseja imprimir descrição da característica ?
+0029#STR0030#ALL#Descrição Característica
+0030#STR0031#ALL#Código Vendedor
+0031#STR0032#ALL#Nível De Alteração Do Projecto
+0033#STR0034#ALL#Médio
+0035#STR0036#ALL#Documentos Alterados Pela Engenharia
+0037#STR0038#ALL#Especificação
+0038#STR0039#ALL#    limites  
+0039#STR0040#ALL#Condições De Teste
+0040#STR0041#ALL#Declarações de conformidade em branco são inaceitáveis para quaisquer resultados de ensaio.

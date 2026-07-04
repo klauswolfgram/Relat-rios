@@ -1,0 +1,10 @@
+0001#STR0001#ALL#Situación detallada del stock por ubicación
+0002#STR0002#ALL#En este informe es posible obtener una situación de cantidad por
+0003#STR0003#ALL#producto/lote/ubicación/estatus, lo cual permite el mapeo perfecto
+0004#STR0004#ALL#de cada ubicación.
+0005#STR0005#ALL# Almacén + Grupo + Producto 
+0006#STR0006#ALL# Producto + Almacén 
+0007#STR0007#ALL#Productos
+0008#STR0008#ALL#Total del producto
+0009#STR0009#ALL#Direcciones
+0010#STR0010#ALL#Disponible

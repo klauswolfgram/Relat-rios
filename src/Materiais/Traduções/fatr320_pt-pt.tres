@@ -1,0 +1,14 @@
+0001#STR0001#ALL#Este programa tem como objectivo imprimir relatório 
+0002#STR0002#ALL#De acordo com os parâmetros informados pelo utilizador.
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0007#STR0007#ALL#Assunto                        Data       H.início H.fim Comentário                               Oportunidade Cliente Loja Nome                 Prosp. Loja Nome                 Contacto Nome
+0008#STR0008#ALL#Não Iniciada
+0013#STR0013#ALL#Liquidação
+0016#STR0016#ALL#*** cancelado pelo operador ***
+0018#STR0018#ALL#Assunto                        Dt.início  Dt.término Estado       Prioridade %completo Comentário                               Cliente Loja Nome
+0020#STR0020#ALL#Este programa tem como objectivo imprimir relatório 
+0021#STR0021#ALL#De acordo com os parâmetros informados pelo utilizador.
+0022#STR0022#ALL#Comentário
+0024#STR0024#ALL#Agenda (crm)
+0025#STR0025#ALL#Tarefas (crm)

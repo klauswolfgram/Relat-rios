@@ -1,0 +1,20 @@
+0001#STR0001#ALL#Relação De Documentos Para Embarque
+0002#STR0002#ALL#Emite A Relação De Viagens Efetivadas
+0003#STR0003#ALL#Cofacturaorme os parâmetros escolhidos
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#Fil. origem documento serie destinatario                                      peso real volume valor do frete data        hora 
+0007#STR0007#ALL#A Seleccionar Registo No Dt6...
+0008#STR0008#ALL#Cancelado Pelo Operador
+0009#STR0009#ALL#Total da filial 
+0010#STR0010#ALL# documento(s) )
+0011#STR0011#ALL#Total geral ( 
+0012#STR0012#ALL#Relação De Documentos Para Embarque
+0013#STR0013#ALL#Emitir a relação de viagens efectuadas, conforme os parâmetros digitados
+0014#STR0014#ALL#Filial Do Documento + Documento + Série
+0015#STR0015#ALL#Fil.origem
+0017#STR0017#ALL#Série
+0018#STR0018#ALL#Cód. Destino
+0024#STR0024#ALL#Data De Emissão
+0025#STR0025#ALL#Hora De Emissão
+0026#STR0026#ALL#Total Da Filial

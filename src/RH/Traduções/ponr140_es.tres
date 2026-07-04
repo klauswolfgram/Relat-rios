@@ -1,0 +1,37 @@
+0001#STR0001#ALL#Impresion del reloj registrador
+0002#STR0002#ALL#Se imprimira de acuerdo con los parametros solicitados por el
+0003#STR0003#ALL#usuario.
+0004#STR0004#ALL#Matricula
+0005#STR0005#ALL#Centro de Costo
+0006#STR0006#ALL#Nombre
+0007#STR0007#ALL#Turno
+0008#STR0008#ALL#A rayas
+0009#STR0009#ALL#Administracion
+0010#STR0010#ALL#Direccion 
+0011#STR0011#ALL#Empleado: 
+0012#STR0012#ALL#Admision: 
+0013#STR0013#ALL#Informe emitido el: 
+0014#STR0014#ALL#Horarios contratuales del empleado: 
+0015#STR0015#ALL#Periodo de Apuntamiento Invalido.
+0016#STR0016#ALL#Dia
+0017#STR0017#ALL#Periodo: 
+0018#STR0018#ALL#Codigo de Horario (CH)
+0019#STR0019#ALL#Entrada
+0020#STR0020#ALL#Salida
+0021#STR0021#ALL#Tratamientos efectuados
+0022#STR0022#ALL#Marcaciones registradas en el punto
+0023#STR0023#ALL#Jornada realizada
+0024#STR0024#ALL#sobre los datos originales
+0025#STR0025#ALL#electronico
+0026#STR0026#ALL#Horario
+0027#STR0027#ALL#Ocur.
+0028#STR0028#ALL#Motivo
+0029#STR0029#ALL#Informe de Reloj Reg. Electronico
+0030#STR0030#ALL#Empleador: 
+0031#STR0031#ALL#PIS
+0032#STR0032#ALL#Atencion
+0033#STR0033#ALL#No fue posible excluir el archivo temporario 
+0034#STR0034#ALL#Error al Excluir archivo
+0035#STR0035#ALL#Falla al crear temporario 
+0036#STR0036#ALL#Error al crear el archivo.
+0037#STR0037#ALL#RFC/CEI/CPF / CPF

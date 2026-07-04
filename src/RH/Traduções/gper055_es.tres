@@ -1,0 +1,22 @@
+0001#STR0001#ALL#DARF de Recaudacion de PIS s/Planilla
+0002#STR0002#ALL#Se imprimira de acuerdo con los parametros solicitados por el usuario.
+0003#STR0003#ALL#Obs. Debe imprimirse un Darf por Sucursal o Centralizado
+0004#STR0004#ALL#A rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#Confirma
+0007#STR0007#ALL#Repite
+0008#STR0008#ALL#Salir
+0009#STR0009#ALL#EMISION DARF RECAUDACION PIS S/PLANILLA
+0010#STR0010#ALL#Seleccionando Registros...
+0011#STR0011#BRA#Elija una opcion:
+0012#STR0012#BRA#Formulario de recaudacion
+0013#STR0013#BRA#DARF del PIS s/ Planilla
+0014#STR0014#BRA#DARF de aporte previdenciario
+0015#STR0015#BRA#EMISION DARF RECAUDACION APORTE PREVIDENCIARIO
+0016#STR0016#BRA#El DARF de la contribucion social no se generara.
+0017#STR0017#BRA#MOTIVO: Los ingresos de actividades no exentas alcanzaron el limite del 95% del total general.
+0018#STR0018#ALL#Tipo de contrato no completado, informe por lo menos uno.
+0019#STR0019#ALL#Atención
+0020#STR0020#ALL#Los valores de PIS Empresa ref. al aguinaldo se consideran en la planilla de haberes.
+0021#STR0021#ALL#¿Está seguro que desea seguir con la generación?
+0022#STR0022#ALL#DARF PIS sobre el aguinaldo

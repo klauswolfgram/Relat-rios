@@ -1,0 +1,19 @@
+0001#STR0001#ALL#Maintenance Plans Movements
+0002#STR0002#ALL#This report will show a list of movements in 
+0003#STR0003#ALL#maintenance plan according to the selected parameters
+0004#STR0004#ALL#
+0005#STR0005#ALL#Z.Form 
+0006#STR0006#ALL#Management   
+0007#STR0007#ALL#CANCELLED BY THE OPERATOR  
+0008#STR0008#ALL#                    PLAN      ITEM    DATE      ORIG.DT.   SEQUENCE   O.S.
+0009#STR0009#ALL#                    PLAN      ITEM    DATE      ORIG.DT.   SEQUENCE     CUSTOMER`S CODE  CUSTOMER`S NAME                O.S.
+0010#STR0010#ALL#         EQUIP COD       NAME EQUIPMENT                MANUFACT.     SERIAL NUMBER         PLAN    ITEM  OGRI.DT    SEQUEN  O.S.
+0011#STR0011#ALL#
+0012#STR0012#ALL#Customer and Equipment
+0013#STR0013#ALL#Customer and Date
+0014#STR0014#ALL#Date and Customer
+0015#STR0015#ALL#Date and Equipment
+0016#STR0016#ALL#Plan movement - Break by            
+0017#STR0017#ALL#Custom.
+0018#STR0018#ALL#Equipment  
+0019#STR0019#ALL#Plan 

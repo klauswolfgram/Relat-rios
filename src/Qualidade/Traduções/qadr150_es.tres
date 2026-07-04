@@ -1,0 +1,10 @@
+0001#STR0001#ALL#El objetivo de este informe es imprimir la lista de  
+0002#STR0002#ALL#Agendas de Auditorias
+0003#STR0003#ALL#Listado de Agendas de Auditorias
+0004#STR0004#ALL#A rayas
+0005#STR0005#ALL#Administrac. 
+0006#STR0006#ALL#COD.AGENDA          DESCRIPC.                       ASIGNAC.  FIN ASIGNAC.  SUC.AUD.  AUDITOR LIDER
+0007#STR0007#ALL#DEPTO         DEST.AUDITORIA                     SUC.AUD. AUDITOR 
+0008#STR0008#ALL#Auditoria
+0009#STR0009#ALL#Area
+0010#STR0010#ALL#DEPTO         DEST.AUDITORIA                     SUC.AUD. AUDITOR                                   INICIO EN      FINAL EN

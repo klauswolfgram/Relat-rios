@@ -1,0 +1,21 @@
+0001#STR0001#ALL#PRODUCT TRACKING       
+0002#STR0002#ALL#Z. form
+0003#STR0003#ALL#Management   
+0004#STR0004#ALL# DOC.    LOAD    PRODUCT            DATE    IN TM  FI TM  SERVICE               TASK                  ACTIVITY              HUMAN RESOURCE        SOURCE ADDRESS   ADDRESS  TARGET  LOT        SUB-LOT          MOVEMENT  
+0005#STR0005#ALL#                                                                                                                                                  QTTY.MOVEMENTS   BALANCE IN ADDRESS           ALLOC. 
+0006#STR0006#ALL#Selecting addressess ... 
+0007#STR0007#ALL#CANCELLED BY OPERATOR  
+0008#STR0008#ALL#Report of tracking product movement
+0009#STR0009#ALL#Doc.  
+0010#STR0010#ALL#St Tm
+0011#STR0011#ALL#En Tm
+0012#STR0012#ALL#Service
+0013#STR0013#ALL#Task  
+0014#STR0014#ALL#Activity 
+0015#STR0015#ALL#HumRes
+0016#STR0016#ALL#Origin addr
+0017#STR0017#ALL#TP Mov. 
+0018#STR0018#ALL#Nbr.of Mov.
+0019#STR0019#ALL#Address Blnce.
+0020#STR0020#ALL#Alloc. 
+0021#STR0021#ALL#Movements by address   

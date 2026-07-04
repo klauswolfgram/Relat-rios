@@ -1,0 +1,19 @@
+0001#STR0001#ALL#LISTA MAESTRA DE DOCUMENTOS POR DEPARTAMENTO
+0002#STR0002#ALL#Este programa imprimira una lista de los documentos,
+0003#STR0003#ALL#sus elaboradores, revisores y aprobadores, con saltos
+0004#STR0004#ALL#por departamento y parametros seleccion. por el usuario.
+0005#STR0005#ALL#A Rayas
+0006#STR0006#ALL#Administrac. 
+0007#STR0007#ALL#Seleccionando registros.
+0008#STR0008#ALL#Departamento: 
+0009#STR0009#ALL#ANULADO POR EL OPERADOR
+0010#STR0010#ALL#DOCUMENTO        REV TITULO                                                
+0011#STR0011#ALL#ELABORADORES    REVISORES       APROBADORES     
+0012#STR0012#ALL#VIGENCIA
+0013#STR0013#ALL#¿De suc. depto.?    
+0014#STR0014#ALL#¿A  suc. departamento
+0015#STR0015#ALL#Elaboradores
+0016#STR0016#ALL#Revisores
+0017#STR0017#ALL#Aprobadores
+0018#STR0018#ALL#Documentos
+0019#STR0019#ALL#Sucursal:

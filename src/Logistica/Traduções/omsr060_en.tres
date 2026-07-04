@@ -1,0 +1,28 @@
+0001#STR0001#ALL#Route
+0002#STR0002#ALL#This program will print the Route List distributed
+0003#STR0003#ALL#per Routes, Zones, Sectors and Customers per Sector
+0004#STR0004#ALL#according to the parameters chosen by the user.
+0005#STR0005#ALL#Z. Form
+0006#STR0006#ALL#Management
+0007#STR0007#ALL#Per Route
+0008#STR0008#ALL#Per Customer
+0009#STR0009#ALL#ROUTE  DESCRIPT.                      SEQUENCE  ZONE   DESCRICPT.                     SECTOR DESCRIPT.
+0010#STR0010#ALL#SEQUENCE CLIENT STORE  NAME                                     ADDRESS                                 CITY          STATE  ZIPCODE       REFERRENCE
+0011#STR0011#ALL#CUSTOM. SHOP   NAME                                     ADDRESS                                  CITY            STATE  ZIP
+0012#STR0012#ALL#CUSTOMER WITHOU ROUTE    - NOT REGISTERED IN ANY ZONE     /SECTOR
+0013#STR0013#ALL#ZONE   DESCRIPT.                        SECTOR DESCRIPT.                                SEQUENCE    ROUTE  DESCRIPT.                      SEQUENCE 
+0014#STR0014#ALL#ZONE AND SECTOR NOT REGISTERED IN ANY ROUTE
+0015#STR0015#ALL#SEQUENCE 	 INIT.ZIP CD.   FINAL ZIP C. REFERENCE 
+0016#STR0016#ALL#ZONE / SECTOR =>
+0017#STR0017#ALL#Routings     	
+0018#STR0018#ALL#This program will List the Routing                
+0019#STR0019#ALL#distributed by Routes, Zones, Sectors and Customer by Sector
+0020#STR0020#ALL#according to the parameters selected by the user.   
+0021#STR0021#ALL#Per Routing     
+0022#STR0022#ALL#Per Customer
+0023#STR0023#ALL#Route
+0024#STR0024#ALL#Zone
+0025#STR0025#ALL#Sequence 
+0026#STR0026#ALL#Customer
+0027#STR0027#ALL#Customer sequence   
+0028#STR0028#ALL#The field does not exist in the data base, or it must be of the numeric, character, or data type:

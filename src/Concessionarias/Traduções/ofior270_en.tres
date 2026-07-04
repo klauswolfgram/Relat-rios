@@ -1,0 +1,169 @@
+0001#STR0001#ALL#Labor Force Analysis
+0002#STR0002#ALL#Z.Form 
+0003#STR0003#ALL#Management   
+0004#STR0004#ALL#T O T A L 
+0005#STR0005#ALL#Caption -
+0006#STR0006#ALL#01 - Available Time  , according to the scale
+0007#STR0007#ALL#02 - Absent Time  
+0008#STR0008#ALL#03 - Real Time     = Available Time   - Absent Time  
+0009#STR0009#ALL#04 - Time without application or stopped. 
+0010#STR0010#ALL#05 - Worked or Applied Time      
+0011#STR0011#ALL#06 - Extra time , or Time applied OUT of the normal scale
+0012#STR0012#ALL#07 - Bursted time or total of time executed outside the table.    
+0013#STR0013#ALL#08 - Standard time
+0014#STR0014#ALL#09 - Charged Time or Standard Time with increases or decreases.  
+0015#STR0015#ALL#10 - Time actually Sold             
+0016#STR0016#ALL#11 - User choice criterion, whose result to be obtained through the use of formula created by it
+0017#STR0017#ALL#12 - % Efficiency on Standard Time (Standard Time/Applied Time) * 100
+0018#STR0018#ALL#13 - % Efficiency on Standard Time (Standard Time/(Applied Time + Overtime)) * 100
+0019#STR0019#ALL#14 - % Efficiency on Collected Time (Collected Time / Applied Time) * 100
+0020#STR0020#ALL#15 - % Efficiency on Collected Time (Collected Time/(Applied Time + Overtime)) * 100
+0021#STR0021#ALL#16 - % Efficiency on Sold Time (Sold Time / Applied Time) * 100
+0022#STR0022#ALL#17 - % Efficiency on Sold Time (Sold Time/(Applied Time + Overtime)) * 100
+0023#STR0023#ALL#19 - % Productivity on Real Time          (Applied Time / Real Time    )
+0024#STR0024#ALL#20 - % Productivity on Real Time            (Applied Time  + Extra Time )/Real Time    )
+0025#STR0025#ALL#21 - % Performance (collected time/default time) * 100
+0026#STR0026#ALL#22 - % Performance (worked time/available time) * 100
+0027#STR0027#ALL#23 - Hours Applied and Not approved
+0028#STR0028#ALL# Time   Time   Time   Time   Time   Time   Time   Time   Time   Time  Formula ------------- E f f i c i e n c y -------------- -------- Productivity -------- Stock  Hours
+0029#STR0029#ALL#Productive------------ Function------- Availbl. Absent Actual -Worker Idle  Extra  Burst -Default Charged Sold User Deflt.SE -Deflt.CE Bill.SE Bill.CE Sell.SE Sell.CE Actual SE Actual CE Charg/Deflt Approved No Rel Releasd
+0030#STR0030#ALL# No SO  S T    Start Term. Service  Record Type Service---  Executed Service----------------------- Stand Applic Coll Absence Sold
+0031#STR0031#ALL#Overtime  
+0032#STR0032#ALL#Normal Work    
+0033#STR0033#ALL#TOTAL PER TIME TYPE + SERVICE TYPE       
+0034#STR0034#ALL#Tp Ts.  Descript              Stand.  Work     Charged  Sold   
+0035#STR0035#ALL#T O T A L................... 
+0036#STR0036#ALL#12 - Efficiency % on Standard Time   (Std. Time   /(AApplied Time + Overtime  )) * 100
+0037#STR0037#ALL#GRAND TOTAL BY TYPE OF TIME + TYPE OF SERVICE
+0038#STR0038#ALL#          --- 0 1 --- 0 2 --- 0 3 --- 0 4 --- 0 5 --- 0 6 --- 0 7 --- 0 8 --- 0 9 --- 1 0 --- 1 1  --- 1 2  ---- 1 3  --- 1 4  --- 1 5  --- 1 6  --- 1 7  --- 1 8  --- 1 9  --- 2 1 --- 2 2 --- 2 3 --- 2 4 -
+0039#STR0039#ALL#Company: 
+0040#STR0040#ALL#   Branch: 
+0041#STR0041#ALL#- 0 1 - - 0 2 - - 0 3 - - 0 4 - - 0 5 - - 0 6 - - 0 7 - - 0 8 - - 0 9 - - 1 0 - - 1 1 - - 1 2 - -  1 3 - - 1 4 - - 1 5 - - 1 6 - - 1 7 - - 1 8 - - 1 9 - - 2 1 - - 2 2 - - 2 3 - - 2 4 -
+0042#STR0042#ALL#Prod.No. Seq  Employee Name   Role                    Hours      Time      Overtime    Actual H.      Time          Time           Total Time     Productivity  Efficiency  Use
+0043#STR0043#ALL#                                                                      Available   Available                      Total     Worked         Lost         Worked                  
+0044#STR0044#ALL#                                                                        In month   Actual                                 Normal Hours              w/ overtime                
+0045#STR0045#ALL#Microsoft Excel is not installed.
+0046#STR0046#ALL#Start Date
+0047#STR0047#ALL#End Date  
+0048#STR0048#ALL#Productive   
+0049#STR0049#ALL#Stop        
+0050#STR0050#ALL#Initial Branch
+0051#STR0051#ALL#Final Branch  
+0052#STR0052#ALL#Print type
+0053#STR0053#ALL#Mec. Analysis
+0054#STR0054#ALL#Prod. Map
+0055#STR0055#ALL#Generate in Excel
+0056#STR0056#ALL#T O T A L: 
+0057#STR0057#ALL#Time Display
+0058#STR0058#ALL#Two Points
+0059#STR0059#ALL#Comma
+0060#STR0060#ALL#Worksheet Directory
+0061#STR0061#ALL#Code
+0062#STR0062#ALL#Seq.
+0063#STR0063#ALL#Productive
+0064#STR0064#ALL#Function
+0065#STR0065#ALL#Available
+0066#STR0066#ALL#Absent
+0067#STR0067#ALL#Extra
+0068#STR0068#ALL#Effective
+0069#STR0069#ALL#Worked
+0070#STR0070#ALL#Stopped
+0071#STR0071#ALL#Work + Extra
+0072#STR0072#ALL#Productivity
+0073#STR0073#ALL#Efficiency
+0074#STR0074#ALL#Utilization
+0075#STR0075#ALL#Time
+0076#STR0076#ALL#24 - Applied Hours and Approved
+0077#STR0077#ALL#Consider Date:
+0078#STR0078#ALL#of Note
+0079#STR0079#ALL#of Closing
+0080#STR0080#ALL#Mechanic Analysis
+0081#STR0081#ALL#Code
+0082#STR0082#ALL#Seq
+0083#STR0083#ALL#Productive
+0084#STR0084#ALL#Function
+0085#STR0085#ALL#Available Tp.
+0086#STR0086#ALL#Absent Tp.
+0087#STR0087#ALL#Extra Tp.
+0088#STR0088#ALL#Effective Tp.
+0089#STR0089#ALL#Worked Tp.
+0090#STR0090#ALL#Stoped Tp. 
+0091#STR0091#ALL#Work + Extra Tp. 
+0092#STR0092#ALL#Productivity
+0093#STR0093#ALL#Efficiency
+0094#STR0094#ALL#Utilization
+0095#STR0095#ALL#Worksheet successfully generated!
+0096#STR0096#ALL#Sold Tp
+0097#STR0097#ALL#Class. Technical skill
+0098#STR0098#ALL#20 - % Productivity on Effective Time ((Time Applied+Extra Time)/Effective Time+Extra Time)
+0099#STR0099#ALL#Default SE (12)
+0100#STR0100#ALL#Default CE (13)
+0101#STR0101#ALL#Coll SE (14)
+0102#STR0102#ALL#Coll CE (15)
+0103#STR0103#ALL#Sales SE (16)
+0104#STR0104#ALL#Sales CE (17)
+0105#STR0105#ALL#Eff SE (18)
+0106#STR0106#ALL#Eff CE (19)
+0107#STR0107#ALL#Eff CE + E (20)
+0108#STR0108#ALL#Coll/Def (21)
+0109#STR0109#ALL#Approved (22)
+0110#STR0110#ALL#TOTAL
+0111#STR0111#ALL#Services Order Report
+0112#STR0112#ALL#Dev.Tp.
+0113#STR0113#ALL#Aus.Tp.
+0114#STR0114#ALL#Effe.Tp.
+0115#STR0115#ALL#Par.Tp.
+0116#STR0116#ALL#Work.Tp.
+0117#STR0117#ALL#Extra Tp.
+0118#STR0118#ALL#Expl.Tp.
+0119#STR0119#ALL#Stand.Tp.
+0120#STR0120#ALL#Coll.Tp.
+0121#STR0121#ALL#Sold Tp.
+0122#STR0122#ALL#Us.Formula
+0123#STR0123#ALL#SE Stand. Eff.
+0124#STR0124#ALL#CE Stand. Eff.
+0125#STR0125#ALL#SE Coll. Eff.
+0126#STR0126#ALL#CE Coll. Eff.
+0127#STR0127#ALL#SE Sal. Eff.
+0128#STR0128#ALL#CE Ex. Eff.
+0129#STR0129#ALL#SE Eff. Pd.
+0130#STR0130#ALL#CE Eff. Pd.
+0131#STR0131#ALL#Stand/Coll. Pd.
+0132#STR0132#ALL#Enj.Pd.
+0133#STR0133#ALL#St. Not Rel.
+0134#STR0134#ALL#Rel. Hr.
+0135#STR0135#ALL#Serv.Tp.
+0136#STR0136#ALL#Description
+0137#STR0137#ALL#Default Message
+0138#STR0138#ALL#Worked
+0139#STR0139#ALL#SO No.
+0140#STR0140#ALL#Status
+0141#STR0141#ALL#Type of Time
+0142#STR0142#ALL#St Date
+0143#STR0143#ALL#St Time
+0144#STR0144#ALL#End Date
+0145#STR0145#ALL#End Time
+0146#STR0146#ALL#Record Type
+0147#STR0147#ALL#Services Execute
+0148#STR0148#ALL#Serv. Desc.
+0149#STR0149#ALL#Applied
+0150#STR0150#ALL#Charged
+0151#STR0151#ALL#Sold
+0152#STR0152#ALL#Absence
+0153#STR0153#ALL#Sequence
+0154#STR0154#ALL#Prod.Code
+0155#STR0155#ALL#Prod. Name
+0156#STR0156#ALL#Role
+0157#STR0157#ALL#Role Desc.
+0158#STR0158#ALL#Mth Availab. Time
+0159#STR0159#ALL#Eff. Avail.Tp.
+0160#STR0160#ALL#Overtime
+0161#STR0161#ALL#Total Eff. Time
+0162#STR0162#ALL#Reg. Time Work Tp
+0163#STR0163#ALL#Lost Tp
+0164#STR0164#ALL#Work Tp + Overtime
+0165#STR0165#ALL#Productivity
+0166#STR0166#ALL#Efficiency
+0167#STR0167#ALL#Enjoyment
+0168#STR0168#ALL#Work Tp
+0169#STR0169#ALL#Stand.Tp.

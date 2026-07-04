@@ -1,0 +1,62 @@
+0001#STR0001#ALL#Este programa imprimirá o aging de clientes de acordo com    
+0002#STR0002#ALL#Os parâmetros seleccionados.
+0004#STR0004#ALL#Dívidas Vencidas E Por Vencer De Clientes
+0006#STR0006#ALL#Administração
+0007#STR0007#ALL#De cliente         
+0008#STR0008#ALL#A cliente          
+0009#STR0009#ALL#Da data
+0010#STR0010#ALL#Até à data
+0011#STR0011#ALL#Relatório          
+0012#STR0012#ALL#Analítico
+0013#STR0013#ALL#Sintético
+0015#STR0015#ALL#Períodos ant.   
+0016#STR0016#ALL#Tipo intervalo  
+0019#STR0019#ALL#Introduzido
+0027#STR0027#ALL#Outras moedas  ?
+0031#STR0031#ALL#Indique
+0032#STR0032#ALL#Folha de cálculo
+0033#STR0033#ALL#Separar cheques ?
+0035#STR0035#ALL#Não
+0036#STR0036#ALL#Uma Das Datas Deve Coincidir Com A Data De Referência
+0037#STR0037#ALL#Erro de sequência nas datas
+0038#STR0038#ALL# de emissão: 
+0039#STR0039#ALL#  até   : 
+0040#STR0040#ALL#A Seleccionar Registos...
+0041#STR0041#ALL#A Preparar Transitório...
+0042#STR0042#ALL#Total cliente: 
+0043#STR0043#ALL#Saldo de cheques em 
+0044#STR0044#ALL#Total   g e r a l 
+0045#STR0045#ALL#S a l d o   g e r a l   d e   c h e q u e s  n o 
+0046#STR0046#ALL#Vencidos << >> a vencer  
+0047#STR0047#ALL#Cliente/factura            Vendedor     Até             A             A             A             A             A             A             A             A             A             A            Post.           Saldo
+0048#STR0048#ALL#Data     tipo série número      parc. 
+0050#STR0050#ALL#. morada  : 
+0051#STR0051#ALL#Tel: 
+0052#STR0052#ALL#Vendedor: 
+0053#STR0053#ALL#Data de intervalo 01 
+0054#STR0054#ALL#Data de intervalo 02 
+0055#STR0055#ALL#Data de intervalo 03 
+0056#STR0056#ALL#Data intervalo 04 
+0057#STR0057#ALL#Data intervalo 05 
+0058#STR0058#ALL#Data intervalo 06 
+0059#STR0059#ALL#Data intervalo 07 
+0060#STR0060#ALL#Data intervalo 08 
+0061#STR0061#ALL#Data de intervalo 09 
+0062#STR0062#ALL#Data de intervalo 10 
+0063#STR0063#ALL#Data de intervalo 11 
+0064#STR0064#ALL#A processar cliente 
+0065#STR0065#ALL#Nota de crédito nr. 
+0066#STR0066#ALL#Nota de débito nr. 
+0067#STR0067#ALL#Factura nr. 
+0068#STR0068#ALL#Adiant. 
+0069#STR0069#ALL#Nota De Créd. Interna
+0070#STR0070#ALL#Nota De Déb. Interna
+0071#STR0071#ALL#Cheque
+0072#STR0072#ALL#Não Classificado.
+0074#STR0074#ALL#Prefixo+título
+0075#STR0075#ALL#Emissão
+0076#STR0076#ALL#Factura
+0077#STR0077#ALL#Tipo Série Número      Parc
+0079#STR0079#ALL#Até
+0083#STR0083#ALL#Títulos a receber
+0085#STR0085#ALL#>>a venc. 

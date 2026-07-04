@@ -1,0 +1,18 @@
+0001#STR0001#ALL#Imprime os títulos a receber com o número 
+0002#STR0002#ALL#Da Factura-e
+0003#STR0003#ALL#Código de barras
+0004#STR0004#ALL#Administração
+0005#STR0005#ALL#Títulos A Receber - Factura-e
+0007#STR0007#ALL#Parcela                                                                    emissão    título     real                           
+0009#STR0009#ALL#Por Prefixo/número
+0011#STR0011#ALL#Por Venc/cli
+0013#STR0013#ALL#Por Emissão
+0014#STR0014#ALL#Por Factura-e
+0015#STR0015#ALL#Por Cód.cli.
+0016#STR0016#ALL# - Por Factura-e
+0018#STR0018#ALL# - Por Prefixo/número
+0019#STR0019#ALL# - Por Cód.cliente
+0020#STR0020#ALL#Por Número/prefixo
+0021#STR0021#ALL# - Número/prefixo
+0022#STR0022#ALL#A Seleccionar Registos...
+0023#STR0023#ALL#Cancelado Pelo Operador

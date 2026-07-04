@@ -1,0 +1,44 @@
+0001#STR0001#ALL#SO. Servicing Card
+0002#STR0002#ALL#     This program will print the SO Attendance Card, according to 
+0003#STR0003#ALL#selected parameters.   
+0004#STR0004#ALL#
+0005#STR0005#ALL#Z.Form 
+0006#STR0006#ALL#Management   
+0007#STR0007#ALL#CANCELLED BY OPERATOR  
+0008#STR0008#ALL#|                                     SO SERVICING CARD                                              | SO.NR. ###### | Page: ######|
+0009#STR0009#ALL#|Customer : ######/## - ########################################                                                      State:    ## |
+0010#STR0010#ALL#|Address  : ######################################## CITY :  ####################  ZONE:  ################### PHONE:############## |
+0011#STR0011#ALL#|Contact  : #################### CALL: ######## DT.CALL ########## TIME: #####                                                     |
+0012#STR0012#ALL#|Note     : ###################################################################################################################### |
+0013#STR0013#ALL#|Product  : ############### Ser.Numb.: #################### OCCURRENCE/PROBLEM:  ###### - ##############################           |
+0014#STR0014#ALL#|Warranty :### Contract: ### ACCUMULATOR:                                                                                          |
+0015#STR0015#ALL#|ARRIVAL DATE:     /     /        ARRIVAL TIME:      :       HS   EXIT DATE :        /      /       EXIT TIME :         :      HS  |
+0016#STR0016#ALL#|INITIAL DATE:     /     /        INITIAL TIME:      :       HS   FINISH DATE :      /      /       FINISH TIME :       :      HS  |
+0017#STR0017#ALL#|Failure Verified :                                                                                                                |
+0018#STR0018#ALL#|Probably Reason  :                                                                                                                |
+0019#STR0019#ALL#|Service Done     :                                                                                                                |
+0020#STR0020#ALL#|Product        |Ser. Numb.          |Manufac.  |Description                   ³Quantity  |Observation                             |
+0021#STR0021#ALL#|Suggestion:                                                                                                                       |
+0022#STR0022#ALL#|              CUSTOMER                    |                 TECHNICIAN                 |                 MANAGER                  |
+0023#STR0023#ALL#Yes
+0024#STR0024#ALL#No 
+0025#STR0025#ALL#|                             SO SERVICING INDEX CARD - SERVICING KIT                               | SO Nr: ###### |  Page: ######|
+0026#STR0026#ALL#|Product        |Description                   |Quantity                                                                           |
+0027#STR0027#ALL#Notes   
+0028#STR0028#ALL#Guarantee 
+0029#STR0029#ALL#Contract 
+0030#STR0030#ALL#Accumulator 
+0031#STR0031#ALL#Product
+0032#STR0032#ALL#Descript.
+0033#STR0033#ALL#Quantity  
+0034#STR0034#ALL#ARRIVAL DATE:     /     /        ARRIVAL TIME:      :       H    EXIT DATE:         /      /       EXIT TIME:          :      H 
+0035#STR0035#ALL#START DATE:       /     /        START TIME:        :       H    FINISH DATE:       /      /       FINISH TIME:        :      H 
+0036#STR0036#ALL#Deffect confirmed:  
+0037#STR0037#ALL#Likely cause:   
+0038#STR0038#ALL#Service executed:  
+0039#STR0039#ALL#Product         Serial No.           Manufacturer   Description                   Quantity       Notes      
+0040#STR0040#ALL#Suggestion : 
+0041#STR0041#ALL#                        CUSTOMER                                              TECHNICIAN                                           MANAGER                  
+0042#STR0042#ALL#ATTENDANCE KIT     
+0043#STR0043#ALL#SO service card           
+0044#STR0044#ALL#Quotation items   

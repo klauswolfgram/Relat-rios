@@ -1,0 +1,40 @@
+0001#STR0001#ALL#Este programa irá emitir o Boletim de Entrada.
+0002#STR0002#ALL#Boletim de Entrada
+0003#STR0003#ALL#Zebrado
+0004#STR0004#ALL#Administração
+0005#STR0005#ALL#CANCELADO PELO OPERADOR
+0006#STR0006#ALL#----------------- PRODUTO(s) ENVIADO(s) PARA CONTROLE DE QUALIDADE -------------
+0007#STR0007#ALL#Produto         Armaz Origem Armaz Destino Data Transferência
+0008#STR0008#ALL#------------------------ DIVERGÊNCIAS COM O PEDIDO DE COMPRA ----------------------------
+0009#STR0009#ALL#Nao há divergências no(s) pedido(s) 
+0010#STR0010#ALL#Div Número    Descrição do Produto              Quant.    Preco Unitár.  Entrega
+0011#STR0011#ALL#Não há divergências no(s) pedido(s) 
+0012#STR0012#ALL#Não há Pedidos
+0013#STR0013#ALL#Valor Contábil:
+0014#STR0014#ALL#Classificação Fiscal:
+0015#STR0015#ALL#------------------------------------ VISTOS ------------------------------------
+0016#STR0016#ALL#----------------------------DATAS DA GUIA DE REMESSA----------------------------
+0017#STR0017#ALL#Código Material UN Descrição da Mercadoria       Quantidade        Quan. Seg. UM
+0018#STR0018#ALL#TES Cta Contábil          Centro de Custos  Custo Unitário Grupo                
+0019#STR0019#ALL#BOLETIM DE ENTRADA      Material recebido em: 
+0020#STR0020#ALL# - (Devolução) 
+0021#STR0021#ALL#Fornecedor                                |Nº Guia de Remes | Emissão  |  Vencto
+0022#STR0022#ALL#------------------------------ DADOS DA GUIA DE REMESSA-------------------------
+0023#STR0023#ALL#--------------------------- DADOS DA GUIA DE REMESSA  --------------------------
+0024#STR0024#ALL#------------------------------ DADOS DA GUIA DE REMESSA-------------------------
+0025#STR0025#ALL#Fornecedor                                |Nº Guia de Remess| Emissão  |  Vencto
+0026#STR0026#ALL#Fornecedor                                |Nº Guia de Remess| Emissão  |  Vencto
+0027#STR0027#ALL#Fornecedor                                |Nº Guia de Remess| Emissão  |  Vencto
+0028#STR0028#ALL#Fornecedor                                |Nº   
+0029#STR0029#ALL#| Emissão  |  Vencto
+0030#STR0030#ALL#------------------------------ DADOS DO(A) 
+0031#STR0031#ALL#Descrição da Mercadoria
+0032#STR0032#ALL#Grupo
+0033#STR0033#ALL#Nº
+0034#STR0034#ALL#Vencto
+0035#STR0035#ALL#Cabeçalho da Guia de Remessa
+0036#STR0036#ALL#Fornecedor
+0037#STR0037#ALL#Itens da Guia de Remessa
+0038#STR0038#ALL#TES x Centro de Custo
+0039#STR0039#ALL#Movimentações de CQ.
+0040#STR0040#ALL#TES Cta Contábil          Centro de Custos                 Grupo                

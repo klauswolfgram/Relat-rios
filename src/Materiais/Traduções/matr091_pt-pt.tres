@@ -1,0 +1,19 @@
+0001#STR0001#ALL#ESte relatório irá imprimir a relaçäo de elementos
+0002#STR0002#ALL#Referentes às compras e devoluções. 
+0003#STR0003#ALL#Relação de compras (fornecedor) 
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração 
+0006#STR0006#ALL#FACTURA                 ARTIGO         DESCRIÇÃO                   QUANTIDADE UM    PR.UNITÁRIO       IMPOSTOS            VALOR        CÓDIGO RAZÃO SOCIAL                       TP TE  TIPO GRUPO DT.DIGITAÇÃO         CUSTO    
+0007#STR0007#ALL#Cancelado pelo operador 
+0008#STR0008#ALL#FACTURA                 ARTIGO         DESCRIÇÃO                   QUANTIDADE UM    PR.UNITÁRIO       IMPOSTOS            VALOR        CÓDIGO               RAZÃO SOCIAL         TP TE  TIPO GRUPO DT.DIGITAÇÃO         CUSTO    
+0009#STR0009#ALL#Total da factura -> 
+0011#STR0011#ALL#Total de saídas -> 
+0012#STR0012#ALL#Diferenca		 -> 
+0013#STR0013#ALL#<-e n t r a d a s-> 
+0014#STR0014#ALL#<-s a í d a s-> 
+0017#STR0017#ALL#Código
+0019#STR0019#ALL#Te
+0021#STR0021#ALL#Itens Do Documento De Entrada / Devolução
+0022#STR0022#ALL#FACTURA         ARTIGO         DESCRIÇÃO                   QUANTIDADE UM    PR.UNITÁRIO       IMPOSTOS            VALOR        CÓDIGO RAZÃO SOCIAL                       TP TE  TIPO GRUPO DT.DIGITAÇÃO         CUSTO    
+0023#STR0023#ALL#FACTURA      ARTIGO         DESCRIÇÃO                   QUANTIDADE UM    PR.UNITÁRIO       IMPOSTOS            VALOR        CÓDIGO               RAZÃO SOCIAL         TP TE  TIPO GRUPO DT.DIGITAÇÃO         CUSTO    
+0027#STR0027#ALL#Doc.

@@ -1,0 +1,39 @@
+0001#STR0001#ALL#Este programa irá imprimir o Livro Diário, ordenado por lancamento contabil.
+0002#STR0002#ALL#Emissao do Diario Geral
+0003#STR0003#ALL#Zebrado
+0004#STR0004#ALL#Administracao
+0005#STR0005#ALL#Livro Diario Geral 
+0006#STR0006#ALL#lancamentos em 
+0007#STR0007#ALL#Debito
+0007#STR0007#ANG#Debito
+0007#STR0007#EQU#Debito
+0007#STR0007#HAI#Debito
+0007#STR0007#MEX#Debito
+0007#STR0007#PTG#Debito
+0008#STR0008#ALL#Credito
+0008#STR0008#ANG#Credito
+0008#STR0008#EQU#Credito
+0008#STR0008#HAI#Credito
+0008#STR0008#MEX#Credito
+0008#STR0008#PTG#Credito
+0009#STR0009#ALL#De transporte ==>
+0010#STR0010#ALL#A transportar ==>
+0011#STR0011#ALL#Total lancamento ==>
+0012#STR0012#ALL#Total dia 
+0013#STR0013#ALL#Total do mes 
+0014#STR0014#ALL#* * *   I M P R E S S A O   C A N C E L A D A   * * *
+0015#STR0015#ALL#Total geral ==>
+0016#STR0016#ALL#Diario Geral.
+0017#STR0017#ALL#Lote/SubLote
+0018#STR0018#ALL# de 
+0019#STR0019#ALL# a 
+0020#STR0020#ALL#ERRO ==>
+0021#STR0021#ALL#Descricao
+0022#STR0022#ALL#Lançamentos
+0023#STR0023#ALL#Seq
+0024#STR0024#ALL#Conta Debito
+0025#STR0025#ALL#Conta Credito
+0026#STR0026#ALL#C Custo D
+0027#STR0027#ALL#C Custo C
+0028#STR0028#ALL#Lote
+0029#STR0029#ALL#SubLote

@@ -1,0 +1,28 @@
+0001#STR0001#ALL#This program will print the report of composition of grouped entries.            
+0002#STR0002#ALL#You can choose if you want to print all the entries or only the grouped entries.   
+0003#STR0003#ALL#It is not advisable to issue this report when the history is a part of the grouping key.          
+0004#STR0004#ALL#Composition of the grouped entries on     
+0005#STR0005#ALL#Z-Form 
+0006#STR0006#ALL#Administratin
+0007#STR0007#ALL#|LINE |DC | DEBIT ACCOUNT        | CREDIT ACCOUNT        |DEBIT COST CENTER      |CREDIT COST CENTER   | DEBIT ITEM          | CREDIT ITEM         |DEBIT VALUE CLASS    |CREDIT VALUE CLASS   |      ENTRY VALUE          |
+0008#STR0008#ALL#|LP   |LP SEQ                    | HISTORY                                       |          VALUE      |                                                                                                                   |
+0009#STR0009#ALL#***** CANCELLED BY OPERATOR *****
+0010#STR0010#ALL#Account. entry not grouped.        
+0011#STR0011#ALL# CREDIT
+0012#STR0012#ALL#DATE 
+0013#STR0013#ALL#LOT: 
+0014#STR0014#ALL#DOCUMENT: 
+0015#STR0015#ALL#SUB-LOT: 
+0016#STR0016#ALL#Selecting Records...
+0017#STR0017#ALL#DOCUMENT TOTAL :
+0018#STR0018#ALL#TOTAL LOT :
+0019#STR0019#ALL#ENTERED :
+0020#STR0020#ALL#TYPED :
+0021#STR0021#ALL#DIFFERENCE:
+0022#STR0022#ALL#SUBLOT TOTAL :
+0023#STR0023#ALL#DOC    LI TP DEBIT ACCT.          CREDIT ACCT.          HP  HISTORY                                        DEBIT VALUE    CRED.VALUE
+0024#STR0024#ALL# DEBIT
+0025#STR0025#ALL# CREDIT
+0026#STR0026#ALL#DOC:
+0027#STR0027#ALL#DOCUMENT TOTAL :
+0028#STR0028#ALL#CORRELATIVE: 

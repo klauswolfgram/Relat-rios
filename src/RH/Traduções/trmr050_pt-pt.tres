@@ -1,0 +1,15 @@
+0001#STR0001#ALL#Relatório De Cursos Por Entidade
+0002#STR0002#ALL#Sera impresso de acordo com os parâmetro s solicitados pelo
+0003#STR0003#ALL#Utilizador.
+0005#STR0005#ALL#Código de barras
+0006#STR0006#ALL#Administração
+0007#STR0007#ALL#Cursos Por Entidade
+0008#STR0008#ALL#Cód.   curso                                    duração un    valor 
+0009#STR0009#ALL#Cód.   entidade                                 duração un    valor 
+0010#STR0010#ALL#Entidade: 
+0011#STR0011#ALL#Curso: 
+0012#STR0012#ALL#     conteúdo programático 
+0013#STR0013#ALL# *** conteúdo programático não preenchido *** 
+0015#STR0015#ALL#Este relatório efectua a impressão  dos cursos disponíveis por entidade 
+0017#STR0017#ALL#Por Entidade/curso
+0018#STR0018#ALL#Por Curso/entidade

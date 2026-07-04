@@ -1,0 +1,16 @@
+0001#STR0001#ALL#Mapa de Recuo e Avanco
+0002#STR0002#ALL#Este programa irá emitir um mapa com as operaçäes que necessi-
+0003#STR0003#ALL#taram ser deslocadas no tempo. Este deslocamento  normalmente
+0004#STR0004#ALL#identifica um gargalo na linha de produçäo.
+0005#STR0005#ALL# Por Ordem Producao 
+0006#STR0006#ALL# Por Recurso        
+0007#STR0007#ALL#Zebrado
+0008#STR0008#ALL#Administracao
+0009#STR0009#ALL#REGISTRO(S)
+0010#STR0010#ALL#ORDEM       CODIGO DO       DESCRICAO DO PRODUTO             OP   RECURSO                             FERRAMENTA                    FIM          IDEAL     FIM       ALOCADO     DIFE-
+0011#STR0011#ALL#ORDEM       CODIGO DO       DESCRICAO DO PRODUTO             OP   RECURSO                             FERRAMENTA                   INICIO        IDEAL    INICIO     ALOCADO     DIFE-
+0012#STR0012#ALL#PRODUCAO    PRODUTO                                                                                                                 DATA          HORA     DATA       HORA       RENCA
+0013#STR0013#ALL#CANCELADO PELO OPERADOR
+0014#STR0014#ALL#Diferenca
+0015#STR0015#ALL#Operações alocadas Carga Máquina
+0016#STR0016#ALL#O relatório MATR835 foi descontinuado na versão 12.

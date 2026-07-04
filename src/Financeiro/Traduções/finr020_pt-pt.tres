@@ -1,0 +1,22 @@
+0001#STR0001#ALL#Código de barras
+0003#STR0003#ALL#Este programa vai imprimir o livro registo de recibos
+0004#STR0004#ALL#Livro de registo de recibos
+0005#STR0005#ALL#Devem Ser Criados Os Parâmetros Mv_ldupabe E Mv_ldupenc.
+0006#STR0006#ALL#Utilize Como Base O Parâmetro Mv_ldiarab.
+0007#STR0007#ALL#Livro De Duplicados
+0008#STR0008#ALL#R E G I S T O   D E   D U P L I C A D O S
+0011#STR0011#ALL#| INSC.DIST.: ################   No.Cont.: ################################                                                                                                                                        |
+0012#STR0012#ALL#|nr. de ordem |data da |data da   |           valor|nome do comprador                       | domicílio         |data do   |data do |                  anotações das reformas         |
+0013#STR0013#ALL#|             |emissão |expedição |                |                                        |                   |vencimento|pgt.  |prorrogações e outras circunstâncias necessárias |
+0014#STR0014#ALL#Núm De Ordem
+0016#STR0016#ALL#Emissão
+0017#STR0017#ALL#Expedição
+0019#STR0019#ALL#Nome Do Comprador
+0020#STR0020#ALL#Domicílio
+0023#STR0023#ALL#Pgt.
+0024#STR0024#ALL#Anotações das reformas
+0025#STR0025#ALL#Prorrogações e outras circunstâncias necessárias
+0026#STR0026#ALL#Empresa:
+0027#STR0027#ALL#Insc Est.:
+0028#STR0028#ALL#Nr. contrib :
+0030#STR0030#ALL#Registos de duplicados

@@ -1,0 +1,33 @@
+0001#STR0001#ALL#Asset depreciation statement with prorate control
+0002#STR0002#ALL#Available in TReport version only.
+0003#STR0003#ALL#Function available for TopConnect environment only.
+0004#STR0004#ALL#Branch
+0005#STR0005#ALL#Asset code
+0006#STR0006#ALL#Item
+0007#STR0007#ALL#Description
+0008#STR0008#ALL#Type
+0009#STR0009#ALL#Balance Type
+0010#STR0010#ALL#Original Value
+0011#STR0011#ALL#Date
+0012#STR0012#ALL#Depreciation Value
+0013#STR0013#ALL#Prorated Value
+0014#STR0014#ALL#Asset Type
+0015#STR0015#ALL#Depreciation Accrued
+0016#STR0016#ALL#Entity
+0017#STR0017#ALL#Bookkeeping Account
+0018#STR0018#ALL#Cost Center
+0019#STR0019#ALL#Account Item
+0020#STR0020#ALL#Value class
+0021#STR0021#ALL#Accounting Entity 
+0022#STR0022#ALL#Asset Total 
+0023#STR0023#ALL# Item 
+0024#STR0024#ALL# and Type 
+0025#STR0025#ALL#FISCAL
+0026#STR0026#ALL#MANAGERIAL
+0027#STR0027#ALL#ENCOURAGED
+0028#STR0028#ALL#Branch Total: 
+0029#STR0029#ALL#GRAND TOTAL
+0030#STR0030#ALL#Total prorated by Entity: 
+0031#STR0031#ALL#To use this report, depreciation processes goods with apportionment control must be implemented. Please, update environment
+0032#STR0032#ALL#Total
+0033#STR0033#ALL#Not all additional accounting entities were created in the Fixed Asset, only the available entities will be printed.

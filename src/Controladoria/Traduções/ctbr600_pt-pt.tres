@@ -1,0 +1,28 @@
+0001#STR0001#ALL#Este programa tem como objectivo imprimir uma relação para conferência 
+0002#STR0002#ALL#Dos movimentos criados pelo procedimento de apuramento de lucros/perdas 
+0003#STR0003#ALL#Com Conta Ponte.
+0004#STR0004#ALL#Movimentos Criados Pelo Apuramento De Lucros/perdas Com Conta Ponte
+0005#STR0005#ALL#Código de barras
+0006#STR0006#ALL#Administração
+0007#STR0007#ALL#Encargo de sequência da conta                                                         
+0008#STR0008#ALL#Valor De Débito                               Valor De Crédito
+0008#STR0008#ANG#VALOR DÉBITO                               VALOR CRÉDITO
+0008#STR0008#EQU#VALOR DÉBITO                               VALOR CRÉDITO
+0008#STR0008#HAI#VALOR DÉBITO                               VALOR CRÉDITO
+0008#STR0008#MEX#Valor De Débito                               Valor De Crédito
+0008#STR0008#PTG#Valor De Débito                               Valor De Crédito
+0009#STR0009#ALL#***** cancelado pelo operador *****
+0010#STR0010#ALL#Total :
+0011#STR0011#ALL#Sub-lote: 
+0012#STR0012#ALL#Data: 
+0013#STR0013#ALL#Lote: 
+0014#STR0014#ALL#Doc: 
+0014#STR0014#MEX#Doc: 
+0014#STR0014#PTG#Doc: 
+0015#STR0015#ALL#Valor De Débito
+0015#STR0015#MEX#Valor De Débito
+0015#STR0015#PTG#Valor De Débito
+0016#STR0016#ALL#Valor De Crédito
+0016#STR0016#MEX#Valor De Crédito
+0016#STR0016#PTG#Valor De Crédito
+0019#STR0019#ALL#A Seleccionar Registos...

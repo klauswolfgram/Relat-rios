@@ -1,0 +1,14 @@
+0001#STR0001#ALL#This program issued a Product Ranking per Price or 
+0002#STR0002#ALL#Quantity in Current Currency.         
+0003#STR0003#ALL#Z.Form 
+0004#STR0004#ALL#Management   
+0005#STR0005#ALL#PRODUCT RANKING    
+0006#STR0006#ALL#Clas  Product Code       Product Description                                       Quantity      Un                 Value
+0007#STR0007#ALL#PRICE
+0008#STR0008#ALL#QUANTITY  
+0009#STR0009#ALL#CANCELLED BY THE OPERATOR  
+0010#STR0010#ALL#Grand Total :                                                                      Quantity                        Amount
+0011#STR0011#ALL#Classifying...
+0012#STR0012#ALL#Code   
+0013#STR0013#ALL#Product details      
+0014#STR0014#ALL#Clas  Product Code        Product Description                                      Amount    Un                 Value

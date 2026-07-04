@@ -1,0 +1,35 @@
+0001#STR0001#ALL#This program will print the Comp.Trial Balance     
+0002#STR0002#ALL#according to the parameters requested by the user.    
+0003#STR0003#ALL#Comparative of 
+0004#STR0004#ALL#|CODE              |DESCRIPTION        |  PERIOD 01   |  PERIOD 02   |  PERIOD 03   |  PERIOD 04   |  PERIOD 05   |  PERIOD 06   |  PERIOD 07   |  PERIOD 08   |  PERIOD 09   |  PERIOD 10   |  PERIOD 11   |  PERIOD 12   |
+0005#STR0005#ALL#DETAILED COMPARATIVE OF  
+0006#STR0006#ALL#SUMMARIZED COMPARATIVE OF 
+0007#STR0007#ALL#COMPARATIVE OF 
+0008#STR0008#ALL# FROM 
+0009#STR0009#ALL# TO  
+0010#STR0010#ALL# ON 
+0011#STR0011#ALL# ACCT. 
+0012#STR0012#ALL#Managerial plan is not available for this report yet.            
+0013#STR0013#ALL#Creating Temporary File...... 
+0014#STR0014#ALL#Z.Form 
+0015#STR0015#ALL#Management   
+0016#STR0016#ALL#***** CANCELLED BY OPERATOR *******
+0017#STR0017#ALL#P E R I O D    T O T A L:        
+0018#STR0018#ALL#TOTAL OF  
+0019#STR0019#ALL#Requested period exceeds the limit of 6 months.     
+0020#STR0020#ALL#Only the 6 months from the initial date will be printed.  
+0021#STR0021#ALL#If you do not update the comp.balance in
+0022#STR0022#ALL#issue the reports (MV_SLDCOMP='N'),     
+0023#STR0023#ALL#run the balance updating routine        
+0024#STR0024#ALL#Change the tax record setup...    
+0025#STR0025#ALL#Tax Record Setup... 
+0026#STR0026#ALL#TOTAL:  
+0027#STR0027#ALL#PERIOD TOTAL:     
+0028#STR0028#ALL#PERIOD TOTAL 
+0029#STR0029#ALL#ACCUMULAT
+0030#STR0030#ALL#GROUP (
+0031#STR0031#ALL#PERIOD  
+0032#STR0032#ALL#Total -
+0033#STR0033#ALL#Grand total - 
+0034#STR0034#ALL# Higher  
+0035#STR0035#ALL#Group

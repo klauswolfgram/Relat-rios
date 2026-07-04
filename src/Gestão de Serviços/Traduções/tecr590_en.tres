@@ -1,0 +1,16 @@
+0001#STR0001#BRA#Scale X Customer and Contract
+0002#STR0002#BRA#Yes
+0003#STR0003#BRA#No
+0004#STR0004#BRA#Customer Code
+0005#STR0005#BRA#Customer Name
+0006#STR0006#BRA#Motive Description
+0007#STR0007#BRA#Planned Hours
+0008#STR0008#BRA#Performed Hours
+0009#STR0009#BRA#Total Services Rendered
+0010#STR0010#BRA#Total Services Planned
+0011#STR0011#BRA#Total Services Rendered
+0012#STR0012#BRA#Total Services Planned X Rendered
+0013#STR0013#BRA#This report is available for Topconnect only.
+0014#STR0014#BRA#Contract Value
+0015#STR0015#BRA#Total Value of Contracts
+0016#STR0016#ALL#Maintenance Time

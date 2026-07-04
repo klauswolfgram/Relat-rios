@@ -1,0 +1,11 @@
+0001#STR0001#ALL#Lista Mestra Completa De Documentos
+0002#STR0002#ALL#Este programa vai imprimir uma relação dos documentos, os seus
+0003#STR0003#ALL#Elaboradores, revisores, autorizadores e homologadores,
+0004#STR0004#ALL#De acordo com os parâmetros definidos pelo utilizador.
+0005#STR0005#ALL#Código de barras
+0006#STR0006#ALL#Administração
+0007#STR0007#ALL#A Seleccionar Registos..
+0008#STR0008#ALL#Cancelado Pelo Operador
+0010#STR0010#ALL#Documento          Rev. Título 
+0011#STR0011#ALL#Elaboradores      Revisores       autorizadores
+0012#STR0012#ALL#Homologadores    Vigência

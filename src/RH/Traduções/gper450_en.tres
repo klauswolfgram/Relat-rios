@@ -1,0 +1,34 @@
+0001#STR0001#ALL#Registration
+0002#STR0002#ALL#Cost Center    
+0003#STR0003#ALL#Name
+0004#STR0004#ALL#Report of Salary base                 
+0005#STR0005#ALL#It will be printed according to the parameters selected by
+0006#STR0006#ALL#the User.
+0007#STR0007#ALL#Z.Form 
+0008#STR0008#ALL#Management   
+0009#STR0009#ALL#REPORT OF CONTRIBUTION SALARIES     
+0010#STR0011#ALL#| 1-MON/YEAR|   CONTRIBUT SALARY VALUE    |  COLLECTION DATE  | 1-MON/YEAR|   CONTRIBUT SALARY VALUE    |  COLLECTION DATE  |
+0011#STR0012#ALL#TOTAL OF PAGE    |
+0012#STR0014#ALL#Not Reg.Tab. 41
+0013#STR0015#ALL#PAY RAISES
+0014#STR0016#ALL#| 2-MONTH/YEAR  |                                        REASON                                        |     PERCENTUAL     |
+0015#STR0017#ALL#PLACE AND DATE 
+0016#STR0018#ALL#RESPONSIBLE´S SIGNATURE AND COMPANY´S STAMP
+0017#STR0019#ALL#DOCUMENT ISSUED ACCORDING TO AUTHORIZATION OF BENEFITS ALLOWANCE DEPARTMENT ACCORDING TO PT 
+0018#STR0020#ALL#THE NON ACCURACY OF THE STATEMENTS SET FORTH IN THIS DOCUMENT CHARACTERIZES A INFRINGEMENT AS DISPOSED IN ART.171 AND299 OF PENAL CODE.
+0019#STR0021#ALL#|    COMPANY                                                                                           |    CNPJ Nr.        |
+0020#STR0023#ALL#|    ADDRESS                                                                                           |    INSS MATR.      |
+0021#STR0024#ALL#|    NAME OF INSURED PARTY                                                                         |    CPF Nr.         |
+0022#STR0025#ALL#BRC: 
+0023#STR0026#ALL# - REG: 
+0024#STR0027#ALL# - CA: 
+0025#STR0028#ALL#|    REGISTRAT.DOC NR & SERIES   |    ADMISSION/ INITIAL CONTRIBUTION DATE   |    DATE RELEASE         |    PIS/PASEP Nr.   |
+0026#STR0029#ALL#| 2-MONTH/YEAR  |                                       DESCRIPTION                                    |       VALUE        |
+0027#STR0030#ALL#SALARIES STATEMENT
+0028#STR0031#ALL#SALARY OF THE MONTH
+0029#STR0032#ALL#GRAND TOTAL |
+0030#STR0033#ALL#To be continued on next page...
+0031#STR0034#ALL#|    INSURED NAME                                 |
+0032#STR0035#ALL#|    CPF nº          |
+0033#STR0036#ALL#|    COMPANY                                                                                           |    In CEI          |
+0034#STR0037#ALL#| 1-MTH/YEAR | V.SAL.CONTRIB. | V.CONTRIB.REC. | DATE COLLECTION | 1-MTH/YEAR | V.SAL.CONTRIB. | V.CONTRIB.REC. | COLLECTION DATE

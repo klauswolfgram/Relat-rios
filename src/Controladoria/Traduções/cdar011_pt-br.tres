@@ -1,0 +1,20 @@
+0001#STR0001#ALL#Relação de Contratos de Direitos Autorais.
+0002#STR0002#ALL#Imprimirá os dados dos Contratos de Direitos Autorais de  
+0003#STR0003#ALL#acordo com a configuração do usuário. 
+0004#STR0004#ALL#Relação direitos Autorais (Gerencial)
+0005#STR0005#ALL#Por Codigo de Forn.
+0006#STR0006#ALL#Por Codigo do Prod.
+0007#STR0007#ALL#Zebrado
+0008#STR0008#ALL#Administracao
+0009#STR0009#ALL#Fornecedor
+0010#STR0010#ALL#Contrato
+0011#STR0011#ALL#Cod. Fornecedor
+0012#STR0012#ALL#Dt Vigencia
+0013#STR0013#ALL#Dt Vencto
+0014#STR0014#ALL#Cod. Produto
+0015#STR0015#ALL#Produto
+0016#STR0016#ALL#Periodo
+0017#STR0017#ALL#Dias Aviso
+0018#STR0018#ALL#Total de Contratos
+0019#STR0019#ALL#Sequencia
+0020#STR0020#ALL#Função disponível apenas em TReport

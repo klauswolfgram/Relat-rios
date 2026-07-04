@@ -1,0 +1,23 @@
+0001#STR0001#ALL#Lista De Etapas Vencidas E A Vencer
+0002#STR0002#ALL#Este programa irá imprimir uma relação de utilizadors com etapas
+0003#STR0003#ALL#Vencidas e a Vencer de acordo com os parâmetros definidos pelo utilizador.
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#A Seleccionar Registos...
+0007#STR0007#ALL#PLANO           REV TIPO ACÇÃO                                             RESPONSÁVEL                     DIAS
+0008#STR0008#ALL#Cancelado Pelo Operador
+0011#STR0011#ALL#Filial de         ?
+0012#STR0012#ALL#Filial ate        ?
+0013#STR0013#ALL#Do ano            ?
+0014#STR0014#ALL#Ano até           ?
+0015#STR0015#ALL#Plano de acção  de  ?
+0016#STR0016#ALL#Plano de acção  ate ?
+0017#STR0017#ALL#Revisão plano de  ?
+0018#STR0018#ALL#Revisão plano ate ?
+0019#STR0019#ALL#Utilizador de        ?
+0020#STR0020#ALL#Utilizador ate       ?
+0021#STR0021#ALL#Etapa de          ?
+0022#STR0022#ALL#Etapa ate         ?
+0023#STR0023#ALL#Prazo etapa de    ?
+0024#STR0024#ALL#Prazo etapa até   ?
+0025#STR0025#ALL#Etapas Do Plano

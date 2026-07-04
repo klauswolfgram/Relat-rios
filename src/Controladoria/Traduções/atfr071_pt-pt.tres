@@ -1,0 +1,23 @@
+0001#STR0001#ALL#Este programa irá emitir a posição valorizada dos
+0002#STR0002#ALL#Bens em até 5 (cinco) moedas.
+0003#STR0003#ALL#Posição Valorizada Dos Bens
+0004#STR0004#ALL#C. custo             cód. base  item tp descrição sintética              aquisic. dt.liquidação  quant.  nr. emp.        vlr ampliação   valor original  vlr actualizado  deprec. no mês deprec. no exerc. deprec. acumulada tx depr. 
+0005#STR0005#ALL#Conta                cód. base  item tp descrição sintética              aquisic. dt.liquidação  quant.  nr. emp.        vlr ampliação   valor original  vlr actualizado  deprec. no mês deprec. no exerc. deprec. acumulada tx depr. 
+0006#STR0006#ALL#      Vlr Ampliação      Valor Original    Valor Actualizado  Deprec. No Mês Deprec. No Exerc.   Deprec. Acumulada   Corr.mon. Mes  Corr. Mon.exerc.  Corr. Monet. Acum.  Corr.depr. Mes  Corr.depr.exerc.  Corr. Depr.  Acum.
+0008#STR0008#ALL#C.custo : 
+0009#STR0009#ALL#Cancelado Pelo Operador
+0010#STR0010#ALL#Total 
+0011#STR0011#ALL#Quantidade
+0012#STR0012#ALL#* * *   T O T A L  C R I A L    * * *
+0013#STR0013#ALL#Quantidade
+0014#STR0014#ALL#Código de barras
+0015#STR0015#ALL#Administração
+0019#STR0019#ALL# - tipo 
+0020#STR0020#ALL#Para Utilização Criar índice Sn4 - Chave N4_filial + N4_cbase + N4_item + N4_tipo + N4_ocorr + Dtos(n4_data).
+0021#STR0021#ALL#Item Contab.
+0022#STR0022#ALL#Classe De Valor
+0023#STR0023#ALL#Conta                cód. base  item tp descrição sintética                 aquisic.   dt.liquidação    quantidade  nr. emp.  c.custo   cl.valor.   
+0024#STR0024#ALL#Conta                cód. base  item tp descrição sintética                 aquisic.   dt.liquidação    quantidade  nr. emp.  item ctb  c.custo     
+0025#STR0025#ALL# - data de referência: 
+0026#STR0026#ALL#A processar...
+0027#STR0027#ALL#A imprimir...

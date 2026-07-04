@@ -1,0 +1,51 @@
+0001#STR0001#ALL#Este programa imprimira Balance Parcial de
+0002#STR0002#ALL#de acuerdo con parametros solicitados por el Usuario. 
+0003#STR0003#ALL#Balance Parc. de Verific.
+0004#STR0004#ALL#|  CODIGO                     |      D E S C R I P C I O N                      |    SALDO ANTERIOR              |    DEBITO       |      CREDITO      |    MOVIMIENTO DEL PERIODO     |         SALDO ACTUAL              |
+0004#STR0004#MEX#|  CODIGO                     |      D E S C R I P C I O N                      |    SALDO ANTERIOR              |    CARGO        |      ABONO        |    MOVIMIENTO DEL PERIODO     |         SALDO ACTUAL              |
+0005#STR0005#ALL#|  CODIGO               |   D  E  S  C  R  I  P C I O N  |   SALDO ANTERIOR  |      DEBITO    |      CREDITO   |   SALDO ACTUAL    |
+0005#STR0005#MEX#|  CODIGO               |   D  E  S  C  R  I  P C.       |   SALDO ANTERIOR  |      CARGO     |      ABONO     |   SALDO ACTUAL    |
+0006#STR0006#ALL#BALANCE ANALITICO DE   
+0007#STR0007#ALL#BAL. PARCIAL SINT. DE  
+0008#STR0008#ALL#BAL. PARC.DE 
+0009#STR0009#ALL# DE 
+0010#STR0010#ALL# A   
+0011#STR0011#ALL# EN 
+0012#STR0012#ALL# (PRESUP)
+0013#STR0013#ALL#(DE GESTION)
+0014#STR0014#ALL#Creando Archivo Temporal...  
+0015#STR0015#ALL#A rayas
+0016#STR0016#ALL#Administrac. 
+0017#STR0017#ALL#***** ANULADO POR EL OPERADOR *****
+0018#STR0018#ALL#Totales de periodo:
+0019#STR0019#ALL#T O T A L E S     G R U P O (
+0020#STR0020#ALL#Tot. del  
+0021#STR0021#ALL# Cta.  
+0022#STR0022#ALL#DIV.
+0023#STR0023#ALL#Por favor rellenar parametros Grupos Ingresos/Gastos y Fecha  Sld Ant. Ingresos/Gastos o    
+0024#STR0024#ALL#dejar el parametro Ignora Sl Ant.Ing/Gas = No  
+0025#STR0025#ALL#Ignora Sl Ant.Ing/Gas
+0026#STR0026#ALL#Cta. 
+0027#STR0027#ALL#Cod. Reducido
+0028#STR0028#ALL#Descripc.
+0029#STR0029#ALL#Codigo
+0030#STR0030#ALL#Saldo anterior
+0031#STR0031#ALL#Debito
+0031#STR0031#MEX#Cargo
+0032#STR0032#ALL#Credito
+0032#STR0032#MEX#Abono
+0033#STR0033#ALL#Movimto. del periodo
+0034#STR0034#ALL#Saldo act. 
+0035#STR0035#ALL#superior
+0036#STR0036#ALL#Grupo
+0037#STR0037#ALL#Tipo 
+0038#STR0038#ALL#Nivel 1
+0039#STR0039#ALL#Total
+0040#STR0040#ALL#A N T E R I O R
+0041#STR0041#ALL#D E B I T O    
+0041#STR0041#MEX#C A R G O      
+0042#STR0042#ALL#C R E D I T O  
+0042#STR0042#MEX#A B O N O      
+0043#STR0043#ALL#M O V I M T O .  
+0044#STR0044#ALL#A C T .  
+0045#STR0045#ALL#El parametro -¿Imprime C.Costo ?- esta marcado como Sintetico. Por eso, no se imprimiran los movimientos del C.Costo Analiticos, apenas la suma de los mismos.

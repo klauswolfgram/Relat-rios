@@ -1,0 +1,40 @@
+0001#STR0001#ALL#Informe del Calculo de seguros de salud
+0002#STR0002#ALL#Se imprimira de acuerdo con los parametros solicitados 
+0003#STR0003#ALL#por el usuario.
+0004#STR0004#ALL#Centro de costo+Matricula
+0005#STR0005#ALL#Empresa: 
+0006#STR0006#ALL#Matricula
+0007#STR0007#ALL#Nombre
+0008#STR0008#ALL#¡Informe una fecha de referencia minferior o igual a la Competencia de la planilla de haberes!
+0009#STR0009#ALL#Tipo          Matr/Sec Nombre                           Registro          Tp Proveed          Proveedor               Tp Plan              Cód Plan                    Val. Empl   Val. Empresa           Total
+0010#STR0010#ALL#Sucursal: 
+0011#STR0011#ALL#C.Costo: 
+0012#STR0012#ALL#Titular
+0013#STR0013#ALL#Dependiente
+0014#STR0014#ALL#Agregado
+0015#STR0015#ALL#Seguros
+0016#STR0016#ALL#Coparticipacion
+0017#STR0017#ALL#Reembolso
+0018#STR0018#ALL#As. Medica
+0019#STR0019#ALL#As. Odontol.
+0020#STR0020#ALL#Rango salarial
+0021#STR0021#ALL#Rango de edad
+0022#STR0022#ALL#Val. Fijo por vida
+0023#STR0023#ALL#% Sobre sueldo
+0024#STR0024#ALL#T O T A L  C E N T R O  D E  C O S T O S
+0025#STR0025#ALL# T O T A L    D E   L A    E M P R E S A       
+0026#STR0026#ALL# T O T A L    D E  L A    S U C U R S A L         
+0027#STR0027#ALL#Competencia: 
+0028#STR0028#ALL#Atencion
+0029#STR0029#ALL#Ejecute la opcion del compatibilizador referente al Nuevo Plan de Salud. Para mayores informaciones verifique respectivo Boletin Tecnico.
+0030#STR0030#ALL#OK
+0031#STR0031#ALL#Periodo informado no registrado 
+0032#STR0032#ALL#Periodo: 
+0033#STR0033#ALL#NO EXISTE CENTRO DE COSTO REGISTRADO
+0034#STR0034#ALL#De Sueldo/Etaria
+0035#STR0035#ALL#Sueldo/Tiempo
+0036#STR0036#ALL#Tipo Matr/Sec Nombre Asiento Tp Proveed Proveedor Tp Plan Cód Plan Val. Empl Val. Empresa saldo total
+0037#STR0037#ALL#¡Período no encontrado!
+0038#STR0038#ALL#Saldo remanente de coparticipación: R$
+0039#STR0039#ALL#Acuerdo colectivo de trabajo:
+0040#STR0040#ALL#CCT + Sucursal + Centro Costo

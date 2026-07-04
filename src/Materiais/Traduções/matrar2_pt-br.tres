@@ -1,0 +1,33 @@
+0001#STR0001#ARG#Emissao do Livro Fiscal de Vendas
+0002#STR0002#ARG#Sera solicitada a data inicial e a data final para a emissao
+0003#STR0003#ARG#do livro Fiscal de Vendas
+0004#STR0004#ARG#Especial
+0005#STR0005#ARG#Administracao
+0006#STR0006#ARG#Tipo no Reg.
+0007#STR0007#ARG#Filtrando registros...
+0008#STR0008#ARG#** ANULADO PELO OPERADOR **
+0009#STR0009#ARG#LIVRO DE I. V. A. 
+0010#STR0010#ARG#V E N T A S
+0011#STR0011#ARG#Empresa: 
+0012#STR0012#ARG#Pagina Num.: 
+0013#STR0013#ARG#Tipo  Ser Comprovante  Razao Soc   TD Nro Doc       Neto Gravado    IVA R.G  IVA R.N.I  IVA SERV. IVA BS.CAP   IVA R.E.   PORC.IVA  PORC.IIBB  PORC. GAN   RET. IVA  RET. IIBB   RET. SUS   RET. SLI     ISENTO        TOTAL
+0014#STR0014#ARG#Totais Gerais :
+0015#STR0015#ARG#Totais por Condicao Fiscal : 
+0016#STR0016#ARG#Totais Faturas              : 
+0017#STR0017#ARG#Totais Notas de Credito     : 
+0018#STR0018#ARG#Totais Notas de Debito       : 
+0019#STR0019#ARG#Totais por Tipo de Documento :
+0020#STR0020#ARG# Formulario 
+0021#STR0021#ARG#¿Formulario esta posicionado?
+0022#STR0022#ARG#Si
+0023#STR0023#ARG#Nao
+0024#STR0024#ARG#Anula a impressao
+0025#STR0025#ARG#¿Tenta Novamente? 
+0026#STR0026#ARG#- De:
+0027#STR0027#ARG# A:
+0028#STR0028#ARG#Sub 
+0029#STR0029#ARG#Total Geral   :
+0030#STR0030#ARG#Totais por Zona Fiscal : 
+0031#STR0031#ARG#Totais por Tipo de Produto : 
+0032#STR0032#ARG#C A N C E L A D A 
+0033#STR0033#ARG#Esta rotina não está mais disponível, utilize a rotina MATRAR2B - Lib.fis Iva Venda

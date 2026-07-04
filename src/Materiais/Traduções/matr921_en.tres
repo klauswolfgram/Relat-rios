@@ -1,0 +1,28 @@
+0001#STR0001#ALL#CT
+0002#STR0002#ALL#INV
+0003#STR0003#ALL#INFLOWS
+0004#STR0004#ALL#OUTFLOWS
+0005#STR0005#ALL##################################################################                                  REGISTER FROM ########                                                                                       PAGE  ######       
+0006#STR0006#ALL#MONTH OR PERIOD/YEAR: #######                                                                                                                                                                    ----------- OPERATIONS -----------
+0007#STR0007#ALL#                                                                                                                                                                                                (1)TAXED  (2)EXEMPT  (3)OTHER
+0008#STR0008#ALL#  DT       ESPE  SE                        DT                                                                                                 ICMS OPERATIONS
+0009#STR0009#ALL#INFLOW     CIE   RIE        NUMBER         ISSUE                       ISSUER                     ST       BOOK VALUE   LEDGER ACCOUNT       CFO  IPI (*)    CALCULATION BASE RATE     TAX AMOUNT               REMARKS     
+0010#STR0010#ALL#MONTH OR PER./YEAR: #######                                                                                                                                                             -----------------OPERATIONS--------------
+0011#STR0011#ALL#                                                                                                                                                                                        (1) TAXED     (2) EXEMPT    (3) OTHER    
+0012#STR0012#ALL#ISSUE      SPE   SE                                                                                                                ICMS OPERATIONS
+0013#STR0013#ALL#ISSUE      CIE   RIE     NUMBER                                  ISSUER                    ST       BOOK VALUE    LEDGER ACCOUNT      CFO  IPI (*)    CALCULATION BASE RATE      TAX AMOUNT                     REMARKS     
+0014#STR0014#ALL#TO CARRY FWD
+0015#STR0015#ALL#TOTAL OF DAY 
+0016#STR0016#ALL#TOTAL OF MONTH
+0017#STR0017#ALL#TOTAL OF PERIOD
+0018#STR0018#ALL#1.00 STATE INFLOWS
+0019#STR0019#ALL#2.00 OUT OF STATE INFLOWS
+0020#STR0020#ALL#3.00 FOREIGN INFLOWS
+0021#STR0021#ALL#5.00 STATE OUTFLOWS
+0022#STR0022#ALL#6.00 OUT OF STATE OUTFLOWS
+0023#STR0023#ALL#7.00 FOREIGN OUTFLOWS
+0024#STR0024#ALL#GRAND TOTAL
+0025#STR0025#ALL#TOTAL
+0026#STR0026#ALL#STATEMENT BY GOOD'S STATE OF ORIGIN OR BY SERVICE RENDERING START DATE
+0027#STR0027#ALL#ICMS WITHHELD...: 
+0028#STR0028#ALL#Branch:  

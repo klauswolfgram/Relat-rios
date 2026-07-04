@@ -1,0 +1,55 @@
+0001#STR0001#ALL#Impresion del Recibo de Cobro.
+0002#STR0002#ALL#Impresion de los Recibos de Cobro.
+0003#STR0003#ALL#Especial
+0004#STR0004#ALL#Administrac.
+0005#STR0005#ALL#** ANULADO POR EL OPERADOR **
+0006#STR0006#ALL#Cheque
+0007#STR0007#ALL#Efect.
+0008#STR0008#ALL#Transfer
+0009#STR0009#ALL#Letra
+0010#STR0010#ALL#Responsable Inscrito
+0011#STR0011#ALL#Responsable No Inscrito
+0012#STR0012#ALL#Exento
+0013#STR0013#ALL#Consumidor Final
+0014#STR0014#ALL#Exportac.
+0015#STR0015#ALL#Monotributista
+0016#STR0016#ALL#Afect IVA
+0017#STR0017#ALL# La Suma de 
+0018#STR0018#ALL#  (Convertidos) : 
+0019#STR0019#ALL#ENTRADAS
+0020#STR0020#ALL#|-VL-Numero------------------Valor-Moneda--Bco--Agen---Cuenta---------Fch. Dep------|
+0021#STR0021#ALL#RECIBOS ANTICIPADOS 
+0022#STR0022#ALL#|-Numero--------------------Valor-Moneda--------------------------------------------|
+0023#STR0023#ALL#TITULOS RECIBIDOS                         
+0024#STR0024#ALL#|-Serie-Numero--------------Valor Cobrado--Moneda----Vencto-----------Valor en 
+0025#STR0025#ALL#|                             Total en 
+0026#STR0026#ALL#¿Impreso esta colocado?
+0027#STR0027#ALL#¿Intenta Nuevam.?
+0028#STR0028#ALL#¿De Recibo     ?
+0029#STR0029#ALL#¿A             ?
+0030#STR0030#ALL#Recibo Nº : 
+0031#STR0031#ALL#RUT      
+0032#STR0032#ALL#RUC      
+0033#STR0033#ALL#RFC    
+0034#STR0034#ALL#CUIT     
+0035#STR0035#ALL#Fecha:
+0036#STR0036#ALL#| Telefono : 
+0037#STR0037#ALL#     Fax : 
+0038#STR0038#ALL#| Recibimos de: 
+0039#STR0039#ALL#Cliente : 
+0040#STR0040#ALL#| Direccion: 
+0041#STR0041#ALL#| Localidad: 
+0042#STR0042#ALL#| 
+0043#STR0043#ALL#|                                                Continua....................|
+0044#STR0044#ALL#|Tasas al 
+0045#STR0045#ALL#NIT      
+0046#STR0046#ALL#NIT / CC 
+0047#STR0047#ALL#NP / SS  
+0048#STR0048#ALL#Fed. ID. 
+0049#STR0049#ALL#Tarj. de Credito
+0050#STR0050#ALL#No hubo recep. de docum. de pago
+0051#STR0051#ALL#*** DOCUMENTO ANULADO ***
+0052#STR0052#ALL#-----  Multa...:(+)
+0053#STR0053#ALL#-----Interes...:(+)
+0054#STR0054#ALL#-----  Descuent:(-)
+0055#STR0055#ALL#--Banco del Cheque----------

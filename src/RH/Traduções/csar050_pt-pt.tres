@@ -1,0 +1,20 @@
+0001#STR0001#ALL#Relação de Aumentos Salariais Programados para os Empregados.
+0002#STR0002#ALL#Será impresso de acordo com os parâmetros solicitados pelo
+0003#STR0003#ALL#Utilizador.
+0004#STR0004#ALL#Registo
+0005#STR0005#ALL#Função
+0006#STR0006#ALL#Centro De Custo
+0007#STR0007#ALL#Código de barras
+0008#STR0008#ALL#Administração
+0009#STR0009#ALL# aumentos salariais programados
+0010#STR0010#ALL#A Seleccionar Registos...
+0014#STR0014#ALL#A Seleccionar Registos...
+0015#STR0015#ALL#Função: 
+0016#STR0016#ALL#Centro de custo: 
+0017#STR0017#ALL#    DT.AUMENTO TP.AUMENTO         AUMENTO EM %        REMUNER CAT FUNÇÃO                     CARGO                      ACTUALIZADO
+0018#STR0018#ALL#Sim
+0019#STR0019#ALL#Não
+0020#STR0020#ALL#Empregado
+0023#STR0023#ALL#Dt.aumento
+0024#STR0024#ALL#Tp.aumento
+0026#STR0026#ALL#Favor utilizar o compatibilizador RHUPDCSA, opção 'Ajustar Campos para salário' para o ajuste da tabela RB7.

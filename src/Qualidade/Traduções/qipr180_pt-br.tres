@@ -1,0 +1,20 @@
+0001#STR0001#ALL#Follow-Up - Ordens de Producao
+0002#STR0002#ALL#Este programa ira imprimir a Relaçäo das Ordens de Produçäo.
+0003#STR0003#ALL#CANCELADO PELO OPERADOR
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#Zero Defeito
+0007#STR0007#ALL#ENSAIO                                              CARTA TOT MED. APROVADOS. REPROVADOS PLANO DE AMOSTRAGEM
+0008#STR0008#ALL#Inspeciona
+0009#STR0009#ALL#Certifica
+0010#STR0010#ALL#Total ---->
+0011#STR0011#ALL#NUMERO         P R O D U T O                                                UN. MED.    EMISSAO      ENTREGA     ENTREGA       QUANTIDADE          SALDO A      ST TP  ROTEIRO  INSP/CERTIF  LAUDO
+0012#STR0012#ALL#                                                                                                    PREVISTA        REAL         ORIGINAL         ENTREGAR
+0013#STR0013#ALL#Laudo da Operacao: 
+0014#STR0014#ALL#Laudo Laboratorio: 
+0015#STR0015#ALL#Total de Medicoes: 
+0016#STR0016#ALL#Plano de Amostragem 
+0017#STR0017#ALL#Texto
+0018#STR0018#ALL#Sem Laudo
+0019#STR0019#ALL#Saldo a Entregar
+0020#STR0020#ALL#Roteiro

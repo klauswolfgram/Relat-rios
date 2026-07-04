@@ -1,0 +1,53 @@
+0001#STR0001#ALL#Matricula
+0002#STR0002#ALL#C.Custo
+0003#STR0003#ALL#Nome
+0004#STR0004#ALL#Chapa
+0005#STR0005#ALL#C.Custo + Nome
+0006#STR0006#ALL#Emissäo de Recibos de Pagamento.
+0007#STR0007#ALL#Será impresso de acordo com os parametros solicitados pelo
+0008#STR0008#ALL#usuário.
+0009#STR0009#ALL#Zebrado
+0010#STR0010#ALL#Administraçäo
+0011#STR0011#ALL#EMISSÄO DE RECIBOS DE PAGAMENTOS
+0012#STR0012#ALL#Selecionando Registros...
+0013#STR0013#ALL#Semana 
+0014#STR0014#ALL# a 
+0015#STR0015#ALL#FUNCAO: 
+0016#STR0016#ALL#CHAPA: 
+0017#STR0017#ALL#  Empresa   : 
+0018#STR0018#ALL# R.U.C: 
+0019#STR0019#ALL# B.P.S.: 
+0020#STR0020#ALL#  Endereco : 
+0021#STR0021#ALL#M.T.S.S.: 
+0022#STR0022#ALL# B.S.E.: 
+0023#STR0023#ALL#  C.I.: 
+0024#STR0024#ALL#  Categoria: 
+0025#STR0025#ALL# do mes de  : 
+0026#STR0026#ALL#Data Admis: 
+0027#STR0027#ALL# PROVENTOS 
+0028#STR0028#ALL# DESCONTOS
+0029#STR0029#ALL# do periodo de 
+0030#STR0030#ALL#CONTINUA !!!
+0031#STR0031#ALL#  TOTAL BRUTO     
+0032#STR0032#ALL#TOTAL DE DESCONTOS
+0033#STR0033#ALL# Beneficiario : 
+0034#STR0034#ALL#Salario/Jornada:
+0035#STR0035#ALL#LIQUIDO A COBRAR : 
+0036#STR0036#ALL#Sao Pesos Uruguaios 
+0037#STR0037#ALL#­­ CONTINUA !!
+0038#STR0038#ALL#Recebi o valor y copia desta Folha de Pagamento no tendo nada  que reclamar por nenhuma   verba. 
+0039#STR0039#ALL#A Empresa declara haver realizado os descontos de seguro social segundo o decreto 337/92
+0040#STR0040#ALL#ASSINATURA DO FUNCIONARIO
+0041#STR0041#ALL#DATA:  
+0042#STR0042#ALL#ORIGINAL
+0043#STR0043#ALL#COPIA
+0044#STR0044#ALL# D.G.S.S.: 
+0045#STR0045#ALL# Adiantamento
+0046#STR0046#ALL# Folha de Pagamento
+0047#STR0047#ALL# 1a Parcela 13o Salario
+0048#STR0048#ALL# 2a Parcela 13o salario
+0049#STR0049#ALL# Valores Extras
+0050#STR0050#ALL#Cargo: 
+0051#STR0051#URU#US$ Valor Líquido: 
+0052#STR0052#URU#Atenção!
+0053#STR0053#URU#Antes de prosseguir, é necessário executar a atualização '80-Ajustes no dicionário - Uruguai', disponível para o módulo SIGAGPE no compatibilizador RHUPDMOD.

@@ -1,0 +1,25 @@
+0001#STR0001#ALL#Janela De Entregas Previsto X Realizado
+0002#STR0002#ALL#Este programa irá emitir a relação previsto x realizado da
+0003#STR0003#ALL#Janela de entregas de acordo com os parâmetros escolhidos 
+0004#STR0004#ALL#Pelo utilizador
+0005#STR0005#ALL#Código de barras
+0006#STR0006#ALL#Administração
+0007#STR0007#ALL#Carga   : 
+0008#STR0008#ALL#Veiculo : 
+0009#STR0009#ALL#Condutor : 
+0010#STR0010#ALL#Peso    :
+0011#STR0011#ALL#Volume m3 : 
+0012#STR0012#ALL#Ptos entrega : 
+0013#STR0013#ALL#Valor : 
+0014#STR0014#ALL#Data    :
+0015#STR0015#ALL# as 
+0016#STR0016#ALL#Sequência   Cliente Loja  Nome                           Chegada    Tempo Serviço   Saída      Chegada  Tempo Serviço   Saída
+0017#STR0017#ALL#Entrega                                                  Prevista   Previsto       Prevista   Real     Real           Real
+0018#STR0018#ALL#Janela De Entregas Previsto X Realizado
+0019#STR0019#ALL#Este programa irá emitir a relação previsto x realizado da
+0020#STR0020#ALL#Janela de entregas de acordo com os parâmetros escolhidos 
+0021#STR0021#ALL#Pelo utilizador
+0023#STR0023#ALL#Tempo De Serviço Previsto
+0024#STR0024#ALL#Saída Prevista
+0026#STR0026#ALL#Tempo De Serviço Real
+0027#STR0027#ALL#Saída Real

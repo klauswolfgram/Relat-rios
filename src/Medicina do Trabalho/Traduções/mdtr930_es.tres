@@ -1,0 +1,75 @@
+0001#STR0001#ALL#Reg. de CIPA en la DRT
+0002#STR0002#ALL#ATENC.
+0003#STR0003#ALL#El Servidor de SMTP no se configuro.
+0004#STR0004#ALL#Verifique el parametro(MV_RELSERV).
+0005#STR0005#ALL#No se configuro la cta. del e-mail.
+0006#STR0006#ALL#Verifique el parametro(MV_RELACNT).
+0007#STR0007#ALL#No se config. la contras. del e-mail.
+0008#STR0008#ALL#Verifique el parametro(MV_RELPSW).
+0009#STR0009#ALL#Acta de Elecc.
+0010#STR0010#ALL#Acta de Instal. y Pose de la CIPA
+0011#STR0011#ALL#Calendario Anual de las Reuniones Ordinarias
+0012#STR0012#ALL#Nomb
+0013#STR0013#ALL#Para
+0014#STR0014#ALL#Copia
+0015#STR0015#ALL#Asunto
+0016#STR0016#ALL#&Enviar
+0017#STR0017#ALL#&Imprimir
+0018#STR0018#ALL#&Anular
+0019#STR0019#ALL#Visualizar Documentos
+0020#STR0020#ALL#&Acta Elecc.
+0021#STR0021#ALL#Acta de &Pose
+0022#STR0022#ALL#Agenda &Reunio.
+0023#STR0023#ALL#Falla en la Autent. del Usuar. en el Prov. de E-mail
+0024#STR0024#ALL#Error al enviar E-mail
+0025#STR0025#ALL#E-mail enviado con exito
+0026#STR0026#ALL#Error al conectar al SMTP Server
+0027#STR0027#ALL#Atenc.
+0028#STR0028#ALL#No se informo el e-mail del destinatario.
+0029#STR0029#ALL#No se informo el asunto. ¿Desea enviarlo ahora?
+0030#STR0030#ALL#Al (A la) Exmo.(a) Sr.(a)
+0031#STR0031#ALL#Delegado Regional del Trabajo
+0032#STR0032#ALL#Asunto: Reg. de la CIPA
+0033#STR0033#ALL#Senor Delegado,
+0034#STR0034#ALL#La empr. 
+0035#STR0035#ALL#, sit. a la 
+0036#STR0036#ALL#, Telefono 
+0037#STR0037#ALL#, con actividad de 
+0038#STR0038#ALL#, con 
+0039#STR0039#ALL# colaborad. vienen, 
+0040#STR0040#ALL#respetuosamente, a solicitar a Vtra. Senoria el protocolo para archivarlo
+0041#STR0041#ALL#de documentos de la Comis. Interna de Prevenc. de Accid. - CIPA, de acuerdo con 
+0042#STR0042#ALL#el art. 163 de la CLT y la NR5 de la Res. nº 3.214 del 08/06/78 y la Res. nº 08 del 23/02/1999.
+0043#STR0043#ALL#Para esto, adjuntamos los sgtes. documentos:
+0044#STR0044#ALL#	-Copia del Acta de Elecc.;
+0045#STR0045#ALL#	-Copia del Acta de Instalac. de Pose;
+0046#STR0046#ALL#- Calendario Anual de las reuniones ordinarias de la CIPA.
+0047#STR0047#ALL#Atentamente,
+0048#STR0048#ALL#Presid. de la empresa
+0049#STR0049#ALL#¿Cliente?
+0050#STR0050#ALL#Tda.
+0051#STR0051#ALL#¿Ciudad/UF del DRT?
+0052#STR0052#ALL#¿Nomb Represent. del DRT?
+0053#STR0053#ALL#¿E-mail DRT ?
+0054#STR0054#ALL#¿Mandato CIPA?
+0055#STR0055#ALL#C.P. 
+0056#STR0056#ALL# CNAE: 
+0057#STR0057#ALL# CNPJ: 
+0058#STR0058#ALL#¿Empl. Autónomos?
+0059#STR0059#ALL#Determina si toma en consideración a los empleados autónomos.
+0060#STR0060#ALL#Registro de la CIPATR en la DRT
+0061#STR0061#ALL#Acta de Instalación y Pose de la CIPATR
+0062#STR0062#ALL#Asunto: Registro de la CIPATR
+0063#STR0063#ALL#de documentos de la Comisión Interna de Prevención de Accidentes en el Trabajo Rural - CIPATR, de conformidad 
+0064#STR0064#ALL#con el artículo 163 de la CLT y la NR31 de la Resolución n. 86 del 03/03/05 y la Resolución nº 1896 del 09/12/2013.
+0065#STR0065#ALL#¿Mandato CIPATR?
+0066#STR0066#ALL#- Calendario Anual de las reuniones ordinarias de la CIPATR.
+0067#STR0067#ALL#Coordinador de la empresa
+0068#STR0068#ALL#Indica el mandato de la CIPATR que se considerará para imprimir el informe.
+0069#STR0069#ALL#Indica el mandato de la CIPA que se considerará para imprimir el informe.
+0070#STR0070#ALL#Registro de la CIPA Minera en la DRT
+0071#STR0071#ALL#Acta de instalación y pose de la CIPA Minera
+0072#STR0072#ALL#Asunto: Registro de la CIPA Minera
+0073#STR0073#ALL#de documentos de la Comisión Interna de Prevención de Accidentes - CIPA Minera, de acuerdo 
+0074#STR0074#ALL#con el artículo 163 de la CLT y la NR22 de la Resolución nº 3.214 del 08/06/78 y modificada por la Resolución nº 2.037 del 15/12/1999.
+0075#STR0075#ALL#- Calendario anual de las reuniones ordinarias de la CIPA Minera.

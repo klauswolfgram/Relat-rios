@@ -1,0 +1,43 @@
+0002#STR0002#ALL#Este Programa Irá Emitir Uma Relação Das Ligações
+0003#STR0003#ALL#Canceladas Pelo Operador No Atendimento Televendas
+0004#STR0004#ALL#Conforme os parâmetros previamente definidos
+0005#STR0005#ALL#Código de barras
+0007#STR0007#ALL#Cancelado Pelo Operador
+0008#STR0008#ALL#Data Do Atendimento
+0009#STR0009#ALL#Código Do Atendimento
+0010#STR0010#ALL#Código Cliente/loja
+0011#STR0011#ALL#Razão social
+0012#STR0012#ALL#Código Do Contacto
+0013#STR0013#ALL#Nome Do Contacto
+0014#STR0014#ALL#Tipo De Marketing
+0016#STR0016#ALL#Tipo De Serviço
+0017#STR0017#ALL#Tabela De Preço
+0018#STR0018#ALL#Código Do Operador
+0019#STR0019#ALL#Nome Do Operador
+0020#STR0020#ALL#Código Do Vendedor
+0021#STR0021#ALL#Nome Do Vendedor
+0022#STR0022#ALL#Código Do Media
+0023#STR0023#ALL#Descrição Do Media
+0024#STR0024#ALL#Código Da Campanha
+0025#STR0025#ALL#Descrição Da Campanha
+0026#STR0026#ALL#Código Da Ocorrência
+0027#STR0027#ALL#Descrição Da Ocorrência
+0028#STR0028#ALL#Data De Retorno
+0029#STR0029#ALL#Hora De Retorno
+0031#STR0031#ALL#Item Artigo         Descricão                      St   Qtdade.    Vl. Unitário        Vl. Item  %Desc    Vl. Desconto  %acrés   Vl. Acréscimo Tes Cfop      Tabela      Base Icms Lp Um Entrega    Lote       Sub-lt Validade
+0032#STR0032#ALL#Valor total negociado em euros para 
+0035#STR0035#ALL#Total de atendimentos em média 
+0037#STR0037#ALL#Valor total em euros facturados realizado por operador
+0038#STR0038#ALL#Valor total facturado pelo operador 
+0040#STR0040#ALL# nos media 
+0041#STR0041#ALL#Não existem dados a serem impressos para este relatório com os parâmetros escolhidos
+0042#STR0042#ALL#Cliente Não Localizado
+0043#STR0043#ALL#Contacto Não Localizado
+0044#STR0044#ALL#Operador Não Localizado
+0045#STR0045#ALL#Vendedor Não Localizado
+0046#STR0046#ALL#Media Não Localizado
+0047#STR0047#ALL#Campanha Não Localizada
+0048#STR0048#ALL#Ocorrência Não Localizada
+0051#STR0051#ALL#Registo De Orçamento
+0053#STR0053#ALL#Artigo
+0073#STR0073#ALL#Vl. Acréscimo

@@ -1,0 +1,14 @@
+0001#STR0001#ALL#Emite uma relacao das condicoes de pagamento
+0002#STR0002#ALL#disponiveis no cadastro.
+0003#STR0003#ALL#Condicao de Pagamento
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#Cod.  Tipo Descricao      Condicao                                   IPI      Dias       %Desconto   Dias p/   %Acresc.   ICM Solid.
+0007#STR0007#ALL#                                                                   (N/J/S) (D/L/S/Q/M)   Financeiro  Desconto  Financeiro   (N/J/S) 
+0008#STR0008#ALL#Exemplo
+0009#STR0009#ALL#Cod.  Tipo Descricao      Condicao                                            Dias       %Desconto   Dias p/   %Acresc.             
+0010#STR0010#ALL#                                                                           (D/L/S/Q/M)   Financeiro  Desconto  Financeiro           
+0011#STR0011#ALL#Emite uma relacao das condicoes de pagamento
+0012#STR0012#ALL#disponiveis no cadastro.
+0013#STR0013#ALL#Condicao de Pagamento
+0014#STR0014#ALL#Exemplo

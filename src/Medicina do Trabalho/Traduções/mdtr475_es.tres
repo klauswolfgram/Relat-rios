@@ -1,0 +1,88 @@
+0001#STR0001#ALL#Informe anual del programa de salud ocupacional
+0002#STR0002#ALL#Demostrativo por sector y modalidad de la cantidad de examenes 
+0003#STR0003#ALL#realizados con resultados Normales y Anormales.                
+0004#STR0004#ALL#A Rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#Informe Anual del PCMSO
+0007#STR0007#ALL#Informe anual del PCMSO    Periodo:
+0008#STR0008#ALL#|Responsable.....:
+0009#STR0009#ALL#CRM.:
+0010#STR0010#ALL#|Firma...........: _____________________________          Fecha:
+0011#STR0011#ALL#|Sect./Examen    |Modalidad | Examenes |Resultados|Anormales x100 |Examen.p/Año|
+0012#STR0012#ALL#ANULADO POR EL OPERADOR
+0013#STR0013#ALL#|
+0014#STR0014#ALL#Periodico
+0015#STR0015#ALL#Cambio
+0016#STR0016#ALL#Retorno
+0017#STR0017#ALL#Despid
+0018#STR0018#ALL#PCMSO
+0019#STR0019#ALL#Periodo:
+0020#STR0020#ALL#Emision:
+0021#STR0021#ALL#Fecha:
+0022#STR0022#ALL#|Sector/Examen                                        |    Naturaleza   |   Examenes | Resultados | Anormalesx 100 | Examenes p/Ano|
+0023#STR0023#ALL#Cliente ?
+0024#STR0024#ALL#Codigo del cliente.
+0025#STR0025#ALL#Tienda
+0026#STR0026#ALL#Tienda del cliente.
+0027#STR0027#ALL#|Firma......: _________________________________________________
+0028#STR0028#ALL#SUCURSAL
+0029#STR0029#ALL#No existen datos para imprimir en el informe.
+0030#STR0030#ALL#|                                                     |                 | Realizados |  Anormales  |  /Realizados   |   Siguiente    |
+0031#STR0031#ALL#Esta empresa esta registrada como Prestadora de Servicio, por lo tanto las 6 primeras 
+0032#STR0032#ALL#posiciones de los parametros: 'De Centro de Costo' y 'A Centro de Costo' se refieren 
+0033#STR0033#ALL#al codigo del cliente y deben rellenarse con el mismo valor.
+0034#STR0034#ALL#¿Enumerar Examenes Proximo Ano?
+0035#STR0035#ALL#Todos
+0036#STR0036#ALL#Ningun
+0037#STR0037#ALL#Examen Periodico
+0038#STR0038#ALL#Indica si la cantidad de examenes previstos para el 
+0039#STR0039#ALL#proximo ano sera enumerada en el informe en todas las modalidades, 
+0040#STR0040#ALL#solo en los examenes periodicos o en ninguna situacion.
+0041#STR0041#ALL#¿Imprimir Examenes NR7 ?
+0042#STR0042#ALL#¿Clasificar por ?
+0043#STR0043#ALL#¿Examenes Proximo Ano?
+0044#STR0044#ALL#¿A Centro de Costo ?
+0045#STR0045#ALL#¿De Centro de Costo ?
+0046#STR0046#ALL#¿A PCMSO ?
+0047#STR0047#ALL#¿De  PCMSO ?
+0048#STR0048#ALL#De Sucursal?
+0049#STR0049#ALL#¿A Sucursal         ?
+0050#STR0050#ALL#¿Imprimir totalizador?
+0051#STR0051#ALL#Modalidad examen
+0052#STR0052#ALL#Tipo de examen
+0053#STR0053#ALL#Indica si debe imprimir algún totalizador al final del informe.
+0054#STR0054#ALL#DE INGRESO
+0055#STR0055#ALL#PERIÓDICO
+0056#STR0056#ALL#CAMBIO DE FUNCIÓN
+0057#STR0057#ALL#RETORNO AL TRABAJO
+0058#STR0058#ALL#DE DESPIDO
+0059#STR0059#ALL#TOTAL GENERAL
+0060#STR0060#ALL#|     Modalidad del examen         |     Tipo examen               |   Exámenes   | Resultados | Resultados |  Porcentaje   |  Previsto  |
+0061#STR0061#ALL#|                               |                              | Realizados |   Normales  |  Modificados |   Modificados   |            |
+0062#STR0062#ALL#|     Tipo examen                                               |   Exámenes   | Resultados | Resultados |  Porcentaje   |  Previsto  |
+0063#STR0063#ALL#|                                                              | Realizados |   Normales  |  Modificados |   Modificados   |            |
+0064#STR0064#ALL#TOTAL MODALIDAD
+0065#STR0065#ALL#¿Considerar por?
+0066#STR0066#ALL#Centro de costo
+0067#STR0067#ALL#Departamento
+0068#STR0068#ALL#Indica si en la impresión del Informe se considera la agrupación por Centro de costo o Departamento.
+0069#STR0069#ALL#¿De departamento ?
+0070#STR0070#ALL#Indica a partir de qué Departamento debe considerarse en el informe.
+0071#STR0071#ALL#¿A departamento ?
+0072#STR0072#ALL#Indica hasta qué Departamento debe considerarse el informe.
+0073#STR0073#ALL#¿Resultado NR7?
+0074#STR0074#ALL#ASO
+0075#STR0075#ALL#Examen
+0076#STR0076#ALL#Si se utiliza la opción ASO, indica que el PCMSO Anual utilizará el campo Ind. Parec. de la rutina del ASO. Si la opción seleccionada fuera Examen, el informe utilizará el campo Ind. Result. de la rutina de Exámenes del Empl, para imprimir la anormalidad de los exámenes NR7.
+0077#STR0077#ALL#MONITOREO PUNTUAL
+0078#STR0078#ALL#Exámenes
+0079#STR0079#ALL#Sector
+0080#STR0080#ALL#Examen
+0081#STR0081#ALL#Exámenes realizados
+0082#STR0082#ALL#Resultados anormales
+0083#STR0083#ALL#Porcentaje anormal
+0084#STR0084#ALL#Totales de la empresa
+0085#STR0085#ALL#Grupo de empresa
+0086#STR0086#ALL#Sucursal
+0087#STR0087#ALL#Fecha de emisión
+0088#STR0088#ALL#Modalidad

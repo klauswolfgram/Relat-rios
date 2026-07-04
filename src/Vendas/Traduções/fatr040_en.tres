@@ -1,0 +1,22 @@
+0001#STR0001#ALL#Financial expenses list        
+0002#STR0002#ALL#This report will print the financial expenses list            
+0003#STR0003#ALL#of visit annotations according to the parameters selected      
+0004#STR0004#ALL#Z.Form
+0005#STR0005#ALL#Administration
+0006#STR0006#ALL#SEQUENCE /ITEM  DATE        PRODUCT          DESCRIPT.                           QUANTITY          UNIT VAL           VALUE  STATUS        
+0007#STR0007#ALL#Sales repr.: 
+0008#STR0008#ALL#Supplier: 
+0009#STR0009#ALL#Sales R.: 
+0010#STR0010#ALL#PENDING 
+0011#STR0011#ALL#GENERATED
+0012#STR0012#ALL#Break value : 
+0013#STR0013#ALL#Total Value : 
+0014#STR0014#ALL#List of financial expenses     
+0015#STR0015#ALL#This report will print the financial expenses list            
+0016#STR0016#ALL#of visit annotations according to the parameters selected      
+0017#STR0017#ALL#PENDING 
+0018#STR0018#ALL#GENERATED
+0019#STR0019#ALL#Sales rep. total 
+0020#STR0020#ALL#Status  
+0021#STR0021#ALL#Contact/Visit - Header  
+0022#STR0022#ALL#Details - Annotation of costs  

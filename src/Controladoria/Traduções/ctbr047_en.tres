@@ -1,0 +1,34 @@
+0001#STR0001#ALL# This program will print the Trial Balance (LANDSCAPE MODE). The 
+0002#STR0002#ALL#account is printed with up to 20 characters and its description with up to 40 characters.
+0003#STR0003#ALL#TRIAL BALANCE
+0004#STR0004#ALL#Report printed in chart mode only
+0005#STR0005#ALL#FROM
+0006#STR0006#ALL#TO
+0007#STR0007#ALL#Account
+0008#STR0008#ALL#Account description
+0009#STR0009#ALL#Initial balance
+0010#STR0010#ALL#Transactions
+0011#STR0011#ALL#Final balance
+0012#STR0012#ALL#Balance
+0013#STR0013#ALL#Debit
+0014#STR0014#ALL#Credit
+0015#STR0015#ALL#TOTAL
+0016#STR0016#ALL#PERIOD TOTAL
+0017#STR0017#ALL#Fill out parameters Income/Expense Groups and  Prev. Balance Date of Income/Expenses or 
+0018#STR0018#ALL#leave parameter Ignore Prev. Bal. Inc/Exp = No 
+0019#STR0019#ALL#Selecting records...
+0020#STR0020#ALL#Creating temporary file...
+0021#STR0021#ALL#Sheet Fin Bal 
+0022#STR0022#ALL#Function Fin Balance
+0023#STR0023#ALL#Assets
+0024#STR0024#ALL#Liabilities
+0025#STR0025#ALL#Losses
+0026#STR0026#ALL#Gains
+0027#STR0027#ALL#Trial Balance
+0028#STR0028#ALL#Code
+0029#STR0029#ALL#You must
+0030#STR0030#ALL#Receivable
+0031#STR0031#ALL#Generate TXT register?
+0032#STR0032#ALL#Generating File...
+0033#STR0033#ALL#TXT register generated successfully.
+0034#STR0034#ALL#Error creating TXT register

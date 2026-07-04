@@ -1,0 +1,98 @@
+0001#STR0001#ALL#Garantia de Partes
+0002#STR0002#ALL#Generando Visualizacion, espere...
+0003#STR0003#ALL#Garantia de presentacion de partes de Produccion
+0004#STR0004#ALL#Nombre de la Pieza
+0005#STR0005#ALL#Numero de la Pieza
+0006#STR0006#ALL#Item de Seguridad o
+0007#STR0007#ALL#Reglamentacion Gubernamental
+0008#STR0008#ALL#SI
+0009#STR0009#ALL#NO
+0010#STR0010#ALL#Modificacion de Ingenieria
+0011#STR0011#ALL#Fecha
+0012#STR0012#ALL#Modificaciones Adicionales de Ingenieria
+0013#STR0013#ALL#Expuesto en el Diseno Nº
+0014#STR0014#ALL#Num. Pedido de Compra
+0015#STR0015#ALL#Peso
+0016#STR0016#ALL#Dispositivo de Medicion
+0017#STR0017#ALL#INFORMACIONES DEL PROVEEDOR
+0018#STR0018#ALL#Nombre del Proveedor
+0019#STR0019#ALL#Codigo del Proveedor
+0020#STR0020#ALL#Direccion
+0021#STR0021#ALL#Ciudad/Provincia/CP
+0022#STR0022#ALL#INFORMACIONES DE LA SUMISION
+0023#STR0023#ALL#Dimensional
+0024#STR0024#ALL#Materiales/Funcionales
+0025#STR0025#ALL#Apariencia
+0026#STR0026#ALL#Nombre del Cliente /Division
+0027#STR0027#ALL#Comprador/Codigo del Comprador
+0028#STR0028#ALL#Aplicacion
+0029#STR0029#ALL#Nota :
+0030#STR0030#ALL#¿Esta pieza contiene alguna sustancia de uso restringido o que debe informarse?
+0031#STR0031#ALL#Las piezas plasticas se identifican con los codigos adecuados con marca ISO
+0032#STR0032#ALL#MOTIVO PARA SUMISION
+0033#STR0033#ALL#Sumision Inicial
+0034#STR0034#ALL#Modificacion de Material o Construccion Opcional
+0035#STR0035#ALL#Modificacion de la Ingenieria
+0036#STR0036#ALL#Modificacion del Subproveedor o Fuente del Material
+0037#STR0037#ALL#Herramienta: Transferencia, Reposicion, Reparo o Adicional
+0038#STR0038#ALL#Modificacion del Proceso de Fabricacion de la Pieza
+0039#STR0039#ALL#Correccion de Discrepancia
+0040#STR0040#ALL#Piezas Producidas en otra Localidad
+0041#STR0041#ALL#Herramientas Inactivas por mas de 1 año
+0042#STR0042#ALL#Otros - Especifique:
+0043#STR0043#ALL#NIVEL DE GARANTIA (Marque uno)
+0044#STR0044#ALL#Nivel 1 - Certificado apenas(y para itemes de apariencia designados, un informe de Aprobacion de Apariencia) sometidos al cliente
+0045#STR0045#ALL#Nivel 2 - Certificado con muestras del producto y datos limitados de soporte sometidos al cliente
+0046#STR0046#ALL#Nivel 3 - Certificado con muestras del producto y todos los datos de soporte sometidos al cliente
+0047#STR0047#ALL#Nivel 4 - Certificado y otros exigencias segun definicion del cliente
+0048#STR0048#ALL#Nivel 5 - Certificado con muestras del producto y todos los datos de soporte verificados en la localidad de manufactura del proveedor
+0049#STR0049#ALL#RESULTADOS DE GARANTIA DE PARTES
+0050#STR0050#ALL#Los resultados de 
+0051#STR0051#ALL# mediciones dimensionales 
+0052#STR0052#ALL# ensayos de materiales y funcionales 
+0053#STR0053#ALL# criterios de apariencia  
+0054#STR0054#ALL# datos estadisticos 
+0055#STR0055#ALL#Estos resultados consideran todas las exigencias del dibujo y de especificaciones:   
+0056#STR0056#ALL# SI 
+0057#STR0057#ALL# NO 
+0058#STR0058#ALL#Moldes / Cavidades / Proceso de Produccion:
+0059#STR0059#ALL#DECLARACION
+0060#STR0060#ALL#Por medio de este, confirmo que las muestras de piezas representadas por este certificado, fueron fabricadas segun
+0061#STR0061#ALL#del Manual de Proceso de Aprobacion de Produccion 3a. edicion. Ademas, certifico que estas muestras fueron
+0062#STR0062#ALL#producidas a una tasa de produccion de  
+0063#STR0063#ALL# horas. Anote cualquier desvio de esta declaración a continuacion:
+0064#STR0064#ALL#Explicaciones/Comentarios
+0065#STR0065#ALL#Nombre
+0066#STR0066#ALL#Cargo
+0067#STR0067#ALL#Telefono
+0068#STR0068#ALL#Firma Autorizada del Proveedor
+0069#STR0069#ALL#PARA USO DEL CLIENTE (SI SE APLICA)
+0070#STR0070#ALL#Disposicion del Certificado de la Pieza:
+0071#STR0071#ALL#Aprobado
+0072#STR0072#ALL#Rechazado
+0073#STR0073#ALL#Otros
+0074#STR0074#ALL#Aprobacion Funcional de la Pieza:
+0075#STR0075#ALL#Dispensado
+0076#STR0076#ALL#Repres. Cliente
+0077#STR0077#ALL#Firma del Cliente
+0078#STR0078#ALL#Julio
+0079#STR0079#ALL#CFG-1001
+0080#STR0080#ALL#La copia original de este documento debe permanecer en las instalaciones
+0081#STR0081#ALL#del proveedor en cuanto la pieza este activa (vea Glosario)
+0082#STR0082#ALL#Opcional: Numero de Trazabilidad
+0083#STR0083#ALL#del Cliente:
+0084#STR0084#ALL#  (Si "NO" - Explicar abajo)  
+0085#STR0085#ALL#Numero Pieza Cli.
+0086#STR0086#ALL#Numero Pieza Org.
+0087#STR0087#ALL#Ciudad / Estado / C.P. /Pais
+0088#STR0088#ALL#INFORME MATERIALES
+0089#STR0089#ALL#Enviado por el IMDS u otro formato de cliente 
+0090#STR0090#ALL#requisitos aplicables del Manual del Proceso de Aprobacion de Produccion 4ª edicion. Ademas, certifico que estas muestras fueron
+0091#STR0091#ALL#Cada instrumento del cliente fue correctamente etiquetado y numerado
+0092#STR0092#ALL#Fax
+0093#STR0093#ALL#E-Mail
+0094#STR0094#ALL#Marco
+0095#STR0095#ALL#del Cliente:
+0096#STR0096#ALL#ATENCION
+0097#STR0097#ALL#Para la correcta ejecucion de esta rutina, sera necesario implementar el Boletin Tecnico Adecuacion del Entorno PPAP a la 4ª Ed
+0098#STR0098#ALL#N/A

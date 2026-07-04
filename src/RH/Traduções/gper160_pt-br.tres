@@ -1,0 +1,40 @@
+0001#STR0001#ALL#Extrato de Tarefas                
+0002#STR0002#ALL#Será impresso de acordo com os parametros solicitados pelo
+0003#STR0003#ALL#usuário.
+0004#STR0004#ALL#Matricula
+0005#STR0005#ALL#Centro de Custo
+0006#STR0006#ALL#Zebrado
+0007#STR0007#ALL#Administraçäo
+0008#STR0008#ALL#E X T R A T O   D A   T A R E F A 
+0009#STR0009#ALL# FILIAL  MATRICULA  NOME FUNCIONARIO                C. CUSTO -            DESCRICAO            CODIGO - FUNCAO                      
+0010#STR0010#ALL#  ( DATA )  
+0011#STR0011#ALL#  ( TAREFA )  
+0012#STR0012#ALL#|   DATA    |  CODIGO  |    DESCRICAO            |        VALOR        |    QUANTIDADE    |        VALOR           |
+0013#STR0013#ALL#| DD/MM/AA  |  TAREFA  |     TAREFA              |       UNITARIO      |                  |        TOTAL           |
+0014#STR0014#ALL#TOTAL DA DATA --> 
+0015#STR0015#ALL#TOTAL DA TAREFA --> 
+0016#STR0016#ALL#|   DATA    |  CODIGO  |    DESCRICAO            |        VALOR        |    QUANTIDADE    |        VALOR           |
+0017#STR0017#ALL#| DD/MM/AA  |  TAREFA  |     TAREFA              |       UNITARIO      |                  |        TOTAL           |
+0018#STR0018#ALL#TOTAL DA DATA --> 
+0019#STR0019#ALL#TOTAL FUNCIONARIO --> 
+0020#STR0020#ALL#TOTAL DA TAREFA --> 
+0021#STR0021#ALL#TOTAL FUNCIONARIO --> 
+0022#STR0022#ALL#                                                 |        VALOR        |    QUANTIDADE    |        VALOR           |
+0023#STR0023#ALL#                                                 |       UNITARIO      |                  |        TOTAL           |
+0024#STR0024#ALL#TOTAL GERAL --------> 
+0025#STR0025#ALL#                                                 |        VALOR        |    QUANTIDADE    |        VALOR           |
+0026#STR0026#ALL#                                                 |       UNITARIO      |                  |        TOTAL           |
+0027#STR0027#ALL#TOTAL GERAL --------> 
+0028#STR0028#ALL#FILIAL
+0029#STR0029#ALL#NOME DO FUNCIONARIO
+0030#STR0030#ALL#DESCRICAO
+0031#STR0031#ALL#CODIGO - 
+0032#STR0032#ALL#FUNCAO
+0033#STR0033#ALL#DATA
+0034#STR0034#ALL#TAREFA
+0035#STR0035#ALL#DESC. TAREFA
+0036#STR0036#ALL#VALOR UNITARIO
+0037#STR0037#ALL#QUANTIDADE
+0038#STR0038#ALL#VALOR TOTAL
+0039#STR0039#ALL#TOTAL
+0040#STR0040#ALL#Este relatório lista o extrato de tarefas conforme configuração de parâmetros 

@@ -1,0 +1,44 @@
+0001#STR0001#ALL#Impresion Titulos Provision. 
+0002#STR0002#ALL#A rayas
+0003#STR0003#ALL#Administrac. 
+0004#STR0004#ALL#Total Nuevos 
+0005#STR0005#ALL#Total Usados
+0006#STR0006#ALL#hasta 
+0007#STR0007#ALL#==============================================================================
+0008#STR0008#ALL#T O T A L    D E    V E  H  I C U L O S    E N    S T O C K
+0009#STR0009#ALL#=============================== NUEVOS === USADOS ===
+0010#STR0010#ALL#DISPONIBLES PARA VENTA....:
+0011#STR0011#ALL#EN STOCK EN EMPRESA.....:
+0012#STR0012#ALL#EN PODER DE TERCEROS.....:
+0013#STR0013#ALL#RESERVADOS................:
+0014#STR0014#ALL#CONSIGNADOS...............:
+0015#STR0015#ALL#STOCK FISCAL............:
+0016#STR0016#ALL#====================================================
+0017#STR0017#ALL#***   NUEVOS DISPONIBLES PARA VEN   ***                  Total:
+0018#STR0018#ALL#***   NUEVOS DISPONIBLES PARA VENTA   ***                Continuacion...
+0019#STR0019#ALL#***   USADOS DISPONIBLES PARA VENTA   ***                 Total:
+0020#STR0020#ALL#***   USADOS DISPONIBLES PARA VENTA   ***               ContinuacIon...
+0021#STR0021#ALL#            Total del Modelo:
+0022#STR0022#ALL# dias  
+0023#STR0023#ALL#***   VEHICULOS  NUEVOS  EN  STOCK  EN LA  EMPRESA   ***     Total:
+0024#STR0024#ALL#***   VEHICULOS  NUEVOS  EN  STOCK  EN LA  EMPRESA   ***   ContinuacIon...
+0025#STR0025#ALL#***   VEHICULOS  NUEVOS  EN STOCK EN LA EMPRESA   ***  Continuacion..
+0026#STR0026#ALL#***   VEHICULOS  USADOS  EN STOCK EN LA EMPRESA   ***    Total: 
+0027#STR0027#ALL#***   VEHICULOS  USADOS  EN STOCK EN LA EMPRESA   ***  Continuacion..
+0028#STR0028#ALL#***   VEHICULOS  NUEVOS  EN PODER  DE  TERCEROS   ***   Continuacion...
+0029#STR0029#ALL#***   VEHICULOS  NUEVOS  EN  PODER  DE  TERCEROS   ***     Total: 
+0030#STR0030#ALL#***   VEHICULOS  NUEVOS  EN  PODER  DE  TERCEROS   *** Continuacion..
+0031#STR0031#ALL#***   VEHICULOS  USADOS  EN  PODER  DE  TERCEROS   ***    Total: 
+0032#STR0032#ALL#***   VEHICULOS  USADOS  EN  PODER  DE  TERCEROS   *** Continuacion..
+0033#STR0033#ALL#***   USADOS STOCK FISCAL   ***                         Total:
+0034#STR0034#ALL#***   VEHICULOS  NUEVOS  RESERVADOS   ***              Continuacion..
+0035#STR0035#ALL#***   VEHICULOS  USADOS  RESERVADOS   ***                  Total: 
+0036#STR0036#ALL#***   VEHICULOS  USADOS  RESERVADOS   ***              Continuacion..
+0037#STR0037#ALL#***   VEICULOS  USADOS  CONSIGNADOS   ***                 Total:
+0038#STR0038#ALL#***   VEICULOS  USADOS  CONSIGNADOS   ***               Continuacion...
+0039#STR0039#ALL#***   NUEVOS STOCK FISCAL   ***                          Total:
+0040#STR0040#ALL#***   NUEVOS STOCK FISCAL   ***                        Continuacion..
+0041#STR0041#ALL#***   USADOS STOCK FISCAL   ***                         Total:
+0042#STR0042#ALL#***   USADOS STOCK FISCAL   ***                       Continuacion...
+0043#STR0043#ALL#Stock general de vehic.
+0044#STR0044#ALL#Sec. 1

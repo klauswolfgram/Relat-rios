@@ -1,0 +1,52 @@
+0001#STR0001#ALL#Matricula
+0002#STR0002#ALL#Centro de Custo
+0003#STR0003#ALL#Nome
+0004#STR0004#ALL#Centro de Custo + Nome
+0005#STR0005#ALL#Turno
+0006#STR0006#ALL#Emissäo de Valores de Férias.
+0007#STR0007#ALL#Deverá ser emitido após o Calculo de Ferias Normais, Coletivas ou Programadas.
+0008#STR0008#ALL#Será impresso de acordo com os parametros solicitados pelo usuário.
+0009#STR0009#ALL#Zebrado
+0010#STR0010#ALL#Administraçäo
+0011#STR0011#ALL#Valores de Ferias
+0012#STR0012#ALL#Filial: 
+0013#STR0013#ALL#Matricula: 
+0014#STR0014#ALL#Nome: 
+0015#STR0015#ALL#Periodo Aquisitivo: 
+0016#STR0016#ALL# A 
+0017#STR0017#ALL#Periodo de Gozo: 
+0018#STR0018#ALL#Salario Mes: 
+0019#STR0019#ALL#Salario Dia: 
+0020#STR0020#ALL#Salario Hora: 
+0021#STR0021#ALL#Dias de Ferias: 
+0022#STR0022#ALL#Total Funcionario:   
+0023#STR0023#ALL#Cod Descricao           Qtde      Proventos Cod Descricao           Qtde      Descontos Cod Descricao           Qtde           Bases
+0024#STR0024#ALL#Ordem: 
+0025#STR0025#ALL#Centro de Custo: 
+0026#STR0026#ALL#Turno: 
+0027#STR0027#ALL#Dias de Ab. Pec.: 
+0028#STR0028#ALL#Total da Filial:     
+0029#STR0029#ALL#Total Cent.de Custo: 
+0030#STR0030#ALL#Total do Turno:      
+0031#STR0031#ALL#Total da Empresa:    
+0032#STR0032#ALL#Analitico 
+0033#STR0033#ALL#Sintetico 
+0034#STR0034#ALL#(%)1a.Parc.13o.: 
+0035#STR0035#ALL#No. Dep.IR: 
+0036#STR0036#ALL#Liquido 
+0037#STR0037#ALL#Dt. Recibo.: 
+0038#STR0038#ALL#Tipo de Ferias: 
+0039#STR0039#ALL#Normal  
+0040#STR0040#ALL#Coletiva 
+0041#STR0041#ALL#Ref.
+0042#STR0042#ALL#Proventos
+0043#STR0043#ALL#Descontos
+0044#STR0044#ALL#Bases
+0045#STR0045#ALL#Cod.
+0046#STR0046#ALL#Descrição
+0047#STR0047#ALL#Ordens MatrÍcula e Nome
+0048#STR0048#ALL#Cabecalho de Férias
+0049#STR0049#ALL#Itens de Férias
+0050#STR0050#ALL#Ordens Centro de Custo e Centro de Custo+Nome
+0051#STR0051#ALL#Funcionário
+0052#STR0052#ALL#Ordem Turno

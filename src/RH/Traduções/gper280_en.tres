@@ -1,0 +1,21 @@
+0001#STR0001#ALL#Check Printing      
+0002#STR0002#ALL#This will print cheques with the receivable net value of      
+0003#STR0003#ALL#the employees.   
+0004#STR0004#ALL#Cheque printing    
+0005#STR0005#ALL#Confirm 
+0006#STR0006#ALL#Retype  
+0007#STR0007#ALL#Quit    
+0008#STR0008#ALL#Continue
+0009#STR0009#ALL#Print checks             
+0010#STR0010#ALL#This will print cheques with the receivable net value of the  
+0011#STR0011#ALL#employees.       
+0012#STR0012#ALL#Print Check in Continuous Form
+0013#STR0013#ALL#Print Checks
+0014#STR0014#ALL#Confirm parameter configuration? 
+0015#STR0015#ALL#Attention
+0016#STR0016#ALL#Z.Form
+0017#STR0017#ALL#Management
+0018#STR0018#ALL#To Issue Bills click Print
+0019#STR0019#ALL#To access the Bill Maintenance routine click Edit
+0020#STR0020#ALL#Click Cancel to exit.
+0021#STR0021#ALL#Error adding checks on SM3

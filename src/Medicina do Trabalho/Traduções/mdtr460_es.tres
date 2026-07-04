@@ -1,0 +1,176 @@
+0001#STR0001#ALL#Informe de Encaminamiento de Empleados para la realizacion de examenes en el 
+0002#STR0002#ALL#Proveedor definido. En esta ficha constan datos tanto del empleado, como del 
+0003#STR0003#ALL#proveedor y de los examenes que deben ser realizados.
+0004#STR0004#ALL#A Rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#Pedido de Realizacion de los Examenes
+0007#STR0007#ALL#ANULADO POR EL OPERADOR
+0008#STR0008#ALL#ORDEN DE PEDIDO PARA EXAMENES
+0009#STR0009#ALL#Emision:
+0010#STR0010#ALL#|Empleado........:
+0011#STR0011#ALL#Ficha.:
+0012#STR0012#ALL#|Centro de Costo.:
+0013#STR0013#ALL#|Funcion.........:
+0014#STR0014#ALL#|Nacimiento......:
+0015#STR0015#ALL#Admision.:
+0016#STR0016#ALL#Edad..:
+0017#STR0017#ALL#|Proveedor..:
+0018#STR0018#ALL#|Direccion..:
+0019#STR0019#ALL#|Barrio.....:
+0020#STR0020#ALL#Ciudad.:
+0021#STR0021#ALL#|Telefono...:
+0022#STR0022#ALL#|Medico...:
+0023#STR0023#ALL#|CRM......:
+0024#STR0024#ALL#|  Realizacion: ____/____/____           Responsable:  ____________________    |
+0025#STR0025#ALL#|Candidato.......:
+0026#STR0026#ALL#|Direccion........:
+0027#STR0027#ALL#|Barrio..........:
+0028#STR0028#ALL#|Registro General..:
+0029#STR0029#ALL#|CPF.............:
+0030#STR0030#ALL#|Licencia de Conducir:
+0031#STR0031#ALL#Direccion........:
+0032#STR0032#ALL#Barrio..........:
+0033#STR0033#ALL#Registro General..:
+0034#STR0034#ALL#CPF.............:
+0035#STR0035#ALL#Libreta Prof...:
+0036#STR0036#ALL#Ingreso
+0037#STR0037#ALL#Despido
+0038#STR0038#ALL#Retorno al trabajo
+0039#STR0039#ALL#Todos
+0040#STR0040#ALL#Tipo de Examen:
+0041#STR0041#ALL#Modelo Impresion
+0042#STR0042#ALL#Modelo 1
+0043#STR0043#ALL#Modelo 2
+0044#STR0044#ALL#Datos del Empleado
+0045#STR0045#ALL#Datos del Prov. de Examenes
+0046#STR0046#ALL#Orden de Encaminamiento a
+0047#STR0047#ALL#Examenes
+0048#STR0048#ALL#Datos do Empleado
+0049#STR0049#ALL#Empleado:
+0050#STR0050#ALL#Ficha: 
+0051#STR0051#ALL#Centro de Costo:
+0052#STR0052#ALL#Func.:
+0053#STR0053#ALL#Nacimiento:
+0054#STR0054#ALL#Ingreso: 
+0055#STR0055#ALL#      Edad: 
+0056#STR0056#ALL#Reg. General:
+0057#STR0057#ALL#C.P.F.:
+0058#STR0058#ALL#Registro Profesional:
+0059#STR0059#ALL#Direcc.:
+0060#STR0060#ALL#Barrio:
+0061#STR0061#ALL#Candidato:
+0062#STR0062#ALL#Proveedor:
+0063#STR0063#ALL#Ciudad: 
+0064#STR0064#ALL#Telefono: 
+0065#STR0065#ALL#Responsable
+0066#STR0066#ALL#Medico: 
+0067#STR0067#ALL#CRM: 
+0068#STR0068#ALL#Exame.
+0069#STR0069#ALL#Realizacion: _____/_____/_____ Responsable: ___________________________________   Firma     : _______________________ 
+0070#STR0070#ALL#Datos Examen  
+0071#STR0071#ALL#Exam.:
+0072#STR0072#ALL#Proveedor:
+0073#STR0073#ALL#Empleados
+0074#STR0074#ALL#Matricula
+0075#STR0075#ALL#Nomb
+0076#STR0076#ALL#Centro de Costo
+0077#STR0077#ALL#Func.
+0078#STR0078#ALL#Edad
+0079#STR0079#ALL#Medico Responsable
+0080#STR0080#ALL#Firma:      _________________________                    Realizacion: ______/______/______
+0081#STR0081#ALL#Procesando Archivo...
+0082#STR0082#ALL#Pedido para Examenes
+0083#STR0083#ALL#|Examenes...:
+0084#STR0084#ALL#Modalidad:
+0085#STR0085#ALL#|Firma:
+0086#STR0086#ALL#Realizacion : ____/____/____
+0087#STR0087#ALL#|Medico.....:
+0088#STR0088#ALL#Examen
+0089#STR0089#ALL#Modalidad
+0090#STR0090#ALL#Modalidad: 
+0091#STR0091#ALL#¿De Cliente?
+0092#STR0092#ALL#Tienda
+0093#STR0093#ALL#¿A Cliente ?
+0094#STR0094#ALL#Codigo cliente. El campo puede permanecer vacio para considerar desde el primer codigo.
+0095#STR0095#ALL#Codigo tienda cliente. El campo puede permanecer vacio para considerar desde el primer codigo.
+0096#STR0096#ALL#Codigo cliente. El campo puede rellenarse con la letra Z hasta el final para considerar ultimo codigo.
+0097#STR0097#ALL#Codigo tienda cliente. El campo puede rellenarse con la letra Z hasta el final para considerar ultimo codigo.
+0098#STR0098#ALL#Para visualizar informe colectivo, debe elegirse solamente un Examen
+0099#STR0099#ALL#No hay nada para imprimir en informe.
+0100#STR0100#ALL#¿Filtrar por Modalidad?
+0101#STR0101#ALL#Si
+0102#STR0102#ALL#No
+0103#STR0103#ALL# de Ingreso 
+0104#STR0104#ALL# De despido 
+0105#STR0105#ALL# de Regreso al Trabajo
+0106#STR0106#ALL# de cambio de Funcion
+0107#STR0107#ALL# Periodicos
+0108#STR0108#ALL#INGRESO
+0109#STR0109#ALL#PERIÓDICO
+0110#STR0110#ALL#CAMBIO DE FUNCION
+0111#STR0111#ALL#REGRESO AL TRABAJO
+0112#STR0112#ALL#DE DESPIDO
+0113#STR0113#ALL#Tipo do Examen
+0114#STR0114#ALL#¿Filtrar por Proveed.?
+0115#STR0115#ALL#|Sucursal..........:
+0116#STR0116#ALL#|----------------------------------Responsable---------------------------------|
+0117#STR0117#ALL#|   -------Examenes---------------------------------------Naturaleza--------   |
+0118#STR0118#ALL#|   -------------------------------Examenes---------------------------------   |
+0119#STR0119#ALL#|                                        Firma: _______________________   |
+0120#STR0120#ALL#Telefono.:
+0121#STR0121#ALL#Ciudad...:
+0122#STR0122#ALL#|----------------------------------Empleados   ----------------------------------|
+0123#STR0123#ALL#|Sucursal     Mat.    Nomb                       Funcion                   Edad  |
+0124#STR0124#ALL#Centro de Costo.:
+0125#STR0125#ALL#|-------------------------------Medico Responsable-------------------------------|
+0126#STR0126#ALL#|CRM .......:
+0127#STR0127#ALL#Sucursal:
+0128#STR0128#ALL#Sucursal
+0129#STR0129#ALL#Filtro
+0130#STR0130#ALL#Imprimir Modelo
+0131#STR0131#ALL#¿De Examen ?
+0132#STR0132#ALL#No
+0133#STR0133#ALL#De Sucursal?
+0134#STR0134#ALL#¿A Sucursal         ?
+0135#STR0135#ALL#PREPARACION:
+0136#STR0136#ALL#¿Imprimir Preparacion ?
+0137#STR0137#ALL#Indica si el informe debe imprimir la preparacion del examen o no.
+0138#STR0138#ALL#¿De fecha programacion?
+0139#STR0139#ALL#¿A fecha programacion?
+0140#STR0140#ALL#Realizar examen hasta:
+0141#STR0141#ALL#Horario del examen:
+0142#STR0142#ALL#¿Imprimir modelo?
+0143#STR0143#ALL#¿Proveedor?
+0144#STR0144#ALL#¿Tienda?
+0145#STR0145#ALL#¿De ficha médica?
+0146#STR0146#ALL#¿A ficha médica?
+0147#STR0147#ALL#¿De fecha programación?
+0148#STR0148#ALL#¿A fecha programación?
+0149#STR0149#ALL#¿Médico responsable?
+0150#STR0150#ALL#¿A examen?
+0151#STR0151#ALL#¿Modelo de impresión?
+0152#STR0152#ALL#¿Imprimir preparación?
+0153#STR0153#ALL#Individual
+0154#STR0154#ALL#Colectivo
+0155#STR0155#ALL#Modelo 1
+0156#STR0156#ALL#Modelo 2
+0157#STR0157#ALL#¡Atención!
+0158#STR0158#ALL#La tienda informada no coincide con el proveedor.
+0159#STR0159#ALL#Por favor, informe una tienda existente para el proveedor.
+0160#STR0160#ALL#Indica si se debe imprimir el modelo individual (una planilla para cada empleado), o el modelo colectivo (una planilla para varios empleados).
+0161#STR0161#ALL#Código del proveedor de exámenes.
+0162#STR0162#ALL#Código de la tienda.
+0163#STR0163#ALL#Código de la ficha médica. El campo puede permanecer vacío para considerar desde el primer código.
+0164#STR0164#ALL#Código de la ficha médica. El campo puede completarse con la letra Z hasta el final para considerar el último código.
+0165#STR0165#ALL#Fecha mínima de la programación de exámenes.
+0166#STR0166#ALL#Fecha máxima de la programación de exámenes.
+0167#STR0167#ALL#Código del médico responsable.
+0168#STR0168#ALL#Código del examen. El campo puede permanecer vacío para considerar desde el primer código.
+0169#STR0169#ALL#Código del examen. El campo puede completarse con la letra Z hasta el final para considerar el último código.
+0170#STR0170#ALL#Tipo de exámenes. Puede ser ingreso, despido, regreso al trabajo, o todos.
+0171#STR0171#ALL#Define el modelo de impresión. El modelo 1 es el estándar; el modelo 2 es el gráfico.
+0172#STR0172#ALL#Define si se filtrará por proveedor.
+0173#STR0173#ALL#Seleccione el código de la sucursal inicial para filtrar los exámenes de los empleados. Observación: Este filtro solo se considerará, si el sistema utiliza el registro de PCMSO por Empresa (Compartido) y el registro de Empleados por sucursal (Exclusivo).
+0174#STR0174#ALL#Seleccione el Código de la sucursal final para filtrar los exámenes de los empleados. Observación: Este filtro solo se considerará, si el sistema utiliza el registro de PCMSO por Empresa (Compartido) y el registro de Empleados por sucursal (Exclusivo).
+0175#STR0175#ALL#Indica si el informe debe imprimir la preparación del examen o no.
+0176#STR0176#ALL#MONITOREO PUNTUAL

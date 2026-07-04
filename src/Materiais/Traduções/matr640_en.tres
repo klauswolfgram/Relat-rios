@@ -1,0 +1,37 @@
+0001#STR0001#ALL#List of Trade Notes
+0002#STR0002#ALL#This program will print the Trade Notes list.
+0003#STR0003#ALL#issued. It can be ordered by Date+Number, 
+0004#STR0004#ALL#Representative.
+0005#STR0005#ALL#Number
+0006#STR0006#ALL#Issue
+0007#STR0007#ALL#Mat. Date
+0008#STR0008#ALL#Representative
+0009#STR0009#ALL#Customer
+0010#STR0012#ALL#LIST OF ISSUED TRADE NOTES - 
+0011#STR0013#ALL#PRX NUMBER       P CODE   UN COMPANY NAME                      ISSUE       MAT. DATE              TOTAL   SUPERV.  REPRES.    ORDER
+0012#STR0014#ALL#                                                                                                  VALUE
+0013#STR0015#ALL#CANCELLED BY THE OPERATOR
+0014#STR0016#ALL#Total of Sales Rep. ==> 
+0015#STR0017#ALL#Total Issued at   ======> 
+0016#STR0018#ALL#Total of Overdue at ========> 
+0017#STR0019#ALL#Total of Customer==> 
+0018#STR0020#ALL#TOTAL ---------------->
+0019#STR0021#ALL#PRX NUMBER       P CODE                 UNIT COMPANY NAME              ISSUE       DUE DATE              VALUE SUPERV. REPRE. ORDER
+0020#STR0022#ALL#                                                                                                       TOTAL
+0021#STR0023#ALL#Net Total
+0022#STR0024#ALL#NET TOTAL
+0023#STR0025#ALL#List of trade notes  
+0024#STR0026#ALL#This program will list the trade notes          
+0025#STR0027#ALL#issued. It can be issued by order of bill,       
+0026#STR0028#ALL#issue date, due date, sales repr. or cust.
+0027#STR0029#ALL#Number
+0028#STR0030#ALL#Issue  
+0029#STR0031#ALL#Due date  
+0030#STR0032#ALL#SalesRep
+0031#STR0033#ALL#Custom.
+0032#STR0034#ALL#Total issued on       ==> 
+0033#STR0035#ALL#Total due on          ==> 
+0034#STR0036#ALL#Customer total   ==> 
+0035#STR0037#ALL#Net total    
+0036#STR0038#ALL#Sales repr. total ==> 
+0037#STR0039#ALL#Trade notes

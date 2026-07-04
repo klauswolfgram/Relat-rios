@@ -1,0 +1,25 @@
+0001#STR0001#ALL#This report will print the quantities forecast for the execution of the project according to the parameters required.    
+0002#STR0002#ALL#Estimated quantitatives
+0003#STR0003#ALL#PROJECT+PRODUCT+EXPENSE
+0004#STR0004#ALL#TASK+PRODUCT+EXPENSE
+0005#STR0005#ALL#Z.Form
+0006#STR0006#ALL#Administration
+0007#STR0007#ALL#Tp.      Code                    Description                     UM           Quantity                 Value     %Proj.     %Accu.
+0008#STR0008#ALL#Task         Description          Tp.     Code             Description     UM          Quantity            Value  %Proj.  %Accu.
+0009#STR0009#ALL#Project
+0010#STR0010#ALL#Version :
+0011#STR0011#ALL#Total.....
+0012#STR0012#ALL#Task Total
+0013#STR0013#ALL#Grand Total........
+0014#STR0014#ALL#Task Code                         Tp.     Code             Descript.       UM        Quantity              Value  %Proj.  %Accr.
+0015#STR0015#ALL#Task Description                  Tp.     Code             Descript.       UM        Quantity             Value  %Proj.  %Accr.
+0016#STR0016#ALL#Period Total    
+0017#STR0017#ALL#Project Total   
+0018#STR0018#ALL#Order: 
+0019#STR0019#ALL#Type
+0020#STR0020#ALL#Amount
+0021#STR0021#ALL#Proj.
+0022#STR0022#ALL#Accu.
+0023#STR0023#ALL#Project + Product + Expense
+0024#STR0024#ALL#Task + Product + Expense  
+0025#STR0025#ALL#*** CANCELLED BY THE USER  ***

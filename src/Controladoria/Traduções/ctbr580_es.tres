@@ -1,0 +1,22 @@
+0001#STR0001#ALL#ESTADO DE RESULTADO DEL GRUPO CONTABLE VS CUENTA
+0002#STR0002#ALL#Generando informe, espere...
+0003#STR0003#ALL#cien
+0004#STR0004#ALL#mil
+0005#STR0005#ALL#millon
+0006#STR0006#ALL#Creando Archivo Temporal...
+0007#STR0007#ALL#Responsables...
+0008#STR0008#ALL#Es necesario informar la fecha de referencia
+0009#STR0009#ALL#Parametro 'Considera igual a Periodo'
+0010#STR0010#ALL#Fecha fuera del periodo
+0011#STR0011#ALL#Fecha de refrencia
+0012#STR0012#ALL#Cuentas/Saldos
+0013#STR0013#ALL#(En 
+0014#STR0014#ALL#Este programa imprimira el Estado de Resultados, 
+0015#STR0015#ALL#de acuerdo con los parametros informados por el usuario.
+0016#STR0016#ALL#Modalidad
+0017#STR0017#ALL#Descripcion
+0018#STR0018#ALL#TOTAL POR GRUPO
+0019#STR0019#ALL#TOTAL GENERAL
+0020#STR0020#ALL#Informe disponible solamente en TReport.
+0021#STR0021#ALL#Verifique el parámetro MV_TREPORT.
+0022#STR0022#ALL#Seleccionando registros...

@@ -1,0 +1,83 @@
+0001#STR0001#ALL#This program will print the Trial Balance in 6 columns. The rinted Columns are: 
+0002#STR0002#ALL#Account, description, debit, credit, previous balance and current balance 
+0003#STR0003#ALL#Trial Balance Checking.
+0004#STR0004#ALL#|  ACCOUNT CODE                                       |   D  E  S  C  R  I  P  T  I  O  N         |           PREVIOUS BALANCE             |      DEBIT        |     CREDIT        |             CURRENCT BALANCE          |
+0005#STR0005#ALL#|                                                     |                                           |      DEBIT        |      CREDIT        |                   |                   |      DEBIT        |      CREDIT       |
+0005#STR0005#ANG#|                                                     |                                           |      DEBIT        |      CREDIT        |                   |                   |      DEBIT        |      CREDIT       |
+0005#STR0005#EQU#|                                                     |                                           |      DEBIT        |      CREDIT        |                   |                   |      DEBIT        |      CREDIT       |
+0005#STR0005#HAI#|                                                     |                                           |      DEBIT        |      CREDIT        |                   |                   |      DEBIT        |      CREDIT       |
+0005#STR0005#MEX#|                                                     |                                           |      DEBIT        |      CREDIT        |                   |                   |      DEBIT        |      CREDIT       |
+0005#STR0005#PTG#|                                                     |                                           |      DEBIT        |      CREDIT        |                   |                   |      DEBIT        |      CREDIT       |
+0006#STR0006#ALL#DETAILED 6-COLUMN BALANCE OF 
+0007#STR0007#ALL# TO 
+0008#STR0008#ALL# IN 
+0009#STR0009#ALL#SUMMARIZED 6-COLUMN BALANCE OF 
+0010#STR0010#ALL#***** CANCELLED BY THE OPERATOR *****
+0011#STR0011#ALL#T O T A L S  O F  T H E  P E R I O D : 
+0012#STR0012#ALL#Selecting Records...
+0013#STR0013#ALL#Z.Form
+0014#STR0014#ALL#Management
+0015#STR0015#ALL#Creating Temporary File...
+0016#STR0016#ALL#for the period, that are divided into debit and credit.
+0017#STR0017#ALL#6-COLUMN BALANCE OF 
+0018#STR0018#ALL# (BUDGETED)
+0019#STR0019#ALL# (MANAGERIAL)
+0020#STR0020#ALL#G R O U P   T O T A L S (
+0021#STR0021#ALL#Chart of accts.
+0022#STR0022#ALL#Account code   
+0023#STR0023#ALL#Reduced code   
+0024#STR0024#ALL#Descript.
+0025#STR0025#ALL#Prev. debit blnce
+0025#STR0025#ANG#Prev. debit blnce
+0025#STR0025#EQU#Prev. debit blnce
+0025#STR0025#HAI#Prev. debit blnce
+0025#STR0025#MEX#Prev. debit blnce
+0025#STR0025#PTG#Prev. debit blnce
+0026#STR0026#ALL#Prev. credit blnce
+0026#STR0026#ANG#Prev. credit blnce
+0026#STR0026#EQU#Prev. credit blnce
+0026#STR0026#HAI#Prev. credit blnce
+0026#STR0026#MEX#Prev. credit blnce
+0026#STR0026#PTG#Prev. credit blnce
+0027#STR0027#ALL#Debit 
+0027#STR0027#ANG#Debit 
+0027#STR0027#EQU#Debit 
+0027#STR0027#HAI#Debit 
+0027#STR0027#MEX#Debit 
+0027#STR0027#PTG#Debit 
+0028#STR0028#ALL#Credit 
+0028#STR0028#ANG#Credit 
+0028#STR0028#EQU#Credit 
+0028#STR0028#HAI#Credit 
+0028#STR0028#MEX#Credit 
+0028#STR0028#PTG#Credit 
+0029#STR0029#ALL#Movement 
+0030#STR0030#ALL#Currnt debit blnce
+0030#STR0030#ANG#Currnt debit blnce
+0030#STR0030#EQU#Currnt debit blnce
+0030#STR0030#HAI#Currnt debit blnce
+0030#STR0030#MEX#Currnt debit blnce
+0030#STR0030#PTG#Currnt debit blnce
+0031#STR0031#ALL#Currnt credit blnce
+0031#STR0031#ANG#Currnt credit blnce
+0031#STR0031#EQU#Currnt credit blnce
+0031#STR0031#HAI#Currnt credit blnce
+0031#STR0031#MEX#Currnt credit blnce
+0031#STR0031#PTG#Currnt credit blnce
+0032#STR0032#ALL#Normal sit.
+0033#STR0033#ALL#Account type 	
+0034#STR0034#ALL#Group
+0035#STR0035#ALL#Level 1	
+0036#STR0036#ALL#Total
+0037#STR0037#ALL#D E B I T        
+0037#STR0037#ANG#D E B I T        
+0037#STR0037#EQU#D E B I T        
+0037#STR0037#HAI#D E B I T        
+0037#STR0037#MEX#D E B I T        
+0037#STR0037#PTG#D E B I T        
+0038#STR0038#ALL#C R E D I T      
+0038#STR0038#ANG#C R E D I T      
+0038#STR0038#EQU#C R E D I T      
+0038#STR0038#HAI#C R E D I T      
+0038#STR0038#MEX#C R E D I T      
+0038#STR0038#PTG#C R E D I T      

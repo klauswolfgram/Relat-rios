@@ -1,0 +1,22 @@
+0001#STR0001#ALL#Help-Desk File Card
+0002#STR0002#ALL#This program will issue the Help-Desk File Cards according 
+0003#STR0003#ALL#to the required parameters.
+0004#STR0004#ALL#Z. Form
+0005#STR0005#ALL#Management
+0006#STR0006#ALL#FINISHED
+0007#STR0007#ALL#PENDING
+0008#STR0008#ALL#CALL
+0009#STR0009#ALL#REDIRECTING
+0010#STR0010#ALL#REMINDER
+0011#STR0011#ALL#ADD KNOWLEDGE
+0012#STR0012#ALL#CANCELLED BY THE OPERATOR
+0013#STR0013#ALL#|                                  HELP DESK FILE CARD                       | CALL NO.  : ########## SEQUENCE : ## | PAGE : ######|
+0014#STR0014#ALL#|CUSTOM.: ######/## - ########################################                                                         STATE:   ## |
+0015#STR0015#ALL#|ADDRESS: ######################################## CITY  : ############### ZONE  : ######################### TEL.: ############### |
+0016#STR0016#ALL#|TECHNIC: ###### - ############################## OCCURRENCE/PROBLEM : ###### - ##############################                     |
+0017#STR0017#ALL#|ORIGIN : ################### SERVICING TIME      : ####:## STATUS  : #########                                                    |
+0018#STR0018#ALL#|REPOR: ###########################################################################################################################|
+0019#STR0019#ALL#REPORT
+0020#STR0020#ALL#Custom.
+0021#STR0021#ALL#File card        
+0022#STR0022#ALL#Customer file       

@@ -1,0 +1,44 @@
+0001#STR0001#ALL#Este programa imprimira los cheques del banco, a traves de
+0002#STR0002#ALL#formulario impreso prev.
+0003#STR0003#ALL#Emision de cheques en formulario continuo
+0004#STR0004#ALL#Cheque
+0005#STR0005#ALL#Administrac.
+0006#STR0006#ALL#Enero
+0007#STR0007#ALL#Febrero
+0008#STR0008#ALL#Marzo
+0009#STR0009#ALL#Abril
+0010#STR0010#ALL#Mayo
+0011#STR0011#ALL#Junio
+0012#STR0012#ALL#Julio
+0013#STR0013#ALL#Agosto
+0014#STR0014#ALL#Septiembre
+0015#STR0015#ALL#Octubre
+0016#STR0016#ALL#Noviembre
+0017#STR0017#ALL#Diciembre
+0018#STR0018#ALL#Haga clic en el botón Imprimir prueba para prueba de posicionamiento.
+0019#STR0019#ALL#Antes de iniciar la impresión, verifique si el formulario continuo está ajustado.
+0020#STR0020#ALL#La prueba se imprimirá en la columna de valor.
+0021#STR0021#ALL#¿Formulario colocado correctamente?                           
+0022#STR0022#ALL#Fch. Inicial
+0023#STR0023#ALL#Fecha Final 
+0024#STR0024#ALL#Error en la config. del cheque + CHR ( 13 ) + Verif. el tamaño de las lineas de extens.
+0025#STR0025#ALL#Ya existe el cheque numero: 
+0026#STR0026#ALL#Datos de Cta. Corriente Destino de cheque CPMF son invalidos
+0027#STR0027#ALL#CHEQUE EMITIDO
+0028#STR0028#ALL#El Cheque numero 
+0029#STR0029#ALL# no puede emitirse, pues se anulo/reemplazo.
+0030#STR0030#ALL#Ningun cheque se encontro para emision.
+0031#STR0031#ALL#NO A LA ORDEN
+0032#STR0032#ALL#Seleccione el/los cheque(s) para suprimir el termino  'NO A NOMBRE DE'
+0033#STR0033#ALL#Banco
+0034#STR0034#ALL#Agencia
+0035#STR0035#ALL#Cuenta
+0036#STR0036#ALL#Atencion
+0037#STR0037#ALL#Para imprimir cheques, utilice la rutina de Control de Cheques emitidos.
+0038#STR0038#ALL#El formato de impresión está diferente de la última realizada, se restablecerán las configuraciones de la impresora (para más información acceda al portal del tdn). ¿Desea continuar?
+0039#STR0039#ALL#Haga clic en OK para imprimir el cheque.
+0040#STR0040#ALL#Anular
+0041#STR0041#ALL#Imprimir prueba
+0042#STR0042#ALL#Impresión de cheques
+0043#STR0043#ALL#Impresión prueba de cheque
+0044#STR0044#ALL#Imprimir cheque para prueba de posicionamiento.

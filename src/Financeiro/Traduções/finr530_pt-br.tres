@@ -1,0 +1,47 @@
+0001#STR0001#ALL#Este programa irá emitir o resumo da Movimentaçäo
+0002#STR0002#ALL#Bancaria de um determinado dia.
+0003#STR0003#ALL#Movimento Financeiro Diario
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL# de 
+0007#STR0007#ANG#Cod Agencia Conta         Nome                   Saldo Inicial      Entradas          Saidas         Aplicacoes     Saldo Disponivel
+0007#STR0007#ARG#Cod Agencia Conta      Nome                   Saldo Inicial         Entradas           Saidas         Aplicacoes    Saldo Disponivel
+0007#STR0007#BOL#Cod Agencia Conta         Nome                   Saldo Inicial        Entradas         Saidas         Aplicacoes    Saldo Disponivel
+0007#STR0007#BRA#Cod Agencia Conta      Nome                   Saldo Inicial         Entradas           Saidas         Aplicacoes    Saldo Disponivel
+0007#STR0007#CHI#Cod Agencia Conta      Nome                   Saldo Inicial         Entradas           Saidas         Aplicacoes    Saldo Disponivel
+0007#STR0007#COL#Cod Agencia Conta      Nome                   Saldo Inicial         Entradas           Saidas         Aplicacoes    Saldo Disponivel
+0007#STR0007#COS#Cod Agencia Conta      Nome                   Saldo Inicial         Entradas           Saidas         Aplicacoes    Saldo Disponivel
+0007#STR0007#DOM#Cod Agencia Conta      Nome                   Saldo Inicial         Entradas           Saidas         Aplicacoes    Saldo Disponivel
+0007#STR0007#EQU#Cod Agencia Conta         Nome                   Saldo Inicial      Entradas          Saidas         Aplicacoes     Saldo Disponivel
+0007#STR0007#EUA#Cod Agencia Conta      Nome                   Saldo Inicial         Entradas           Saidas         Aplicacoes    Saldo Disponivel
+0007#STR0007#HAI#Cod Agencia Conta         Nome                   Saldo Inicial      Entradas          Saidas         Aplicacoes     Saldo Disponivel
+0007#STR0007#MEX#Cod Agencia Conta      Nome                   Saldo Inicial         Entradas           Saidas         Aplicacoes    Saldo Disponivel
+0007#STR0007#PAN#Cod Agencia Conta      Nome                   Saldo Inicial         Entradas           Saidas         Aplicacoes    Saldo Disponivel
+0007#STR0007#PAR#Cod Agencia Conta      Nome                   Saldo Inicial         Entradas           Saidas         Aplicacoes    Saldo Disponivel
+0007#STR0007#PER#Cod Agencia Conta      Nome                   Saldo Inicial         Entradas           Saidas         Aplicacoes    Saldo Disponivel
+0007#STR0007#POR#Cod Agencia Conta         Nome                   Saldo Inicial      Entradas          Saidas         Aplicacoes     Saldo Disponivel
+0007#STR0007#PTG#Cod Agencia Conta         Nome                   Saldo Inicial      Entradas          Saidas         Aplicacoes     Saldo Disponivel
+0007#STR0007#SAL#Cod Agencia Conta      Nome                   Saldo Inicial         Entradas           Saidas         Aplicacoes    Saldo Disponivel
+0007#STR0007#URU#Cod Agencia Conta      Nome                   Saldo Inicial         Entradas           Saidas         Aplicacoes    Saldo Disponivel
+0007#STR0007#VEN#Cod Agencia Conta      Nome                   Saldo Inicial         Entradas           Saidas         Aplicacoes    Saldo Disponivel
+0008#STR0008#ALL#Selecionando Registros...
+0009#STR0009#ALL#CANCELADO PELO OPERADOR
+0010#STR0010#ALL#Cancelado pelo operador
+0011#STR0011#ALL#TOTAL GERAL ----->
+0012#STR0012#ALL#A Tabela SE8 (SALDOS BANCÁRIOS) está compartilhada, a pergunta 05 não terá efeito.
+0013#STR0013#ALL# da Filial 
+0014#STR0014#ALL#Cód.
+0015#STR0015#ALL#Agência
+0016#STR0016#ALL#Conta
+0017#STR0017#ALL#Nome
+0018#STR0018#ALL#Saldo Inicial
+0019#STR0019#ALL#Entradas
+0020#STR0020#ALL#Saídas
+0021#STR0021#ALL#Aplicações
+0022#STR0022#ALL#Saldo Disponível
+0023#STR0023#ALL#Total
+0024#STR0024#ALL#Total da Filial 
+0025#STR0025#ALL#Empresa
+0026#STR0026#ALL#Unidade de Negócio
+0027#STR0027#ALL#Filial
+0028#STR0028#ALL#Filiais Selecionadas para o Relatório

@@ -1,0 +1,20 @@
+0001#STR0001#ALL#Este programa emitirá la lista de registros por 
+0002#STR0002#ALL#Ítem contable
+0003#STR0003#ALL#Registros por ítem contable
+0004#STR0004#ALL#Ítem contable        C.Costo              Cta Contab                        Valor actual     Deprec Acumul      Depr en el mes  Corr.Depr.Acumul  Corr.Monet.Acumul
+0005#STR0005#ALL#ANULADO POR EL OPERADOR
+0006#STR0006#ALL#Tot Ít.Contable: 
+0007#STR0007#ALL#TOTAL GENERAL     : 
+0008#STR0008#ALL#Valor en 
+0009#STR0009#ALL#Símbolo de la moneda
+0010#STR0010#ALL#Valor actual
+0011#STR0011#ALL#Deprec Acumul
+0012#STR0012#ALL#Deprec en el Mes
+0013#STR0013#ALL#Corr Depr Acumul
+0014#STR0014#ALL#Corr Monet Acumul
+0015#STR0015#ALL#Código
+0016#STR0016#ALL#Empresa   
+0017#STR0017#ALL#Unidad de negocio
+0018#STR0018#ALL#Sucursal
+0019#STR0019#ALL#Sucursales seleccionadas para el informe
+0020#STR0020#ALL#Por favor, espere...

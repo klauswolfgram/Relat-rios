@@ -1,0 +1,42 @@
+0001#STR0001#ALL#Ficha de asignacion familiar
+0002#STR0002#ALL#Se imprimira de acuerdo con los param. solicitados por el
+0003#STR0003#ALL#usuario.
+0004#STR0004#ALL#Matricula
+0005#STR0005#ALL#Centro de costo
+0006#STR0006#ALL#A rayas
+0007#STR0007#ALL#Administrac.
+0008#STR0008#ALL#FICHA DE ASIGNAC. FAMILIAR
+0009#STR0009#ALL#FICHA DE ASIGNAC. FAMILIAR
+0010#STR0010#ALL#Empresa: 
+0011#STR0011#ALL#CGC/Matricula en INPS: 
+0012#STR0012#ALL#Direccion:
+0013#STR0013#ALL#Barrio: 
+0014#STR0014#ALL#  CP:  
+0015#STR0015#ALL#  Ciudad: 
+0016#STR0016#ALL#  PV: 
+0017#STR0017#ALL#CTPS: 
+0018#STR0018#ALL# Serie: 
+0019#STR0019#ALL#    Fch ingreso: 
+0020#STR0020#ALL#Fch despido: 
+0021#STR0021#ALL#Direccion:
+0022#STR0022#ALL#  Barrio: 
+0023#STR0023#ALL#CP:  
+0024#STR0024#ALL#  Ciudad: 
+0025#STR0025#ALL#PV: 
+0026#STR0026#ALL#HIJOS MENORES DE 14 ANOS - (Datos obtenidos de los certif.)
+0027#STR0027#ALL#|Nº  |         NOMBRE DEL HIJO        |FCH. NAC. |  LUGAR DE  |REGISTRO CIV| Nº REG |  Nº   |   Nº  | FCH.  | FECHA |    VISTO     |
+0028#STR0028#ALL#|Ord.|                                |          | NACIMIENTO |            |        | LIBRO |  HOJA | ENTR. | BAJA  | FISCAL IAPAS |
+0029#STR0029#ALL#| VALOR DE UNA ASIGNACION FAMILIAR                                | VALOR TOTAL DE ASIGNACIONES FAMILIARES A PAGAR                 |
+0030#STR0030#ALL#| El           ___ de __________________ de _____  $ ____________ | A partir de ___ de _________________ de _____   $ ____________ |
+0031#STR0031#ALL#| Modificado   ___ de __________________ de _____  $ ____________ | A partir de ___ de _________________ de _____   $ ____________ |
+0032#STR0032#ALL#REC. DOCUM. ANTER. MENC.
+0033#STR0033#ALL#FIRMA     
+0034#STR0034#ALL#Empleado: 
+0035#STR0035#ALL#HIJOS MENORES DE EDAD - (Datos extraidos de los certif.)
+0036#STR0036#ALL#No. |             NOMBRE DEL HIJO              | FCH.NAC. |            LOCAL DEL            |  NOTARIA  | N.REG. No.  No. |               MATRICULA             | FCH.      | FCH. DE LA    |            VISTO             |
+0037#STR0037#ALL#|Ord.|                                        |          |           NACIMIENTO           |            |        | LIBRO | HOJA |                                     | ENTR.    | BAJA    |          FISC.INSS           |
+0038#STR0038#ALL#| En          _____ de ___________________ de _____  R$ _________________ | A partir de _____ de ___________________ de ______  R$ ______________ | A partir de _____ de ___________________ de ______  R$ _______________ |
+0039#STR0039#ALL#| En          _____ de ___________________ de _____  R$ _________________ | A partir de _____ de ___________________ de ______  R$ ______________ | A partir de _____ de ___________________ de ______  R$ _______________ |
+0040#STR0040#ALL#COMPROBACION DE LA ENTREGA ANUAL DE LOS CERTIFICADOS DE VACUNAS - Hijos hasta 6 anos (Art. 67 de la Ley 8.213/91 - Redacción emitida en la Ley nº 9.876, del 26.11.99 )
+0041#STR0041#ALL#|           Hijo           |     Fecha de Entrega      |           Hijo           |     Fecha de Entrega      |           Hijo           |     Fecha de Entrega      |           Hijo           |     Fecha de Entrega     |
+0042#STR0042#ALL#| VALOR DE UN SALARIO-FAMILIA                                             | VALOR TOTAL DE LOS SALARIOS-FAMILIA POR PAGAR                              |VALOR TOTAL DE LOS SALARIOS-FAMILIA POR PAGAR                                |

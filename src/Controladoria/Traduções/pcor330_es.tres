@@ -1,0 +1,22 @@
+0001#STR0001#ALL#Relacion de los Movimientos - Cubo de Gestion
+0002#STR0002#ALL#   - Cubo de Gestion: 
+0003#STR0003#ALL#*Total de la Cuenta Presupuestaria*
+0004#STR0004#ALL#* Total de la Fecha *
+0005#STR0005#ALL#* Total de la Clase *
+0006#STR0006#ALL#* Total Operacion *
+0007#STR0007#ALL#* Total de la Clase Presupuestaria *
+0008#STR0008#ALL#Cuenta Presupuestaria
+0009#STR0009#ALL# - Periodo de: 
+0010#STR0010#ALL# a 
+0011#STR0011#ALL#Fch.Movim.
+0012#STR0012#ALL#Clase
+0013#STR0013#ALL#Operacion
+0014#STR0014#ALL#Historial
+0015#STR0015#ALL#Proceso
+0016#STR0016#ALL#Debito
+0017#STR0017#ALL#Credito
+0018#STR0018#ALL#¡Informe un cubo de gestion existente para proseguir!
+0019#STR0019#ALL#Total <Gral.>
+0020#STR0020#ALL#Total 
+0021#STR0021#ALL#Movimientos
+0022#STR0022#ALL#Este informe imprimira la Lista de Movimientos de acuerdo con los parametros solicitados por el usuario. Para mas informaciones sobre este informe consulte el Help del Programa ( F1 ).

@@ -1,0 +1,17 @@
+0001#STR0001#ALL#This program will print the Cross Reference report 
+0002#STR0002#ALL#between instruments and secondary standards.      
+0003#STR0003#ALL#Cross Ref.: Instrument vs. Secondary Standard
+0004#STR0004#ALL#Instrument       Rev Family           Dept.         Resp.      2nd.Stand.Range  2nd.Stand.Point  Second Standard   2nd.Stand.Family
+0005#STR0005#ALL#Z.Form 
+0006#STR0006#ALL#Management   
+0007#STR0007#ALL#CANCELLED BY OPERATOR  
+0008#STR0008#ALL#Instrument 
+0009#STR0009#ALL#Rev
+0010#STR0010#ALL#Family 
+0011#STR0011#ALL#Dept. 
+0012#STR0012#ALL#Resp.
+0013#STR0013#ALL#Sec.Stndrd.Scale
+0014#STR0014#ALL#Sec.Stndr.Point
+0015#STR0015#ALL#Secondary standard
+0016#STR0016#ALL#Sec.Stndrd.Family
+0017#STR0017#ALL#Sequence...:

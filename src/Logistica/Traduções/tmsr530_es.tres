@@ -1,0 +1,34 @@
+0001#STR0001#ALL#Movimiento Costo de Transporte
+0002#STR0002#ALL#Emite Lista de Movimiento de Costo de Transporte
+0003#STR0003#ALL#conforme los parametros inform.
+0004#STR0004#ALL#A Rayas
+0005#STR0005#ALL#Administrac.
+0006#STR0006#ALL#Doc.    Emision     Gasto                                 Vehiculo                        Viaje       Cuenta Contable       It Contable  C. Costo   Estatus                   Total             Saldo Propietario 
+0007#STR0007#ALL#TOTAL DEL GASTO 
+0008#STR0008#ALL#TOTAL DEL VEHIC.
+0009#STR0009#ALL#TOTAL DEL VIAJE
+0010#STR0010#ALL#TOTAL DE LA CUENTA CONT 
+0011#STR0011#ALL#TOTAL DEL PROPIET.   
+0012#STR0012#ALL#ANULADO POR EL OPERADOR
+0013#STR0013#ALL#TOTAL GEN. 
+0014#STR0014#ALL#Movimiento de Costo de Transporte
+0015#STR0015#ALL#Emite lista de movimiento de costo de transporte segun los parametros informados.
+0016#STR0016#ALL#Suc.Origen + Gasto + Emision + Documento
+0017#STR0017#ALL#Suc.Origen + Vehiculo + Emision + Documento
+0018#STR0018#ALL#Suc.Origen + Viaje + Emision + Documento
+0019#STR0019#ALL#Suc.Origen + Cuenta Contable + Emision + Documento
+0020#STR0020#ALL#Suc.Origen + Porietario + Emision + Documento
+0021#STR0021#ALL#Costo de Transporte
+0022#STR0022#ALL#Total del Gasto
+0023#STR0023#ALL#Total del Vehiculo
+0024#STR0024#ALL#Total del Viaje
+0025#STR0025#ALL#Total de la Cuenta Contable
+0026#STR0026#ALL#Total del Propietario
+0027#STR0027#ALL#Docto
+0028#STR0028#ALL#Emision
+0029#STR0029#ALL#Gasto
+0030#STR0030#ALL#Descripcion
+0031#STR0031#ALL#Vehiculo
+0032#STR0032#ALL#Item
+0033#STR0033#ALL#CC
+0034#STR0034#ALL#Suc.Ori

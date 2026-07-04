@@ -1,0 +1,29 @@
+0001#STR0001#ALL#PROTOCOLO DE ENTREGA DE DOCUMENTOS E REGISTROS DA QUALIDADE
+0002#STR0002#ALL#Este programa irá imprimir o Protocolo de Entrega de Documentos
+0003#STR0003#ALL#e Registros da Qualidade, que assegura o recebimento de documentos
+0004#STR0004#ALL#por todos os envolvidos em sua implementaçäo
+0005#STR0005#ALL#Zebrado
+0006#STR0006#ALL#Administraçäo
+0007#STR0007#ALL#Selecionando Registros..
+0008#STR0008#ALL#RESPONSAVEL             TIPO    COPIAS                     DATA    ASSINATURA
+0009#STR0009#ALL#CANCELADO PELO OPERADOR
+0010#STR0010#ALL#Departamento: 
+0011#STR0011#ALL# Eletronicas
+0012#STR0012#ALL# Em Papel
+0013#STR0013#ALL# Eletronica/Papel
+0014#STR0014#ALL# Nao Recebe
+0015#STR0015#ALL#Documento: 
+0016#STR0016#ALL#Titulo :
+0017#STR0017#ALL#Usuario
+0018#STR0018#ALL#Pasta
+0019#STR0019#ALL#Documento
+0020#STR0020#ALL#Revisao
+0021#STR0021#ALL#Titulo
+0022#STR0022#ALL#Texto do protocolo
+0023#STR0023#ALL#Depto
+0024#STR0024#ALL#Setor
+0025#STR0025#ALL#Responsavel
+0026#STR0026#ALL#Tipo
+0027#STR0027#ALL#Copias
+0028#STR0028#ALL#Data
+0029#STR0029#ALL#Assinatura

@@ -1,0 +1,24 @@
+0001#STR0001#ALL#This program will print the Trial Balance of account / 
+0002#STR0002#ALL#according to the parameters requested by the User. 
+0003#STR0003#ALL#Trial Balance of Account Verifictn/ 
+0004#STR0004#ALL#|  CODE                       |      D E S C R I P T I O N                      |    PREVIOUS BALANCE            |    DEBIT        |      CREDIT       |    MOVEMENT DURING PERIOD     |        CURRENT BALANCE            |
+0005#STR0005#ALL#|  CODE                 |       DESCRIPTION              |   PREVIOUS BALAN  |      DEBIT     |      CREDIT    | CURRENT BALANCE   |
+0006#STR0006#ALL#DETAILED TRIAL BAL OF ACCOUNT/ 
+0007#STR0007#ALL#SUMMARY TRIAL BALANCE ACCOUNT/ 
+0008#STR0008#ALL#TRIAL BALANCE ACCT / 
+0009#STR0009#ALL# FROM 
+0010#STR0010#ALL# TO 
+0011#STR0011#ALL# IN 
+0012#STR0012#ALL#(BUDGETD)
+0013#STR0013#ALL#(MANAGERIAL)
+0014#STR0014#ALL#Creating Temporary File...
+0015#STR0015#ALL#Z-form
+0016#STR0016#ALL#Administratn.
+0017#STR0017#ALL#***** CANCELED BY OPERATOR  *****
+0018#STR0018#ALL#P E R I O D    T O T A L S :     
+0019#STR0019#ALL#G R O U P     T O T A L S ( 
+0020#STR0020#ALL#A C C O U N T   T O T A L S: 
+0021#STR0021#ALL#Acct. 
+0022#STR0022#ALL#DIV.
+0023#STR0023#ALL#|  CODE                       |      D E S C R I P T I O N                      |    PREVIOUS BALANCE            |    DEBIT        |      CREDIT       | MOVEMENT IN THE PERIOD        |      CURRENT BALANCE              |
+0024#STR0024#ALL#|  CODE                 |   D E S C R I P T I O N        | PREVIOUS BALANCE  |      DEBIT     |      CREDIT    | CURRENT BALANCE   |

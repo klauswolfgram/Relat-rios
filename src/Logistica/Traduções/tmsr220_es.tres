@@ -1,0 +1,32 @@
+0001#STR0001#ALL#Relacion de Utilizacion mensual de Flota
+0002#STR0002#ALL#Emite Relacion de Utilizacion mensual de Flota
+0003#STR0003#ALL#conforme los parametros informados
+0004#STR0004#ALL#A Rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#Seleccionando Registros...
+0007#STR0007#ALL#Selecionando Registro no DTQ...
+0008#STR0008#ALL#                                                        *-------------------PESO-----------------*  MARGEN DE     APROVECH.   KM
+0009#STR0009#ALL#VEHICULO   PLACA       CAPAC. VIAJE CTD.DOC. CTD.VOL.         REAL       CUBADO          COBRADO  APROVECH.     DE PESO   RODADO
+0010#STR0010#ALL#TIPO DE VEHICULO: 
+0011#STR0011#ALL#FLOTA: 
+0012#STR0012#ALL#CANCELADO POR EL OPERADOR
+0013#STR0013#ALL#TOTAL DE FLOTA ===> 
+0014#STR0014#ALL#TOTAL TIPO VEHICULO ===> 
+0015#STR0015#ALL#TOTAL GENERAL ===> 
+0016#STR0016#ALL# * = Vehiculos con Remolque auxiliar 
+0017#STR0017#ALL#FLOTA: 
+0018#STR0018#ALL#Lista de utilizacion mensual de Flota
+0019#STR0019#ALL#Emite lista de utilizacion mensual de flota segun los parametros informados
+0020#STR0020#ALL#Flota + Tipo Vehiculo + Vehiculo
+0021#STR0021#ALL#Flota
+0022#STR0022#ALL#Tipo Vehiculo
+0023#STR0023#ALL#Vehiculo
+0024#STR0024#ALL#Ctd Viaj.
+0025#STR0025#ALL#Ctd. Docto
+0026#STR0026#ALL#Margen Provecho 
+0027#STR0027#ALL#Provecho Peso
+0028#STR0028#ALL#KM Recorrido
+0029#STR0029#ALL#Total Flota
+0030#STR0030#ALL#Total Tipo Vehiculo
+0031#STR0031#ALL#Leyenda
+0032#STR0032#ALL#* = Vehiculos con Remolque Auxiliar

@@ -1,0 +1,43 @@
+0001#STR0001#BRA#Mercadoria em poder de redespachante
+0002#STR0002#BRA#Documentos indicados para entrega e entregue
+0003#STR0003#BRA#Documentos entregue
+0004#STR0004#BRA#Documentos indicados para entrega
+0005#STR0005#BRA#Documentos selecionados
+0006#STR0006#BRA#Atenção
+0007#STR0007#BRA#Não existe informação para os parametros indicados !
+0008#STR0008#BRA#*** CANCELADO PELO OPERADOR ***
+0009#STR0009#BRA#'Redespachante:
+0010#STR0010#BRA#Código 
+0011#STR0011#BRA#Loja 
+0012#STR0012#BRA#Nome 
+0013#STR0013#BRA#Filial
+0014#STR0014#BRA#Doc.
+0015#STR0015#BRA#Série
+0016#STR0016#BRA#Nome Remet.
+0017#STR0017#BRA#Nome Dest.
+0018#STR0018#BRA#Dt. Entrada
+0019#STR0019#BRA#Prz. Entrega
+0020#STR0020#BRA#Dt. Entrega
+0021#STR0021#BRA#Dias atraso
+0022#STR0022#BRA#Qtde Volume
+0023#STR0023#BRA#Vl. Mercadoria
+0024#STR0026#BRA#Informe o redespachante inicial
+0025#STR0027#BRA#Redespachante de 
+0026#STR0028#BRA#Informe a loja do redespachante inicial
+0027#STR0029#BRA#Informe o redespachante final
+0028#STR0030#BRA#Redespachante ate 
+0029#STR0031#BRA#Informe a loja do redespachante final
+0030#STR0032#BRA#Informe o periodo inicial
+0031#STR0033#BRA#Periodo de 
+0032#STR0034#BRA#Informe o periodo final
+0033#STR0035#BRA#Periodo até 
+0034#STR0036#BRA#Informe o status do documento
+0035#STR0037#BRA#Status do Documento
+0036#STR0038#BRA#Loja de 
+0037#STR0039#BRA#Loja até 
+0038#STR0040#ALL#Dt. Emissao
+0039#STR0041#ALL#Dt.Redesp
+0040#STR0042#ALL#NºRedesp
+0041#STR0043#ALL#Ultima Ocorrencia
+0042#STR0044#ALL#Fil.Redesp.
+0043#STR0045#ALL#Dados Protegidos - Acesso Restrito: Este usuário não possui permissão de acesso aos dados dessa rotina. Para mais informações contate o Administrador do sistema !!

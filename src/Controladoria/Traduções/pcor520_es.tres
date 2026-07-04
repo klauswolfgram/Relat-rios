@@ -1,0 +1,59 @@
+0001#STR0001#ALL#Cubos Comparativos - Informe de Saldos por Periodo
+0002#STR0002#ALL#Codigo
+0003#STR0003#ALL#Descripc.
+0004#STR0004#ALL#Movimients.
+0005#STR0005#ALL#Saldo Inicial (A1): 
+0006#STR0006#ALL#Saldo Inicial (A2): 
+0007#STR0007#ALL#Diferencia (A1-A2):
+0008#STR0008#ALL#Dif. (A2/A1 %):
+0009#STR0009#ALL#Mov.Credito (C1):
+0010#STR0010#ALL#Mov.Credito (C2):
+0011#STR0011#ALL#Diferenc. (C1-C2):
+0012#STR0012#ALL#Dif. (C2/C1 %):
+0013#STR0013#ALL#Mov.Debito (D1)
+0014#STR0014#ALL#Mov.Debito (D2)
+0015#STR0015#ALL#Diferenc. (D1-D2):
+0016#STR0016#ALL#Dif. (D2/D1 %):
+0017#STR0017#ALL#Res.Mov.(C1 - D1):
+0018#STR0018#ALL#Res.Mov.(C2 - D2):
+0019#STR0019#ALL#Diferenc. Res.:
+0020#STR0020#ALL#Dif. Res. (%):
+0021#STR0021#ALL#    Cubo 1 --> 
+0022#STR0022#ALL#    Cubo 2 --> 
+0023#STR0023#ALL#Impresion anulada por el operador...
+0024#STR0024#ALL#Este informe imprimira Cubos Comparativos - Estado de Saldos por Periodo de acuerdo con los parametros solicitados por el usuario. Para mas informaciones sobre este informe consulte el Help del Programa ( F1 ).
+0025#STR0025#ALL#Comparativo entre configuraciones
+0026#STR0026#ALL#Movimientos
+0027#STR0027#ALL#Semanal
+0028#STR0028#ALL#Quincenal
+0029#STR0029#ALL#Mens.
+0030#STR0030#ALL#Bimestral
+0031#STR0031#ALL#Semestral
+0032#STR0032#ALL#Anual
+0033#STR0033#ALL#Diario
+0034#STR0034#ALL#Trimestral
+0035#STR0035#ALL#Codigo Cubo Gestion
+0036#STR0036#ALL#De Periodo
+0037#STR0037#ALL#Que Mon.
+0038#STR0038#ALL#Moned.1
+0039#STR0039#ALL#Moned.2
+0040#STR0040#ALL#Moned.3
+0041#STR0041#ALL#Moned.4
+0042#STR0042#ALL#Moned.5
+0043#STR0043#ALL#Tipo Periodo
+0044#STR0044#ALL#Acumulado 
+0045#STR0045#ALL#Si
+0046#STR0046#ALL#No
+0047#STR0047#ALL#Configuracion Cubo-1
+0048#STR0048#ALL#Editar Configurac. Cubo-1
+0049#STR0049#ALL#Configuracion Cubo-2
+0050#STR0050#ALL#Editar Configurac. Cubo-2
+0051#STR0051#ALL#Cons. en Cero
+0052#STR0052#ALL#Total General Resum.
+0053#STR0053#ALL#Considerar Cfg. 1 Cubo
+0054#STR0054#ALL#Parametros...
+0055#STR0055#ALL#A Periodo
+0056#STR0056#ALL#Atenc.
+0057#STR0057#ALL#Usuario sin acceso al informe. Verifique las configurac.
+0058#STR0058#ALL#Período diario no imprime en modo personalizado. Utilice módulo no personalizado si necesario.
+0059#STR0059#ALL#Consulta limitada a, como máximo, 100 períodos. Verifique la periodicidad.

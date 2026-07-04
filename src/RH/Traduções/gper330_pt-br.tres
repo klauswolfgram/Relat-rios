@@ -1,0 +1,37 @@
+0001#STR0001#ALL#Centro de Custo
+0002#STR0002#ALL#Matricula
+0003#STR0003#ALL#Nome
+0004#STR0004#ALL#Emissäo do Demonstrativo Horas Trabalhadas.
+0005#STR0005#ALL#Será impresso de acordo com os parametros solicitados pelo
+0006#STR0006#ALL#usuario.
+0007#STR0007#ALL#Zebrado
+0008#STR0008#ALL#Administraçäo
+0009#STR0009#ALL#DEMONSTRATIVO HORAS TRABALHADAS
+0010#STR0010#ALL#FI MAT.   N O M E                        * QUANTD *   HORAS     * HORA EXTRA * HORA EXTRA * HORA EXTRA *  T O T A L  * PERC.HR. *   HORAS   *   ABONO   *    PERC.   *    HORAS   * PERC.    * DIAS *  H O R A S *
+0011#STR0011#ALL#                                         * EMPREG *  NORMAIS    *  COLUNA 1  *  COLUNA 2  *  COLUNA 3  *  E X T R A  *  EXTRAS  *  REPOUSO  *  MEDICO   *    ABONO   *    FALTA   * FALTAS   *      *  P A G A S *
+0012#STR0012#ALL#RELACAO DO DEMONSTRATIVO HORAS TRABALHADAS 
+0013#STR0013#ALL#ANALITICA
+0014#STR0014#ALL#SINTETICA
+0015#STR0015#ALL#Qt.Func.
+0016#STR0016#ALL#Hr Norm.
+0017#STR0017#ALL#HrExt.1
+0018#STR0018#ALL#HrExt.2
+0019#STR0019#ALL#HrExt.3
+0020#STR0020#ALL#Total
+0021#STR0021#ALL#Perc.H.E.
+0022#STR0022#ALL#Hr Rep.
+0023#STR0023#ALL#Ab.Med.
+0024#STR0024#ALL#Perc.Ab.
+0025#STR0025#ALL#Hr Falta
+0026#STR0026#ALL#Perc.Falta
+0027#STR0027#ALL#Dias
+0028#STR0028#ALL#Hr Pagas
+0029#STR0029#ALL#Fil
+0030#STR0030#ALL#Matr.
+0031#STR0031#ALL#Qtde
+0032#STR0032#ALL#Total Centro de Custo: 
+0033#STR0033#ALL#Total Filial: 
+0034#STR0034#ALL#Atenção
+0035#STR0035#ALL#Relat. Sintético não disponível para geração em Planilha.
+0036#STR0036#ALL#Período não calculado!
+0037#STR0037#ALL#Este relatório está disponível apenas no modo personalizável.

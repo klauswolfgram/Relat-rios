@@ -1,0 +1,60 @@
+0001#STR0001#ALL#Este programa ira imprimir o Relatorio de Lancamentos por 
+0002#STR0002#ALL# de acordo com os parametros sugeridos  
+0003#STR0003#ALL#  pelo usuario.
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#Emissao do Relatorio de Lancamentos por 
+0007#STR0007#ALL#Relatorio de Lancamentos por  
+0008#STR0008#ALL# ANALITICO EM 
+0009#STR0009#ALL#DE
+0010#STR0010#ALL#ATE
+0011#STR0011#ALL#(ORCADO)
+0012#STR0012#ALL#(GERENCIAL)
+0013#STR0013#ALL#CONTA                      D E S C R I C A O                             C/PARTIDA               TIPO    NUMERO              DATA        HISTORICO                               VALOR DO LANCAMENTO             SALDO ATUAL
+0014#STR0014#ALL# SINTETICO EM 
+0015#STR0015#ALL#***** CANCELADO PELO OPERADOR *****
+0016#STR0016#ALL#CENTRO DE CUSTO - 
+0017#STR0017#ALL#T O T A L  
+0018#STR0018#ALL#Criando Arquivo Temporario...
+0019#STR0019#ALL#DATA
+0020#STR0020#ALL#T o t a l  d a   C o n t a  => 
+0021#STR0021#ALL#S a l d o  a n t e r i o r  d a  C o n t a  => 
+0022#STR0022#ALL#T O T A L   G E R A L  
+0023#STR0023#ALL#DE TRANSPORTE : 
+0024#STR0024#ALL#CONTA - 
+0025#STR0025#ALL#DATA                                                                            DEBITO               CREDITO            SALDO ATUAL
+0026#STR0026#ALL#SALDO ANTERIOR:
+0027#STR0027#ALL#LOTE/SUB/DOC/LINHA H I S T O R I C O                        C/PARTIDA                                                              
+0028#STR0028#ALL#DEBITO         CREDITO      SALDO ATUAL
+0029#STR0029#ALL#DATA                                                                            DEBITO               CREDITO            SALDO ATUAL
+0030#STR0030#ALL#O plano gerencial nao esta disponivel nesse relatorio.
+0031#STR0031#ALL#DESCRICAO
+0032#STR0032#ALL#Centro de Custo
+0033#STR0033#ALL#Saldo Anterior
+0034#STR0034#ALL#Lancamentos
+0035#STR0035#ALL#Total
+0036#STR0036#ALL#Conta
+0037#STR0037#ALL#Data
+0038#STR0038#ALL#Descricao
+0039#STR0039#ALL#Contra partida
+0040#STR0040#ALL#Tipo
+0041#STR0041#ALL#Numero
+0042#STR0042#ALL#Historico
+0043#STR0043#ALL#Valor do lancamento
+0044#STR0044#ALL#Saldo atual
+0045#STR0045#ALL#Lote
+0046#STR0046#ALL#Sub-Lote
+0047#STR0047#ALL#Documento
+0048#STR0048#ALL#Linha
+0049#STR0049#ALL#Sequencia do Lancamento
+0050#STR0050#ALL#Seq do Historico
+0051#STR0051#ALL#Empresa Original
+0052#STR0052#ALL#Filial Original
+0053#STR0053#ALL#Atencao
+0054#STR0054#ALL#Este relatorio deve ser emitido em paisagem. Confirma impressão ?
+0055#STR0055#ALL#Confirma
+0056#STR0056#ALL#Abandona
+0057#STR0057#ALL#Sera excluido as colunas de descricao e historico do relatorio. Confirma Exclusao ?
+0058#STR0058#ALL#Sim
+0059#STR0059#ALL#Nao
+0060#STR0060#ALL#Este relatorio somente é emitido em modo paisagem.

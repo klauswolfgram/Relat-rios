@@ -1,0 +1,28 @@
+0001#STR0001#ALL#This program will print the Services table, 
+0002#STR0002#ALL#according to the selected parameters. 
+0003#STR0003#ALL#Service Table
+0004#STR0004#ALL#[Brand] [Model-----------------------] [Segment--------------------------------] [Group Service------------------] [Service Code-] [Description-----------------] [Stand.] [C.Dea.] [Revis.-]
+0005#STR0005#ALL#Z.Form
+0006#STR0006#ALL#Management   
+0007#STR0007#ALL#Please, wait. Selecting Record to Print
+0008#STR0008#ALL#All 
+0009#STR0009#ALL#All 
+0010#STR0010#ALL#Factory
+0011#STR0011#ALL#C.Deal.
+0012#STR0012#ALL#Both
+0013#STR0013#ALL#*** CANCELLED BY THE OPERATOR***
+0014#STR0014#ALL#Yes
+0015#STR0015#ALL#No
+0016#STR0016#ALL#Brand             ?
+0017#STR0017#ALL#Model             ?
+0018#STR0018#ALL#Service Group     ?
+0019#STR0019#ALL#Print Time        ?
+0020#STR0020#ALL#Car Dealer
+0021#STR0021#ALL#Service table
+0022#STR0022#ALL#Brand
+0023#STR0023#ALL#Vehicle Mod
+0024#STR0024#ALL#Segment
+0025#STR0025#ALL#Description
+0026#STR0026#ALL#Gp
+0027#STR0027#ALL#Grp
+0028#STR0028#ALL#Service Cd

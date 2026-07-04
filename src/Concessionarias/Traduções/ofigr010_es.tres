@@ -1,0 +1,22 @@
+0001#STR0001#ALL#El objetivo de este programa es imprimir la lista de 
+0002#STR0002#ALL#Informes de reclamaciones
+0003#STR0003#ALL#Informe de reclamaciones
+0004#STR0004#ALL#A Rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#Espere, seleccionando el registro para imprimir
+0007#STR0007#ALL#*** ANULADO POR EL OPERADOR ***
+0008#STR0008#ALL#[Gr] [Codigo de la pieza-------] [Descripcion-------] [Ctd ] [Valor---] [Esp]
+0009#STR0009#ALL#Total.:
+0010#STR0010#ALL#[Gr] [Codigo del servicio------] [Descripcion-------] [Tmp-] [Valor---] [Esp]
+0011#STR0011#ALL#Total de OS.: 
+0012#STR0012#ALL#Total piezas:
+0013#STR0013#ALL# Total servicios:
+0014#STR0014#ALL# Total: 
+0015#STR0015#ALL#¿Fecha incial     ?
+0016#STR0016#ALL#¿Fecha final      ?
+0017#STR0017#ALL#¿Tipo de informe  ?
+0018#STR0018#ALL#Todas las RR
+0019#STR0019#ALL#Solo las borradas 
+0020#STR0020#ALL#Motivo
+0021#STR0021#ALL#[Nº Osv-][Fc.Ape] [Ch.I] [Chasis del Vehiculo------] [Modelo----------------------] [Descripcion del Modelo-----------] [Cod Pro] [Propietario------------------------]
+0022#STR0022#ALL#          [Ano] [Nº RR] [Rec] [CdGar] [T] [R] [NF 1-----] [NF 2-----] [Ser] [GS] [Cod Servicio---] [Grp-] [Cod de la Pieza----------------] [Def] [SerConjun] [TipCon] [CodCam] [TesCam] [Km Pick] [KmGui-] 

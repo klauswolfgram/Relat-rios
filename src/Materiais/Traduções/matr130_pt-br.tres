@@ -1,0 +1,19 @@
+0001#STR0001#ALL#Relacao de Divergencias de Pedidos de Compras
+0002#STR0002#ALL#Emissao da Relacao de Itens para Compras
+0003#STR0003#ALL#com divergencias
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#DIVERGENCIAS ENTRE NF DE COMPRAS E PEDIDOS
+0007#STR0007#ALL#NOTA         EMISSAO    CODIGO LJ FORNECEDOR                       PRODUTO         UM   QUANTIDADE   VALOR UNITARIO  DT.ENTREGA COND 
+0008#STR0008#ALL#PEDIDO
+0009#STR0009#ALL#CANCELADO PELO OPERADOR
+0010#STR0010#ALL#Nao ha' pedido de compra colocado
+0011#STR0011#ALL#No hay remito colocado          
+0012#STR0012#ALL#NOTA         EMISSAO    CODIGO               LJ   FORNECEDOR       PRODUTO         UM   QUANTIDADE   VALOR UNITARIO  DT.ENTREGA COND.
+0013#STR0013#ALL#Itens do pedido 
+0014#STR0014#ALL#que nao constam na nota 
+0015#STR0015#ALL#Itens do(s) pedido(s) que nao constam na Nota Fiscal 
+0016#STR0016#ALL#Itens do Documento de Entrada
+0017#STR0017#ALL#Pedidos de Compra
+0018#STR0018#ALL#NOTA                   EMISSAO    CODIGO               LJ   FORNECEDOR       PRODUTO         UM   QUANTIDADE   VALOR UNITARIO  DT.ENTREGA COND.
+0019#STR0019#ALL#NOTA                   EMISSAO    CODIGO LJ FORNECEDOR                       PRODUTO         UM   QUANTIDADE   VALOR UNITARIO  DT.ENTREGA COND 

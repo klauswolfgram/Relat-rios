@@ -1,0 +1,16 @@
+0001#STR0001#ALL#Este programa irá emitir uma relação dos artigos por grupo
+0002#STR0002#ALL#A emissão irá ocorrer baseada nos parâmetros do relatório
+0003#STR0003#ALL#Código de barras
+0005#STR0005#ALL#Cancelado Pelo Operador
+0007#STR0007#ALL#Descrição Do Grupo
+0008#STR0008#ALL#Artigo          Descrição                                           Tipo   Unid.  Local         Custo   Preço Venda         Saldo
+0010#STR0010#ALL#Artigos Por Grupo
+0012#STR0012#ALL#A Seleccionar Registos...
+0014#STR0014#ALL#Artigos
+0016#STR0016#ALL#Actualizar patch do programa sigacus.prw !!!
+0017#STR0017#ALL#Actualizar patch do programa sigacusa.prx !!!
+0018#STR0018#ALL#Actualizar patch do programa sigacusb.prx !!!
+0019#STR0019#ALL#Não Localizado No Registo De Grupos...
+0020#STR0020#ALL#Não Introduzido No Registo De Artigos...
+0021#STR0021#ALL#Sem grupo de artigos introduzido no registo
+0022#STR0022#ALL#Artigo

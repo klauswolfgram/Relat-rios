@@ -1,0 +1,39 @@
+0001#STR0001#ALL#This program will print Comparison of BalanceMonth by Month
+0002#STR0002#ALL#according to the parameters requested by the User.    
+0003#STR0003#ALL#Comparison Blnce.Month by Month
+0004#STR0004#ALL#|BALANCE TYPE       |  PERIOD  01  |  PERIOD  02  |  PERIOD  03  |  PERIOD  04  |  PERIOD  05  |  PERIOD  06  |  PERIOD  07  |  PERIOD  08  |  PERIOD  09  |  PERIOD  10  |  PERIOD  11  |  PERIOD  12  |
+0005#STR0005#ALL#COMPARISON OF DETAILED BALANCE OF  
+0006#STR0006#ALL#COMPARISON OF SUMMARIZED BALANCE OF 
+0007#STR0007#ALL#COMPARISON OF BLANCE
+0008#STR0008#ALL# FROM 
+0009#STR0009#ALL# TO  
+0010#STR0010#ALL# ON 
+0011#STR0011#ALL#ACCT.
+0012#STR0012#ALL#Managerial plan not available for this report, yet.             
+0013#STR0013#ALL#Creating Temporary File ...  
+0014#STR0014#ALL#Z. form
+0015#STR0015#ALL#Management   
+0016#STR0016#ALL#*****CANCELLED BY THE OPERATOR*****
+0017#STR0017#ALL#P E R I O D  T O T A L S :       
+0018#STR0018#ALL#TOTALS OF 
+0019#STR0019#ALL#Period requested exceeds deadline of 6 months.      
+0020#STR0020#ALL#Will be printed only 6 months after the initial date.     
+0021#STR0021#ALL#If you do not update compound balances in
+0022#STR0022#ALL#issue of reports(MV_SLDCOMP ='N'),      
+0023#STR0023#ALL#run the balance update routine          
+0024#STR0024#ALL#Edit tax configuration ...        
+0025#STR0025#ALL#Record configurat...
+0026#STR0026#ALL#TOTALS 
+0027#STR0027#ALL#PERIOD TOTALS:    
+0028#STR0028#ALL#PERIOD TOTAL 
+0029#STR0029#ALL#Variat. 
+0030#STR0030#ALL#Differenc
+0031#STR0031#ALL#Questions 'Balance Type' and 'Balance to Compare' cannot be blank          
+0032#STR0032#ALL#Order to print
+0033#STR0033#ALL#Order by
+0034#STR0034#ALL#After
+0035#STR0035#ALL#Select different entities
+0036#STR0036#ALL#The order 
+0037#STR0037#ALL# is equal to the order 
+0038#STR0038#ALL#Select at least one Entity for the report
+0039#STR0039#ALL#Referential Plan unavailable in this report. The report will be processed disregarding book configuration.

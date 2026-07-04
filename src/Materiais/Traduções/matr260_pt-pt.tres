@@ -1,0 +1,45 @@
+0001#STR0001#ALL#Relação Da Posição Do Stock
+0002#STR0002#ALL#Este relatório emite a posição dos saldos e alocações de cada  produto
+0004#STR0004#ALL#Subtraído das alocações.
+0005#STR0005#ALL# por código         
+0006#STR0006#ALL# por tipo           
+0007#STR0007#ALL# por descrição      
+0008#STR0008#ALL# por grupo          
+0009#STR0009#ALL# por armazém        
+0010#STR0010#ALL#Código de barras
+0011#STR0011#ALL#Administração
+0012#STR0012#ALL#A Seleccionar Registos...
+0013#STR0013#ALL#A Organizar Ficheiro...
+0014#STR0014#ALL#Código          tp grup descrição             um fl armz  saldo       alocação para       stock       ____________valor ___________
+0015#STR0015#ALL#                                                          Em Stock  Req/pv/reserva     Disponível      Em Stock        Alocado
+0019#STR0019#ALL#Total unidade medida : 
+0020#STR0020#ALL#Total crial : 
+0021#STR0021#ALL#Cancelado Pelo Operador.
+0022#STR0022#ALL#Registo(s) processado(s)
+0023#STR0023#ALL#: Preparação...
+0025#STR0025#ALL#Com o parâmetro mv_cusfil activado o preenchimento das seguintes perguntas deve ser observado:
+0026#STR0026#ALL#aGlutina por almoxarifado/filial/empresa? -> somente podem ser utilizadas as opções "filial" ou "empresa"
+0027#STR0027#ALL#aRmazém de? -> somente "**"
+0028#STR0028#ALL#aRmazém ate? -> somente "**"
+0029#STR0029#ALL#oRdem de impressão -> todas, exceto "armazém"
+0030#STR0030#ALL#Os parâmetros não estão devidamente configurados. imprimir relatório assim mesmo ?
+0031#STR0031#ALL#Imprimir
+0033#STR0033#ALL#Subtotal Por Armazém
+0034#STR0034#ALL#    Descrição
+0035#STR0035#ALL#    Do Armazém
+0036#STR0036#ALL#Código
+0037#STR0037#ALL#Tp.
+0039#STR0039#ALL#Descrição
+0041#STR0041#ALL#Fl
+0042#STR0042#ALL#Armz
+0043#STR0043#ALL#Saldo
+0044#STR0044#ALL#Em Stock
+0045#STR0045#ALL#Alocação Para
+0046#STR0046#ALL#Req/pv/reserva
+0047#STR0047#ALL#Stock
+0048#STR0048#ALL#Disponível
+0049#STR0049#ALL#Valor
+0050#STR0050#ALL#Empenhado
+0051#STR0051#ALL#Descrição
+0052#STR0052#ALL#Do Armazém
+0053#STR0053#ALL#Saldos Em Stock

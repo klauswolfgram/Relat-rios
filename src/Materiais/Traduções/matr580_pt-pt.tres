@@ -1,0 +1,25 @@
+0001#STR0001#ALL#Facturação Por Vendedor
+0002#STR0002#ALL#Este relatório emite a relação de facturação. poderá ser
+0003#STR0003#ALL#Emitido por ordem de cliente ou por valor (ranking).     
+0004#STR0004#ALL#Se no tes estiver cria duplicata (n), não será computado.
+0005#STR0005#ALL#Código de barras
+0006#STR0006#ALL#Administração
+0007#STR0007#ALL#Facturação por vendedor  (ordem decrescente por código) - 
+0008#STR0008#ALL#Facturação por vendedor  (ranking) - 
+0009#STR0009#ALL#Código   Nome Do Vendedor                                Facturação          Valor Da                 Valor  Ranking
+0010#STR0010#ALL#                                                         SEM IMPOSTOS         MERCADORIA                TOTAL         
+0011#STR0011#ALL#A Seleccionar Registos...
+0012#STR0012#ALL#Cancelado Pelo Operador
+0014#STR0014#ALL#T o t a l --->
+0015#STR0015#ALL#Facturação Por Vendedor
+0016#STR0016#ALL#Este relatório emite a relação de facturação. poderá ser
+0017#STR0017#ALL#Emitido por ordem de cliente ou por valor (ranking).     
+0018#STR0018#ALL#Se no tes estiver cria duplicata (n), não será computado.
+0019#STR0019#ALL#Facturamento S/ IMPOSTO
+0020#STR0020#ALL#Valor Da Mercadoria
+0023#STR0023#ALL#(ordem Decrescente De Vendedor)
+0024#STR0024#ALL#(ordem Crescente De Classificação)
+0025#STR0025#ALL#Vendas Sem Vendedor
+0027#STR0027#ALL#Facturas De Saída
+0028#STR0028#ALL#Devoluções
+0029#STR0029#ALL#Facturação sem impostos

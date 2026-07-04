@@ -1,0 +1,36 @@
+0001#STR0001#ALL#Financial Settlements
+0002#STR0002#ALL#This report prints the statement of Financial Settlements. 
+0003#STR0003#ALL#Financial companies
+0004#STR0004#ALL#SETTLEMENT: 
+0005#STR0005#ALL#Settlement Number
+0006#STR0006#ALL#Bills Settled
+0007#STR0007#ALL#PRF
+0008#STR0008#ALL#NUMBER
+0009#STR0009#ALL#INSTALLMENT
+0010#STR0010#ALL#TYPE
+0011#STR0011#ALL#ISSUE
+0012#STR0012#ALL#ISSUER
+0013#STR0013#ALL#AMOUNT
+0014#STR0014#ALL#INTEREST
+0015#STR0015#ALL#DISCOUNTS
+0016#STR0016#ALL#BANK
+0017#STR0017#ALL#AGENCY
+0018#STR0018#ALL#ACCOUNT
+0019#STR0019#ALL#Selecting records...
+0020#STR0020#ALL#Payable
+0021#STR0021#ALL#Installment Write-off 
+0022#STR0022#ALL#Written-off
+0023#STR0023#ALL#Generated
+0024#STR0024#ALL#Net Tot. 
+0025#STR0025#ALL#Totals 
+0026#STR0026#ALL#Notes: 
+0027#STR0027#ALL#- Written-off bills are printed with original value, regardless of the write-off type. 
+0028#STR0028#ALL#- Totalizers consider the settlement total value or value of generated/written-off bills.
+0029#STR0029#ALL#STATUS
+0030#STR0030#ALL#Code
+0031#STR0031#ALL#Company
+0032#STR0032#ALL#Business Unit
+0033#STR0033#ALL#Branch
+0034#STR0034#ALL#Branches selected for the report
+0035#STR0035#ALL#Branch: 
+0036#STR0036#ALL#Accessory Value

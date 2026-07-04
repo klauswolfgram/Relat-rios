@@ -1,0 +1,27 @@
+0001#STR0001#ALL#Cuadro de Licitaciones
+0002#STR0002#ALL#Este informe solo esta disponible a partir de la Release 4.
+0003#STR0003#ALL#Este programa tiene el objetivo de imprimir la  
+0004#STR0004#ALL#lista de los editales y los productos 
+0005#STR0005#ALL#Licitacion:
+0006#STR0006#ALL#Modalidad
+0007#STR0007#ALL#Etapa
+0008#STR0008#ALL#Productos del proceso de licitación
+0009#STR0009#ALL#Proveedores/Clientes
+0010#STR0010#ALL#Tipo
+0011#STR0011#ALL#Nombre
+0012#STR0012#ALL#Valor Total
+0013#STR0013#ALL#Ganador
+0014#STR0014#ALL#No Clasificado
+0015#STR0015#ALL#Clasificacion
+0016#STR0016#ALL#Pre-Cliente
+0017#STR0017#ALL#Cliente
+0018#STR0018#ALL#Pre-Proveedor
+0019#STR0019#ALL#Proveedor
+0020#STR0020#ALL#Habilitado
+0021#STR0021#ALL#Revocado
+0022#STR0022#ALL#Anulado
+0023#STR0023#ALL#Restante
+0024#STR0024#ALL#Ganador
+0025#STR0025#ALL#Inhabilitado
+0026#STR0026#ALL#Por ítem
+0027#STR0027#ALL#Por Lote

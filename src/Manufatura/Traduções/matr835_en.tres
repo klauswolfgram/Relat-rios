@@ -1,0 +1,16 @@
+0001#STR0001#ALL#Map of Progress and Retrocession
+0002#STR0002#ALL#This program will print a map with the transactions had to be
+0003#STR0003#ALL#dislocated in time. This dislocation usually identifies a 
+0004#STR0004#ALL#bottleneck in the production line.
+0005#STR0005#ALL# By Production Order 
+0006#STR0006#ALL# By Resource         
+0007#STR0007#ALL#Z.Form
+0008#STR0008#ALL#Management
+0009#STR0009#ALL#RECORD(S)
+0010#STR0010#ALL#PRODUCTION  PRODUCT         DESCRIPTION OF PRODUCT           OP   RESOURCE                            TOOL                          FINAL        IDEAL     FINAL     ALLOCAT     DIFFE
+0011#STR0011#ALL#PRODUCTION  PRODUCT         DESCRIPTION OF PRODUCT           OP   RESOURCE                            TOOL                         INITIAL       IDEAL    INITIAL    ALLOCAT     DIFFE
+0012#STR0012#ALL#ORDER       CODE                                                                                                                    DATE          TIME     DATE       TIME       RENCE
+0013#STR0013#ALL#CANCELLED BY THE OPERATOR
+0014#STR0014#ALL#Difference
+0015#STR0015#ALL#Allocated operations Machine Load
+0016#STR0016#ALL#Report MATR835 discontinued in the version 12.

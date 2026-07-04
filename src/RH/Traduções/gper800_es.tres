@@ -1,0 +1,54 @@
+0001#STR0001#ARG#EMISION DEL LIBRO DE SUELDOS
+0002#STR0002#ARG#Emision del Libro de sueldos. 
+0003#STR0003#ARG#Se imprimira de acuerdo con los parametros solicitados 
+0004#STR0004#ARG# por el usuario. 
+0005#STR0005#ARG#A rayas
+0006#STR0006#ARG#Administrac.
+0007#STR0007#ARG#Atencion
+0008#STR0008#ARG#El periodo seleccionado todavia no se encerro, ¿desea imprimir los mov. pendientes?
+0009#STR0009#ARG#Si
+0010#STR0010#ARG#No
+0011#STR0011#ARG#El periodo selecc. es posterior al mes de competencia.
+0012#STR0012#ARG#OK
+0013#STR0013#ARG#Empleados
+0014#STR0014#ARG#Dependient.
+0015#STR0015#ARG#Asientos
+0016#STR0016#ARG#Remuner.
+0017#STR0017#ARG#Descuent.
+0018#STR0018#ARG#P.Liq
+0019#STR0019#ARG#Fch.
+0020#STR0020#ARG#Tp. Doc.
+0021#STR0021#ARG#Neto:
+0022#STR0022#ARG#Masc
+0023#STR0023#ARG#Fem.
+0024#STR0024#ARG#CONYUGE
+0025#STR0025#ARG#HIJO
+0026#STR0026#ARG#OTROS
+0027#STR0027#ARG#F. Mat:
+0028#STR0028#ARG#F.Nac: 
+0029#STR0029#ARG#Aguinaldo
+0030#STR0030#ARG#Fecha Ingr.
+0031#STR0031#ARG#Fecha Desp.
+0032#STR0032#ARG#Empresas de Personal Eventual 
+0033#STR0033#ARG#Personal Eventual
+0034#STR0034#ARG#Empresa de Personal Eventual 
+0035#STR0035#ARG#CUIT: 
+0036#STR0036#ARG#Razon Social: 
+0037#STR0037#ARG#Direccion: 
+0038#STR0038#ARG#Numero: 
+0039#STR0039#ARG#Barrio: 
+0040#STR0040#ARG#Provincia: 
+0041#STR0041#ARG#Municipio: 
+0042#STR0042#ARG#CP:  
+0043#STR0043#ARG#CUIL: 
+0044#STR0044#ARG#Nombre:  
+0045#STR0045#ARG#Categoria: 
+0046#STR0046#ARG#Tarea: 
+0047#STR0047#ARG#Remuneracion Bruta Facturacion: 
+0048#STR0048#ARG#Emision de empleados eventuales. 
+0049#STR0049#ARG#Se imprimira de acuerdo con los parametros informados 
+0050#STR0050#ARG#en el Libro de sueldos.
+0051#STR0051#ALL#HABILITACION DEL REGISTRO DE HOJAS MOVILES EN REEMPLAZO DEL LIBRO ESPECIAL ART. 52§ LEY 20744 (T.O.)
+0052#STR0052#ALL#C.U.I.T.: 
+0053#STR0053#ALL#Fecha Pago: 
+0054#STR0054#ALL#Hoja: 

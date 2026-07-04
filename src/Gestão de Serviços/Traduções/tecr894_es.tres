@@ -1,0 +1,30 @@
+0001#STR0001#ALL#Destino/Salida
+0002#STR0002#ALL#Impresora
+0003#STR0003#ALL#Grabar en disco
+0004#STR0004#ALL#Grabar como
+0005#STR0005#ALL#PDF
+0006#STR0006#ALL#DOC
+0007#STR0007#ALL#Versión MS Word
+0008#STR0008#ALL#Word 97/2003
+0009#STR0009#ALL#Word 2010/2013
+0010#STR0010#ALL#Este programa tiene por objetivo realizar la impresión del Término de entrega de uniformes
+0011#STR0011#ALL#utilizando la integración con el Microsoft Word. El modelo para impresión debe
+0012#STR0012#ALL#estar disponible en la carpeta:
+0013#STR0013#ALL#Parámetros
+0014#STR0014#ALL#Impresión Término de entrega de uniformes
+0015#STR0015#ALL#Espere...
+0016#STR0016#ALL#Realizando la impresión del documento...
+0017#STR0017#ALL#ATENCIÓN
+0018#STR0018#ALL#No es posible realizar la generación del documento en el formato "PDF" para la versión 97/2003 del Microsoft Word. El formato del documento se reajustará a "DOC"
+0019#STR0019#ALL#OK
+0020#STR0020#ALL#¡El archivo
+0021#STR0021#ALL#no existe! Entre en contacto con el Administrador del sistema.
+0022#STR0022#ALL#Archivo
+0023#STR0023#ALL#Seleccione la carpeta para grabación
+0024#STR0024#ALL#¡Proceso anulado por el usuario!
+0025#STR0025#ALL#Usted no tiene permiso de grabación para la carpeta seleccionada. Intente seleccionar otra carpeta.
+0026#STR0026#ALL#¡No es posible transferir el modelo Word del servidor a su estación de trabajo! Intente reiniciar la computadora. Si el problema persiste, entre en contacto con el Administrador del sistema
+0027#STR0027#ALL#¡No fue posible establecer conexión con el MS-Word!
+0028#STR0028#ALL#¡Impresión/Generación realizada con éxito!
+0029#STR0029#ALL#No existen datos para impresión. ¡Verifique los parámetros informados!
+0030#STR0030#ALL#¡No fue posible establecer conexión con el MS-Word!

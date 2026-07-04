@@ -1,0 +1,96 @@
+0001#STR0001#ALL#Wait... Selecting Schedules for printing...      
+0002#STR0002#ALL#C O N T A C T   C A R D   C E V           
+0003#STR0003#ALL#GN 
+0004#STR0004#ALL#Contact: 
+0005#STR0005#ALL# Periodicity:   
+0006#STR0006#ALL# days
+0007#STR0007#ALL#Name: 
+0008#STR0008#ALL# Market seg. 
+0009#STR0009#ALL#  NI: 
+0010#STR0010#ALL#Add.: 
+0011#STR0011#ALL# ZIP: 
+0012#STR0012#ALL# Area: 
+0013#STR0013#ALL#Tel.: 
+0014#STR0014#ALL# Fax: 
+0015#STR0015#ALL#EIN 
+0016#STR0016#ALL#SSN 
+0017#STR0017#ALL#Sales rep.:
+0018#STR0018#ALL#  Parts......: 
+0019#STR0019#ALL#  New Vehic.: 
+0020#STR0020#ALL#  Services...: 
+0021#STR0021#ALL#CONTACTS                       GI  Posit            Profile Subject               DDD   Cell Ph.        Birthdate
+0022#STR0022#ALL#CORPORATE MEMBERS
+0023#STR0023#ALL#GROSS REV. Avr.Mon/Mil  Avrge Yr./Mil           
+0024#STR0024#ALL#Customers 
+0025#STR0025#ALL#Supplier: 
+0026#STR0026#ALL#BRANCHES
+0027#STR0027#ALL#ASSOC. COMPANIES  
+0028#STR0028#ALL#BANKS worked with  
+0029#STR0029#ALL# Branch 
+0030#STR0030#ALL#VEHICLE FLEET  Brand/Mod Category        Operat.         Fab./Mod.  Acq.Date  PmntCond     Km/Mes    Km/L
+0031#STR0031#ALL#EQUIPMENT     Brand/Mod  Category                        Fab./Mod.  Acq.Date  PmntCond     Km/Mon    Km/L
+0032#STR0032#ALL# Qtty.
+0033#STR0033#ALL#Average age:
+0034#STR0034#ALL# anos
+0035#STR0035#ALL#Total Qtty:
+0036#STR0036#ALL#THIRD PARTIES FLEET
+0037#STR0037#ALL#Vehicle Quantity: 
+0038#STR0038#ALL#Invoicing Participation:  
+0039#STR0039#ALL#Particip.    Cargo Volume: 
+0040#STR0040#ALL#CONSORTIUM            Brand/Model                 Group   Qota   Contempl             Credit    Closing     
+0041#STR0041#ALL#INSURAN. Brand/Model      Fab./Mod.  Insurer               Broker                Due Date  Insur. Type
+0042#STR0042#ALL#AFTERSALES
+0043#STR0043#ALL# SO: 
+0044#STR0044#ALL#Part Vlue
+0045#STR0045#ALL#ServiceValue
+0046#STR0046#ALL#Maintenance Agree
+0047#STR0047#ALL#MaintenanceContract
+0048#STR0048#ALL# Vehicles
+0049#STR0049#ALL#Invoicing:       
+0050#STR0050#ALL#Part COUNTER  
+0051#STR0051#ALL#Part WORKSHOP 
+0052#STR0052#ALL#Services WORKSHOP 
+0053#STR0053#ALL#(last 30 days) 
+0054#STR0054#ALL#(Last 365days)
+0055#STR0055#ALL#FINANCIAL      Validity             Limit                Pending balance            Matured value           Value to matur
+0056#STR0056#ALL#OTHER INFORMATION 
+0057#STR0057#ALL#Own workshop    
+0058#STR0058#ALL#Mech. Quantity 
+0059#STR0059#ALL#Third Party Srvc 
+0060#STR0060#ALL#Avr Value/Mon
+0061#STR0061#ALL#Main Suppliers             SRVCS    Avrge/Mon                                Main Suppliers            PARTS    Avrge/Mon
+0062#STR0062#ALL#STRATEGY:   
+0063#STR0063#ALL#LAST CONTACTS made with the Customer:      
+0064#STR0064#ALL#TREATMENT: 
+0065#STR0065#ALL#( )Visit at Customer's  
+0066#STR0066#ALL#( )Telemarketing    
+0067#STR0067#ALL#( )Car Dealer    
+0068#STR0068#ALL#( )Not accomplished    
+0069#STR0069#ALL#Interest:  
+0070#STR0070#ALL#Payment pref.:  
+0071#STR0071#ALL#   Next visit estimated for     
+0072#STR0072#ALL#Warning...
+0073#STR0073#ALL#Printing successfully performed!
+0074#STR0074#ALL#No index card printed!
+0075#STR0075#ALL#Please, wait... Selecting customers data...
+0076#STR0076#ALL#C E V   M O D U L A R   C A R D      
+0077#STR0077#ALL#(1) Satisfaction / (2) Dissatisfaction
+0078#STR0078#ALL#Resp: 
+0079#STR0079#ALL#Dpt: 
+0080#STR0080#ALL#Tp: 
+0081#STR0081#ALL#Postponed: 
+0082#STR0082#ALL#Term:  
+0083#STR0083#ALL#Finished:  
+0084#STR0084#ALL#I.E.: 
+0085#STR0085#ALL# I.M.: 
+0086#STR0086#ALL# Income Tax: 
+0087#STR0087#ALL#Print generated in directory: 
+0088#STR0088#ALL#Modular Form - Print of CEV Contacts referring to schedule of sellers.
+0089#STR0089#ALL#Z-form
+0090#STR0090#ALL#Management
+0091#STR0091#ALL#CUSTOMER:
+0092#STR0092#ALL#Update Dt.
+0093#STR0093#ALL# Econ Grp: 
+0094#STR0094#ALL#  Used Vehic.: 
+0095#STR0095#ALL#  Tires......: 
+0096#STR0096#ALL#  Others.....: 

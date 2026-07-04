@@ -1,0 +1,15 @@
+0001#STR0001#ALL#Este programa irá  emitir a relação dos artigos a inventar  de a-
+0002#STR0002#ALL#Cordo com os parâmetros seleccionados. o acerto contabilístico desses  
+0003#STR0003#ALL#Artigos deve ser feito antes do próximo cálculo
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#Relação de bens inventariados
+0007#STR0007#ALL#Código
+0009#STR0009#ALL#C Base     Item Ti Chapa  Descrição                     Armazém CCusto    Grup    Qtd Actual      Valor Resid    Qtd.Inv   Valor Invent Visto
+0010#STR0010#ALL#C Base     Item Ti Chapa  Descrição                     Armazém CCusto    Grup     Qtd.Invent  Valor Invent   Visto 
+0013#STR0013#ALL#Cancelado Pelo Operador
+0014#STR0014#ALL#Valor Resid.
+0016#STR0016#ALL#Val. Invent.
+0018#STR0018#ALL#Bens/saldos
+0019#STR0019#ALL#Matrícula
+0020#STR0020#ALL#A Seleccionar Registos...

@@ -1,0 +1,10 @@
+0001#STR0001#ALL#Função disponível apenas para ambientes TopConnect
+0002#STR0002#ALL#Função disponível apenas para TReport, por favor atualizar ambiente e verificar parametro MV_TREPORT
+0003#STR0003#ALL#Para utilizar este relatorio, e necessário executar o compatibilizador U_UPDATF. Por favor, atualize o ambiente
+0004#STR0004#ALL#RELATORIO PROCESSOS AJUSTE VALOR POSITIVO/NEGATIVO SOCIETARIO
+0005#STR0005#ALL#PROCESSOS DE AJUSTES 
+0006#STR0006#ALL#Bens a Ajustar
+0007#STR0007#ALL#Filial / Processo: 
+0008#STR0008#ALL#Total Processo: 
+0009#STR0009#ALL#Filial : 
+0010#STR0010#ALL#Total Filial: 

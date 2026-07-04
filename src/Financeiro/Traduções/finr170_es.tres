@@ -1,0 +1,109 @@
+0001#STR0001#ALL#La funcion de este prog. es emitir los borderos de cobranzas 
+0001#STR0001#ANG#La funcion de este prog. es emitir los borderos de cobranzas
+0001#STR0001#ARG#La funcion de este prog. es emitir las boletas de deposito
+0001#STR0001#BOL#La funcion de este prog. es emitir los borderos de cobranzas
+0001#STR0001#BRA#La funcion de este prog. es emitir los borderos de cobranzas
+0001#STR0001#CHI#La funcion de este prog. es emitir los borderos de cobranzas
+0001#STR0001#COL#La funcion de este prog. es emitir los borderos de cobranzas
+0001#STR0001#COS#La funcion de este prog. es emitir los borderos de cobranzas
+0001#STR0001#DOM#La funcion de este prog. es emitir los borderos de cobranzas
+0001#STR0001#EQU#La funcion de este prog. es emitir los borderos de cobranzas
+0001#STR0001#EUA#La funcion de este prog. es emitir los borderos de cobranzas
+0001#STR0001#HAI#La funcion de este prog. es emitir los borderos de cobranzas
+0001#STR0001#MEX#La funcion de este prog. es emitir los borderos de cobranzas
+0001#STR0001#PAN#La funcion de este prog. es emitir los borderos de cobranzas
+0001#STR0001#PAR#La funcion de este prog. es emitir los borderos de cobranzas
+0001#STR0001#PER#La funcion de este prog. es emitir los borderos de cobranzas
+0001#STR0001#POR#La funcion de este prog. es emitir los borderos de cobranzas
+0001#STR0001#PTG#La funcion de este prog. es emitir los borderos de cobranzas
+0001#STR0001#SAL#La funcion de este prog. es emitir los borderos de cobranzas
+0001#STR0001#URU#La funcion de este prog. es emitir los borderos de cobranzas
+0001#STR0001#VEN#La funcion de este prog. es emitir los borderos de cobranzas
+0002#STR0002#ALL#o pagos generados por el usuario.
+0003#STR0003#ALL#Confirma
+0004#STR0004#ALL#Reescr.
+0005#STR0005#ALL#Salir
+0006#STR0006#ALL#Emision de Borderos 
+0006#STR0006#ANG#Emision de Borderos
+0006#STR0006#ARG#Emision de Boleta de deposito
+0006#STR0006#BOL#Emision de Borderos
+0006#STR0006#BRA#Emision de Borderos
+0006#STR0006#CHI#Emision de Borderos
+0006#STR0006#COL#Emision de Borderos
+0006#STR0006#COS#Emision de Borderos
+0006#STR0006#DOM#Emision de Borderos
+0006#STR0006#EQU#Emision de Borderos
+0006#STR0006#EUA#Emision de Borderos
+0006#STR0006#HAI#Emision de Borderos
+0006#STR0006#MEX#Emision de Borderos
+0006#STR0006#PAN#Emision de Borderos
+0006#STR0006#PAR#Emision de Borderos
+0006#STR0006#PER#Emision de Borderos
+0006#STR0006#POR#Emision de Borderos
+0006#STR0006#PTG#Emision de Borderos
+0006#STR0006#SAL#Emision de Borderos
+0006#STR0006#URU#Emision de Borderos
+0006#STR0006#VEN#Emision de Borderos
+0007#STR0007#ALL#A Rayas
+0008#STR0008#ALL#Administrac.
+0009#STR0009#ALL#Mensaje Complementar.
+0010#STR0010#ALL#ANULADO POR EL OPERADOR
+0011#STR0011#ALL#|   TOTAL DE LA LISTA A CREDITO DE NUESTRA CTA. CORRIENTE      
+0012#STR0012#ALL#|   TOTAL DE LA LISTA A DEBITO DE NUESTRA CTA CORRIENTE        
+0013#STR0013#ALL#|   CANTIDAD  DE TITULOS IMPRESOS                              
+0014#STR0014#ALL#Fecha:
+0015#STR0015#ALL#Atentamente
+0016#STR0016#ALL#AGENCIA 
+0017#STR0017#ALL#C / C
+0018#STR0018#ALL#BORDERO Nº  
+0018#STR0018#ANG#BORDERO Nº 
+0018#STR0018#ARG#BOLETA DE DEPOSITO Nº   
+0018#STR0018#BOL#BORDERO Nº 
+0018#STR0018#BRA#BORDERO Nº 
+0018#STR0018#CHI#BORDERO Nº 
+0018#STR0018#COL#BORDERO Nº 
+0018#STR0018#COS#BORDERO Nº 
+0018#STR0018#DOM#BORDERO Nº 
+0018#STR0018#EQU#BORDERO Nº 
+0018#STR0018#EUA#BORDERO Nº 
+0018#STR0018#HAI#BORDERO Nº 
+0018#STR0018#MEX#BORDERO Nº 
+0018#STR0018#PAN#BORDERO Nº 
+0018#STR0018#PAR#BORDERO Nº 
+0018#STR0018#PER#BORDERO Nº 
+0018#STR0018#POR#BORDERO Nº 
+0018#STR0018#PTG#BORDERO Nº 
+0018#STR0018#SAL#BORDERO Nº 
+0018#STR0018#URU#BORDERO Nº 
+0018#STR0018#VEN#BORDERO Nº 
+0019#STR0019#ALL#Solicitamos que sean cobrados los titulos informados a continuacion
+0020#STR0020#ALL#ACREDITANDONOS los valores correspond.
+0021#STR0021#ALL#Solicitamos que sean pagados los titulos informados a continuacion
+0022#STR0022#ALL#DEBITANDONOS los valores correspond.
+0023#STR0023#ALL#NUM FACT.CREDITO          |P|CODIGO|R A Z O N   S O C I A L  | VENCTO   |            VALOR   |
+0024#STR0024#ALL#AL 
+0025#STR0025#ALL#Nº FACT. CRED.            |P|CODIGO              |R A Z O N   S O C I A L  | VENCTO   |         VALOR   |
+0026#STR0026#ALL#NUM DUPLIC                |PC|CODIGO|R A Z O N   S O C I A L  | VENCTO   |              VALOR |
+0027#STR0027#ALL#NUM DUPLIC                |PRC|CODIGO|R A Z O N   S O C I A L  | VENCTO   |              VALOR |
+0028#STR0028#ALL#Nº FACT. CRED.            |PC|CODIGO              |R A Z O N   S O C I A L  | VENCTO   |         VALOR   |
+0029#STR0029#ALL#Nº FACT. CRED.            |PRC|CODIGO              |R A Z O N   S O C I A L  | VENCTO   |         VALOR   |
+0030#STR0030#ALL#NUM CHEQUE                |P|CODIGO|R A Z O N   S O C I A L  | VENCTO   |              VALOR |
+0031#STR0031#ALL#Nº CHEQUE                 |P|CODIGO              |R A Z O N   S O C I A L  | VENCTO   |         VALOR   |
+0032#STR0032#ALL#NUM CHEQUE                |PC|CODIGO|R A Z O N   S O C I A L  | VENCTO   |              VALOR |
+0033#STR0033#ALL#NUM CHEQUE                |PRC|CODIGO|R A Z O N   S O C I A L  | VENCTO   |              VALOR |
+0034#STR0034#ALL#Nº CHEQUE                 |PC|CODIGO              |R A Z O N   S O C I A L  | VENCTO   |         VALOR   |
+0035#STR0035#ALL#Nº CHEQUE                 |PRC|CODIGO              |R A Z O N   S O C I A L  | VENCTO   |         VALOR   |
+0036#STR0036#ALL#Linea 1
+0037#STR0037#ALL#Linea 2
+0038#STR0038#ALL#Linea 3
+0039#STR0039#ALL#Emitido en: 
+0040#STR0040#ALL#PREF
+0041#STR0041#ALL#NÚM
+0042#STR0042#ALL#CUOTA
+0043#STR0043#ALL#CODIGO
+0044#STR0044#ALL#RAZON SOCIAL
+0045#STR0045#ALL#VENCTO
+0046#STR0046#ALL#VALOR
+0047#STR0047#ALL#TOT RELAC A CRED DE NUESTRA CUENTA CORR
+0048#STR0048#ALL#TOT RELAC AL DEBE DE NSTA CTA CORR
+0049#STR0049#ALL#CANTIDAD DE TITULOS IMPRESOS    

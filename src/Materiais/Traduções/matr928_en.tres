@@ -1,0 +1,9 @@
+0001#STR0001#BRA#Statement of Transport Services Rendered with Tax Override and Granted Loan Override                    
+0002#STR0002#BRA#This programa will issue a Statement of the Services Rendered of            
+0003#STR0003#BRA#Transport with Tax Override and Granted Loan Override.        
+0004#STR0004#BRA#Z. form
+0005#STR0005#BRA#Management   
+0006#STR0006#BRA#|                   CTRC                |                Paulista Service Contractor                          |                 |                    |                    |                    |
+0007#STR0007#BRA#|---------------------------------------|---------------------------------------------------------------------|Service Value |    Normal ICMS     |       ICMS ST      |       Credit      |
+0008#STR0008#BRA#|    Date    | Number | Serie | CFOP | Company name                             | State registration   |R/D|                    |                    |                    |      Granted       |
+0009#STR0009#BRA#Integration is necesseary with SIGATMS module! 

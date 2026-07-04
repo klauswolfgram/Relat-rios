@@ -1,0 +1,29 @@
+0001#STR0001#ALL#Custo Médio X Custo Em Partes
+0002#STR0002#ALL#Este programa ira imprimir uma comparação  entre o   
+0003#STR0003#ALL#Custo Médio Versus Custo Em Partes.
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#Custo
+0007#STR0007#ALL#Partes
+0008#STR0008#ALL#Cancelado Pelo Operador
+0009#STR0009#ALL#Cancelado
+0011#STR0011#ALL#Actualizar patch do programa
+0012#STR0012#ALL#* grupo : 
+0013#STR0013#ALL#Artigos
+0014#STR0014#ALL# (grupo)
+0015#STR0015#ALL#O custo em partes não esta configurado corretamente. favor verificar a existência dos campos de custo em partes
+0016#STR0016#ALL#Atenção: os valores impressos neste listagem  são baseados nos cálculos apurados através
+0017#STR0017#ALL#Do procedimento de recálculo do custo médio, por esse motivo e recomendado que o cliente tenha
+0018#STR0018#ALL#executado o procedimento de recálculo do custo médio pelo menos uma vez para a movimentação		
+0019#STR0019#ALL#Que será impressa.
+0020#STR0020#ALL#Não existe regra definida para utilização  do custo em partes. favor verificar se o ponto de entrada ma330cp esta compilado em seu ambiente.
+0021#STR0021#ALL#Produto
+0023#STR0023#ALL#Tipo
+0024#STR0024#ALL#Parte
+0025#STR0025#ALL#Custo
+0026#STR0026#ALL#Total
+0027#STR0027#ALL#C.partes
+0028#STR0028#ALL#Médio
+0030#STR0030#ALL#Amz
+0031#STR0031#ALL#Qtde.
+0033#STR0033#ALL#Total geral :

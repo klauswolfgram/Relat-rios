@@ -1,0 +1,23 @@
+0001#STR0001#ALL#Guests Report          
+0002#STR0002#ALL#It will be printed according to the parameters requested by
+0003#STR0003#ALL#the user.
+0004#STR0004#ALL#Guest    
+0005#STR0005#ALL#Name + Surnames  
+0006#STR0006#ALL#Please, wait...
+0007#STR0007#ALL#Selecting Guests..........
+0008#STR0008#ALL#Z.Form 
+0009#STR0009#ALL#Administration
+0010#STR0011#ALL#Guests Control Report              
+0011#STR0012#ALL#Badge:  
+0012#STR0013#ALL#Code: 
+0013#STR0014#ALL#Guest:     
+0014#STR0015#ALL#  Total 
+0015#STR0016#ALL#Branch : 
+0016#STR0017#ALL#Guests:     
+0017#STR0020#ALL#Company: 
+0018#STR0022#ALL#Badge      |  Date     |  Inflow          |  Outfl           |  Post     | Contact              | C.Center                          
+0019#STR0023#ALL#                        * Access  *       |  Clock  
+0020#STR0024#ALL#Visits 
+0021#STR0025#ALL#Accesses
+0022#STR0026#ALL#Clock  
+0023#STR0027#ALL#Badge and Date

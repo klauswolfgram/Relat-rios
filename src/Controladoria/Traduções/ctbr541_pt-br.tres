@@ -1,0 +1,23 @@
+0001#STR0001#EQU#Gerando relatorio, aguarde...
+0002#STR0002#EQU#Demonstrativo de Renda Modelo 2
+0003#STR0003#EQU#cem
+0004#STR0004#EQU#mil
+0005#STR0005#EQU#milhao
+0006#STR0006#EQU#Criando Arquivo Temporario...
+0007#STR0007#EQU#Mes 
+0008#STR0008#EQU#% Tot
+0009#STR0009#EQU#Acumulado
+0010#STR0010#EQU#DEMONSTRATIVO DE RENDA
+0011#STR0011#EQU# até 
+0012#STR0012#EQU# de 
+0013#STR0013#EQU#Periodo
+0014#STR0014#EQU# % 
+0015#STR0015#EQU#Responsaveis...
+0016#STR0016#EQU#Este programa ira imprimir o Demonstrativo de Renda, 
+0017#STR0017#EQU#de acordo com os parâmetros informados pelo usuário. 
+0018#STR0018#EQU#Detalhe
+0019#STR0019#EQU#Conta
+0020#STR0020#EQU#Os demonstrativos contabeis obrigatoriamente devem ter um plano gerencial associado ao livro. Verifique a configuracao de livros escolhida !
+0021#STR0021#EQU#Conta
+0022#STR0022#EQU#Conta Sup.
+0023#STR0023#EQU#Sld. Ant.

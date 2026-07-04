@@ -1,0 +1,44 @@
+0001#STR0001#ALL#DNF Checking Report - Invoice Statement.                         
+0002#STR0002#ALL#This report displays a magnetic environ. forecast to be generat
+0003#STR0003#ALL#Z.Form 
+0004#STR0004#ALL#Management   
+0005#STR0005#ALL#DNF
+0006#STR0006#ALL#This program generates a pre-format file for DNF importation - Invoice Statement.                
+0007#STR0007#ALL#Taxpayer Information - Record Type 0.         
+0008#STR0008#ALL#|Cnpj/Mf:           |Company:                                |Mth/Ret.Yer.: |See Layout|
+0009#STR0009#ALL#|###################|########################################| ##/####      | ######## |
+0010#STR0010#ALL#|          |                   |          |          |          |    |            |            |            |    |    |Linked Documents     |
+0011#STR0011#ALL#|Ident  Reg|Cnpj/Mf Adquirente |No  Iv/Ser|Issue Date|Inflow Dt.|Cfop|     Inf.Vl.|     IPI Val|      Exempt|Canc|Comp|No  Iv/Ser|Inv.Issue |
+0012#STR0012#ALL#|##########|###################|######/###|##########|##########|####|############|############|############|### |### |######/###|##########|
+0013#STR0013#ALL#Control Data - Record type 9.       
+0014#STR0014#ALL#|Total of records: ##############  |
+0015#STR0015#ALL#|Ident  Rec|It.|Cod.     Goods |Goods Description                            |NCM     |CP |Cfop|Um        |  Quantity  |   Unit Val.|  It.Tot.Val|    IPI Base|     IPI Val| Conv.Factor|Qtt Um Estat|
+0016#STR0016#ALL#|##########|###|###############|#############################################|########|###|####|##########|############|############|############|############|############|############|############|
+0017#STR0017#ALL#+----------------------------------+
+0018#STR0018#ALL#
+0019#STR0019#ALL#ID Number |
+0020#STR0020#ALL###########|
+0021#STR0021#ALL#Indexing File    
+0022#STR0022#ALL#+-------------------+----------------------------------------+--------------+----------+
+0023#STR0023#ALL#Main Inflow Fiscal Documents - Record Type 1.              
+0024#STR0024#ALL#Main Outflow Fiscal Documents - Record Type 1.           
+0025#STR0025#ALL#----------+
+0026#STR0026#ALL#+----------+---+---------------+---------------------------------------------+--------+---+----+----------+------------+------------+------------+------------+------------+------------+------------+
+0027#STR0027#ALL#+----------+-------------------+----------+----------+----------+----+------------+------------+------------+----+----+----------+----------+
+0028#STR0028#ALL#Items of Inflow Fiscal Documents - Record Type 3.         
+0029#STR0029#ALL#Outflow Fiscal Documents Items - Record Type 2.         
+0030#STR0030#ALL#Invoice information - Record type 0.   
+0031#STR0031#ALL#Invoice item (product) information - Record type 1.         
+0032#STR0032#ALL#Taxpayer information.       
+0033#STR0033#ALL#Ident.Reg.|CNPJ/MF Issuer    | NR  NF/SER  |Issue DT |IT.|COD.|CP   |CFOP        |Unit                      |Amount  | Unit Vl   | Total VL  |A. IPI|AMT MU Stat|
+0034#STR0034#ALL#|##########|###################|######/###|##########|###|####|#####|############|##############################|############|############|############|######|############|
+0035#STR0035#ALL#|          |                   |          |          |   |    |     |            |                              |            |            |            |      |            |
+0036#STR0036#ALL#+----------+-------------------+----------+----------+---+----+-----+------------+------------------------------+------------+------------+------------+------+------------+
+0037#STR0037#ALL#|CNPJ/MF Issuer   |NR  NF/SER|DT Generation|DT Outflow  |CNPJ/MF Recipient|
+0038#STR0038#ALL#|                   |          |          |          |                    |
+0039#STR0039#ALL#|###################|######/###|##########|##########|####################|
+0040#STR0040#ALL#+-------------------+----------+----------+----------+--------------------|
+0041#STR0041#ALL#|AMT Record 0|AMT Record 1|NR Volume|AMT Volumes|
+0042#STR0042#ALL#| #############| #############| ########| #############|
+0043#STR0043#ALL#|              |              |         |              |
+0044#STR0044#ALL#+--------------+--------------+---------+--------------+

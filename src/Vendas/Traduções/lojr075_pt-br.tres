@@ -1,0 +1,89 @@
+0001#STR0001#ALL#Este programa tem como objetivo imprimir relatorio 
+0002#STR0002#ALL#de acordo com os parametros informados pelo usuario.
+0003#STR0003#ALL#Mapa de Vendas
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#Aguarde
+0007#STR0007#ALL#Selecionando registros para impressão...
+0008#STR0008#ALL#Selecione corretamente as formas de pagamento para serem impressas no relatório.
+0009#STR0009#ALL#Atenção
+0010#STR0010#ALL#CX. 
+0011#STR0011#ALL#Data     
+0012#STR0012#ALL#N.Fisc.
+0013#STR0013#ALL#Ser.
+0014#STR0014#ALL#Vend.  
+0015#STR0015#ALL#Nome Vend       
+0016#STR0016#ALL#Clien. 
+0017#STR0017#ALL#Nome Cliente        
+0018#STR0018#ALL#Desc.
+0019#STR0019#ALL#Acr.
+0020#STR0020#ALL#Credito
+0021#STR0021#ALL#Total
+0022#STR0022#ALL#Dinheiro
+0023#STR0023#ALL#Cheque
+0024#STR0024#ALL#Cartao
+0025#STR0025#ALL#Convenio
+0026#STR0026#ALL#Vales
+0027#STR0027#ALL#Financiado
+0028#STR0028#ALL#Outros
+0029#STR0029#ALL#Debito
+0030#STR0030#ALL#*** CANCELADO PELO OPERADOR ***
+0031#STR0031#ALL#Imprimindo, aguarde...
+0032#STR0032#ALL#*************** DEVOLUCOES ***************
+0033#STR0033#ALL#S U B  -  T O T A L ---- > Caixa: 
+0034#STR0034#ALL#S U B  -  T O T A L ---- > Data: 
+0035#STR0035#ALL#S U B  -  T O T A L ---- > Filial: 
+0036#STR0036#ALL#T O T A L     G E R A L ---- > 
+0037#STR0037#ALL#Imps.Discr.
+0038#STR0038#ALL#Retencöes
+0039#STR0039#ALL#T R O C O           ---- > Caixa: 
+0040#STR0040#ALL#T R O C O           ---- > Data: 
+0041#STR0041#ALL#T R O C O           ---- > Filial: 
+0042#STR0042#ALL#Sangria: 
+0043#STR0043#ALL#Entrada de Troco: 
+0044#STR0044#ALL#Foram escolhidas 
+0045#STR0045#ALL# formas de pagamento (
+0046#STR0046#ALL#). Devido ao tamanho do relatório é permitida até 5 formas. Ajuste os parâmetros do relatório.
+0047#STR0047#ALL#Filial
+0048#STR0048#ALL#Orçamento
+0049#STR0049#ALL#Data
+0050#STR0050#ALL#Operador
+0051#STR0051#ALL#Dia x Caixa
+0052#STR0052#ALL#Considera os impostos variáveis na 
+0053#STR0053#ALL#soma total dos itens, por padrão é 'SIM'.
+0054#STR0054#ALL#Considera Impostos ?
+0055#STR0055#ALL#Sim
+0056#STR0056#ALL#Nao
+0057#STR0057#ALL# ESTORNO 
+0058#STR0058#ALL#Det.Estorno:
+0059#STR0059#ALL#Form.Est:
+0060#STR0060#ALL#Estorno:
+0061#STR0061#ALL#Preparando Registros
+0062#STR0062#ALL#Defina a versão
+0063#STR0063#ALL#Qual versão do relatório deseja utilizar?
+0064#STR0064#ALL#VersãoTReport
+0065#STR0065#ALL#Versão Smart View
+0066#STR0066#ALL#Filiais
+0067#STR0067#ALL#Data inicial
+0068#STR0068#ALL#Data final
+0069#STR0069#ALL#Caixas
+0070#STR0070#ALL#N. do movimento inicial
+0071#STR0071#ALL#N. do movimento final
+0072#STR0072#ALL#Tipo de operação
+0073#STR0073#ALL#Considera impostos
+0074#STR0074#ALL#Considera crédito (NCC/RA)
+0075#STR0075#ALL#Todas
+0076#STR0076#ALL#Vendas
+0077#STR0077#ALL#Devoluções/Estornos
+0078#STR0078#ALL#Não
+0079#STR0079#ALL#Filtra as vendas das lojas/filiais selecionadas. Caso não seja selecionada nenhuma, serão exibidas as vendas de todas as lojas/filiais.
+0080#STR0080#ALL#Filtra as vendas com data igual ou superior a data informada. Esse filtro é utilizado em conjunto com a 'Data final'.
+0081#STR0081#ALL#Filtra as vendas com data igual ou inferior a data informada. Esse filtro é utilizado em conjunto com a 'Data inicial'.
+0082#STR0082#ALL#Filtra as vendas dos caixas/operadores selecionados. Caso não seja selecionado nenhum, serão exibidas as vendas de todos os caixas/operadores.
+0083#STR0083#ALL#Filtra as vendas com número do movimento igual ou superior ao informado. Esse filtro é utilizado em conjunto com o 'N. do Movimento Final'. Caso não seja informado o número do movimento nos filtros 'N. do Movimento Inicial' e 'N. do Movimento Final', serão exibidas as vendas de todos os movimentos.
+0084#STR0084#ALL#Filtra as vendas com número do movimento igual ou inferior ao informado. Esse filtro é utilizado em conjunto com o 'N. do Movimento Inicial'. Caso não seja informado o número do movimento nos filtros 'N. do Movimento Inicial' e 'N. do Movimento Final', serão exibidas as vendas de todos os movimentos.
+0085#STR0085#ALL#Indica quais as operações serão exibidas no relatório, conforme a seleção. A opção 'Todas' exibe vendas, devoluções e estornos efetuados. A opção 'Vendas' exibe somente vendas efetuadas. A opção 'Devoluções/Estornos' exibe somente devoluções e estornos efetuados.
+0086#STR0086#ALL#Indica se os valores de impostos da venda serão exibidos no relatório.
+0087#STR0087#ALL#Indica se as vendas efetuadas utilizando crédito (NCC - Nota de crédito de cliente e/ou RA - Recebimento antecipado) serão exibidas e calculadas no relatório.
+0088#STR0088#ALL#Considera sangria/suprimento
+0089#STR0089#ALL#Indica se os valores de sangrias e suprimentos (entrada de troco) serão exibidos no relatório.

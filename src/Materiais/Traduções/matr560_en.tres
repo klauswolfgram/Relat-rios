@@ -1,0 +1,37 @@
+0001#STR0001#ALL# Journal - Detailed 
+0002#STR0002#ALL# Journal - Totalized 
+0003#STR0003#ALL#Billing by Payment Term           
+0004#STR0004#ALL#This report will show the Billing breakdown by        
+0005#STR0005#ALL#Payment Term. The intervals may be selected                  
+0006#STR0006#ALL#through the Parameters option.    
+0007#STR0007#ALL#Z.Form
+0008#STR0008#ALL#Management
+0009#STR0009#ALL#On Demand 
+0010#STR0010#ALL#** BILLING STATISTICS BY PAYMENT TERM      **               
+0011#STR0011#ALL#ISSUE      INVOICE           
+0012#STR0012#ALL# DAYS       
+0013#STR0013#ALL# or + DAYS       TOTAL
+0014#STR0014#ALL#           TAX                                                                                                                
+0015#STR0015#ALL#Selecting Records...      
+0016#STR0016#ALL#CANCELLED BY OPERATOR  
+0017#STR0017#ALL# DAY TOTAL    --> 
+0018#STR0018#ALL# TOTAL ->
+0019#STR0019#ALL#GRAND TOTAL ---> 
+0020#STR0020#ALL#PERCENTAGES --->
+0021#STR0021#ALL#** BILLING STATISTICS BY PAYMENT TERM                **
+0022#STR0022#ALL#This report will generate billing breakdown by        
+0023#STR0023#ALL#order of payment terms. The intervals can be chosen          
+0024#STR0024#ALL#through the Parameters option.    
+0025#STR0025#ALL#Daily - Detailed  
+0026#STR0026#ALL#Daily - Totalized  
+0027#STR0027#ALL#Issue  
+0028#STR0028#ALL#Invoice    
+0029#STR0029#ALL#Total
+0030#STR0030#ALL#On dem.
+0031#STR0031#ALL# DAYS
+0032#STR0032#ALL# or + DAYS
+0033#STR0033#ALL#Selecting records     
+0034#STR0034#ALL#Outflow Bills/Invoice
+0035#STR0035#ALL#Percentages
+0036#STR0036#ALL#Daily Total ---> 
+0037#STR0037#ALL#Blank column    

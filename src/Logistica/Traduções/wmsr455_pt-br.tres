@@ -1,0 +1,10 @@
+0001#STR0001#ALL#Posicao Detalhada do Estoque por Endereco
+0002#STR0002#ALL#Neste relatório é possivel obter uma posição de quantidade por
+0003#STR0003#ALL#produto/lote/endereco/status, o que permite o mapeamento perfeito
+0004#STR0004#ALL#de cada endereço.
+0005#STR0005#ALL# Armazem + Grupo + Produto 
+0006#STR0006#ALL# Produto + Armazem 
+0007#STR0007#ALL#Produtos
+0008#STR0008#ALL#Total do Produto
+0009#STR0009#ALL#Enderecos
+0010#STR0010#ALL#Disponivel

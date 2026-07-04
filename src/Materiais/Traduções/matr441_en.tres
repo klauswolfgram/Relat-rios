@@ -1,0 +1,17 @@
+0001#STR0001#ALL#Prints a list of Items of the Partnership Contract
+0002#STR0002#ALL#which generate Delivery Authorizations.
+0003#STR0003#ALL#Z.Form
+0004#STR0004#ALL#Management
+0005#STR0005#ALL#Items of Partnership Contract that generate Delivery Authorizations
+0006#STR0006#ALL#RECORD(S)
+0007#STR0007#ALL#CODE          DESCRIPTION                      GRP  UM      AMOUNT             PRICE             TOTAL  DELIVERY DATE  IPI          BALANCE
+0008#STR0008#ALL# - By Supplier  
+0009#STR0009#ALL#CODE          DESCRIPTION                      GRP  UM      AMOUNT             PRICE             TOTAL  DELIVERY DATE   SUPPLIER IPI          BALANCE
+0010#STR0010#ALL# - By Product
+0011#STR0011#ALL#Supplier: 
+0012#STR0012#ALL#CANCELLED BY THE OPERATOR
+0013#STR0013#ALL#Blnce
+0014#STR0014#ALL#Vendor    
+0015#STR0015#ALL#Partnership contract
+0016#STR0016#ALL#Supplier total
+0017#STR0017#ALL#Product total

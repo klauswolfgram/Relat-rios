@@ -1,0 +1,60 @@
+0001#STR0001#ALL#Este programa emitirá la situación de clientes 
+0002#STR0002#ALL#refer. a la fecha base del sist.
+0003#STR0003#ALL#A Rayas
+0004#STR0004#ALL#Administrac.
+0005#STR0005#ALL#Situac. de clientes 
+0006#STR0006#ALL#Prf Número      Cuo Tip Valor Original Emisión    Vencto     Baja                                                C  O  B  R  O  S                                                                               
+0007#STR0007#ALL#Cartera
+0008#STR0008#ALL#Simple
+0009#STR0009#ALL#Descontada
+0010#STR0010#ALL#Garantizada
+0011#STR0011#ALL#Vinculada
+0012#STR0012#ALL#Abogado
+0013#STR0013#ALL#Judicial
+0014#STR0014#ALL#ANULADO POR EL OPERADOR
+0015#STR0015#ALL#CLIENTE : 
+0016#STR0016#ALL#Totales: 
+0017#STR0017#ALL#TOTAL GRAL: 
+0018#STR0018#ALL#Garantía Desc
+0019#STR0019#ALL#                                                                           Descuentos Rebajas             Inter      Multa Corr. Monet Val. Adicion.  Valor cobrado Cob.Anticip.  Saldo Actual Motivo  Situación Port.
+0020#STR0020#ALL#Por código
+0021#STR0021#ALL#Por Nomb
+0022#STR0022#ALL#Seleccionando registros..
+0023#STR0023#ALL#Factur.
+0024#STR0024#ALL#¿Considera Fch. Base?
+0025#STR0025#ALL#Si
+0026#STR0026#ALL#No
+0027#STR0027#ALL#TOTAL POR TIPO: 
+0028#STR0028#ALL#¿Imprime Nombre     ?
+0029#STR0029#ALL#Razón Social
+0030#STR0030#ALL#Nomb. Resum.
+0031#STR0031#ALL#Protesto
+0032#STR0032#ALL#Acuer.
+0033#STR0033#ALL#Notaría
+0034#STR0034#ALL#Datos del Clien.
+0035#STR0035#ALL#Cliente
+0036#STR0036#ALL#Títulos
+0037#STR0037#ALL#Prf
+0038#STR0038#ALL#Número
+0039#STR0039#ALL#PC
+0040#STR0040#ALL#Valor original
+0041#STR0041#ALL#Emisión
+0042#STR0042#ALL#Vencto
+0043#STR0043#ALL#Baja
+0044#STR0044#ALL#Desctos. 
+0045#STR0045#ALL#Rebajas
+0046#STR0046#ALL#Int.
+0047#STR0047#ALL#Multa
+0048#STR0048#ALL#Corr. Monet.
+0049#STR0049#ALL#Valor cobrado
+0050#STR0050#ALL#Cob. Anticip.
+0051#STR0051#ALL#Sal. Actual
+0052#STR0052#ALL#Motivo
+0053#STR0053#ALL#Situac.
+0054#STR0054#ALL#Port.
+0055#STR0055#ALL#Tot. 
+0056#STR0056#ALL#T O T A L   S U C U R S A L-> 
+0057#STR0057#ALL#Totles/ Sucur
+0058#STR0058#ALL#TOTAL SUCURSAL-> 	
+0059#STR0059#ALL#¡Opción válida solo para entorno TOP!
+0060#STR0060#ALL#Valor adicional

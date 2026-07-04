@@ -1,0 +1,63 @@
+0001#STR0001#ALL#Checklist APQP A7
+0002#STR0002#ALL#Generating View, Please Wait...
+0003#STR0003#ALL# Was the process FMEA prepared using the
+0004#STR0004#ALL# Chrysler, Ford and GM policies ?
+0005#STR0005#ALL# Were all the operations that affect the adjustment, function
+0006#STR0006#ALL# durability, governmental and security standards
+0007#STR0007#ALL# identified and listed in sequence ?
+0008#STR0008#ALL# Were the FMEA´S of similar parts considered ?
+0009#STR0009#ALL# Were the campaign and warranty historical data
+0010#STR0010#ALL# analysed with criticism ?
+0011#STR0011#ALL# Were proper corrective actions planned or
+0012#STR0012#ALL# taken for high risk priority numbers ?
+0013#STR0013#ALL# taken for high severity numbers ?
+0014#STR0014#ALL# Were the risk priority numbers reviewed
+0015#STR0015#ALL# when the corrective action was completed ?
+0016#STR0016#ALL# Were the high severity numbers reviewed when
+0017#STR0017#ALL# some project change was completed ?
+0018#STR0018#ALL# Do the effects consider the customer in relation to
+0019#STR0019#ALL# subsequent operation, assembly and product ?
+0020#STR0020#ALL# Was the warranty information used as an aid in
+0021#STR0021#ALL# developing the Process FMEA ?
+0022#STR0022#ALL# Were customer´s plant problems used as an
+0023#STR0023#ALL# aid in developing the Process FMEA ?
+0024#STR0024#ALL# Were the causes described as something that
+0025#STR0025#ALL# can be resolved or controlled ?
+0026#STR0026#ALL# Were actions taken to control the cause before
+0027#STR0027#ALL# the subsequent operation where the detection
+0028#STR0028#ALL# is a predominant factor ?
+0029#STR0029#ALL# A-7 PROCESS FMEA CHECKLIST
+0030#STR0030#ALL#Customer´s or Internal Part Number
+0031#STR0031#ALL#Question
+0032#STR0032#ALL#Yes
+0033#STR0033#ALL#No
+0034#STR0034#ALL#Comments / Required Action
+0035#STR0035#ALL#Responsible Person
+0036#STR0036#ALL#Estimated Date
+0037#STR0037#ALL#Review Date
+0038#STR0038#ALL#Page 
+0039#STR0039#ALL# from 
+0040#STR0040#ALL#next operation?
+0041#STR0041#ALL#critically analyzed and used in analysis?
+0042#STR0042#ALL#Were problems of customer's blueprint used  
+0043#STR0043#ALL#to help the PFMEA development?
+0044#STR0044#ALL#N/a
+0045#STR0045#ALL#Was process FMEA prepared by a 
+0046#STR0046#ALL#multifunctional team? Were all specific customer requirements 
+0047#STR0047#ALL#considered, including FMEA methodologies?
+0048#STR0048#ALL#Were all operations considered, including  
+0049#STR0049#ALL#subcontracted operations or outsourced processes and services?
+0050#STR0050#ALL#Were appropriate controls applied to  
+0051#STR0051#ALL#comprise all failure modes identified?
+0052#STR0052#ALL#Were severity, detection and occurrence critically 
+0053#STR0053#ALL#analyzed? After corrective action was finished.
+0054#STR0054#ALL#Were provisions made to control the cause of 
+0055#STR0055#ALL#failure mode before the subsequent operation or 
+0056#STR0056#ALL#Was the process FMEA prepared by a multifunctional team? Did  
+0057#STR0057#ALL#the team consider all customer specific requirements  
+0058#STR0058#ALL#including FMEA methodologies of the updated FMEA edition?
+0059#STR0059#ALL#Were all operations that affect customer requirements,   
+0060#STR0060#ALL#including adjustment, function, durability, government and security 
+0061#STR0061#ALL#rules identified and listed in sequence?
+0062#STR0062#ALL#Were FMEAs of similar parts/processes  
+0063#STR0063#ALL#considered?

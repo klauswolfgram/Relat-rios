@@ -1,0 +1,34 @@
+0001#STR0001#ALL#Este programa ira imprimir o Comparativo de Contas Contabeis.
+0002#STR0002#ALL#Os valores sao ref. a movimentacao do periodo solicitado. 
+0003#STR0003#ALL#Comparativo de Contas Contabeis
+0004#STR0004#ALL#|CODIGO            |DESCRICAO          |  PERIODO 01  |  PERIODO 02  |  PERIODO 03  |  PERIODO 04  |  PERIODO 05  |  PERIODO 06  |  PERIODO 07  |  PERIODO 08  |  PERIODO 09  |  PERIODO 10  |  PERIODO 11  |  PERIODO 12  |
+0005#STR0005#ALL#COMPARATIVO ANALITICO DE 
+0006#STR0006#ALL# ATE 
+0007#STR0007#ALL# EM 
+0008#STR0008#ALL#COMPARATIVO SINTETICO DE 
+0009#STR0009#ALL# ATENCAO 
+0010#STR0010#ALL#***** CANCELADO PELO OPERADOR *****
+0011#STR0011#ALL#T O T A I S  D O  P E R I O D O: 
+0012#STR0012#ALL#COMPARATIVO DE 
+0013#STR0013#ALL#Zebrado
+0014#STR0014#ALL#Administracao
+0015#STR0015#ALL#Criando Arquivo Temporario...
+0016#STR0016#ALL#T O T A I S  D O  G R U P O(
+0017#STR0017#ALL#Caso nao atualize os saldos  basicos  na
+0018#STR0018#ALL#digitacao dos lancamentos (MV_ATUSAL='N'),
+0019#STR0019#ALL#rodar a rotina de atualizacao de saldos 
+0020#STR0020#ALL#para todos os periodos solicitados nesse 
+0021#STR0021#ALL#relatorio.
+0022#STR0022#ALL#Por favor, verifique se o calend.contabil e a amarracao moeda/calendario 
+0023#STR0023#ALL#foram cadastrados corretamente...
+0024#STR0024#ALL#TOTAL DO PERIODO: 
+0025#STR0025#ALL#TOTAL DO GRUPO (
+0026#STR0026#ALL#ACUMULADO
+0027#STR0027#ALL#  ATE
+0028#STR0028#ALL# TOTAL PERIODO 
+0029#STR0029#ALL#Conta Contábil
+0030#STR0030#ALL#CODIGO
+0031#STR0031#ALL#DESCRICAO
+0032#STR0032#ALL#Atenção, Data L/P deve ser maior que a data inicial do relatório
+0033#STR0033#ALL#Por favor, verifique o periodo informado.
+0034#STR0034#ALL#Maximo de 12 meses permitido.

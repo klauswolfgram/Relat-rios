@@ -1,0 +1,26 @@
+0001#STR0001#ALL#Freight Daily Analysis  
+0002#STR0002#ALL#This program will issue the freight daily analysis 
+0003#STR0003#ALL#according to the parameters selected by the user.  
+0004#STR0004#ALL#Z.form
+0005#STR0005#ALL#Management   
+0006#STR0006#ALL#CANCELED BY OPERATOR  
+0007#STR0007#ALL#TARGET   MANIF.    -------- WGHT --------   -------------- FREIGHT PD --------------   -------------- FRGT. TO PAY -------------
+0008#STR0008#ALL#BRANCH    NUMB.      PAID  TO PAY   TOTAL           FREIGHT     TAX            TOTAL          FREIGHT      TAX             TOTAL
+0009#STR0009#ALL#TARGET TOTAL 
+0010#STR0010#ALL#GRAND TOTAL
+0011#STR0011#ALL#Daily analysis of freight
+0012#STR0012#ALL#This program prints the daily analysis of freight according to the parameters selected by the user
+0013#STR0013#ALL#Manif.Bra. + Manifest
+0014#STR0014#ALL#Destin.Bra.
+0015#STR0015#ALL#Weight Paid
+0016#STR0016#ALL#Weight Payable
+0017#STR0017#ALL#Total Weight
+0018#STR0018#ALL#Freight Paid
+0019#STR0019#ALL#Tax Paid
+0020#STR0020#ALL#Total Paid
+0021#STR0021#ALL#Freight Payable
+0022#STR0022#ALL#Tax Payable
+0023#STR0023#ALL#Total Payable
+0024#STR0024#ALL#Manifest Branch
+0025#STR0025#ALL#Manifest
+0026#STR0026#ALL#Description

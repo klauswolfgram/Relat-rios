@@ -1,0 +1,15 @@
+0001#STR0001#ALL#Prints the Statement of Amounts Realizable and Amount Realized in a specific    
+0002#STR0002#ALL#Month, per Class                                                     
+0003#STR0003#ALL#Amounts Realized in Month 
+0004#STR0004#ALL#Z.Form 
+0005#STR0005#ALL#Administrator 
+0006#STR0006#ALL#Code  
+0007#STR0007#ALL#Descript.
+0008#STR0008#ALL#Amount Realized in Month  :- 
+0009#STR0009#ALL# -AccountsReceivable-
+0010#STR0010#ALL# -Acconts Payable -
+0011#STR0011#ALL# - Both  -
+0012#STR0012#ALL# Gross 
+0013#STR0013#ALL# Net     
+0014#STR0014#ALL# DAY |  Total Amount  |    Realizable  |   Realized     |    %   |DAY |  Total Amount   |   Realizable   |   Realized     |   %    |
+0015#STR0015#ALL#| - * * * * * * T O T A L * * * * * * - |

@@ -1,0 +1,22 @@
+0001#STR0001#ALL#Este informe imprimira un listado de los proyectos, su estructura y el cronograma financiero previsto para su ejecucion.
+0002#STR0002#ALL#Cronograma financiero previsto
+0003#STR0003#ALL#A rayas
+0004#STR0004#ALL#Administracion
+0005#STR0005#ALL#TP. Codigo                                                                      UN       CANT. PREV    DURAC.  INI. PRV. FIN PRV.  
+0006#STR0006#ALL#Proyecto: 
+0007#STR0007#ALL#Cliente : 
+0008#STR0008#ALL#Version:
+0009#STR0009#ALL#Fecha: 
+0010#STR0010#ALL#Tar.
+0011#STR0011#ALL#FECHA                    COSTO PRV.      %PORC.PRY.
+0012#STR0012#ALL#Este informe imprimira un listado de los proyectos, su estructura y el cronograma financiero realizado para su ejecucion.
+0013#STR0013#ALL#Cronograma financiero realizado
+0014#STR0014#ALL#                  EDT/TAREA                       |
+0015#STR0015#ALL#                                                  |       Valor        |%Porc.|       Valor        |%Porc.|       Valor        |%Porc.|       Valor        |%Porc.|       Valor        |%Porc.|       Valor        |%Porc.|
+0016#STR0016#ALL#Proy. 
+0017#STR0017#ALL#Tarea
+0018#STR0018#ALL#Valor
+0019#STR0019#ALL#Porc.
+0020#STR0020#ALL#%Porc.
+0021#STR0021#ALL#Periodo
+0022#STR0022#ALL#*** ANULADO POR EL USUARIO***

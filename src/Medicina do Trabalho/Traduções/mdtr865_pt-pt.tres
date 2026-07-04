@@ -1,0 +1,23 @@
+0002#STR0002#ALL#Conforme O Quadro Iii Da Nr4.
+0003#STR0003#ALL#Código de barras
+0004#STR0004#ALL#Administração
+0005#STR0005#ALL#Quadro De Acidentes Com Vitima
+0006#STR0006#ALL#Cancelado Pelo Operador
+0007#STR0007#ALL#|ACIDENTES C/VÍTIMA______________________________________________  PERÍODO DE
+0008#STR0008#ALL#|RESPONSÁVEL:________________________________________________                              ASS:____________________________________|
+0009#STR0009#ALL#|                  Setor                  | Número |Afastam.|Afastam.|  Sem   |  Índice  |  Dias/   |   Taxa   | Óbitos |  Índice  |
+0010#STR0010#ALL#|                                         |Absoluto|Menor ou| Maior  |Afastam.| Relactivo |  Homem   |    de    |        | de Aval. |
+0013#STR0013#ALL#Total Do Estabelecimento
+0014#STR0014#ALL#De data ?
+0015#STR0015#ALL#Até data?
+0016#STR0016#ALL#Não existem dados para apresentar.
+0017#STR0017#ALL#De cliente ?
+0019#STR0019#ALL#Até cliente ?
+0024#STR0024#ALL#Data do mapa do relatório de accidentes com vítimas.
+0027#STR0027#ALL#CONCELHO..: 
+0028#STR0028#ALL#|FREGUESIA 
+0030#STR0030#ALL#Dias úteis no ano ?
+0032#STR0032#ALL#Até Data ?
+0035#STR0035#ALL#Até Filial ?
+0036#STR0036#ALL#|                  Sector                  | Número |Afastam.|Afastam.|  Sem   |  Índice  |  Dias/   |   Taxa   | Óbitos |   Taxa   |
+0040#STR0040#ALL#ATÉ

@@ -1,0 +1,55 @@
+0001#STR0001#ALL#Filial  de?
+0002#STR0002#ALL#Filial até?
+0003#STR0003#ALL#Entidade De?
+0004#STR0004#ALL#Loja De?
+0005#STR0005#ALL#Entidade Até?
+0006#STR0006#ALL#Loja Até?
+0007#STR0007#ALL#Safra De?
+0008#STR0008#ALL#Safra Até?
+0009#STR0009#ALL#Produto De?
+0010#STR0010#ALL#Produto Até?
+0011#STR0011#ALL#Quanto ao Saldo?
+0012#STR0012#ALL#Todos
+0013#STR0013#ALL#Com Sldo Físico
+0014#STR0014#ALL#Com Sldo Fiscal
+0015#STR0015#ALL#Sld Fiscal
+0016#STR0016#ALL#Dif Fiscal
+0017#STR0017#ALL#Sld Fisco
+0018#STR0018#ALL#Retencao
+0019#STR0019#ALL#Qtd Disponivel
+0020#STR0020#ALL#Relatorio de Saldos de Contrato de Terceiro
+0021#STR0021#ALL#Listagem de Saldos de Contrato de Terceiros
+0022#STR0022#ALL#Filial
+0023#STR0023#ALL#Contrato
+0024#STR0024#ALL#Safra
+0025#STR0025#ALL#Quant. Contrato
+0026#STR0026#ALL#Qtd Ent. Fiscal
+0027#STR0027#ALL#Qtd Sai Físcal
+0028#STR0028#ALL#Saldo Fiscal
+0029#STR0029#ALL#Diferen. Fiscal
+0030#STR0030#ALL#Qtd Ent. Fisico
+0031#STR0031#ALL#Qtd Sai. Fisico
+0032#STR0032#ALL#Saldo Físico
+0033#STR0033#ALL#Qtd Reservado
+0034#STR0034#ALL#Qtd Queb. Tec.
+0035#STR0035#ALL#Qtd Retenção
+0036#STR0036#ALL#Entrada fiscal
+0037#STR0037#ALL#Entidade
+0038#STR0038#ALL#Loja
+0039#STR0039#ALL#Produto
+0040#STR0040#ALL#Total geral por produto
+0041#STR0041#ALL#Inscrição Estadual
+0042#STR0042#ALL#Entrega Fiscal
+0043#STR0043#ALL#Entrada Fisico
+0044#STR0044#ALL#Entrega Fisico
+0045#STR0045#ALL#Devol. Fiscal
+0046#STR0046#ALL#Devol. Fisico
+0047#STR0047#ALL#Qtd Fixa
+0048#STR0048#ALL#Qtd a Fixar
+0049#STR0049#ALL#Saída Fiscal
+0050#STR0050#ALL#Saída Fisico
+0051#STR0051#ALL#Qtd Sai Fiscal
+0052#STR0052#ALL#Qtd Ent. Fiscal
+0053#STR0053#ALL#Qtd Ent. Fisico
+0054#STR0054#ALL#Qtd Sai. Fisico
+0055#STR0055#ALL#Total da entidade

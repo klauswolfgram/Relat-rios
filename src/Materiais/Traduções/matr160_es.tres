@@ -1,0 +1,15 @@
+0001#STR0001#ALL#Emite el informe de cotizaciones pendientes por orden
+0002#STR0002#ALL#de numero, producto y valor del menor al mayor.
+0003#STR0003#ALL#Cotizaciones en Abierto
+0004#STR0004#ALL#A Rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#Detalle de las cotizaciones en abierto
+0007#STR0007#ALL#    Produc.     Provee LJ   Valor Presente  PE Desvio| Provee LJ   Valor Presente  PE Desvio| Provee LJ   Valor Presente  PE Desvio
+0008#STR0008#ALL#Seleccionando Registros...
+0009#STR0009#ALL#Cotizacion Num. 
+0010#STR0010#ALL# Vencimiento   
+0011#STR0011#ALL#    No Cotizad
+0012#STR0012#ALL#    Producto     Prov.                TDA  Valor Presente   PE Desvio | Prov.                TDA  Valor Presente   PE Desvio | Prov.                TDA  Valor Presente   PE Desvio |                 
+0013#STR0013#ALL#Valor Presente
+0014#STR0014#ALL#Cotiz.
+0015#STR0015#ALL#Producto y Proveedor de Cotiz.

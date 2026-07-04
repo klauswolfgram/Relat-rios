@@ -1,0 +1,19 @@
+0001#STR0001#ALL#Pesquisa Analítica
+0002#STR0002#ALL#Sera impresso de acordo com os parâmetro s solicitados pelo utilizador.
+0003#STR0003#ALL#A pesquisa deverá estar previamente calculada 
+0004#STR0004#ALL#Registo
+0007#STR0007#ALL#Código de barras
+0008#STR0008#ALL#Administração
+0009#STR0009#ALL#PESQUISA ANALÍTICA 
+0010#STR0010#ALL#Atenção
+0011#STR0011#ALL#Seleccione a pesquisa analítica desejada para impressão nos parâmetros
+0013#STR0013#ALL#Não foi encontrado o ficheiro de cálculo da pesquisa analítica solicitada
+0014#STR0014#ALL#Registo : 
+0018#STR0018#ALL#    variação mensal (%)
+0019#STR0019#ALL#    (%) em relação ao total
+0021#STR0021#ALL#Centro de custo : 
+0024#STR0024#ALL#Total do centro de custo : 
+0025#STR0025#ALL#A seleccionar registos
+0026#STR0026#ALL#  1-total de remunerações
+0027#STR0027#ALL#  2-total de descontos
+0028#STR0028#ALL#  3-total líquido     

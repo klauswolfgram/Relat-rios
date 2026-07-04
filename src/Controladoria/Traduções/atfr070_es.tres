@@ -1,0 +1,64 @@
+0001#STR0001#ALL#Este programa emitirá la situación valorizada de
+0002#STR0002#ALL#bienes hasta en 5 (cinco) monedas.
+0003#STR0003#ALL#Situación valorizada de los bienes
+0004#STR0004#ALL#Sucursal       C. Costo             Cód. Base  Ítem Tp Descripción sintética               Tipo Depr.          Adquisic.   Fch.Baja   Cantidad    Placa  Ítem.Ctb  Cl.Valor.   
+0005#STR0005#ALL#Sucursal       Cuenta                Cód. Base  Ítem Tp Descripción sintética               Tipo Depr.          Adquisic.  Fch.Baja    Cantidad    Placa  Ítem.Ctb  Cl.Valor.   
+0006#STR0006#ALL#      VAL AMPLIACIÓN     VALOR ORIGINAL    VALOR ACTUALIZADO DEPR EN EL MES DEPREC EN EL EJERC. DEPREC. ACUMULADA   CORR.MON. MES  CORR. MON.EJERC.  CORR. MONET. ACUM.  CORR.DEPR. MES  CORR.DEPR.EJERC.  CORR. DEPR.  ACUM.
+0007#STR0007#ALL#Cuenta  : 
+0008#STR0008#ALL#C.Costo : 
+0009#STR0009#ALL#ANULADO POR EL OPERADOR
+0010#STR0010#ALL#TOTAL 
+0011#STR0011#ALL#CANTIDAD  
+0012#STR0012#ALL#* *   T O T A L   G E N E R A L  * *
+0013#STR0013#ALL#CANTIDAD  
+0014#STR0014#ALL#A Rayas
+0015#STR0015#ALL#Administrac. 
+0016#STR0016#ALL#Cuenta
+0017#STR0017#ALL#C. Costo
+0018#STR0018#ALL# por 
+0019#STR0019#ALL# - TIPO 
+0020#STR0020#ALL#Para su utilización, crear índice SN4 - Clave N4_FILIAL + N4_CBASE + N4_ITEM + N4_TIPO + N4_OCORR + DTOS(N4_DATA).
+0021#STR0021#ALL#Ítem contable
+0022#STR0022#ALL#Clase de valor
+0023#STR0023#ALL#Sucursal       Cuenta               Cód. Base  Ítem Tp Descripción sintética               Tipo Depr.          Adquisic.  Fch.Baja    Cantidad    Placa  C.Costo   Cl.Valor.   
+0024#STR0024#ALL#Sucursal       Cuenta               Cód. Base  Ítem Tp Descripción sintética               Tipo Depr.          Adquisic.  Fch.Baja    Cantidad    Placa  Ítem Ctb  C.Costo     
+0025#STR0025#ALL#Valor original
+0026#STR0026#ALL#Valor Actualiz. 
+0027#STR0027#ALL#Deprec. del Mes
+0028#STR0028#ALL#Deprec. del Ejerc.
+0029#STR0029#ALL#Deprec. Acumulada
+0030#STR0030#ALL#Valores de total general de baja 
+0031#STR0031#ALL#* * *  B  A  J  A  S* * *
+0032#STR0032#ALL#* * *   T O T A L   * * *
+0033#STR0033#ALL#BAJAS 
+0034#STR0034#ALL#TOTAL
+0035#STR0035#ALL#Ente contable
+0036#STR0036#ALL#Datos del ente
+0037#STR0037#ALL#Valores
+0038#STR0038#ALL#Símbolo moneda
+0039#STR0039#ALL#Texto subtotal
+0040#STR0040#ALL#Valores subtotal
+0041#STR0041#ALL#Texto baja
+0042#STR0042#ALL#Ente
+0043#STR0043#ALL#Cantidad
+0044#STR0044#ALL#Baja
+0045#STR0045#ALL#Valores de baja
+0046#STR0046#ALL#Texto total de bajas
+0047#STR0047#ALL#Valores del total de bajas
+0048#STR0048#ALL#Texto total general
+0049#STR0049#ALL#Valores del total general
+0050#STR0050#ALL#Texto total general de baja
+0051#STR0051#ALL#Total general de baja
+0052#STR0052#ALL#Texto total + Baja
+0053#STR0053#ALL#Total + Baja
+0054#STR0054#ALL#Valores del total + Baja
+0055#STR0055#ALL#Total de bajas
+0056#STR0056#ALL#Total general
+0057#STR0057#ALL#Sucursal:
+0058#STR0058#ALL#Val Ampliac.1
+0059#STR0059#ALL#Cód Cuenta
+0060#STR0060#ALL#Desc Moneda 1
+0061#STR0061#ALL#Ítem Contab
+0062#STR0062#ALL#Cód Cl Valor
+0063#STR0063#ALL#Código ente
+0064#STR0064#ALL#Una de las sucursales seleccionadas está con la fecha de la última depreciación divergente.

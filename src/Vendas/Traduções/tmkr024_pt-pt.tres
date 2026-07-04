@@ -1,0 +1,28 @@
+0002#STR0002#ALL#Este Programa Irá Emitir Uma Relação Das Ligações Realizadas Pelo Operador No Atendimento Televendas.
+0004#STR0004#ALL#Obs: Serão Considerados Apenas Os Orçamentos E Pedidos.
+0005#STR0005#ALL#Código de barras
+0007#STR0007#ALL#Cancelado Pelo Operador
+0008#STR0008#ALL#Item Artigo         Descricão                      St   Qtdade.    Vl. Unitário        Vl. Item  %Desc    Vl. Desconto  %acrés   Vl. Acréscimo Tes Cfop      Tabela      Base Icms Lp Um Entrega    Lote       Sub-lt Validade
+0009#STR0009#ALL#Não existem dados a serem impressos para este relatório com os parâmetros escolhidos
+0010#STR0010#ALL#Total
+0011#STR0011#ALL#Total de atendimentos estimados para o período de 
+0014#STR0014#ALL#Operador                                          Atendimentos        Orçamentos           Valor           Facturados            Valor
+0015#STR0015#ALL#Artigo Facturado                                    Quantidade                 %           Valor
+0016#STR0016#ALL#Media                                             Atendimentos                 %
+0017#STR0017#ALL#Artigo Facturado                                  Media                                                   Quantidade            Valor
+0018#STR0018#ALL#Campanha                                          Atendimentos                 %
+0019#STR0019#ALL#Artigo Facturado                                  Campanha                                                Quantidade            Valor
+0020#STR0020#ALL#Data      Operador                                           Atendimentos        Orçamentos           Valor           Facturados            Valor
+0021#STR0021#ALL#Data      Media                                              Atendimentos        Orçamentos           Valor           Facturados            Valor
+0022#STR0022#ALL#Data      Campanha                                           Atendimentos        Orçamentos           Valor           Facturados            Valor
+0025#STR0025#ALL#Total De Atendimentos
+0031#STR0031#ALL#Facturados
+0032#STR0032#ALL#Artigo Facturado
+0033#STR0033#ALL#Media
+0038#STR0038#ALL#Itens Do Orçamento Televendas
+0041#STR0041#ALL#Artigos orçamento
+0042#STR0042#ALL#Media
+0043#STR0043#ALL#Valores média x artigo
+0046#STR0046#ALL#Data X Operador
+0047#STR0047#ALL#Data X Média
+0048#STR0048#ALL#Data X Campanha

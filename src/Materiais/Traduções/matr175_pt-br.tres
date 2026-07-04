@@ -1,0 +1,46 @@
+0001#STR0001#ALL#Emite um relacao dos produtos Liberados/Rejeitados pelo Controle de
+0002#STR0002#ALL#qualidade juntamente com a respectiva avaliacao.
+0003#STR0003#ALL# Por Numero    
+0004#STR0004#ALL# Por Produto        
+0005#STR0005#ALL#Relacao de Baixas do CQ
+0006#STR0006#ALL#Zebrado
+0007#STR0007#ALL#Administracao
+0008#STR0008#ALL#REGISTRO(S)
+0009#STR0009#ALL#NUMERO  CODIGO          DESCRICAO                      UM  LC ORIGEM  DOCUMENTO     ORIGEM    CODIGO      RAZAO SOCIAL
+0010#STR0010#ALL#DATA       TIPO              QUANTIDADE  USUARIO         AVALIACAO                  LC MOTIVO DA REJEICAO          LOTE      SUBLOTE
+0011#STR0011#ALL#CODIGO           DESCRICAO                       UM  ORIGEM
+0012#STR0012#ALL#NUMERO   DATA     TIPO             QUANTIDADE   USUARIO          AVALIACAO               DOCUMENTO     LC REJEICAO LOTE      SUBLOTE    CODIGO  RAZAO SOCIAL
+0013#STR0013#ALL#Selecionando Registros ...
+0014#STR0014#ALL#CANCELADO PELO OPERADOR
+0015#STR0015#ALL#Qtd. Original
+0016#STR0016#ALL#Liberado
+0017#STR0017#ALL#Rejeitado
+0018#STR0018#ALL#Est. Liber.
+0019#STR0019#ALL#Est. Rej.
+0020#STR0020#ALL#Saldo 
+0021#STR0021#ALL#[TIPO:
+0022#STR0022#ALL#/SEQ:
+0023#STR0023#ALL#NUMERO  CODIGO          DESCRICAO                      UM  LC ORIGEM  DOCUMENTO     ORIGEM    CODIGO                    RAZAO SOCIAL
+0024#STR0024#ALL#NUMERO   DATA     TIPO             QUANTIDADE   USUARIO          AVALIACAO               DOCUMENTO     LC REJEICAO LOTE      SUBLOTE    CODIGO                RAZAO SOCIAL
+0025#STR0025#ALL#NUMERO   DATA     TIPO             QUANTIDADE   USUARIO          AVALIACAO               DOCUMENTO     LC REJEICAO                      CODIGO  RAZAO SOCIAL
+0026#STR0026#ALL#NUMERO   DATA     TIPO             QUANTIDADE   USUARIO          AVALIACAO               DOCUMENTO     LC REJEICAO                      CODIGO                RAZAO SOCIAL
+0027#STR0027#ALL#DATA       TIPO              QUANTIDADE  USUARIO         AVALIACAO                  LC MOTIVO DA REJEICAO                           
+0028#STR0028#ALL#Dev. Liber.
+0029#STR0029#ALL#Dev. Rej.
+0030#STR0030#ALL#Desp. Agreg.
+0031#STR0031#ALL#Est. Desp.
+0032#STR0032#ALL#Tipo
+0033#STR0033#ALL#Quantidade
+0034#STR0034#ALL#Avaliacao
+0035#STR0035#ALL#Mot.
+0036#STR0036#ALL#Rejeicao
+0037#STR0037#ALL#Movimentações de CQ (Produto)
+0038#STR0038#ALL#Movimentações de CQ (Lancamentos)
+0039#STR0039#ALL#NUMERO  CODIGO          DESCRICAO                      UM  LC ORIGEM  DOCUMENTO              ORIGEM    CODIGO                    RAZAO SOCIAL
+0040#STR0040#ALL#NUMERO  CODIGO          DESCRICAO                      UM  LC ORIGEM  DOCUMENTO              ORIGEM    CODIGO      RAZAO SOCIAL
+0041#STR0041#ALL#DATA       TIPO              QUANTIDADE  USUARIO         AVALIACAO                           LC MOTIVO DA REJEICAO          LOTE      SUBLOTE
+0042#STR0042#ALL#DATA       TIPO              QUANTIDADE  USUARIO         AVALIACAO                           LC MOTIVO DA REJEICAO                           
+0043#STR0043#ALL#NUMERO   DATA     TIPO             QUANTIDADE   USUARIO          AVALIACAO               DOCUMENTO              LC REJEICAO LOTE      SUBLOTE    CODIGO                RAZAO SOCIAL
+0044#STR0044#ALL#NUMERO   DATA     TIPO             QUANTIDADE   USUARIO          AVALIACAO               DOCUMENTO              LC REJEICAO                      CODIGO                RAZAO SOCIAL
+0045#STR0045#ALL#NUMERO   DATA     TIPO             QUANTIDADE   USUARIO          AVALIACAO               DOCUMENTO              LC REJEICAO LOTE      SUBLOTE    CODIGO  RAZAO SOCIAL
+0046#STR0046#ALL#NUMERO   DATA     TIPO             QUANTIDADE   USUARIO          AVALIACAO               DOCUMENTO              LC REJEICAO                      CODIGO  RAZAO SOCIAL

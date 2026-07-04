@@ -1,0 +1,16 @@
+0001#STR0001#ALL#List of items for physical count  
+0002#STR0002#ALL#Locat.     Item description              Grp Item code          AvailRes.  Qty
+0003#STR0003#ALL#Physical stock 
+0004#STR0004#ALL#Pysical count   
+0005#STR0005#ALL# to 
+0006#STR0006#ALL#Generating file...
+0007#STR0007#ALL#Lost Sales Control
+0008#STR0008#ALL#Section 1
+0009#STR0009#ALL#Location
+0010#STR0010#ALL#Group
+0011#STR0011#ALL#Item Code
+0012#STR0012#ALL#Description
+0013#STR0013#ALL#Avail.Qty.
+0014#STR0014#ALL#Res.Qty.
+0015#STR0015#ALL#Qty
+0016#STR0016#ALL#This program prints the items for physical counting

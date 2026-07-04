@@ -1,0 +1,45 @@
+0001#STR0001#ALL#Índices FAP (Fator Acidentário de Prevenção)
+0002#STR0002#ALL#Gráfico
+0003#STR0003#ALL#Imprimir
+0004#STR0004#ALL#Ano
+0005#STR0005#ALL#Período
+0006#STR0006#ALL#Frequência
+0007#STR0007#ALL#Var.
+0008#STR0008#ALL#Gravidade
+0009#STR0009#ALL#Custo
+0010#STR0010#ALL#Rotatividade
+0011#STR0011#ALL#O cálculo do FAP teve início em 2009, mesmo assim, deseja visualizar as informações do ano informado?
+0012#STR0012#ALL#Ano Inválido
+0013#STR0013#ALL#Não existem informações suficientes para calcular o FAP do ano informado, pois devem conter informações dos dois anos anteriores.
+0014#STR0014#ALL# a 
+0015#STR0015#ALL#De Ano ou Até Ano inválido.
+0016#STR0016#ALL#Informar o custo dos benefícios por afastamento cobertos pela Previdência (Benefícios) e
+0017#STR0017#ALL#informar o valor total de remuneração paga pelo estabelecimento aos segurados (Remuneração).
+0018#STR0018#ALL#Ano
+0019#STR0019#ALL#Período
+0020#STR0020#ALL#Benefícios (R$)
+0021#STR0021#ALL#Remuneração (R$)
+0022#STR0022#ALL#Custo (R$)
+0023#STR0023#ALL#Indices FAP
+0024#STR0024#ALL#De Ano ?
+0025#STR0025#ALL#Até Ano ?
+0026#STR0026#ALL#Cacular Indíce de Custo ?
+0027#STR0027#ALL#Sim
+0028#STR0028#ALL#Não
+0029#STR0029#ALL#Custos Part.1
+0030#STR0030#ALL#Custos Part.2
+0031#STR0031#ALL#Custos Part.3
+0032#STR0032#ALL#FAP:
+0033#STR0033#ALL#Período:
+0034#STR0034#ALL#Nº Acidentes com CAT / Benefícios sem CAT:
+0035#STR0035#ALL#Nº Médio de vínculos (Funcion. por mês):
+0036#STR0036#ALL#Nº Benefícios
+0037#STR0037#ALL#Nº Admissões
+0038#STR0038#ALL#Nº Rescisões
+0039#STR0039#ALL#Nº Vínculos no início de
+0040#STR0040#ALL#Valor pago em benefícios:
+0041#STR0041#ALL#Valor da remuneração dos funcionários:
+0042#STR0042#ALL#Determina o ano incial.
+0043#STR0043#ALL#Determina o ano final.
+0044#STR0044#ALL#Determina se será calculado o Indice pelo Custo.
+0045#STR0045#ALL#O dicionário de dados está desatualizado, favor aplicar a atualização contida no pacote da issue DNG-1847

@@ -1,0 +1,45 @@
+0001#STR0001#ALL#This program will print the report according to    
+0002#STR0002#ALL#the parameters entered by the user.                 
+0003#STR0003#EUA#Report of Products by Lay-Away
+0003#STR0003#MEX#Report of Products per Layways
+0003#STR0003#POR#Products report per Lay-Away
+0004#STR0004#ALL#Lay-Away
+0005#STR0005#ALL#Customer
+0006#STR0006#ALL#Issue Date
+0007#STR0007#ALL#Delivery Date
+0008#STR0008#ALL#Movement Date
+0009#STR0009#ALL#Z. Form
+0010#STR0010#ALL#Management
+0011#STR0011#ALL#LAY-AWAY  CUSTOMER                                  ISSUE      DELIVERY   STATUS                VALUE                    BALAN.
+0012#STR0012#ALL#PRODUCT          DESCRIPT.                                QUANTITY                 UNIT VAL.            TOTAL VAL.
+0013#STR0013#ALL#*** CANCELLED BY THE OPERATOR**
+0014#STR0014#ALL#CUSTOMER TOTAL 
+0015#STR0015#ALL#ISSUE DATE TOTAL 
+0016#STR0016#ALL#DELIVERY DATE TOTAL 
+0017#STR0017#ALL#MOVEMENT DATE TOTAL 
+0018#STR0018#ALL#Opened
+0019#STR0019#ALL#Finished 
+0020#STR0020#ALL#GRAND TOTAL => 
+0021#STR0021#ALL#Fill in the parameters 
+0022#STR0022#ALL#From Issue and To Issue  
+0023#STR0023#ALL#From Delivery and To Delivery 
+0024#STR0024#ALL#From Movement and To Movement 
+0025#STR0025#ALL#There are no records for this report - Check the parameters 
+0026#STR0026#ALL#Selecting files
+0027#STR0027#ALL#Canceled
+0028#STR0028#ALL#Expired
+0029#STR0029#ALL#Description not found
+0030#STR0030#EUA#Enter the movement by Lay-Away
+0030#STR0030#MEX#Enter Transactions per Layways
+0030#STR0030#POR#Enter the movements by Lay-Away
+0031#STR0031#EUA#Lay-Away Code
+0031#STR0031#MEX#Layaways Code
+0031#STR0031#POR#Lay-Away Code
+0032#STR0032#ALL#Total
+0033#STR0033#ALL#Balance
+0034#STR0034#ALL#Movement of Section Control
+0035#STR0035#ALL#Product
+0036#STR0036#ALL#Description
+0037#STR0037#ALL#Customer Total
+0038#STR0038#ALL#Total Balance
+0039#STR0039#ALL#Total Quantity

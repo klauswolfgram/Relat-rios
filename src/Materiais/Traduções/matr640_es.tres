@@ -1,0 +1,37 @@
+0001#STR0001#ALL#Detalle de Titulos
+0002#STR0002#ALL#Este programa emite el detalle de los titulos
+0003#STR0003#ALL#emitidos. Puede ser emitida ordenada por Fecha+Numero, 
+0004#STR0004#ALL#por Vendedor.
+0005#STR0005#ALL#Numero
+0006#STR0006#ALL#Emision
+0007#STR0007#ALL#Vencimiento
+0008#STR0008#ALL#Vendedor
+0009#STR0009#ALL#Cliente
+0010#STR0012#ALL#DETALLE DE TITULOS EMITIDOS    - 
+0011#STR0013#ALL#PRF NUMERO       P CODIGO TD RAZON SOCIAL                      EMISION     VENCTO                 VALOR   SUPERV. VENDEDOR    PEDIDO
+0012#STR0014#ALL#                                                                                                  TOTAL
+0013#STR0015#ALL#ANULADO POR EL OPERADOR
+0014#STR0016#ALL#Total del Vendedor  ==> 
+0015#STR0017#ALL#Total de  Emitidos en ==> 
+0016#STR0018#ALL#Total de  Vencidos en ==> 
+0017#STR0019#ALL#Total de Cliente ==> 
+0018#STR0020#ALL#TOTAL ---------------->
+0019#STR0021#ALL#PRF NUMERO       P CODIGO              TIENDA RAZON SOCIAL             EMISION     VENCTO                VALOR SUPERV. VEND.  PEDIDO
+0020#STR0022#ALL#                                                                                                         TOTAL
+0021#STR0023#ALL#Total Neto
+0022#STR0024#ALL#TOTAL NETO
+0023#STR0025#ALL#Lista de Titulos
+0024#STR0026#ALL#Este programa emitira lista con los titulos
+0025#STR0027#ALL#emitidos. Se podra emitir por Orden de Titulo, 
+0026#STR0028#ALL#Emision, Vencimiento, Vendedor o Cliente.
+0027#STR0029#ALL#Numero
+0028#STR0030#ALL#Emision
+0029#STR0031#ALL#Vencimiento
+0030#STR0032#ALL#Vendedor
+0031#STR0033#ALL#Cliente
+0032#STR0034#ALL#Total de los Emitidos en=>
+0033#STR0035#ALL#Total de Vencidos en ==> 
+0034#STR0036#ALL#Total del Cliente ==> 
+0035#STR0037#ALL#Total Neto
+0036#STR0038#ALL#Total del Vendedor ==> 
+0037#STR0039#ALL#Fact Cred 

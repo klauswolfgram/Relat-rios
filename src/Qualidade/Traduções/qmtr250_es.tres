@@ -1,0 +1,41 @@
+0001#STR0001#ALL#Se imprimiran las etiquetas para instrumentos.
+0002#STR0002#ALL# 
+0003#STR0003#ALL#Etiqueta para instrumentos
+0004#STR0004#ALL#A Rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#Seleccionando registros...
+0007#STR0007#ALL#ANULADO POR EL OPERADOR
+0008#STR0008#ALL#Si
+0009#STR0009#ALL#No
+0010#STR0010#ALL#COTEJADO:
+0011#STR0011#ALL#PROX.COT:
+0012#STR0012#ALL#Ass.
+0013#STR0013#ALL#¿Instr. Inicial    ?
+0014#STR0014#ALL#¿Instr. Final      ?
+0015#STR0015#ALL#¿Periodo Inicial   ?
+0016#STR0016#ALL#¿Periodo Final     ?
+0017#STR0017#ALL#¿Depto. Inicial    ?
+0018#STR0018#ALL#¿Depto. Final      ?
+0019#STR0019#ALL#¿Organo Calibrador ?
+0020#STR0020#ALL#¿Org.Clb.Int.Inicial?
+0021#STR0021#ALL#¿Org.Clb.Int.Final ?
+0022#STR0022#ALL#¿Org.Clb.Ext.Inicial?
+0023#STR0023#ALL#¿Org.Clb.Ext.Final ?
+0024#STR0024#ALL#¿Familia Inicial   ?
+0025#STR0025#ALL#¿Familia Final     ?
+0026#STR0026#ALL#¿Fabricante Inicial?
+0027#STR0027#ALL#¿Fabricante Final  ?
+0028#STR0028#ALL#¿De estatus        ?
+0029#STR0029#ALL#¿A estatus         ?
+0030#STR0030#ALL#¿Usuario Inicial   ?
+0031#STR0031#ALL#¿Usuario Final     ?
+0032#STR0032#ALL#¿Tipo de Etiqueta  ?
+0033#STR0033#ALL#Formato de Fechas :
+0034#STR0034#ALL#Todos
+0035#STR0035#ALL#Interno
+0036#STR0036#ALL#Externo
+0037#STR0037#ALL#Pequeña
+0038#STR0038#ALL#Grande
+0039#STR0039#ALL#dia/mes/año
+0040#STR0040#ALL#semana/año
+0041#STR0041#ALL#No se han encontrado datos que se ajusten a los criterios estipulados

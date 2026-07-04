@@ -1,0 +1,49 @@
+0001#STR0001#ALL#Listagem Dos Itens Inventariados
+0002#STR0002#ALL#Emite uma relação que mostra o saldo em stock e todas as
+0003#STR0003#ALL#Contagens efectuadas no inventário. baseado nestas duas in-
+0004#STR0004#ALL#Formações ele calcula a diferença encontrada.
+0005#STR0005#ALL# por código    
+0006#STR0006#ALL# por tipo      
+0007#STR0007#ALL# por grupo   
+0008#STR0008#ALL# por descrição 
+0009#STR0009#ALL# por armazém  
+0010#STR0010#ALL#Código de barras
+0011#STR0011#ALL#Administração
+0012#STR0012#ALL#Artigo(s)
+0013#STR0013#ALL#Código          descrição                      lote       sub    tp grp um amz documento         quantidade         qtd na data       _____________diferença______________
+0014#STR0014#ALL#                                                          Lote                                  Inventariada       Do Inventário         Quantidade              Valor
+0015#STR0015#ALL#A Seleccionar Registos...
+0016#STR0016#ALL#Cancelado Pelo Operador
+0017#STR0017#ALL#Total .................
+0018#STR0018#ALL#Total do tipo 
+0019#STR0019#ALL#Total do grupo 
+0020#STR0020#ALL#Total das diferenças em valor .............
+0021#STR0021#ALL#Código          descrição                      tp grp um amz documento         quantidade         qtd na data       _______________diferença_____________
+0022#STR0022#ALL#                                                                              Inventariada       Do Inventário         Quantidade              Valor
+0023#STR0023#ALL#Código          descrição                      lote       sub    endereço        número de série      tp grp um amz documento         quantidade         qtd na data       _____________diferença______________
+0024#STR0024#ALL#                                                          Lote                                                                      Inventariada        Do Inventário         Quantidade              Valor
+0025#STR0025#ALL#Código          descrição                      endereço        número de série      tp grp um amz documento         quantidade         qtd na data       _______________diferença_____________
+0026#STR0026#ALL#                                                                                                                   Inventariada       Do Inventário          Quantidade              Valor
+0027#STR0027#ALL#Código
+0028#STR0028#ALL#Descrição
+0029#STR0029#ALL#Lote
+0030#STR0030#ALL#Sub
+0031#STR0031#ALL#Localização
+0032#STR0032#ALL#Número De Série
+0033#STR0033#ALL#Tp.
+0034#STR0034#ALL#Grupo
+0035#STR0035#ALL#Um
+0036#STR0036#ALL#Amz
+0037#STR0037#ALL#Documento
+0038#STR0038#ALL#Quantidade
+0039#STR0039#ALL#Inventariada
+0040#STR0040#ALL#Qtd Na Data
+0041#STR0041#ALL#Do Inventário
+0042#STR0042#ALL#Diferença
+0043#STR0043#ALL#Quantidade
+0044#STR0044#ALL#Valor
+0046#STR0046#ALL#Subtotal do tipo : 
+0047#STR0047#ALL#Subtotal do grupo : 
+0048#STR0048#ALL#Subtotal do armazém : 
+0049#STR0049#ALL#T o t a l  g e r a l :
+0050#STR0050#ALL#Movimentos De Inventário

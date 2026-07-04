@@ -1,0 +1,27 @@
+0001#STR0001#ALL#DELIVERY OCCURRENCES BY BRANCH   
+0002#STR0002#ALL#Issue delivery occurrences by branch,   
+0003#STR0003#ALL#in accordance to the parameters entered
+0004#STR0004#ALL#Z.formo
+0005#STR0005#ALL#Management   
+0006#STR0006#ALL#Selecting records...     
+0007#STR0007#ALL#Selecting DT6 records...     
+0008#STR0008#ALL#Selecting DUA records...     
+0009#STR0009#ALL#BRANCH OCCURRENCE DESCRIPTION QTY QTY QTY PERC(%)
+0010#STR0010#ALL#PREV MONTH TOTAL
+0011#STR0011#ALL#Branch Total 
+0012#STR0012#ALL#Qtty issued month f/this branch and total empty/issued
+0013#STR0013#ALL#CANCELED BY OPERATOR
+0014#STR0014#ALL#100
+0015#STR0015#ALL#Gener
+0016#STR0016#ALL#Delivery occurrences per branch
+0017#STR0017#ALL#Issue delivery occurrences per branch
+0018#STR0018#ALL#Total Qty
+0019#STR0019#ALL#Month Qty
+0020#STR0020#ALL#Prev. Qty.
+0021#STR0021#ALL#Perc.(%)
+0022#STR0022#ALL#Occurrence
+0023#STR0023#ALL#Gross Total
+0024#STR0024#ALL#Branch
+0025#STR0025#ALL#Acronym
+0026#STR0026#ALL#Description
+0027#STR0027#ALL#Summary by Occurrence

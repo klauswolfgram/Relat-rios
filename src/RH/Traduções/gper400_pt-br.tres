@@ -1,0 +1,81 @@
+0001#STR0001#ALL#Centro de Custo 
+0002#STR0002#ALL#Matricula
+0003#STR0003#ALL#Relacao de Programacao de Ferias.
+0004#STR0004#ALL#Sera impresso de acordo com os parametros solicitados pelo
+0005#STR0005#ALL#usuario.
+0006#STR0006#ALL#Zebrado
+0007#STR0007#ALL#Administracao
+0008#STR0008#ALL#RELACAO DE PROGRAMACAO DE FERIAS
+0009#STR0009#ALL#                                                                            DATA       DTA.BASE       P E R I O D O       DT.LIMITE   DT.LIMITE      FERIAS    FALTAS    FERIAS    FALTAS   TOTAL   13o SAL.   ASSINATURA DO
+0010#STR0010#ALL#FIL   CENTRO CUSTO               MAT.     NOME DO FUNCIONARIO              ADMISSAO     FERIAS     A Q U I S I T I V O      IDEAL       MAXIMA      VENCIDAS  VENCIDAS  PROPORC.  PROPORC.  FERIAS   PERC.       FUNCIONARIO
+0011#STR0011#ALL#RELACAO DE PROGRAMACAO DE FERIAS 
+0012#STR0012#ALL#( C.CUSTO )
+0013#STR0013#ALL#( MATRICULA )
+0014#STR0014#ALL#  A  
+0015#STR0015#ALL#  ___/___/___    A  ___/___/___
+0016#STR0016#ALL#Nome
+0017#STR0017#ALL#C.Custo + Nome
+0018#STR0018#ALL#Filial + Dt.Base
+0019#STR0019#ALL#Filial + Dt.Inicio
+0020#STR0020#ALL#( NOME )
+0021#STR0021#ALL#( C.CUSTO + NOME )
+0022#STR0022#ALL#( DATA BASE )
+0023#STR0023#ALL#( DATA INICIO )
+0024#STR0024#ALL#Selecionando Registros...
+0025#STR0025#ALL#        1a -  P R O G R A M A C A O  D E  F E R I A S
+0026#STR0026#ALL#        2a -  P R O G R A M A C A O  D E  F E R I A S
+0027#STR0027#ALL#        3a -  P R O G R A M A C A O  D E  F E R I A S
+0028#STR0028#ALL#D.FER.
+0029#STR0029#ALL#D.AB.
+0030#STR0030#ALL#SIM
+0031#STR0031#ALL#Data            
+0032#STR0032#ALL#Admissão   
+0033#STR0033#ALL#Data Base 
+0034#STR0034#ALL#P e r i o d o 
+0035#STR0035#ALL#A q u i s i t i v o 
+0036#STR0036#ALL#Dt.Limite
+0037#STR0037#ALL#  Ideal   
+0038#STR0038#ALL# Maxima 
+0039#STR0039#ALL#    Ferias 
+0040#STR0040#ALL#Vencidas 
+0041#STR0041#ALL#Proporc. 
+0042#STR0042#ALL#  Faltas 
+0043#STR0043#ALL#    TOTAL
+0044#STR0044#ALL#13o Sal.
+0045#STR0045#ALL#Percent. 
+0046#STR0046#ALL#Assinatura do
+0047#STR0047#ALL#Funcionario 
+0048#STR0048#ALL#Assinatura 
+0049#STR0049#ALL#Cabeçalho de Férias
+0050#STR0050#ALL#Emite relação dos funcionários que possuem programação de férias previstas
+0051#STR0051#ALL#Relação de Programação de Recesso
+0052#STR0052#ALL#Emite relação dos estagiários que possuem programação de recesso previstas
+0053#STR0053#ALL#                                                                            DATA        DTA.BASE       P E R I O D O       DT.LIMITE   DT.LIMITE     RECESSO   RECESSO    TOTAL   ASSINATURA DO
+0054#STR0054#ALL#FIL   CENTRO CUSTO               MAT.     NOME                             ADMISSAO     RECESSO     D E   D I R E I T O      IDEAL       MAXIMA      VENCIDO   PROPORC.  RECESSO   ESTAGIARIO
+0055#STR0055#ALL#  Recesso 
+0056#STR0056#ALL#Vencidos
+0057#STR0057#ALL#         P R O G R A M A Ç Ã O  D E  R E C E S S O
+0058#STR0058#ALL#Estagiário
+0059#STR0059#ALL#D.REC.
+0060#STR0060#ALL#d e   D i r e i t o 
+0061#STR0061#ALL# De: ______/______/______  A:  ______/______/______
+0062#STR0062#ALL# FILIAL: 
+0063#STR0063#ALL# CCTO: 
+0064#STR0064#ALL# TOTAL 
+0065#STR0065#ALL#DATA INICIAL
+0066#STR0066#ALL#DATA FINAL
+0067#STR0067#ALL#QTDE REF
+0068#STR0068#ALL#VENC.
+0069#STR0069#ALL#PROP.
+0070#STR0070#ALL#PAGOS
+0071#STR0071#ALL#A configuração dos períodos esta incorreta. Verifique o cadastro de períodos.
+0072#STR0072#ALL#d e   R e c e s s o 
+0073#STR0073#ALL#Não há roteiro de férias cadastrado para os seguintes períodos: 
+0074#STR0074#ALL#Não há roteiro de férias cadastrado para as seguintes filiais e períodos: 
+0075#STR0075#ALL#Filial
+0076#STR0076#ALL#Período
+0077#STR0077#ALL#Log de períodos não cadastrados
+0078#STR0078#ALL#D.Abat.
+0079#STR0079#ALL#Antec.
+0080#STR0080#ALL#Matrículas que não possuem período programado de férias na data informada no parâmetro 10 - Programadas Até?
+0081#STR0081#ALL#Filial | Matrícula | Data

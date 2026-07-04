@@ -1,0 +1,44 @@
+0001#STR0001#ALL#Issue the summary of occupational diseases 
+0002#STR0002#ALL#according to the Chart IV of NR4.
+0003#STR0003#ALL#Z. Form
+0004#STR0004#ALL#Management
+0005#STR0005#ALL#Occupational Diseases
+0006#STR0006#ALL#CANCELLLED BY THE OPERATOR
+0007#STR0007#ALL#| WORK-RELATED DISEASES_______________________________________________________________________   MAP DATE: ___/___/___ |
+0008#STR0008#ALL#| RESPONSIBLE:__________________________________________________________    SIG:________________________________________ |
+0009#STR0009#ALL#|   Type of   | Absolut no.  |Disease carriers| Absolute number |  No. of  | No. of Employees     | No. of Workers       |
+0010#STR0010#ALL#|   disease   |   of cases   |   activity     | of cases (% of  |  deaths  |  transfered to       | definitely           |
+0011#STR0011#ALL#|             |              |    sector      | employess total)|          |    other sector      | disabled             |
+0012#STR0012#ALL#SUMMARY OF DISEASES FOUND PER SECTORS
+0013#STR0013#ALL#Disease.:
+0014#STR0014#ALL#Cost Center          Name                       Occurrences
+0015#STR0015#ALL#From Customer ?
+0016#STR0016#ALL#Unit
+0017#STR0017#ALL#To Customer ?
+0018#STR0018#ALL#Map date?
+0019#STR0019#ALL#Map date. This question can remain blank if map date is entered manually.
+0020#STR0020#ALL#Responsible?
+0021#STR0021#ALL#Responsible code. This question can remain blank if responsible name is entered manually.
+0022#STR0022#ALL#| OCUPATIONAL DISEASES______________________________________________________________________   MAP DATE:
+0023#STR0023#ALL#| RESPONSIBLE:
+0024#STR0024#ALL#SIG:________________________________________ |
+0025#STR0025#ALL#Print zero (0) ?
+0026#STR0026#ALL#Even if there is no data, the report will be printed as required by Law. This question defines if, in this occasion, columns will be blank or printed with 0 (zero).
+0027#STR0027#ALL#Yes
+0028#STR0028#ALL#No
+0029#STR0029#ALL#0 (zero)
+0030#STR0030#ALL#|             |              | Bearers (*) |   Employees)   |          |     Another Sector      |    Incapable     |
+0031#STR0031#ALL#|_____________|______________|________________|_________________|__________|______________________|______________________|
+0032#STR0032#ALL#(*) SUMMARY OF DISEASES DETECTED BY SECTOR
+0033#STR0033#ALL#COMPANY DATA
+0034#STR0034#ALL#COMPANY: 
+0035#STR0035#ALL#CITY: 
+0036#STR0036#ALL#ADDRESS: 
+0037#STR0037#ALL#PHONE: 
+0038#STR0038#ALL#Print Total of Employees?
+0039#STR0039#ALL#It indicates if employee total is printed in report.
+0040#STR0040#ALL#TOTAL OF EMPLOYEES: 
+0041#STR0041#ALL#To Date?
+0042#STR0042#ALL#From Date?
+0043#STR0043#ALL#From Branch?
+0044#STR0044#ALL#To Branch?

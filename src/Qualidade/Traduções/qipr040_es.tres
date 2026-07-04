@@ -1,0 +1,54 @@
+0001#STR0001#ALL#En este informe se listaran los ensayos que se realizaran en cada      
+0002#STR0002#ALL#laboratorio, para la validacion de la produccion.
+0003#STR0003#ALL#PRODUCTO
+0004#STR0004#ALL#A Rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#Seleccionando registros...
+0007#STR0007#ALL#ANULADO POR EL OPERADOR
+0008#STR0008#ALL#OP : 
+0009#STR0009#ALL#Si
+0010#STR0010#ALL#No
+0011#STR0011#ALL#PROCED.  ==> 
+0012#STR0012#ALL#OPERACION==> 
+0013#STR0013#ALL#Labor.
+0014#STR0014#ALL#Un. Med.
+0015#STR0015#ALL#Nominal
+0016#STR0016#ALL#L.I.I.
+0017#STR0017#ALL#L.S.I.
+0018#STR0018#ALL#Pl 
+0019#STR0019#ALL#Grp/Prd
+0020#STR0020#ALL#Grp
+0021#STR0021#ALL#Prd
+0022#STR0022#ALL#Fecha       ____ /____ /____
+0023#STR0023#ALL#Lote        ____________________________
+0024#STR0024#ALL#Equipo      _________________________
+0025#STR0025#ALL#     Ensayista     
+0026#STR0026#ALL#                                     M E D I C I O N E S                       
+0027#STR0027#ALL#Informe: 
+0028#STR0028#ALL#El producto:
+0029#STR0029#ALL#  / Revision:
+0030#STR0030#ALL# No esta registrado. Informe en el archivo de especificaciones.
+0031#STR0031#ALL#Atencion
+0032#STR0032#ALL#Plan de Muestreo
+0033#STR0033#ALL#Muestreo
+0034#STR0034#ALL#Nivel Muestr
+0035#STR0035#ALL#N.Q.A.
+0036#STR0036#ALL#Tam.Muestr
+0037#STR0037#ALL#Endoso
+0038#STR0038#ALL#Rechazo
+0039#STR0039#ALL#Sin defectos
+0040#STR0040#ALL#NBR-5426
+0041#STR0041#ALL#Texto
+0042#STR0042#ALL#Especifico
+0043#STR0043#ALL#Tam. Muestra
+0044#STR0044#ALL#*** ORDEN DE PROD. CON NUEVAS ESPECIFICACIONES ***
+0045#STR0045#ALL#Lote: 
+0046#STR0046#ALL#Numero de Serie:
+0047#STR0047#ALL#  Tipo : 
+0048#STR0048#ALL#ITINERARIO
+0049#STR0049#ALL#OPERACION
+0050#STR0050#ALL#ST
+0051#STR0051#ALL#Acept.
+0052#STR0052#ALL#Rechazo
+0053#STR0053#ALL#Tam. Muestra
+0054#STR0054#ALL#Lote

@@ -1,0 +1,25 @@
+0001#STR0001#ALL#Informe de Perdida
+0002#STR0002#ALL#Emite el detalle de las perdidas de produccion en el sistema segun el
+0003#STR0003#ALL#orden seleccionado por el usuario. Detalla las perdidas de Scrap y Desecho
+0004#STR0004#ALL#que fueron clasificadas.
+0005#STR0005#ALL#Por OP
+0006#STR0006#ALL#Por Recurso
+0007#STR0007#ALL#Por Motivo
+0008#STR0008#ALL#Por Producto
+0009#STR0009#ALL#Por Fecha
+0010#STR0010#ALL#Por Operador
+0011#STR0011#ALL#A Rayas
+0012#STR0012#ALL#Administracion
+0013#STR0013#ALL#REGISTRO(S)
+0014#STR0014#ALL#de la OP:
+0015#STR0015#ALL#del Recurso:
+0016#STR0016#ALL#del Motivo:
+0017#STR0017#ALL#del Producto:
+0018#STR0018#ALL#de la Fecha:
+0019#STR0019#ALL#del Operador:
+0020#STR0020#ALL#Seleccionando Registros...
+0021#STR0021#ALL#TP  ORDEN DE   ____________ORIGEN____________   MOTIVO                ___________DESTINO___________  FECHA      RECUR. OP   OPERADOR 
+0022#STR0022#ALL#    PRODUCCION    PRODUCTO        CANTIDAD                              PRODUCTO        CANTIDAD                                     
+0023#STR0023#ALL#Total 
+0024#STR0024#ALL#TP  ORDEN DE   ____________ORIGEN____________   MOTIVO                ___________DESTINO___________  FECHA                  OPERADOR 
+0025#STR0025#ALL#Descripción

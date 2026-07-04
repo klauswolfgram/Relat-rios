@@ -1,0 +1,9 @@
+0001#STR0001#EQU#A gerar relatório, aguarde...
+0005#STR0005#EQU#milhão
+0006#STR0006#EQU#A criar ficheiro temporário...
+0007#STR0007#EQU#Mês 
+0013#STR0013#EQU#Período
+0015#STR0015#EQU#Responsáveis...
+0016#STR0016#EQU#Este programa irá imprimir o Demonstrativo de Renda, 
+0017#STR0017#EQU#de acordo com os parâmetros informados pelo utilizador. 
+0020#STR0020#EQU#Os demonstrativos contábeis obrigatoriamente devem ter um plano gerencial associado ao livro. Verifique a configuração de livros escolhida!

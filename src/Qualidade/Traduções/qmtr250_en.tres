@@ -1,0 +1,41 @@
+0001#STR0001#ALL#It will print the Instruments Labels.          
+0002#STR0002#ALL# 
+0003#STR0003#ALL#Instruments Label         
+0004#STR0004#ALL#Z.Form
+0005#STR0005#ALL#Management    
+0006#STR0006#ALL#Selecting Records...      
+0007#STR0007#ALL#CANCELLED BY OPERATOR
+0008#STR0008#ALL#Yes
+0009#STR0009#ALL#No
+0010#STR0010#ALL#GAUGED:
+0011#STR0011#ALL#NEXT AF:
+0012#STR0012#ALL#Sig.
+0013#STR0013#ALL#Initial Instr.?     
+0014#STR0014#ALL#Final Instr.?       
+0015#STR0015#ALL#Initial Period?     
+0016#STR0016#ALL#Final Period?       
+0017#STR0017#ALL#Initial Department? 
+0018#STR0018#ALL#Final Department?   
+0019#STR0019#ALL#Calibrator Body    ?
+0020#STR0020#ALL#Initial Clb.Bd.Int.?
+0021#STR0021#ALL#Final Clb.Bd.Int.  ?
+0022#STR0022#ALL#Initial Clb.Bd.Ext.?
+0023#STR0023#ALL#Final Clb.Bd.Ext.  ?
+0024#STR0024#ALL#Initial Family?     
+0025#STR0025#ALL#Final Family?       
+0026#STR0026#ALL#Initial Manufacturer?
+0027#STR0027#ALL#Final Manufacturer? 
+0028#STR0028#ALL#From Status?        
+0029#STR0029#ALL#To Status?          
+0030#STR0030#ALL#Initial User?       
+0031#STR0031#ALL#Final User?         
+0032#STR0032#ALL#Type of Label?      
+0033#STR0033#ALL#Date Format:
+0034#STR0034#ALL#All
+0035#STR0035#ALL#Internal
+0036#STR0036#ALL#External
+0037#STR0037#ALL#Small
+0038#STR0038#ALL#Large
+0039#STR0039#ALL#day/month/year
+0040#STR0040#ALL#week/year
+0041#STR0041#ALL#Unable to find data that match the selected criteria

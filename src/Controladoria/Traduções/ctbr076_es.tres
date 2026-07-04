@@ -1,0 +1,28 @@
+0001#STR0001#ALL#Este programa imprimira el Archivo CW8-Historial de Modificaciones. 
+0002#STR0002#ALL#Se imprimira segun los parametros solicitados por el
+0003#STR0003#ALL#usuario.
+0004#STR0004#ALL#Historial de Modificaciones
+0005#STR0005#ALL#Fecha
+0006#STR0006#ALL#Hora
+0007#STR0007#ALL#Ente
+0008#STR0008#ALL#Codigo
+0009#STR0009#ALL#Campo
+0010#STR0010#ALL#Ente
+0011#STR0011#ALL#Secuencia
+0012#STR0012#ALL#Rutina
+0013#STR0013#ALL#INCLUSION
+0014#STR0014#ALL#MODIFICACION
+0015#STR0015#ALL#BORRADO
+0016#STR0016#ALL#Atencion
+0017#STR0017#ALL#No existen informaciones para los parametros informados.
+0018#STR0018#ALL#Cod. Ente
+0019#STR0019#ALL#Campo Modif.
+0020#STR0020#ALL#Sec. Mod.
+0021#STR0021#ALL#Tipo
+0022#STR0022#ALL#Tit. Campo
+0023#STR0023#ALL#Conten. Ant.
+0024#STR0024#ALL#Conten. Actual
+0025#STR0025#ALL#Fch Mod.
+0026#STR0026#ALL#Hora
+0027#STR0027#ALL#Opc.
+0028#STR0028#ALL#Informe disponible solo en TReport.

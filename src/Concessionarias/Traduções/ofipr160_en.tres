@@ -1,0 +1,19 @@
+0001#STR0001#ALL#List of Inventory Divergence
+0002#STR0002#ALL#Z. form
+0003#STR0003#ALL#Administrat. 
+0004#STR0004#ALL#Inventory
+0005#STR0005#ALL#Start:  
+0006#STR0006#ALL#End: 
+0007#STR0007#ALL#Cancelled: 
+0008#STR0008#ALL#Hours
+0009#STR0009#ALL#No.Seq Group Item                   Wareh Location         Description Item      Amnt.Eneterd Amnt.System  Divergence     Cost Value
+0010#STR0010#ALL#Positive (+)
+0011#STR0011#ALL#Negative (-)
+0012#STR0012#ALL#Absolute grand total
+0013#STR0013#ALL#Items
+0014#STR0014#ALL#Code of Inventory
+0015#STR0015#ALL#List by:
+0016#STR0016#ALL#Group and Code
+0017#STR0017#ALL#Rental
+0018#STR0018#ALL#Description
+0019#STR0019#ALL#Qty Entered  Qty System  Divergence    Cost Vl

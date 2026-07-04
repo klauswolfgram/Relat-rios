@@ -1,0 +1,14 @@
+0001#STR0001#ALL#Este programa tem como objectivo imprimir os dados
+0002#STR0002#ALL#que serão utilizados para o Envio da Comunicação
+0003#STR0003#ALL#bAncária".
+0004#STR0004#ALL#Impressão Do Envio Da Comunicação Bancária
+0005#STR0005#ALL#Código de barras
+0006#STR0006#ALL#Administração
+0007#STR0007#ALL#  nr.borderaux  dt.borderaux  prf-número-parc.  tipo    natureza    nome do banco   agen. histórico                ocorrência PS2                moeda do título  situação do título   nosso número  
+0008#STR0008#ALL#  Código Do Cliente         Nome Do Cliente         Emissão    Vencto.    Saldo Título   Valor I.R.S.          Valor S.S.     Valor Seg. Social      Valor PIS   Valor Cofins     Valor Csll  Juros Valormoeda Nacional
+0009#STR0009#ALL#Ocorrencia Não Encontrada
+0010#STR0010#ALL#Sit. Não Encontrada
+0011#STR0011#ALL#Total dos títulos : 
+0012#STR0012#ALL#Cons.saldos A Zeros?
+0014#STR0014#ALL#Não
+0015#STR0015#ALL#Tits. Contas A Receber

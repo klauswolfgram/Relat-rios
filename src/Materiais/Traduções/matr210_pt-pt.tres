@@ -1,0 +1,29 @@
+0001#STR0001#ALL#Emissão Da Relação De Análise Das Cotações
+0002#STR0002#ALL#Relação De Análise Das Cotações
+0003#STR0003#ALL#Código de barras
+0004#STR0004#ALL#Administração
+0005#STR0005#ALL#Relação De Análise Das Cotações Por Fornecedor
+0006#STR0006#ALL#Relação De Análise Das Cotações Por Valores
+0007#STR0007#ALL#Código Lj Nome Do Fornecedor   Cnd Descrição Cnd    Prz   Vl.presente Crédit.iuc Crédito Iva Tx. Fin. Dt.entr.   Dt.neces   Desvio
+0008#STR0008#ALL#Reg(s)
+0009#STR0009#ALL#A Seleccionar Registos...
+0010#STR0010#ALL#Cancelado Pelo Operador
+0011#STR0011#ALL#Cotação : 
+0012#STR0012#ALL#Produto : 
+0013#STR0013#ALL#Código                Lj   Nome Do Fornecedor   Cnd Descrição Cnd    Prz    Vl.presente  Crédit.iuc  Crédito Iva  Tx. Fin.  Dt.entr.   Dt.neces   Desvio
+0014#STR0014#ALL#Código Lj Nome Do Fornecedor   Cnd Descrição Cnd    Prz   Vl.presente                         Tx. Fin. Dt.entr.   Dt.neces   Desvio
+0015#STR0015#ALL#Código                Lj   Nome Do Fornecedor   Cnd Descrição Cnd    Prz    Vl.presente                            Tx. Fin.  Dt.entr.   Dt.neces   Desvio
+0016#STR0016#ALL#Totais da cotação : 
+0017#STR0017#ALL#Actualizar patch do programa sigacus.prw !!!
+0018#STR0018#ALL#Actualizar patch do programa sigacusa.prx !!!
+0019#STR0019#ALL#Actualizar patch do programa sigacusb.prx !!!
+0021#STR0021#ALL#Atenção
+0022#STR0022#ALL#Por Fornecedor
+0023#STR0023#ALL#Por Valores
+0024#STR0024#ALL#Descrição
+0025#STR0025#ALL#Razão Social
+0028#STR0028#ALL#Crédito Icms
+0029#STR0029#ALL#Crédito Ipi
+0031#STR0031#ALL#Totais Da Cotação
+0032#STR0032#ALL#Cotação De Compras
+0034#STR0034#ALL#Análise Da Cotação

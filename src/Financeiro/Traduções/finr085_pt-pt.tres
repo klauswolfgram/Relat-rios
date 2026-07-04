@@ -1,0 +1,36 @@
+0001#STR0001#ALL#Impressão Da Ordem De Pagamento.
+0002#STR0002#ALL#Impressão das ordens de pagamento  
+0003#STR0003#ALL#Serão solicitados os parâmetros de 
+0004#STR0004#ALL#Data E Intervalo De Ordens.
+0006#STR0006#ALL#Administração
+0007#STR0007#ALL#** cancelado pelo operador **
+0008#STR0008#ALL#Reponsável Inscrito
+0009#STR0009#ALL#Reponsável Não Inscrito
+0012#STR0012#ALL#Exportação
+0014#STR0014#ALL#Ordem De Pagamento Dos Seguintes Documentos.
+0015#STR0015#ALL#|-série-número-----------valor pago-----moeda----vencto------valor em 
+0018#STR0018#ALL#I.v.a.
+0019#STR0019#ALL#Emitido certificado de retenção de 
+0020#STR0020#ALL# núm 
+0021#STR0021#ALL#Descontados os seguintes pagamentos antecipados : 
+0022#STR0022#ALL#|-número------------------------valor---moeda----emitido--------valor em 
+0023#STR0023#ALL#| descontados os seguintes pagamentos anticipados   : 
+0024#STR0024#ALL#|-número------------------------valor---moeda----emitido--------valor 
+0025#STR0025#ALL#No seguinte detalhe (cheques-efectivo-transferências)
+0026#STR0026#ALL#|-vl-número-----------------valor-moeda----bco--fil.--conta--------data  Dep-|
+0027#STR0027#ALL#| cheques de terceiros entregues : 
+0028#STR0028#ALL#|-vl-número-----------------valor-moeda----bco--fil.--conta--------cliente-sc|
+0029#STR0029#ALL#| por verba de pagamento antecipado de títulos 
+0030#STR0030#ALL#|-número--------------------valor-moeda--------------------------------------|
+0031#STR0031#ALL#|                             total em 
+0032#STR0032#ALL#O formulário está posicionado?
+0033#STR0033#ALL#Tenta novamente  ?
+0034#STR0034#ALL#Da ordem         ?
+0035#STR0035#ALL#à  ordem         ?
+0036#STR0036#ALL#Da data          ?
+0037#STR0037#ALL#A  data          ?
+0038#STR0038#ALL#Ordem de pagamento núm: 
+0040#STR0040#ALL#| beneficiário/a: 
+0041#STR0041#ALL#| conta nr: 
+0043#STR0043#ALL#|taxas ao 
+0044#STR0044#ALL#Pgt.cancelado

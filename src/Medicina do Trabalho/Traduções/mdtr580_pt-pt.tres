@@ -1,0 +1,19 @@
+0001#STR0001#ALL#Mostrar todos os riscos a que o funcionário está exposto actualmente.
+0002#STR0002#ALL#Código de barras
+0003#STR0003#ALL#Administração
+0004#STR0004#ALL#Riscos Por Funcionário
+0005#STR0005#ALL#      Num. Risco Agente                 Fonte Criadora          Avaliação   Intensidade U.m.   C.custo              Função Tarefa
+0006#STR0006#ALL#Funcionário.......:
+0007#STR0007#ALL#Centro De Custo...:
+0008#STR0008#ALL#Função............:
+0011#STR0011#ALL#Cliente/loja......:
+0012#STR0012#ALL#Não existe informação para imprimir no relatório.
+0014#STR0014#ALL#Situação Empregado ?
+0015#STR0015#ALL#Até Função?
+0016#STR0016#ALL#De  Função?
+0017#STR0017#ALL#Até Centro Custo ?
+0020#STR0020#ALL#Até Empregado ?
+0021#STR0021#ALL#De Empregado ?
+0025#STR0025#ALL#Activos
+0027#STR0027#ALL#Activos e Afast.
+0029#STR0029#ALL#Imprimir descrição tarefa ?

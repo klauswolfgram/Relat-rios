@@ -1,0 +1,63 @@
+0001#STR0001#BOL#Tax Records
+0002#STR0002#BOL#Preparing information for purchase book
+0003#STR0003#BOL#Invoice type
+0004#STR0004#BOL#Supplier NIT
+0005#STR0005#BOL#Name or company name
+0006#STR0006#BOL#Invoice Number 
+0007#STR0007#BOL#DUE Number 
+0008#STR0008#BOL#Authorization number
+0009#STR0009#BOL#Invoice date
+0010#STR0010#BOL#Sales Total Value
+0011#STR0011#BOL#Value ICE/ IEHD/ Rates
+0012#STR0012#BOL#Sales Saved at Zero Rate
+0013#STR0013#BOL#Tax credit
+0014#STR0014#BOL#Base Value for Tax Credit
+0015#STR0015#BOL#Control code
+0016#STR0016#BOL#Preparing information for sales book
+0017#STR0017#BOL#Base Value for Tax Debit
+0018#STR0018#BOL#Tax debit
+0019#STR0019#BOL#State
+0020#STR0020#BOL#Purchase
+0021#STR0021#BOL#Sales
+0022#STR0022#BOL#Book
+0023#STR0023#BOL#Name or company name
+0024#STR0024#BOL#Branch
+0025#STR0025#BOL#Address
+0026#STR0026#BOL#Period
+0027#STR0027#BOL#Presentation
+0028#STR0028#BOL#Folio
+0029#STR0029#BOL#Full name of person in charge
+0030#STR0030#BOL#Tax book print (purchases/sales)
+0031#STR0031#BOL#Total
+0032#STR0032#BOL#Print canceled by the user
+0033#STR0033#BOL#Credit/Debit Notes
+0034#STR0034#BOL#Year
+0035#STR0035#BOL#Month
+0036#STR0036#BOL#No.
+0037#STR0037#BOL#Credit - Debit Note Date
+0038#STR0038#BOL#Credit - Debit Note Number
+0039#STR0039#BOL#Authorization Number
+0040#STR0040#BOL#NIT/CI Customer
+0041#STR0041#BOL#Customer Name or Company Name
+0042#STR0042#BOL#Total Value of Return or Termination
+0043#STR0043#BOL#Tax credit
+0044#STR0044#BOL#Credit - Debit Note Control Code
+0045#STR0045#BOL#Original Invoice Date
+0046#STR0046#BOL#Original Invoice Number
+0047#STR0047#BOL#Original Invoice Authorization Number
+0048#STR0048#BOL#Original Invoice Total Value
+0049#STR0049#BOL#You can only enter a dates period within the same corresponding Month/Year
+0050#STR0050#BOL#Received
+0051#STR0051#BOL#Performed
+0052#STR0052#BOL#Supplier NIT
+0053#STR0053#BOL#Provider Name or Company Name
+0054#STR0054#BOL#Tax Debit
+0055#STR0055#BOL#Invoice Date or DUE
+0056#STR0056#BOL#Invoice Number
+0057#STR0057#BOL#Purchase Total Value
+0058#STR0058#BOL#Value not Subject to Tax Credit
+0059#STR0059#BOL#Subtotal
+0060#STR0060#BOL#Obtained Discount Bonus and Deductions
+0061#STR0061#BOL#Exempt Exports and Operations
+0062#STR0062#BOL#Granted Discount Bonus and Deductions
+0063#STR0063#BOL#NULL

@@ -1,0 +1,60 @@
+0001#STR0001#ALL#This program will print the Customer situation 
+0002#STR0002#ALL#referring to the System's base date
+0003#STR0003#ALL#Z.Form
+0004#STR0004#ALL#Management
+0005#STR0005#ALL#Customer Situation 
+0006#STR0006#ALL#Prf Number      In  Ty  Original Value Issue      DDate      Post                                      R  E  C  E  I  P  T  S                                                                       
+0007#STR0007#ALL#Portfolio
+0008#STR0008#ALL#Simple
+0009#STR0009#ALL#Discounted
+0010#STR0010#ALL#Guaranteed
+0011#STR0011#ALL#Bonded
+0012#STR0012#ALL#Attorney
+0013#STR0013#ALL#Legal
+0014#STR0014#ALL#CANCELLED BY THE OPERATOR
+0015#STR0015#ALL#CUSTOMER : 
+0016#STR0016#ALL#Totals : 
+0017#STR0017#ALL#GRAND TOTAL : 
+0018#STR0018#ALL#Disc.Guaran.
+0019#STR0019#ALL#                                                                           Discounts  Deductions         Interest      Index. Fine Amt. Accessor. Written off Amt. Adv. Rec. Current Balance Reason Status Port.
+0020#STR0020#ALL#By Code
+0021#STR0021#ALL#By Name
+0022#STR0022#ALL#Selecting Records...
+0023#STR0023#ALL#Invoiced
+0024#STR0024#ALL#Consider Base Date ?
+0025#STR0025#ALL#Yes
+0026#STR0026#ALL#No
+0027#STR0027#ALL#TOTAL BY TYPE: 
+0028#STR0028#ALL#Print Name?
+0029#STR0029#ALL#Company Name
+0030#STR0030#ALL#Abbreviation
+0031#STR0031#ALL#Protest
+0032#STR0032#ALL#Agreement
+0033#STR0033#ALL#Registry
+0034#STR0034#ALL#Customer info   
+0035#STR0035#ALL#Custom.
+0036#STR0036#ALL#Bills  
+0037#STR0037#ALL#Prf
+0038#STR0038#ALL#Number
+0039#STR0039#ALL#PC
+0040#STR0040#ALL#Original amnt.
+0041#STR0041#ALL#Issued 
+0042#STR0042#ALL#Due Dt
+0043#STR0043#ALL#Pstng
+0044#STR0044#ALL#Discounts
+0045#STR0045#ALL#Deductions 
+0046#STR0046#ALL#Int. 
+0047#STR0047#ALL#Penal
+0048#STR0048#ALL#Monet.Index.
+0049#STR0049#ALL#Amount posted
+0050#STR0050#ALL#Adv. Rec.    
+0051#STR0051#ALL#Curr. Blnce
+0052#STR0052#ALL#Reason
+0053#STR0053#ALL#Status  
+0054#STR0054#ALL#Port.
+0055#STR0055#ALL#Totals
+0056#STR0056#ALL#B R A N C H   T O T A L ----> 
+0057#STR0057#ALL#Totals/Branch
+0058#STR0058#ALL#BRANCH TOTAL --> 	
+0059#STR0059#ALL#Option valid only for TOP environment!
+0060#STR0060#ALL#Accessory Value

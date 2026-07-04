@@ -1,0 +1,20 @@
+0001#STR0001#ALL#Inventory Analysis Report
+0002#STR0002#ALL#This report shows the situation of each item in the Final
+0003#STR0003#ALL#Product structure related to its balance, its reserves, 
+0004#STR0004#ALL#its expected inflows and its ABC class
+0005#STR0005#ALL#Z.Form
+0006#STR0006#ALL#Management
+0007#STR0007#ALL#PRODUCT(S)
+0008#STR0008#ALL#CODE            DESCRIPTION                    TP GROUP UM   CURR.BALANCE ALLOCATION FOR    PURCH.REQ.     PURCH.ORD.      PROD.ORD.     SALES ORD.     POINT OF     ECONOMIC DELIV.  STOCK        AVERAGE   LAST     CL  TP
+0009#STR0009#ALL#                                                                          REQ/PV/RESERVE        PLACED         PLACED         PLACED         PLACED        ORDER          LOT TERM    IN MONTHS   CONSUMP.   OUTFL.      N/F
+0010#STR0010#ALL#CANCELLED BY THE OPERATOR
+0011#STR0011#ALL#PARENT PRODUCT: 
+0012#STR0012#ALL# CURRENT BALANCE---> 
+0013#STR0013#ALL#T O T A L S  :
+0014#STR0014#ALL#Parent prod.
+0015#STR0015#ALL#SCs placed   
+0016#STR0016#ALL#PCs placed   
+0017#STR0017#ALL#OPs placed   
+0018#STR0018#ALL#PVs placed   
+0019#STR0019#ALL#Structures
+0020#STR0020#ALL#Products

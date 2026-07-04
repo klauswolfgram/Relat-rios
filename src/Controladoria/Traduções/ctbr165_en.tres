@@ -1,0 +1,28 @@
+0001#STR0001#ALL#This program will print Trial balance of 1 entity    
+0002#STR0002#ALL#according to the parameters requested by the user. 
+0003#STR0003#ALL#Trial balance sheet of 1 entity        
+0004#STR0004#ALL#|  CODE                       |      D E S C R I P T I O N                      |    PREVIOUS BALANCE            |    DEBIT        |      CREDIT       |    MOVEMENT DURING PERIOD     |        CURRENT BALANCE            |
+0005#STR0005#ALL#|  CODE                 |    D E S C R I P T I O N       | PREVIOUS BALANCE  |      DEBIT     |      CREDIT    | CURRENT BALANCE   |
+0006#STR0006#ALL#DETAILED BAL. SHEET OF 
+0007#STR0007#ALL#SUMMARIZED TRIAL BAL. OF 
+0008#STR0008#ALL#TRIAL BALANCE OF 
+0009#STR0009#ALL# FROM 
+0010#STR0010#ALL# TO 
+0011#STR0011#ALL# IN 
+0012#STR0012#ALL#(BUDGETD)
+0013#STR0013#ALL#(MANAGERIAL)
+0014#STR0014#ALL#Creating Temporary File...
+0015#STR0015#ALL#Z-Form 
+0016#STR0016#ALL#Management   
+0017#STR0017#ALL#***** CANCELLED BY OPERATOR   *****
+0018#STR0018#ALL#T O T A L  O F  P E R I O D    : 
+0019#STR0019#ALL#G R O U P   T O T A L       (
+0020#STR0020#ALL#TOTALS OF 
+0021#STR0021#ALL# Manager.Entity     
+0022#STR0022#ALL#DIV.
+0023#STR0023#ALL#|  CODE                       |      D E S C R I P T .                          |    PREVIOUS BALC.              |    DEBIT        |      CREDIT       |    PERIOD MOVEMENT            |         CURRT.BALC.               |
+0024#STR0024#ALL#|  CODE               |   D  E  S  C  R  I  P  T  .    |   PREVIOUS BALC.  |      DEBIT     |      CREDIT    |   CURRT.BALC.     |
+0025#STR0025#ALL#Please complete the configuration of the books. Since it is a report of 
+0026#STR0026#ALL#management entities, this question is compulsory.
+0027#STR0027#ALL#Please, fill out parameters Groups Incomes/Expenses and Date Prev.Blnc.Incomes/Expenses or  
+0028#STR0028#ALL#leave the parameter Ignor PrvBlncInc/Exp = No  

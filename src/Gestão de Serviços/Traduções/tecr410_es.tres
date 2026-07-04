@@ -1,0 +1,25 @@
+0001#STR0001#ALL#Detalle de Presupuesto
+0002#STR0002#ALL#   Este programa imprime el detalle de presupuestos conforme
+0003#STR0003#ALL#los parametros solicitados.
+0004#STR0004#ALL#
+0005#STR0005#ALL#Numero
+0006#STR0006#ALL#Cliente
+0007#STR0007#ALL#Emision
+0008#STR0008#ALL#A Rayas
+0009#STR0009#ALL#Administracion
+0010#STR0010#ALL#PRESUPUESTO TIPO     CLIENTE   EMISION    MONEDACPG PRODUCTO        NR.SERIE             PROBLEMA                                O.S.       OCURRENCIA                                                                            
+0011#STR0011#ALL#                     IT PRODUCTO        DESCRIPCION                                                                           SERVICIO    CANTIDAD   VALOR UNITARIO      VALOR CLIENTE   VALOR FABRICANTE        VALOR TOTAL
+0012#STR0012#ALL# [NUM.PRESUPUES.] 
+0013#STR0013#ALL# [ CLIENTE ] 
+0014#STR0014#ALL# [ EMISION ] 
+0015#STR0015#ALL#ANULADO POR EL OPERADOR
+0016#STR0016#ALL#TOTAL PRESUP.
+0017#STR0017#ALL#TOTAL CLIENTE 
+0018#STR0018#ALL#TOTAL DE 
+0019#STR0019#ALL#TOTAL GRAL.
+0020#STR0020#ALL#Ocurrencia
+0021#STR0021#ALL#Valor Cliente
+0022#STR0022#ALL#Valor Fabricante
+0023#STR0023#ALL#Valor Total
+0024#STR0024#ALL#Presup. Tecnico
+0025#STR0025#ALL#Items Presup. Tecnico

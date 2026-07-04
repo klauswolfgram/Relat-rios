@@ -1,0 +1,30 @@
+0001#STR0001#ALL#Este programa tem como objetivo imprimir comprovante
+0002#STR0002#ALL#de acordo com os parametros informados pelo usuario
+0003#STR0003#ALL#Comprovante de Receb.
+0004#STR0004#ALL#Comprovante de Peceb.
+0005#STR0005#ALL#Zebrado
+0006#STR0006#ALL#Administracao
+0007#STR0007#ALL#Lendo Impostos......
+0008#STR0008#ALL#Comprov. Receb. ?
+0009#STR0009#ALL#Conceito        ?
+0010#STR0010#ALL#Pagto Fatura
+0011#STR0011#ALL#Abono
+0012#STR0012#ALL#Cancelamento Fatura
+0013#STR0013#ALL#Para Novo Conceito
+0014#STR0014#ALL#Para Novo Conceito
+0015#STR0015#ALL#*** CANCELADO PELO OPERADOR ***
+0016#STR0016#ALL#Emissao   :
+0017#STR0017#ALL#No.       :
+0018#STR0018#ALL#Conceito: 
+0019#STR0019#ALL#Valor     :
+0020#STR0020#ALL#Cliente : 
+0021#STR0021#ALL#DOCUMENTO                 VALOR     VLR.IVA  VLR.RET.FTE     COMISION
+0022#STR0022#ALL#PAGTOS                    VALOR
+0023#STR0023#ALL#PAGTOS ADIANTADO          VALOR
+0024#STR0024#ALL#Pagto Adiantado
+0025#STR0025#ALL#TOTAL........
+0026#STR0026#ALL#Banco: 
+0027#STR0027#ALL#FIRMA RECIBO / IDENTIFICACAO
+0028#STR0028#ALL#Cheque
+0029#STR0029#ALL#Cart. Credito
+0030#STR0030#ALL#Dinheiro

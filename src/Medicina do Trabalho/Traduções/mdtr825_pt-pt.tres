@@ -1,0 +1,19 @@
+0002#STR0002#ALL#Conforme O Quadro Iv Da Nr4.
+0003#STR0003#ALL#Código de barras
+0004#STR0004#ALL#Administração
+0006#STR0006#ALL#Cancelado Pelo Operador
+0007#STR0007#ALL#| DOENÇAS OCUPACIONAIS______________________________________________________________________   DATA DO MAPA: ___/___/___ |
+0008#STR0008#ALL#| responsavel:__________________________________________________________    ass:________________________________________ |
+0009#STR0009#ALL#|   tipo de   | no. absoluto |   setores de   | no. absoluto de |  no. de  | no. de trabalhadores | no. de trabalhadores |
+0010#STR0010#ALL#|   doenca    |   de casos   | atividades dos | casos (% total  |  obitos  |  transferidos para   |   definitivamente    |
+0011#STR0011#ALL#|             |              |   portadores   | dos empregados) |          |     outro setor      |    incapacitados     |
+0012#STR0012#ALL#Resumo Das Doencas Encontradas Por Setores
+0014#STR0014#ALL#Centro de Custo          Nome                       Ocorrências
+0015#STR0015#ALL#De cliente ?
+0017#STR0017#ALL#Até cliente ?
+0030#STR0030#ALL#|             |              | Portadores (*) |   Empregados)   |          |     Outro Sector      |    Incapacitados     |
+0032#STR0032#ALL#(*) RESUMO DAS DOENÇAS ENCONTRADAS POR SETORES
+0035#STR0035#ALL#COCELHO..: 
+0036#STR0036#ALL#MORADA: 
+0041#STR0041#ALL#Até  Data ?
+0044#STR0044#ALL#Até Filial ?

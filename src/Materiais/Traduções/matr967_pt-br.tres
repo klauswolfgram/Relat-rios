@@ -1,0 +1,43 @@
+0001#STR0001#BRA#Relação de Créditos - Nota Fiscal Eletrônica
+0002#STR0002#BRA#Este programa irá imprimir uma relação com todos os documentos de entrada 
+0003#STR0003#BRA#que geraram o crédito da Nota Fiscal Eletrônica de São Paulo - SP
+0004#STR0004#BRA#Crédito - NF-e
+0005#STR0005#BRA#Total do fornecedor
+0006#STR0006#BRA#Informe a data de entrada inicial 
+0007#STR0007#BRA#para seleção dos documentos a imprimir. 
+0008#STR0008#BRA#Data inicial
+0009#STR0009#BRA#Informe a data de entrada final 
+0010#STR0010#BRA#Data final
+0011#STR0011#BRA#Informe o fornecedor inicial 
+0012#STR0012#BRA#Deixe esta pergunta em branco, para que 
+0013#STR0013#BRA#todos os fornecedores sejam processados.
+0014#STR0014#BRA#Fornecedor inicial
+0015#STR0015#BRA#Informe o fornecedor final 
+0016#STR0016#BRA#Informe ZZZZZZ, para que 
+0017#STR0017#BRA#Fornecedor final
+0018#STR0018#BRA#Fornecedor
+0019#STR0019#BRA#Nota Fiscal Eletrônica
+0020#STR0020#BRA#RPS
+0021#STR0021#BRA#Val. Crédito
+0022#STR0022#BRA#Cód. Verif.
+0023#STR0023#BRA#Relação de Créditos - Nota Fiscal Eletrônica
+0024#STR0024#BRA#Este relatório ira imprimir as movimentacoes de entrada que 
+0025#STR0025#BRA#geraram crédito através da Nota Fiscal Eletrônica
+0026#STR0026#BRA#Zebrado
+0027#STR0027#BRA#Administracao
+0028#STR0028#BRA#NF-Eletr.  Série   Fornecedor Loja  Razão Social                               Número RPS     Cód. Verif.       Valor Crédito
+0029#STR0029#BRA#Selecionando Registros...
+0030#STR0030#BRA#Total do Fornecedor
+0031#STR0031#BRA#Total Geral
+0032#STR0032#BRA#Fornecedor
+0033#STR0033#BRA#Nota Fiscal Eletrônica
+0034#STR0034#BRA#Implementação não efetuada
+0035#STR0035#BRA#A implementação do processo da Nota 
+0036#STR0036#BRA#Fiscal Eletrônica não foi efetuada corretamente, 
+0037#STR0037#BRA#visto que existem tabelas e campos que 
+0038#STR0038#BRA#não estão disponíveis no dicionário de dados.
+0039#STR0039#BRA#Verifique a documentação que acompanha a rotina e 
+0040#STR0040#BRA#execute todos os procedimentos indicados e processe 
+0041#STR0041#BRA#esta rotina novamente.
+0042#STR0042#BRA#Tabela SFT - 
+0043#STR0043#BRA# Campos: 

@@ -1,0 +1,14 @@
+0001#STR0001#ALL#Differences in Multiple Countings
+0002#STR0002#ALL#It generates a list containing products presenting countings 
+0003#STR0003#ALL#with different quantities, performed in the inventory during a 
+0004#STR0004#ALL#date.
+0005#STR0005#ALL# By Code    
+0006#STR0006#ALL# By Type      
+0007#STR0007#ALL# By Group      
+0008#STR0008#ALL# By Description 
+0009#STR0009#ALL# By Warehouse   
+0010#STR0010#ALL#Entries for Inventory - Products
+0011#STR0011#ALL#Entries for Inventory - Countings
+0012#STR0012#ALL#ONE
+0013#STR0013#ALL#Stor.
+0014#STR0014#ALL#Tp

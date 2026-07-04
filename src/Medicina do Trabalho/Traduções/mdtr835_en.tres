@@ -1,0 +1,64 @@
+0001#STR0001#ALL#Report of Work-Related Accidents occurred at the Company.      
+0002#STR0002#ALL#Through the parameters, the user can select the period,        
+0003#STR0003#ALL#Cost Center, and other options available for a better performance.     
+0004#STR0004#ALL#Z. Form
+0005#STR0005#ALL#Administration
+0006#STR0006#ALL#Work-Related Accidents
+0007#STR0007#ALL#Accid. Accident Date Description Accident              Reg Name Employee        C.Center              Function T.Acc Purpose Date CAT
+0008#STR0008#ALL#CANCELLED BY OPERATOR
+0009#STR0009#ALL#Accident
+0010#STR0010#ALL#Accident Date
+0011#STR0011#ALL#Accident Descript.
+0012#STR0012#ALL#Registration
+0013#STR0013#ALL#Employee Name
+0014#STR0014#ALL#C.Center
+0015#STR0015#ALL#Funct.
+0016#STR0016#ALL#Causing Obj.
+0017#STR0017#ALL#Accident Type
+0018#STR0018#ALL#CAT Date
+0019#STR0019#ALL#Leave
+0020#STR0020#ALL#Expense
+0021#STR0021#ALL#Value (R$)
+0022#STR0022#ALL#Please, wait
+0023#STR0023#ALL#Processing Work-Related Accidents...
+0024#STR0024#ALL#Total of expenses with this accident
+0025#STR0025#ALL#Expenses grand total   
+0026#STR0026#ALL#From Customer ?
+0027#STR0027#ALL#Unit
+0028#STR0028#ALL#To Customer ?
+0029#STR0029#ALL#Unit						
+0030#STR0030#ALL#Report of Work-Related Accidents occurred at the Company. 
+0031#STR0031#ALL#Through the parameters, the user can select the period, 
+0032#STR0032#ALL#Cost Center, and other options available for a better performance.			
+0033#STR0033#ALL#Customer
+0034#STR0034#ALL#Unit
+0035#STR0035#ALL#Name
+0036#STR0036#ALL#Total Customer Expenses
+0037#STR0037#ALL#From Medical Form?
+0038#STR0038#ALL#To Medical Form?
+0039#STR0039#ALL#To Accident Type?
+0040#STR0040#ALL#From Accident Type?
+0041#STR0041#ALL#List Expenses?
+0042#STR0042#ALL#All?
+0043#STR0043#ALL#To Role?
+0044#STR0044#ALL#From Role?
+0045#STR0045#ALL#To Cost Center?
+0046#STR0046#ALL#From Cost Center?
+0047#STR0047#ALL#To Accident Date?
+0048#STR0048#ALL#From Result Date?
+0049#STR0049#ALL#To Accident?
+0050#STR0050#ALL#From Accident?
+0051#STR0051#ALL# Days
+0052#STR0052#ALL#There was not any
+0053#STR0053#ALL#Customer/Unit: 
+0054#STR0054#ALL#         Name: 
+0055#STR0055#ALL#Total of expenses with this accident...........: 
+0056#STR0056#ALL#Total of customer's expenses...................: 
+0057#STR0057#ALL#Grand total of expenses........................: 
+0058#STR0058#ALL#Indication
+0059#STR0059#ALL#Determines from which medical form the filter is performed.
+0060#STR0060#ALL#Determines from which medical form the filter is performed.
+0061#STR0061#ALL#Accident   Accident Date   Description Accident                                  Registration   Name Employee                 Cost Center       Function         Indicative                Date CAT    Leave
+0062#STR0062#ALL#         Expenses                                         Amount(BRL)						                                  Causative Obj. Description                               Accident Type Description
+0063#STR0063#ALL#                                                                 						                                 Causative Obj. Description                               Accident Type Description
+0064#STR0064#ALL#Description

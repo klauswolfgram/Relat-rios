@@ -1,0 +1,37 @@
+0001#STR0001#ALL#Relatório de Custos do PCMSO. 
+0002#STR0002#ALL#O programa demonstra o custo dos exames gerados pelo PCMSO 
+0003#STR0003#ALL#escolhido.
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#Custos do PCMSO
+0007#STR0007#ALL#Codigo                 Centro de Custo 
+0008#STR0008#ALL#Exame       Nome do Exame                      Quantidade                 Custo
+0009#STR0009#ALL#CANCELADO PELO OPERADOR
+0010#STR0010#ALL#Total da Filial
+0011#STR0011#ALL#Total do Centro de Custo
+0012#STR0012#ALL#Cliente :
+0013#STR0013#ALL#Total do Cliente
+0014#STR0014#ALL#Centro de Custo
+0015#STR0015#ALL#Descrição
+0016#STR0016#ALL#Exame
+0017#STR0017#ALL#Nome do Exame
+0018#STR0018#ALL#Quantidade
+0019#STR0019#ALL#Custo
+0020#STR0020#ALL#Processando os Exames...
+0021#STR0021#ALL#Aguarde
+0022#STR0022#ALL#Nome do Cliente
+0023#STR0023#ALL#Cliente
+0024#STR0024#ALL#Exames
+0025#STR0025#ALL#O PCMSO informado não está cadastrado.
+0026#STR0026#ALL#Atenção
+0027#STR0027#ALL#Esse centro de custo não pertence ao intervalo
+0028#STR0028#ALL#de centros de custo do PCMSO selecionado.
+0029#STR0029#ALL#Nome da Filial
+0030#STR0030#ALL#Não há nada para imprimir no relatório.
+0031#STR0031#ALL#Total Geral
+0032#STR0032#ALL#De Filial ?
+0033#STR0033#ALL#Ate Filial ?
+0034#STR0034#ALL#De Data Progr. ?
+0035#STR0035#ALL#Até Data Progr. ?
+0036#STR0036#ALL#Realizados
+0037#STR0037#ALL#Não Realizados

@@ -1,0 +1,13 @@
+0001#STR0001#ALL#Balancete
+0002#STR0002#ALL#Codigo
+0003#STR0003#ALL#Descricao
+0004#STR0004#ALL#Saldo Anterior
+0005#STR0005#ALL#Movimento Credito
+0006#STR0006#ALL#Movimento Debito
+0007#STR0007#ALL#Saldo Final
+0008#STR0008#ALL#Impressao cancelada pelo operador...
+0009#STR0009#ALL#Credito-Debito
+0010#STR0010#ALL#Este relatorio ira imprimir o Balancete de acordo com os parâmetros solicitados pelo usuário. Para mais informações sobre este relatorio consulte o Help do Programa ( F1 ).
+0011#STR0011#ALL#Atencao
+0012#STR0012#ALL#Estrutura do cubo nao encontrada. Verifique.
+0013#STR0013#ALL#Usuario sem acesso ao relatorio. Verifique as configuracoes.

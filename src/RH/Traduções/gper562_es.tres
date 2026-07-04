@@ -1,0 +1,23 @@
+0001#STR0001#ALL#Archivo Texto|*.TXT
+0002#STR0002#ALL#Grabar Búsqueda...
+0003#STR0003#ALL#         DGII              | SECRETARÍA DE ESTADO DE FINANZAS                                   
+0004#STR0004#ALL#         IR-4              | DIRECCIÓN GENERAL DE IMPUESTOS INTERNOS                             
+0005#STR0005#ALL#                           | FORMATO PARA EL CÁLCULO DE LAS RETENCIONES MENSUALES DEL ASALARIADO
+0006#STR0006#ALL#Agente de retención
+0007#STR0007#ALL#PerÍodo
+0008#STR0008#ALL#Hoja
+0009#STR0009#ALL#Mes: 
+0010#STR0010#ALL#Año: 
+0011#STR0011#ALL#De: 
+0012#STR0012#ALL#Nº: 
+0013#STR0013#ALL#       IDENTIFICACIÓN DEL ASALARIADO         |                                 REMUNERACIONES PERCIBIDAS                        |                   LIQUIDACIÓN DEL IMPUESTO (LEY 11-92)
+0014#STR0014#ALL#                              |              | SUELDOS PAG.   |REMUNERACIONES |OTRAS REM. PAG. |               |SUELDOS Y OTROS |               |                |SALDO A FAVOR DEL|SAL. FAVOR DE LA
+0015#STR0015#ALL#APELLIDOS Y NOMBRES           |   CÉDULA O   | POR EL AGENTE  |PAGADAS  OTROS |POR EL   AGENTE | TOTAL PAGADO  |PAGOS SUJETOS A |  LIQUIDACIÓN  |  SALDO A FAV.  |ASAL COMP FUT RET|DIRECCIÓN GENERAL
+0016#STR0016#ALL#      COMPLETOS               |   PASAPORTE  | DE  RETENCIÓN  | EMPLEADORES   |DE RETENCIÓN    |  EN EL MES    |   RETENCIÓN    |    PERÍODO    | DEL ASALARIADO |(Si H-1 es neg.) |(Si H-1 es pos.)
+0017#STR0017#ALL#           A                  |      B       |        C       |       D       |        E       |        F      |        G       |       H       |       I        |        J        |        K       
+0018#STR0018#ALL#(L)Número asalariados      
+0019#STR0019#ALL#(M)Sujetos a retención     
+0020#STR0020#ALL#TOTALES(RD$)
+0021#STR0021#ALL#Llevar a la casilla con la letra (A) del Form. IR-13
+0022#STR0022#ALL#Llevar a la casilla con la letra (B) del Form IR-13
+0023#STR0023#ALL#El período debe informarse en el formato aaaadd

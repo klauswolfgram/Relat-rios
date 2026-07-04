@@ -1,0 +1,53 @@
+0001#STR0001#ALL#Checklist APQP A8
+0002#STR0002#ALL#Generating View, Please Wait...
+0003#STR0003#ALL# Was the control plan methodology referred in
+0004#STR0004#ALL# Section 6 used in preparing the control plan ?
+0005#STR0005#ALL# Were all the customer´s known concerns
+0006#STR0006#ALL# identified to make easier to select the product/process
+0007#STR0007#ALL# special characteristics ?
+0008#STR0008#ALL# Were all the product/process special characteristics
+0009#STR0009#ALL# included in the control plan ?
+0010#STR0010#ALL# Were SFMEA, DFMEA and PFMEA used to prepare
+0011#STR0011#ALL# the control plan ?
+0012#STR0012#ALL# Were all the material specifications that need to be
+0013#STR0013#ALL# inspected identified ?
+0014#STR0014#ALL# Does the control plan indicate the receipt (material and
+0015#STR0015#ALL# component) through the processing/assembly,
+0016#STR0016#ALL# including packing ?
+0017#STR0017#ALL# Were the engineering test requisites
+0018#STR0018#ALL# identified ?
+0019#STR0019#ALL# Are the gauging devices and test equipments
+0020#STR0020#ALL# available as required by the control plan ?
+0021#STR0021#ALL# If necessary, did the customer approve the control plan ?
+0022#STR0022#ALL# Are the Gauging Methods compatible between
+0023#STR0023#ALL# vendor and customer?  
+0024#STR0024#ALL#Prepared By
+0025#STR0025#ALL# A-8 CONTROL PLAN CHECKLIST
+0026#STR0026#ALL#Customer´s or Internal Part Number
+0027#STR0027#ALL#Question
+0028#STR0028#ALL#Yes
+0029#STR0029#ALL#No
+0030#STR0030#ALL#Comments / Required Action
+0031#STR0031#ALL#Responsible Person
+0032#STR0032#ALL#Estimated Date
+0033#STR0033#ALL#Review Date
+0034#STR0034#ALL#Page 
+0035#STR0035#ALL# from 
+0036#STR0036#ALL#industry, statistical tables of sampling plan 
+0037#STR0037#ALL#or other methods of process control?
+0038#STR0038#ALL#N/a
+0039#STR0039#ALL#Was Methodology of control plan, described  
+0040#STR0040#ALL#in Chapter 6 of APQP manual, used to  
+0041#STR0041#ALL#design the control plan?
+0042#STR0042#ALL#Were all controls identified in PFMEA  
+0043#STR0043#ALL#added to control plan?
+0044#STR0044#ALL#Were DFMEA and PFMEA used to prepare  
+0045#STR0045#ALL#the control plan?
+0046#STR0046#ALL#Were test requirements of engineering performance 
+0047#STR0047#ALL#and dimensional requirements identified? 
+0048#STR0048#ALL#Are methodology and measurement devices 
+0049#STR0049#ALL#compatibility prepared to meet customer 
+0050#STR0050#ALL#requirements?
+0051#STR0051#ALL#Was the analysis of measurement systems finished  
+0052#STR0052#ALL#according to customer requirements?
+0053#STR0053#ALL#Were sizes of samples based on regulations of 

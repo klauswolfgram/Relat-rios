@@ -1,0 +1,18 @@
+0001#STR0001#ALL#Informe de cursos por entidad
+0002#STR0002#ALL#Se imprimira de acuerdo con los parametros solicitados por el
+0003#STR0003#ALL#usuario.
+0004#STR0004#ALL#Curso
+0005#STR0005#ALL#A Rayas
+0006#STR0006#ALL#Administracion
+0007#STR0007#ALL#Cursos por Entidad 
+0008#STR0008#ALL#COD.   CURSO                                    DURAC.  UN    VALOR 
+0009#STR0009#ALL#COD.   ENTIDAD                                  DURAC.  UN    VALOR 
+0010#STR0010#ALL#ENTIDAD: 
+0011#STR0011#ALL#CURSO: 
+0012#STR0012#ALL#     CONTENIDO PROGRAMATICO 
+0013#STR0013#ALL# *** Contenido programatico no llenado *** 
+0014#STR0014#ALL#Entidad 
+0015#STR0015#ALL#Este informe efectua la impres. de los cursos disponibles por entidad  
+0016#STR0016#ALL#Total
+0017#STR0017#ALL#Por Entidad/Curso
+0018#STR0018#ALL#Por Curso/Entidad

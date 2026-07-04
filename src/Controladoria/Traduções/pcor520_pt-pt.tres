@@ -1,0 +1,35 @@
+0001#STR0001#ALL#Cubos Comparativos - Demonstrativo De Saldos Por Período
+0002#STR0002#ALL#Código
+0003#STR0003#ALL#Descrição
+0005#STR0005#ALL#Saldo inicial (a1): 
+0006#STR0006#ALL#Saldo inicial (a2): 
+0007#STR0007#ALL#Diferença (a1-a2):
+0008#STR0008#ALL#Dif. (a2/a1 %):
+0009#STR0009#ALL#Mov.crédito (c1):
+0010#STR0010#ALL#Mov.crédito (c2):
+0011#STR0011#ALL#Diferença (c1-c2):
+0012#STR0012#ALL#Dif. (c2/c1 %):
+0013#STR0013#ALL#Mov.debito (d1)
+0014#STR0014#ALL#Mov.debito (d2)
+0015#STR0015#ALL#Diferença (d1-d2):
+0016#STR0016#ALL#Dif. (d2/d1 %):
+0017#STR0017#ALL#Res.mov.(c1 - D1):
+0018#STR0018#ALL#Res.mov.(c2 - D2):
+0019#STR0019#ALL#Diferença Res.:
+0020#STR0020#ALL#Dif. res. (%):
+0022#STR0022#ALL# e a configuração: 
+0023#STR0023#ALL#Impressão cancelada pelo operador...
+0024#STR0024#ALL#Este relatório ira imprimir o Cubos Comparativos - Demonstrativo de Saldos por Período de acordo com os parâmetros solicitados pelo utilizador. Para mais informações sobre este relatório consulte o Help do Programa ( F1 ).
+0033#STR0033#ALL#Diário
+0035#STR0035#ALL#Código Cubo Gerencial
+0036#STR0036#ALL#Do período
+0043#STR0043#ALL#Tipo Período
+0047#STR0047#ALL#Configuração do Cubo-1
+0048#STR0048#ALL#Editar Configurações Cubo-1
+0049#STR0049#ALL#Configuração do Cubo-2
+0050#STR0050#ALL#Editar Configurações Cubo-2
+0051#STR0051#ALL#Considera Nulos
+0054#STR0054#ALL#Parâmetros
+0055#STR0055#ALL#Até o Período
+0056#STR0056#ALL#Atenção
+0057#STR0057#ALL#Utilizador sem acesso ao relatório. Verifique as configurações.

@@ -1,0 +1,73 @@
+0001#STR0001#ALL#Ligações Canceladas - Televendas
+0002#STR0002#ALL#Este programa irá emitir uma relação das Ligações
+0003#STR0003#ALL#canceladas pelo operador no atendimento Televendas
+0004#STR0004#ALL#conforme os parâmetros previamente definidos
+0005#STR0005#ALL#Zebrado
+0006#STR0006#ALL#Administração
+0007#STR0007#ALL#CANCELADO PELO OPERADOR
+0008#STR0008#ALL#Data do Atendimento
+0009#STR0009#ALL#Código do Atendimento
+0010#STR0010#ALL#Código Cliente/Loja
+0011#STR0011#ALL#Razão Social
+0012#STR0012#ALL#Código do Contato
+0013#STR0013#ALL#Nome do Contato
+0014#STR0014#ALL#Tipo de Marketing
+0015#STR0015#ALL#Operação
+0016#STR0016#ALL#Tipo de Frete
+0017#STR0017#ALL#Tabela de Preço
+0018#STR0018#ALL#Código do Operador
+0019#STR0019#ALL#Nome do Operador
+0020#STR0020#ALL#Código do Vendedor
+0021#STR0021#ALL#Nome do Vendedor
+0022#STR0022#ALL#Código da Mídia
+0023#STR0023#ALL#Descrição da Mídia
+0024#STR0024#ALL#Código da Campanha
+0025#STR0025#ALL#Descrição da Campanha
+0026#STR0026#ALL#Código da Ocorrência
+0027#STR0027#ALL#Descrição da Ocorrência
+0028#STR0028#ALL#Data de Retorno
+0029#STR0029#ALL#Hora de Retorno
+0030#STR0030#ALL#Observação
+0031#STR0031#ALL#Item Produto         Descrição                      St   Qtdade    Vl.Unitário        Vl.Item  %Desc    Vl.Desconto  %Acres   Vl.Acréscimo TES CFOP      Tabela      Base ICMS LP UM Entrega    Lote       Sub-Lt Validade
+0032#STR0032#ALL#Valor total negociado em REAIS para 
+0033#STR0033#ALL#Total de atendimentos cancelados no dia 
+0034#STR0034#ALL#Total de atendimentos na campanha 
+0035#STR0035#ALL#Total de atendimentos na mídia 
+0036#STR0036#ALL#Total de atendimentos cancelados no período de 
+0037#STR0037#ALL#Valor total em REAIS de faturamento realizado por operador
+0038#STR0038#ALL#Valor total faturado pelo operador 
+0039#STR0039#ALL#Produto 
+0040#STR0040#ALL# na Mídia 
+0041#STR0041#ALL#Não existem dados a serem impressos para este relatório com os parâmetros informados
+0042#STR0042#ALL#Cliente não Localizado
+0043#STR0043#ALL#Contato não Localizado
+0044#STR0044#ALL#Operador não Localizado
+0045#STR0045#ALL#Vendedor não Localizado
+0046#STR0046#ALL#Mídia não Localizada
+0047#STR0047#ALL#Campanha não Localizada
+0048#STR0048#ALL#Ocorrência não Localizada
+0049#STR0049#ALL#Produto não localizado
+0050#STR0050#ALL#Orçamentos
+0051#STR0051#ALL#Cadastro de Orçamento
+0052#STR0052#ALL#Total de itens
+0053#STR0053#ALL#Produto
+0054#STR0054#ALL#Descrição
+0055#STR0055#ALL#St
+0056#STR0056#ALL#Qtdade
+0057#STR0057#ALL#Vl.Unitário
+0058#STR0058#ALL#Vl.Item
+0059#STR0059#ALL#%Desc
+0060#STR0060#ALL#Vl.Desconto
+0061#STR0061#ALL#%Acres
+0062#STR0062#ALL#TES
+0063#STR0063#ALL#CFOP
+0064#STR0064#ALL#Tabela
+0065#STR0065#ALL#Base ICMS
+0066#STR0066#ALL#LP
+0067#STR0067#ALL#UM
+0068#STR0068#ALL#Entrega
+0069#STR0069#ALL#Lote
+0070#STR0070#ALL#Sub-Lt
+0071#STR0071#ALL#Validade
+0072#STR0072#ALL#Item
+0073#STR0073#ALL#Vl. Acrescimo

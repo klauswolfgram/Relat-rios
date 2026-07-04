@@ -1,0 +1,25 @@
+0001#STR0001#ALL#Este informe imprimira una lista de los proyectos, su estructura y detalles como fecha inicial, fecha final, duracion, etc. segun los parametros solicitados.
+0002#STR0002#ALL#Estructura del Proyecto
+0003#STR0003#ALL#A Rayas
+0004#STR0004#ALL#Administracion
+0005#STR0005#ALL#TP.  CODIGO        DESCRIPCION                                                            UM |     CANT. PREV.   DURAC.   FC.INIC.  FC.FINAL     %PROG   |      CANT. REAL.   DURACION FC.INIC.   FC.FINAL    %REAL.
+0006#STR0006#ALL#Proyecto: 
+0007#STR0007#ALL#Cliente : 
+0008#STR0008#ALL#Version: 
+0009#STR0009#ALL# Fecha: 
+0010#STR0010#ALL#Tar.
+0011#STR0011#ALL#Este informe imprimira una lista de los proyectos, su estructura y detalles de las tareas atrasadas de acuerdo con los parametros solicitados.
+0012#STR0012#ALL#Tareas atrasadas
+0013#STR0013#ALL#                          DATOS DE LA EDT/TAREA                                              |                         PREVISTO                          |                           REALIZADO                      
+0014#STR0014#ALL#TP.  CODIGO DE LA TAREA                                                                   UM |     CANT.PREV.    DURACION FCH.INI.  FCH.FINAL    %PROG   |      QUANT.REAL.   DURACAO  DT.INIC.   DT.FINAL    %REAL.
+0015#STR0015#ALL#TP.  DESCRIPCION DE LA TAREA                                                              UM |     CANT.PREV.    DURACION FCH.INI.  FCH.FINAL    %PROG   |      QUANT.REAL.   DURACAO  DT.INIC.   DT.FINAL    %REAL.
+0016#STR0016#ALL#%Prog
+0017#STR0017#ALL#Cant.Real
+0018#STR0018#ALL#Duracion
+0019#STR0019#ALL#%Real
+0020#STR0020#ALL#Previsto
+0021#STR0021#ALL#Realizado
+0022#STR0022#ALL#EDT
+0023#STR0023#ALL#Tarea
+0024#STR0024#ALL#Proyecto
+0025#STR0025#ALL#*** ANULADO POR EL USUARIO ***

@@ -1,0 +1,10 @@
+0001#STR0001#ALL#Listado de Clientes vs. Segmentos
+0002#STR0002#ALL#Este programa emitira listados de Clientes vs. Segmentos de negocios
+0003#STR0003#ALL# obedeciendo los param. y diferente de las reglas de validac. de segmento
+0004#STR0004#ALL# para mantenim. de la base de datos de clientes con relac. a segmentos
+0005#STR0005#ALL#A rayas
+0006#STR0006#ALL#Administracion
+0007#STR0007#ALL#Codigo    Razon social                             Direccion                                Ciudad        Prov DDD Telefono
+0008#STR0008#ALL#ANULADO POR EL OPERADOR
+0009#STR0009#ALL#De acuerdo con los parametros suministrados, no hay datos para imprimir este informe
+0010#STR0010#ALL#Clientes

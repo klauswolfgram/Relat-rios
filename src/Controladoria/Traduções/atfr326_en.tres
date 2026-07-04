@@ -1,0 +1,38 @@
+0001#STR0001#ALL#Function available only to environments TopConnect.
+0002#STR0002#ALL#Function available only to TReport.
+0003#STR0003#ALL#Statement of Assets in Third Party
+0004#STR0004#ALL#Code
+0005#STR0005#ALL#Group
+0006#STR0006#ALL#Acquisition Date
+0007#STR0007#ALL#Entity Data
+0008#STR0008#ALL#Type Description
+0009#STR0009#ALL#Values
+0010#STR0010#ALL#Currency
+0011#STR0011#ALL#Original Value
+0012#STR0012#ALL#Increased Value
+0013#STR0013#ALL#Updated Value
+0014#STR0014#ALL#Accrued Deprec.
+0015#STR0015#ALL#Residual Value
+0016#STR0016#ALL#Data
+0017#STR0017#ALL#Total Text by Accounting Entity
+0018#STR0018#ALL#Grand Total
+0019#STR0019#ALL#AMOUNT
+0020#STR0020#ALL#Total Amounts by Accounting Entity
+0021#STR0021#ALL#Total Text by Branch
+0022#STR0022#ALL#Total Amounts by Branch
+0023#STR0023#ALL#Grand Total Text:
+0024#STR0024#ALL#Grand Total Values
+0025#STR0025#ALL#Creating temporary file...
+0026#STR0026#ALL#Asset Valued Position on the Date
+0027#STR0027#ALL#* * *  T O T A L  B Y  E N T I T Y  * * *
+0028#STR0028#ALL#* * *  T O T A L  B Y  B R A N C H  * * *
+0029#STR0029#ALL#* * *  G R A N D  T O T A L * * *
+0030#STR0128#ALL#Enter valid Asset Code.
+0031#STR0129#ALL#Enter valid Asset Item.
+0032#STR0130#ALL#Enter valid Asset Group.
+0033#STR0131#ALL#Enter valid Supplier.
+0034#STR0132#ALL#Enter valid Asset Acquisition Date.
+0035#STR0133#ALL#Select at least 1 Branch
+0036#STR0134#ALL#Enter valid Page Number.
+0037#STR0135#ALL#Select at least 1 Currency
+0038#STR0136#ALL#Select a maximum of 5 Currencies.

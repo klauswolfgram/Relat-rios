@@ -1,0 +1,22 @@
+0001#STR0001#ALL#Check-In / Check-Out - Management of Services Report
+0002#STR0002#ALL#HR Registration
+0003#STR0003#ALL#Operator Code
+0004#STR0004#ALL#Operator Name
+0005#STR0005#ALL#Code Service Location
+0006#STR0006#ALL#Service Location Description
+0007#STR0007#ALL#Station Start Date
+0008#STR0008#ALL#Station Start Time
+0009#STR0009#ALL#Station End Date
+0010#STR0010#ALL#Station End Time
+0011#STR0011#ALL#Station Total Hours
+0012#STR0012#ALL#Notes
+0013#STR0013#ALL#Registered Check-ins
+0014#STR0014#ALL#Check-in Latitude
+0015#STR0015#ALL#Check-in Longitude
+0016#STR0016#ALL#Check-in Latitude
+0017#STR0017#ALL#Check-out Longitude
+0018#STR0018#ALL#Check-in Time
+0019#STR0019#ALL#Check-out Time
+0020#STR0020#ALL#Station Latitude
+0021#STR0021#ALL#Station Longitude
+0022#STR0022#ALL#Regular Working Day

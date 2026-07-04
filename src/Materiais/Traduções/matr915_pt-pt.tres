@@ -1,0 +1,85 @@
+0001#STR0001#ALL#Listagem De Conferencia Da Gia-rj
+0002#STR0002#ALL#Este programa permite listar quais as informações   
+0003#STR0003#ALL#Criadas em arquivo magnetico e que serão validadas  
+0004#STR0004#ALL#Pela Secretaria Da Fazenda Do Rio De Janeiro.
+0005#STR0005#ALL#Código de barras
+0006#STR0006#ALL#Administração
+0007#STR0007#ALL#Cancleado Pelo Operador
+0008#STR0008#ALL#                                             listagem de conferencia da gia - rj                                        pag.: #### 
+0011#STR0011#ALL#|registo: 0110 |registo identificador da declaração                                                                             |
+0014#STR0014#ALL#|inscrição estadual:                ########                                                                                      |
+0015#STR0015#ALL#|ano de referencia:                 ####                                                                                          |
+0016#STR0016#ALL#|mes de referencia:                 ##                                                                                            |
+0017#STR0017#ALL#|indicador de retificadora:         #                                                                                             |
+0018#STR0018#ALL#|nome do representante legal:       ################################################################                              |
+0019#STR0019#ALL#|ddd do representante legal:        ####                                                                                          |
+0020#STR0020#ALL#|telefone do representante legal:   ########                                                                                      |
+0021#STR0021#ALL#|nome do contabilista:              ################################################################                              |
+0022#STR0022#ALL#|correio eletronico:                ########################################                                                      |
+0023#STR0023#ALL#|ddd do contabilista:               ####                                                                                          |
+0024#STR0024#ALL#|telefone do contabilista:          ########                                                                                      |
+0025#STR0025#ALL#|valor do saldo anterior:           ###############                                                                               |
+0026#STR0026#ALL#|valor do saldo anterior st:        ###############                                                                               |
+0027#STR0027#ALL#|observação:                        ##########################################################################################    |
+0028#STR0028#ALL#|observação st:                     ##########################################################################################    |
+0029#STR0029#ALL#|valor do saldo anterior sce:       ###############                                                                               |
+0030#STR0030#ALL#|valor do crédito de energia sce:   ###############                                                                               |
+0031#STR0031#ALL#|valor do estorno de provisão sce:  ###############                                                                               |
+0032#STR0032#ALL#|valor de provisão sce:             ###############                                                                               |
+0033#STR0033#ALL#|ind. mov. operações proprias:      #                                                                                             |
+0034#STR0034#ALL#|ind. mov. substit. tributaria:     #                                                                                             |
+0035#STR0035#ALL#|ind. mov. outros icms:             #                                                                                             |
+0036#STR0036#ALL#|ind. mov. alc/zfm:                 #                                                                                             |
+0039#STR0039#ALL#|registo: 0120 |registo de movimentação de entradas                                                                             |
+0042#STR0042#ALL#|cfop |     valor      |  valor da base  |   valor  do     |  valor de op.   | valor de outras |
+0043#STR0043#ALL#|     |    contabil    |   de  cálculo   |    imposto      |    isentas      |   operações     |
+0049#STR0049#ALL#|registo: 0130 |registo de movimentação de saidas                                                                               |
+0052#STR0052#ALL#|cfop |     Valor      |  Valor Da Base  |   Valor  Do     |  Valor De Op.   | Valor De Outras | Valor Da Base   |valor Do Imposto|
+0053#STR0053#ALL#|     |    contabil    |   de  cálculo   |    imposto      |    isentas      |   operações     | de cálculo st   |    retido st   |
+0059#STR0059#ALL#|registo: 0140 |registo de movimentação de outros debitos                                                                       |
+0062#STR0062#ALL#|sequencial da |    valor de    | descrição                                                                                       |
+0063#STR0063#ALL#| ocorrencia   |  outro debito  | complementar                                                                                    |
+0069#STR0069#ALL#|registo: 0150 |registo de movimentação de estornos crédito                                                                     |
+0072#STR0072#ALL#|sequencial da |    valor de    | descrição                                                                                       |
+0073#STR0073#ALL#| ocorrencia   |estorno crédito | complementar                                                                                    |
+0079#STR0079#ALL#|registo: 0160 |registo de movimentação de outros créditos                                                                      |
+0082#STR0082#ALL#|sequencial da |   valor de     | descrição                                                                                       |
+0083#STR0083#ALL#| ocorrencia   | outro crédito  | complementar                                                                                    |
+0089#STR0089#ALL#|registo: 0170 |registo de movimentação de estornos debito                                                                      |
+0092#STR0092#ALL#|sequencial da |   valor de     | descrição                                                                                       |
+0093#STR0093#ALL#| ocorrencia   |estorno debito  | complementar	                                                                                    |
+0099#STR0099#ALL#|registo: 0180 |registo de movimentação de deduções                                                                             |
+0102#STR0102#ALL#|sequencial da |   valor de     | descrição                                                                                       |
+0103#STR0103#ALL#| ocorrencia   |    dedução     | complementar                                                                                    |
+0109#STR0109#ALL#|registo: 0190 |registo de movimentação de operações com prazo especial                                                         |
+0112#STR0112#ALL#|sequencial da |    valor de    | descrição                                                                                       |
+0113#STR0113#ALL#| ocorrencia   | prazo especial | complementar	                                                                                    |
+0119#STR0119#ALL#|registo: 0200 |registo de movimentação de outros icms devido                                                                   |
+0122#STR0122#ALL#|sequencial da |    valor de    | descrição                                                                                       |
+0123#STR0123#ALL#| ocorrencia   |   lançamento   | complementar                                                                                    |
+0127#STR0127#ALL#                                                                               												     
+0129#STR0129#ALL#|registo: 0210 |registo de movimentação de entradas interestaduais                                                              |
+0132#STR0132#ALL#|    uf   |           valor             |       valor da base         |       valor de outras       |      valor de outros        |
+0133#STR0133#ALL#|         |          contabil           |        de  cálculo          |          operações          |         produtos            |
+0139#STR0139#ALL#|registo: 0220 |registo de movimentação de saidas interestaduais                                                                |
+0142#STR0142#ALL#|    uf   |  valor contabil   |  valor contabil   | valor base calc.  | valor base calc.  |  valor de outras  | valor do imposto  |
+0143#STR0143#ALL#|         | não contribuinte  |   contribuinte    | não contribuinte  |  contribuinte     |    operações      |    cobrado st     |
+0149#STR0149#ALL#|registo: 0230 |registo de movimentação de saidas para zfm/alc                                                                  |
+0152#STR0152#ALL#|código  da  |serie | subserie | número |    data de     | valor da nota  |   valor de      |  número do     |    número de inscr. |
+0153#STR0153#ALL#|localidade |da fact |  da fact   | da fact  |    emissão     |    fiscal      |    isentas      |    cnpj        |       suframa       |
+0159#STR0159#ALL#|registo: 0240 |registo de movimentação de sce compensado entre estabelecimentos                                                |
+0162#STR0162#ALL#|sequêncial da |observação                                                  |número de |serie | subserie| número |     valor      |
+0163#STR0163#ALL#| ocorrencia   |                                                            |inscrição |da fact |  da fact  | da fact  |   compensado   |
+0169#STR0169#ALL#|registo: 0250 |registo de movimentação de sce compensado do proprio                                                            |
+0172#STR0172#ALL#|sequencial da |observação 						                          |                       valor                         |
+0173#STR0173#ALL#| ocorrencia   |                                                            |                     compensado                      |
+0179#STR0179#ALL#|registo: 0260 |registo de movimentação de sce recebido                                                                         |
+0182#STR0182#ALL#|sequêncial da |observação                                    |número de |serie | subserie| número |cod. prefixo|    número do       |ano do   |  valor         |
+0183#STR0183#ALL#| ocorrencia   |                                              |inscrição |da fact |  da fact  | da fact  |do processo |    processo        |processo |  compensado    |
+0189#STR0189#ALL#|registo: 0270 |registo de movimentação de sce transferido                                                                                                    |
+0192#STR0192#ALL#| Seq. Da  |seq.ocor.|observação                                    |número De |serie |subserie | Número |cod. Prefixo|    Número Do       |ano Do  | Valor Do Saldo|
+0193#STR0193#ALL#|ocorrencia|destino  |                                          		|inscrição |da fact | da fact   | da fact  |do processo |    processo        |processo|  transferido  |
+0199#STR0199#ALL#|registo: 9999 |registo trailler do arquivo                                                                                     |
+0202#STR0202#ALL#|somatorio dos valores informados:	 #########################                                                                      |
+0203#STR0203#ALL#|total de declarações:             #####                                                                                          |
+0204#STR0204#ALL#|total de registros:               #####                                                                                          |

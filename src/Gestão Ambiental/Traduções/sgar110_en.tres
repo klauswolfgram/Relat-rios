@@ -1,0 +1,28 @@
+0001#STR0001#ALL#From Date?
+0002#STR0002#ALL#To Date?
+0003#STR0003#ALL#Self-Monitoring Report for Residue
+0004#STR0004#ALL#The report displays a list
+0005#STR0005#ALL#of residue self-monitoring.
+0006#STR0006#ALL#Residue
+0007#STR0007#ALL#Residue
+0008#STR0008#ALL#Description
+0009#STR0009#ALL#Month
+0010#STR0010#ALL#Occur.
+0011#STR0011#ALL#Generation
+0012#STR0012#ALL#Destination
+0013#STR0013#ALL#Date
+0014#STR0014#ALL#Time
+0015#STR0015#ALL#Warehouse.
+0016#STR0016#ALL#Company Responsible for Destination
+0017#STR0017#ALL#Number CADRI
+0018#STR0018#ALL#Z-form
+0019#STR0019#ALL#Management
+0020#STR0020#ALL#The report displays a list 
+0021#STR0021#ALL#of residue self-monitoring.   
+0022#STR0022#ALL#Wait...
+0023#STR0023#ALL#Processing records...
+0024#STR0024#ALL#Wait
+0025#STR0025#ALL#Processing file...
+0026#STR0026#ALL#Residue          Description                               Mon  Occur.      Generation     Clrnc. Dt. Load        Time    Destination     Company Responsible for Destination            No. CADRI
+0027#STR0027#ALL#There are no data to generate the report.
+0028#STR0028#ALL#ATTENTION

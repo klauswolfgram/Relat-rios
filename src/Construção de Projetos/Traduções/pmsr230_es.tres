@@ -1,0 +1,17 @@
+0001#STR0001#ALL#Este programa tiene como objetivo imprimir informe de gastos del proyecto de acuerdo con los parametros informados por el usuario.
+0002#STR0002#ALL#Lista de Gastos del Proyecto
+0003#STR0003#ALL#A rayas
+0004#STR0004#ALL#Administracion
+0005#STR0005#ALL#FECHA             Vlr. Prev. PC       Vlr. Gastos       Gastos del Dia  Gastos Acumulados
+0006#STR0006#ALL#Proyecto: 
+0007#STR0007#ALL#FCH.
+0008#STR0008#ALL#Vlr. Prev. PC
+0009#STR0009#ALL#Vlr. Gastos
+0010#STR0010#ALL#Gastos del Dia
+0011#STR0011#ALL#Gastos Acumulados
+0012#STR0012#ALL#Proy.
+0013#STR0013#ALL#Gastos del Proyecto
+0014#STR0014#ALL#Gastos anticipados
+0015#STR0015#ALL#¡Aviso!
+0016#STR0016#ALL#¡Las preguntas "¿Fecha de referencia?" o "Numero de dias" no estan rellenadas correctamente!
+0017#STR0017#ALL#*** ANULADO POR EL USUARIO ***

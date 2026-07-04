@@ -1,0 +1,15 @@
+0001#STR0001#ALL#Este programa emitirá a relação do valor recuperável de activos
+0002#STR0002#ALL#efectuadas dentro de um período.
+0003#STR0003#ALL#Relação do valor recuperável dos bens
+0005#STR0005#ALL#C.Custo
+0006#STR0006#ALL#Data Obtenção
+0007#STR0007#ALL#Base       Elem Descrição                                Obtenç.   Quantidade   Factura Chapa    Grupo    C.Custo  Endereço
+0008#STR0008#ALL#                In.Depr.  Tx.Depr.       Valor Original    Deprec. Acumulada   Correcção Acumulada  Data da Liquidação
+0015#STR0015#ALL#Conta do Bem         Conta Correcção       Cta.Desp.Depr.       Cta.Depr.Acum.       Cta.Corr.Depr. 
+0018#STR0018#ALL#Código de Barras
+0019#STR0019#ALL#Administração
+0020#STR0020#ALL#A Seleccionar Registos...
+0024#STR0024#ALL#Total da Data de Obtenção
+0026#STR0026#ALL#In.Depr.
+0028#STR0028#ALL#Valor original
+0030#STR0030#ALL#Correcção acumulada

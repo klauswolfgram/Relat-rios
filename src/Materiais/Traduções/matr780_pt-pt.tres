@@ -1,0 +1,25 @@
+0001#STR0001#ALL#Estatisticas de Vendas (Cliente x Artigo)
+0002#STR0002#ALL#Este Programa Irá Emitir A Relação Das Compras Efectuadas Pelo Cliente,
+0003#STR0003#ALL#A totalizar por artigo e a escolher a moeda forte para os valores.
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#Estatisticas De Vendas (cliente X Artigo)
+0007#STR0007#ALL#Cliente   Razao Social
+0008#STR0008#ALL#ARTIGO         DESCRICAO                  FACTURA        EMISSAO   UN   QUANTIDADE    PRECO UNITARIO            TOTAL  VENDEDOR
+0009#STR0009#ALL#Cliente  Razao Social
+0011#STR0011#ALL#A Seleccionar Registos...
+0012#STR0012#ALL#Cancelado Pelo Operador
+0013#STR0013#ALL#Obs.:
+0014#STR0014#ALL#TOTAL DO ARTIGO - 
+0015#STR0015#ALL#Total do cliente - 
+0016#STR0016#ALL#T o t a l   crial                        ---->
+0017#STR0017#ALL#Dev
+0018#STR0018#ALL#Estatisticas de Vendas (Cliente x Artigo)
+0019#STR0019#ALL#Este Programa Irá Emitir A Relação Das Compras Efectuadas Pelo Cliente,
+0020#STR0020#ALL#A totalizar por artigo e a escolher a moeda forte para os valores.
+0022#STR0022#ALL#TOTAL DO ARTIGO - 
+0023#STR0023#ALL#Total do cliente - 
+0025#STR0025#ALL#Dev
+0026#STR0026#ALL#A seleccionar registos...	
+0028#STR0028#ALL#Itens das Facturas de Saída	
+0029#STR0029#ALL#Devoluções	

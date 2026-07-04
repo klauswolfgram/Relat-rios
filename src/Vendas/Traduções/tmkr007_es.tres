@@ -1,0 +1,13 @@
+0001#STR0001#ALL#Este programa emitira una lista de los productos de los competidores
+0002#STR0002#ALL#comparando con los productos de la base de datos.
+0003#STR0003#ALL#La emision se basara en los parametros del informe
+0004#STR0004#ALL#A rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#ANULADO POR EL OPERADOR
+0007#STR0007#ALL#Nuestro producto
+0008#STR0008#ALL#Nuestro precio
+0009#STR0009#ALL#Nombre del competidor                            Prec. investig.  Ciudad                       Prov Observac.
+0010#STR0010#ALL#No hay datos para imprimir este informe
+0011#STR0011#ALL#Archivo de Competidores
+0012#STR0012#ALL#Nuestros Prod. 
+0013#STR0013#ALL#Lista de Competidores

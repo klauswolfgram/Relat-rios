@@ -1,0 +1,24 @@
+0001#STR0001#ALL#Este relatório irá emitir a relação de pedidos por
+0002#STR0002#ALL#Ordem De Vendedor/Artigo
+0003#STR0003#ALL#Código de barras
+0004#STR0004#ALL#Administração
+0005#STR0005#ALL#Pedidos de Vendas por Vendedor/Artigo    
+0006#STR0006#ALL#PEDIDOS DE VENDAS POR VENDEDOR/ARTIGO    
+0007#STR0007#ALL#CODIGO          DENOMINACAO                      DT       QUANTIDADE      QUANTIDADE   UN                  VALOR
+0008#STR0008#ALL#ARTIGO                                                       PEDIDA        FACTURADA                       TOTAL
+0009#STR0009#ALL#A Seleccionar Registos...
+0010#STR0010#ALL#Cancelado Pelo Operador
+0011#STR0011#ALL#Vendedor : 
+0012#STR0012#ALL#T O T A L  C R I A L : 
+0013#STR0013#ALL#Total vendedor ---> 
+0014#STR0014#ALL#TOTAL ARTIGO  ---> 
+0015#STR0015#ALL#Pedidos de Vendas por Vendedor/Artigo    
+0016#STR0016#ALL#Este relatório irá emitir a relação de pedidos por
+0017#STR0017#ALL#Ordem De Vendedor/Artigo.
+0020#STR0020#ALL#Artigo
+0021#STR0021#ALL#Denominação
+0022#STR0022#ALL#DT
+0023#STR0023#ALL#Qtd.pedida
+0024#STR0024#ALL#Qtd.facturada
+0025#STR0025#ALL#Um
+0027#STR0027#ALL#Total Do Vendedor

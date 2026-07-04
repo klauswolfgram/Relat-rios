@@ -1,0 +1,9 @@
+0001#STR0001#ALL#Controle De Entrega Das Solicitações Ao Armaz.
+0002#STR0002#ALL#  este relatório lista a posição das pré-requisições criadas pelas
+0003#STR0003#ALL#Solicitações ao armazém de acordo com parâmetros seleccionados.
+0004#STR0005#ALL#Código de barras
+0005#STR0006#ALL#Administração
+0006#STR0007#ALL#Cancelado Pelo Operador
+0007#STR0008#ALL#Número   Seq.   Código            Descrição                        Necessidade        Quantidade     Qtd. Disponível     Número Sc    Número Pedido         Centro De Custo    Solicitante
+0008#STR0009#ALL#Itens da pré-requisição
+0009#STR0010#ALL#Número   Seq.   Código                           Descriçao                        Necessidade        Quantidade     Qtd. Disponível     Número SC    Número Pedido         Centro de Custo    Solicitante

@@ -1,0 +1,25 @@
+0001#STR0001#ALL#Report of Losses    
+0002#STR0002#ALL#Issues a list of Losses in Production, according to the order     
+0003#STR0003#ALL#selected by the User.  Lists the Losses of Scrap and Waste that were 
+0004#STR0004#ALL#classified.             
+0005#STR0005#ALL#By PO
+0006#STR0006#ALL#By Resource
+0007#STR0007#ALL#By Reason
+0008#STR0008#ALL#By Product
+0009#STR0009#ALL#By Date
+0010#STR0010#ALL#By Operator
+0011#STR0011#ALL#Z.Form
+0012#STR0012#ALL#Management   
+0013#STR0013#ALL#RECORD(S)  
+0014#STR0014#ALL#of PO:
+0015#STR0015#ALL#of Resource:
+0016#STR0016#ALL#of Reason:
+0017#STR0017#ALL#of Product:
+0018#STR0018#ALL#of Date:
+0019#STR0019#ALL#of Operator:
+0020#STR0020#ALL#Selecting Records...     
+0021#STR0021#ALL#TP  ORDER OF   ____________ORIGIN____________   REASON                ___________DESTIN.___________  DATE       RESOUR.OP   OPERATOR 
+0022#STR0022#ALL#    PRODUCT.      PRODUCT         QUANTITY                              PRODUCT         QUANTITY                                     
+0023#STR0023#ALL#Total 
+0024#STR0024#ALL#TP  ORDER OF   ____________ORIGIN____________   REASON                ___________DESTIN.___________  DATE       RESOUR.OP   OPERATOR 
+0025#STR0025#ALL#Description

@@ -1,0 +1,27 @@
+0001#STR0001#ALL#Este relatório irá imprimir os detalhes da alocação dos recursos nos projectos no período solicitado.
+0002#STR0002#ALL#Alocação De Recursos
+0003#STR0003#ALL#Projecto+tarefa
+0004#STR0004#ALL#Recurso+data De Alocação
+0005#STR0005#ALL#Código de barras
+0006#STR0006#ALL#Administração
+0007#STR0007#ALL#TAREFA                                      RECURSO                                        EQUIPA                                     D. INÍCIO  H.IN.  D. FINAL  H.FIN.  %ALOC  QUANTIDADE UM    CUSTO PRV.     TOTAL PREV.
+0008#STR0008#ALL#Projecto    : 
+0010#STR0010#ALL#Projecto                                                     Tarefa                                                        Data Início        Data Final        %aloc    Quantidade  Um       Custo Prv.         Total Prev.
+0012#STR0012#ALL#Equipa+data De Alocação
+0013#STR0013#ALL#Equipa     : 
+0014#STR0014#ALL#Projecto                                   Tarefa                                      Recurso                                         Data Início    Data Final       %aloc   Quantidade Um     Custo Prv.        Total Prev.
+0015#STR0015#ALL#Equipa   :
+0016#STR0016#ALL#Un. máx  :
+0019#STR0019#ALL#Grupo De Composição
+0020#STR0020#ALL#Projecto+grupo De Tarefas+tarefa+recurso
+0021#STR0021#ALL#Total Crial
+0023#STR0023#ALL#Um
+0024#STR0024#ALL#Projecto + Tarefa + Recurso + Equipa + Grupo De Composição
+0025#STR0025#ALL#Projecto
+0028#STR0028#ALL#Alocação De Recurso
+0029#STR0029#ALL#Equipa
+0030#STR0030#ALL#Tarefa + Alocação De Equipa
+0032#STR0032#ALL#Rec+prj+trf+data
+0033#STR0033#ALL#Recurso(projecto)
+0034#STR0034#ALL#*** cancelado pelo utilizador ***
+0035#STR0035#ALL#Recurso

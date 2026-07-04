@@ -1,0 +1,7 @@
+0001#STR0001#ALL#Este relatorio imprime os titulos a receber conforme parametros selecionado pelo usuario, e as provisoes geradas para estes titulos
+0002#STR0002#ALL#Provisoes
+0003#STR0003#ALL#Nao disponivel
+0004#STR0004#ALL#Este relatorio so esta disponivel para ambientes com banco de dados relacional
+0005#STR0005#ALL#Ok
+0006#STR0006#ALL#Titulos vs Provisoes para cobranca duvidosa
+0007#STR0007#ALL#Titulos

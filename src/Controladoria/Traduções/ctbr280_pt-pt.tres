@@ -1,0 +1,22 @@
+0001#STR0001#ALL#Este programa irá imprimir a relação de movimentos 
+0003#STR0003#ALL#Tas determinadas pelo utilizador.
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#Relação de movimentos acumulados para cc extra, exercício - 
+0007#STR0007#ALL#Código  
+0008#STR0008#ALL#Código da conta     descrição                 
+0009#STR0009#ALL#***** cancelado pelo operador *****
+0010#STR0010#ALL# extracto contabilístico das contas
+0011#STR0011#ALL# descrição             
+0013#STR0013#ALL#Total crial: 
+0014#STR0014#ALL#Código do centro de custo     descrição                                       
+0015#STR0015#ALL#Código da conta      descrição                                       
+0016#STR0016#ALL#é necessário digitar, nos parâmetros, a moeda a ser utilizada pela listagem
+0017#STR0017#ALL#Por favor, verifique se o calend.contabilístico e a associação moeda/calendário 
+0018#STR0018#ALL#Foram registados correctamente...
+0019#STR0019#ALL#Acumulado
+0022#STR0022#ALL#Até
+0023#STR0023#ALL#A visão de gestão ainda não está disponível para este relatório.
+0024#STR0024#ALL#Alterar a configuração de livros...
+0025#STR0025#ALL#Config. De Livros...
+0027#STR0027#ALL#A executar consulta...

@@ -1,0 +1,31 @@
+0001#STR0001#ALL#Items x Rental
+0002#STR0002#ALL#Z. form
+0003#STR0003#ALL#Management   
+0004#STR0004#ALL#Itemw with locat.
+0005#STR0005#ALL#Location   Group Code                      Description                 Amt
+0006#STR0006#ALL#Items without Stock and w/o loc
+0007#STR0007#ALL#Location   Grp  Code                       Descript.               Quantity  
+0008#STR0008#ALL#S/COMPLMNT 
+0009#STR0009#ALL#Lost Sales Control
+0010#STR0010#ALL#Section 1
+0011#STR0011#ALL#Location
+0012#STR0012#ALL#Group
+0013#STR0013#ALL#Item Cod.
+0014#STR0014#ALL#Description
+0015#STR0015#ALL#Section 2
+0016#STR0016#ALL#Balance
+0017#STR0017#ALL#Generating Work File
+0018#STR0018#ALL#Address From
+0019#STR0019#ALL#Address To
+0020#STR0020#ALL#Item
+0021#STR0021#ALL#Rental
+0022#STR0022#ALL#Group
+0023#STR0023#ALL#Item Code
+0024#STR0024#ALL#Description
+0025#STR0025#ALL#Quantity
+0026#STR0026#ALL#------------------------------------------------------------------------------
+0027#STR0027#ALL#Order by: 
+0028#STR0028#ALL#Item
+0029#STR0029#ALL#Rental
+0030#STR0030#ALL#This program aims at printing the items with location or with stock and without location
+0031#STR0031#ALL#Items (All)

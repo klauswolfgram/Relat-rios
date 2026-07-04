@@ -1,0 +1,90 @@
+0001#STR0001#ALL#Imprime relacao de Órdenes de Compra,
+0002#STR0002#ALL#Remitos e Facturas
+0003#STR0003#ALL#Data emissao
+0004#STR0004#ALL#Fornecedor
+0005#STR0005#ALL#Produto
+0006#STR0006#ALL#Zebrado
+0007#STR0007#ALL#Administracao
+0008#STR0008#ALL#Relacao de Órdenes de Compra/Remitos/Facturas
+0009#STR0009#ALL#Relacao de Remitos/Órdenes de Compra/Facturas
+0010#STR0010#ALL#Relacao de Facturas/Remitos/Órdenes de Compra
+0011#STR0011#ALL#Fornecedor Produto        
+0012#STR0012#ALL#Data       Produto         
+0013#STR0013#ALL#Data       Fornecedor
+0014#STR0014#ALL#DADOS DA ORDEN DE COMPRA                               
+0015#STR0015#ALL#Num.OC/Item     Preco Unit.     Quantidade  Data Ent. 
+0016#STR0016#ALL#DADOS DO REMITO                           
+0017#STR0017#ALL#Num.Remito/Item     Quantidade  Data Ent. 
+0018#STR0018#ALL#DADOS DA FACTURA                                     
+0019#STR0019#ALL#Num.Factura/Item          Preco Unit.     Quantidade 
+0020#STR0020#ALL#Div.preco/Data Entr?
+0021#STR0021#ALL#Filtrando registros...
+0022#STR0022#ALL#CANCELADO PELO OPERADOR
+0023#STR0023#ALL#Total Data  -> 
+0024#STR0024#ALL#Total Forneced. -> 
+0025#STR0025#ALL#Total Produto  -> 
+0026#STR0026#ALL#Data:  
+0027#STR0027#ALL#Forneced.: 
+0028#STR0028#ALL#Produto:  
+0029#STR0029#ALL#NAO HA FACTURA 
+0030#STR0030#ALL#NAO HA REMITO 
+0031#STR0031#ALL#NAO HA ORDEN DE COMPRA
+0032#STR0032#ALL#Baseado em       ?
+0033#STR0033#ALL#Do    Fornecedor ?
+0034#STR0034#ALL#Até   Fornecedor ?
+0035#STR0035#ALL#Do    Produto    ?
+0036#STR0036#ALL#Até   Produto    ?
+0037#STR0037#ALL#Do    Grupo      ?
+0038#STR0038#ALL#Até   Grupo      ?
+0039#STR0039#ALL#De    Emissao    ?
+0040#STR0040#ALL#Até   Emissao    ?
+0041#STR0041#ALL#Orden de Compra
+0042#STR0042#ALL#Remito
+0043#STR0043#ALL#Factura
+0044#STR0044#ALL#Total Geral   -> 
+0045#STR0045#ALL#guías de despacho e facturas
+0046#STR0046#ALL#remisiones e facturas
+0047#STR0047#ALL#facturas de entrega e facturas
+0048#STR0048#ALL#Relacao de Órdenes de Compra/Guías de Despacho/Facturas
+0049#STR0049#ALL#Relacao de Guías de Despacho/Órdenes de Compra/Facturas
+0050#STR0050#ALL#Relacao de Facturas/Guías de Despacho/Órdenes de Compra
+0051#STR0051#ALL#Relacao de Órdenes de Compra/Remisiones/Facturas
+0052#STR0052#ALL#Relacao de Remisiones/Órdenes de Compra/Facturas
+0053#STR0053#ALL#Relacao de Facturas/Remisiones/Órdenes de Compra
+0054#STR0054#ALL#Relacao de Órdenes de Compra/Facturas de Entrega/Facturas
+0055#STR0055#ALL#Relacao de Facturas de Entrega/Órdenes de Compra/Facturas
+0056#STR0056#ALL#Relacao de Facturas/Facturas de Entrega/Órdenes de Compra
+0057#STR0057#ALL#DADOS DA GUIA DE DESPACHO                 
+0058#STR0058#ALL#DADOS DA REMISION                         
+0059#STR0059#ALL#DADOS DA FACTURA DE ENTREGA               
+0060#STR0060#ALL#N.Guía Dsp/Item     Quantidade  Data Ent. 
+0061#STR0061#ALL#N.Remisión/Item     Quantidade  Data Ent. 
+0062#STR0062#ALL#N.Fct.Entr/Item     Quantidade  Data Ent. 
+0063#STR0063#ALL#NAO HA GUIA DE DESPACHO 
+0064#STR0064#ALL#NAO HA REMISION 
+0065#STR0065#ALL#NAO HA FACTURA DE ENTREGA 
+0066#STR0066#ALL#Guía de Despacho
+0067#STR0067#ALL#Remisión
+0068#STR0068#ALL#Factura de Entrega
+0069#STR0069#ALL#Sim
+0070#STR0070#ALL#Nao
+0071#STR0071#ALL# e Facturas
+0072#STR0072#ALL#Relacao de Ordens de Compra/
+0073#STR0073#ALL#s(es)/
+0074#STR0074#ALL#Facturas
+0075#STR0075#ALL#Relacao de 
+0076#STR0076#ALL#/Ordens de Compras
+0077#STR0077#ALL#Dados do(a) 
+0078#STR0078#ALL#/Item               Quantidade Data Ent.  
+0079#STR0079#ALL#Remito
+0080#STR0080#ALL#It.Rem
+0081#STR0081#ALL#Qtd.Rem
+0082#STR0082#ALL#Dt.Entrega
+0083#STR0083#ALL#Div Preco
+0084#STR0084#ALL#Div Entrega
+0085#STR0085#ALL#Pedido de Compras (Baseado em pedido de Compras)
+0086#STR0086#ALL#Pedido de Compras X Remito X Documento de Entrada (Baseado em Pedido de Compras)
+0087#STR0087#ALL#Remito (Baseado em Remito)
+0088#STR0088#ALL#Remito X Pedido de Compras X Documento de Entrada (Baseado em Remito)
+0089#STR0089#ALL#Documento de Entrada (Baseado em Documento de Entrada)
+0090#STR0090#ALL#Documento de Entrada X Remito X Pedido de Compras (Baseado em Documento de Entrada)

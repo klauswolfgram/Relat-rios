@@ -1,0 +1,19 @@
+0001#STR0001#ALL#Reissuance of Invoices    
+0002#STR0002#ALL#This program has the purpose of reissuing Invoices that were
+0003#STR0003#ALL#not generated at the moment of the Sale. For this,the Invoice
+0004#STR0004#ALL#script recorder in Parameter  MV_SCRNOTA will be used (
+0005#STR0005#ALL#Special
+0006#STR0006#ALL#Management   
+0007#STR0007#ALL#Invoices Issuing
+0008#STR0008#ALL#This program issues Invoices.
+0009#STR0009#ALL#Document Reissue
+0010#STR0010#ALL#The aim of this program is to re-issue Documents but
+0011#STR0011#ALL#Document script saved in MV_SCRNOTA parameter (
+0012#STR0012#ALL#Document Issue
+0013#STR0013#ALL#The aim of this program is to issue Documents.
+0014#STR0014#ALL#Invoices cannot be Reissued to 
+0015#STR0015#ALL# Chile 
+0016#STR0016#ALL# Colombia
+0017#STR0017#ALL#The function indicated in the parameter MV_SCRNOTA are not compiled in the RPO.
+0018#STR0018#ALL#Function:
+0019#STR0019#ALL#Compile this function and repeat the operation.

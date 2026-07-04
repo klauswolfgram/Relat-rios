@@ -1,0 +1,27 @@
+0001#STR0001#ALL#Este programa imprimirá o Comparativo dos movimentos de Clientes
+0002#STR0002#ALL#até 6 meses.  Os valores são ref. as movimentações de títulos   
+0003#STR0003#ALL# no periodo solicitado. 
+0004#STR0004#ALL#Comparativo de movimentos de Clientes até 6 meses
+0005#STR0005#ALL#Zebrado
+0006#STR0006#ALL#Administracao
+0007#STR0007#ALL#O período solicitado nao confere com o calendario contabil. Favor refazer o calendario contábil.
+0008#STR0008#ALL#O período solicitado ultrapassa o limite de 6 meses. Será impresso somente os 6 meses a partir da data inicial.
+0009#STR0009#ALL# de 
+0010#STR0010#ALL# a 
+0011#STR0011#ALL#CODIGO
+0012#STR0012#ALL#N  O  M  E
+0013#STR0013#ALL#   MOV. PERIODO 01   |   MOV. PERIODO 02   |   MOV. PERIODO 03   |   MOV. PERIODO 04   |   MOV. PERIODO 05   |   MOV. PERIODO 06   |      TOTAL  GERAL |
+0014#STR0014#ALL#      TOTAL  GERAL |
+0015#STR0015#ALL#Previsto ->
+0016#STR0016#ALL#Realizado->
+0017#STR0017#ALL#Em ordem de codigo
+0018#STR0018#ALL#Em ordem de Previsto
+0019#STR0019#ALL#Em ordem de Realizado
+0020#STR0020#ALL#Em ordem de Previsto+Realizado
+0021#STR0021#ALL#Previsto
+0022#STR0022#ALL#Realizado
+0023#STR0023#ALL#Código
+0024#STR0024#ALL#Empresa
+0025#STR0025#ALL#Unidade de negócio
+0026#STR0026#ALL#Filial
+0027#STR0027#ALL#Filiais selecionadas para o relatorio

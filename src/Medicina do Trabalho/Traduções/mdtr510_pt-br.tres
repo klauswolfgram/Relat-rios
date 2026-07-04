@@ -1,0 +1,53 @@
+0001#STR0001#ALL#Atestado Medico
+0002#STR0002#ALL#De Ficha Medica    ?
+0003#STR0003#ALL#Ate Ficha Medica   ?
+0004#STR0004#ALL#De Data            ?
+0005#STR0005#ALL#Ate Data           ?
+0006#STR0006#ALL#De CID             ?
+0007#STR0007#ALL#Ate CID            ?
+0008#STR0008#ALL#PROGRAMA DE CONTROLE MEDICO DE SAUDE OCUPACIONAL
+0009#STR0009#ALL#COMUNICACAO INTERNA DE ATESTADOS POR FALTA AO TRABALHO
+0010#STR0010#ALL#Unidade:
+0011#STR0011#ALL#Data:
+0012#STR0012#ALL#R. G.
+0013#STR0013#ALL#NOME
+0014#STR0014#ALL#PERIODO DE AFASTAMENTO
+0015#STR0015#ALL#OBSERVACOES
+0016#STR0016#ALL#MEDICO
+0017#STR0017#ALL#RESPONSÁVEL DE SAÚDE
+0018#STR0018#ALL#MATRICULA
+0019#STR0019#ALL#De Cliente ?
+0020#STR0020#ALL#Código do cliente. O campo pode permanecer vazio para considerar desde o primeiro código.	
+0021#STR0021#ALL#Loja
+0022#STR0022#ALL#Código da loja do cliente. O campo pode permanecer vazio para considerar desde o primeiro código.	
+0023#STR0023#ALL#Até Cliente ?
+0024#STR0024#ALL#Código do cliente. O campo pode ser preenchido com a letra Z até o final para considerar o último código.	
+0025#STR0025#ALL#Código da loja do cliente. O campo pode ser preenchido com a letra Z até o final para considerar o último código.
+0026#STR0026#ALL#Ate CID ?
+0027#STR0027#ALL#De CID ?
+0028#STR0028#ALL#Ate Data ?
+0029#STR0029#ALL#De Data ?
+0030#STR0030#ALL#Ate Ficha Medica ?
+0031#STR0031#ALL#De Ficha Medica ?
+0032#STR0032#ALL#COMUNICACAO  INTERNA  DE  ATESTADOS  POR  FALTA  AO  TRABALHO
+0033#STR0033#ALL#Informe de qual centro de custo deseja filtrar. O campo pode permanecer vazio para considerar desde o primeiro código.
+0034#STR0034#ALL#Informe até qual centro de custo deseja filtrar. O campo pode ser preenchido com a letra Z até o final para considerar até o último código.
+0035#STR0035#ALL#De Centro de Custo ?
+0036#STR0036#ALL#Até Centro de Custo ?
+0037#STR0037#ALL#De Função ?
+0038#STR0038#ALL#Até Função ?
+0039#STR0039#ALL#Informe de qual função deseja filtrar. O campo pode permanecer vazio para considerar desde o primeiro código.
+0040#STR0040#ALL#Informe até qual função deseja filtrar. O campo pode ser preenchido com a letra Z até o final para considerar até o último código.
+0041#STR0041#ALL#Considerar Atest. ou Afast.
+0042#STR0042#ALL#Atestado
+0043#STR0043#ALL#Afastamento
+0044#STR0044#ALL#Determina se será considerado a Data do Atestado Médico ou a Data dos Afastamentos.
+0045#STR0045#ALL#CENTRO DE CUSTO
+0046#STR0046#ALL#PERIODO DE AFAST.
+0047#STR0047#ALL#HORAS PERD.
+0048#STR0048#ALL#DIAS PERD.
+0049#STR0049#ALL#Não existe atestado para realizar a impressão.
+0050#STR0050#ALL#                                         MEDICO                                                                                   RESPONSÁVEL DE SAÚDE         
+0051#STR0051#ALL# a 
+0052#STR0052#ALL#GRUPO CID
+0053#STR0053#ALL#CID

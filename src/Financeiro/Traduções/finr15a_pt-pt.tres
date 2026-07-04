@@ -1,0 +1,65 @@
+0001#STR0001#ALL#Este Programa Imprimirá A Movimentação Contabilística De Responsáveis
+0002#STR0002#ALL#Pode  emitir-se  todo  o movimento dos mesmos ou apenas  
+0003#STR0003#ALL#Os valores originais.                                        
+0004#STR0004#ALL#Posição Dos Títulos A Pagar
+0005#STR0005#ALL#Código    Nome Fornecedor     Prf-número          Tp  Modalidade  Fecho De   Vencto     Vencto     Banco Valor Original|       Títulos  Vencidos       |títulos A Vencer| Num        Valorjuros   Dias              Saldo
+0006#STR0006#ALL#                               Cuota                              Emissão    Título     Real                           | Valor Nominal  Valor Corregido|  Valor Nominal | Banco     O Permanência  Atraso            Final
+0008#STR0008#ALL#Administração
+0009#STR0009#ALL#De fornecedor        
+0010#STR0010#ALL#Ao responsável        
+0011#STR0011#ALL#Da sucursal         
+0012#STR0012#ALL#Até à sucursal          
+0013#STR0013#ALL#Do fecho de emissão 
+0014#STR0014#ALL#O fecho de emissão  
+0015#STR0015#ALL#Introduza             
+0016#STR0016#ALL#Considera Nc,nd Y Pa
+0017#STR0017#ALL#Importações em         
+0018#STR0018#ALL#Analítico
+0019#STR0019#ALL#Resumo
+0020#STR0020#ALL#Sim
+0022#STR0022#ALL#Moeda 1
+0023#STR0023#ALL#Moeda 2
+0024#STR0024#ALL#Moeda 3
+0025#STR0025#ALL#Moeda 4
+0026#STR0026#ALL#Moeda 5
+0027#STR0027#ALL#Por Código
+0028#STR0028#ALL#Por Nome
+0029#STR0029#ALL#Por Modalidade
+0030#STR0030#ALL#Posição Dos Responsáveis
+0031#STR0031#ALL#A imprimir...
+0032#STR0032#ALL#A Seleccionar Registos...
+0033#STR0033#ALL#A Preparar Transitório...
+0034#STR0034#ALL#Vence Hoje
+0035#STR0035#ALL#Total por modalidade ----> 
+0036#STR0036#ALL#Total por fornecedor ----> 
+0037#STR0037#ALL#Títulos
+0038#STR0038#ALL#T o t a l     g e r a l         ----> 
+0039#STR0039#ALL#Nota de crédito nr. 
+0040#STR0040#ALL#Nota de débito nr. 
+0041#STR0041#ALL#Factura nr. 
+0042#STR0042#ALL#Anticipo
+0043#STR0043#ALL#Nota De Créd. Externa
+0044#STR0044#ALL#Nota De Déb. Externa
+0045#STR0045#ALL#Não Classificado...
+0046#STR0046#ALL#Recibo nr. 
+0047#STR0047#ALL#Ret. Impostos
+0048#STR0048#ALL#Pref-número
+0051#STR0051#ALL#Tít.
+0053#STR0053#ALL#Emissão
+0055#STR0055#ALL#Euro
+0058#STR0058#ALL#|      Títulos
+0059#STR0059#ALL#|valor Nominal
+0061#STR0061#ALL#Valor corrigido |
+0062#STR0062#ALL#| títulos a vencer | 
+0063#STR0063#ALL#|   valor nominal  |
+0065#STR0065#ALL#Permanência
+0070#STR0070#ALL#Fornecedor x títulos a pagar
+0073#STR0073#ALL#  Valor  |   Títulos Vencidos          | Títulos a Vencer | Valor Juros/      Saldo
+0074#STR0074#ALL#Original |  Vlr Nominal  Vlr Corrigido | Valor Nominal    |Permanência        Final
+0075#STR0075#ALL#  Valor |    Títulos Vencidos               |     Títulos a Vencer |     Valor Juros/       Saldo
+0076#STR0076#ALL#Original|   Vlr.Nominal       Vlr.Corrigido |     Valor Nominal    |    Permanência         Final
+0077#STR0077#ALL#Vlr.C.Q.
+0078#STR0078#ALL#Vlr C.Q.    Valor | Títulos Vencidos        |Títulos a Vencer| Valor Juros/  Saldo
+0079#STR0079#ALL#          Original|Vlr.Nominal  Vlr.Corrigido|Valor Nominal   |Permanência    Final
+0080#STR0080#ALL#Vlr.C.Q.     Valor |    Títulos Vencidos               | Títulos a Vencer |Valor Juros/         Saldo
+0081#STR0081#ALL#           Original|   Vlr.Nominal       Vlr.Corrigido | Valor Nominal    |Permanência          Final

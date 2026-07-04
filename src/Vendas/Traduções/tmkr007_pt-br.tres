@@ -1,0 +1,13 @@
+0001#STR0001#ALL#Este programa irá emitir uma relação dos produtos dos concorrentes
+0002#STR0002#ALL#comparando com os produtos da base de dados.
+0003#STR0003#ALL#A emissão ocorrerá baseada nos parametros do relatório
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#CANCELADO PELO OPERADOR
+0007#STR0007#ALL#Nosso Produto
+0008#STR0008#ALL#Nosso Preço
+0009#STR0009#ALL#Nome do Concorrente                              Preço Pesquisa   Cidade                         UF Observação
+0010#STR0010#ALL#Näo há informações para imprimir este relatório
+0011#STR0011#ALL#Cadastro de Concorrentes
+0012#STR0012#ALL#Nossos Produtos
+0013#STR0013#ALL#Lista de Concorrentes

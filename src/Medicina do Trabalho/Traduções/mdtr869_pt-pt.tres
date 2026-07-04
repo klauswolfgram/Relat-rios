@@ -1,0 +1,40 @@
+0001#STR0001#ALL#Taxa Mensal De Acidentes
+0003#STR0003#ALL#Centro de custo ?
+0004#STR0004#ALL#Tipo de impressão ?
+0005#STR0005#ALL#Ecrã
+0007#STR0007#ALL#Janeiro
+0008#STR0008#ALL#Fevereiro
+0009#STR0009#ALL#Marco
+0010#STR0010#ALL#Abril
+0011#STR0011#ALL#Maio
+0012#STR0012#ALL#Junho
+0013#STR0013#ALL#Julho
+0014#STR0014#ALL#Agosto
+0015#STR0015#ALL#Setembro
+0016#STR0016#ALL#Outubro
+0017#STR0017#ALL#Novembro
+0018#STR0018#ALL#Dezembro
+0019#STR0019#ALL#Total
+0020#STR0020#ALL#Empresa:
+0021#STR0021#ALL#Ano:
+0022#STR0022#ALL#Navio:
+0023#STR0023#ALL#Horas Homem De Exposição Ao Risco
+0024#STR0024#ALL#Número De Acidentes Ocorridos
+0025#STR0025#ALL#Taxa De Acidentados
+0026#STR0026#ALL#Mês
+0027#STR0027#ALL#Quantidade
+0028#STR0028#ALL#Sem Afastamento
+0029#STR0029#ALL#Com Afastamento
+0030#STR0030#ALL#Tfsa
+0031#STR0031#ALL#Tfca
+0033#STR0033#ALL#Número de acidentes ocorridos sem afastamento - aquele em que o empregado retorna às suas atividades normais no mesmo
+0034#STR0034#ALL#Dia do acidente ou no dia seguinte no início da próxima jornada de trabalho.
+0035#STR0035#ALL#Número de acidentes ocorridos com afastamento - aquele em que o empregado não retorna às suas atividades normais no
+0036#STR0036#ALL#Mesmo dia do acidente ou no dia seguinte no início da próxima jornada de trabalho.
+0037#STR0037#ALL#Tfsa - número de acidentes sem afastamento x 1.000.000 / número de horas homem de exposição.
+0038#STR0038#ALL#Tfca - número de acidentes com afastamento x 1.000.000 / número de horas homem de exposição.
+0039#STR0039#ALL#O ano indicado deve conter 4 dígitos.
+0049#STR0049#ALL#Até Centro Custo ?
+0051#STR0051#ALL#Até Filial ?
+0053#STR0053#ALL#Típico
+0054#STR0054#ALL#Trajecto

@@ -1,0 +1,80 @@
+0001#STR0001#ALL#Informe Auxiliar 
+0002#STR0002#ALL#Emision de Retenciones
+0003#STR0003#ALL#Especial
+0004#STR0004#ALL#Administracion
+0005#STR0005#ALL#LISTADO AUXILIAR DE RETENCION
+0006#STR0006#ALL#Concepto de Retencion :
+0007#STR0007#ALL# Codigo   Razon Social del Contribuyente                  NIT/CC                             Monto Base   Tasa      Monto Retenido
+0008#STR0008#ALL#Total 
+0009#STR0009#ALL#Proveedor
+0010#STR0010#ALL#Cliente
+0011#STR0011#ALL#Total Proveedor :
+0012#STR0012#ALL#  Total Cliente :
+0013#STR0013#ALL#Proveedor             :
+0014#STR0014#ALL#Cliente               :
+0015#STR0015#ALL# Fecha                                                                Documento              Monto Base   Tasa      Monto Retenido
+0016#STR0016#ALL# Concepto de la retencion                                                                    Monto Base   Tasa      Monto Retenido
+0017#STR0017#ALL# Fecha                                                                Documento              Monto Base   Tasa      Monto Retenido
+0018#STR0018#ALL# Concepto de la retencion                                                                    Monto Base   Tasa      Monto Retenido
+0019#STR0019#ALL# Codigo   Razon Social del Contribuyente           NIT/CC             Documento              Monto Base   Tasa      Monto Retenido
+0020#STR0020#ALL# Codigo   Razon Social del Contribuyente                  NIT/CC                             Monto Base   Tasa      Monto Retenido
+0021#STR0021#ALL# Concepto de la retencion                                             Documento              Monto Base   Tasa      Monto Retenido
+0022#STR0023#ALL#¨Impuesto           ?
+0023#STR0024#ALL#¨Tipo de Operacion  ?
+0024#STR0025#ALL#Compras
+0025#STR0026#ALL#Facturacion
+0026#STR0027#ALL#¨De Fecha           ?
+0027#STR0028#ALL#¨A  Fecha           ?
+0028#STR0029#ALL#¨Tipo Ident. Fiscal ?
+0029#STR0030#ALL#NIT
+0030#STR0031#ALL#CEDULA
+0031#STR0032#ALL#¨De NIT/CC          ?
+0032#STR0033#ALL#¨A  NIT/CC          ?
+0033#STR0034#ALL#¨De Documento       ?
+0034#STR0035#ALL#¨A  Documento       ?
+0035#STR0036#ALL#** CANCELADO POR EL OPERADOR **
+0036#STR0037#ALL#Concepto + Cliente/Proveedor + Fecha
+0037#STR0038#ALL#Cliente/Proveedor + Concepto + Fecha
+0038#STR0039#ALL#Fecha + Concepto + Cliente/Proveedor
+0039#STR0040#ALL#Fecha + Cliente/Proveedor + Concepto
+0040#STR0041#ALL#de
+0041#STR0042#ALL#Ordenado por:
+0042#STR0043#ALL#Selecionando registros...
+0043#STR0044#ALL#Data
+0044#STR0045#ALL#CFO
+0045#STR0046#ALL# Data 
+0046#STR0047#ALL# Continua...
+0047#STR0048#ALL#Total Geral:
+0048#STR0049#ALL#Data
+0049#STR0050#ALL#Fornecedor :
+0050#STR0051#ALL#Cliente: 
+0051#STR0052#ALL#NIT/CC:
+0052#STR0053#ALL#Data:
+0053#STR0054#ALL#CC:
+0054#STR0055#ALL#Não existe informação dentro dos parâmetros solicitados
+0055#STR0056#ALL#NIT:
+0056#STR0057#ALL#Cabeçalho
+0057#STR0058#ALL#Verba:
+0058#STR0059#ALL#Cliente:
+0059#STR0060#ALL#Data:
+0060#STR0061#ALL#Cabeçalho (Analítico)
+0061#STR0062#ALL#Detalhe
+0062#STR0063#ALL#Verba
+0063#STR0064#ALL#Código
+0064#STR0065#ALL#Razão Social
+0065#STR0066#ALL#NIT/CC
+0066#STR0067#ALL#Valor Base
+0067#STR0068#ALL#Taxa
+0068#STR0069#ALL#Valor Retenção
+0069#STR0070#ALL#Detalhe (Analítico)
+0070#STR0071#ALL#Data
+0071#STR0072#ALL#Documento
+0072#STR0073#ALL#Totais
+0073#STR0074#ALL#Total Valor Base
+0074#STR0075#ALL#Total Valor Retenção
+0075#STR0076#ALL#Totais (Analítico)
+0076#STR0077#ALL#Total Base
+0077#STR0078#ALL#Total Retenção
+0078#STR0079#ALL#Total Geral
+0079#STR0080#ALL#Total Base Geral
+0080#STR0081#ALL#Total Retenção Geral

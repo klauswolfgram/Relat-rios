@@ -1,0 +1,64 @@
+0001#STR0001#ALL#NO TRANSACTIONS
+0002#STR0002#ALL#|                                                    IPI CALCULATION RECORD                                                       |
+0003#STR0003#ALL#|                                                TAX CALCULATION  STATEMENT                                              |
+0004#STR0004#ALL#| COMP.: #########################################################                                                                 |
+0005#STR0005#ALL#| STA.REGT.: ######################## C.N.P.J.: #################                                                                  |
+0006#STR0006#ALL#| SHEET: ####     MONTH OR PERIOD/YEAR: #########                                                                                    |
+0007#STR0007#ALL#|                                                          I N F L O W S                                                           |
+0008#STR0008#ALL#|                                                           O U T P U T                                                            |
+0009#STR0009#ALL#|    FISCAL    |                    |                                 IPI - FISCAL VALUES                                          |
+0010#STR0010#ALL#|    TAX    |  ACCOUNTING VALUES |    CALCULATION BASE   |  CREDITED TAX   | EXEMPT OR NOT TAXED |      OTHERS        |
+0011#STR0011#ALL#|    TOTALS    | ################## |  ##################  |  ##################  |    ##################     | ################## |
+0012#STR0012#ALL#| CREDIT STATEMENT                                                              |                 VALUES              |
+0013#STR0013#ALL#|                                                                                        |   AUXILIAR COLUMN  |        SUM         |
+0014#STR0014#ALL#| 001 - BY INTERNAL MARKET INFLOW                                                        |                    | ################## |
+0015#STR0015#ALL#| 002 - BY EXTERNAL MARKET INFLOW                                                        |                    | ################## |
+0016#STR0016#ALL#| 003 - PER OUTPUT TO INTERNAL MARKET              |                    | ################## |
+0017#STR0017#ALL#| 004 - REVERSAL OF DEBITS (ITEMIZE BELOW)        |                    |                    |
+0018#STR0018#ALL#| 005 - OTHER CREDITS (ITEMIZE BELOW)                                |                    |                    |
+0019#STR0019#ALL#| 006 - SUBTOTAL                                                                         |                    | ################## |
+0020#STR0020#ALL#| 007 - CREDIT BALANCE OF THE PREVIOUS PERIOD                                            |                    | ################## |
+0021#STR0021#ALL#| 008 - TOTAL                                                                            |                    | ################## |
+0022#STR0022#ALL#| DEBIT STATEMENT                                                               |                    |                    |
+0023#STR0023#ALL#| 009 - PER OUTPUT TO NATIONAL MARKET                                               |                    | ################## |
+0024#STR0024#ALL#| 010 - REVERSAL OF CREDITS (ITEMIZE BELOW)                                         |                    |                    |
+0025#STR0025#ALL#| 011 - CREDIT REIMBURSEMENT                                                        |                    | ################## |
+0026#STR0026#ALL#| 012 - OTHER DEBITS (ITEMIZE BELOW)                                              |                    |                    |
+0027#STR0027#ALL#| 013 - TOTAL                                                                            |                    | ################## |
+0028#STR0028#ALL#| BALANCE CALCULATION                                                                |                    |                    |
+0029#STR0029#ALL#| 014 - TOTAL DEBIT (ITEM 013)                                                          |                    | ################## |
+0030#STR0030#ALL#| 015 - TOTAL CREDIT (ITEM 008)                                                          |                    | ################## |
+0031#STR0031#ALL#| 016 - DEBIT BALANCE (ITEM 014-ITEM 015)                                                |                    | ################## |
+0032#STR0032#ALL#| 017 - CREDIT BALANCE  (ITEM 015-ITEM 014)                                              |                    | ################## |
+0033#STR0033#ALL#| ADDITIONAL INFORMATION                                                                                                       |
+0034#STR0034#ALL#|                         TAX PAYMENT FORMS                                                                                        |
+0035#STR0035#ALL#| NUMBER   DATE       VALUE             COLLECTING AGENCY                                                                     |
+0036#STR0036#ALL#| NOTES: ##################################################################################                                  |
+0037#STR0037#ALL# TO 
+0038#STR0038#ALL#|    TAX    |  ACCOUNTING VALUES |    CALCULATION BASE   |  CREDITED TAX   | EXEMPT OR NOT TAXED |      OTHERS        |
+0039#STR0039#ALL#|              |                    |             OPERATIONS WITH CREDIT          |               OPERATIONS WITHOUT CREDIT    |
+0039#STR0039#ANG#|              |                    |             OPERATIONS WITH CREDIT          |               OPERATIONS WITHOUT CREDIT    |
+0039#STR0039#ARG#|              |                    |             OPERATIONS WITH CREDIT          |               OPERATIONS WITHOUT CREDIT    |
+0039#STR0039#BOL#|              |                    |             OPERATIONS WITH CREDIT          |               OPERATIONS WITHOUT CREDIT    |
+0039#STR0039#BRA#|              |                    |             OPERATIONS WITH CREDIT          |               OPERATIONS WITHOUT CREDIT    |
+0039#STR0039#CHI#|              |                    |             OPERATIONS WITH CREDIT          |               OPERATIONS WITHOUT CREDIT    |
+0039#STR0039#COL#|              |                    |             OPERATIONS WITH CREDIT          |               OPERATIONS WITHOUT CREDIT    |
+0039#STR0039#COS#|              |                    |             OPERATIONS WITH CREDIT          |               OPERATIONS WITHOUT CREDIT    |
+0039#STR0039#DOM#|              |                    |             OPERATIONS WITH CREDIT          |               OPERATIONS WITHOUT CREDIT    |
+0039#STR0039#EQU#|              |                    |             OPERATIONS WITH CREDIT          |               OPERATIONS WITHOUT CREDIT    |
+0039#STR0039#EUA#|              |                    |             OPERATIONS WITH CREDIT          |               OPERATIONS WITHOUT CREDIT    |
+0039#STR0039#HAI#|              |                    |             OPERATIONS WITH CREDIT          |               OPERATIONS WITHOUT CREDIT    |
+0039#STR0039#MEX#|              |                    |             OPERATIONS WITH CREDIT          |               OPERATIONS WITHOUT CREDIT    |
+0039#STR0039#PAN#|              |                    |             OPERATIONS WITH CREDIT          |               OPERATIONS WITHOUT CREDIT    |
+0039#STR0039#PAR#|              |                    |             OPERATIONS WITH CREDIT          |               OPERATIONS WITHOUT CREDIT    |
+0039#STR0039#PER#|              |                    |             OPERATIONS WITH CREDIT          |               OPERATIONS WITHOUT CREDIT    |
+0039#STR0039#POR#|              |                    |             OPERATIONS WITH CREDIT          |               OPERATIONS WITHOUT CREDIT    |
+0039#STR0039#PTG#|              |                    |             OPERATIONS WITH CREDIT          |               OPERATIONS WITHOUT CREDIT    |
+0039#STR0039#SAL#|              |                    |             OPERATIONS WITH CREDIT          |               OPERATIONS WITHOUT CREDIT    |
+0039#STR0039#URU#|              |                    |             OPERATIONS WITH CREDIT          |               OPERATIONS WITHOUT CREDIT    |
+0039#STR0039#VEN#|              |                    |             OPERATIONS WITH CREDIT          |               OPERATIONS WITHOUT CREDIT    |
+0040#STR0040#ALL#| CODIFICATION  |                    |                  OF TAX                 |                    OF TAX                  |
+0041#STR0041#ALL#|  SUBTOTAL    | ################## |  ##################  |  ##################  |    ##################     | ################## |
+0042#STR0042#ALL#|              |                    |             OPERATIONS WITH DEBIT          |               OPERATIONS WITHOUT DEBIT    |
+0043#STR0043#ALL#|                                                    RECORD OF IPI CALCULATION - P8                                          |
+0044#STR0044#ALL#| PAGE: ####     MONTH OR PERIOD/YEAR: #########                                                                                   |

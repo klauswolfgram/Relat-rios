@@ -1,0 +1,23 @@
+0001#STR0001#BRA#Compra con entrega futura
+0002#STR0002#BRA#Relación de saldo de compra con entrega futura.
+0003#STR0003#BRA#Procesos
+0004#STR0004#BRA#Facturada
+0005#STR0005#BRA#Envío
+0006#STR0006#BRA#Saldo
+0007#STR0007#BRA#TES
+0008#STR0008#BRA#CFOP
+0009#STR0009#BRA#Costo
+0010#STR0010#BRA#Total del proceso
+0011#STR0011#BRA#U.M.
+0012#STR0012#BRA#* El término Anulación se refiere a la anulación del contrato con el proveedor, siendo que no ocurrirá más envío de mercadería.
+0013#STR0013#BRA#En este caso, el saldo vinculado al proceso de compra con entrega futura está finalizado.
+0014#STR0014#BRA#Tipo
+0015#STR0015#BRA#Fact.
+0016#STR0016#BRA#Serie
+0017#STR0017#BRA#Ítem
+0018#STR0018#BRA#Proveedor
+0019#STR0019#BRA#Tienda
+0020#STR0020#BRA#Pedido
+0021#STR0021#BRA#Ít.Pedido
+0022#STR0022#BRA#Producto
+0023#STR0023#BRA#Descripción

@@ -1,0 +1,33 @@
+0001#STR0001#ALL#Este programa ira imprimir o Diario Geral por Documento Fiscal,
+0002#STR0002#ALL#de acordo com os parametros sugeridos pelo usuario.
+0003#STR0003#ALL#.
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#Emissao Diario Geral por Documento Fiscal 
+0007#STR0007#ALL#            C O N T A                     H I S T O R I C O                        NUMERO                         V  A  L  O  R
+0007#STR0007#ANG#            C O N T A                     H I S T O R I C O                        NUMERO                         V  A  L  O  R
+0007#STR0007#EQU#            C O N T A                     H I S T O R I C O                        NUMERO                         V  A  L  O  R
+0007#STR0007#HAI#            C O N T A                     H I S T O R I C O                        NUMERO                         V  A  L  O  R
+0007#STR0007#MEX#            C O N T A                     H I S T O R I C O                        NUMERO                         V  A  L  O  R
+0007#STR0007#PTG#            C O N T A                     H I S T O R I C O                        NUMERO                         V  A  L  O  R
+0008#STR0008#ALL#D E B I T O          C R E D I T O                                                 LANCTO                      DEBITO        CREDITO
+0008#STR0008#ANG#D E B I T O          C R E D I T O                                                 LANCTO                      DEBITO        CREDITO
+0008#STR0008#EQU#D E B I T O          C R E D I T O                                                 LANCTO                      DEBITO        CREDITO
+0008#STR0008#HAI#D E B I T O          C R E D I T O                                                 LANCTO                      DEBITO        CREDITO
+0008#STR0008#MEX#D E B I T O          C R E D I T O                                                 LANCTO                      DEBITO        CREDITO
+0008#STR0008#PTG#D E B I T O          C R E D I T O                                                 LANCTO                      DEBITO        CREDITO
+0009#STR0009#ALL#DIARIO GERAL DOC. FISCAL DE 
+0010#STR0010#ALL# ATE 
+0011#STR0011#ALL# EM 
+0012#STR0012#ALL#***** CANCELADO PELO OPERADOR *****
+0013#STR0013#ALL#A Transportar =======>
+0014#STR0014#ALL#De Transporte =======>
+0015#STR0015#ALL#Totais deste dia =======>
+0016#STR0016#ALL#Totais deste mes =======>
+0017#STR0017#ALL#Total Geral ============>
+0018#STR0018#ALL#Numero Lancto
+0019#STR0019#ALL#Vlr. Debito
+0020#STR0020#ALL#Vlr. Credito
+0021#STR0021#ALL#Lançamentos Contábeis
+0022#STR0022#ALL#Para esta versão do relatorio o número de linhas não pode ser maior que 
+0023#STR0023#ALL# linhas

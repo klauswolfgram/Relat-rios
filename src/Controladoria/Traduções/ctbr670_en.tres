@@ -1,0 +1,27 @@
+0001#STR0001#ALL#This program has the purpose of issuing the list of
+0002#STR0002#ALL#lots/documents where debit and credit do not match.
+0003#STR0003#ALL#Z.Form
+0004#STR0004#ALL#Management
+0005#STR0005#ALL#Report of Mismatching Entries
+0006#STR0006#ALL#Report of Mismatching Pre-Entries
+0007#STR0007#ALL#Data       Lot    Sub-Lot
+0008#STR0008#ALL#***** CANCELLED BY THE OPERATOR *****
+0009#STR0009#ALL#Selecting Records...
+0010#STR0010#ALL#Total Credit:
+0010#STR0010#MEX#Credit Total
+0011#STR0011#ALL#Total Debit:
+0011#STR0011#MEX#Debit Total
+0012#STR0012#ALL#Difference DC:
+0013#STR0013#ALL#Doc.    Line  DC Acc.Debit             Acc.Credit                        Value Entry History
+0013#STR0013#MEX#Doc.  Debit Acct. DC Line            Credit Acct.                       Historic Value
+0014#STR0014#ALL#General
+0015#STR0015#ALL#Meaning: DC (1=Debit/2=Credit/3=Double Entry)
+0016#STR0016#ALL#Informed Total:
+0017#STR0017#ALL#Total
+0018#STR0018#ALL#Informed Dif.
+0019#STR0019#ALL#Was not found record with difference ! If it´s necessary execute the reprocessing.
+0020#STR0020#ALL#Document 
+0021#STR0021#ALL#Lot 
+0022#STR0022#ALL#Entries    
+0023#STR0023#ALL#Total
+0024#STR0024#ALL#Accounting Document History

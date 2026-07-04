@@ -1,0 +1,20 @@
+0001#STR0001#ALL#Sales Ranking
+0002#STR0002#ALL#This program will issue a list of sales representatives and the total
+0003#STR0003#ALL#of sales accomplished by them and which can also be analysed by the operator
+0004#STR0004#ALL#the issue will be based on the report parameters
+0005#STR0005#ALL#Z-Form
+0006#STR0006#ALL#Administration
+0007#STR0007#ALL#Code   Sales Rep´s Name                         Value Invoiced     Ranking
+0008#STR0008#ALL#Selecting Files...
+0009#STR0009#ALL#CANCELLED BY OPERATOR
+0010#STR0010#ALL#Invoicing for the period of 
+0011#STR0011#ALL#SalesRep
+0012#STR0012#ALL#There is no information to print this report, Check the informed parameters
+0013#STR0013#ALL#Not Found
+0014#STR0014#ALL# Operator: 
+0015#STR0015#ALL#Code
+0016#STR0016#ALL#Name of sales rep
+0017#STR0017#ALL#Amount billed 
+0018#STR0018#ALL#Ranking
+0019#STR0019#ALL#Total billed  
+0020#STR0020#ALL#Descript.

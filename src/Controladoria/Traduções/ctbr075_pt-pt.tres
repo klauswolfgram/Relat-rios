@@ -1,0 +1,59 @@
+0001#STR0001#ALL#Este Programa Irá Imprimir A Listagem Para Conferência
+0002#STR0002#ALL#De digitação. Poderá ser impresso por documento fiscal ou
+0003#STR0003#ALL#Por Conta/documento Fiscal.
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#Emissão da list. conf. dig. 
+0008#STR0008#ALL# até 
+0009#STR0009#ALL#Doc. Fiscal                                           Valor Déb               Valor Créd    Hp   Hist
+0009#STR0009#ANG#DOC. FISCAL                                           VALOR DÉB               VALOR CRÉD    HP   HIST
+0009#STR0009#EQU#DOC. FISCAL                                           VALOR DÉB               VALOR CRÉD    HP   HIST
+0009#STR0009#HAI#DOC. FISCAL                                           VALOR DÉB               VALOR CRÉD    HP   HIST
+0009#STR0009#MEX#Doc. Fiscal                                           Valor Déb               Valor Créd    Hp   Hist
+0009#STR0009#PTG#Doc. Fiscal                                           Valor Déb               Valor Créd    Hp   Hist
+0010#STR0010#ALL#***** cancelado pelo operador *****
+0012#STR0012#ALL#A Criar Ficheiro Temporário...
+0013#STR0013#ALL#T o t a l  g e r a l ==> 
+0014#STR0014#ALL#Conta                                      Doc. Fiscal                                           Valor Déb               Valor Créd    Hp  Hist
+0014#STR0014#ANG#CONTA                                      DOC. FISCAL                                           VALOR DÉB               VALOR CRÉD    HP  HIST
+0014#STR0014#EQU#CONTA                                      DOC. FISCAL                                           VALOR DÉB               VALOR CRÉD    HP  HIST
+0014#STR0014#HAI#CONTA                                      DOC. FISCAL                                           VALOR DÉB               VALOR CRÉD    HP  HIST
+0014#STR0014#MEX#Conta                                      Doc. Fiscal                                           Valor Déb               Valor Créd    Hp  Hist
+0014#STR0014#PTG#Conta                                      Doc. Fiscal                                           Valor Déb               Valor Créd    Hp  Hist
+0015#STR0015#ALL#Conferência de digitação
+0018#STR0018#ALL#Data: 
+0019#STR0019#ALL#Lote: 
+0020#STR0020#ALL#Doc: 
+0020#STR0020#MEX#Doc: 
+0020#STR0020#PTG#Doc: 
+0021#STR0021#ALL#Sub-lote:
+0022#STR0022#ALL#Dif A Débito
+0022#STR0022#ANG#DIF A DÉBITO
+0022#STR0022#EQU#DIF A DÉBITO
+0022#STR0022#HAI#DIF A DÉBITO
+0022#STR0022#MEX#Dif A Débito
+0022#STR0022#PTG#Dif A Débito
+0023#STR0023#ALL#Dif A Crédito
+0023#STR0023#ANG#DIF A CRÉDITO
+0023#STR0023#EQU#DIF A CRÉDITO
+0023#STR0023#HAI#DIF A CRÉDITO
+0023#STR0023#MEX#Dif A Crédito
+0023#STR0023#PTG#Dif A Crédito
+0024#STR0024#ALL#Introduzido
+0025#STR0025#ALL#Digitado 
+0026#STR0026#ALL#Diferença
+0027#STR0027#ALL#Total Do Documento
+0027#STR0027#MEX#Total Do Documento
+0027#STR0027#PTG#Total Do Documento
+0028#STR0028#ALL#Total Do Lote
+0029#STR0029#ALL#Esta listagem necessita do campo ct2_key. Dever criá-lo com tipo caracter de 100
+0036#STR0036#ALL#Valor de débito
+0036#STR0036#MEX#Valor de débito
+0036#STR0036#PTG#Valor de débito
+0037#STR0037#ALL#Valor de crédito
+0037#STR0037#MEX#Valor de crédito
+0037#STR0037#PTG#Valor de crédito
+0038#STR0038#ALL#Hp
+0039#STR0039#ALL#Histórico
+0040#STR0040#ALL#Movimento
+0041#STR0041#ALL#Histórico do Documento Contabilístico

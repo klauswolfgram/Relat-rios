@@ -1,0 +1,26 @@
+0001#STR0001#ALL#Este programa irá imprimir o balancete de conta / 
+0002#STR0002#ALL#De acordo com os parâmetros solicitados pelo utilizador. 
+0003#STR0003#ALL#Balancete de verificação de conta / 
+0004#STR0004#ALL#|  código                     |      d e s c r i ç ã o                          |    saldo anterior              |    débito       |      crédito      |    movimento do período       |         saldo actual               |
+0005#STR0005#ALL#|  código               |   d  e  s  c  r  i  ç  ã  o    |   saldo anterior  |      débito    |      crédito   |   saldo actual     |
+0006#STR0006#ALL#Balancete analítico de conta / 
+0007#STR0007#ALL#Balancete sintético de conta / 
+0008#STR0008#ALL#Balancete de conta / 
+0009#STR0009#ALL# de 
+0010#STR0010#ALL# até 
+0011#STR0011#ALL# em 
+0012#STR0012#ALL# (orcado)
+0013#STR0013#ALL# (de gestão)
+0014#STR0014#ALL#A Criar Ficheiro Temporário...
+0015#STR0015#ALL#Código de barras
+0016#STR0016#ALL#Administração
+0017#STR0017#ALL#***** cancelado pelo operador *****
+0018#STR0018#ALL#Totais do período: 
+0019#STR0019#ALL#T o t a i s  d o  g r u p o (
+0020#STR0020#ALL#T o t a i s  d a  c o n t a: 
+0021#STR0021#ALL# conta 
+0022#STR0022#ALL#Div.
+0027#STR0027#ALL#Descrição
+0031#STR0031#ALL#Movimento do período
+0032#STR0032#ALL#Saldo actual
+0034#STR0034#ALL#Nível 1

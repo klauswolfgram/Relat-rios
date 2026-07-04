@@ -1,0 +1,25 @@
+0001#STR0001#ALL#Relatório de custos dos exames realizados. através dos parâmetro s
+0002#STR0002#ALL#O utilizador poderá selecionar o centro de custo,fornecedor, exame,
+0003#STR0003#ALL#E obterar os custos dos exames realizados no período.
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#Custos dos exames realizados
+0007#STR0007#ALL#Código   Nome Do Fornecedor
+0008#STR0008#ALL#  Exame  Nome Do Exame                               Quantidade            Custo
+0009#STR0009#ALL#Cancelado Pelo Operador
+0010#STR0010#ALL#Total Do Fornecedor
+0012#STR0012#ALL#C.custo...: 
+0013#STR0013#ALL#Total Do Centro De Custo
+0014#STR0014#ALL#Total Da Empresa
+0015#STR0015#ALL#Total Crial
+0016#STR0016#ALL#De cliente ?
+0020#STR0020#ALL#Até cliente ?
+0022#STR0022#ALL#Código  da loja do cliente. o campo pode ser preenchido com a letra z até  o final para considerar o último código.
+0023#STR0023#ALL#Cliente/loja: 
+0024#STR0024#ALL#Até Data de Resul. ?
+0026#STR0026#ALL#Até Exame ?
+0028#STR0028#ALL#Até Fornecedor ?
+0030#STR0030#ALL#Até Centro de Custo?
+0031#STR0031#ALL#De Centro de Custo?
+0047#STR0047#ALL#A Processar Ficheiro...
+0048#STR0048#ALL#Código  Loja  Nome do Fornecedor

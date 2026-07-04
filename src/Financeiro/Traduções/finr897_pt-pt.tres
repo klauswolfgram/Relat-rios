@@ -1,0 +1,17 @@
+0001#STR0001#ALL#Relatório de comissoes
+0002#STR0002#ALL#Emissão Do Relatório De Comissões.
+0003#STR0003#ALL#Código de barras
+0004#STR0004#ALL#Administração
+0005#STR0005#ALL#Relatório de comissões 
+0006#STR0006#ALL#(pgt Pela Emissão)
+0007#STR0007#ALL#(pgt Pela Baixa)
+0008#STR0008#ALL#Relatório De Comissoes
+0009#STR0009#ALL#RECIBO        TIPO NÚMERO DEL         CÓDIGO    LJ NOMBRE             FECHA     FECHA           VALOR         %          VALOR       
+0011#STR0011#ALL#Cancelado Pelo Operador
+0013#STR0013#ALL#Total do credor --> 
+0014#STR0014#ALL#Total  geral      --> 
+0015#STR0015#ALL#A Seleccionar Registos...
+0016#STR0016#ALL#Aglutinado por credor 
+0017#STR0017#ALL#Aglutinado por recibo 
+0018#STR0018#ALL#Comissão Dos Cobradores
+0020#STR0020#ALL#Comissões

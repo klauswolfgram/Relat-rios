@@ -1,0 +1,24 @@
+0001#STR0001#ALL#Este programa emitirá la lista de registros por 
+0002#STR0002#ALL#Clase de valor.
+0003#STR0003#ALL#Registros por clase de valor
+0004#STR0004#ALL#Clase de valor       Ítem contable        C.Costo              Cta.Contab                        Valor actual     Deprec.Acumul.     Depr en el mes  Corr.Depr.Acumul  Corr.Monet.Acumul
+0005#STR0005#ALL#ANULADO POR EL OPERADOR
+0006#STR0006#ALL#Tot Clase Valor: 
+0007#STR0007#ALL#TOTAL GENERAL     : 
+0008#STR0008#ALL#Valor en 
+0009#STR0009#ALL#Simbolo de la moneda
+0010#STR0010#ALL#Espacio
+0011#STR0011#ALL#Valor actual
+0012#STR0012#ALL#Deprec Acumul
+0013#STR0013#ALL#Deprec en el Mes
+0014#STR0014#ALL#Corr Depr Acumul
+0015#STR0015#ALL#Corr Monet Acumul
+0016#STR0016#ALL#TOTAL SUCURSAL: 
+0017#STR0017#ALL#No existen datos para mostrarse
+0018#STR0018#ALL#Sucursal: 
+0019#STR0019#ALL#Sucursales seleccionadas para el informe
+0020#STR0020#ALL#Código
+0021#STR0021#ALL#Empresa
+0022#STR0022#ALL#Unidad de negocio
+0023#STR0023#ALL#Sucursal
+0024#STR0024#ALL#Aunque exista la Selección por sucursales, este informe solamente imprime de la Sucursal actual

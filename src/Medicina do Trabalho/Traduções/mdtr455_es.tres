@@ -1,0 +1,59 @@
+0001#STR0001#ALL#Informe de empleados convocados para la realizacion de examenes periodicos.
+0002#STR0002#ALL#Por medio de los parametros el usuario selecciona: num. de la convocacion y periodo
+0003#STR0003#ALL#deseado. Define tambien si desea listar: Todos, No Realizados o Ya Realizados
+0004#STR0004#ALL#A Rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#Convocatoria para realizacion de examenes periodicos
+0007#STR0007#ALL#Operador       Nomb Operador                           Examen      Nomb Examen                      Lugar Examen.
+0008#STR0008#ALL#Fecha       Hora    Matric.   Nombre del Empleado              Centro Costo   Nombre                               Realizado
+0009#STR0009#ALL#ANULADO POR EL OPERADOR
+0010#STR0010#ALL#Fcha       Hora    Matric.     Nom. de Empleado                    Realizado
+0011#STR0011#ALL#No hay nada para imprimir en el informe.
+0012#STR0012#ALL#Cliente/Tienda: 
+0013#STR0013#ALL#Centro de Costo.:
+0014#STR0014#ALL#Fecha       Hora    Matric.   Nombre del Empleado              Centro Costo   Nombre                               Realizado
+0015#STR0015#ALL#El PCMSO no pertenece al cliente seleccionado.
+0016#STR0016#ALL#Cliente :
+0017#STR0017#ALL#Sucursal
+0018#STR0018#ALL#Saltar Pagina por C.C. ?
+0019#STR0019#ALL#¿A Centro de Costo ?
+0020#STR0020#ALL#¿De Centro de Costo ?
+0021#STR0021#ALL#¿A Fecha  Consulta      ?
+0022#STR0022#ALL#¿De Fecha Consulta ?
+0023#STR0023#ALL#¿Imprime ?
+0024#STR0024#ALL#¿Convocacion ?
+0025#STR0025#ALL#¿Cliente?
+0026#STR0026#ALL#Tienda:
+0027#STR0027#ALL#De Sucursal?
+0028#STR0028#ALL#¿A Sucursal         ?
+0029#STR0029#ALL#¿Imprimir Preparacion ?
+0030#STR0030#ALL#Indica si el informe debe imprimir la preparacion del examen o no.
+0031#STR0031#ALL#Si
+0032#STR0032#ALL#No
+0033#STR0033#ALL#¿Saltar Pagina ?
+0034#STR0034#ALL#por C. de Costo
+0035#STR0035#ALL#por Empleado
+0036#STR0036#ALL#Indica si el informe debe saltar pagina por centro de costo, por empleado o no debe saltar pagina.
+0037#STR0037#ALL#Preparacion para Examen
+0038#STR0038#ALL#¿PCMSO?
+0039#STR0039#ALL#No Realizados
+0040#STR0040#ALL#por convocación
+0041#STR0041#ALL#De Convocación
+0042#STR0042#ALL#A Convocación
+0043#STR0043#ALL#Número de la convocación de exámenes. El campo puede permanecer vacío para considerar desde el primer código.
+0044#STR0044#ALL#Número de la convocación de exámenes. El campo puede completarse con la letra Z hasta el final para considerar el último código.
+0045#STR0045#ALL#Indica si el informe debe imprimir los exámenes realizados, no realizados o todos.
+0046#STR0046#ALL#Fecha mínima de las consultas médicas.
+0047#STR0047#ALL#Fecha máxima de las consultas médicas.
+0048#STR0048#ALL#Código del centro de costo El campo puede permanecer vacío para considerar desde el primer código.
+0049#STR0049#ALL#Código del centro de costo. El campo se puede completar con la letra Z hasta el final para considerar el último código.
+0050#STR0050#ALL#Indica si el informe debe saltar pagina por centro de costo, por empleado o por convocación.
+0051#STR0051#ALL#Código de la sucursal inicial para filtrar el informe.
+0052#STR0052#ALL#Código de la sucursal final para filtrar el informe.
+0053#STR0053#ALL#Indica si el informe debe imprimir la preparación del examen o no.
+0054#STR0054#ALL#Todos
+0055#STR0055#ALL#Ya realizados
+0056#STR0057#ALL#Convocación     Fecha       Hora    Matríc.     Nombre del empleado                 Realizado
+0057#STR0058#ALL#Para el uso correcto de este informe (MDTR455) es necesaria la aplicación del paquete presente en la Issue MNG-866
+0058#STR0059#ALL#Aplicar el paquete de la Issue MNG-866
+0059#STR0060#ALL#Atención

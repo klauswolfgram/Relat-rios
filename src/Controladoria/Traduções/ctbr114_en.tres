@@ -1,0 +1,17 @@
+0001#STR0001#ALL#This program will print the Journal grouped by account,
+0002#STR0002#ALL#according to the paramters suggested by the user.
+0003#STR0003#ALL#
+0004#STR0004#ALL#Z-form
+0005#STR0005#ALL#Administratn.
+0006#STR0006#ALL#Issue of Daily Journal grouped by account
+0007#STR0007#ALL#          A C C O U N T                   H I S T O R Y                            NUMBER                          A M O U N T 
+0008#STR0008#ALL#D E B I T            C R E D I T                                                   ENTRY                       DEBIT         CREDIT 
+0009#STR0009#ALL#DAILY JOURNAL GROUPED BY ACCOUNT 
+0010#STR0010#ALL#TILL 
+0011#STR0011#ALL# IN 
+0012#STR0012#ALL#***** CANCELED BY OPERATOR    *****
+0013#STR0013#ALL#To be Transported====>
+0014#STR0014#ALL#From Transport=======>
+0015#STR0015#ALL#Totals of this day======>
+0016#STR0016#ALL#Totals for this month===>
+0017#STR0017#ALL#Gross Total ============>

@@ -1,0 +1,20 @@
+0001#STR0001#ALL#Este programa irá emitir a relação de
+0002#STR0002#ALL#Disponibilidade de instrumentos.
+0003#STR0003#ALL#Código de barras
+0004#STR0004#ALL#Administração
+0005#STR0005#ALL#Relatório De Disponibilidade
+0006#STR0006#ALL#Familia          instrumento      departamento     fabricante       previs parado   %    previs parado    %   previs parado   %
+0007#STR0007#ALL#Cancelado Pelo Operador
+0017#STR0018#ALL#Nov
+0020#STR0021#ALL#A seleccionar registos. . .
+0021#STR0022#ALL#Previs  parado    %
+0022#STR0023#ALL#Média mensal ........ :
+0023#STR0024#ALL#Média trimestral .... :
+0024#STR0025#ALL#Disponibilidade De Instrumentos
+0027#STR0028#ALL#Médias
+0028#STR0029#ALL#Tot.mês 1
+0029#STR0030#ALL#Tot.mês 2
+0030#STR0031#ALL#Tot.mês 3
+0031#STR0032#ALL#Tot.trimestral
+0032#STR0033#ALL#Média Do Mês..........:
+0033#STR0034#ALL#Média Do Trimestre....:

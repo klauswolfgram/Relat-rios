@@ -1,0 +1,28 @@
+0001#STR0001#ALL#Este programa emitira un detalle de la situacion
+0002#STR0002#ALL#de Stock por Lote/Sublote.
+0003#STR0003#ALL#Situacion de Stock por Lote/Sublote 
+0004#STR0004#ALL# Por Producto
+0005#STR0005#ALL# Por Lote/Sublote
+0006#STR0006#ALL#Zebrado
+0007#STR0007#ALL#Administracion
+0008#STR0008#ALL#SITUACION DE STOCK POR LOTE/SUBLOTE (POR PRODUCTO)
+0009#STR0009#ALL#PRODUCTO        DESCRIPCION                   SUBLOTE      LOTE    DEP     SALDO       RESERVA       FECHA      FECHA  
+0010#STR0010#ALL#SITUACION DE STOCK POR LOTE (POR LOTE)
+0011#STR0011#ALL#SUBLOTE    LOTE   PRODUC.         DESCRIPC.                        ALMC          SALDO         RESERVA   FCHA       FCHA
+0012#STR0012#ALL#ANULADO POR EL OPERADOR
+0013#STR0013#ALL#Total del producto->
+0014#STR0014#ALL#                                                                                                                  CADUCID. 
+0015#STR0015#ALL#Total del Lote->
+0016#STR0016#ALL#Total del Lote/SubLote ->
+0017#STR0017#ALL#Seleccionando Registros...
+0018#STR0018#ALL# Por Deposito
+0019#STR0019#ALL#SITUACION DEL STOCK POR LOTE/SUB-LOTE (POR DEPOSITO)
+0020#STR0020#ALL#PRODUC.         DESCRIPC.                      SUBLOTE  LOTE       ALMC          SALDO         RESERVA                SALDO             RESERVA        FCHA      FCHA
+0021#STR0021#ALL#                                                                                1a.U.M.         1a.U.M.              2a.U.M.             2a.U.M.               CADUCID. 
+0022#STR0022#ALL#SUBLOTE    LOTE   PRODUC.         DESCRIPC.                        ALMC          SALDO         RESERVA                SALDO             RESERVA        FCHA      FCHA
+0023#STR0023#ALL#    DESCR. ALMAC.
+0024#STR0024#ALL#Saldo
+0025#STR0025#ALL#Reserva
+0026#STR0026#ALL#1a.U.M.
+0027#STR0027#ALL#2a.U.M.
+0028#STR0028#ALL#Saldos por Lote

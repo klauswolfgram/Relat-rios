@@ -1,0 +1,70 @@
+0001#STR0001#ALL#TRANSACTION REGISTRATION AND VEHICLES INFLOW AND OUTFLOW
+0002#STR0002#ALL#JOURNAL
+0003#STR0003#ALL#SHEET
+0004#STR0004#ALL#COMPANY
+0005#STR0005#ALL#BRANCH
+0006#STR0006#ALL#State Enrollment
+0007#STR0007#ALL#Period
+0008#STR0008#ALL#EIN
+0009#STR0009#ALL#                 O W N E R                                   |      V E H I C L E     C H A R A C T E R I S T I C             |                                   B U Y E R                                            
+0010#STR0010#ALL#Date of |Name                         |Identity              |Brand / Year        |Color            |Chassis                  |Document |Name                         |Identity              |Date of |Note            
+0011#STR0011#ALL#Arrival |Address                      |Cityt                 |Model               |Type             |Plate                    |Series   |Address                      |City                  |Depart. |                
+0012#STR0012#ALL#Time of |Person Responsible Delivery  |                      |                    |                 |                         |         |Person Responsible Withdraw  |                      |Time of |CFOP            
+0013#STR0013#ALL#Arrival |Address                      |City                  |                    |                 |                         |         |Address                      |City                  |Depart. |                
+0014#STR0014#ALL#TRANSACTION REGISTRATION AND VEHICLES INFLOW AND OUTFLOW
+0015#STR0015#ALL#to
+0016#STR0016#ALL#Vehicles Inflow and Outflow Transaction
+0017#STR0017#ALL#Z-form
+0018#STR0018#ALL#Management
+0019#STR0019#ALL#O P E N I N G  T E R M 
+0020#STR0020#ALL#This book contains
+0021#STR0021#ALL#sheets numbered mechanically from No.
+0022#STR0022#ALL#to
+0023#STR0023#ALL#and it is used for Vehicle Arrival and Departure Record Book 'Black Book' No. , referring to the Period of 
+0024#STR0024#ALL#to
+0025#STR0025#ALL#, of company 
+0026#STR0026#ALL#identified below.
+0027#STR0027#ALL#Company Name: 
+0028#STR0028#ALL#Address: 
+0029#STR0029#ALL#District: 
+0030#STR0030#ALL#City: 
+0031#STR0031#ALL#State Registration: 
+0032#STR0032#ALL#EIN 
+0033#STR0033#ALL#Registry of Commerce: 
+0034#STR0034#ALL# of 
+0035#STR0035#ALL#January
+0036#STR0036#ALL#February
+0037#STR0037#ALL#March
+0038#STR0038#ALL#April
+0039#STR0039#ALL#May
+0040#STR0040#ALL#June
+0041#STR0041#ALL#July
+0042#STR0042#ALL#August
+0043#STR0043#ALL#September
+0044#STR0044#ALL#October
+0045#STR0045#ALL#November
+0046#STR0046#ALL#December
+0047#STR0047#ALL# of 
+0048#STR0048#ALL#Partner 
+0049#STR0049#ALL#Accountant 
+0050#STR0050#ALL#C L O S I N G  T E R M
+0051#STR0051#ALL#No
+0052#STR0052#ALL#Start Date
+0053#STR0053#ALL#End Date  
+0054#STR0054#ALL#Book Nr   
+0055#STR0055#ALL#Last Page
+0056#STR0056#ALL#Definite  
+0057#STR0057#ALL#Initial Page   
+0058#STR0058#ALL#Company Name   
+0059#STR0059#ALL#Address       
+0060#STR0060#ALL#District         
+0061#STR0061#ALL#City         
+0062#STR0062#ALL#State Reg. 
+0063#STR0063#ALL#EIN           
+0064#STR0064#ALL#Commercial registry
+0065#STR0065#ALL#Partner Name     
+0066#STR0066#ALL#Partner CPF      
+0067#STR0067#ALL#Accountant Name  
+0068#STR0068#ALL#Accountant CPF   
+0069#STR0069#ALL#Accountant CRC   
+0070#STR0070#ALL#Yes

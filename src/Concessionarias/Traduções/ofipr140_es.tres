@@ -1,0 +1,19 @@
+0001#STR0001#ALL#Inventario Diario
+0002#STR0002#ALL#A Rayas
+0003#STR0003#ALL#Administracion
+0004#STR0004#ALL#Inventario Diario 
+0005#STR0005#ALL#Localiz   Grp Codigo              Descripcion                    ABC Disponible
+0006#STR0006#ALL#Items Movidos
+0007#STR0007#ALL#Items No Movidos
+0008#STR0008#ALL#Todos los Items
+0009#STR0009#ALL# Localiz   Grp Código            Descripción              Abc            Disponible
+0010#STR0010#ALL#Local     Grupo Codigo              Descripcion               ABC Ven/Cos  Cant. 
+0011#STR0011#ALL#Piezas sin movimientos E/S
+0012#STR0012#ALL#Seccion 1
+0013#STR0013#ALL#Este programa tiene como objetivo imprimir el inventario diario
+0014#STR0014#ALL#Ubicación
+0015#STR0015#ALL#Grupo
+0016#STR0016#ALL#Código
+0017#STR0017#ALL#Descripción
+0018#STR0018#ALL#ABC
+0019#STR0019#ALL#Disponible

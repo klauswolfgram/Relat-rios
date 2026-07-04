@@ -1,0 +1,21 @@
+0001#STR0001#ALL#List of addresses for shipment
+0002#STR0002#ALL#Issues list of address for shipment
+0003#STR0003#ALL#according to parameters input
+0004#STR0004#ALL#Z.form 
+0005#STR0005#ALL#Management   
+0006#STR0006#ALL#Selecting Records...
+0007#STR0007#ALL#Selecting record in DUH...
+0008#STR0008#ALL#ORIGIN REGION                  WAREHOUSE ADDRESS       INVOI DOCUMENTS  VOLUME DATE     HOUR          WGHT VALOR OF THE GOODS  
+0009#STR0009#ALL#TARGET BRANCH: 
+0010#STR0010#ALL# - 
+0011#STR0011#ALL#CANCELED BY OPERATOR
+0012#STR0012#ALL#TOTAL BY DESTINATION BRANCH ===> 
+0013#STR0013#ALL#REPORT GENERAL TOTAL     ===> 
+0014#STR0014#ALL#Report of Addresses for Shipment
+0015#STR0015#ALL#Issue Report of Addresses for Shipment according to the parameters entered
+0016#STR0016#ALL#Destin. Branch + Origin Region
+0017#STR0017#ALL#Destin. Branch
+0018#STR0018#ALL#Origin Region
+0019#STR0019#ALL#Addresses
+0020#STR0020#ALL#Invoices
+0021#STR0021#ALL#Documents

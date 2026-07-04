@@ -1,0 +1,19 @@
+0001#STR0001#ALL#Relatório do cronograma do plano de acção. através dos parâmetros o utilizador poderá
+0002#STR0002#ALL#Filtrar os responsáveis dos planos(empregado ou integrante da sesmt), e podera
+0003#STR0003#ALL#seleccionar um intervalo de ano(s) para visualizar o período em que cada plano actuará
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#Cronograma Do Plano De Acção
+0007#STR0007#ALL#Responsável.: 
+0008#STR0008#ALL#Plano     Nome do Plano                 In.Prev   Fim Prev.   Ano  
+0009#STR0009#ALL#A data 'até' deve ser maior que a 'de'
+0010#STR0010#ALL#Atenção
+0011#STR0011#ALL#Seleccione um intervalo de no máximo um ano
+0012#STR0012#ALL#De cliente ?
+0014#STR0014#ALL#Até cliente ?
+0017#STR0017#ALL#Até Dt. Início Prevista ?
+0018#STR0018#ALL#De Dt. Início Prevista ?
+0019#STR0019#ALL#Ate Empr. Responsável ?
+0020#STR0020#ALL#De Empr. Responsável ?
+0021#STR0021#ALL#Até Responsável Sesmt ?
+0022#STR0022#ALL#De Responsável Sesmt ?

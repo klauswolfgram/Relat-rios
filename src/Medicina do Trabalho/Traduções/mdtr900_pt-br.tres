@@ -1,0 +1,55 @@
+0001#STR0001#ALL#De Vacina ?
+0002#STR0002#ALL#Até Vacina ?
+0003#STR0003#ALL#De Ficha Médica ?
+0004#STR0004#ALL#Até Ficha Médica ?
+0005#STR0005#ALL#De Centro de Custo ?
+0006#STR0006#ALL#Até Centro de Custo ?
+0007#STR0007#ALL#De Data Vacina ?
+0008#STR0008#ALL#Até Data Vacina ?
+0009#STR0009#ALL#Listar Vacinas:
+0010#STR0010#ALL#1-Aplicadas
+0011#STR0011#ALL#2-Pendentes
+0012#STR0012#ALL#3-Todas
+0013#STR0013#ALL#Vacinação por Período
+0014#STR0014#ALL#Relatório que lista os funcionários que deverão ser vacinados no período informado.
+0015#STR0015#ALL#Vacina
+0016#STR0016#ALL#Código Vacina
+0017#STR0017#ALL#Vacina
+0018#STR0018#ALL#Funcionários
+0019#STR0019#ALL#Ficha Médica
+0020#STR0020#ALL#Nome
+0021#STR0021#ALL#Centro de Custo
+0022#STR0022#ALL#Função
+0023#STR0023#ALL#Dose
+0024#STR0024#ALL#Data Vacina
+0025#STR0025#ALL#Foi Aplicada?
+0026#STR0026#ALL#Total:
+0027#STR0027#ALL#Aguarde
+0028#STR0028#ALL#Processando os atendimentos...
+0029#STR0029#ALL#Filtrando os registros, aguarde...
+0030#STR0030#ALL#Zebrado
+0031#STR0031#ALL#Administracao
+0032#STR0032#ALL#Vacina                           Prog. de Vacina
+0033#STR0033#ALL#   F. Medica  Nome                                      Centro de Custo                           Função                                    Dose   Dt. Vacina   Foi Aplicada?
+0034#STR0034#ALL#Não há nada para imprimir no relatório.
+0035#STR0035#ALL#Cliente
+0036#STR0036#ALL#De Cliente ?
+0037#STR0037#ALL#Código do cliente. O campo pode permanecer vazio para considerar desde o primeiro código.
+0038#STR0038#ALL#Loja
+0039#STR0039#ALL#Código da loja do cliente. O campo pode permanecer vazio para considerar desde o primeiro código.
+0040#STR0040#ALL#Até Cliente ?
+0041#STR0041#ALL#Código do cliente. O campo pode ser preenchido com a letra Z até o final para considerar o último código.	
+0042#STR0042#ALL#Código da loja do cliente. O campo pode ser preenchido com a letra Z até o final para considerar o último código.
+0043#STR0043#ALL#Nome
+0044#STR0044#ALL#Cliente/Loja: 
+0045#STR0045#ALL#3-Não quer ser Vacinado
+0046#STR0046#ALL#4-Todas
+0047#STR0047#ALL#Define se serão listadas as vacinações aplicadas, as pendentes, Rejeitadas (Que não quiseram ser vacinados)  ou todas.
+0048#STR0048#ALL#Listar Vacinas: ?
+0049#STR0049#ALL#SIM
+0050#STR0050#ALL#NÃO
+0051#STR0051#ALL#FUNCIONÁRIO NÃO QUER SER VACINADO
+0052#STR0052#ALL#Situação Func.?
+0053#STR0053#ALL#Informe este parâmetro para filtrar a situação do Funcionário ou informe ZZZZZZ para que o relatório imprima todas as Situações.
+0054#STR0054#ALL#Prog. de Vacina
+0055#STR0055#ALL#Entrada Manual de Abastecimento

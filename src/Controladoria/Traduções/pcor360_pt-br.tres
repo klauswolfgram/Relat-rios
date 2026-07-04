@@ -1,0 +1,37 @@
+0001#STR0001#ALL#Demonstrativo de Saldos por Periodo
+0002#STR0002#ALL#Codigo
+0003#STR0003#ALL#Descricao
+0004#STR0004#ALL#Movimentos
+0005#STR0005#ALL#Saldo Inicial: 
+0006#STR0006#ALL#Mov.Credito (C):
+0007#STR0007#ALL#Mov.Debito (D)
+0008#STR0008#ALL#Saldo Final (C - D):
+0009#STR0009#ALL#Impressao cancelada pelo operador...
+0010#STR0010#ALL#Atenção
+0011#STR0011#ALL#Usuario sem acesso a esta configuração de visao gerencial. 
+0012#STR0012#ALL#Fechar
+0013#STR0013#ALL#Semanal
+0014#STR0014#ALL#Quinzenal
+0015#STR0015#ALL#Mensal
+0016#STR0016#ALL#Bimestral
+0017#STR0017#ALL#Semestral
+0018#STR0018#ALL#Anual
+0019#STR0019#ALL#Diario
+0020#STR0020#ALL#Trimestral
+0021#STR0021#ALL#Visao
+0022#STR0022#ALL#Data Inicial
+0023#STR0023#ALL#Data Final
+0024#STR0024#ALL#Moeda
+0025#STR0025#ALL#Moeda 1
+0026#STR0026#ALL#Moeda 2
+0027#STR0027#ALL#Moeda 3
+0028#STR0028#ALL#Moeda 4
+0029#STR0029#ALL#Moeda 5
+0030#STR0030#ALL#Tipo Periodo
+0031#STR0031#ALL#Acumulado
+0032#STR0032#ALL#Sim
+0033#STR0033#ALL#Não
+0034#STR0034#ALL#Configuracao do Cubo
+0035#STR0035#ALL#Editar Configuracoes Cubo
+0036#STR0036#ALL#Detalhar Cubos
+0037#STR0037#ALL#Parâmetros...

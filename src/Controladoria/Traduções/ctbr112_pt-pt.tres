@@ -1,0 +1,30 @@
+0001#STR0001#ALL#Este Programa Irá Imprimir O Diário Crial Por Documento Fiscal,
+0002#STR0002#ALL#De acordo com os parâmetros sugeridos pelo utilizador.
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#Emissão do diário crial por documento fiscal 
+0007#STR0007#ALL#            C O N T A                     H I S T ó R I C O                        Número                         V  A  L  O  R
+0007#STR0007#ANG#            C O N T A                     H I S T Ó R I C O                        NÚMERO                         V  A  L  O  R
+0007#STR0007#EQU#            C O N T A                     H I S T Ó R I C O                        NÚMERO                         V  A  L  O  R
+0007#STR0007#HAI#            C O N T A                     H I S T Ó R I C O                        NÚMERO                         V  A  L  O  R
+0007#STR0007#MEX#            C O N T A                     H I S T ó R I C O                        Número                         V  A  L  O  R
+0007#STR0007#PTG#            C O N T A                     H I S T ó R I C O                        Número                         V  A  L  O  R
+0008#STR0008#ALL#D é B I T O          C R é D I T O                                                 Lancto                      Débito        Crédito
+0008#STR0008#ANG#D É B I T O          C R É D I T O                                                 LANCTO                      DÉBITO        CRÉDITO
+0008#STR0008#EQU#D É B I T O          C R É D I T O                                                 LANCTO                      DÉBITO        CRÉDITO
+0008#STR0008#HAI#D É B I T O          C R É D I T O                                                 LANCTO                      DÉBITO        CRÉDITO
+0008#STR0008#MEX#D é B I T O          C R é D I T O                                                 Lancto                      Débito        Crédito
+0008#STR0008#PTG#D é B I T O          C R é D I T O                                                 Lancto                      Débito        Crédito
+0009#STR0009#ALL#Do diário crial do doc. fiscal  
+0010#STR0010#ALL# até 
+0011#STR0011#ALL# em 
+0012#STR0012#ALL#***** cancelado pelo operador *****
+0013#STR0013#ALL#A transportar =======>
+0014#STR0014#ALL#De transporte =======>
+0016#STR0016#ALL#Totais deste mês =======>
+0017#STR0017#ALL#Total crial ============>
+0018#STR0018#ALL#Número Lançt.
+0019#STR0019#ALL#Val. Débito
+0020#STR0020#ALL#Val. Crédito
+0021#STR0021#ALL#Lançamentos Contabilísticos
+0022#STR0022#ALL#Para esta versão do relatório, o número de linhas não pode ser maior que 

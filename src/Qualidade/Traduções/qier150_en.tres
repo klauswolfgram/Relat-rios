@@ -1,0 +1,18 @@
+0001#STR0001#ALL#The instruments used in each Lot will be listed.
+0002#STR0003#ALL#Instrument vs Reach 
+0003#STR0004#ALL#Z.Form 
+0004#STR0005#ALL#Management   
+0005#STR0006#ALL#Selecting Records...
+0006#STR0007#ALL#CANCELLED BY OPERATOR
+0007#STR0008#ALL#Period: 
+0008#STR0009#ALL# to 
+0009#STR0011#ALL# Revision Supplier              Delivery Dt.  Lot Nr.           Measur.Date
+0010#STR0012#ALL#  Review  Supplier                   Inflow Date  Nr. Lot          Measurement Dt.
+0011#STR0013#ALL#Product
+0012#STR0014#ALL#Review 
+0013#STR0015#ALL#Supplier  
+0014#STR0016#ALL#Store
+0015#STR0017#ALL#Inflow date 
+0016#STR0018#ALL#Lot number    
+0017#STR0019#ALL#Measur. date
+0018#STR0020#ALL#Instrument 

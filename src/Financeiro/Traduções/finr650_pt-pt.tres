@@ -1,0 +1,46 @@
+0001#STR0001#ALL#Este programa tem como objectivo imprimir o ficheiro
+0002#STR0002#ALL#REtorno da Comunicação Bancária, conforme layout,
+0003#STR0003#ALL#Previamente configurado.
+0004#STR0004#ALL#Impressão Do Retorno Da Comunicação Bancária
+0005#STR0005#ALL#Código de barras
+0006#STR0006#ALL#Administração
+0007#STR0007#ALL#Por Número
+0012#STR0012#ALL#Por Emissão
+0013#STR0013#ALL#Por Cód.fornec.
+0014#STR0014#ALL#Nr.Título           Cli/For   Ocorrência               Dt.Ocor. Vlr Original  Vlr Recebido   Desp. Cobr.  Vlr Desconto   Vlr Abatim.    Vlr Juros    Vlr IOF  Out Créd. Dt.Créd.   Nr. Título Bco  Consistência
+0015#STR0015#ALL#Ocorrência Não Enviada
+0016#STR0016#ALL#Ocorrencia Não Encontrada
+0017#STR0017#ALL#Número Título Não Enviado
+0018#STR0018#ALL#Título Não Encontrado
+0019#STR0019#ALL#Data De Liquidação Não Enviada
+0020#STR0020#ALL#Espécie Não Enviada
+0021#STR0021#ALL#Espécie Não Encontrada
+0022#STR0022#ALL#Título Ok
+0023#STR0023#ALL#Totais Do Relatório
+0024#STR0024#ALL#Nr.Título           Cli/For   Ocorrência               Dt.Ocor. Vlr Original      Vlr Pago   Desp. Cobr.  Vlr Desconto   Vlr Abatim.    Vlr Juros        Nr. Título Bco      Consistência
+0025#STR0025#ALL#Valor Recebido A Maior
+0026#STR0026#ALL#Data Liquidação Inferior à Data Dep. Financeiro
+0027#STR0027#ALL#Sub-totais Por Ocorrência
+0028#STR0028#ALL#Liquidado Anteriormente - Total
+0029#STR0029#ALL#Liquidado Anteriormente - Parcial
+0030#STR0030#ALL#Título Ok
+0031#STR0031#ALL#No.título
+0032#STR0032#ALL#Cli/for
+0033#STR0033#ALL#Ocorrência
+0034#STR0034#ALL#Dt.ocor.
+0035#STR0035#ALL#Valor Original
+0037#STR0037#ALL#Valor Pago
+0039#STR0039#ALL#Vlr. Desconto
+0042#STR0042#ALL#Vlr Iof
+0043#STR0043#ALL#Nr Título Bco
+0044#STR0044#ALL#Out Créditos
+0045#STR0045#ALL#Dt.créd.
+0046#STR0046#ALL#Consistência
+0047#STR0047#ALL#Títulos a receber
+0049#STR0049#ALL#Não foi possível copiar o ficheiro de entrada para o servidor. o ficheiro será processado a partir do equipamento local, para um melhor desempenho, copie o ficheiro directamente para o servidor.
+0050#STR0050#ALL#Vlr Rec Maior
+0051#STR0051#ALL#Vlr Rec Menor
+0052#STR0052#ALL#Vlr Pago Maior
+0053#STR0053#ALL#Vlr Pago Menor
+0054#STR0054#ALL#Cancelado Pelo Operador
+0055#STR0055#ALL#TÍTULO REJEITADO

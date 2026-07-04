@@ -1,0 +1,17 @@
+0001#STR0001#ALL#Relação Dos Movimentos
+0002#STR0002#ALL#   - tipo de saldo: 
+0003#STR0003#ALL#* total da conta orçamentária *
+0004#STR0004#ALL#* total da data *
+0005#STR0005#ALL#* total da classe *
+0006#STR0006#ALL#* total operação *
+0007#STR0007#ALL#* total da classe orçamentária *
+0008#STR0008#ALL#Conta Orçamental
+0009#STR0009#ALL# – período de: 
+0011#STR0011#ALL#Dt.movim.
+0017#STR0017#ALL#Este relatório ira imprimir a Relação de Movimentos de acordo com os parâmetros solicitados pelo usuário. Para mais informações sobre este relatorio consulte o Help do Programa ( F1 ).
+0018#STR0018#ALL#C.o.+data
+0019#STR0019#ALL#C.o.+classe+operação
+0020#STR0020#ALL#Classe+operação
+0022#STR0022#ALL#Data+c.o.+classe+operação
+0026#STR0026#ALL#Tipo de saldo não informado. Verifique.
+0027#STR0027#ALL#Ordem não informada. Verifique!

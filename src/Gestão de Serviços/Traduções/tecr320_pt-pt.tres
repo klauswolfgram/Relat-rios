@@ -1,0 +1,28 @@
+0001#STR0001#ALL#Ligações Por Artigo
+0002#STR0002#ALL#   este programa irá imprimir a relação de ligações técnicas por artigo 
+0003#STR0003#ALL#Cofacturaorme os parâmetros solicitados.
+0006#STR0006#ALL#Ocorrência/problema
+0007#STR0007#ALL#Classificação
+0008#STR0008#ALL#Código de barras
+0009#STR0009#ALL#Administração
+0010#STR0010#ALL#Número      Data       Situação   Classificação  Cliente   Contacto              Tempo Artigo         Nr.série             Ocorrência/problema                   Orç./os  Comentário Da Ocorrência/problema
+0011#STR0011#ALL#Ligação     Emissão    Da Ligação Da Ligação                                    (min) Equipamento
+0012#STR0012#ALL# [ artigo ] 
+0013#STR0013#ALL# [ ocorrência/problema ] 
+0014#STR0014#ALL# [ classificação ] 
+0015#STR0015#ALL#Cancelado Pelo Operador
+0016#STR0016#ALL#Total do artigo: 
+0017#STR0017#ALL#Nr. ligações:
+0018#STR0018#ALL#Média:
+0019#STR0019#ALL#Total da ocorrência/problema: 
+0020#STR0020#ALL#Nr. ligações:
+0021#STR0021#ALL#Média:
+0022#STR0022#ALL#Total da classificação: 
+0023#STR0023#ALL#Nr. ligações:
+0024#STR0024#ALL#Média:
+0025#STR0025#ALL#Total Crial:
+0026#STR0026#ALL#Nr. ligações:
+0027#STR0027#ALL#Média:
+0028#STR0028#ALL#Tempo(min)
+0029#STR0029#ALL#Comentário Da Ocorr/problema
+0031#STR0031#ALL#Ligações

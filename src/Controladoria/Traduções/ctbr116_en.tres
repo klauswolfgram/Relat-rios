@@ -1,0 +1,21 @@
+0001#STR0001#ALL#This program will print the Managerial Journal,according
+0002#STR0002#ALL#to the parameters suggested by the user. 
+0003#STR0003#ALL#
+0004#STR0004#ALL#Z-form 
+0005#STR0005#ALL#Management   
+0006#STR0006#ALL#Issue of Managerial Journal
+0007#STR0007#ALL#           A C C O U N T                  H I S T O R Y                            NUMBER                         A M O U N T  
+0008#STR0008#ALL#D E B I T            C R E D I T                                                   ENTRY                       DEBIT         CREDIT 
+0009#STR0009#ALL#JOURNAL OF  
+0010#STR0010#ALL#TILL 
+0011#STR0011#ALL# IN 
+0012#STR0012#ALL#***** CANCELED BY OPERATOR  *****
+0013#STR0013#ALL#To Transport  =======>
+0014#STR0014#ALL#From Transport=======>
+0015#STR0015#ALL#Totals this day  =======>
+0016#STR0016#ALL#Totals this month=======>
+0017#STR0017#ALL#Gross Total ============>
+0018#STR0018#ALL#J O U R N A L           
+0019#STR0019#ALL#Register: 
+0020#STR0020#ALL#D E B I T            C R E D I T                                                   ENTRY                       DEBIT         CREDIT 
+0021#STR0021#ALL#Creating Temporary File...

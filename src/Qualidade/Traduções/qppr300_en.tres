@@ -1,0 +1,43 @@
+0001#STR0001#ALL#APQP A6 Checklist
+0002#STR0002#ALL#Generating View, Wait...
+0003#STR0003#ALL# Does the Flowchart present the production sequence and
+0004#STR0004#ALL# inspection points ?
+0005#STR0005#ALL# Were all the FMEA assumed (SFMEA, DFMEA)
+0006#STR0006#ALL# available and used as a guide to
+0007#STR0007#ALL# develop the flowchart process ?
+0008#STR0008#ALL# Is the Flowchart focused on checking the
+0009#STR0009#ALL# product and process during the control plan ?
+0010#STR0010#ALL# Does the Flowchart describe how the product will be
+0011#STR0011#ALL# moved, it means, correia transportadora,
+0012#STR0012#ALL# sliding container, etc. ?
+0013#STR0013#ALL# Was the optimization/traction System considered for
+0014#STR0014#ALL# this process ?
+0015#STR0015#ALL# Were actions taken to identify and inspect
+0016#STR0016#ALL# the reworked products before being used ?
+0017#STR0017#ALL# Were high level quality Problems identified and corrected
+0018#STR0018#ALL# due to handling
+0019#STR0019#ALL# and external processing ?
+0020#STR0020#ALL#Prepared By
+0021#STR0021#ALL# A-6 PROCESS FLOWCHART CHECKLIST                   
+0022#STR0022#ALL#Customer´s or Internal Part Number
+0023#STR0023#ALL#Query
+0024#STR0024#ALL#Yes
+0025#STR0025#ALL#No
+0026#STR0026#ALL#Comments / Required Action
+0027#STR0027#ALL#In-Charge Person
+0028#STR0028#ALL#Estimated Date
+0029#STR0029#ALL#Revision Date
+0030#STR0030#ALL#Page 
+0031#STR0031#ALL# of 
+0032#STR0032#ALL#production elevation, including appropriate identification 
+0033#STR0033#ALL#were properly identified and implemented?
+0034#STR0034#ALL#N/a
+0035#STR0035#ALL#Does the flowchart describe the whole process from 
+0036#STR0036#ALL#receipt to shipment, including processes and 
+0037#STR0037#ALL#external services?
+0038#STR0038#ALL#In development of process flowchart, was 
+0039#STR0039#ALL#DFMEA used, when available, to identify 
+0040#STR0040#ALL#specific features that may be critical?
+0041#STR0041#ALL#Is the flowchart fit to product check 
+0042#STR0042#ALL#and process in the control plan and in PFMEA?
+0043#STR0043#ALL#Material Controls for movement and 

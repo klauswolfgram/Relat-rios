@@ -1,0 +1,16 @@
+0001#STR0001#ALL#Assembly Instruction 
+0002#STR0002#ALL#This report will print the Assembly Instructions list,    
+0003#STR0003#ALL#according to the selected parameters.                     
+0004#STR0004#ALL#Z.Form 
+0005#STR0005#ALL#Management   
+0006#STR0006#ALL#          PRODUCT                                                   COMPONENTS
+0007#STR0007#ALL#NUMBER IT CODE            DESCRIPT.                      QUANTITY   CODE            DESCRIPTION                          NECESSITY  
+0008#STR0008#ALL#CANCELLED BY THE OPERATOR 
+0009#STR0009#ALL#Assembly instructions
+0010#STR0010#ALL#This report will print the list of assembly instructions,      
+0011#STR0011#ALL#according to the parameters requested.                         
+0012#STR0012#ALL#Number It
+0013#STR0013#ALL#Component 
+0014#STR0014#ALL#ComponentDescription
+0015#STR0015#ALL#Need       
+0016#STR0016#ALL#List of Assembly Instructions   

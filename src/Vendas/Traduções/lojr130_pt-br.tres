@@ -1,0 +1,107 @@
+0001#STR0001#ALL#Emissäo de Nota Fiscal para Cupom Fiscal
+0002#STR0002#ALL#Este programa tem a funçäo de emitir Nota Fiscal com base em um Cupom Fiscal já
+0003#STR0003#ALL#emitido na Venda atendendo ao Decreto 4.373-N de 02/12/1998. Para tanto, será
+0004#STR0004#ALL#utilizado o script de Nota Fiscal gravado no Parametro MV_SCRNFCP ( + GetMv ( MV_SCRNFCP ) + )
+0005#STR0005#ALL#Especial
+0006#STR0006#ALL#Administracao
+0007#STR0007#ALL#Nota Fiscal
+0008#STR0008#ALL#Nao se pode gerar uma nota fiscal para um cupom que ja pertence a uma nota fiscal global (
+0009#STR0009#ALL#Ja existe uma Nota Fiscal (
+0010#STR0010#ALL#) gerada para o Cupom 
+0011#STR0011#ALL# Nao e possivel gerar outra Nota Fiscal para o mesmo Cupom Fiscal
+0012#STR0012#ALL#Atencäo
+0013#STR0013#ALL#Ja foi gerado uma nota fiscal para esse cupom fiscal.
+0014#STR0014#ALL#Ok
+0015#STR0015#ALL#Digite o cliente para a nota
+0016#STR0016#ALL#Cliente    ?
+0017#STR0017#ALL#Cliente não tem RCF. Não sera possível realizar a fatura.
+0018#STR0018#ALL#Atenção
+0019#STR0019#ALL#Código de cliente/loja não existe no cadastro de Clientes.
+0020#STR0020#ALL#Digite a loja para a nota
+0021#STR0021#ALL#Loja       ?
+0022#STR0022#ALL#A fórmula (F4_FORMULA) utilizada na TES (
+0023#STR0023#ALL#) de produto, informado no parâmetro MV_TESNOTA,
+0024#STR0024#ALL# deve ter o conteúdo de 'S' ou em branco.
+0025#STR0025#ALL#O campo de Formula (F4_FORMULA) do cadastro de TES (
+0026#STR0026#ALL# deve ter uma fórmula cadastrada.
+0027#STR0027#ALL#O campo L.Fisc. ICMS (F4_LFICM) do cadastro da TES (
+0028#STR0028#ALL# deve ser diferente de 'N'.
+0029#STR0029#ALL#TES 
+0030#STR0030#ALL#, informado no parâmetro MV_TESNOTA, não está cadastrada na tabela de Tipos de Entrada e Saídas.
+0031#STR0031#ALL#) de serviço, informado no parâmetro MV_LJNCUPS, 
+0032#STR0032#ALL#O campo Cálcula ISS (F4_ISS) do cadastro da TES (
+0033#STR0033#ALL# deve estar como 'S'.
+0034#STR0034#ALL#O campo L.Fisc. ISS (F4_LFISS) do cadastro da TES (
+0035#STR0035#ALL#, informado no parâmetro MV_LJNCUPS, não está cadastrada na tabela de Tipos de Entrada e Saídas.
+0036#STR0036#ALL#Os parâmetros MV_TESNOTA e MV_LJNCUPS não estão preenchidos corretamente.
+0037#STR0037#ALL#A configuracao das TES de produto e serviço não estão corretas. Verificar:
+0038#STR0038#ALL#Por favor, regularize as situações acima para prosseguir na emissão da nota sobre cupom.
+0039#STR0039#ALL#Emissão de Nota sobre Cupom - Livro Fiscal OnLine
+0040#STR0040#ALL#Emissão de Nota Sobre Cupom
+0041#STR0041#ALL#Pesquisar
+0042#STR0042#ALL#Processar
+0043#STR0043#ALL#Não existem registros para serem apresentados com esses parâmetros.
+0044#STR0044#ALL#Gerar Nota Sobre Cupom
+0045#STR0045#ALL#Estornar Nota Sobre Cupom
+0046#STR0046#ALL#Deseja realmente executar: 
+0047#STR0047#ALL#Aguarde...executando processo...
+0048#STR0048#ALL#Nenhum registro selecionado...
+0049#STR0049#ALL#Confirma a geracao do comprovante fiscal digital ?
+0050#STR0050#ALL# - Deseja estornar/excluir esta NF sobre Cupom?
+0051#STR0051#ALL#Exclusão concluída
+0052#STR0052#ALL#Nota Fiscal sobre Cupom excluída com Sucesso !
+0053#STR0053#ALL#Favor informar o cliente e a loja referentes ao número do cupom fiscal: 
+0054#STR0054#ALL# Somente é possível alterar o cliente e a loja caso o cupom fiscal tenha sido gerado para o cliente e loja padrão. 
+0055#STR0055#ALL#Para o cliente
+0056#STR0056#ALL#Para a loja
+0057#STR0057#ALL#Não é permitido a impressão de Nota Fiscal para o cliente padrão
+0058#STR0058#ALL#Não foi possível excluir a nota, pois o prazo definido para cancelamento foi de 
+0059#STR0059#ALL# hora(s).
+0060#STR0060#ALL#Deseja realizar a impressão da fatura de venda?
+0061#STR0061#ALL#Aguarde...Restaurando os registros.
+0062#STR0062#ALL#Foi detectado que a estrutura da tabela MDL não esta atualizada.
+0063#STR0063#ALL#A data do UPDLOJ31 precisa ser maior ou igual a 
+0064#STR0064#ALL#. Solicite o pacote do chamado TURBD2.
+0065#STR0065#ALL#Execute o U_UPDLOJ31 para atualizar a estrutura da tabela.
+0066#STR0066#ALL#Estorno de Nota Sobre Cupom
+0067#STR0067#ALL#Selecione as notas a serem estornadas:
+0068#STR0068#ALL#Detalhes
+0069#STR0069#ALL#Confirmar
+0070#STR0070#ALL#Filial
+0071#STR0071#ALL#Serie
+0072#STR0072#ALL#Numero Nota
+0073#STR0073#ALL#Qtd. Cupom
+0074#STR0074#ALL#Nota x Cupom
+0075#STR0075#ALL#Cupons relacionados com a Nota: 
+0076#STR0076#ALL# Serie: 
+0077#STR0077#ALL#Fechar
+0078#STR0078#ALL#Numero Cupom
+0079#STR0079#ALL#Emissão
+0080#STR0080#ALL#Mensagem NF (MV_LJMENNO):
+0081#STR0081#ALL#Informe a Mensagem para Nota Fiscal :
+0082#STR0082#ALL#Emissão de Nota não permitida por Legislação
+0083#STR0083#ALL#O parâmetro MV_LJMENNO está ativo, e para seu funcionamento é necessário o campo F2_MENNOTA da tabela SF2 estar configurado no dicionário de dados.
+0084#STR0084#ALL#DANFE org.pub.- Hotelaria
+0085#STR0085#ALL#Não foi possível incluir o título a receber referente a DANFE para empresa pública. Erro:
+0086#STR0086#ALL#Não foi possível excluir o título a receber gerado na DANFE para empresa pública. Erro:
+0087#STR0087#ALL#Verifique o título a receber: 
+0088#STR0088#ALL#O Uso de CFDI e o Tipo de Relação, será aplicado para todos os Comprovantes que forem selecionados na próxima tela.
+0089#STR0089#ALL#Aviso
+0090#STR0090#ALL#Está venda está registrada para o cliente/loja:
+0091#STR0091#ALL#Impressão a seguir é somente para simples conferência!
+0092#STR0092#ALL#Necessário transmitir a nota na rotina NF-e Sefaz (SPEDNFE).
+0093#STR0093#ALL#Documento
+0094#STR0094#ALL#Cliente
+0095#STR0095#ALL#Loja
+0096#STR0096#ALL#Especie
+0097#STR0097#ALL#UF
+0098#STR0098#ALL#Cond Pagto.
+0099#STR0099#ALL#Valor NF
+0100#STR0100#ALL#Deseja realizar a impressão para conferência?
+0101#STR0101#ALL#Não foi possivel excluir a nota, pois o prazo para o cancelamento do documento de saída é de
+0102#STR0102#ALL# horas. Conforme configurado no parâmetro MV_SPEDEXC 
+0103#STR0103#ALL#Nota Fiscal fora do prazo!
+0104#STR0104#BRA#Cancelamento NF sobre Cupom
+0105#STR0105#BRA#Não foi possível Inutilizar / Cancelar a Nota Sobre Cupom.
+0106#STR0106#BRA#Motivo: 
+0107#STR0107#ALL#Cliente não está ativo.

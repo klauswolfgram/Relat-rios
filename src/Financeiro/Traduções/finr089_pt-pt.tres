@@ -1,0 +1,39 @@
+0001#STR0001#ALL#Listagem De Cheques Pendentes De Pagamento
+0002#STR0002#ALL#Este programa emite um relatório dos cheques 
+0003#STR0003#ALL#Pendentes De Depósito.
+0004#STR0004#ALL#Código de barras 80/132
+0005#STR0005#ALL#Administração
+0008#STR0008#ALL#Ordem De Pagamento
+0009#STR0009#ALL#Número De Cheque
+0010#STR0010#ALL#Emissão
+0011#STR0011#ALL#Janeiro
+0012#STR0012#ALL#Fevereiro
+0013#STR0013#ALL#Marco
+0014#STR0014#ALL#Abril
+0015#STR0015#ALL#Maio
+0016#STR0016#ALL#Junho
+0017#STR0017#ALL#Julho
+0018#STR0018#ALL#Agosto
+0019#STR0019#ALL#Setembro
+0020#STR0020#ALL#Outubro
+0021#STR0021#ALL#Novembro
+0022#STR0022#ALL#Dezembro
+0023#STR0023#ALL#A Seleccionar Cheques...
+0024#STR0024#ALL#* código    nome                        número          data     estado     data         custo            banco           moeda  *
+0025#STR0025#ALL#*                                  (ord.pag/núm)        emissão             vencimento                                                 *
+0026#STR0026#ALL#*** listagem de cheques a depositar entre o
+0027#STR0027#ALL# e o
+0028#STR0028#ALL#Totais do mês de 
+0029#STR0029#ALL# (em euros) 
+0030#STR0030#ALL#Total a receber do fornecedor  
+0033#STR0033#ALL#+++ cancelado pelo operador +++
+0035#STR0035#ALL#Total crial....... 
+0036#STR0036#ALL#De fornecedor     ?
+0037#STR0037#ALL#A  fornecedor     ?
+0038#STR0038#ALL#De emissão        ?
+0039#STR0039#ALL#A  emissão        ?
+0040#STR0040#ALL#De vencimento     ?
+0041#STR0041#ALL#A  vencimento     ?
+0042#STR0042#ALL#Mês
+0043#STR0043#ALL#Títulos A Pagar
+0044#STR0044#ALL#Total do mês

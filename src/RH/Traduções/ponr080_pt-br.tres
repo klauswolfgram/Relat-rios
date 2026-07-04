@@ -1,0 +1,65 @@
+0001#STR0001#ALL#Apuracao das Marcacoes
+0002#STR0002#ALL#Será impresso de acordo com os parametros solicitados pelo
+0003#STR0003#ALL#usuario.
+0004#STR0004#ALL#Matricula
+0005#STR0005#ALL#Centro de Custo
+0006#STR0006#ALL#Nome
+0007#STR0007#ALL#Turno
+0008#STR0008#ALL#Zebrado
+0009#STR0009#ALL#Administraçäo
+0010#STR0011#ALL#Data      |                Horas Programadas                |                            Horas Realizadas                             |              Apuracao das Horas             |
+0011#STR0012#ALL#          | Ent.1 Sai.1 Ent.2 Sai.2 Ent.3 Sai.3 Ent.4 Sai.4 | Ent.1 Sai.1 Ent.2 Sai.2 Ent.3 Sai.3 Ent.4 Sai.4 Ent.5 Sai.5 Ent.6 Sai.6 | Tot.Hr Interv H.Trab H.Abon Hr.Dif.  % Dif. |
+0012#STR0013#ALL#Dom
+0013#STR0014#ALL#Seg
+0014#STR0015#ALL#Ter
+0015#STR0016#ALL#Qua
+0016#STR0017#ALL#Qui
+0017#STR0018#ALL#Sex
+0018#STR0019#ALL#Sab
+0019#STR0020#ALL#Total do Centro de Custo
+0020#STR0022#ALL#     ** MARC.IMPAR **
+0021#STR0024#ALL#                     ** DATA ANTERIOR A ADMISSAO **                      | 
+0022#STR0025#ALL#                         ** SEM MARCACOES **                            | 
+0023#STR0027#ALL#Matricula: 
+0024#STR0028#ALL# Nome: 
+0025#STR0029#ALL#Total do Periodo
+0026#STR0030#ALL#Filial: 
+0027#STR0031#ALL#  C.C.:
+0028#STR0032#ALL#  Periodo: 
+0029#STR0033#ALL#C.Custo+Nome
+0030#STR0034#ALL#Selecione a oção de impressão: 
+0031#STR0035#ALL#Por Período
+0032#STR0036#ALL#Por Datas
+0033#STR0037#ALL#Processo: 
+0034#STR0038#ALL#Período: 
+0035#STR0039#ALL#Roteiro: 
+0036#STR0040#ALL#Num. Pagto: 
+0037#STR0041#ALL#Departamento
+0038#STR0042#ALL#Depto: 
+0039#STR0043#ALL#Este programa emite Relacao Apuracao das Marcacoes
+0040#STR0044#ALL#Descricao
+0041#STR0045#ALL#Funcionarios
+0042#STR0046#ALL#Desc.Filial
+0043#STR0047#ALL#Tno
+0044#STR0048#ALL#Tot.Hr
+0045#STR0049#ALL#Interv
+0046#STR0050#ALL#H.Trab
+0047#STR0051#ALL#H.Abon
+0048#STR0052#ALL#Hr.Dif.
+0049#STR0053#ALL#% Dif.
+0050#STR0054#ALL#Data		
+0051#STR0055#ALL#Ent.1 Sai.1 Ent.2 Sai.2 Ent.3 Sai.3 Ent.4 Sai.4
+0052#STR0056#ALL#Ent.1 Sai.1 Ent.2 Sai.2 Ent.3 Sai.3 Ent.4 Sai.4 Ent.5 Sai.5 Ent.6 Sai.6
+0053#STR0057#ALL#Marcações
+0054#STR0058#ALL#Horas Programadas
+0055#STR0059#ALL#Horas Realizadas
+0056#STR0060#ALL#Apuracao das Horas
+0057#STR0061#ALL#Totalizadores
+0058#STR0062#ALL#Total do Turno de Trabalho
+0059#STR0063#ALL#Total Filial
+0060#STR0064#ALL#Total Empresa
+0061#STR0065#ALL#Depto
+0062#STR0066#ALL#Processo
+0063#STR0067#ALL#Periodo
+0064#STR0068#ALL#Rot
+0065#STR0069#ALL#NP

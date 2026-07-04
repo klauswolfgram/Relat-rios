@@ -1,0 +1,13 @@
+0001#STR0001#ALL#Este programa vai emitir o histórico de clientes,
+0002#STR0002#ALL#A imprimir informações sobre os mesmos, em ordem 
+0003#STR0003#ALL#Numérica ou alfabética.
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#Histórico De Clientes
+0007#STR0007#ALL#Código               Lj.   Nome Do Cliente                  Compras Primeira   última              Maior          Maior  Med.  Mai.      Limite De  Grau De Risco
+0008#STR0008#ALL#                                                        acumuladas compra     compra             compra          saldo  atr  atr        crédito  
+0009#STR0009#ALL#Código
+0010#STR0010#ALL#Alfabética
+0011#STR0011#ALL#Cancelado Pelo Operador
+0012#STR0012#ALL#Total clientes seleccionados ----> 
+0013#STR0013#ALL#Dados Dos Clientes

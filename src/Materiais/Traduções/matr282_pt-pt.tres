@@ -1,0 +1,13 @@
+0001#STR0001#ALL#Emite o relatório de conferência de saldos 
+0002#STR0002#ALL#para artigos que utilizam o controle de  
+0003#STR0003#ALL#Lote/Sublote e/ou Localização física.
+0004#STR0004#ALL#CONFERÊNCIA DE SALDOS EM STOCK
+0005#STR0005#ALL#Código de Barras
+0006#STR0006#ALL#Administração
+0007#STR0007#ALL#Actualizar MATXFUNA.PRX
+0008#STR0008#ALL#Actualizar MATA280.PRX
+0009#STR0009#ALL#Actualizar CFGX051.PRW
+0012#STR0012#ALL#( Saldo Actual )
+0016#STR0016#ALL#A Seleccionar Registos
+0019#STR0019#ALL#NÃO
+0025#STR0025#ALL#da empresa corrente já está a ser utilizada na impressão do relatório.

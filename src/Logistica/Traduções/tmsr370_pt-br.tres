@@ -1,0 +1,32 @@
+0001#STR0001#ALL#Relacao Datas de Entrega em Aberto
+0002#STR0002#ALL#Emite a Relacao Datas de Entrega em Aberto
+0003#STR0003#ALL#conforme os parametros informados
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#FIL.ORI. DOCTO   SERIE EMISSAO    HORA  REMETENTE                                DESTINATARIO                             REGIAO DESTINO                   UF  PREVISAO    ATRASO FIL.DES.
+0007#STR0007#ALL#Selecionando Registro no DT6...
+0008#STR0008#ALL#CANCELADO PELO OPERADOR
+0009#STR0009#ALL#Nota(s): 
+0010#STR0010#ALL#Relacao Datas de Entrega em Aberto
+0011#STR0011#ALL#Emite a Relacao Datas de Entrega em Aberto conforme os parametros informados
+0012#STR0012#ALL#Fil. Docto + Documento + Serie
+0013#STR0013#ALL#Documento
+0014#STR0014#ALL#Fil.Orig.
+0015#STR0015#ALL#Serie
+0016#STR0016#ALL#Emissão
+0017#STR0017#ALL#Hora
+0018#STR0018#ALL#Remet.
+0019#STR0019#ALL#Loja
+0020#STR0020#ALL#Nome
+0021#STR0021#ALL#Dest.
+0022#STR0022#ALL#Reg.Dest.
+0023#STR0023#ALL#Descrição
+0024#STR0024#ALL#UF
+0025#STR0025#ALL#Previsão
+0026#STR0026#ALL#Atraso
+0027#STR0027#ALL#Fil.Dest.
+0028#STR0028#ALL#Dat.Ocorr.
+0029#STR0029#ALL#Seq.Ocorr.
+0030#STR0030#ALL#Cod.Ocorr.
+0031#STR0031#ALL#Nota Fiscal
+0032#STR0032#ALL#      DAT.OCORR.   SEQ.  OCORRENCIA.  

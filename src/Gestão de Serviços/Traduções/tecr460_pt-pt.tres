@@ -1,0 +1,18 @@
+0001#STR0001#ALL#Relação De Os
+0002#STR0002#ALL#   este programa irá imprimir a relação de o.s.(s) conforme os
+0003#STR0003#ALL#Parâmetros solicitados.
+0005#STR0005#ALL#Número
+0007#STR0007#ALL#Emissão
+0008#STR0008#ALL#Código de barras
+0009#STR0009#ALL#Administração
+0010#STR0010#ALL#O.serviço   pedido     cliente   emissão    moeda cpg artigo         nº série             problema                                o.s.       ocorrência                                                                           
+0011#STR0011#ALL#          It Artigo         Descrição                                                                             Pedido      Quantidade Valor Unitário      Valor Cliente   Valor Fabricante        Valor Total Garantia
+0012#STR0012#ALL# [ ordem de serviço ] 
+0013#STR0013#ALL# [ cliente ] 
+0014#STR0014#ALL# [ emissão ] 
+0015#STR0015#ALL#Cancelado Pelo Operador
+0016#STR0016#ALL#Total Os
+0017#STR0017#ALL#Total cliente 
+0018#STR0018#ALL#Total de 
+0019#STR0019#ALL#Total Crial
+0020#STR0020#ALL#Ocorrência

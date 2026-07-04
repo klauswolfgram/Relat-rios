@@ -1,0 +1,43 @@
+0001#STR0001#ALL#Este programa tiene como objetivo imprimir la tabla
+0002#STR0002#ALL#de Planes de Revision segun los parametros 
+0003#STR0003#ALL#seleccionados. 
+0004#STR0004#ALL#Planes de Revision
+0005#STR0005#ALL#A Rayas
+0006#STR0006#ALL#Administracion
+0007#STR0007#ALL#Espere. Seleccionando Registro para Impresion
+0008#STR0008#ALL#Todas 
+0009#STR0009#ALL#Todos 
+0010#STR0010#ALL#Fab
+0011#STR0011#ALL#Con
+0012#STR0012#ALL#Amb
+0013#STR0013#ALL#*** ANULADO POR EL OPERADOR ***
+0014#STR0014#ALL#Marca: 
+0015#STR0015#ALL# Plan: 
+0016#STR0016#ALL# Modelo: 
+0017#STR0017#ALL#[Grupo] [Descripcion-------] [Inconveniente------] [Descripcion Inconv-------------] 
+0018#STR0018#ALL#[Estandar] 
+0019#STR0019#ALL#[Conces] 
+0020#STR0020#ALL#[Estandar] [Conces] 
+0021#STR0021#ALL#[Valor Estandar]
+0022#STR0022#ALL#[Valor Conces]
+0023#STR0023#ALL#[Valor Estandar] [Valor Conces]
+0024#STR0024#ALL#[Sec] [Cod.Servicio--] [Descripcion-------------------] 
+0025#STR0025#ALL#[Gru] [Codigo Repuesto--------------] [Descripcion-------------------] [Ctd] [Valor Total]
+0026#STR0026#ALL#[Grupo---] [Descripcion-----------------] [Herram. ] [Descripcion-----------------]
+0027#STR0027#ALL#Costo Total Revision (Fab).:
+0028#STR0028#ALL#Costo Total Revision (Con).:
+0029#STR0029#ALL#Costo Total Plan   (Fab).:
+0030#STR0030#ALL#Costo Total Plan   (Con).:
+0031#STR0031#ALL#¿Marca            ?
+0032#STR0032#ALL#¿Modelo           ?
+0033#STR0033#ALL#¿Plan             ?
+0034#STR0034#ALL#¿Tipo de Operacion?
+0035#STR0035#ALL#¿Tipo de Tiempo   ?
+0036#STR0036#ALL#¿Obtener Tiempo de la?
+0037#STR0037#ALL#Fabrica
+0038#STR0038#ALL#Concesionaria
+0039#STR0039#ALL#Ambos
+0040#STR0040#ALL#¿Fecha Referencia  ?
+0041#STR0041#ALL#Pcs  Grp  Codigo del Item              Descripcion                    Cant Sol
+0042#STR0042#ALL#Srv  Tp  Grupo   Seccion     Cod. Servicio    Descripcion
+0043#STR0043#ALL#----------------------------------------------------------------------------------] 

@@ -1,0 +1,42 @@
+0001#STR0001#ALL#Relação de Titulos a Receber com Retenção PIS / COFINS e CSLL
+0002#STR0002#ALL#Relatório utilizado pelo usuário para levantar as retenções de PIS / COFINS e CSLL dos clientes afim de confirmar os valores das retenções
+0003#STR0003#ALL#Filial
+0004#STR0004#ALL#Dados do Cliente
+0005#STR0005#ALL#Código
+0006#STR0006#ALL#Loja
+0007#STR0007#ALL#Nome do Cliente
+0008#STR0008#ALL#CNPJ
+0009#STR0009#ALL#Títulos
+0010#STR0010#ALL#ID
+0011#STR0011#ALL#Prf
+0012#STR0012#ALL#Número
+0013#STR0013#ALL#Pc
+0014#STR0014#ALL#Tipo
+0015#STR0015#ALL#Dt. Emissão
+0016#STR0016#ALL#Dt Vencto
+0017#STR0017#ALL#Valor Original
+0018#STR0018#ALL#Valor IRRF
+0019#STR0019#ALL#Valor ISS
+0020#STR0020#ALL#Valor INSS
+0021#STR0021#ALL#Valor PIS
+0022#STR0022#ALL#Valor COFINS
+0023#STR0023#ALL#Valor CSLL
+0024#STR0024#ALL#Valor Líquido
+0025#STR0025#ALL#Total de títulos
+0026#STR0026#ALL#Razão Social
+0027#STR0027#ALL#Endereço
+0028#STR0028#ALL#Cidade
+0029#STR0029#ALL# - UF
+0030#STR0030#ALL#Inscr. Estadual
+0031#STR0031#ALL#Por Codigo Cliente
+0032#STR0032#ALL#Por Nome Cliente
+0033#STR0033#ALL#Titulos a Receber com retencao de Impostos (Filiais selecionadas para o relatorio)
+0034#STR0034#ALL#Selecionando Registros...
+0035#STR0035#ALL#CANCELADO PELO OPERADOR
+0036#STR0036#ALL#Filial : 
+0037#STR0037#ALL#A = Os valores de Pis,Cofins e Csll deste titulo foram retidos em outro titulo.
+0038#STR0038#ALL#Total Cliente  - 
+0039#STR0039#ALL#TITULOS
+0040#STR0040#ALL#TITULO
+0041#STR0041#ALL#TOTAL GERAL      ----> 
+0042#STR0042#ALL#TOTAL FILIAL    ----> 

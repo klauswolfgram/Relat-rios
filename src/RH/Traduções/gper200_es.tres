@@ -1,0 +1,91 @@
+0001#STR0001#ALL#Emis. de aumento de sueldos.
+0002#STR0002#ALL#Se imprimira de acuerdo con los param. solicitados por el
+0003#STR0003#ALL#usuario.
+0004#STR0004#ALL#Matricula
+0005#STR0005#ALL#Centro de costo
+0006#STR0006#ALL#Cargo
+0007#STR0007#ALL#Cargo
+0008#STR0008#ALL#A Rayas
+0009#STR0009#ALL#Administrac.
+0010#STR0010#ALL#Fecha Base:
+0011#STR0011#ALL#Buscar  
+0012#STR0012#ALL#Visualizar
+0013#STR0013#ALL#Incluir
+0014#STR0014#ALL#Modif.
+0015#STR0015#ALL#Borrar 
+0016#STR0016#ALL#De Rango Mens.
+0017#STR0017#ALL#A Rango Mens.
+0018#STR0018#ALL#% Incremento
+0019#STR0019#ALL#Valor del Aumento
+0020#STR0020#ALL#Cálculo/Informe reajuste salarial
+0021#STR0021#ALL#(CONV COLECT) 
+0022#STR0022#ALL#  (ANTICIPO    ) 
+0023#STR0023#ALL#  (AUMENTO REAL)  
+0024#STR0024#ALL#Cálculo/Informe reajuste salarial por función
+0025#STR0025#ALL#Confirma
+0026#STR0026#ALL#Reescr.
+0027#STR0027#ALL#Salir  
+0028#STR0028#ALL# Calcular para Sueldos 
+0029#STR0029#ALL#Sistema
+0030#STR0030#ALL#SUELDO BASE
+0031#STR0031#ALL#SUCURS.:
+0032#STR0032#ALL# CCTO: 
+0033#STR0033#ALL# MAT: 
+0034#STR0034#ALL#NOMBRE:
+0035#STR0035#ALL#FCH. INGR:
+0036#STR0036#ALL# CATEGORIA: 
+0037#STR0037#ALL# SINDICATO: 
+0038#STR0038#ALL# CARGO:  
+0039#STR0039#ALL#Empresa: 
+0040#STR0040#ALL# SUELDO ANTIG.  SUELDO   HORA ANTIGUO PORCENTAJE + VALOR ADICIONAL   =   REAJUSTE  SUELDO  NUEVO SUELDO HORA  NUEVO REDONDEO      
+0041#STR0041#ALL# SUELDO  ANTIG.  PORCENTAJE + VALOR ADICIONAL   =   REAJUSTE  SUELDO  NUEVO REDONDEO      
+0042#STR0042#ALL#De Fecha Ingreso
+0043#STR0043#ALL#A  Fecha Ingreso
+0044#STR0044#ALL#Sueldo Minimo: Valores calculados considerando 220h/mes.
+0045#STR0045#ALL#Piso / Mes  :
+0046#STR0046#ALL#Piso / Hora :
+0047#STR0047#ALL#Piso / Dia  :
+0048#STR0048#ALL#Atencion
+0049#STR0049#ALL#Rellene la fecha de ingreso
+0050#STR0050#ALL#Fch en Blanco
+0051#STR0051#ALL#Informe una fecha o rango que este fuera de los periodos informados.
+0052#STR0052#ALL#Fch Invalida.
+0053#STR0053#ALL#Fch de Ingreso Inicial mayor que la fecha final
+0054#STR0054#ALL#==> T O T A L E S   P A R A
+0055#STR0055#ALL#  E M P L E A D O (S):
+0056#STR0056#ALL#LISTA DE LOS FUNC. REAJUSTADAS ( no atribuidas a los empleados)
+0057#STR0057#ALL# SUELDO ANTIGUO  SUE. DIARIO  INT.  ANT   PORCENTAJE + VALOR ADICIONAL   =   REAJUSTE  SUELDO  NUEVO SUE.DIA.INT.  NUEVO  REDONDEO      
+0058#STR0058#ALL#Ocurrieron Inconsist. durante el Proceso y no se hizo efectiva la grabacion de algunos Empleados. ¿Desea consultar el LOG?
+0059#STR0059#ALL#Atencion
+0060#STR0060#ALL#Log de Ocurrencias
+0061#STR0061#ALL# SUELDO ANTIGUO  SUELDO HORA ANTIGUO + VALOR ADICIONAL   =   REAJUSTE  SUELDO NUEVO  SUELDO  HORA NUEVO REDONDEO      
+0062#STR0062#ALL# SUELDO ANTIGUO  SUELDO DIAR. INT.  ANT  + VALOR ADICIONAL   =   REAJUSTE  SUELDO NUEVO  SUE.DIA.INT.  NUEVO  REDONDE       
+0063#STR0063#ALL# SUELDO ANTIGUO   + VALOR ADICIONAL   =   REAJUSTE  SUELDO NUEVO  REDONDE       
+0064#STR0064#ALL#Para Gestion Publica es obligatorio que las preguntas 'Actualiza Archivo' y 'Actualiz.Base Convenio Colectivo' esten configuradas de la misma forma.
+0065#STR0065#ALL#Para todos los sindicatos, deje el campo en blanco.
+0066#STR0066#ALL#OK
+0067#STR0067#ALL#Sueldo no actualizado, porque el reg. de ingreso del empleado, S-2100/S-2200, aun no se integró con el TAF.
+0068#STR0068#ALL#Sueldo no actualizado porque reg. de ingreso del empleado, S-2100/S-2200, está en tránsito TAF vs RET
+0069#STR0069#ALL#Sueldo no actualizado, porque el reg. de ingreso del empleado, S-2100/S-2200, aun no se transmitió al RET.
+0070#STR0070#ALL#Monitoreo - Aumento salarial y generación Registro de modificación contractual del TAF
+0071#STR0071#ALL#Empleado no tiene Código de matrícula única definida. Realice la carga inicial antes de efectuar el ajuste salarial
+0072#STR0072#ALL#Atención
+0073#STR0073#ALL#Las modificaciones salariales se integrarán con el TAF por medio de la ejecución del JOB, de acuerdo con las orientaciones en el siguiente enlace.
+0074#STR0074#ALL#No mostrar nuevamente
+0075#STR0075#ALL#Fecha del aumento:
+0076#STR0076#ALL#- Empleados procesados:
+0077#STR0077#ALL#¿Desea generar Log?
+0078#STR0078#ALL#Log de registros procesados
+0079#STR0079#ALL#Valor inicial menor o igual al valor final del rango anterior
+0080#STR0080#ALL#El valor inicial debe ser mayor que el valor final del rango anterior
+0081#STR0081#ALL#Sucursal:
+0082#STR0082#ALL#- Matrícula:
+0083#STR0083#ALL#- Nombre:
+0084#STR0084#ALL#Sueldo antiguo:
+0085#STR0085#ALL#| Sueldo actualizado:
+0086#STR0086#ALL#Sueldo convenio colectivo antiguo:
+0087#STR0087#ALL#| Sueldo convenio colectivo actualizado:
+0088#STR0088#ALL#Sueldo de la función
+0089#STR0089#ALL#antiguo:
+0090#STR0090#ALL#| Sueldo de la función
+0091#STR0091#ALL#actualizado:

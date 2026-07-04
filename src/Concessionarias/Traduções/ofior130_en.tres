@@ -1,0 +1,40 @@
+0001#STR0001#ALL#The purpose of this program is to print the list  
+0002#STR0002#ALL#of vehicles serviced at the repair shop according to the
+0003#STR0003#ALL#selected parameters. 
+0004#STR0004#ALL#Vehicles Serviced at the Repair Shop
+0005#STR0005#ALL# [Custom.] [Name--------------] [Address-------------------------------] [City--------------------ST] [Telephone----] [Plate-] [Car dealer--------------------------] [City--------------------ST] [Region] [Telephone----]
+0006#STR0006#ALL# [Chassis-----------------] [C.In] [Fleet] [Mr] [Man/Mod] [Model-----------------] [Model Description-----] [Segment ] [Color--------] [Comb.] [Differential--------------] [Gear---------------] [Engine-------------------]
+0007#STR0007#ALL#Z. Form
+0008#STR0008#ALL#Management
+0009#STR0009#ALL#Wait. Selecting File for Printing
+0010#STR0010#ALL# Brand: 
+0011#STR0011#ALL#All  
+0012#STR0012#ALL# Family : 
+0013#STR0013#ALL# Model : 
+0014#STR0014#ALL#All  
+0015#STR0015#ALL# Owner       : 
+0016#STR0016#ALL# From: 
+0017#STR0017#ALL#to 
+0018#STR0018#ALL#***CANCELLED BY THE OPERATOR***
+0019#STR0019#ALL#Total of Services within the period: 
+0020#STR0020#ALL#Brand             ?
+0021#STR0021#ALL#Family            ?
+0022#STR0022#ALL#Model             ?
+0023#STR0023#ALL#Owner             ?
+0024#STR0024#ALL#Unit              ?
+0025#STR0025#ALL#Initial Date      ?
+0026#STR0026#ALL#Final Date        ?
+0027#STR0027#ALL# [--SO--] [Customer] [Name--------------] [Address-----------------------------] [City---------------UF] [Phone-----] [License Plate-] [Reseller------------------] [City---------------UF] [Region] [Phone-----]
+0028#STR0028#ALL# ---------Chassis---------- Ch.Int -Fleet- Brand -Manuf./Mod- --------Model---------- --Description Model-- Insrnc.Mod ---Color---- Fuel Type Differ Nr. Differ. RelDif Transmission Type Transmission Nr. -Engine Type- -Engine Nr.-- Permanence
+0029#STR0029#ALL# days
+0030#STR0030#ALL#Brand                    ?
+0031#STR0031#ALL#Family                   ?
+0032#STR0032#ALL#Model                    ?
+0033#STR0033#ALL#Owner                   ?
+0034#STR0034#ALL#Store                     ?
+0035#STR0035#ALL#Start Date      ?
+0036#STR0036#ALL#End Date       ?
+0037#STR0037#ALL#Consultant          ?
+0038#STR0038#ALL#Salesperson            ?
+0039#STR0039#ALL#Number of Passenger (Contract/Agreement): 
+0040#STR0040#ALL#Number of Tickets (Without Contract/Agreement): 

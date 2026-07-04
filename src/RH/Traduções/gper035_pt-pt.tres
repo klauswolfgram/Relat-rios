@@ -1,0 +1,29 @@
+0001#STR0001#ALL#Matrícula
+0002#STR0002#ALL#C.custo
+0003#STR0003#ALL#Nome
+0004#STR0004#ALL#Folha De C+alculo De Afps
+0005#STR0005#ALL#SNS: 
+0006#STR0006#ALL#Emissão da folha de cálculo de declaração e pagamento de quotizações de saúde a SNS.
+0007#STR0007#ALL#Será impresso de acordo com os parâmetros requeridos por
+0008#STR0008#ALL#El utilizador.
+0010#STR0010#ALL#Administração
+0011#STR0011#ALL#Emissão De Quotizações De Saúde
+0012#STR0012#ALL#Página : 
+0013#STR0013#ALL#Período: 
+0014#STR0014#ALL#Detalhe De Quotizações De Saúde
+0015#STR0015#ALL#NIB empregador : 
+0016#STR0016#ALL#Nome o razão social : 
+0017#STR0017#ALL#  remun.    quot.    lei   quot.adic. quotiza.a  quotiza. serv. cód  data    data 
+0018#STR0018#ALL#Cód.  Nib       Nº Fun.  Nome                    Tributável     7%     18.566  Volunt.   Pagar    Combinada            Início  Término
+0019#STR0019#ALL#Total página    :
+0020#STR0020#ALL#Total acumulado :
+0021#STR0021#ALL#Total imponentes : 
+0022#STR0022#ALL#Remun.tributável
+0023#STR0023#ALL#Quotização (7%)
+0024#STR0024#ALL#Ley 18.566
+0025#STR0025#ALL#Quot.adic.volunt.
+0026#STR0026#ALL#Quotização Por Pagar
+0027#STR0027#ALL#Quot. combinada 
+0028#STR0028#ALL#Folha De Cálculo De Declaração E Pagamento De Quotizações De Saúde à Isapre
+0029#STR0029#ALL#Tipo pagamento: declaração e pagamento | |1| declaração e não pagamento | |2| pagamento de decl.anterior | |3| gratificações | |4| outras | |5|
+0030#STR0030#ALL#Secção a.-identificação da entidade pagadora empreadora | |entidade encarregada pagamento/pensão | |trabalhador independente | |voluntário | |

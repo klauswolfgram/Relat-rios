@@ -1,0 +1,48 @@
+0001#STR0001#ALL#Print all Receipt issued,
+0002#STR0002#ALL#separated by customer.
+0003#STR0003#ALL#Z.FORM
+0004#STR0004#ALL#MANAGEMENT
+0005#STR0005#ALL#Collection receipts issued 
+0006#STR0006#ALL#            Type        Number  Pref  Quot.  Issue    Maturity            Value
+0007#STR0007#ALL#Selecting Records...
+0008#STR0008#ALL# - Per Customer
+0009#STR0009#ALL#CANCELLED BY THE OPERATOR
+0010#STR0010#ALL#Customer : 
+0011#STR0011#ALL#BALANCE : 
+0012#STR0012#ALL#COLLECTION RECEIPT : 
+0013#STR0013#ALL#Collected Bills : 
+0014#STR0014#ALL#Withholding     : 
+0015#STR0015#ALL#Total of Bills     : 
+0016#STR0016#ALL#Total Withholding  : 
+0017#STR0017#ALL#Net Total          : 
+0018#STR0018#ALL#Paid with  : 
+0019#STR0019#ALL#Discount of Advanced Payment No.: 
+0020#STR0020#ALL#Value : 
+0021#STR0021#ALL#BANK : 
+0022#STR0022#ALL#Branch : 
+0023#STR0023#ALL#Account: 
+0024#STR0024#ALL#No. : 
+0025#STR0025#ALL#(D)
+0026#STR0026#ALL#Total of Advanced Receipt   : 
+0027#STR0027#ALL#Total Withholding           : 
+0028#STR0028#ALL#Total Received              : 
+0029#STR0029#ALL#Total Withholding Grade     : 
+0030#STR0030#ALL#Total Received Grade        : 
+0031#STR0031#ALL#From Customer      ?
+0032#STR0032#ALL#To Customer        ?
+0033#STR0033#ALL#From Receipt       ?
+0034#STR0034#ALL#To Receipt         ?
+0035#STR0035#ALL#From Issue         ?
+0036#STR0036#ALL#To Issue           ?
+0037#STR0037#ALL#Currency           ?
+0038#STR0038#ALL#Credit Card
+0039#STR0039#ALL#Issue Date: 
+0040#STR0040#ALL#COLLECTOR: 
+0041#STR0041#ALL#Name: 
+0042#STR0042#ALL#By Receipt
+0043#STR0043#ALL#By Client
+0044#STR0044#ALL#Customer information
+0045#STR0045#ALL#Blnce
+0046#STR0046#ALL#Collection receipts 
+0047#STR0047#ALL#Bills posted    
+0048#STR0048#ALL#Bank information

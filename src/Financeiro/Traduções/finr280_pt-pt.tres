@@ -1,0 +1,19 @@
+0001#STR0001#ALL#Este programa irá emitir a relação dos juros recebidos a partir
+0002#STR0002#ALL#Da data da liquidação.
+0003#STR0003#ALL#Código de barras
+0004#STR0004#ALL#Administração
+0005#STR0005#ALL#Relação Dos Juros Recebidos
+0006#STR0006#ALL#Banco  Código     Cliente                      Nr.título           Vencto      Atraso  Pgt                Valor     Valor Juros
+0007#STR0007#ALL#Cancelado Pelo Operador
+0008#STR0008#ALL#Total de juros recebidos no período : 
+0009#STR0009#ALL#Banco  Código                     Cliente                      Nr.título           Vencto      Atraso  Pgt                Valor     Valor Juros
+0010#STR0010#ALL#Detalhes Dos Juros
+0011#STR0011#ALL#Banco
+0012#STR0012#ALL#Código
+0013#STR0013#ALL#Cliente
+0014#STR0014#ALL#No.título
+0015#STR0015#ALL#Vencto
+0016#STR0016#ALL#Atraso
+0017#STR0017#ALL#Pagamento
+0018#STR0018#ALL#Valor
+0019#STR0019#ALL#Valor Juros

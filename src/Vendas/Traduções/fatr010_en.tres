@@ -1,0 +1,34 @@
+0001#STR0001#ALL#List of Opportunities
+0002#STR0002#ALL#This report will list the sales opportunities
+0003#STR0003#ALL#according to the selected parameters
+0004#STR0004#ALL#Opportunities
+0005#STR0005#ALL#Prospects
+0006#STR0006#ALL#Products
+0007#STR0007#ALL#Sales Representatives
+0008#STR0008#ALL#Sales Process
+0009#STR0009#ALL#Z.Form
+0010#STR0010#ALL#Management
+0011#STR0011#ALL#Code  Rev  Description                     Sales Representative               Prospect                    Sales Process           Stage                          Funds  Funds Base Md. Product                   Status  
+0012#STR0012#ALL#Notes:
+0013#STR0013#ALL#Competitors:
+0014#STR0014#ALL#Partners:
+0015#STR0015#ALL#Sales Representatives:
+0016#STR0016#ALL#Contacts:
+0017#STR0017#ALL#Total / Opportunities : 
+0018#STR0018#ALL#Total/Funds ( currency 
+0019#STR0019#ALL#Totals by currency:
+0020#STR0020#ALL#This report will print a list of the sales opportunities, according to the parameters requested 
+0021#STR0021#ALL#Sales opportunities  
+0022#STR0022#ALL#Code  
+0023#STR0023#ALL#Rev
+0024#STR0024#ALL#Total / Item 
+0025#STR0025#ALL#Total / Opportunity 
+0026#STR0026#ALL#Competitors 
+0027#STR0027#ALL#Partners 
+0028#STR0028#ALL#Sales team    
+0029#STR0029#ALL#Contacts
+0030#STR0030#ALL#Curr.
+0031#STR0031#ALL#Evolution of Sale
+0032#STR0032#ALL#On alert
+0033#STR0033#ALL#Late
+0034#STR0034#ALL#Up to date

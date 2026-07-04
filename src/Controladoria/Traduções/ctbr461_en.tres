@@ -1,0 +1,68 @@
+0001#STR0001#ALL#CTBR461
+0002#STR0002#ALL#Issue of Statements  - Sundry accounts to be collected
+0003#STR0003#ALL#This program prints the Statement - Sundry Accounts to be collected
+0004#STR0004#ALL#Statement Sundry Accounts to be collected
+0005#STR0005#ALL#A
+0006#STR0006#ALL# IN 
+0007#STR0007#ALL#Branch: 
+0008#STR0008#ALL#Statement Issue - Provision for dubious collection accounts (ACCOUNT 19)
+0009#STR0009#ALL#This program will print the Statement - Provision for dubious collection accounts (ACCOUNT 19)
+0010#STR0010#ALL#Statement of Provision for dubious collection accounts (ACCOUNT 19)
+0011#STR0011#ALL#This program prints the Statement - Customer Accounts (ACCOUNT12)
+0012#STR0012#ALL#Customer Accounts Statement (ACCOUNT 12)
+0013#STR0013#ALL#INVENTORY AND BALANCE BOOKS
+0014#STR0014#ALL#Select the book
+0015#STR0015#ALL#Total Value
+0016#STR0016#ALL#expected
+0017#STR0017#ALL#Debtors data
+0018#STR0018#ALL#Account receivable
+0019#STR0019#ALL#provisioned 
+0020#STR0020#ALL#Document
+0021#STR0021#ALL#Type
+0022#STR0022#ALL#Number
+0023#STR0023#ALL#Name
+0024#STR0024#ALL#denomination
+0025#STR0025#ALL#Number of Document
+0026#STR0026#ALL#Issuing date
+0027#STR0027#ALL#Value
+0028#STR0028#ALL#company name
+0029#STR0029#ALL#paymt receipt
+0030#STR0030#ALL#Final Total Balance
+0031#STR0031#ALL#Customer information
+0032#STR0032#ALL#Account total
+0033#STR0033#ALL#Issue Date
+0034#STR0034#ALL#Document
+0035#STR0035#ALL#Receivable
+0036#STR0036#ALL#paymt receipt
+0037#STR0037#ALL#Details of Account Balance
+0038#STR0038#ALL#This program will print details of account 40 balance
+0039#STR0039#ALL#Account and Sub Account Taxes Payable
+0040#STR0040#ALL#Ending Balance
+0041#STR0041#ALL#Code
+0042#STR0042#ALL#Description
+0043#STR0043#ALL#Details from Account 41 Balance
+0044#STR0044#ALL#This program will print details of account 41 balance
+0045#STR0045#ALL#Account
+0046#STR0046#ALL#Worker
+0047#STR0047#ALL#Document of
+0048#STR0048#ALL#Identity
+0049#STR0049#ALL#FISCAL YEAR: 
+0050#STR0050#ALL#RCR: 
+0051#STR0051#ALL#Nicknames and Names, Denomination or Corporate Name: 
+0052#STR0052#ALL#Stockholders, Partners or Personal Information
+0053#STR0053#ALL#Employees accounts receivable, stockholders (or members), directors and managers
+0054#STR0054#ALL#Account Amount
+0055#STR0055#ALL#Start Date
+0056#STR0056#ALL#of the operation
+0057#STR0057#ALL#WITHOUT OPERATIONS
+0058#STR0058#ALL#Document/Series
+0059#STR0059#ALL#Third party information
+0060#STR0060#ALL#Provision Account receivable
+0061#STR0061#ALL#Total value of the accrued provision
+0062#STR0062#ALL#Grand Total:
+0063#STR0063#ALL#Customer information
+0064#STR0064#ALL#Format
+0065#STR0065#ALL#Generate TXT file?
+0066#STR0066#ALL#File successfully generated
+0067#STR0067#ALL#Error creating txt file
+0068#STR0068#ALL#TXT file successfully generated

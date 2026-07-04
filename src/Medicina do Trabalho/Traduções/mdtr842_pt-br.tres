@@ -1,0 +1,34 @@
+0001#STR0001#ALL#Relatório do Plano de Acão por Mandato.
+0002#STR0002#ALL#O Relatório mostra as acões definidas em conjunto pelos integrantes
+0003#STR0003#ALL#do mandato.
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracão
+0006#STR0006#ALL#Plano de Acão por Mandato
+0007#STR0007#ALL#Mandato     Descrição                                 Início      Término      Data Eleição
+0008#STR0008#ALL#    Plano     Nome do Plano de Ação                    Data Implant.  Inic. Prev.  Fim Prev.  Inic. Real.  Fim Real.   Responsável
+0009#STR0009#ALL#CANCELADO PELO OPERADOR
+0010#STR0010#ALL#O que
+0011#STR0011#ALL#Onde
+0012#STR0012#ALL#Porque:
+0013#STR0013#ALL#Como
+0014#STR0014#ALL#Quando: Inic. Previsto
+0015#STR0015#ALL#Real
+0016#STR0016#ALL#Fim Previsto
+0017#STR0017#ALL#Quanto: Valor Previsto
+0018#STR0018#ALL#Quant. Atual
+0019#STR0019#ALL#Meta
+0020#STR0020#ALL#De Cliente ?
+0021#STR0021#ALL#Loja
+0022#STR0022#ALL#Até Cliente ?
+0023#STR0023#ALL#Cliente/Loja:
+0024#STR0024#ALL#Ações ?
+0025#STR0025#ALL#Até Mandato CIPA ?
+0026#STR0026#ALL#De  Mandato CIPA ?
+0027#STR0027#ALL#Não há dados para a montagem do relatório.
+0028#STR0028#ALL#ATENÇÃO
+0029#STR0029#ALL#Até Mandato CIPATR ?
+0030#STR0030#ALL#De  Mandato CIPATR ?
+0031#STR0031#ALL#Código do mandato da CIPATR. O campo pode permanecer vazio para considerar desde o primeiro código.
+0032#STR0032#ALL#Código do mandato da CIPATR. O campo pode ser preenchido com a letra Z até o final para considerar o último código.
+0033#STR0033#ALL#Código do mandato da CIPA. O campo pode ser preenchido com a letra Z até o final para considerar o último código.
+0034#STR0034#ALL#Código do mandato da CIPA. O campo pode permanecer vazio para considerar desde o primeiro código.

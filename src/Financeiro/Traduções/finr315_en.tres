@@ -1,0 +1,18 @@
+0001#STR0001#ALL#Report listing customers with                 
+0002#STR0002#ALL#pending collection bills, entering the      
+0003#STR0003#ALL#sequence and service route     
+0004#STR0004#ALL#Route for collections
+0005#STR0005#ALL#Route for collections
+0006#STR0006#ALL#List for collections
+0007#STR0007#ALL#Seq-(Cus.Cd/Sc) Customer             Tel.Area Code  Contact    Address                        Branch                District      ST
+0008#STR0008#ALL#  Bills   -> Prf-Number         TP  Class      Issuance   Due Date   MD   Source Value     Value in Arrears Value in Due    In Arr.
+0009#STR0009#ALL#Enter whose collector requires to print the collection list.
+0010#STR0010#ALL#Enter the route used to print the collection list.
+0011#STR0011#ALL#Collector
+0012#STR0012#ALL#Due Date Period
+0013#STR0013#ALL#From
+0014#STR0014#ALL#To
+0015#STR0015#ALL#Subtotal
+0016#STR0016#ALL#GRAND TOTAL
+0017#STR0017#ALL#Route
+0018#STR0018#ALL#Selecting records...

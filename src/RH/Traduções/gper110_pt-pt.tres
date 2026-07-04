@@ -1,0 +1,32 @@
+0001#STR0001#ALL#Extracto do f.g.t.s.                  
+0002#STR0002#ALL#Sera impresso de acordo com os parâmetro s solicitados pelo
+0003#STR0003#ALL#Utilizador.
+0004#STR0004#ALL#Registo
+0005#STR0005#ALL#Centro De Custo
+0006#STR0006#ALL#Código de barras
+0007#STR0007#ALL#Administração
+0008#STR0008#ALL#Extracto do f.g.t.s.
+0009#STR0009#ALL#FI   REG. NOME EMPREGADO                 CENTRO CUSTO         DATA OPCAO  DATA DESLIG.   CART. PROF.         R.G.           P.I.S.
+0010#STR0010#ALL#|   data    |             saldo |  percentagem |          valor |         anterior |        depósito |        s a l d o |
+0011#STR0011#ALL#| mês / ano |          anterior |    reajuste |       reajuste |       + reajuste |         no mês  |        f i n a l |
+0012#STR0012#ALL#|   data    |             saldo |  percentagem |          valor |         anterior |        depósito |        s a l d o |
+0013#STR0013#ALL#| mês / ano |          anterior |    reajuste |       reajuste |       + reajuste |         no mês  |        f i n a l |
+0014#STR0014#ALL#Filial
+0015#STR0015#ALL#Nome Empregado
+0016#STR0016#ALL#Data Opção
+0017#STR0017#ALL#Data Deslig.
+0018#STR0018#ALL#Cart. Profis.
+0019#STR0019#ALL#R.g.
+0020#STR0020#ALL#P.i.s.
+0021#STR0021#ALL#Empregado
+0022#STR0022#ALL#Extractos
+0023#STR0023#ALL#Data
+0024#STR0024#ALL#Saldo Anterior
+0025#STR0025#ALL#Perc.reajuste
+0026#STR0026#ALL#Ant.+reajuste
+0027#STR0027#ALL#Depósito No Mês
+0028#STR0028#ALL#Saldo Final
+0029#STR0029#ALL#Este Programa Emite O Relatório Do Extracto De Fgts.
+0030#STR0030#ALL#Empregados
+0031#STR0031#ALL#Saldo Fgts
+0032#STR0032#ALL#Valor Re-acordo

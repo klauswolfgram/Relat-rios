@@ -1,0 +1,29 @@
+0001#STR0001#ALL#Vendas Por Clientes
+0002#STR0002#ALL#Código de barras
+0003#STR0003#ALL#Administração
+0004#STR0004#ALL#Balcão
+0005#STR0005#ALL#Oficina Peças
+0006#STR0006#ALL#Oficina Serviços
+0007#STR0007#ALL#Veículos
+0008#STR0008#ALL#Peças crial ( balcão + oficina )
+0009#STR0009#ALL#Oficina crial ( peças + serviços )
+0010#STR0010#ALL#Todos Os Departamentos
+0013#STR0013#ALL#Filtrar Vendas Por Qtd. De Clientes
+0014#STR0014#ALL#Qtd. De Clientes:
+0015#STR0015#ALL#Filtrar Vendas Por Valor Total
+0016#STR0016#ALL#Vlr. Total Das Vendas:
+0017#STR0017#ALL#Filtrar Vendas Por % Total
+0018#STR0018#ALL#% Total Das Vendas:
+0019#STR0019#ALL#Filtrar Vendas Por Valor Total Do Cliente
+0022#STR0022#ALL#De 
+0024#STR0024#ALL#Balcão peças    
+0025#STR0025#ALL# peças    
+0026#STR0026#ALL#Oficina peças   
+0027#STR0027#ALL# serviços 
+0028#STR0028#ALL#Oficina Serviços
+0029#STR0029#ALL#Veículos        
+0030#STR0030#ALL#Peças(balc+ofic)
+0031#STR0031#ALL#Oficina(pec+srv)
+0033#STR0033#ALL# período: 
+0036#STR0036#ALL#         região  qtde   vlr.vendas vl.impostos   vlr.custos lucro bruto %lcbru
+0037#STR0037#ALL#T o t a l     g e r a l   

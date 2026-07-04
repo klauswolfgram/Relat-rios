@@ -1,0 +1,45 @@
+0001#STR0001#ALL#Matrícula
+0002#STR0002#ALL#C.custo
+0004#STR0004#ALL#Matrícula
+0005#STR0005#ALL#C.custo + Nome
+0006#STR0006#ALL#Emissão De Recibos De Pagamento.
+0007#STR0007#ALL#Sera impresso de acordo com os parâmetro s solicitados pelo
+0008#STR0008#ALL#Utilizador.
+0009#STR0009#ALL#Código de barras
+0010#STR0010#ALL#Administração
+0011#STR0011#ALL#Emissão De Recibos De Pagamentos
+0012#STR0012#ALL#A Seleccionar Registos...
+0015#STR0015#ALL#Função: 
+0016#STR0016#ALL#Número: 
+0017#STR0017#ALL#  empresa   : 
+0018#STR0018#ALL# NIB: 
+0019#STR0019#ALL# b.p.s.: 
+0020#STR0020#ALL#  morada : 
+0021#STR0021#ALL#M.t.s.s.: 
+0022#STR0022#ALL# b.s.e.: 
+0023#STR0023#ALL#  c.i.: 
+0024#STR0024#ALL#  categoria: 
+0025#STR0025#ALL# do mês de  : 
+0026#STR0026#ALL#Data admis: 
+0027#STR0027#ALL# remunerações 
+0028#STR0028#ALL# Descontos
+0029#STR0029#ALL# do período de 
+0030#STR0030#ALL#Continua !!!
+0031#STR0031#ALL#  total bruto     
+0032#STR0032#ALL#Total De Descontos
+0033#STR0033#ALL# beneficiário : 
+0034#STR0034#ALL#Remuneração/jornada:
+0035#STR0035#ALL#Líquido a cobrar       : 
+0036#STR0036#ALL#São pesos uruguaios 
+0037#STR0037#ALL#­­ continua !!
+0038#STR0038#ALL#Recebi o valor e cópia desta folha de pagamento não tendo nada a reclamar por nenhuma verba. 
+0039#STR0039#ALL#A empresa declara ter realizado os descontos de segurança social segundo o decreto 337/92
+0040#STR0040#ALL#Assinatura Do Funcionário
+0041#STR0041#ALL#Data:  
+0042#STR0042#ALL#Original
+0043#STR0043#ALL#Copia
+0044#STR0044#ALL# Direcção-Geral da Segurança Social: 
+0046#STR0046#ALL# Folha De Pagamento
+0047#STR0047#ALL# 1a Parcela 13o Salário
+0048#STR0048#ALL# 2a parcela 13o salário
+0053#STR0053#URU#Antes de prosseguir, é necessário executar a actualização '80-Ajustes no dicionário - Uruguai', disponível para o módulo SIGAGPE no compatibilizador RHUPDMOD.

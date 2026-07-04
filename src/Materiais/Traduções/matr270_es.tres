@@ -1,0 +1,26 @@
+0001#STR0001#ALL#Etiquetas para inventario
+0002#STR0002#ALL#Este programa emitira las etiquetas para el calculo del stock.
+0003#STR0003#ALL#Se emitira en 3 columnas para cada producto.
+0004#STR0004#ALL# Por Codigo         
+0005#STR0005#ALL# Por Tipo           
+0006#STR0006#ALL# Por Descripcion    
+0007#STR0007#ALL# Por Grupo        
+0008#STR0008#ALL#A Rayas
+0009#STR0009#ALL#Administracion
+0010#STR0010#ALL#ANULADO POR EL OPERADOR
+0011#STR0011#ALL#Codigo:
+0012#STR0012#ALL# Tp:
+0013#STR0013#ALL# Gr:
+0014#STR0014#ALL# UM:
+0015#STR0015#ALL#| Descr.: 
+0016#STR0016#ALL#| Depos:
+0017#STR0017#ALL# Direc.:
+0018#STR0018#ALL#| Fecha del 1º calculo : ____/____/____
+0019#STR0019#ALL#| Fecha del 2º calculo : ____/____/____
+0020#STR0020#ALL#| Fecha del 3º calculo : ____/____/____
+0021#STR0021#ALL#| Cantidad calculada:
+0022#STR0022#ALL#  Visto empleado        Visto Supervisor  |
+0023#STR0023#ALL#|          A-INVENTARIO Num.
+0024#STR0024#ALL#|          B-INVENTARIO Num.
+0025#STR0025#ALL#|          C-INVENTARIO Num.
+0026#STR0026#ALL# Por Direccion     

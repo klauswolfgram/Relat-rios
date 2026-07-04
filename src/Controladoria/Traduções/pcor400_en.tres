@@ -1,0 +1,28 @@
+0001#STR0001#ALL#List of Movements     
+0002#STR0002#ALL#   -Balance type:   
+0003#STR0003#ALL#* Budgetary Account Total     *
+0004#STR0004#ALL#* Date total   *
+0005#STR0005#ALL#* Class total     *
+0006#STR0006#ALL#* Operation total*
+0007#STR0007#ALL#* Budgetary Class Total        *
+0008#STR0008#ALL#Budgetary Account 
+0009#STR0009#ALL# - Period from: 
+0010#STR0010#ALL# to 
+0011#STR0011#ALL#Movem.Dt.
+0012#STR0012#ALL#Class 
+0013#STR0013#ALL#Operation
+0014#STR0014#ALL#History  
+0015#STR0015#ALL#Proc.
+0016#STR0016#ALL#Value
+0017#STR0017#ALL#This report will print the list of movements according to the parameters requested by the user. For more information about this report, query the Program Help (F1).                    
+0018#STR0018#ALL#B.Ac+Date
+0019#STR0019#ALL#B.Ac+Class+Operation
+0020#STR0020#ALL#Class+Operation
+0021#STR0021#ALL#Operat. 
+0022#STR0022#ALL#Date+B.Ac+Class+Operation
+0023#STR0023#ALL#Attn.  
+0024#STR0024#ALL#No data for the parameters entered. 
+0025#STR0025#ALL#Movements by 
+0026#STR0026#ALL#Balance type not informed. Check it.
+0027#STR0027#ALL#Order not informed. Check it out!
+0028#STR0028#ALL#- Index by:

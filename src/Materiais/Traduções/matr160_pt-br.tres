@@ -1,0 +1,15 @@
+0001#STR0001#ALL#Emite o relatorio de cotacoes em aberto por ordem
+0002#STR0002#ALL#de Numero, Produto e Valor do menor para o maior.
+0003#STR0003#ALL#Cotacoes em Aberto
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#Relacao das Cotacoes em Aberto
+0007#STR0007#ALL#    Produto     Fornec LJ   Valor Presente  PE Desvio| Fornec LJ   Valor Presente  PE Desvio| Fornec LJ   Valor Presente  PE Desvio
+0008#STR0008#ALL#Selecionando Registros...
+0009#STR0009#ALL#Cotacao N. 
+0010#STR0010#ALL# Vencimento 
+0011#STR0011#ALL#    Nao Cotado
+0012#STR0012#ALL#    Produto     Fornec               LJ   Valor Presente   PE Desvio | Fornec               LJ   Valor Presente   PE Desvio | Fornec               LJ   Valor Presente   PE Desvio |                  
+0013#STR0013#ALL#Valor Presente
+0014#STR0014#ALL#Cotação
+0015#STR0015#ALL#Produto e Fornecedor da cotação

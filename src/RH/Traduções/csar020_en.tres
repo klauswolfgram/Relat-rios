@@ -1,0 +1,46 @@
+0001#STR0001#ALL#Factors X Employees Grading Report
+0002#STR0002#ALL#It will be printed according to the parameters selected
+0003#STR0003#ALL#by the user.
+0004#STR0004#ALL#Z.Form
+0005#STR0005#ALL#Management
+0006#STR0006#ALL#REG.    NAME                            BIRTH DT.    ADMISS.DT.    MARIT.ST.
+0007#STR0007#ALL#Group
+0008#STR0008#ALL#Cost Center :
+0009#STR0009#ALL#Title
+0010#STR0010#ALL#NECESSARY FACTOR                  EMPLOYEE`S GRADING
+0011#STR0011#ALL#NECESSARY FACTOR                  EMPLOYEE`S GRADING                 POINTS
+0012#STR0012#ALL#T O T A L:
+0013#STR0013#ALL#FACTOR´S DETAILED DESCRIPTION
+0014#STR0014#ALL# ***There is no Factor´s Detailed Description*** 
+0015#STR0015#ALL#EMPLOYEE´S FACTOR OBSERVATION
+0016#STR0016#ALL# ***  There is no Observation for this FActor   *** 
+0017#STR0017#ALL#Employee
+0018#STR0018#ALL#Employee Graduation
+0019#STR0019#ALL#Title Degree
+0020#STR0020#ALL#Points
+0021#STR0021#ALL#Tit. Degre
+0022#STR0022#ALL#Marital Stat
+0023#STR0023#ALL#Factors x Employees
+0024#STR0024#ALL#Employee Ctrl
+0025#STR0025#ALL#Group Code
+0026#STR0026#ALL#Description
+0027#STR0027#ALL#Cost Center Code
+0028#STR0028#ALL#Position Code
+0029#STR0029#ALL#Registration Code
+0030#STR0030#ALL#Name
+0031#STR0031#ALL#Birth Dt.
+0032#STR0032#ALL#Admis. Dt.
+0033#STR0033#ALL#Marit. Status
+0034#STR0034#ALL#T O T A L:
+0035#STR0035#ALL#Code
+0036#STR0036#ALL#Required Factor
+0037#STR0037#ALL#Employee Grading
+0038#STR0038#ALL#Points
+0039#STR0039#ALL#This program issues Report of Grading of Factors x Employees
+0040#STR0040#ALL#Cost Center
+0041#STR0041#ALL#Factor and degree
+0042#STR0042#ALL#Factor Detailed Description
+0043#STR0043#ALL#BRANCH
+0044#STR0044#ALL#GAP
+0045#STR0045#ALL#Necessary Level
+0046#STR0046#ALL#***No graduation registered for this factor***

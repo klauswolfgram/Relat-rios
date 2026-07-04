@@ -1,0 +1,35 @@
+0001#STR0001#ALL#Este relatorio ira imprimir os detalhes da alocacao dos recursos nos projetos no periodo solicitado.
+0002#STR0002#ALL#Alocacao de Recursos
+0003#STR0003#ALL#PROJETO+TAREFA
+0004#STR0004#ALL#RECURSO+DATA DE ALOCACAO
+0005#STR0005#ALL#Zebrado
+0006#STR0006#ALL#Administracao
+0007#STR0007#ALL#TAREFA                                      RECURSO                                        EQUIPE                                     D. INICIO  H.INI. D. FINAL  H.FIN.  %ALOC  QUANTIDADE UM    CUSTO PRV.     TOTAL PREV.
+0008#STR0008#ALL#Projeto    : 
+0009#STR0009#ALL#Total
+0010#STR0010#ALL#PROJETO                                                     TAREFA                                                        DATA INICIO        DATA FINAL        %ALOC    QUANTIDADE  UM       CUSTO PRV.         TOTAL PREV.
+0011#STR0011#ALL#Recurso    : 
+0012#STR0012#ALL#EQUIPE+DATA DE ALOCACAO
+0013#STR0013#ALL#Equipe     : 
+0014#STR0014#ALL#PROJETO                                   TAREFA                                      RECURSO                                         DATA INICIO    DATA FINAL       %ALOC   QUANTIDADE UM     CUSTO PRV.        TOTAL PREV.
+0015#STR0015#ALL#Equipe   :
+0016#STR0016#ALL#Un. Max  :
+0017#STR0017#ALL#Custo Prv.
+0018#STR0018#ALL#Total Prv.
+0019#STR0019#ALL#Grupo de Composicao
+0020#STR0020#ALL#PROJETO+GRUPO DE TAREFAS+TAREFA+RECURSO
+0021#STR0021#ALL#Total Geral
+0022#STR0022#ALL#Grupo
+0023#STR0023#ALL#UM
+0024#STR0024#ALL#Projeto + Tarefa + Recurso + Equipe + Grupo de Composição
+0025#STR0025#ALL#Projeto
+0026#STR0026#ALL#Tarefa
+0027#STR0027#ALL#Recurso
+0028#STR0028#ALL#Alocação de Recurso
+0029#STR0029#ALL#Equipe
+0030#STR0030#ALL#Tarefa + Alocação de Equipe
+0031#STR0031#ALL#Ordem: 
+0032#STR0032#ALL#REC+PRJ+TRF+DATA
+0033#STR0033#ALL#Recurso(Projeto)
+0034#STR0034#ALL#*** CANCELADO PELO USUARIO ***
+0035#STR0035#ALL#Insumo

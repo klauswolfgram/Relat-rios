@@ -1,0 +1,43 @@
+0001#STR0001#ALL#This program will print the Revision Plans table, 
+0002#STR0002#ALL#according to the selected            
+0003#STR0003#ALL#parameters.   
+0004#STR0004#ALL#Revision Plans
+0005#STR0005#ALL#Z.Form
+0006#STR0006#ALL#Management   
+0007#STR0007#ALL#Please, wait. Selecting record to print
+0008#STR0008#ALL#All 
+0009#STR0009#ALL#All 
+0010#STR0010#ALL#Man
+0011#STR0011#ALL#Con
+0012#STR0012#ALL#Env
+0013#STR0013#ALL#*** CANCELLED BY THE OPERATOR***
+0014#STR0014#ALL#Brand: 
+0015#STR0015#ALL# Plan: 
+0016#STR0016#ALL# Model: 
+0017#STR0017#ALL#[Grup ] [Description-----] [Inconvenient-------] [Inconv. Description----------] 
+0018#STR0018#ALL#[Stand.] 
+0019#STR0019#ALL#[Conces] 
+0020#STR0020#ALL#[Stand.] [Car De] 
+0021#STR0021#ALL#[Stand. Price]
+0022#STR0022#ALL#[Conces Value]
+0023#STR0023#ALL#[Stand. Value] [Car Dealer V]
+0024#STR0024#ALL#[Seq] [Service Code-] [Description-----------------] 
+0025#STR0025#ALL#[Gru] [Code   Part--------------] [Description-----------------] [Qty ] [Grand total]
+0026#STR0026#ALL#[Group---] [Description-----------------] [Tool    ] [Descripton------------------]
+0027#STR0027#ALL#Total revision cost (Man).:
+0028#STR0028#ALL#Total revision cost (Con).:
+0029#STR0029#ALL#Total cost Plan     (Man).:
+0030#STR0030#ALL#Total cost Plan     (Con).:
+0031#STR0031#ALL#Brand             ?
+0032#STR0032#ALL#Model             ?
+0033#STR0033#ALL#Plan              ?
+0034#STR0034#ALL#Type of operation ?
+0035#STR0035#ALL#Type of time      ?
+0036#STR0036#ALL#Get Time from     ?
+0037#STR0037#ALL#Factory
+0038#STR0038#ALL#Car Dealer
+0039#STR0039#ALL#Both 
+0040#STR0040#ALL#Reference Date    ?
+0041#STR0041#ALL#Pts  Grp  Item Code                   Description                  Req Amt
+0042#STR0042#ALL#Srv  Tp  Group   Section   Service Code    Description
+0043#STR0043#ALL#----------------------------------------------------------------------------------] 

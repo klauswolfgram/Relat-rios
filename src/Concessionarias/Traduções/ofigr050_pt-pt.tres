@@ -1,0 +1,51 @@
+0001#STR0001#ALL#Este programa tem como objectivo imprimir as garantias
+0002#STR0002#ALL#Requeridas o fabricante              
+0003#STR0003#ALL#Garantias requeridas             
+0004#STR0004#ALL# Nro.os-- Dat.aber Chaint Chassis Do Veículo-------- Modelo Do Veículo------------- Proprietário Do Veículo--------------------------
+0005#STR0005#ALL#          T.gar Dt Repar Dt Trans Dt Venda Kmveículo Segmento-- Dn Rsp Autfab-- Factura Peca--- Total Peças Tpopad- Total Srvcs Esp Gar--
+0006#STR0006#ALL#Código de barras
+0007#STR0007#ALL#Administração
+0010#STR0010#ALL#Tipo gar: 
+0011#STR0011#ALL#Requeridas 
+0012#STR0012#ALL#Talões rev. 
+0014#STR0014#ALL#*** cancelado pelo operador ***
+0016#STR0016#ALL#Valor de peças.: 
+0017#STR0017#ALL#      Valor de Serviços.: 
+0018#STR0018#ALL#Valor crial de peças.: 
+0019#STR0019#ALL# valor crial de serviços.: 
+0020#STR0020#ALL#Data inicial      ?
+0021#STR0021#ALL#Dt ref.: fecho 
+0022#STR0022#ALL#Dt ref.: transmissao 
+0023#STR0023#ALL#          Morada-------------------------------- Cidade--------- Uf Cep----- Telefone------- Cr-- Gr--
+0024#STR0024#ALL#Aguarde. A seleccionar registo para impressão.
+0025#STR0025#ALL#Seq Grp  Código da Peça------------- Descr Peça----- Def For Qtdade ------Valor -GS Código Serviço- Descr Serviço- Tpo Gar.
+0026#STR0026#ALL#ELEMS. NORMAIS
+0027#STR0027#ALL#ELEMS. ADICIONAIS
+0028#STR0028#ALL#Total de solicitações com erro
+0029#STR0029#ALL#Total de solicitações pagas   
+0030#STR0030#ALL#Total de solicitações não Proc
+0034#STR0034#ALL#Total mão de obra creditada      
+0035#STR0035#ALL#Total peças creditadas        
+0036#STR0036#ALL#Crédito total                 
+0037#STR0037#ALL#Taxa de mão de obra           
+0038#STR0038#ALL#Quantidade de solicitações    
+0039#STR0039#ALL#% sobre o crédito             
+0040#STR0040#ALL#Débito de mão de obra         
+0042#STR0042#ALL#Débito total de peças         
+0043#STR0043#ALL#ACUMULADO ÚLTIMOS 12 MESES
+0044#STR0044#ALL#Débito total                  
+0045#STR0045#ALL#% débito / crédito            
+0046#STR0046#ALL#Crédito - Débito              
+0047#STR0047#ALL#Quantidade cartões creditados  
+0048#STR0048#ALL#Quantidade cartões debitados   
+0049#STR0049#ALL#Quantidade veículos próprios  
+0052#STR0052#ALL#Valor líquido                 
+0055#STR0055#ALL#MÊS ANTERIOR  *
+0056#STR0056#ALL#NâO PROCESSADO
+0057#STR0057#ALL#MÊS   ATUAL  *
+0058#STR0058#ALL#CRÉDITOS DE SOLIC. GARANTIA    *
+0059#STR0059#ALL#DÉBITO DE SOLIC. GARANTIA      *
+0060#STR0060#ALL#CRÉDITOS/DÉBITOS CARTÃO REVISÃO *
+0061#STR0061#ALL#VALORES DE GARANTIA + REVISÃO  *
+0062#STR0062#ALL#VALORES DOS ESTADOS             *
+0063#STR0063#ALL#Imprime resumo?

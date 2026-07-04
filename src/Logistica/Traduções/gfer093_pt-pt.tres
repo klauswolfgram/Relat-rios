@@ -1,0 +1,45 @@
+0001#STR0001#ALL#A seleccionar registos...
+0002#STR0002#ALL#Conciliação contabilística
+0003#STR0003#ALL#Emite Conciliação Contabilística conforme os parâmetros informados.
+0004#STR0004#ALL#Código
+0007#STR0007#ALL#Dt.Criação
+0008#STR0008#ALL#Nr.Cálculo
+0009#STR0009#ALL#Série
+0010#STR0010#ALL#Doc.Carga
+0011#STR0011#ALL#Tp.Cálc.
+0012#STR0012#ALL#Vlr.Cálc.
+0013#STR0013#ALL#Vlr.Prov.
+0014#STR0014#ALL#Est. de Prov.
+0015#STR0015#ALL#Vlr.Imposto
+0016#STR0016#ALL#Vlr. PIS
+0017#STR0017#ALL#Vlr. COFINS
+0018#STR0018#ALL#Vlr. enviado ERP
+0019#STR0019#ALL#Vlr. estorno ERP
+0021#STR0021#ALL#Tp.Doc.Carga
+0024#STR0024#ALL#Nr.Doc.
+0026#STR0026#ALL#Dt.de Cancelamento
+0027#STR0027#ALL#Dt.de Emissão
+0028#STR0028#ALL#Facturas não actualizadas
+0029#STR0029#ALL#Transp.
+0030#STR0030#ALL#Nr.da Factura
+0031#STR0031#ALL#Dt.de Criação
+0032#STR0032#ALL#Vlr. da Factura
+0033#STR0033#ALL#Facturas actualizadas
+0034#STR0034#ALL#Transp. 
+0035#STR0035#ALL#Nr. da Fact.
+0036#STR0036#ALL#Dt.envio ERP
+0037#STR0037#ALL#Vlr. Factura 
+0038#STR0038#ALL#Vlr. a contabilizar
+0039#STR0039#ALL#Vlr. estorno
+0040#STR0040#ALL#Vlr. contabilizado
+0042#STR0042#ALL#Documentos de frete contabilizados
+0043#STR0043#ALL#Nr. do Doc.
+0045#STR0045#ALL#Factura
+0046#STR0046#ALL#Fact. de frete
+0047#STR0047#ALL#Vlr. do Doc.
+0048#STR0048#ALL#Vlr. Contabilístico
+0049#STR0049#ALL#Estorno Contabilístico
+0050#STR0050#ALL#Vlr. Provisão
+0053#STR0053#ALL#Tp. Doc. Frete
+0054#STR0054#ALL#Sit. ERP Fiscal
+0055#STR0055#ALL#Sit. ERP Receb.

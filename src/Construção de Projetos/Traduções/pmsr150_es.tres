@@ -1,0 +1,25 @@
+0001#STR0001#ALL#Este informe imprimira las cantidades previstas para la ejecucion del projecto segun los parametros solicitados.        
+0002#STR0002#ALL#Cuantitativos previstos
+0003#STR0003#ALL#PROYECTO+PRODUCTO+GASTO
+0004#STR0004#ALL#TAREA+PRODUCTO+GASTO
+0005#STR0005#ALL#A Rayas
+0006#STR0006#ALL#Administracion
+0007#STR0007#ALL#Tp.      Codigo                  Descripcion                     UM           Cantidad                 Valor     %Proy.     %Acum.
+0008#STR0008#ALL#Tarea        Descripcion          Tp.     Codigo           Descripcion     UM          Cantidad            Valor  %Proy.  %Acum.
+0009#STR0009#ALL#Proyecto
+0010#STR0010#ALL#Version :
+0011#STR0011#ALL#Total.....
+0012#STR0012#ALL#Total de la Tarea
+0013#STR0013#ALL#Total General......
+0014#STR0014#ALL#Codigo de la Tarea                Tp.     Codigo           Descripcion     UM        Cantidad              Valor  %Proy.  %Acum.
+0015#STR0015#ALL#Descripcion de la Tarea           Tp.     Codigo           Descripcion     UM        Cantidad              Valor  %Proy.  %Acum.
+0016#STR0016#ALL#Total del Periodo
+0017#STR0017#ALL#Total del Proyecto
+0018#STR0018#ALL#Orden: 
+0019#STR0019#ALL#Tipo
+0020#STR0020#ALL#Valor
+0021#STR0021#ALL#Proy.
+0022#STR0022#ALL#Acum.
+0023#STR0023#ALL#Proyecto + Producto + Gasto
+0024#STR0024#ALL#Tarea + Producto + Gasto
+0025#STR0025#ALL#*** ANULADO POR EL USUARIO ***

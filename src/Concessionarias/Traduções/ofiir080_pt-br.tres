@@ -1,0 +1,14 @@
+0001#STR0001#ALL#Geracao do CSI/SCANIA
+0002#STR0002#ALL#Zebrado
+0003#STR0003#ALL#Administracao
+0004#STR0004#ALL#Gera informação de clientes 
+0005#STR0005#ALL#para envio da planilha CSI.
+0006#STR0006#ALL#Arquivo gerado com sucesso
+0007#STR0007#ALL#Veiculos  - Dt Inicial?
+0008#STR0008#ALL#Veiculos  - Dt Final  ?
+0009#STR0009#ALL#OFI F / Bal-Dt Inicial?
+0010#STR0010#ALL#OFI F / Bal-Dt Final  ?
+0011#STR0011#ALL#OFI Aberta - Dt Inicial?
+0012#STR0012#ALL#OFI Aberta - Dt Final  ?
+0013#STR0013#ALL#Nome do Cliente                                    Endereço                                                  Telefone       CEP      Municipio                 UF V F A B
+0014#STR0014#ALL#Legenda do Cabeçalho:  V = Veiculo  /  F = OS's FECHADAS  /  A = OS's ABERTAS  /  B = BALCÃO

@@ -1,0 +1,20 @@
+0001#STR0001#ALL#Lista De Formações Por Departamento
+0002#STR0002#ALL#ESte programa irá imprimir uma relação de treinamentos
+0003#STR0003#ALL#Por departamento, separando-as por documentos e utilizadores
+0004#STR0004#ALL#A listar a data de inclusão e liquidação
+0005#STR0005#ALL#Código de barras
+0006#STR0006#ALL#Administração
+0007#STR0007#ALL#A Seleccionar Registos..
+0008#STR0008#ALL#TREINANDO                       FUNÇÃO             NÚMERO/ANO  DT.SOLICITAÇÃO DT.REALIZAÇÃO  PARTICIPANTE JUSTIFICATIVA
+0010#STR0010#ALL#Cancelado Pelo Operador
+0013#STR0013#ALL#Realizados/pendentes
+0014#STR0014#ALL#Treino:
+0018#STR0018#ALL#Não
+0019#STR0019#ALL#TREINANDO                       FUNÇÃO             NÚMERO/ANO  DT.SOLICITAÇÃO DT.REALIZAÇÃO  
+0021#STR0021#ALL#De filial dept.  ?
+0022#STR0022#ALL#Até filial dept. ?
+0023#STR0023#ALL#Em formação
+0025#STR0025#ALL#Número/ano
+0026#STR0026#ALL#Dt. Solicitação
+0027#STR0027#ALL#Dt. Realização
+0031#STR0031#ALL#Em formação

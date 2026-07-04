@@ -1,0 +1,19 @@
+0001#STR0001#ALL#Este relatorio ira imprimir a relacaoo de cheques recebidos
+0002#STR0002#ALL#por baixas a receber
+0003#STR0003#ALL#Relacao de Cheques Recebidos.
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#Relacao de Cheques Recebidos por baixas a receber
+0007#STR0007#ALL#Numero                   Valor  Emissao     Beneficiario                              Historico
+0008#STR0008#ALL#Por Cheque
+0009#STR0009#ALL#Por Emissao
+0010#STR0010#ALL#Cancelado pelo Operador
+0011#STR0011#ALL#Banco : 
+0012#STR0012#ALL# -  Agencia : 
+0013#STR0013#ALL#Sub-Total ----> 
+0014#STR0014#ALL#Total Geral --> 
+0015#STR0015#ALL#Total Cheques-> 
+0016#STR0016#ALL#Numero                   Valor  Emissao     Vencto.  Beneficiario                              Historico
+0017#STR0017#ALL#Numero                   Valor  Emissao     Emitente                                  Historico
+0018#STR0018#ALL#Numero                   Valor  Emissao     Beneficiario/Emitente                     Historico
+0019#STR0019#ALL#Numero                   Valor  Emissao  Vencto.  Beneficiario/Emitente                     Historico

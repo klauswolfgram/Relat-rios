@@ -1,0 +1,46 @@
+0001#STR0001#ALL#Este programa imprim. balance parc. de ente con filtro por 
+0002#STR0002#ALL#outras entidades de acordo com os parametros solicitados pelo usuario. 
+0003#STR0003#ALL#Balance parc de un ente filtr. por otro ente
+0004#STR0004#ALL#|  CODIGO                     |      D E S C R I P C I O N                      |    SALDO ANTERIOR              |    DEBITO       |      CREDITO      |    MOVIMIENTO DEL PERIODO    |         SALDO ACTUAL              |
+0005#STR0005#ALL#|  CODIGO               |   D  E  S  C  R  I  P  .       |   SALDO ANTERIOR  |      DEBITO    |      CREDITO   |   SALDO ACT.      |
+0006#STR0006#ALL#BAL. PARC.ANALITICO DE  
+0007#STR0007#ALL#BALANCE PARCIAL SINTETICO DE  
+0008#STR0008#ALL#BAL. PARC. DE 
+0009#STR0009#ALL# DE 
+0010#STR0010#ALL# A   
+0011#STR0011#ALL# EN 
+0012#STR0012#ALL# (PRESUP)
+0013#STR0013#ALL# (DE GESTION)
+0014#STR0014#ALL#Creando Archivo Temporal  ...
+0015#STR0015#ALL#A rayas
+0016#STR0016#ALL#Administrac. 
+0017#STR0017#ALL#***** ANULADO POR EL OPERADOR *****
+0018#STR0018#ALL#T O T A L E S     P E R I O D O: 
+0019#STR0019#ALL#T O T A L E S   G R U P O   (
+0020#STR0020#ALL#T O T A L E S DE  
+0021#STR0021#ALL#DIV.
+0022#STR0022#ALL#Caso no actualice saldos compuestos en  
+0023#STR0023#ALL#emision de informes (MV_SLDCOMP ='N'),
+0024#STR0024#ALL#Ejec. rutina de actualizacion de saldos 
+0025#STR0025#ALL#ATENC. 
+0026#STR0026#ALL#|  CODIGO                     |      D E S C R I P .                            |    SALDO ANTERIOR              |    DEBITO       |      CREDITO      |    MOVIMIENTO DE PERIODO      |         SALDO ACT.                |
+0026#STR0026#MEX#|  CODIGO                     |      D E S C R I P C I O N                      |    SALDO ANTERIOR              |    CARGO        |      ABONO        |    MOVIMIENTO DEL PERIODO     |         SALDO ACTUAL              |
+0027#STR0027#ALL#|  CODIGO               |   D  E  S  C  R  I  P  .       |   SALDO ANTERIOR  |      DEBITO    |      CREDITO   |   SALDO ACT.      |
+0027#STR0027#MEX#|  CODIGO               |   D  E  S  C  R  I  P C.       |   SALDO ANTERIOR  |      CARGO     |      ABONO     |   SALDO ACTUAL    |
+0028#STR0028#ALL#Favor completar los parametros Grupos Ingresos/Gastos y Fecha Sld Ant. Ingresos/Gastos o 
+0029#STR0029#ALL#dejar el parametro Ignora Sl Ant.Ing/Gas = No 
+0030#STR0030#ALL#P E R I O D O
+0031#STR0031#ALL#CODIGO
+0032#STR0032#ALL#CODIGO REDUCIDO
+0033#STR0033#ALL#D E S C R I P C I O N
+0034#STR0034#ALL#SALDO ANTERIOR      .
+0035#STR0035#ALL#DEBITO              .
+0035#STR0035#MEX#CARGO               .
+0036#STR0036#ALL#CREDITO             .
+0036#STR0036#MEX#ABONO               .
+0037#STR0037#ALL#MOVIMIENTO PERIODO   .
+0038#STR0038#ALL#SALDO ACTUAL        .
+0039#STR0039#ALL#TIPOCC
+0040#STR0040#ALL#TIPOITEM	
+0041#STR0041#ALL#TIPOCLVL
+0042#STR0042#ALL#NIVEL1

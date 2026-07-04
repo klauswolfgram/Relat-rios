@@ -1,0 +1,136 @@
+0001#STR0001#ARG#Generation of Purchase Tax Record 
+0001#STR0001#BOL#Generation of the Purchase Tax Records
+0002#STR0002#ARG#The initial and final date for generation of the Purchase Tax
+0002#STR0002#BOL#Initial and final dates will be requested to generate       
+0003#STR0003#ARG#Record will be requested  
+0003#STR0003#BOL#of Purchases Tax Records
+0004#STR0004#ARG#Special
+0004#STR0004#BOL#Special
+0005#STR0005#ARG#Management   
+0005#STR0005#BOL#Administrat. 
+0006#STR0006#ARG#Type on Rec.
+0006#STR0006#BOL#Type in Reg.
+0007#STR0007#ARG#Filtering Records.....
+0007#STR0007#BOL#Filtering records ... 
+0008#STR0008#ARG#** CANCELLED BY OPERATOR **
+0008#STR0008#BOL#*CANCELLED BY THE OPERATOR*
+0009#STR0009#ARG#PURCHASE V.A.T.   
+0009#STR0009#BOL#I. V. A. record   
+0010#STR0010#ARG#TAX RECORD   
+0010#STR0010#BOL#PURCHASES   
+0011#STR0011#ARG#Company: 
+0011#STR0011#BOL#Company: 
+0012#STR0012#ARG#Page Number: 
+0012#STR0012#BOL#Page number: 
+0013#STR0013#ARG#Type  Series  Voucher        Company name          C.U.I.T.       Net levied     IVA R.G.   IVA. RNI  IVA SERV. IVA BS.CAP.  IVA R.E.   PERC.IVA  PERC.IIBB  PERC.GAN.  RET. IVA.  RET. IIBB          EXEMPT            TOTAL
+0013#STR0013#BOL#Type  Series  Voucher        Company name          C.U.I.T.       Net levied     IVA R.G.   IVA. RNI  IVA SERV. IVA BS.CAP.  IVA R.E.   PERC.IVA  PERC.IIBB  PERC.GAN.  RET. IVA.  RET. IIBB          EXEMPT            TOTAL
+0014#STR0014#ARG#Grand Total   :
+0014#STR0014#BOL#Grand totals:  
+0015#STR0015#ARG#Total per Fiscal Status    : 
+0015#STR0015#BOL#Totals by tax status:        
+0016#STR0016#ARG#Invoices Total              : 
+0016#STR0016#BOL#Invoice totals              : 
+0017#STR0017#ARG#Credit Note Total           : 
+0017#STR0017#BOL#Credit notes totals:          
+0018#STR0018#ARG#Debit Note Total             : 
+0018#STR0018#BOL#Debit notes totals:            
+0019#STR0019#ARG#Total per Document Type      :
+0019#STR0019#BOL#Totals by document type:      
+0020#STR0020#ARG# Form 
+0020#STR0020#BOL# Form       
+0021#STR0021#ARG#Is the form positioned?
+0021#STR0021#BOL#Form in position?            
+0022#STR0022#ARG#Yes
+0022#STR0022#BOL#Yes
+0023#STR0023#ARG#No
+0023#STR0023#BOL#No
+0024#STR0024#ARG#Cancel printing
+0024#STR0024#BOL#Cancel printing  
+0025#STR0025#ARG#Try Again? 
+0025#STR0025#BOL#Try again?        
+0026#STR0026#ARG# - From  : 
+0026#STR0026#BOL# - From:   
+0027#STR0027#ARG#   To:     
+0027#STR0027#BOL#   To:     
+0028#STR0028#ARG#Sub
+0028#STR0028#BOL#Sub
+0029#STR0029#ARG#Grand Total   :
+0029#STR0029#BOL#Grand total:   
+0030#STR0030#ARG#Total per Fiscal Zone:   
+0030#STR0030#BOL#Totals by tax zone:      
+0031#STR0031#ARG#Total per Product Type:      
+0031#STR0031#BOL#Totals by product type:      
+0032#STR0032#ARG#C A N C E L L E D 
+0032#STR0032#BOL#C A N C E L L E D 
+0033#STR0033#ARG#Generation of the Purchase Tax Record
+0033#STR0033#BOL#Generation of the Purchase Tax Records
+0034#STR0034#ARG#The purpose of this program is to print the Purchase Tax Record. 
+0034#STR0034#BOL#The purpose of this program is to print the Purchase Tax Record.   
+0035#STR0035#ARG#PURCHASE V.A.T. RECORD 
+0035#STR0035#BOL#PURCHASE I.V.A. RECORD 
+0036#STR0036#ARG#Period:  
+0036#STR0036#BOL#Period:  
+0037#STR0037#ARG# to 
+0037#STR0037#BOL# to 
+0038#STR0038#ARG#Type
+0038#STR0038#BOL#Type
+0039#STR0039#ARG#Company name
+0039#STR0039#BOL#Company name
+0040#STR0040#ARG#NET SAVED      
+0040#STR0040#BOL#NET LEVIED     
+0041#STR0041#ARG#VAT R.G.
+0041#STR0041#BOL#VAT RG
+0042#STR0042#ARG#VAT R.N.I.
+0042#STR0042#BOL#VAT R.N.I.
+0043#STR0043#ARG#VAT SERV.
+0043#STR0043#BOL#VAT SERV.
+0044#STR0044#ARG#VAT CAP.GOODS
+0044#STR0044#BOL#VAT CAP. BS.
+0045#STR0045#ARG#VAT R.E.
+0045#STR0045#BOL#VAT R.E
+0046#STR0046#ARG#VAT PERC.
+0046#STR0046#BOL#PERC. VAT
+0047#STR0047#ARG#N.G.I.T.% 
+0047#STR0047#BOL#PERC. IIBB
+0048#STR0048#ARG#INC. TAX %
+0048#STR0048#BOL#PERC. GAIN
+0049#STR0049#ARG#VAT WITH.
+0049#STR0049#BOL#WIT VAT
+0050#STR0050#ARG#G.I.T.WTH
+0050#STR0050#BOL#WIT IIBB
+0051#STR0051#ARG#EXEMPT
+0051#STR0051#BOL#EXEMPT
+0052#STR0052#ARG#TOTAL
+0052#STR0052#BOL#TOTAL
+0053#STR0053#ARG#Totals by Document Type     
+0053#STR0053#BOL#Totals by document type     
+0054#STR0054#ARG#Invoice Totals           :
+0054#STR0054#BOL#Invoices total:           
+0055#STR0055#ARG#Debit Notes Total        :
+0055#STR0055#BOL#Debit notes total:        
+0056#STR0056#ARG#Credit Notes Total       :
+0056#STR0056#BOL#Credit notes total:       
+0057#STR0057#ARG#Grand Totals 
+0057#STR0057#BOL#Grand totals
+0058#STR0058#ARG#Grand Total:
+0058#STR0058#BOL#Grand total:
+0059#STR0059#ARG#C A N C E L L E D
+0059#STR0059#BOL#C A N C E L L E D
+0060#STR0060#ARG#Sub
+0060#STR0060#BOL#Sub
+0061#STR0061#ARG#Totals by Tax Status      
+0061#STR0061#BOL#Totals by tax status      
+0062#STR0062#ARG#Totals by Tax Zones   
+0062#STR0062#BOL#Totals by tax zone    
+0063#STR0063#ARG#Totals by Product Type    
+0063#STR0063#BOL#Totals by product type    
+0064#STR0064#ARG#Tax Records   
+0064#STR0064#BOL#Tax records   
+0065#STR0065#ARG#Totallizer   
+0065#STR0065#BOL#Totalizers   
+0066#STR0066#BOL#Series
+0067#STR0067#ARG#Series
+0067#STR0067#BOL#Series
+0068#STR0068#ARG#Branches Processed
+0069#STR0069#BOL#Branches Processed
+0070#STR0070#ARG#This routine is no longer available, use routine MATRAR1B - Lib.fis Iva Purchase

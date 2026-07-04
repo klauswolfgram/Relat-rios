@@ -1,0 +1,120 @@
+0001#STR0001#ALL#Search
+0002#STR0002#ALL#View
+0003#STR0003#ALL#Exam
+0004#STR0004#ALL#Medical Form
+0005#STR0005#ALL#Exams
+0006#STR0006#ALL#Print
+0007#STR0007#ALL#Report of Audiometry exams results.                        
+0008#STR0008#ALL#Show the employee´s hearing status submitted to the        
+0009#STR0009#ALL#audiometry exam.                                           
+0010#STR0010#ALL#Z. Form
+0011#STR0011#ALL#Management
+0012#STR0012#ALL#Audiometry Exam
+0013#STR0013#ALL#Performed in :
+0014#STR0014#ALL#Issue  :
+0015#STR0015#ALL#|Name.......:
+0016#STR0016#ALL#|Admission...:
+0017#STR0017#ALL#Role:
+0018#STR0018#ALL#Age...:
+0019#STR0019#ALL#|Cost Center :
+0020#STR0020#ALL#Hearing Rest.....:
+0021#STR0021#ALL#|Responsible.:
+0022#STR0022#ALL#SMB.:
+0023#STR0023#ALL#|Signature...:_______________________________________
+0024#STR0024#ALL#|Equipment...:
+0025#STR0025#ALL#Checking.:
+0026#STR0026#ALL#|Manufacturer:
+0027#STR0027#ALL#Calibration:
+0028#STR0028#ALL#Right Ear                       | |      Left Ear       
+0029#STR0029#ALL#Voice recognition index              | |  Voice recognition index             |
+0030#STR0030#ALL#|Intensity...:
+0031#STR0031#ALL#Intensity...:
+0032#STR0032#ALL#|Monosyllable:
+0033#STR0033#ALL#Monosyllable:
+0034#STR0034#ALL#|Disyllable..:
+0035#STR0035#ALL#Disyllable..:
+0036#STR0036#ALL#|Meatoscopy...:
+0037#STR0037#ALL#Meatoscopy...:
+0038#STR0038#ALL#|Result:
+0039#STR0039#ALL#Result:
+0040#STR0040#ALL#Unable to print report.
+0041#STR0041#ALL#ATTENTION
+0042#STR0042#ALL#Select at last 2(two) exams.
+0043#STR0043#ALL#Select at least 1(one) exam.
+0044#STR0044#ALL#Select one (1) breathing via exam and one (1) bone via exam.
+0045#STR0045#ALL#Select file 
+0046#STR0046#ALL#Change to Ms-Word program to view the document or click the button to close.
+0047#STR0047#ALL#Exam Date
+0048#STR0048#ALL#Equipment
+0049#STR0049#ALL#Conduction Via
+0050#STR0050#ALL#R.E. Refer.
+0051#STR0051#ALL#R.E. Result
+0052#STR0052#ALL#Exam Time
+0053#STR0053#ALL#Require Interpretation
+0054#STR0054#ALL#Acceptable Thresholds
+0055#STR0055#ALL#Hearing Loss NIHL Significant
+0056#STR0056#ALL#Hearing Loss NIHL Not significant
+0057#STR0057#ALL#Hearing Loss Result Significant
+0058#STR0058#ALL#Hearing Loss Worsening Significant
+0059#STR0059#ALL#Loss of hearing
+0060#STR0060#ALL#Breathing
+0061#STR0061#ALL#Bone
+0062#STR0062#ALL#File audiometria.dot was not found in the server.
+0063#STR0063#ALL#Check parameter "MV_DIRACA".
+0064#STR0064#ALL#Admission Audiogram
+0065#STR0065#ALL#Periodic Audiogram
+0066#STR0066#ALL#Audiogram for Changing Function
+0067#STR0067#ALL#Audiogram for Work Return
+0068#STR0068#ALL#Dismissal Audiogram
+0069#STR0069#ALL#Regular
+0070#STR0070#ALL#Light Deafness
+0071#STR0071#ALL#Moderate Deafness
+0072#STR0072#ALL#Severe Deafness
+0073#STR0073#ALL#Deep Deafness
+0074#STR0074#ALL#Total Deafness
+0075#STR0075#ALL#Hipoacusia for noise in 1st degree
+0076#STR0076#ALL#Hipoacusia for noise in 2nd degree
+0077#STR0077#ALL#Hipoacusia for noise in 3rd degree
+0078#STR0078#ALL#Hipoacusia for noise in 4th degree
+0079#STR0079#ALL#Hipoacusia for noise in 5th degree
+0080#STR0080#ALL#Deficit for noise and other causes
+0081#STR0081#ALL#Deficit not related to noises
+0082#STR0082#ALL#Reduction in Minimum Degree
+0083#STR0083#ALL#Reduction in Medium Degree
+0084#STR0084#ALL#Reduction in Maximum Degree
+0085#STR0085#ALL#Loss of Hearing
+0086#STR0086#ALL#Yes
+0087#STR0087#ALL#No
+0088#STR0088#ALL#Results of Audiometry Exams
+0089#STR0089#ALL#File audiometria-v10r2.dot was not found in the server.
+0090#STR0090#ALL#Customers
+0091#STR0091#ALL#Medical Forms
+0092#STR0092#ALL#Exams
+0093#STR0093#ALL#File audiometria.dotm was not found in the server.
+0094#STR0094#ALL#Acceptable thresholds
+0095#STR0095#ALL#Hearing Loss Not Suggestive of PAIR
+0096#STR0096#ALL#Not Performed
+0097#STR0097#ALL#File audiometria-v10r2.dotm was not found in the server.
+0098#STR0098#ALL#No. of Copies
+0099#STR0099#ALL#If there is masking:
+0100#STR0100#ALL#Print mask 
+0101#STR0101#ALL#Print mask./normal
+0102#STR0102#ALL#Defines result to be printed when there is marking.
+0103#STR0103#ALL#1=Print masking. In this option, only the marking result is printed.
+0104#STR0104#ALL#2=Print mask./normal. In this option, masking results are printed with the normal result.
+0105#STR0105#ALL#Print Average?
+0106#STR0106#ALL#Print Opinion (Result)?
+0107#STR0107#ALL#Indicates whether average is printed on the chart.
+0108#STR0108#ALL#Indicates whether opinion is printed in the Result topic.
+0109#STR0109#ALL#MS-Word Version?
+0110#STR0110#ALL#To Word 2003
+0111#STR0111#ALL#From 2007
+0112#STR0112#ALL#Indicates the version of Microsoft Word used.
+0113#STR0113#ALL#Audiogram Support
+0114#STR0114#ALL#Print caption?
+0115#STR0115#ALL#Indicates whether the caption is printed in the report.
+0116#STR0116#ALL#From 2013
+0117#STR0117#ALL#Print Logoaudiometry?
+0118#STR0118#ALL#It indicates whether it prints Logoaudiometry.
+0119#STR0119#ALL#From 2016
+0120#STR0120#ALL#Occasional Monitoring Audiogram

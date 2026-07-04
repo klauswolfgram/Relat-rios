@@ -1,0 +1,44 @@
+0001#STR0001#ALL#Sub Journal
+0002#STR0002#ALL#Enter - Start Entry Smaller than the End!
+0003#STR0003#ALL#Enter - Start Group Smaller than the End!
+0004#STR0004#ALL#Enter - Start Date Smaller than End Date!
+0005#STR0005#ALL#This program prints the Sub Journal
+0006#STR0006#ALL#Section1
+0007#STR0007#ALL#Section2
+0008#STR0008#ALL#Section3
+0009#STR0009#ALL#Section4
+0010#STR0010#ALL#Account
+0011#STR0011#ALL#Lot
+0012#STR0012#ALL#SLot
+0013#STR0013#ALL#Doc.
+0014#STR0014#ALL#Acc. Dt.
+0015#STR0015#ALL#Entry
+0016#STR0016#ALL#Entry Dt.
+0017#STR0017#ALL#Tip
+0018#STR0018#ALL#Ser.
+0019#STR0019#ALL#Receipt 
+0020#STR0020#ALL#Base Code
+0021#STR0021#ALL#Item.
+0022#STR0022#ALL#Type
+0023#STR0023#ALL#Tm
+0024#STR0024#ALL#Document
+0025#STR0025#ALL#Amount
+0026#STR0026#ALL#Occurrence
+0027#STR0027#ALL#Occ. Type
+0028#STR0028#ALL#Issue 
+0029#STR0029#ALL#Supp/Cust
+0030#STR0030#ALL#Corporate Name
+0031#STR0031#ALL#Value Debit
+0032#STR0032#ALL#Value Credit
+0033#STR0033#ALL#Entry Tot.:
+0034#STR0034#ALL#Module Tot.:
+0035#STR0035#ALL#Grand Total
+0036#STR0036#ALL#Record SUB-JOURNAL - Module-
+0037#STR0037#ALL#You cannot Load Entry data when the Grouping is indicated.
+0038#STR0038#ALL#You cannot Load Entry data when the Entry is indicated.
+0039#STR0039#ALL#Fixed Active
+0040#STR0040#ALL#Purchase and invoicing
+0041#STR0041#ALL#Financial
+0042#STR0042#ALL#Personnel Management
+0043#STR0043#ALL#Stocks/Costs
+0044#STR0044#ALL#Select Modules

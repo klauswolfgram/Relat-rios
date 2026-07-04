@@ -1,0 +1,20 @@
+0001#STR0001#ALL#Este programa emitirá la lista de bienes por inventariar de 
+0002#STR0002#ALL#acuerdo con los parámetros seleccionados. El ajuste contable de estos 
+0003#STR0003#ALL#bienes debe realizarse antes del próximo cálculo
+0004#STR0004#ALL#A Rayas
+0005#STR0005#ALL#Administrac.
+0006#STR0006#ALL#Lista de bienes inventariados
+0007#STR0007#ALL#Código
+0008#STR0008#ALL#C.Costo
+0009#STR0009#ALL#C Base     Ítem Ti Placa  Descripción                   Almacén CCosto    Grupo   Cant Actual    Valor Resid    Cant.Inv. Valor Invent Visto
+0010#STR0010#ALL#C Base     Ítem Ti Placa  Descripción                   Almacén CCosto    Grup     Ctd.Invent  Valor Invent   Visto 
+0011#STR0011#ALL# por 
+0012#STR0012#ALL# en 
+0013#STR0013#ALL#ANULADO POR EL OPERADOR
+0014#STR0014#ALL#Valor Resid
+0015#STR0015#ALL#Cant. Invent.
+0016#STR0016#ALL#Val. Invent.
+0017#STR0017#ALL#Visto
+0018#STR0018#ALL#Bienes/Saldos
+0019#STR0019#ALL#Placa
+0020#STR0020#ALL#Seleccionando registros...

@@ -1,0 +1,28 @@
+0001#STR0001#ALL#Este programa tiene como objetivo imprimir la tabla
+0002#STR0002#ALL#de Servicios conforme los parametros seleccionados. 
+0003#STR0003#ALL#Tabla de Servicios
+0004#STR0004#ALL#[Marca] [Modelo----------------------] [Segmento-------------------------------] [Grupo Servic.------------------] [Cod. Servic.-] [Descripcion-----------------] [Estand] [Conces] [Revis. ]
+0005#STR0005#ALL#A Rayas
+0006#STR0006#ALL#Administrac. 
+0007#STR0007#ALL#Espere. Seleccionando Archivo para Impresion
+0008#STR0008#ALL#Todas 
+0009#STR0009#ALL#Todos 
+0010#STR0010#ALL#Fabrica
+0011#STR0011#ALL#Conces.
+0012#STR0012#ALL#Ambos
+0013#STR0013#ALL#*** ANULADO POR EL OPERADOR ***
+0014#STR0014#ALL#Si
+0015#STR0015#ALL#No
+0016#STR0016#ALL#¿Marca            ?
+0017#STR0017#ALL#¿Modelo           ?
+0018#STR0018#ALL#¿Grupo Servicio     ?
+0019#STR0019#ALL#¿Imprimir Tiempo    ?
+0020#STR0020#ALL#Concesionaria
+0021#STR0021#ALL#Tabla de servicio
+0022#STR0022#ALL#Mar
+0023#STR0023#ALL#Mod Vehic.
+0024#STR0024#ALL#Segmento
+0025#STR0025#ALL#Descrip.
+0026#STR0026#ALL#Gp
+0027#STR0027#ALL#Agr
+0028#STR0028#ALL#Cod Servic.

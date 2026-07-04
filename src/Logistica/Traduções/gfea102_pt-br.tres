@@ -1,0 +1,36 @@
+0001#STR0001#ALL#REGISTRO DE FATURAMENTO
+0002#STR0002#ALL#Zebrado
+0003#STR0003#ALL#Administracao
+0004#STR0004#ALL#Este Rélatorio ira Imprimir o Contrato
+0005#STR0005#ALL#Rodapé
+0006#STR0006#ALL#Contrato com Autônomo   
+0007#STR0007#ALL#Nr: 
+0008#STR0008#ALL#CONTRATADOS
+0009#STR0009#ALL#Veículos: Placa      UF      Tipo              Carga Útil              Volume
+0010#STR0010#ALL#Proprietário:                                               Motorista: 
+0011#STR0011#ALL#CGC/CNPJ: 
+0012#STR0012#ALL#Fone: 
+0013#STR0013#ALL#Data               Origem            UF           Destino            UF                Valor Frete
+0014#STR0014#ALL#Peso Bruto: 
+0015#STR0015#ALL#Kg
+0016#STR0016#ALL#(+) Frete Contratado
+0017#STR0017#ALL#(+) Adicionais
+0018#STR0018#ALL#Total do Fretamento
+0019#STR0019#ALL#(-) Descontos
+0020#STR0020#ALL#(-) SEST/SENAT
+0021#STR0021#ALL#(-) ISS
+0022#STR0022#ALL#(-) INSS Autônomo
+0023#STR0023#ALL#(-) IRRF
+0024#STR0024#ALL#Total Descontos
+0025#STR0025#ALL#Valor Liquido a Recolher no Destino:
+0026#STR0026#ALL#Recebi(emos) a importancia de 
+0027#STR0027#ALL#provenientes de Fretamento de Carga acima caracterizado.
+0028#STR0028#ALL# de 
+0029#STR0029#ALL#Declaro ter recebido o valor de R$ _________________ referente ao vale-pedágio
+0030#STR0030#ALL#que será restituído caso não seja utilizado.
+0031#STR0031#ALL#Filial: 
+0032#STR0032#ALL#pelo Proprietário
+0033#STR0033#ALL#Observações: 
+0034#STR0034#ALL#DESCRIÇÃO DO FRETAMENTO CONTRATADO
+0035#STR0035#ALL#ACERTO FINANCEIRO
+0036#STR0036#ALL#RECIBO DO FRETAMENTO

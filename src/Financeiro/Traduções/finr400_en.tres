@@ -1,0 +1,33 @@
+0001#STR0001#ALL#This report will print a list of checks issued, in 
+0002#STR0002#ALL#Numeric/Issue date order
+0003#STR0003#ALL#List of Issued Checks.      
+0004#STR0004#ALL#Z.Form 
+0005#STR0005#ALL#Management   
+0006#STR0006#ALL#List of Checks    
+0007#STR0007#ALL#Number                   Value  Issue       Beneficiary                               History                                   Chk.St
+0008#STR0008#ALL#By Check 
+0009#STR0009#ALL#By Issue  
+0010#STR0010#ALL#Cancelled by the operator  
+0011#STR0011#ALL#Bank:
+0012#STR0012#ALL#Bank Office:
+0013#STR0013#ALL#Subtotal ----> 
+0014#STR0014#ALL#Total        -> 
+0015#STR0015#ALL#Checks Total--> 
+0016#STR0016#ALL#Number                   Value  Issue       Due Date  Beneficiary                              History  
+0017#STR0017#ALL#Number                   Value  Issue       Drawer                                    History
+0018#STR0018#ALL#Number                   Value  Issue       Beneficiary/Drawer                        History                                  Chk.St
+0019#STR0019#ALL#Number                   Value  Issue  Due Date   Beneficiary/Drawer                        History                           Chk.St
+0020#STR0020#ALL#Caption:  
+0021#STR0021#ALL#Chk Status. Check Status
+0022#STR0022#ALL#B - Blocked   
+0023#STR0023#ALL#L - Released 
+0024#STR0024#ALL#Number
+0025#STR0025#ALL#Amnt.
+0026#STR0026#ALL#Issue  
+0027#STR0027#ALL#DueDate
+0028#STR0028#ALL#Customer beneficiary/issuer  
+0029#STR0029#ALL#History  
+0030#STR0030#ALL#St.Ch
+0031#STR0031#ALL#Check description  
+0032#STR0032#ALL#Bank 
+0033#STR0033#ALL#Account:

@@ -1,0 +1,62 @@
+0001#STR0001#ALL#Imprime inf. de los recibos
+0002#STR0002#ALL#emitidos, sinteticamente.
+0003#STR0003#ALL#A RAYAS
+0004#STR0004#ALL#ADMINISTRAC.
+0005#STR0005#ALL#Recibo   Codigo-Br Nomb Cliente                          Emision      Valor Total   Tot. Cheques     Depositos   Recibos Antic.  Retenc.             Tarjet     Compensados      Desctos.
+0006#STR0006#ALL#                                                                        Titulos      y Efectivo      Bancarios     Generados                        Credito 
+0007#STR0007#ALL#Codigo-Br Razon Social Cliente                                        Valor Total   Tot. Cheques     Depositos   Recibos Antic.  Retenc.              Tarjeta     Compensados      Desctos.
+0008#STR0008#ALL#                   Recibo         Fecha Emision                         Titulos      y Efectivo      Bancarios     Generados.                       Credito 
+0009#STR0009#ALL#Informe de cobranzas
+0010#STR0010#ALL# por Recibo
+0011#STR0011#ALL# por Cliente (Sintetico)
+0012#STR0012#ALL# por Cliente (Analitico)
+0013#STR0013#ALL#Filtrando registros...
+0014#STR0014#ALL#ANULADO POR EL OPERADOR
+0015#STR0015#ALL#Recibos Cliente    -> 
+0016#STR0016#ALL#Totales Cliente --->
+0017#STR0017#ALL#Recibos emitidos  -> 
+0018#STR0018#ALL#TOTAL BRUTO       ----> 
+0019#STR0019#ALL#TOTAL EFECTIVO    ----> 
+0020#STR0020#ALL#TOTAL DEPOSITADO  ----> 
+0021#STR0021#ALL#TOTAL ANTICIPO    ----> 
+0022#STR0022#ALL#TOTAL RETENCIONES ----> 
+0023#STR0023#ALL#TOTAL COBRADO     ----> 
+0024#STR0024#ALL#¿Ordenado por      ?
+0025#STR0025#ALL#Recibo
+0026#STR0026#ALL#Cliente(Sin.)
+0027#STR0027#ALL#Cliente(Det.)
+0028#STR0028#ALL#¿De Cliente       ?
+0029#STR0029#ALL#¿A  Cliente       ?
+0030#STR0030#ALL#¿De Recibo        ?
+0031#STR0031#ALL#¿A  Recibo        ?
+0032#STR0032#ALL#¿De Emision       ?
+0033#STR0033#ALL#¿A  Emision       ?
+0034#STR0034#ALL#¿Moneda?
+0035#STR0035#ALL#Fch.
+0036#STR0036#ALL# Por Fch.
+0037#STR0037#ALL#TOTAL CHEQ. AL DIA----> 
+0038#STR0038#ALL#TOTAL CHEQ. ANTICIP. -> 
+0039#STR0039#ALL#  - En  
+0040#STR0040#ALL#TOTAL TARJETA CRED. --> 
+0041#STR0041#ALL#TOTAL CHEQ. DIFERIDO--> 
+0042#STR0042#ALL#TOTAL DESCUENTOS  ---> 
+0043#STR0043#ALL#TOTAL COMPENSADO  ----> 
+0044#STR0044#ALL#Codigo
+0045#STR0045#ALL#Tda.
+0046#STR0046#ALL#Razon Social
+0047#STR0047#ALL#Valor Total 
+0048#STR0048#ALL#  Titulos
+0049#STR0049#ALL#Tot. Cheques
+0050#STR0050#ALL# y Dinero
+0051#STR0051#ALL#Depositos
+0052#STR0052#ALL#Bancarios
+0053#STR0053#ALL#Recibos Antic.
+0054#STR0054#ALL#  Generados
+0055#STR0055#ALL# Retenciones
+0056#STR0056#ALL#Trjta
+0057#STR0057#ALL#Compensados
+0058#STR0058#ALL#Dsctos.
+0059#STR0059#ALL#Credito
+0060#STR0060#ALL#Clientes
+0061#STR0061#ALL#Datos de recibo
+0062#STR0062#ALL#TOTAL TARJETA DÉBITO -->

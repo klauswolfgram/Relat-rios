@@ -1,0 +1,34 @@
+0001#STR0001#ALL#Script Answers issue 
+0002#STR0002#ALL#This program will issue a list of the Call Center 
+0003#STR0003#ALL#Services related to worked Scripts and its 
+0004#STR0004#ALL#respective answers.
+0005#STR0005#ALL#Z.Form
+0006#STR0006#ALL#Administration
+0007#STR0007#ALL#Cancelled by the Operator.
+0008#STR0008#ALL#Format 
+0009#STR0009#ALL#Servicing
+0010#STR0010#ALL#Search
+0011#STR0011#ALL#Score Total
+0012#STR0012#ALL#Contact 
+0013#STR0013#ALL#Entity  
+0014#STR0014#ALL#Name 
+0015#STR0015#ALL#Date of execution 
+0016#STR0016#ALL# - TeleMarketing
+0017#STR0017#ALL# - TeleSales
+0018#STR0018#ALL#Accomplished by the operator's agenda
+0019#STR0019#ALL#Servicing   
+0020#STR0020#ALL#Date 
+0021#STR0021#ALL#Custom.
+0022#STR0022#ALL#Campaign
+0023#STR0023#ALL#Script
+0024#STR0024#ALL#Questions/Answers                                                                                                                                                                                 Score
+0025#STR0025#ALL#There is no data to be printed for this report with the informed parameters
+0026#STR0026#ALL# - TeleCharge
+0027#STR0027#ALL#Bus.Phon.1
+0028#STR0028#ALL#E-mail
+0029#STR0029#ALL#Teleph. 
+0030#STR0030#ALL#District 
+0031#STR0031#ALL#Questions/Answers  
+0032#STR0032#ALL#Score
+0033#STR0033#ALL#Service information 
+0034#STR0034#ALL#Dynamic script items    

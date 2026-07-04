@@ -1,0 +1,64 @@
+0001#STR0001#ALL#Ligações Realizadas - Televendas
+0002#STR0002#ALL#Este programa irá emitir uma relação das ligações realizadas pelo operador no atendimento Televendas.
+0003#STR0003#ALL#Os dados serão emitidos conforme os parâmetros informados.
+0004#STR0004#ALL#OBS: Serão considerados apenas os ORÇAMENTOS e PEDIDOS.
+0005#STR0005#ALL#Zebrado
+0006#STR0006#ALL#Administração
+0007#STR0007#ALL#CANCELADO PELO OPERADOR
+0008#STR0008#ALL#Data
+0009#STR0009#ALL#Atendimento
+0010#STR0010#ALL#Entidade
+0011#STR0011#ALL#Razão Social
+0012#STR0012#ALL#Contato
+0013#STR0013#ALL#Endereco
+0014#STR0014#ALL#Marketing
+0015#STR0015#ALL#Operação
+0016#STR0016#ALL#Tipo de Frete
+0017#STR0017#ALL#Tabela de Preço
+0018#STR0018#ALL#Operador
+0019#STR0019#ALL#Bairro
+0020#STR0020#ALL#Vendedor
+0021#STR0021#ALL#Cidade
+0022#STR0022#ALL#Midia
+0023#STR0023#ALL#Fone Com. 1
+0024#STR0024#ALL#Campanha
+0025#STR0025#ALL#E-Mail
+0026#STR0026#ALL#Ocorrencia
+0027#STR0027#ALL#Cond. Pagamento
+0028#STR0028#ALL#Retorno
+0029#STR0029#ALL#Hora
+0030#STR0030#ALL#Observação
+0031#STR0031#ALL#Item Produto         Descrição                      St   Qtdade    Vl.Unitário        Vl.Item  %Desc    Vl.Desconto  %Acres   Vl.Acrescimo TES CFOP      Tabela      Base ICMS LP UM Entrega    Lote       Sub-Lt Validade
+0032#STR0032#ALL#Valor total negociado em REAIS para 
+0033#STR0033#ALL#Total de atendimentos realizados no dia 
+0034#STR0034#ALL#Total de atendimentos na campanha 
+0035#STR0035#ALL#Total de atendimentos na mídia 
+0036#STR0036#ALL#Atendimentos realizados no periodo de  
+0037#STR0037#ALL#Valor total em reais de faturamento realizado por operador
+0038#STR0038#ALL#Cond. Pagamento
+0039#STR0039#ALL#Produto 
+0040#STR0040#ALL# na Mídia 
+0041#STR0041#ALL#Não existem dados a serem impressos para este relatório com os parâmetros informados
+0042#STR0042#ALL# os atendimentos
+0043#STR0043#ALL# a 
+0044#STR0044#ALL#Quantidade de produtos vendidos por midia
+0045#STR0045#ALL#Transportadora
+0046#STR0046#ALL#End. Entrega
+0047#STR0047#ALL#Telefone
+0048#STR0048#ALL#Bairro Entrega
+0049#STR0049#ALL#Cidade Entrega
+0050#STR0050#ALL#Estado Entrega
+0051#STR0051#ALL#| Vencto     Forma          Valor || Vencto     Forma          Valor || Vencto     Forma          Valor || Vencto     Forma          Valor |
+0052#STR0052#ALL#Data     Orcamentos     Valor Orcamentos    Faturamento     Valor Faturamento
+0053#STR0053#ALL#Total Geral
+0054#STR0054#ALL#Operador                          Valores em REAIS       Atendimentos
+0055#STR0055#ALL#Quantidade
+0056#STR0056#ALL#QUANTIDADE DE PRODUTOS VENDIDOS POR CAMPANHA
+0057#STR0057#ALL#Orçamento
+0058#STR0058#ALL#Valor de Orçamento
+0059#STR0059#ALL#Faturamento
+0060#STR0060#ALL#Valor de Faturamento
+0061#STR0061#ALL#Valor em Reais
+0062#STR0062#ALL#Atendimentos
+0063#STR0063#ALL#Formas de Pagamento
+0064#STR0064#ALL#Itens do Atendimento

@@ -1,0 +1,37 @@
+0001#STR0001#ALL#Centro de Costo
+0002#STR0002#ALL#Matricula
+0003#STR0003#ALL#Nomb
+0004#STR0004#ALL#Emision de demostr. de horas trabajadas. 
+0005#STR0005#ALL#Se imprimira de acuerdo con los param. solicitados por el
+0006#STR0006#ALL#usuario.
+0007#STR0007#ALL#A rayas
+0008#STR0008#ALL#Administrac.
+0009#STR0009#ALL#DEMOSTRAC. DE HORAS TRABAJADAS
+0010#STR0010#ALL#SU MAT.   NOMBRE                         *  CTD.  *   HORAS     * HORA EXTRA * HORA EXTRA * HORA EXTRA *  T O T A L  * PORC HR  *   HORAS   *   ABONO   *    PORC.   *    HORAS   * PORC.    * DIAS *  H O R A S *
+0011#STR0011#ALL#                                         *EMPLEAD *  NORMALES   * COLUMNA 1  * COLUMNA 2  * COLUMNA 3  *  E X T R A  *  EXTRAS  * DESCANSO  *  MEDICO   *    ABONO   *    FALTA   * FALTAS   *      *   PAGADAS  *
+0012#STR0012#ALL#LISTA DE LA DEMOSTRAC. DE HORAS TRABAJADAS
+0013#STR0013#ALL#ANALITICA
+0014#STR0014#ALL#SINTETICA
+0015#STR0015#ALL#Ct Empl.
+0016#STR0016#ALL#Hr Norm.
+0017#STR0017#ALL#Hr Ext1
+0018#STR0018#ALL#Hr Ext2
+0019#STR0019#ALL#Hr Ext3
+0020#STR0020#ALL#Total
+0021#STR0021#ALL#Porc H E
+0022#STR0022#ALL#Hr Rep.
+0023#STR0023#ALL#Ab Med
+0024#STR0024#ALL#Porc Ab
+0025#STR0025#ALL#Hr Falta
+0026#STR0026#ALL#Porc Falta
+0027#STR0027#ALL#Dias
+0028#STR0028#ALL#Hr Pag
+0029#STR0029#ALL#Suc
+0030#STR0030#ALL#Matr.
+0031#STR0031#ALL#Ctd.
+0032#STR0032#ALL#Total Centro de Costo: 
+0033#STR0033#ALL#Total sucursal: 
+0034#STR0034#ALL#Atencion
+0035#STR0035#ALL#Inf. Sintetico no disponible para generacion en Planilla.
+0036#STR0036#ALL#¡Periodo no calculado!
+0037#STR0037#ALL#Este informe está disponible solamente en el modo personalizable.

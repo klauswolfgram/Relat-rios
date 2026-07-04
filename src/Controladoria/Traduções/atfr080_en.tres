@@ -1,0 +1,26 @@
+0001#STR0001#ALL#Issue of the summary of Fixed Asset, per Account 
+0002#STR0002#ALL#and Cost Centers.
+0003#STR0003#ALL#Z.Form 
+0004#STR0004#ALL#Management   
+0005#STR0005#ALL#Summary per Account Updated
+0006#STR0006#ALL#Currency              Monet.Adjus.      Depreciation       M.Adj./ Depr.      Acc.Monet.Adjust.    Acc.Depreciation   M.Adust/Acc.Depr.    Acc.Depr.+Monet.Adjust.    Curr. Value        Net Value        Enlargement Value
+0007#STR0007#ALL#Creating Index...
+0008#STR0008#ALL#***  CANCELLED BY THE OPERATOR  ***
+0009#STR0009#ALL#Account : 
+0010#STR0010#ALL#Item : 
+0011#STR0011#ALL#Cost Center : 
+0012#STR0012#ALL#Account Desc : 
+0013#STR0013#ALL#Item Descri: 
+0014#STR0014#ALL#ACCOUNT TOTAL
+0015#STR0015#ALL#GRAND TOTAL 
+0016#STR0016#ALL#Value class: 
+0017#STR0017#ALL#Accounting entity
+0018#STR0018#ALL#Amnts. 
+0019#STR0019#ALL#Ccy. 
+0020#STR0020#ALL#Depreciacion
+0021#STR0021#ALL#Accum. deprec. 
+0022#STR0022#ALL#Accr.Depr+Indexat.
+0023#STR0023#ALL#Updated amount  
+0024#STR0024#ALL#Net amount   
+0025#STR0025#ALL#B R A N C H   T O T A L ----> 
+0026#STR0026#ALL#C O M P A N Y  T O T A L -->

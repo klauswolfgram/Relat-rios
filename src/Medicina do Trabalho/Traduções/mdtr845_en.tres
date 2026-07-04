@@ -1,0 +1,57 @@
+0001#STR0001#ALL#Meeting Agenda Report 
+0002#STR0002#ALL#Z. Form
+0003#STR0003#ALL#Management
+0004#STR0004#ALL#Meetings Agenda
+0005#STR0005#ALL#Mandate    Mandate Name
+0006#STR0006#ALL#  Prev.Date   Actual Dt   Time    Type
+0007#STR0007#ALL#CANCELED BY OPERATOR
+0008#STR0008#ALL#Ordinary
+0009#STR0009#ALL#Extraordinary
+0010#STR0010#ALL#Subject.:
+0011#STR0011#ALL#Participants.....:
+0012#STR0012#ALL#Minutes of Meeting
+0013#STR0013#ALL#Est. Date 
+0014#STR0014#ALL#Est. time 
+0015#STR0015#ALL#Act. date
+0016#STR0016#ALL#Act. time
+0017#STR0017#ALL#Type
+0018#STR0018#ALL#Signature: __________________
+0019#STR0019#ALL#Participants 
+0020#STR0020#ALL#CIPA Meeting
+0021#STR0021#ALL#Meetings Schedule
+0022#STR0022#ALL#Term of Office: 
+0023#STR0023#ALL#Meeting Date:
+0024#STR0024#ALL#Time:
+0025#STR0025#ALL#Meeting:
+0026#STR0026#ALL#Ordinary
+0027#STR0027#ALL#Extraordinary
+0028#STR0028#ALL#Subject:
+0029#STR0029#ALL#Meeting Minute
+0030#STR0030#ALL#Sign.:_____________________________________
+0031#STR0031#ALL#Customer/Unit: 
+0032#STR0032#ALL#From Customer ?
+0033#STR0033#ALL#Unit
+0034#STR0034#ALL#To Customer ?
+0035#STR0035#ALL#No information to print in the report.
+0036#STR0036#ALL#Report Model?
+0037#STR0037#ALL#Meeting Minute?
+0038#STR0038#ALL#To Date?
+0039#STR0039#ALL#From Date?
+0040#STR0040#ALL#To CIPA Term?
+0041#STR0041#ALL#From CIPA Term?
+0042#STR0042#ALL#Selecting records ...
+0043#STR0043#ALL#List Absences?
+0044#STR0044#ALL#Justified Absence?
+0045#STR0045#ALL#Defines whether absences from the meetings must be printed.
+0046#STR0046#ALL#Defines whether absence status must be printed, being either Justified or Not Justified
+0047#STR0047#ALL#Justified Absence
+0048#STR0048#ALL#Absence not Justified
+0049#STR0049#ALL#Did not show up
+0050#STR0050#ALL#External
+0051#STR0051#ALL#Meeting of CIPATR
+0052#STR0052#ALL#To CIPA Term?
+0053#STR0053#ALL#From CIPATR Term?
+0054#STR0054#ALL#Code of CIPATR Term. The field can remain blank to consider since the first code.
+0055#STR0055#ALL#Code of CIPATR Term. The field can be completed with the letter Z until the end to consider the last code.
+0056#STR0056#ALL#Code of CIPA Term. The field can remain blank to consider since the first code.
+0057#STR0057#ALL#Code of CIPA Term. The field can be completed with the letter Z until the end to consider the last code.

@@ -1,0 +1,18 @@
+0001#STR0001#ALL#Saldos Em Stock
+0002#STR0002#ALL#Este programa irá emitir um resumo dos saldos, em quantidade,
+0003#STR0003#ALL#Dos produtos em stock.
+0004#STR0004#ALL# por código         
+0005#STR0005#ALL# por tipo           
+0006#STR0006#ALL# por descrição    
+0007#STR0007#ALL# por grupo        
+0008#STR0008#ALL#Código de barras
+0009#STR0009#ALL#Administração
+0010#STR0010#ALL#CÓDIGO                         TP GRUP DESCRIÇÃO                      UM FL AMZ   QUANTIDADE
+0013#STR0013#ALL#Cancelado Pelo Operador
+0014#STR0014#ALL#Total Do Artigo
+0015#STR0015#ALL#A Seleccionar Registos...
+0018#STR0018#ALL#Disponível   
+0019#STR0019#ALL#Indisponível 
+0022#STR0022#ALL#Qtde.1a.u.m.
+0023#STR0023#ALL#Qtde.2a.u.m.
+0024#STR0024#ALL#Reg(s)

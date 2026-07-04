@@ -1,0 +1,36 @@
+0003#STR0003#ALL#Marco
+0013#STR0013#ALL#Alternar para o programa do ms-word para visualizar o documento ou clicar no botão para fechar.
+0014#STR0014#ALL#Seleccionar ficheiro 
+0015#STR0015#ALL#Em Actividade
+0016#STR0016#ALL#Signatário Do Relatório
+0017#STR0017#ALL#Eng. Segurança Do Trabalho
+0018#STR0018#ALL#Médico Do Trabalho
+0019#STR0019#ALL#Enfermeiro Do Trabalho
+0020#STR0020#ALL#Aux. De Enfermagem Do Trabalho
+0021#STR0021#ALL#Técc. Segurança Do Trabalho
+0022#STR0022#ALL#Médico
+0024#STR0024#ALL#Aux. De Enfermagem
+0026#STR0026#ALL#Fonte Criadora De Risco:
+0027#STR0027#ALL#Centro De Custo:
+0028#STR0028#ALL#Todos
+0029#STR0029#ALL#Função:
+0031#STR0031#ALL#Ambiente Físico Do Risco:
+0032#STR0032#ALL#Data De Avaliação:
+0033#STR0033#ALL#Quantidade Do Agentes De Risco:
+0034#STR0034#ALL#Limite Tolerância:
+0035#STR0035#ALL#Tempo De Exposição:
+0036#STR0036#ALL#Ausência De Agente Nocivo
+0037#STR0037#ALL#Habitual/permanente
+0038#STR0038#ALL#Ocasional/intermitente
+0039#STR0039#ALL#Tipo De Exposição:
+0040#STR0040#ALL#Técnica Utilizada:
+0041#STR0041#ALL#Recomendação:
+0045#STR0045#ALL#Ficheiro Saída ?
+0046#STR0046#ALL#Impressão ?
+0047#STR0047#ALL#Empregado ?
+0057#STR0057#ALL#Medidas de controlo
+0062#STR0062#ALL#Fonte geradora
+0063#STR0063#ALL#Será(ão) impresso(s) 
+0064#STR0064#ALL# Laudo(s). A cada documento gerado, grave-o antes de continuar.
+0065#STR0065#ALL#A processar: 
+0067#STR0067#ALL#Para laudo do tipo LT.Pericial, nao é permitido informar o colaborador. Deixe o campo em branco.

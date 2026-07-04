@@ -1,0 +1,33 @@
+0001#STR0001#ALL#This program issues a list of assets recoverable assets
+0002#STR0002#ALL#performed within a period.
+0003#STR0003#ALL#Relation of assets recoverable value
+0004#STR0004#ALL#Account
+0005#STR0005#ALL#C. Center
+0006#STR0006#ALL#Acquisition Date
+0007#STR0007#ALL#Base  Item Description                 Acquis.   Amount       Invoices Plate    Group    C. Address Cost
+0008#STR0008#ALL#                In.Depr.  Tx.Depr.       Original Value Deprec. Accrued  Correction Accrued  Write-off Date
+0009#STR0009#ALL# by 
+0010#STR0010#ALL# in  
+0011#STR0011#ALL# between 
+0012#STR0012#ALL# to 
+0013#STR0013#ALL#CANCELLED BY THE OPERATOR
+0014#STR0014#ALL#SUPPLIER 
+0015#STR0015#ALL#Asset account        Correction Account      Account Exp. Depr.       Account Accr. Depr.       Curr. Acc. Depr. 
+0016#STR0016#ALL#TOTAL 
+0017#STR0017#ALL#GRAND TOTAL: 
+0018#STR0018#ALL#Z-form
+0019#STR0019#ALL#Management
+0020#STR0020#ALL#Selecting Records...
+0021#STR0021#ALL#Asset Information
+0022#STR0022#ALL#Account total
+0023#STR0023#ALL#Cost Center Total
+0024#STR0024#ALL#Total of Acquisition Date
+0025#STR0025#ALL#Branch Total:
+0026#STR0026#ALL#Depre In
+0027#STR0027#ALL#Depr.Rt.
+0028#STR0028#ALL#Original Value
+0029#STR0029#ALL#Accrued Deprec.
+0030#STR0030#ALL#Accrued Correction
+0031#STR0031#ALL#Imp.Acuml
+0032#STR0032#ALL#Vlr.Tst.Imp.
+0033#STR0033#ALL#Per/Rev. Account

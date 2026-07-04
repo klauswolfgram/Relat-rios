@@ -1,0 +1,98 @@
+0001#STR0001#ALL#Certificado de Submissao
+0002#STR0002#ALL#Gerando Visualizacao, Aguarde...
+0003#STR0003#ALL#Certificado de Submissao de Peca de Producao
+0004#STR0004#ALL#Nome da Peca
+0005#STR0005#ALL#Numero da Peca
+0006#STR0006#ALL#Item de Seguranca e/ou
+0007#STR0007#ALL#Regulamentacao Governamental
+0008#STR0008#ALL#SIM
+0009#STR0009#ALL#NAO
+0010#STR0010#ALL#Alteracao de Engenharia
+0011#STR0011#ALL#Data
+0012#STR0012#ALL#Alteracoes Adicionais de Engenharia
+0013#STR0013#ALL#Exposto no Desenho No.
+0014#STR0014#ALL#No. Pedido de Compra
+0015#STR0015#ALL#Peso
+0016#STR0016#ALL#Auxilio para verificacao No.
+0017#STR0017#ALL#INFORMACOES DO FORNECEDOR
+0018#STR0018#ALL#Nome do Fornecedor
+0019#STR0019#ALL#Codigo do Fornecedor
+0020#STR0020#ALL#Endereco
+0021#STR0021#ALL#Cidade/Estado/CEP
+0022#STR0022#ALL#INFORMACOES DA SUBMISSAO
+0023#STR0023#ALL#Dimensional
+0024#STR0024#ALL#Materiais/Funcional
+0025#STR0025#ALL#Aparencia
+0026#STR0026#ALL#Nome do Cliente /Divisao
+0027#STR0027#ALL#Comprador/Codigo do Comprador
+0028#STR0028#ALL#Aplicacao
+0029#STR0029#ALL#Nota :
+0030#STR0030#ALL#Esta peca contem alguma substancia de uso restrito ou reportavel?
+0031#STR0031#ALL#As peca plasticas sao identificadas com os codigos adequados de marcacao ISO
+0032#STR0032#ALL#RAZAO PARA SUBMISSAO
+0033#STR0033#ALL#Submissao Inicial
+0034#STR0034#ALL#Alteracao de Material ou Construcao Opcional
+0035#STR0035#ALL#Alteracoes da Engenharia
+0036#STR0036#ALL#Alteracao do Subfornecedor ou Fonte do Material
+0037#STR0037#ALL#Ferramental: Transferencia, Reposicao, Reparo ou Adicional
+0038#STR0038#ALL#Alteracao do Processo de Fabricacao da Peca
+0039#STR0039#ALL#Correcao de Discrepancia
+0040#STR0040#ALL#Pecas Produzidas em outra Localidade
+0041#STR0041#ALL#Ferramental Inativo por mais de 1 ano
+0042#STR0042#ALL#Outros - Especifique:
+0043#STR0043#ALL#NIVEL DE SUBMISSAO (Marque um)
+0044#STR0044#ALL#Nivel 1 - Certificado apenas(e para itens de aparencia designados, um Relatorio de Aprovacao de Aparencia) submetidos ao cliente
+0045#STR0045#ALL#Nivel 2 - Certificado com amostras do produto e dados limitados de suporte submetidos ao cliente
+0046#STR0046#ALL#Nivel 3 - Certificado com amostras do produto e todos os dados de suporte submetidos ao cliente
+0047#STR0047#ALL#Nivel 4 - Certificado e outros requisitos conforme definido pelo cliente
+0048#STR0048#ALL#Nivel 5 - Certificado com amostras do produto e todos os dados de suporte verificados na localidade de manufatura do fornecedor
+0049#STR0049#ALL#RESULTADOS DA SUBMISSAO
+0050#STR0050#ALL#Os resultados de 
+0051#STR0051#ALL# medicoes dimensionais 
+0052#STR0052#ALL# ensaios de materiais e funcionias 
+0053#STR0053#ALL# criterios de aparencia  
+0054#STR0054#ALL# dados estatisticos 
+0055#STR0055#ALL#Estes resultados atendem a todos os requisitos do desenho e de especificacoes:   
+0056#STR0056#ALL# SIM 
+0057#STR0057#ALL# NAO 
+0058#STR0058#ALL#Moldes / Cavidades / Processo de Producao:
+0059#STR0059#ALL#DECLARACAO
+0060#STR0060#ALL#Por meio deste afirmo que as amostras representadas por este certificado sao representativas das nossas pecas e foram fabricadas conforme os
+0061#STR0061#ALL#requisitos aplicaveis do Manual do Processo de Aprovacao de Producao 3a. edicao. Alem disso certifico que estas amostras foram
+0062#STR0062#ALL#produzidas a uma taxa de producao de  
+0063#STR0063#ALL# horas. Eu anotei qualquer desvio desta declaracao abaixo:
+0064#STR0064#ALL#Explicacoes/Comentarios
+0065#STR0065#ALL#Nome
+0066#STR0066#ALL#Cargo
+0067#STR0067#ALL#Telefone
+0068#STR0068#ALL#Assinatura Autorizada do Fornecedor
+0069#STR0069#ALL#PARA USO DO CLIENTE APENAS (SE APLICAVEL)
+0070#STR0070#ALL#Disposicao do Certificado da Peca:
+0071#STR0071#ALL#Aprovado
+0072#STR0072#ALL#Rejeitado
+0073#STR0073#ALL#Outros
+0074#STR0074#ALL#Aprovacao Funcional da Peca:
+0075#STR0075#ALL#Dispensado
+0076#STR0076#ALL#Repres. Cliente
+0077#STR0077#ALL#Assinatura do Cliente
+0078#STR0078#ALL#Julho
+0079#STR0079#ALL#CFG-1001
+0080#STR0080#ALL#A copia original desse documento deve permanecer nas instalacoes
+0081#STR0081#ALL#do fornecedor enquanto a peca estiver ativa (veja Glossario)
+0082#STR0082#ALL#Opcional: Numero de Rastreamento
+0083#STR0083#ALL#do Cliente:
+0084#STR0084#ALL#  (Se "NAO" - Explicar abaixo)
+0085#STR0085#ALL#Numero Peca Cli.
+0086#STR0086#ALL#Numero Peca Org.
+0087#STR0087#ALL#Cidade/Estado/CEP/Pais
+0088#STR0088#ALL#RELATORIO MATERIAIS
+0089#STR0089#ALL#Enviado pelo IMDS ou outro fomato de cliente 
+0090#STR0090#ALL#requisitos aplicaveis do Manual do Processo de Aprovacao de Producao 4a. edicao. Alem disso certifico que estas amostras foram
+0091#STR0091#ALL#Cada instrumento do cliente foi corretamente etiquetado e numerado
+0092#STR0092#ALL#Fax
+0093#STR0093#ALL#E-Mail
+0094#STR0094#ALL#Marco
+0095#STR0095#ALL#do Cliente:
+0096#STR0096#ALL#ATENÇÃO
+0097#STR0097#ALL#Para a correta execução desta rotina, será necessário implementar o Boletim Técnico Adequação do Ambiente PPAP a 4ª Edição
+0098#STR0098#ALL#N/A

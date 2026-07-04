@@ -1,0 +1,35 @@
+0001#STR0001#ALL#Este programa ira imprimir o Balancete Comparativo 
+0002#STR0002#ALL#de acordo com os parametros solicitados pelo usuario. 
+0003#STR0003#ALL#Comparativo de 
+0004#STR0004#ALL#|CODIGO            |DESCRICAO          |  PERIODO 01  |  PERIODO 02  |  PERIODO 03  |  PERIODO 04  |  PERIODO 05  |  PERIODO 06  |  PERIODO 07  |  PERIODO 08  |  PERIODO 09  |  PERIODO 10  |  PERIODO 11  |  PERIODO 12  |
+0005#STR0005#ALL#COMPARATIVO ANALITICO DE 
+0006#STR0006#ALL#COMPARATIVO SINTETICO DE 
+0007#STR0007#ALL#COMPARATIVO DE 
+0008#STR0008#ALL# DE 
+0009#STR0009#ALL# ATE 
+0010#STR0010#ALL# EM 
+0011#STR0011#ALL# CONTA 
+0012#STR0012#ALL#O plano gerencial ainda näo esta disponivel para este relatorio. 
+0013#STR0013#ALL#Criando Arquivo Temporario... 
+0014#STR0014#ALL#Zebrado
+0015#STR0015#ALL#Administracäo
+0016#STR0016#ALL#***** CANCELADO PELO OPERADOR *****
+0017#STR0017#ALL#T O T A I S  D O  P E R I O D O: 
+0018#STR0018#ALL#TOTAIS DO 
+0019#STR0019#ALL#O periodo solicitado ultrapassa o limite de 6 meses.
+0020#STR0020#ALL#Sera impresso somente os 6 meses a partir da data inicial.
+0021#STR0021#ALL#Caso nao atualize os saldos compostos na
+0022#STR0022#ALL#emissao dos relatorios(MV_SLDCOMP ='N'),
+0023#STR0023#ALL#rodar a rotina de atualizacao de saldos 
+0024#STR0024#ALL#Altere a configuracäo de livros...
+0025#STR0025#ALL#Config. de Livros...
+0026#STR0026#ALL#TOTAIS: 
+0027#STR0027#ALL#TOTAIS DO PERIODO:
+0028#STR0028#ALL#TOTAL PERIODO
+0029#STR0029#ALL#ACUMULADO
+0030#STR0030#ALL#GRUPO (
+0031#STR0031#ALL#PERIODO 
+0032#STR0032#ALL#Total - 
+0033#STR0033#ALL#Total Geral - 
+0034#STR0034#ALL# Superior
+0035#STR0035#ALL#Grupo

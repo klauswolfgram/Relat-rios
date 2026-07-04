@@ -1,0 +1,24 @@
+0001#STR0001#ALL#Relação Das Devoluções De Vendas
+0002#STR0002#ALL#Este relatório irá imprimir a relação de elementos
+0003#STR0003#ALL#Referentes as devoluções de vendas.
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#FACTURA         ARTIGO         DESCRICAO                    QUANTIDADE UM    PR.UNITARIO IPI            VALOR ICM CODIGO/RAZAO SOCIAL DO CLIENTE                TP TE  TIPO GRUPO DT.DIGITACAO          CUSTO FACT. ORIG SERIE
+0007#STR0007#ALL#A seleccionar registos ... 
+0008#STR0008#ALL#Cancelado Pelo Operador
+0009#STR0009#ALL#Total descontos --> 
+0010#STR0010#ALL#Total factura   --> 
+0011#STR0011#ALL#Duplicatas Da Factura   De Saida
+0012#STR0012#ALL#Não houve títulos criados na saida
+0013#STR0013#ALL#Prf Número                Parc.    Venc.              Saldo
+0014#STR0014#ALL#Relação Das Devoluções De Vendas
+0015#STR0015#ALL#Este relatório irá imprimir a relação de elem.
+0016#STR0016#ALL#Referentes as devoluções de vendas.
+0017#STR0017#ALL#Total descontos --> 
+0018#STR0018#ALL#Total factura   --> 
+0019#STR0019#ALL#Duplicatas Da Factura   De Saida
+0020#STR0020#ALL#Não houve títulos criados na saida
+0021#STR0021#ALL#Notas De Devolução
+0022#STR0022#ALL#Títulos
+0023#STR0023#ALL#Total crial       --> 
+0024#STR0024#ALL#FACT                 ARTIGO         DESCRICAO                  QUANTIDADE   UM    PR.UNITARIO IPI            VALOR CODIGO/RAZAO SOCIAL DO CLIENTE    TP TE  TIPO GRUPO DT.DIGITACAO          CUSTO FACT ORIG            SERIE

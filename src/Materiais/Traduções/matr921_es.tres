@@ -1,0 +1,28 @@
+0001#STR0001#ALL#CT
+0002#STR0002#ALL#FACT
+0003#STR0003#ALL#ENTRADAS
+0004#STR0004#ALL#SALIDAS
+0005#STR0005#ALL##################################################################                                    REGISTRO DE ########                                                                                    PAGINA  ######      
+0006#STR0006#ALL#MES O PERIODO/AÑO: #######                                                                                                                                                                     ---------- OPERACIONES -----------
+0007#STR0007#ALL#                                                                                                                                                                                               (1)TRIBUTADAS (2)EXENTAS (3)OTRAS 
+0008#STR0008#ALL#  FCH      ESPE  SE                        FCH                                                                                                 ICMS OPERAC.
+0009#STR0009#ALL#ENTRADA    CIE   RIE        NUMERO         EMISION                     EMISOR                     UF     VALOR CONTABLE CUENTA CONTABLE      CFO  IPI (*)    BASE DE CALCULO ALIC    VALOR DEL IMPUESTO         OBSERVAC.   
+0010#STR0010#ALL#MES O PERIODO/AÑO: #######                                                                                                                                                              -----------------OPERACIONES-------------
+0011#STR0011#ALL#                                                                                                                                                                                        (1) TRIBUTADAS  (2) EXENTAS  (3) OTRAS   
+0012#STR0012#ALL# FECHA     ESPE  SE                                                                                                                ICMS OPERACIONES
+0013#STR0013#ALL#EMISION    CIE   RIE     NUMERO                                 EMISOR                     UF     VALOR CONTABLE CUENTA CONTABLE      CFO  IPI (*)    BASE DE CALCULO ALIC    VALOR DEL IMPUESTO                OBSERVAC.   
+0014#STR0014#ALL#A TRANSPORTAR
+0015#STR0015#ALL#TOTAL DEL DIA 
+0016#STR0016#ALL#TOTAL DEL MES
+0017#STR0017#ALL#TOTAL DEL PERIODO
+0018#STR0018#ALL#1.00 ENTRADAS DE LA PROV.
+0019#STR0019#ALL#2.00 ENTRADAS DE FUERA DE LA PROV.
+0020#STR0020#ALL#3.00 ENTRADAS DEL EXTERIOR
+0021#STR0021#ALL#5.00 SALIDAS P/ LA PROV.
+0022#STR0022#ALL#6.00 SALIDAS P/ FUERA DE LA PROV.
+0023#STR0023#ALL#7.00 SALIDAS P/ EL EXTERIOR
+0024#STR0024#ALL#TOTAL GENERAL
+0025#STR0025#ALL#TOTAL
+0026#STR0026#ALL#DEMOSTRATIVO POR PROV. DE ORIGEN DE MERCADERIA O DE INICIO DE PRESTACION DE SERVICIO
+0027#STR0027#ALL#ICMS RETENIDO...: 
+0028#STR0028#ALL#Sucur. : 

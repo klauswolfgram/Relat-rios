@@ -1,0 +1,29 @@
+0001#STR0001#ALL#Pesquisa Gerencial
+0002#STR0002#ALL#Será impresso de acordo com os parametros solicitados pelo usuario.
+0003#STR0003#ALL#A pesquisa devera estar calculada previamente
+0004#STR0004#ALL#Matricula
+0005#STR0005#ALL#Centro de custo
+0006#STR0006#ALL#Nome
+0007#STR0007#ALL#Zebrado
+0008#STR0008#ALL#Administracao
+0009#STR0009#ALL#PESQUISA GERENCIAL 
+0010#STR0010#ALL#Atencao
+0011#STR0011#ALL#Selecione a pesquisa gerencial desejada para impressao no parametros
+0012#STR0012#ALL#Ok
+0013#STR0013#ALL#Nao foi encontrado o arquivo de calculo da pesquisa gerencial solicitada
+0014#STR0014#ALL#Matricula : 
+0015#STR0015#ALL#Nome : 
+0016#STR0016#ALL#Verba
+0017#STR0017#ALL#Total
+0018#STR0018#ALL#    Variacao mensal (%)
+0019#STR0019#ALL#    (%) em relacao ao total
+0020#STR0020#ALL#Filial : 
+0021#STR0021#ALL#Centro de Custo : 
+0022#STR0022#ALL#Total da filial : 
+0023#STR0023#ALL#Total geral
+0024#STR0024#ALL#Total do Centro de Custo : 
+0025#STR0025#ALL#Selecionando registros
+0026#STR0026#ALL#  1-Total de proventos
+0027#STR0027#ALL#  2-Total de descontos
+0028#STR0028#ALL#  3-Total liquido     
+0029#STR0029#ALL#Este relatório serve para imprimir a Pesquisa Gerencial  + Será  impresso de acordo com os parâmetros solicitados pelo usuário.

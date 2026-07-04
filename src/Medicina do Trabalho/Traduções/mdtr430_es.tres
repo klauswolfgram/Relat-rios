@@ -1,0 +1,42 @@
+0001#STR0001#ALL#Informe de las Consultas Marcadas clasificadas por motivo. Basado en las
+0002#STR0002#ALL#agendas de los medicos que atienden. A traves de los parametros podra ser     
+0003#STR0003#ALL#seleccionado Motivo, Medico e Periodo deseado.                       
+0004#STR0004#ALL#A Rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#Atencion vs. Motivo
+0007#STR0007#ALL#Motivo         Descripcion del Motivo
+0008#STR0008#ALL#   Medico      Fecha           Hora                Paciente                                           Data Atencion
+0009#STR0009#ALL#ANULADO POR EL OPERADOR
+0010#STR0010#ALL#Total consultas del motivo 
+0011#STR0011#ALL#¿De Cliente?
+0012#STR0012#ALL#Tienda
+0013#STR0013#ALL#¿A Cliente?
+0014#STR0014#ALL#Codigo del cliente. El campo puede permanecer vacio para considerar desde el primer codigo.
+0015#STR0015#ALL#Codigo de la tienda del cliente. El campo puede permanecer vacio para considerar desde el primer codigo.
+0016#STR0016#ALL#Codigo del cliente. El campo puede rellenarse con la letra Z hasta el final para considerar el ultimo codigo.
+0017#STR0017#ALL#Codigo de la tienda del cliente. El campo puede rellenarse con la letra Z hasta el final para considerar el ultimo codigo.
+0018#STR0018#ALL#Cliente
+0019#STR0019#ALL#Nombre
+0020#STR0020#ALL#Motivo
+0021#STR0021#ALL#Descripcion del Motivo
+0022#STR0022#ALL#Medico
+0023#STR0023#ALL#Fecha
+0024#STR0024#ALL#Hora
+0025#STR0025#ALL#Paciente
+0026#STR0026#ALL#Fecha Atencion
+0027#STR0027#ALL#Totales
+0028#STR0028#ALL#Total de Consultas
+0029#STR0029#ALL#Motivo
+0030#STR0030#ALL#Cantidad
+0031#STR0031#ALL#No hay nada para imprimir en el informe.
+0032#STR0032#ALL#¿Considerar ?
+0033#STR0033#ALL#¿A Fecha Diagnost. ?
+0034#STR0034#ALL#¿De Fecha Diagnost. ?
+0035#STR0035#ALL#¿A Medico ?
+0036#STR0036#ALL#¿De  Medico ?
+0037#STR0037#ALL#¿A Motivo ?
+0038#STR0038#ALL#¿De  Motivo ?
+0039#STR0039#ALL#Procesando Archivo...
+0040#STR0040#ALL#Cliente/Tienda: 
+0041#STR0041#ALL#Realizados
+0042#STR0042#ALL#No Realizados

@@ -1,0 +1,50 @@
+0001#STR0001#ALL#Listagem dos Itens Inventariados
+0002#STR0002#ALL#Emite uma relacao que mostra o saldo em estoque e todas as
+0003#STR0003#ALL#contagens efetuadas no inventario. Baseado nestas duas in-
+0004#STR0004#ALL#formacoes ele calcula a diferenca encontrada.
+0005#STR0005#ALL# Por Codigo    
+0006#STR0006#ALL# Por Tipo      
+0007#STR0007#ALL# Por Grupo   
+0008#STR0008#ALL# Por Descricao 
+0009#STR0009#ALL# Por Armazem  
+0010#STR0010#ALL#Zebrado
+0011#STR0011#ALL#Administracao
+0012#STR0012#ALL#PRODUTO(S)
+0013#STR0013#ALL#CODIGO          DESCRICAO                      LOTE       SUB    TP GRP UM AMZ DOCUMENTO         QUANTIDADE         QTD NA DATA       _____________DIFERENCA______________
+0014#STR0014#ALL#                                                          LOTE                                  INVENTARIADA       DO INVENTARIO         QUANTIDADE              VALOR
+0015#STR0015#ALL#Selecionando Registros...
+0016#STR0016#ALL#CANCELADO PELO OPERADOR
+0017#STR0017#ALL#TOTAL .................
+0018#STR0018#ALL#TOTAL DO TIPO 
+0019#STR0019#ALL#TOTAL DO GRUPO 
+0020#STR0020#ALL#TOTAL DAS DIFERENCAS EM VALOR .............
+0021#STR0021#ALL#CODIGO          DESCRICAO                      TP GRP UM AMZ DOCUMENTO         QUANTIDADE         QTD NA DATA       _______________DIFERENCA_____________
+0022#STR0022#ALL#                                                                              INVENTARIADA       DO INVENTARIO         QUANTIDADE              VALOR
+0023#STR0023#ALL#CODIGO          DESCRICAO                      LOTE       SUB    ENDERECO        NUMERO DE SERIE      TP GRP UM AMZ DOCUMENTO         QUANTIDADE         QTD NA DATA       _____________DIFERENCA______________
+0024#STR0024#ALL#                                                          LOTE                                                                      INVENTARIADA        DO INVENTARIO         QUANTIDADE              VALOR
+0025#STR0025#ALL#CODIGO          DESCRICAO                      ENDERECO        NUMERO DE SERIE      TP GRP UM AMZ DOCUMENTO         QUANTIDADE         QTD NA DATA       _______________DIFERENCA_____________
+0026#STR0026#ALL#                                                                                                                   INVENTARIADA       DO INVENTARIO          QUANTIDADE              VALOR
+0027#STR0027#ALL#CODIGO
+0028#STR0028#ALL#DESCRIÇÃO
+0029#STR0029#ALL#LOTE
+0030#STR0030#ALL#SUB
+0031#STR0031#ALL#LOCALIZAÇÃO
+0032#STR0032#ALL#NUMERO DE SERIE
+0033#STR0033#ALL#TP
+0034#STR0034#ALL#GRUPO
+0035#STR0035#ALL#UM
+0036#STR0036#ALL#AMZ
+0037#STR0037#ALL#DOCUMENTO
+0038#STR0038#ALL#QUANTIDADE
+0039#STR0039#ALL#INVENTARIADA
+0040#STR0040#ALL#QTD NA DATA
+0041#STR0041#ALL#DO INVENTARIO
+0042#STR0042#ALL#DIFERENÇA
+0043#STR0043#ALL#QUANTIDADE
+0044#STR0044#ALL#VALOR
+0045#STR0045#ALL#T o t a l :
+0046#STR0046#ALL#SubTotal do Tipo : 
+0047#STR0047#ALL#SubTotal do Grupo : 
+0048#STR0048#ALL#SubTotal do Armazem : 
+0049#STR0049#ALL#T o t a l  G e r a l :
+0050#STR0050#ALL#Lançamentos de Inventario

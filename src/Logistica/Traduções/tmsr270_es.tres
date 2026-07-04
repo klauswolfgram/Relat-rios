@@ -1,0 +1,27 @@
+0001#STR0001#ALL#Listado Contable de CTRC no Entregados
+0002#STR0002#ALL#Este programa emitira el listado de CTRCs no
+0003#STR0003#ALL#entregado de acuerdo con los parametros elegidos
+0004#STR0004#ALL#por usuario 
+0005#STR0005#ALL#A rayas
+0006#STR0006#ALL#Administracion 
+0007#STR0007#ALL#Sucur. Origen :
+0008#STR0008#ALL#Total Origen : 
+0009#STR0009#ALL#CTRC       DESTINO    EMISSAO  PRZ.ENTREGA  CHEGADA    MANIFESTO         VALOR     CONTRATO  VEICULO            1o.REBOQUE         2o.REBOQUE              PESO          VALOR    DESTINATARIO
+0010#STR0010#ALL#                                                                         FLETE                                                                                      CONTRATADO                
+0011#STR0011#ALL#ANULADO POR EL OPERADOR
+0012#STR0012#ALL#Lista contable de CTRC no entregados
+0013#STR0013#ALL#Este programa emitira la lista de CTRC no entregadas, segun los parametros elegidos por el usuario.
+0014#STR0014#ALL#Suc.Origen + Suc.Docto + Documento + Serie
+0015#STR0015#ALL#Suc. Docto
+0016#STR0016#ALL#Descripcion
+0017#STR0017#ALL#Documento
+0018#STR0018#ALL#Matricula
+0019#STR0019#ALL#Contratado
+0020#STR0020#ALL#Destinatario
+0021#STR0021#ALL#Suc.Man
+0022#STR0022#ALL#Manifisto
+0023#STR0023#ALL#Suc.Dest
+0024#STR0024#ALL#1o Remolque
+0025#STR0025#ALL#2o Remolque
+0026#STR0026#ALL#Total Origen
+0027#STR0027#ALL#3° Reboque

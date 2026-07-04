@@ -1,0 +1,28 @@
+0001#STR0001#ALL#Este programa imprimira el Balancete de 1 Entidad 
+0002#STR0002#ALL#de acuerdo con los parametros solicitados por el Usuario. 
+0003#STR0003#ALL#Balancete de Verificacion de 1 Entidad 
+0004#STR0004#ALL#|  CODIGO                     |      D E S C R I P C I O N                         |    SALDO ANTERIOR              |    DEBITO       |      CREDITO      |    MOVIMIENTO DE PERIODO       |         SALDO ACTUAL               |
+0005#STR0005#ALL#|  CODIGO               |   D  E  S  C  R  I  P  C  I  O   N   |   SALDO ANTERIOR  |      DEBITO    |      CREDITO   |   SALDO ACTUAL     |
+0006#STR0006#ALL#BALANCETE ANALITICO DE 
+0007#STR0007#ALL#BALANCETE SINTETICO DE 
+0008#STR0008#ALL#BALANCETE DE 
+0009#STR0009#ALL# DE 
+0010#STR0010#ALL# A 
+0011#STR0011#ALL# EN 
+0012#STR0012#ALL# (PRESUPUESTADO)
+0013#STR0013#ALL# (GERENCIAL)
+0014#STR0014#ALL#Creando Archivo Temporario...
+0015#STR0015#ALL#A Rayas
+0016#STR0016#ALL#Administracion
+0017#STR0017#ALL#***** CANCELADO POR EL OPERADOR *****
+0018#STR0018#ALL#T O T A I S  D E  P E R I O D O: 
+0019#STR0019#ALL#T O T A L E S  D E  G R U P O (
+0020#STR0020#ALL#TOTALES DE 
+0021#STR0021#ALL# Entidad Gerencial 
+0022#STR0022#ALL#DIV.
+0023#STR0023#ALL#|  CODIGO                     |      D E S C R I P C I O N                         |    SALDO ANTERIOR              |    DEBITO       |      CREDITO      |    MOVIMIENTO DE PERIODO       |         SALDO ACTUAL               |
+0024#STR0024#ALL#|  CODIGO               |   D  E  S  C  R  I  P  C  I  O  N   |   SALDO ANTERIOR  |      DEBITO    |      CREDITO   |   SALDO ACTUAL     |
+0025#STR0025#ALL#Favor completar la configuracion de libros. Por tratarse de un informe de 
+0026#STR0026#ALL#entidades gerenciales, esa pregunta es obligatória.
+0027#STR0027#ALL#Favor completar los parametros Grupos Ingreso/DGastos y Fecha Sld Ant. Ingresos/Gastos o 
+0028#STR0028#ALL#dejar el parametro Ignora Sl Ant.Rec/Des = No 

@@ -1,0 +1,49 @@
+0001#STR0001#ALL#Vendor - Total    
+0002#STR0002#ALL#Generation of Indexes Accrued by Month
+0003#STR0003#ALL#The Indexes Accrued will be printed by Vendor according to  
+0004#STR0004#ALL#the user configuration.        
+0005#STR0005#ALL#Z-Form
+0006#STR0006#ALL#Administration
+0007#STR0007#ALL#Inflow in the period               
+0008#STR0008#ALL#No.of Rejected Inflows in the Period
+0009#STR0009#ALL#Number of Inspected Inflows        
+0010#STR0010#ALL#Number of Inflows in Skip-Lot      
+0011#STR0011#ALL#Qtt. Inspected                     
+0012#STR0012#ALL#Qtt. in SkipLot                    
+0013#STR0013#ALL#Qtt. Rejected                      
+0014#STR0014#ALL#Result of Inflows       (PQI)      
+0015#STR0015#ALL#Critical Factor                    
+0016#STR0016#ALL#Quality System       (SQI)         
+0017#STR0017#ALL#Item Quality Index          (IQI)  
+0018#STR0018#ALL#Punctuality  (IPO)                 
+0019#STR0019#ALL#PPM                                
+0020#STR0020#ALL#Selecting Indexes in Period       ...
+0021#STR0021#ALL#Selecting Reports in Period      ...
+0022#STR0022#ALL#TOTAL/AVERAGE
+0023#STR0023#ALL#IQI :
+0024#STR0024#ALL#Month/Year
+0025#STR0025#ALL#From vendor         
+0026#STR0026#ALL#Enter Initial Vendor to be            
+0027#STR0027#ALL#used as a filter when generating      
+0028#STR0028#ALL#report.                               
+0029#STR0029#ALL#To Vendor           
+0030#STR0030#ALL#Enter the Final Vendor to be        
+0031#STR0031#ALL#used as a filter when generating    
+0032#STR0032#ALL#report.                              
+0033#STR0033#ALL#From Year              
+0034#STR0034#ALL#Enter the year to be used as        
+0035#STR0035#ALL#a filter when issuing the report.   
+0036#STR0036#ALL#From Month              
+0037#STR0037#ALL#Inform the Month which will be used as 
+0038#STR0038#ALL#filter in the issue of report.     
+0039#STR0039#ALL#Language              
+0040#STR0040#ALL#Portuguese
+0041#STR0041#ALL#English
+0042#STR0042#ALL#Spanish
+0043#STR0043#ALL#Inform the Language of which will be used while the 
+0044#STR0044#ALL#Report is being printed.               
+0045#STR0045#ALL#Print Graph     
+0046#STR0046#ALL#Yes
+0047#STR0047#ALL#No
+0048#STR0048#ALL#Inform whether the graph will be printed as soon as 
+0049#STR0049#ALL#the selected device is settled to the Print.

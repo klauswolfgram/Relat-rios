@@ -1,0 +1,95 @@
+0001#STR0001#ALL#ESte programa tem a função de emitir os borderaux de cobrança
+0001#STR0001#ANG#Este programa tem a função de emitir os borderôs de cobrança
+0001#STR0001#ARG#Este programa tem a função de emitir os talões de depósito
+0001#STR0001#BOL#Este programa tem a função de emitir os borderaux de cobrança
+0001#STR0001#BRA#Este programa tem a função de emitir os borderaux de cobrança
+0001#STR0001#CHI#Este programa tem a função de emitir os borderaux de cobrança
+0001#STR0001#COL#Este programa tem a função de emitir os borderaux de cobrança
+0001#STR0001#COS#Este programa tem a função de emitir os borderaux de cobrança
+0001#STR0001#DOM#Este programa tem a função de emitir os borderaux de cobrança
+0001#STR0001#EQU#Este programa tem a função de emitir os borderôs de cobrança
+0001#STR0001#EUA#Este programa tem a função de emitir os borderaux de cobrança
+0001#STR0001#HAI#Este programa tem a função de emitir os borderôs de cobrança
+0001#STR0001#MEX#Este programa tem a função de emitir os borderaux de cobrança
+0001#STR0001#PAN#Este programa tem a função de emitir os borderaux de cobrança
+0001#STR0001#PAR#Este programa tem a função de emitir os borderaux de cobrança
+0001#STR0001#PER#Este programa tem a função de emitir os borderaux de cobrança
+0001#STR0001#POR#Este programa tem a função de emitir os borderaux de cobrança
+0001#STR0001#PTG#Este programa tem a função de emitir os borderaux de cobrança
+0001#STR0001#SAL#Este programa tem a função de emitir os borderaux de cobrança
+0001#STR0001#URU#Este programa tem a função de emitir os borderaux de cobrança
+0001#STR0001#VEN#Este programa tem a função de emitir os borderaux de cobrança
+0002#STR0002#ALL#Ou pagamentos gerados pelo utilizador.
+0005#STR0005#ALL#Abandonar
+0006#STR0006#ALL#Emissão de borderoaux 
+0006#STR0006#ANG#Emissão de Borderôs
+0006#STR0006#ARG#Emissão de talão de depósito
+0006#STR0006#BOL#Emissão De Descriminações
+0006#STR0006#BRA#Emissão De Descriminações
+0006#STR0006#CHI#Emissão De Descriminações
+0006#STR0006#COL#Emissão De Descriminações
+0006#STR0006#COS#Emissão De Descriminações
+0006#STR0006#DOM#Emissão De Descriminações
+0006#STR0006#EQU#Emissão de Borderôs
+0006#STR0006#EUA#Emissão De Descriminações
+0006#STR0006#HAI#Emissão de Borderôs
+0006#STR0006#MEX#Emissão De Descriminações
+0006#STR0006#PAN#Emissão De Descriminações
+0006#STR0006#PAR#Emissão De Descriminações
+0006#STR0006#PER#Emissão De Descriminações
+0006#STR0006#POR#Emissão De Descriminações
+0006#STR0006#PTG#Emissão De Descriminações
+0006#STR0006#SAL#Emissão De Descriminações
+0006#STR0006#URU#Emissão De Descriminações
+0006#STR0006#VEN#Emissão De Descriminações
+0007#STR0007#ALL#Código de barras
+0008#STR0008#ALL#Administração
+0010#STR0010#ALL#Cancelado Pelo Operador
+0011#STR0011#ALL#|   total da relação a crédito da nossa conta corrente         
+0012#STR0012#ALL#|   total da relação a débito da nossa conta corrente          
+0013#STR0013#ALL#|   quantidade  de títulos impressos                           
+0016#STR0016#ALL#Agência 
+0017#STR0017#ALL# c/c 
+0018#STR0018#ALL#Borderaux nr.  
+0018#STR0018#ANG#BORDERÔ NR. 
+0018#STR0018#ARG#Talão de depósito  nº 
+0018#STR0018#BOL#Folheto nrº 
+0018#STR0018#BRA#Folheto nrº 
+0018#STR0018#CHI#Folheto nrº 
+0018#STR0018#COL#Folheto nrº 
+0018#STR0018#COS#Folheto nrº 
+0018#STR0018#DOM#Folheto nrº 
+0018#STR0018#EQU#BORDERÔ NR. 
+0018#STR0018#EUA#Folheto nrº 
+0018#STR0018#HAI#BORDERÔ NR. 
+0018#STR0018#MEX#Folheto nrº 
+0018#STR0018#PAN#Folheto nrº 
+0018#STR0018#PAR#Folheto nrº 
+0018#STR0018#PER#Folheto nrº 
+0018#STR0018#POR#Folheto nrº 
+0018#STR0018#PTG#Folheto nrº 
+0018#STR0018#SAL#Folheto nrº 
+0018#STR0018#URU#Folheto nrº 
+0018#STR0018#VEN#Folheto nrº 
+0019#STR0019#ALL#Solicitamos proceder à recepção dos recibos abaixo relacionadas
+0020#STR0020#ALL#A creditar os valores correspondentes.
+0021#STR0021#ALL#Solicitamos que proceda ao pagamento dos duplicados abaixo relacionados
+0022#STR0022#ALL#Debitando-nos os valores correspondentes.
+0023#STR0023#ALL#NO. DUPLIC.                |P|CÓDIGO|R A Z Ã O   S O C I A L  | VENCTO   |            VALOR   |
+0024#STR0024#ALL#Ao 
+0025#STR0025#ALL#Num duplic                |p|código               |r a z a o   s o c i a l  | vencto   |         valor   |
+0026#STR0026#ALL#NO. DUPLIC.                |PC|CÓDIGO|R A Z Ã O   S O C I A L  | VENCTO   |              VALOR |
+0027#STR0027#ALL#NO. DUPLIC                |PRC|CÓDIGO|R A Z Ã O   S O C I A L  | VENCTO   |              VALOR |
+0028#STR0028#ALL#Num duplic                |pc|código               |r a z a o   s o c i a l  | vencto   |         valor   |
+0029#STR0029#ALL#Num duplic                |prc|código               |r a z a o   s o c i a l  | vencto   |         valor   |
+0030#STR0030#ALL#NO. CHEQUE                |P|CÓDIGO|R A Z Ã O   S O C I A L  | VENCTO   |              VALOR |
+0031#STR0031#ALL#Num cheque                |p|código               |r a z a o   s o c i a l  | vencto   |         valor   |
+0032#STR0032#ALL#NO. CHEQUE                |PC|CÓDIGO|R A Z Ã O   S O C I A L  | VENCTO   |              VALOR |
+0033#STR0033#ALL#NO.CHEQUE                |PRC|CÓDIGO|R A Z Ã O   S O C I A L  | VENCTO   |              VALOR |
+0034#STR0034#ALL#Num cheque                |pc|código               |r a z a o   s o c i a l  | vencto   |         valor   |
+0035#STR0035#ALL#Num cheque                |prc|código               |r a z a o   s o c i a l  | vencto   |         valor   |
+0043#STR0043#ALL#Código
+0044#STR0044#ALL#Razão Social
+0045#STR0045#ALL#Vencto
+0046#STR0046#ALL#Valor
+0049#STR0049#ALL#Quantidade  De Títulos Impressos

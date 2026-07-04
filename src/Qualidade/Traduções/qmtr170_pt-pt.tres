@@ -1,0 +1,15 @@
+0001#STR0001#ALL#Este programa irá emitir o relatório de referencia 
+0002#STR0002#ALL#Cruzada entre instrumentos e clientes.
+0003#STR0003#ALL#Ref.cruzada: Instrumento X Cliente
+0004#STR0004#ALL#Instrumento       Descrição
+0005#STR0005#ALL#Código de barras
+0006#STR0006#ALL#Administração
+0007#STR0007#ALL#Cancelado Pelo Operador
+0008#STR0008#ALL#A seleccionar registos. . .
+0009#STR0009#ALL#Cliente/loja não encontrado...
+0010#STR0010#ALL#Freq   Val.calib.  Estado  Código   Loja  Nome
+0011#STR0011#ALL#Informe o instrumento inicial do intervalo de selecção
+0013#STR0013#ALL#Seleccione a situação dos instrumentos a serem impressos: activos, inactivos, ambos
+0015#STR0015#ALL#Descrição
+0016#STR0016#ALL#Freq.
+0017#STR0017#ALL#Val.calib.

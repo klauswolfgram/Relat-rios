@@ -1,0 +1,48 @@
+0001#STR0001#ALL#Report of events by employee. Through the parameters              
+0002#STR0002#ALL#the user can filter the events to be printed.              
+0003#STR0003#ALL#Z.form 
+0004#STR0004#ALL#Management 
+0005#STR0005#ALL#Events by employee         
+0006#STR0006#ALL#From branch?   					
+0007#STR0007#ALL#From cost center?   
+0008#STR0008#ALL#To cost center?      
+0009#STR0009#ALL#From employee 
+0010#STR0010#ALL#To employee    
+0011#STR0011#ALL#From date?
+0012#STR0012#ALL#To date?  
+0013#STR0013#ALL#Sort events by:         
+0014#STR0014#ALL#Registr. 
+0015#STR0015#ALL#C.C.and Reg.
+0016#STR0016#ALL#Event number 
+0017#STR0017#ALL#Branch        Name                             Reg. No.   Employee Name                      Cost C.             Cost C. Description
+0018#STR0018#ALL#       Occurrence  Date       Seriousness           Occurrence descript.
+0019#STR0019#ALL#Branch        Branch Name                             Cost C.             Cost C. Description
+0020#STR0020#ALL#Registr.: 
+0021#STR0021#ALL#      Occurrence  Date       Seriousness          Occurrence descript.
+0022#STR0022#ALL#Event        Description of event
+0023#STR0023#ALL#         Reg. No.   Employee Name                      Cost C.             Cost C. Description         Date       Severity
+0024#STR0024#ALL#Nothing to be printed on the report.   
+0025#STR0025#ALL#Oral warning      
+0026#STR0026#ALL#Written warning    
+0027#STR0027#ALL#Suspension
+0028#STR0028#ALL#Dismissal
+0029#STR0029#ALL#Employee name:   
+0030#STR0030#ALL#To branch?  
+0031#STR0031#ALL#Branch:
+0032#STR0032#ALL#Branch name:
+0033#STR0033#ALL#Name
+0034#STR0034#ALL#C.C.andName
+0035#STR0035#ALL#Reg. No.   Employee Name                      Cost C.              Cost C. Description
+0036#STR0036#ALL#       Occurrence  Date       Gravity               Occurrence Description
+0037#STR0037#ALL#C. Center             C. Center Description
+0038#STR0038#ALL#      Occurrence  Date       Gravity              Occurrence Description
+0039#STR0039#ALL#Occurrence   Occurrence Description
+0040#STR0040#ALL#         Reg. No.                      Employee Name              Cost C.         Cost C. Description          Date       Severity
+0041#STR0041#ALL#Customer/Store: 
+0042#STR0042#ALL#Order occurrences by ?
+0043#STR0043#ALL#To Date?
+0044#STR0044#ALL#To Employee?
+0045#STR0045#ALL#From Employee?
+0046#STR0046#ALL#Unit
+0047#STR0047#ALL#From Customer?
+0048#STR0048#ALL#To Customer?

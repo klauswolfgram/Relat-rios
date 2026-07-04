@@ -1,0 +1,12 @@
+0001#STR0001#ALL#A Imprimir DAV
+0003#STR0003#ALL#DOCUMENTO AUXILIAR DE VENDA - ORÇAMENTO
+0006#STR0006#ALL#Identificação do Estabelecimento Emitente
+0010#STR0010#ALL#Nr.Contribuinte: 
+0011#STR0011#ALL#Nr. do Documento: 
+0012#STR0012#ALL#Nr. do Documento Fiscal: 
+0013#STR0013#ALL#Elem.
+0022#STR0022#ALL#Conforme previsto no ACTO COTEPE/ICMS 14, DE 16 DE MARÇO DE 2011, é vedada a reimpressão do DAV
+0023#STR0023#ALL#Já foi emitido Cupão Fiscal para essa conta, é vedada a impressão do DAV
+0024#STR0024#ALL#Aguarde. A abrir a impressora fiscal...
+0025#STR0025#ALL#Aguarde. A fechar a impressora fiscal...
+0028#STR0028#ALL#DAV cancelada. Impressão não permitida

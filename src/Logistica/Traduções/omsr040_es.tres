@@ -1,0 +1,44 @@
+0001#STR0001#ALL#Rendicion de Cuentas (Verificacion)
+0002#STR0002#ALL#Este informe imprimira la verificacion efectuada en las
+0003#STR0003#ALL#cargas segun los parametros informados por el usuario
+0004#STR0004#ALL#FORMA  DESCRIPCION                       TOTAL              DEVOLUCION         TOTAL POR           REALIZADO       DIFERENCIA
+0005#STR0005#ALL#PAGO                                                                            COBRAR
+0006#STR0006#ALL#CARGA   : 
+0007#STR0007#ALL#VEHICULO : 
+0008#STR0008#ALL#CONDUCTOR : 
+0009#STR0009#ALL#PESO    :
+0010#STR0010#ALL#VOLUMEN M3 : 
+0011#STR0011#ALL#PTOS ENTREGA : 
+0012#STR0012#ALL#VALOR : 
+0013#STR0013#ALL#FECHA   :
+0014#STR0014#ALL# A LAS 
+0015#STR0015#ALL#EMISION : 
+0016#STR0016#ALL#USUARIO :
+0017#STR0017#ALL#CONDUCTOR :
+0018#STR0018#ALL#TOTAL => 
+0019#STR0019#ALL#Por Carga
+0020#STR0020#ALL#Por Emision
+0021#STR0021#ALL#Por Conductor
+0022#STR0022#ALL#Devoluciones indefinidas:
+0023#STR0023#ALL#ANULADO POR EL OPERADOR
+0024#STR0024#ALL#-TESORERIA
+0025#STR0025#ALL#Rendicion de Cuentas (Verificac.)	
+0026#STR0026#ALL#Este informe imprimira la Verificacion realizada en las
+0027#STR0027#ALL#cargas segun los parametros informados por el usuario
+0028#STR0028#ALL#Usuario
+0029#STR0029#ALL#Descripc.
+0030#STR0030#ALL#Devoluc.
+0031#STR0031#ALL#Total por Cobr.
+0032#STR0032#ALL#Diferenc.
+0033#STR0033#ALL#Por Carga
+0034#STR0034#ALL#Por Emision
+0035#STR0035#ALL#Por Conductor
+0036#STR0036#ALL#T O T A L =>
+0037#STR0037#ALL#Forma de Pago
+0038#STR0038#ALL#-TESORERIA
+0039#STR0039#ALL#Devoluc. indefinidas :
+0040#STR0040#ALL#Carga
+0041#STR0041#ALL#Detalles Carga
+0042#STR0042#ALL#Verificac.
+0043#STR0043#ALL#Detalles
+0044#STR0044#ALL#Conduct.

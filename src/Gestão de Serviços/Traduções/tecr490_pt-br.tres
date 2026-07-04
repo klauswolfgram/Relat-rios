@@ -1,0 +1,30 @@
+0001#STR0001#ALL#Comparativo Atendimento X Ordem de Servico
+0002#STR0002#ALL#    Este programa emite um Comparativo dos itens utilizados no atendimento da 
+0003#STR0003#ALL#Ordem de Servico com os itens efetivamente cobrados, conforme os parametros   
+0004#STR0004#ALL#Solicitados
+0005#STR0005#ALL#OS
+0006#STR0006#ALL#Cliente
+0007#STR0007#ALL#Produto/Eqto
+0008#STR0008#ALL#Zebrado
+0009#STR0009#ALL#Administracao
+0010#STR0010#ALL#NR.OS     CLIENTE   PRODUTO/EQTO    OCORRENCIA/PROBLEMA         PRODUTO         MOEDA   <                 UTILIZADO                > <                  COBRADO                 > <          DIFERENCA         >
+0011#STR0011#ALL#                                                                                          QUANTIDADE          VALOR          TOTAL     QUANTIDADE          VALOR          TOTAL      QUANTIDADE          VALOR
+0012#STR0012#ALL#[ OS ]
+0013#STR0013#ALL#[ CLIENTE ]
+0014#STR0014#ALL#[ PRODUTO ]
+0015#STR0015#ALL#CANCELADO PELO OPERADOR
+0016#STR0016#ALL#CLIENTE: 
+0017#STR0017#ALL#PRODUTO/EQTO: 
+0018#STR0018#ALL#TOTAL DO CLIENTE: 
+0019#STR0019#ALL#TOTAL DO PRODUTO: 
+0020#STR0020#ALL#TOTAL GERAL: 
+0021#STR0021#ALL#Produto
+0022#STR0022#ALL#Qtde Utiliz
+0023#STR0023#ALL#Valor Utiliz
+0024#STR0024#ALL#Total Utiliz
+0025#STR0025#ALL#Qtde Cobrada
+0026#STR0026#ALL#Valor Cobrado
+0027#STR0027#ALL#Total Cobrado
+0028#STR0028#ALL#Qtde (Difer.)
+0029#STR0029#ALL#Valor (Difer.)
+0030#STR0030#ALL#Itens da ordem de serviço

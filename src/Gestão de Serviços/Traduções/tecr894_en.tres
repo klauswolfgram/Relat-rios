@@ -1,0 +1,30 @@
+0001#STR0001#ALL#Destination/Outflow
+0002#STR0002#ALL#Printer
+0003#STR0003#ALL#Save to disk
+0004#STR0004#ALL#Save as
+0005#STR0005#ALL#PDF
+0006#STR0006#ALL#DOC
+0007#STR0007#ALL#MS Word version
+0008#STR0008#ALL#Word 97/2003
+0009#STR0009#ALL#Word 2010/2013
+0010#STR0010#ALL#This program is used to print the Uniform Delivery Term
+0011#STR0011#ALL#Using the integration with Microsoft Word. The printing template must be
+0012#STR0012#ALL#Available in the folder:
+0013#STR0013#ALL#Parameters
+0014#STR0014#ALL#Uniform Delivery Term print
+0015#STR0015#ALL#Wait...
+0016#STR0016#ALL#Printing document
+0017#STR0017#ALL#ATTENTION
+0018#STR0018#ALL#Unable to generate document in PFD format for Microsoft Word version 97/2003 The format will be readjusted to DOC.
+0019#STR0019#ALL#OK
+0020#STR0020#ALL#File
+0021#STR0021#ALL#does not exist! Contact the System administrator.
+0022#STR0022#ALL#File
+0023#STR0023#ALL#Select folder to save.
+0024#STR0024#ALL#Process canceled by the user
+0025#STR0025#ALL#You are not allowed to save in current folder Select another one.
+0026#STR0026#ALL#Unable to transfer Word template of the server to your desktop. Restart. If the problem continues, contact the system Administrator.
+0027#STR0027#ALL#Unable to connect to MS-Word.
+0028#STR0028#ALL#Printing/Generation successful.
+0029#STR0029#ALL#There is no data to print. Check the entered parameters.
+0030#STR0030#ALL#Unable to connect to MS-Word.

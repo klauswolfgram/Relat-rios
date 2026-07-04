@@ -1,0 +1,24 @@
+0001#STR0001#ALL#Geração do relatório ADO (Análise diária da oficina)
+0002#STR0002#ALL#para camiões e ônibus VW/MAN
+0014#STR0014#ALL#Ordem de serviço
+0022#STR0022#ALL#Veículos atendidos
+0026#STR0026#ALL#Secção
+0033#STR0033#ALL#Estação
+0036#STR0036#ALL#Venda material
+0042#STR0042#ALL#Venda mão de obra
+0044#STR0044#ALL#Outras vendas
+0051#STR0051#ALL#Data inicial
+0052#STR0052#ALL#Data final
+0053#STR0053#ALL#Sec.Serv.Rápido
+0060#STR0060#ALL#Grupo peças
+0061#STR0061#ALL#Grupo acessórios
+0062#STR0062#ALL#Grupo out.merc.
+0066#STR0066#ALL#Tipo ônibus
+0067#STR0067#ALL#Tipo camiões
+0071#STR0071#ALL#T.T.Inter.Revisão
+0072#STR0072#ALL#Tipo.Relatório
+0074#STR0074#ALL#Camiões
+0078#STR0078#ALL#Não foi encontrada regra para a secção 
+0079#STR0079#ALL#Factura não encontrada para OS 
+0082#STR0082#ALL#Nenhum registo encontrado.
+0084#STR0084#ALL#Int.Revisão

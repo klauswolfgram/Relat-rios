@@ -1,0 +1,39 @@
+0001#STR0001#ALL#Relatorio de Movimentações de Instrumentos
+0002#STR0002#ALL# entre Filiais.
+0003#STR0003#ALL#|---------------------------- Emprestimo ----------------------------|     |---------------------------- Recebimento ----------------------------| 
+0004#STR0004#ALL#Instrumento        Rev  Fil  Data      Hora   Respons.    Nome                  Fil Departamento         Data      Hora   Repons.     Nome                  Fil Departamento     Tipo Moviment.  Tipo Devolução
+0005#STR0005#ALL#Relatorio de movimentações de instrumentos entre filiais
+0006#STR0006#ALL#Selecionando Instrumentos ...
+0007#STR0007#ALL#*** CANCELADO PELO OPERADOR ***
+0008#STR0008#ALL#Instrumento -----> 
+0009#STR0009#ALL# - Revisão : 
+0010#STR0010#ALL#Empréstimo
+0011#STR0011#ALL#Calibração
+0012#STR0012#ALL#Devol. Obrigatória
+0013#STR0013#ALL#Devol. Não Obrigatória
+0014#STR0014#ALL#Justificativa : 
+0015#STR0015#ALL#Devolução
+0016#STR0016#ALL#Zebrado
+0017#STR0017#ALL#Administracao
+0018#STR0018#ALL#LEGENDA DAS FILIAIS
+0019#STR0019#ALL#FILIAL     DESCRICÃO
+0020#STR0020#ALL#LEGENDA DOS DEPARTAMENTOS POR FILIAL
+0021#STR0021#ALL#FILIAL  DEPTO             DESCRICÃO
+0022#STR0022#ALL#Rev
+0023#STR0023#ALL#Fil
+0024#STR0024#ALL# -- Data
+0025#STR0025#ALL#Hora
+0026#STR0026#ALL#Nome
+0027#STR0027#ALL#Departamento
+0028#STR0028#ALL#____________  E
+0029#STR0029#ALL#Empréstimo
+0030#STR0030#ALL#____________ Re
+0031#STR0031#ALL#Recebimento
+0032#STR0032#ALL#Tipo
+0033#STR0033#ALL#Movimentação
+0034#STR0034#ALL#FILIAL
+0035#STR0035#ALL#DESCRICÃO
+0036#STR0036#ALL#DEPARTAMENTO
+0037#STR0037#ALL#Instrumento: 
+0038#STR0038#ALL#Respons.
+0039#STR0039#ALL#NAO HOUVE MOVIMENTACÃO PARA OS PARAMETROS ESPECIFICADOS

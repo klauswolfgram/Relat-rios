@@ -1,0 +1,46 @@
+0001#STR0001#ALL#Informe de graduacion de Factores vs. Empleados
+0002#STR0002#ALL#Se imprimira de acuerdo con los parametros solicitados por
+0003#STR0003#ALL#el usr. 
+0004#STR0004#ALL#A Rayas
+0005#STR0005#ALL#Administrac. 
+0006#STR0006#ALL#MATR.   NOM.                            FC.NACI.     FC.INGRE.     EST.CIVIL
+0007#STR0007#ALL#Grupo
+0008#STR0008#ALL#Centro de costo :
+0009#STR0009#ALL#Cargo
+0010#STR0010#ALL#FACTOR NECESARIO                  GRADUACION EMPLEADO
+0011#STR0011#ALL#FACTOR NECESARIO                  GRADUACION EMPLEADO                PUNTOS
+0012#STR0012#ALL#                                                         T O T A L :
+0013#STR0013#ALL#DESCRIPC. DETALLADA FACTOR  
+0014#STR0014#ALL# *** No existe Descrip. detallada del Factor *** 
+0015#STR0015#ALL#OBSERVACION FACTOR DEL EMPLEADO
+0016#STR0016#ALL# *** No existe ninguna observac.para este Factor*** 
+0017#STR0017#ALL#Empleado   
+0018#STR0018#ALL#Graduacion del Empleado
+0019#STR0019#ALL#Grd. Cargo
+0020#STR0020#ALL#Puntos
+0021#STR0021#ALL#Grd. Empl
+0022#STR0022#ALL#Estado Civil
+0023#STR0023#ALL#Factores vs. Empleados
+0024#STR0024#ALL#Ctr Empleados
+0025#STR0025#ALL#Cod. Grupo
+0026#STR0026#ALL#Descripcion
+0027#STR0027#ALL#Cod. Centro de Costo
+0028#STR0028#ALL#Cod. Cargo
+0029#STR0029#ALL#Cod. Matricula
+0030#STR0030#ALL#Nombre
+0031#STR0031#ALL#Fch.Nac.
+0032#STR0032#ALL#Fch. Ingr.
+0033#STR0033#ALL#Est. Civil
+0034#STR0034#ALL# T O T A L: 
+0035#STR0035#ALL#Cod.
+0036#STR0036#ALL#Factor Necesario
+0037#STR0037#ALL#Graduacion Empleado
+0038#STR0038#ALL#Puntos
+0039#STR0039#ALL#Este programa emite Informe de Graduacion de Factores vs. Empleados
+0040#STR0040#ALL#Centro de costo
+0041#STR0041#ALL#Factor y Grado
+0042#STR0042#ALL#Descripción detallada factor
+0043#STR0043#ALL#SUCURSAL
+0044#STR0044#ALL#GAP
+0045#STR0045#ALL#Grado necesario
+0046#STR0046#ALL#***No existe graduación registrada para este factor***

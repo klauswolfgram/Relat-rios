@@ -1,0 +1,48 @@
+0001#STR0001#ALL#Relatório das ocorrências por funcionário. Através dos parâmetros 
+0002#STR0002#ALL#o usuário poderá filtrar quais ocorrências deseja imprimir.
+0003#STR0003#ALL#Zebrado
+0004#STR0004#ALL#Administracao
+0005#STR0005#ALL#Ocorrências por Funcionário
+0006#STR0006#ALL#De Filial ?    					
+0007#STR0007#ALL#De Centro de Custo ?
+0008#STR0008#ALL#Até Centro de Custo ?
+0009#STR0009#ALL#De Funcionário
+0010#STR0010#ALL#Até Funcionário
+0011#STR0011#ALL#De Data ?
+0012#STR0012#ALL#Até Data ?
+0013#STR0013#ALL#Ordenar Ocorrências por:
+0014#STR0014#ALL#Matrícula
+0015#STR0015#ALL#C.C. e Matr.
+0016#STR0016#ALL#N° ocorrência
+0017#STR0017#ALL#Filial        Nome                             Matrícula   Funcionário                      C. Custo             Descrição C. Custo
+0018#STR0018#ALL#       Ocorrência  Data       Gravidade             Descrição Ocorrência
+0019#STR0019#ALL#Filial        Nome                             C. Custo             Descrição C. Custo
+0020#STR0020#ALL#Matrícula:
+0021#STR0021#ALL#      Ocorrência  Data       Gravidade            Descrição Ocorrência
+0022#STR0022#ALL#Ocorrência   Descrição Ocorrência
+0023#STR0023#ALL#         Matrícula   Funcionário                      C. Custo             Descrição C. Custo         Data       Gravidade
+0024#STR0024#ALL#Não há nada para imprimir no relatório.
+0025#STR0025#ALL#Advertência Verbal
+0026#STR0026#ALL#Advertência Escrita
+0027#STR0027#ALL#Suspensão
+0028#STR0028#ALL#Demissão
+0029#STR0029#ALL#Nome Funcionário:
+0030#STR0030#ALL#Até Filial ?
+0031#STR0031#ALL#Filial:
+0032#STR0032#ALL#Nome Filial:
+0033#STR0033#ALL#Nome
+0034#STR0034#ALL#C.C. e Nome
+0035#STR0035#ALL#Matrícula   Funcionário                      C. Custo              Descrição C. Custo
+0036#STR0036#ALL#       Ocorrência  Data       Gravidade             Descrição Ocorrência
+0037#STR0037#ALL#C. Custo              Descrição C. Custo
+0038#STR0038#ALL#      Ocorrência  Data       Gravidade            Descrição Ocorrência
+0039#STR0039#ALL#Ocorrência   Descrição Ocorrência
+0040#STR0040#ALL#         Matrícula   Funcionário                      C. Custo              Descrição C. Custo         Data       Gravidade
+0041#STR0041#ALL#Cliente/Loja: 
+0042#STR0042#ALL#Ordenar Ocorrências por ?
+0043#STR0043#ALL#Ate Data ?
+0044#STR0044#ALL#Até Funcionário ?
+0045#STR0045#ALL#De Funcionário ?
+0046#STR0046#ALL#Loja
+0047#STR0047#ALL#De Cliente ?
+0048#STR0048#ALL#Até Cliente ?

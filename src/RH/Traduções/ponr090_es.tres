@@ -1,0 +1,60 @@
+0001#STR0001#ALL#Informe de resultados
+0002#STR0002#ALL#Se imprimira de acuerdo con los parametros solicitados por
+0003#STR0003#ALL#el usuario.
+0004#STR0004#ALL#Matricula
+0005#STR0005#ALL#Centro de costo
+0006#STR0006#ALL#Nombre
+0007#STR0007#ALL#A Rayas
+0008#STR0008#ALL#Administracion
+0009#STR0010#ALL#Salir
+0010#STR0011#ALL#Confirmar
+0011#STR0012#ALL#RESULTADOS POR CODIGO
+0012#STR0013#ALL#RESULTADOS DEL RELOJ REGISTRADOR 
+0013#STR0016#ALL#¿Comprime caract. de impresora para 18 CPI?
+0014#STR0017#ALL#¿Comprime caract. de impresora para 18 CPI?
+0015#STR0018#ALL#                                                                          |-  RECURSOS    -|
+0016#STR0019#ALL#SC C.COSTO              MAT.   NOMBRE                               COD DESCRIPCION         HORAS                  
+0017#STR0020#ALL#SC C.COSTO              MAT.   NOMBRE
+0018#STR0021#ALL#    HORAS
+0019#STR0022#ALL#T O T A L
+0020#STR0023#ALL#Empresa: 
+0021#STR0024#ALL#D E     E M P L E A D O      
+0022#STR0025#ALL#D E     C E N T R O  D E  C O S T O
+0023#STR0026#ALL#D E     S U C U R S A L            
+0024#STR0027#ALL#D E     E M P R E S A              
+0025#STR0028#ALL#C.Costo+Nombre
+0026#STR0029#ALL#Empleados
+0027#STR0030#ALL#TOTAL 
+0028#STR0031#ALL#DE HORAS
+0029#STR0032#ALL#Codigo
+0030#STR0033#ALL#Horas
+0031#STR0034#ALL#COD 01
+0032#STR0035#ALL#COD 02
+0033#STR0036#ALL#COD 03
+0034#STR0037#ALL#COD 04
+0035#STR0038#ALL#COD 05
+0036#STR0039#ALL#COD 06
+0037#STR0040#ALL#COD 07
+0038#STR0041#ALL#COD 08
+0039#STR0042#ALL#COD 09
+0040#STR0043#ALL#COD 10
+0041#STR0044#ALL#Procesando....
+0042#STR0045#ALL#T O T A L     
+0043#STR0046#ALL#Emite Lista de Resultados del Reloj Electronico.
+0044#STR0047#ALL#Formato Vertical - Datos de los empleados
+0045#STR0048#ALL#Formato Vertical - Resultados por codigo
+0046#STR0049#ALL#Formato Horizontal - Datos de Empleados y Resultados
+0047#STR0050#ALL#TOTAL EMPLEADO: 
+0048#STR0051#ALL#TOTAL CENTRO DE COSTO: 
+0049#STR0052#ALL#TOTAL SUCURSAL: 
+0050#STR0053#ALL#Seleccione la opcion de impresion:
+0051#STR0054#ALL#Por Periodo
+0052#STR0055#ALL#Por Fechas
+0053#STR0056#ALL#Departamento
+0054#STR0057#ALL#Atención
+0055#STR0058#ALL#La fecha inicial es superior a la fecha final.
+0056#STR0059#ALL#La fecha actual es superior al período de apunte pendiente.
+0057#STR0060#ALL#Días
+0058#STR0061#ALL#Valor
+0059#STR0062#ALL#DE DÍAS
+0060#STR0063#ALL#DE VALOR

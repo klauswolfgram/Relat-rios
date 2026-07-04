@@ -1,0 +1,23 @@
+0001#STR0001#BRA#Purchase with Future Delivery
+0002#STR0002#BRA#Relation of Purchase Balance with Future Delivery
+0003#STR0003#BRA#Processes
+0004#STR0004#BRA#Invoiced
+0005#STR0005#BRA#Shipment
+0006#STR0006#BRA#Balance
+0007#STR0007#BRA#TIO
+0008#STR0008#BRA#CFOP
+0009#STR0009#BRA#Cost
+0010#STR0010#BRA#Process Total
+0011#STR0011#BRA#M.U.
+0012#STR0012#BRA#* The term Undoing refers to the cancellation of contract with supplier, so that no more shipping of goods will occur.
+0013#STR0013#BRA#In this case, balance related to purchase process with future delivery is closed.
+0014#STR0014#BRA#Type
+0015#STR0015#BRA#Invoice
+0016#STR0016#BRA#Series
+0017#STR0017#BRA#Item
+0018#STR0018#BRA#Supplier
+0019#STR0019#BRA#Store
+0020#STR0020#BRA#Order
+0021#STR0021#BRA#It.Order
+0022#STR0022#BRA#Product
+0023#STR0023#BRA#Description

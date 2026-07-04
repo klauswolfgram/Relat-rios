@@ -1,0 +1,48 @@
+0002#STR0002#ALL#De acordo com os parâmetros pedidos pelo
+0003#STR0003#ALL#Utilizador.
+0004#STR0004#ALL#Emissão da Listagem de Fluxo de Contas
+0005#STR0005#ALL#Código de barras
+0006#STR0006#ALL#Administração
+0007#STR0007#ALL#FLUXO DE CONTAS (ANALÍTICO) DE 
+0008#STR0008#ALL#FLUXO DE CONTAS (SINTÉTICO) DE 
+0009#STR0009#ALL# até 
+0010#STR0010#ALL#Data
+0011#STR0011#ALL#Lote/sub/doc/linha  H I S T ó R I C O
+0011#STR0011#ANG#LOTE/SUB/DOC/LINHA  H I S T Ó R I C O
+0011#STR0011#EQU#LOTE/SUB/DOC/LINHA  H I S T Ó R I C O
+0011#STR0011#HAI#LOTE/SUB/DOC/LINHA  H I S T Ó R I C O
+0011#STR0011#MEX#Lote/sub/doc/linha  H I S T ó R I C O
+0011#STR0011#PTG#Lote/sub/doc/linha  H I S T ó R I C O
+0012#STR0012#ALL#Data                                                                          Movimentos               Saldos
+0013#STR0013#ALL#A Criar Ficheiro Temporário...
+0014#STR0014#ALL#Emissão Do Movimento De Contas
+0015#STR0015#ALL#***** cancelado pelo operador *****
+0016#STR0016#ALL#Conta - 
+0017#STR0017#ALL#S a l d o   i n i c i a l ==> 
+0018#STR0018#ALL#A transportar : 
+0019#STR0019#ALL#Total de saídas  ==> 
+0020#STR0020#ALL#D i s p o n í v e l ==> 
+0021#STR0021#ALL#Total de entradas ==> 
+0022#STR0022#ALL#S a l d o   f i n a l ==> 
+0023#STR0023#ALL#Devem ser criados os parâmetros mv_lrazabe e mv_lrazenc. 
+0024#STR0024#ALL#Utilize Como Base O Parâmetro Mv_ldiarab.
+0025#STR0025#ALL#A Seleccionar Registos...
+0026#STR0026#ALL#Conta
+0027#STR0027#ALL#Conta Sem Movimento No Período
+0028#STR0028#ALL#Sem Movimento No Período
+0029#STR0029#ALL#De transporte : 
+0030#STR0030#ALL#Movimentos                    Saldos
+0031#STR0031#ALL#Analítico
+0032#STR0032#ALL#Sintético
+0033#STR0033#ALL#Movimentos
+0034#STR0034#ALL#Descrição
+0035#STR0035#ALL#Data
+0036#STR0036#ALL#C Custo
+0037#STR0037#ALL#ITEM CONTAB.
+0038#STR0038#ALL#Cód. Cl. Val.
+0039#STR0039#ALL#Movimentos
+0040#STR0040#ALL#Saldos
+0041#STR0041#ALL#Lote/sub/doc./linha
+0042#STR0042#MEX#Lote/sub./plz/linea
+0042#STR0042#PTG#Lote/sub./plz/linea
+0043#STR0043#ALL#H I S T ó R I C O

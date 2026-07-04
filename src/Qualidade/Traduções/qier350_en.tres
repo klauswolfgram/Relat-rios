@@ -1,0 +1,17 @@
+0001#STR0002#ALL#A-Insured   
+0002#STR0003#ALL#B-Qualified  
+0003#STR0004#ALL#C-Pre-Qualified  
+0004#STR0005#ALL#D-N/Qualified 
+0005#STR0006#ALL#Vendor    
+0006#STR0007#ALL#Status  
+0007#STR0008#ALL#Previous
+0008#STR0009#ALL#Curr.
+0009#STR0010#ALL#Date
+0010#STR0011#ALL#Change   
+0011#STR0012#ALL#Justification for change    
+0012#STR0013#ALL#Vendor status - Product vs. Vendors            
+0013#STR0014#ALL#Generating view. Wait ...        
+0014#STR0015#ALL#Vendor status         
+0015#STR0016#ALL#All  
+0016#STR0017#ALL#Select default
+0017#STR0018#ALL#Product

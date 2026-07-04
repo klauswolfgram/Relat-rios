@@ -1,0 +1,51 @@
+0001#STR0001#ALL#Relação Das Movimentações Internas
+0002#STR0002#ALL#Lista  as  movimentações  internas  da empresa  ,ou seja ,requisições ,
+0004#STR0004#ALL# código produto 
+0005#STR0005#ALL# ordem produção 
+0006#STR0006#ALL# classificação  
+0007#STR0007#ALL# tipo produto   
+0008#STR0008#ALL# grupo produto  
+0009#STR0009#ALL# centro custo   
+0010#STR0010#ALL# conta contabilística 
+0011#STR0011#ALL# n.º documento  
+0012#STR0012#ALL#Código de barras
+0013#STR0013#ALL#Administração
+0014#STR0014#ALL#Movimento(s)
+0015#STR0015#ALL#Armazém                    Quantidade                            Custo                 Custo
+0016#STR0016#ALL#                 Entrada                   Saída              Unitário                 Total
+0017#STR0017#ALL#......... total do produto 
+0018#STR0018#ALL#......... total da ordem de produção 
+0019#STR0019#ALL#A Seleccionar Registos...
+0020#STR0020#ALL#......... total da classificação 
+0021#STR0021#ALL#......... total do tipo 
+0022#STR0022#ALL#......... total do grupo 
+0023#STR0023#ALL#......... total do centro de custo 
+0024#STR0024#ALL#......... total da conta 
+0025#STR0025#ALL#......... total do documento 
+0026#STR0026#ALL#Cancelado Pelo Operador
+0027#STR0027#ALL#Código : 
+0028#STR0028#ALL#   descrição : 
+0029#STR0029#ALL#   tipo : 
+0030#STR0030#ALL#   grupo : 
+0031#STR0031#ALL#   um : 
+0032#STR0032#ALL#<- Total Artigo
+0033#STR0033#ALL#Quantidade na seg. um (
+0034#STR0034#ALL#): entrada -> 
+0035#STR0035#ALL#Saída -> 
+0036#STR0036#ALL#<- total geral ->
+0037#STR0037#ALL# ** cc não registado ** 
+0038#STR0038#ALL#    TIPO DE     TIPO    ORDEM DE IT SEQ SEQUÊNCIA CENTRO                  CONTA           DOCUMENTO   EMISSÃO    NOME DO
+0039#STR0039#ALL#    MOVIMENTO   RE/DE   PRODUÇÃO                  CUSTO                  CONTABILÍSTICO                          UTILIZADOR
+0040#STR0040#ALL# (por 
+0042#STR0042#ALL#   descr. de armazém : 
+0043#STR0043#ALL#Entrada
+0044#STR0044#ALL#Saída  
+0045#STR0045#ALL#Custo Unitário
+0047#STR0047#ALL#Ordem De Produção
+0048#STR0048#ALL#Elemento
+0050#STR0050#ALL#Total De Artigo
+0051#STR0051#ALL#Artigos
+0052#STR0052#ALL#Itens De Movimentação Interna
+0053#STR0053#ALL#  tipo tipo   ordem de art. seq  sequência centro                  conta             documento            emissão      nome do  
+0054#STR0054#ALL#  Mov. Re/de  Produção                      Custo                  Contabilístico                                    Utilizador
+0055#STR0055#ALL#Total Geral Qtde.2a.um:

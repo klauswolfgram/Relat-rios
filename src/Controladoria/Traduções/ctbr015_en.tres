@@ -1,0 +1,12 @@
+0001#STR0001#ALL#Parameters
+0002#STR0002#ALL#Entity: 
+0003#STR0003#ALL#Column 1: 
+0004#STR0004#ALL#Column 2: 
+0005#STR0005#ALL#Column 3: 
+0006#STR0006#ALL#Column 4: 
+0007#STR0007#ALL#Attention!
+0008#STR0008#ALL#First, select the entity
+0009#STR0009#ALL#Contents already selected. Please, select another type
+0010#STR0010#ALL#None
+0011#STR0011#ALL#Function available to TReport only. Check MV_TREPORT parameter
+0012#STR0012#ALL#The typification fields are not in use. Please, check the data dictionary

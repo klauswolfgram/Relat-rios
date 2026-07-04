@@ -1,0 +1,30 @@
+0001#STR0001#ALL#Relatorio de todos os Movimentos de Distribuicao cadastrados no armazem com as informacoes
+0002#STR0002#ALL#utilizadas no armazem
+0003#STR0003#ALL#Zebrado
+0004#STR0004#ALL#Administracao
+0005#STR0005#ALL#Indicadores de Produtividade
+0006#STR0006#ALL#           Produto         Quantidade         Data Inicial   Hora Inicial   Data Final   Hora Final   Total de Horas
+0007#STR0007#ALL#                           Quantidade                                                                 Total de Horas
+0008#STR0008#ALL#Selecionando Registros ...
+0009#STR0009#ALL#CANCELADO PELO OPERADOR
+0010#STR0010#ALL#Armazem  : 
+0011#STR0011#ALL#Servico  : 
+0012#STR0012#ALL#Tarefa   : 
+0013#STR0013#ALL#Atividade: 
+0014#STR0014#ALL#Recurso Humano  : 
+0015#STR0015#ALL#Recurso Fisico : 
+0016#STR0016#ALL#Unitizador : 
+0017#STR0017#ALL#Total Geral: 
+0018#STR0018#ALL#Quantidade
+0019#STR0019#ALL#Total de Horas
+0020#STR0020#ALL#Movimentos por endereco
+0021#STR0021#ALL#Servico/Tarefa/Atividade
+0022#STR0022#ALL#Recurso Humano/Fisico/Unitizador
+0023#STR0023#ALL#Analitico/Totais
+0024#STR0024#ALL#Servico
+0025#STR0025#ALL#Tarefa
+0026#STR0026#ALL#Atividade
+0027#STR0027#ALL#Recurso
+0028#STR0028#ALL#Recurso Humano
+0029#STR0029#ALL#Recurso Fisico
+0030#STR0030#ALL#Unitizador

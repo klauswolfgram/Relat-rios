@@ -1,0 +1,87 @@
+0001#STR0001#ALL#Checklist Apqp A2
+0002#STR0002#ALL#A Visualizar, Aguarde...
+0003#STR0003#ALL#  A. Geral
+0004#STR0004#ALL#O projecto exige :
+0005#STR0005#ALL# novos materiais ?
+0006#STR0006#ALL# ferramentas especiais ?
+0007#STR0007#ALL# foi considerada a análise de variação de montagem ?
+0008#STR0008#ALL# foi considerado delineamento de experimentações ?
+0009#STR0009#ALL# existe algum plano para protótipos em andamento ?
+0010#STR0010#ALL# o dfmea foi completado ?
+0011#STR0011#ALL# o dfma foi completado ?
+0012#STR0012#ALL# foram consideradas questões relativas à assistência
+0013#STR0013#ALL# técnica e manutenção ?
+0014#STR0014#ALL# o plano de verificação do projecto foi completado ?
+0015#STR0015#ALL# em caso positivo, foi completado por uma equipa
+0016#STR0016#ALL#Multifuncional ?
+0017#STR0017#ALL# foram claramente definidos e comprometidos todos os
+0018#STR0018#ALL# testes, métodos, equipamentos e critérios de aceitação ?
+0019#STR0019#ALL# foram seleccionadas as características especiais ?
+0020#STR0020#ALL# a lista de materiais/peças está completa ?
+0021#STR0021#ALL# as características especiais estão apropriadamente
+0023#STR0023#ALL#  B. Desenhos De Engenharia
+0024#STR0024#ALL# foram identificadas as dimensões que afectam o ajuste,
+0025#STR0025#ALL# funções e durabilidade ?
+0026#STR0026#ALL# foram identificadas as dimensões de referência para
+0027#STR0027#ALL# minimizar o tempo de desenho de inspecção ?
+0028#STR0028#ALL# existem pontos de controlo e superfícies de referência
+0029#STR0029#ALL# suficientemente identificados para projectar dispositivos
+0031#STR0031#ALL# as tolerâncias são compatíveis com aceitáveis normas de
+0032#STR0032#ALL# manufactura ?
+0033#STR0033#ALL# existem quaisquer requisitos especificados que não
+0034#STR0034#ALL# possam ser avaliados através de técnicas de inspecção
+0036#STR0036#ALL#  C. Especificações De Desempenho De Engenharia
+0037#STR0037#ALL# todas as características especiais foram
+0039#STR0039#ALL# a quantidade de ensaios é suficiente para oferecer
+0040#STR0040#ALL# todas as condições, ou seja, validação de produção
+0041#STR0041#ALL# e utilização final ?
+0042#STR0042#ALL# peças fabricadas nas especificações mínimas e
+0043#STR0043#ALL# máximas foram testadas ?
+0044#STR0044#ALL# amostras adicionais podem ser testadas quando algum
+0045#STR0045#ALL# plano de reacção assim exigir e ainda conduzir os
+0047#STR0047#ALL# todos os ensaios de artigo serão feitos internamente ?
+0048#STR0048#ALL# em caso contrário, eles serão efectuados por um 
+0050#STR0050#ALL# é viável a frequência e tamanho da amostragem para
+0052#STR0052#ALL# se necessário, foi obtida aprovação do cliente para
+0054#STR0054#ALL#  D. Especificação De Materiais
+0055#STR0055#ALL# as características especiais de material estão
+0056#STR0056#ALL# os materiais, tratamento térmico e tratamento de
+0057#STR0057#ALL# superfície especificados são compatíveis com a
+0059#STR0059#ALL# os fornecedores do material previsto estão na lista
+0061#STR0061#ALL# será solicitado aos fornecedores de material
+0063#STR0063#ALL# foram identificadas características de material
+0064#STR0064#ALL# que necessitam de inspecção ?
+0065#STR0065#ALL# em caso positivo, 
+0066#STR0066#ALL#* as características serão verificadas internamente ?
+0067#STR0067#ALL#* o equipamento de teste está disponível ?
+0068#STR0068#ALL#* haverá a necessidade de treino para assegurar
+0070#STR0070#ALL# serão utilizados laboratórios externos ?
+0071#STR0071#ALL# todos os laboratórios utilizados são credenciados
+0072#STR0072#ALL# (se necessário) ?
+0073#STR0073#ALL# foram considerados os seguintes requisitos materiais ?
+0074#STR0074#ALL#* manuseio ?
+0075#STR0075#ALL#* armazenamento ?
+0076#STR0076#ALL#* ambiental ?
+0078#STR0078#ALL# A-2 Lista De Verificação De Informação Do Projecto
+0079#STR0079#ALL#Número Da Peça Interno Ou Do Cliente
+0082#STR0082#ALL#Não
+0083#STR0083#ALL#Comentários / Acção Requerida
+0084#STR0084#ALL#Pessoa Responsável
+0086#STR0086#ALL#Data De Revisão
+0087#STR0087#ALL#Página 
+0091#STR0091#ALL#As Técnicas de inspecção conhecidas podem
+0092#STR0092#ALL#medir todos os requisitos do projecto?
+0093#STR0093#ALL#O processo de gestão de alterações de
+0095#STR0095#ALL#fazer a gestão das alterações de engenharia?
+0101#STR0101#ALL#consistentes com os volumes de manufactura?
+0111#STR0111#ALL#teste está disponível ?
+0112#STR0112#ALL# Manuseio, que inclui aspectos ambientais ?
+0113#STR0113#ALL#Armazenamento, que inclui aspectos ambientais ?
+0114#STR0114#ALL#A Composição dos materiais / Substâncias foram
+0125#STR0125#ALL#A DFMA (Projecto para Manufacturabilidade e Montagem)
+0126#STR0126#ALL#foi concluída ?
+0127#STR0127#ALL#Existem pontos de controlo e superfícies de 
+0128#STR0128#ALL#referência suficientes identificados para projectar
+0130#STR0130#ALL#As caracteristícas especiais foram identificadas?
+0132#STR0132#ALL# Todos os testes de producto serão feitos internamente?
+0134#STR0134#ALL#Quando a Organização for responsável pelo projecto, os materiais

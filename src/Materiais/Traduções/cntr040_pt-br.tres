@@ -1,0 +1,77 @@
+0001#STR0001#ALL#Medições
+0002#STR0002#ALL#Este relatório irá emitir uma relação de medições, exibindo suas respectivas 
+0003#STR0003#ALL#multas/bonificações, descontos e cauções retidas. Favor verificar os  
+0004#STR0004#ALL#parâmetros do relatório.
+0005#STR0005#ALL#Processando
+0006#STR0006#ALL#Medições
+0007#STR0007#ALL#Multas/Bonificações
+0008#STR0008#ALL#Descontos
+0009#STR0009#ALL#Retenção-Cauções
+0010#STR0010#ALL#Multas
+0011#STR0011#ALL#Bonificações
+0012#STR0012#ALL#Total de Multas:
+0013#STR0013#ALL#Total de Bonificações:
+0014#STR0014#ALL#Total:
+0015#STR0015#ALL#Num. Medição
+0016#STR0016#ALL#BOLETIM DE MEDIÇÃO DE SERVIÇOS
+0017#STR0017#ALL#Medição
+0018#STR0018#ALL#Contrato
+0019#STR0019#ALL#Planilha
+0020#STR0020#ALL#Fornecedor
+0021#STR0021#ALL#Valor do Contrato
+0022#STR0022#ALL#Venc. do Contrato
+0023#STR0023#ALL#Período
+0024#STR0024#ALL#Data
+0025#STR0025#ALL#Item
+0026#STR0026#ALL#Produto
+0027#STR0027#ALL#Descrição
+0028#STR0028#ALL#Unid.
+0029#STR0029#ALL#Vl. Unit.
+0030#STR0030#ALL#Qtd. Total
+0031#STR0031#ALL#Acum. Anter.
+0032#STR0032#ALL#Qtd. Med.
+0033#STR0033#ALL#Acum. Tot.
+0034#STR0034#ALL#Vl. Acum.
+0035#STR0035#ALL#Vl. Medição
+0036#STR0036#ALL#Vl. Acum. Tot.
+0037#STR0037#ALL#Total da Medição
+0038#STR0038#ALL#Descontos
+0039#STR0039#ALL#Multas
+0040#STR0040#ALL#Vl Bruto
+0041#STR0041#ALL#Retenção
+0042#STR0042#ALL#IRRF
+0043#STR0043#ALL#ISS
+0044#STR0044#ALL#INSS
+0045#STR0045#ALL#Vl. Liq.
+0046#STR0046#ALL#Data Prevista para Pagamento:
+0047#STR0047#ALL#Recebido em: ____ / ____ / ____
+0048#STR0048#ALL#SETOR FINANCEIRO
+0049#STR0049#ALL#% Medição
+0050#STR0050#ALL#% Acumulado
+0051#STR0051#ALL#Fatura:
+0052#STR0052#ALL#Enc. Adm. Fin.:
+0053#STR0053#ALL#Check list para liberação de Pagamento de Medição:
+0054#STR0054#ALL#Comprovante de recisões dos contratos de trabalho.
+0055#STR0055#ALL#GRP'S de recolhim. INSS específico da matric. da obra.
+0056#STR0056#ALL#Folhas e/ou recibos de pagamento salários func.
+0057#STR0057#ALL#Comprovante dos mat. e equip. utilizados pelo subemp. na obra.
+0058#STR0058#ALL#Nota fiscal dos serviçoes executados.
+0059#STR0059#ALL#Comprovante de recolhimento de FGTS e relação func.
+0060#STR0060#ALL#Se final assinatura do distrato.
+0061#STR0061#ALL#Declaro concordar com os valores e quantidades constantes nesta medição, 
+0062#STR0062#ALL#não restando nada a medir até esta data.
+0063#STR0063#ALL#VERIFICAÇÃO SETOR TÉCNICO
+0064#STR0064#ALL#CONTRATADA
+0065#STR0065#ALL#Autorização Conselho Gestor:
+0066#STR0066#ALL#PIS
+0067#STR0067#ALL#COFINS
+0068#STR0068#ALL#CSLL
+0069#STR0069#ALL#Retenção para Seguridade Social
+0070#STR0070#ALL#Mão de Obra
+0071#STR0071#ALL#Material/Equipamentos
+0072#STR0072#ALL#Cliente
+0073#STR0073#ALL#Revisão
+0074#STR0074#ALL#Bonificação
+0075#STR0075#ALL#Itens da Medição
+0076#STR0076#ALL#Forn./Cliente
+0077#STR0077#ALL#Totalizadores

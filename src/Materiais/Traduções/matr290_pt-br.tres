@@ -1,0 +1,33 @@
+0001#STR0001#ALL#Relacao para Analise dos Estoques
+0002#STR0002#ALL#Este relatorio demonstra a situacao de cada item em relacao ao
+0003#STR0003#ALL#seu saldo , seu empenho , suas entradas previstas e sua classe
+0004#STR0004#ALL#ABC.
+0005#STR0005#ALL# Por Codigo         
+0006#STR0006#ALL# Por Tipo           
+0007#STR0007#ALL# Por Descricao     
+0008#STR0008#ALL# Por Grupo        
+0009#STR0009#ALL#Zebrado
+0010#STR0010#ALL#Administracao
+0011#STR0011#ALL#CODIGO          DESCRICAO                       TP GRUP UM       SALDO EM   EMPENHO PARA           SC's PC's/CONTRATOS           OP's           PV's       PONTO DE         LOTE   PRAZO  ESTOQUE   CONSUMO     ULTIMA   CL  
+0012#STR0012#ALL#                                                                  ESTOQUE REQ/PV/RESERVA      COLOCADAS      COLOCADOS      COLOCADAS      COLOCADOS         PEDIDO    ECONOMICO ENTREGA EM MESES     MEDIO      SAIDA       
+0013#STR0013#ALL#CANCELADO PELO OPERADOR
+0014#STR0014#ALL#T o t a l  d o   T i p o : 
+0015#STR0015#ALL#T o t a l   d o   G r u p o : 
+0016#STR0016#ALL#T o t a l   G e r a l :
+0017#STR0020#ALL# Por Consumo       
+0018#STR0021#ALL#Selecionando Registros...
+0019#STR0022#ALL#PRODUTO(S)
+0020#STR0023#ALL#Atualizar 
+0021#STR0024#ALL#SCs
+0022#STR0025#ALL#Colocadas
+0023#STR0026#ALL#PCs
+0024#STR0027#ALL#Colocados
+0025#STR0028#ALL#OPs
+0026#STR0029#ALL#PVs
+0027#STR0030#ALL#Estoque
+0028#STR0031#ALL#em Meses
+0029#STR0032#ALL#  N/D
+0030#STR0033#ALL#CL
+0031#STR0034#ALL#Produtos
+0032#STR0035#ALL#Tp
+0033#STR0036#ALL#UM

@@ -1,0 +1,30 @@
+0001#STR0001#ALL#Este relatorio ira imprimir uma relacao dos projetos, sua estrutura e detalhes como data inicial, data final, duracao, etc . conforme os parametros solicitados.
+0002#STR0002#ALL#Estrutura do Projeto
+0003#STR0003#ALL#Zebrado
+0004#STR0004#ALL#Administracao
+0005#STR0005#ALL#TP.  CODIGO        DESCRICAO                                                              UM |     QUANT.PREV.   DURACAO  DT.INIC.  DT.FINAL     %PROG   |      QUANT.REAL.   DURACAO  DT.INIC.   DT.FINAL    %REAL.
+0006#STR0006#ALL#Projeto : 
+0007#STR0007#ALL#Cliente : 
+0008#STR0008#ALL#Versao : 
+0009#STR0009#ALL# Data : 
+0010#STR0010#ALL#Trf.
+0011#STR0011#ALL#TP.  CODIGO DA TAREFA                                                                     UM |     QUANT.PREV.   DURACAO  DT.INIC.  DT.FINAL     %PROG   |      QUANT.REAL.   DURACAO  DT.INIC.   DT.FINAL    %REAL.	
+0012#STR0012#ALL#TP.  DESCRICAO DA TAREFA                                                                  UM |     QUANT.PREV.   DURACAO  DT.INIC.  DT.FINAL     %PROG   |      QUANT.REAL.   DURACAO  DT.INIC.   DT.FINAL    %REAL.
+0013#STR0013#ALL#Previsto
+0014#STR0014#ALL#Realizado
+0015#STR0015#ALL#Prog.
+0016#STR0016#ALL#Real.
+0017#STR0017#ALL#Quantidade
+0018#STR0018#ALL#EDT
+0019#STR0019#ALL#TP.
+0020#STR0020#ALL#Código
+0021#STR0021#ALL#Descrição
+0022#STR0022#ALL#UM
+0023#STR0023#ALL#Duração
+0024#STR0024#ALL#Dt.Inic.
+0025#STR0025#ALL#Dt.Final
+0026#STR0026#ALL#                             DADOS DA EDT/TAREFA                                             |                         PREVISTO                          |                           REALIZADO                      
+0027#STR0027#ALL#Projeto
+0028#STR0028#ALL#Tarefa
+0029#STR0029#ALL#EDT
+0030#STR0030#ALL#*** CANCELADO PELO USUARIO ***

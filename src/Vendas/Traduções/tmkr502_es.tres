@@ -1,0 +1,23 @@
+0001#STR0001#ALL#Comparador de Indicadores de Help Desk
+0002#STR0002#ALL#Este programa emitira una lista de llamadas que se ajustan a la comparacion de indicadores de informes. La comparacion ocurrira con base en los parametros del informe.
+0003#STR0003#ALL#Grupo
+0004#STR0004#ALL#Llamadas
+0005#STR0005#ALL#Anal. Sintetica
+0006#STR0006#ALL#Equipo
+0007#STR0007#ALL#Analista
+0008#STR0008#ALL#Cliente
+0009#STR0009#ALL#Descrip.
+0010#STR0010#ALL#Prod.
+0011#STR0011#ALL#Equipo
+0012#STR0012#ALL#Analista
+0013#STR0013#ALL#Repetic.
+0014#STR0014#ALL#Codigo
+0015#STR0015#ALL#Descrip.
+0016#STR0016#ALL#Indicador 1
+0017#STR0017#ALL#Indicador 2
+0018#STR0018#ALL#Participacion del Indic. 2(%)
+0019#STR0019#ALL#Total de llamadas que atienden
+0020#STR0020#ALL#Porcentaje que representa 
+0021#STR0021#ALL#con relac. a 
+0022#STR0022#ALL#Resultados por equipo
+0023#STR0023#ALL#Total de llamadas 

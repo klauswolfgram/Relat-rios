@@ -1,0 +1,29 @@
+0001#STR0001#ALL#Relação de Aniversariantes do Mês
+0002#STR0002#ALL#Será impresso de acordo com os parametros solicitados pelo
+0003#STR0003#ALL#usuário.
+0004#STR0004#ALL#Matricula
+0005#STR0005#ALL#Centro de Custo
+0006#STR0006#ALL#Nome
+0007#STR0007#ALL#Chapa
+0008#STR0008#ALL#Data Nascimento
+0009#STR0009#ALL#Zebrado
+0010#STR0010#ALL#Administraçäo
+0011#STR0011#ALL# RELAÇÃO DE ANIVERSARIANTES DO MÊS 
+0012#STR0012#ALL#FILIAL   C. CUSTO              MATR.   NOME                                  DATA DE      ESTADO                  
+0013#STR0013#ALL#                                                                             NASCIMENTO    CIVIL                   
+0014#STR0014#ALL#FILIAL   C. CUSTO              CHAPA  MATR.    NOME                                DATA DE      ESTADO             
+0015#STR0015#ALL#                                                                                   NASCIMENTO    CIVIL              
+0016#STR0016#ALL#SALARIO
+0017#STR0017#ALL#Selecionando Registros...
+0018#STR0018#ALL#SOLTEIRO
+0019#STR0019#ALL#CASADO
+0020#STR0020#ALL#VIUVO
+0021#STR0021#ALL#DIVORCIADO
+0022#STR0022#ALL#DESQUITADO
+0023#STR0023#ALL#MARITAL
+0024#STR0024#ALL#Este programa emite Relação de Aniversariantes do Mês.
+0025#STR0025#ALL#Aniversário
+0026#STR0026#ALL#Funcionarios
+0027#STR0027#ALL#OUTROS
+0028#STR0028#ALL#UNIÃO ESTÁVEL
+0029#STR0029#ALL#Descr. Centro de Custo

@@ -1,0 +1,123 @@
+0001#STR0001#ALL#Informe de Rechazos - Tablas Utilizadas
+0002#STR0002#ALL#La tabla 
+0003#STR0003#ALL# no esta correctamente creada en la base de datos.
+0004#STR0004#ALL#Las tablas 
+0005#STR0005#ALL# no estan correctamente creada en la base de datos.
+0006#STR0006#ALL#OK
+0007#STR0007#ALL#Informe Rechazos
+0008#STR0008#ALL#PMSR390
+0009#STR0009#ALL#-Sustentacion
+0010#STR0010#ALL#-Innovacion
+0011#STR0011#ALL#Sust_Proyecto
+0012#STR0012#ALL#Producto
+0013#STR0013#ALL#Criticidad
+0014#STR0014#ALL#Llamado
+0015#STR0015#ALL#FNC
+0016#STR0016#ALL#Rev. FNC
+0017#STR0017#ALL#Cod.Rutina
+0018#STR0018#ALL#Fecha SLO
+0019#STR0019#ALL#Sust_Detalles
+0020#STR0020#ALL#Tipo Rechazo
+0021#STR0021#ALL#Motivo  Rechazo
+0022#STR0022#ALL#Fecha Rechazo
+0023#STR0023#ALL#Cod. Accion
+0024#STR0024#ALL#Rev. Cod. Accion
+0025#STR0025#ALL#TI Origen
+0026#STR0026#ALL#Etapa Origen
+0027#STR0027#ALL#TI Destino
+0028#STR0028#ALL#Etapa Destino
+0029#STR0029#ALL#Estatus
+0030#STR0030#ALL#Fecha Conclusion
+0031#STR0031#ALL#Inov_Proyecto
+0032#STR0032#ALL#Proyecto
+0033#STR0033#ALL#Tarea Requisito
+0034#STR0034#ALL#Fecha Finalizacion
+0035#STR0035#ALL#Desc. Requisito
+0036#STR0036#ALL#Inov_Detalles
+0037#STR0037#ALL#Tipo Rechazo
+0038#STR0038#ALL#Motivo  Rechazo
+0039#STR0039#ALL#Fecha Rechazo
+0040#STR0040#ALL#Tarea Origen
+0041#STR0041#ALL#Desc. Tarea Origen
+0042#STR0042#ALL#Tarea Destino
+0043#STR0043#ALL#Desc. Tarea Destino
+0044#STR0044#ALL#Codigo del Area: 
+0045#STR0045#ALL# a: 
+0046#STR0046#ALL#Etapa de: 
+0047#STR0047#ALL#Etapa Para: 
+0048#STR0048#ALL#Proyectos: 
+0049#STR0049#ALL#De Tarea: 
+0050#STR0050#ALL#A Tarea: 
+0051#STR0051#ALL#Pendiente
+0052#STR0052#ALL#Concluido
+0053#STR0053#ALL#Total de Llamados Rechazados: 
+0054#STR0054#ALL#Total general de Rechazados: 
+0055#STR0055#ALL#Total por tipo de Rechazo: 
+0056#STR0056#ALL#Total de Requisitos Rechazados: 
+0057#STR0057#ALL#Total general de Rechazados: 
+0058#STR0058#ALL#Total por tipo de Rechazo: 
+0059#STR0059#ALL#SIN TIPO DE RECHAZO
+0060#STR0060#ALL#LEYENDA:
+0061#STR0061#ALL#Descripcion tipo de Rechazo
+0062#STR0062#ALL#Cantidad
+0063#STR0063#ALL#Porcentaje
+0064#STR0064#ALL#Tipo de Informe 
+0065#STR0065#ALL#Sustentacion
+0066#STR0066#ALL#Inovacion
+0067#STR0067#ALL#Del Area 
+0068#STR0068#ALL#A l Area 
+0069#STR0069#ALL#Etapa Origen 
+0070#STR0070#ALL#Etapa Destino 
+0071#STR0071#ALL#De Producto 
+0072#STR0072#ALL#A Producto 
+0073#STR0073#ALL#Criticidad 
+0074#STR0074#ALL#Planificada/Baja
+0075#STR0075#ALL#Promedio
+0076#STR0076#ALL#Alta
+0077#STR0077#ALL#Critica
+0078#STR0078#ALL#Todos
+0079#STR0079#ALL#Del Llamado 
+0080#STR0080#ALL#Al Llamado 
+0081#STR0081#ALL#De la Rutina 
+0082#STR0082#ALL#A la Rutina 
+0083#STR0083#ALL#De Fecha de Rechazo 
+0084#STR0084#ALL#A Fecha de Rechazo
+0085#STR0085#ALL#TI de Origen 
+0086#STR0086#ALL#TI de destino 
+0087#STR0087#ALL#De Tipo de Rechazo 
+0088#STR0088#ALL#A Tipo de Rechazo
+0089#STR0089#ALL#Proyectos (Separados por ';') 
+0090#STR0090#ALL#De la tarea 
+0091#STR0091#ALL#A la Tarea 
+0092#STR0092#ALL#De Fecha de Rechazo 
+0093#STR0093#ALL#Hasta la fecha de Rechazo 
+0094#STR0094#ALL#TI de Origen
+0095#STR0095#ALL#TI de destino
+0096#STR0096#ALL#De Tipo de Rechazo de 
+0097#STR0097#ALL#Hasta el Tipo Rechazo 
+0098#STR0098#ALL#Proyectos
+0099#STR0099#ALL#que se consideraran en la seleccion de los
+0100#STR0100#ALL#datos para el informe
+0101#STR0101#ALL#Tarea inicial
+0102#STR0102#ALL#que se consideraran en la seleccion de los
+0103#STR0103#ALL#Tarea final
+0104#STR0104#ALL#Fecha inicial de los rechazos
+0105#STR0105#ALL#Fecha final de los rechazos
+0106#STR0106#ALL#TIs de Origen
+0107#STR0107#ALL#TIs de Destino
+0108#STR0108#ALL#Tipo de rechazo inicial
+0109#STR0109#ALL#que se consideraran en la seleccion de los
+0110#STR0110#ALL#Tipo de rechazo final
+0111#STR0111#ALL#Area inicial
+0112#STR0112#ALL#Area Final
+0113#STR0113#ALL#Etapa de origen del rechazo
+0114#STR0114#ALL#Etapa de destino del rechazo
+0115#STR0115#ALL#Producto inicial
+0116#STR0116#ALL#Producto final
+0117#STR0117#ALL#Nivel de clasificacion
+0118#STR0118#ALL#Llamado inicial
+0119#STR0119#ALL#Llamado final
+0120#STR0120#ALL#Rutina inicial
+0121#STR0121#ALL#Rutina final
+0122#STR0122#ALL#Layout a considerar en la
+0123#STR0123#ALL#emision del informe

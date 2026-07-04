@@ -1,0 +1,7 @@
+0001#STR0001#ALL#Referential Plan
+0002#STR0002#ALL#This program prints the register of referential chart of accounts and the standard plan accounts associated to it.
+0003#STR0003#ALL#Accounts
+0004#STR0004#ALL#Synthetic
+0005#STR0005#ALL#Analytic
+0006#STR0006#ALL#Function available TReport only. Check MV_TREPORT parameter
+0007#STR0007#ALL#Account Description

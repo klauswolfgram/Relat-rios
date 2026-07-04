@@ -1,0 +1,49 @@
+0001#STR0001#ALL#FICHA DE RECONOCIMIENTO DE LOS ENTORNOS DE TRABAJO
+0002#STR0002#ALL#por medio de los parametros selecionar los items que deben considerarse
+0003#STR0003#ALL#en el informe.
+0004#STR0004#ALL#A rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#¿Cliente ?
+0007#STR0007#ALL#Tienda
+0008#STR0008#ALL#¿Laudo ?
+0009#STR0009#ALL#¿Observaciones ?
+0010#STR0010#ALL#¿Imp. Luminosidad ?
+0011#STR0011#ALL#Si
+0012#STR0012#ALL#No
+0013#STR0013#ALL#¿Imp. Ruido ?
+0014#STR0014#ALL#Informe el codigo del cliente para impresion de la Ficha de Reconocimiento de los Entornos de Trabajo.
+0015#STR0015#ALL#Informe la tienda vinculada al cliente para impresion de la Ficha de Reconocimiento de los Entornos de Trabajo.
+0016#STR0016#ALL#Informe el laudo que se considerara en la impresion.
+0017#STR0017#ALL#Informe el codigo del termino descriptivo que se utilizara como observacion en la impresion.
+0018#STR0018#ALL#Indique si desea imprimir la cantidad de agente para riesgos luminosidad.
+0019#STR0019#ALL#Indique si desea imprimir la cantidad de agente para riesgos ruido.
+0020#STR0020#ALL#Luminosidad
+0021#STR0021#ALL#Ruido
+0022#STR0022#ALL#Centro de Costo
+0023#STR0023#ALL#Fecha Analisis
+0024#STR0024#ALL#Ruido
+0025#STR0025#ALL#Observaciones
+0026#STR0026#ALL#Riesgos Detectados
+0027#STR0027#ALL#Fisico
+0028#STR0028#ALL#Ecologico
+0029#STR0029#ALL#Biologico
+0030#STR0030#ALL#Ergonomico
+0031#STR0031#ALL#Accidente
+0032#STR0032#ALL#Descripcion de los Riesgos
+0033#STR0033#ALL#Fuentes Generadoras
+0034#STR0034#ALL#QUIMICOS
+0035#STR0035#ALL#BIOLOGICOS
+0036#STR0036#ALL#ERGONOMICOS
+0037#STR0037#ALL#Funciones Existentes
+0038#STR0038#ALL#Trabajadores
+0039#STR0039#ALL#Masculino
+0040#STR0040#ALL#Femenino
+0041#STR0041#ALL#Medidas de Control Existentes en el Local de Trabajo
+0042#STR0042#ALL#Agente
+0043#STR0043#ALL#Descripcion
+0044#STR0044#ALL#Seleccionando Registros...
+0045#STR0045#ALL#Luminosidad/Ruido
+0046#STR0046#ALL#Seleccione Agentes validos como 
+0047#STR0047#ALL#Luminosidad/Ruido
+0048#STR0048#ALL#ATENCION
+0049#STR0049#ALL#Debe seleccionarse al menos un agente

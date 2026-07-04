@@ -1,0 +1,37 @@
+0001#STR0001#ALL#Z. Form
+0002#STR0002#ALL#Management
+0003#STR0003#ALL#Medical Prescr.
+0004#STR0004#ALL#CANCELED BY OPERATOR
+0005#STR0005#ALL#Telephone: 
+0006#STR0006#ALL#SMB.:
+0007#STR0007#ALL#No data to print in the report.
+0008#STR0008#ALL#Select print type for the medical prescription.
+0009#STR0009#ALL#Print type
+0010#STR0010#ALL#Via Screen
+0011#STR0011#ALL#Via Printer
+0012#STR0012#ALL#Employee: 
+0013#STR0013#ALL#Cost Center: 
+0014#STR0014#ALL#Extension: 
+0015#STR0015#ALL#MEDICATIONS:
+0016#STR0016#ALL#INTERNAL USE
+0017#STR0017#ALL#EXTERNAL USE
+0018#STR0018#ALL#Doctor:
+0019#STR0019#ALL#CRM:
+0020#STR0020#ALL#Address: 
+0021#STR0021#ALL#Doctor: 
+0022#STR0022#ALL# of 
+0023#STR0023#ALL#Postal Code: 
+0024#STR0024#ALL#PRESCRIPTION
+0025#STR0025#ALL#M.D. 
+0026#STR0026#ALL#CRM
+0027#STR0027#ALL#Number of copies?
+0028#STR0028#ALL#Indicates the quantity of medical prescription copies to be printed
+0029#STR0029#ALL#º Copy
+0030#STR0030#ALL#Age:
+0031#STR0031#ALL#Gender:
+0032#STR0032#ALL#ATTENTION
+0033#STR0033#ALL#The number of copies to be printed cannot be smaller than two.
+0034#STR0034#ALL#Enter at least two copies for printing, please.
+0035#STR0035#ALL#Valid for ten (10) days.
+0036#STR0036#ALL#Unable to generate a medical prescription report for an employee without a medical record
+0037#STR0037#ALL#Add a medical form to an employee.

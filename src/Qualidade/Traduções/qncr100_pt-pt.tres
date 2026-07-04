@@ -1,0 +1,15 @@
+0001#STR0001#ALL#Relatório De Pendentes Por Utilizador.
+0002#STR0002#ALL#Sera impresso de acordo com os parâmetro s solicitados pelo utilizador.
+0003#STR0003#ALL#Registo
+0005#STR0005#ALL#Código de barras
+0006#STR0006#ALL#Administração
+0007#STR0007#ALL#Pendencias Por Utilizador
+0008#STR0008#ALL#A Seleccionar Registos...
+0009#STR0009#ALL#Utilizador:
+0010#STR0010#ALL#Plano de Acção       Dt.Abertura Dt.Enc.Prev. Estado          Tipo
+0011#STR0011#ALL#Ficha N.Conf.       Dt.Abertura Dt.Conc.Prev. Estado          Tipo
+0012#STR0034#ALL#Cancelado Pelo Operador
+0013#STR0035#ALL#Planos/Etapas  Tipo Acção                           % Acção  Previsão
+0014#STR0036#ALL#Planos/fases
+0015#STR0037#ALL#Plano De Acção
+0016#STR0038#ALL#Ficha N.conf.

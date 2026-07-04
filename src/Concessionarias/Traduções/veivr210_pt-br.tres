@@ -1,0 +1,25 @@
+0001#STR0001#ALL#Despesas do Veiculo
+0002#STR0002#ALL#ZEBRADO
+0003#STR0003#ALL#ADMINISTRACAO
+0004#STR0004#ALL#Veiculos do Estoque
+0005#STR0005#ALL#Não ha dados para este chassi
+0006#STR0006#ALL#Tp Operação          Descrição                       Data          Valor
+0007#STR0007#ALL#Placa       
+0008#STR0008#ALL#Chassi
+0009#STR0009#ALL#Cor         
+0010#STR0010#ALL#Modelo
+0011#STR0011#ALL#Ano/Modelo  
+0012#STR0012#ALL#Combustivel
+0013#STR0013#ALL#Total das Receitas-Despesas ................
+0014#STR0014#ALL#Gasolina   
+0015#STR0015#ALL#Alcool     
+0016#STR0016#ALL#Diesel     
+0017#STR0017#ALL#Gas Natural
+0018#STR0018#ALL#Flex
+0019#STR0019#ALL#Placa em branco ou não informada, informe uma placa cadastrada!
+0020#STR0020#ALL#Placa não encontrada, informe uma placa cadastrada!
+0021#STR0021#ALL#Dados do Veículo
+0022#STR0022#ALL#Placa do Veiculo ?
+0023#STR0023#ALL#Chave Veículo?
+0024#STR0024#ALL#Chassi?
+0025#STR0025#ALL#Chassi não encontrada, informe um chassi cadastrado !!!

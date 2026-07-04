@@ -1,0 +1,44 @@
+0001#STR0001#ALL#Emitir o resumo de doencas ocupacionais 
+0002#STR0002#ALL#conforme o Quadro IV da NR4.
+0003#STR0003#ALL#Zebrado
+0004#STR0004#ALL#Administracao
+0005#STR0005#ALL#Doencas Ocupacionais
+0006#STR0006#ALL#CANCELADO PELO OPERADOR
+0007#STR0007#ALL#| DOENCAS OCUPACIONAIS______________________________________________________________________   DATA DO MAPA: ___/___/___ |
+0008#STR0008#ALL#| RESPONSAVEL:__________________________________________________________    ASS:________________________________________ |
+0009#STR0009#ALL#|   Tipo de   | No. Absoluto |   Setores de   | No. Absoluto de |  No. de  | No. de Trabalhadores | No. de Trabalhadores |
+0010#STR0010#ALL#|   Doenca    |   de Casos   | Atividades dos | Casos (% Total  |  Obitos  |  Transferidos Para   |   Definitivamente    |
+0011#STR0011#ALL#|             |              |   Portadores   | dos Empregados) |          |     Outro Setor      |    Incapacitados     |
+0012#STR0012#ALL#RESUMO DAS DOENCAS ENCONTRADAS POR SETORES
+0013#STR0013#ALL#Doenca..:
+0014#STR0014#ALL#Centro de Custo          Nome                       Ocorrencias
+0015#STR0015#ALL#De Cliente ?
+0016#STR0016#ALL#Loja
+0017#STR0017#ALL#Até Cliente ?
+0018#STR0018#ALL#Data do mapa ?
+0019#STR0019#ALL#Data do mapa. Esta pergunta pode permanecer vazia caso se opte por informar manualmente a data do mapa.
+0020#STR0020#ALL#Responsável ?
+0021#STR0021#ALL#Código do responsável. Esta pergunta pode permanecer vazia caso se opte por informar manualmente o nome do responsável.
+0022#STR0022#ALL#| DOENCAS OCUPACIONAIS______________________________________________________________________   DATA DO MAPA:
+0023#STR0023#ALL#| RESPONSAVEL:
+0024#STR0024#ALL#ASS:________________________________________ |
+0025#STR0025#ALL#Imprimir zero (0) ?
+0026#STR0026#ALL#Mesmo que não haja dados o relatório será impresso por força da Lei. Esta pergunta define, nesta ocasião, se deverá ser impresso o valor zero (0) nas colunas, ou se elas deverão ficar vazias.
+0027#STR0027#ALL#Sim
+0028#STR0028#ALL#Não
+0029#STR0029#ALL#0 (zero)
+0030#STR0030#ALL#|             |              | Portadores (*) |   Empregados)   |          |     Outro Setor      |    Incapacitados     |
+0031#STR0031#ALL#|_____________|______________|________________|_________________|__________|______________________|______________________|
+0032#STR0032#ALL#(*) RESUMO DAS DOENCAS ENCONTRADAS POR SETORES
+0033#STR0033#ALL#DADOS DA EMPRESA
+0034#STR0034#ALL#EMPRESA.: 
+0035#STR0035#ALL#CIDADE..: 
+0036#STR0036#ALL#ENDERECO: 
+0037#STR0037#ALL#TELEFONE: 
+0038#STR0038#ALL#Imprimir Total de Empregados ?
+0039#STR0039#ALL#Indica se imprime o total de empregados no relatório.
+0040#STR0040#ALL#TOTAL DE EMPREGADOS: 
+0041#STR0041#ALL#Ate  Data ?
+0042#STR0042#ALL#De  Data ?
+0043#STR0043#ALL#De Filial ?
+0044#STR0044#ALL#Ate Filial ?

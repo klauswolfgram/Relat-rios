@@ -1,0 +1,71 @@
+0001#STR0001#ALL#Zebrado
+0002#STR0002#ALL#Administração
+0003#STR0003#ALL#Demonstrativo de Itens Bloqueados
+0004#STR0004#ALL#Demonstrativo de Itens Reservados
+0005#STR0005#ALL#Criando Arquivo de Trabalho
+0006#STR0006#ALL#............................ G R U P O   D E   P E C A S ...............................
+0007#STR0007#ALL#................................... U S U A R I O ......................................
+0008#STR0008#ALL#........................... C E N T R O   D E   C U S T O ..............................
+0009#STR0009#ALL#.................................... M O T I V O .......................................
+0010#STR0010#ALL#...................................... D A T A .........................................
+0011#STR0011#ALL#------------Peca------------ -----Descricao------   -Qtd.- --Valor---
+0012#STR0012#ALL#Sub Total...............................................
+0013#STR0013#ALL#Total do Usuario..........................................................
+0014#STR0014#ALL#Total do Centro de Custo..................................................
+0015#STR0015#ALL#Total do Motivo...........................................................
+0016#STR0016#ALL#Total da Data.............................................................
+0017#STR0017#ALL#Total Geral.............................................
+0018#STR0018#ALL#Itens Bloqueados/Reservados
+0019#STR0019#ALL#Observação - 
+0020#STR0020#ALL#Itens Bloqueados/Reservados
+0021#STR0021#ALL#Itens
+0022#STR0022#ALL#Grupo
+0023#STR0023#ALL#Descrição
+0024#STR0024#ALL#Codigo
+0025#STR0025#ALL#Local
+0026#STR0026#ALL#Usuario
+0027#STR0027#ALL#C. Custo
+0028#STR0028#ALL#Desc CC
+0029#STR0029#ALL#Motivo
+0030#STR0030#ALL#Des Motiv
+0031#STR0031#ALL#Data
+0032#STR0032#ALL#Cliente
+0033#STR0033#ALL#Fone
+0034#STR0034#ALL#Valor
+0035#STR0035#ALL#Qtdade
+0036#STR0036#ALL#Obs
+0037#STR0037#ALL#Valor Custo
+0038#STR0038#ALL#Valor Venda
+0039#STR0039#ALL#Campo formula do preço da peça deve ser informado
+0040#STR0040#ALL#  Orçamento - Balcão
+0041#STR0041#ALL#  Ordem de Serviço - Oficina
+0042#STR0042#ALL#Formula Preço Peça ?
+0043#STR0043#ALL#Tipo de Relatorio ?
+0044#STR0044#ALL#Valor Considerar ?
+0045#STR0045#ALL#Item Bloqueado
+0046#STR0046#ALL#Item Reservado
+0047#STR0047#ALL#Outros
+0048#STR0048#ALL#Sub-Total............
+0049#STR0049#ALL#TOTAL GERAL..........
+0050#STR0050#ALL#    Vendedor: 
+0051#STR0051#ALL#Itens Bloqueados/Reservados/Requisitados
+0052#STR0052#ALL#Peça
+0053#STR0053#ALL#Num. Orc. / Num. OS
+0054#STR0054#ALL#Qtd.
+0055#STR0055#ALL#Total Peça
+0056#STR0056#ALL#Total Grupo
+0057#STR0057#ALL#Sub Total
+0058#STR0058#ALL#Total Geral
+0059#STR0059#ALL#Demonstrativo de Itens Requisitados
+0060#STR0060#ALL#Armazém
+0061#STR0061#ALL#Item Requisit.
+0062#STR0062#ALL#Este programa tem como objetivo imprimir os demonstrativos de itens bloqueados, reservados ou requisitados
+0063#STR0063#ALL#Demonstrativo de Itens (Todos)
+0064#STR0064#ALL#Todos
+0065#STR0065#ALL#Vendedor / Consultor
+0066#STR0066#ALL#Total Num. Orc. / Num. OS
+0067#STR0067#ALL#Total Vendedor / Consultor
+0068#STR0068#ALL#Agrupar por ?
+0069#STR0069#ALL#Data Abe. / Data Req.
+0070#STR0070#ALL#Orc. / OS
+0071#STR0071#ALL#Vend. / Consu.

@@ -1,0 +1,88 @@
+0001#STR0001#ALL#Este programa imprimirá o aging de Clientes dependendo     
+0002#STR0002#ALL#dos parametros seleccionados.
+0003#STR0003#ALL#Aging
+0004#STR0004#ALL#Dividas Vencidas e por Vencer de Clientes
+0005#STR0005#ALL#
+0006#STR0006#ALL#Administracao
+0007#STR0007#ALL#De Cliente         
+0008#STR0008#ALL#A Cliente          
+0009#STR0009#ALL#De data
+0010#STR0010#ALL#Ate data
+0011#STR0011#ALL#Relatorio          
+0012#STR0012#ALL#Analitico
+0013#STR0013#ALL#Sintetico
+0014#STR0014#ALL#Data de ref.
+0015#STR0015#ALL#Periodos ant.   
+0016#STR0016#ALL#Tipo Intervalo  
+0017#STR0017#ALL#Dias
+0018#STR0018#ALL#Meses
+0019#STR0019#ALL#Informado
+0020#STR0020#ALL#Intervalo       
+0021#STR0021#ALL#Moeda
+0022#STR0022#ALL#Moeda 1
+0023#STR0023#ALL#Moeda 2
+0024#STR0024#ALL#Moeda 3
+0025#STR0025#ALL#Moeda 4
+0026#STR0026#ALL#Moeda 5
+0027#STR0027#ALL#Outras Moedas  ?
+0028#STR0028#ALL#Converter
+0029#STR0029#ALL#Ignorar
+0030#STR0030#ALL#Formato
+0031#STR0031#ALL#Informe
+0032#STR0032#ALL#Planilha
+0033#STR0033#ALL#Separar Cheques ?
+0034#STR0034#ALL#Sim
+0035#STR0035#ALL#Nao
+0036#STR0036#ALL#Uma das datas deve coincidir com a data de Referencia
+0037#STR0037#ALL#Error de sequencia nas datas
+0038#STR0038#ALL# De Emissao: 
+0039#STR0039#ALL#  Ate   : 
+0040#STR0040#ALL#Selecionando Registros...
+0041#STR0041#ALL#Preparando Transitorio...
+0042#STR0042#ALL#Total Cliente: 
+0043#STR0043#ALL#Saldo de Cheques en 
+0044#STR0044#ALL#T o t a l   G e r a l 
+0045#STR0045#ALL#S a l d o   G e r a l   d e   C h e q u e s  N o 
+0046#STR0046#ALL#Vencidos << >> A Vencer  
+0047#STR0047#ALL#Cliente/Nota Fiscal            Vendedor     Ate             A             A             A             A             A             A             A             A             A             A            Post.           Saldo
+0048#STR0048#ALL#Data       Tpo Prf Numero          Parc.
+0049#STR0049#ALL#Cliente : 
+0050#STR0050#ALL#. Endereco  : 
+0051#STR0051#ALL#TEL: 
+0052#STR0052#ALL#VENDEDOR: 
+0053#STR0053#ALL#Data Intervalo 01 
+0054#STR0054#ALL#Data Intervalo 02 
+0055#STR0055#ALL#Data Intervalo 03 
+0056#STR0056#ALL#Data Intervalo 04 
+0057#STR0057#ALL#Data Intervalo 05 
+0058#STR0058#ALL#Data Intervalo 06 
+0059#STR0059#ALL#Data Intervalo 07 
+0060#STR0060#ALL#Data Intervalo 08 
+0061#STR0061#ALL#Data Intervalo 09 
+0062#STR0062#ALL#Data Intervalo 10 
+0063#STR0063#ALL#Data Intervalo 11 
+0064#STR0064#ALL#Processando cliente 
+0065#STR0065#ALL#NOTA DE CREDITO No. 
+0066#STR0066#ALL#NOTA DE DEBITO No. 
+0067#STR0067#ALL#NT.FISCAL No. 
+0068#STR0068#ALL#ADIANT. 
+0069#STR0069#ALL#NOTA DE CRED. INTERNA
+0070#STR0070#ALL#NOTA DE DEB. INTERNA
+0071#STR0071#ALL#CHEQUE
+0072#STR0072#ALL#NAO CLASSIFICADO.
+0073#STR0073#ALL#Vencimento
+0074#STR0074#ALL#Prefixo+Titulo
+0075#STR0075#ALL#Emissao
+0076#STR0076#ALL#Nota Fiscal
+0077#STR0077#ALL#Tipo Serie Numero      Parc
+0078#STR0078#ALL#Saldo
+0079#STR0079#ALL#ate
+0080#STR0080#ALL#   A
+0081#STR0081#ALL#Post
+0082#STR0082#ALL#Cliente
+0083#STR0083#ALL#Titulos a receber
+0084#STR0084#ALL#Venc.<< 
+0085#STR0085#ALL#>>A venc. 
+0086#STR0086#ALL#Tp
+0087#STR0087#ALL#Pref
+0088#STR0088#ALL#Parc

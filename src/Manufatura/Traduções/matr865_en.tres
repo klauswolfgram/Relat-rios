@@ -1,0 +1,21 @@
+0001#STR0001#ALL#Accumulative Load - Per Production Order
+0002#STR0002#ALL#This program will print the Accumulative Load by PO.
+0003#STR0003#ALL#The value referring to hours are converted according 
+0004#STR0004#ALL#to parameter MV_TPHR, (C)entesimals or (N)ormal.
+0005#STR0005#ALL#Z.Form
+0006#STR0006#ALL#Management
+0007#STR0007#ALL#           OPERATION  WORK        STANDARD  OPERATION 
+0008#STR0008#ALL#                      CENTER      TIME      QUANTITY   
+0009#STR0009#ALL#CANCELLED BY THE OPERATOR
+0010#STR0010#ALL#Order of Product.: 
+0011#STR0011#ALL#Quantity:
+0012#STR0012#ALL#PO Fixed
+0013#STR0013#ALL#Product: 
+0014#STR0014#ALL#Production Order:  
+0015#STR0015#ALL#Quantity:
+0016#STR0016#ALL#Product. order
+0017#STR0017#ALL#Operat. 
+0018#STR0018#ALL#Stndrd. Time
+0019#STR0019#ALL#Operation quantity 
+0020#STR0020#ALL#Production Orders 
+0021#STR0021#ALL#Allocated operations Cumulative Load

@@ -1,0 +1,81 @@
+0001#STR0001#ALL#This program will print the Report for Typing
+0002#STR0002#ALL#Checking. It can be printed per Fiscal Document or
+0003#STR0003#ALL#per Account/Fiscal Document.
+0004#STR0004#ALL#Z. Form
+0005#STR0005#ALL#Management
+0006#STR0006#ALL#Typ. Check. Rep. Issue 
+0007#STR0007#ALL# from 
+0008#STR0008#ALL# to 
+0009#STR0009#ALL#FISCAL DOC.                                           DEB VALUE               CRED VALUE    HP   HIST
+0009#STR0009#ANG#FISCAL DOC.                                           DEB VALUE               CRED VALUE    HP   HIST
+0009#STR0009#EQU#FISCAL DOC.                                           DEB VALUE               CRED VALUE    HP   HIST
+0009#STR0009#HAI#FISCAL DOC.                                           DEB VALUE               CRED VALUE    HP   HIST
+0009#STR0009#MEX#FISCAL DOC.                                           DEB VALUE               CRED VALUE    HP   HIST
+0009#STR0009#PTG#FISCAL DOC.                                           DEB VALUE               CRED VALUE    HP   HIST
+0010#STR0010#ALL#***** CANCELLED BY OPERATOR *****
+0011#STR0011#ALL# in 
+0012#STR0012#ALL#Creating Temporary File...
+0013#STR0013#ALL#G R A N D  T O T A L ==> 
+0014#STR0014#ALL#ACCOUNT                                      FISCAL DOC.                                           DEB VALUE               CRED VALUE    HP  HIST
+0014#STR0014#ANG#ACCOUNT                                      FISCAL DOC.                                           DEB VALUE               CRED VALUE    HP  HIST
+0014#STR0014#EQU#ACCOUNT                                      FISCAL DOC.                                           DEB VALUE               CRED VALUE    HP  HIST
+0014#STR0014#HAI#ACCOUNT                                      FISCAL DOC.                                           DEB VALUE               CRED VALUE    HP  HIST
+0014#STR0014#MEX#ACCOUNT                                      FISCAL DOC.                                           DEB VALUE               CRED VALUE    HP  HIST
+0014#STR0014#PTG#ACCOUNT                                      FISCAL DOC.                                           DEB VALUE               CRED VALUE    HP  HIST
+0015#STR0015#ALL#Typing Checking
+0016#STR0016#ALL# per Account/Fiscal Doc.
+0017#STR0017#ALL# per Fiscal Doc.
+0018#STR0018#ALL#DATE: 
+0019#STR0019#ALL#LOT: 
+0020#STR0020#ALL#DOC:
+0020#STR0020#ANG#DOC: 
+0020#STR0020#EQU#DOC: 
+0020#STR0020#HAI#DOC: 
+0020#STR0020#MEX#DOC. 
+0020#STR0020#PTG#DOC. 
+0021#STR0021#ALL#SUB-LOT:
+0022#STR0022#ALL#DEBIT DIF
+0022#STR0022#ANG#DEBIT DIF
+0022#STR0022#EQU#DEBIT DIF
+0022#STR0022#HAI#DEBIT DIF
+0022#STR0022#MEX#DEBIT DIF
+0022#STR0022#PTG#DEBIT DIF
+0023#STR0023#ALL#CREDIT DIF
+0023#STR0023#ANG#CREDIT DIF
+0023#STR0023#EQU#CREDIT DIF
+0023#STR0023#HAI#CREDIT DIF
+0023#STR0023#MEX#CREDIT DIF
+0023#STR0023#PTG#CREDIT DIF
+0024#STR0024#ALL#INFORMED
+0025#STR0025#ALL#TYPED 
+0026#STR0026#ALL#DIFFERENCE
+0027#STR0027#ALL#DOCUMENT TOTAL
+0027#STR0027#ANG#DOCUMENT TOTAL
+0027#STR0027#EQU#DOCUMENT TOTAL
+0027#STR0027#HAI#DOCUMENT TOTAL
+0027#STR0027#MEX#DOCUMENT TOTAL
+0027#STR0027#PTG#DOCUMENT TOTAL
+0028#STR0028#ALL#LOT TOTAL
+0029#STR0029#ALL#This report needs the field CT2_KEY. Please, create it with character type 100
+0030#STR0030#ALL#Lot 
+0031#STR0031#ALL#Date
+0032#STR0032#ALL#Sub-lot
+0033#STR0033#ALL#Document 
+0034#STR0034#ALL#Acct.
+0035#STR0035#ALL#Tax document
+0036#STR0036#ALL#Debit amount
+0036#STR0036#ANG#Debit amount
+0036#STR0036#EQU#Debit amount
+0036#STR0036#HAI#Debit amount
+0036#STR0036#MEX#Debit amount
+0036#STR0036#PTG#Debit amount
+0037#STR0037#ALL#Credit amount
+0037#STR0037#ANG#Credit amount
+0037#STR0037#EQU#Credit amount
+0037#STR0037#HAI#Credit amount
+0037#STR0037#MEX#Credit amount
+0037#STR0037#PTG#Credit amount
+0038#STR0038#ALL#HP
+0039#STR0039#ALL#History  
+0040#STR0040#ALL#Entry     
+0041#STR0041#ALL#Accounting Document History

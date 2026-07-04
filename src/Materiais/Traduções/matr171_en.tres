@@ -1,0 +1,40 @@
+0001#STR0001#ALL#This program will issue the Inflow Bulletim.
+0002#STR0002#ALL#Inflow Bulletim
+0003#STR0003#ALL#Z.Form 
+0004#STR0004#ALL#Management  
+0005#STR0005#ALL#CANCELLED BY THE OPERATOR
+0006#STR0006#ALL#------------------- PRODUCT(s) SENT TO QUALITY CONTROL -------------------------
+0007#STR0007#ALL#Product         Origin.Wrh.  Destin.Wrh.   Tranference Date
+0008#STR0008#ALL#------------------------ DIFFERENCES WITH PURCHASE ORDER      ---------------------------
+0009#STR0009#ALL#There are no divergences in the order(s) 
+0010#STR0010#ALL#Div Number    Product Description               Quantity    Unit Price  Delivery
+0011#STR0011#ALL#There are no divergences in the order(s) 
+0012#STR0012#ALL#No orders
+0013#STR0013#ALL#Book Value:
+0014#STR0014#ALL#Fiscal Classification:
+0015#STR0015#ALL#------------------------------------  OKs  -------------------------------------
+0016#STR0016#ALL#-------------------------------- REMITO DATA -----------------------------------
+0017#STR0017#ALL#Code   Material UN Goods` Description            Quantity          Qtty. 2nd. UM
+0018#STR0018#ALL#TIO Ledger Account        Cost Center       Unit Cost      Group                
+0019#STR0019#ALL#INFLOW BULLETIN         Goods received in:    
+0020#STR0020#ALL# - (Return) 
+0021#STR0021#ALL#Supplier                                  | Remito Number   | Issue Dt | Due Dt.
+0022#STR0022#ALL#------------------------------- CONDUCE DATA -----------------------------------
+0023#STR0023#ALL#------------------------------ GUIA DESP. DATA ---------------------------------
+0024#STR0024#ALL#------------------------------- REMISION DATA ----------------------------------
+0025#STR0025#ALL#Supplier                                  | Conduce Number  | Issue Dt | Due Dt.
+0026#STR0026#ALL#Supplier                                  |Guia Desp. Number| Issue Dt | Due Dt.
+0027#STR0027#ALL#Supplier                                  | Remision Number | Issue Dt | Due Dt.
+0028#STR0028#ALL#Supplier                                  |Num. 
+0029#STR0029#ALL#  | Issue Dt |  Due Dt.
+0030#STR0030#ALL#------------------------------ DATA OF 
+0031#STR0031#ALL#XXXXXXXXXXXXXX
+0032#STR0032#ALL#Group
+0033#STR0033#ALL#No.
+0034#STR0034#ALL#Due Dt
+0035#STR0035#ALL#Inflow remito header          
+0036#STR0036#ALL#Vendor    
+0037#STR0037#ALL#Inflow remito items       
+0038#STR0038#ALL#TIO vs. Cost center  
+0039#STR0039#ALL#QC movements        
+0040#STR0040#ALL#TIO Ldg.Account           Cost Centers                     Group                

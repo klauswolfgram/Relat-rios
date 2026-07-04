@@ -1,0 +1,19 @@
+0001#STR0001#ALL#Este relatório irá imprimir as quantidades previstas para a execução do projecto de acordo com parâmetros solicitados. 
+0002#STR0002#ALL#Quantidades previstas
+0003#STR0003#ALL#Projecto+produto+despesa
+0004#STR0004#ALL#Tarefa+produto+despesa
+0005#STR0005#ALL#Código de barras
+0006#STR0006#ALL#Administração
+0007#STR0007#ALL#Tp.      código                  descrição                       um         quantidade                 valor     %proj.     %acum.
+0008#STR0008#ALL#Tarefa       descrição            tp.     código           descrição       um        quantidade            valor  %proj.  %acum.
+0009#STR0009#ALL#Projecto
+0010#STR0010#ALL#Versão  :
+0012#STR0012#ALL#Total Da Tarefa
+0013#STR0013#ALL#Total Crial........
+0014#STR0014#ALL#Codigo da tarefa                  tp.     codigo           descrição       um        quantidade            valor  %proj.  %acum.
+0015#STR0015#ALL#Descrição da tarefa               tp.     codigo           descrição       um        quantidade            valor  %proj.  %acum.
+0016#STR0016#ALL#Total Do Periodo 
+0017#STR0017#ALL#Total Do Projecto
+0023#STR0023#ALL#Projecto + Artigo + Despesa
+0024#STR0024#ALL#Tarefa + Artigo + Despesa
+0025#STR0025#ALL#*** cancelado pelo utilizador ***

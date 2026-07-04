@@ -1,0 +1,15 @@
+0001#STR0001#ALL#Material Replacement Costs
+0002#STR0002#ALL#This program will print a list of material 
+0003#STR0003#ALL#and its respective Replacement Costs
+0004#STR0004#ALL#Z.Form
+0005#STR0005#ALL#Management
+0006#STR0006#ALL#CODE                          D E S C R I PTION              A GROUP TP         COST FROM   DATE FROM         LAST        DATE
+0007#STR0007#ALL#                                                                                   REPLACEMENT  REFERENCE           LAST PURCHASE PRICE
+0008#STR0008#ALL#CANCELLED BY THE OPERATOR
+0009#STR0009#ALL#In Car Dealers Management the report order is: Group + Item Code.        
+0010#STR0010#ALL#Attention
+0011#STR0011#ALL#Update program patch       
+0012#STR0012#ALL#* GROUP:  
+0013#STR0013#ALL#Products
+0014#STR0014#ALL# (Group)
+0015#STR0015#ALL# Printing 

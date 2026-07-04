@@ -1,0 +1,36 @@
+0001#STR0001#ALL#Daily Summary of Kardex
+0002#STR0002#ALL#This program prints a list, summarized per day, of the transactions of
+0003#STR0003#ALL#the inventory products and material. It groups the inflows and 
+0004#STR0004#ALL#outflows in one only line for each day.      
+0005#STR0005#ALL# Product Code 
+0006#STR0006#ALL# Type of Product
+0007#STR0007#ALL#Z.Form 
+0008#STR0008#ALL#Management   
+0009#STR0009#ALL#DATE OF    |         I  N  F  L  O  W  S           |            O  U  T  F  L  O  W  S     |            B  A  L  A  N  C  E         
+0010#STR0010#ALL#MOVEMENT   |       QUANTITY            TOTAL COST  |       QUANTITY            TOTAL COST  |        QUANTITY             TOTAL VALUE
+0011#STR0011#ALL# (Per 
+0012#STR0012#ALL# ,in 
+0013#STR0013#ALL#CANCELLED BY THE OPERATOR  
+0014#STR0014#ALL#T O T A L S :
+0015#STR0015#ALL#QTY. IN SECOND  UM: 
+0016#STR0016#ALL#NO MOVEMENTS FOUND FOR THIS PRODUCT. 
+0017#STR0017#ALL#Cod: 
+0018#STR0018#ALL#UM: 
+0019#STR0019#ALL#TYPE: 
+0020#STR0020#ALL#GROUP: 
+0021#STR0021#ALL#Warehouse : 
+0022#STR0022#ALL#Total amnt.balance
+0023#STR0023#ALL#Total amnt.balance
+0024#STR0024#ALL#Movement date    
+0025#STR0025#ALL#Inflow quantity      
+0026#STR0026#ALL#Inflow total cost     
+0027#STR0027#ALL#Outflow quantity   
+0028#STR0028#ALL#Outflow total cost  
+0029#STR0029#ALL#Quantity balance   
+0030#STR0030#ALL#Total amnt.balance
+0031#STR0031#ALL#Products
+0032#STR0032#ALL#Product movements        
+0033#STR0033#ALL#Warning
+0034#STR0034#ALL#When changing the warehouse, the unified average cost is dismissed.
+0035#STR0035#ALL#Confirm
+0036#STR0036#ALL#Quit

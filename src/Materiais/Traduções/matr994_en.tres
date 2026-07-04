@@ -1,0 +1,73 @@
+0001#STR0001#ALL#Profits/Cooperative Fund Table '  
+0002#STR0002#ALL#Printing of the Profits/Cooperative Fund Table 
+0003#STR0003#ALL#This program prints the National Taxes, value of    
+0004#STR0004#ALL#Profits/Cooperative Fund, Board No. 4
+0005#STR0005#ALL#Special
+0006#STR0006#ALL#Management
+0007#STR0007#ALL#** CANCELLED BY THE OPERATOR **
+0008#STR0008#ALL#S./SCALE(1)
+0009#STR0009#ALL#                     APPLICABLE SCALE                  (1)                      
+0010#STR0010#ALL#              IMPORTS             |                 DETENTION                   
+0011#STR0011#ALL#         From $  |       to $     |       $        |   More % |     Exceed   $  
+0012#STR0012#ALL# and so on 
+0013#STR0013#ALL# (1) Applicable scale once deduced the minimum does not submit detention      
+0014#STR0014#ALL# (2) Although RG 2892 does not specifically establish any minimum not submitted to  
+0015#STR0015#ALL#     detention for included amount, it is understood that when the price is given as a reward, 
+0016#STR0016#ALL#     the minimum correspondent will be applied to the last amount.        
+0017#STR0017#ALL#                                                                              
+0018#STR0018#ALL# (3) Although RG 2892 does not specifically establish any minimum not submitted to 
+0019#STR0019#ALL#     detention for included amount, it is understood that when the price is given as a reward,   
+0020#STR0020#ALL#     the minimum correspondent will be applied to the last amount.  
+0021#STR0021#ALL#     a esta ultima verba.                                                     
+0022#STR0022#ALL#NATIONAL TAXES                                        PROFIT/COOPERATIVE FUND 
+0023#STR0023#ALL#                                   P R O F I T S                                
+0024#STR0024#ALL#                               B O A R D No. 04                                 
+0025#STR0025#ALL#              GENERAL DETENTIO. 
+0026#STR0026#ALL#  E SS.
+0027#STR0027#ALL#                                    |        RATES            |    IMPORT  NO   
+0028#STR0028#ALL#              CONCEPT               |-------------------------|      SUBMIT     
+0029#STR0029#ALL#                                    | INSCRIPT % | NO INSC.% |    DETENTION    
+0030#STR0030#ALL#Is the form positioned? 
+0031#STR0031#ALL#Try again? 
+0032#STR0032#ALL#From Table        ?
+0033#STR0033#ALL#To   Table        ?
+0034#STR0034#ALL#Current Month     ?
+0035#STR0035#ALL#JANUARY  
+0036#STR0036#ALL#FEBRUARY 
+0037#STR0037#ALL#MARCH    
+0038#STR0038#ALL#APRIL    
+0039#STR0039#ALL#MAY      
+0040#STR0040#ALL#JUNE     
+0041#STR0041#ALL#JULY     
+0042#STR0042#ALL#AUGUST   
+0043#STR0043#ALL#SEPTEMBER 
+0044#STR0044#ALL#OCTOBER  
+0045#STR0045#ALL#NOVEMBER 
+0046#STR0046#ALL#DECEMBER 
+0047#STR0047#ALL#Profits/Cooperative Fund Table    
+0048#STR0048#ALL#The purpose of this program is to print the Federal Taxes, Amounts of Profits/Cooperative Fund, Table Number 4.   
+0049#STR0049#ALL#AMOUNT NOT SUBJECT TO WITHHOLDING 
+0050#STR0050#ALL#PER SCALE(1)
+0051#STR0051#ALL#FEDERAL TAXES                                                                                      PROFITS/COOPERATIVE FUND 
+0052#STR0052#ALL#                                                      P R O F I T S
+0053#STR0053#ALL#                                                   T A B L E     No. 04
+0054#STR0054#ALL#                                        GENERAL WITHHOLDINGS. 
+0055#STR0055#ALL#AND SS.
+0056#STR0056#ALL#Over       $
+0057#STR0057#ALL#Plus   %
+0058#STR0058#ALL#Exceeding  $
+0059#STR0059#ALL#                                           A P P L I C A B L E   S C A L E   (1)
+0060#STR0060#ALL#on       
+0061#STR0061#ALL#                AMOUNTS             |                        WITHHOLDING
+0062#STR0062#ALL# (1) Scale applicable after deducting the minimum not subject to withholding  
+0063#STR0063#ALL# (2) Despite of RG 2892 not establishing specifically any minimum not subject 
+0064#STR0064#ALL#     to withholding for the funds included in this column, we understand that 
+0065#STR0065#ALL#     the minimum established for rental of services is appliccable            
+0066#STR0066#ALL#                                                                              
+0067#STR0067#ALL# (3) In spite of RG 2892 not establishing specifically any minimum not subject
+0068#STR0068#ALL#     to withholdings for the items included, we understand when the price is  
+0069#STR0069#ALL#     paid as bonus, the corresponding minimum is applicable                   
+0070#STR0070#ALL#     to this last item.                                                       
+0071#STR0071#ALL#Tax rates
+0072#STR0072#ALL#Detail 
+0073#STR0073#ALL#Item

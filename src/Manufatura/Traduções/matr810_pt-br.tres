@@ -1,0 +1,20 @@
+0001#STR0001#ALL#Relatorio de PMPs
+0002#STR0002#ALL#Emite a relacao dos PMP cadastrados, de acordo com a filtragem e a
+0003#STR0003#ALL#ordem selecionada pelo usuario. Relaciona os PMP's com as OP's/SC's
+0004#STR0004#ALL#que foram geradas pelos mesmos.
+0005#STR0005#ALL#Por Data
+0006#STR0006#ALL#Por Produto
+0007#STR0007#ALL#Zebrado
+0008#STR0008#ALL#Administracao
+0009#STR0009#ALL#REGISTRO(S)
+0010#STR0010#ALL#DO DIA
+0011#STR0011#ALL#DO PRODUTO
+0012#STR0012#ALL#Selecionando Registros...
+0013#STR0013#ALL#PRODUTO                                                            QUANTIDADE     DATA     STATUS
+0014#STR0014#ALL#ORDEM DE PRODUCAO    PRODUTO            QUANTIDADE   ARMAZ   INIC. PREVISTO   FIM PREVISTO    EMISSAO
+0015#STR0015#ALL#EXECUTADO
+0016#STR0016#ALL#EM ABERTO
+0017#STR0017#ALL#TOTAIS 
+0018#STR0018#ALL#PLANEJADO
+0019#STR0019#ALL#Planos Mestre de Produção
+0020#STR0020#ALL#Ordens de Produção

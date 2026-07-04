@@ -1,0 +1,19 @@
+0001#STR0001#ALL#Este programa irá  emitir a relação das aquisições
+0002#STR0002#ALL#Efectuadas num período.
+0003#STR0003#ALL#Relação dos bens adquiridos
+0006#STR0006#ALL#Data Aquisição
+0007#STR0007#ALL#Base       Item Descrição                                Aquisic.   Quantidade   Nota Fisc. Chapa    Grupo    C. Custo  Morada
+0008#STR0008#ALL#                In.depr.  Tx.depr.       Valor Original    Deprec. Acumulada   Correcção Acumulada  Data Do Levantamento
+0013#STR0013#ALL#Cancelado Pelo Operador
+0014#STR0014#ALL#Fornecedor 
+0015#STR0015#ALL#Conta do artigo         conta correcção       cta.desp.depr.       cta.depr.acum.       cta.corr.depr. 
+0016#STR0016#ALL#Total : 
+0017#STR0017#ALL#Total crial: 
+0018#STR0018#ALL#Código de barras
+0019#STR0019#ALL#Administração
+0020#STR0020#ALL#A Seleccionar Registos...
+0021#STR0021#ALL#Dados Do Bem
+0022#STR0022#ALL#Total Da Conta
+0023#STR0023#ALL#Total Do Centro De Custo
+0024#STR0024#ALL#Total Da Data De Aquisição
+0025#STR0025#ALL#Total da filial:

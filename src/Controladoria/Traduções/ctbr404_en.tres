@@ -1,0 +1,27 @@
+0001#STR0001#ALL#Referential Plan Ledger
+0002#STR0002#ALL#This program prints the reference chart of accounts ledger
+0003#STR0003#ALL#Deb Ref Acc
+0004#STR0004#ALL#Cred Ref Acc
+0005#STR0005#ALL#Account
+0006#STR0006#ALL#Ref Account
+0007#STR0007#ALL#Batch/Sub-batch/Doc/Row
+0008#STR0008#ALL#Type
+0009#STR0009#ALL#Ref Plan and Version not registered in Referential Plan Register.
+0010#STR0010#ALL#Referential Plan and/or Version not completed. 
+0011#STR0011#ALL#Ref. Acc without transaction
+0012#STR0012#ALL#T O T A L
+0013#STR0013#ALL# Report Total 
+0014#STR0014#ALL# Debit Total  
+0015#STR0015#ALL# Credit Total
+0016#STR0016#ALL# Referential Account Total 
+0017#STR0017#ALL#Description
+0018#STR0018#ALL#Date
+0019#STR0019#ALL#Value
+0020#STR0020#ALL#Function available TReport only. Check MV_TREPORT parameter
+0021#STR0021#ALL#Counter Entry
+0022#STR0022#ALL#Balance
+0023#STR0023#ALL#Current balance
+0024#STR0024#ALL#Debit
+0025#STR0025#ALL#Credit
+0026#STR0026#ALL#History
+0027#STR0027#ALL#Version

@@ -1,0 +1,11 @@
+0001#STR0001#ALL#Function available only to TopConnect environments.
+0002#STR0002#ALL#Function available only for TReport, please update environment and check MV_TREPORT parameter
+0003#STR0003#ALL#The start date must be the first day of the month and the end date must be the last day of the month
+0004#STR0004#ALL#The minimum interval of dates is of 2 months and the maximum period is of 12 months 
+0005#STR0005#ALL#12-month Project Statement
+0006#STR0006#ALL#This program issues the valued position of the projects upt to 12 periods 
+0007#STR0007#ALL#Fixed Asset Project
+0008#STR0008#ALL#Project Stage
+0009#STR0009#ALL#Total
+0010#STR0010#ALL#Total per Branch
+0011#STR0011#ALL#Project Total

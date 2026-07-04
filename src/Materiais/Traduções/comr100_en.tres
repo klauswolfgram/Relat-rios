@@ -1,0 +1,28 @@
+0001#STR0001#ALL#List of coverage documents.
+0002#STR0002#ALL#This report shwos the received and pending coverage docuemnts       
+0003#STR0003#ALL#aiming at helping to follow up these documents.           
+0004#STR0004#ALL#Document
+0005#STR0005#ALL#Customer/Supplier+Document  
+0006#STR0006#ALL#Z. form
+0007#STR0007#ALL#Management   
+0008#STR0008#ALL#<--------- Inflow Documnet----------------> <------- Linking Document------------> <--------- Coverage Document---------------> <------------- Outflow Document------------------>                                          
+0009#STR0009#ALL#Series Number     Item Cust./Forn.     Store Ser.Number       Cust./Supplier  Store Ser. Number      Cust./Supplier  Store Term Series Number     Cust./Supplier  Store   Amount   Product            Amount         Balance
+0010#STR0010#ALL#CANCELLED BY OPERATOR  
+0011#STR0011#ALL#Custom.
+0012#STR0012#ALL#Supplier  
+0013#STR0013#ALL#There are no documents listed 
+0014#STR0014#ALL#Grand Total 
+0015#STR0015#ALL#Series
+0016#STR0016#ALL#Number
+0017#STR0017#ALL#Item
+0018#STR0018#ALL#Cust./Suppl.
+0019#STR0019#ALL#Store
+0020#STR0020#ALL#<--Inflow Doc.-->
+0021#STR0021#ALL#<--Doc.Assoc->
+0022#STR0022#ALL#<--Doc.Cov -->
+0023#STR0023#ALL#<--Outfl.Doc-->
+0024#STR0024#ALL#Term 
+0025#STR0025#ALL#Product
+0026#STR0026#ALL#Balance
+0027#STR0027#ALL#Coverage Documents     
+0028#STR0028#ALL#Inflow documents / Balances in third party possession

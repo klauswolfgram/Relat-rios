@@ -1,0 +1,20 @@
+0003#STR0003#ALL#De Poder De Terceiros
+0004#STR0004#ALL# factura 
+0005#STR0005#ALL# cliente/fornecedor 
+0006#STR0006#ALL# produto 
+0007#STR0007#ALL#Código de barras
+0008#STR0008#ALL#Administração
+0009#STR0009#ALL#Registo(s)
+0010#STR0010#ALL#Da Factura:
+0011#STR0011#ALL#Do Cliente/fornecedor:
+0012#STR0012#ALL#Do Produto:
+0013#STR0013#ALL#A Seleccionar Registos...
+0014#STR0014#ALL#Factura        Série Cliente/    Produto          Quantidade                Preço              Valor      Data   De/em  Tes  Tipo
+0015#STR0015#ALL#Fiscal            Fornecedor                                          Unitário                      Emissão   Terc.         Factura
+0018#STR0018#ALL#Saldos De / Em Terceiros
+0019#STR0019#ALL#Nota                     Série  Cliente/    Artigo          Quantidade               Preço               Valor      Data   De/em  Tes  Pedido
+0020#STR0020#ALL#FISCAL                         FORNECEDOR                                           UNITÁRIO                      EMISSÃO   TERC.         FACT		
+0021#STR0021#ALL#FACTURA        SÉRIE CLIENTE/                  ARTIGO          QUANTIDADE                PREÇO              VALOR      DATA   DE/EM  TES  TIPO
+0022#STR0022#ALL#FISCAL            FORNECEDOR                                                        UNITÁRIO                      EMISSÃO   TERC.         NF
+0023#STR0023#ALL#FACTURA                     SÉRIE  CLIENTE/                  ARTIGO           QUANTIDADE              PREÇO              VALOR     DATA    DE/EM   TES  TIPO
+0024#STR0024#ALL#FISCAL                          FORNECEDOR                                                       UNITÁRIO                       EMISSÃO   TERC.         FACT

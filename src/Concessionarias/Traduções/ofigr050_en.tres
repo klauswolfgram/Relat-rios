@@ -1,0 +1,69 @@
+0001#STR0001#ALL#The aim of this program is to print the warranties
+0002#STR0002#ALL#requested to the Assembling Company              
+0003#STR0003#ALL#requested Warranties             
+0004#STR0004#ALL# S.O.No.- Opn.Dt.  In.Chs Vehicle Chassis  -------- Vehicle Model    ------------- Vehicle Owner          --------------------------
+0005#STR0005#ALL#          Gua.T.Rep.Dt.  Tra.Dt.  Sales Dt.Vhc Odome Segment -- DN Rsp AutFab-- NF Part--- Total Parts TpoStd- Total Srvcs Esp Gua--
+0006#STR0006#ALL#Z-Form
+0007#STR0007#ALL#Administration
+0008#STR0008#ALL# from 
+0009#STR0009#ALL# to 
+0010#STR0010#ALL# Warr.Type: 
+0011#STR0011#ALL#requested 
+0012#STR0012#ALL#Rev.Vouchers 
+0013#STR0013#ALL#Both 
+0014#STR0014#ALL#*** CANCELLED BY OPERATOR ***
+0015#STR0015#ALL#Reason: 
+0016#STR0016#ALL#Value of Parts.: 
+0017#STR0017#ALL#      Value of Services.: 
+0018#STR0018#ALL#Part General Value: 
+0019#STR0019#ALL# Service General Value: 
+0020#STR0020#ALL#Initial Date      ?
+0021#STR0021#ALL#Ref.Date: Conclusion 
+0022#STR0022#ALL#Ref.Date: Transmission 
+0023#STR0023#ALL#          Address -------------------------------- City  --------- ST ZIP----- Teleph. ------- CR-- GR--
+0024#STR0024#ALL#Wait... Selecting Record to Print
+0025#STR0025#ALL#Seq Grp  Part Code------------- Part Descr----- Def For Qty ------Value -GS Service Code- Service Descr - Gar. Type
+0026#STR0026#ALL#NORMAL ITEMS
+0027#STR0027#ALL#ADDITIONAL ITEMS
+0028#STR0028#ALL#Total of requests with errors
+0029#STR0029#ALL#Total of paid requests   
+0030#STR0030#ALL#Total of unfounded requests
+0031#STR0031#ALL#Total of credited hours        
+0032#STR0032#ALL#Total of hours by SG            
+0033#STR0033#ALL#Total of hours by repair        
+0034#STR0034#ALL#Total of credited labor      
+0035#STR0035#ALL#Total of credited parts        
+0036#STR0036#ALL#Total credit                 
+0037#STR0037#ALL#Labor rate           
+0038#STR0038#ALL#Number of requests    
+0039#STR0039#ALL#% on credit             
+0040#STR0040#ALL#Labor debit         
+0041#STR0041#ALL#R$
+0042#STR0042#ALL#Total parts debit         
+0043#STR0043#ALL#ACCRUED TO LAST 12 MONTHS
+0044#STR0044#ALL#Total debit                  
+0045#STR0045#ALL#% debit / credit            
+0046#STR0046#ALL#Credit - Debit              
+0047#STR0047#ALL#Amount of credited coupons  
+0048#STR0048#ALL#Amount of debited coupons   
+0049#STR0049#ALL#Amount of self vehicles  
+0050#STR0050#ALL#Credited grand total         
+0051#STR0051#ALL#Debited grand total          
+0052#STR0052#ALL#Net value                 
+0053#STR0053#ALL#Credited grand total         
+0054#STR0054#ALL#Debited grand total          
+0055#STR0055#ALL#PREVIOUS MONTH  *
+0056#STR0056#ALL#NOT PROCESSED
+0057#STR0057#ALL#CURRENT MONTH  *
+0058#STR0058#ALL#REQ. CREDITS GUARANTEE    *
+0059#STR0059#ALL#REQ. DEBIT WARRANTY    *
+0060#STR0060#ALL#CREDITS/DEBITS REVIEW COUPON *
+0061#STR0061#ALL#VALUES OF GUARANTEE + REVIEW  *
+0062#STR0062#ALL#STATUS VALUES             *
+0063#STR0063#ALL#Print Summary    ?
+0064#STR0064#ALL#Brand                    ?
+0065#STR0065#ALL#No
+0066#STR0066#ALL#Yes
+0067#STR0067#ALL#Cause:
+0068#STR0068#ALL#Repair:
+0069#STR0069#ALL#Others:

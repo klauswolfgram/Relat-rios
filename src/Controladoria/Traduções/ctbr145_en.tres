@@ -1,0 +1,46 @@
+0001#STR0001#ALL#This program will print the Account Trial Bal.  / 
+0002#STR0002#ALL#according to the parameters requested by the user.    
+0003#STR0003#ALL#Check Account Trial Balance       / 
+0004#STR0004#ALL#|  CODE                       |      D E S C R I P .                            |    PREVIOUS BLC.               |    DEBIT        |      CREDIT       |    MOVEMENT FROM PERIOD       |         CURR.BLC.                 |
+0005#STR0005#ALL#|  CODE                 |   D  E  S  C  R  I  P  .       |   PREVIOUS BLC.   |      DEBIT     |      CREDIT    |   CURR.BLC.       |
+0006#STR0006#ALL#ACC.DETAILED TRIAL BALANCE   / 
+0007#STR0007#ALL#ACC.SUMMARIZED TRIAL BALANCE / 
+0008#STR0008#ALL#ACC.TRIAL BALANCE  / 
+0009#STR0009#ALL# FR 
+0010#STR0010#ALL# TO  
+0011#STR0011#ALL# IN 
+0012#STR0012#ALL# (BUDGET)
+0013#STR0013#ALL# (MANAGER. )
+0014#STR0014#ALL#Creating temporary file   ...
+0015#STR0015#ALL#Z-Form 
+0016#STR0016#ALL#Management   
+0017#STR0017#ALL#***** CANCELLED BY OPERATOR   *****
+0018#STR0018#ALL#P E R I O D    T O T A L       : 
+0019#STR0019#ALL#G R O U P   T O T A L       (
+0020#STR0020#ALL#A C C O U N T   T O T A L  : 
+0021#STR0021#ALL# Account 
+0022#STR0022#ALL#DIV.
+0023#STR0023#ALL#|  CODE                       |      D E S C R I P .                            |    PREVIOUS BLC.               |    DEBIT        |      CREDIT       |    MOVEMENT FROM PERIOD       |         CURR.BLC.                 |
+0024#STR0024#ALL#|  CODE                 |   D  E  S  C  R  I  P  .       |   PREVIOUS BLC.   |      DEBIT     |      CREDIT    |   CURR.BLC.       |
+0025#STR0025#ALL#Acct.
+0026#STR0026#ALL#Code  
+0027#STR0027#ALL#Reduced code 
+0028#STR0028#ALL#Descript.
+0029#STR0029#ALL#Prev. balance 
+0030#STR0030#ALL#Debit 
+0030#STR0030#ANG#Debit 
+0030#STR0030#EQU#Debit 
+0030#STR0030#HAI#Debit 
+0030#STR0030#MEX#Debit 
+0030#STR0030#PTG#Debit 
+0031#STR0031#ALL#Credit 
+0031#STR0031#ANG#Credit 
+0031#STR0031#EQU#Credit 
+0031#STR0031#HAI#Credit 
+0031#STR0031#MEX#Credit 
+0031#STR0031#PTG#Credit 
+0032#STR0032#ALL#Period movements    
+0033#STR0033#ALL#Curr. blnce
+0034#STR0034#ALL#Type 
+0035#STR0035#ALL#Level 1
+0036#STR0036#ALL#This report has the limit of 20 branches, in case the option All is not chosen.

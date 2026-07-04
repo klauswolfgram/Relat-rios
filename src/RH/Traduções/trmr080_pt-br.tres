@@ -1,0 +1,22 @@
+0001#STR0001#ALL#Planejamento de Cursos
+0002#STR0002#ALL#Será impresso de acordo com os parametros solicitados pelo
+0003#STR0003#ALL#usuário.
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administraçäo
+0006#STR0006#ALL#Filial / Planejamento: 
+0007#STR0007#ALL#Curso                                  N.Func.        Valor   Horas Dt.Plan.   Dt.Inic.   Dt. Final  Responsavel 
+0008#STR0008#ALL#Total do Planejamento: 
+0009#STR0009#ALL#Total Geral: 
+0010#STR0010#ALL#Fil.
+0011#STR0011#ALL#Planejamento
+0012#STR0012#ALL#Curso
+0013#STR0013#ALL#N.Func.
+0014#STR0014#ALL#Horas
+0015#STR0015#ALL#Dt.Plan.
+0016#STR0016#ALL#Dt.Inic.
+0017#STR0017#ALL#Dt.Final
+0018#STR0018#ALL#Matr.
+0019#STR0019#ALL#Responsável
+0020#STR0020#ALL#Cursos
+0021#STR0021#ALL#Treinamento
+0022#STR0022#ALL#Este programa emite o Relatorio de Planejamento de Cursos

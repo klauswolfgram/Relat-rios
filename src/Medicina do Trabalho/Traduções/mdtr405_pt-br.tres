@@ -1,0 +1,13 @@
+0001#STR0001#ALL#Relatorio de apresentacao dos medicamentos, o usuario podera listar todos
+0002#STR0002#ALL#ou apenas aqueles com a quantidade atual em estoque menor do que a       
+0003#STR0003#ALL#quantidade minima.   Opcao disponivel atraves do botao de  parametros.   
+0004#STR0004#ALL#Administracao
+0005#STR0005#ALL#Medicamentos
+0006#STR0006#ALL#Codigo           Nome Medicamento                 Qtde.Atual Qtde.Minima  Un.Med.
+0007#STR0007#ALL#CANCELADO PELO OPERADOR
+0008#STR0008#ALL#Zebrado
+0009#STR0009#ALL#Codigo           Nome Medicamento                      Quant. Atual  Quant. Minima     Diferença   Un.Med
+0010#STR0010#ALL#Somente abaixo estoque mínimo?
+0011#STR0011#ALL#Não
+0012#STR0012#ALL#Sim
+0013#STR0013#ALL#Indica se devem ser listados todos os medicamentos(Não), ou apenas aqueles cujo saldo atual é menor do que o saldo mínimo permitido em estoque(Sim).

@@ -1,0 +1,32 @@
+0001#STR0001#ALL#Este programa imprimira el balance auxiliar de verificacion Modelo 2 (220 columnas)
+0002#STR0002#ALL#donde la cuenta se imprime, se limita a 70 caracteres y su descripcion, a 40,
+0003#STR0003#ALL#Balance aux. de verificacion.
+0004#STR0004#ALL#|                                                                       |                                                            |                     |             MOVIMIENTO DEL MES            |                   |
+0005#STR0005#ALL#|             C O D I G O   D E   L A   C U E N T A                     |             D E S C R I P C I O N                          |   SALDO ANTERIOR    |      DEBITO        |     CREDITO          |     SALDO ACTUAL  |
+0005#STR0005#ANG#|            C O D I G O   D E  L A  C U E N T A                        |             D E S C R I P C I O N                          |   SALDO ANTERIOR    |      DEBITO        |     CREDITO          |     SALDO ACTUAL  |
+0005#STR0005#EQU#|            C O D I G O   D E  L A  C U E N T A                        |             D E S C R I P C I O N                          |   SALDO ANTERIOR    |      DEBITO         |    CREDITO          |     SALDO ACTUAL  |
+0005#STR0005#HAI#|            C O D I G O   D E  L A  C U E N T A                        |             D E S C R I P C I O N                          |   SALDO ANTERIOR    |      DEBITO        |     CREDITO          |     SALDO ACTUAL  |
+0005#STR0005#MEX#|            C O D I G O   D E  L A  C U E N T A                        |             D E S C R I P C I O N                          |   SALDO ANTERIOR    |      CARGO         |     ABONO            |     SALDO ACTUAL  |
+0005#STR0005#PTG#|            C O D I G O   D E  L A  C U E N T A                        |             D E S C R I P C I O N                          |   SALDO ANTERIOR    |      DEBITO        |     CREDITO          |     SALDO ACTUAL  |
+0006#STR0006#ALL#B A L A N C E A U X. D E   V E R I F I C A C I O N   A N A L I T I C O  D E 
+0007#STR0007#ALL# HASTA 
+0008#STR0008#ALL#  EN  
+0009#STR0009#ALL#B A L A N C E  A U X. D E  V E R I F I C A C I O N  S I N T E T I C O  D E 
+0010#STR0010#ALL#***** ANULADO POR EL OPERADOR *****
+0011#STR0011#ALL#T O T A L  D E L  P E R I O D O:
+0012#STR0012#ALL#Seleccionando registros...
+0013#STR0013#ALL#A Rayas
+0014#STR0014#ALL#Administracion
+0015#STR0015#ALL#Creando archivo temporal...
+0016#STR0016#ALL#con codigos extensos.
+0017#STR0017#ALL#B A L A N C E  A U X. D E  V E R I F I C A C I O N  D E
+0018#STR0018#ALL#T O T A L  D E L  G R U P O (
+0019#STR0019#ALL#|             C O D I G O   D E   L A   C U E N T A                     |      D E S C R I P C I O N            |  SALDO ANTERIOR      |     DEBITO         |     CREDITO        | MOVIMIENTO PERIODO  |   SALDO ACTUAL    |
+0019#STR0019#ANG#|             C O D I G O   D E   L A   C U E N T A                     |      D E S C R I P C I O N            |  SALDO ANTERIOR      |     DEBITO         |     CREDITO        | MOVIMIENTO PERIODO  |   SALDO ACTUAL    |
+0019#STR0019#EQU#|             C O D I G O   D E   L A   C U E N T A                     |      D E S C R I P C I O N            |  SALDO ANTERIOR      |     DEBITO         |     CREDITO        | MOVIMIENTO PERIODO  |   SALDO ACTUAL    |
+0019#STR0019#HAI#|             C O D I G O   D E   L A   C U E N T A                     |      D E S C R I P C I O N            |  SALDO ANTERIOR      |     DEBITO         |     CREDITO        | MOVIMIENTO PERIODO  |   SALDO ACTUAL    |
+0019#STR0019#MEX#|             C O D I G O   D E   L A   C U E N T A                     |      D E S C R I P C I O N            |  SALDO ANTERIOR      |     CARGO          |     ABONO          | MOVIMIENTO PERIODO  |   SALDO ACTUAL    |
+0019#STR0019#PTG#|             C O D I G O   D E   L A   C U E N T A                     |      D E S C R I P C I O N            |  SALDO ANTERIOR      |     DEBITO         |     CREDITO        | MOVIMIENTO PERIODO  |   SALDO ACTUAL    |
+0020#STR0020#ALL#DIV.
+0021#STR0021#ALL#Por favor rellenar parametros Grupos Ingresos/Gastos y Fecha Sld Ant. Ingresos/Gastos o    
+0022#STR0022#ALL#dejar el parametro Ignora Sl Ant.Ing/Gas = No 

@@ -1,0 +1,27 @@
+0001#STR0001#ALL#Not Deliveried CTRC Accounting List    
+0002#STR0002#ALL#This program will issue a list of CTRC not     
+0003#STR0003#ALL#delivered according to the parameters selected
+0004#STR0004#ALL#by the user.
+0005#STR0005#ALL#Z.form
+0006#STR0006#ALL#Management   
+0007#STR0007#ALL#Source Branch :
+0008#STR0008#ALL#Source Total : 
+0009#STR0009#ALL#CTRC       TARGET     ISSUE    DELIV.TERM   ARRIVAL    MANIFEST          FREIGHT   CONTRACT  VEHICLE            1st.TOW            2nd.TOW                 WEIGHT        HIRED    ADDRESSEE   
+0010#STR0010#ALL#                                                                         VALUE                                                                                           VALUE                
+0011#STR0011#ALL#CANCELLED BY OPERATOR  
+0012#STR0012#ALL#Accounting Report of CTRCs not delivered
+0013#STR0013#ALL#This program prints the list of CTRCs not delivered according to the parameters selected by the user
+0014#STR0014#ALL#Origin Bra.+ Doct Bra. + Document + Series
+0015#STR0015#ALL#Doct. Bra.
+0016#STR0016#ALL#Description
+0017#STR0017#ALL#Document
+0018#STR0018#ALL#Plate
+0019#STR0019#ALL#Contractor
+0020#STR0020#ALL#Recipient
+0021#STR0021#ALL#Man.Bra
+0022#STR0022#ALL#Manifest
+0023#STR0023#ALL#Dest.Bra
+0024#STR0024#ALL#1st tow
+0025#STR0025#ALL#2nd tow
+0026#STR0026#ALL#Total Origin
+0027#STR0027#ALL#3rd Tow

@@ -1,0 +1,19 @@
+0001#STR0001#ALL#Cliente Razão Social     Comprovante          Emissão    Vcto            Vlr Original      Débito         Crédito          Saldo
+0002#STR0002#ALL#Este programa tem como objectivo imprimir o relatório 
+0003#STR0003#ALL#De acordo com os parâmetro s informados pelo utilizador.
+0004#STR0004#ALL#Nome Do Relatório
+0005#STR0005#ALL#Código de barras
+0006#STR0006#ALL#Administração
+0007#STR0007#ALL#Recibo De Compensações
+0008#STR0008#ALL#*** cancelado pelo operador ***
+0012#STR0012#ALL#Fornec. Segurança Social         Comprovativo          Emissão    Venc.            Val. Original     Débito         Crédito          Saldo
+0013#STR0013#ALL#Totais do cliente :
+0014#STR0014#ALL#Totais do fornecedor :
+0017#STR0017#ALL#Est.rc
+0019#STR0019#ALL#Razão Social
+0020#STR0020#ALL#Comprovativo
+0021#STR0021#ALL#Emissão
+0024#STR0024#ALL#Débito
+0025#STR0025#ALL#Crédito
+0027#STR0027#ALL#Títulos a receber
+0028#STR0028#ALL#Títulos a pagar

@@ -1,0 +1,84 @@
+0001#STR0001#ALL#Received Calls - Telesales
+0002#STR0002#ALL#This program will issue a list of calls accomplished by the operator during Telesales servicing.
+0003#STR0003#ALL#The data will be issued according to the parameters informed.
+0004#STR0004#ALL#OBS: BUDGETS and ORDERS will only be considered.
+0005#STR0005#ALL#Z-Form
+0006#STR0006#ALL#Administration
+0007#STR0007#ALL#CANCELLED BY OPERATOR
+0008#STR0008#ALL#Date
+0009#STR0009#ALL#Servicing  
+0010#STR0010#ALL#Entity  
+0011#STR0011#ALL#Company Name
+0012#STR0012#ALL#Contact
+0013#STR0013#ALL#Address 
+0014#STR0014#ALL#Marketing
+0015#STR0015#ALL#Operation
+0016#STR0016#ALL#Type of Freight
+0017#STR0017#ALL#Price List
+0018#STR0018#ALL#Operator
+0019#STR0019#ALL#Distr.
+0020#STR0020#ALL#S.Repr. 
+0021#STR0021#ALL#City  
+0022#STR0022#ALL#Media
+0023#STR0023#ALL#Bus.Phone 1
+0024#STR0024#ALL#Campaign
+0025#STR0025#ALL#E-Mail
+0026#STR0026#ALL#Occurrence
+0027#STR0027#ALL#Payment Term   
+0028#STR0028#ALL#Return 
+0029#STR0029#ALL#Time
+0030#STR0030#ALL#Observation
+0031#STR0031#ALL#Item Product         Description                    St   Qtt.      Unit Vl.           Item Vl. %Disc    Discount Vl. %Addit.  Addition Vl. TES CFOP      Table       Base ICMS LP MU Delivery   Lot        SubLt. Validity
+0032#STR0032#ALL#Total value negociated in REAIS for 
+0033#STR0033#ALL#Total of services accomplished on that day 
+0034#STR0034#ALL#Total of services in campaign 
+0035#STR0035#ALL#Total of services in media 
+0036#STR0036#ALL#Customer services in the period        
+0037#STR0037#ALL#Total value in reais of actual invoicing by operator
+0038#STR0038#ALL#Payment Term   
+0039#STR0039#ALL#Product 
+0040#STR0040#ALL# in Media 
+0041#STR0041#ALL#There are no data to be printed for this report with the parameters informed
+0042#STR0042#ALL# the servicings
+0043#STR0043#ALL# to 
+0044#STR0044#ALL#Quantity of sold products by media
+0045#STR0045#ALL#Carrier       
+0046#STR0046#ALL#Deliv.Addr. 
+0047#STR0047#ALL#Teleph. 
+0048#STR0048#ALL#Deliv.Branch  
+0049#STR0049#ALL#Deliv.City    
+0050#STR0050#ALL#Deliv.State   
+0051#STR0051#ALL#| Due Date Mode           Value || Due Date Mode           Value || Due Date Mode           Value || Due Date Mode           Value |
+0052#STR0052#ALL#Date     Budgets        Budget Value        Invoicing       Invoicing Value  
+0053#STR0053#ALL#Grand Total
+0054#STR0054#ALL#Operator                Values in REAIS       Servicings  
+0055#STR0055#ALL#Quantity  
+0056#STR0056#ALL#QUANTITY OF SOLD PRODUCT PER CAMPAIGN       
+0057#STR0057#ALL#Quotation
+0058#STR0058#ALL#Quotation amount  
+0059#STR0059#ALL#Billing    
+0060#STR0060#ALL#Billing amount      
+0061#STR0061#ALL#Amount in Reais
+0062#STR0062#ALL#Services    
+0063#STR0063#ALL#Customer service items
+0064#STR0064#ALL#Payment mode      
+0065#STR0065#ALL#Item
+0066#STR0066#ALL#Description
+0067#STR0067#ALL#ST
+0068#STR0068#ALL#Amount
+0069#STR0069#ALL#Unit Value
+0070#STR0070#ALL#Item Value
+0071#STR0071#ALL#%Disc
+0072#STR0072#ALL#Discount Value
+0073#STR0073#ALL#%Add
+0074#STR0074#ALL#Increase Value
+0075#STR0075#ALL#TIO
+0076#STR0076#ALL#CFOP
+0077#STR0077#ALL#Table
+0078#STR0078#ALL#ICMS  Base
+0079#STR0079#ALL#LP
+0080#STR0080#ALL#MU
+0081#STR0081#ALL#Delivery 
+0082#STR0082#ALL#Lot
+0083#STR0083#ALL#Sub-Lt
+0084#STR0084#ALL#Validity

@@ -1,0 +1,86 @@
+0001#STR0001#ALL#Enero
+0002#STR0002#ALL#Febrero
+0003#STR0003#ALL#Marzo
+0004#STR0004#ALL#Abril
+0005#STR0005#ALL#Mayo
+0006#STR0006#ALL#Junio
+0007#STR0007#ALL#Julio
+0008#STR0008#ALL#Agosto
+0009#STR0009#ALL#Septiembre
+0010#STR0010#ALL#Octubre
+0011#STR0011#ALL#Noviembre
+0012#STR0012#ALL#Diciembre
+0013#STR0013#ALL#Alterne para el programa del Ms-Word para visualizar el documento o haga clic en el boton para cerrar.
+0014#STR0014#ALL#Seleccione archivo
+0015#STR0015#ALL#EN ACTIVIDAD
+0016#STR0016#ALL#SIGNATARIO DE LAUDO
+0017#STR0017#ALL#Ingeniero Seguridad Labora
+0018#STR0018#ALL#Medico Laboral   
+0019#STR0019#ALL#Enfermero Laboral     
+0020#STR0020#ALL#Auxiliar de Enfermeria Laboral
+0021#STR0021#ALL#Tecnico Seguridad Laboral 
+0022#STR0022#ALL#Medico
+0023#STR0023#ALL#Enfermero 
+0024#STR0024#ALL#Aux. de Enfermeria
+0025#STR0025#ALL#Agente:
+0026#STR0026#ALL#Fuente Generadora Riesgo
+0027#STR0027#ALL#Centro de Costo:
+0028#STR0028#ALL#TODOS
+0029#STR0029#ALL#Funcion
+0030#STR0030#ALL#Tarea: 
+0031#STR0031#ALL#Ambiente Fisico de Riesgo
+0032#STR0032#ALL#Fecha Evaluacion: 
+0033#STR0033#ALL#Cantidad del Agente de Riesgo:
+0034#STR0034#ALL#Limite Tolerancia:
+0035#STR0035#ALL#Tiempo Exposicion: 
+0036#STR0036#ALL#Ausencia de Agente Nocivo
+0037#STR0037#ALL#Habitual/Permanente
+0038#STR0038#ALL#Ocasional/Intermitente
+0039#STR0039#ALL#Tipo de Exposicion
+0040#STR0040#ALL#Tecnica Utilizada:
+0041#STR0041#ALL#Recomendacion
+0042#STR0042#ALL# dias
+0043#STR0043#ALL#Tec de Enfermeria Laboral
+0044#STR0044#ALL#¿Centro de Costo ?
+0045#STR0045#ALL#¿Archivo Salida ?
+0046#STR0046#ALL#¿Impresion ?
+0047#STR0047#ALL#¿Empleado ?
+0048#STR0048#ALL#¿Laudo ?
+0049#STR0049#ALL#¿Cliente?
+0050#STR0050#ALL#Tienda:
+0051#STR0051#ALL#ATENCION
+0052#STR0052#ALL#El archivo ltpericial.dot no se encontró en el servidor.
+0053#STR0053#ALL#Verificar el parametro 'MV_DIRACA'.
+0054#STR0054#ALL# de 
+0055#STR0055#ALL#No existen datos para imprimr.
+0056#STR0056#ALL#Atencion
+0057#STR0057#ALL#Medidas de Control
+0058#STR0058#ALL#Codigo
+0059#STR0059#ALL#Descripcion
+0060#STR0060#ALL#Entorno
+0061#STR0061#ALL#Compl. Exposicion
+0062#STR0062#ALL#Fuente Generadora
+0063#STR0063#ALL#Se imprimira(n) 
+0064#STR0064#ALL# Laudo(s). ¡A cada documento generado, grabelo antes de continuar!
+0065#STR0065#ALL#Procesando: 
+0066#STR0066#ALL# de 
+0067#STR0067#ALL#Para laudo del tipo LT.Pericial, no se permite  informar el empleado. ¡Deje el campo en blanco !
+0068#STR0068#ALL#No existe empleado con confirmacion de exposicion al riesgo.
+0069#STR0069#ALL#Empleados no expuestos a riesgos:
+0070#STR0070#ALL#Matrícula  Nombre
+0071#STR0071#ALL#Físico
+0072#STR0072#ALL#Químico
+0073#STR0073#ALL#Biológico
+0074#STR0074#ALL#Ergonómico
+0075#STR0075#ALL#Accidente
+0076#STR0076#ALL#Mecánico
+0077#STR0077#ALL#Peligrosos
+0078#STR0078#ALL#NA
+0079#STR0079#ALL#Habitual/Permanente
+0080#STR0080#ALL#Ocasional/Intermitente
+0081#STR0081#ALL#Ausencia de agente nocivo
+0082#STR0082#ALL#Eventual
+0083#STR0083#ALL#Habitual/Intermitente
+0084#STR0084#ALL#Todos
+0085#STR0085#ALL#Todas
+0086#STR0086#ALL#Psicosocial

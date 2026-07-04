@@ -1,0 +1,33 @@
+0001#STR0001#ALL#Ajuste de Parametros
+0002#STR0002#ALL#Rotina para geracao de arquivo de texto 
+0003#STR0003#ALL#O sistema irá gerar o arquivo de acordo com os parâmetros informados.
+0004#STR0004#ALL#O arquivo de nome 
+0005#STR0005#ALL# nao pode ser criado! Verifique os parametros.
+0006#STR0006#ALL#Atencao!
+0007#STR0007#ALL#Processando...
+0008#STR0008#ALL#Ocorreu um erro na gravacao do arquivo. Continua?
+0009#STR0009#ALL#Aviso
+0010#STR0010#ALL#Tabela Carregada
+0011#STR0011#ALL#A tabela ja existe
+0012#STR0012#ALL#O sistema irá atualizar a tabela RCC para a geração de arquivos texto.
+0013#STR0013#ALL#Faca um Backup (RCC) antes de Iniciar o Processo de Atualização.
+0014#STR0014#ALL#Confirma a Atualizacao das Tabelas?
+0015#STR0015#ALL#Arquivos Texto (*.TXT) |*.txt|
+0016#STR0016#ALL#Tipo de Relatório
+0017#STR0017#ALL#Selecione arquivo
+0018#STR0018#ARG#Selecione os processos
+0019#STR0019#ARG#Cadastre o tipo de empresa na Tabela S032
+0020#STR0020#ALL#Não existem períodos válidos para a data informada.
+0021#STR0021#ALL#Não existem Verbas para os parâmetros informados.
+0022#STR0022#ALL#Existe(m) processo(s) onde o campo Criterio IAG,  com conteúdo vazio.
+0023#STR0023#ALL#miSimplificação
+0024#STR0024#ALL#Relações Trabalhistas
+0025#STR0025#ALL#Dados Complementários
+0026#STR0026#ALL#C.B.U.
+0027#STR0027#ALL#Vínculos Familiares
+0028#STR0028#ALL#SICOSS
+0029#STR0029#ALL#SICORE
+0030#STR0030#ALL#Não existem procedimentos para os parâmetros informados.
+0031#STR0031#ALL#Sua Declaração
+0032#STR0032#ALL#Não existe a tabela S036 - Arq. de texto Sua Declaração, verifique!
+0033#STR0033#ALL#Selecione diretório

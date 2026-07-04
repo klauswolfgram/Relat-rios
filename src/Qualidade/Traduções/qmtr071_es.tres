@@ -1,0 +1,15 @@
+0001#STR0001#ALL#Este programa emite el informe de Calibraciones
+0002#STR0002#ALL#Previstas y No Realizadas dentro de un determinado
+0003#STR0003#ALL#periodo.
+0004#STR0004#ALL#Calibraciones Previstas y No Realizadas
+0005#STR0005#ALL#Instrumento      Rev. Familia          Dpto.      Usuario          Dias Fabricante       Org. Calibrador  Validez 
+0006#STR0006#ALL#A Rayas
+0007#STR0007#ALL#Administracion
+0008#STR0008#ALL# Instrumento  
+0009#STR0009#ALL# Sector       
+0010#STR0010#ALL#Seleccionando Registros
+0011#STR0011#ALL#ANULADO POR EL OPERADOR
+0012#STR0012#ALL#Total Previsto en el Periodo..: 
+0013#STR0013#ALL#Total Realizado en el Periodo.: 
+0014#STR0014#ALL#Previstas y No Realizadas.....:
+0015#STR0015#ALL#Total Previsto en el Mes Final...: 

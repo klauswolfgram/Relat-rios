@@ -1,0 +1,49 @@
+0001#STR0001#ALL#No 
+0002#STR0002#ALL#Yes
+0003#STR0003#ALL#Printer   
+0004#STR0004#ALL#File   
+0005#STR0005#ALL#Parameters
+0006#STR0006#ALL#From request?
+0007#STR0007#ALL#Purpose?   
+0008#STR0008#ALL#&Search
+0009#STR0009#ALL#Responsible?
+0010#STR0010#ALL#Authorized empl. 
+0011#STR0011#ALL#Reg. in CETESB?
+0012#STR0012#ALL#Small Size Business
+0013#STR0013#ALL#Inspection Date? 
+0014#STR0014#ALL#Print?    
+0015#STR0015#ALL#Outflow File? 
+0016#STR0016#ALL#Select purpose(s)           
+0017#STR0017#ALL#New Establishment   
+0018#STR0018#ALL#Existing Building 
+0019#STR0019#ALL#Extension
+0020#STR0020#ALL#New Equipment     
+0021#STR0021#ALL#Change or Modification
+0022#STR0022#ALL#Mud transportation
+0023#STR0023#ALL#Purpose   
+0024#STR0024#ALL#Select Request Form                  
+0025#STR0025#ALL#Certif. Aprov. Dest. Res. Industrial  - CADRI
+0026#STR0026#ALL#Licence Law 1817/78      
+0027#STR0027#ALL#Installation Licence  - LI
+0028#STR0028#ALL#Operation Licence   - LO
+0029#STR0029#ALL#Licence Installation Breakdown   
+0030#STR0030#ALL#Licence Operation Breakdown    
+0031#STR0031#ALL#Licence Installation of Plot 
+0032#STR0032#ALL#Licence Operation of Plot  
+0033#STR0033#ALL#Prior and Installation Licence - LP/LI
+0034#STR0034#ALL#Prior License 
+0035#STR0035#ALL#LP/LI Breakdown     
+0036#STR0036#ALL#LP/LI of Plotting  
+0037#STR0037#ALL#Technical Report: Project Modification
+0038#STR0038#ALL#Technical Report: Decree 9714/77 - APM
+0039#STR0039#ALL#Technical Report: Framing (Law 1817/78)     
+0040#STR0040#ALL#Technical Report:GRAPROHAB
+0041#STR0041#ALL#Technical Report: Location Feasibility     
+0042#STR0042#ALL#Technical Report: Other ____________________
+0043#STR0043#ALL#Renewal of Operation Licence    
+0044#STR0044#ALL#From request  
+0045#STR0045#ALL#Select file       
+0046#STR0046#ALL#Shift to MS-Word to view the document or click on the button to close.                        
+0047#STR0047#ALL#File cadri.dot was not found in the server.
+0048#STR0048#ALL#Check parameter 'MV_DIRACA'.
+0049#STR0049#ALL#ATTENTION

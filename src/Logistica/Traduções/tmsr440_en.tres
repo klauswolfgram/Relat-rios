@@ -1,0 +1,63 @@
+0001#STR0001#ALL#Trip Profitability Comparison         
+0002#STR0002#ALL#Issue the trip profitability comparison                    
+0003#STR0003#ALL#according to parameters input
+0004#STR0004#ALL#Z.form
+0005#STR0005#ALL#Management   
+0006#STR0006#ALL#CANCELLED BY OPERATOR 
+0007#STR0007#ALL#Trip      Trip Dt.   Status           Document          Doc. Type       CTRC/NF       Issue Dt.  Status                   Freight Rec.     Freight Service Comp.                        Total Weight Route
+0008#STR0008#ALL#          Carrier                     Vehicle           Plate              Freight Paid                Toll              Contract         Date          Profitability       %
+0009#STR0009#ALL#Source Region         Target Region            Freight Receiv.  Complem.Freight            Freight Py            Toll         Profitability       %
+0010#STR0010#ALL#Period Total    
+0011#STR0011#ALL#Client
+0012#STR0012#ALL#Selecting records...
+0013#STR0013#ALL#Own totals    
+0014#STR0014#ALL#3rd party total
+0015#STR0015#ALL#Sum Total
+0016#STR0016#ALL#                                                                           Freight paid                  Toll                  Frght recvble.   Frght Comp.   Profitability          %           Total weight
+0017#STR0017#ALL#Client:  
+0018#STR0018#ALL#Origin:  
+0019#STR0019#ALL#Destination: 
+0020#STR0020#ALL#Comparison of Trip Profitability
+0021#STR0021#ALL#Issues report of Comparison of Trip Profitability according to the parameters entered
+0022#STR0022#ALL#Debtor + Origin + Destinat + Trip
+0023#STR0023#ALL#Origin
+0024#STR0024#ALL#Destin.
+0025#STR0025#ALL#Customer
+0026#STR0026#ALL#Trip
+0027#STR0027#ALL#Description
+0028#STR0028#ALL#Orig.Bra.
+0029#STR0029#ALL#Trip Date
+0030#STR0030#ALL#Status
+0031#STR0031#ALL#Vehicle
+0032#STR0032#ALL#Plate
+0033#STR0033#ALL#Suppl.
+0034#STR0034#ALL#Store
+0035#STR0035#ALL#Name
+0036#STR0036#ALL#Freight Rec
+0037#STR0037#ALL#Toll
+0038#STR0038#ALL#Contract
+0039#STR0039#ALL#Contr.Dt
+0040#STR0040#ALL#Serv.
+0041#STR0041#ALL#Route
+0042#STR0042#ALL#Contract
+0043#STR0043#ALL#Contr.Dt.
+0044#STR0044#ALL#Document
+0045#STR0045#ALL#Doct.Bra.
+0046#STR0046#ALL#Doct
+0047#STR0047#ALL#Series
+0048#STR0048#ALL#Type
+0049#STR0049#ALL#Branch
+0050#STR0050#ALL#CTRC/NF
+0051#STR0051#ALL#Issue
+0052#STR0052#ALL#Freight Rec.
+0053#STR0053#ALL#Freight Com
+0054#STR0054#ALL#Total Weight
+0055#STR0055#ALL#Freight Paid
+0056#STR0056#ALL#Toll
+0057#STR0057#ALL#Profitability
+0058#STR0058#ALL#%
+0059#STR0059#ALL#Total
+0060#STR0060#ALL#Gross Total
+0061#STR0061#ALL#Total Own
+0062#STR0062#ALL#Total Third Party
+0063#STR0063#ALL#Aggregate Total

@@ -1,0 +1,23 @@
+0001#STR0001#ALL#Este programa irá emitir a relaçao dos maiores,
+0002#STR0002#ALL#devedores/atrasos
+0003#STR0003#ALL#Zebrado
+0004#STR0004#ALL#Administracao
+0005#STR0005#ALL#Relacao dos Maiores Devedores
+0006#STR0006#ALL#Relacao Do Maior Devedor
+0007#STR0007#ALL#Relacao dos 
+0008#STR0008#ALL#Codigo do Cliente         Nome do Cliente                  Valor em Atraso Valor Total Devido N.Tit    %Tot  Dias em Atraso
+0009#STR0009#ALL#Selecionando Registros...
+0010#STR0010#ALL#CANCELADO PELO OPERADOR
+0011#STR0011#ALL#Relacao do Maior Atraso
+0012#STR0012#ALL#Total dos 
+0013#STR0013#ALL# Maiores Atrasos
+0014#STR0014#ALL# Maiores Devedores
+0015#STR0015#ALL# Maiores Devedores
+0016#STR0016#ALL# Maiores Atrasos
+0017#STR0017#ALL#Código do Cliente
+0018#STR0018#ALL#Valor em Atraso
+0019#STR0019#ALL#Valor Total Devido
+0020#STR0020#ALL#N.Tit
+0021#STR0021#ALL#%Tot
+0022#STR0022#ALL#Dias em Atraso
+0023#STR0023#ALL#Itens do atraso

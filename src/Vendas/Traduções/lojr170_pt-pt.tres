@@ -1,0 +1,18 @@
+0001#STR0001#ALL#Este programa tem a função de emitir os borderaux de cobrança
+0002#STR0002#ALL#Gerados pelo utilizador.
+0003#STR0003#ALL#Emissão De Descriminações
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#Cancelado Pelo Operador
+0007#STR0007#ALL#|   total da relação a crédito de nossa conta corrente         |
+0008#STR0008#ALL#|   quantidade  de títulos impressos                           |
+0011#STR0011#ALL#Ao 
+0012#STR0012#ALL#Agência 
+0013#STR0013#ALL# c/c 
+0014#STR0014#ALL#Folheto nrº 
+0015#STR0015#ALL#Solicitamos que proceda à recepção dos duplicados abaixo relacionados 
+0016#STR0016#ALL#A creditar os valores correspondentes.
+0017#STR0017#ALL#Num duplic|p|código|r a z ã o   s o c i a l        |  vencimento  |         valor   |
+0018#STR0018#ALL#Num cheque|p|código|razão   social       |  vencto  |         valor   |
+0021#STR0021#ALL#Bases - Emissão De Descriminações
+0022#STR0022#ALL#Títulos - Emissäo de Borderaux

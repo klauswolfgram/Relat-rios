@@ -1,0 +1,26 @@
+0001#STR0001#ALL#Este programa irá emitir a relação dos Bens que já
+0002#STR0002#ALL#foram totalmente depreciados
+0003#STR0003#ALL#Bens Depreciados
+0004#STR0004#ALL#Saldos Depreciados por Bens
+0005#STR0005#ALL#Codigo  Descricao
+0006#STR0006#ALL#Codigo         Descricao
+0007#STR0007#ALL#Codigo     Item Descricao
+0008#STR0008#ALL#                                  Correcao Acumulada    Depr Acumulada  Corr Depr Acumul     Vlr Ampliacao
+0009#STR0009#ALL#CANCELADO PELO OPERADOR
+0010#STR0010#ALL#T O T A I S
+0011#STR0011#ALL#Total
+0012#STR0012#ALL#Conta: 
+0013#STR0013#ALL#C.Custo: 
+0014#STR0014#ALL#Item: 
+0015#STR0015#ALL#Cl.Valor: 
+0016#STR0016#ALL#Codigo Base do Bem
+0017#STR0017#ALL#Conta
+0018#STR0018#ALL#Centro de Custo
+0019#STR0019#ALL#Item Contabil
+0020#STR0020#ALL#Classe de Valor
+0021#STR0021#ALL#Código
+0022#STR0022#ALL#Empresa
+0023#STR0023#ALL#Unidade de negócio
+0024#STR0024#ALL#Filial
+0025#STR0025#ALL#Filiais selecionadas para o relatorio
+0026#STR0026#ALL#Favor Aguardar...

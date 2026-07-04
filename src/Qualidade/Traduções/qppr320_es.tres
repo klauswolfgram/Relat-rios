@@ -1,0 +1,53 @@
+0001#STR0001#ALL#Checklist APQP A8
+0002#STR0002#ALL#Generando visualizacion, espere...
+0003#STR0003#ALL# ¿El metodo del plan de control referenciado en la
+0004#STR0004#ALL# seccion 6 se utilizo en la preparacion del plan de control ?
+0005#STR0005#ALL# ¿Se identificaron todas las preocupaciones conocidas del
+0006#STR0006#ALL# cliente para facilitar la seleccion de caracteristicas
+0007#STR0007#ALL# especiales de producto/proceso ?
+0008#STR0008#ALL# ¿Todas las caracteristicas especiales del producto/proceso
+0009#STR0009#ALL# estan incluidas en el plan de control ?
+0010#STR0010#ALL# ¿Se uilizaron SFMEA, DFMEA y PFMEA para preparar
+0011#STR0011#ALL# el plan de control ?
+0012#STR0012#ALL# ¿Se identificaron todas las especificaciones de material
+0013#STR0013#ALL# que necesitan inspeccion?
+0014#STR0014#ALL# ¿El plan de control indica la recepcion (material y
+0015#STR0015#ALL# componente) a traves del procesamiento/montaje,
+0016#STR0016#ALL# incluyendo embalaje ?
+0017#STR0017#ALL# ¿Se identificaron las exigencias de pruebas
+0018#STR0018#ALL# de ingenieria ?
+0019#STR0019#ALL# ¿Los dispositivos de medicion y equipos de pruebas estan
+0020#STR0020#ALL# disponibles segun lo requerido por el plan de control ?
+0021#STR0021#ALL# Si es necesario, ¿el cliente aprobo el plan de control?
+0022#STR0022#ALL# ¿Los metodos de medicion son compatibles entre
+0023#STR0023#ALL# proveedor y cliente ?
+0024#STR0024#ALL#Preparado Por
+0025#STR0025#ALL# A-8 LISTA DE VERIFICACION DEL PLAN DE CONTROL
+0026#STR0026#ALL#Numero de la pieza interna o del cliente
+0027#STR0027#ALL#Pregunta
+0028#STR0028#ALL#Si
+0029#STR0029#ALL#No
+0030#STR0030#ALL#Cometarios / Accion requerida
+0031#STR0031#ALL#Persona responsable
+0032#STR0032#ALL#Fecha Prevista
+0033#STR0033#ALL#Fecha de Revision
+0034#STR0034#ALL#Pagina 
+0035#STR0035#ALL# de 
+0036#STR0036#ALL#¿industria, tablas estadisticas del plan de muestras
+0037#STR0037#ALL#o en otros metodos de control de proceso?
+0038#STR0038#ALL#N/a
+0039#STR0039#ALL#¿La Metodologia del plan de control descrita 
+0040#STR0040#ALL#en el Capitulo 6 del manual APQP se utilizo en el 
+0041#STR0041#ALL#desarrollo del plan de Control?
+0042#STR0042#ALL#¿Todos los controles identificados en la PFMEA se 
+0043#STR0043#ALL#incluyeron en el plan de control?
+0044#STR0044#ALL#¿Se usaron DFMEA y PFMEA para preparar el 
+0045#STR0045#ALL#plan de control ?
+0046#STR0046#ALL#¿Los requisitos de prueba de desempeno de ingenieria
+0047#STR0047#ALL#y requisitos dimensionales se identificaron ? 
+0048#STR0048#ALL#La  Metodologia y compatibilidad de los dispositivos de
+0049#STR0049#ALL#medicion son apropiadas para atender a los requisitos
+0050#STR0050#ALL#del Cliente ?
+0051#STR0051#ALL#¿El  analisis de los sistemas de medicion se concluyo de 
+0052#STR0052#ALL#acuerdo con los requisitos del cliente?
+0053#STR0053#ALL#Los tamanos de las muestras se basaron en las normas de 

@@ -1,0 +1,39 @@
+0001#STR0001#ALL#Este relatorio ira imprimir as Aquisicoes por Transf 
+0002#STR0002#ALL#dentro dos parametros especificados
+0003#STR0003#ALL#Aquisicoes Por Transf
+0004#STR0004#ALL#Aquis por Transferencia
+0005#STR0005#ALL# Data 
+0006#STR0006#ALL#COD. BASE  ITEM  DESCRICAO                           DT. AQUIS   CHAPA   C.CUSTO    CONTA                 DESCRICAO CONTA          
+0007#STR0007#ALL#                                             *** MOEDA 1 ***   *** MOEDA 2 ***   *** MOEDA 3 ***   *** MOEDA 4 ***   *** MOEDA 5 ***
+0008#STR0009#ALL#Organizando Arquivo
+0009#STR0010#ALL#Itens de Origem
+0010#STR0011#ALL#  -  Movimento No. 
+0011#STR0012#ALL#  -  Data: 
+0012#STR0013#ALL#Itens de Destino
+0013#STR0014#ALL#Valor Original         --->
+0014#STR0015#ALL#Depreciacao Acumulada  --->
+0015#STR0016#ALL#Correcao               --->
+0016#STR0017#ALL#Residual               --->
+0017#STR0018#ALL#TOTAL MOVIMENTADO NO DIA 
+0018#STR0019#ALL#TOTAL (Itens Origem) Valor Original   --->
+0019#STR0020#ALL#TOTAL (Itens Origem) Depr. Acumulada  --->
+0020#STR0021#ALL#TOTAL (Itens Origem) Correcao         --->
+0021#STR0022#ALL#TOTAL (Itens Origem) Residual         --->
+0022#STR0023#ALL#TOTAL (Itens Destino) Valor Original  --->
+0023#STR0024#ALL#TOTAL (Itens Destino) Depr. Acumulada --->
+0024#STR0025#ALL#TOTAL (Itens Destino) Correcao        --->
+0025#STR0026#ALL#TOTAL (Itens Destino) Residual        --->
+0026#STR0027#ALL#DESC. VALOR
+0027#STR0028#ALL#Movimento total na data 
+0028#STR0029#ALL#Origem/Destino
+0029#STR0030#ALL#Texto da Data
+0030#STR0031#ALL#Dados do Ativo
+0031#STR0032#ALL#*** Moeda 1 ***
+0032#STR0033#ALL#*** Moeda 2 ***
+0033#STR0034#ALL#*** Moeda 3 ***
+0034#STR0035#ALL#*** Moeda 4 ***
+0035#STR0036#ALL#*** Moeda 5 ***
+0036#STR0037#ALL#A - Valor Original
+0037#STR0038#ALL#B - Depreciacao Acumulada
+0038#STR0039#ALL#C - Correcao
+0039#STR0040#ALL#D - Residual

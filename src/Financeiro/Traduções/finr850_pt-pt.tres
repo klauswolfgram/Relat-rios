@@ -1,0 +1,37 @@
+0001#STR0001#ALL#Este programa tem como objectivo imprimir o ficheiro
+0002#STR0002#ALL#Retorno da comunicação bancária sispag, conforme 
+0003#STR0003#ALL#Visualização previamente configurada.
+0004#STR0004#ALL#Impressão do retorno do sispag 
+0005#STR0005#ALL#Código de barras
+0006#STR0006#ALL#Administração
+0007#STR0007#ALL#Título         Tp  Fornecedor                Valor  Ocorrência
+0008#STR0008#ALL#Ocorrência não encontrada 
+0009#STR0009#ALL#Título Não Encontrado
+0010#STR0010#ALL#Título Ok
+0011#STR0011#ALL#Título Já Liquidado
+0012#STR0012#ALL#Cancelado Pelo Operador
+0013#STR0013#ALL#Valor recebido s/ título
+0014#STR0014#ALL#Título Rejeitado
+0015#STR0015#ALL#Pagamento Agendado
+0016#STR0016#ALL#Pgt. Agendado Alter. P/ Op
+0017#STR0017#ALL#Por favor, indique no registo detalhe do ficheiro de configuração segmento n, no nome do campo, o identificador, seu número utilizado para localizar, no ficheiro retorno,o título a ser liquidado
+0018#STR0018#ALL#Por favor, indique no registo detalhe do ficheiro de configuração segmento n, no nome do campo, o identificador principal utilizado para localizar, no ficheiro retorno, o valor principal a ser liquidado
+0019#STR0019#ALL#Por favor, indique no registo detalhe do ficheiro de configuração segmento n, no nome do campo, o identificador multa utilizado para localizar, no ficheiro retorno, o valor principal a ser liquidado
+0020#STR0020#ALL#Títulos Rejeitados
+0021#STR0021#ALL#Títulos não encontrados
+0022#STR0022#ALL#Títulos já liquidados
+0024#STR0024#ALL#Subtotais Do Relatório
+0025#STR0025#ALL#Totais Do Relatório
+0026#STR0026#ALL#Por favor, indique no registo detalhe do ficheiro de configuração segmento n, no nome do campo, o identificador
+0027#STR0027#ALL#Utilizado para localizar, no ficheiro retorno, o valor dos campos.
+0028#STR0028#ALL#Prf
+0029#STR0029#ALL#Título
+0030#STR0030#ALL#Pc
+0031#STR0031#ALL#Tp.
+0032#STR0032#ALL#Fornecedor
+0033#STR0033#ALL#Valor
+0034#STR0034#ALL#Ocorrência
+0035#STR0035#ALL#Títulos Do Sispag
+0037#STR0037#ALL#Pa Já Debitado
+0038#STR0038#ALL#Vlr Pago Maior
+0039#STR0039#ALL#Vlr Pago Menor

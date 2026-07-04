@@ -1,0 +1,30 @@
+0001#STR0001#ALL#Impressão de produção
+0002#STR0002#ALL#Código de barras
+0003#STR0003#ALL#Administração
+0005#STR0005#ALL#Copia Da Factura  
+0007#STR0007#ALL#Centro De Custo/função
+0008#STR0008#ALL#Pecas R$ ---- Pecas Mf ----- Srvs R$ ----- Srvs Mf ----- Veics R$ --- Veics Mf
+0009#STR0009#ALL#Total geral 
+0012#STR0012#ALL#Serviços
+0013#STR0013#ALL#Veículos
+0014#STR0014#ALL#Total do dia 
+0015#STR0015#ALL#Total fact 
+0016#STR0016#ALL#Valores de serviços sem produtivos apontados
+0019#STR0019#ALL#Total dos serviços não apontados                 
+0020#STR0020#ALL#Data inicial ?
+0021#STR0021#ALL#Data final ?
+0022#STR0022#ALL#Centro custo inicial?
+0023#STR0023#ALL#Centro custo final?
+0024#STR0024#ALL#Função inicial?
+0025#STR0025#ALL#Função final?
+0026#STR0026#ALL#Colaborador inicial?
+0027#STR0027#ALL#Colaborador final?
+0028#STR0028#ALL#Valores?
+0029#STR0029#ALL#Moeda corrent
+0030#STR0030#ALL#Moeda forte
+0031#STR0031#ALL#Terceira moeda
+0032#STR0032#ALL#Quarta moeda
+0033#STR0033#ALL#Quinta moeda
+0038#STR0038#ALL#Tipo de venda?
+0042#STR0042#ALL#Lanç. Comissão
+0043#STR0043#ALL#Tot Forma Pagamento?

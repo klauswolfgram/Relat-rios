@@ -1,0 +1,28 @@
+0001#STR0001#ALL#Comparativo de Cubos - Balance parcial
+0002#STR0002#ALL#Codigo
+0003#STR0003#ALL#Descripc.
+0004#STR0004#ALL#Saldo Anterior (A1)
+0005#STR0005#ALL#Saldo Anterior (A2)
+0006#STR0006#ALL#Diferenc. (A1-A2)
+0007#STR0007#ALL#Diferenc. (A2/A1 %)
+0008#STR0008#ALL#Mov.Credito (C1)
+0009#STR0009#ALL#Mov.Credito (C2)
+0010#STR0010#ALL#Diferenc. (C1-C2)
+0011#STR0011#ALL#Diferenc. (C2/C1 %)
+0012#STR0012#ALL#Movimiento Deb. (D1)
+0013#STR0013#ALL#Movimiento Deb. (D2)
+0014#STR0014#ALL#Diferenc. (D1-D2)
+0015#STR0015#ALL#Diferenc. (D2/D1 %)
+0016#STR0016#ALL#Saldo Final (F1)
+0017#STR0017#ALL#Saldo Final (F2)
+0018#STR0018#ALL#Diferencia (F1-F2)
+0019#STR0019#ALL#Diferenc. (F2/F1 %)
+0020#STR0020#ALL#Cubo 1 -->
+0021#STR0021#ALL#    Cubo 2 -->
+0022#STR0022#ALL#Impresion anulada por el operador...
+0023#STR0023#ALL#Este informe imprimira el Comparativo de Cubos - Balance parcial de acuerdo con los parametros solicitados por el usuario. Para mas informaciones sobre este informe consulte el Help del Programa ( F1 ).
+0024#STR0024#ALL#Movimientos del nivel 
+0025#STR0025#ALL#Comparativo entre configuraciones
+0026#STR0026#ALL#Atenc. 
+0027#STR0027#ALL#Usuario sin acceso al informe. Verifique las configurac.
+0028#STR0028#ALL#Otros (No Especificado)

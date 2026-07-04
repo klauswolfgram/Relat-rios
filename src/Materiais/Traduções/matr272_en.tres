@@ -1,0 +1,15 @@
+0001#STR0001#ALL#Lot vs. Inventory labels      
+0002#STR0002#ALL#It issues a report comparing the total values  
+0003#STR0003#ALL#of the lot vs. labels     
+0004#STR0004#ALL#Z-Form 
+0005#STR0005#ALL#Management   
+0006#STR0006#ALL#CANCELLED BY OPERATOR  
+0007#STR0007#ALL#Lot Nbr   Lot Date   IniLabel   EndLabel    Qtty. of Lot     Qtty. regist.   Lot labels          Labels registered    Status
+0008#STR0008#ALL# - All  
+0009#STR0009#ALL# - Pending  
+0010#STR0010#ALL# - Pend.  
+0011#STR0011#ALL# - Concluded 
+0012#STR0012#ALL#Pending 
+0013#STR0013#ALL#Pending  
+0014#STR0014#ALL#Concluded
+0015#STR0015#ALL#Routine MATR271 is obsolete.

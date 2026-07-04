@@ -1,0 +1,21 @@
+0001#STR0001#ALL#Relação de notas de transferência entre filiais 
+0002#STR0002#ALL#Este programa tem como objectivo imprimir relatório  
+0003#STR0003#ALL#De acordo com os parâmetros indicados pelo utilizador. 
+0004#STR0004#ALL#Data       documento           valor mercadoria    valor icms     valor ipi   valor frete  valor seguro vlr. Despesas total factura
+0005#STR0005#ALL# - entradas 
+0006#STR0006#ALL# - saídas 
+0007#STR0007#ALL#Código de barras
+0008#STR0008#ALL#Administração 
+0009#STR0009#ALL#Código / loja:  
+0010#STR0010#ALL#Total entradas ->>> 
+0011#STR0011#ALL#Total saídas   ->>> 
+0012#STR0012#ALL#Cancelado pelo operador 
+0013#STR0013#ALL#Descrição da mercadoria                            valor icms     valor ipi    quantidade  vlr unitário vlr. desconto    total elemento 
+0014#STR0014#ALL#Data       documento           valor mercadoria    imp.inserido    imp.incid   valor frete  valor seguro valor despesas    total nota 
+0015#STR0015#ALL#Descrição da mercadoria     imp.incluso    imp.incid    quantidade  vlr unitário vlr. Desconto    total item 
+0016#STR0016#ALL# - Entradas E Saídas
+0018#STR0018#ALL#Cabeçalho Do Documento De Entrada
+0019#STR0019#ALL#Itens Do Documento De Entrada
+0021#STR0021#ALL#Cabeçalho Do Documento De Saída
+0022#STR0022#ALL#Itens Do Documento De Saída
+0023#STR0023#ALL#A seleccionar registos...

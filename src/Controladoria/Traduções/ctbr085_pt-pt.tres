@@ -1,0 +1,53 @@
+0001#STR0001#ALL#Este Programa Irá Imprimir A Listagem De Movimentos
+0002#STR0002#ALL#Por Sub-lote/doc. Fiscal.
+0003#STR0003#ALL#Movimentos Classificados Por Sub-lote/doc. Fiscal
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#Doc      Conta                                      Doc. Fiscal                                  Valor Déb             Valor Créd   Hp   Hist
+0006#STR0006#ANG#DOC      CONTA                                      DOC. FISCAL                                  VALOR DÉB             VALOR CRÉD   HP   HIST
+0006#STR0006#EQU#DOC      CONTA                                      DOC. FISCAL                                  VALOR DÉB             VALOR CRÉD   HP   HIST
+0006#STR0006#HAI#DOC      CONTA                                      DOC. FISCAL                                  VALOR DÉB             VALOR CRÉD   HP   HIST
+0006#STR0006#MEX#Doc      Conta                                      Doc. Fiscal                                  Valor Déb             Valor Créd   Hp   Hist
+0006#STR0006#PTG#Doc      Conta                                      Doc. Fiscal                                  Valor Déb             Valor Créd   Hp   Hist
+0007#STR0007#ALL#Emissão Da List. Do Sub-lote/doc. Fiscal
+0008#STR0008#ALL#A Criar Ficheiro Temporário...
+0009#STR0009#ALL#***** cancelado pelo operador *****
+0010#STR0010#ALL#Diferença
+0011#STR0011#ALL#Total do lote: 
+0012#STR0012#ALL#Introduzido
+0013#STR0013#ALL#Introduzido
+0014#STR0014#ALL#T o t a l  g e r a l ==> 
+0015#STR0015#ALL#Sub-lote: 
+0016#STR0016#ALL#A Seleccionar Registos...
+0017#STR0017#ALL#Data: 
+0018#STR0018#ALL#Lote: 
+0019#STR0019#ALL#Total do documento: 
+0019#STR0019#MEX#Total do documento: 
+0019#STR0019#PTG#Total do documento: 
+0020#STR0020#ALL#Total do sub-lote: 
+0023#STR0023#ALL# até 
+0024#STR0024#ALL#Esta listagem necessita do campo ct2_key. Dever criá-lo com tipo caracter de 100
+0026#STR0026#ALL#Movimento
+0032#STR0032#ALL#Valor de débito
+0032#STR0032#MEX#Valor de débito
+0032#STR0032#PTG#Valor de débito
+0033#STR0033#ALL#Valor de crédito
+0033#STR0033#MEX#Valor de crédito
+0033#STR0033#PTG#Valor de crédito
+0034#STR0034#ALL#Hp
+0037#STR0037#ALL#Total valor déb.
+0037#STR0037#ANG#Total valor déb
+0037#STR0037#EQU#Total valor déb
+0037#STR0037#HAI#Total valor déb
+0037#STR0037#MEX#Total valor déb.
+0037#STR0037#PTG#Total valor déb.
+0038#STR0038#ALL#Total valor créd.
+0038#STR0038#ANG#Total valor créd
+0038#STR0038#EQU#Total valor créd
+0038#STR0038#HAI#Total valor créd
+0038#STR0038#MEX#Total valor créd.
+0038#STR0038#PTG#Total valor créd.
+0039#STR0039#ALL#Total do documento: 
+0040#STR0040#ALL#Total do lote: 
+0041#STR0041#ALL#Total do sub-lote: 
+0043#STR0043#ALL#Histórico do Documento Contabilístico

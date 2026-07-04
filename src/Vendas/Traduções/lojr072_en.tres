@@ -1,0 +1,38 @@
+0001#STR0001#ALL#It prints a sales list considering the entered parameters : 
+0002#STR0002#ALL#By Sale Date, by Sales Assistant, by Product, by Type, 
+0003#STR0003#ALL#by Products Group, by Customers and by Cash .
+0004#STR0004#ALL#Z.Form
+0005#STR0005#ALL#Management
+0006#STR0006#ALL#Sales List
+0007#STR0007#ALL#By Date
+0008#STR0008#ALL#By S.Assistant
+0009#STR0009#ALL#By Product
+0010#STR0010#ALL#By Type
+0011#STR0011#ALL#By Group
+0012#STR0012#ALL#By Customer
+0013#STR0013#ALL#By Cash
+0014#STR0014#ALL#Date     Invoice       Ser Ass.   Name Cust.  Customer Name            Group Type Product         Description     UN Qtty        Unit Vlr.    It.Desc. Prop.Desc.     Item Incr. Receiv. Value    Tax  Value    CP. Fi OL
+0015#STR0015#ALL#Assist Ass. Name  Date     Invoice       Ser Custom Name              Group  Typ Product         Description      UN Qtty        Unit Vlr.    It.Descr Prop.Desc.     Item Incr. Receiv. Value    Tax  Value    CP. Fi OL
+0016#STR0016#ALL#Product Code    Description    Date     Invoice       Ser Assis. Ass. Name   Cust.  Customer Name     Group Type  UN Qtty        Unit Vlr.    It.Descr Prop.Desc.     Item Incr. Receiv. Value    Tax  Value    CP. Fi OL
+0017#STR0017#ALL#Type Product Code    Description    Date     Invoice       Ser Assis. Ass. Name   Cust.  Customer Name     Group  UN Qtty        Unit Vlr.    It.Descr Prop.Desc.     Item Incr. Receiv. Value    Tax  Value    CP. Fi OL
+0018#STR0018#ALL#Grou Date     Invoice       Ser Ass.   Name Cust.  Custo. Name              Type Product         Description      UN Qtty        Unit Vlr.    It.Descr Prop.Desc.     Item Incr. Receiv. Value    Tax  Value    CP. Fi OL
+0019#STR0019#ALL#Client Customer Name     Typ Date     Invoice       Ser Ass.   Name        Group Product         Description      UN Qtty        Unit Vlr.    It.Descr Prop.Desc.     Item Incr. Receiv. Value    Tax  Value    CP. Fi OL
+0020#STR0020#ALL#Cash  Customer Name     Type Date     Invoice       Ser Ass.   Name        Group Product         Description      UN Qtty        Unit Vlr.    It.Desc. Prop.Desc.     Item Incr. Receiv. Value    Tax  Value    CP. Fi OL
+0021#STR0021#ALL# - By Date
+0022#STR0022#ALL# - By S.Assistant
+0023#STR0023#ALL# - By Product
+0024#STR0024#ALL# - By Type
+0025#STR0025#ALL# - By Group
+0026#STR0026#ALL# - By Customer
+0027#STR0027#ALL# - By Cash
+0028#STR0028#ALL#Selecting Records...
+0029#STR0029#ALL#CANCELLED BY THE OPERATOR
+0030#STR0030#ALL#S U B - T O T A L ---->
+0031#STR0031#ALL#G R A N D   T O T A L   ---->
+0032#STR0032#ALL#Consider Devolution   ?
+0033#STR0033#ALL#Yes
+0034#STR0034#ALL#No
+0035#STR0035#ALL#TOTAL OF THE BRANCH OFFICE    : 
+0036#STR0036#ALL# *********************** Returns ************************** 
+0037#STR0037#ALL# ( Complete )
+0038#STR0038#ALL# LAY-WAY RETURN

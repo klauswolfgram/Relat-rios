@@ -1,0 +1,44 @@
+0001#STR0001#ALL#This program print the Bank Checks, using a 
+0002#STR0002#ALL#pre-printed form.   
+0003#STR0003#ALL#Print Checks in Continuous Form Paper
+0004#STR0004#ALL#Check
+0005#STR0005#ALL#Management   
+0006#STR0006#ALL#January
+0007#STR0007#ALL#Febuary  
+0008#STR0008#ALL#March
+0009#STR0009#ALL#April
+0010#STR0010#ALL#May 
+0011#STR0011#ALL#June 
+0012#STR0012#ALL#July 
+0013#STR0013#ALL#August
+0014#STR0014#ALL#September
+0015#STR0015#ALL#October
+0016#STR0016#ALL#November
+0017#STR0017#ALL#December
+0018#STR0018#ALL#Click Print Test for position test.
+0019#STR0019#ALL#Before printing, check whether continuous form is adjusted.
+0020#STR0020#ALL#The test will be printed in the value column.
+0021#STR0021#ALL#Is the Form placed correctly?                                 
+0022#STR0022#ALL#Initial Date
+0023#STR0023#ALL#End Date 
+0024#STR0024#ALL#Error configuring check + CHR ( 13 ) + Please check the extension line size
+0025#STR0025#ALL#Check number already exists:  
+0026#STR0026#ALL#Checking Account Data check Target CPMF are invalid         
+0027#STR0027#ALL#CHECK ISSUED
+0028#STR0028#ALL#The Check number 
+0029#STR0029#ALL# cannot be issued, because it is voided\replaced.
+0030#STR0030#ALL#No check is found for issue.
+0031#STR0031#ALL#NO TO THE ORDER
+0032#STR0032#ALL#Select the check(s) to remove the expression  'NO TO THE ORDER'
+0033#STR0033#ALL#Bank
+0034#STR0034#ALL#Bank Branch
+0035#STR0035#ALL#Account
+0036#STR0036#ALL#Attention
+0037#STR0037#ALL#To print checks, use the routine Issued Checks Control.
+0038#STR0038#ALL#Print format other than latest use. Printer configurations will be reset (for further information, access TDN portal). Continue?
+0039#STR0039#ALL#Click OK to print the check.
+0040#STR0040#ALL#Cancel
+0041#STR0041#ALL#Print Test
+0042#STR0042#ALL#Printing of Checks
+0043#STR0043#ALL#Test Printing of Check
+0044#STR0044#ALL#Print check for positioning test.

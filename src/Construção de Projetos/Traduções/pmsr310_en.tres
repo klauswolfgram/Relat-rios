@@ -1,0 +1,28 @@
+0001#STR0001#ALL#This report will print the cash flow from required management survey considering all the revenue (sale order, bill receivable and bank transaction) and expenses (purchase order, delivery authorization, inbound invoice, notes payable
+0002#STR0002#ALL#Managerial Queries - Cash Flow
+0003#STR0003#ALL#Daily
+0004#STR0004#ALL#Weekly
+0005#STR0005#ALL#Ten days
+0006#STR0006#ALL#Fortnight
+0007#STR0007#ALL#Monthly
+0008#STR0008#ALL#Period 
+0009#STR0009#ALL#       Estm.PC.Val           Expenses        Estm.PV.Val           Receipts            Day Balance       Day Var.           Accr. Outflows             Accr. Inflows       Accrued Balance     Accr. Var. 
+0010#STR0010#ALL#Plan Code : 
+0011#STR0011#ALL#Initial Balance : 
+0012#STR0012#ALL#Payable Total : 
+0013#STR0013#ALL#Receivable Total : 
+0014#STR0014#ALL#Final Balance : 
+0015#STR0015#ALL#Z.Form
+0016#STR0016#ALL#Administration
+0017#STR0017#ALL#Amt.Fore.PC
+0018#STR0018#ALL#Expenses
+0019#STR0019#ALL#Amt.Fore.PV
+0020#STR0020#ALL#Revenues
+0021#STR0021#ALL#Balance on
+0022#STR0022#ALL#Var. on
+0023#STR0023#ALL#Accu.Outflows
+0024#STR0024#ALL#Accu. Inflows
+0025#STR0025#ALL#Accrued Balance
+0026#STR0026#ALL#Accu. Var. 
+0027#STR0027#ALL#Managerial plan
+0028#STR0028#ALL#Managerial query - Cash flow       

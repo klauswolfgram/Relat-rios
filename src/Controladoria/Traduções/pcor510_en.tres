@@ -1,0 +1,17 @@
+0001#STR0001#ALL#Comparison of cubes - Balances statement          
+0002#STR0002#ALL#Code  
+0003#STR0003#ALL#Descript.
+0004#STR0004#ALL#FinalBalance(F1)
+0005#STR0005#ALL#FinalBalance(F2)
+0006#STR0006#ALL#Difference(F1-F2)
+0007#STR0007#ALL#Difference(F2/F1 %)
+0008#STR0008#ALL#COMPARISON BETWEEN CONFIGURATION: 
+0009#STR0009#ALL# AND CONFIGURATION: 
+0010#STR0010#ALL#Printing cancelled by the operator..
+0011#STR0011#ALL#Cube 1 Blnce
+0012#STR0012#ALL#Cube 2 Blnce
+0013#STR0013#ALL#Difference
+0014#STR0014#ALL#Variat. 
+0015#STR0015#ALL#This report will print the comparison of cubes - balance statement according to the parameters requested by the user. For more information about this report, query the Program Help (F1).                       
+0016#STR0016#ALL#Attent.
+0017#STR0017#ALL#User without access to the report. Check configurations.

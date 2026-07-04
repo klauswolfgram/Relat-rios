@@ -1,0 +1,24 @@
+0001#STR0001#ALL#Inf. disponible unicamente en TReport
+0002#STR0002#ALL#Emis. del Inf. Plan. Ref. 
+0003#STR0003#ALL#Este programa imprimira el Balance Parcial basado en el vinc. del plan de ctas. con el plan de ctas. referencial
+0004#STR0004#ALL#Plan de ctas. referencial
+0005#STR0005#ALL#Cta.
+0006#STR0006#ALL#Descrip.
+0007#STR0007#ALL#Saldo anterior
+0008#STR0008#ALL#Débito
+0009#STR0009#ALL#Crédito
+0010#STR0010#ALL#Mov  periodo
+0011#STR0011#ALL#Sdo. actual
+0012#STR0012#ALL#BALANCE PARCIAL PLAN REFER.: 
+0013#STR0013#ALL# DE 
+0014#STR0014#ALL# A 
+0015#STR0015#ALL# EN 
+0016#STR0016#ALL# Y 
+0017#STR0017#ALL# - SUCURS.: 
+0018#STR0018#ALL# - SUC.: 
+0019#STR0019#ALL#Creando Archivo Temporal...
+0020#STR0020#ALL#Balanc. Parc. Verif.
+0021#STR0021#ALL# T O T A L 
+0022#STR0022#ALL#Seleccionando Registros..
+0023#STR0023#ALL#Plan referencial y/o versión no completados. 
+0024#STR0024#ALL#Plan ref. y versión no registrados en el arch. Plan referencial.

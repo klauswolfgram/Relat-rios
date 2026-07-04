@@ -1,0 +1,12 @@
+0001#STR0001#ALL#Relatorio de Follow-UP de Plano de Acao
+0002#STR0002#ALL#Será impresso de acordo com os parametros solicitados pelo usuario.
+0003#STR0003#ALL#Codigo+Rev+Sequencia
+0004#STR0004#ALL#Fil.Usuario+Mat.Usuario
+0005#STR0005#ALL#Zebrado
+0006#STR0006#ALL#Administraçäo
+0007#STR0007#ALL#FOLLOW-UP PLANO DE ACAO
+0008#STR0008#ALL#Etapas
+0009#STR0009#ALL#Responsavel               Tipo Acao            % Acao  Previsao   Conclusao   Descricao Resumida
+0010#STR0010#ALL#Codigo Acao          Responsavel                                  Tipo Acao            % Acao   Previsao   Conclusao   Descricao Resumida                                   Codigo FNC
+0011#STR0011#ALL#Responsavel
+0012#STR0012#ALL#Acao

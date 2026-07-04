@@ -1,0 +1,26 @@
+0001#STR0001#ALL#This program will print a report on Amounts that 
+0002#STR0002#ALL#were not depreciated for each Asset
+0003#STR0003#ALL#Balance to deprec
+0004#STR0004#ALL#Balances to depr. per Asset
+0005#STR0005#ALL#Code    Descript.
+0006#STR0006#ALL#Code       Item Descript.
+0007#STR0007#ALL# per 
+0008#STR0008#ALL#CANCELLED BY THE OPERATOR  
+0009#STR0009#ALL#S U B T O T A L S
+0010#STR0010#ALL#T O T A L S
+0011#STR0011#ALL#Account
+0012#STR0012#ALL#Cost Center
+0013#STR0013#ALL#Z.Form
+0014#STR0014#ALL#Management
+0015#STR0015#ALL#Ledger Accnt.
+0016#STR0016#ALL#Value Class    
+0017#STR0017#ALL#Entity info      
+0018#STR0018#ALL#Asset info  
+0019#STR0019#ALL#Account total:  
+0020#STR0020#ALL#Cost center total:        
+0021#STR0021#ALL#The selected aggregator
+0022#STR0022#ALL#is inactive or expired.
+0023#STR0023#ALL#Notice
+0024#STR0024#ALL#EMPTY
+0025#STR0025#ALL#When Consider Branches is set to Yes (To Branch), it cannot be empty.
+0026#STR0026#ALL#not found in database.

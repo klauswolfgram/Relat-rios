@@ -1,0 +1,22 @@
+0001#STR0001#ALL#Etiquetas Para Inventário
+0002#STR0002#ALL#Este programa irá emitir etiquetas para contagem do stock.
+0003#STR0003#ALL#Será emitido em 3 colunas para cada produto.
+0004#STR0004#ALL# por código       
+0005#STR0005#ALL# por tipo         
+0006#STR0006#ALL# por descrição    
+0007#STR0007#ALL# por grupo        
+0008#STR0008#ALL#Código de barras
+0009#STR0009#ALL#Administração
+0010#STR0010#ALL#Cancelado Pelo Operador
+0011#STR0011#ALL#Código:
+0015#STR0015#ALL#| Descr.: 
+0017#STR0017#ALL# Morada:
+0018#STR0018#ALL#| data da 1a. contagem : ____/____/____
+0019#STR0019#ALL#| data da 2a. contagem : ____/____/____
+0020#STR0020#ALL#| data da 3a. contagem : ____/____/____
+0021#STR0021#ALL#| quantidade apurada:
+0022#STR0022#ALL#  visto funcionário     visto conferente  |
+0023#STR0023#ALL#|          a-inventário n.º 
+0024#STR0024#ALL#|          b-inventário n.º 
+0025#STR0025#ALL#|          c-inventário n.º 
+0026#STR0026#ALL# por endereço     

@@ -1,0 +1,51 @@
+0001#STR0001#ALL#Relação da Ficha Financeira
+0002#STR0002#ALL#Sera impresso de acordo com os parâmetro s solicitados pelo
+0003#STR0003#ALL#Utilizador.
+0004#STR0004#ALL#Registo
+0005#STR0005#ALL#Centro De Custo
+0007#STR0007#ALL#Código de barras
+0008#STR0008#ALL#Administração
+0010#STR0010#ALL#       ficha financeira    
+0011#STR0011#ALL#Ver Descrição            1-2-3-4-5       Janeiro    Fevereiro        Março        Abril         Maio        Junho        Julho       Agosto     Setembro      Outubro     Novembro     Dezembro  Subsídio De Natal        Total
+0012#STR0012#ALL#A Seleccionar Registos...
+0013#STR0013#ALL#Fil: 
+0014#STR0014#ALL#REG.:
+0015#STR0015#ALL#C. Custo:
+0016#STR0016#ALL#Nome: 
+0019#STR0019#ALL#Função: 
+0020#STR0020#ALL#Cbo: 
+0021#STR0021#ALL#Data admissão: 
+0022#STR0022#ALL#Data opção: 
+0023#STR0023#ALL#  dt.dem.: 
+0024#STR0024#ALL#  cart.prof. no.: 
+0025#STR0025#ALL# série: 
+0026#STR0026#ALL#  NIT.:   
+0028#STR0028#ALL#Horas mês: 
+0031#STR0031#ALL#Total De Remunerações
+0032#STR0032#ALL#Total De Descontos
+0033#STR0033#ALL#1 - Dirf
+0034#STR0034#ALL#2 - Fgts
+0035#STR0035#ALL#3 - Ss
+0036#STR0036#ALL#4 - IRS
+0038#STR0038#ALL#Incidências
+0039#STR0039#ALL#Legenda: 
+0040#STR0040#ALL#(competência)
+0041#STR0041#ALL#( data de pagamento )
+0045#STR0045#ALL#Ver Descrição
+0047#STR0047#ALL#Janeiro
+0048#STR0048#ALL#Fevereiro
+0049#STR0049#ALL#Marco
+0050#STR0050#ALL#Abril
+0051#STR0051#ALL#Maio
+0052#STR0052#ALL#Junho
+0053#STR0053#ALL#Julho
+0054#STR0054#ALL#Agosto
+0055#STR0055#ALL#Setembro
+0056#STR0056#ALL#Outubro
+0057#STR0057#ALL#Novembro
+0058#STR0058#ALL#Dezembro
+0059#STR0059#ALL#SUB.NATAL
+0060#STR0060#ALL#O relatório emite a ficha financeira do empregado  
+0061#STR0061#ALL#Informações de Empregados
+0065#STR0065#ALL#Cód.cae 
+0067#STR0067#ALL#  DI:

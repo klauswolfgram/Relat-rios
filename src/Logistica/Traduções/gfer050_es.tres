@@ -1,0 +1,24 @@
+0001#STR0001#ALL#Lista Embarque de Carga
+0002#STR0002#ALL#Emite la relacion de las Listas de Embarque de Carga de acuerdo con los parametros informados.
+0003#STR0003#ALL#Nombre Transportista
+0004#STR0004#ALL#Conductor.
+0005#STR0005#ALL#Nombre Conductor
+0006#STR0006#ALL#Conductor 02
+0007#STR0007#ALL#Nombre Conductor 02
+0008#STR0008#ALL#Tot Valor 
+0009#STR0009#ALL#Vol Tot
+0010#STR0010#ALL#Peso Tot
+0011#STR0011#ALL#Peso Cub Tot
+0012#STR0012#ALL#Documentos de Carga
+0013#STR0013#ALL#Emisor
+0014#STR0014#ALL#Nombre 
+0015#STR0015#ALL#Tp Docto
+0016#STR0016#ALL#Remitente
+0017#STR0017#ALL#Ciudad
+0018#STR0018#ALL#Destinatario
+0019#STR0019#ALL#Est/Prov/Reg
+0020#STR0020#ALL#Items de los Documentos
+0021#STR0021#ALL#Unitizadores
+0022#STR0022#ALL#Descripcion Unit.
+0023#STR0023#ALL#Trechos del Itinerario
+0024#STR0024#ALL#Codigo

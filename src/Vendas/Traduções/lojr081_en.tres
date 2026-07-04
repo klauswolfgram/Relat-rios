@@ -1,0 +1,28 @@
+0001#STR0001#ALL#Labels for direct mailing 
+0002#STR0002#ALL#The aim of this program is to print the labels for direct mailing   
+0003#STR0003#ALL#Supplier  
+0004#STR0004#ALL#Customer
+0005#STR0005#ALL#Product
+0006#STR0006#ALL#Files   
+0007#STR0007#ALL#Label print           
+0008#STR0008#ALL#Attention... 
+0009#STR0009#ALL# not found in server       
+0010#STR0010#ALL#ZIP - 
+0011#STR0011#ALL#Code:   
+0012#STR0012#ALL#Descript.: 
+0013#STR0013#ALL#Type: 
+0014#STR0014#ALL#Group: 
+0015#STR0015#ALL#Unit:    
+0016#STR0016#ALL#Weight: 
+0017#STR0017#ALL#Generating label for mail merge
+0018#STR0018#ALL#Report processing
+0019#STR0019#ALL#Start of label processing for customers file
+0020#STR0020#ALL#End of label processing for customers file
+0021#STR0021#ALL#Start of label processing for suppliers file
+0022#STR0022#ALL#End of label processing for suppliers file
+0023#STR0023#ALL#Start of label processing for products file
+0024#STR0024#ALL#End of label processing for products file
+0025#STR0025#ALL#Sending page configuration parameters
+0026#STR0026#ALL#Executing Word macro
+0027#STR0027#ALL#Updating document variables
+0028#STR0028#ALL#Processing ...

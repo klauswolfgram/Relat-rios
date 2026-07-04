@@ -1,0 +1,25 @@
+0001#STR0001#ALL#Relaçäo de Pontos do Cargo e do Funcionário
+0002#STR0002#ALL#Será impresso de acordo com os parametros solicitados pelo
+0003#STR0003#ALL#usuario.
+0004#STR0004#ALL#Filial + Matricula
+0005#STR0005#ALL#Nome
+0006#STR0006#ALL#C.Custo+Nome
+0007#STR0007#ALL#Funcao + Nome
+0008#STR0008#ALL#Pontos
+0009#STR0009#ALL#Zebrado
+0010#STR0010#ALL#Administraçäo
+0011#STR0011#ALL#                                             Pontuacao    No.   
+0012#STR0012#ALL#Fil. Matric Nome do Funcionario            Cargo.  Func.  Anos   %Func.
+0013#STR0013#ALL# PONTUACAO DE FUNCIONARIOS 
+0014#STR0014#ALL#Total de Funcionarios           : 
+0015#STR0015#ALL#Total de Pontos do Cargo        : 
+0016#STR0016#ALL#Selecionando Registros...
+0017#STR0017#ALL#Total de Pontos Funcionarios    : 
+0018#STR0018#ALL#Selecionando Registros...
+0019#STR0019#ALL#Funcionário
+0020#STR0020#ALL#Pontos Cargo
+0021#STR0021#ALL#Pontos Func.
+0022#STR0022#ALL#Nº Anos
+0023#STR0023#ALL#% Func.
+0024#STR0024#ALL#Total de Funcionários
+0025#STR0025#ALL#Este relatório emite a relação de pontos do cargo e do funcionário.

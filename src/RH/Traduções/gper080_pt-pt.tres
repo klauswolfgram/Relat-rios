@@ -1,0 +1,38 @@
+0001#STR0001#ALL#Demonstrativo De Médias
+0002#STR0002#ALL#Sera impresso de acordo com os parâmetro s solicitados pelo
+0003#STR0003#ALL#Utilizador.
+0004#STR0004#ALL#Registo
+0005#STR0005#ALL#Centro De Custo
+0007#STR0007#ALL#Código de barras
+0008#STR0008#ALL#Administração
+0009#STR0009#ALL#Base de dados: 
+0010#STR0010#ALL#Demonstrativo De Médias
+0011#STR0011#ALL#Férias Vencidas
+0012#STR0012#ALL#Férias A Vencer
+0013#STR0013#ALL#Sub.Natal      
+0014#STR0014#ALL#Aviso prévio   
+0015#STR0015#ALL#*** demonstrativo de média de horas extras e adicionais para 
+0016#STR0016#ALL#| empregado....: 
+0017#STR0017#ALL#Cart.trab.:
+0018#STR0018#ALL#Registo: 
+0019#STR0019#ALL#Admissão:
+0021#STR0021#ALL#Função....: 
+0023#STR0023#ALL#| remuneração base...: 
+0024#STR0024#ALL# por mês
+0027#STR0027#ALL#Totais - 
+0028#STR0028#ALL#Total faltas - 
+0029#STR0029#ALL#Total adto. -  
+0030#STR0030#ALL#Dias
+0031#STR0031#ALL#Valor
+0032#STR0032#ALL#Ref.    Data Pgt     Horas      Valor Orig.        Valor Actual
+0033#STR0033#ALL#* Tot Outros
+0034#STR0034#ALL#* méd outros  
+0035#STR0035#ALL#* outros pgt 
+0036#STR0036#ALL#* tot h.ext 
+0037#STR0037#ALL#* méd h.ext   
+0038#STR0038#ALL#* h.ext pgt  
+0039#STR0039#ALL#** total      
+0040#STR0040#ALL#** média     
+0041#STR0041#ALL#** Média Pagt.
+0042#STR0042#ALL#Nº Período
+0043#STR0043#ALL#Lic.maternidade

@@ -1,0 +1,33 @@
+0001#STR0001#ALL#Exibe os Dados Conforme as Informacoes da Agenda Medica
+0002#STR0002#ALL#Zebrado
+0003#STR0003#ALL#Administracao
+0004#STR0004#ALL#Relatório da Agenda Médica
+0005#STR0005#ALL#Usuário: 
+0006#STR0006#ALL#Período De ?
+0007#STR0007#ALL#Período Até ?
+0008#STR0008#ALL#Considerar :
+0009#STR0009#ALL#Todos
+0010#STR0010#ALL#Atendidos
+0011#STR0011#ALL#Nao-Atendidos
+0012#STR0012#ALL#Ficha        Nome                             Data Consulta  Hora Consulta  Exame                       Motivo                    Observação                                      Realizado?
+0013#STR0013#ALL#     Observação
+0014#STR0014#ALL#Usuário:  
+0015#STR0015#ALL#Usuário
+0016#STR0016#ALL#Ficha Médica
+0017#STR0017#ALL#Nome
+0018#STR0018#ALL#Data Consulta
+0019#STR0019#ALL#Hora Consulta
+0020#STR0020#ALL#Exame
+0021#STR0021#ALL#Motivo
+0022#STR0022#ALL#Observação: 
+0023#STR0023#ALL#Imprimir ?
+0024#STR0024#ALL#Ficha Médica
+0025#STR0025#ALL#Matrícula
+0026#STR0026#ALL#Ambos
+0027#STR0027#ALL#Matrícula    Nome                             Data Consulta  Hora Consulta  Exame                       Motivo                    Observação                                      Realizado?
+0028#STR0028#ALL#Ficha     Matr.  Nome                             Data Consulta  Hora Consulta  Exame                       Motivo                    Observação                                      Realizado?
+0029#STR0029#ALL#Matr.
+0030#STR0030#ALL#Realizado?
+0031#STR0031#ALL#Ficha        Nome                             Data Consulta  Hora Consulta  Exame                       Motivo                    Observação
+0032#STR0032#ALL#Matrícula    Nome                             Data Consulta  Hora Consulta  Exame                       Motivo                    Observação
+0033#STR0033#ALL#Ficha     Matr.  Nome                             Data Consulta  Hora Consulta  Exame                       Motivo                    Observação

@@ -1,0 +1,159 @@
+0001#STR0001#ALL#It will be printed in accordance with parameters requested by the user
+0002#STR0002#ALL#The [Registration Data] area will use the fields selected on the button [Definitions]
+0003#STR0003#ALL#The [Registration Data] area will use pre-fixed fields list
+0004#STR0004#ALL#Regist.
+0005#STR0005#ALL#Cost Center
+0006#STR0006#ALL#Name
+0007#STR0007#ALL#Z. Form 
+0008#STR0008#ALL#Administration
+0009#STR0009#ALL#REGISTRATION FORM
+0010#STR0010#ALL#Company  : 
+0011#STR0011#ALL#Branch : 
+0012#STR0012#ALL#Address  : 
+0013#STR0013#ALL#Date
+0014#STR0014#ALL#Raise Descr.
+0015#STR0015#ALL#Salary Changes
+0016#STR0016#ALL#Cat.
+0017#STR0017#ALL#Not Reg. Table(41) 
+0018#STR0018#ALL#Leaves      
+0019#STR0019#ALL#Type 
+0020#STR0020#ALL#Start Dt.
+0021#STR0021#ALL#Vacations
+0022#STR0022#ALL#End Dt 
+0023#STR0023#ALL#Acquisitive Period
+0024#STR0024#ALL#File Updating
+0025#STR0025#ALL#Updated Filed
+0026#STR0026#ALL#Dependant
+0027#STR0027#ALL#Code
+0028#STR0028#ALL#District: 
+0029#STR0029#ALL#City.:
+0030#STR0030#ALL#State.:
+0031#STR0031#ALL#Zip Code.: 
+0032#STR0032#ALL#CNPJ:
+0033#STR0033#ALL#C.N.A.E.:
+0034#STR0034#ALL#City Cod.:
+0035#STR0035#ALL#Role   
+0036#STR0036#ALL#Union Dues
+0037#STR0037#ALL#Birthdate.
+0038#STR0038#ALL#Gender
+0039#STR0039#ALL#Month
+0040#STR0040#ALL#Parent
+0041#STR0041#ALL#Transfers
+0042#STR0042#ALL#Union 
+0043#STR0043#ALL#Origin Company
+0044#STR0044#ALL#Branch
+0045#STR0045#ALL#Destination Company
+0046#STR0046#ALL# Attention! 
+0047#STR0047#ALL#CEI: 
+0048#STR0048#ALL#IT Dep.
+0049#STR0049#ALL#Addr.: 
+0050#STR0050#ALL#Dep.Fam.Al.
+0051#STR0051#ALL#City: 
+0052#STR0053#ALL#Paym.
+0053#STR0054#ALL#Funds
+0054#STR0055#ALL#Value
+0055#STR0056#ALL#Vacation Period 
+0056#STR0057#ALL#Warning Date
+0057#STR0058#ALL#Payment Date
+0058#STR0059#ALL#Description
+0059#STR0060#ALL#Beneficiary
+0060#STR0061#ALL#Type Not Registered on Table 30
+0061#STR0062#ALL#Printer not ready for use or does not exist. 
+0062#STR0063#ALL#Position
+0063#STR0064#ALL#Male
+0064#STR0065#ALL#Female
+0065#STR0066#ALL#Undetermined
+0066#STR0067#ALL#Determined
+0067#STR0068#ALL#Indigen.
+0068#STR0069#ALL#White
+0069#STR0070#ALL#Black
+0070#STR0071#ALL#Yellow
+0071#STR0072#ALL#Brown
+0072#STR0073#ALL#Not Entered
+0073#STR0074#ALL#Yes
+0074#STR0075#ALL#No
+0075#STR0076#ALL#Child
+0076#STR0077#ALL#Spouse
+0077#STR0078#ALL#Others
+0078#STR0079#ALL#D.Vacat.
+0079#STR0080#ALL#D.Bonus
+0080#STR0081#ALL#Period used to print the data:                 
+0081#STR0082#ALL#Signatures  
+0082#STR0083#ALL#Employee signature      
+0083#STR0084#ALL#Legal responsible 
+0084#STR0085#ALL#Thumb   
+0085#STR0086#ALL#Task Tp.  
+0086#STR0087#ALL#From Date
+0087#STR0088#ALL#To Date
+0088#STR0089#ALL#Task  
+0089#STR0090#ALL#Classes/Week
+0090#STR0091#ALL#Qty. Task
+0091#STR0092#ALL#Unit Value
+0092#STR0093#ALL#Total Amt. 
+0093#STR0094#ALL#Cost C.
+0094#STR0095#ALL#Task Fund 
+0095#STR0096#ALL#Cla/Week
+0096#STR0097#ALL#Q.Tas.
+0097#STR0098#ALL#Unit Value  
+0098#STR0099#ALL# - Tasks  
+0099#STR0100#ALL#C.T.P.S. NOTE AND UPDATE FORM              
+0100#STR0101#ALL#0 = None
+0101#STR0102#ALL#1 = Physical
+0102#STR0103#ALL#2 = Auditive
+0103#STR0104#ALL#3 = Visual
+0104#STR0105#ALL#4-Intellectual (mental)
+0105#STR0106#ALL#5 = Multiple
+0106#STR0107#ALL#6 = Rehabilitated
+0107#STR0108#ALL# Date      
+0108#STR0109#ALL#Category Description                                        
+0109#STR0110#ALL#Decree n. 628 of 10/08/2000 of Ministry of Labor authorizes issue of electronic statement with notes of Vacation, 
+0110#STR0111#ALL#Union Dues, transferences, changes of Salary and Position. We recommend you to keep it with Employee Card, 
+0111#STR0112#ALL#due to expiration date predicted in Labor Legislation.
+0112#STR0113#ALL#NIF: 
+0113#STR0114#ALL#Fixed
+0114#STR0115#ALL#Variable
+0115#STR0116#ALL#Fixed Bonus
+0116#STR0117#ALL#Var. Bonus
+0117#STR0118#ALL#Type of Tasks
+0118#STR0119#ALL#REASON: 
+0119#STR0120#ALL#Sheet..:
+0120#STR0121#ALL#Time:
+0121#STR0122#ALL#Ref.Dt.:
+0122#STR0123#ALL#End Time:
+0123#STR0124#ALL#Issue:
+0124#STR0125#ALL#Union Support Dues
+0125#STR0126#ALL#Father/Mother
+0126#STR0127#ALL#Stepson
+0127#STR0128#ALL#Registration: 
+0128#STR0129#ALL#Cost Center: 
+0129#STR0130#ALL#Decree nº· 41 of 03/28/2007 of Ministry of Labor authorizes the electronic statement issue with notes of Vacations, 
+0130#STR0131#ALL#Internal Training
+0131#STR0132#ALL#Course
+0132#STR0133#ALL#Validity
+0133#STR0134#ALL#External Courses
+0134#STR0135#ALL#Attention
+0135#STR0136#ALL#To print Training data, run 
+0136#STR0137#ALL#OK
+0137#STR0138#ALL#Record Form is printed without these data.
+0138#STR0139#ALL#procedures of technical newsletter: Printing_Training_Record_Form.
+0139#STR0140#ALL#Dt.Paid Leave
+0140#STR0141#ALL#Type Not Registered  on the  Absence types table.
+0141#STR0142#ALL#Collective Agreem. Dt
+0142#STR0143#ALL#Collective Agreem. Dt
+0143#STR0144#ALL#SSN:
+0144#STR0145#ALL#None
+0145#STR0146#ALL#Minimum Insalub.
+0146#STR0147#ALL#Average Insalub.
+0147#STR0148#ALL#Maximum Insalub.
+0148#STR0149#ALL#Intermittent
+0149#STR0150#ALL#Registration Data
+0150#STR0151#ALL#Call Dt. 
+0151#STR0152#ALL#Activ.St.
+0152#STR0153#ALL#Activ.End
+0153#STR0154#ALL#eSocial Code
+0154#STR0155#ALL#Salary
+0155#STR0156#ALL#Role
+0156#STR0157#ALL#Calls
+0157#STR0158#ALL#Use the Start/End Date entered to filter users according to the Hiring Date?
+0158#STR0159#ALL#Otherwise, the form will follow the default behavior of using the Start/End Date for transaction filtering only.
+0159#STR0160#ALL#O relatório Ficha de Registro(GPER460) não deve ser incluído diretamente no menu e deve ser chamado exclusivamente a partir da rotina Ficha de Registro(GPEA260).

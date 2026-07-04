@@ -1,0 +1,77 @@
+0001#STR0001#ALL#Este programa tem como objetivo imprimir relatorio 
+0002#STR0002#ALL#de acordo com os parametros informados pelo usuario.
+0003#STR0003#ALL# -Romaneio- 
+0004#STR0004#ALL#Romaneio
+0005#STR0005#ALL#Zebrado
+0006#STR0006#ALL#Administracao
+0007#STR0007#ALL#[ Dados da Empresa ]
+0008#STR0008#ALL#CNPJ.: 
+0009#STR0009#ALL#   IE.: 
+0010#STR0010#ALL#Telefone.: 
+0011#STR0011#ALL#[ Dados da Operacao e Produto ]
+0012#STR0012#ALL#Romaneio.: 
+0013#STR0013#ALL#Tipo.: 
+0014#STR0014#ALL#Safra....: 
+0015#STR0015#ALL#Produto..: 
+0016#STR0016#ALL#UM.: 
+0017#STR0017#ALL#[ Dados da Pesagem e Classificacao ]
+0018#STR0018#ALL#Primeira Pesagem..: 
+0019#STR0019#ALL#Data: 
+0020#STR0020#ALL# Hora: 
+0021#STR0021#ALL#Segunda Pesagem...: 
+0022#STR0022#ALL#Sub Total.........: 
+0023#STR0023#ALL#Base..............: 
+0024#STR0024#ALL#Especie.: 
+0025#STR0025#ALL#(-) Extras........: 
+0026#STR0026#ALL#Liquido...........: 
+0027#STR0027#ALL#Ticket Classificacao.: 
+0028#STR0028#ALL#[ Dados Da Entidade / Contrato ]
+0029#STR0029#ALL#Entidade.: 
+0030#STR0030#ALL#Endereço.: 
+0031#STR0031#ALL#Municipio: 
+0032#STR0032#ALL# Cep.: 
+0033#STR0033#ALL#Contrato.: 
+0034#STR0034#ALL# Descricao.: 
+0035#STR0035#ALL#Qtd. Liquida: 
+0036#STR0036#ALL#[ Dados Fiscais ]
+0037#STR0037#ALL#No./S.: 
+0038#STR0038#ALL#Qtd. Fiscal: 
+0039#STR0039#ALL#V.Uni.: 
+0040#STR0040#ALL#V.Tot.: 
+0041#STR0041#ALL#Nota Fiscal do Produtor (No./S.).: 
+0042#STR0042#ALL#[ Dados Complementares ]
+0043#STR0043#ALL#Placa.: 
+0044#STR0044#ALL#Motorista.: 
+0045#STR0045#ALL#Observ...: 
+0046#STR0046#ALL#[ Responsavel...: 
+0047#STR0047#ALL#Romaneio
+0048#STR0048#ALL#Modelo
+0049#STR0049#ALL#Pre-Romaneio
+0050#STR0050#ALL#Transport.: 
+0051#STR0051#ALL#CPF......: 
+0052#STR0052#ALL#CNPJ.....: 
+0053#STR0053#ALL# I.E.: 
+0054#STR0054#ALL#Total de Descontos: 
+0055#STR0055#ALL#% de Rateio: 
+0056#STR0056#ALL#Qtd. Fisica: 
+0057#STR0057#ALL#Total de Descontos: 
+0058#STR0058#ALL#A T E N Ç Ã O ! ! !
+0059#STR0059#ALL#--- ROMANEIO SEM PESAGEM ---
+0060#STR0060#ALL#Confirma a impressão do romaneio?
+0061#STR0061#ALL#Class....: 
+0062#STR0062#ALL#Qtd Física........:
+0063#STR0063#ALL#Física
+0064#STR0064#ALL#Fiscal
+0065#STR0065#ALL#OP: 
+0066#STR0066#ALL#Variedade: 
+0067#STR0067#ALL#Ordem Colheita: 
+0068#STR0068#ALL#Instrução: 
+0069#STR0069#ALL#Aut. Carregamento: 
+0070#STR0070#ALL#Pedido: 
+0071#STR0071#ALL#[ Dados Agendamento ]
+0072#STR0072#ALL#CNH: 
+0073#STR0073#ALL#CPF/CNPJ: 
+0074#STR0074#ALL#Oper. Balança: 
+0075#STR0075#ALL#Oper. Portaria: 
+0076#STR0076#ALL#Local: 
+0077#STR0077#ALL#Ent. Portaria: 

@@ -1,0 +1,29 @@
+0001#STR0001#ALL#Mapa De Entregas
+0002#STR0002#ALL#Este relatório irá imprimir o mapa de entregas de acordo
+0003#STR0003#ALL#Com os parâmetro s informados pelo utilizador
+0004#STR0004#ALL#Sequência nota       série  pedido  cliente   nome                 endereço                                 
+0005#STR0005#ALL#Entrega   Fiscal
+0006#STR0006#ALL#Carga   : 
+0007#STR0007#ALL#Veiculo : 
+0008#STR0008#ALL#Condutor : 
+0009#STR0009#ALL#Peso    :
+0010#STR0010#ALL#Volume m3 : 
+0011#STR0011#ALL#Ptos entrega : 
+0012#STR0012#ALL#Valor : 
+0013#STR0013#ALL#Data    :
+0014#STR0014#ALL# as 
+0015#STR0015#ALL#Formas De Pagamento
+0016#STR0016#ALL#Cliente :
+0017#STR0017#ALL#Total =>
+0018#STR0018#ALL#Sequência nota f.(1)    série pedido  cliente   nome                 endereço                                
+0019#STR0019#ALL#Entrega   
+0020#STR0020#ALL#ARTIGO                        DESCRIÇÃO                                 QTDE             VALOR
+0021#STR0021#ALL#Não indicada
+0022#STR0022#ALL# Pagamento
+0023#STR0023#ALL#Este relatório irá imprimir o mapa de entregas de acordo com os parâmetros introduzidos pelo utilizador. o mapa de entrega demonstra a lista de entrega dos documentos de saída, assim como os valores que serão recebidos pelo responsável da entrega.
+0027#STR0027#ALL#Forma De Pagamento
+0029#STR0029#ALL#Documento de saída
+0030#STR0030#ALL#Série
+0031#STR0031#ALL#Uf
+0032#STR0032#ALL#Cond.pag.
+0034#STR0034#ALL#Mapa De Entrega

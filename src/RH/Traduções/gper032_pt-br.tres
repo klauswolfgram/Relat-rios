@@ -1,0 +1,35 @@
+0001#STR0001#ALL#Matricula
+0002#STR0002#ALL#C.Custo
+0003#STR0003#ALL#Nome  
+0004#STR0004#ALL#LIVRO DE REMUNERACOES
+0005#STR0005#ALL#Codigo    Nome                          R.U.T.
+0006#STR0006#ALL#Emissao do Livro de remuneracoes.
+0007#STR0007#ALL#Sera impresso de acordo com os parametros solicitados pelo
+0008#STR0008#ALL#usuario.
+0009#STR0009#ALL#A Rayas
+0010#STR0010#ALL#Administracao
+0011#STR0011#ALL#EMISSAO DO LIVRO DE REMUNERACOES
+0012#STR0012#ALL#Pagina : 
+0013#STR0013#ALL#Data   : 
+0014#STR0014#ALL#TOTAIS DO LIVRO DE REMUNERACOES
+0015#STR0015#ALL#TOTAIS
+0016#STR0016#ALL#Emitido por: 	
+0017#STR0017#ALL#Hora   : 
+0018#STR0018#ALL#Periodo: Remuneracao do Mes 
+0019#STR0019#ALL#Agrupados por: 
+0020#STR0020#ALL#Selecao: 
+0021#STR0021#ALL#Nome do trabalhador 
+0022#STR0022#ALL#Cargo
+0023#STR0023#ALL#Dias 
+0024#STR0024#ALL#Trab.Rut
+0025#STR0025#ALL#Data de referencia superior a movimentacao atual
+0026#STR0026#ALL#Atencao
+0027#STR0027#ALL#Campo Vazio
+0028#STR0028#ALL#O campo de Processo está vazio
+0029#STR0029#ALL#O campo do Tipo Folha de Pagamento está vazio
+0030#STR0030#ALL#O campo do Período está vazio
+0031#STR0031#ALL#O campo de Núm. Pagamento está vazio
+0032#STR0032#ALL#do
+0033#STR0033#ALL#Cancelado pelo operador
+0034#STR0034#ALL#Nao foi encontrado nenhum periodo
+0035#STR0035#ALL#Verifique Parâmetros de Impressão.

@@ -1,0 +1,9 @@
+0001#STR0001#ALL#Este relatório tem o objectivo de imprimir a lista de 
+0002#STR0002#ALL#Agendas De Auditorias
+0003#STR0003#ALL#Listagem De Agendas De Auditorias
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#Cód.agenda          Descrição                       Colocação  Fim Colocação  Fil.aud.  Auditor Líder
+0007#STR0007#ALL#Depto         dest.auditoria                     fil.aud. auditor 
+0009#STR0009#ALL#área
+0010#STR0010#ALL#Depto.         Dest.auditoria                     Fil.aud. Auditor                                   Início Em      Final Em

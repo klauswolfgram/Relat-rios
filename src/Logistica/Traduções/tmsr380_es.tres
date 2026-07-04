@@ -1,0 +1,31 @@
+0001#STR0001#ALL#Relacion de Vehiculos a Liberar por Escala
+0002#STR0002#ALL#Emite la Relacion de Vehiculos a Liberar por Escala
+0003#STR0003#ALL#conforme los parametros informados
+0004#STR0004#ALL#A Rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#                            ** LLEGADA **        * LIBERAC.  *       *** VEHICULO***      ** REMOLQUE 1**      ** REBOQUE 2 **  
+0007#STR0007#ALL#ORIGEN VIAJE     SUCUR.    FCH.        HORA     FCH.        HORA     CODIGO   PLACA       CODIGO   PLACA       CODIGO   PLACA       CONDUCTOR 
+0008#STR0008#ALL#Selecionando Registro no DTW...
+0009#STR0009#ALL#CANCELADO PELO OPERADOR
+0010#STR0010#ALL#ESCALA: 
+0011#STR0011#ALL#TOTAL DE VIAGEM(S) ===> 
+0012#STR0012#ALL#TOTAL GERAL DE VIAGEM(S) ===> 
+0013#STR0013#ALL#Lista de Vehiculos para aprobar por escala
+0014#STR0014#ALL#Emite la lista de vehiculos para liberar por escala, segun los parametros informados
+0015#STR0015#ALL#Suc.Actividad + Suv.Origen
+0016#STR0016#ALL#Suc.Actividad
+0017#STR0017#ALL#Descripcion
+0018#STR0018#ALL#Viaje
+0019#STR0019#ALL#Suc.Origen
+0020#STR0020#ALL#Sucursal
+0021#STR0021#ALL#Fch.Lleg.
+0022#STR0022#ALL#Hora Lleg.
+0023#STR0023#ALL#Fecha Aprob.
+0024#STR0024#ALL#Hora Aprob.
+0025#STR0025#ALL#Vehiculo
+0026#STR0026#ALL#Matricula
+0027#STR0027#ALL#1o Remolque
+0028#STR0028#ALL#2o Remolque
+0029#STR0029#ALL#Conductor
+0030#STR0030#ALL#Total de Viaje
+0031#STR0031#ALL#3º Remolque

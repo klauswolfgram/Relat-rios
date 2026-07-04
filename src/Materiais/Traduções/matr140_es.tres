@@ -1,0 +1,78 @@
+0001#STR0001#ALL#Emision de las solicitudes de compras informadas
+0002#STR0002#ALL#Solicitudes de Compra
+0003#STR0003#ALL#A Rayas
+0004#STR0004#ALL#Administracion
+0005#STR0005#ALL#Ene
+0006#STR0006#ALL#Feb
+0007#STR0007#ALL#Mar
+0008#STR0008#ALL#Abr
+0009#STR0009#ALL#May
+0010#STR0010#ALL#JUN
+0011#STR0011#ALL#Jul
+0012#STR0012#ALL#Ago
+0013#STR0013#ALL#Set
+0014#STR0014#ALL#Oct
+0015#STR0015#ALL#Nov
+0016#STR0016#ALL#Dic
+0017#STR0017#ALL#ANULADO POR EL OPERADOR
+0018#STR0018#ALL#Centro Costo: 
+0019#STR0019#ALL#OBSERVACIONES:
+0020#STR0020#ALL#SOLICITUDES RESERVADAS :
+0021#STR0021#ALL#No hay solicitudes reservados de este item.
+0022#STR0022#ALL#Orden de        Producto a ser         Inicio          Cantidad      |     Orden de        Producto a ser         Inicio          Cantidad      |     Orden de        Producto a ser         Inicio          Cantidad      |
+0023#STR0023#ALL#Produccion      producido              Previsto        Necesaria     |     Produccion      producido              Previsto        Necesaria     |     Produccion      producido              Previsto        Necesaria     |
+0024#STR0024#ALL#CONSUMO DE LOS ULTIMOS 12 MESES:
+0025#STR0025#ALL#No hay registro de consumo anterior de este item.
+0026#STR0026#ALL# Promedio C
+0027#STR0027#ALL#ULTIMOS PEDIDOS:
+0028#STR0028#ALL#No hay pedidos en el archivo de este item. 
+0029#STR0029#ALL#Numero It Codigo de Proveedor  Tienda Nombre                                  Cantidad     Und.Medida   Vlr.Unitario    Valor Total    Emision       Necesidad      Plazo  Condicion   Ctd. Entregada   Saldo Res.   Eli.  |
+0030#STR0030#ALL#PROVEEDORES :
+0031#STR0031#ALL#No existen proveedores en el archivo para este item. 
+0032#STR0032#ALL#Codigo Suc Nombre                       Telefono        Contacto   FAX             Ul.Compr   Municipio       Pv Rie Cod. en Provee.
+0033#STR0033#ALL#Codigo Suc Nombre                       Telefono        Contacto   FAX             Ul.Compr   Municipio       Pv Rie Cod. en Provee.
+0034#STR0034#ALL#Codigo Alternativo : 
+0035#STR0035#ALL#Saldo del Alternativo :
+0036#STR0036#ALL#No hay 
+0037#STR0037#ALL#|  C O M P E T I D O R E S                    | ENTREGA         | OBSERVACIONES                      | COND.PAGO        |  CONTACTO        |CANTIDAD        |  PRECIO UNITARIO            | IPI     |     VALOR            |
+0038#STR0038#ALL#|                 REQUIRENTE                                                                                 |                    AUTORIZANTE                                                                              |
+0039#STR0039#ALL#ITEM CODIGO PRODUCTO                DESCRIPCION                 SALDO          PUNTO DE          SALDO DE      UNIDAD        ALMACEN            CANT.POR         ULTIMO PRECIO       LEAD        FECHA DE       FECHA PARA 
+0040#STR0040#ALL#                                                                              ACTUAL        PEDIDO     SOLICITUD     MEDIDA                   EMBALAJE            DE COMPRA        TIEMPO       NECESIDAD       COMPRAR  
+0041#STR0041#ALL#Codigo               Neg. RAZON SOCIAL Telefono       Contacto    Fax             Ult.Compr.  Municipio      Pr Rie Cod. en Proveed
+0042#STR0042#ALL#Codigo Ng Nombre     Neg. Razon Social Telefono        Contacto   Fax             Ul.Compr Municipio         Pr Rie Cod. en Proveed
+0043#STR0043#ALL#Numero 
+0044#STR0044#ALL#Numero It Codigo de Proveedor  Tiend Nombre                                   Cantidad     Und.Medida     Vlr.Unitario    Valor Total  Emision       Necesidad      Plazo  Condicion   Ctd. Entregada   Saldo Res.   Eli.  |
+0045#STR0045#ALL#a.Emision 
+0046#STR0046#ALL#¡¡¡Actualizar SIGACUS.PRW !!!
+0047#STR0047#ALL#¡¡¡Actualizar SIGACUSA.PRX !!!
+0048#STR0048#ALL#¡¡¡Actualizar SIGACUSB.PRX !!!
+0049#STR0049#ALL#Descripcion
+0050#STR0050#ALL#Punto Pedido
+0051#STR0051#ALL#Saldo de la SC
+0052#STR0052#ALL#Lead Time
+0053#STR0053#ALL#Fecha Necesidad
+0054#STR0054#ALL#Fecha para Comprar
+0055#STR0055#ALL#Orden de Producion
+0056#STR0056#ALL#Producto por Producir
+0057#STR0057#ALL#Inicio Previsto
+0058#STR0058#ALL#Cantidad Necesaria
+0059#STR0059#ALL#Plz.Dias
+0060#STR0060#ALL#Saldo Res.
+0061#STR0061#ALL#Eli.
+0062#STR0062#ALL#No
+0063#STR0063#ALL#Si
+0064#STR0064#ALL#Solicitud de Compras
+0065#STR0065#ALL#Reservas
+0066#STR0066#ALL#Demandas
+0067#STR0067#ALL#Pedido de Compras
+0068#STR0068#ALL#Vincul. Producto vs. Proveedor
+0069#STR0069#ALL#Vincul. Grupo vs. Proveedor
+0070#STR0070#ALL#El campo 'Reemision' (C1_QTDREEM) alcanzo el valor 
+0071#STR0071#ALL# para las solicitudes: 
+0072#STR0072#ALL#. Solicite al administrador la modificacion en el tamano del campo.
+0073#STR0073#ALL#Aviso Reemision
+0074#STR0074#ALL#Item
+0075#STR0075#ALL#Proveed.
+0076#STR0076#ALL#Td.
+0077#STR0077#ALL#UM
+0078#STR0078#ALL#C.Pago

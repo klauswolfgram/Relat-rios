@@ -1,0 +1,32 @@
+0001#STR0001#ALL#Authorization to drive vehicle   
+0002#STR0002#ALL#This program will list the authorization to drive vehicles   
+0003#STR0003#ALL#Z. form
+0004#STR0004#ALL#Administrat. 
+0005#STR0005#ALL#January
+0006#STR0006#ALL#February 
+0007#STR0007#ALL#March
+0008#STR0008#ALL#April
+0009#STR0009#ALL#May 
+0010#STR0010#ALL#June 
+0011#STR0011#ALL#July 
+0012#STR0012#ALL#August
+0013#STR0013#ALL#September
+0014#STR0014#ALL#October
+0015#STR0015#ALL#November
+0016#STR0016#ALL#December
+0017#STR0017#ALL#SUPERVISOR'S NAME - SUPERVISOR MATR
+0018#STR0018#ALL#Continue ...
+0019#STR0019#ALL#From driver?  
+0020#STR0020#ALL#To driver?      	
+0021#STR0021#ALL#From vehicle
+0022#STR0022#ALL#To vehicle	
+0023#STR0023#ALL#From base branch?
+0024#STR0024#ALL#To base branch?  	
+0025#STR0025#ALL#DRIVERS LIST         
+0026#STR0026#ALL#Name
+0027#STR0027#ALL#SSN
+0028#STR0028#ALL#Driver´s License
+0029#STR0029#ALL#Vehicles
+0030#STR0030#ALL#Manufact. year
+0031#STR0031#ALL#Plate
+0032#STR0032#ALL#Protected Data - Restrict Access: This user does not have permission to access the data of this routine. For further details, contact the system administrator.

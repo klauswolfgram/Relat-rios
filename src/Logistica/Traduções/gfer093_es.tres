@@ -1,0 +1,56 @@
+0001#STR0001#ALL#Seleccionando Registros...
+0002#STR0002#ALL#Conciliacion Contable
+0003#STR0003#ALL#Emite Conciliacion Contable de acuerdo con los parametros informados.
+0004#STR0004#ALL#Codigo
+0005#STR0005#ALL#Calculos de Flete
+0006#STR0006#ALL# C a L C U L O S   D E   F L E T E 
+0007#STR0007#ALL#Fch Creacion
+0008#STR0008#ALL#Nr Calculo
+0009#STR0009#ALL#Serie
+0010#STR0010#ALL#Doc Carga
+0011#STR0011#ALL#Tp Calc
+0012#STR0012#ALL#Vl Calc
+0013#STR0013#ALL#Vl Prov
+0014#STR0014#ALL#Est de Prov
+0015#STR0015#ALL#Vl Impuesto
+0016#STR0016#ALL#Vl PIS:
+0017#STR0017#ALL#Vl COFINS:
+0018#STR0018#ALL#Vl Enviado ERP
+0019#STR0019#ALL#Vl Reversion ERP
+0020#STR0020#ALL#Documentos de Carga sin Calculo de Flete
+0021#STR0021#ALL#Tp Doc Carga
+0022#STR0022#ALL#Emisor Dc
+0023#STR0023#ALL#Serie
+0024#STR0024#ALL#Nr Doc
+0025#STR0025#ALL#Lista Embarque de Carga
+0026#STR0026#ALL#Fch de Anulacion
+0027#STR0027#ALL#Fch de Emision
+0028#STR0028#ALL#Facturas No Actualizadas
+0029#STR0029#ALL#Transp.
+0030#STR0030#ALL#Nr de la Factura
+0031#STR0031#ALL#Fch de Creacion
+0032#STR0032#ALL#Vl de la Factura
+0033#STR0033#ALL#Facturas Actualizadas
+0034#STR0034#ALL#Transp. 
+0035#STR0035#ALL#Nr de la Fact
+0036#STR0036#ALL#Fch envio ERP
+0037#STR0037#ALL#Vl Factura 
+0038#STR0038#ALL#Vl por contabilizarse
+0039#STR0039#ALL#Vl reversion
+0040#STR0040#ALL#Vl contabilizado
+0041#STR0041#ALL#Diferencia
+0042#STR0042#ALL#Documentos de Flete Contabilizados
+0043#STR0043#ALL#Nr del Doc
+0044#STR0044#ALL#Calculos de Flt
+0045#STR0045#ALL#Factura
+0046#STR0046#ALL#Fact de flete
+0047#STR0047#ALL#Vl del Doc
+0048#STR0048#ALL#Vl Contable
+0049#STR0049#ALL#Reversion Contable
+0050#STR0050#ALL#Vl Provision
+0051#STR0051#ALL#Reversion Provision
+0052#STR0052#ALL#Saldo Provision
+0053#STR0053#ALL#Tp Docto Flete
+0054#STR0054#ALL#Sit ERP Fiscal
+0055#STR0055#ALL#Sit ERP Cobran
+0056#STR0056#ALL#Sentido del flete

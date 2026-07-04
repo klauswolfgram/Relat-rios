@@ -1,0 +1,14 @@
+0001#STR0001#ALL#Report presenting the customer list in order
+0002#STR0002#ALL#by the servicing sequence, in which the 
+0003#STR0003#ALL#which the collector will use during field visiting.
+0004#STR0004#ALL#Customer X Collector
+0005#STR0005#ALL#    (Code)  Collector
+0006#STR0006#ALL#             Sequence   Cus.Cd-Br Customer
+0007#STR0007#ALL#Selecting records...
+0008#STR0008#ALL#Collector code    
+0009#STR0009#ALL#Collector name  
+0010#STR0010#ALL#Collectors
+0011#STR0011#ALL#Quantity
+0012#STR0012#ALL#Z-form
+0013#STR0013#ALL#Administration
+0014#STR0014#ALL#*** CANCELED BY OPERATOR***

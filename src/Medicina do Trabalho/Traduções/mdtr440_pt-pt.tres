@@ -1,0 +1,32 @@
+0001#STR0001#ALL#Relatório de apresentação dos atestados de saude ocupacinal emitidos
+0002#STR0002#ALL#Através Dos Parâmetro S O Utilizador Poderá Selecionar: Período Desejado
+0003#STR0003#ALL#Código de barras
+0004#STR0004#ALL#Administração
+0005#STR0005#ALL#Atestados De Saude Ocupacional
+0007#STR0007#ALL#Cancelado Pelo Operador
+0009#STR0009#ALL#Periódico
+0010#STR0010#ALL#Mudanca de função
+0011#STR0011#ALL#Retorno Ao Trabalho
+0012#STR0012#ALL#Demissional ® De demissão
+0017#STR0017#ALL#Resumo Do Relatório
+0023#STR0023#ALL#Resumo Do Cliente
+0024#STR0024#ALL#De cliente ?
+0026#STR0026#ALL#Até cliente ?
+0027#STR0027#ALL#Código  do cliente. o campo pode permanecer vazio para considerar desde o primeiro código.
+0028#STR0028#ALL#Código  da loja do cliente. o campo pode permanecer vazio para considerar desde o primeiro código.
+0029#STR0029#ALL#Código  do cliente. o campo pode ser preenchido com a letra z até  o final para considerar o último código.
+0030#STR0030#ALL#Código  da loja do cliente. o campo pode ser preenchido com a letra z até  o final para considerar o último código.
+0031#STR0031#ALL#Atestados de saude ocupacional
+0034#STR0034#ALL#Rastreio médico
+0037#STR0037#ALL#Nome do funcionário
+0038#STR0038#ALL#Program.
+0043#STR0043#ALL#Atestado (aso)
+0044#STR0044#ALL#Resumo Por Cliente
+0045#STR0045#ALL#Resumo do listagem :
+0048#STR0048#ALL#Aptos com restrições
+0052#STR0052#ALL#Cliente/loja:
+0053#STR0053#ALL#Não existe informação para imprimir no relatório.
+0054#STR0054#ALL#Até Cliente ?
+0055#STR0055#ALL#Até Data Emissão ?
+0056#STR0056#ALL#De  Data Emissão ?
+0057#STR0057#ALL#Até ASO ?

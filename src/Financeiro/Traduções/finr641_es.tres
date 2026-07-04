@@ -1,0 +1,21 @@
+0001#STR0001#ALL#Este programa tiene el objetivo de imprimir informe 
+0002#STR0002#ALL#de acuerdo con los parametros informados por el usuario.
+0003#STR0003#ALL#Conferencia de Prorrateo Financiero
+0004#STR0004#ALL#Conferencia de Prorrateo Financiero
+0005#STR0005#ALL# Titulo              Situacion   Entidad  Nombre Entidad                             Emision    Vencimiento             Valor 
+0006#STR0006#ALL#A rayas
+0007#STR0007#ALL#Administracion
+0008#STR0008#ALL#***** ANULADO POR EL OPERADOR *****
+0009#STR0009#ALL#Resultado
+0010#STR0010#ALL#Solicitud:      
+0011#STR0011#ALL#Titulo de Origen
+0012#STR0012#ALL#Bajado
+0013#STR0013#ALL#Pendiente
+0014#STR0014#ALL#Bloqueado
+0015#STR0015#ALL#Descuentos Prorrateo
+0016#STR0016#ALL#Total de la Empresa/Sucursal: 
+0017#STR0017#ALL#Titulo(s) Distribuido(s)
+0018#STR0018#ALL# Descripcion                               Tipo     Emp/Suc   Porc. Cliente                                   Proveedor 
+0019#STR0019#ALL#Documento:      
+0020#STR0020#ALL#Origen
+0021#STR0021#ALL#Destino

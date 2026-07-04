@@ -1,0 +1,41 @@
+0001#STR0001#ALL#OCCURRENCES/NON-CONFORMANCE FORM
+0002#STR0002#ALL#Potential Non-Conformance
+0003#STR0003#ALL#Existing Non-Conformance
+0004#STR0004#ALL#Improvement
+0005#STR0005#ALL#Registered
+0006#STR0006#ALL#Under Analysis
+0007#STR0007#ALL#Proceeds
+0008#STR0008#ALL#Does not proceed
+0009#STR0009#ALL#Cancelled
+0010#STR0010#ALL#Detailed Description
+0011#STR0011#ALL#Comments
+0012#STR0012#ALL#Distribution
+0013#STR0013#ALL#Analysis
+0014#STR0014#ALL#Distribution:
+0015#STR0015#ALL#Source: 
+0016#STR0016#ALL#Reason:
+0017#STR0017#ALL#Result: 
+0018#STR0018#ALL#FNC Category: 
+0019#STR0019#ALL#Corrective Actions Listed
+0020#STR0020#ALL#Rv Act.Pl.Nr.
+0021#STR0021#ALL#Originator
+0022#STR0022#ALL#Opening Date: 
+0023#STR0023#ALL#Closing Date: 
+0024#STR0024#ALL#Real Clos.Dt.
+0025#STR0025#ALL#Page
+0026#STR0026#ALL#Nr. 
+0027#STR0027#ALL#Registry Date
+0028#STR0028#ALL#Occurrence Date
+0029#STR0029#ALL#Estimated Finish Date
+0030#STR0030#ALL#Actual Finish Date
+0031#STR0031#ALL#Status
+0032#STR0032#ALL#Priority
+0033#STR0033#ALL#Type
+0034#STR0034#ALL#Customer
+0035#STR0035#ALL#Vendor    
+0036#STR0036#ALL#Contact
+0037#STR0037#ALL#In Linux environment, no report will be e-mailed! This option is being developed.              
+0038#STR0038#ALL#Responsible
+0039#STR0039#ALL#Secret Information
+0040#STR0040#ALL#Access allowed to 
+0041#STR0041#ALL# and 

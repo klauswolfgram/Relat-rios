@@ -1,0 +1,44 @@
+0001#STR0001#ALL#Este programa emitira Livro de Caixa e Bancos  - Detalhe dos Movimentos do Efetivo
+0002#STR0002#ALL# DATA DE  
+0003#STR0003#ALL#Verific. do Extrato.
+0004#STR0004#ALL#Período: 
+0005#STR0005#ALL#RUC: 
+0006#STR0006#ALL#Sobrenome e Nomes, Denominação ou Razão Social: 
+0007#STR0007#ALL#Descrição
+0008#STR0008#ALL#CÓDIGO DE 
+0009#STR0009#ALL#Data da
+0010#STR0010#ALL#Operação
+0011#STR0011#ALL#    OPERAÇÃO 
+0012#STR0012#ALL#Código
+0013#STR0013#ALL#Conta Contábil Associada
+0014#STR0014#ALL#Denominação
+0015#STR0015#ALL#Devedor
+0016#STR0016#ALL#Saldos e Movimentos
+0017#STR0017#ALL#CREDOR
+0018#STR0018#ALL#Creedor
+0019#STR0019#ALL#Totais
+0020#STR0020#ALL#FORMATO 1.1: 'LIVRO CAIXA E BANCOS - DETALHE DOS MOVIMENTOS DO EFETIVO'
+0021#STR0021#ALL#Data Movimento
+0022#STR0022#ALL#Número Documento
+0023#STR0023#ALL#Período do Relatorio
+0024#STR0024#ALL#Relatório
+0025#STR0025#ALL#Limpar
+0026#STR0026#ALL#Sair
+0027#STR0027#ALL#Número sequencial do
+0028#STR0028#ALL#Registro ou Código
+0029#STR0029#ALL#Favor configurar parâmetros MV_CXFIN e MV_CARTEIR
+0030#STR0030#ALL#Não existe Movimento Efetivo em Caixas no período
+0031#STR0031#ALL#Período sem Movimento Caixa
+0032#STR0032#ALL#Selecionando Registros - Caixa
+0033#STR0033#ALL#    -     Filia De: 
+0034#STR0034#ALL#    -     Filial Até: 
+0035#STR0035#ALL#Saldo Inicial
+0036#STR0036#ALL#Saldo final em 
+0037#STR0037#ALL#Único da Operação	
+0038#STR0038#ALL#da
+0039#STR0039#ALL#Atenção
+0040#STR0040#ALL#Arquivo plano, do Livro de caixa, gerado com sucesso em
+0041#STR0041#ALL#Gerando arquivo eletrônico
+0042#STR0042#ALL#Gerando relatório
+0043#STR0043#ALL#Por favor, configure o parâmetro MV_CAJALF.
+0044#STR0044#ALL#ENTE: 

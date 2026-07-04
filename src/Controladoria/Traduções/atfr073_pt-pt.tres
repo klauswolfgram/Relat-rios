@@ -1,0 +1,19 @@
+0003#STR0003#ALL#Moeda não registada no Sistema
+0004#STR0004#ALL#Saldo não registado no sistema
+0005#STR0005#ALL#A data inicial deve ser o primeiro dia de um mês e a data final deve ser o último dia de um mês
+0007#STR0007#ALL#Posição Valorizada dos Bens - 12 Meses
+0008#STR0008#ALL#Este programa emitirá a posição valorizada dos
+0017#STR0017#ALL#Conta Contabilística
+0019#STR0019#ALL#Item Contabilístico
+0024#STR0024#ALL#Total Geral Relatório
+0026#STR0026#ALL#A criar ficheiro temporário...
+0027#STR0027#ALL#Posição Valorizada dos Bens 12 Meses
+0028#STR0028#ALL#Não há dados. Verificar parâmetros do relatório
+0034#STR0034#ALL#Legenda da secção de valores :
+0037#STR0037#ALL#3 - Liquidação 
+0041#STR0041#ALL#Legenda da secção de totais :
+0043#STR0043#ALL#G - Valor residual de gestão 
+0046#STR0046#ALL#6 - Correcção mensal
+0047#STR0047#ALL#7 - Correcção acumulada
+0048#STR0048#ALL#8 - Correcção mensal da depreciação
+0049#STR0049#ALL#9 - Correcção acumulada da depreciação

@@ -1,0 +1,19 @@
+0001#STR0001#ALL#Este programa emite o relatório de cadastro das Apólices de Seguro.
+0002#STR0002#ALL#Utilize o dicionario de dados para mudar a ordem/campos na impressao.
+0003#STR0003#ALL#Apólice de Seguro
+0004#STR0004#ALL#Núm. Apólice: 
+0005#STR0005#ALL#Cia. Seg.: 
+0006#STR0006#ALL#Zebrado
+0007#STR0007#ALL#Administracao
+0008#STR0008#ALL#Número da Apólice + Cod. Cia. Seguro
+0009#STR0009#ALL#Cod. Cia. Seguro + Número da Apólice
+0010#STR0010#ALL#Imprime 
+0011#STR0011#ALL#Não há campos em uso para as apolices de seguro !
+0012#STR0012#ALL#Cadastro SNB
+0013#STR0013#ALL#*** CANCELADO PELO OPERADOR ***
+0014#STR0014#ALL#Gerando...: 
+0015#STR0015#ALL#Vigência: 
+0016#STR0016#ALL# a 
+0017#STR0017#ALL#Valores em: 
+0018#STR0018#ALL#exceto os campos Apolice/Cia.Seguradora/Vigencia do cabecalho.
+0019#STR0019#ALL#Dados Cadastrais

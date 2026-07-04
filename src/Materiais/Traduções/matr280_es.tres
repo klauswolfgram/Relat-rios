@@ -1,0 +1,27 @@
+0001#STR0001#ALL#Listado para Inventario
+0002#STR0002#ALL#Este programa emite un informe que facilita el
+0003#STR0003#ALL#registro de las cantidades del inventario.
+0004#STR0004#ALL#La emision es de acuerdo con los parametros informados.
+0005#STR0005#ALL# Por Codigo         
+0006#STR0006#ALL# Por Tipo           
+0007#STR0007#ALL# Por Descripcion  
+0008#STR0008#ALL# Por Grupo        
+0009#STR0009#ALL#A Rayas
+0010#STR0010#ALL#Administracion
+0011#STR0011#ALL#PRODUCTO(S)
+0012#STR0012#ALL#CODIGO          TP GRUPO DESCRIPCION                    UM DEP DESCRIPC.       DIRECCION       LOTE       SUB    NUMERO           ______1er RECUENTO______       ______2º. RECUENTO____         ______3er RECUENTO______
+0013#STR0013#ALL#                                                               DEPOSITO                                   LOTE   SERIE            CANTIDAD        ETIQUETA       CANTIDAD        ETIQUETA        CANTIDAD       ETIQUETA
+0014#STR0014#ALL#ANULADO POR EL OPERADOR
+0015#STR0015#ALL#CODIGO          TP GRUP DESCRIPCION                    UM DEP DIRECCION        __1er RECUENTO__  __2º  RECUENTO__  __3er RECUENTO__ 
+0016#STR0016#ALL#                                                                               CANTIDAD   ETIQ.  CANTIDAD   ETIQ.  CANTIDAD   ETIQ.
+0017#STR0017#ALL# Por Direccion     
+0018#STR0018#ALL# _______1a.
+0019#STR0019#ALL#Cantidad
+0020#STR0020#ALL#Conteo
+0021#STR0021#ALL#Etiqueta
+0022#STR0022#ALL# _______2a.
+0023#STR0023#ALL# _______3a.
+0024#STR0024#ALL#Prod. 
+0025#STR0025#ALL#Saldos por Ubicac.
+0026#STR0026#ALL#CODIGO          TP GRUP DESCRIPCION                    UM ALM                  __1º CONTEO__     __2º CONTEO__     __3º CONTEO__ 
+0027#STR0027#ALL#***********Final del informe************

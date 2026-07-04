@@ -1,0 +1,35 @@
+0001#STR0001#ALL#Emissão dos contatos do Call Center complementando todos as
+0002#STR0002#ALL#respectivas entidades representadas por eles.
+0003#STR0003#ALL#A emissão ocorrerá baseada nos parâmetros do relatório
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#CANCELADO PELO OPERADOR
+0007#STR0007#ALL#Código do contato
+0008#STR0008#ALL#Nome do contato
+0009#STR0009#ALL#Endereço do contato
+0010#STR0010#ALL#Bairro do contato
+0011#STR0011#ALL#Município do contato
+0012#STR0012#ALL#CEP do contato
+0013#STR0013#ALL#UF do contato
+0014#STR0014#ALL#DDD do contato
+0015#STR0015#ALL#Telefone Residêncial
+0016#STR0016#ALL#Telefone Celular
+0017#STR0017#ALL#Fax do contato
+0018#STR0018#ALL#Telefone Comercial
+0019#STR0019#ALL#e-mail do contato
+0020#STR0020#ALL#Home Page do contato
+0021#STR0021#ALL#Entidade  Código  Nome                            Endereço                        Município             UF  CEP         Fone Comercial   e-mail                          Home Page                       DDD
+0022#STR0022#ALL#Não há informações para imprimir este relatório. Verifique os parametros informados.
+0023#STR0023#ALL#Cadastro de Contatos e entidades
+0024#STR0024#ALL#Código
+0025#STR0025#ALL#Nome
+0026#STR0026#ALL#Endereço
+0027#STR0027#ALL#Município
+0028#STR0028#ALL#UF
+0029#STR0029#ALL#CEP
+0030#STR0030#ALL#Fone Comercial
+0031#STR0031#ALL#e-mail
+0032#STR0032#ALL#Home Page
+0033#STR0033#ALL#DDD
+0034#STR0034#ALL#Contatos
+0035#STR0035#ALL#Entidades

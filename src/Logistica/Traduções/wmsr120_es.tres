@@ -1,0 +1,23 @@
+0001#STR0001#ALL#Busca direccion
+0002#STR0002#ALL#End Vacio
+0003#STR0003#ALL#Parcial Ocup
+0004#STR0004#ALL#Parcial/Lote
+0005#STR0005#ALL#Comparte
+0006#STR0006#ALL#Orden de servicio
+0007#STR0007#ALL#Tipo de busqueda
+0008#STR0008#ALL#Direcciones
+0009#STR0009#ALL#Capacidad
+0010#STR0010#ALL#Saldo SBF
+0011#STR0011#ALL#Saldo RF
+0012#STR0012#ALL#Solicitado
+0013#STR0013#ALL#Direccionado
+0014#STR0014#ALL#Mensaje
+0015#STR0015#ALL#Tipo Direcc
+0016#STR0016#ALL#*** Producto [VAR01] no se direcciono totalmente. Saldo restante: [VAR02].
+0017#STR0017#ALL#Comp Direcc
+0018#STR0018#ALL#Si
+0019#STR0019#ALL#No
+0020#STR0020#ALL#Orden Zona de almacenamiento, donde: 00-Zona del producto, 01...99-Zona alternativa
+0021#STR0021#ALL#Orden producto, donde: 01-Exclusivo producto, 02-Cualquer producto
+0022#STR0022#ALL#Orden de saldo, donde: 01-Saldo producto, 02-Saldo mixto, 03-Saldo otro producto, 99-Sin saldo
+0023#STR0023#ALL#Orden movimiento, donde: 01-Movimiento pendiente producto, 99-Sin movimiento pendiente

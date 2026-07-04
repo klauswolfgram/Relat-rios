@@ -1,0 +1,81 @@
+0001#STR0001#ALL#  ITENS CONFIGURACAO
+0002#STR0002#ALL#Texto Superior da Capa
+0003#STR0003#ALL#Texto Inferior da Capa
+0004#STR0004#ALL#Justificativas
+0005#STR0005#ALL#Instrucoes Digitacäo
+0006#STR0006#ALL#Texto Analise Interna
+0007#STR0007#ALL#Destino das Vias
+0008#STR0008#ALL#Titulos dos Campos do Relatorio
+0009#STR0009#ALL#Notificacao da Nao Conformidade
+0010#STR0010#ALL#Texto em Portugues
+0011#STR0011#ALL#Texto em Ingles
+0012#STR0012#ALL#Texto em Espanhol
+0013#STR0013#ALL#Primeira Via :
+0014#STR0014#ALL#Laudo :
+0015#STR0015#ALL#Segunda Via :
+0016#STR0016#ALL#Terceira Via :
+0017#STR0017#ALL#Quarta Via :
+0018#STR0018#ALL#Quinta Via :
+0019#STR0019#ALL#CAMPOS
+0020#STR0020#ALL#STRINGS
+0021#STR0021#ALL#Valor atual Portugues :
+0022#STR0022#ALL#Novo valor Portugues :
+0023#STR0023#ALL#Valor atual Ingles :
+0024#STR0024#ALL#Novo valor Ingles :
+0025#STR0025#ALL#Valor atual Espanhol :
+0026#STR0026#ALL#Novo valor Espanhol :
+0027#STR0027#ALL#Notificacao Nao-conformidade
+0028#STR0028#ALL#Resultados
+0029#STR0029#ALL#a. via: 
+0030#STR0030#ALL#Especificado
+0031#STR0031#ALL#Nao-conformidade(s) encontrada(s)
+0032#STR0032#ALL#No.
+0033#STR0033#ALL#Classe
+0034#STR0034#ALL#Fator Criticidade
+0035#STR0035#ALL#Reincidencia
+0036#STR0036#ALL#(  Continuacao dos Resultados encontrados  )
+0037#STR0037#ALL#Sim -
+0038#STR0038#ALL# pontos
+0039#STR0039#ALL#Nao
+0040#STR0040#ALL#Garantia da Qualidade       /     /    
+0041#STR0041#ALL# a.
+0042#STR0042#ALL#O valor do campo foi alterado. Voce deseja atualizar o campo para este novo valor ?
+0043#STR0043#ALL#E necessario informar tanto o Laudo quanto a Via.
+0044#STR0044#ALL#Informe um Laudo Valido
+0045#STR0045#ALL#Neste relatorio sera impresso a Notificacao de Nao Conformidade.
+0046#STR0046#ALL#Entrada sem Laudo
+0047#STR0047#ALL#Nao foi possivel encontrar a via e/ou laudo para este idioma, o que impossibilita a emissão do relatorio. Verifique se a via, neste idioma, esta corretamente informada.
+0048#STR0048#ALL#Nao foi possivel encontrar a via e/ou laudo para este idioma, o que impossibilita a emissão do relatorio. Verifique pelo menu 'Relatorios', se a via, neste idioma esta corretamente informada.
+0049#STR0049#ALL#CANCELADO PELO OPERADOR
+0050#STR0050#ALL# de 
+0051#STR0051#ALL#Crônica
+0052#STR0052#ALL#Fornecedor
+0053#STR0053#ALL#Entrega
+0054#STR0054#ALL#EnsaiosMed
+0055#STR0055#ALL#EnsaiosTXT
+0056#STR0056#ALL#NAO-Conf
+0057#STR0057#ALL#Laudo	
+0058#STR0058#ALL#Nota Fiscal
+0059#STR0059#ALL#Serie
+0060#STR0060#ALL#Item
+0061#STR0061#ALL#Nr. da NNC
+0062#STR0062#ALL#Idioma
+0063#STR0063#ALL#Justif. do Laudo
+0064#STR0064#ALL#2a. Parte
+0065#STR0065#ALL#Cronica
+0066#STR0066#ALL#Medicoes
+0067#STR0067#ALL#Impr. NC c/ Fator 0
+0068#STR0068#ALL#Num.Sequenc.
+0069#STR0069#ALL#Lote Fornecedor
+0070#STR0070#ALL#Janeiro
+0071#STR0071#ALL#Fevereiro
+0072#STR0072#ALL#Março
+0073#STR0073#ALL#Abril
+0074#STR0074#ALL#Maio
+0075#STR0075#ALL#Junho
+0076#STR0076#ALL#Julho
+0077#STR0077#ALL#Agosto
+0078#STR0078#ALL#Setembro
+0079#STR0079#ALL#Outubro
+0080#STR0080#ALL#Novembro
+0081#STR0081#ALL#Dezembro

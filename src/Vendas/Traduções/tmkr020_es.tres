@@ -1,0 +1,30 @@
+0001#STR0001#ALL#Llamadas realizadas - Telemercadeo
+0002#STR0002#ALL#Este Programa emitira un detalle de las llamadas realizadas por el operador en la atencion Telemercadeo.
+0003#STR0003#ALL#Los datos se presentaran de acuerdo con los parametros especificados por el usuario del sistema.
+0004#STR0004#ALL#Las listas mostradas en este informe estan separadas y con totales por fecha de ejecucion.
+0005#STR0005#ALL#A rayas
+0006#STR0006#ALL#Administracion
+0007#STR0007#ALL#ANULADO POR EL OPERADOR
+0008#STR0008#ALL#T O T A L   D E   L L A M A D A S   E L 
+0009#STR0009#ALL#T O T A L  G R A L.  D E   L L A M A D A S   ---->
+0010#STR0010#ALL#De acuerdo con los parametros determinados no hay datos para imprimir en este informe
+0011#STR0011#ALL#Fecha de la Lista
+0012#STR0012#ALL#Operador
+0013#STR0013#ALL#Lista
+0014#STR0014#ALL#Descripc.
+0015#STR0015#ALL#Tipo de Lista
+0016#STR0016#ALL#Tipo de Contacto
+0017#STR0017#ALL#Atencion
+0018#STR0018#ALL#Configuracion TMK
+0019#STR0019#ALL#Tipo de Telefono
+0020#STR0020#ALL#Archivo
+0021#STR0021#ALL#Direccion
+0022#STR0022#ALL#Etiqueta
+0023#STR0023#ALL#Campaña
+0024#STR0024#ALL#Script
+0025#STR0025#ALL#Evento
+0026#STR0026#ALL#Codigo  Contacto                        Empresa                           Telefono        Fecha      Hr.Ini  Hr.Fin Estatus
+0027#STR0027#ALL#T O T A L   D E   L L A M A D A S   A L   D I A  ---->
+0028#STR0028#ALL#Fch. de ejecuc. 
+0029#STR0029#ALL#Lista de contact.
+0030#STR0030#ALL#Items de lista de contac.

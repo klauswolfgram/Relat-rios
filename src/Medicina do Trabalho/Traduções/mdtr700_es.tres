@@ -1,0 +1,340 @@
+0001#STR0001#ALL#Este informe presentara un historial laboral personal para fines de
+0002#STR0002#ALL#seguridad social con informaciones relativas a la fiscalizacion de gestion
+0003#STR0003#ALL#de riesgos y existencia de agentes nocivos en el ambiente de trabajo.
+0004#STR0004#ALL#A rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#Perfil Profisiografico de Seguridad Social
+0007#STR0007#ALL#PERFIL PROFISIOGRAFICO DE SEGURIDAD SOCIAL - PPP
+0008#STR0008#ALL#Empresa/Establecimiento:
+0009#STR0009#ALL#NIT(PIS/PASEP)
+0010#STR0010#ALL#CNAE
+0011#STR0011#ALL#CP:
+0012#STR0012#ALL#CBO
+0013#STR0013#ALL#ANO
+0014#STR0014#ALL#CNPJ:
+0015#STR0015#ALL#Nombre del trabajador
+0016#STR0016#ALL#Fecha de nacimiento
+0017#STR0017#ALL#SEXO
+0018#STR0018#ALL#Masculino
+0019#STR0019#ALL#Femenino
+0020#STR0020#ALL#Ingreso en la Empresa
+0021#STR0021#ALL#CTPS
+0022#STR0022#ALL#CAT emitida: 
+0023#STR0023#ALL#Si
+0024#STR0024#ALL#No
+0025#STR0025#ALL#Fecha de emision:
+0026#STR0026#ALL#Requisitos de la funcion:
+0027#STR0027#ALL#DESCRIPCION PROFISIOGRAFICA
+0028#STR0028#ALL#Descripcion de las actividades:
+0029#STR0029#ALL#Periodo
+0030#STR0030#ALL#Sector
+0031#STR0031#ALL#Cargo
+0032#STR0032#ALL#Funcion
+0033#STR0033#ALL#EXPOSICION
+0034#STR0034#ALL#Agente
+0035#STR0035#ALL#Itensidad
+0036#STR0036#ALL#Tecnica
+0037#STR0037#ALL#Proteccion eficaz
+0038#STR0038#ALL#GFIP
+0039#STR0039#ALL#Concentracion
+0040#STR0040#ALL#Utilizada
+0041#STR0041#ALL#EPI
+0042#STR0042#ALL#EPC
+0043#STR0043#ALL#Codigo
+0044#STR0044#ALL#EXAMES MEDICOS CLINICOS Y COMPLEMENTARIOS REF. EXPOSICION
+0045#STR0045#ALL#Fecha
+0046#STR0046#ALL#Tipo
+0047#STR0047#ALL#Descripcion de los resultados (Normal/Modificado)
+0048#STR0048#ALL#Examen audiometrico de
+0049#STR0049#ALL#Referencia
+0050#STR0050#ALL#Secuencial
+0051#STR0051#ALL#Oido derecho
+0052#STR0052#ALL#Oido izquierdo
+0053#STR0053#ALL#Normal
+0054#STR0054#ALL#Anormal
+0055#STR0055#ALL#Estable
+0056#STR0056#ALL#Agravamiento
+0057#STR0057#ALL#Ocupacional
+0058#STR0058#ALL#Exposicion al agente
+0059#STR0059#ALL#Habitual
+0060#STR0060#ALL#Ocasional
+0061#STR0061#ALL#Ausencia de
+0062#STR0062#ALL#nocivo
+0063#STR0063#ALL#Permanente
+0064#STR0064#ALL#Intermitente
+0065#STR0065#ALL#Agente nocivo
+0066#STR0066#ALL#Fecha de emision del documento
+0067#STR0067#ALL#Responsable por las evaluaciones/informaciones
+0068#STR0068#ALL#CRM: 
+0069#STR0069#ALL#Nombre y CRM/CREA del
+0070#STR0070#ALL#Gerente de RRHH
+0071#STR0071#ALL#Responsable por el LTCAT
+0072#STR0072#ALL#Las informaciones son veridicas y fundamentadas por LTCAT/PPRA/PGR y PCMSO
+0073#STR0073#ALL#CUALITATIVA
+0074#STR0074#ALL#Descripcion de los resultados (normales/modificados)
+0075#STR0075#ALL#Resultado
+0076#STR0076#ALL#EXPOSICION AL AGENTE NOCIVO
+0077#STR0077#ALL#Ausencia del agente nocivo
+0078#STR0078#ALL#Periodico
+0079#STR0079#ALL#De admision
+0080#STR0080#ALL#Cambio Funcion
+0081#STR0081#ALL#Retorno trabajo
+0082#STR0082#ALL#De demision
+0083#STR0083#ALL#Alterado
+0084#STR0084#ALL#Coordenador do PCMSO
+0085#STR0085#ALL#Emision:
+0086#STR0086#ALL#Examen Audiometrico Secuencial
+0087#STR0087#ALL#No Ocupacional 
+0088#STR0088#ALL#COMPROBANTE DE ENTREGA DE PERFIL PROFESIOGRAFICO PREVIDENCIARIO (PPP)
+0089#STR0089#ALL#Matricula......:
+0090#STR0090#ALL#Nombre.........:
+0091#STR0091#ALL#Centro de Costo:
+0092#STR0092#ALL#Funcion........:
+0093#STR0093#ALL#Fecha Admision.:
+0094#STR0094#ALL#De acuerdo con la Resolucion Nº 1.715, del 8 de Enero de 2004, no se expondran los examenes del empleado.
+0095#STR0095#ALL#Ordenar nomb. por:
+0096#STR0096#ALL#Ord. alfabetico
+0097#STR0097#ALL#Centro de costo
+0098#STR0098#ALL#¿De Cliente?
+0099#STR0099#ALL#Tienda
+0100#STR0100#ALL#¿A Cliente?						
+0101#STR0101#ALL#15.9-Atención a los requisitos de las NR-06 y NR-01 del MTP
+0102#STR0102#ALL#Se intentó implementar medidas de protección colectiva, de carácter administrativo o de
+0103#STR0103#ALL#organización del trabajo, optándose por el Equipamiento de protección individual, EPI por inviabilidad 
+0104#STR0104#ALL#técnica, insuficiencia o interinidad, o incluso en carácter complementario o de emergencia?
+0105#STR0105#ALL#Se observaron las condiciones de funcionamiento y de utilizacion ininterrupta del EPI a lo largo del tiempo,
+0106#STR0106#ALL#de acuerdo con la especificación técnica del fabricante, ajustada a las condiciones del campo?
+0107#STR0107#ALL#¿Se observó el plazo de validez, de acuerdo con el Certificado de aprobación - CA del MTP?
+0108#STR0108#ALL#Se observo la periodicidad de cambio definida por los programas ambientales, comprobada mediante
+0109#STR0109#ALL#recibo firmado por el usuario en época propia?
+0110#STR0110#ALL#¿Se observó la higienización?
+0111#STR0111#ALL#¿Ordenar nombres por:  ?
+0112#STR0112#ALL#Imagen PPP enviada p. E-Mail ?
+0113#STR0113#ALL#¿Observacion EPI \ EPC. ?
+0114#STR0114#ALL#¿Enumerar Observ. Epis ?
+0115#STR0115#ALL#¿Informe la fecha ?
+0116#STR0116#ALL#¿Fecha Emision PPP?
+0117#STR0117#ALL#¿A Fecha Demision      ?
+0118#STR0118#ALL#¿De Fecha Demision ?
+0119#STR0119#ALL#¿Situacion Empleado ?
+0120#STR0120#ALL#¿Examenes NR7 ?
+0121#STR0121#ALL#¿Imprime Resultados de Examenes ?
+0122#STR0122#ALL#Apto/Inapto
+0123#STR0123#ALL#¿Examenes Complementarios?
+0124#STR0124#ALL#¿Observacion ?
+0125#STR0125#ALL#¿Tipo de Impresion ?
+0126#STR0126#ALL#¿Solamente a partir ENE/2004 ?
+0127#STR0127#ALL#Termino Responsab. ?
+0128#STR0128#ALL#¿ comprobante de Entrega ?
+0129#STR0129#ALL#¿Representante Empr.?
+0130#STR0130#ALL#Desc.
+0131#STR0131#ALL#Actividad
+0132#STR0132#ALL#¿Considera Riesgo ?
+0133#STR0133#ALL#¿A Funcion ?
+0134#STR0134#ALL#¿De  Funcion ?
+0135#STR0135#ALL#¿A Centro de Costo ?
+0136#STR0136#ALL#¿De Centro de Costo ?
+0137#STR0137#ALL#¿A Matricula ?
+0138#STR0138#ALL#¿De Matricula ?
+0139#STR0139#ALL#Cliente
+0140#STR0140#ALL#Matricula:
+0141#STR0141#ALL#Costo
+0142#STR0142#ALL#Desc. de las Actividades?
+0143#STR0143#ALL#Tarea
+0144#STR0144#ALL#Cargo y Tarea
+0145#STR0145#ALL#¿Representante Empr.?
+0146#STR0146#ALL#DOCUMENTO ADJUNTO XVII
+0147#STR0147#ALL#RESOLUCIÓN NORMATIVA PRES/INSS Nº 128, DEL 28 DE MARZO DE 2022
+0148#STR0148#ALL#INSTRUCCION NORMATIVA Nº 20/INSSPRES, DE 10 DE OCTUBRE DE 2007
+0149#STR0149#ALL#PERFIL PROFISIOGRAFICO SEGURIDAD DE TRABAJO - PPP
+0150#STR0150#ALL#DATOS ADMINISTRATIVOS
+0151#STR0151#ALL#1-RCPJ del Domicilio tributario/CEI/CAEPF/CNO
+0152#STR0152#ALL#2-Nombre Empresarial
+0153#STR0153#ALL#3-CNAE
+0154#STR0154#ALL#4-Nombre del Trabajador
+0155#STR0155#ALL#5-BR/PDH
+0156#STR0156#ALL#6-RCPF
+0157#STR0157#ALL#7-Fecha de nacimiento
+0158#STR0158#ALL#8-Sexo (F/M)
+0159#STR0159#ALL#9 - Matrícula del trabajador en el eSocial
+0160#STR0160#ALL#10 - Fecha de Admision
+0161#STR0161#ALL#11-Regimen Alternacion
+0162#STR0162#ALL#CAT REGISTRADA:
+0163#STR0163#ALL#12.1- Fecha del Registro
+0164#STR0164#ALL#12.2 - Numero de la CAT
+0165#STR0165#ALL#ASIGNACION Y ATRIBUCION:
+0166#STR0166#ALL#13.1 - Periodo
+0167#STR0167#ALL#13.2-RCPJ/CEI/CAEPF/CNO
+0168#STR0168#ALL#13.3 - Sector
+0169#STR0169#ALL#13.4 - Cargo
+0170#STR0170#ALL#13.5 - Funcion
+0171#STR0171#ALL#13.6 - CBO
+0172#STR0172#ALL#13.7-Código GFIP/eSocial
+0173#STR0173#ALL# a 
+0174#STR0174#ALL#PROFESIOGRAFÍA:
+0175#STR0175#ALL#14.1 - Periodo
+0176#STR0176#ALL#14.2-Descripcion de las Actividades
+0177#STR0177#ALL#REGISTROS AMBIENTALES
+0178#STR0178#ALL#EXPOSICIÓN A FACTORES DE RIESGOS:
+0179#STR0179#ALL#15.1-Periodo
+0180#STR0180#ALL#15.2-
+0181#STR0181#ALL#Factor de
+0182#STR0182#ALL#Riesgo
+0183#STR0183#ALL#15.4-Intens.
+0184#STR0184#ALL#/Conc.
+0185#STR0185#ALL#Técnica
+0186#STR0186#ALL#EPC
+0187#STR0187#ALL#Eficaz
+0188#STR0188#ALL#EPI
+0189#STR0189#ALL#C.A
+0190#STR0190#ALL#(S/N)
+0191#STR0191#ALL#RESPONSABLE POR LOS REGISTROS AMBIENTALES:
+0192#STR0192#ALL#16.1-Periodo
+0193#STR0193#ALL#16.2-RCPF
+0194#STR0194#ALL#16.3-Registro Colegio
+0195#STR0195#ALL#Medico
+0196#STR0196#ALL#16.4 - Nombre del profesional legalmente
+0197#STR0197#ALL#RESULTADOS DE MONITOREO BIOLÓGICO
+0198#STR0198#ALL#EXÁMENES MÉDICOS CLÍNICOS Y COMPLEMENTARIOS (Cuadros I y II, de la NR-07):
+0199#STR0199#ALL#17.1-Fecha
+0200#STR0200#ALL#17.2-Tipo
+0201#STR0201#ALL#17.3-Modalidad
+0202#STR0202#ALL#17.4-Examen(R/S)
+0203#STR0203#ALL#17.5-Indicacion de Resultados
+0204#STR0204#ALL#Estable
+0205#STR0205#ALL#No Ocupacional
+0206#STR0206#ALL#Apto
+0207#STR0207#ALL#No apto
+0208#STR0208#ALL#( ) Normal
+0209#STR0209#ALL#( ) Modificado
+0210#STR0210#ALL#( ) Estable
+0211#STR0211#ALL#( ) Agravamiento
+0212#STR0212#ALL#( ) Ocupacional
+0213#STR0213#ALL#( ) No Ocupacional
+0214#STR0214#ALL#RESPONSABLE POR EL MONITOREO BIOLÓGICO:
+0215#STR0215#ALL#18.1-Periodo
+0216#STR0216#ALL#18.2-NIT
+0217#STR0217#ALL#18.3-Registro Conselho
+0218#STR0218#ALL#18.4 - Nombre del profesional legalmente
+0219#STR0219#ALL#RESPONSABLES POR LAS INFORMACIONES
+0220#STR0220#ALL#Declaramos para todos los fines de derecho, que la informacion prestada en este documento son 
+0221#STR0221#ALL#verídicas y transcritas fielmente de los registros administrativos, de las demostraciones 
+0222#STR0222#ALL#ambientales y de los programas medicos de responsabilidad de la empresa. Es de nuestro conocimiento que 
+0223#STR0223#ALL#la prestacion de informacion falsa en este documento constituye crimen de falsificacion de documento 
+0224#STR0224#ALL#publico, en los terminos del art. 297 del Codigo Penal y tambien, que tal informacion es de caracter 
+0225#STR0225#ALL#privado del trabajador, constituyendo crimen, en los términos de la Ley nº 9.029 del 13 de Abril de 1995, prácticas 
+0226#STR0226#ALL#discriminatorias resultantes de su exigibilidad por outos, asi como se su divulgacion a 
+0227#STR0227#ALL#terceros, con resalvas al ser exigidas por los organismos públicos competentes.
+0228#STR0228#ALL#17-Fecha de emisión PPP
+0229#STR0229#ALL#REPRESENTANTE LEGAL DE LA EMPRESA
+0230#STR0230#ALL#18.1-RCPF del Representante legal
+0231#STR0231#ALL#18.2-Nombre del representante legal
+0232#STR0232#ALL#(Sello de la empresa)
+0233#STR0233#ALL#(Firma física o electrónica)
+0234#STR0234#ALL#OBSERVACIONES
+0235#STR0235#ALL#OBSERVACIONES REFERENTES A LOS EPI
+0236#STR0236#ALL#C.A.: 
+0237#STR0237#ALL#OBSERVACIONES REFERENTES A LOS EPI / EPC
+0238#STR0238#ALL#COMPROBANTE DE ENTREGA DEL PERFIL PROFESIOGRAFICO DE SEGURIDAD SOCIAL (PPP)
+0239#STR0239#ALL#DATOS ADMINISTRATIVOS
+0240#STR0240#ALL#RCPJ del Domicilio tributario/CEI/CAEPF/CNO
+0241#STR0241#ALL#Nombre Empresarial
+0242#STR0242#ALL#Fecha de nacimiento
+0243#STR0243#ALL#Sexo(F/M)
+0244#STR0244#ALL#CTPS(Nº, Serie y Estado)
+0245#STR0245#ALL#Fecha de Ingreso
+0246#STR0246#ALL#Regimen Revezamiento
+0247#STR0247#ALL#Matricula
+0248#STR0248#ALL#Centro de Costo
+0249#STR0249#ALL#Todos
+0250#STR0250#ALL#TERMINO DE RESPONSABILIDAD
+0251#STR0251#ALL# de 
+0252#STR0252#ALL#(Firma del Empleado)
+0253#STR0253#ALL#Este campo debe rellenarse con la fecha de emision que se exhibira en el PPP.
+0254#STR0254#ALL#No fue posible grabar el informe
+0255#STR0255#ALL#AVISO
+0256#STR0256#ALL#Se adjunta informe de 
+0257#STR0257#ALL#Email enviado con exito
+0258#STR0258#ALL#No fue posible enviar el Email.
+0259#STR0259#ALL#Error en la conexion con el SMTP Server.
+0260#STR0260#ALL#¿Desea visualizar el informe?
+0261#STR0261#ALL#¡El Servidor de SMTP no se configuro!
+0262#STR0262#ALL#Atencion
+0263#STR0263#ALL#¡La Cuenta del email no se configuro!
+0264#STR0264#ALL#¡La contrasena del email no se configuro!
+0265#STR0265#ALL#Datos del E-mail
+0266#STR0266#ALL#De: 
+0267#STR0267#ALL#Para:
+0268#STR0268#ALL#CC:
+0269#STR0269#ALL#Asunto:
+0270#STR0270#ALL#Indica si deben considerarse solamente los datos insertados a partir de enero de 2004. La obligatoriedad del PPP existe desde este periodo, por lo tanto, los datos anteriores a esta fecha no son obligatorios.
+0271#STR0271#ALL#Imp. Resp. Monit. ¿Biologica ?
+0272#STR0272#ALL#Define si debe considerarse la Resolucion CFM nº 1.718 de 08/01/2004 publicada en el DOU de 12/01/2004.
+0273#STR0273#ALL#Para opcion de parametro A en el archivo de preguntas, esta opcion es invalida.
+0274#STR0274#ALL#Para opcion de parametro De/A en el archivo de preguntas, esta opcion es invalida.
+0275#STR0275#ALL#Informe una opcion valida para este parametro.
+0276#STR0276#ALL#Indica quien sera el profesional responsable por el monitoreo biologico.
+0277#STR0277#ALL#Funcion
+0278#STR0278#ALL#Tec. Seg. Trab.
+0279#STR0279#ALL#Medico Lab.
+0280#STR0280#ALL#¿Considerar SESMT?
+0281#STR0281#ALL#Indica si se deben considerar todos los empleados que componen SESMT, o solamente quien genero laudo.
+0282#STR0282#ALL#Resp. por laudo
+0283#STR0283#ALL#Desagrupa las fechas de los items 13.1, 14.1, 15.1, 16.1 y 18.1.
+0284#STR0284#ALL#De acuerdo con lo previsto en el § 3º del Art.254 en el documento RESOLUCION NORMATIVA DEL INSTITUTO NACIONAL DEL SEGURO SOCIAL-INSS - Nº 77 DE 21.01.2015
+0285#STR0285#ALL#¿Desagrupa fechas?
+0286#STR0286#ALL#De acuerdo con el Memorandum Circular Conjunto Nº 02/INSS/DIRBEN/DIREP de Enero de 2004 y
+0287#STR0287#ALL#¿Responsable ambiental?
+0288#STR0288#ALL#Eng. Trab.
+0289#STR0289#ALL#Ambos
+0290#STR0290#ALL#Indica el responsable por los registros ambientales.
+0291#STR0291#ALL#¿Filtrar SESMT?
+0292#STR0292#ALL#Indica si se imprimirán solo componentes del SESMT. 
+0293#STR0293#ALL#¿Imp. Título actividad?
+0294#STR0294#ALL#Indica si se imprime el título de la actividad en el ítem 14.2.
+0295#STR0295#ALL#Departamento
+0296#STR0296#ALL#Indica si en la asignación considera el título del Centro de costo o del Departamento.
+0297#STR0297#ALL#Indica si debe imprimir los códigos en la Asignación.
+0298#STR0298#ALL#¿Desc. de la asignación?
+0299#STR0299#ALL#Impr. Código
+0300#STR0300#ALL#Téc. Seg. Trab.
+0301#STR0301#ALL#Valor no encontrado.
+0302#STR0302#ALL#Buscar
+0303#STR0303#ALL#Estas son las Licencias registradas en el sistema.
+0304#STR0304#ALL#Seleccione aquellos que son necesarios para la tarea.
+0305#STR0305#ALL#Licencias
+0306#STR0306#ALL#No existen Licencias registradas
+0307#STR0307#ALL#Buscando Licencias...
+0308#STR0308#ALL#Espere
+0309#STR0309#ALL#Licencia
+0310#STR0310#ALL#Descripción
+0311#STR0311#ALL#Código
+0312#STR0312#ALL#Descripción
+0313#STR0313#ALL#Marcados
+0314#STR0314#ALL#¿Tipo de licencias?
+0315#STR0315#ALL#Determina qué tipo de licencias se tomarán en consideración para la verificación de los períodos.
+0316#STR0316#ALL#No se permite incluir tipos de licencia iguales.
+0317#STR0317#ALL#Por favor, seleccionar únicamente uno de cada tipo de licencia.
+0318#STR0318#ALL#Esta información está disponible en la empresa para el médico del INSS, de acuerdo con las normas de ética médica.
+0319#STR0319#ALL#Todos
+0320#STR0320#ALL#Habilitado
+0321#STR0321#ALL#De acuerdo con el Memorandum Circular Conjunto Nº 02/INSS/DIRBEN/DIREP de Enero de 2004 y de acuerdo con la Resolución Nº 1.715, del 8 de Enero de 2004 del Consejo Federal de Medicina, el campo 17 no consta en el PPP. Esta información está disponible en la empresa para el médico del INSS, de acuerdo con las normas de ética médica.
+0322#STR0322#ALL#El tipo de impresión 'Retrato' no está disponible para el PPP
+0323#STR0323#ALL#Por favor, seleccione el tipo de impresión 'Paisaje'
+0324#STR0324#ALL#De Medida
+0325#STR0325#ALL#De Condición
+0326#STR0326#ALL#De Plazo
+0327#STR0327#ALL#Periodicidad
+0328#STR0328#ALL#Higienización
+0329#STR0329#ALL#Leyenda del ítem
+0330#STR0330#ALL#¿Se intentó la implementación de medidas de protección colectiva, de carácter administrativo o de organización del trabajo, optándose por el Equipamiento de Protección Individual - EPI por inviabilidad técnica, insuficiencia o interinidad, o incluso, en carácter complementario o de emergencia?
+0331#STR0331#ALL#¿Se observaron las condiciones de funcionamiento y de uso ininterrumpido del EPI a lo largo del tiempo, de acuerdo con la especificación técnica del fabricante, ajustada a las condiciones?
+0332#STR0332#ALL#¿Se observó la periodicidad de cambio definida por los programas ambientales, comprobada mediante el recibo firmado por el usuario en la época apropiada?
+0333#STR0333#ALL#Por los EPI informados
+0334#STR0334#ALL#Protección
+0335#STR0335#ALL#Funcionamiento
+0336#STR0336#ALL#del EPI
+0337#STR0337#ALL#Validez
+0338#STR0338#ALL#del Cambio
+0339#STR0339#ALL#No existe historial para generar el informe, verifique los parámetros de la impresión y/o parámetro MV_NG2PPPD
+0340#STR0340#ALL#(Modificado por la Resolución Normativa PRES/INSS n° 133, del 26 de mayo de 2022)

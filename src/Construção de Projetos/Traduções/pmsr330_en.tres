@@ -1,0 +1,18 @@
+0001#STR0001#ALL#This report will print the requested managerial expenses query list, taking into account all expenses (purchase order, delivery authorization, inflow invoice payable bills and bank transactions) linked to the projects.
+0002#STR0002#ALL#Managerial queries - List of expenses     
+0003#STR0003#ALL#Z.Form
+0004#STR0004#ALL#Administration
+0005#STR0005#ALL#Daily
+0006#STR0006#ALL#Weekly
+0007#STR0007#ALL#Ten Days
+0008#STR0008#ALL#Fortnight
+0009#STR0009#ALL#Monthly
+0010#STR0010#ALL#Period 
+0011#STR0011#ALL#       Estm.PC.Vl.           Expenses        Accr. Expenses
+0012#STR0012#ALL#Plan code      
+0013#STR0013#ALL#Initial Balance : 
+0014#STR0014#ALL#Payable Total : 
+0015#STR0015#ALL#Estim.PC Val
+0016#STR0016#ALL#Expenses
+0017#STR0017#ALL#Accrued Expenses
+0018#STR0018#ALL#Managerial Plan

@@ -1,0 +1,51 @@
+0001#STR0001#ALL#Atendimentos Realizados - Televendas
+0002#STR0002#ALL#Este programa irá emitir uma relação das ligações realizadas pelo operador no atendimento Televendas.
+0003#STR0003#ALL#Apenas as ligações registradas como ATENDIMENTO serão emitidas neste relatório.
+0004#STR0004#ALL#Os dados serão emitidos conforme os parâmetros informados.
+0005#STR0005#ALL#Zebrado
+0006#STR0006#ALL#Administração
+0007#STR0007#ALL#CANCELADO PELO OPERADOR
+0008#STR0008#ALL#Item Produto         Descricäo                      St   Qtdade    Vl.Unitario        Vl.Item  %Desc    Vl.Desconto  %Acres   Vl.Acrescimo TES CFOP      Tabela      Base ICMS LP UM Entrega    Lote       Sub-Lt Validade
+0009#STR0009#ALL#Nao existem dados a serem impressos para este relatorio com os parametros informados
+0010#STR0010#ALL#TOTAL
+0011#STR0011#ALL#Total de atendimentos computados para o periodo de 
+0012#STR0012#ALL# a 
+0013#STR0013#ALL#OPERACÄO                                          ATENDIMENTOS   VALOR NEGOCIADO
+0014#STR0014#ALL#OPERADOR                                          ATENDIMENTOS
+0015#STR0015#ALL#MIDIA                                             ATENDIMENTOS                 %
+0016#STR0016#ALL#CAMPANHA                                          ATENDIMENTOS                 %
+0017#STR0017#ALL#DATA      OPERADOR                                           ATENDIMENTOS
+0018#STR0018#ALL#DATA      MIDIA                                              ATENDIMENTOS
+0019#STR0019#ALL#DATA      CAMPANHA                                           ATENDIMENTOS
+0020#STR0020#ALL#OPERACÄO
+0021#STR0021#ALL#OPERADOR
+0022#STR0022#ALL#MIDIA
+0023#STR0023#ALL#CAMPANHA
+0024#STR0024#ALL#It
+0025#STR0025#ALL#Qtdade
+0026#STR0026#ALL#%Desc
+0027#STR0027#ALL#%Acre
+0028#STR0028#ALL#TES
+0029#STR0029#ALL#CFOP
+0030#STR0030#ALL#LP
+0031#STR0031#ALL#UM
+0032#STR0032#ALL#Entrega
+0033#STR0033#ALL#Validade
+0034#STR0034#ALL#Orcamentos Televendas
+0035#STR0035#ALL#Itens do Orcamento Televendas
+0036#STR0036#ALL#Item
+0037#STR0037#ALL#Produto
+0038#STR0038#ALL#Descrição
+0039#STR0039#ALL#St
+0040#STR0040#ALL#Vl.Unitário
+0041#STR0041#ALL#Vl.Item
+0042#STR0042#ALL#Vl.Desconto
+0043#STR0043#ALL#%Acres
+0044#STR0044#ALL#Vl.Acrescimo
+0045#STR0045#ALL#Tabela
+0046#STR0046#ALL#Base ICMS
+0047#STR0047#ALL#Lote
+0048#STR0048#ALL#Sub-Lt
+0049#STR0049#ALL#Entidade
+0050#STR0050#ALL#PROSPECT
+0051#STR0051#ALL#CLIENTE

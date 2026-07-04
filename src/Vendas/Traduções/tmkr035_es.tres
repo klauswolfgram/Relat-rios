@@ -1,0 +1,47 @@
+0001#STR0001#ALL#Emision de Eventos de Marketing. 
+0002#STR0002#ALL#Este programa emitira una relacion de los Eventos 
+0003#STR0003#ALL#de Marketing registrados en el Call Center.
+0004#STR0004#ALL#A Rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#Anulado por el Operador.
+0007#STR0007#ALL#Evento        : 
+0008#STR0008#ALL#Descripcion   : 
+0009#STR0009#ALL#Tema          : 
+0010#STR0010#ALL#Exposicion    : 
+0011#STR0011#ALL#Feria 
+0012#STR0012#ALL#Conferencia
+0013#STR0013#ALL#Seminario
+0014#STR0014#ALL#WorkShop
+0015#STR0015#ALL#Road SHow
+0016#STR0016#ALL#Foro
+0017#STR0017#ALL#Gratuito      : 
+0018#STR0018#ALL#SI
+0019#STR0019#ALL#NO
+0020#STR0020#ALL#Precio        : 
+0021#STR0021#ALL#Local         : 
+0022#STR0022#ALL#Direccion     : 
+0023#STR0023#ALL#Municipio     : 
+0024#STR0024#ALL#Provincia     : 
+0025#STR0025#ALL#Pais          : 
+0026#STR0026#ALL#Telefono      : 
+0027#STR0027#ALL#Home Page     : 
+0028#STR0028#ALL#E-mail        : 
+0029#STR0029#ALL#Fecha Inicio  : 
+0030#STR0030#ALL#Fecha Termino : 
+0031#STR0031#ALL#Hora Inicio   : 
+0032#STR0032#ALL#Hora Termino  : 
+0033#STR0033#ALL#Estacionamiento: 
+0034#STR0034#ALL#En el local
+0035#STR0035#ALL#En el local/Pagando
+0036#STR0036#ALL# Convenio
+0037#STR0037#ALL# Gratuito
+0038#STR0038#ALL# Convenio/Garajista
+0039#STR0039#ALL# Gratuito c/ Garajista
+0040#STR0040#ALL#Cuadricula                 Tema                                      Hr.Ini Hr.Fin Fecha     Sala         Conferencista                   Empresa
+0041#STR0041#ALL#No existen datos para imprimir en este informe con los parametros informados
+0042#STR0042#ALL#De Campaña
+0043#STR0043#ALL#Informe la Campaña inicial para seleccion.
+0044#STR0044#ALL#A Campaña
+0045#STR0045#ALL#Informe la Campaña final para seleccion.
+0046#STR0046#ALL#Archivo Eventos
+0047#STR0047#ALL#Grilla Eventos

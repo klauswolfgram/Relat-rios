@@ -1,0 +1,40 @@
+0001#STR0001#ALL#List of Sales Quotations
+0002#STR0002#ALL#This report will show the Sales Quotations list,             
+0003#STR0003#ALL#according to the selected parameters.                        
+0004#STR0004#ALL#Number
+0005#STR0005#ALL#Customer
+0006#STR0006#ALL#Product
+0007#STR0007#ALL#Z.Form
+0008#STR0008#ALL#Management
+0009#STR0009#ALL# OPEN 
+0010#STR0010#ALL#POSTED 
+0011#STR0011#ALL#CANCEL.
+0012#STR0012#ALL#          CUSTOMER                                 PRODUCT                                                                              COMPONENTS
+0013#STR0013#ALL#NUMBER IT CODE   ST COMPANY NAME                   CODE            DESCRIPTION                    QUANTITY   SALES PRICE          TOTAL CODE            DESCRIPTION                       QUANTITY      NECESSITY   STATUS   
+0014#STR0014#ALL#Order: 
+0015#STR0015#ALL#CANCELLED BY THE OPERATOR
+0016#STR0016#ALL#Total of Quotation: 
+0017#STR0017#ALL#Total of Customer: 
+0018#STR0018#ALL#Total of Product: 
+0019#STR0019#ALL#G R A N D  T O T A L --> 
+0020#STR0020#ALL#          CUSTOMER                                           PRODUCT                                                                         COMPONENTS
+0021#STR0021#ALL#NUMBER IT CODE-UNIT                 COMPANY NAME             CODE            DESCRIPTION               QUANTITY   SALES PRICE          TOTAL CODE            DESCRIPTION                  QUANTITY      NECESSITY   SITUATION
+0022#STR0022#ALL#ESTIMATED NUM.
+0023#STR0023#ALL#APPROVED
+0024#STR0024#ALL#List of sales quotations       
+0025#STR0025#ALL#This report will list the sales quotations                   
+0026#STR0026#ALL#according to the parameters requested.                       
+0027#STR0027#ALL#Number
+0028#STR0028#ALL#Custom.
+0029#STR0029#ALL#Product
+0030#STR0030#ALL#Number It
+0031#STR0031#ALL#Component 
+0032#STR0032#ALL#ComponentDescription
+0033#STR0033#ALL#Need       
+0034#STR0034#ALL#Customer Total 
+0035#STR0035#ALL#Gross Total 
+0036#STR0036#ALL#Quotation total   
+0037#STR0037#ALL#Product total   
+0038#STR0038#ALL#Sales quotations   
+0039#STR0039#ALL#Quantity
+0040#STR0040#ALL#BLOCKED

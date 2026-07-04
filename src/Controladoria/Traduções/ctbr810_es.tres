@@ -1,0 +1,15 @@
+0001#STR0001#ALL#Libro diario
+0002#STR0002#ALL#Digite - ¡Asiento inicial menor que el final!
+0003#STR0003#ALL#¡Digite fecha inicial menor que fecha final!
+0004#STR0004#ALL#Este programa imprime el libro diario.
+0005#STR0005#ALL#Encabezado
+0006#STR0006#ALL#Detalles
+0007#STR0007#ALL#Totales
+0008#STR0008#ALL#Total general
+0009#STR0009#ALL#Asiento
+0010#STR0010#ALL#Fecha
+0011#STR0011#ALL#Descripcion
+0012#STR0012#ALL#Cuenta
+0013#STR0013#ALL#Val. Debito
+0014#STR0014#ALL#Val. Credito
+0015#STR0015#ALL#Informe disponible solo para la version personalizada.

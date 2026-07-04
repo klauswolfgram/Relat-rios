@@ -1,0 +1,33 @@
+0001#STR0001#ALL#Relatório do laudo ambiental                                         
+0002#STR0002#ALL#Através dos parâmetro s selecionar os itens que devem ser considerados
+0003#STR0003#ALL#No relatório.                                                        
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0007#STR0007#ALL#              relatório tecnico           
+0008#STR0008#ALL#Razao social         :
+0009#STR0009#ALL#Morada             :
+0010#STR0010#ALL#Cod. atividade       :
+0012#STR0012#ALL#Grau de risco  :
+0013#STR0013#ALL#Num. Empregados :
+0014#STR0014#ALL#Data de avaliação:
+0016#STR0016#ALL#Locais Avaliados
+0017#STR0017#ALL#Riscos Encontrados
+0018#STR0018#ALL#Equipamentos Utilizados Na Avaliação
+0019#STR0019#ALL#Medidas De Controlo
+0020#STR0020#ALL#Epquipamentos De Proteção Individual Utilizados Por Risco
+0021#STR0021#ALL#Conclusão
+0022#STR0022#ALL#Médico Do Trabalho
+0023#STR0023#ALL#Enfermeiro Do Trabalho
+0024#STR0024#ALL#Auxiliar De Enfermagem
+0025#STR0025#ALL#Engenheiro De Seguranção Do Trabalho
+0026#STR0026#ALL#Tecnico De Seguranção Do Trabalho
+0027#STR0027#ALL#Médico
+0030#STR0030#ALL# Ssmt
+0043#STR0043#ALL#Listar Descrição ?
+0044#STR0044#ALL#Até Data ?
+0046#STR0046#ALL#Até Laudo ?
+0052#STR0052#ALL#Dt. Início: 
+0055#STR0055#ALL#Qtd. Empregados: 
+0056#STR0056#ALL#Responsável: 
+0059#STR0059#ALL#Data de Avaliação: 
+0060#STR0060#ALL#Objectivo: 

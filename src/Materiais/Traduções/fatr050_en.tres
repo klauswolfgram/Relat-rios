@@ -1,0 +1,21 @@
+0001#STR0001#ALL#Sales Goals vs. Actual Sales List             
+0002#STR0002#ALL#This report wil print the list of sales goals in relation 
+0003#STR0003#ALL#with the actual sales according to the parameters  
+0004#STR0004#ALL#Z.Form
+0005#STR0005#ALL#Administration
+0006#STR0006#ALL#NUMBER  SEQ  DESCRIPTION                     DATE        SELLER    REGION  PRODUCT          GROUP  TYPE          VALUE/GOAL      QUANT/GOAL          VALUE/REAL      QUANT/REAL     DIFFERENC VALUE   DIFFERENC QTY
+0007#STR0007#ALL#List of sales targest vs. actual sales        
+0008#STR0008#ALL#This report will list the sales targets                  
+0009#STR0009#ALL#in relation to sales made according to parameters  
+0010#STR0010#ALL#Amn/Target
+0011#STR0011#ALL#Descript.
+0012#STR0012#ALL#Seq
+0013#STR0013#ALL#Type
+0014#STR0014#ALL#Amn/Actual
+0015#STR0015#ALL#Qty/Actual
+0016#STR0016#ALL#Diff. amount   
+0017#STR0017#ALL#Diff. quant. 
+0018#STR0018#ALL#Qty/Target
+0019#STR0019#ALL#Number
+0020#STR0020#ALL#Sales target  
+0021#STR0021#ALL#Selecting records ...

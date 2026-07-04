@@ -1,0 +1,21 @@
+0001#STR0001#ALL#Courses Calendar
+0002#STR0002#ALL#To be printed according to the parameters required by the 
+0003#STR0003#ALL#user.
+0004#STR0004#ALL#Z. Form
+0005#STR0005#ALL#Management
+0006#STR0006#ALL#Calendar: 
+0007#STR0007#ALL#  Course                   Group Initial Dt Final Dt.  Entity                    Instructor                  Time                  Length  Vacan. Reserv. Place                              Cost      Hours Situati.
+0008#STR0008#ALL#POSTED
+0009#STR0009#ALL#PENDING
+0010#STR0010#ALL#Course Synonym: 
+0011#STR0011#ALL#Calendar  
+0012#STR0012#ALL#Course
+0013#STR0013#ALL#Initial Dt
+0014#STR0014#ALL#Final Dt
+0015#STR0015#ALL#Entity  
+0016#STR0016#ALL#Instructor
+0017#STR0017#ALL#Vac. 
+0018#STR0018#ALL#Reserv. 
+0019#STR0019#ALL#Cost 
+0020#STR0020#ALL#Status  
+0021#STR0021#ALL#Synonym 

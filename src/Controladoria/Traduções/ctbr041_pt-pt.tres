@@ -1,0 +1,30 @@
+0001#STR0001#ALL#Código Da Conta
+0002#STR0002#ALL# D  E  S  C  R  I  ç  ã  O
+0003#STR0003#ALL#Saldo Anterior
+0004#STR0004#ALL#Débito
+0004#STR0004#ANG#DÉBITO
+0004#STR0004#EQU#DÉBITO
+0004#STR0004#HAI#DÉBITO
+0004#STR0004#MEX#Cartão Débito
+0004#STR0004#PTG#Débito
+0005#STR0005#ALL#Crédito
+0005#STR0005#ANG#CRÉDITO
+0005#STR0005#EQU#CRÉDITO
+0005#STR0005#HAI#CRÉDITO
+0005#STR0005#MEX#Crédito
+0005#STR0005#PTG#Crédito
+0006#STR0006#ALL#Saldo Actual
+0007#STR0007#ALL# até 
+0008#STR0008#ALL# em 
+0009#STR0009#ALL#Do balancete de verificação sintético  
+0010#STR0010#ALL#Balancete De Verificação
+0011#STR0011#ALL#T o t a i s  d o  p e r í o d o : 
+0012#STR0012#ALL#Do balancete de verificação analítico  
+0013#STR0013#ALL#Do balancete de verificação  
+0014#STR0014#ALL#A Criar Ficheiro Temporário...
+0015#STR0015#ALL#T o t a i s  d o  g r u p o (
+0016#STR0016#ALL#Parâmetros  - 
+0017#STR0017#ALL#A criar relatório, aguarde...
+0018#STR0018#ALL#Mov. Período
+0019#STR0019#ALL#Favor preencher os parâmetros grupos receitas/despesas e data sld ant. receitas/despesas ou 
+0020#STR0020#ALL#Deixar o parâmetro ignora sl ant.rec/des = não 

@@ -1,0 +1,28 @@
+0001#STR0001#ALL#Etiquetas para Correo Directo
+0002#STR0002#ALL#Este programa tiene el objetivo de imprimir las etiquetas de correo directo
+0003#STR0003#ALL#Proveedor
+0004#STR0004#ALL#Cliente
+0005#STR0005#ALL#Producto
+0006#STR0006#ALL#Archivos
+0007#STR0007#ALL#Impresion de etiquetas
+0008#STR0008#ALL#Atencion... 
+0009#STR0009#ALL# no encontrado en el servidor
+0010#STR0010#ALL#CP - 
+0011#STR0011#ALL#Codigo: 
+0012#STR0012#ALL#Descripcion: 
+0013#STR0013#ALL#Tipo: 
+0014#STR0014#ALL#Grupo: 
+0015#STR0015#ALL#Unidad: 
+0016#STR0016#ALL#Peso: 
+0017#STR0017#ALL#Emitiendo etiqueta para correo directo
+0018#STR0018#ALL#Procesamiento del informe
+0019#STR0019#ALL#Iniciando procesamiento de las etiquetas para el archivo de clientes
+0020#STR0020#ALL#Terminando procesamiento de las etiquetas para el archivo de clientes
+0021#STR0021#ALL#Iniciando procesamiento de las etiquetas para el archivo de proveedores
+0022#STR0022#ALL#Terminando procesamiento de las etiquetas para el archivo de proveedores
+0023#STR0023#ALL#Iniciando procesamiento de las etiquetas para el archivo de productos
+0024#STR0024#ALL#Terminando procesamiento de las etiquetas para el archivo de productos
+0025#STR0025#ALL#Enviando parametros de configuracion de la pagina
+0026#STR0026#ALL#Ejecutando el macro del Word
+0027#STR0027#ALL#Actualizando variables del documento
+0028#STR0028#ALL#Procesando ...

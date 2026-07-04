@@ -1,0 +1,47 @@
+0001#STR0001#ALL#Comparative Cubes - Balance Statement by Mod-2 Period
+0002#STR0002#ALL#Code
+0003#STR0003#ALL#Description
+0004#STR0004#ALL#Period
+0005#STR0005#ALL#Budgeted (S1)
+0006#STR0006#ALL#Accomplished (S2)
+0007#STR0007#ALL#Dif. S1-S2.
+0008#STR0008#ALL#Dif. (S1/S2%)
+0009#STR0009#ALL#COMPARATIVE BETWEEN CONFIGURATION: 
+0010#STR0010#ALL# AND CONFIGURATION: 
+0011#STR0011#ALL#Print canceled by the operator...
+0012#STR0012#ALL#This report will print Comparative Cubes - Balance Statement by Module 2 Period in accordance with parameters requested by the user. For further information regarding this report, check Program Help (F1).
+0013#STR0013#ALL#Comparative between configurations
+0014#STR0014#ALL#Transactions
+0015#STR0015#ALL#Weekly
+0016#STR0016#ALL#Fortnightly
+0017#STR0017#ALL#Monthly
+0018#STR0018#ALL#Bimonthly
+0019#STR0019#ALL#Semiannual
+0020#STR0020#ALL#Annual
+0021#STR0021#ALL#Daily
+0022#STR0022#ALL#Quarterly
+0023#STR0023#ALL#Management Cube Code
+0024#STR0024#ALL#Period from
+0025#STR0025#ALL#Which Currency
+0026#STR0026#ALL#Currency 1
+0027#STR0027#ALL#Currency 2
+0028#STR0028#ALL#Currency 3
+0029#STR0029#ALL#Currency 4
+0030#STR0030#ALL#Currency 5
+0031#STR0031#ALL#Period Type
+0032#STR0032#ALL#Retained 
+0033#STR0033#ALL#Yes
+0034#STR0034#ALL#No
+0035#STR0035#ALL#Cube Configuration-1
+0036#STR0036#ALL#Edit Cube Configurations-1
+0037#STR0037#ALL#Cube Configuration-2
+0038#STR0038#ALL#Edit Cube Configurations-2
+0039#STR0039#ALL#It considers Zeroed
+0040#STR0040#ALL#Grand Total in Summary
+0041#STR0041#ALL#Consider Cfg. 1 Cube
+0042#STR0042#ALL#Parameters...
+0043#STR0043#ALL#Period to
+0044#STR0044#ALL#Attention
+0045#STR0045#ALL#User without access to the report. Check configurations.
+0046#STR0046#ALL#Attention
+0047#STR0047#ALL#Consultation limited to a maximum of 100 periods. Check the frequency.

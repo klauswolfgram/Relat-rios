@@ -1,0 +1,63 @@
+0001#STR0001#BOL#Livros fiscais
+0002#STR0002#BOL#Preparando as informacoes para o livro de compras
+0003#STR0003#BOL#Tipo de fatura
+0004#STR0004#BOL#NIT do fornecedor
+0005#STR0005#BOL#Nome ou Razão Social
+0006#STR0006#BOL#Nº De Fatura
+0007#STR0007#BOL#Nº de DUE
+0008#STR0008#BOL#Numero de autorizacao
+0009#STR0009#BOL#Data da fatura
+0010#STR0010#BOL#Valor Total de Venda
+0011#STR0011#BOL#Valor ICE/ IEHD/ Taxas
+0012#STR0012#BOL#Vendas Gravadas a Taxa Zero
+0013#STR0013#BOL#Credito Fiscal
+0014#STR0014#BOL#Valor Base para Crédito Fiscal
+0015#STR0015#BOL#Codigo de controle
+0016#STR0016#BOL#Preparando as informacoes para o livro de vendas
+0017#STR0017#BOL#Valor Base para Debito Fiscal
+0018#STR0018#BOL#Debito fiscal
+0019#STR0019#BOL#Estado
+0020#STR0020#BOL#Livro de
+0021#STR0021#BOL#Compras
+0022#STR0022#BOL#Vendas
+0023#STR0023#BOL#Nome ou Razao Social
+0024#STR0024#BOL#Filial
+0025#STR0025#BOL#Endereco
+0026#STR0026#BOL#Periodo
+0027#STR0027#BOL#Apresentacao
+0028#STR0028#BOL#Folio
+0029#STR0029#BOL#Nome completo do responsavel
+0030#STR0030#BOL#Impressao do livro fiscal (compras/vendas)
+0031#STR0031#BOL#Total
+0032#STR0032#BOL#Impressao cancelada pelo usuario
+0033#STR0033#BOL#Notas de Crédito/Débito
+0034#STR0034#BOL#Ano
+0035#STR0035#BOL#Mês
+0036#STR0036#BOL#Nº
+0037#STR0037#BOL#Data Nota de Crédito - Débito
+0038#STR0038#BOL#Nº de Nota de Crédito - Débito
+0039#STR0039#BOL#Nº de Autorização
+0040#STR0040#BOL#NIT/CI Cliente
+0041#STR0041#BOL#Nombre ou Razão Social Cliente
+0042#STR0042#BOL#Valor total da Devolução ou Rescisão
+0043#STR0043#BOL#Crédito Fiscal
+0044#STR0044#BOL#Código de Controle da Nota de Crédito - Débito
+0045#STR0045#BOL#Data Fatura Original
+0046#STR0046#BOL#Nº Fatura Original
+0047#STR0047#BOL#Nº de Autorização Fatura Original
+0048#STR0048#BOL#Valor Total Fatura Original
+0049#STR0049#BOL#Somente poderá ser informado um período de datas dentro do mesmo Mês/Ano correspondentes
+0050#STR0050#BOL#Recebida
+0051#STR0051#BOL#Efetuada
+0052#STR0052#BOL#NIT Fornecedor
+0053#STR0053#BOL#Nombre ou Razão Social Fornecedor
+0054#STR0054#BOL#Débito Fiscal
+0055#STR0055#BOL#Data da Fatura ou DUE
+0056#STR0056#BOL#Nº da Fatura
+0057#STR0057#BOL#Valor Total da Compra
+0058#STR0058#BOL#Valor Não Sujeito a Crédito Fiscal
+0059#STR0059#BOL#Subtotal
+0060#STR0060#BOL#Descontos Bonificações e Abatimentos Obtidos
+0061#STR0061#BOL#Exportações e Operações Isentas
+0062#STR0062#BOL#Descontos Bonificações e Abatimentos Concedidos
+0063#STR0063#BOL#ANULADA

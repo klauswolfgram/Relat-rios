@@ -1,0 +1,27 @@
+0001#STR0001#ALL#Este programa tiene como objetivo imprimir el valor actualizado de
+0002#STR0002#ALL#los prestamos financieros, conforme los parametros solicitados.
+0003#STR0003#ALL#Demostrativo de Prestamos
+0004#STR0005#ALL#A Rayas
+0005#STR0006#ALL#Administracion
+0006#STR0007#ALL#ANULADO POR EL OPERADOR
+0007#STR0008#ALL#                  Datos de Prestamos                                                   Valores
+0008#STR0009#ALL#Numero    Institucion          Mod Fc.Prest Fc.Pago             Principal Tasa Nominal Tar.Contractual      Interes         Pago
+0009#STR0010#ALL#Total general...:
+0010#STR0011#ALL#Registros
+0011#STR0012#ALL#Numero
+0012#STR0013#ALL#Institucion
+0013#STR0014#ALL#Mod
+0014#STR0015#ALL#Fch.Emp.
+0015#STR0016#ALL#Fch.Pago
+0016#STR0017#ALL#Capital  
+0017#STR0018#ALL#Tasa Nominal
+0018#STR0019#ALL#Tar. Contract.
+0019#STR0020#ALL#Int. 
+0020#STR0021#ALL#Pago     
+0021#STR0022#ALL#Total sucursal...:
+0022#STR0023#ALL#Sucursal: 
+0023#STR0024#ALL#Codigo
+0024#STR0025#ALL#Empresa
+0025#STR0026#ALL#Unidad de negocio
+0026#STR0027#ALL#Sucursal
+0027#STR0028#ALL#Sucursales seleccionadas para el informe

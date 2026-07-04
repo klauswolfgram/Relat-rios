@@ -1,0 +1,15 @@
+0001#STR0001#ALL#Este programa tiene como objet.
+0002#STR0002#ALL#imprimir la ctd. de recibos pend.   
+0003#STR0003#ALL#Lista recibos pendientes por cobrador
+0004#STR0004#ALL#A Rayas
+0005#STR0005#ALL#Administrac.
+0006#STR0006#ALL#Talonario  FECHA      TIPO          Numero Inicial   Numero Final      Ctd.Pend
+0007#STR0007#ALL#Seleccionando regist.....
+0008#STR0008#ALL#OFICIAL
+0009#STR0009#ALL#PROVISORIO
+0010#STR0010#ALL#CTD de Talon. 
+0011#STR0011#ALL#CTD de Comprob. Pend.
+0012#STR0012#ALL#Cobradores
+0013#STR0013#ALL#Talon.
+0014#STR0014#ALL#No Disponible
+0015#STR0015#ALL#Este informe esta disponible solamente en otros paises.

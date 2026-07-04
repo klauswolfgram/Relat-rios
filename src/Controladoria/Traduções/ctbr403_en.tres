@@ -1,0 +1,105 @@
+0001#STR0001#ALL#This program prints the Trial Balance Sheet Model 1 (132 Columns), the
+0002#STR0002#ALL#account is printed with up to 20 characters and its description with up to 30 characters,
+0003#STR0003#ALL#Auxiliary Trial Balance Sheet
+0004#STR0004#ALL#|  CODE                       |      D E S C R I P T I O N                      |    PREVIOUS BALANCE           |     DEBIT        |      CREDIT       |    PERIOD TRANSACTION         |         CURRENT BALANCE           |
+0004#STR0004#ANG#|  CODE                       |      D E S C R I P T I O N                      |    PREVIOUS BALANCE           |     DEBIT        |      CREDIT       |    PERIOD TRANSACTION         |         CURRENT BALANCE           |
+0004#STR0004#EQU#|  CODE                       |      D E S C R I P T I O N                      |    PREVIOUS BALANCE           |     DEBIT        |      CREDIT       |    PERIOD TRANSACTION         |         CURRENT BALANCE           |
+0004#STR0004#HAI#|  CODE                       |      D E S C R I P T I O N                      |    PREVIOUS BALANCE           |     DEBIT        |      CREDIT       |    PERIOD TRANSACTION         |         CURRENT BALANCE           |
+0004#STR0004#MEX#|  CODE                       |      D E S C R I P T I O N                      |    PREVIOUS BALANCE           |     DEBIT        |      CREDIT       |    PERIOD TRANSACTION         |         CURRENT BALANCE           |
+0004#STR0004#PTG#|  CODE                     |      D E S C R I P T I O N                          |    PREVIOUS BALANCE             |     DEBIT       |      CREDIT      |    MOVEMENT IN THE PERIOD       |         CURRENT BALANCE               |
+0005#STR0005#ALL#|  CODE                 |D  E  S  C  R  I  P  T  I  O  N |  PREVIOUS BALANCE |      DEBIT     |      CREDIT    |  CURRENT BALANCE  | 
+0005#STR0005#ANG#|  CODE                 |D  E  S  C  R  I  P  T  I  O  N |  PREVIOUS BALANCE |      DEBIT     |      CREDIT    |  CURRENT BALANCE  | 
+0005#STR0005#EQU#|  CODE                 |D  E  S  C  R  I  P  T  I  O  N |  PREVIOUS BALANCE |      DEBIT     |      CREDIT    |  CURRENT BALANCE  | 
+0005#STR0005#HAI#|  CODE                 |D  E  S  C  R  I  P  T  I  O  N |  PREVIOUS BALANCE |      DEBIT     |      CREDIT    |  CURRENT BALANCE  | 
+0005#STR0005#MEX#|  CODE                 |D  E  S  C  R  I  P  T  I  O  N |  PREVIOUS BALANCE |      DEBIT     |      CREDIT    |  CURRENT BALANCE  | 
+0005#STR0005#PTG#|  CODE                     |      D E S C R I P T I O N                          |    PREVIOUS BALANCE             |     DEBIT       |      CREDIT      |          CURRENT BALANCE               | 
+0006#STR0006#ALL#ANALYTICAL TRIAL BALANCE SHEET FROM 
+0007#STR0007#ALL# TO 
+0008#STR0008#ALL# ON 
+0009#STR0009#ALL#SYNTHETIC TRIAL BALANCE SHEET FROM 
+0010#STR0010#ALL#*****   CANCELED BY OPERATOR  *****
+0011#STR0011#ALL#P E R I O D  T O T A L S: 
+0012#STR0012#ALL#Selecting Records...
+0013#STR0013#ALL#Z-form
+0014#STR0014#ALL#Management
+0015#STR0015#ALL#Creating Temporary File...
+0016#STR0016#ALL#printed values are: previous balance, debit, credit and current balance for the period.
+0016#STR0016#ANG#printed values are: previous balance, debit, credit and current balance for the period.
+0016#STR0016#EQU#printed values are: previous balance, debit, credit and current balance for the period.
+0016#STR0016#HAI#printed values are: previous balance, debit, credit and current balance for the period.
+0016#STR0016#MEX#printed values are: previous balance, debit, credit and current balance for the period.
+0016#STR0016#PTG#printed values are: previous balance, debit, credit and current balance for the period.
+0017#STR0017#ALL#TRIAL BALANCE SHEET FROM 
+0018#STR0018#ALL# (QUOTED)
+0019#STR0019#ALL# (MANAGEMENT)
+0020#STR0020#ALL#G R O U P  T O T A L S (
+0021#STR0021#ALL#DIV.
+0022#STR0022#ALL#|  CODE                       |      D E S C R I P T I O N                      |        PREVIOUS BALANCE           |           DEBIT              |            CREDIT                 |         CURRENT BALANCE           |
+0022#STR0022#MEX#|  CODE                     |      D E S C R I P T I O N                          |    PREVIOUS BALANCE             |     DEBIT       |      CREDIT      |          CURRENT BALANCE               |
+0023#STR0023#ALL#Microsiga Software S/A
+0024#STR0024#ALL#End Time: 
+0025#STR0025#ALL#Fill out parameters Income/Expense Groups and Prev. Balance Date of Income/Expenses or
+0026#STR0026#ALL#leave parameter Ignore Prev. Bal. Inc/Exp = No 
+0027#STR0027#ALL#Chart of accounts
+0028#STR0028#ALL#Account
+0029#STR0029#ALL#Description
+0030#STR0030#ALL#Previous Balance
+0031#STR0031#ALL#Debit
+0031#STR0031#ANG#Debit
+0031#STR0031#EQU#Debit
+0031#STR0031#HAI#Debit
+0031#STR0031#MEX#Debit
+0031#STR0031#PTG#Debit
+0032#STR0032#ALL#Credit
+0032#STR0032#ANG#Credit
+0032#STR0032#EQU#Credit
+0032#STR0032#HAI#Credit
+0032#STR0032#MEX#Credit
+0032#STR0032#PTG#Credit
+0033#STR0033#ALL#Period Movement
+0034#STR0034#ALL#Current Balance
+0035#STR0035#ALL#Ignore Prev. Bal.Inc/Exp
+0036#STR0036#ALL#Initial Date 
+0037#STR0037#ALL#Final Date 
+0038#STR0038#ALL#Initial Account 
+0039#STR0039#ALL#Final Account 
+0040#STR0040#ALL#Zeroed Balances 
+0041#STR0041#ALL#Currency 
+0042#STR0042#ALL#Balance Type 
+0043#STR0043#ALL#Print Mov. Column
+0044#STR0044#ALL#Skip Synt. Line
+0045#STR0045#ALL#Yes
+0046#STR0046#ALL#No
+0047#STR0047#ALL#Skip Synt. Line
+0048#STR0048#ALL#Print Value 0.00 
+0049#STR0049#ALL#Number of lines for the Balance Sheet 
+0050#STR0050#ALL#Currency Description 
+0051#STR0051#ALL#Third party balance sheets
+0052#STR0052#COL#N.T.N.
+0052#STR0052#PER#R.C.R.
+0053#STR0053#COL#Initial N.I.T. 
+0053#STR0053#PER#Initial R.C.R. 
+0054#STR0054#COL#Final N.I.T. 
+0054#STR0054#PER#Final R.C.R. 
+0055#STR0055#ALL#Books Configuration
+0056#STR0056#PER#R.C.R.
+0057#STR0057#ALL#Entity not parameterized
+0058#STR0058#ALL#Invalid value entered for
+0059#STR0059#ALL#'Number of lines for ledger'
+0060#STR0060#ALL#Please fill out the quantity
+0061#STR0061#ALL# Minimum 11 row.
+0062#STR0062#ALL#Invalid branch selection.
+0063#STR0063#ALL#Select at least one branch.
+0064#STR0064#ALL#Ledger Card
+0065#STR0065#ALL#Attention
+0066#STR0066#ALL#There are no data for parameters specified.
+0067#STR0067#ALL# T O T A L S 
+0068#STR0068#ALL#G R A N D  T O T A L  ==> 
+0069#STR0069#ALL#Date
+0070#STR0070#ALL#LOT/SUB/DOC/LINE
+0071#STR0071#ALL#Debit
+0072#STR0072#ALL#Credit
+0073#STR0073#ALL#Current Balance
+0074#STR0074#ALL#PREVIOUS BALANCE: 
+0075#STR0075#ALL#Print to Entity cannot empty.
+0076#STR0076#ALL#Enter parameter with entity valid.

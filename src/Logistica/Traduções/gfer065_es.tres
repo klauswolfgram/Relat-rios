@@ -1,0 +1,35 @@
+0001#STR0001#ALL#Seleccionando Registros...
+0002#STR0002#ALL#Documentos de Flete
+0003#STR0003#ALL#Emite Conocimientos de Flete de acuerdo con los parametros informados.
+0004#STR0004#ALL#Codigo
+0005#STR0005#ALL#Nombre Emis
+0006#STR0006#ALL#Nombre Remit.
+0007#STR0007#ALL#Nombre Dest.
+0008#STR0008#ALL#Nombre Cons.
+0009#STR0009#ALL#Documentos de Carga
+0010#STR0010#ALL#Verificacion
+0011#STR0011#ALL#Campo
+0012#STR0012#ALL#Calculado
+0013#STR0013#ALL#Diferencia
+0014#STR0014#ALL#Grilla Contable
+0015#STR0015#ALL#Fecha Mov
+0016#STR0016#ALL#Transaccion
+0017#STR0017#ALL#Cuenta Credito
+0018#STR0018#ALL#Cuenta Debito
+0019#STR0019#ALL#Valor Movimiento
+0020#STR0020#ALL#Tipo
+0021#STR0021#ALL#Enviado ERP
+0022#STR0022#ALL#Cantidad de Volumenes
+0023#STR0023#ALL#Peso Real
+0024#STR0024#ALL#Peso Cubado
+0025#STR0025#ALL#Volumen
+0026#STR0026#ALL#Valor de los Items
+0027#STR0027#ALL#Flete Unidad
+0028#STR0028#ALL#Flete Valor
+0029#STR0029#ALL#Tasas
+0030#STR0030#ALL#Valor del Peaje
+0031#STR0031#ALL#Valor total del Flete
+0032#STR0032#ALL#Alicuota
+0033#STR0033#ALL#Valor del Impuesto
+0034#STR0034#ALL#Informado
+0035#STR0035#ALL#Historial

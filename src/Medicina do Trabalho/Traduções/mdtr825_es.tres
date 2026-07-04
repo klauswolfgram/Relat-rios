@@ -1,0 +1,44 @@
+0001#STR0001#ALL#Emitir el resumen de enfermedades ocupacionales 
+0002#STR0002#ALL#segun el Cuadro IV de la NR4.
+0003#STR0003#ALL#A rayas
+0004#STR0004#ALL#Administracion
+0005#STR0005#ALL#Enfermedades Ocupacionales
+0006#STR0006#ALL#ANULADO POR EL OPERADOR
+0007#STR0007#ALL#| ENFERMEDADES OCUPACIONALES________________________________________________________________   FECHA DEL MAPA:___/___/___|
+0008#STR0008#ALL#| RESPONSABLE:__________________________________________________________  FIRMA:________________________________________ |
+0009#STR0009#ALL#|   Tipo de   | Num.Absoluto |  Sectores de   | Num.Absoluto de |  Num.de  | Num.de Trabajadores  | Num.de Trabajadores  |
+0010#STR0010#ALL#|  Enfermedad |   de Casos   |Actividades de  | Casos (% Total  |  Obitos  |  transferidos para   |   definitivamente    |
+0011#STR0011#ALL#|             |              |los Portadores  |  de Empleados)  |          |     otro Sector      |    Incapacitados     |
+0012#STR0012#ALL#RESUMEN DE LAS ENFERMEDADES ENCONTRADAS POR SECTORES
+0013#STR0013#ALL#Enferm..:
+0014#STR0014#ALL#Centro de Costo          Nombre                     Ocurrencias
+0015#STR0015#ALL#¿De Cliente?
+0016#STR0016#ALL#Tda.
+0017#STR0017#ALL#¿A Cliente  ?
+0018#STR0018#ALL#¿Fecha del mapa?
+0019#STR0019#ALL#Fecha del mapa. Esta pregunta puede permanecer vacia, si opta informar manualmente la fecha del mapa.
+0020#STR0020#ALL#¿Responsable?
+0021#STR0021#ALL#Codigo del responsable. Esta pregunta puede permanecer vacia si opta por informar manualmente el nombre del responsable.
+0022#STR0022#ALL#| ENFERMEDADES LABORALES______________________________________________________________________   FECHA DEL MAPA:
+0023#STR0023#ALL#| RESPONSABLE:
+0024#STR0024#ALL#FIR:________________________________________ |
+0025#STR0025#ALL#¿Imprimir cero (0)?
+0026#STR0026#ALL#Aunque no se tengan datos, el informe se imprimira por fuerza de Ley. Esta pregunta define, en esta ocasion, si debe imprimirse el valor cero (0) en las columnas, o si estas deben quedar vacias.
+0027#STR0027#ALL#Si
+0028#STR0028#ALL#No
+0029#STR0029#ALL#0 (cero)
+0030#STR0030#ALL#|             |              | Portadores (*) |   Empleados)    |          |     Otro Sector      |    Discapacitados    |
+0031#STR0031#ALL#|_____________|______________|________________|_________________|__________|______________________|______________________|
+0032#STR0032#ALL#(*) RESUMEN DE LAS ENFERMEDADES ENCONTRADAS POR SECTORES
+0033#STR0033#ALL#DATOS DE LA EMPRESA
+0034#STR0034#ALL#EMPRESA: 
+0035#STR0035#ALL#CIUDAD: 
+0036#STR0036#ALL#DIRECCION: 
+0037#STR0037#ALL#TELEFONO: 
+0038#STR0038#ALL#¿Imprimir Total de Empleados?
+0039#STR0039#ALL#Indica si imprime el total de empleados en el informe.
+0040#STR0040#ALL#TOTAL DE EMPLEADOS: 
+0041#STR0041#ALL#¿A Fecha    ?
+0042#STR0042#ALL#¿De Fecha           ?
+0043#STR0043#ALL#¿De Sucursal?
+0044#STR0044#ALL#A Sucursal ?

@@ -1,0 +1,22 @@
+0001#STR0001#ALL#Occurrences
+0002#STR0002#ALL#Issues a list of occurrences according to parameters input
+0003#STR0003#ALL#Z.formo
+0004#STR0004#ALL#Management   
+0005#STR0005#ALL#Selecting Records........
+0006#STR0006#ALL#CANCELED BY OPERATOR  
+0007#STR0007#ALL#DATE       TIME  TRIP      DOC       SERIE SENDER/REQUESTER                                         VOL                    WEIGHT
+0008#STR0008#ALL#Occurrence: 
+0009#STR0009#ALL#Total......: 
+0010#STR0010#ALL#Grand Total: 
+0011#STR0011#ALL#Transport.Serv.: 
+0012#STR0012#ALL#Subtotal...: 
+0013#STR0013#ALL#Reason:
+0014#STR0014#ALL#Occurrences
+0015#STR0015#ALL#Issue report of occurrences according to the parameters entered
+0016#STR0016#ALL#Transp.Serv. + Occurrence Cod.
+0017#STR0017#ALL#Transport Serv.
+0018#STR0018#ALL#Occurrence
+0019#STR0019#ALL#Sub-total
+0020#STR0020#ALL#Reason
+0021#STR0021#ALL#Occurrence type   
+0022#STR0022#ALL#Items

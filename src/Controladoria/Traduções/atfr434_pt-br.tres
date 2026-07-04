@@ -1,0 +1,14 @@
+0001#STR0001#ALL#Função disponível apenas para ambientes TopConnect
+0002#STR0002#ALL#Função disponível apenas para TReport, por favor atualizar ambiente e verificar parametro MV_TREPORT
+0003#STR0003#ALL#A data inicial deve ser menor que a data final
+0004#STR0004#ALL#DEMONSTRATIVO DE REALIZAÇÃO DE PROJETO IMOBILIZADO
+0005#STR0005#ALL#Este programa irá imprimir o Demonstrativo de realização do Projeto Imobilizado
+0006#STR0006#ALL#Projeto do Imobilizado
+0007#STR0007#ALL#Etapa do Projeto
+0008#STR0008#ALL#Execuções do Projeto
+0009#STR0009#ALL#Total
+0010#STR0010#ALL#Total da Filial
+0011#STR0011#ALL#Total do Projeto
+0012#STR0012#ALL#Total da Etapa
+0013#STR0013#ALL#Vlr a Realizar
+0014#STR0014#ALL#Vlr Realizado

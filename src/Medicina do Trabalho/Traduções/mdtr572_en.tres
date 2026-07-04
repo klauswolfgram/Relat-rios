@@ -1,0 +1,64 @@
+0001#STR0001#ALL#January
+0002#STR0002#ALL#February
+0003#STR0003#ALL#March
+0004#STR0004#ALL#April
+0005#STR0005#ALL#May
+0006#STR0006#ALL#June
+0007#STR0007#ALL#July
+0008#STR0008#ALL#August
+0009#STR0009#ALL#September
+0010#STR0010#ALL#October
+0011#STR0011#ALL#November
+0012#STR0012#ALL#December
+0013#STR0013#ALL#Change to Ms-Word program to view the document or click on the button to close.
+0014#STR0014#ALL#Sort Risks by:     
+0015#STR0015#ALL#Risk nbr. 
+0016#STR0016#ALL#Risk Agent     
+0017#STR0017#ALL#Gener. Source 
+0018#STR0018#ALL#Cost Center    
+0019#STR0019#ALL#Posit.
+0020#STR0020#ALL#Sort equipment by:       
+0021#STR0021#ALL#Code  
+0022#STR0022#ALL#Name
+0023#STR0023#ALL#Sort Action Plan by:      
+0024#STR0024#ALL#Plan Code      
+0025#STR0025#ALL#Respons. Empl.
+0026#STR0026#ALL#Cost Center?
+0027#STR0027#ALL#Order Action Plan by: ?
+0028#STR0028#ALL#Order Pieces of Equipment by: ?
+0029#STR0029#ALL#Order Risks by: ?
+0030#STR0030#ALL#Outflow File?
+0031#STR0031#ALL#Print?
+0032#STR0032#ALL#Report?
+0033#STR0033#ALL#Customer?
+0034#STR0034#ALL#Unit
+0035#STR0035#ALL#File ltcat.dot was not found in the server.
+0036#STR0036#ALL#Check parameter 'MV_DIRACA'.
+0037#STR0037#ALL#ATTENTION
+0038#STR0038#ALL# from 
+0039#STR0039#ALL#Eng. Occupational Safety
+0040#STR0040#ALL#Control Measures
+0041#STR0041#ALL#Description
+0042#STR0042#ALL#Risk Physical Environment
+0043#STR0043#ALL#Environment
+0044#STR0044#ALL#Exposure Comp.
+0045#STR0045#ALL#Risk Generating Source
+0046#STR0046#ALL#Generating Source
+0047#STR0047#ALL#Employees not exposed to risks:
+0048#STR0048#ALL#Registration Name
+0049#STR0049#ALL#Physical
+0050#STR0050#ALL#Chemical
+0051#STR0051#ALL#Biological
+0052#STR0052#ALL#Ergonomic
+0053#STR0053#ALL#Accident
+0054#STR0054#ALL#Mechanical
+0055#STR0055#ALL#Dangerous
+0056#STR0056#ALL#NA
+0057#STR0057#ALL#Regular/Permanent
+0058#STR0058#ALL#Sporadic/Intermittent
+0059#STR0059#ALL#Absence of Harmful Agent
+0060#STR0060#ALL#Contingent
+0061#STR0061#ALL#Regular/Intermittent
+0062#STR0062#ALL#All
+0063#STR0063#ALL#All
+0064#STR0064#ALL#Psicossocial

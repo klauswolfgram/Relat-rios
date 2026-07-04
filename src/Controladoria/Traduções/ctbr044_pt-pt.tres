@@ -1,0 +1,15 @@
+0001#STR0001#ALL#Este programa imprimirá o Balancete Modelo 5, a 
+0002#STR0002#ALL#conta é impressa limitando-se a 20 caracteres e sua descrição 40 caracteres, 
+0004#STR0004#ALL#Relatório impresso somente em modo grafico
+0006#STR0006#ALL# ATÉ 
+0008#STR0008#ALL#Descrição da Conta
+0013#STR0013#ALL#Débito
+0013#STR0013#MEX#Débito
+0014#STR0014#ALL#Crédito
+0014#STR0014#MEX#Crédito
+0015#STR0015#ALL#T O T A I S  D O  P E R Í O D O: 
+0017#STR0017#ALL#Por favor, preencha os parâmetros Grupos Receitas/Despesas e Data Sld Ant. Receitas/Despesas ou
+0018#STR0018#ALL# deixar o parâmetro Ignora Sl Ant.Rec/Des = Não 
+0019#STR0019#ALL#A Seleccionar Registos...
+0020#STR0020#ALL#A Criar Ficheiro Temporário...
+0023#STR0023#ALL#in

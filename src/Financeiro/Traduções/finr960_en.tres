@@ -1,0 +1,22 @@
+0001#STR0001#ALL#DME - Statement of Currencies in kind
+0002#STR0002#ALL#This program issues the report of bank transactions of Currencies in Kind
+0003#STR0003#ALL#Declarant
+0004#STR0004#ALL#CNPJ/CPF:
+0005#STR0005#ALL#Declared
+0006#STR0006#ALL#CNPJ/CPF:
+0007#STR0007#ALL#Type
+0008#STR0008#ALL#Country
+0009#STR0009#ALL#Transactions in Kind
+0010#STR0010#ALL#Write-off Date
+0011#STR0011#ALL#Operation Value
+0012#STR0012#ALL#Value in Kind
+0013#STR0013#ALL#Currency
+0014#STR0014#ALL#History
+0015#STR0015#ALL#Report of Operations Settled with Currency in Kind
+0016#STR0016#ALL#Legal Entity
+0017#STR0017#ALL#Natural Person
+0018#STR0018#ALL#Asset code
+0019#STR0019#ALL#Service Code
+0020#STR0020#ALL#Outdated dictionary
+0021#STR0021#ALL#To use this report, update the data dictionary with the 'FINR960' questions group
+0022#STR0022#ALL#Declared not informed

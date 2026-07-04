@@ -1,0 +1,80 @@
+0001#STR0001#ALL#Reemision de documentos
+0002#STR0002#ALL#No reemite documentos definidos como copia electronica
+0003#STR0003#ALL#Reemite documentos definidos como copia electronica
+0004#STR0004#ALL#Usuarios
+0005#STR0005#ALL#Documentos
+0006#STR0006#ALL#Nombre
+0007#STR0007#ALL#N.Reduc
+0008#STR0008#ALL#Haga doble clic para seleccionar usuarios
+0009#STR0009#ALL#Documento
+0010#STR0010#ALL#Rv
+0011#STR0011#ALL#Titulo
+0012#STR0012#ALL#Haga doble clic para seleccionar documentos
+0013#STR0013#ALL#Configuracion
+0014#STR0014#ALL#La configuracion actual esta para 
+0015#STR0015#ALL#no reemitir
+0016#STR0016#ALL#reemitir
+0017#STR0017#ALL# documentos definidos como copias electronicas
+0018#STR0018#ALL#¿Desea cambiar la configuracion para 
+0019#STR0019#ALL# los documentos?
+0020#STR0020#ALL#Atencion
+0021#STR0021#ALL#Protocolo
+0022#STR0022#ALL#Copia controlada
+0023#STR0023#ALL# Opciones para emision 
+0024#STR0024#ALL#Documentos por usuario
+0025#STR0025#ALL#Usuarios por documento
+0026#STR0026#ALL#Motivo de la reemision
+0027#STR0027#ALL#Descripcion
+0028#STR0028#ALL#Reemision de documento - Copia Controlada
+0029#STR0029#ALL#Dpto.
+0030#STR0030#ALL#Tipo
+0031#STR0031#ALL#Departamentos
+0032#STR0032#ALL#Carpetas
+0033#STR0033#ALL#Suc/Cod
+0034#STR0034#ALL#Carpetas por documentos
+0035#STR0035#ALL#Cod.As.
+0036#STR0036#ALL#Tp. Doc.
+0037#STR0037#ALL#Departamentos por documentos
+0038#STR0038#ALL#Reemitir documentos...
+0039#STR0039#ALL#Anular...
+0040#STR0040#ALL#Configuracion de reemision
+0041#STR0041#ALL#Motivo de reemision no informado. Utilice la opcion Configuracion.
+0042#STR0042#ALL#Responsable: 
+0043#STR0043#ALL#Recortar
+0044#STR0044#ALL#Copiar
+0045#STR0045#ALL#Pegar
+0046#STR0046#ALL#Calculadora...
+0047#STR0047#ALL#Agenda...
+0048#STR0048#ALL#Administrador de impresion...
+0049#STR0049#ALL#Help de programa...
+0050#STR0050#ALL#Tipo de impresion
+0051#STR0051#ALL#Portada
+0052#STR0052#ALL#Documento
+0053#STR0053#ALL#Espere...
+0054#STR0054#ALL#Seleccionando registros...
+0055#STR0055#ALL#Busca documento
+0056#STR0056#ALL#Busca usuario
+0057#STR0057#ALL#Busca carpeta
+0058#STR0058#ALL#Busca departamento
+0059#STR0059#ALL#Campo+Secuencia
+0060#STR0060#ALL# Suc+Parametro
+0061#STR0061#ALL# Dominio+C.Dominio
+0062#STR0062#ALL#Busqueda
+0063#STR0063#ALL#Detalles
+0064#STR0064#ALL#Config
+0065#STR0065#ALL#Spool
+0066#STR0066#ALL#Ajuda
+0067#STR0067#ALL#Calc
+0068#STR0068#ALL#¡ El usuario logado no esta indicado como un distribuidor en el registro !
+0069#STR0069#ALL#¡ No existen documentos con la responsabilidad de distribuidor para el usuario logado !
+0070#STR0070#ALL#¡Existen Carpetas seleccionadas que estan Inactivas!
+0071#STR0071#ALL#Esta carpeta no se seleccionara, esta Inactiva
+0072#STR0072#ALL#Inactivo
+0073#STR0073#ALL#Inactiva
+0074#STR0074#ALL#Usuario Inactivo
+0075#STR0075#ALL#Existen usuarios que estan inactivos
+0076#STR0076#ALL#Motivo
+0077#STR0077#ALL#Debe informarse el motivo de la reemisión del documento.
+0078#STR0078#ALL#Este campo debe informarse, no puede estar vacío.
+0079#STR0079#ALL#Inicia con
+0080#STR0080#ALL#Contiene

@@ -1,0 +1,20 @@
+0001#STR0001#ALL#Lista De Treinos Por Treinando
+0002#STR0002#ALL#Este programa vai imprimir uma relação de treinos por
+0003#STR0003#ALL#Treinando, relacionando os treinos que foram realizados
+0004#STR0004#ALL#De acordo com os parâmetros definidos pelo utilizador.
+0005#STR0005#ALL#Código de barras
+0006#STR0006#ALL#Administração
+0007#STR0007#ALL#A Seleccionar Registos..
+0008#STR0008#ALL#Número/ano Documento/revisão            Título                                                        Partic. Data         Hora      Hora     Total   Justificação
+0009#STR0009#ALL#                                                                                                              realização   inicial   final    horas                
+0010#STR0010#ALL#Cancelado Pelo Operador
+0011#STR0011#ALL#Utilizador: 
+0014#STR0014#ALL#Treino:
+0018#STR0018#ALL#Não
+0020#STR0020#ALL#Até Filial Treinand?
+0022#STR0022#ALL#Dt.realização
+0024#STR0024#ALL#Formação
+0025#STR0025#ALL#Usuario
+0026#STR0026#ALL#Hr.início
+0027#STR0027#ALL#Hr.final
+0028#STR0028#ALL#Tot. horas

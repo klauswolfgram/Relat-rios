@@ -1,0 +1,16 @@
+0001#STR0001#ALL#Padrão
+0005#STR0005#ALL#Este programa imprimirá o Demonstrativo Gerencial Modelo 2
+0006#STR0006#ALL#Será impresso de acordo com os parâmetros solicitados pelo utilizador.
+0009#STR0009#ALL#Não há dados a serem exibidos
+0021#STR0021#ALL#do período ela torna-se obrigatória.
+0022#STR0022#ALL#ela faz-se necessária neste relatório.
+0023#STR0023#ALL#escolher outro calendário, mas que seja
+0024#STR0024#ALL#escolher um ou outro calendário, mas que
+0026#STR0026#ALL#existe no registo ou não foi preenchido
+0027#STR0027#ALL#existe no registo.
+0031#STR0031#ALL#Favor verificar o registo do mesmo ou
+0032#STR0032#ALL#INCOMPATÍVEL
+0037#STR0037#ALL#ou superior a 25/12/2008 para criar a
+0040#STR0040#ALL#saldo torna-se obrigatória.
+0060#STR0060#PER#Error al Crear Archivo TXT.
+0061#STR0061#PER#Archivo TXT generado con éxito.

@@ -1,0 +1,23 @@
+0001#STR0001#ALL#Print list of bills with taxes payable 
+0002#STR0002#ALL#(Pis, Cofins and Csll), displaying bills that 
+0003#STR0003#ALL#started grouping and the grouping bill.
+0004#STR0004#ALL#Grouping of Taxes payable
+0005#STR0005#ALL#Z.form
+0006#STR0006#ALL#Management
+0007#STR0007#ALL#Selecting records...
+0008#STR0008#ALL#List of Bills transacted by Grouping
+0009#STR0009#ALL#Num.Prf.      Pc.  Supp.Type Code    Store   Supplier Name      Class   Issue Dt.  Due Date Dt.  Withh.Code           Amount
+0010#STR0010#ALL#*** CANCELLED BY OPERATOR ***
+0011#STR0011#ALL#Process : 
+0012#STR0012#ALL#Bill grouped : 
+0013#STR0013#ALL#Bills posted  : 
+0014#STR0014#ALL#            Sub-Total (Process) 
+0015#STR0015#ALL#            Grand Total :
+0016#STR0016#ALL# Branch
+0017#STR0017#ALL#Fl
+0018#STR0018#ALL#Code
+0019#STR0019#ALL#Company
+0020#STR0020#ALL#Business Unit
+0021#STR0021#ALL#Branch
+0022#STR0022#ALL#Branches selected for the report
+0023#STR0023#ALL#Function available only in Brazil

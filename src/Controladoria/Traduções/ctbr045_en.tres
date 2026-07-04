@@ -1,0 +1,70 @@
+0001#STR0001#ALL#This program will print the Translated Balance Currency . There is a
+0002#STR0002#ALL#maximum of 20 characters to the account and 30 characters to the description.
+0003#STR0003#ALL#Trans. Balance Currency.
+0004#STR0004#ALL#|  CODE                       |      D E S C R I P T I O N                      |   PREVIOUS BALANCE            |     DEBIT        |      CREDIT       |  MOVEMENT OF THE PERIOD       |       CURRENT BALANCE             |
+0004#STR0004#ANG#|  CODE                       |      D E S C R I P T I O N                      |   PREVIOUS BALANCE            |     DEBIT        |      CREDIT       |  MOVEMENT OF THE PERIOD       |       CURRENT BALANCE             |
+0004#STR0004#EQU#|  CODE                       |      D E S C R I P T I O N                      |   PREVIOUS BALANCE            |     DEBIT        |      CREDIT       |  MOVEMENT OF THE PERIOD       |       CURRENT BALANCE             |
+0004#STR0004#HAI#|  CODE                       |      D E S C R I P T I O N                      |   PREVIOUS BALANCE            |     DEBIT        |      CREDIT       |  MOVEMENT OF THE PERIOD       |       CURRENT BALANCE             |
+0004#STR0004#MEX#|  CODE                       |      D E S C R I P T I O N                      |   PREVIOUS BALANCE            |     DEBIT        |      CREDIT       |  MOVEMENT OF THE PERIOD       |       CURRENT BALANCE             |
+0004#STR0004#PTG#|  CODE                       |      D E S C R I P T I O N                      |   PREVIOUS BALANCE            |     DEBIT        |      CREDIT       |  MOVEMENT OF THE PERIOD       |       CURRENT BALANCE             |
+0005#STR0005#ALL#|    ACCOUNT CODE       |   D  E  S  C  R  I  P  T  .    | PREVIOUS BALANCE  |      DEBIT     |      CREDIT    |  CURRENT BALANCE  |
+0005#STR0005#ANG#|    ACCOUNT CODE       |   D  E  S  C  R  I  P  T  .    | PREVIOUS BALANCE  |      DEBIT     |      CREDIT    |  CURRENT BALANCE  |
+0005#STR0005#EQU#|    ACCOUNT CODE       |   D  E  S  C  R  I  P  T  .    | PREVIOUS BALANCE  |      DEBIT     |      CREDIT    |  CURRENT BALANCE  |
+0005#STR0005#HAI#|    ACCOUNT CODE       |   D  E  S  C  R  I  P  T  .    | PREVIOUS BALANCE  |      DEBIT     |      CREDIT    |  CURRENT BALANCE  |
+0005#STR0005#MEX#|    ACCOUNT CODE       |   D  E  S  C  R  I  P  T  .    | PREVIOUS BALANCE  |      DEBIT     |      CREDIT    |  CURRENT BALANCE  |
+0005#STR0005#PTG#|    ACCOUNT CODE       |   D  E  S  C  R  I  P  T  .    | PREVIOUS BALANCE  |      DEBIT     |      CREDIT    |  CURRENT BALANCE  |
+0006#STR0006#ALL#DETAILED TRANS. BALANCE CURRENCY OF 
+0007#STR0007#ALL# UNTIL 
+0008#STR0008#ALL# IN 
+0009#STR0009#ALL#SUMMARIZED TRANS. BALANCE CURRENCY OF 
+0010#STR0010#ALL#***** CANCELLED BY THE OPERATOR *****
+0011#STR0011#ALL#T O T A L S  O F  T H E  P E R I O D: 
+0012#STR0012#ALL#Selecting Records...
+0013#STR0013#ALL#Z.Form
+0014#STR0014#ALL#Management
+0015#STR0015#ALL#Creating Temporary File...
+0016#STR0016#ALL#Printed values: previous balance, debit, credit and current balance of the period.
+0016#STR0016#ANG#Printed values: previous balance, debit, credit and current balance of the period.
+0016#STR0016#EQU#Printed values: previous balance, debit, credit and current balance of the period.
+0016#STR0016#HAI#Printed values: previous balance, debit, credit and current balance of the period.
+0016#STR0016#MEX#Printed values: previous balance, debit, credit and current balance of the period.
+0016#STR0016#PTG#Printed values: previous balance, debit, credit and current balance of the period.
+0017#STR0017#ALL#TRANS. BALANCE CURRENCY OF 
+0018#STR0018#ALL# (BUDGETED)
+0019#STR0019#ALL# (MANAGERIAL)
+0020#STR0020#ALL#T O T A L S  -  G R O U P (
+0021#STR0021#ALL#DIV.
+0022#STR0022#ALL#A C C O U N T   C O D E      
+0023#STR0023#ALL#D E S C R I P.  OF  A C C O U N T
+0024#STR0024#ALL#PREVIOUS BLNCE
+0025#STR0025#ALL#DEBIT 
+0025#STR0025#ANG#DEBIT 
+0025#STR0025#EQU#DEBIT 
+0025#STR0025#HAI#DEBIT 
+0025#STR0025#MEX#DEBIT 
+0025#STR0025#PTG#DEBIT 
+0026#STR0026#ALL#CREDIT 
+0026#STR0026#ANG#CREDIT 
+0026#STR0026#EQU#CREDIT 
+0026#STR0026#HAI#CREDIT 
+0026#STR0026#MEX#CREDIT 
+0026#STR0026#PTG#CREDIT 
+0027#STR0027#ALL#PERIOD MOVEMENTS 
+0028#STR0028#ALL#CURRENT BLN
+0029#STR0029#ALL#Chart of accts.
+0030#STR0030#ALL#Total
+0031#STR0031#ALL#D E B I T  
+0031#STR0031#ANG#D E B I T  
+0031#STR0031#EQU#D E B I T  
+0031#STR0031#HAI#D E B I T  
+0031#STR0031#MEX#D E B I T  
+0031#STR0031#PTG#D E B I T  
+0032#STR0032#ALL#C R E D I T  
+0032#STR0032#ANG#C R E D I T  
+0032#STR0032#EQU#C R E D I T  
+0032#STR0032#HAI#C R E D I T  
+0032#STR0032#MEX#C R E D I T  
+0032#STR0032#PTG#C R E D I T  
+0033#STR0033#ALL#M O V E M E N T S
+0034#STR0034#ALL#Record has managerial view bound to a conversion of values, it will not be executed.
+0035#STR0035#ALL#Continue?

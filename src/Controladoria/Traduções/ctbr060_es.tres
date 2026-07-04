@@ -1,0 +1,61 @@
+0001#STR0001#ALL#Este programa imprime el balance aux.de verificacion Modelo 3 (132 Columnas),
+0002#STR0002#ALL#la impresion del codigo de la cuenta o su descripcion tambien se imprimen,
+0003#STR0003#ALL#Balance aux.de verificacion.
+0004#STR0004#ALL#|                                                        |                   |        MOVIMIENTO DEL MES       |                   |
+0005#STR0005#ALL#|       C O D I G O   D E   L A   C U E N T A            |   SALDO ANTERIOR  |      DEBITO    |      CREDITO   |   SALDO ACTUAL    |
+0005#STR0005#ANG#|       C O D I G O   D E   L A  C U E N T A             |   SALDO ANTERIOR  |      DEBITO    |      CREDITO   |   SALDO ACTUAL    |
+0005#STR0005#EQU#|       C O D I G O   D E   L A  C U E N T A             |   SALDO ANTERIOR  |      DEBITO    |      CREDITO   |   SALDO ACTUAL    |
+0005#STR0005#HAI#|       C O D I G O   D E   L A  C U E N T A             |   SALDO ANTERIOR  |      DEBITO    |      CREDITO   |   SALDO ACTUAL    |
+0005#STR0005#MEX#|       C O D I G O   D E   L A  C U E N T A             |   SALDO ANTERIOR  |      CARGO     |       ABONO    |   SALDO ACTUAL    |
+0005#STR0005#PTG#|       C O D I G O   D E   L A  C U E N T A             |   SALDO ANTERIOR  |      DEBITO    |      CREDITO   |   SALDO ACTUAL    |
+0006#STR0006#ALL#BALANCE AUX.DE VERIFICACION ANALITICA DE
+0007#STR0007#ALL# A  
+0008#STR0008#ALL# EN 
+0009#STR0009#ALL#BALANCE AUX.DE VERIFICACION SINTETICA DE
+0010#STR0010#ALL#***** ANULADO POR EL OPERADOR *****
+0011#STR0011#ALL#T O T A L  D E L  P E R I O D O:
+0012#STR0012#ALL#Seleccionando registros...
+0013#STR0013#ALL#A Rayas
+0014#STR0014#ALL#Administracion
+0015#STR0015#ALL#Creando archivo temporal...
+0016#STR0016#ALL#que tengan codigos muy extensos.
+0017#STR0017#ALL#BALANCE AUX.DE VERIFICACION DE 
+0018#STR0018#ALL# (PRESUP.)
+0019#STR0019#ALL#|       D E S C R I P C I O N  D E  L A  C U E N T A     |   SALDO ANTERIOR  |      DEBITO    |      CREDITO   |   SALDO ACTUAL    |
+0019#STR0019#ANG#|     D E S C R I P C I O N  D E  L A  C U E N T A       |   SALDO ANTERIOR  |      DEBITO    |      CREDITO   |   SALDO ACTUAL    |
+0019#STR0019#EQU#|     D E S C R I P C I O N  D E  L A  C U E N T A       |   SALDO ANTERIOR  |      DEBITO    |      CREDITO   |   SALDO ACTUAL    |
+0019#STR0019#HAI#|     D E S C R I P C I O N  D E  L A  C U E N T A       |   SALDO ANTERIOR  |      DEBITO    |      CREDITO   |   SALDO ACTUAL    |
+0019#STR0019#MEX#|     D E S C R I P C I O N  D E  L A  C U E N T A       |   SALDO ANTERIOR  |      CARGO     |       ABONO    |   SALDO ACTUAL    |
+0019#STR0019#PTG#|     D E S C R I P C I O N  D E  L A  C U E N T A       |   SALDO ANTERIOR  |      DEBITO    |      CREDITO   |   SALDO ACTUAL    |
+0020#STR0020#ALL#T O T A L  D E L  G R U P O (
+0021#STR0021#ALL#|                  C O D I G O   D E   L A   C U E N T A                             |      SALDO ANTERIOR     |         DEBITO           |          CREDITO         |      MOVIMIENTO PERIODO    |       SALDO ACTUAL     |
+0021#STR0021#ANG#|                  C O D I G O   D E   L A   C U E N T A                             |      SALDO ANTERIOR     |         DEBITO           |          CREDITO         |      MOVIMIENTO PERIODO    |       SALDO ACTUAL     |
+0021#STR0021#EQU#|                  C O D I G O   D E   L A   C U E N T A                             |      SALDO ANTERIOR     |         DEBITO           |          CREDITO         |      MOVIMIENTO PERIODO    |       SALDO ACTUAL     |
+0021#STR0021#HAI#|                  C O D I G O   D E   L A   C U E N T A                             |      SALDO ANTERIOR     |         DEBITO           |          CREDITO         |      MOVIMIENTO PERIODO    |       SALDO ACTUAL     |
+0021#STR0021#MEX#|                  C O D I G O   D E   L A   C U E N T A                             |      SALDO ANTERIOR     |         CARGO            |          ABONO           |      MOVIMIENTO PERIODO    |       SALDO ACTUAL     |
+0021#STR0021#PTG#|                  C O D I G O   D E   L A   C U E N T A                             |      SALDO ANTERIOR     |         DEBITO           |          CREDITO         |      MOVIMIENTO PERIODO    |       SALDO ACTUAL     |
+0022#STR0022#ALL#|                  D E S C R I P C I O N   D E   L A   C U E N T A                   |      SALDO ANTERIOR     |         DEBITO           |          CREDITO         |      MOVIMIENTO PERIODO    |       SALDO ACTUAL     |
+0022#STR0022#ANG#|                  D E S C R I P C I O N   D E   L A   C U E N T A                   |      SALDO ANTERIOR     |         DEBITO           |          CREDITO         |      MOVIMIENTO PERIODO    |       SALDO ACTUAL     |
+0022#STR0022#EQU#|                  D E S C R I P C I O N   D E   L A   C U E N T A                   |      SALDO ANTERIOR     |         DEBITO           |          CREDITO         |      MOVIMIENTO PERIODO    |       SALDO ACTUAL     |
+0022#STR0022#HAI#|                  D E S C R I P C I O N   D E   L A   C U E N T A                   |      SALDO ANTERIOR     |         DEBITO           |          CREDITO         |      MOVIMIENTO PERIODO    |       SALDO ACTUAL     |
+0022#STR0022#MEX#|                  D E S C R I P C I O N   D E   L A   C U E N T A                   |      SALDO ANTERIOR     |         CARGO            |          ABONO           |      MOVIMIENTO PERIODO    |       SALDO ACTUAL     |
+0022#STR0022#PTG#|                  D E S C R I P C I O N   D E   L A   C U E N T A                   |      SALDO ANTERIOR     |         DEBITO           |          CREDITO         |      MOVIMIENTO PERIODO    |       SALDO ACTUAL     |
+0023#STR0023#ALL#DIV.
+0024#STR0024#ALL#Por favor rellenar parametros Grupos Ingresos/Gastos y Fecha Sld Ant. Ingresos/Gastos o 
+0025#STR0025#ALL#deixar el parametro Ignora Sl Ant.Ing/Gas = No 
+0026#STR0026#ALL#C O D I G O   D E   C U E N .
+0027#STR0027#ALL#D E S C R I P C .   D E   C U E N .
+0028#STR0028#ALL#SALDO ANTERIOR
+0029#STR0029#ALL#DEBITO
+0029#STR0029#MEX#CARGO
+0030#STR0030#ALL#CREDITO
+0030#STR0030#MEX#ABONO
+0031#STR0031#ALL#MOVIMIEN. PERIODO
+0032#STR0032#ALL#SALDO ACT. 
+0033#STR0033#ALL#Plan de cuentas
+0034#STR0034#ALL#De Balance Parc. de Verif. Analitico 
+0035#STR0035#ALL#De Balance Parc. de Verif. Sintetico 
+0036#STR0036#ALL#De Balance Parc. de Verif. 
+0037#STR0037#ALL# a 
+0038#STR0038#ALL#Totalizadores
+0039#STR0039#ALL#Descr. Totalizador

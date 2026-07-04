@@ -1,0 +1,47 @@
+0001#STR0001#ALL#Consumo Real x Standard
+0002#STR0002#ALL#Este programa ira imprimir a relacao de 
+0003#STR0003#ALL#Consumo Real x Standard.                
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#Selecionando Registros...
+0007#STR0007#ALL#CODIGO           M A T E R I A L                  |              C O N S U M O  R E A L              |           C O N S U M O  S T A N D A R D         |                          V A R I A C A O                        
+0008#STR0008#ALL#                 DESCRICAO                     UM |      QUANTIDADE      CUSTO UN.       VALOR TOTAL |      QUANTIDADE      CUSTO UN.       VALOR TOTAL |     QUANTIDADE   VALOR TOTAL          $QTD.    $VALOR         % 
+0009#STR0009#ALL# ( Por Ordem de Producao )
+0010#STR0010#ALL# ( Por Produto )
+0011#STR0011#ALL#CANCELADO PELO OPERADOR
+0012#STR0012#ALL#Total 
+0013#STR0013#ALL#da OP:
+0014#STR0014#ALL#do Produto:
+0015#STR0015#ALL#V A R I A C A O   DE   U S O   E   C O N S U M O
+0016#STR0016#ALL#Total do Produto:
+0017#STR0017#ALL#|                                                       |        C O N S U M O  R E A L         |    C O N S U M O  S T A N D A R D     |            V A R I A C A O                                 |
+0018#STR0018#ALL#|  CODIGO            DESCRICAO                          |---------------------------------------|---------------------------------------|------------------------------------------------------------|
+0019#STR0019#ALL#|                                                       |      QUANTIDADE  |             VALOR  |      QUANTIDADE  |             VALOR  |      QUANTIDADE  |             VALOR  |                 %  |
+0020#STR0020#ALL#M A T E R I A L
+0021#STR0021#ALL#| C O N S U M O
+0022#STR0022#ALL#|    QUANTIDADE
+0023#STR0023#ALL#R E A L 
+0024#STR0024#ALL#CUSTO UN
+0025#STR0025#ALL#VALOR TOTAL
+0026#STR0026#ALL#S T A N D A R D
+0027#STR0027#ALL#| V A R I A Ç Ã O
+0028#STR0028#ALL#$QTDE
+0029#STR0029#ALL#$VALOR
+0030#STR0030#ALL#| C O N S U M O  R E A L 
+0031#STR0031#ALL#VALOR
+0032#STR0032#ALL#| C O N S U M O  S T D.
+0033#STR0033#ALL#Atenção
+0034#STR0034#ALL#Atualizar patch do programa
+0035#STR0035#ALL#PRODUTO:
+0036#STR0036#ALL#OP: 
+0037#STR0037#ALL#CODIGO
+0038#STR0038#ALL#DESCRIÇÃO
+0039#STR0039#ALL#UM
+0040#STR0040#ALL#|      QUANTIDADE
+0041#STR0041#ALL#|             QUANTIDADE
+0042#STR0042#ALL#|            QUANTIDADE
+0043#STR0043#ALL#|      QUANTIDADE
+0044#STR0044#ALL#Itens de Movimentação Interna
+0045#STR0045#ALL#Saldo Inicial OP / Produto
+0046#STR0046#ALL#Totais por OP / Produto
+0047#STR0047#ALL#Resumo Aglutinado por Produto

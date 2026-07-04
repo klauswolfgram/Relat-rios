@@ -1,0 +1,65 @@
+0001#STR0001#ALL#Print registered Purchase Requisitions or Delivery
+0002#STR0002#ALL#Authorizations that still have not been printed.
+0003#STR0003#ALL#Issue of Purchase Orders or Delivery Authorizations
+0004#STR0004#ALL#Z.Form
+0005#STR0005#ALL#Management
+0006#STR0006#ALL#CANCELLED BY THE OPERATOR
+0007#STR0007#ALL#D I S C O U N T S -->
+0008#STR0008#ALL#Delivery Location: 
+0009#STR0009#ALL#ZIP :
+0010#STR0010#ALL#Collection Address: 
+0011#STR0011#ALL#Payment Terms     
+0012#STR0012#ALL#| Issue Date 
+0013#STR0013#ALL#Goods` Total : 
+0014#STR0014#ALL#Adjustment:
+0015#STR0015#ALL#| IPI   :
+0016#STR0016#ALL#| Notes:
+0017#STR0017#ALL#| Group :
+0018#STR0018#ALL#| Grand Total : 
+0019#STR0019#ALL#Order Release 
+0020#STR0020#ALL#Freight Notes 
+0021#STR0021#ALL#Purchaser
+0022#STR0022#ALL#Managem.
+0023#STR0023#ALL#Board Dir.
+0024#STR0024#ALL#|   NOTE: The goods will only be accepted if the Invoice contains the number of our Purchase Order.    
+0025#STR0025#ALL#| Note     
+0026#STR0026#ALL#| Buyer        
+0027#STR0027#ALL#| Management   
+0028#STR0028#ALL#| Board of Direct. 
+0029#STR0029#ALL#|   NOTE: The goods will only be accepted if the Invoice contains the number of the Delivery Authoriz. 
+0030#STR0030#ALL#Continued...
+0031#STR0031#ALL#| P U R C H A S E  O R D E R    
+0032#STR0032#ALL#| D E L I V E R Y    A U T H O R. 
+0033#STR0033#ALL# - continued  
+0034#STR0034#ALL#a. Issue 
+0035#STR0035#ALL#a.Cop
+0036#STR0036#ALL#Sta.Reg.: 
+0037#STR0037#ALL#PHO: 
+0038#STR0038#ALL#Fax Number: 
+0039#STR0039#ALL#CNPJ: 
+0040#STR0040#ALL#CNPJ: 
+0041#STR0041#ALL#SI:
+0042#STR0042#ALL#Phone 
+0043#STR0043#ALL#Item|
+0044#STR0044#ALL#Code      
+0045#STR0045#ALL#|Goods` Description
+0046#STR0046#ALL#|UM|  Qty
+0047#STR0047#ALL#|Unit Value    |IPI  |  Total Value   |  Deliv.  |  C.C.              | P.R. |
+0048#STR0048#ALL#|Unit Value    |  Total Value   | Delivery | Number of PO  
+0049#STR0049#ALL#|Freight:
+0050#STR0050#ALL#      R E L E A S E D   O R D E R
+0051#STR0051#ALL#      B L O C K E D   O R D E R 
+0052#STR0052#ALL#Respons.Purchaser :
+0053#STR0053#ALL#Alternative Purch. :
+0054#STR0054#ALL#Approver(s) :
+0055#STR0055#ALL#|Unit Valie    |IPI  |  Total Value   |  Deliv.  |  C.C.   | P.R. |
+0056#STR0056#ALL#|Unit Value    |      Total Value     |  Deliv.  |  C.C.              | P.R. |
+0057#STR0057#ALL#|Unit Value    |      Total Value     |  Deliv.  |  C.C.   | P.R. |
+0058#STR0058#ALL#| Expenses :
+0059#STR0059#ALL#| Insurance:
+0060#STR0060#ALL#BLQ:Locked
+0061#STR0061#ALL#Ok:Released
+0062#STR0062#ALL#??:Wait.Rel.
+0063#STR0063#ALL#Total of taxes:        
+0064#STR0064#ALL#Total with Taxes:    
+0065#STR0065#ALL#Tax    Rate        Tax Val.

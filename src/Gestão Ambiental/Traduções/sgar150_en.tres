@@ -1,0 +1,51 @@
+0001#STR0001#ALL#Selecting records...
+0002#STR0002#ALL#From Aspect ?
+0003#STR0003#ALL#To Aspect ?
+0004#STR0004#ALL#From Impact ?
+0005#STR0005#ALL#To Impact ?
+0006#STR0006#ALL#From Structure Level ?
+0007#STR0007#ALL#To Structure Level ?
+0008#STR0008#ALL#From Date ?
+0009#STR0009#ALL#To Date ?
+0010#STR0010#ALL#Display History Order ?
+0011#STR0011#ALL#Yes
+0012#STR0012#ALL#No
+0013#STR0013#ALL#History of Aspect/Impact Evaluations
+0014#STR0014#ALL#Order
+0015#STR0015#ALL#Code of History
+0016#STR0016#ALL#Perf. Dt.
+0017#STR0017#ALL#Code
+0018#STR0018#ALL#Structure Level
+0019#STR0019#ALL#Action Plan
+0020#STR0020#ALL#Emerg. Plan
+0021#STR0021#ALL#Significance
+0022#STR0022#ALL#Aspect
+0023#STR0023#ALL#Evaluation
+0024#STR0024#ALL#Option
+0025#STR0025#ALL#Impact
+0026#STR0026#ALL#Option
+0027#STR0027#ALL#Z patterned
+0028#STR0028#ALL#Administration
+0029#STR0029#ALL#Processing File...
+0030#STR0030#ALL#Perf. Date
+0031#STR0031#ALL#Structure Level
+0032#STR0032#ALL#Report Type? 
+0033#STR0033#ALL#Default
+0034#STR0034#ALL#Spreadsheet
+0035#STR0035#ALL#Review
+0036#STR0036#ALL#Indicate whether the report will be printed in standard format or generated a spreadsheet.
+0037#STR0037#ALL#Enter the review to be printed; if the review is informed the parameters from date and to date will be disregarded 
+0038#STR0038#ALL#Enter the review to be printed; if the review is informed the parameters From Date? and To Date? will be disregarded 
+0039#STR0039#ALL#Score
+0040#STR0040#ALL#Significance
+0041#STR0041#ALL#Legal Requirements Associated
+0042#STR0042#ALL#Monitoring
+0043#STR0043#ALL#PURPOSES AND GOALS
+0044#STR0044#ALL#EMERGENCY PLAN
+0045#STR0045#ALL#ACTION PLAN
+0046#STR0046#ALL#Control or Applied Monitoring
+0047#STR0047#ALL#Review:
+0048#STR0048#ALL#SURVEY OF ASPECTS AND IMPACTS
+0049#STR0049#ALL#MsExcel not installed!
+0050#STR0050#ALL#There is nothing to be printed in the report.
+0051#STR0051#ALL#Operational Control or Monitoring

@@ -1,0 +1,58 @@
+0001#STR0001#ALL# Valores Futuros 
+0001#STR0001#ANG# valores futuros 
+0001#STR0001#EQU# valores futuros 
+0001#STR0001#HAI# valores futuros 
+0001#STR0001#PTG# valores futuros 
+0002#STR0002#ALL#Matricula:
+0002#STR0002#ANG#Registo:
+0002#STR0002#EQU#Registo:
+0002#STR0002#HAI#Registo:
+0002#STR0002#PTG#Registo:
+0003#STR0003#ALL#Matricula + PD
+0003#STR0003#ANG#Registo + Pd
+0003#STR0003#EQU#Registo + Pd
+0003#STR0003#HAI#Registo + Pd
+0003#STR0003#PTG#Registo + Pd
+0004#STR0004#ALL#Cod.  Descricrip. Concepto  Val. Capital       Cuota      Val. Cuota      Inter. ano  Inter. Mes    Valor c/Intereses     Valor Pagado   Cuota Pag.   Val.Residuo      Fc.Vcto      Fc.Mvto
+0004#STR0004#ANG#Cod.  Descripcion  Concepto  Val. Capital       Cuota      Val. Cuota        Inter. Ano  Inter. Mes    Valor C/Intereses     Valor Pagado   Cuota pag.   Val.residual     Fc.vcto      Fc.mvto
+0004#STR0004#EQU#Cod.  Descripcion  Concepto  Val. Capital       Cuota      Val. Cuota        Inter. Ano  Inter. Mes    Valor C/Intereses     Valor Pagado   Cuota pag.   Val.residual     Fc.vcto      Fc.mvto
+0004#STR0004#HAI#Cod.  Descripcion  Concepto  Val. Capital       Cuota      Val. Cuota        Inter. Ano  Inter. Mes    Valor C/Intereses     Valor Pagado   Cuota pag.   Val.residual     Fc.vcto      Fc.mvto
+0004#STR0004#PTG#Cod.  Descripcion  Concepto  Val. Capital       Cuota      Val. Cuota        Inter. Ano  Inter. Mes    Valor C/Intereses     Valor Pagado   Cuota pag.   Val.residual     Fc.vcto      Fc.mvto
+0005#STR0005#ALL#Total de Sucur.
+0005#STR0005#ANG#Total De Sucur.
+0005#STR0005#EQU#Total De Sucur.
+0005#STR0005#HAI#Total De Sucur.
+0005#STR0005#PTG#Total De Sucur.
+0006#STR0006#ALL#Total General  ...
+0006#STR0006#ANG#Total general  ...
+0006#STR0006#EQU#Total general  ...
+0006#STR0006#HAI#Total general  ...
+0006#STR0006#PTG#Total general  ...
+0007#STR0007#BRA#Valores Futuros
+0008#STR0008#ALL#Empleados
+0008#STR0008#ANG#Empleados
+0008#STR0008#EQU#Empleados
+0008#STR0008#HAI#Empleados
+0008#STR0008#PTG#Empleados
+0009#STR0009#ALL#Val c/ Int
+0009#STR0009#ANG#Val C/ Int
+0009#STR0009#EQU#Val C/ Int
+0009#STR0009#HAI#Val C/ Int
+0009#STR0009#PTG#Val C/ Int
+0010#STR0010#ALL#Val Cuota
+0011#STR0011#ALL#Val Pag.
+0011#STR0011#ANG#Valor Pag.
+0011#STR0011#EQU#Valor Pag.
+0011#STR0011#HAI#Valor Pag.
+0011#STR0011#PTG#Valor Pag.
+0012#STR0012#ALL#Total de Centro de Costo 
+0012#STR0012#ANG#Total de centro de costo 
+0012#STR0012#EQU#Total de centro de costo 
+0012#STR0012#HAI#Total de centro de costo 
+0012#STR0012#PTG#Total de centro de costo 
+0013#STR0013#ALL#Esta rutina genera un extracto de los valores futuros registrados, que se generaran  en planilla de pago, conforme  fecha de vencim.
+0013#STR0013#ANG#Este procedimiento genera un extracto de los valores futuros registrados, que se crearan en vencimiento de pago, conforme  la fecha de vencimiento.
+0013#STR0013#EQU#Este procedimiento genera un extracto de los valores futuros registrados, que se crearan en vencimiento de pago, conforme  la fecha de vencimiento.
+0013#STR0013#HAI#Este procedimiento genera un extracto de los valores futuros registrados, que se crearan en vencimiento de pago, conforme  la fecha de vencimiento.
+0013#STR0013#PTG#Este procedimiento genera un extracto de los valores futuros registrados, que se crearan en vencimiento de pago, conforme  la fecha de vencimiento.
+0014#STR0014#BRA#Matricula

@@ -1,0 +1,15 @@
+0001#STR0001#ALL#Imprime el demostrativo de los valores a realizar y de los valores
+0002#STR0002#ALL#Realizados de un dado mes, por modalidad.                         
+0003#STR0003#ALL#Valores Realizados del Mes 
+0004#STR0004#ALL#A Rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#Codigo
+0007#STR0007#ALL#Descripcion
+0008#STR0008#ALL#Valores Realizados del Mes:- 
+0009#STR0009#ALL# - Cuentas por Cobrar -
+0010#STR0010#ALL# - Cuentas por Pagar -
+0011#STR0011#ALL# - Ambas -
+0012#STR0012#ALL# Bruto 
+0013#STR0013#ALL# Neto    
+0014#STR0014#ALL# DIA |  Valor Total   |    A Realizar  |   Realizado    |    %   |DIA |  Valor Total    |   A Realizar   |   Realizado    |   %    |
+0015#STR0015#ALL#|          - * * * * * *   T O T A L  * * * * * * -                   |

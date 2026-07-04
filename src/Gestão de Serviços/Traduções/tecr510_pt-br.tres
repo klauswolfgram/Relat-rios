@@ -1,0 +1,44 @@
+0001#STR0001#ALL#Ficha de Atendimento da OS
+0002#STR0002#ALL#     Este programa ira emitir as Fichas de Atendimento da OS conforme os 
+0003#STR0003#ALL#parametros solicitados.
+0004#STR0004#ALL#
+0005#STR0005#ALL#Zebrado
+0006#STR0006#ALL#Administracao
+0007#STR0007#ALL#CANCELADO PELO OPERADOR
+0008#STR0008#ALL#|                            FICHA DE ATENDIMENTO DA OS                                             | Nr.OS: ###### | Folha: ######|
+0009#STR0009#ALL#|Cliente  : ######/## - ########################################                                                      Estado:   ## |
+0010#STR0010#ALL#|End.     : ######################################## CIDADE: #################### BAIRRO : ################### Tel.:############## |
+0011#STR0011#ALL#|Contato  : #################### CHAMADO: ######## DT.CHAMADO ########## HORA: #####                                               |
+0012#STR0012#ALL#|Observ.  : ###################################################################################################################### |
+0013#STR0013#ALL#|Produto  : ############### Id.Unico : #################### OCORRENCIA/PROBLEMA: ###### - ##############################           |
+0014#STR0014#ALL#|Garantia: ### Contrato: ### ACUMULADOR:                                                                                           |
+0015#STR0015#ALL#|DATA CHEGADA:     /     /        HORA CHEGADA:      :       HS   DATA SAIDA:        /      /       HORA SAIDA:         :      HS  |
+0016#STR0016#ALL#|DATA INICIO :     /     /        HORA INICIO:       :       HS   DATA TERMINO:      /      /       HORA TERMINO:       :      HS  |
+0017#STR0017#ALL#|Defeito Constatado:                                                                                                               |
+0018#STR0018#ALL#|Causa Provavel:                                                                                                                   |
+0019#STR0019#ALL#|Servico Executado:                                                                                                                |
+0020#STR0020#ALL#|Produto        |Id. Unico           |Fabricante|Descricao                     ³Quantidade|Observacao                              |
+0021#STR0021#ALL#|Sugestao :                                                                                                                        |
+0022#STR0022#ALL#|              CLIENTE                     |                ATENDENTE                   |                 GERENTE                  |
+0023#STR0023#ALL#Sim
+0024#STR0024#ALL#Nao
+0025#STR0025#ALL#|                          FICHA DE ATENDIMENTO DA OS - KIT DE ATENDIMENTO                          | Nr.OS: ###### | Folha: ######|
+0026#STR0026#ALL#|Produto        |Descricao                     |Quantidade                                                                         |
+0027#STR0027#ALL#Observ. 
+0028#STR0028#ALL#Garantia 
+0029#STR0029#ALL#Contrato 
+0030#STR0030#ALL#Acumulador 
+0031#STR0031#ALL#Produto
+0032#STR0032#ALL#Descricao
+0033#STR0033#ALL#Quantidade
+0034#STR0034#ALL#DATA CHEGADA:     /     /        HORA CHEGADA:      :       HS   DATA SAIDA:        /      /       HORA SAIDA:         :      HS
+0035#STR0035#ALL#DATA INICIO :     /     /        HORA INICIO:       :       HS   DATA TERMINO:      /      /       HORA TERMINO:       :      HS
+0036#STR0036#ALL#Defeito Constatado: 
+0037#STR0037#ALL#Causa Provavel: 
+0038#STR0038#ALL#Servico Executado: 
+0039#STR0039#ALL#Produto         Id. Unico            Fabricante     Descricao                     Quantidade     Observacao 
+0040#STR0040#ALL#Sugestao : 
+0041#STR0041#ALL#                        CLIENTE                                              ATENDENTE                                             GERENTE                  
+0042#STR0042#ALL#KIT DE ATENDIMENTO 
+0043#STR0043#ALL#Ficha de Atendimento da OS
+0044#STR0044#ALL#Itens do orçamento

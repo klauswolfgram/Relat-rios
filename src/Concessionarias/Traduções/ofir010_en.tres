@@ -1,0 +1,15 @@
+0001#STR0001#ALL#Report of shop requests and returns
+0002#STR0002#ALL#This report prints shop requests and returns
+0003#STR0003#ALL#Service Order
+0004#STR0004#ALL#Customer / Store
+0005#STR0005#ALL#Transactions
+0006#STR0006#ALL#Time Type
+0007#STR0007#ALL#Initial SO
+0008#STR0008#ALL#Final SO
+0009#STR0009#ALL#Start Date
+0010#STR0010#ALL#End Date
+0011#STR0011#ALL#Initial Item
+0012#STR0012#ALL#Final Item
+0013#STR0013#ALL#Type
+0014#STR0014#ALL#Productive
+0015#STR0015#ALL#Transac Tp

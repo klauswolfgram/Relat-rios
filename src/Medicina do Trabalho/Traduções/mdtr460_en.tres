@@ -1,0 +1,176 @@
+0001#STR0001#ALL#Employee Leading Report for tests in the    
+0002#STR0002#ALL#Supplier defined. On this report of leading there are data about the employee,
+0003#STR0003#ALL#the supplier and the tests that must be carried out.
+0004#STR0004#ALL#Z. Form
+0005#STR0005#ALL#Management
+0006#STR0006#ALL#Send to Examination
+0007#STR0007#ALL#CANCELED BY OPERATOR
+0008#STR0008#ALL#EXAMINATION SEND ORDER
+0009#STR0009#ALL#Issue Dt.:
+0010#STR0010#ALL#|Employee........:
+0011#STR0011#ALL#Form..:
+0012#STR0012#ALL#|Cost Center.....:
+0013#STR0013#ALL#|Role............:
+0014#STR0014#ALL#|Birth Date......:
+0015#STR0015#ALL#Admission:
+0016#STR0016#ALL#Age...:
+0017#STR0017#ALL#|Supplier...:
+0018#STR0018#ALL#|Address....:
+0019#STR0019#ALL#|District...:
+0020#STR0020#ALL#City...:
+0021#STR0021#ALL#|Telephone..:
+0022#STR0022#ALL#|Doctor...:
+0023#STR0023#ALL#|SMB......:
+0024#STR0024#ALL#|  Date: ____/____/____                  Person Responsible:  _____________    |
+0025#STR0025#ALL#|Candidate.......:
+0026#STR0026#ALL#|Address.........:
+0027#STR0027#ALL#|District........:
+0028#STR0028#ALL#|General Record..:
+0029#STR0029#ALL#|CPF.............:
+0030#STR0030#ALL#|Employee Card: 
+0031#STR0031#ALL#Address.........:
+0032#STR0032#ALL#District........:
+0033#STR0033#ALL#General Record..:
+0034#STR0034#ALL#CPF.............:
+0035#STR0035#ALL#Employment Book...:
+0036#STR0036#ALL#Admission
+0037#STR0037#ALL#Dismissal
+0038#STR0038#ALL#Return to Work
+0039#STR0039#ALL#All
+0040#STR0040#ALL#Exam Type:
+0041#STR0041#ALL#Printing Model ?
+0042#STR0042#ALL#Model 1
+0043#STR0043#ALL#Model 2
+0044#STR0044#ALL#Employee Data
+0045#STR0045#ALL#Exam Supplier Data
+0046#STR0046#ALL#Referrak Order to
+0047#STR0047#ALL#Exams
+0048#STR0048#ALL#Employee Data
+0049#STR0049#ALL#Employee:
+0050#STR0050#ALL#Form: 
+0051#STR0051#ALL#Cost Center:
+0052#STR0052#ALL#Function:
+0053#STR0053#ALL#Birthday:
+0054#STR0054#ALL#Admission: 
+0055#STR0055#ALL#      Age: 
+0056#STR0056#ALL#General File:
+0057#STR0057#ALL#C.P.F.:
+0058#STR0058#ALL#Employment book:
+0059#STR0059#ALL#Address:
+0060#STR0060#ALL#District:
+0061#STR0061#ALL#Candidate:
+0062#STR0062#ALL#Supplier:
+0063#STR0063#ALL#City: 
+0064#STR0064#ALL#Telephone: 
+0065#STR0065#ALL#Responsible
+0066#STR0066#ALL#Doctor: 
+0067#STR0067#ALL#SMB: 
+0068#STR0068#ALL#Exams
+0069#STR0069#ALL#Date: _____/_____/_____  Responsible person: ___________________________________   Signature: _______________________ 
+0070#STR0070#ALL#Exam Data
+0071#STR0071#ALL#Exam:
+0072#STR0072#ALL#Supplier:
+0073#STR0073#ALL#Employees
+0074#STR0074#ALL#Registration
+0075#STR0075#ALL#Name
+0076#STR0076#ALL#Cost Center
+0077#STR0077#ALL#Function
+0078#STR0078#ALL#Age
+0079#STR0079#ALL#Responsible Doctor
+0080#STR0080#ALL#Signature: _________________________                    Date: ______/______/______
+0081#STR0081#ALL#Processing File...
+0082#STR0082#ALL#Referral to Examinations
+0083#STR0083#ALL#Exam...:
+0084#STR0084#ALL#Category:
+0085#STR0085#ALL#Signature:
+0086#STR0086#ALL#Date : ____/____/____
+0087#STR0087#ALL#Phisician....:
+0088#STR0088#ALL#Exam
+0089#STR0089#ALL#Category
+0090#STR0090#ALL#Nature: 
+0091#STR0091#ALL#From Customer?
+0092#STR0092#ALL#Unit
+0093#STR0093#ALL#To Customer ?
+0094#STR0094#ALL#Customer code. Leave the field blank to consider since the first code.
+0095#STR0095#ALL#Customer unit code. Leave the field blank to consider since the first code.
+0096#STR0096#ALL#Customer code. Fill in the field with Z up to its limit to consider the last code.
+0097#STR0097#ALL#Customer unit code. Fill in the field with Z up to its limit to consider the last code.
+0098#STR0098#ALL#To view the collective report, select only one Exam.
+0099#STR0099#ALL#No data to print in the report.
+0100#STR0100#ALL#Filter by category?
+0101#STR0101#ALL#Yes
+0102#STR0102#ALL#No
+0103#STR0103#ALL# Admission
+0104#STR0104#ALL# Dismissal
+0105#STR0105#ALL# of Return to Work
+0106#STR0106#ALL# of Position Change
+0107#STR0107#ALL#Periodics
+0108#STR0108#ALL#ADMISSION
+0109#STR0109#ALL#PERIODIC
+0110#STR0110#ALL#CHANGE OF POSITION
+0111#STR0111#ALL#RETURN TO WORK
+0112#STR0112#ALL#DISMISSAL
+0113#STR0113#ALL#Exam Category
+0114#STR0114#ALL#Filter by Supplier?
+0115#STR0115#ALL#|Branch..........:
+0116#STR0116#ALL#|----------------------------------Person in charge---------------------------------|
+0117#STR0117#ALL#|   -------Exams------------------------------------------Nature---------   |
+0118#STR0118#ALL#|   -------------------------------Exams-----------------------------------   |
+0119#STR0119#ALL#|                                        Signature: _______________________   |
+0120#STR0120#ALL#Telephone.:
+0121#STR0121#ALL#City...:
+0122#STR0122#ALL#|--------------------------------Employees----------------------------------|
+0123#STR0123#ALL#|Branch       Registr.    Name                       Position                Age  |
+0124#STR0124#ALL#Cost Center:
+0125#STR0125#ALL#|-------------------------------Physician in Charge-----------------------------|
+0126#STR0126#ALL#|CRM .......:
+0127#STR0127#ALL#Branch:
+0128#STR0128#ALL#Branch
+0129#STR0129#ALL#Filter
+0130#STR0130#ALL#Print Model
+0131#STR0131#ALL#From Exam?
+0132#STR0132#ALL#No
+0133#STR0133#ALL#From Branch?
+0134#STR0134#ALL#To Branch?
+0135#STR0135#ALL#PREPARATION:
+0136#STR0136#ALL#Print Preparation ?
+0137#STR0137#ALL#Indicates if the report must print the preparation for the test or not.
+0138#STR0138#ALL#From Schedule Date?
+0139#STR0139#ALL#To Schedule Date?
+0140#STR0140#ALL#Execute Exam until:
+0141#STR0141#ALL#Examination Time:
+0142#STR0142#ALL#Print Model?
+0143#STR0143#ALL#Supplier?
+0144#STR0144#ALL#Store?
+0145#STR0145#ALL#From Medical Form?
+0146#STR0146#ALL#To Medical Record?
+0147#STR0147#ALL#From Schedule Date?
+0148#STR0148#ALL#To Schedule Date?
+0149#STR0149#ALL#Doctor in charge?
+0150#STR0150#ALL#To Exam?
+0151#STR0151#ALL#Print Model?
+0152#STR0152#ALL#Print Preparation ?
+0153#STR0153#ALL#Individual
+0154#STR0154#ALL#Collective
+0155#STR0155#ALL#Model 1
+0156#STR0156#ALL#Model 2
+0157#STR0157#ALL#Attention!
+0158#STR0158#ALL#Store entered does not match Supplier.
+0159#STR0159#ALL#Enter Store existing for Supplier.
+0160#STR0160#ALL#Indicates the model to be printed: individual (one sheet to each employee), or collective model (one sheet for several employees). 
+0161#STR0161#ALL#Code of exams supplier.
+0162#STR0162#ALL#Store code.
+0163#STR0163#ALL#Medical form code. The field can remain empty to consider from the first code.
+0164#STR0164#ALL#Medical report code. The field can be completed with the letter Z until the end to consider the last code.
+0165#STR0165#ALL#Minimum date of exam schedules.
+0166#STR0166#ALL#Maximum date for exams schedule.
+0167#STR0167#ALL#Code of doctor in charge.
+0168#STR0168#ALL#Exam Code. The field can remain empty to consider from the first code.
+0169#STR0169#ALL#Exam Code. The field can be completed with the letter Z until the end to consider the last code.
+0170#STR0170#ALL#Exam types. It can be admittance, resignation, return to work, or all.
+0171#STR0171#ALL#Defines the printing model. Model 1 = standard; model 2 = graphic.
+0172#STR0172#ALL#Defines whether it should be filtered by supplier.
+0173#STR0173#ALL#Select Initial Branch Code to filter employee examinations. Note: This filter is only considered if the system uses the register of PCMSO per Company (Shared) and register of Employees per Branch (Exclusive).
+0174#STR0174#ALL#Select Final Branch Code to filter employee examinations. Note: This filter is only considered if the system uses the register of PCMSO per Company (Shared) and register of Employees per Branch (Exclusive).
+0175#STR0175#ALL#Indicates if the report must print the preparation for the test or not.
+0176#STR0176#ALL#OCCASIONAL MONITORING

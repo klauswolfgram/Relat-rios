@@ -1,0 +1,23 @@
+0001#STR0001#ALL#This report presents a history of all the functions already developed
+0002#STR0002#ALL#by the employee from the admission to the current date, considering also
+0003#STR0003#ALL#the change of center cost occurred in this period.
+0004#STR0004#ALL#Z. Form
+0005#STR0005#ALL#Administration
+0006#STR0006#ALL#Employee Functional Evolution.
+0007#STR0007#ALL#CANCELLED BY OPERATOR
+0008#STR0008#ALL#Registration..: 
+0009#STR0009#ALL#Period                  Cost C.               Cost Center Name             Function  Function Name
+0010#STR0010#ALL#From Customer?
+0011#STR0011#ALL#Unit
+0012#STR0012#ALL#To Customer?
+0013#STR0013#ALL#|Period                |CNPJ/CEI        |Sector                   |Position                  |Function                 |CBO   |GFIP|
+0014#STR0014#ALL#|Period               |CostC.    |Description                |Position                     |Function |Description             |CBO   |GFIP|
+0015#STR0015#ALL#|Period                |CostC.                               |Position                  |Function                      |CBO   |GFIP|
+0016#STR0016#ALL#Print Model?
+0017#STR0017#ALL#Print Model?
+0018#STR0018#ALL#To Function?
+0019#STR0019#ALL#From Function??
+0020#STR0020#ALL#To Cost Center?
+0021#STR0021#ALL#From Cost Center?
+0022#STR0022#ALL#To Employee?
+0023#STR0023#ALL#From Employee?

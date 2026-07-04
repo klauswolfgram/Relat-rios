@@ -1,0 +1,13 @@
+0001#STR0001#ALL#Stage Report x Analytical NCF
+0002#STR0002#ALL#This report prints a SIG list of stages per product
+0003#STR0003#ALL#Customer
+0004#STR0004#ALL#Stage
+0005#STR0005#ALL#Description
+0006#STR0006#ALL#Problem
+0007#STR0007#ALL#Requisition of specification change
+0008#STR0008#ALL#Posting
+0009#STR0009#ALL#Average
+0010#STR0010#ALL#High
+0011#STR0011#ALL#Critical
+0012#STR0012#ALL#Module
+0013#STR0013#ALL#Occurrence

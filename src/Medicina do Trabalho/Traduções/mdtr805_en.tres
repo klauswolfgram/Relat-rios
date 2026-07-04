@@ -1,0 +1,120 @@
+0001#STR0001#ALL#Report of EPI Delivery Receipt.                                                 
+0002#STR0002#ALL#According to the parameters, the user can select the employees, the desired period 
+0003#STR0003#ALL#and indicate if he wants to print only not printed EPIs or all of them.          
+0004#STR0004#ALL#Z. Form
+0005#STR0005#ALL#Management
+0006#STR0006#ALL#EPI Delivery Receipt
+0007#STR0007#ALL#CANCELED BY OPERATOR
+0008#STR0008#ALL#EPIs DELIVERY RECEIPT                                           |
+0009#STR0009#ALL#Issuance:
+0010#STR0010#ALL#|Employee.....:
+0011#STR0011#ALL#ID:
+0012#STR0012#ALL#|Cost Center.....:
+0013#STR0013#ALL#|Role..........:
+0014#STR0014#ALL#|Birth Date......:
+0015#STR0015#ALL#Hiring:
+0016#STR0016#ALL#Age...:
+0017#STR0017#ALL#PPE
+0018#STR0018#ALL#Name of EPI
+0019#STR0019#ALL#Infl. Date
+0020#STR0020#ALL#Ret.
+0021#STR0021#ALL#YES
+0022#STR0022#ALL#NO 
+0023#STR0023#ALL#|  Date : ____/____/____
+0024#STR0024#ALL#|  Signature : _______________________     Resp Empl: _______________________
+0025#STR0025#ALL#Qty.
+0026#STR0026#ALL#Num C.A.
+0027#STR0027#ALL#Company...:
+0028#STR0028#ALL#Address:..:
+0029#STR0029#ALL#City.:
+0030#STR0030#ALL#State..
+0031#STR0031#ALL#EPIs DELIVERY VOUCHER                                                      |
+0032#STR0032#ALL#|SIGA/MDTR805
+0033#STR0033#ALL#CRF No.F
+0034#STR0034#ALL#CRI No. 
+0035#STR0035#ALL#LIABILITY STATEMENT                                                     |
+0036#STR0036#ALL#|       Date : ____/____/____
+0037#STR0037#ALL#|       Signature: _______________________
+0038#STR0038#ALL#EPIs DELIVERY VOUCHER
+0039#STR0039#ALL#years
+0040#STR0040#ALL#Time
+0041#STR0041#ALL#AFFIDAVIT
+0042#STR0042#ALL#Ret. Date
+0043#STR0043#ALL#From cost center?   
+0044#STR0044#ALL#To cost center?      
+0045#STR0045#ALL#Consider dismissed empl.?  
+0046#STR0046#ALL#Yes
+0047#STR0047#ALL#No 
+0048#STR0048#ALL#Number of copies
+0049#STR0049#ALL#One
+0050#STR0050#ALL#Two 
+0051#STR0051#ALL#Order Receipts by ?
+0052#STR0052#ALL#Registr. 
+0053#STR0053#ALL#Cost center    
+0054#STR0054#ALL#Empl. Name                                  	
+0055#STR0055#ALL#C. Center Code
+0056#STR0056#ALL#C. Center Name
+0057#STR0057#ALL#Order EPIs By ?
+0058#STR0058#ALL#EPI Code
+0059#STR0059#ALL#EPI Name
+0060#STR0060#ALL#From admission date? 
+0061#STR0061#ALL#To admission date?    
+0062#STR0062#ALL#From Customer ?
+0063#STR0063#ALL#Unit
+0064#STR0064#ALL#To Customer ?
+0065#STR0065#ALL#Do you want to list IPE?
+0066#STR0066#ALL#Empl. Category:
+0067#STR0067#ALL#Consider discharged empl.?
+0068#STR0068#ALL#To Delivery Date?
+0069#STR0069#ALL#No. of Copies?
+0070#STR0070#ALL#Disclaimer?
+0071#STR0071#ALL#All?
+0072#STR0072#ALL#From Delivery Date?
+0073#STR0073#ALL#To Employee?
+0074#STR0074#ALL#From Employee?
+0075#STR0075#ALL#CNPJ:
+0075#STR0075#ANG#EIN
+0075#STR0075#ARG#CNPJ:
+0075#STR0075#AUS#CNPJ:
+0075#STR0075#BOL#CNPJ:
+0075#STR0075#BRA#EIN
+0075#STR0075#CHI#EIN
+0075#STR0075#COL#EIN
+0075#STR0075#COS#EIN
+0075#STR0075#DOM#EIN
+0075#STR0075#EQU#EIN
+0075#STR0075#EUA#EIN
+0075#STR0075#HAI#EIN
+0075#STR0075#MEX#EIN
+0075#STR0075#PAD#EIN
+0075#STR0075#PAN#EIN
+0075#STR0075#PAR#EIN
+0075#STR0075#PER#EIN
+0075#STR0075#POR#EIN
+0075#STR0075#PTG#EIN
+0075#STR0075#RUS#EIN
+0075#STR0075#SAL#EIN
+0075#STR0075#TRI#EIN
+0075#STR0075#URU#EIN
+0075#STR0075#VEN#EIN
+0076#STR0076#ALL#Sig.: _________________
+0077#STR0077#ALL#From Branch?
+0078#STR0078#ALL#To Branch?
+0079#STR0079#ALL#There are no data to generate the report.
+0080#STR0080#ALL#Attention
+0081#STR0081#ALL#Branch....:
+0082#STR0082#ALL#SA Number
+0083#STR0083#ALL#SA Item
+0084#STR0084#ALL#Detailed
+0085#STR0085#ALL#Summarized
+0086#STR0086#ALL#Biometric Record
+0087#STR0087#ALL#Proof of PPE Return
+0088#STR0088#ALL#Resp. Comp.: _______________________
+0089#STR0089#ALL#PPE Date
+0090#STR0090#ALL#Defines EPI order criterion. By EPI code or by name.
+0091#STR0091#ALL#Define if can have signature next to PPE.
+0092#STR0092#ALL#Sideways signature?
+0093#STR0093#ALL#Report of PPE Return Receipt                                   
+0094#STR0094#ALL#Code of responsibility term.
+0095#STR0095#ALL#Number of copies to be printed.
+0096#STR0096#ALL#Defines if considers sideways signature.

@@ -1,0 +1,31 @@
+0001#STR0001#ALL#The Quality Indexes of Vendors related to the Product   
+0002#STR0002#ALL#will be printed.     
+0003#STR0003#ALL#Z.Form 
+0004#STR0004#ALL#Management   
+0005#STR0005#ALL#Selecting Records...
+0006#STR0006#ALL#PPM
+0007#STR0007#ALL#Product vs. Vendor  
+0008#STR0008#ALL#Year?               
+0009#STR0009#ALL#Month?              
+0010#STR0010#ALL#Form Product?       
+0011#STR0011#ALL#To Product?         
+0012#STR0012#ALL#Index?              
+0013#STR0013#ALL#Monthly
+0014#STR0014#ALL#Accrued
+0015#STR0015#ALL#Portuguese
+0016#STR0016#ALL#English
+0017#STR0017#ALL#Spanish
+0018#STR0018#ALL#Language?           
+0019#STR0019#ALL#CANCELED BY OPERATOR
+0020#STR0020#ALL#Print Graph?        
+0021#STR0021#ALL#Yes
+0022#STR0022#ALL#No
+0023#STR0023#ALL#Monthly
+0024#STR0024#ALL#Accrued
+0025#STR0025#ALL#Product vs. Vendor -   
+0026#STR0026#ALL#Product
+0027#STR0027#ALL#This file is in use by another user. Please try again
+0028#STR0028#ALL#Attention
+0029#STR0029#ALL#Can not create a file to the graph 
+0030#STR0030#ALL#Directory/Folder entered in parameter 'MV_QDIRGRA' does not exist. Graph cannot be generated.      
+0031#STR0031#ALL#Quality indexes     

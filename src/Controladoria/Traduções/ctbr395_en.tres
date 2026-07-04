@@ -1,0 +1,28 @@
+0001#STR0001#ALL#This program will issue the Confrontation of Budget Reviews.      
+0002#STR0002#ALL#You must enter the reviews that must be confronted for        
+0003#STR0003#ALL#the same budget.   
+0004#STR0004#ALL#Confrontation of Budget Reviews      
+0005#STR0005#ALL#|Budget   |Descript.                                         |Calendar  |Crncy|Revew  |Line |   Initial Account  |     Final Account  |                    |                    |Per| Init Date |Final Date|   BudgetedValue
+0006#STR0006#ALL#CANCELLED BY OPERATOR  
+0007#STR0007#ALL#Z. form
+0008#STR0008#ALL#Management   
+0009#STR0009#ALL# Initial
+0010#STR0010#ALL#End
+0011#STR0011#ALL#Acctg. Acct.  
+0012#STR0012#ALL#Quoted 
+0013#STR0013#ALL#Quotation total - 
+0014#STR0014#ALL# REVIEW 
+0015#STR0015#ALL#|        |   PERIOD  01  |   PERIOD  02  |   PERIOD  03  |   PERIOD  04  |   PERIOD  05  |   PERIOD  06  |   PERIOD  07  |   PERIOD  08  |   PERIOD  09  |   PERIOD  10  |   PERIOD  11  |   PERIOD  12  |      TOTAL      |
+0016#STR0016#ALL# Review2:   
+0017#STR0017#ALL#Acct.:
+0018#STR0018#ALL# to 
+0019#STR0019#ALL#Creating temporary file...   
+0020#STR0020#ALL#The managerial plan is not available in this report.  
+0021#STR0021#ALL#Selecting records...     
+0022#STR0022#ALL#VARIATIN
+0023#STR0023#ALL#Budget code:         
+0024#STR0024#ALL#If the accounting calendar has more than 12 periods,  
+0025#STR0025#ALL#periods above 12 will be ignored.              
+0026#STR0026#ALL#Review code 1 can be higher than review code            
+0027#STR0027#ALL#2.           
+0028#STR0028#ALL#Enter currency parameter, please

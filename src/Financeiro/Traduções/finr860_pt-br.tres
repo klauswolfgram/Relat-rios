@@ -1,0 +1,31 @@
+0001#STR0001#ALL#Imprime a relaçäo dos titulos a receber que sofreram reten-
+0002#STR0002#ALL#çäo de INSS.
+0003#STR0003#ALL#Zebrado
+0004#STR0004#ALL#Administracao
+0005#STR0005#ALL#Relacao de Titulos a Receber com retencao de INSS
+0006#STR0006#ALL#CGC/CPF             Nome do Cliente                           Prf Numero  Pc  Tipo Data Emissao   Valor Original        Valor INSS     Valor Liquido
+0007#STR0007#ALL#CANCELADO PELO OPERADOR
+0008#STR0008#ALL#TITULOS
+0009#STR0009#ALL#TITULO
+0010#STR0010#ALL#T O T A L   G E R A L ----> 
+0011#STR0011#ALL#CGC/CPF             Nome do Cliente                           Prf Numero        Pc  Tipo  Data Emissao   Valor Original        Valor INSS     Valor Liquido
+0012#STR0012#ALL#CGC/CPF
+0013#STR0013#ALL#Nome do Cliente
+0014#STR0014#ALL#Prf
+0015#STR0015#ALL#Numero
+0016#STR0016#ALL#Pc
+0017#STR0017#ALL#Tipo
+0018#STR0018#ALL#Data Emissao
+0019#STR0019#ALL#Valor Original
+0020#STR0020#ALL#Valor INSS
+0021#STR0021#ALL#Valor Liquido
+0022#STR0022#ALL#Total da Seção
+0023#STR0023#ALL#Total Geral
+0024#STR0024#ALL#Clientes
+0025#STR0025#ALL#Contas a receber
+0026#STR0026#ALL#Código
+0027#STR0027#ALL#Empresa
+0028#STR0028#ALL#Unidade de negócio
+0029#STR0029#ALL#Filial
+0030#STR0030#ALL#Filiais selecionadas para o relatorio
+0031#STR0031#ALL#Selecionando Registros...

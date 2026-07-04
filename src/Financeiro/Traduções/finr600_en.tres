@@ -1,0 +1,26 @@
+0001#STR0001#ALL#This program has the purpose of printing Dockets 
+0002#STR0002#ALL#of the selected Bank, according to lay-out 
+0003#STR0003#ALL#previously configured.      
+0004#STR0004#ALL#Printing the Docket in 
+0005#STR0005#ALL#Z.Form 
+0006#STR0006#ALL#Management   
+0007#STR0007#ALL#CANCELLED BY THE OPERATOR  
+0008#STR0008#ALL#Before starting to print, check whether the continuous form paper is adjusted .
+0009#STR0009#ALL#The test will be printed in the payment place column. 
+0010#STR0010#ALL#Click on the printer button for positioning test.       
+0011#STR0011#ALL#Form correctly positioned ?          
+0012#STR0012#ALL#Before starting to print, check whether the continuous form 
+0013#STR0013#ALL#is adjusted. The test shall be printed in the payment locality 
+0014#STR0014#ALL#column. Form correctly positioned?          
+0015#STR0015#ALL#OK
+0016#STR0016#ALL#Retype
+0017#STR0017#ALL#Quit
+0018#STR0018#ALL#Invoices Receivable
+0019#STR0019#ALL#Messages 
+0020#STR0020#ALL#Line  1
+0021#STR0021#ALL#Line  2
+0022#STR0022#ALL#Line  3
+0023#STR0023#ALL#About recording ? 
+0024#STR0024#ALL#About recording ?
+0025#STR0025#ALL#Generic Bordero?
+0026#STR0026#ALL#There are other messages configurated for this docket. OK to substitute ?

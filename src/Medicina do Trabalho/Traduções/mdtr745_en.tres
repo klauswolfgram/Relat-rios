@@ -1,0 +1,38 @@
+0001#STR0001#ALL#Employees Report per Cost Center and Function
+0002#STR0002#ALL#Z.Form
+0003#STR0003#ALL#Administration
+0004#STR0004#ALL#Employees per Cost Center and Function
+0005#STR0005#ALL#Exam ?
+0006#STR0006#ALL#From Registration?
+0007#STR0007#ALL#To Registration?
+0008#STR0008#ALL#From C. Center?
+0009#STR0009#ALL#To C. Center?
+0010#STR0010#ALL#From Function?
+0011#STR0011#ALL#To Function?
+0012#STR0012#ALL#From Date?
+0013#STR0013#ALL#To Date?
+0014#STR0014#ALL#Reg.     Employee Name                 Role                  Exam. Date  Right Ear Result               Left Ear Result      
+0015#STR0015#ALL#Normal Audition
+0016#STR0016#ALL#Reduction in Minimum Level
+0017#STR0017#ALL#Reduction in Medium Level
+0018#STR0018#ALL#Reduction in Maximum Level
+0019#STR0019#ALL#Audition Loss
+0020#STR0020#ALL#The selected Exam is not AudioMetry
+0021#STR0021#ALL#Report of audiometry analysis result
+0022#STR0022#ALL#Report of Audiometry Analysis Result
+0023#STR0023#ALL#From Customer ?
+0024#STR0024#ALL#Unit
+0025#STR0025#ALL#To Customer ?
+0026#STR0026#ALL#Customer code. Leave the field blank to consider since the first code.
+0027#STR0027#ALL#Customer unit code. Leave the field blank to consider since the first code.
+0028#STR0028#ALL#Customer code. Fill in the field with Z up to its limit to consider the last code.
+0029#STR0029#ALL#Customer unit code. Fill in the field with Z up to its limit to consider the last code.
+0030#STR0030#ALL#Cost Center: 
+0031#STR0031#ALL#Total Exams in the Sector..........:
+0032#STR0032#ALL#Total Exams in the Customer........:
+0033#STR0033#ALL#Total Exams in the Branch.........:
+0034#STR0034#ALL#Customer/Unit: 
+0035#STR0035#ALL#No data to print in the report.
+0036#STR0036#ALL#To Date?
+0037#STR0037#ALL#From Cost Center?
+0038#STR0038#ALL#To Cost Center?

@@ -1,0 +1,21 @@
+0001#STR0001#ALL#This program will print a General Journal Model 1, according
+0002#STR0002#ALL#to the parameters selected by the user. This model is appro-
+0003#STR0003#ALL#priate for Charts of Accounts with short codes.
+0004#STR0004#ALL#Z.Form
+0005#STR0005#ALL#Management
+0006#STR0006#ALL#Issue of Ledger Model 2
+0007#STR0007#ALL#Totalizers Doc / General
+0008#STR0008#ALL#Accounting Entries
+0009#STR0009#ALL#Totalizer of Page Transport
+0010#STR0010#ALL#Debit Value
+0010#STR0010#MEX#Debit Value
+0011#STR0011#ALL#Credit Value
+0011#STR0011#MEX#Credit Value
+0012#STR0012#ALL#From Transportation=======>
+0013#STR0013#ALL#GENERAL LEDGER OF 
+0014#STR0014#ALL# TO 
+0015#STR0015#ALL# IN 
+0016#STR0016#ALL#Grand Total============>
+0017#STR0017#ALL#Document: 
+0018#STR0018#ALL#Document total: 
+0019#STR0019#ALL#To be transported=======>

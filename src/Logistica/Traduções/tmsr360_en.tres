@@ -1,0 +1,26 @@
+0001#STR0001#ALL#List of Documents for Shipment
+0002#STR0002#ALL#Issue the list of trips made
+0003#STR0003#ALL#according to parameters input
+0004#STR0004#ALL#Z.form
+0005#STR0005#ALL#Management
+0006#STR0006#ALL#ORIGIN BRANCH DOC.    SERIES ADDRESSEE                                        ACT.WEIGHT VOLUME FREIGHT VALUE DATE        TIME 
+0007#STR0007#ALL#Selecting record in DT6...
+0008#STR0008#ALL#CANCELED BY OPERATOR
+0009#STR0009#ALL#BRANCH TOTAL 
+0010#STR0010#ALL# Document(s) )
+0011#STR0011#ALL#GRAND TOTAL ( 
+0012#STR0012#ALL#Report of Documents for Shipment
+0013#STR0013#ALL#Issue Report of Trips Made according to the parameters entered
+0014#STR0014#ALL#Doct.Bra. + Document + Series
+0015#STR0015#ALL#Origin Bra
+0016#STR0016#ALL#Document
+0017#STR0017#ALL#Series
+0018#STR0018#ALL#Dest. Cod.
+0019#STR0019#ALL#Dest. Stor.
+0020#STR0020#ALL#Name
+0021#STR0021#ALL#Actual Weight
+0022#STR0022#ALL#Volume
+0023#STR0023#ALL#Freight
+0024#STR0024#ALL#Issue Date
+0025#STR0025#ALL#Issue Time
+0026#STR0026#ALL#Branc Total

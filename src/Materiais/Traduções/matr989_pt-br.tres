@@ -1,0 +1,20 @@
+0001#STR0001#ALL#Saldo em Processo (Analitico)
+0002#STR0002#ALL#Emissäo do Saldo em Processo Analitico. Os valores totais serao impressos conforme 
+0003#STR0003#ALL#requisições e devoluções para ordem de produção que possuem saldo em aberto.
+0004#STR0004#ALL#Nota: Saldo em Processo somente em requisiçöes manuais.
+0005#STR0005#ALL#CODIGO
+0006#STR0006#ALL#UM
+0007#STR0007#ALL#LOCAL
+0008#STR0008#ALL#ORDEM
+0009#STR0009#ALL#PRODUÇÃO
+0010#STR0010#ALL#QTDE EM
+0011#STR0011#ALL#VALOR EM
+0012#STR0012#ALL#PROCESSO
+0013#STR0013#ALL#DESCRIÇÃO
+0014#STR0014#ALL#TOTAL GERAL
+0015#STR0015#ALL#ATENÇÃO
+0016#STR0016#ALL#Ao alterar o almoxarifado o custo medio unificado sera desconsiderado.
+0017#STR0017#ALL#Confirma
+0018#STR0018#ALL#Abandona
+0019#STR0019#ALL#TIPO
+0020#STR0020#ALL#RE/DE

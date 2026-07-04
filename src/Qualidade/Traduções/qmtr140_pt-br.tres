@@ -1,0 +1,133 @@
+0001#STR0001#ALL#Historico de Instrumento
+0002#STR0002#ALL#Neste relatorio sera impresso o Historico de Instrumento
+0003#STR0003#ALL# Texto Final do Certificado 
+0004#STR0004#ALL# Impressao 
+0005#STR0006#ALL#Itens de Configuracao
+0006#STR0007#ALL#Este programa ira emitir a relacao de
+0007#STR0009#ALL#Parametros selecionados.
+0008#STR0010#ALL#HISTORICO DE INSTRUMENTO 
+0009#STR0011#ALL#Zebrado
+0010#STR0012#ALL#Administraçäo
+0011#STR0013#ALL# Informacoes Complementares 
+0012#STR0014#ALL#No.
+0013#STR0015#ALL#Padrao para Calibracao
+0014#STR0016#ALL#Externo
+0015#STR0017#ALL#Interno
+0016#STR0018#ALL#Justificativa pela mudanca de laudo
+0017#STR0019#ALL#Informacoes Complementares do Instrumento
+0018#STR0020#ALL#Certificados de Calibracao de acordo com os
+0019#STR0021#ALL#Subida
+0020#STR0022#ALL#Descida
+0021#STR0023#ALL#Semana
+0022#STR0024#ALL#Imprime
+0023#STR0025#ALL#Configura
+0024#STR0026#ALL#Abandona
+0025#STR0027#ALL#Confirma
+0026#STR0028#ALL#Redigita
+0027#STR0029#ALL#Medicoes
+0028#STR0030#ALL#Data: 
+0029#STR0031#ALL#Horas: 
+0030#STR0032#ALL#Metrolog.: 
+0031#STR0033#ALL#Inicial Subida
+0032#STR0034#ALL#Inicial Descida
+0033#STR0035#ALL#Final Subida
+0034#STR0036#ALL#Final Descida
+0035#STR0037#ALL#Iniciais
+0036#STR0038#ALL#Finais
+0037#STR0039#ALL#Observacao
+0038#STR0040#ALL#Medicao com Laudo diferente de Ativo
+0039#STR0041#ALL#Medicao excluida
+0040#STR0042#ALL#Muito grave
+0041#STR0043#ALL#Grave
+0042#STR0044#ALL#Nao grave
+0043#STR0045#ALL#Laudo: 
+0044#STR0046#ALL#CONDICAO DE RECEBIMENTO 
+0045#STR0047#ALL#AVARIA
+0046#STR0048#ALL#CONFORME
+0047#STR0049#ALL#NAO CONFORME
+0048#STR0050#ALL#INSTRUMENTOS UTILIZADOS
+0049#STR0051#ALL#PADRAO SECUNDARIO
+0050#STR0052#ALL#Faixa
+0051#STR0053#ALL#Ponto
+0052#STR0054#ALL#Instrumento Util.
+0053#STR0055#ALL#Padrao Secundario
+0054#STR0056#ALL#Validade
+0055#STR0057#ALL#Incerteza
+0056#STR0058#ALL#Certificado
+0057#STR0059#ALL#Laboratorio
+0058#STR0060#ALL#NAO CONFORMIDADES
+0059#STR0061#ALL#N/C
+0060#STR0062#ALL#Descricao
+0061#STR0063#ALL#Classificacao
+0062#STR0064#ALL#CONFIRMACAO METROLOGICA
+0063#STR0065#ALL#Erro Sistematico
+0064#STR0066#ALL#Exatidao
+0065#STR0067#ALL#Adequacao
+0066#STR0068#ALL#Aceitabilidade
+0067#STR0069#ALL#ANALISE DAS ULTIMAS PECAS PRODUZIDAS
+0068#STR0070#ALL#Aceito
+0069#STR0071#ALL#Rejeitado
+0070#STR0072#ALL#CONF. INSTRUMENTO
+0071#STR0074#ALL#Nominal
+0072#STR0075#ALL#LSE
+0073#STR0076#ALL#LIE
+0074#STR0077#ALL#Unid.Med
+0075#STR0079#ALL#a
+0076#STR0080#ALL#Faixa
+0077#STR0081#ALL#Especificado
+0078#STR0082#ALL#Tolerancia
+0079#STR0083#ALL#Unid.Med
+0080#STR0084#ALL#Incerteza
+0081#STR0085#ALL#Dt.Calib.
+0082#STR0086#ALL#Media
+0083#STR0087#ALL#Desvio
+0084#STR0089#ALL#Erro
+0085#STR0090#ALL#Padrao
+0086#STR0091#ALL#Valores Encontrados
+0087#STR0092#ALL#Leituras
+0088#STR0093#ALL#Medio
+0089#STR0095#ALL#Medicao
+0090#STR0096#ALL#Total
+0091#STR0097#ALL#Status
+0092#STR0098#ALL#Familia
+0093#STR0099#ALL#Procedimento
+0094#STR0100#ALL#INCERTEZA TIPO B
+0095#STR0101#ALL#| Cod. Incerteza | Simbolo  | Fonte                        |Valor Incert.|Distr.| Divisor  |Coef.Sensib.| Incer.Calc. |Graus Liber.|
+0096#STR0102#ALL#|                | Uc       | Inc. Padrao Combinada        |             |Nor   |          |
+0097#STR0103#ALL#|                | U        | Inc. Expandida               |             |Nor K |          |
+0098#STR0104#ALL#|                | Ui       | Inc. Expandida               |             |Nor Kp|          |            |             |
+0099#STR0106#ALL#Rev
+0100#STR0107#ALL#Padrao
+0101#STR0108#ALL#V. Inicial
+0102#STR0109#ALL#Dif.
+0103#STR0110#ALL#V.Final
+0104#STR0111#ALL#Valores
+0105#STR0112#ALL#Valor Minimo
+0106#STR0113#ALL#Valor Maximo
+0107#STR0114#ALL#Unidade de Medida
+0108#STR0115#ALL#Inicial Crescente
+0109#STR0116#ALL#Final Crescente
+0110#STR0117#ALL#Inicial Decrescente
+0111#STR0118#ALL#Final Decrescente
+0112#STR0119#ALL#Parametros de Analise
+0113#STR0120#ALL#fe
+0114#STR0121#ALL#Desvio Maximo no sentido crescente
+0115#STR0122#ALL#fges
+0116#STR0123#ALL#Desvio Total ( crescente / decrescente )
+0117#STR0124#ALL#fu
+0118#STR0125#ALL#Erro de Retorno
+0119#STR0126#ALL#Histerese (%)
+0120#STR0127#ALL#Tolerancia/Redutor por Faixa
+0121#STR0128#ALL#Justificativa do Cadastro de Instrumento
+0122#STR0129#ALL#Justificativa da mudanca de Status do Instrumento
+0123#STR0130#ALL#Justificativa da nao digitacao das medicoes
+0124#STR0131#ALL#Manutencoes
+0125#STR0132#ALL#T.Tol
+0126#STR0133#ALL#Instrumento Inicial Nao Apresenta Coleta de Dados.
+0127#STR0134#ALL#Selecionando Registros. . .
+0128#STR0135#ALL#Padrao Secundario com status diferente de Ativo.
+0129#STR0136#ALL#Instrumento Utilizado com status diferente de Ativo
+0130#STR0137#ALL#Aprovado
+0131#STR0138#ALL#Reprovado
+0132#STR0139#ALL#Legenda Incerteza do Tipo B
+0133#STR0140#ALL#*=Infinito ou >100

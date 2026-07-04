@@ -1,0 +1,42 @@
+0001#STR0001#ALL#Function available only in TReport
+0002#STR0002#ALL#Routine available only to TopConnect environments.
+0003#STR0003#ALL#Loan cost processing
+0004#STR0004#ALL#This program issues data from the capitalization processes of the loan costs according to parameters.
+0005#STR0005#ALL#Process Data
+0006#STR0006#ALL#Financing Data
+0007#STR0007#ALL#Transaction Data
+0008#STR0008#ALL#Revenue Data
+0009#STR0009#ALL#Loan Costs
+0010#STR0010#ALL#Process Total
+0011#STR0011#ALL#Process Total
+0012#STR0012#ALL#Contract Vl
+0013#STR0013#ALL#Contract Bl.
+0014#STR0014#ALL#Comp Interest
+0015#STR0015#ALL#Capitalization Rate
+0016#STR0016#ALL#Amortization
+0017#STR0017#ALL#Branch Total
+0018#STR0018#ALL#Branch Total
+0019#STR0019#ALL#Grand Total
+0020#STR0020#ALL#Process
+0021#STR0021#ALL#Contracts
+0022#STR0022#ALL#Transactions
+0023#STR0023#ALL#Investments
+0024#STR0024#ALL#Summary
+0025#STR0025#ALL#Tables FN1, FN2, FN3 and FN4, essential to run the routine, are not updated in the environment. Please run the last version of UPDATF Updater.
+0026#STR0026#ALL#Appropriation
+0027#STR0027#ALL#Trans Cost Base Cd
+0028#STR0028#ALL#Trans Cost Item
+0029#STR0029#ALL#Trans Cost Type
+0030#STR0030#ALL#Trans Cost Balance Type
+0031#STR0031#ALL#Amortization value
+0032#STR0032#ALL#Income Description
+0033#STR0033#ALL#Income
+0034#STR0034#ALL#Origin base code.
+0035#STR0035#ALL#Origin item
+0036#STR0036#ALL#Trans Cost Base Cd
+0037#STR0037#ALL#Comp Cost Item
+0038#STR0038#ALL#Capitalization Rate
+0039#STR0039#ALL#Appropriation
+0040#STR0040#ALL#Orig Acquis
+0041#STR0041#ALL#Origin Type
+0042#STR0042#ALL#Origin Balance

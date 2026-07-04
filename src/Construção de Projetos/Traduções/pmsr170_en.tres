@@ -1,0 +1,63 @@
+0001#STR0001#ALL#This report will print the foreseen quantitatives x accomplished for the project execution according to required parameters. The 'Filter' folder allows an user specific filter for products to be deemed during processing
+0002#STR0002#ALL#Estimated x accomplished quantitatives
+0003#STR0003#ALL#Z.Form
+0004#STR0004#ALL#Administration
+0005#STR0005#ALL#                                                                    |                      ESTIMATED                    |                           ACCOMPLISHED                  |              BALANCE              |
+0006#STR0006#ALL#Tp.       Code                  Description                     MU  |     Quantity                   Value  %Proj.  %Accum.  |    Allocated Qty Current Qty     Value   %Proj.    %Accum. |    Quantity         Cost 
+0007#STR0007#ALL#                                                                                          |                     ESTIMATED                    |                               ACCOMPLISHED          |    BALANCE        |
+0008#STR0008#ALL#Task         Description                     Tp.     Code             Description        UM |    Quantity                   Value  %Proj.  %Acc.   | Reserved Quantity Curr.Quant.    Value   %Proj.   %Acc.   | Qtty.   Cost
+0009#STR0009#ALL#Project :
+0010#STR0010#ALL#Version :
+0011#STR0011#ALL#Bank transactions 
+0012#STR0012#ALL#Total.....
+0013#STR0013#ALL#BANK TRANSACTIONS
+0014#STR0014#ALL#Task Total.....
+0015#STR0015#ALL#Grand Total........
+0016#STR0016#ALL#PROJECT+PRODUCT+EXPENSE
+0017#STR0017#ALL#TASK+PRODUCT+EXPENSE
+0018#STR0018#ALL#Resources annotations
+0019#STR0019#ALL#Supplier: 
+0020#STR0020#ALL#INV:
+0021#STR0021#ALL#Series:
+0022#STR0022#ALL#Type:
+0023#STR0023#ALL#Issue Dt.:
+0024#STR0024#ALL#Internal Movement
+0025#STR0025#ALL#Doc.:
+0026#STR0026#ALL#Ser.Num.:
+0027#STR0027#ALL#Tp. of Mov.:
+0028#STR0028#ALL#Date:
+0029#STR0029#ALL#Bank:
+0030#STR0030#ALL#Branch:
+0031#STR0031#ALL#Account No:
+0032#STR0032#ALL#Bill Nr.:
+0033#STR0033#ALL#Due Date:
+0034#STR0034#ALL#Rec.:
+0035#STR0035#ALL#Task:
+0036#STR0036#ALL#(Pres.)
+0037#STR0037#ALL#(Est.) 
+0038#STR0038#ALL#Totals by period   
+0039#STR0039#ALL#Totals by project 
+0040#STR0040#ALL#Forecast
+0041#STR0041#ALL#Actual
+0042#STR0042#ALL#Quantity
+0043#STR0043#ALL#Amount
+0044#STR0044#ALL#%Proj.
+0045#STR0045#ALL#%Accu.
+0046#STR0046#ALL#Qty Pledged
+0047#STR0047#ALL#Curr. Qty.
+0048#STR0048#ALL#Balan
+0049#STR0049#ALL#Cost 
+0050#STR0050#ALL#Project
+0051#STR0051#ALL#Resource alloc.
+0052#STR0052#ALL#Inflow invoice        
+0053#STR0053#ALL#Internal movement
+0054#STR0054#ALL#Financial expenses
+0055#STR0055#ALL#Bank transactions    
+0056#STR0056#ALL#Resource annotation   
+0057#STR0057#ALL#Task  
+0058#STR0058#ALL#PROJECT+GROUP+PRODUCT
+0059#STR0059#ALL#Product group   
+0060#STR0060#ALL#Customer
+0061#STR0061#ALL#Outflow invoice     
+0062#STR0062#ALL#Product group total
+0063#STR0063#ALL#*** CANCELLED BY THE USER  ***

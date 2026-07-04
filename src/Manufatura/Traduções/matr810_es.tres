@@ -1,0 +1,20 @@
+0001#STR0001#ALL#Informe de PMP
+0002#STR0002#ALL#Emite la relacion de PPP en archivo, de acuerdo con el filtro y el or- 
+0003#STR0003#ALL#den seleccionado por el usuario. Relaciona los PPP's con las OP's/Sc's 
+0004#STR0004#ALL#que fueron generadas por los mismos.
+0005#STR0005#ALL#Por Fecha
+0006#STR0006#ALL#Por Producto
+0007#STR0007#ALL# A Rayas
+0008#STR0008#ALL#Administracion
+0009#STR0009#ALL#REGISTRO(S)
+0010#STR0010#ALL#DEL DIA
+0011#STR0011#ALL#DEL PRODUCTO
+0012#STR0012#ALL#Seleccionando registros...
+0013#STR0013#ALL#PRODUCTO                                                          CANTIDAD       FECHA     ESTATUS
+0014#STR0014#ALL#ORDEN DE PRODUCCION  PRODUTO            CANTIDAD     DEPOS   INIC. PREVISTO  FIN  PREVISTO    EMISION
+0015#STR0015#ALL#EJECUTADO
+0016#STR0016#ALL#EN ABIERTO
+0017#STR0017#ALL#TOTALES 
+0018#STR0018#ALL#PLANEADO
+0019#STR0019#ALL#Planes Maestro de Prod.
+0020#STR0020#ALL#Ordenes de Prod. 

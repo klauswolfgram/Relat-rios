@@ -1,0 +1,17 @@
+0001#STR0001#ALL#Relatorio de apresentacao dos exames por fornecedor, mostrando o 
+0002#STR0002#ALL#valor e a data de validade do preco de cada exame.
+0003#STR0003#ALL# Fornecedor/Exame
+0004#STR0004#ALL# Exame/Fornecedor 
+0005#STR0005#ALL#Zebrado
+0006#STR0006#ALL#Administracao
+0007#STR0007#ALL#Fornecedores de Exames
+0008#STR0008#ALL#Fornecedor           Nome Do Fornecedor
+0009#STR0009#ALL#      Exame       Nome Do Exame                                Preço  Dt. Início
+0010#STR0010#ALL#CANCELADO PELO OPERADOR
+0011#STR0011#ALL#Fornecedor
+0012#STR0012#ALL#Nome do Fornecedor
+0013#STR0013#ALL#Exames
+0014#STR0014#ALL#Exame
+0015#STR0015#ALL#Nome do Exame
+0016#STR0016#ALL#Preço
+0017#STR0017#ALL#Dt. Início

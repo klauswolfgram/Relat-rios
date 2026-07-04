@@ -1,0 +1,36 @@
+0001#STR0001#ALL#ARCHIVO DE FACTURACION
+0002#STR0002#ALL#A rayas
+0003#STR0003#ALL#Administracion
+0004#STR0004#ALL#Este Informe inprimira el Contrato
+0005#STR0005#ALL#Pie de pagina
+0006#STR0006#ALL#Contrato con autonomo   
+0007#STR0007#ALL#Nr: 
+0008#STR0008#ALL#CONTRATADOS
+0009#STR0009#ALL#Vehiculos: Placa      Est/Prov/Reg     Tipo              Carga Util              Volumen
+0010#STR0010#ALL#Propietario:                                               Conductor: 
+0011#STR0011#ALL#RGC/RNPJ 
+0012#STR0012#ALL#Telefono: 
+0013#STR0013#ALL#Fecha               Origen     Est/Prov/Reg          Destino            Est/Prov/Reg                Valor Flete
+0014#STR0014#ALL#Peso Bruto: 
+0015#STR0015#ALL#Kg
+0016#STR0016#ALL#(+) Flete Contratado
+0017#STR0017#ALL#(+) Adicionales
+0018#STR0018#ALL#Total del Flete
+0019#STR0019#ALL#(-) Descuentos
+0020#STR0020#ALL#(-) SEST/SENAT
+0021#STR0021#ALL#(-) ISS
+0022#STR0022#ALL#(-) INSS autonomo
+0023#STR0023#ALL#(-) IRRF
+0024#STR0024#ALL#Total Descuentos
+0025#STR0025#ALL#Valor Neto por Pagar en el Destino:
+0026#STR0026#ALL#Recibimos la suma de 
+0027#STR0027#ALL#provenientes del Flete de Carga anteriormente caracterizado.
+0028#STR0028#ALL# de 
+0029#STR0029#ALL#Declaro haber cobrado el valor de R$ _________________ referente a ticket peaje
+0030#STR0030#ALL#que se restituira en el caso de que no se lo utilice.
+0031#STR0031#ALL#Sucursal: 
+0032#STR0032#ALL#por el Propietario
+0033#STR0033#ALL#Observaciones: 
+0034#STR0034#ALL#DESCRIPCION DEL FLETE CONTRATADO
+0035#STR0035#ALL#AJUSTE FINANCIERO
+0036#STR0036#ALL#RECIBO DEL FLETE

@@ -1,0 +1,23 @@
+0001#STR0001#ALL#Emite uma relação para controle das solicitações registadas ,
+0002#STR0002#ALL#Seus respectivos pedidos e prazos de entrega.
+0003#STR0003#ALL# por solicitação    
+0004#STR0004#ALL# por produto        
+0005#STR0005#ALL#Relação De Solicitações De Compras
+0006#STR0006#ALL#Código de barras
+0007#STR0007#ALL#Administração
+0008#STR0008#ALL#Registo(s)
+0009#STR0009#ALL#Relação De Solicitações De Compras
+0010#STR0010#ALL# (incluindo Pedidos De Compra)
+0011#STR0011#ALL#Número item produto         d e s c r i ç ã  o              tp grup   quantidade um               centro emissão    entrega    solicitante  dt.limite         saldo n.ped/ código lj razão social                  data de 
+0012#STR0012#ALL#                                                                     solicitada                   custo            da s.c.                 de compra       da s.c. n.ºcot. fornec                                  emissão 
+0013#STR0013#ALL#A Seleccionar Registos...
+0014#STR0014#ALL#Cancelado Pelo Operador
+0016#STR0016#ALL#Pedidos Criados Por Cotação N.º
+0017#STR0017#ALL#Número item produto         d e s c r i ç ã o              tp grup   quantidade um               centro emissão    entrega    solicitante  dt.limite         saldo        código lj razão social                        
+0018#STR0018#ALL#                                                                     solicitada                   custo            da s.c.                 de compra       da s.c.        fornec                                        
+0021#STR0021#ALL#Cancelada Pelo Sistema.
+0022#STR0022#ALL#Solicitações De Compras
+0024#STR0024#ALL#Número
+0026#STR0026#ALL#Elem
+0030#STR0030#ALL#Emissão
+0032#STR0032#ALL#Número

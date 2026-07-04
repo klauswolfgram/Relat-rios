@@ -1,0 +1,47 @@
+0001#STR0001#ALL#List of Undelivered Products  
+0002#STR0002#ALL#This program will print the Pending Orders list, showing 
+0003#STR0003#ALL#printing the number of the Order, Customer, Delivery Date, 
+0004#STR0004#ALL#Ordered, Quantity Delivered, Product Balance and Delay.  
+0005#STR0005#ALL#Z.Form 
+0006#STR0006#ALL#Management   
+0007#STR0007#ALL#By Order 
+0008#STR0008#ALL#By Product
+0009#STR0009#ALL#By Client 
+0010#STR0010#ALL#By Delivery Dt
+0011#STR0011#ALL#NUMBER  DATE OF    STORE CODE / CUSTOMER NAME                        IT CODE OF         DESCRIPTION                     DATE OF        QUANTITY     QUANTITY     QUANTITY       TOTAL AMOUNT 
+0012#STR0012#ALL#NUMBER DATE       CODE/NAME                                             CODE            DESCRIPTION                    DATE            ORDERED      DELIVERED    PENDING        PENDING     
+0013#STR0013#ALL#CODE OF         DESCRIPTION OF                 NUMBER  IT DATE OF      DATE OF     STORE CODE / CUSTOMER NAME                           QUANTITY     QUANTITY     QUANTITY       TOTAL AMOUNT 
+0014#STR0014#ALL#CODE            DESCRIPTION                    NUMBER    DATE         DATE         CODE/NAME                                           ORDERED      DELIVERED    PENDING        PENDING     
+0015#STR0015#ALL#Selecting Records ...    
+0016#STR0016#ALL#STORE CODE / CUSTOMER NAME                       NUMBER IT DATE OF         CODE OF          DESCRIPTION OF                DATE OF     QUANTITY     QUANTITY     QUANTITY       TOTAL AMOUNT 
+0017#STR0017#ALL#CODE-UNIT/NAME                                     NUMBER    ISSUE        CODE             DESCRIPTION                    DATE         ORDERED      DELIVERED    PENDING        PENDING     
+0018#STR0018#ALL# - By Delivery Date    
+0019#STR0019#ALL# DATE OF     NUMBER  DATE OF       STORE CODE / CUSTOMER NAME                      IT CODE OF         DESCRIPTION OF                   QUANTITY     QUANTITY     QUANTITY       TOTAL AMOUNT 
+0020#STR0020#ALL# DELIVERY     ORDER ISSUE                                                              PRODUCT          MATERIAL                    ORDERED      DELIVERED    PENDING        PENDING       
+0021#STR0021#ALL#CANCELLED BY THE OPERATOR  
+0022#STR0022#ALL#By Vendor 
+0023#STR0023#ALL#CODE   SALES REP                                  NUMBER  IT  DATE OF     CODE OF       DESCRIPTION OF                  DATE OF        QUANTITY     QUANTITY     QUANTITY       TOTAL AMOUNT 
+0024#STR0024#ALL#                                                ORDER      ISSUE        PRODUCT         MATERIAL                       DELIVERY       ORDERED      DELIVERED    PENDING        PENDING       
+0025#STR0025#ALL#TOTAL --------->
+0026#STR0026#ALL#GRAND TOTAL --->
+0027#STR0027#ALL#List of undelivered orders      
+0028#STR0028#ALL#This program will list pending orders,                   
+0029#STR0029#ALL#printing the order number, customer, delivery date,      
+0030#STR0030#ALL#qty. ordered, qty. delivered, product balance and delay.
+0031#STR0031#ALL#Order total    
+0032#STR0032#ALL#Product total   
+0033#STR0033#ALL#Customer total  
+0034#STR0034#ALL#Delivery date total
+0035#STR0035#ALL#Sales repr. total
+0036#STR0036#ALL#Pending quant.
+0037#STR0037#ALL#Value 
+0038#STR0038#ALL#Generating work table. Please, wait...
+0039#STR0039#ALL#TOTAL ----->
+0040#STR0040#ALL#Selecting records ...    
+0041#STR0041#ALL#By Order  
+0042#STR0042#ALL#By Product 
+0043#STR0043#ALL#By Customer
+0044#STR0044#ALL#By Date 
+0045#STR0045#ALL#By Sale.Rep.
+0046#STR0046#ALL# Total
+0047#STR0047#ALL# Pending

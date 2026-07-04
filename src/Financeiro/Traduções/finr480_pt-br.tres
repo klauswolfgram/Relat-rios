@@ -1,0 +1,44 @@
+0001#STR0001#ALL#Este programa irá imprimir os Cheques do Banco, através de
+0002#STR0002#ALL#formulário pré-impresso.
+0003#STR0003#ALL#Emissäo de Cheques em Formulário Contínuo
+0004#STR0004#ALL#Cheque
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#janeiro
+0007#STR0007#ALL#fevereiro
+0008#STR0008#ALL#marco
+0009#STR0009#ALL#abril
+0010#STR0010#ALL#maio
+0011#STR0011#ALL#junho
+0012#STR0012#ALL#julho
+0013#STR0013#ALL#agosto
+0014#STR0014#ALL#setembro
+0015#STR0015#ALL#outubro
+0016#STR0016#ALL#novembro
+0017#STR0017#ALL#dezembro
+0018#STR0018#ALL#Clique no botão Imprimir Teste para teste de posicionamento. 
+0019#STR0019#ALL#Antes de iniciar a impressão, verifique se o formulário contínuo está ajustado.
+0020#STR0020#ALL#O teste será impresso na coluna do valor.
+0021#STR0021#ALL#Formulário posicionado corretamente ?                         
+0022#STR0022#ALL#Data Inicial
+0023#STR0023#ALL#Data Final  
+0024#STR0024#ALL#Erro na configuracao do cheque + CHR ( 13 ) + Verifique o tamanho das linhas de extenso
+0025#STR0025#ALL#Ja existe o cheque numero:  
+0026#STR0026#ALL#Dados da Conta Corrente Destino do cheque CPMF säo invalidos
+0027#STR0027#ALL#CHEQUE EMITIDO
+0028#STR0028#ALL#O Cheque número 
+0029#STR0029#ALL# não pode ser emitido, pois foi anulado\substituído.
+0030#STR0030#ALL#Nenhum cheque foi encontrado para emissão.
+0031#STR0031#ALL#NÃO À ORDEM
+0032#STR0032#ALL#Selecione o(s) cheque(s) para suprimir  o termo  'NÃO À ORDEM'
+0033#STR0033#ALL#Banco
+0034#STR0034#ALL#Agência
+0035#STR0035#ALL#Conta
+0036#STR0036#ALL#Atenção
+0037#STR0037#ALL#Para imprimir cheques, utilize a rotina de Controle de Cheques emitidos.
+0038#STR0038#ALL#O formato de impressão está diferente da última realizada, será resetado as configurações da impressora (para mais informações acesse o portal do tdn). Deseja continuar?
+0039#STR0039#ALL#Clique em OK para imprimir o cheque.
+0040#STR0040#ALL#Cancelar
+0041#STR0041#ALL#Imprimir Teste
+0042#STR0042#ALL#Impressão de Cheques
+0043#STR0043#ALL#Impressão Teste de cheque
+0044#STR0044#ALL#Imprimir cheque para teste de posicionamento.

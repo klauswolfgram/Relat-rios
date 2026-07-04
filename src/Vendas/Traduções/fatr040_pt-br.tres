@@ -1,0 +1,22 @@
+0001#STR0001#ALL#Relacao de despesas financeiras
+0002#STR0002#ALL#Este relatorio ira imprimir a relacao de despesas financeiras 
+0003#STR0003#ALL#dos apontamentos de visitas conforme os parametros selecionados
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#SEQUENCIA/ITEM  DATA        PRODUTO          DESCRICAO                           QUANTIDADE        VLR.UNIT           VALOR  SITUACAO      
+0007#STR0007#ALL#Vendedor   : 
+0008#STR0008#ALL#Fornecedor : 
+0009#STR0009#ALL#Vendedor: 
+0010#STR0010#ALL#PENDENTE
+0011#STR0011#ALL#GERADO
+0012#STR0012#ALL#Valor da quebra : 
+0013#STR0013#ALL#Valor total : 
+0014#STR0014#ALL#Relacao de despesas financeiras
+0015#STR0015#ALL#Este relatorio ira imprimir a relacao de despesas financeiras 
+0016#STR0016#ALL#dos apontamentos de visitas conforme os parametros selecionados
+0017#STR0017#ALL#PENDENTE
+0018#STR0018#ALL#GERADO
+0019#STR0019#ALL#Total do Vendedor
+0020#STR0020#ALL#Situacao
+0021#STR0021#ALL#Cabecalho-Contato/Visita
+0022#STR0022#ALL#Detalhes-Apontamento dos Custos

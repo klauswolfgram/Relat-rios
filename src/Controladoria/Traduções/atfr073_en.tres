@@ -1,0 +1,49 @@
+0001#STR0001#ALL#Function available only to environments TopConnect.
+0002#STR0002#ALL#Role available only TREPORT
+0003#STR0003#ALL#Currency not registered in the System
+0004#STR0004#ALL#Balance not registered in the system
+0005#STR0005#ALL#The initial date must be the first day of the month and the final date must be the last day of the month
+0006#STR0006#ALL#The minimum interval of dates is 2 months and the maximum period, 12 months 
+0007#STR0007#ALL#Values Position of Assets - 12 Months
+0008#STR0008#ALL#This program  issues valued position of
+0009#STR0009#ALL#assets up to 12 periods
+0010#STR0010#ALL# Period 
+0011#STR0011#ALL# to 
+0012#STR0012#ALL# in Currency 
+0013#STR0013#ALL# Analytical
+0014#STR0014#ALL# Synthetic
+0015#STR0015#ALL#Asset Information
+0016#STR0016#ALL#Periods
+0017#STR0017#ALL#Ledger account
+0018#STR0018#ALL#Cost Center
+0019#STR0019#ALL#Accounting Item
+0020#STR0020#ALL#Values
+0021#STR0021#ALL#Total General Item
+0022#STR0022#ALL#Total General CodBase
+0023#STR0023#ALL#Total General Branch:
+0024#STR0024#ALL#Total General Report
+0025#STR0025#ALL#Caption
+0026#STR0026#ALL#Creating temporary file...
+0027#STR0027#ALL#Valued position of assets 12 months
+0028#STR0028#ALL#No information, check report parameters
+0029#STR0029#ALL#Residual Total of Asset item 
+0030#STR0030#ALL#Residual Total of Base Code
+0031#STR0031#ALL#Residual Total of Base Code 
+0032#STR0032#ALL#Residual Total of Report 
+0033#STR0033#ALL#Report Abbreviation
+0034#STR0034#ALL#Caption of values section:
+0035#STR0035#ALL#1 - Original Value 
+0036#STR0036#ALL#2 - Monthly Depreciation 
+0037#STR0037#ALL#3 - Write Off 
+0038#STR0038#ALL#4 - Extension 
+0039#STR0039#ALL#5 - Accrued Depreciation 
+0040#STR0040#ALL#Asset Salvage Value
+0041#STR0041#ALL#Caption of total section:
+0042#STR0042#ALL#F - Tax residual value 
+0043#STR0043#ALL#G - Managing residual value 
+0044#STR0044#ALL#I - Incentivized residual value
+0045#STR0045#ALL#Value Class
+0046#STR0046#ALL#6 - Monthly adjustment
+0047#STR0047#ALL#7 - Accrued adjustment
+0048#STR0048#ALL#8 - Depreciation monthly adjustment
+0049#STR0049#ALL#9 - Depreciation accrued adjustment

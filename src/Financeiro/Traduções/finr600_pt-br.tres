@@ -1,0 +1,26 @@
+0001#STR0001#ALL#Este  programa  tem como objetivo imprimir os
+0002#STR0002#ALL#Boletos do banco selecionado, conforme layout
+0003#STR0003#ALL#previamente configurado.
+0004#STR0004#ALL#Impressao do Boleto em 
+0005#STR0005#ALL#Zebrado
+0006#STR0006#ALL#Administracao
+0007#STR0007#ALL#CANCELADO PELO OPERADOR
+0008#STR0008#ALL#Antes de iniciar a impressäo, verifique se o formulário continuo está ajustado.
+0009#STR0009#ALL#O teste será impresso na coluna de local de pagamento.
+0010#STR0010#ALL#Clique no botão impressora para teste de posicionamento.
+0011#STR0011#ALL#Formulário posicionado corretamente ?
+0012#STR0012#ALL#Antes de iniciar a impressao, verifique se o formulário continuo 
+0013#STR0013#ALL#está ajustado. O teste será impresso na coluna de local de paga- 
+0014#STR0014#ALL#mento. Formulário posicionado corretamente ?
+0015#STR0015#ALL#Confirma
+0016#STR0016#ALL#Redigita
+0017#STR0017#ALL#Abandona
+0018#STR0018#ALL#Faturas a Receber
+0019#STR0019#ALL#Mensagens
+0020#STR0020#ALL#Linha 1
+0021#STR0021#ALL#Linha 2
+0022#STR0022#ALL#Linha 3
+0023#STR0023#ALL#Quanto a gravaçäo ? 
+0024#STR0024#ALL#Quanto a gravaçäo ?
+0025#STR0025#ALL#Bordero Genérico ?
+0026#STR0026#ALL#Existem outras mensagens configuradas para o boleto, confirma substituição ?

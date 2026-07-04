@@ -1,0 +1,14 @@
+0001#STR0001#ALL#Divergencias en Multiples Conteos
+0002#STR0002#ALL#Emite lista que muestra los productos que tienen conteos 
+0003#STR0003#ALL#divergentes, en cantidad, efetuadas en el inventario en una 
+0004#STR0004#ALL#fecha.
+0005#STR0005#ALL# Por Codigo    
+0006#STR0006#ALL# Por Tipo      
+0007#STR0007#ALL# Por Grupo     
+0008#STR0008#ALL# Por Descripc. 
+0009#STR0009#ALL# Por Almacen   
+0010#STR0010#ALL#Asientos para Inventario - Productos
+0011#STR0011#ALL#Asientos para Inventario - Conteos
+0012#STR0012#ALL#UM
+0013#STR0013#ALL#Amc.
+0014#STR0014#ALL#Tp

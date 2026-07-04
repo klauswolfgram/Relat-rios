@@ -1,0 +1,25 @@
+0001#STR0001#ALL#This program aims at printing report               
+0002#STR0002#ALL#of Retainer and Withheld bills by the law n.10.925.
+0003#STR0003#ALL#List of Retainer and Withheld bills by the law no. 10.925
+0004#STR0004#ALL#RETAINER BILL                                                 BILLS WITH TAXES WITHHELD IN THE RETAINER BILL 
+0005#STR0005#ALL#Number prf    P   Tp. Cod.Fo Un Name Supplier                      Number prf    P Tp. Cod.Fo Un Name Supplier                             PIS amnt        COFINS amnt          CSLL amn
+0006#STR0006#ALL#Selecting Files...       
+0007#STR0007#ALL#*** CANCELLED BY OPERATOR   ***
+0008#STR0008#ALL#Totals
+0009#STR0009#ALL#Parameter MV_BX10925 inexistent. Please run the routine U_AtuMP10925 to create it.
+0010#STR0010#ALL#Parameter MV_BX10925 inexistent. Please run the routine U_AtuMP10925 to create it.
+0011#STR0011#ALL#List of Withholding and Withheld Bills by Law 10.925 (Branches selected for report)
+0012#STR0012#ALL#Code              Company                                                      Business Unit                                           Branch
+0013#STR0013#ALL#Branch: 
+0014#STR0014#ALL#RETENTION BILL
+0015#STR0015#ALL#BILLS WITH WITHHELD TAXES IN THE RETENTION BILL
+0016#STR0016#ALL#Prf
+0017#STR0017#ALL#Number
+0018#STR0018#ALL#P
+0019#STR0019#ALL#Tp
+0020#STR0020#ALL#Fo Code
+0021#STR0021#ALL#Unit
+0022#STR0022#ALL#Supplier name
+0023#STR0023#ALL#PIS Vl
+0024#STR0024#ALL#COFINS Vl
+0025#STR0025#ALL#CSLL Vl

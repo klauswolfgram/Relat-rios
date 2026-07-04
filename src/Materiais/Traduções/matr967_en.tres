@@ -1,0 +1,43 @@
+0001#STR0001#BRA#List of Credits - Electronic Invoice
+0002#STR0002#BRA#This program prints a list of all the inflow documents 
+0003#STR0003#BRA#that generated credit of the Electronic Invoice of São Paulo - SP
+0004#STR0004#BRA#Credit - E-Inv
+0005#STR0005#BRA#Supplier total     
+0006#STR0006#BRA#Enter the initial inflow date     
+0007#STR0007#BRA#to select the documents to be printed.  
+0008#STR0008#BRA#Initial date
+0009#STR0009#BRA#Enter final inflow date         
+0010#STR0010#BRA#Final date
+0011#STR0011#BRA#Enter initisl supplier       
+0012#STR0012#BRA#Leave this question blank so that       
+0013#STR0013#BRA#all suppliers are processed.            
+0014#STR0014#BRA#Initial supplier  
+0015#STR0015#BRA#Enter final supplier       
+0016#STR0016#BRA#Enter ZZZZZZ so that the 
+0017#STR0017#BRA#Final supplier  
+0018#STR0018#BRA#Supplier  
+0019#STR0019#BRA#Electronic invoice    
+0020#STR0020#BRA#RPS
+0021#STR0021#BRA#Credit Amt.
+0022#STR0022#BRA#Verif. code
+0023#STR0023#BRA#List of credits - Electronic invoice        
+0024#STR0024#BRA#This report will print the inflow movents that              
+0025#STR0025#BRA#generated credit through Electronic Invoice      
+0026#STR0026#BRA#Z. form
+0027#STR0027#BRA#Administrat. 
+0028#STR0028#BRA#NF-E       Series  Vendor     Stor  Company name                               RPS number     Check code        Credit amount
+0029#STR0029#BRA#Selecting records ...    
+0030#STR0030#BRA#Supplier total     
+0031#STR0031#BRA#Grand total
+0032#STR0032#BRA#Supplier  
+0033#STR0033#BRA#Electronic invoice    
+0034#STR0034#BRA#Implementation not performed
+0035#STR0035#BRA#Implementation of Electronic Invoice 
+0036#STR0036#BRA#process was not made correctly, 
+0037#STR0037#BRA#seeing that there are tables and fields that 
+0038#STR0038#BRA#are not available in the data dictionary. 
+0039#STR0039#BRA#Check the documentation accompanying the routine and
+0040#STR0040#BRA#execute all procedures stated and process           
+0041#STR0041#BRA#this routine again.   
+0042#STR0042#BRA#SFT table  - 
+0043#STR0043#BRA# Fields: 

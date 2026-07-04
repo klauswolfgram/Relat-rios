@@ -1,0 +1,66 @@
+0001#STR0001#ALL#Este programa irá imprimir o balancete de conversão de moedas, a
+0002#STR0002#ALL#Conta é impressa, limitando-se a 20 caracteres e a sua descrição a 30 caracteres,
+0003#STR0003#ALL#Balancete De Conversão De Moedas
+0004#STR0004#ALL#|  código                     |      d e s c r i ç ã o                          |    saldo anterior             |     débito       |      crédito      |    movimento do período       |         saldo actual               |
+0004#STR0004#ANG#|  CÓDIGO                     |      D E S C R I Ç Ã O                          |    SALDO ANTERIOR             |     DÉBITO       |      CRÉEDITO      |    MOVIMENTO DO PERÍODO       |         SALDO ATUAL               |
+0004#STR0004#EQU#|  CÓDIGO                     |      D E S C R I Ç Ã O                          |    SALDO ANTERIOR             |     DÉBITO       |      CRÉEDITO      |    MOVIMENTO DO PERÍODO       |         SALDO ATUAL               |
+0004#STR0004#HAI#|  CÓDIGO                     |      D E S C R I Ç Ã O                          |    SALDO ANTERIOR             |     DÉBITO       |      CRÉEDITO      |    MOVIMENTO DO PERÍODO       |         SALDO ATUAL               |
+0004#STR0004#MEX#|  código                     |      d e s c r i ç ã o                          |    saldo anterior             |     débito       |      crédito      |    movimento do período       |         saldo actual               |
+0004#STR0004#PTG#|  código                     |      d e s c r i ç ã o                          |    saldo anterior             |     débito       |      crédito      |    movimento do período       |         saldo actual               |
+0005#STR0005#ALL#|  código               |   d  e  s  c  r  i  ç  ã  o    |   saldo anterior  |      débito    |      crédito   |   saldo actual     |
+0005#STR0005#ANG#|  CÓDIGO               |   D  E  S  C  R  I  Ç  Ã  O    |   SALDO ANTERIOR  |      DÉBITO    |      CRÉDITO   |   SALDO ATUAL     |
+0005#STR0005#EQU#|  CÓDIGO               |   D  E  S  C  R  I  Ç  Ã  O    |   SALDO ANTERIOR  |      DÉBITO    |      CRÉDITO   |   SALDO ATUAL     |
+0005#STR0005#HAI#|  CÓDIGO               |   D  E  S  C  R  I  Ç  Ã  O    |   SALDO ANTERIOR  |      DÉBITO    |      CRÉDITO   |   SALDO ATUAL     |
+0005#STR0005#MEX#|  código               |   d  e  s  c  r  i  ç  ã  o    |   saldo anterior  |      débito    |      crédito   |   saldo actual     |
+0005#STR0005#PTG#|  código               |   d  e  s  c  r  i  ç  ã  o    |   saldo anterior  |      débito    |      crédito   |   saldo actual     |
+0006#STR0006#ALL#Do balancete de conv. de moedas analítico  
+0007#STR0007#ALL# até 
+0008#STR0008#ALL# em 
+0009#STR0009#ALL#Do balancete de conv. de moedas sintético  
+0010#STR0010#ALL#***** cancelado pelo operador *****
+0011#STR0011#ALL#Totais do período: 
+0012#STR0012#ALL#A Seleccionar Registos...
+0013#STR0013#ALL#Código de barras
+0014#STR0014#ALL#Administração
+0015#STR0015#ALL#A Criar Ficheiro Temporário...
+0016#STR0016#ALL#Os valores impressos sao saldo anterior, débito, crédito e saldo actual do período.
+0016#STR0016#ANG#os valores impressos são o saldo anterior, débito, crédito e saldo atual do período.
+0016#STR0016#EQU#os valores impressos são o saldo anterior, débito, crédito e saldo atual do período.
+0016#STR0016#HAI#os valores impressos são o saldo anterior, débito, crédito e saldo atual do período.
+0016#STR0016#MEX#Os valores impressos sao saldo anterior, débito, crédito e saldo actual do período.
+0016#STR0016#PTG#Os valores impressos sao saldo anterior, débito, crédito e saldo actual do período.
+0017#STR0017#ALL#Do balancete de conversão de moedas  
+0018#STR0018#ALL# (orcado)
+0019#STR0019#ALL# (de gestão)
+0020#STR0020#ALL#T o t a i s  d o  g r u p o (
+0021#STR0021#ALL#Div.
+0022#STR0022#ALL#C ó D I G O   D A   C O N T A
+0023#STR0023#ALL#D E S C R I ç ã O  D A  C O N T A
+0024#STR0024#ALL#Saldo Anterior
+0025#STR0025#ALL#Débito
+0025#STR0025#ANG#DÉBITO
+0025#STR0025#EQU#DÉBITO
+0025#STR0025#HAI#DÉBITO
+0025#STR0025#MEX#Cartão Débito
+0025#STR0025#PTG#Débito
+0026#STR0026#ALL#Crédito
+0026#STR0026#ANG#CRÉDITO
+0026#STR0026#EQU#CRÉDITO
+0026#STR0026#HAI#CRÉDITO
+0026#STR0026#MEX#Não é possivel gerar uma Nota de Crédito com o valor restante
+0026#STR0026#PTG#Crédito
+0027#STR0027#ALL#Movimento Período
+0028#STR0028#ALL#Saldo Actual
+0029#STR0029#ALL#Plano De Contas
+0031#STR0031#ALL#D é B I T O
+0031#STR0031#ANG#D É B I T O
+0031#STR0031#EQU#D É B I T O
+0031#STR0031#HAI#D É B I T O
+0031#STR0031#MEX#D é B I T O
+0031#STR0031#PTG#D é B I T O
+0032#STR0032#ALL#C R é D I T O
+0032#STR0032#ANG#C R É D I T O
+0032#STR0032#EQU#C R É D I T O
+0032#STR0032#HAI#C R É D I T O
+0032#STR0032#MEX#C R é D I T O
+0032#STR0032#PTG#C R é D I T O

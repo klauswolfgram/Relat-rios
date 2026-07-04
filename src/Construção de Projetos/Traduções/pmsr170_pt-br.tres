@@ -1,0 +1,63 @@
+0001#STR0001#ALL#Este relatorio ira imprimir os quantitativos previstos x realizados para a execucao do projeto de acordo com parametros solicitados. O folder 'Filtro' permite a criacao de um filtro especifico do usuario para os produtos a serem considerados no processamento
+0002#STR0002#ALL#Quantitativos previstos x realizado
+0003#STR0003#ALL#Zebrado
+0004#STR0004#ALL#Administracao
+0005#STR0005#ALL#                                                                    |                      PREVISTO                     |                             REALIZADO                      |                 SALDO                |
+0006#STR0006#ALL#Tp.       Codigo                Descricao                       UM  |     Quantidade              Valor  %Proj.  %Acum. |   Qtde Empenhada   Qtde Atual      Valor   %Proj.   %Acum. |  Quantidade            Custo 
+0007#STR0007#ALL#                                                                                          |                     PREVISTO                     |                          REALIZADO                      |      SALDO         |
+0008#STR0008#ALL#Tarefa       Descricao                      Tp.     Codigo           Descricao         UM |    Quantidade              Valor  %Proj.  %Acum. | Qtde Empenhada  Qtde Atual      Valor   %Proj.   %Acum. | Qtde   Custo
+0009#STR0009#ALL#Projeto :
+0010#STR0010#ALL#Versao  :
+0011#STR0011#ALL#Movimentos bancarios
+0012#STR0012#ALL#Total.....
+0013#STR0013#ALL#MOVIMENTO BANCARIO
+0014#STR0014#ALL#Total da Tarefa.....
+0015#STR0015#ALL#Total Geral........
+0016#STR0016#ALL#PROJETO+PRODUTO+DESPESA
+0017#STR0017#ALL#TAREFA+PRODUTO+DESPESA
+0018#STR0018#ALL#Apontamento de Recursos
+0019#STR0019#ALL#Fornecedor: 
+0020#STR0020#ALL#NF:
+0021#STR0021#ALL#Serie:
+0022#STR0022#ALL#Tipo:
+0023#STR0023#ALL#Dt. Emis.:
+0024#STR0024#ALL#Movimentacao Interna
+0025#STR0025#ALL#Doc.:
+0026#STR0026#ALL#Num. Ser.:
+0027#STR0027#ALL#Tp. Mov.:
+0028#STR0028#ALL#Data:
+0029#STR0029#ALL#Banco:
+0030#STR0030#ALL#Agencia:
+0031#STR0031#ALL#Conta:
+0032#STR0032#ALL#Num. Tit.:
+0033#STR0033#ALL#Dt. Venc.:
+0034#STR0034#ALL#Rec.:
+0035#STR0035#ALL#Tarefa:
+0036#STR0036#ALL#(Atual)
+0037#STR0037#ALL#(Prev.)
+0038#STR0038#ALL#Totais por Periodo
+0039#STR0039#ALL#Totais por Projeto
+0040#STR0040#ALL#Previsto
+0041#STR0041#ALL#Realizado
+0042#STR0042#ALL#Quantidade
+0043#STR0043#ALL#Valor
+0044#STR0044#ALL#%Proj.
+0045#STR0045#ALL#%Acum.
+0046#STR0046#ALL#Qtde Empenhada
+0047#STR0047#ALL#Qtde Atual
+0048#STR0048#ALL#Saldo
+0049#STR0049#ALL#Custo 
+0050#STR0050#ALL#Projeto
+0051#STR0051#ALL#Recurso alocado
+0052#STR0052#ALL#Nota Fiscal de Entrada
+0053#STR0053#ALL#Movimento Interno
+0054#STR0054#ALL#Despesa Financeira
+0055#STR0055#ALL#Movimentação Bancária
+0056#STR0056#ALL#Apontamento de Recurso
+0057#STR0057#ALL#Tarefa
+0058#STR0058#ALL#PROJETO+GRUPO+PRODUTO
+0059#STR0059#ALL#Grupo de Produto
+0060#STR0060#ALL#Cliente
+0061#STR0061#ALL#Nota Fiscal de Saída
+0062#STR0062#ALL#Total do Grupo de Produto
+0063#STR0063#ALL#*** CANCELADO PELO USUARIO ***

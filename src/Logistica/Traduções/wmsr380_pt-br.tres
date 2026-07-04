@@ -1,0 +1,31 @@
+0001#STR0001#ALL#Mapa de Separação Fracionado
+0002#STR0002#ALL#Zebrado
+0003#STR0003#ALL#Administracao
+0004#STR0004#ALL# Cliente   Produto                                              Qtde    ARM 
+0005#STR0005#ALL#CANCELADO PELO OPERADOR
+0006#STR0006#ALL#Nr.Mapa         :
+0007#STR0007#ALL#Nr.Separador     : _______________
+0008#STR0008#ALL#Nr.Conferente    : _______________
+0009#STR0009#ALL#Nr.Embalador     : _______________
+0010#STR0010#ALL#Carga           :
+0011#STR0011#ALL#Endereco Destino :
+0012#STR0012#ALL#Nr. de Itens     :
+0013#STR0013#ALL#Peso Total (KG) :
+0014#STR0014#ALL#Cubagem          :
+0015#STR0015#ALL#Nr. de Volumes   :
+0016#STR0016#ALL#Placa do Veiculo :
+0017#STR0017#ALL#Movimentos por endereco
+0018#STR0018#ALL#Cliente
+0019#STR0019#ALL#Qtde
+0020#STR0020#ALL#Nr. de Itens
+0021#STR0021#ALL#Peso Total (KG)
+0022#STR0022#ALL#Cubagem
+0023#STR0023#ALL#Cargas
+0024#STR0024#ALL#Nr. de Volumes
+0025#STR0025#ALL#Placa do Veiculo
+0026#STR0026#ALL#Totais
+0027#STR0027#ALL#Cubagem         :
+0028#STR0028#ALL#Este relatório tem por objetivo Gerar e Imprimir ou apenas Imprimir um Mapa de Separação para quantidades fracionadas, de acordo com os parâmetros informados.
+0029#STR0029#ALL#Cabeçalho Mapa de Separação
+0030#STR0030#ALL#Itens do Mapa de Separação
+0031#STR0031#ALL#Pedido

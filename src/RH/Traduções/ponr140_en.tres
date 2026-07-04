@@ -1,0 +1,37 @@
+0001#STR0001#ALL#Attendance Control
+0002#STR0002#ALL#It will be printed in accordance with the parameters requested by 
+0003#STR0003#ALL#user.
+0004#STR0004#ALL#Registration
+0005#STR0005#ALL#Cost Center
+0006#STR0006#ALL#Name
+0007#STR0007#ALL#Shift
+0008#STR0008#ALL#Z-form
+0009#STR0009#ALL#Management
+0010#STR0010#ALL#Address: 
+0011#STR0011#ALL#Employee: 
+0012#STR0012#ALL#Admission: 
+0013#STR0013#ALL#Report issued on: 
+0014#STR0014#ALL#Employee contract time: 
+0015#STR0015#ALL#Invalid annotation period.
+0016#STR0016#ALL#Day
+0017#STR0017#ALL#Period: 
+0018#STR0018#ALL#Time Code (CH)
+0019#STR0019#ALL#Clocking in
+0020#STR0020#ALL#Clocking out
+0021#STR0021#ALL#Treatments performed
+0022#STR0022#ALL#Registrations of attendance control
+0023#STR0023#ALL#Work day 
+0024#STR0024#ALL#on original electronic 
+0025#STR0025#ALL#data
+0026#STR0026#ALL#Time
+0027#STR0027#ALL#Occur.
+0028#STR0028#ALL#Reason
+0029#STR0029#ALL#Electronic Attendance Control Mirror Report
+0030#STR0030#ALL#Employer: 
+0031#STR0031#ALL#PIS
+0032#STR0032#ALL#Attention
+0033#STR0033#ALL#Temporary file could not be deleted. 
+0034#STR0034#ALL#Error when deleting file.
+0035#STR0035#ALL#Error when creating temporary file 
+0036#STR0036#ALL#Error creating file
+0037#STR0037#ALL#CNPJ/CEI/CPF

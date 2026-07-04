@@ -1,0 +1,22 @@
+0001#STR0001#ALL#Este programa tem o objetivo de emitir NF(s) de entrada 
+0002#STR0002#ALL#para crédito de acréscimo financeiro das vendas realizadas no período.
+0003#STR0003#ALL#NF para Crédito de Acréscimo Financeiro
+0004#STR0004#ALL#Objetivo do Programa
+0005#STR0005#ALL#Data Inicial:
+0006#STR0006#ALL#Final:
+0007#STR0007#ALL#Selecionando Registros ...
+0008#STR0008#ALL#Aguarde... Gerando nota fiscal de entrada número: 
+0009#STR0009#ALL#Fornecedor näo pode ser deixado em branco.
+0010#STR0010#ALL#Produto näo pode ser deixado em branco.
+0011#STR0011#ALL#Loja näo pode ser deixada em branco.
+0012#STR0012#ALL#Fornecedor e loja näo encontrados.
+0013#STR0013#ALL#Condicäo näo pode ser deixada em branco.
+0014#STR0014#ALL#Produto näo encontrado.
+0015#STR0015#ALL#Condiçäo de pagamento näo encontrada.
+0016#STR0016#ALL#Produto com TES que Gera Duplicata näo pode ser utilizado.
+0017#STR0017#ALL#As condiçoes para a emissäo da NF de Entrada de crédito de acréscimo financeiro
+0018#STR0018#ALL#näo foram satisfeitas. A rotina näo será executada.
+0019#STR0019#ALL#Tipo de Entrada näo definido para o produto: 
+0020#STR0020#ALL#Näo há vendas com acréscimo financeiro no período informado.
+0021#STR0021#ALL#Näo há itens de venda com valor de crédito de acréscimo financeiro no período informado.
+0022#STR0022#ALL#Selecionando registros ...

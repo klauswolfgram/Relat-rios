@@ -1,0 +1,105 @@
+0001#STR0001#ALL#Relatorio de apresentacao do questionario e suas respostas e resumo 
+0002#STR0002#ALL#contento estatistica das respostas do universo selecionado          
+0003#STR0003#ALL#Opcao disponivel atraves do botao de  parametros.   
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracão
+0006#STR0006#ALL#Questionário Médico
+0007#STR0007#ALL#Matrícula  Nome Funcionário                           Sexo       Admissão   Idade
+0008#STR0008#ALL#Perg. Descrição Pergunta                                         Resp. Dt.Resp.  Quantidade Complemento
+0009#STR0009#ALL#CANCELADO PELO OPERADOR
+0010#STR0010#ALL#Masculino
+0011#STR0011#ALL#Feminino
+0012#STR0012#ALL#Sim
+0013#STR0013#ALL#Não
+0014#STR0014#ALL#Resumo do Questionário - 
+0015#STR0015#ALL#Total de Funcionários ou Candidatos Pesquisados.:
+0016#STR0016#ALL#Per.  Descrição Pergunta                                                  Sim        Não  Sem Respos.
+0017#STR0017#ALL#De Ficha Médica?
+0018#STR0018#ALL#Até Ficha Médica?
+0019#STR0019#ALL#Cliente?
+0020#STR0020#ALL#Loja
+0021#STR0021#ALL#Código do cliente.
+0022#STR0022#ALL#Loja do cliente.
+0023#STR0023#ALL#Não há nada para imprimir no relatório.
+0024#STR0024#ALL#Cliente/Loja: 
+0025#STR0025#ALL#Perg. Descrição Pergunta                                                                                                                                      Resp. Dt.Resp.  Quantidade Complemento
+0026#STR0026#ALL#Per.  Descrição Pergunta                                                                                                                                                                Sim        Não  Sem Respos.
+0027#STR0027#ALL#IDENTIFICAÇÃO
+0028#STR0028#ALL#Nome
+0029#STR0029#ALL#Função
+0030#STR0030#ALL#Centro de Custo
+0031#STR0031#ALL#Idade
+0032#STR0032#ALL#Sexo
+0033#STR0033#ALL#Data do Questionário
+0034#STR0034#ALL#Data Admissão
+0035#STR0035#ALL#EXAME FÍSICO
+0036#STR0036#ALL#Sinais Vitais
+0037#STR0037#ALL#PA
+0038#STR0038#ALL#Medidas Antopométricas
+0039#STR0039#ALL#Peso
+0040#STR0040#ALL#KG
+0041#STR0041#ALL#Altura
+0042#STR0042#ALL#Possui alguma deficiência
+0043#STR0043#ALL#Física
+0044#STR0044#ALL#Visual
+0045#STR0045#ALL#Auditiva
+0046#STR0046#ALL#Nenhuma
+0047#STR0047#ALL#QUESTIONÁRIO
+0048#STR0048#ALL#REGISTRO DE LEGITIMIDADE E VERACIDADE DAS INFORMAÇÕES
+0049#STR0049#ALL#DATA DO PREENCHIMENTO
+0050#STR0050#ALL#ASSINATURA DO COLABORADOR
+0051#STR0051#ALL#DATA DA ANÁLISE E EXAME
+0052#STR0052#ALL#ASSINATURA DO MÉDICO EXAMINADOR
+0053#STR0053#ALL#Pág.: 
+0054#STR0054#ALL#Data: 
+0055#STR0055#ALL#Hora: 
+0056#STR0056#ALL#Sem Resposta
+0057#STR0057#ALL#ASSINATURA DO AUXILIAR NO PREENCHIMENTO/TESTEMUNHA
+0058#STR0058#ALL#Até Data Realização?
+0059#STR0059#ALL#De  Data Realização?
+0060#STR0060#ALL#Até Pergunta?
+0061#STR0061#ALL#De  Pergunta?
+0062#STR0062#ALL#Questionário?
+0063#STR0063#ALL#Tipo Impressão?
+0064#STR0064#ALL#Tela
+0065#STR0065#ALL#Impressora
+0066#STR0066#ALL#Informe o tipo de impressão. 1=Tela ou 2=Impressora.
+0067#STR0067#ALL#Pulso(BPM)
+0068#STR0068#ALL#Respiração(MPM)
+0069#STR0069#ALL#Acuidade Visual O.D.
+0070#STR0070#ALL#Acuidade Visual O.E.
+0071#STR0071#ALL#Dinamometria
+0072#STR0072#ALL#Perguntas por linha?
+0073#STR0073#ALL#Uma
+0074#STR0074#ALL#Duas
+0075#STR0075#ALL#Informe quantas perguntas por linha deseja imprimir. Uma ou Duas.		
+0076#STR0076#ALL#Código do questionário.	
+0077#STR0077#ALL#Código da ficha médica. O campo pode permanecer vazio para considerar desde o primeiro código.
+0078#STR0078#ALL#Código da ficha médica. O campo pode ser preenchido com a letra Z até o final para considerar o último código.
+0079#STR0079#ALL#Código da pergunta. O campo pode permanecer vazio para considerar desde o primeiro código.
+0080#STR0080#ALL#Código da pergunta. O campo pode ser preenchido com a letra Z até o final para considerar o último código.
+0081#STR0081#ALL#Data mínima de realização dos questionários.
+0082#STR0082#ALL#Data máxima de realização dos questionários.
+0083#STR0083#ALL#Respostas do Questionário
+0084#STR0084#ALL#Informe se deseja filtrar as perguntas? Sim ou Não		
+0085#STR0085#ALL#Perguntas do Questionário
+0086#STR0086#ALL#Não há perguntas cadastradas para este questionário.
+0087#STR0087#ALL#O filtro será desconsiderado, pois nenhuma questão foi selecionada.
+0088#STR0088#ALL#Nenhuma pergunta do Questionário 
+0089#STR0089#ALL# foi selecionada.
+0090#STR0090#ALL#ATENÇÃO			
+0091#STR0091#ALL#Questionário
+0092#STR0092#ALL#Codigo
+0093#STR0093#ALL#Pergunta
+0094#STR0094#ALL#Informe se deseja imprimir observações em branco. Sim ou Não. Caso seja impresso o campo de observação, não será possível imprimir duas perguntas por linha.
+0095#STR0095#ALL#Código do questionário. O campo pode permanecer vazio para considerar desde o primeiro código.
+0096#STR0096#ALL#Código do questionário. O campo pode ser preenchido com a letra Z até o final para considerar o último código.
+0097#STR0097#ALL#De Questionário?
+0098#STR0098#ALL#Até Questionário?
+0099#STR0099#ALL#Filtrar Questões?
+0100#STR0100#ALL#Tipo Impressão?
+0101#STR0101#ALL#Perguntas por linha?
+0102#STR0102#ALL#Imprimir obs. em branco?
+0103#STR0103#ALL#Loja?
+0104#STR0104#ALL#Imprimir obs. em branco ?
+0105#STR0105#ALL#Questionario Medico

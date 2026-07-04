@@ -1,0 +1,53 @@
+0001#STR0001#ALL#Relacao da Posicao do Estoque
+0002#STR0002#ALL#Este relatorio emite a posicao dos saldos e empenhos de cada  produto
+0003#STR0003#ALL#em estoque. Ele tambem mostrara' o saldo disponivel ,ou seja ,o saldo
+0004#STR0004#ALL#subtraido dos empenhos.
+0005#STR0005#ALL# Por Codigo         
+0006#STR0006#ALL# Por Tipo           
+0007#STR0007#ALL# Por Descricao      
+0008#STR0008#ALL# Por Grupo          
+0009#STR0009#ALL# Por Armazem        
+0010#STR0010#ALL#Zebrado
+0011#STR0011#ALL#Administracao
+0012#STR0012#ALL#Selecionando Registros...
+0013#STR0013#ALL#Organizando Arquivo...
+0014#STR0014#ALL#CODIGO          TP GRUP DESCRICAO             UM FL ARMZ  SALDO       EMPENHO PARA       ESTOQUE       ____________VALOR ___________
+0015#STR0015#ALL#                                                          EM ESTOQUE  REQ/PV/RESERVA     DISPONIVEL      EM ESTOQUE        EMPENHADO
+0016#STR0016#ALL#Total do 
+0017#STR0017#ALL#Tipo
+0018#STR0018#ALL#Grupo
+0019#STR0019#ALL#Total Unidade Medida : 
+0020#STR0020#ALL#Total Geral : 
+0021#STR0021#ALL#CANCELADO PELO OPERADOR.
+0022#STR0022#ALL#Registro(s) processado(s)
+0023#STR0023#ALL#: Preparacao...
+0024#STR0024#ALL#Custo Unificado
+0025#STR0025#ALL#Com o parametro MV_CUSFIL ativado o preenchimento das seguintes perguntas deve ser observado:
+0026#STR0026#ALL#Aglutina Por Almoxarifado/Filial/Empresa? -> Somente podem ser utilizadas as opcoes "Filial" ou "Empresa"
+0027#STR0027#ALL#Armazem De? -> Somente "**"
+0028#STR0028#ALL#Armazem Ate? -> Somente "**"
+0029#STR0029#ALL#Ordem de Impressao -> Todas, exceto "ARMAZEM"
+0030#STR0030#ALL#Os parametros nao estao devidamente configurados. Imprime relatorio dessa forma ?
+0031#STR0031#ALL#Imprime
+0032#STR0032#ALL#Cancela
+0033#STR0033#ALL#SubTotal por Armazem
+0034#STR0034#ALL#    DESCRICAO
+0035#STR0035#ALL#    DO ARMAZEM
+0036#STR0036#ALL#CODIGO
+0037#STR0037#ALL#TP
+0038#STR0038#ALL#GRUPO
+0039#STR0039#ALL#DESCRIÇÃO
+0040#STR0040#ALL#U.M.
+0041#STR0041#ALL#FL
+0042#STR0042#ALL#ARMZ
+0043#STR0043#ALL#SALDO
+0044#STR0044#ALL#EM ESTOQUE
+0045#STR0045#ALL#EMPENHO PARA
+0046#STR0046#ALL#REQ/PV/RESERVA
+0047#STR0047#ALL#ESTOQUE
+0048#STR0048#ALL#DISPONIVEL
+0049#STR0049#ALL#VALOR
+0050#STR0050#ALL#EMPENHADO
+0051#STR0051#ALL#DESCRIÇÃO
+0052#STR0052#ALL#DO ARMAZEM
+0053#STR0053#ALL#Saldos em Estoque

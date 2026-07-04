@@ -1,0 +1,36 @@
+0001#STR0001#ALL#Este programa irá imprimir a razão contabilística, de  acordo  com
+0002#STR0002#ALL#Os parâmetros solicitados pelo utilizador. o relatório será    
+0003#STR0003#ALL#Impresso em euro e outra moeda escolhida pelo utilizador.      
+0004#STR0004#ALL#Código de barras
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#Emissão Da Razão Contabilística
+0007#STR0007#ALL#Razão analítica em moeda corrente e 
+0008#STR0008#ALL#Razão sintética em moeda corrente e 
+0009#STR0009#ALL# de 
+0010#STR0010#ALL# até 
+0011#STR0011#ALL#(orçamentado)
+0012#STR0012#ALL#(de gestão)
+0014#STR0014#ALL#Lote/sub/doc/linha h i s t ó r i c o                        c/partida            centro custo         
+0015#STR0015#ALL#***** cancelado pelo operador *****
+0016#STR0016#ALL#Conta - 
+0017#STR0017#ALL#A Seleccionar Registos...
+0018#STR0018#ALL#A Criar Ficheiro Temporário...
+0019#STR0019#ALL#Data
+0020#STR0020#ALL#T o t a i s  d a  c o n t a  ==> 
+0021#STR0021#ALL#Conta Sem Movimento No Período
+0022#STR0022#ALL#A transportar :
+0023#STR0023#ALL#De transporte :
+0024#STR0024#ALL#Data       
+0025#STR0025#ALL#T o t a l  g e r a l ==> 
+0026#STR0026#ALL#Tot.conta
+0027#STR0027#ALL#Tot.crial
+0028#STR0028#ALL#Débito
+0029#STR0029#ALL#Crédito
+0030#STR0030#ALL#Saldo Actual
+0031#STR0031#ALL#Lote/sub/doc./linha
+0032#STR0032#ALL#Histórico
+0033#STR0033#ALL#Xpartida
+0039#STR0039#ALL#Total Crial
+0041#STR0041#ALL#C.custo
+0042#STR0042#ALL#Cl. valor
+0043#STR0043#ALL#Item Contab.

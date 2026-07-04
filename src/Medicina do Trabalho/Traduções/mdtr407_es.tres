@@ -1,0 +1,37 @@
+0001#STR0001#ALL#A Rayas
+0002#STR0002#ALL#Administracion
+0003#STR0003#ALL#Receta medica
+0004#STR0004#ALL#ANULADO POR EL OPERADOR
+0005#STR0005#ALL#Telefono: 
+0006#STR0006#ALL#CRM.:
+0007#STR0007#ALL#No hay nada para imprimir en el informe.
+0008#STR0008#ALL#Seleccione el tipo de impresion de la receta medica
+0009#STR0009#ALL#Tipo de impresion
+0010#STR0010#ALL#Via Pantalla
+0011#STR0011#ALL#Via Impresora
+0012#STR0012#ALL#Empleado 
+0013#STR0013#ALL#Centro de Costo 
+0014#STR0014#ALL#Extension; 
+0015#STR0015#ALL#Medicamentos:
+0016#STR0016#ALL#USO INTERNO
+0017#STR0017#ALL#USO EXTERNO
+0018#STR0018#ALL#Medico:
+0019#STR0019#ALL#CRM...:
+0020#STR0020#ALL#Direccion: 
+0021#STR0021#ALL#Medico: 
+0022#STR0022#ALL# de 
+0023#STR0023#ALL#CP: 
+0024#STR0024#ALL#RECETA MEDICA
+0025#STR0025#ALL#Dr(a). 
+0026#STR0026#ALL#CRM
+0027#STR0027#ALL#¿Numero de vias?
+0028#STR0028#ALL#Indica la cantidad de vias del ingreso medico que se imprimiran
+0029#STR0029#ALL#º Via
+0030#STR0030#ALL#Edad:
+0031#STR0031#ALL#Sexo:
+0032#STR0032#ALL#ATENCION
+0033#STR0033#ALL#La cantidad de vias que se imprime no puede ser menor que dos.
+0034#STR0034#ALL#Favor, informe, minimo, la impresion de dos vias.
+0035#STR0035#ALL#Valido por 10(diez) dias.
+0036#STR0036#ALL#No se puede generar el informe de la receta médica para un empleado que no tiene ficha médica.
+0037#STR0037#ALL#Incluye una ficha medica para el empleado.

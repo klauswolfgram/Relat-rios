@@ -1,0 +1,28 @@
+0001#STR0001#ALL#This program prints a list with the inventory      
+0002#STR0002#ALL#situation per Lot/SubLot. 
+0003#STR0003#ALL#Inventory Situation by Lot /SubLot
+0004#STR0004#ALL# By Product
+0005#STR0005#ALL# By Lot /SubLot 
+0006#STR0006#ALL#Z.Form 
+0007#STR0007#ALL#Management   
+0008#STR0008#ALL#INVENTORY POSITION BY LOT /SUBLOT (BY PRODUCT)
+0009#STR0009#ALL#PRODUCT         DESCRIPTION                   SUBLOT       LOT     WH      BALANCE     ALLOCAT.      DATE       DATE   
+0010#STR0010#ALL#INVENTORY POSITION BY LOT /SUBLOT  (BY LOT )
+0011#STR0011#ALL#SUBLOT    LOT     PRODUCT         DESCRIPTION                      WH      BALANCE     ALLOCAT.      DATE       DATE   
+0012#STR0012#ALL#CANCELLED BY THE OPERATOR  
+0013#STR0013#ALL#Total of Product ->
+0014#STR0014#ALL#                                                                                                                  VALIDITY 
+0015#STR0015#ALL#Total of Lot ->
+0016#STR0016#ALL#Total of Lot/SubLot ->
+0017#STR0017#ALL#Selecting Records...
+0018#STR0018#ALL# Per Warehouse
+0019#STR0019#ALL#STOCK STATUS PER LOT/SUB-LOT (PER WAREHOUSE)
+0020#STR0020#ALL#PRODUCT         DESCRIP.                       SUBLOT   LOT        WARE          BLC.          ALLOCAT                BLC.              ALLOCAT        DATE      DATE
+0021#STR0021#ALL#                                                                                1stM.U.         1stM.U.              2ndM.U.             2ndM.U.               VALIDITY 
+0022#STR0022#ALL#SUB-LO     LOT    PRODUCT         Descript.                        WARE          BALAN         ALLOCAT                BALAN             ALLOCAT        DATE      DATE
+0023#STR0023#ALL#  DESCR.WAREHOUSE
+0024#STR0024#ALL#Blnce
+0025#STR0025#ALL#Allocat
+0026#STR0026#ALL#1st UM 
+0027#STR0027#ALL#2nd UM 
+0028#STR0028#ALL#Balances by Lot

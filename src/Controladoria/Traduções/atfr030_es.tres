@@ -1,0 +1,70 @@
+0001#STR0001#ALL#Este programa emitirá la ficha de los activos 
+0002#STR0002#ALL#fijos, mostrando todas las ocurrencias
+0003#STR0003#ALL#desde su adquisición.
+0004#STR0004#ALL#Ficha del activo fijo
+0005#STR0005#ALL#Código      Ítem  Descrip.  Sintética                       N. Placa    Grupo   Control Ubicación Adquis Baja        Proyecto         Proveedor                Fact.-Ser.  Cantidad       Placa     
+0006#STR0006#ALL#                  Cía.Seguros                     Póliza Seg.        Vencto       Tipo                                                                                              
+0007#STR0007#ALL#ANULADO POR EL OPERADOR
+0008#STR0008#ALL#PROVEEDOR  
+0009#STR0009#ALL#Adquisición
+0010#STR0010#ALL#Revaluación
+0011#STR0011#ALL#Anticipo    
+0012#STR0012#ALL#Ley 8200
+0013#STR0013#ALL#Tipo              Historial                      Cuenta del bien         
+0014#STR0014#ALL#*-------------------- EN EL MES -------------------*
+0015#STR0015#ALL#*-------------------------- EN EJERCICIO ------------------*
+0016#STR0016#ALL#*--------------------------- ACUMULADO -----------------------*
+0017#STR0017#ALL#MONEDA
+0018#STR0018#ALL#V.ORIG+V.AMPLIACIÓN
+0019#STR0019#ALL#TS DEPR.
+0020#STR0020#ALL#ÍNDICE
+0021#STR0021#ALL#       CORRECCIÓN
+0022#STR0022#ALL#     DEPRECIACIÓN
+0023#STR0023#ALL#   CORR. DEPREC.
+0024#STR0024#ALL#          CORRECCIÓN
+0025#STR0025#ALL#        DEPRECIACIÓN
+0026#STR0026#ALL#CORR DEPRECIACIÓN
+0027#STR0027#ALL#           CORRECCIÓN
+0028#STR0028#ALL#         DEPRECIACIÓN
+0029#STR0029#ALL# CORR DEPRECIACIÓN
+0030#STR0030#ALL#Descripc :
+0031#STR0031#ALL#Val Residual 
+0032#STR0032#ALL#Por Bien
+0033#STR0033#ALL#Por Cuenta
+0034#STR0034#ALL# Por C.Costo
+0035#STR0035#ALL#A Rayas
+0036#STR0036#ALL#Administrac. 
+0037#STR0037#ALL# por 
+0038#STR0038#ALL#TOTAL DE CÓDIGO BASE - 
+0039#STR0039#ALL#RESUMEN GEN.
+0040#STR0040#ALL#Cuenta corrección    
+0041#STR0041#ALL#Cta Gasto Depr.      
+0042#STR0042#ALL#Cta Depr. Acum.      
+0043#STR0043#ALL#Cta Corr. Depr.      
+0044#STR0044#ALL#C. Costo             In. Depr.  Fc.Baja   Cant. Baja  Ind.Calc.
+0045#STR0045#ALL#Ítem contable        
+0046#STR0046#ALL#Clase de valor       
+0047#STR0047#ALL# Por ítem contable
+0048#STR0048#ALL# Por clase de valor 
+0049#STR0049#ALL#Movimiento
+0050#STR0050#ALL#Cant. Baja
+0051#STR0051#ALL#Valores en la moneda 
+0052#STR0052#ALL#Val Orig.+Ampliación
+0053#STR0053#ALL#Ts. Depr
+0054#STR0054#ALL#Índice
+0055#STR0055#ALL#Correc.
+0056#STR0056#ALL#en el mes
+0057#STR0057#ALL#Depreciación
+0058#STR0058#ALL#Correc. de la 
+0059#STR0059#ALL#Depr. en el mes
+0060#STR0060#ALL#Correc. en 
+0061#STR0061#ALL#el Ejericio.
+0062#STR0062#ALL#Correc. de la 
+0063#STR0063#ALL#Deprec. en el Ejerc
+0064#STR0064#ALL#Acumulada
+0065#STR0065#ALL#Depreciac. Acum.
+0066#STR0066#ALL#Solamente es posible subtotalizar en la orden de código base.
+0067#STR0067#ALL#¡Las columnas para Ítem contable y Clase de valor no pueden ser iguales!
+0068#STR0068#ALL#Datos del activo
+0069#STR0069#ALL#No se encontró
+0070#STR0070#ALL#Formato de impresión tabla no es compatible con este informe

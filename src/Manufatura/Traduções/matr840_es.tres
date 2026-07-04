@@ -1,0 +1,22 @@
+0001#STR0001#ALL#Detalle de las Operaciones por Producto
+0002#STR0002#ALL#Este programa imprime el detalle del archivo 
+0003#STR0003#ALL#de los proced. de operaciones.
+0004#STR0004#ALL#A Rayas
+0005#STR0005#ALL#Administracion
+0006#STR0006#ALL#RECURSO DESCRIPCION DEL RECURSO        OPERACION  DESCRIPCION DE LA OPERACION      TIPO HERRAMIENTA LINEA DE   TIPO DE  MANO DE     SETUP    LOTE     TIEMPO   TIEMPO   TIPO    TIEMPO    TIPO    DESDOBL    CENTRO  
+0007#STR0007#ALL#                                                                                   OPER             PRODUCCION  LINEA    OBRA              ESTANDAR  ESTANDAR  SUPERP.  SUPERP. DESDOBL. DESDOBL.  PROPOR    TRABAJO 
+0008#STR0008#ALL#ANULADO POR EL OPERADOR
+0009#STR0009#ALL#Producto : 
+0010#STR0010#ALL#Denominacion : 
+0011#STR0011#ALL#Proced. : 
+0012#STR0012#ALL#(Proced.Estandar)
+0013#STR0013#ALL#Recursos: 
+0014#STR0014#ALL#Tipo: 
+0015#STR0015#ALL#Eficacia: 
+0016#STR0016#ALL#Alternativo
+0017#STR0017#ALL#Secundario
+0018#STR0018#ALL#Creando Indices ....
+0019#STR0019#ALL#Recurso: 	
+0020#STR0020#ALL#Prod. 
+0021#STR0021#ALL#Operac. 
+0022#STR0022#ALL#Recursos alternativos y secundarios
