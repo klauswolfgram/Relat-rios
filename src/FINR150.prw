@@ -38,7 +38,7 @@ Static __cMVFinFix  := NIL
 Static __lMetric  	:= .F.
 Static __lTemFKD	:= Nil
 
-Static __lNewLib		:= (FwLibVersion() >= "20220321")
+Static __lNewLib		:= .T. //(FwLibVersion() >= "20220321")
 
 /*/{Protheus.doc} FINR150
 Posição dos Títulos a Pagar
@@ -81,7 +81,7 @@ Static Function ReportDef()
 					STR0013,;	//"Por Emissao"
 					STR0014}	//"Por Cod.Fornec."
 
-	__lMetric       := FwLibVersion() >= "20210517"
+	__lMetric       := .T. //FwLibVersion() >= "20210517"
 
 	oReport := TReport():New("FINR150",STR0005,"FIN150",{|oReport| ReportPrint(oReport)},STR0001+STR0002)
 

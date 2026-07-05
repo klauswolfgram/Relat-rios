@@ -26,7 +26,7 @@ Aprenda sobre Protheus, entre outras tecnologias, de forma pr·tica e de f·cil en
 // TRADUCAO DE CH'S PARA PORTUGAL - 21/07/08 
 
 Static _aPictRel := NIL
-Static __lMetric	:= FwLibVersion() >= "20210517" .And. GetSrvVersion() >= "19.3.0.6"
+Static __lMetric	:= .T. //FwLibVersion() >= "20210517" .And. GetSrvVersion() >= "19.3.0.6"
 
 /*
 ‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹

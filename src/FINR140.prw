@@ -40,7 +40,7 @@ Static __oTitNAT	As Object
 Static __oFJ3NAT	As Object 	
 Static __cCposTit	As Character
 Static __cInsNat1	As Character
-Static __lMetric	:= FwLibVersion() >= "20210517"
+Static __lMetric	:= .T. //FwLibVersion() >= "20210517"
 Static __cSGBD		As Character
 /*/
 ‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹

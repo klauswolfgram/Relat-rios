@@ -138,7 +138,7 @@ Static Function ReportDef()
     Local nTamJur	:= 0
     Local nTamNBco	:= 0
 
-    __lMetric       := FwLibVersion() >= "20210517"
+    __lMetric       := .T. //FwLibVersion() >= "20210517"
 
     If !Empty( __oTBxCanc )
         __oTBxCanc:Destroy()

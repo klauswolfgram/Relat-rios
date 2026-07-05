@@ -111,7 +111,7 @@ Static Function ReportDef()
 	TRCell():New(oTotal, "TOTAL",     Nil, STR0017, Nil, 20, Nil, Nil)
 	oTotal:SetLeftMargin(35)
 
-	If FwLibVersion() >= "20240812"
+	If .T. //FwLibVersion() >= "20240812"
 		oReport:xlsxTypeWrite(3)
 	EndIf
 	

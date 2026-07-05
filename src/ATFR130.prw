@@ -8,7 +8,7 @@ Aprenda sobre Protheus, entre outras tecnologias, de forma pr·tica e de f·cil en
 //#Include "FWLIBVERSION.CH"
 
 Static __lTabSld
-Static __lMetric	:= FwLibVersion() >= "20210517" .And. GetSrvVersion() >= "19.3.0.6"
+Static __lMetric	:= .T. //FwLibVersion() >= "20210517" .And. GetSrvVersion() >= "19.3.0.6"
 
 /*
 ‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹

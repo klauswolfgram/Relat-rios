@@ -48,7 +48,7 @@ Return
 
 Static Function ReportDef()
 	Local oReport, oSection1
-	Local cData := __FWLibVersion()
+//	Local cData := __FWLibVersion()
 	
 	oReport:= TReport():New("GFER001","Extrato Contábil de Frete","GFER001", {|oReport| ReportPrint(oReport)},)
 	oReport:SetLandscape()   
@@ -58,7 +58,7 @@ Static Function ReportDef()
 	oReport:nFontBody := 10
 	oReport:SetUseGC(.F.) // Desabilita a Gestão de Empresas, mesmo existindo
 	
-	if (cData >= "20180413") // Somente a partir desta versão existe a propriedade lExcelWrXml no TReport
+	if .T. //(cData >= "20180413") // Somente a partir desta versão existe a propriedade lExcelWrXml no TReport
 		oReport:lExcelWrXml := .T.
 	EndIf
 
