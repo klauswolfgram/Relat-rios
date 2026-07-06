@@ -1,0 +1,71 @@
+0001#STR0001#ALL#Este programa emitira el informe de materiales
+0002#STR0002#ALL#de terceros en nuestro poder o nuestro material en
+0003#STR0003#ALL#poder de Terceros.
+0004#STR0004#ALL# Producto/Deposito  
+0005#STR0005#ALL# Cliente/Proveedor: 
+0006#STR0006#ALL# Fch. Mov/Producto: 
+0007#STR0007#ALL#A Rayas
+0008#STR0008#ALL#Administracion
+0009#STR0009#ALL#Detalle de materiales de terceros y en terceros
+0010#STR0010#ALL#DETALLE DE MAT.DE TERCEROS EN NUESTRO PODER - PRODUCTO/DEPOSITO
+0011#STR0011#ALL#DETALLE DE NUESTROS MAT. EN PODER DE TERCEROS - PRODUCTO/DEPOSITO
+0012#STR0012#ALL#DETALLE DE MAT.DE TERCEROS Y EN TERCEROS - PRODUCTO/DEPOSITO
+0013#STR0013#ALL#            Cliente /        Tienda-   Documento - Fch. de  Unid.de ---------------------- Cantidad   ------------------- --------------- Valores-----------    Costo Prod. TM  Segunda     Cantidad         Fch. de Ult.
+0014#STR0014#ALL#            Proveedor               Numero  Serie  Emision   Medida          Original      Ya entreg.               Saldo   Total Factura     Total Devuelto     en Moneda 
+0015#STR0015#ALL#
+0016#STR0016#ALL#ANULADO POR EL OPERADOR
+0017#STR0017#ALL#PRODUCTO/DEPOSITO: 
+0018#STR0018#ALL#Clie:
+0019#STR0019#ALL#Provee.:
+0020#STR0020#ALL#TOTAL DE ESTE PRODUC./DEPOSITO ------ >
+0021#STR0021#ALL#T O T A L  G E N E R A L --------- >
+0022#STR0022#ALL# Creando Indice ...    
+0023#STR0023#ALL#DETALLE DE MATERIALES DE TERCEROS EN NUESTRO PODER - CLIENTE / PROVEEDOR
+0024#STR0024#ALL#DETALLE DE MATERIALES NUESTROS EN PODER DE TERCEROS - CLIENTE / PROVEEDOR
+0025#STR0025#ALL#DETALLE DE MATERIALES DE TERCEROS Y EN TERCEROS - CLIENTE / PROVEEDOR
+0026#STR0026#ALL#                 -    Documento    -  Fch. de         Unid. de ---------------------- Cantidad   ---------------------  ------------ Valores --------------  Costo de Prod. TM  Segunda   Cantidad       Fch.   Fch. de Ult.
+0027#STR0027#ALL#Producto         Numero        Serie  Emision  Depos.  Medida           Original       Ya entregada              Saldo      Total Factura   Total Revertido   en Moneda 
+0028#STR0028#ALL#CLIENTE/SUCURSAL: 
+0029#STR0029#ALL#PROVEEDOR/SUCURSAL: 
+0030#STR0030#ALL#CLIENTE ---->
+0031#STR0031#ALL#PROVEEDOR ---->
+0032#STR0032#ALL#TOTAL DEL PRODUCTO Num.
+0033#STR0033#ALL#DETALLE DE MATERIALES DE TERCEROS EN NUESTRO PODER  - FECHA DEL MOVIMIENTO
+0034#STR0034#ALL#DETALLE DE MATERIALES NUESTROS EN PODER DE TERCEROS - FECHA DEL MOVIMIENTO
+0035#STR0035#ALL#DETALLE DE MATERIALES DE TERCEROS Y EN TERCEROS - FECHA DEL MOVIMIENTO
+0036#STR0036#ALL#         Cliente /                             -   Documento   - Fch. de       UM --------------------- Cantidad   ----------------- ------------ Valores ------------ Costo Producto TM Seg. Cantidad  -      Fecha       -
+0037#STR0037#ALL#         Provee.          Tienda Prod.         Numero      Serie Emision  Deposito        Original     Ya entregada            Saldo    Total Factura  Total Revertido  en Moneda 
+0038#STR0038#ALL#FECHA DEL MOVIMIENTO : 
+0039#STR0039#ALL#Prov.:
+0040#STR0040#ALL#TOTAL DEL PRODUCTO EN LA FECHA --- >
+0041#STR0041#ALL#Facturas de Retorno
+0042#STR0042#ALL#Cantidad
+0043#STR0043#ALL#Original
+0044#STR0044#ALL#Ya entregado
+0045#STR0045#ALL#Saldo
+0046#STR0046#ALL#Total
+0047#STR0047#ALL#Factura
+0048#STR0048#ALL#Devuelto
+0049#STR0049#ALL#Costo
+0050#STR0050#ALL#Prod.
+0051#STR0051#ALL#TM
+0052#STR0052#ALL#Prod. / Proveedor
+0053#STR0053#ALL#Saldo en Poder de Terceros
+0054#STR0054#ALL#Saldo en Poder de Terceros (Retorno)
+0055#STR0055#ALL#            Cliente /        Tienda-  Documento         - Fch. de  Unid.de ---------------------- Cantidad   ------------------- --------------- Valores-----------    Costo Prod. TM  2a   Cantidad         Fch. de Ult.
+0056#STR0056#ALL#            Proveedor               Numero         Serie  Emision   Medida          Original      Ya entreg.               Saldo   Total Factura     Total Devuelto     en Moneda 
+0057#STR0057#ALL#                 -    Documento           -  Fch. de         Unid. de ---------------------- Cantidad   ---------------------  ------------ Valores --------------  Costo de Prod. TM 2a. Cantidad       Fch.   Fch. de Ult.
+0058#STR0058#ALL#Producto         Numero               Serie  Emision  Depos.  Medida           Original       Ya entregada              Saldo      Total Factura   Total Revertido   en Moneda 
+0059#STR0059#ALL#  Cliente/Provee.         Tienda        -   Documento          - Fch. de       UM --------------------- Cantidad   ----------------- ------------ Valores ------------ Costo Producto TM 2a   Cantidad  -      Fecha       -
+0060#STR0060#ALL#                     Prod.              Numero             Serie Emision  Deposito        Original     Ya entregada            Saldo    Total Factura  Total Revertido  en Moneda 
+0061#STR0061#ALL#UM
+0062#STR0062#ALL#2ª UM
+0063#STR0063#ALL#    Unid.Med.     Seg. UM   Asiento    Entrega
+0064#STR0064#ALL#       Unid. Med.   Seg. UM  Asiento     Entrega
+0065#STR0065#ALL#     UM    Seg. UM   Asiento      Entrega
+0066#STR0066#ALL#    UM    Seg. UM   Asiento    Entrega
+0067#STR0067#ALL#      UM        Seg. UM  Asiento     Entrega
+0068#STR0068#ALL#     UM    Seg. UM   Asiento      Entrega
+0069#STR0069#ALL#Procesando ...
+0070#STR0070#ALL#¡Devolución de remesa!
+0071#STR0071#ALL#No se puede utilizar el modo tabla para imprimir devoluciones de remesa.

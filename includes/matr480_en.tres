@@ -1,0 +1,71 @@
+0001#STR0001#ALL#This program will print the Report of Third-Parties Material 
+0002#STR0002#ALL#in our possesion and/or our Material in Third Parties'
+0003#STR0003#ALL#possesion.
+0004#STR0004#ALL# Product/Warehouse  
+0005#STR0005#ALL# Customer/Supplier  
+0006#STR0006#ALL# Movem./Product 
+0007#STR0007#ALL#Z.Form
+0008#STR0008#ALL#Management
+0009#STR0009#ALL#List of Material from 3rd party and with 3rd party
+0010#STR0010#ALL#LIST OF 3RD-PARTIES` MATERIAL IN OUR POSSESSION - PRODUCT/WAREHOUSE
+0011#STR0011#ALL#LIST OF OWN MATERIAL IN THIRD-PARTIES` POSSESSION - PRODUCT/WAREHOUSE
+0012#STR0012#ALL#LIST OF MATERIAL FROM/WITH THIRD-PARTIES - PRODUCT/WAREHOUSE
+0013#STR0013#ALL#           Customer /       Unit  -    Document   - Issue    Unit of  ---------------------- Quantity   ------------------ --------------- Values  ----------- Product Cost  MT  Second      Quantity   Entry  Date of Last
+0014#STR0014#ALL#            Supplier                Number   Seri.  Issue     Measur.      Original      Delivered                 Balan.    Invoice Total    Returned Total     in Curr. 
+0015#STR0015#ALL#
+0016#STR0016#ALL#CANCELLED BY THE OPERATOR
+0017#STR0017#ALL#PRODUCT/WAREHOUSE: 
+0018#STR0018#ALL#Custom.:
+0019#STR0019#ALL#Supplier:
+0020#STR0020#ALL#TOTAL OF THIS PRODUCT/WAREHOUSE ------ >
+0021#STR0021#ALL#G R A N D   T O T A L ----------- >
+0022#STR0022#ALL# Building Index...    
+0023#STR0023#ALL#LIST OF THIRD PARTY MATERIAL IN OUR POSSESSION - CUSTOMER / SUPPLIER
+0024#STR0024#ALL#LIST OF OWN MATERIAL IN THIRD-PARTIES` POSSESSION - CUSTOMER/ SUPPLIER
+0025#STR0025#ALL#LIST OF MATERIAL FROM/WITH THIRD-PARTIES - CUSTOMER/SUPPLIER
+0026#STR0026#ALL#                 -    Document     -   Issue           Unit of ----------------------  Quantity  ---------------------  ------------- Values --------------  Product Cost   TM  Second    Quantity      Entry   Date of Lst.
+0027#STR0027#ALL#Product          Number        Seri.   Date    Wrh.    Measur.          Original          Delivered            Balance      Invoice Total    Returned Total    in Curr. 
+0028#STR0028#ALL#CUSTOMER / STORE: 
+0029#STR0029#ALL#SUPPLIER / SUPPLIER: 
+0030#STR0030#ALL#CUSTOMER---->
+0031#STR0031#ALL#SUPPLIER   --->
+0032#STR0032#ALL#TOTAL OF PRODUCT IN 
+0033#STR0033#ALL#LIST OF THIRD PARTY MATERIAL IN OUR POSSESSION - TRANSACTION DATE
+0034#STR0034#ALL#LIST OF OWN MATERIAL IN THIRD-PARTIES` POSSESSION - TRANSACTION DATE
+0035#STR0035#ALL#LIST OF MATERIAL FROM/WITH THIRD-PARTIES - TRANSACTION DATE
+0036#STR0036#ALL#         Custom. /                             -    Document   - Issue         UM ---------------------  Quantity  ----------------- ------------- Values ------------ Cost of Prod. TM  2nd Quantity   -       Date       -
+0037#STR0037#ALL#         Supplier         Unit Product         Number      Seri. Date    Warehouse        Original        Delivered            Total     Bal.  Invoice  Returned Total  in Curr. 
+0038#STR0038#ALL#TRANSACTION DATE: 
+0039#STR0039#ALL#Suppl.:
+0040#STR0040#ALL#TOTAL OF PRODUCT ON DATE --------- >
+0041#STR0041#ALL#Devolution Invoices
+0042#STR0042#ALL#Quantity  
+0043#STR0043#ALL#Original
+0044#STR0044#ALL#Already delivered
+0045#STR0045#ALL#Balan
+0046#STR0046#ALL#Total
+0047#STR0047#ALL#Invoice 
+0048#STR0048#ALL#Returned 
+0049#STR0049#ALL#Cost 
+0050#STR0050#ALL#Prod.
+0051#STR0051#ALL#TM
+0052#STR0052#ALL#Product / Vendor    
+0053#STR0053#ALL#Balance in third party poss.
+0054#STR0054#ALL#Balance in third party poss (Return)
+0055#STR0055#ALL#           Customer /       Unit  -    Document         - Issue    Unit of  ---------------------- Quantity   ------------------ --------------- Values  ----------- Product Cost  MT  2nd  Quantity   Entry  Date of Last
+0056#STR0056#ALL#            Supplier                Number   Seri.  Issue     Measur.      Original      Delivered                 Balan.    Invoice Total    Returned Total     in Curr. 
+0057#STR0057#ALL#                 -    Document            -   Issue           Unit of ----------------------  Quantity  ---------------------  ------------- Values --------------  Product Cost   TM 2nd Quantity     Entry   Date of Lst.
+0058#STR0058#ALL#Product          Number        Seri.   Date    Wrh.    Measur.          Original          Delivered            Balance      Invoice Total    Returned Total    in Curr. 
+0059#STR0059#ALL#  Custom./Supplier        Unit          -    Document          - Issue         UM ---------------------  Quantity  ----------------- ------------- Values ------------ Cost of Prod. TM 2nd  Quantity   -       Date       -
+0060#STR0060#ALL#                        Product         Number             Series Issue    Warehouse        Original        Delivered            Total Bal.  Invoice  Returned Total  in Currency 
+0061#STR0061#ALL#MU
+0062#STR0062#ALL#2 UM
+0063#STR0063#ALL#     Un.Meas   Seg. UM    Entry     Deliv. 
+0064#STR0064#ALL#           UM      2nd. UM  Date       Delivery
+0065#STR0065#ALL#      UM    2nd. UM   Posting     Delivery
+0066#STR0066#ALL#     UM     Seg. UM    Entry     Deliv. 
+0067#STR0067#ALL#      UM        Seg. UM  Entry       Deliv. 
+0068#STR0068#ALL#     UM      2nd. UM  Date       Delivery
+0069#STR0069#ALL#Processing...
+0070#STR0070#ALL#Shipping returns
+0071#STR0071#ALL#Unable to use table mode to print shipping returns.

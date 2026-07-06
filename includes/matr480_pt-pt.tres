@@ -1,0 +1,59 @@
+0001#STR0001#ALL#Este Programa Irá Emitir O Relatório De Materiais
+0002#STR0002#ALL#De terceiros em nosso poder e/ou o nosso material em
+0003#STR0003#ALL#Poder De Terceiros.
+0004#STR0004#ALL# produto/armazém    
+0005#STR0005#ALL# cliente/fornecedor 
+0006#STR0006#ALL# dt. mov/produto 
+0007#STR0007#ALL#Código de barras
+0008#STR0008#ALL#Administração
+0009#STR0009#ALL#Relação De Materiais De Terceiros E Em Terceiros
+0010#STR0010#ALL#Relação De Materiais De Terceiros Em Nosso Poder - Produto/armazém
+0011#STR0011#ALL#Relação De Materiais Nossos Em Poder De Terceiros - Produto/armazém
+0012#STR0012#ALL#Relação De Materiais De Terceiros E Em Terceiros - Produto/armazém
+0013#STR0013#ALL#            Cliente /        Loja  -  Documento  - Data De  Unid.de ---------------------- Quantidade ------------------- --------------- Valores -----------   Custo Prod. Tm  Segunda    Quantidade      Data    Dt Ult.
+0014#STR0014#ALL#            Fornecedor              Número  Série  Emissão   Medida          Original      Já entregue             Saldo    Total N.Fiscal   Total Devolvido    na Divisa 
+0016#STR0016#ALL#Cancelado Pelo Operador
+0017#STR0017#ALL#Produto/armazém: 
+0018#STR0018#ALL#Cli.:
+0020#STR0020#ALL#Total deste artigo/armazém ------ >
+0021#STR0021#ALL#T o t a l    g e r a l  ---------- >
+0022#STR0022#ALL# criando indice ...    
+0023#STR0023#ALL#Relação De Materiais De Terceiros Em Nosso Poder - Cliente / Fornecedor
+0024#STR0024#ALL#Relação De Materiais Nossos Em Poder De Terceiros - Cliente / Fornecedor
+0025#STR0025#ALL#Relação De Materiais De Terceiros E Em Terceiros - Cliente / Fornecedor
+0026#STR0026#ALL#                 -    Documento    -  Data De         Unid. De ---------------------- Quantidade ---------------------  ------------ Valores --------------  Custo Do Prod. Tm  Segunda   Quantidade     Data   Data Da Ult.
+0027#STR0027#ALL#Artigo          número        série  emissão  armaz.  medida           original       já entregue              saldo  total factura   total devolvido    na moeda 
+0028#STR0028#ALL#Cliente / loja: 
+0029#STR0029#ALL#Fornecedor / loja: 
+0030#STR0030#ALL#Cliente ---->
+0031#STR0031#ALL#Fornecedor --->
+0032#STR0032#ALL#Total do produto no 
+0033#STR0033#ALL#Relação De Materiais De Terceiros Em Nosso Poder - Data Do Movimento
+0034#STR0034#ALL#Relação De Materiais Nossos Em Poder De Terceiros - Data Do Movimento
+0035#STR0035#ALL#Relação De Materiais De Terceiros E Em Terceiros - Data Do Movimento
+0036#STR0036#ALL#         cliente /                             -   documento   - data de       um --------------------- quantidade ----------------- ------------ valores ------------ custo artigo tm seg. quantidade -       data       -
+0037#STR0037#ALL#         fornec.          loja artigo         número      série emissão  armazém         original     já entregue            saldo total factura total devolvido  na moeda 
+0038#STR0038#ALL#Data de movimentação : 
+0040#STR0040#ALL#Total do produto na data --------- >
+0041#STR0041#ALL#Facturas De Devolução
+0044#STR0044#ALL#Já entregue
+0047#STR0047#ALL#N.fiscal
+0051#STR0051#ALL#Tm
+0052#STR0052#ALL#Artigo / Fornecedor
+0053#STR0053#ALL#Saldo Em Poder De Terceiros
+0054#STR0054#ALL#Saldo em poder de terceiros (retorno)
+0055#STR0055#ALL#            Cliente /        Loja  -  Documento         - Data De  Unid.de ---------------------- Quantidade ------------------- --------------- Valores -----------   Custo Prod. Tm  2ª  Quantidade      Data    Dt. Ult.
+0056#STR0056#ALL#            fornecedor              número         série  emissão   medida          original      já entregue             saldo    total nº fiscal   total devolvido    na moeda 
+0057#STR0057#ALL#                 -    Documento           -  Data De         Unid. De ---------------------- Quantidade ---------------------  ------------ Valores --------------  Custo Do Prod. Tm 2ª Quantidade     Data   Data Da últ.
+0058#STR0058#ALL#Artigo          número               série  emissão  armaz.  medida           original       já entregue              saldo  total factura   total devolvido    na moeda 
+0059#STR0059#ALL#  cliente/fornec.         loja          -   documento          - data de       um --------------------- quantidade ----------------- ------------ valores ------------ custo artigo tm seg. quantidade -       data       -
+0060#STR0060#ALL#                        artigo         número             série emissão  armazém         original     já entregue            saldo total factura total devolvido  na moeda 
+0061#STR0061#ALL#Um
+0062#STR0062#ALL#2a.um
+0063#STR0063#ALL#     Un.med.       Seg. Um    Lanct.    Entrega
+0064#STR0064#ALL#       Unid. Med.   Seg. Um  Movimento  Entrega
+0065#STR0065#ALL#      Um    Seg. Um   Movimento   Entrega
+0066#STR0066#ALL#     Um     Seg. Um    Lanct.    Entrega
+0067#STR0067#ALL#      Um        Seg. Um  Movimento  Entrega
+0068#STR0068#ALL#      Um    Seg. Um   Movimento   Entrega
+0069#STR0069#ALL#A processar ...
